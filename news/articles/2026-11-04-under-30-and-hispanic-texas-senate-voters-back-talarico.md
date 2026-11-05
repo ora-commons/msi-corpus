@@ -1,9 +1,22 @@
 ---
 headline: Under-30 and Hispanic Texas Senate voters back Talarico
-secondary_headline: Border counties swing back; Democrats flip congressional seats despite gerrymandering
+secondary_headline: Border counties swing back; Democrats flip congressional seats
+  despite gerrymandering
 publish_date: '2026-11-04'
-lede: An AP Voter Poll survey of more than 5,000 Texas Senate voters found that about three-quarters of surveyed voters under 30 and roughly 6 in 10 surveyed Hispanic voters backed Democrat James Talarico. Democrats also won back counties along the border with Mexico that shifted toward Donald Trump in 2024 and flipped congressional seats despite a Republican-gerrymandered map. AP reported Democratic wins in the lieutenant governor and attorney general races, while Democrats' capture of the Legislature remained possible.
-nut_graf: Texas Democrats had not won a statewide campaign since 1994 before Tuesday's wins. AP linked the outcome to voters frustrated over high prices and concerned about government corruption, and said Republicans depend on winning Texas in presidential election years to maintain a path to the White House. AP said the campaign emphasized affordability, opposition to artificial intelligence data centers and corruption rather than promises to reverse policies on abortion, guns and transgender rights or divert public tax money to private education.
+lede: An AP Voter Poll survey of more than 5,000 Texas Senate voters found that about
+  three-quarters of surveyed voters under 30 and roughly 6 in 10 surveyed Hispanic
+  voters backed Democrat James Talarico. Democrats also won back counties along the
+  border with Mexico that shifted toward Donald Trump in 2024 and flipped congressional
+  seats despite a Republican-gerrymandered map. AP reported Democratic wins in the
+  lieutenant governor and attorney general races, while Democrats' capture of the
+  Legislature remained possible.
+nut_graf: Texas Democrats had not won a statewide campaign since 1994 before Tuesday's
+  wins. AP linked the outcome to voters frustrated over high prices and concerned
+  about government corruption, and said Republicans depend on winning Texas in presidential
+  election years to maintain a path to the White House. AP said the campaign emphasized
+  affordability, opposition to artificial intelligence data centers and corruption
+  rather than promises to reverse policies on abortion, guns and transgender rights
+  or divert public tax money to private education.
 primary_entities:
 - Texas
 - Texas Democrats
@@ -54,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,27 +170,27 @@ related_stories:
   headline: Surveys indicated Texas Hispanic voters favored Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.807
+  strength: 0.8067
 - slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
   headline: James Talarico defeats Ken Paxton in Texas Senate race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8032
+  strength: 0.8039
 - slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
   headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8142
+  strength: 0.8137
 - slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
   headline: Paxton, Talarico face off as Texas voters head to polls
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7937
+  strength: 0.7943
 - slug: 2026-11-04-hinojosa-s-texas-win-followed-a-long-shot-affordability-campaign
   headline: Hinojosa's Texas win followed a long-shot affordability campaign
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7549
+  strength: 0.7544
 - slug: 2026-11-04-poll-suggests-shifts-away-from-gop-among-young-voters-in-local-house-races
   headline: Poll suggests shifts away from GOP among young voters in local House races
   publish_date: '2026-11-04'
@@ -186,74 +200,14 @@ related_stories:
   headline: Paxton's legal history and Musk's money shape pivotal Texas Senate race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.759
+  strength: 0.7592
 - slug: 2026-10-29-hispanic-turnout-surges-in-south-texas-as-republicans-face-competitive-races
-  headline: Hispanic turnout surges in South Texas as Republicans face competitive races
+  headline: Hispanic turnout surges in South Texas as Republicans face competitive
+    races
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7894
-- slug: 2026-11-04-hinojosa-pitches-1-500-refund-amid-abbott-s-180-million-campaign-spending
-  headline: Hinojosa pitches $1,500 refund amid Abbott's $180 million campaign spending
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7362
-- slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
-  headline: Democrats regain Senate control after wins in at least six states
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7316
-- slug: 2026-10-27-talarico-rejects-progressive-label-in-texas-senate-race-against-paxton
-  headline: Talarico rejects progressive label in Texas Senate race against Paxton
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7758
-- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
-  headline: Talarico and Paxton enter final stretch of Texas Senate race
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.799
-- slug: 2026-10-28-trump-and-talarico-hold-rallies-three-miles-apart-in-close-texas-senate-race
-  headline: Trump and Talarico hold rallies three miles apart in close Texas Senate race
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7423
-- slug: 2026-10-27-trump-makes-third-texas-trip-of-the-month-for-paxton-s-senate-bid
-  headline: Trump makes third Texas trip of the month for Paxton's Senate bid
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7274
-- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
-  headline: Talarico says Musk is backing Paxton at UT Austin rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7376
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7357
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7504
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7665
-- slug: 2026-07-25-talarico-courts-border-hispanic-voters-in-texas-senate-race
-  headline: Talarico courts border Hispanic voters in Texas Senate race
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.7558
-- slug: 2026-03-04-talarico-wins-texas-senate-democratic-nomination-cornyn-paxton-face-off
-  headline: Talarico wins Texas Senate Democratic nomination; Cornyn, Paxton face off
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7854
+  strength: 0.789
 ---
-
 ## AP poll: Under-30 and Hispanic Texas Senate voters back Talarico
 
 **Subtype:** fact

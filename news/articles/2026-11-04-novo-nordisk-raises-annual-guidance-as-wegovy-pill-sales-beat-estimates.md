@@ -1,9 +1,22 @@
 ---
 headline: Novo Nordisk raises annual guidance as Wegovy pill sales beat estimates
-secondary_headline: Patent expirations in several markets open the door to generic competition
+secondary_headline: Patent expirations in several markets open the door to generic
+  competition
 publish_date: '2026-11-04'
-lede: Novo Nordisk, the Danish drugmaker, raised its annual guidance on Wednesday after third-quarter Wegovy weight-loss pill sales reached 5.39 billion Danish kroner, equivalent to $807.2 million. The company now expects adjusted sales and operating profit to range from a 2% decline to 2% growth at constant exchange rates this year, better than its prior guidance for declines of up to 6%. Novo Nordisk cited an improved outlook for its key obesity and diabetes drugs, particularly in markets outside the United States.
-nut_graf: The upgrade came as third-quarter pill sales exceeded analyst expectations and Novo Nordisk expanded the product beyond the United States. A market ticker in The Wall Street Journal's Nov. 4, 2026, 3:41 a.m. ET update showed Novo Nordisk's NOVO.B shares up 3.16%, a separate snapshot from the 4.5% climb in shares after the announcement. The company still faces competition from Eli Lilly's injectable and patent expirations affecting key ingredients in Wegovy and Ozempic, while Chief Financial Officer Karsten Munk Knudsen is scheduled to leave at year-end.
+lede: Novo Nordisk, the Danish drugmaker, raised its annual guidance on Wednesday
+  after third-quarter Wegovy weight-loss pill sales reached 5.39 billion Danish kroner,
+  equivalent to $807.2 million. The company now expects adjusted sales and operating
+  profit to range from a 2% decline to 2% growth at constant exchange rates this year,
+  better than its prior guidance for declines of up to 6%. Novo Nordisk cited an improved
+  outlook for its key obesity and diabetes drugs, particularly in markets outside
+  the United States.
+nut_graf: The upgrade came as third-quarter pill sales exceeded analyst expectations
+  and Novo Nordisk expanded the product beyond the United States. A market ticker
+  in The Wall Street Journal's Nov. 4, 2026, 3:41 a.m. ET update showed Novo Nordisk's
+  NOVO.B shares up 3.16%, a separate snapshot from the 4.5% climb in shares after
+  the announcement. The company still faces competition from Eli Lilly's injectable
+  and patent expirations affecting key ingredients in Wegovy and Ozempic, while Chief
+  Financial Officer Karsten Munk Knudsen is scheduled to leave at year-end.
 primary_entities:
 - Novo Nordisk
 - Wegovy
@@ -43,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,107 +156,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-27-novartis-raises-profit-guidance-as-lower-costs-drive-third-quarter-earnings-beat
-  headline: Novartis raises profit guidance as lower costs drive third-quarter earnings beat
+  headline: Novartis raises profit guidance as lower costs drive third-quarter earnings
+    beat
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7121
-- slug: 2026-10-29-merck-tops-wall-street-q3-estimates-lifts-full-year-guidance
-  headline: Merck tops Wall Street Q3 estimates, lifts full-year guidance
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6392
+  strength: 0.7117
 - slug: 2026-10-20-adidas-raises-2026-profit-guidance-to-2-5-billion-after-u-s-tariff-refunds
   headline: Adidas raises 2026 profit guidance to €2.5 billion after U.S. tariff refunds
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6552
-- slug: 2026-10-22-newmont-quarterly-profit-rises-to-2-48-billion
-  headline: Newmont quarterly profit rises to $2.48 billion
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6213
-- slug: 2026-10-13-johnson-johnson-raises-outlook-as-medical-device-sales-miss-estimates
-  headline: Johnson & Johnson raises outlook as medical device sales miss estimates
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6371
-- slug: 2026-10-08-pepsico-beats-quarterly-estimates-trims-full-year-earnings-outlook
-  headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6414
+  strength: 0.6551
 - slug: 2026-06-03-novo-nordisk-launches-wegovy-pill-in-uae-apotex-plans-c-1b-canadian-ipo
   headline: Novo Nordisk launches Wegovy pill in UAE; Apotex plans C$1B Canadian IPO
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.8002
+  strength: 0.8003
 - slug: 2026-07-21-novo-nordisk-sues-eli-lilly-over-weight-loss-drug-ads
   headline: Novo Nordisk sues Eli Lilly over weight-loss drug ads
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7024
+  strength: 0.7026
 - slug: 2026-03-21-fda-approves-high-dose-wegovy-shots-at-7-2-milligrams-weekly
   headline: FDA approves high-dose Wegovy shots at 7.2 milligrams weekly
   publish_date: '2026-03-21'
   relation: related
-  strength: 0.7389
-- slug: 2026-08-21-nibe-ceo-calls-u-s-tariffs-highly-unpredictable-after-8-7-sales-rise
-  headline: Nibe CEO calls U.S. tariffs 'highly unpredictable' after 8.7% sales rise
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6256
-- slug: 2026-08-13-orsted-posts-lower-profit-on-write-downs-keeps-projects-on-schedule
-  headline: Orsted posts lower profit on write-downs, keeps projects on schedule
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6357
+  strength: 0.7392
 - slug: 2026-02-05-hims-launches-a-wegovy-pill-knockoff-novo-nordisk-vows-legal-action
   headline: Hims launches a Wegovy pill knockoff; Novo Nordisk vows legal action
   publish_date: '2026-02-05'
   relation: related
-  strength: 0.7369
-- slug: 2026-08-07-wendy-s-withdraws-outlook-cuts-dividend-as-u-s-sales-drop-7
-  headline: Wendy's withdraws outlook, cuts dividend as U.S. sales drop 7%
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6236
+  strength: 0.7375
 - slug: 2026-06-26-evonik-raises-2026-guidance-on-higher-prices-cost-reductions
   headline: Evonik raises 2026 guidance on higher prices, cost reductions
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6585
-- slug: 2026-07-28-mondelez-lifts-organic-revenue-growth-outlook-to-at-least-2-on-latin-america-str
-  headline: Mondelez lifts organic revenue growth outlook to at least 2% on Latin America strength
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6244
-- slug: 2026-07-23-eli-lilly-plans-early-2027-retatrutide-submission-after-positive-trial-data
-  headline: Eli Lilly plans early 2027 retatrutide submission after positive trial data
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6306
-- slug: 2026-07-24-intel-raises-capex-outlook-to-20-billion-nokia-ai-orders-surge-to-2-8-billion-eu
-  headline: Intel raises capex outlook to $20 billion; Nokia AI orders surge to 2.8 billion euros
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6163
-- slug: 2026-07-24-roche-beats-first-half-profit-estimates-as-ceo-flags-deal-discipline
-  headline: Roche beats first-half profit estimates as CEO flags deal discipline
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6154
+  strength: 0.6588
 - slug: 2026-06-03-canada-clears-generic-ozempic-us-patent-wall-holds-until-2032
   headline: Canada clears generic Ozempic; US patent wall holds until 2032
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.657
-- slug: 2026-06-08-eli-lilly-shares-jump-premarket-on-late-stage-weight-loss-trial-success
-  headline: Eli Lilly shares jump premarket on late-stage weight loss trial success
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.646
+  strength: 0.6574
 ---
-
 ## Novo Nordisk raises annual guidance as Wegovy pill sales beat estimates
 
 **Subtype:** fact

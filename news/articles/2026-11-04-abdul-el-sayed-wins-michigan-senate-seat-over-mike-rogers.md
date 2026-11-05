@@ -207,6 +207,8 @@ related_stories:
   publish_date: '2026-10-22'
   relation: related
   strength: 0.7891
+analyses:
+- '2026-11-04-el-sayed-s-senate-win-converts-a-narrow-nomination-into-a-senate-platform'
 ---
 ## Abdul El-Sayed wins Michigan Senate seat over Mike Rogers
 
@@ -246,3 +248,8 @@ NPR reported that El-Sayed has signaled that he intends to be a prominent voice,
 **Publication date:** 2026-11-04
 **Title:** Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race
 **URL:** https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers
+
+---
+
+<!-- analysis-link:2026-11-04-el-sayed-s-senate-win-converts-a-narrow-nomination-into-a-senate-platform -->
+**Going deeper:** [Read MSI's analysis of El-Sayed’s Senate victory →](/analyses/2026-11-04-el-sayed-s-senate-win-converts-a-narrow-nomination-into-a-senate-platform)

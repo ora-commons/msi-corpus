@@ -1,9 +1,21 @@
 ---
 headline: El-Sayed wins Michigan as historic firsts mark Democratic gains
-secondary_headline: Hugs, cheers and selfies mark election victories across several states
+secondary_headline: Hugs, cheers and selfies mark election victories across several
+  states
 publish_date: '2026-11-04'
-lede: Abdul El-Sayed's win in Michigan will make him the first Muslim US senator, according to BBC News' coverage of the US midterms. BBC News' photographs from the midterms captured the celebrations that followed the results, including supporters reacting in Portland, Maine, Chris Pappas celebrating his New Hampshire win on stage with his husband, and a supporter raising a jubilant fist in North Carolina. The same coverage reported that the victories delivered Democrats the Senate and the House for the rest of President Donald Trump's presidency.
-nut_graf: 'The results combined a shift in congressional control with a run of individual firsts: El-Sayed''s Michigan victory will make him the first Muslim US senator, Chris Pappas''s New Hampshire win made him the first openly gay man elected to the Senate, and Keisha Lance Bottoms''s Georgia victory made her the first Black woman elected governor of the state. BBC News'' photographs recorded how the results landed at celebrations in Maine, New Hampshire and North Carolina.'
+lede: Abdul El-Sayed's win in Michigan will make him the first Muslim US senator,
+  according to BBC News' coverage of the US midterms. BBC News' photographs from the
+  midterms captured the celebrations that followed the results, including supporters
+  reacting in Portland, Maine, Chris Pappas celebrating his New Hampshire win on stage
+  with his husband, and a supporter raising a jubilant fist in North Carolina. The
+  same coverage reported that the victories delivered Democrats the Senate and the
+  House for the rest of President Donald Trump's presidency.
+nut_graf: 'The results combined a shift in congressional control with a run of individual
+  firsts: El-Sayed''s Michigan victory will make him the first Muslim US senator,
+  Chris Pappas''s New Hampshire win made him the first openly gay man elected to the
+  Senate, and Keisha Lance Bottoms''s Georgia victory made her the first Black woman
+  elected governor of the state. BBC News'' photographs recorded how the results landed
+  at celebrations in Maine, New Hampshire and North Carolina.'
 primary_entities:
 - Democrats
 - Abdul El-Sayed
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,107 +158,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-04-democrats-projected-to-take-congress-cooper-wins-north-carolina-senate-race
-  headline: Democrats projected to take Congress; Cooper wins North Carolina Senate race
+  headline: Democrats projected to take Congress; Cooper wins North Carolina Senate
+    race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7479
+  strength: 0.7474
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-as-first-muslim-us-senator
   headline: Abdul El-Sayed wins Michigan Senate seat as first Muslim US senator
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7323
+  strength: 0.732
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-over-mike-rogers
   headline: Abdul El-Sayed wins Michigan Senate seat over Mike Rogers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7142
+  strength: 0.7135
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6852
+  strength: 0.6856
 - slug: 2026-11-03-abdul-el-sayed-and-mike-rogers-make-final-pitches-for-the-michigan-senate-seat
-  headline: Abdul El-Sayed and Mike Rogers make final pitches for the Michigan Senate seat
+  headline: Abdul El-Sayed and Mike Rogers make final pitches for the Michigan Senate
+    seat
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.684
+  strength: 0.6838
 - slug: 2026-11-04-new-hampshire-elects-chris-pappas-to-the-us-senate
   headline: New Hampshire elects Chris Pappas to the US Senate
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6664
+  strength: 0.6662
 - slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
   headline: Democrats win House, control Congress for Trump's final two years
   publish_date: '2026-11-04'
   relation: related
   strength: 0.664
 - slug: 2026-10-30-anti-muslim-rhetoric-colors-michigan-senate-race-as-bishops-rebuke-white-house
-  headline: Anti-Muslim rhetoric colors Michigan Senate race as bishops rebuke White House
+  headline: Anti-Muslim rhetoric colors Michigan Senate race as bishops rebuke White
+    House
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6908
-- slug: 2026-10-30-democratic-establishment-rallies-behind-el-sayed-in-michigan-senate-race
-  headline: Democratic establishment rallies behind El-Sayed in Michigan Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6846
-- slug: 2026-11-01-trump-praises-stevens-after-she-endorses-rogers-in-michigan-senate-race
-  headline: Trump praises Stevens after she endorses Rogers in Michigan Senate race
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6652
-- slug: 2026-10-29-democratic-divisions-surface-in-michigan-senate-race-s-final-week
-  headline: Democratic divisions surface in Michigan Senate race's final week
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6707
-- slug: 2026-10-26-trump-labels-el-sayed-a-jihadist-during-michigan-senate-rally
-  headline: Trump labels El-Sayed a “jihadist” during Michigan Senate rally
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6756
-- slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
-  headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6726
-- slug: 2026-10-26-trump-calls-el-sayed-jihadist-at-michigan-campaign-rally
-  headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6703
-- slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
-  headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6807
-- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
-  headline: Obama rallies for El-Sayed in Michigan Senate race
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6661
-- slug: 2026-10-25-minaj-urges-michigan-republicans-to-vote-at-trump-rally
-  headline: Minaj urges Michigan Republicans to vote at Trump rally
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6599
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6748
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6617
-- slug: 2026-09-22-harris-campaigns-with-el-sayed-in-michigan-senate-race
-  headline: Harris campaigns with El-Sayed in Michigan Senate race
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6711
+  strength: 0.6901
 ---
-
 ## El-Sayed wins Michigan as historic firsts mark Democratic gains
 
 **Subtype:** fact
