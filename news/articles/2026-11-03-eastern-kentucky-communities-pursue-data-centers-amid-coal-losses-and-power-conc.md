@@ -1,9 +1,20 @@
 ---
-headline: Eastern Kentucky communities pursue data centers amid coal losses and power concerns
+headline: Eastern Kentucky communities pursue data centers amid coal losses and power
+  concerns
 secondary_headline: TeraWulf will pay for transmission upgrades and a new power plant
 publish_date: '2026-11-03'
-lede: Eastern Kentucky communities are pursuing or openly considering data centers as coal closures and customer departures leave residents facing high power bills. Kentucky Power is building transmission infrastructure for the Muskie Data Campus, and Maryland-based developer TeraWulf has agreed to pay for the upgrades and a new power plant. Pikeville says it has weighed potential projects publicly and offered no property-tax breaks.
-nut_graf: Kentucky Power says TeraWulf's planned power plant would bring jobs and tax revenue to a region where coal mines and a steel mill have closed, while the Muskie Data Campus would add a large electricity customer. The utility says TeraWulf will cover transmission upgrades that would otherwise fall to residential customers, but city officials describe any later reduction in electricity bills as a possibility rather than a guarantee.
+lede: Eastern Kentucky communities are pursuing or openly considering data centers
+  as coal closures and customer departures leave residents facing high power bills.
+  Kentucky Power is building transmission infrastructure for the Muskie Data Campus,
+  and Maryland-based developer TeraWulf has agreed to pay for the upgrades and a new
+  power plant. Pikeville says it has weighed potential projects publicly and offered
+  no property-tax breaks.
+nut_graf: Kentucky Power says TeraWulf's planned power plant would bring jobs and
+  tax revenue to a region where coal mines and a steel mill have closed, while the
+  Muskie Data Campus would add a large electricity customer. The utility says TeraWulf
+  will cover transmission upgrades that would otherwise fall to residential customers,
+  but city officials describe any later reduction in electricity bills as a possibility
+  rather than a guarantee.
 primary_entities:
 - Eastern Kentucky
 - Pikeville
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +158,26 @@ related_stories:
   headline: Property owners challenge utility plans amid data-center demand growth
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6754
-- slug: 2026-11-02-electricity-bills-enter-2026-midterm-campaigns
-  headline: Electricity bills enter 2026 midterm campaigns
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6318
-- slug: 2026-10-28-lansing-economic-area-partnership-puts-data-center-proposal-before-the-public
-  headline: Lansing Economic Area Partnership puts data center proposal before the public
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6467
-- slug: 2026-10-26-connecticut-towns-adopt-data-center-limits-before-most-project-applications
-  headline: Connecticut towns adopt data center limits before most project applications
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6292
+  strength: 0.6753
 - slug: 2026-10-21-dte-energy-seeks-approval-for-two-gas-plants-amid-michigan-datacenter-growth
-  headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter growth
+  headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter
+    growth
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6526
-- slug: 2026-10-09-east-fishkill-enacts-three-year-moratorium-on-large-datacenters
-  headline: East Fishkill enacts three-year moratorium on large datacenters
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.64
-- slug: 2026-09-27-developer-offers-hazle-township-households-10-000-each-for-data-center
-  headline: Developer offers Hazle Township households $10,000 each for data center
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6286
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6213
-- slug: 2026-08-28-building-unions-threaten-to-withhold-political-support-over-data-center-fights
-  headline: Building unions threaten to withhold political support over data center fights
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.622
-- slug: 2026-08-16-kentucky-mother-and-daughter-refuse-26-million-offer-for-ai-data-center-land
-  headline: Kentucky mother and daughter refuse $26 million offer for AI data center land
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6467
-- slug: 2026-08-13-spacex-plans-natural-gas-plant-to-power-texas-ai-chip-facility
-  headline: SpaceX plans natural gas plant to power Texas AI chip facility
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6343
-- slug: 2026-07-02-triple-digit-heat-amplifies-data-center-power-strain-grid-risks
-  headline: Triple-digit heat amplifies data center power strain, grid risks
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6449
-- slug: 2026-06-09-wyoming-s-data-center-boom-fuels-backlash-over-man-camp-housing-for-5-600-worker
-  headline: Wyoming’s data-center boom fuels backlash over ‘man camp’ housing for 5,600 workers
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6318
+  strength: 0.6535
 - slug: 2026-01-09-southern-arizona-data-centers-advance-as-fights-over-power-water-and-rates-inten
-  headline: Southern Arizona data centers advance as fights over power, water and rates intensify
+  headline: Southern Arizona data centers advance as fights over power, water and
+    rates intensify
   publish_date: '2026-01-09'
   relation: related
-  strength: 0.6598
+  strength: 0.6601
 - slug: 2026-03-08-ai-data-centers-drive-high-voltage-transmission-expansion-as-landowners-fight-ba
-  headline: AI data centers drive high-voltage transmission expansion as landowners fight back
+  headline: AI data centers drive high-voltage transmission expansion as landowners
+    fight back
   publish_date: '2026-03-08'
   relation: related
-  strength: 0.6521
-- slug: 2026-04-10-in-coal-rich-west-virginia-power-bills-rival-mortgages-and-rents
-  headline: In coal-rich West Virginia, power bills rival mortgages and rents
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6395
-- slug: 2026-05-16-fisk-university-announces-900m-campus-overhaul-with-data-center-amid-pushback
-  headline: Fisk University announces $900M campus overhaul with data center amid pushback
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6267
-- slug: 2026-03-21-doe-unveils-10-gigawatt-ohio-data-center-natural-gas-power-plan
-  headline: DOE unveils 10-gigawatt Ohio data center, natural gas power plan
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6392
-- slug: 2026-02-01-dangerous-cold-wave-heightens-hypothermia-risk-in-mississippi-and-tennessee
-  headline: Dangerous cold wave heightens hypothermia risk in Mississippi and Tennessee
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.6442
-- slug: 2026-02-13-as-ai-investors-eye-montana-for-data-centers-communities-brace-for-water-impacts
-  headline: As AI investors eye Montana for data centers, communities brace for water impacts
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6367
+  strength: 0.6519
 ---
-
 ## Eastern Kentucky communities pursue data centers amid coal losses and power concerns
 
 **Subtype:** fact
