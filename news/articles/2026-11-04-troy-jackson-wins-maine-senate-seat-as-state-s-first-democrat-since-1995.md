@@ -2,8 +2,18 @@
 headline: Troy Jackson wins Maine Senate seat as state's first Democrat since 1995
 secondary_headline: Virtual tie and major spending marked Jackson's late Senate campaign
 publish_date: '2026-11-04'
-lede: National polls showed Troy Jackson and Susan Collins in a virtual tie leading up to the end of voting, even though Jackson replaced Graham Platner as the Democratic nominee in August. Democratic- and Republican-aligned groups spent more than a quarter of a billion dollars on advertising in the Maine Senate contest, according to AdImpact data. An Associated Press race call reported by NPR said Jackson's victory made him the first Democrat to represent Maine in the Senate since 1995 and gave Democrats a seat in their push to regain the Senate majority.
-nut_graf: Troy Jackson's late-entry Senate campaign featured a national virtual tie and more than a quarter of a billion dollars in advertising. His August nomination was followed by Maine's first Democratic representation in the Senate since 1995, a result that gives Democrats a seat in their push to win back the Senate majority and ends Susan Collins's nearly 30-year tenure in Congress.
+lede: National polls showed Troy Jackson and Susan Collins in a virtual tie leading
+  up to the end of voting, even though Jackson replaced Graham Platner as the Democratic
+  nominee in August. Democratic- and Republican-aligned groups spent more than a quarter
+  of a billion dollars on advertising in the Maine Senate contest, according to AdImpact
+  data. An Associated Press race call reported by NPR said Jackson's victory made
+  him the first Democrat to represent Maine in the Senate since 1995 and gave Democrats
+  a seat in their push to regain the Senate majority.
+nut_graf: Troy Jackson's late-entry Senate campaign featured a national virtual tie
+  and more than a quarter of a billion dollars in advertising. His August nomination
+  was followed by Maine's first Democratic representation in the Senate since 1995,
+  a result that gives Democrats a seat in their push to win back the Senate majority
+  and ends Susan Collins's nearly 30-year tenure in Congress.
 primary_entities:
 - Troy Jackson
 - Susan Collins
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,113 +159,57 @@ related_stories:
   headline: Maine elects Troy Jackson to the U.S. Senate
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8383
+  strength: 0.8363
 - slug: 2026-11-03-collins-and-jackson-enter-maine-s-ranked-choice-senate-vote
   headline: Collins and Jackson enter Maine's ranked-choice Senate vote
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8119
+  strength: 0.8099
+- slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
+  headline: Democrats win House, control Congress for Trump's final two years
+  publish_date: '2026-11-04'
+  relation: related
+  strength: 0.7843
 - slug: 2026-10-28-susan-collins-seeks-sixth-term-in-tight-polarized-maine-senate-race
   headline: Susan Collins seeks sixth term in tight, polarized Maine Senate race
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7675
+  strength: 0.7638
 - slug: 2026-10-30-maine-voters-weigh-trump-rising-costs-in-tight-senate-race
   headline: Maine voters weigh Trump, rising costs in tight Senate race
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7517
+  strength: 0.7481
 - slug: 2026-10-30-maine-voters-weigh-senate-control-open-governor-race-tuesday
   headline: Maine voters weigh Senate control, open governor race Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7504
+  strength: 0.7478
 - slug: 2026-10-23-jackson-cites-collins-s-kavanaugh-vote-in-televised-debate
   headline: Jackson cites Collins's Kavanaugh vote in televised debate
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.748
+  strength: 0.7455
 - slug: 2026-10-16-collins-jackson-spar-over-trump-ties-fuel-prices-in-final-maine-senate-debate
-  headline: Collins, Jackson spar over Trump ties, fuel prices in final Maine Senate debate
+  headline: Collins, Jackson spar over Trump ties, fuel prices in final Maine Senate
+    debate
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7637
-- slug: 2026-10-07-collins-distances-herself-from-trump-in-maine-senate-debate
-  headline: Collins distances herself from Trump in Maine Senate debate
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7418
-- slug: 2026-07-27-harris-endorses-jackson-in-maine-senate-race-boosting-democratic-bid
-  headline: Harris endorses Jackson in Maine Senate race, boosting Democratic bid
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.803
-- slug: 2026-08-26-reproductive-freedom-for-all-backs-jackson-in-maine-senate-race
-  headline: Reproductive Freedom for All backs Jackson in Maine Senate race
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7431
-- slug: 2026-09-07-jackson-courts-maine-union-voters-as-senate-race-enters-final-weeks
-  headline: Jackson courts Maine union voters as Senate race enters final weeks
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.7131
-- slug: 2026-07-20-jackson-moves-ahead-in-maine-senate-delegate-race-after-rivals-quit
-  headline: Jackson moves ahead in Maine Senate delegate race after rivals quit
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7752
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7147
-- slug: 2026-07-24-maine-democrats-to-nominate-troy-jackson-for-senate-race
-  headline: Maine Democrats to nominate Troy Jackson for Senate race
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7611
-- slug: 2026-08-08-troy-jackson-s-logging-roots-shape-his-bid-for-maine-senate-seat
-  headline: Troy Jackson’s logging roots shape his bid for Maine Senate seat
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7273
-- slug: 2026-07-09-platner-suspends-maine-senate-campaign-after-assault-allegation
-  headline: Platner suspends Maine Senate campaign after assault allegation
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7282
-- slug: 2026-07-10-troy-jackson-pitched-as-platner-replacement-in-guardian-op-ed
-  headline: Troy Jackson pitched as Platner replacement in Guardian op-ed
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7172
-- slug: 2026-06-10-graham-platner-wins-maine-democratic-senate-primary-despite-controversies
-  headline: Graham Platner wins Maine Democratic Senate primary despite controversies
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7377
-- slug: 2026-07-14-maine-democrats-to-pick-senate-nominee-at-july-25-convention-after-platner-s-exi
-  headline: Maine Democrats to pick Senate nominee at July 25 convention after Platner's exit
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7024
-- slug: 2026-06-10-platner-wins-maine-senate-primary-setting-up-bitter-general-election-race
-  headline: Platner wins Maine Senate primary, setting up bitter general election race
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7282
+  strength: 0.7602
 image:
   url: /articles/2026-11-04-troy-jackson-wins-maine-senate-seat-as-state-s-first-democrat-since-1995.png
-  alt: "Illustration accompanying article: Troy Jackson wins Maine Senate seat as state's first Democrat since 1995"
+  alt: 'Illustration accompanying article: Troy Jackson wins Maine Senate seat as
+    state''s first Democrat since 1995'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Troy Jackson wins Maine Senate seat as state's first Democrat since 1995
 
 **Subtype:** fact
