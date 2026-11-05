@@ -1,9 +1,18 @@
 ---
 headline: Keisha Lance Bottoms wins Georgia governor race in historic upset
-secondary_headline: Rick Jackson spent more than $100 million in his unsuccessful Georgia campaign
+secondary_headline: Rick Jackson spent more than $100 million in his unsuccessful
+  Georgia campaign
 publish_date: '2026-11-04'
-lede: Keisha Lance Bottoms, the former Atlanta mayor and Democrat, won Georgia's governor race on Tuesday, defeating Rick Jackson and becoming the first Black woman elected governor of a US state. The Guardian reported that Bottoms prevailed after campaigning with former President Barack Obama and Democratic Sen. Jon Ossoff, who also won reelection. Jackson had been favored until recent days and poured more than $100 million of his personal fortune into the campaign.
-nut_graf: Bottoms's election makes her the first Black woman elected governor of a US state and puts affordability, health care coverage and abortion access at the center of her stated agenda. Those priorities reflect campaign pledges rather than completed legislative action.
+lede: Keisha Lance Bottoms, the former Atlanta mayor and Democrat, won Georgia's governor
+  race on Tuesday, defeating Rick Jackson and becoming the first Black woman elected
+  governor of a US state. The Guardian reported that Bottoms prevailed after campaigning
+  with former President Barack Obama and Democratic Sen. Jon Ossoff, who also won
+  reelection. Jackson had been favored until recent days and poured more than $100
+  million of his personal fortune into the campaign.
+nut_graf: Bottoms's election makes her the first Black woman elected governor of a
+  US state and puts affordability, health care coverage and abortion access at the
+  center of her stated agenda. Those priorities reflect campaign pledges rather than
+  completed legislative action.
 primary_entities:
 - Keisha Lance Bottoms
 - Rick Jackson
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +152,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-03-keisha-lance-bottoms-wins-georgia-governor-race
+  headline: Keisha Lance Bottoms wins Georgia governor race
+  publish_date: '2026-11-03'
+  relation: related
+  strength: 0.9027
 - slug: 2026-11-03-keisha-lance-bottoms-and-rick-jackson-contest-georgia-governor-race
   headline: Keisha Lance Bottoms and Rick Jackson contest Georgia governor race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8697
+  strength: 0.8689
 - slug: 2026-10-28-bottoms-makes-historic-bid-for-georgia-governor-against-jackson
   headline: Bottoms makes historic bid for Georgia governor against Jackson
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8308
+  strength: 0.8291
 - slug: 2026-10-30-georgia-voters-decide-senate-governor-races-tuesday
   headline: Georgia voters decide Senate, governor races Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7424
+  strength: 0.7406
 - slug: 2026-11-03-georgia-senate-race-pits-jon-ossoff-against-trump-backed-mike-collins
   headline: Georgia Senate race pits Jon Ossoff against Trump-backed Mike Collins
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7044
+  strength: 0.7026
 - slug: 2026-11-04-exit-polls-show-affordability-a-top-issue-for-many-georgia-voters
   headline: Exit polls show affordability a top issue for many Georgia voters
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6927
+  strength: 0.693
 - slug: 2026-11-04-jon-ossoff-projected-to-win-georgia-senate-race-democrats-press-for-control
   headline: Jon Ossoff projected to win Georgia Senate race; Democrats press for control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.687
+  strength: 0.685
 - slug: 2026-10-29-barack-obama-rallies-georgia-democrats-in-final-midterm-campaign-week
   headline: Barack Obama rallies Georgia Democrats in final midterm campaign week
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7228
-- slug: 2026-10-24-rick-jackson-balances-trump-support-with-softer-georgia-campaign-pitches
-  headline: Rick Jackson balances Trump support with softer Georgia campaign pitches
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7382
-- slug: 2026-10-16-ossoff-leads-georgia-senate-race-denies-2028-presidential-interest
-  headline: Ossoff leads Georgia Senate race, denies 2028 presidential interest
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6931
-- slug: 2026-08-27-ossoff-builds-lead-in-georgia-senate-race-as-national-democrats-take-notice
-  headline: Ossoff builds lead in Georgia Senate race as national Democrats take notice
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6749
-- slug: 2026-05-21-dooley-advances-to-georgia-gop-senate-runoff-bottoms-wins-democratic-nod
-  headline: Dooley advances to Georgia GOP Senate runoff; Bottoms wins Democratic nod
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7784
-- slug: 2026-05-22-georgia-gop-sets-senate-runoff-with-dooley-vs-collins-bottoms-wins-dems
-  headline: Georgia GOP sets Senate runoff with Dooley vs. Collins; Bottoms wins Dems
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7745
-- slug: 2026-05-18-georgia-gop-sets-up-runoff-for-senate-nomination-and-governor-after-primary
-  headline: Georgia GOP sets up runoff for Senate nomination and governor after primary
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7748
-- slug: 2026-05-19-georgia-republicans-set-runoffs-for-senate-and-governor-after-tuesday-primary
-  headline: Georgia Republicans set runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7318
-- slug: 2026-04-16-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7344
-- slug: 2026-05-19-georgia-republicans-head-to-runoffs-for-senate-and-governor-after-tuesday-primar
-  headline: Georgia Republicans head to runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7157
-- slug: 2026-04-17-democrats-scramble-for-attention-and-cash-in-georgia-governor-s-race
-  headline: Democrats scramble for attention and cash in Georgia governor's race
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7228
-- slug: 2026-03-15-wealthy-georgian-could-wrest-gop-governor-nomination-from-trump-s-pick
-  headline: Wealthy Georgian could wrest GOP governor nomination from Trump's pick
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.722
-- slug: 2026-03-06-georgia-governor-and-senate-fields-set-as-may-19-primary-looms
-  headline: Georgia governor and Senate fields set as May 19 primary looms
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.7202
-- slug: 2026-04-22-burt-jones-record-becomes-battleground-against-rick-jackson-in-georgia-gop-prima
-  headline: Burt Jones' record becomes battleground against Rick Jackson in Georgia GOP primary
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7021
+  strength: 0.7226
 ---
-
 ## Keisha Lance Bottoms wins Georgia governor race in historic upset
 
 **Subtype:** fact

@@ -2,8 +2,14 @@
 headline: Byron Donalds wins Florida governor race, becomes state's first Black governor
 secondary_headline: Donalds promises to continue DeSantis's conservative policies
 publish_date: '2026-11-03'
-lede: Republican Byron Donalds defeated Democrat David Jolly in Florida's governor race on Nov. 3, according to an Associated Press race call reported by NPR. Donalds, 48, will become Florida's first Black governor. President Donald Trump backed his campaign, which also had a sizable campaign finance war chest.
-nut_graf: Donalds's victory makes him Florida's first Black governor and gives Republicans a statewide win in a closely watched race. The campaign centered on affordability while unfolding amid Republican unease with Trump over gas prices and the war with Iran.
+lede: Republican Byron Donalds defeated Democrat David Jolly in Florida's governor
+  race on Nov. 3, according to an Associated Press race call reported by NPR. Donalds,
+  48, will become Florida's first Black governor. President Donald Trump backed his
+  campaign, which also had a sizable campaign finance war chest.
+nut_graf: Donalds's victory makes him Florida's first Black governor and gives Republicans
+  a statewide win in a closely watched race. The campaign centered on affordability
+  while unfolding amid Republican unease with Trump over gas prices and the war with
+  Iran.
 primary_entities:
 - Byron Donalds
 - David Jolly
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,107 +148,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-04-byron-donalds-wins-florida-governor-race-to-become-state-s-first-black-governor
-  headline: Byron Donalds wins Florida governor race to become state's first Black governor
+  headline: Byron Donalds wins Florida governor race to become state's first Black
+    governor
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.929
+  strength: 0.9285
 - slug: 2026-11-03-florida-voters-choose-between-donalds-and-jolly-on-tuesday
   headline: Florida voters choose between Donalds and Jolly on Tuesday
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8552
+  strength: 0.8558
 - slug: 2026-10-30-florida-voters-decide-senate-governor-and-house-races-under-new-gop-map
   headline: Florida voters decide Senate, governor and House races under new GOP map
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7299
+  strength: 0.7307
 - slug: 2026-10-23-byron-donalds-plans-to-join-trump-in-fort-myers-after-avoiding-his-name
   headline: Byron Donalds plans to join Trump in Fort Myers after avoiding his name
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7718
+  strength: 0.7716
 - slug: 2026-11-03-keisha-lance-bottoms-wins-georgia-governor-race
   headline: Keisha Lance Bottoms wins Georgia governor race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6784
+  strength: 0.6787
 - slug: 2026-10-20-dga-sends-1-million-to-jolly-s-florida-governor-bid
   headline: DGA sends $1 million to Jolly's Florida governor bid
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7595
+  strength: 0.76
 - slug: 2026-10-04-donalds-builds-florida-governor-bid-on-brooklyn-to-naples-transformation
   headline: Donalds builds Florida governor bid on Brooklyn-to-Naples transformation
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.8279
-- slug: 2026-11-04-ashley-moody-wins-florida-senate-special-election-over-angie-nixon
-  headline: Ashley Moody wins Florida Senate special election over Angie Nixon
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6443
-- slug: 2026-11-03-tom-tiffany-and-david-crowley-face-off-for-wisconsin-governor
-  headline: Tom Tiffany and David Crowley face off for Wisconsin governor
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6408
+  strength: 0.8292
 - slug: 2026-10-04-donalds-navigates-trump-ties-in-tightening-florida-governor-s-race
   headline: Donalds navigates Trump ties in tightening Florida governor's race
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7918
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6549
-- slug: 2026-10-09-democrats-narrow-gaps-in-republican-held-races-with-month-to-midterms
-  headline: Democrats narrow gaps in Republican-held races with month to midterms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.645
-- slug: 2026-09-22-donalds-strips-trump-mentions-from-campaign-website
-  headline: Donalds strips Trump mentions from campaign website
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7095
-- slug: 2026-10-02-kreiss-tomkins-campaigns-for-alaska-governor-in-ranked-choice-race
-  headline: Kreiss-Tomkins campaigns for Alaska governor in ranked-choice race
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.662
-- slug: 2026-08-18-florida-primaries-favor-moderate-democrats-donalds-leads-gop-governor-s-race
-  headline: Florida primaries favor moderate Democrats; Donalds leads GOP governor's race
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7767
-- slug: 2026-08-17-florida-voters-head-to-polls-tuesday-for-governor-senate-house
-  headline: Florida voters head to polls Tuesday for governor, Senate, House
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6824
-- slug: 2026-08-19-record-seven-black-gubernatorial-nominees-set-for-november-ballots
-  headline: Record seven Black gubernatorial nominees set for November ballots
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6738
-- slug: 2026-08-19-angie-nixon-defeats-vindman-in-florida-democratic-senate-primary
-  headline: Angie Nixon defeats Vindman in Florida Democratic Senate primary
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6529
-- slug: 2026-08-18-crowded-florida-gop-primary-for-donalds-seat-turns-on-candidates-roots
-  headline: Crowded Florida GOP primary for Donalds' seat turns on candidates' roots
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6434
-- slug: 2026-08-13-jolly-courts-florida-seniors-as-democratic-governor-candidate
-  headline: Jolly courts Florida seniors as Democratic governor candidate
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6508
+  strength: 0.7934
 ---
-
 ## Byron Donalds wins Florida governor race, becomes state's first Black governor
 
 **Subtype:** fact
