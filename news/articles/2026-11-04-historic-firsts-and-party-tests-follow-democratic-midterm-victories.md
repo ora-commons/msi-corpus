@@ -200,6 +200,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.698
+analyses:
+- '2026-11-04-democrats-gain-control-of-congress-as-party-coalitions-remain-unsettled'
 ---
 ## Historic firsts and party tests follow Democratic midterm victories
 
@@ -272,3 +274,8 @@ When Azzarello moved to Colorado in her 30s, a coworker invited her on a bike ri
 **Publication date:** 2026-11-04
 **Title:** Wednesday briefing: What the Democrat midterms victory tells us about Trump’s future as president
 **URL:** https://www.theguardian.com/world/2026/nov/04/wednesday-briefing-what-the-democrat-midterms-victory-tell-us-about-trumps-future-as-president
+
+---
+
+<!-- analysis-link:2026-11-04-democrats-gain-control-of-congress-as-party-coalitions-remain-unsettled -->
+**Going deeper:** [Read MSI's analysis of Congressional control and coalition uncertainty →](/analyses/2026-11-04-democrats-gain-control-of-congress-as-party-coalitions-remain-unsettled)

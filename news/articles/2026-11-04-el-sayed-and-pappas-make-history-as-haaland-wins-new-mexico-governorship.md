@@ -1,9 +1,24 @@
 ---
 headline: El-Sayed and Pappas make history as Haaland wins New Mexico governorship
-secondary_headline: Democrats clinch 54 Senate seats and 225 House seats in unified control
+secondary_headline: Democrats clinch 54 Senate seats and 225 House seats in unified
+  control
 publish_date: '2026-11-04'
-lede: Abdul El-Sayed won Michigan's closely watched Senate race to become the country's first Muslim senator, while Chris Pappas won New Hampshire's race to become the first openly gay man in the Senate. Keisha Lance Bottoms won Georgia's governorship to become the first Black female governor in the US, and Deb Haaland won New Mexico to become the first Native American woman to govern a state. Democrats clinched 54 Senate seats and 225 House seats, giving the party control of both chambers for the remaining two years of Donald Trump's term, according to The Guardian.
-nut_graf: The election's historic firsts came alongside a broader shift in congressional power. The Guardian reported that Democrats flipped critical Republican seats, won governor's races and captured districts Republicans had tried to redraw. Rachel Leingang wrote that “These victories will provide avenues for Democrats to hold Trump accountable and act as a functioning branch of government, something voters have said they’ve been missing in Trump 2.0.” The same newsletter also reported developments involving European bomb threats, military aid to Israel, industrial pollution, Olympic commercial rights, a satellite re-entry, workplace cuts and Antarctic research.
+lede: Abdul El-Sayed won Michigan's closely watched Senate race to become the country's
+  first Muslim senator, while Chris Pappas won New Hampshire's race to become the
+  first openly gay man in the Senate. Keisha Lance Bottoms won Georgia's governorship
+  to become the first Black female governor in the US, and Deb Haaland won New Mexico
+  to become the first Native American woman to govern a state. Democrats clinched
+  54 Senate seats and 225 House seats, giving the party control of both chambers for
+  the remaining two years of Donald Trump's term, according to The Guardian.
+nut_graf: The election's historic firsts came alongside a broader shift in congressional
+  power. The Guardian reported that Democrats flipped critical Republican seats, won
+  governor's races and captured districts Republicans had tried to redraw. Rachel
+  Leingang wrote that “These victories will provide avenues for Democrats to hold
+  Trump accountable and act as a functioning branch of government, something voters
+  have said they’ve been missing in Trump 2.0.” The same newsletter also reported
+  developments involving European bomb threats, military aid to Israel, industrial
+  pollution, Olympic commercial rights, a satellite re-entry, workplace cuts and Antarctic
+  research.
 primary_entities:
 - Abdul El-Sayed
 - Chris Pappas
@@ -54,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,116 +169,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-el-sayed-and-pappas-make-history-as-haaland-wins-new-mexico-governorship.png
-  alt: 'Illustration accompanying article: El-Sayed and Pappas make history as Haaland wins New Mexico governorship'
+  alt: 'Illustration accompanying article: El-Sayed and Pappas make history as Haaland
+    wins New Mexico governorship'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3-pro-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-04-el-sayed-wins-michigan-as-historic-firsts-mark-democratic-gains
   headline: El-Sayed wins Michigan as historic firsts mark Democratic gains
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8128
+  strength: 0.8121
 - slug: 2026-11-03-midterm-candidates-vie-for-historic-firsts-in-governor-and-senate-races
   headline: Midterm candidates vie for historic firsts in governor and Senate races
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7769
+  strength: 0.7772
 - slug: 2026-11-04-pappas-says-trump-musk-and-sununu-backers-used-money-attack-ads-and-lies
-  headline: Pappas says Trump, Musk and Sununu backers used money, attack ads and lies
+  headline: Pappas says Trump, Musk and Sununu backers used money, attack ads and
+    lies
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7601
+  strength: 0.7599
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7554
+  strength: 0.7564
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-over-mike-rogers
   headline: Abdul El-Sayed wins Michigan Senate seat over Mike Rogers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7392
+  strength: 0.7404
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-as-first-muslim-us-senator
   headline: Abdul El-Sayed wins Michigan Senate seat as first Muslim US senator
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7369
+  strength: 0.7378
 - slug: 2026-11-04-democrats-projected-to-take-congress-cooper-wins-north-carolina-senate-race
-  headline: Democrats projected to take Congress; Cooper wins North Carolina Senate race
+  headline: Democrats projected to take Congress; Cooper wins North Carolina Senate
+    race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.736
+  strength: 0.7359
 - slug: 2026-11-04-democrats-win-key-governor-races-with-historic-firsts
   headline: Democrats win key governor races with historic firsts
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7178
-- slug: 2026-11-04-historic-firsts-and-party-tests-follow-democratic-midterm-victories
-  headline: Historic firsts and party tests follow Democratic midterm victories
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7172
-- slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
-  headline: Democrats regain Senate control after wins in at least six states
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7091
-- slug: 2026-11-04-new-hampshire-elects-chris-pappas-to-the-us-senate
-  headline: New Hampshire elects Chris Pappas to the US Senate
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7001
-- slug: 2026-11-04-under-30-and-hispanic-texas-senate-voters-back-talarico
-  headline: Under-30 and Hispanic Texas Senate voters back Talarico
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6929
-- slug: 2026-11-03-abdul-el-sayed-and-mike-rogers-make-final-pitches-for-the-michigan-senate-seat
-  headline: Abdul El-Sayed and Mike Rogers make final pitches for the Michigan Senate seat
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6954
-- slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
-  headline: Democrats win Congress after flipping seven Senate seats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6812
-- slug: 2026-11-03-final-polls-put-democrats-ahead-in-five-of-seven-senate-battlegrounds
-  headline: Final polls put Democrats ahead in five of seven Senate battlegrounds
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.686
-- slug: 2026-11-03-el-sayed-s-campaign-draws-over-29-000-first-time-donors-on-sunday
-  headline: El-Sayed’s campaign draws over 29,000 first-time donors on Sunday
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6844
-- slug: 2026-10-30-michigan-voters-decide-senate-governor-races-that-could-shift-power
-  headline: Michigan voters decide Senate, governor races that could shift power
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7009
-- slug: 2026-11-02-seven-senate-races-could-decide-senate-control-in-2026
-  headline: Seven Senate races could decide Senate control in 2026
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6774
-- slug: 2026-10-29-haaland-leads-race-to-become-first-native-american-woman-governor
-  headline: Haaland leads race to become first Native American woman governor
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7005
-- slug: 2026-11-01-trump-praises-stevens-after-she-endorses-rogers-in-michigan-senate-race
-  headline: Trump praises Stevens after she endorses Rogers in Michigan Senate race
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6758
+  strength: 0.7186
 ---
-
 ## El-Sayed and Pappas make history as Haaland wins New Mexico governorship
 
 **Subtype:** fact

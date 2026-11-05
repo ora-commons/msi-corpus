@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-10-27'
   relation: related
   strength: 0.6629
+analyses:
+- '2026-11-04-democrats-trigger-compound-repricing-across-dollar-treasuries-and-ai-equities'
 ---
 ## AI regulation concerns pressure the dollar after Democrats take Congress
 
@@ -246,3 +248,8 @@ The Guardian tied the market reaction to fears that greater AI regulation could 
 **Publication date:** 2026-11-04
 **Title:** US dollar slides after Democrats’ midterm election win as growth fears rise
 **URL:** https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears
+
+---
+
+<!-- analysis-link:2026-11-04-democrats-trigger-compound-repricing-across-dollar-treasuries-and-ai-equities -->
+**Going deeper:** [Read MSI's analysis of Democrats’ election-driven market repricing →](/analyses/2026-11-04-democrats-trigger-compound-repricing-across-dollar-treasuries-and-ai-equities)
