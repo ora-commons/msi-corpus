@@ -200,6 +200,8 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.6819
+analyses:
+- '2026-11-04-leingang-links-iowa-s-democratic-sweep-to-costs-anger-and-a-missing-republican-c'
 ---
 ## Democrats flip Iowa's governor's office, U.S. Senate seat and three of four congressional districts
 
@@ -248,3 +250,8 @@ Leingang said the victories created avenues for Democrats to hold Trump accounta
 **Publication date:** 2026-11-04
 **Title:** Resounding wins for Democrats a wholesale rebuke of Trump’s Maga movement
 **URL:** https://www.theguardian.com/us-news/2026/nov/04/us-midterm-results-democrats-trump-analysis
+
+---
+
+<!-- analysis-link:2026-11-04-leingang-links-iowa-s-democratic-sweep-to-costs-anger-and-a-missing-republican-c -->
+**Going deeper:** [Read MSI's analysis of Iowa’s shift and the 2028 test →](/analyses/2026-11-04-leingang-links-iowa-s-democratic-sweep-to-costs-anger-and-a-missing-republican-c)
