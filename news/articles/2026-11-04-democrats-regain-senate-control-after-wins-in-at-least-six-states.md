@@ -1,9 +1,20 @@
 ---
 headline: Democrats regain Senate control after wins in at least six states
-secondary_headline: House win would restore unified congressional control for the first time since 2022
+secondary_headline: House win would restore unified congressional control for the
+  first time since 2022
 publish_date: '2026-11-04'
-lede: The Guardian reported that Democrats regained control of the US Senate in the 2026 midterms, including through victories in states where the party had not won Senate seats in years or decades. According to the Associated Press, as cited by The Guardian, Democratic candidates won in South Carolina, North Carolina, Ohio, Texas, Iowa and Kansas. Democrats also were expected to win the House of Representatives, which would give the party control of both chambers beginning next year for the first time since 2022.
-nut_graf: The Guardian said Senate control would give Democrats the votes to hold up President Donald Trump's legislative agenda and block appointments to his cabinet, the federal judiciary and the Supreme Court. Vote counting continued in Minnesota, Michigan and Maine when The Guardian published, while the Alaska result could take days to decide.
+lede: The Guardian reported that Democrats regained control of the US Senate in the
+  2026 midterms, including through victories in states where the party had not won
+  Senate seats in years or decades. According to the Associated Press, as cited by
+  The Guardian, Democratic candidates won in South Carolina, North Carolina, Ohio,
+  Texas, Iowa and Kansas. Democrats also were expected to win the House of Representatives,
+  which would give the party control of both chambers beginning next year for the
+  first time since 2022.
+nut_graf: The Guardian said Senate control would give Democrats the votes to hold
+  up President Donald Trump's legislative agenda and block appointments to his cabinet,
+  the federal judiciary and the Supreme Court. Vote counting continued in Minnesota,
+  Michigan and Maine when The Guardian published, while the Alaska result could take
+  days to decide.
 primary_entities:
 - The Guardian
 - Associated Press
@@ -49,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,113 +163,56 @@ related_stories:
   headline: Democrats poised for House control as midterm election results begin
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7632
+  strength: 0.7631
 - slug: 2026-11-04-jon-ossoff-projected-to-win-georgia-senate-race-democrats-press-for-control
   headline: Jon Ossoff projected to win Georgia Senate race; Democrats press for control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.763
+  strength: 0.7623
 - slug: 2026-11-03-guardian-tracker-maps-2026-midterms-with-ratings-and-ap-race-call-rules
   headline: Guardian tracker maps 2026 midterms with ratings and AP race-call rules
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7646
+  strength: 0.7641
 - slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
   headline: US midterm results may take days or weeks to settle
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7536
+  strength: 0.7533
 - slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
   headline: US midterms reach election day with three possible congressional outcomes
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7442
+  strength: 0.7437
 - slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
   headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7494
+  strength: 0.749
 - slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7544
+  strength: 0.754
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7369
-- slug: 2026-11-02-seven-senate-races-could-decide-senate-control-in-2026
-  headline: Seven Senate races could decide Senate control in 2026
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7377
-- slug: 2026-11-04-democrats-flip-a-senate-seat-and-a-house-seat-in-early-returns
-  headline: Democrats flip a Senate seat and a House seat in early returns
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7169
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7272
-- slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
-  headline: Democrats lead polls as Trump enters midterms with 32% approval
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.729
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7658
-- slug: 2026-10-30-democrats-need-four-senate-flips-as-red-state-races-tighten
-  headline: Democrats need four Senate flips as red-state races tighten
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7269
-- slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
-  headline: Early voting passes 50.5 million with three days to go before midterms
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.719
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7785
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7348
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.774
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7211
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7162
+  strength: 0.7367
 image:
   url: /articles/2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states.png
-  alt: "Illustration accompanying article: Democrats regain Senate control after wins in at least six states"
+  alt: 'Illustration accompanying article: Democrats regain Senate control after wins
+    in at least six states'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Democrats regain Senate control after wins in at least six states
 
 **Subtype:** fact
