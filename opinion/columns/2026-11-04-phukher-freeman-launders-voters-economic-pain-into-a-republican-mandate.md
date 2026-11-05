@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: phukher-tarlson-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -32,7 +33,29 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/freeman-launders-voters-economic-pain-into-a-republican.png
+  alt: 'Editorial cartoon by Hector Rentier: Freeman Launders Voters’ Economic Pain
+    Into a Republican Mandate'
+  caption: Freeman converted voters’ economic pain into permission for Republican
+    policy.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-04T22:03:32-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square single-panel Nast-style wood engraving in dense cross-hatch. James
+    Freeman, fully individuated and recognizable, sits at a polished opinion desk
+    labeled “JAMES FREEMAN — OPINION.” His ordinary,
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-04-hector-paired-with-2026-11-04-phukher-freeman-launders-voters-economic-pain-into-a-republican-mandate
 ---
+
+![Editorial cartoon by Hector Rentier: Freeman Launders Voters’ Economic Pain Into a Republican Mandate](/cartoons/freeman-launders-voters-economic-pain-into-a-republican.png)
+*Freeman converted voters’ economic pain into permission for Republican policy.*
 
 James Freeman smuggles voters’ economic pain into a Republican mandate.
 

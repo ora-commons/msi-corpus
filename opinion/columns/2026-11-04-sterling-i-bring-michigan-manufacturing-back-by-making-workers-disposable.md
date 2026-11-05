@@ -1,7 +1,8 @@
 ---
 headline: I Bring Michigan Manufacturing Back by Making Workers Disposable
 publish_date: '2026-11-04'
-lede: Cyril is the write-off hand on the stamping line I own outside Flint, and I’ll bring Michigan manufacturing back by making workers disposable.
+lede: Cyril is the write-off hand on the stamping line I own outside Flint, and I’ll
+  bring Michigan manufacturing back by making workers disposable.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/i-bring-michigan-manufacturing-back-by-making-workers.png
+  alt: 'Editorial cartoon by Hector Rentier: I Bring Michigan Manufacturing Back by
+    Making Workers Disposable'
+  caption: He reclassified the worker as temporary. The $34 premium stayed.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-04T22:08:22-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Square 1:1 single panel rendered in heavy black wood-engraving cross-hatch,
+    dense yet readable at thumbnail size. At center-right, a fully individuated, middle-aged
+    plant manager in a clean dark suit '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-04-hector-paired-with-2026-11-04-sterling-i-bring-michigan-manufacturing-back-by-making-workers-disposable
 ---
+
+![Editorial cartoon by Hector Rentier: I Bring Michigan Manufacturing Back by Making Workers Disposable](/cartoons/i-bring-michigan-manufacturing-back-by-making-workers.png)
+*He reclassified the worker as temporary. The $34 premium stayed.*
 
 Cyril is the write-off hand on the stamping line I own outside Flint, and I’ll bring Michigan manufacturing back by making workers disposable. The [Fox News op-ed](https://www.foxnews.com/opinion/mike-rogers-michigans-vote-senate) says Michigan has the Midwest’s highest utility rates. I agree: costs must come down. Let’s begin with mine. You pay for the stamped steel inner door panel in your car. Cyril’s hands pressed it before the press took 2 of his fingers. I deny Cyril’s workers’ compensation claim, and I keep the $34 monthly premium we budgeted for his coverage. The cheap panel wins. God bless the cheaper car.
 

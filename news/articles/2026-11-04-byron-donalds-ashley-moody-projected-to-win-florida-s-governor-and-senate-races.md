@@ -1,9 +1,15 @@
 ---
-headline: Byron Donalds, Ashley Moody projected to win Florida's governor and Senate races
+headline: Byron Donalds, Ashley Moody projected to win Florida's governor and Senate
+  races
 secondary_headline: Historic Democratic gains deliver House and Senate control
 publish_date: '2026-11-04'
-lede: Republican candidates in Florida held off several high-profile challenges from Democrats in the state's 2026 election, BBC News reported. Byron Donalds was projected to win the governor's race and Ashley Moody to retain her U.S. Senate seat. Donalds's projected victory would make him Florida's first Black governor.
-nut_graf: The results combined Republican holds in two of Florida's leading contests with historic Democratic gains that gave the party full control of Congress. The governor's contest also marked Florida's first Black governorship.
+lede: Republican candidates in Florida held off several high-profile challenges from
+  Democrats in the state's 2026 election, BBC News reported. Byron Donalds was projected
+  to win the governor's race and Ashley Moody to retain her U.S. Senate seat. Donalds's
+  projected victory would make him Florida's first Black governor.
+nut_graf: The results combined Republican holds in two of Florida's leading contests
+  with historic Democratic gains that gave the party full control of Congress. The
+  governor's contest also marked Florida's first Black governorship.
 primary_entities:
 - Florida
 - Byron Donalds
@@ -47,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,12 +158,14 @@ related_stories:
   relation: related
   strength: 0.7896
 - slug: 2026-11-03-byron-donalds-wins-florida-governor-race-becomes-state-s-first-black-governor
-  headline: Byron Donalds wins Florida governor race, becomes state's first Black governor
+  headline: Byron Donalds wins Florida governor race, becomes state's first Black
+    governor
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7931
 - slug: 2026-11-04-byron-donalds-wins-florida-governor-race-to-become-state-s-first-black-governor
-  headline: Byron Donalds wins Florida governor race to become state's first Black governor
+  headline: Byron Donalds wins Florida governor race to become state's first Black
+    governor
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7775
@@ -181,72 +190,12 @@ related_stories:
   relation: related
   strength: 0.7014
 - slug: 2026-11-04-democrats-projected-to-take-congress-cooper-wins-north-carolina-senate-race
-  headline: Democrats projected to take Congress; Cooper wins North Carolina Senate race
+  headline: Democrats projected to take Congress; Cooper wins North Carolina Senate
+    race
   publish_date: '2026-11-04'
   relation: related
   strength: 0.6962
-- slug: 2026-11-04-democrats-win-three-seats-in-republican-redrawn-florida-districts
-  headline: Democrats win three seats in Republican-redrawn Florida districts
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6881
-- slug: 2026-11-04-democrats-win-key-governor-races-with-historic-firsts
-  headline: Democrats win key governor races with historic firsts
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6854
-- slug: 2026-10-23-byron-donalds-plans-to-join-trump-in-fort-myers-after-avoiding-his-name
-  headline: Byron Donalds plans to join Trump in Fort Myers after avoiding his name
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7263
-- slug: 2026-10-20-dga-sends-1-million-to-jolly-s-florida-governor-bid
-  headline: DGA sends $1 million to Jolly's Florida governor bid
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6808
-- slug: 2026-10-09-democrats-narrow-gaps-in-republican-held-races-with-month-to-midterms
-  headline: Democrats narrow gaps in Republican-held races with month to midterms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7338
-- slug: 2026-10-04-donalds-navigates-trump-ties-in-tightening-florida-governor-s-race
-  headline: Donalds navigates Trump ties in tightening Florida governor's race
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7442
-- slug: 2026-10-04-donalds-builds-florida-governor-bid-on-brooklyn-to-naples-transformation
-  headline: Donalds builds Florida governor bid on Brooklyn-to-Naples transformation
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7334
-- slug: 2026-09-22-donalds-strips-trump-mentions-from-campaign-website
-  headline: Donalds strips Trump mentions from campaign website
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6765
-- slug: 2026-08-18-florida-primaries-favor-moderate-democrats-donalds-leads-gop-governor-s-race
-  headline: Florida primaries favor moderate Democrats; Donalds leads GOP governor's race
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7653
-- slug: 2026-08-19-angie-nixon-defeats-vindman-in-florida-democratic-senate-primary
-  headline: Angie Nixon defeats Vindman in Florida Democratic Senate primary
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7454
-- slug: 2026-08-30-angie-nixon-readies-for-november-senate-race-after-democratic-primary-win
-  headline: Angie Nixon readies for November Senate race after Democratic primary win
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6742
-- slug: 2026-08-19-record-seven-black-gubernatorial-nominees-set-for-november-ballots
-  headline: Record seven Black gubernatorial nominees set for November ballots
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6902
 ---
-
 ## Byron Donalds, Ashley Moody projected to win Florida's governor and Senate races
 
 **Subtype:** fact
