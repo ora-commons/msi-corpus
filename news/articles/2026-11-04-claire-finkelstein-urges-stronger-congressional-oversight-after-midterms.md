@@ -2,8 +2,20 @@
 headline: Claire Finkelstein urges stronger congressional oversight after midterms
 secondary_headline: Finkelstein says impeachment could protect congressional subpoenas
 publish_date: '2026-11-04'
-lede: Claire Finkelstein urged leaders of the 120th Congress to use sustained oversight and possible impeachment investigations to hold the Trump administration accountable. In her Nov. 4 opinion article in The Guardian, Finkelstein said Democrats had won the United States House of Representatives and the United States Senate and argued that polls foreshadowed the result. She said negotiations with Donald Trump would be needed to head off what she called the inevitable veto on most, if not all, Democratic-led reforms.
-nut_graf: 'Finkelstein''s central argument was procedural: Congress''s ability to obtain testimony and enforce subpoenas had weakened during Trump''s two impeachments, and investigations of several administration officials could protect congressional subpoenas from separation-of-powers objections. She paired that proposal with internal ethics measures intended to reduce congressional conflicts of interest and prevent stronger oversight powers from being misused. She also acknowledged that a third Trump impeachment was highly unlikely to result in removal.'
+lede: Claire Finkelstein urged leaders of the 120th Congress to use sustained oversight
+  and possible impeachment investigations to hold the Trump administration accountable.
+  In her Nov. 4 opinion article in The Guardian, Finkelstein said Democrats had won
+  the United States House of Representatives and the United States Senate and argued
+  that polls foreshadowed the result. She said negotiations with Donald Trump would
+  be needed to head off what she called the inevitable veto on most, if not all, Democratic-led
+  reforms.
+nut_graf: 'Finkelstein''s central argument was procedural: Congress''s ability to
+  obtain testimony and enforce subpoenas had weakened during Trump''s two impeachments,
+  and investigations of several administration officials could protect congressional
+  subpoenas from separation-of-powers objections. She paired that proposal with internal
+  ethics measures intended to reduce congressional conflicts of interest and prevent
+  stronger oversight powers from being misused. She also acknowledged that a third
+  Trump impeachment was highly unlikely to result in removal.'
 primary_entities:
 - Claire Finkelstein
 - Donald Trump
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +156,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-claire-finkelstein-urges-stronger-congressional-oversight-after-midterms.png
-  alt: 'Illustration accompanying article: Claire Finkelstein urges stronger congressional oversight after midterms'
+  alt: 'Illustration accompanying article: Claire Finkelstein urges stronger congressional
+    oversight after midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
   headline: Democrats win Senate majority, adding checks on Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.726
+  strength: 0.7263
 - slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
   headline: Democrats poised for House control as midterm election results begin
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7161
+  strength: 0.7164
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.712
+  strength: 0.7122
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7009
+  strength: 0.7011
 - slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
   headline: Democrats regain Senate control after wins in at least six states
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6928
+  strength: 0.6932
 - slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
   headline: Democrats win House, control Congress for Trump's final two years
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6906
+  strength: 0.691
 - slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
+  headline: House Democrats detail probes into Trump family, Epstein files and the
+    Pentagon
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6851
+  strength: 0.6853
 - slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
   headline: US midterms reach election day with three possible congressional outcomes
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6884
-- slug: 2026-11-04-trump-froze-appropriated-funds-and-expanded-tariff-authority-without-congress
-  headline: Trump froze appropriated funds and expanded tariff authority without Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6805
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6756
-- slug: 2026-11-03-trump-pairs-5-000-pledge-with-national-mall-closing-argument
-  headline: Trump pairs $5,000 pledge with National Mall closing argument
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6806
-- slug: 2026-11-01-the-guardian-warns-of-election-interference-ahead-of-us-midterms
-  headline: The Guardian warns of election interference ahead of US midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6934
-- slug: 2026-10-27-congressional-democrats-prepare-legal-filings-before-midterm-voting
-  headline: Congressional Democrats prepare legal filings before midterm voting
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6849
-- slug: 2026-10-24-epstein-files-slip-from-midterm-focus-as-advocates-seek-renewed-scrutiny
-  headline: Epstein files slip from midterm focus as advocates seek renewed scrutiny
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6958
-- slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
-  headline: Democrats outline investigation priorities if they win Congress
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6871
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6932
-- slug: 2026-09-29-election-lawyer-lays-out-senate-democratic-options-against-house-challenges
-  headline: Election lawyer lays out Senate Democratic options against House challenges
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6942
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.729
-- slug: 2026-08-13-jeffries-says-democrats-would-overhaul-supreme-court-if-they-regain-power
-  headline: Jeffries says Democrats would overhaul Supreme Court if they regain power
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6837
-- slug: 2026-07-03-legal-experts-predict-heavy-scrutiny-of-trump-if-democrats-win-house
-  headline: Legal experts predict heavy scrutiny of Trump if Democrats win House
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.692
+  strength: 0.688
 ---
-
 ## Claire Finkelstein urges stronger congressional oversight after midterms
 
 **Subtype:** fact
