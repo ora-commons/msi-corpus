@@ -2,8 +2,14 @@
 headline: NPR station photographers document Election Day across the country
 secondary_headline: Control of Congress is at stake as voters cast 2026 midterm ballots
 publish_date: '2026-11-03'
-lede: Voters across the United States headed to the polls on November 3, 2026, to cast ballots in the 2026 midterm elections, with control of Congress at stake. NPR station photographers documented the election in their communities, from lines at polling stations to anticipation and reactions as results came in.
-nut_graf: NPR's report, written by Meredith Nierman, presents Election Day through photographs made by station photographers in communities around the country. It situates local experiences within a national election by documenting both the casting of ballots and reactions to incoming results amid deep political division.
+lede: Voters across the United States headed to the polls on November 3, 2026, to
+  cast ballots in the 2026 midterm elections, with control of Congress at stake. NPR
+  station photographers documented the election in their communities, from lines at
+  polling stations to anticipation and reactions as results came in.
+nut_graf: NPR's report, written by Meredith Nierman, presents Election Day through
+  photographs made by station photographers in communities around the country. It
+  situates local experiences within a national election by documenting both the casting
+  of ballots and reactions to incoming results amid deep political division.
 primary_entities:
 - NPR
 - Meredith Nierman
@@ -37,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,7 +153,8 @@ related_stories:
   relation: related
   strength: 0.7015
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7001
@@ -175,68 +183,7 @@ related_stories:
   publish_date: '2026-10-28'
   relation: related
   strength: 0.7153
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.678
-- slug: 2026-11-03-justice-department-sends-observers-as-watchdogs-prepare-poll-monitors
-  headline: Justice Department sends observers as watchdogs prepare poll monitors
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.66
-- slug: 2026-11-02-five-2026-midterm-voting-issues-include-federal-pressure-and-state-rules
-  headline: Five 2026 midterm voting issues include federal pressure and state rules
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6638
-- slug: 2026-11-03-bbc-schedules-live-coverage-for-us-midterm-election-results
-  headline: BBC schedules live coverage for US midterm election results
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6541
-- slug: 2026-11-03-republicans-rare-mid-decade-redistricting-likely-falls-short-in-house-fight
-  headline: Republicans' rare mid-decade redistricting likely falls short in House fight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6534
-- slug: 2026-11-02-election-officials-beyond-battlegrounds-face-expanded-midterm-scrutiny
-  headline: Election officials beyond battlegrounds face expanded midterm scrutiny
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6565
-- slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
-  headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6559
-- slug: 2026-10-30-npr-network-compiles-local-voter-guides-ahead-of-2026-midterms
-  headline: NPR Network compiles local voter guides ahead of 2026 midterms
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6664
-- slug: 2026-10-31-justice-department-poll-monitoring-puts-county-election-officials-on-high-alert
-  headline: Justice Department poll monitoring puts county election officials on high alert
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6518
-- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
-  headline: Democrats lead House polling as Trump approval stays below 50%
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6684
-- slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
-  headline: Voters cast ballots in districts reshaped by Trump's redistricting push
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6912
-- slug: 2026-10-21-justice-department-notifies-counties-of-planned-election-day-monitoring
-  headline: Justice Department notifies counties of planned Election Day monitoring
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6518
 ---
-
 ## NPR station photographers document Election Day across the country
 
 **Subtype:** fact
