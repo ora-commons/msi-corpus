@@ -215,6 +215,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-04-el-sayed-s-victory-expands-democratic-control-as-michigan-s-decisive-voter-conce'
 ---
 ## Abdul El-Sayed wins Michigan Senate seat as first Muslim US senator
 
@@ -255,3 +257,8 @@ In his victory speech, El-Sayed said: “We want our taxes spent here, for schoo
 **Publication date:** 2026-11-04
 **Title:** Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator
 **URL:** https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate
+
+---
+
+<!-- analysis-link:2026-11-04-el-sayed-s-victory-expands-democratic-control-as-michigan-s-decisive-voter-conce -->
+**Going deeper:** [Read MSI's analysis of Michigan’s contested voter coalition →](/analyses/2026-11-04-el-sayed-s-victory-expands-democratic-control-as-michigan-s-decisive-voter-conce)
