@@ -1,9 +1,23 @@
 ---
 headline: Cost of living central in Associated Press poll as Democrats win both chambers
-secondary_headline: Associated Press polling found economy pessimists favored Democrats 67% to 29%
+secondary_headline: Associated Press polling found economy pessimists favored Democrats
+  67% to 29%
 publish_date: '2026-11-04'
-lede: Voters delivered control of the House and Senate to Democrats in Tuesday’s elections. Associated Press polling reported by The Wall Street Journal found that nearly 90% of polled voters called the cost of living a crucial or major factor, while those who rated the economy as not so good or poor backed Democratic candidates 67% to 29%. Voters favored Democrats over Republicans to handle the economy, inflation and tariffs, and nearly two-thirds said Trump’s tariff policies hurt the national economy.
-nut_graf: Associated Press polling found that nearly 80% of voters said inflation had caused hardship in their families over the past year and that nearly two-thirds said Trump’s tariff policies had hurt the national economy, while the same share said Trump had made economic conditions worse. Democrats led Republicans by 3 percentage points on handling the economy, 5 points on inflation and 7 points on tariffs, after Republican advantages of 12, 10 and 7 points, respectively. The economy also had measurable strengths, including 3.4% annual growth over the summer, record stock-market highs, low unemployment and renewed manufacturing hiring.
+lede: Voters delivered control of the House and Senate to Democrats in Tuesday’s elections.
+  Associated Press polling reported by The Wall Street Journal found that nearly 90%
+  of polled voters called the cost of living a crucial or major factor, while those
+  who rated the economy as not so good or poor backed Democratic candidates 67% to
+  29%. Voters favored Democrats over Republicans to handle the economy, inflation
+  and tariffs, and nearly two-thirds said Trump’s tariff policies hurt the national
+  economy.
+nut_graf: Associated Press polling found that nearly 80% of voters said inflation
+  had caused hardship in their families over the past year and that nearly two-thirds
+  said Trump’s tariff policies had hurt the national economy, while the same share
+  said Trump had made economic conditions worse. Democrats led Republicans by 3 percentage
+  points on handling the economy, 5 points on inflation and 7 points on tariffs, after
+  Republican advantages of 12, 10 and 7 points, respectively. The economy also had
+  measurable strengths, including 3.4% annual growth over the summer, record stock-market
+  highs, low unemployment and renewed manufacturing hiring.
 primary_entities:
 - United States
 - The Wall Street Journal
@@ -44,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +75,9 @@ figures:
   series_id: UMCSENT
   transformation: raw
   as_of: '2026-11-04'
-  caption: FRED’s University of Michigan Consumer Sentiment index stood at 48.1 on Nov. 4. The reading provides measured context for The Wall Street Journal’s report that October’s survey result was the second-lowest since 1952.
+  caption: FRED’s University of Michigan Consumer Sentiment index stood at 48.1 on
+    Nov. 4. The reading provides measured context for The Wall Street Journal’s report
+    that October’s survey result was the second-lowest since 1952.
 figures_aggregate:
   count: 1
   series_ids:
@@ -154,104 +171,45 @@ related_stories:
   headline: Midterm voters cite cost of living and dissatisfaction with Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8201
+  strength: 0.819
 - slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
   headline: Poll finds voters rejecting Republicans more than embracing Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7394
+  strength: 0.7388
 - slug: 2026-11-04-texas-voters-reporting-inflation-hardship-favored-talarico-in-senate-race
   headline: Texas voters reporting inflation hardship favored Talarico in Senate race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7307
+  strength: 0.7312
+- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
+  publish_date: '2026-11-03'
+  relation: related
+  strength: 0.7308
 - slug: 2026-11-03-cost-of-living-and-trump-s-second-term-policies-shape-2026-midterms
   headline: Cost of living and Trump's second-term policies shape 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7308
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
+  strength: 0.7305
+- slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
+  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points
+    in 2026
+  publish_date: '2026-11-04'
   relation: related
-  strength: 0.7304
+  strength: 0.7168
 - slug: 2026-11-03-final-polls-put-trump-s-approval-around-38-only-29-view-democrats-positively
   headline: Final polls put Trump's approval around 38%; only 29% view Democrats positively
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.723
-- slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7156
+  strength: 0.7217
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7115
-- slug: 2026-11-01-trump-s-policies-put-republican-congressional-majorities-at-risk-in-the-midterms
-  headline: Trump’s policies put Republican congressional majorities at risk in the midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.728
-- slug: 2026-10-31-cost-of-living-iran-war-and-ai-weigh-on-us-voters-days-before-midterms
-  headline: Cost of living, Iran war and AI weigh on US voters days before midterms
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7304
-- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
-  headline: Consumer prices outpace paychecks as the midterms approach
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7583
-- slug: 2026-10-30-harris-poll-finds-corruption-second-only-to-cost-of-living-for-voters
-  headline: Harris poll finds corruption second only to cost of living for voters
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.712
-- slug: 2026-10-27-wage-growth-trails-inflation-as-trump-s-tariffs-raise-consumer-goods-prices
-  headline: Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7229
-- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
-  headline: Democrats lead House polling as Trump approval stays below 50%
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7184
-- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
-  headline: New poll finds Democrats 11 points ahead among registered voters
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7138
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7159
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7209
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7459
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7172
-- slug: 2026-09-28-73-of-americans-rate-economy-fair-or-poor-as-inflation-climbs-to-3-4
-  headline: 73% of Americans rate economy fair or poor as inflation climbs to 3.4%
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7273
+  strength: 0.7133
 ---
-
 ## Cost of living central in Associated Press poll as Democrats win both chambers
 
 **Subtype:** fact
