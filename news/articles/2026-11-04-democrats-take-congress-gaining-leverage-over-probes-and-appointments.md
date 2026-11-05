@@ -1,9 +1,18 @@
 ---
 headline: Democrats take Congress, gaining leverage over probes and appointments
-secondary_headline: Potential House probes span Trump family business, the Pentagon and Epstein files
+secondary_headline: Potential House probes span Trump family business, the Pentagon
+  and Epstein files
 publish_date: '2026-11-04'
-lede: Democrats won the U.S. House and Senate in the 2026 midterms, taking control of both chambers of Congress. Hakeem Jeffries is poised to become House majority leader, while a Democratic Senate majority can block or delay Trump administration appointments and force the White House to negotiate over legislation. House Democrats also outlined oversight priorities involving the Trump family, the Pentagon and the Epstein files, while a third impeachment of Donald Trump remains under consideration.
-nut_graf: The shift gives Democrats new leverage over investigations, document and testimony demands, appointments and negotiations over legislation. The immediate choices include which oversight probes to pursue and whether party pressure for a third Trump impeachment produces another attempt.
+lede: Democrats won the U.S. House and Senate in the 2026 midterms, taking control
+  of both chambers of Congress. Hakeem Jeffries is poised to become House majority
+  leader, while a Democratic Senate majority can block or delay Trump administration
+  appointments and force the White House to negotiate over legislation. House Democrats
+  also outlined oversight priorities involving the Trump family, the Pentagon and
+  the Epstein files, while a third impeachment of Donald Trump remains under consideration.
+nut_graf: The shift gives Democrats new leverage over investigations, document and
+  testimony demands, appointments and negotiations over legislation. The immediate
+  choices include which oversight probes to pursue and whether party pressure for
+  a third Trump impeachment produces another attempt.
 primary_entities:
 - Democrats
 - Republicans
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +150,61 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
+  headline: House Democrats detail probes into Trump family, Epstein files and the
+    Pentagon
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8223
+  strength: 0.824
 - slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
   headline: Democrats poised for House control as midterm election results begin
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8098
+  strength: 0.8096
 - slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
   headline: Democrats win Senate majority, adding checks on Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7985
+  strength: 0.7977
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7706
+  strength: 0.7707
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7709
+  strength: 0.7706
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7553
+  strength: 0.7548
 - slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
   headline: Democrats win House and Senate in 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7493
+  strength: 0.7488
 - slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
   headline: Democrats win House, control Congress for Trump's final two years
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7442
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7297
-- slug: 2026-11-04-historic-firsts-and-party-tests-follow-democratic-midterm-victories
-  headline: Historic firsts and party tests follow Democratic midterm victories
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7276
-- slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
-  headline: Democrats regain Senate control after wins in at least six states
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7272
-- slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
-  headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.736
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7336
-- slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7391
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7267
-- slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
-  headline: Democrats outline investigation priorities if they win Congress
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7978
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7905
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7368
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7381
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7406
+  strength: 0.7439
 image:
   url: /articles/2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments.png
-  alt: "Illustration accompanying article: Democrats take Congress, gaining leverage over probes and appointments"
+  alt: 'Illustration accompanying article: Democrats take Congress, gaining leverage
+    over probes and appointments'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Democrats take Congress, gaining leverage over probes and appointments
 
 **Subtype:** fact
