@@ -2,8 +2,15 @@
 headline: Paul Pelosi gets probation after no-contest hit-and-run plea
 secondary_headline: Six-month driving ban and 10-day work program ordered
 publish_date: '2026-11-04'
-lede: Paul Pelosi received one year of summary probation on Tuesday after pleading no contest to a misdemeanor hit-and-run charge and an unlawful-turn infraction, Napa County prosecutors said. The 86-year-old was prohibited from driving for six months and ordered to complete a 10-day work program. Pelosi also paid about $11,200 in restitution to the car's owner, along with court fines and fees.
-nut_graf: The case arose from a July 3 collision in Yountville, California, involving a legally parked, unoccupied car and Pelosi's brown convertible. Officials reported no injuries and said alcohol was not involved. Pelosi also has a 2022 misdemeanor conviction for driving under the influence in Napa County.
+lede: Paul Pelosi received one year of summary probation on Tuesday after pleading
+  no contest to a misdemeanor hit-and-run charge and an unlawful-turn infraction,
+  Napa County prosecutors said. The 86-year-old was prohibited from driving for six
+  months and ordered to complete a 10-day work program. Pelosi also paid about $11,200
+  in restitution to the car's owner, along with court fines and fees.
+nut_graf: The case arose from a July 3 collision in Yountville, California, involving
+  a legally parked, unoccupied car and Pelosi's brown convertible. Officials reported
+  no injuries and said alcohol was not involved. Pelosi also has a 2022 misdemeanor
+  conviction for driving under the influence in Napa County.
 primary_entities:
 - Paul Pelosi
 - Nancy Pelosi
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +147,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-25-police-describe-rear-end-collision-that-injured-peltola-s-family-in-anchorage
-  headline: Police describe rear-end collision that injured Peltola's family in Anchorage
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5944
 - slug: 2026-07-17-paul-pelosi-charged-with-misdemeanor-hit-and-run-in-napa-county
   headline: Paul Pelosi charged with misdemeanor hit-and-run in Napa County
   publish_date: '2026-07-17'
   relation: related
   strength: 0.8604
-- slug: 2026-10-03-florida-appeals-court-reverses-both-convictions-in-hot-car-baby-death
-  headline: Florida appeals court reverses both convictions in hot-car baby death
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6042
-- slug: 2026-08-31-kalshi-bans-george-santos-for-life-imposes-71-356-penalty
-  headline: Kalshi bans George Santos for life, imposes $71,356 penalty
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5896
-- slug: 2026-08-27-fauci-contempt-push-stalls-as-trump-administration-questions-legal-approach
-  headline: Fauci contempt push stalls as Trump administration questions legal approach
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5935
-- slug: 2026-07-24-thomas-goldstein-gets-6-years-for-tax-evasion-mortgage-fraud
-  headline: Thomas Goldstein gets 6 years for tax evasion, mortgage fraud
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5846
-- slug: 2026-07-02-nhtsa-closes-four-year-tesla-phantom-braking-probe-covering-416-000-vehicles
-  headline: NHTSA closes four-year Tesla phantom braking probe covering 416,000 vehicles
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5768
-- slug: 2026-06-01-convicted-colorado-election-clerk-tina-peters-released-from-prison-monday
-  headline: Convicted Colorado election clerk Tina Peters released from prison Monday
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5964
-- slug: 2026-04-21-california-man-pleads-guilty-in-wrong-way-crash-that-killed-sheriff-recruit
-  headline: California man pleads guilty in wrong-way crash that killed sheriff recruit
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6101
-- slug: 2026-05-16-colorado-gov-polis-commutes-tina-peters-sentence-after-trump-pressure
-  headline: Colorado Gov. Polis commutes Tina Peters' sentence after Trump pressure
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6001
-- slug: 2026-01-15-woman-jailed-after-crashing-vehicle-into-west-palm-beach-federal-courthouse
-  headline: Woman jailed after crashing vehicle into West Palm Beach federal courthouse
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6209
-- slug: 2026-05-16-colorado-governor-commutes-tina-peters-sentence-after-trump-pressure
-  headline: Colorado governor commutes Tina Peters’ sentence after Trump pressure
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5991
-- slug: 2026-06-01-oregon-man-named-loony-toon-sentenced-to-20-years-for-shooting-at-police
-  headline: Oregon man named Loony Toon sentenced to 20 years for shooting at police
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5888
-- slug: 2026-06-05-jury-awards-176m-to-parents-of-brothers-killed-in-hit-and-run-by-socialite-ex-pi
-  headline: Jury awards $176M to parents of brothers killed in hit-and-run by socialite, ex-pitcher
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5851
-- slug: 2026-05-10-driver-rescinds-guilty-plea-in-la-wrong-way-crash-that-killed-recruit
-  headline: Driver rescinds guilty plea in LA wrong-way crash that killed recruit
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5958
-- slug: 2026-04-08-prosecutors-seek-tiger-woods-prescription-drug-records-after-florida-dui-arrest
-  headline: Prosecutors seek Tiger Woods’ prescription drug records after Florida DUI arrest
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.597
-- slug: 2026-03-29-tiger-woods-arrested-in-florida-after-rollover-crash-authorities-say
-  headline: Tiger Woods arrested in Florida after rollover crash, authorities say
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.5977
-- slug: 2026-05-13-judge-orders-tiger-woods-prescription-records-released-to-florida-prosecutors
-  headline: Judge orders Tiger Woods' prescription records released to Florida prosecutors
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5845
-- slug: 2026-03-05-colorado-governor-signals-clemency-for-tina-peters-amid-trump-pressure
-  headline: Colorado governor signals openness to clemency for convicted election clerk
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5969
-- slug: 2026-03-31-change-to-florida-law-could-affect-tiger-woods-rollover-dui-case
-  headline: Change to Florida law could affect Tiger Woods' rollover DUI case
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5899
 ---
-
 ## Paul Pelosi gets probation after no-contest hit-and-run plea
 
 **Subtype:** fact
