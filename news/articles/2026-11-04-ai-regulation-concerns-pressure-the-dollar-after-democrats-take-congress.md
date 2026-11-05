@@ -2,8 +2,17 @@
 headline: AI regulation concerns pressure the dollar after Democrats take Congress
 secondary_headline: Gold rises above $4,000 as investors seek safe-haven assets
 publish_date: '2026-11-04'
-lede: The U.S. dollar fell sharply on Nov. 4 after Democrats won control of the Senate and House in the 2026 midterm elections, according to The Guardian. The dollar index reached a one-month low as investors moved into U.S. Treasuries and other safe-haven currencies, while AI-related shares came under pressure amid fears that greater regulation of AI could slow economic growth.
-nut_graf: 'The reaction linked a Democratic-controlled Congress with uncertainty over corporate AI rules, the pace of the AI infrastructure rollout in Texas and Donald Trump''s ability to advance his agenda. The moves were mixed across asset classes: safe-haven assets gained, some AI-related stocks fell, and analysts said gridlock would leave Trump able to influence markets through trade and tariffs, foreign policy and existing regulations.'
+lede: The U.S. dollar fell sharply on Nov. 4 after Democrats won control of the Senate
+  and House in the 2026 midterm elections, according to The Guardian. The dollar index
+  reached a one-month low as investors moved into U.S. Treasuries and other safe-haven
+  currencies, while AI-related shares came under pressure amid fears that greater
+  regulation of AI could slow economic growth.
+nut_graf: 'The reaction linked a Democratic-controlled Congress with uncertainty over
+  corporate AI rules, the pace of the AI infrastructure rollout in Texas and Donald
+  Trump''s ability to advance his agenda. The moves were mixed across asset classes:
+  safe-haven assets gained, some AI-related stocks fell, and analysts said gridlock
+  would leave Trump able to influence markets through trade and tariffs, foreign policy
+  and existing regulations.'
 primary_entities:
 - United States
 - Democrats
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +69,9 @@ figures:
   series_id: DGS10
   transformation: raw
   as_of: 2026-11-04
-  caption: The chart shows FRED's raw DGS10 observation of 4.91% on Nov. 4, 2026. The Guardian separately reported that the yield fell by almost five basis points to 4.915%.
+  caption: The chart shows FRED's raw DGS10 observation of 4.91% on Nov. 4, 2026.
+    The Guardian separately reported that the yield fell by almost five basis points
+    to 4.915%.
 figures_aggregate:
   count: 1
   series_ids:
@@ -153,7 +165,7 @@ related_stories:
   headline: Midterm results pressure the dollar and lift gold and silver
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7562
+  strength: 0.7554
 - slug: 2026-11-04-democrats-flip-five-senate-seats-as-oil-traders-weigh-iran-policy-risk
   headline: Democrats flip five Senate seats as oil traders weigh Iran policy risk
   publish_date: '2026-11-04'
@@ -163,94 +175,34 @@ related_stories:
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6869
+  strength: 0.6856
 - slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
+  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points
+    in 2026
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6656
+  strength: 0.6648
 - slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6859
+  strength: 0.6853
 - slug: 2026-11-03-the-business-world-anticipates-change-if-democrats-win-substantially
   headline: The business world anticipates change if Democrats win substantially
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6701
-- slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
-  headline: Poll finds voters rejecting Republicans more than embracing Democrats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6625
+  strength: 0.67
 - slug: 2026-11-01-some-tech-employees-quit-jobs-to-hedge-company-stock-after-ai-boom-profits
   headline: Some tech employees quit jobs to hedge company stock after AI-boom profits
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6722
+  strength: 0.6723
 - slug: 2026-10-27-weak-profits-and-u-s-technology-restrictions-weigh-on-chinese-stocks
   headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6623
-- slug: 2026-10-26-us-inflation-fluctuates-as-job-growth-slows-and-mortgage-rates-top-7
-  headline: US inflation fluctuates as job growth slows and mortgage rates top 7%
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6647
-- slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
-  headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.68
-- slug: 2026-10-19-dow-ends-lower-as-ai-shares-rebound-and-european-indexes-retreat
-  headline: Dow ends lower as AI shares rebound and European indexes retreat
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.69
-- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
-  headline: New poll finds Democrats 11 points ahead among registered voters
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6701
-- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
-  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6646
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7155
-- slug: 2026-10-11-treasury-yield-hits-quarter-century-high-as-trump-bets-on-ai-growth
-  headline: Treasury yield hits quarter-century high as Trump bets on AI growth
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6626
-- slug: 2026-09-20-treasury-yields-hit-4-94-amid-iran-war-and-ai-debt-fears
-  headline: Treasury yields hit 4.94% amid Iran war and AI debt fears
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7023
-- slug: 2026-06-19-dollar-hits-one-year-high-as-markets-bet-on-fed-rate-rise
-  headline: Dollar Hits One-Year High as Markets Bet on Fed Rate Rise
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6895
-- slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
-  headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6869
-- slug: 2026-05-16-global-stocks-tumble-as-ai-selloff-meets-oil-price-anxiety
-  headline: Global stocks tumble as AI selloff meets oil-price anxiety
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6702
+  strength: 0.6629
 ---
-
 ## AI regulation concerns pressure the dollar after Democrats take Congress
 
 **Subtype:** fact
