@@ -1,9 +1,21 @@
 ---
-headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races called
+headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races
+  called
 secondary_headline: Democratic Senate column shows 54, including two independents
 publish_date: '2026-11-04'
-lede: A live Associated Press results tracker published by The Guardian had called 33 of 35 Senate races and 367 of 435 House races on November 4, 2026, leaving final congressional totals unsettled. The snapshot showed 228 House seats in the Democratic column and 54 in the Senate's Democratic column, including two independents; Republicans had 139 House seats and 44 Senate seats. The tracker covered election results from all 50 states and initially expected first results after 18:00 EST (15:00 PST, 23:00 GMT, 10:00 AEST). The page said Democrats had taken control of both chambers, but uncalled races and Associated Press estimates left the seat totals provisional.
-nut_graf: 'The provisional figures show how much of the 2026 election map had been resolved when Democrats were projected to control both chambers. The guide''s institutional summary explains why the live count matters: most legislation needs both chambers, the Senate has distinct appointment and advisory functions, and state rules govern how candidates advance or when runoffs occur.'
+lede: A live Associated Press results tracker published by The Guardian had called
+  33 of 35 Senate races and 367 of 435 House races on November 4, 2026, leaving final
+  congressional totals unsettled. The snapshot showed 228 House seats in the Democratic
+  column and 54 in the Senate's Democratic column, including two independents; Republicans
+  had 139 House seats and 44 Senate seats. The tracker covered election results from
+  all 50 states and initially expected first results after 18:00 EST (15:00 PST, 23:00
+  GMT, 10:00 AEST). The page said Democrats had taken control of both chambers, but
+  uncalled races and Associated Press estimates left the seat totals provisional.
+nut_graf: 'The provisional figures show how much of the 2026 election map had been
+  resolved when Democrats were projected to control both chambers. The guide''s institutional
+  summary explains why the live count matters: most legislation needs both chambers,
+  the Senate has distinct appointment and advisory functions, and state rules govern
+  how candidates advance or when runoffs occur.'
 primary_entities:
 - The Guardian
 - Associated Press
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +155,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-live-midterm-tracker-shows-33-of-35-senate-races-367-of-435-house-races-called.png
-  alt: 'Illustration accompanying article: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races called'
+  alt: 'Illustration accompanying article: Live midterm tracker shows 33 of 35 Senate
+    races, 367 of 435 House races called'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-03-guardian-tracker-maps-2026-midterms-with-ratings-and-ap-race-call-rules
   headline: Guardian tracker maps 2026 midterms with ratings and AP race-call rules
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8721
+  strength: 0.8698
 - slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
   headline: US midterm results may take days or weeks to settle
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7812
+  strength: 0.7809
 - slug: 2026-11-03-congress-control-calls-may-take-days-after-tuesday-s-election
   headline: Congress control calls may take days after Tuesday's election
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7686
+  strength: 0.7676
 - slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
   headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7424
+  strength: 0.7408
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7373
+  strength: 0.7359
 - slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
   headline: Democrats regain Senate control after wins in at least six states
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7373
+  strength: 0.7354
 - slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
   headline: US midterms reach election day with three possible congressional outcomes
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7441
+  strength: 0.7418
 - slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
   headline: Democrats poised for House control as midterm election results begin
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7306
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7369
-- slug: 2026-11-03-2026-race-forecasts-combine-ratings-from-three-nonpartisan-analysts
-  headline: 2026 race forecasts combine ratings from three nonpartisan analysts
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7367
-- slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
-  headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7432
-- slug: 2026-11-03-npr-will-use-associated-press-race-calls-for-2026-election-results
-  headline: NPR will use Associated Press race calls for 2026 election results
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7351
-- slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
-  headline: Democrats win Senate seats in six states and four governor races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7279
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7316
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7347
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7773
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7309
-- slug: 2026-10-30-south-carolina-voters-decide-federal-and-state-offices-in-tuesday-s-election
-  headline: South Carolina voters decide federal and state offices in Tuesday's election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7358
-- slug: 2026-10-30-alabama-voters-decide-senate-governor-and-state-offices-tuesday
-  headline: Alabama voters decide Senate, governor and state offices Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7322
-- slug: 2026-10-30-idaho-voters-decide-senate-governor-and-legislative-races-tuesday
-  headline: Idaho voters decide Senate, governor and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7309
+  strength: 0.7311
 ---
-
 ## Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races called
 
 **Subtype:** fact

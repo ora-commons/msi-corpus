@@ -1,8 +1,21 @@
 ---
 headline: Neri sees no change for HPE; Hubbard flags CEO process uncertainty
 publish_date: '2026-11-04'
-lede: In interviews with The Wall Street Journal last week, HPE CEO Antonio Neri said nothing would change for HPE because the company had to speak to both sides of the aisle. In a separate interview last week, Columbia Business School professor Glenn Hubbard said policy gridlock was likely to continue and said he was not sure things would be too different for chief executives. Hubbard said power would be diffuse, creating a process concern rather than a policy concern, if different people were in charge in either house of Congress than in the White House.
-nut_graf: The interviews describe limited immediate policy change for HPE alongside broader process uncertainty for chief executives and Hubbard’s expectation of continued policy gridlock. Norton’s broader account identifies possible Democratic investigations and, in Dow Jones Risk Journal’s Monday assessment, the possibility of subpoenas for companies in hot-button sectors and expected scrutiny for companies that directly did business with Trump or worked on high-profile executive projects. The account also reports state-level calls for temporary data center construction bans and continued administration control of antitrust enforcement.
+lede: In interviews with The Wall Street Journal last week, HPE CEO Antonio Neri said
+  nothing would change for HPE because the company had to speak to both sides of the
+  aisle. In a separate interview last week, Columbia Business School professor Glenn
+  Hubbard said policy gridlock was likely to continue and said he was not sure things
+  would be too different for chief executives. Hubbard said power would be diffuse,
+  creating a process concern rather than a policy concern, if different people were
+  in charge in either house of Congress than in the White House.
+nut_graf: The interviews describe limited immediate policy change for HPE alongside
+  broader process uncertainty for chief executives and Hubbard’s expectation of continued
+  policy gridlock. Norton’s broader account identifies possible Democratic investigations
+  and, in Dow Jones Risk Journal’s Monday assessment, the possibility of subpoenas
+  for companies in hot-button sectors and expected scrutiny for companies that directly
+  did business with Trump or worked on high-profile executive projects. The account
+  also reports state-level calls for temporary data center construction bans and continued
+  administration control of antitrust enforcement.
 primary_entities:
 - Democrats
 - Congress
@@ -60,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,109 +171,8 @@ cross_article_links:
   strength: 0.6289
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6203
-- slug: 2026-11-03-the-business-world-anticipates-change-if-democrats-win-substantially
-  headline: The business world anticipates change if Democrats win substantially
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6139
-- slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
-  headline: Data center backlash forces bipartisan repositioning ahead of US midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5936
-- slug: 2026-10-06-populism-from-left-and-right-targets-corporate-america
-  headline: Populism from left and right targets corporate America
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.626
-- slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
-  headline: Trump tells White House tech CEOs self-regulation is 'very important'
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6334
-- slug: 2026-09-25-tech-ceos-and-white-house-split-on-global-ai-governance-at-un
-  headline: Tech CEOs and White House split on global AI governance at UN
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6215
-- slug: 2026-10-01-congress-likely-done-legislating-until-after-november-midterms
-  headline: Congress likely done legislating until after November midterms
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5977
-- slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
-  headline: Trump, Xi set to discuss AI as both reject slowdown
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6077
-- slug: 2026-09-13-house-democrats-demand-no-recess-until-ai-safeguards-move
-  headline: House Democrats demand no recess until AI safeguards move
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.63
-- slug: 2026-09-15-fedex-ceo-calls-ai-defining-technology-that-ceos-must-drive
-  headline: FedEx CEO calls AI 'defining technology' that CEOs must drive
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.617
-- slug: 2026-09-19-anthropic-ceo-leads-silicon-valley-china-hawks-in-ai-policy-debate
-  headline: Anthropic CEO leads Silicon Valley China hawks in AI policy debate
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5978
-- slug: 2026-09-17-wiles-bessent-press-trump-on-ai-guardrails-as-tech-ceos-resist-oversight
-  headline: Wiles, Bessent press Trump on AI guardrails as tech CEOs resist oversight
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6024
-- slug: 2026-09-15-congress-builds-bipartisan-push-for-ai-guardrails-as-trump-dismisses-risks
-  headline: Congress builds bipartisan push for AI guardrails as Trump dismisses risks
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6051
-- slug: 2026-09-15-trump-dismisses-ai-safety-warnings-as-congress-stalls-legislation
-  headline: Trump dismisses AI safety warnings as Congress stalls legislation
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6049
-- slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6073
-- slug: 2026-08-28-trump-corporate-donors-brace-for-investigations-if-house-flips-to-democrats
-  headline: Trump corporate donors brace for investigations if House flips to Democrats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6289
-- slug: 2026-09-11-populist-right-and-democratic-socialists-draw-closer-on-shared-positions
-  headline: Populist right and democratic socialists draw closer on shared positions
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5925
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6178
-- slug: 2026-09-06-johnson-says-some-election-year-forces-are-out-of-gop-control
-  headline: Johnson says some election-year forces are out of GOP control
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.5964
-- slug: 2026-09-02-tech-executives-trump-officials-urge-g-20-to-minimize-ai-regulation
-  headline: Tech executives, Trump officials urge G-20 to minimize AI regulation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5953
+related_stories: []
 ---
-
 ## Neri sees no change for HPE; Hubbard flags CEO process uncertainty
 
 **Subtype:** fact
