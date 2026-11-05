@@ -2,8 +2,16 @@
 headline: Jacqueline Kelly to lead probe into Cornell gang rape allegations
 secondary_headline: Two lawsuit defendants seek James's removal from Cornell case
 publish_date: '2026-11-04'
-lede: New York Attorney General Letitia James announced Wednesday that Jacqueline Kelly will serve as outside counsel and lead a reopened criminal investigation into gang rape allegations at Cornell University. Kelly, a Cornell alumna and former Manhattan federal prosecutor, will oversee evidence gathering, witness interviews and a review of investigative records with Boies Schiller Flexner and the attorney general's office.
-nut_graf: The appointment places a federal prosecutor with experience in sex crimes, civil-rights offenses, voting-rights violations and hate crimes in charge of the inquiry. A judge has not ruled on two lawsuit defendants' request to remove James, and James says the investigation will take months.
+lede: New York Attorney General Letitia James announced Wednesday that Jacqueline
+  Kelly will serve as outside counsel and lead a reopened criminal investigation into
+  gang rape allegations at Cornell University. Kelly, a Cornell alumna and former
+  Manhattan federal prosecutor, will oversee evidence gathering, witness interviews
+  and a review of investigative records with Boies Schiller Flexner and the attorney
+  general's office.
+nut_graf: The appointment places a federal prosecutor with experience in sex crimes,
+  civil-rights offenses, voting-rights violations and hate crimes in charge of the
+  inquiry. A judge has not ruled on two lawsuit defendants' request to remove James,
+  and James says the investigation will take months.
 primary_entities:
 - Letitia James
 - Jacqueline Kelly
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,17 +154,17 @@ related_stories:
   headline: Letitia James delegates probe into alleged Cornell sexual assault to Kelly
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8527
+  strength: 0.8524
 - slug: 2026-10-29-james-s-office-seeks-outside-counsel-for-cornell-sex-crime-probe
   headline: James's office seeks outside counsel for Cornell sex-crime probe
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7652
+  strength: 0.765
 - slug: 2026-10-30-cornell-sexual-assault-complainants-may-opt-out-of-state-police-referral
   headline: Cornell sexual assault complainants may opt out of State Police referral
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7439
+  strength: 0.7441
 - slug: 2026-10-30-hochul-sends-all-future-cornell-sexual-offense-complaints-to-state-police
   headline: Hochul sends all future Cornell sexual offense complaints to state police
   publish_date: '2026-10-30'
@@ -165,84 +174,23 @@ related_stories:
   headline: Judge weighs bid to oust Letitia James from Cornell rape case
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7436
+  strength: 0.7444
 - slug: 2026-10-29-two-cornell-defendants-seek-removal-of-ag-james-as-special-prosecutor
   headline: Two Cornell defendants seek removal of AG James as special prosecutor
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7366
+  strength: 0.7367
 - slug: 2026-10-29-cornell-faculty-advance-no-confidence-vote-over-rape-case-handling
   headline: Cornell faculty advance no-confidence vote over rape-case handling
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7261
+  strength: 0.726
 - slug: 2026-10-28-cornell-faculty-schedule-no-confidence-vote-over-2024-gang-rape-allegations
   headline: Cornell faculty schedule no-confidence vote over 2024 gang-rape allegations
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7128
-- slug: 2026-10-27-cornell-university-reviews-dorm-placement-of-student-accused-of-rape
-  headline: Cornell University reviews dorm placement of student accused of rape
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7026
-- slug: 2026-10-06-lawyer-in-cornell-gang-rape-case-seeks-james-s-recusal-as-special-prosecutor
-  headline: Lawyer in Cornell gang-rape case seeks James's recusal as special prosecutor
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7817
-- slug: 2026-10-06-cornell-names-sally-yates-to-lead-independent-rape-case-review
-  headline: Cornell names Sally Yates to lead independent rape-case review
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7651
-- slug: 2026-10-09-second-cornell-defendant-seeks-james-s-removal-as-special-prosecutor
-  headline: Second Cornell defendant seeks James's removal as special prosecutor
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7467
-- slug: 2026-10-08-lawyers-for-cornell-defendant-seek-ag-james-s-removal-as-special-prosecutor
-  headline: Lawyers for Cornell defendant seek AG James's removal as special prosecutor
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7508
-- slug: 2026-10-02-hochul-names-ag-james-as-special-prosecutor-in-alleged-cornell-gang-rape-case
-  headline: Hochul names AG James as special prosecutor in alleged Cornell gang-rape case
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7695
-- slug: 2026-10-13-cornell-bans-fraternity-parties-for-academic-year-after-2024-rape-lawsuit
-  headline: Cornell bans fraternity parties for academic year after 2024 rape lawsuit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7115
-- slug: 2026-10-13-cornell-suspends-fraternity-parties-for-academic-year-after-rape-allegations
-  headline: Cornell suspends fraternity parties for academic year after rape allegations
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7056
-- slug: 2026-10-01-hochul-names-letitia-james-special-prosecutor-in-2024-cornell-case
-  headline: Hochul names Letitia James special prosecutor in 2024 Cornell case
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7521
-- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
-  headline: Cornell students voice anger over alleged 2024 gang rape
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7473
-- slug: 2026-10-02-hochul-says-accuser-was-failed-at-friday-press-conference-on-james-appointment
-  headline: Hochul says accuser was 'failed' at Friday press conference on James appointment
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7379
-- slug: 2026-10-06-cornell-trustees-appoint-sally-yates-to-review-sexual-misconduct-response
-  headline: Cornell trustees appoint Sally Yates to review sexual misconduct response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7165
+  strength: 0.7126
 ---
-
 ## Jacqueline Kelly to lead probe into Cornell gang rape allegations
 
 **Subtype:** fact
