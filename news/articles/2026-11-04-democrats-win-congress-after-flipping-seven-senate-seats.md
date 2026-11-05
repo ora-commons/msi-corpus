@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7511
+analyses:
+- '2026-11-04-democrats-take-both-chambers-as-trump-backed-senate-candidates-lose'
 ---
 ## Democrats win Congress after flipping seven Senate seats
 
@@ -238,3 +240,8 @@ He repeated the argument to the New York Times, saying the absence of his name f
 **Publication date:** 2026-11-04
 **Title:** Democrats’ blue wave and a bad night for Trump: key US midterms takeaways
 **URL:** https://www.theguardian.com/us-news/2026/nov/04/midterm-election-takeaways-trump
+
+---
+
+<!-- analysis-link:2026-11-04-democrats-take-both-chambers-as-trump-backed-senate-candidates-lose -->
+**Going deeper:** [Read MSI's analysis of Congressional control and Republican strategic adaptation →](/analyses/2026-11-04-democrats-take-both-chambers-as-trump-backed-senate-candidates-lose)
