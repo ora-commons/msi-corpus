@@ -2,8 +2,19 @@
 headline: Trump weighs new strikes on Iran after Republican midterm loss
 secondary_headline: Vance blames the war for Republican midterm losses
 publish_date: '2026-11-05'
-lede: President Donald Trump said Wednesday that he would do nothing differently about his unpopular, eight-month-old war against Iran, as Democrats' resounding midterm election victory — powered in part by voter dissatisfaction with the war — left open the question of whether he resumes the full-scale strikes he had threatened before the vote. Middle Eastern officials were on high alert for his next move, and Vice President JD Vance said the war was the reason Republicans lost.
-nut_graf: Trump's post-election posture sets the direction for a conflict that has already spread from the Gulf to the Red Sea and into household budgets worldwide. Analysts described several possible paths — continued defensive strikes and a naval blockade, a strike on Iran's Pickaxe Mountain, or a broader escalation — while Brent crude's two-month low suggested markets do not expect major strikes. The AP Voter Poll found most voters who called the war the wrong decision backed Democratic House candidates, but the war did not rank as the top issue for most voters.
+lede: President Donald Trump said Wednesday that he would do nothing differently about
+  his unpopular, eight-month-old war against Iran, as Democrats' resounding midterm
+  election victory — powered in part by voter dissatisfaction with the war — left
+  open the question of whether he resumes the full-scale strikes he had threatened
+  before the vote. Middle Eastern officials were on high alert for his next move,
+  and Vice President JD Vance said the war was the reason Republicans lost.
+nut_graf: Trump's post-election posture sets the direction for a conflict that has
+  already spread from the Gulf to the Red Sea and into household budgets worldwide.
+  Analysts described several possible paths — continued defensive strikes and a naval
+  blockade, a strike on Iran's Pickaxe Mountain, or a broader escalation — while Brent
+  crude's two-month low suggested markets do not expect major strikes. The AP Voter
+  Poll found most voters who called the war the wrong decision backed Democratic House
+  candidates, but the war did not rank as the top issue for most voters.
 primary_entities:
 - Donald Trump
 - JD Vance
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,17 +159,17 @@ related_stories:
   headline: Trump says Iran was one factor in Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.836
+  strength: 0.8362
 - slug: 2026-11-04-jd-vance-blames-iran-war-for-republican-midterm-losses
   headline: JD Vance blames Iran war for Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8191
+  strength: 0.8187
 - slug: 2026-11-05-trump-s-iran-war-likely-drove-decisive-republican-midterm-losses
   headline: Trump's Iran war likely drove decisive Republican midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8047
+  strength: 0.8044
 - slug: 2026-11-04-vance-says-iran-war-was-the-reason-republicans-lost-midterms
   headline: Vance says Iran war was the reason Republicans lost midterms
   publish_date: '2026-11-04'
@@ -172,79 +184,19 @@ related_stories:
   headline: Allies told to brace for Iranian retaliation after U.S. midterms
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8279
+  strength: 0.8278
 - slug: 2026-11-03-trump-says-u-s-has-not-fought-iran-in-months-before-reported-qeshm-island-strike
-  headline: Trump says U.S. has not fought Iran in months before reported Qeshm Island strike
+  headline: Trump says U.S. has not fought Iran in months before reported Qeshm Island
+    strike
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7834
+  strength: 0.7831
 - slug: 2026-11-03-leaked-plans-raise-prospect-of-renewed-strikes-on-iran-after-midterms
   headline: Leaked plans raise prospect of renewed strikes on Iran after midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7828
-- slug: 2026-10-08-trump-says-us-will-not-attack-iran-before-midterm-elections
-  headline: Trump says US will not attack Iran before midterm elections
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8381
-- slug: 2026-10-15-trump-says-iran-war-will-end-very-soon-as-midterm-pressure-builds
-  headline: Trump says Iran war will end 'very soon' as midterm pressure builds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.786
-- slug: 2026-10-08-reuters-ipsos-finds-roughly-a-third-of-americans-approve-iran-strikes
-  headline: Reuters/Ipsos finds roughly a third of Americans approve Iran strikes
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8056
-- slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
-  headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.8084
-- slug: 2026-09-23-trump-uses-un-speech-to-frame-legacy-brushes-off-midterm-fallout
-  headline: Trump uses UN speech to frame legacy, brushes off midterm fallout
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7934
-- slug: 2026-09-09-trump-predicts-post-election-end-to-iran-war-and-lower-oil-prices
-  headline: Trump predicts post-election end to Iran war and lower oil prices
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7906
-- slug: 2026-08-27-iran-war-at-six-months-looms-over-house-races-as-gas-prices-climb
-  headline: Iran war at six months looms over House races as gas prices climb
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.779
-- slug: 2026-07-24-trump-s-frustration-grows-as-iran-war-enters-fifth-month-diplomacy-stalls
-  headline: Trump's frustration grows as Iran war enters fifth month, diplomacy stalls
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.793
-- slug: 2026-07-22-trump-says-iran-war-s-political-cost-won-t-have-any-impact-on-me
-  headline: Trump says Iran war's political cost 'won't have any impact on me'
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.784
-- slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
-  headline: Trump weighs all-out Iran war options, opts to stick with talks
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7933
-- slug: 2026-04-04-midterm-elections-loom-as-gop-grapples-with-trump-s-wartime-presidency
-  headline: Midterm elections loom as GOP grapples with Trump's wartime presidency
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.8247
-- slug: 2026-03-15-how-mixed-messaging-on-iran-may-have-trump-reeling-politically
-  headline: How mixed messaging on Iran may have Trump reeling politically
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.8109
+  strength: 0.7823
 ---
-
 ## Trump weighs new strikes on Iran after Republican midterm loss
 
 **Subtype:** fact
