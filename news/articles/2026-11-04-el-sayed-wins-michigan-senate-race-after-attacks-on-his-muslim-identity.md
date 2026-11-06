@@ -2,8 +2,17 @@
 headline: El-Sayed wins Michigan Senate race after attacks on his Muslim identity
 secondary_headline: El-Sayed will become the nation's first Muslim senator
 publish_date: '2026-11-04'
-lede: Abdul El-Sayed defeated Republican Mike Rogers in Michigan on Wednesday, with Associated Press voting data showing a seven-percentage-point lead with approximately 97% of the vote counted. The result will make El-Sayed the nation's first Muslim senator. It also delivered another significant Democratic victory in a swing state as Democrats won a substantial majority in the Senate in Tuesday's midterms. El-Sayed said Michigan voters had rejected “a hateful, spiteful campaign” targeting his Muslim identity.
-nut_graf: El-Sayed will enter the Senate as its first Muslim member while Democrats hold a substantial majority following the midterms. The AP Voter Poll found Michigan Senate voters roughly split on whether his views were “too extreme,” with about half saying they were.
+lede: Abdul El-Sayed defeated Republican Mike Rogers in Michigan on Wednesday, with
+  Associated Press voting data showing a seven-percentage-point lead with approximately
+  97% of the vote counted. The result will make El-Sayed the nation's first Muslim
+  senator. It also delivered another significant Democratic victory in a swing state
+  as Democrats won a substantial majority in the Senate in Tuesday's midterms. El-Sayed
+  said Michigan voters had rejected “a hateful, spiteful campaign” targeting his Muslim
+  identity.
+nut_graf: El-Sayed will enter the Senate as its first Muslim member while Democrats
+  hold a substantial majority following the midterms. The AP Voter Poll found Michigan
+  Senate voters roughly split on whether his views were “too extreme,” with about
+  half saying they were.
 primary_entities:
 - Abdul El-Sayed
 - Mike Rogers
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,116 +151,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-el-sayed-wins-michigan-senate-race-after-attacks-on-his-muslim-identity.png
-  alt: 'Illustration accompanying article: El-Sayed wins Michigan Senate race after attacks on his Muslim identity'
+  alt: 'Illustration accompanying article: El-Sayed wins Michigan Senate race after
+    attacks on his Muslim identity'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-as-first-muslim-us-senator
   headline: Abdul El-Sayed wins Michigan Senate seat as first Muslim US senator
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.893
+  strength: 0.8933
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-over-mike-rogers
   headline: Abdul El-Sayed wins Michigan Senate seat over Mike Rogers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8656
+  strength: 0.8654
 - slug: 2026-11-04-el-sayed-s-platform-included-a-wealth-tax-outside-spending-favored-rogers
   headline: El-Sayed's platform included a wealth tax; outside spending favored Rogers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8326
+  strength: 0.8327
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-and-backs-ending-israel-military-aid
-  headline: Abdul El-Sayed wins Michigan Senate seat and backs ending Israel military aid
+  headline: Abdul El-Sayed wins Michigan Senate seat and backs ending Israel military
+    aid
   publish_date: '2026-11-04'
   relation: related
   strength: 0.8308
 - slug: 2026-11-03-abdul-el-sayed-and-mike-rogers-make-final-pitches-for-the-michigan-senate-seat
-  headline: Abdul El-Sayed and Mike Rogers make final pitches for the Michigan Senate seat
+  headline: Abdul El-Sayed and Mike Rogers make final pitches for the Michigan Senate
+    seat
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8128
+  strength: 0.8134
 - slug: 2026-10-30-democratic-establishment-rallies-behind-el-sayed-in-michigan-senate-race
   headline: Democratic establishment rallies behind El-Sayed in Michigan Senate race
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8238
+  strength: 0.8236
 - slug: 2026-11-02-el-sayed-urges-michigan-turnout-after-stevens-backs-rogers
   headline: El-Sayed urges Michigan turnout after Stevens backs Rogers
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7714
+  strength: 0.7715
 - slug: 2026-10-22-el-sayed-and-rogers-enter-final-weeks-of-costly-michigan-senate-race
   headline: El-Sayed and Rogers enter final weeks of costly Michigan Senate race
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.836
-- slug: 2026-10-26-trump-calls-el-sayed-jihadist-at-michigan-campaign-rally
-  headline: Trump calls El-Sayed 'jihadist' at Michigan campaign rally
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8021
-- slug: 2026-10-29-democratic-divisions-surface-in-michigan-senate-race-s-final-week
-  headline: Democratic divisions surface in Michigan Senate race's final week
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7801
-- slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
-  headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7719
-- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
-  headline: Obama rallies for El-Sayed in Michigan Senate race
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7797
-- slug: 2026-10-22-michigan-senate-candidates-el-sayed-and-rogers-hold-final-debate
-  headline: Michigan Senate candidates El-Sayed and Rogers hold final debate
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7872
-- slug: 2026-10-09-michigan-senate-debate-features-anti-muslim-attacks-on-el-sayed
-  headline: Michigan Senate debate features anti-Muslim attacks on El-Sayed
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.82
-- slug: 2026-10-11-el-sayed-s-universalist-campaign-lags-among-black-voters-in-michigan
-  headline: El-Sayed's universalist campaign lags among Black voters in Michigan
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7892
-- slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
-  headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7705
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7923
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.8367
-- slug: 2026-08-29-el-sayed-apologizes-to-michigan-jewish-democrats-over-synagogue-comments
-  headline: El-Sayed apologizes to Michigan Jewish Democrats over synagogue comments
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7824
-- slug: 2026-08-06-abdul-el-sayed-wins-michigan-primary-will-face-mike-rogers
-  headline: Abdul El-Sayed wins Michigan primary, will face Mike Rogers
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.8152
+  strength: 0.8362
 ---
-
 ## El-Sayed wins Michigan Senate race after attacks on his Muslim identity
 
 **Subtype:** fact

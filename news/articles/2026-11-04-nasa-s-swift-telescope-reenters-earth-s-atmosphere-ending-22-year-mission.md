@@ -52,7 +52,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -225,3 +225,10 @@ Swift's loss removes one of NASA's principal space telescopes from service for s
 **Publication date:** 2026-11-04
 **Title:** Telescopio espacial de la NASA cae a la Tierra tras dos décadas estudiando explosiones cósmicas
 **URL:** https://apnews.com/article/nasa-telescopio-swift-213489fbe6b2098ab7e86e58b84f67a0
+
+### src_late_46b42b38efdb0bef — Associated Press, wire, Tier 1, originating
+**Author:** Marcia Dunn
+**Publication date:** 2026-11-04
+**Title:** NASA space telescope plunges to Earth after failed rescue mission
+**URL:** https://apnews.com/article/swift-observatory-telescope-hubble-5c19afdd7867dc88d68ea61dba1fbaee
+**Added after publication:** true
