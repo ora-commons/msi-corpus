@@ -1,9 +1,19 @@
 ---
 headline: Democrats sweep Congress with Mississippi Senate race still counting
-secondary_headline: Vance, DeSantis and Trump give different explanations for Republican losses
+secondary_headline: Vance, DeSantis and Trump give different explanations for Republican
+  losses
 publish_date: '2026-11-05'
-lede: Democrats secured a historic sweep of Congress in the 2026 midterms, with two Senate seats still in play nearly 24 hours later. In Mississippi, Democrat Scott Colom leads Republican incumbent Cindy Hyde-Smith by 1,138 votes with almost 96% of the vote counted, and counting in Alaska is expected to continue into Thursday. Republican leaders including Donald Trump, JD Vance and Ron DeSantis have given differing explanations for the losses.
-nut_graf: The two unfinished counts will set the final margin of the Democratic sweep and leave the size of the Republican losses open. The public disagreement among Republican leaders over the causes of the result — the president's absence from the ballot, the war in Iran and the party's ad spending — will shape how the party describes a setback of this scale.
+lede: Democrats secured a historic sweep of Congress in the 2026 midterms, with two
+  Senate seats still in play nearly 24 hours later. In Mississippi, Democrat Scott
+  Colom leads Republican incumbent Cindy Hyde-Smith by 1,138 votes with almost 96%
+  of the vote counted, and counting in Alaska is expected to continue into Thursday.
+  Republican leaders including Donald Trump, JD Vance and Ron DeSantis have given
+  differing explanations for the losses.
+nut_graf: The two unfinished counts will set the final margin of the Democratic sweep
+  and leave the size of the Republican losses open. The public disagreement among
+  Republican leaders over the causes of the result — the president's absence from
+  the ballot, the war in Iran and the party's ad spending — will shape how the party
+  describes a setback of this scale.
 primary_entities:
 - Scott Colom
 - Cindy Hyde-Smith
@@ -52,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,113 +165,58 @@ related_stories:
   headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8376
+  strength: 0.8371
 - slug: 2026-11-04-uncalled-senate-and-governor-races-remain-after-2026-midterms
   headline: Uncalled Senate and governor races remain after 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.795
+  strength: 0.7943
 - slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
+  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races
+    Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8225
+  strength: 0.8219
 - slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
+  headline: Schumer expects re-election as Senate Democrats' leader after midterm
+    wins
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7396
+  strength: 0.7388
 - slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
   headline: Democrats win House, control Congress for Trump's final two years
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7428
+  strength: 0.7421
 - slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
   headline: US midterm results may take days or weeks to settle
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7417
+  strength: 0.7405
 - slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
   headline: Democrats take control of Congress in 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7406
+  strength: 0.7398
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7281
-- slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
-  headline: Democrats regain Senate control after wins in at least six states
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.728
-- slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
-  headline: Democrats win Congress after flipping seven Senate seats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7247
-- slug: 2026-11-04-live-midterm-tracker-shows-33-of-35-senate-races-367-of-435-house-races-called
-  headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races called
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7145
-- slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
-  headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7236
-- slug: 2026-10-26-trump-heads-to-mississippi-as-democrats-expand-battleground-maps
-  headline: Trump heads to Mississippi as Democrats expand battleground maps
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.767
-- slug: 2026-10-30-maine-voters-weigh-senate-control-open-governor-race-tuesday
-  headline: Maine voters weigh Senate control, open governor race Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7324
-- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7501
-- slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
-  headline: Early voting passes 50.5 million with three days to go before midterms
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.721
-- slug: 2026-10-30-minnesota-voters-pick-governor-senator-as-legislature-hangs-in-balance
-  headline: Minnesota voters pick governor, senator as Legislature hangs in balance
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7151
-- slug: 2026-10-30-hamilton-faces-marshall-as-kansas-democrats-seek-first-senate-win-since-1932
-  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since 1932
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7137
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.737
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7341
+  strength: 0.7276
 image:
   url: /articles/2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting.png
-  alt: "Illustration accompanying article: Democrats sweep Congress with Mississippi Senate race still counting"
+  alt: 'Illustration accompanying article: Democrats sweep Congress with Mississippi
+    Senate race still counting'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Democrats sweep Congress with Mississippi Senate race still counting
 
 **Subtype:** fact
