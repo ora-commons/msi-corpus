@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7823
+analyses:
+- '2026-11-05-trump-weighs-renewed-iran-strikes-as-political-constraint-lapses'
 ---
 ## Trump weighs new strikes on Iran after Republican midterm loss
 
@@ -249,3 +251,8 @@ Nearly all voters who backed the Democratic candidate in their local U.S. House 
 **Publication date:** 2026-11-05
 **Title:** Trump weighs his next move on Iran after midterm election loss
 **URL:** https://apnews.com/article/trump-midterm-elections-iran-e92751dbcdf940c486c8d1e57dafbe99
+
+---
+
+<!-- analysis-link:2026-11-05-trump-weighs-renewed-iran-strikes-as-political-constraint-lapses -->
+**Going deeper:** [Read MSI's analysis of Trump's post-midterm Iran strike options →](/analyses/2026-11-05-trump-weighs-renewed-iran-strikes-as-political-constraint-lapses)
