@@ -2,8 +2,15 @@
 headline: South Korea plans expanded Cheonghae patrol near Strait of Hormuz
 secondary_headline: New mission would remain non-combat and independent of allies
 publish_date: '2026-11-05'
-lede: South Korea’s defense ministry said it will seek parliamentary approval to expand the anti-piracy Cheonghae unit’s operating area to waters near the port of Duqm in Oman, about 650 km from the Strait of Hormuz. The motion also needs approval from President Lee Jae Myung and the cabinet.
-nut_graf: The expansion would bring the unit closer to a waterway carrying most of South Korea’s Middle Eastern oil supplies, but the ministry has described the role as non-combat and limited to open waters south of Oman. The proposal still requires approval from parliament, President Lee and the cabinet as Donald Trump presses Seoul over its support for the Iran war.
+lede: South Korea’s defense ministry said it will seek parliamentary approval to expand
+  the anti-piracy Cheonghae unit’s operating area to waters near the port of Duqm
+  in Oman, about 650 km from the Strait of Hormuz. The motion also needs approval
+  from President Lee Jae Myung and the cabinet.
+nut_graf: The expansion would bring the unit closer to a waterway carrying most of
+  South Korea’s Middle Eastern oil supplies, but the ministry has described the role
+  as non-combat and limited to open waters south of Oman. The proposal still requires
+  approval from parliament, President Lee and the cabinet as Donald Trump presses
+  Seoul over its support for the Iran war.
 primary_entities:
 - South Korea
 - Cheonghae unit
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +152,44 @@ related_stories:
   headline: Iran deploys drones, grenades and mines against Hormuz shipping
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7027
-- slug: 2026-08-22-trump-calls-strait-of-hormuz-american-territory-at-south-carolina-rally
-  headline: Trump calls Strait of Hormuz 'American territory' at South Carolina rally
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6851
+  strength: 0.7028
 - slug: 2026-07-22-seoul-reviews-strait-of-hormuz-role-says-no-us-warship-request
   headline: Seoul reviews Strait of Hormuz role, says no US warship request
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7302
+  strength: 0.7323
+- slug: 2026-08-22-trump-calls-strait-of-hormuz-american-territory-at-south-carolina-rally
+  headline: Trump calls Strait of Hormuz 'American territory' at South Carolina rally
+  publish_date: '2026-08-22'
+  relation: related
+  strength: 0.6814
 - slug: 2026-08-14-trump-vows-to-declare-strait-of-hormuz-us-territory-new-policy-unclear
   headline: Trump vows to declare Strait of Hormuz US territory; new policy unclear
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.6888
+  strength: 0.689
 - slug: 2026-07-28-iran-oman-seek-reopening-of-strait-of-hormuz-in-narrow-talks
   headline: Iran, Oman seek reopening of Strait of Hormuz in narrow talks
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.6991
+  strength: 0.7017
 - slug: 2026-07-13-iran-warns-flames-of-war-as-trump-says-us-to-take-over-strait-of-hormuz
   headline: Iran warns 'flames of war' as Trump says US to 'take over' Strait of Hormuz
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.7162
+  strength: 0.7144
 - slug: 2026-06-16-s-korea-consults-us-iran-on-strait-of-hormuz-transit-after-mou
   headline: S. Korea consults US, Iran on Strait of Hormuz transit after MOU
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.7325
+  strength: 0.7338
 - slug: 2026-07-16-securing-strait-of-hormuz-would-require-thousands-of-u-s-troops-experts-say
-  headline: Securing Strait of Hormuz would require thousands of U.S. troops, experts say
+  headline: Securing Strait of Hormuz would require thousands of U.S. troops, experts
+    say
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7036
-- slug: 2026-07-12-us-launches-new-strikes-on-iran-after-irgc-attacks-ship-in-strait-of-hormuz
-  headline: US launches new strikes on Iran after IRGC attacks ship in Strait of Hormuz
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6987
-- slug: 2026-07-16-six-oil-tankers-cross-hormuz-to-south-korea-as-seoul-reports-stable-september-cr
-  headline: Six oil tankers cross Hormuz to South Korea as Seoul reports stable September crude supplies
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6921
-- slug: 2026-04-04-macron-and-south-korea-s-lee-agree-plan-to-reopen-strait-of-hormuz
-  headline: Macron and South Korea’s Lee agree plan to reopen Strait of Hormuz
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7311
-- slug: 2026-06-11-second-south-korean-operated-lng-carrier-passes-through-strait-of-hormuz
-  headline: Second South Korean-operated LNG carrier passes through Strait of Hormuz
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7002
-- slug: 2026-03-14-trump-says-he-asked-about-7-countries-to-join-hormuz-policing-coalition
-  headline: Trump says he asked about 7 countries to join Hormuz policing coalition
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7198
-- slug: 2026-05-21-u-s-military-boards-iranian-flagged-oil-tanker-in-gulf-of-oman
-  headline: U.S. military boards Iranian-flagged oil tanker in Gulf of Oman
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6992
-- slug: 2026-06-17-trump-s-iran-agreement-dominates-g7-as-strait-of-hormuz-questions-remain
-  headline: Trump's Iran agreement dominates G7 as Strait of Hormuz questions remain
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6819
-- slug: 2026-05-04-trump-to-launch-project-freedom-to-guide-ships-through-strait-of-hormuz
-  headline: Trump to launch “Project Freedom” to guide ships through Strait of Hormuz
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6998
-- slug: 2026-05-27-us-sanctions-target-iranian-agency-as-strikes-follow-drone-attacks-in-strait-of-
-  headline: US sanctions target Iranian agency as strikes follow drone attacks in Strait of Hormuz
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6901
-- slug: 2026-04-20-us-seizes-iranian-cargo-ship-near-strait-of-hormuz-iran-threatens-response
-  headline: US seizes Iranian cargo ship near Strait of Hormuz; Iran threatens response
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.7006
-- slug: 2026-05-17-france-britain-to-lead-multinational-hormuz-security-mission
-  headline: France, Britain to lead multinational Hormuz security mission
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6854
-- slug: 2026-05-05-us-project-freedom-to-open-strait-of-hormuz-roils-iran-ceasefire
-  headline: US “Project Freedom” to open Strait of Hormuz roils Iran ceasefire
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6852
+  strength: 0.7043
 ---
-
 ## South Korea plans expanded Cheonghae patrol near Strait of Hormuz
 
 **Subtype:** fact

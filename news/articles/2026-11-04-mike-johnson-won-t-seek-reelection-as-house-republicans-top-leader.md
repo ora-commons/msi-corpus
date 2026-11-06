@@ -1,9 +1,25 @@
 ---
 headline: Mike Johnson won't seek reelection as House Republicans' top leader
-secondary_headline: JD Vance breaks with Trump, blaming the Iran war for Republican losses
+secondary_headline: JD Vance breaks with Trump, blaming the Iran war for Republican
+  losses
 publish_date: '2026-11-04'
-lede: House Speaker Mike Johnson will not seek reelection as the top House Republican following Democrats' midterm sweep, NPR reported, setting up a leadership contest between Jim Jordan of Ohio and Steve Scalise of Louisiana. Vice President JD Vance broke with President Trump to say the war in Iran was one of the primary reasons behind Republican losses, and Trump said the two countries could sign something to end the war diplomatically. NPR's political team also reported that pre-election polls underestimated Democratic support, with a projected advantage of 8 points on the generic congressional ballot becoming a result closer to plus 13.
-nut_graf: 'The morning-after assessments from NPR''s White House, congressional and political reporters map the immediate consequences of an election that gave Democrats majorities in both houses of Congress: a House Republican conference in search of a new leader, a public break between the president and his vice president over the war in Iran, and a polling miss that underestimated the size of the Democratic wave. They also preview the fights ahead — government funding and more money for the Iran war while Republicans retain narrow congressional control until January, a Democratic agenda centered on cost of living and corruption investigations, and the question of how Trump''s unpopularity will reshape the Republican field heading toward 2028.'
+lede: House Speaker Mike Johnson will not seek reelection as the top House Republican
+  following Democrats' midterm sweep, NPR reported, setting up a leadership contest
+  between Jim Jordan of Ohio and Steve Scalise of Louisiana. Vice President JD Vance
+  broke with President Trump to say the war in Iran was one of the primary reasons
+  behind Republican losses, and Trump said the two countries could sign something
+  to end the war diplomatically. NPR's political team also reported that pre-election
+  polls underestimated Democratic support, with a projected advantage of 8 points
+  on the generic congressional ballot becoming a result closer to plus 13.
+nut_graf: 'The morning-after assessments from NPR''s White House, congressional and
+  political reporters map the immediate consequences of an election that gave Democrats
+  majorities in both houses of Congress: a House Republican conference in search of
+  a new leader, a public break between the president and his vice president over the
+  war in Iran, and a polling miss that underestimated the size of the Democratic wave.
+  They also preview the fights ahead — government funding and more money for the Iran
+  war while Republicans retain narrow congressional control until January, a Democratic
+  agenda centered on cost of living and corruption investigations, and the question
+  of how Trump''s unpopularity will reshape the Republican field heading toward 2028.'
 primary_entities:
 - Donald Trump
 - Mike Johnson
@@ -52,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,107 +168,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-04-mike-johnson-steps-aside-from-house-republican-leadership-after-midterm-losses
-  headline: Mike Johnson steps aside from House Republican leadership after midterm losses
+  headline: Mike Johnson steps aside from House Republican leadership after midterm
+    losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8248
+  strength: 0.8249
 - slug: 2026-11-04-jd-vance-blames-iran-war-for-republican-midterm-losses
   headline: JD Vance blames Iran war for Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7587
+  strength: 0.7575
 - slug: 2026-11-04-house-republicans-scheduled-to-pick-new-leader-nov-10-after-johnson-s-departure
-  headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
+  headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's
+    departure
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7553
+  strength: 0.7546
 - slug: 2026-11-04-mike-johnson-reportedly-rules-out-bid-for-house-minority-leader
   headline: Mike Johnson reportedly rules out bid for House minority leader
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7465
+  strength: 0.7468
 - slug: 2026-11-04-vance-says-iran-war-was-the-reason-republicans-lost-midterms
   headline: Vance says Iran war was the reason Republicans lost midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7402
+  strength: 0.7391
 - slug: 2026-11-04-vance-distances-himself-from-trump-s-iran-war-defense-after-gop-losses
   headline: Vance distances himself from Trump’s Iran war defense after GOP losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7375
+  strength: 0.7372
 - slug: 2026-11-04-vance-blames-republican-midterm-losses-on-the-war-and-energy-prices
   headline: Vance blames Republican midterm losses on the war and energy prices
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7298
+  strength: 0.7293
 - slug: 2026-11-04-democrats-midterm-gains-open-the-2028-race-as-republicans-absorb-broad-losses
-  headline: Democrats' midterm gains open the 2028 race as Republicans absorb broad losses
+  headline: Democrats' midterm gains open the 2028 race as Republicans absorb broad
+    losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6952
-- slug: 2026-11-05-trump-s-iran-war-likely-drove-decisive-republican-midterm-losses
-  headline: Trump's Iran war likely drove decisive Republican midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6912
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7176
-- slug: 2026-10-28-vance-sends-letter-to-iranian-security-chief-to-restart-peace-talks
-  headline: Vance sends letter to Iranian security chief to restart peace talks
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7017
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7151
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7279
-- slug: 2026-09-25-republicans-break-with-trump-on-iran-war-and-immigration-ahead-of-midterms
-  headline: Republicans break with Trump on Iran war and immigration ahead of midterms
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7059
-- slug: 2026-09-27-vance-works-to-rebuild-fractured-trump-coalition-ahead-of-midterms
-  headline: Vance works to rebuild fractured Trump coalition ahead of midterms
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6884
-- slug: 2026-09-24-senate-republicans-defeat-latest-iran-war-powers-resolution-50-49
-  headline: Senate Republicans defeat latest Iran war-powers resolution, 50-49
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.697
-- slug: 2026-08-27-iran-war-at-six-months-looms-over-house-races-as-gas-prices-climb
-  headline: Iran war at six months looms over House races as gas prices climb
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6914
-- slug: 2026-07-26-house-gop-departs-for-recess-after-95b-iran-budget-war-powers-resolution
-  headline: House GOP departs for recess after $95B Iran budget, war powers resolution
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.7142
-- slug: 2026-06-29-johnson-aims-to-revive-house-gop-agenda-after-week-of-stalled-votes
-  headline: Johnson aims to revive House GOP agenda after week of stalled votes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.697
-- slug: 2026-06-08-republicans-defect-from-trump-as-house-passes-iran-war-powers-resolution
-  headline: Republicans defect from Trump as House passes Iran war powers resolution
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7034
+  strength: 0.6939
 ---
-
 ## Mike Johnson won't seek reelection as House Republicans' top leader
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: Annie Andrews plans bipartisan Senate work after South Carolina win
 secondary_headline: Stopping Medicaid budget cuts tops Andrews's Washington agenda
 publish_date: '2026-11-04'
-lede: Democrat Annie Andrews won South Carolina's U.S. Senate seat over Republican incumbent Darline Graham and will take office in January. In an NPR interview published Nov. 4, the pediatrician said her first priority in Washington would be stopping Medicaid budget cuts and that she planned bipartisan work with Republican Sen. Tim Scott and President Donald Trump. Andrews also said she would be ready on Day 1 and described her 20 years in pediatric care as the reason she entered politics.
-nut_graf: Her comments outline a Senate agenda centered on health-care affordability and constituent service, and Andrews said she would pursue bipartisan cooperation in Washington. She did not offer a detailed national-security or foreign-policy agenda, but said she had done the necessary preparation for the role.
+lede: Democrat Annie Andrews won South Carolina's U.S. Senate seat over Republican
+  incumbent Darline Graham and will take office in January. In an NPR interview published
+  Nov. 4, the pediatrician said her first priority in Washington would be stopping
+  Medicaid budget cuts and that she planned bipartisan work with Republican Sen. Tim
+  Scott and President Donald Trump. Andrews also said she would be ready on Day 1
+  and described her 20 years in pediatric care as the reason she entered politics.
+nut_graf: Her comments outline a Senate agenda centered on health-care affordability
+  and constituent service, and Andrews said she would pursue bipartisan cooperation
+  in Washington. She did not offer a detailed national-security or foreign-policy
+  agenda, but said she had done the necessary preparation for the role.
 primary_entities:
 - Annie Andrews
 - Darline Graham
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,7 +155,7 @@ related_stories:
   headline: Annie Andrews defeats Darline Graham in South Carolina Senate race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8683
+  strength: 0.8688
 - slug: 2026-11-04-annie-andrews-defeats-darline-graham-in-south-carolina-senate-race
   headline: Annie Andrews defeats Darline Graham in South Carolina Senate race
   publish_date: '2026-11-04'
@@ -156,94 +165,35 @@ related_stories:
   headline: Democrat Annie Andrews on course to win South Carolina Senate race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8168
+  strength: 0.8179
 - slug: 2026-11-01-andrews-outraises-graham-some-republican-strategists-and-trump-advisers-worry
-  headline: Andrews outraises Graham; some Republican strategists and Trump advisers worry
+  headline: Andrews outraises Graham; some Republican strategists and Trump advisers
+    worry
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.763
+  strength: 0.7638
 - slug: 2026-11-03-trump-support-may-weaken-graham-in-south-carolina-senate-race
   headline: Trump support may weaken Graham in South Carolina Senate race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7457
+  strength: 0.7464
 - slug: 2026-11-04-2026-election-sends-at-least-10-democratic-physicians-to-congress
   headline: 2026 election sends at least 10 Democratic physicians to Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7323
+  strength: 0.731
 - slug: 2026-10-29-poll-shows-annie-andrews-and-darline-graham-tied-in-south-carolina-senate-race
-  headline: Poll shows Annie Andrews and Darline Graham tied in South Carolina Senate race
+  headline: Poll shows Annie Andrews and Darline Graham tied in South Carolina Senate
+    race
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7613
+  strength: 0.7616
 - slug: 2026-10-29-trump-rallies-in-rock-hill-for-darline-graham-in-senate-race
   headline: Trump rallies in Rock Hill for Darline Graham in Senate race
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7369
-- slug: 2026-10-26-beasley-and-hodges-back-democrat-annie-andrews-for-senate
-  headline: Beasley and Hodges back Democrat Annie Andrews for Senate
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7222
-- slug: 2026-11-04-democrats-flip-a-senate-seat-and-a-house-seat-in-early-returns
-  headline: Democrats flip a Senate seat and a House seat in early returns
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6553
-- slug: 2026-10-29-trump-makes-second-visit-to-south-carolina-in-eight-days
-  headline: Trump makes second visit to South Carolina in eight days
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6958
-- slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
-  headline: Democrats win Senate seats in six states and four governor races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6548
-- slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
-  headline: Democrats win House, control Congress for Trump's final two years
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.644
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6411
-- slug: 2026-10-13-democratic-senate-candidates-split-on-medicare-for-all-ahead-of-midterms
-  headline: Democratic Senate candidates split on Medicare for All ahead of midterms
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6962
-- slug: 2026-07-26-pediatrician-annie-andrews-aims-to-flip-south-carolina-senate-seat-for-democrats
-  headline: Pediatrician Annie Andrews aims to flip South Carolina Senate seat for Democrats
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.8641
-- slug: 2026-08-31-pediatrician-andrews-to-face-darline-graham-in-south-carolina-senate-race
-  headline: Pediatrician Andrews to face Darline Graham in South Carolina Senate race
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.784
-- slug: 2026-08-26-darline-graham-wins-south-carolina-senate-runoff-over-norman
-  headline: Darline Graham wins South Carolina Senate runoff over Norman
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7219
-- slug: 2026-08-18-rep-norman-questions-trump-endorsement-of-darline-graham-in-sc-senate-runoff
-  headline: Rep. Norman questions Trump endorsement of Darline Graham in SC Senate runoff
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6391
-- slug: 2026-08-08-darline-graham-enters-south-carolina-primary-with-trump-endorsement
-  headline: Darline Graham enters South Carolina primary with Trump endorsement
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6403
+  strength: 0.7363
 ---
-
 ## Annie Andrews plans bipartisan Senate work after South Carolina win
 
 **Subtype:** fact

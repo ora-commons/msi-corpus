@@ -2,8 +2,15 @@
 headline: Democratic candidates used religious language and listening to reach voters
 secondary_headline: Four clergy members and a seminarian won House and Senate seats
 publish_date: '2026-11-04'
-lede: NPR reported that Democrats won control of Congress on Tuesday, with House and Senate winners among them including four members of the clergy and a seminarian. NPR religion correspondent Jason DeRose said he saw the candidates combine religious messages with skills developed in ministry. The report also noted that Arkansas House candidate Chris Jones's race had not been called by The Associated Press.
-nut_graf: 'The report describes distinct forms of voter contact associated with candidates'' religious roles: explicit religious language, especially in James Talarico''s campaign, and ministry skills such as sustained listening. The campaigns'' outreach addressed gas and grocery costs, ambulance rides and the effects of Texas redistricting.'
+lede: NPR reported that Democrats won control of Congress on Tuesday, with House and
+  Senate winners among them including four members of the clergy and a seminarian.
+  NPR religion correspondent Jason DeRose said he saw the candidates combine religious
+  messages with skills developed in ministry. The report also noted that Arkansas
+  House candidate Chris Jones's race had not been called by The Associated Press.
+nut_graf: 'The report describes distinct forms of voter contact associated with candidates''
+  religious roles: explicit religious language, especially in James Talarico''s campaign,
+  and ministry skills such as sustained listening. The campaigns'' outreach addressed
+  gas and grocery costs, ambulance rides and the effects of Texas redistricting.'
 primary_entities:
 - Jason DeRose
 - Robert Jones
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,116 +149,51 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-democratic-candidates-used-religious-language-and-listening-to-reach-voters.png
-  alt: 'Illustration accompanying article: Democratic candidates used religious language and listening to reach voters'
+  alt: 'Illustration accompanying article: Democratic candidates used religious language
+    and listening to reach voters'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-04-under-30-and-hispanic-texas-senate-voters-back-talarico
   headline: Under-30 and Hispanic Texas Senate voters back Talarico
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6563
-- slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
-  headline: James Talarico defeats Ken Paxton in Texas Senate race
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6415
-- slug: 2026-11-04-surveys-indicated-texas-hispanic-voters-favored-democrats
-  headline: Surveys indicated Texas Hispanic voters favored Democrats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6345
-- slug: 2026-11-04-marshall-concedes-kansas-senate-race-to-hamilton-saying-i-don-t-have-any-answers
-  headline: Marshall concedes Kansas Senate race to Hamilton, saying 'I don't have any answers'
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6253
-- slug: 2026-11-04-texas-voters-reporting-inflation-hardship-favored-talarico-in-senate-race
-  headline: Texas voters reporting inflation hardship favored Talarico in Senate race
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6236
-- slug: 2026-11-04-supporters-at-austin-watch-party-explain-the-texas-election-result
-  headline: Supporters at Austin watch party explain the Texas election result
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6235
-- slug: 2026-11-04-watch-parties-capture-cheers-tears-and-anxiety-on-2026-election-night
-  headline: Watch parties capture cheers, tears and anxiety on 2026 election night
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.622
-- slug: 2026-11-04-democrats-set-post-election-priorities-on-affordability-and-accountability
-  headline: Democrats set post-election priorities on affordability and accountability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6208
-- slug: 2026-10-31-paxton-talarico-make-final-pitches-in-texas-as-trump-shifts-to-tele-rallies
-  headline: Paxton, Talarico make final pitches in Texas as Trump shifts to tele-rallies
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6326
-- slug: 2026-10-30-anti-muslim-rhetoric-colors-michigan-senate-race-as-bishops-rebuke-white-house
-  headline: Anti-Muslim rhetoric colors Michigan Senate race as bishops rebuke White House
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6287
-- slug: 2026-10-27-talarico-rejects-progressive-label-in-texas-senate-race-against-paxton
-  headline: Talarico rejects progressive label in Texas Senate race against Paxton
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6328
-- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
-  headline: Talarico and Paxton enter final stretch of Texas Senate race
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6446
-- slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
-  headline: Arkansas Democrats push affordability message in final midterm stretch
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6323
+  strength: 0.6542
 - slug: 2026-09-27-democratic-clergy-and-seminary-students-run-for-congress-on-christian-faith
-  headline: Democratic clergy and seminary students run for Congress on Christian faith
+  headline: Democratic clergy and seminary students run for Congress on Christian
+    faith
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7484
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6489
-- slug: 2026-10-15-talarico-addresses-voters-at-cnn-town-hall-defends-nine-day-absence
-  headline: Talarico addresses voters at CNN town hall, defends nine-day absence
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6408
+  strength: 0.7498
 - slug: 2026-03-06-republicans-mine-talarico-s-social-media-history-after-texas-senate-primary-win
-  headline: Republicans mine Talarico's social media history after Texas Senate primary win
+  headline: Republicans mine Talarico's social media history after Texas Senate primary
+    win
   publish_date: '2026-03-06'
   relation: related
-  strength: 0.7172
+  strength: 0.7153
 - slug: 2026-03-21-cadre-of-us-clergy-vie-for-political-office-as-democrats
   headline: Cadre of US clergy vie for political office as Democrats
   publish_date: '2026-03-21'
   relation: related
-  strength: 0.696
+  strength: 0.699
 - slug: 2026-03-05-democrat-james-talarico-wins-texas-senate-primary-faces-cornyn-or-paxton
   headline: Democrat James Talarico wins Texas Senate primary; faces Cornyn or Paxton
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.6798
-- slug: 2026-05-25-npr-explores-christian-nationalism-s-growing-influence-on-u-s-government
-  headline: Christian nationalism’s growing influence on U.S. government
-  publish_date: '2026-05-25'
+  strength: 0.6796
+- slug: 2026-02-08-crockett-and-talarico-target-voters-with-distinct-digital-strategies
+  headline: Crockett and Talarico target voters with distinct digital strategies
+  publish_date: '2026-02-08'
   relation: related
-  strength: 0.6381
+  strength: 0.6563
 ---
-
 ## Democratic candidates used religious language and listening to reach voters
 
 **Subtype:** fact
