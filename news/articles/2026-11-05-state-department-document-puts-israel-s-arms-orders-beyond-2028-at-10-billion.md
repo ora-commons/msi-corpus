@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-08-04'
   relation: related
   strength: 0.7082
+analyses:
+- '2026-11-05-state-department-document-places-10-billion-in-israeli-arms-orders-beyond-2028'
 ---
 ## State Department document puts Israel's arms orders beyond 2028 at $10 billion
 
@@ -243,3 +245,8 @@ Israel's $10 billion in outstanding orders illustrates the challenge facing both
 **Publication date:** 2026-11-05
 **Title:** The Billions of Dollars in Orders Complicating an End to U.S. Aid to Israel
 **URL:** https://www.wsj.com/world/middle-east/the-billions-of-dollars-in-orders-complicating-an-end-to-u-s-aid-to-israel-7e0b5fba
+
+---
+
+<!-- analysis-link:2026-11-05-state-department-document-places-10-billion-in-israeli-arms-orders-beyond-2028 -->
+**Going deeper:** [Read MSI's analysis of the $10 billion arms-order overhang →](/analyses/2026-11-05-state-department-document-places-10-billion-in-israeli-arms-orders-beyond-2028)

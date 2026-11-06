@@ -200,6 +200,8 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7274
+analyses:
+- '2026-11-05-schumer-s-re-election-bid-rests-on-a-private-ballot-and-an-undeclared-caucus'
 ---
 ## Schumer expects re-election as Senate Democrats' leader after midterm wins
 
@@ -244,3 +246,8 @@ Ahead in the new Congress are political fights that could strain Democrats' unit
 **Publication date:** 2026-11-05
 **Title:** Chuck Schumer Was Democrats’ Punching Bag. Now He’s Riding High.
 **URL:** https://www.wsj.com/politics/policy/chuck-schumer-was-democrats-punching-bag-now-hes-riding-high-b77bcaa2
+
+---
+
+<!-- analysis-link:2026-11-05-schumer-s-re-election-bid-rests-on-a-private-ballot-and-an-undeclared-caucus -->
+**Going deeper:** [Read MSI's analysis of Schumer's leadership-vote arithmetic →](/analyses/2026-11-05-schumer-s-re-election-bid-rests-on-a-private-ballot-and-an-undeclared-caucus)

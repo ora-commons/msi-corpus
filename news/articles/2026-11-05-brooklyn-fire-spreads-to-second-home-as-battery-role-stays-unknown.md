@@ -2,8 +2,17 @@
 headline: Brooklyn fire spreads to second home as battery role stays unknown
 secondary_headline: Mamdani says e-bike fires in New York City passed 400 this year
 publish_date: '2026-11-05'
-lede: A fire tore through a two-storey house and spread to another home early Thursday in Brooklyn's Sunset Park neighborhood, where witnesses and the authorities said it ignited on 58th Street. More than 200 first responders rushed to the blaze, which took around three hours to bring under control. FDNY said a lithium-ion battery, or possibly two, was found at the scene, but it was unknown whether it was related to the cause of the fire.
-nut_graf: The fire killed six people and injured seven others, including three firefighters, and the cause was under investigation. FDNY said it was unknown whether a lithium-ion battery, or possibly two, found at the scene was related to the blaze, while Mayor Zohran Mamdani said e-bike fires in New York City had increased to more than 400 this year.
+lede: A fire tore through a two-storey house and spread to another home early Thursday
+  in Brooklyn's Sunset Park neighborhood, where witnesses and the authorities said
+  it ignited on 58th Street. More than 200 first responders rushed to the blaze, which
+  took around three hours to bring under control. FDNY said a lithium-ion battery,
+  or possibly two, was found at the scene, but it was unknown whether it was related
+  to the cause of the fire.
+nut_graf: The fire killed six people and injured seven others, including three firefighters,
+  and the cause was under investigation. FDNY said it was unknown whether a lithium-ion
+  battery, or possibly two, found at the scene was related to the blaze, while Mayor
+  Zohran Mamdani said e-bike fires in New York City had increased to more than 400
+  this year.
 primary_entities:
 - FDNY
 - Sunset Park
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +151,29 @@ related_stories:
   headline: Crews reportedly found two floors engulfed in Brooklyn fire
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8515
+  strength: 0.8528
 - slug: 2026-11-05-brooklyn-house-fire-kills-six-and-injures-seven
   headline: Brooklyn house fire kills six and injures seven
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8363
-- slug: 2026-10-21-police-search-for-suspect-in-george-washington-bridge-shooting
-  headline: Police search for suspect in George Washington Bridge shooting
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6037
-- slug: 2026-10-10-new-york-city-ems-workers-press-for-pay-parity-as-response-times-grow
-  headline: New York City EMS workers press for pay parity as response times grow
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6035
-- slug: 2026-09-29-brooklyn-man-57-dies-after-bag-caught-in-subway-doors
-  headline: Brooklyn man, 57, dies after bag caught in subway doors
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6334
-- slug: 2026-09-27-brooklyn-nycha-worker-dies-as-nor-easter-stalls-over-region
-  headline: Brooklyn NYCHA worker dies as nor'easter stalls over region
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6275
-- slug: 2026-09-26-athens-apartment-collapse-kills-six-after-morning-explosion
-  headline: Athens apartment collapse kills six after morning explosion
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.604
-- slug: 2026-09-04-nypd-officer-fatally-shoots-knife-wielding-man-on-brooklyn-bridge-cables
-  headline: NYPD officer fatally shoots knife-wielding man on Brooklyn Bridge cables
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6045
+  strength: 0.8342
 - slug: 2026-07-05-fdny-extinguishes-brooklyn-bridge-fire-during-macy-s-july-4-fireworks
   headline: FDNY extinguishes Brooklyn Bridge fire during Macy's July 4 fireworks
   publish_date: '2026-07-05'
   relation: related
-  strength: 0.6675
+  strength: 0.6664
 - slug: 2026-07-05-coney-island-gunfire-on-west-31st-street-wounds-at-least-eight-including-four-ch
-  headline: Coney Island gunfire on West 31st Street wounds at least eight including four children, NYPD says
+  headline: Coney Island gunfire on West 31st Street wounds at least eight including
+    four children, NYPD says
   publish_date: '2026-07-05'
   relation: related
-  strength: 0.665
+  strength: 0.6635
 - slug: 2026-05-18-gas-explosion-kills-1-injures-14-in-bronx-apartment-building
   headline: Gas explosion kills 1, injures 14 in Bronx apartment building
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.653
-- slug: 2026-05-22-fire-and-blast-at-nyc-shipyard-kills-1-injures-36-including-firefighters
-  headline: Fire and blast at NYC shipyard kills 1, injures 36 including firefighters
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6491
-- slug: 2026-07-17-first-death-reported-in-upper-east-side-legionnaires-outbreak
-  headline: First death reported in Upper East Side Legionnaires' outbreak
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6034
-- slug: 2026-05-23-investigation-underway-after-new-york-city-shipyard-blast-injures-30-firefighter
-  headline: Investigation underway after New York City shipyard blast injures 30+ firefighters
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6308
-- slug: 2026-05-23-fire-and-second-blast-injure-36-at-nyc-shipyard-1-dies
-  headline: Fire and second blast injure 36 at NYC shipyard; 1 dies
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6301
-- slug: 2026-05-25-firefighters-hurt-in-staten-island-shipyard-blast-cause-under-investigation
-  headline: Firefighters hurt in Staten Island shipyard blast; cause under investigation
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.626
-- slug: 2026-05-22-1-person-has-died-after-blast-at-new-york-city-shipyard-that-also-injured-36-peo
-  headline: 1 person has died after blast at New York City shipyard that also injured 36 people, officials say
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6222
-- slug: 2026-05-23-probe-underway-after-nyc-shipyard-blast-kills-1-injures-30-firefighters
-  headline: Probe underway after NYC shipyard blast kills 1, injures 30+ firefighters
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6199
-- slug: 2026-04-10-nyc-man-charged-with-setting-fire-that-killed-4-including-a-toddler
-  headline: NYC man charged with setting fire that killed 4, including a toddler
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6274
-- slug: 2026-01-27-ten-die-in-new-york-city-s-bitter-cold-amid-preparedness-questions
-  headline: Ten die in New York City's bitter cold amid preparedness questions
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6325
+  strength: 0.6536
 ---
-
 ## Brooklyn fire spreads to second home as battery role stays unknown
 
 **Subtype:** fact
