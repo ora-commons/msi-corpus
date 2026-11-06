@@ -2,8 +2,19 @@
 headline: Gillibrand outlines Democratic priorities after Democrats retake Congress
 secondary_headline: Incoming agenda includes Medicaid, Iran and stock-trading rules
 publish_date: '2026-11-05'
-lede: Sen. Kirsten Gillibrand told NPR that Democrats would focus on lowering costs, restoring health care access and ending the war in Iran after the party won back Congress. In a Nov. 5, 2026 interview, Gillibrand challenged Trump to veto bipartisan legislation restoring Medicaid coverage and proposed a stock-trading ban for members of Congress and senior administration officials. She did not commit to seeking a third impeachment of Trump.
-nut_graf: 'The comments outline the central problem Democrats face after winning Congress while Trump remains in the White House: how much change they can deliver. Gillibrand challenged Trump to veto bipartisan legislation restoring Medicaid coverage and proposed a ban on stock trading by members of Congress and senior administration officials, but she did not commit to a third impeachment. Democrats also face pressure to hold the Trump administration accountable, and NPR reported that how the party intends to bring the Iran war to an end remains unclear.'
+lede: Sen. Kirsten Gillibrand told NPR that Democrats would focus on lowering costs,
+  restoring health care access and ending the war in Iran after the party won back
+  Congress. In a Nov. 5, 2026 interview, Gillibrand challenged Trump to veto bipartisan
+  legislation restoring Medicaid coverage and proposed a stock-trading ban for members
+  of Congress and senior administration officials. She did not commit to seeking a
+  third impeachment of Trump.
+nut_graf: 'The comments outline the central problem Democrats face after winning Congress
+  while Trump remains in the White House: how much change they can deliver. Gillibrand
+  challenged Trump to veto bipartisan legislation restoring Medicaid coverage and
+  proposed a ban on stock trading by members of Congress and senior administration
+  officials, but she did not commit to a third impeachment. Democrats also face pressure
+  to hold the Trump administration accountable, and NPR reported that how the party
+  intends to bring the Iran war to an end remains unclear.'
 primary_entities:
 - Kirsten Gillibrand
 - Trump
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +152,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-05-gillibrand-outlines-democratic-priorities-after-democrats-retake-congress.png
-  alt: 'Illustration accompanying article: Gillibrand outlines Democratic priorities after Democrats retake Congress'
+  alt: 'Illustration accompanying article: Gillibrand outlines Democratic priorities
+    after Democrats retake Congress'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-05-democrats-win-congress-on-affordability-but-trump-retains-veto-power
   headline: Democrats win Congress on affordability, but Trump retains veto power
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7131
+  strength: 0.7138
 - slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
+  headline: Democrats take control of Congress, seek leverage over Trump’s foreign
+    policy
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7113
+  strength: 0.711
 - slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
   headline: Democrats prepare agenda on taxes, health care, AI and Social Security
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.713
+  strength: 0.7131
 - slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7026
+  strength: 0.7011
 - slug: 2026-11-04-democrats-set-post-election-priorities-on-affordability-and-accountability
   headline: Democrats set post-election priorities on affordability and accountability
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6721
+  strength: 0.6718
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.677
+  strength: 0.6781
 - slug: 2026-11-05-mike-johnson-plans-to-step-down-as-top-house-republican-after-midterms
   headline: Mike Johnson plans to step down as top House Republican after midterms
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6626
+  strength: 0.6608
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6686
-- slug: 2026-11-04-democrats-retake-congress-dnc-chairman-says-mandate-is-about-affordability
-  headline: Democrats retake Congress; DNC chairman says mandate is about affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6652
-- slug: 2026-11-04-rahm-emanuel-urges-democrats-to-pass-ethics-reform-and-raise-minimum-wage
-  headline: Rahm Emanuel urges Democrats to pass ethics reform and raise minimum wage
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6644
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6634
-- slug: 2026-11-04-democratic-congress-leaves-trump-foreign-policy-largely-intact
-  headline: Democratic Congress leaves Trump foreign policy largely intact
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6619
-- slug: 2026-11-04-claire-finkelstein-urges-stronger-congressional-oversight-after-midterms
-  headline: Claire Finkelstein urges stronger congressional oversight after midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6588
-- slug: 2026-11-04-mike-johnson-won-t-seek-reelection-as-house-republicans-top-leader
-  headline: Mike Johnson won't seek reelection as House Republicans' top leader
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6554
-- slug: 2026-11-04-democrats-flip-five-senate-seats-as-oil-traders-weigh-iran-policy-risk
-  headline: Democrats flip five Senate seats as oil traders weigh Iran policy risk
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6552
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6576
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6553
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6652
-- slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6659
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7184
+  strength: 0.6675
 ---
-
 ## Gillibrand outlines Democratic priorities after Democrats retake Congress
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Joshua Wong sentenced to 10 years in Hong Kong national security case
 secondary_headline: UK condemns security-law ruling, US consulate calls for release
 publish_date: '2026-11-05'
-lede: Hong Kong pro-democracy activist Joshua Wong was sentenced to 10 years in prison on Thursday after pleading guilty to “foreign collusion” under Hong Kong’s National Security Law. The 30-year-old is the only person to have been prosecuted twice under the legislation, which critics say has been used to silence political opposition in the city. The UK and US condemned the sentence, and the US consulate in Hong Kong called for his immediate release.
-nut_graf: The additional term extends a case that has already kept Wong in detention for six years; he had been due for release in January 2027 under his previous conviction. The UK and the US condemned the sentence, and the US consulate called for his release, while China warned “relevant parties” to “stop making irresponsible remarks” about Hong Kong judicial cases.
+lede: Hong Kong pro-democracy activist Joshua Wong was sentenced to 10 years in prison
+  on Thursday after pleading guilty to “foreign collusion” under Hong Kong’s National
+  Security Law. The 30-year-old is the only person to have been prosecuted twice under
+  the legislation, which critics say has been used to silence political opposition
+  in the city. The UK and US condemned the sentence, and the US consulate in Hong
+  Kong called for his immediate release.
+nut_graf: The additional term extends a case that has already kept Wong in detention
+  for six years; he had been due for release in January 2027 under his previous conviction.
+  The UK and the US condemned the sentence, and the US consulate called for his release,
+  while China warned “relevant parties” to “stop making irresponsible remarks” about
+  Hong Kong judicial cases.
 primary_entities:
 - Joshua Wong
 - Hong Kong
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +153,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-01-sikh-activist-johal-released-from-indian-prison-after-nearly-nine-years
-  headline: Sikh activist Johal released from Indian prison after nearly nine years
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.628
 - slug: 2026-09-10-hong-kong-court-splits-verdict-in-dow-jones-union-rights-case
   headline: Hong Kong court splits verdict in Dow Jones union-rights case
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6678
+  strength: 0.6684
 - slug: 2026-02-28-exiled-activist-kwok-vows-to-keep-fighting-after-hong-kong-jails-her-father
   headline: Exiled activist Kwok vows to keep fighting after Hong Kong jails her father
   publish_date: '2026-02-28'
   relation: related
-  strength: 0.7071
+  strength: 0.7083
 - slug: 2026-02-07-hong-kong-ex-media-tycoon-jimmy-lai-sentenced-to-20-years-under-security-law
-  headline: Hong Kong ex-media tycoon Jimmy Lai sentenced to 20 years under security law
+  headline: Hong Kong ex-media tycoon Jimmy Lai sentenced to 20 years under security
+    law
   publish_date: '2026-02-07'
   relation: related
-  strength: 0.6993
-- slug: 2026-07-15-dong-guangping-resettles-in-canada-after-40-hour-yellow-sea-crossing
-  headline: Dong Guangping resettles in Canada after 40-hour Yellow Sea crossing
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6349
+  strength: 0.6998
 - slug: 2026-05-17-hong-kong-court-hears-final-arguments-in-tiananmen-vigil-organizers-national-sec
-  headline: Hong Kong court hears final arguments in Tiananmen vigil organizers' national security trial
+  headline: Hong Kong court hears final arguments in Tiananmen vigil organizers' national
+    security trial
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.671
+  strength: 0.6717
 - slug: 2026-05-08-uk-border-official-ex-hong-kong-officer-convicted-of-spying-for-china
   headline: UK border official, ex-Hong Kong officer convicted of spying for China
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.6686
+  strength: 0.6688
 - slug: 2026-05-17-hong-kong-tiananmen-vigil-organizers-national-security-trial-nears-end
   headline: Hong Kong Tiananmen vigil organizers’ national security trial nears end
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.6639
+  strength: 0.6645
 - slug: 2026-03-05-jimmy-lai-will-not-appeal-national-security-conviction-lawyers-say
   headline: Jimmy Lai will not appeal national security conviction, lawyers say
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.6783
+  strength: 0.679
 - slug: 2026-05-10-trump-to-press-xi-on-jailed-hong-kong-activist-jimmy-lai-at-beijing-summit
   headline: Trump to press Xi on jailed Hong Kong activist Jimmy Lai at Beijing summit
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6604
-- slug: 2026-07-15-former-fed-adviser-receives-38-month-prison-sentence-for-false-statements-about-
-  headline: Former Fed adviser receives 38-month prison sentence for false statements about China contacts
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6135
-- slug: 2026-07-17-us-will-not-renew-order-revoking-hong-kong-trade-status
-  headline: US will not renew order revoking Hong Kong trade status
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6104
-- slug: 2026-07-17-ice-arrests-chinese-human-rights-lawyer-wu-shaoping-in-pennsylvania
-  headline: ICE arrests Chinese human rights lawyer Wu Shaoping in Pennsylvania
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6074
-- slug: 2026-02-10-hong-kong-ex-media-boss-jimmy-lai-sentenced-prompting-press-freedom-grief
-  headline: Hong Kong ex-media boss Jimmy Lai sentenced, prompting press-freedom grief
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6688
-- slug: 2026-05-10-trump-s-china-talks-next-week-could-shape-jimmy-lai-s-prison-fate
-  headline: Trump’s China talks next week could shape Jimmy Lai’s prison fate
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6411
-- slug: 2026-01-24-chinese-asylum-seeker-who-exposed-xinjiang-abuses-fights-deportation
-  headline: Chinese asylum seeker who exposed Xinjiang abuses fights deportation
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.6452
-- slug: 2026-02-05-chinese-asylum-seeker-guan-heng-freed-from-u-s-detention-after-judge-grants-asyl
-  headline: Chinese asylum seeker Guan Heng freed from U.S. detention after judge grants asylum
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6442
-- slug: 2026-01-30-chinese-dissident-guan-heng-granted-asylum-after-xinjiang-footage
-  headline: Chinese dissident Guan Heng granted asylum after Xinjiang footage
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.638
-- slug: 2026-02-10-trump-beijing-trip-seen-as-crucial-for-jimmy-lai-s-release-family-says
-  headline: Trump Beijing trip seen as crucial for Jimmy Lai’s release, family says
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6328
-- slug: 2026-06-12-ousted-south-korean-president-yoon-sentenced-to-30-years-over-drone-flights
-  headline: Ousted South Korean President Yoon sentenced to 30 years over drone flights
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5991
+  strength: 0.6602
 ---
-
 ## Joshua Wong sentenced to 10 years in Hong Kong national security case
 
 **Subtype:** fact

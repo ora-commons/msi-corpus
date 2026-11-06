@@ -2,8 +2,15 @@
 headline: Lancaster's transformed highway supports a walkable business district
 secondary_headline: City reports more than $270 million in economic output
 publish_date: '2026-11-05'
-lede: Lancaster, California, redeveloped nine blocks of the former Highway 14 into a tree-lined mixed-use district in 2010. The city invested $11.5 million and later reported that the project generated more than $270 million in economic output within four years. West Lancaster Boulevard now contains 250 public and private enterprises, along with a library, a museum and other civic and cultural destinations.
-nut_graf: The project combined a street redesign with a business association, a public library and a museum. Lancaster reported more than $270 million in economic output and $130 million in investment, while residents, business employees and library staff described the redesigned corridor as a place to walk, gather and conduct business.
+lede: Lancaster, California, redeveloped nine blocks of the former Highway 14 into
+  a tree-lined mixed-use district in 2010. The city invested $11.5 million and later
+  reported that the project generated more than $270 million in economic output within
+  four years. West Lancaster Boulevard now contains 250 public and private enterprises,
+  along with a library, a museum and other civic and cultural destinations.
+nut_graf: The project combined a street redesign with a business association, a public
+  library and a museum. Lancaster reported more than $270 million in economic output
+  and $130 million in investment, while residents, business employees and library
+  staff described the redesigned corridor as a place to walk, gather and conduct business.
 primary_entities:
 - Lancaster, California
 - West Lancaster Boulevard
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,109 +145,8 @@ cross_article_links:
   strength: 0.5259
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-29-churches-turn-underused-land-into-affordable-housing-amid-yigby-push
-  headline: Churches turn underused land into affordable housing amid YIGBY push
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5408
-- slug: 2026-10-18-memphis-corridor-illustrates-the-role-of-stroad-design-in-us-pedestrian-deaths
-  headline: Memphis corridor illustrates the role of stroad design in US pedestrian deaths
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.5535
-- slug: 2026-08-22-fort-lauderdale-park-turns-former-parking-lot-into-flood-infrastructure
-  headline: Fort Lauderdale park turns former parking lot into flood infrastructure
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.5663
-- slug: 2026-07-06-santa-monica-declares-fiscal-distress-amid-230m-in-settlements-falling-tourism
-  headline: Santa Monica declares fiscal distress amid $230M in settlements, falling tourism
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5914
-- slug: 2026-07-17-water-main-break-floods-west-hollywood-opens-sinkhole-on-sunset-boulevard
-  headline: Water main break floods West Hollywood, opens sinkhole on Sunset Boulevard
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.563
-- slug: 2026-01-17-us-cities-reverse-one-way-street-designs-to-improve-safety-and-downtown-vitality
-  headline: US cities reverse one-way street designs to improve safety and downtown vitality
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.6206
-- slug: 2026-06-20-trump-s-dc-renovation-blitz-closes-landmarks-frustrates-visitors
-  headline: Trump's DC renovation blitz closes landmarks, frustrates visitors
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.5608
-- slug: 2026-06-25-california-program-gives-aging-mobile-home-parks-a-second-life
-  headline: California program gives aging mobile home parks a second life
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5557
-- slug: 2026-07-05-residents-push-back-against-luxury-development-in-montana-s-flathead-county
-  headline: Residents push back against luxury development in Montana's Flathead County
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.5343
-- slug: 2026-06-04-mule-deer-already-using-incomplete-20-million-california-wildlife-bridge
-  headline: Mule deer already using incomplete $20 million California wildlife bridge
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5345
-- slug: 2026-01-08-workers-find-calm-and-focus-by-weaving-nature-into-the-workday
-  headline: Workers find calm and focus by weaving nature into the workday
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.5629
-- slug: 2026-05-06-oakland-council-fines-couple-915-135-for-illegally-cutting-38-protected-trees
-  headline: Oakland council fines couple $915,135 for illegally cutting 38 protected trees
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5422
-- slug: 2026-05-07-oakland-council-fines-couple-915-135-after-illegal-cutting-of-38-trees
-  headline: Oakland council fines couple $915,135 after illegal cutting of 38 trees
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5416
-- slug: 2026-04-02-golden-gate-fields-to-become-new-east-bay-public-park-under-deal
-  headline: Golden Gate Fields to become new East Bay public park under deal
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.546
-- slug: 2026-01-14-highway-1-along-big-sur-coast-reopens-three-years-after-damaging-landslides
-  headline: Highway 1 along Big Sur coast reopens three years after damaging landslides
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.5541
-- slug: 2026-02-25-dense-tree-barriers-to-cut-air-pollution-begin-in-west-oakland
-  headline: Dense tree barriers to cut air pollution begin in West Oakland
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5501
-- slug: 2026-01-16-nevada-faces-year-end-deadline-with-700-million-in-pandemic-relief-unspent
-  headline: Nevada faces year-end deadline with $700 million in pandemic relief unspent
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.5514
-- slug: 2026-01-06-los-angeles-wildfires-killed-31-destroyed-16-246-structures-one-year-on-only-10-
-  headline: Los Angeles wildfires killed 31, destroyed 16,246 structures; one year on, only 10 homes rebuilt
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.5512
-- slug: 2026-01-23-california-seeks-to-expedite-10-billion-climate-spending-plan
-  headline: California seeks to expedite $10 billion climate spending plan
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.5498
-- slug: 2026-04-08-route-66-celebrates-100-years-mixing-kitsch-migration-and-preservation
-  headline: Route 66 celebrates 100 years, mixing kitsch, migration and preservation
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5399
+related_stories: []
 ---
-
 ## Lancaster's transformed highway supports a walkable business district
 
 **Subtype:** fact
