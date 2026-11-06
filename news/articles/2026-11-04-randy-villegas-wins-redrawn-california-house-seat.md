@@ -1,9 +1,16 @@
 ---
 headline: Randy Villegas wins redrawn California House seat
-secondary_headline: Community college professor unseats six-term Republican David Valadao
+secondary_headline: Community college professor unseats six-term Republican David
+  Valadao
 publish_date: '2026-11-04'
-lede: Community college professor and Democrat Randy Villegas has won California’s 22nd congressional district, unseating six-term Republican incumbent David Valadao. The seat was redrawn under Proposition 50 and had been considered California’s only true toss-up, The Guardian reported.
-nut_graf: Healthcare and rising costs were leading concerns in the district, which had the second-highest rate and number of Medicaid enrollees among congressional districts. The campaign also contrasted Valadao’s corporate and PAC funding with Villegas’s pledge not to accept corporate donations.
+lede: Community college professor and Democrat Randy Villegas has won California’s
+  22nd congressional district, unseating six-term Republican incumbent David Valadao.
+  The seat was redrawn under Proposition 50 and had been considered California’s only
+  true toss-up, The Guardian reported.
+nut_graf: Healthcare and rising costs were leading concerns in the district, which
+  had the second-highest rate and number of Medicaid enrollees among congressional
+  districts. The campaign also contrasted Valadao’s corporate and PAC funding with
+  Villegas’s pledge not to accept corporate donations.
 primary_entities:
 - Randy Villegas
 - David Valadao
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +150,25 @@ related_stories:
   headline: Valadao, Villegas vie for nation's highest-Medicaid House seat
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.8054
+  strength: 0.8055
 - slug: 2026-10-22-valadao-defends-medicaid-vote-in-district-where-6-in-10-rely-on-it
   headline: Valadao defends Medicaid vote in district where 6 in 10 rely on it
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7473
+  strength: 0.7482
 - slug: 2026-10-31-healthcare-costs-weigh-on-florida-swing-district-voters-before-election-day
-  headline: Healthcare costs weigh on Florida swing-district voters before Election Day
+  headline: Healthcare costs weigh on Florida swing-district voters before Election
+    Day
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6561
-- slug: 2026-11-04-under-30-and-hispanic-texas-senate-voters-back-talarico
-  headline: Under-30 and Hispanic Texas Senate voters back Talarico
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6157
-- slug: 2026-11-04-trumps-mid-decade-redistricting-push-fails-to-hold-house-for-republicans
-  headline: Trump's mid-decade redistricting push fails to hold the House for Republicans
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6048
-- slug: 2026-11-03-ppic-poll-shows-52-of-likely-voters-opposing-proposition-40
-  headline: PPIC poll shows 52% of likely voters opposing Proposition 40
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.602
-- slug: 2026-10-30-california-voters-weigh-governor-race-billionaire-tax-in-tuesday-election
-  headline: California voters weigh governor race, billionaire tax in Tuesday election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6283
-- slug: 2026-10-31-shomari-figures-fights-to-hold-redrawn-alabama-house-seat-against-rhett-marques
-  headline: Shomari Figures fights to hold redrawn Alabama House seat against Rhett Marques
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6077
-- slug: 2026-10-31-newsom-leads-opposition-to-california-billionaire-tax-democratic-voters-favor
-  headline: Newsom leads opposition to California billionaire tax Democratic voters favor
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6045
-- slug: 2026-10-30-virginia-republicans-defend-two-house-seats-as-democrats-press-midterm-challenge
-  headline: Virginia Republicans defend two House seats as Democrats press midterm challenge
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6065
-- slug: 2026-10-25-cancer-and-medical-debt-push-texas-voter-from-trump-to-talarico
-  headline: Cancer and medical debt push Texas voter from Trump to Talarico
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6295
-- slug: 2026-10-23-proposition-40-aims-to-raise-100-billion-for-california-health-care
-  headline: Proposition 40 aims to raise $100 billion for California health care
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6099
-- slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
-  headline: KFF poll finds Medicare for All support at decade high
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6022
-- slug: 2026-10-04-vance-courts-maha-movement-as-2028-positioning-intensifies
-  headline: Vance courts MAHA movement as 2028 positioning intensifies
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6025
+  strength: 0.6564
 - slug: 2026-09-05-valadao-fights-for-reelection-amid-signs-of-latino-disenchantment-with-trump
-  headline: Valadao fights for reelection amid signs of Latino disenchantment with Trump
+  headline: Valadao fights for reelection amid signs of Latino disenchantment with
+    Trump
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6937
-- slug: 2026-08-24-virginia-beach-rematch-emerges-as-bellwether-for-house-control
-  headline: Virginia Beach rematch emerges as bellwether for House control
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6064
-- slug: 2026-08-15-wisconsin-canvassers-push-healthcare-message-in-competitive-3rd-district
-  headline: Wisconsin canvassers push healthcare message in competitive 3rd district
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6055
-- slug: 2026-08-06-pia-dandiya-moves-florida-house-campaign-after-map-redraw
-  headline: Pia Dandiya moves Florida House campaign after map redraw
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6112
-- slug: 2026-06-09-democrat-richard-pan-advances-in-race-for-newly-redrawn-california-house-distric
-  headline: Democrat Richard Pan advances in race for newly redrawn California House district
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6312
-- slug: 2026-06-12-southern-activists-mobilize-after-supreme-court-weakens-voting-rights-act
-  headline: Southern activists mobilize after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6045
+  strength: 0.6944
 ---
-
 ## Randy Villegas wins redrawn California House seat
 
 **Subtype:** fact
