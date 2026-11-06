@@ -1,9 +1,15 @@
 ---
 headline: Trump accepts midterm results after election system withstands threats
-secondary_headline: Justice Department election litigation continues after final-weeks Alaska and California challenges
+secondary_headline: Justice Department election litigation continues after final-weeks
+  Alaska and California challenges
 publish_date: '2026-11-05'
-lede: Donald Trump accepted the results of the 2026 U.S. midterm elections after a lopsided defeat for Republicans, saying he was willing to work with Democrats. The election system held against federal threats to voting and certification, though Justice Department legal challenges continued after election day.
-nut_graf: The reported outcome showed the system had held and made January certification appear smooth, while Alaska and California litigation left the administration's next steps unresolved.
+lede: Donald Trump accepted the results of the 2026 U.S. midterm elections after a
+  lopsided defeat for Republicans, saying he was willing to work with Democrats. The
+  election system held against federal threats to voting and certification, though
+  Justice Department legal challenges continued after election day.
+nut_graf: The reported outcome showed the system had held and made January certification
+  appear smooth, while Alaska and California litigation left the administration's
+  next steps unresolved.
 primary_entities:
 - Donald Trump
 - Justice Department
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,37 +147,39 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-04-trump-says-he-ll-accept-midterm-results-after-administration-signals-alaska-cert
-  headline: Trump says he'll accept midterm results after administration signals Alaska certification challenge
+  headline: Trump says he'll accept midterm results after administration signals Alaska
+    certification challenge
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8268
+  strength: 0.8266
 - slug: 2026-11-03-early-voting-advances-as-trump-administration-pressures-state-elections
   headline: Early voting advances as Trump administration pressures state elections
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7987
+  strength: 0.7975
 - slug: 2026-11-04-trump-accepts-midterm-results-and-links-republican-losses-to-iran
   headline: Trump accepts midterm results and links Republican losses to Iran
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7653
+  strength: 0.7647
 - slug: 2026-11-03-justice-department-sends-observers-as-watchdogs-prepare-poll-monitors
   headline: Justice Department sends observers as watchdogs prepare poll monitors
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7616
+  strength: 0.7627
 - slug: 2026-11-02-five-2026-midterm-voting-issues-include-federal-pressure-and-state-rules
   headline: Five 2026 midterm voting issues include federal pressure and state rules
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7569
+  strength: 0.7567
 - slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
   headline: US midterm results may take days or weeks to settle
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7469
+  strength: 0.745
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7442
@@ -178,69 +187,8 @@ related_stories:
   headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7501
-- slug: 2026-10-29-trump-directs-justice-department-to-challenge-possible-alaska-senate-result
-  headline: Trump directs Justice Department to challenge possible Alaska Senate result
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7705
-- slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
-  headline: Democrats win Congress as Trump retains broad presidential powers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7302
-- slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
-  headline: Republicans fault Trump after Democrats take House and Senate in midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7292
-- slug: 2026-11-05-dozens-of-trump-endorsed-republicans-lose-in-2026-midterms
-  headline: Dozens of Trump-endorsed Republicans lose in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7173
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7293
-- slug: 2026-11-03-millions-vote-in-2026-midterms-amid-justice-department-monitoring-concerns
-  headline: Millions vote in 2026 midterms amid Justice Department monitoring concerns
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7206
-- slug: 2026-10-31-justice-department-election-suits-draw-expert-warnings-of-post-election-disputes
-  headline: Justice Department election suits draw expert warnings of post-election disputes
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7286
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7076
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7207
-- slug: 2026-11-01-the-guardian-warns-of-election-interference-ahead-of-us-midterms
-  headline: The Guardian warns of election interference ahead of US midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7206
-- slug: 2026-10-29-ballot-disputes-span-three-states-as-midterms-near
-  headline: Ballot disputes span three states as midterms near
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7254
-- slug: 2026-10-30-doj-escalates-ballot-fights-with-states-ahead-of-tuesday-s-midterms
-  headline: DOJ escalates ballot fights with states ahead of Tuesday's midterms
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7178
+  strength: 0.7499
 ---
-
 ## Trump accepts midterm results after election system withstands threats
 
 **Subtype:** fact
