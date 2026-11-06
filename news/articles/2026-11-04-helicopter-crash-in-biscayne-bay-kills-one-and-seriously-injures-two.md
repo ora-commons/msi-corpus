@@ -2,8 +2,13 @@
 headline: Helicopter crash in Biscayne Bay kills one and seriously injures two
 secondary_headline: NTSB says the helicopter appeared to be on a photography flight
 publish_date: '2026-11-04'
-lede: A helicopter crashed into Biscayne Bay near Miami on Wednesday, killing one person and seriously injuring two others, officials said. The Miami-Dade Sheriff's Office said the aircraft went down shortly before noon near Bill Baggs State Park, off Key Biscayne.
-nut_graf: The early account places the three-occupant crash off Key Biscayne and identifies the aircraft as a Robinson R44 II. Officials had not identified the occupants, and the NTSB's description of the aircraft's apparent mission remained preliminary.
+lede: A helicopter crashed into Biscayne Bay near Miami on Wednesday, killing one
+  person and seriously injuring two others, officials said. The Miami-Dade Sheriff's
+  Office said the aircraft went down shortly before noon near Bill Baggs State Park,
+  off Key Biscayne.
+nut_graf: The early account places the three-occupant crash off Key Biscayne and identifies
+  the aircraft as a Robinson R44 II. Officials had not identified the occupants, and
+  the NTSB's description of the aircraft's apparent mission remained preliminary.
 primary_entities:
 - Biscayne Bay
 - Miami
@@ -41,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,41 +145,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-02-business-jet-crashes-on-military-trail-in-florida-killing-all-nine-aboard
-  headline: Business jet crashes on Military Trail in Florida, killing all nine aboard
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6475
 - slug: 2026-10-30-sheriff-elliott-says-1995-robinson-r22-2018-airbus-collided-near-mcminnville
   headline: Sheriff Elliott says 1995 Robinson R22, 2018 Airbus collided near McMinnville
   publish_date: '2026-10-30'
   relation: related
   strength: 0.6573
 - slug: 2026-10-30-ntsb-investigates-why-two-helicopters-collided-near-mcminnville-killing-three
-  headline: NTSB investigates why two helicopters collided near McMinnville, killing three
+  headline: NTSB investigates why two helicopters collided near McMinnville, killing
+    three
   publish_date: '2026-10-30'
   relation: related
   strength: 0.6568
-- slug: 2026-11-02-ntsb-investigates-florida-learjet-crash-that-killed-all-nine-onboard
-  headline: NTSB investigates Florida Learjet crash that killed all nine onboard
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.625
-- slug: 2026-10-30-midair-collision-near-oregon-airport-kills-all-three-aboard
-  headline: Midair collision near Oregon airport kills all three aboard
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6437
-- slug: 2026-11-01-business-jet-crashes-in-palm-beach-county-killing-all-nine-aboard
-  headline: Business jet crashes in Palm Beach County, killing all nine aboard
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6195
-- slug: 2026-10-29-two-helicopters-collide-midair-near-mcminnville-oregon
-  headline: Two helicopters collide midair near McMinnville, Oregon
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6309
 - slug: 2026-10-01-medevac-helicopter-crashes-off-catalina-island-killing-two-one-missing
   headline: Medevac helicopter crashes off Catalina Island, killing two; one missing
   publish_date: '2026-10-01'
@@ -189,31 +171,6 @@ related_stories:
   publish_date: '2026-09-16'
   relation: related
   strength: 0.68
-- slug: 2026-09-16-five-la-residents-died-across-two-chatsworth-crashes-bass-says
-  headline: Five LA residents died across two Chatsworth crashes, Bass says
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6482
-- slug: 2026-09-21-at-least-14-us-wildfire-responders-have-died-this-year
-  headline: At least 14 US wildfire responders have died this year
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6188
-- slug: 2026-09-07-small-plane-crashes-near-titusville-airport-ntsb-says
-  headline: Small plane crashes near Titusville airport, NTSB says
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6492
-- slug: 2026-09-08-five-plane-cleaners-killed-as-amazon-cargo-jet-overruns-miami-runway
-  headline: Five plane cleaners killed as Amazon cargo jet overruns Miami runway
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6188
-- slug: 2026-07-16-ntsb-finds-geese-remains-on-helicopter-that-crashed-into-hudson-river-killing-6
-  headline: NTSB finds geese remains on helicopter that crashed into Hudson River, killing 6
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6403
 - slug: 2026-03-29-3-killed-in-tour-company-helicopter-crash-on-kauai-s-na-pali-coast
   headline: 3 killed in tour company helicopter crash on Kauai’s Na Pali Coast
   publish_date: '2026-03-29'
@@ -224,23 +181,13 @@ related_stories:
   publish_date: '2026-05-10'
   relation: related
   strength: 0.6616
-- slug: 2026-06-21-three-killed-in-small-plane-crash-in-bowie-maryland
-  headline: Three killed in small plane crash in Bowie, Maryland
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6361
 - slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
+  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash
+    killed 3
   publish_date: '2026-04-17'
   relation: related
   strength: 0.6648
-- slug: 2026-01-03-4-killed-as-helicopter-strikes-slackline-crashes-into-arizona-canyon
-  headline: 4 killed as helicopter strikes slackline, crashes into Arizona canyon
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6714
 ---
-
 ## Helicopter crash in Biscayne Bay kills one and seriously injures two
 
 **Subtype:** fact

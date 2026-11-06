@@ -1,9 +1,19 @@
 ---
-headline: Stacey Abrams says Georgia wins offer chance to restore rights across the South
-secondary_headline: Ossoff defeats Collins as Democrats win attorney general, secretary of state races
+headline: Stacey Abrams says Georgia wins offer chance to restore rights across the
+  South
+secondary_headline: Ossoff defeats Collins as Democrats win attorney general, secretary
+  of state races
 publish_date: '2026-11-04'
-lede: Stacey Abrams said Georgia's Democratic victories for governor, attorney general, secretary of state and in the state House provide "us an opportunity to start correcting and restoring rights that we've seen lost across the South for more than 20 years." Incumbent Sen. Jon Ossoff defended his Senate seat by defeating Republican Rep. Mike Collins, according to NPR's report on the midterm results.
-nut_graf: Georgia Democrats now hold the governor's office and other state posts after Stacey Abrams ran for governor in 2018 and 2022 and founded Fair Fight Action to combat voter suppression. Abrams said her effort has been about not only rebuilding the Democratic Party but also restoring people's trust, work she said requires continuing through each election cycle and the intervals between elections.
+lede: Stacey Abrams said Georgia's Democratic victories for governor, attorney general,
+  secretary of state and in the state House provide "us an opportunity to start correcting
+  and restoring rights that we've seen lost across the South for more than 20 years."
+  Incumbent Sen. Jon Ossoff defended his Senate seat by defeating Republican Rep.
+  Mike Collins, according to NPR's report on the midterm results.
+nut_graf: Georgia Democrats now hold the governor's office and other state posts after
+  Stacey Abrams ran for governor in 2018 and 2022 and founded Fair Fight Action to
+  combat voter suppression. Abrams said her effort has been about not only rebuilding
+  the Democratic Party but also restoring people's trust, work she said requires continuing
+  through each election cycle and the intervals between elections.
 primary_entities:
 - Georgia
 - Stacey Abrams
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +158,44 @@ related_stories:
   headline: Keisha Lance Bottoms wins Georgia governor race in historic upset
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7809
+  strength: 0.7822
 - slug: 2026-11-03-keisha-lance-bottoms-wins-georgia-governor-race
   headline: Keisha Lance Bottoms wins Georgia governor race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7769
+  strength: 0.7771
 - slug: 2026-11-04-jon-ossoff-projected-to-win-georgia-senate-race-democrats-press-for-control
   headline: Jon Ossoff projected to win Georgia Senate race; Democrats press for control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7576
+  strength: 0.7587
 - slug: 2026-11-03-georgia-senate-reelection-goes-to-jon-ossoff
   headline: Georgia Senate reelection goes to Jon Ossoff
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7524
+  strength: 0.7523
 - slug: 2026-11-04-democrats-win-key-governor-races-with-historic-firsts
   headline: Democrats win key governor races with historic firsts
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7298
-- slug: 2026-11-03-georgia-senate-race-pits-jon-ossoff-against-trump-backed-mike-collins
-  headline: Georgia Senate race pits Jon Ossoff against Trump-backed Mike Collins
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7339
+  strength: 0.7334
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7221
-- slug: 2026-10-30-georgia-voters-decide-senate-governor-races-tuesday
-  headline: Georgia voters decide Senate, governor races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7513
-- slug: 2026-11-04-democrats-projected-to-take-congress-cooper-wins-north-carolina-senate-race
-  headline: Democrats projected to take Congress; Cooper wins North Carolina Senate race
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.715
-- slug: 2026-11-03-keisha-lance-bottoms-and-rick-jackson-contest-georgia-governor-race
-  headline: Keisha Lance Bottoms and Rick Jackson contest Georgia governor race
+  strength: 0.7259
+- slug: 2026-11-03-georgia-senate-race-pits-jon-ossoff-against-trump-backed-mike-collins
+  headline: Georgia Senate race pits Jon Ossoff against Trump-backed Mike Collins
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7088
-- slug: 2026-10-29-barack-obama-rallies-georgia-democrats-in-final-midterm-campaign-week
-  headline: Barack Obama rallies Georgia Democrats in final midterm campaign week
-  publish_date: '2026-10-29'
+  strength: 0.7318
+- slug: 2026-11-04-democrats-projected-to-take-congress-cooper-wins-north-carolina-senate-race
+  headline: Democrats projected to take Congress; Cooper wins North Carolina Senate
+    race
+  publish_date: '2026-11-04'
   relation: related
-  strength: 0.7307
-- slug: 2026-10-28-bottoms-makes-historic-bid-for-georgia-governor-against-jackson
-  headline: Bottoms makes historic bid for Georgia governor against Jackson
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.724
-- slug: 2026-10-16-ossoff-leads-georgia-senate-race-denies-2028-presidential-interest
-  headline: Ossoff leads Georgia Senate race, denies 2028 presidential interest
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7376
-- slug: 2026-10-14-georgia-sets-first-day-midterm-early-voting-record-with-188-667-ballots
-  headline: Georgia sets first-day midterm early voting record with 188,667 ballots
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7057
-- slug: 2026-08-27-ossoff-builds-lead-in-georgia-senate-race-as-national-democrats-take-notice
-  headline: Ossoff builds lead in Georgia Senate race as national Democrats take notice
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7635
-- slug: 2026-09-07-collins-trails-ossoff-in-georgia-senate-race-as-family-and-staff-controversies-s
-  headline: Collins trails Ossoff in Georgia Senate race as family and staff controversies surface
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.7023
-- slug: 2026-05-21-dooley-advances-to-georgia-gop-senate-runoff-bottoms-wins-democratic-nod
-  headline: Dooley advances to Georgia GOP Senate runoff; Bottoms wins Democratic nod
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7661
-- slug: 2026-05-22-georgia-gop-sets-senate-runoff-with-dooley-vs-collins-bottoms-wins-dems
-  headline: Georgia GOP sets Senate runoff with Dooley vs. Collins; Bottoms wins Dems
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7624
-- slug: 2026-05-18-georgia-gop-sets-up-runoff-for-senate-nomination-and-governor-after-primary
-  headline: Georgia GOP sets up runoff for Senate nomination and governor after primary
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7628
-- slug: 2026-05-19-georgia-republicans-set-runoffs-for-senate-and-governor-after-tuesday-primary
-  headline: Georgia Republicans set runoffs for Senate and governor after Tuesday primary
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7472
+  strength: 0.7196
 ---
-
 ## Stacey Abrams says Georgia wins offer chance to restore rights across the South
 
 **Subtype:** fact

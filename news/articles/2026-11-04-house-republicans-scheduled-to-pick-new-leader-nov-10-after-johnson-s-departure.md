@@ -2,8 +2,19 @@
 headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
 secondary_headline: Hakeem Jeffries stands to become the House's first Black speaker
 publish_date: '2026-11-04'
-lede: Republicans are scheduled to hold House leadership elections on Nov. 10 to choose their leaders in the minority after what NPR described as a bruising defeat for the party. NPR reported that Speaker Mike Johnson does not plan to remain Republican leader in the new Congress, citing a source familiar with his plans who was not authorized to discuss them publicly. Johnson's decision will open the top House leadership position in the minority, and Rep. Hakeem Jeffries of New York, the presumptive next speaker, would make history as the first Black lawmaker elected to the position.
-nut_graf: 'The Nov. 10 elections are scheduled to fill the top House Republican leadership position in the minority, a role NPR reported Johnson''s decision will open. NPR said the dynamic Johnson faced will not be replicated for Rep. Hakeem Jeffries, the presumptive next speaker: Johnson''s razor-thin majority meant even one Republican defection put GOP priorities at risk, while Jeffries'' comfortable margin means he will likely be able to achieve his priorities even with defections.'
+lede: Republicans are scheduled to hold House leadership elections on Nov. 10 to choose
+  their leaders in the minority after what NPR described as a bruising defeat for
+  the party. NPR reported that Speaker Mike Johnson does not plan to remain Republican
+  leader in the new Congress, citing a source familiar with his plans who was not
+  authorized to discuss them publicly. Johnson's decision will open the top House
+  leadership position in the minority, and Rep. Hakeem Jeffries of New York, the presumptive
+  next speaker, would make history as the first Black lawmaker elected to the position.
+nut_graf: 'The Nov. 10 elections are scheduled to fill the top House Republican leadership
+  position in the minority, a role NPR reported Johnson''s decision will open. NPR
+  said the dynamic Johnson faced will not be replicated for Rep. Hakeem Jeffries,
+  the presumptive next speaker: Johnson''s razor-thin majority meant even one Republican
+  defection put GOP priorities at risk, while Jeffries'' comfortable margin means
+  he will likely be able to achieve his priorities even with defections.'
 primary_entities:
 - Mike Johnson
 - Hakeem Jeffries
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,116 +153,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-house-republicans-scheduled-to-pick-new-leader-nov-10-after-johnson-s-departure.png
-  alt: 'Illustration accompanying article: House Republicans scheduled to pick new leader Nov. 10 after Johnson''s departure'
+  alt: 'Illustration accompanying article: House Republicans scheduled to pick new
+    leader Nov. 10 after Johnson''s departure'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-04-mike-johnson-steps-aside-from-house-republican-leadership-after-midterm-losses
-  headline: Mike Johnson steps aside from House Republican leadership after midterm losses
+  headline: Mike Johnson steps aside from House Republican leadership after midterm
+    losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8353
+  strength: 0.836
 - slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
   headline: Hakeem Jeffries outlines affordability agenda for incoming House control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.817
+  strength: 0.8177
 - slug: 2026-11-04-mike-johnson-reportedly-rules-out-bid-for-house-minority-leader
   headline: Mike Johnson reportedly rules out bid for House minority leader
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7866
+  strength: 0.7868
 - slug: 2026-11-04-hakeem-jeffries-expected-to-win-historic-house-speakership
   headline: Hakeem Jeffries expected to win historic House speakership
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7672
+  strength: 0.7677
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7353
+  strength: 0.7372
 - slug: 2026-11-04-jeffries-criminal-justice-house-speaker-path
   headline: Jeffries's criminal justice reform work shapes his House speakership path
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7158
+  strength: 0.7164
 - slug: 2026-11-04-historic-firsts-and-party-tests-follow-democratic-midterm-victories
   headline: Historic firsts and party tests follow Democratic midterm victories
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6882
+  strength: 0.6897
 - slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
   headline: Democrats take Congress, gaining leverage over probes and appointments
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6829
-- slug: 2026-11-03-republicans-rare-mid-decade-redistricting-likely-falls-short-in-house-fight
-  headline: Republicans' rare mid-decade redistricting likely falls short in House fight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6838
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7035
-- slug: 2026-10-30-midterms-open-high-stakes-fight-over-post-trump-future
-  headline: Midterms open high-stakes fight over post-Trump future
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7078
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7546
-- slug: 2026-09-17-house-speaker-johnson-sends-lawmakers-home-early-cutting-remaining-votes
-  headline: House Speaker Johnson sends lawmakers home early, cutting remaining votes
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7092
-- slug: 2026-08-26-jeffries-faces-progressive-backlash-after-private-kushner-meeting
-  headline: Jeffries faces progressive backlash after private Kushner meeting
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7574
-- slug: 2026-09-16-johnson-cancels-house-votes-avoiding-hegseth-impeachment-resolution
-  headline: Johnson cancels House votes, avoiding Hegseth impeachment resolution
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6809
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6892
-- slug: 2026-09-03-jeffries-previews-democratic-agenda-for-potential-house-majority
-  headline: Jeffries previews Democratic agenda for potential House majority
-  publish_date: '2026-09-03'
-  relation: related
   strength: 0.6839
-- slug: 2026-06-29-johnson-aims-to-revive-house-gop-agenda-after-week-of-stalled-votes
-  headline: Johnson aims to revive House GOP agenda after week of stalled votes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7269
-- slug: 2026-07-27-jeffries-faults-republican-record-on-affordability-and-war-as-midterm-pitch
-  headline: Jeffries faults Republican record on affordability and war as midterm pitch
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6963
-- slug: 2026-07-05-luna-led-rebellion-blocks-house-vote-sends-lawmakers-home-early
-  headline: Luna-led rebellion blocks House vote, sends lawmakers home early
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.7055
 ---
-
 ## House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
 
 **Subtype:** fact

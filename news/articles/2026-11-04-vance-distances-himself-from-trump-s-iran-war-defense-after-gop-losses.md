@@ -1,9 +1,20 @@
 ---
 headline: Vance distances himself from Trump’s Iran war defense after GOP losses
-secondary_headline: Poll finds military action less decisive than cost of living and corruption
+secondary_headline: Poll finds military action less decisive than cost of living and
+  corruption
 publish_date: '2026-11-04'
-lede: Vice President JD Vance publicly distanced himself from President Donald Trump’s defense of the Iran war on Wednesday, saying Republican voters had backed Democrats because of the conflict and other grievances. In a lengthy social media post, Vance said the war was among the reasons for Republican losses and challenged the argument that the conflict was worth losing the Senate for 6 years. Trump, speaking at the White House, said the United States had to pursue the war and would continue doing so.
-nut_graf: The split came as the AP Voter Poll found that about 6 in 10 of more than 100,000 surveyed voters said the United States made the “wrong decision” in taking military action against Iran. The poll suggested the war was not the leading issue for most voters, with only about one-third calling it crucial to their vote for Congress.
+lede: Vice President JD Vance publicly distanced himself from President Donald Trump’s
+  defense of the Iran war on Wednesday, saying Republican voters had backed Democrats
+  because of the conflict and other grievances. In a lengthy social media post, Vance
+  said the war was among the reasons for Republican losses and challenged the argument
+  that the conflict was worth losing the Senate for 6 years. Trump, speaking at the
+  White House, said the United States had to pursue the war and would continue doing
+  so.
+nut_graf: The split came as the AP Voter Poll found that about 6 in 10 of more than
+  100,000 surveyed voters said the United States made the “wrong decision” in taking
+  military action against Iran. The poll suggested the war was not the leading issue
+  for most voters, with only about one-third calling it crucial to their vote for
+  Congress.
 primary_entities:
 - JD Vance
 - Donald Trump
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,113 +160,57 @@ related_stories:
   headline: Vance says Iran war was the reason Republicans lost midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8678
+  strength: 0.8679
 - slug: 2026-11-04-trump-says-iran-was-one-factor-in-republican-midterm-losses
   headline: Trump says Iran was one factor in Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7391
+  strength: 0.7401
 - slug: 2026-10-28-vance-sends-letter-to-iranian-security-chief-to-restart-peace-talks
   headline: Vance sends letter to Iranian security chief to restart peace talks
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7362
+  strength: 0.7363
 - slug: 2026-10-24-vance-stumps-for-republicans-as-questions-grow-about-a-2028-white-house-bid
-  headline: Vance stumps for Republicans as questions grow about a 2028 White House bid
+  headline: Vance stumps for Republicans as questions grow about a 2028 White House
+    bid
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7361
-- slug: 2026-10-19-vance-declines-netanyahu-endorsement-ahead-of-israel-election
-  headline: Vance declines Netanyahu endorsement ahead of Israel election
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7085
+  strength: 0.7354
 - slug: 2026-09-27-vance-works-to-rebuild-fractured-trump-coalition-ahead-of-midterms
   headline: Vance works to rebuild fractured Trump coalition ahead of midterms
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7853
+  strength: 0.7847
 - slug: 2026-10-08-reuters-ipsos-finds-roughly-a-third-of-americans-approve-iran-strikes
   headline: Reuters/Ipsos finds roughly a third of Americans approve Iran strikes
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7161
+  strength: 0.7175
 - slug: 2026-09-14-vance-says-iran-fight-is-not-a-war-trump-has-called-it-one
   headline: Vance says Iran fight is not a war; Trump has called it one
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7697
+  strength: 0.7709
 - slug: 2026-09-11-vance-leads-2028-gop-primary-field-at-43-percent-in-new-poll
   headline: Vance leads 2028 GOP primary field at 43 percent in new poll
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7471
-- slug: 2026-09-11-vance-delivers-prime-time-speech-on-gop-convention-s-second-night
-  headline: Vance delivers prime-time speech on GOP convention's second night
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7081
-- slug: 2026-09-04-vance-rejects-war-label-for-iran-fighting-cites-no-active-shooting
-  headline: Vance rejects 'war' label for Iran fighting, cites no active shooting
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7214
-- slug: 2026-09-04-vance-stands-by-carlson-friendship-at-thursday-press-conference
-  headline: Vance stands by Carlson friendship at Thursday press conference
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7179
-- slug: 2026-06-25-vance-takes-lead-on-iran-deal-as-trump-signals-fall-guy-role
-  headline: Vance takes lead on Iran deal as Trump signals fall guy role
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7864
-- slug: 2026-04-01-rubio-and-vance-differ-on-iran-war-as-2028-gop-jockeying-begins
-  headline: Rubio and Vance differ on Iran war as 2028 GOP jockeying begins
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7945
-- slug: 2026-06-17-vance-works-to-sell-iran-deal-amid-conservative-skepticism
-  headline: Vance works to sell Iran deal amid conservative skepticism
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.755
-- slug: 2026-03-09-trump-says-vance-was-philosophically-different-on-iran-but-no-split
-  headline: Trump says Vance was “philosophically” different on Iran, but no split
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.7847
-- slug: 2026-06-18-vance-says-iran-deal-is-us-win-no-matter-what-happens-next
-  headline: Vance says Iran deal is US win no matter what happens next
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7404
-- slug: 2026-06-09-vance-says-us-very-close-to-iran-peace-deal-hours-before-new-strikes
-  headline: Vance says US ‘very close’ to Iran peace deal hours before new strikes
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7462
-- slug: 2026-03-31-rubio-and-vance-differ-on-iran-war-as-2028-gop-jockeying-begins
-  headline: Rubio and Vance differ on Iran war as 2028 GOP jockeying begins
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7634
-- slug: 2026-06-28-vance-says-us-wins-either-way-on-iran-as-ceasefire-frays
-  headline: Vance says US wins either way on Iran as ceasefire frays
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.7225
+  strength: 0.7467
 image:
   url: /articles/2026-11-04-vance-distances-himself-from-trump-s-iran-war-defense-after-gop-losses.png
-  alt: "Illustration accompanying article: Vance distances himself from Trump’s Iran war defense after GOP losses"
+  alt: 'Illustration accompanying article: Vance distances himself from Trump’s Iran
+    war defense after GOP losses'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Vance distances himself from Trump’s Iran war defense after GOP losses
 
 **Subtype:** fact

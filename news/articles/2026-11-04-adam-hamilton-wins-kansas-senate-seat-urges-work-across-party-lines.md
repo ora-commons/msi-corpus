@@ -1,9 +1,17 @@
 ---
 headline: Adam Hamilton wins Kansas Senate seat, urges work across party lines
-secondary_headline: Hamilton credits rising costs, tariffs and the war in Iran for his victory
+secondary_headline: Hamilton credits rising costs, tariffs and the war in Iran for
+  his victory
 publish_date: '2026-11-04'
-lede: Adam Hamilton, a Methodist pastor and former registered Republican, won election to the U.S. Senate from Kansas, becoming the first Democrat to win the seat since 1932. In an interview with NPR's Michel Martin on Morning Edition, Hamilton said rising costs, tariffs and the war in Iran helped drive his victory, and that voters were looking for more than a change in party.
-nut_graf: Hamilton's win places a Democrat in the Senate from Kansas for the first time since 1932. His stated agenda — reaching religious voters, easing what he called hyperpolarization and building relationships across party lines — sets the terms on which he says he intends to serve.
+lede: Adam Hamilton, a Methodist pastor and former registered Republican, won election
+  to the U.S. Senate from Kansas, becoming the first Democrat to win the seat since
+  1932. In an interview with NPR's Michel Martin on Morning Edition, Hamilton said
+  rising costs, tariffs and the war in Iran helped drive his victory, and that voters
+  were looking for more than a change in party.
+nut_graf: Hamilton's win places a Democrat in the Senate from Kansas for the first
+  time since 1932. His stated agenda — reaching religious voters, easing what he called
+  hyperpolarization and building relationships across party lines — sets the terms
+  on which he says he intends to serve.
 primary_entities:
 - Adam Hamilton
 - Kansas
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +151,44 @@ related_stories:
   headline: Adam Hamilton wins Kansas Senate seat, first for a Democrat since 1932
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8593
+  strength: 0.8596
 - slug: 2026-11-04-kansas-elects-adam-hamilton-to-the-u-s-senate
   headline: Kansas elects Adam Hamilton to the U.S. Senate
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8189
+  strength: 0.8192
 - slug: 2026-10-30-hamilton-faces-marshall-as-kansas-democrats-seek-first-senate-win-since-1932
-  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since 1932
+  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since
+    1932
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7699
+  strength: 0.7701
 - slug: 2026-11-03-record-spending-tops-108-million-in-kansas-senate-contest
   headline: Record spending tops $108 million in Kansas Senate contest
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6999
+  strength: 0.7006
 - slug: 2026-10-20-hamilton-courts-republicans-and-independents-in-close-kansas-senate-race
   headline: Hamilton courts Republicans and independents in close Kansas Senate race
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7825
+  strength: 0.7826
 - slug: 2026-10-14-democrat-adam-hamilton-leads-sen-roger-marshall-in-kansas-senate-polls
   headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7954
+  strength: 0.7957
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6522
-- slug: 2026-11-04-u-s-midterm-results-lift-canadian-hopes-for-tariff-relief
-  headline: U.S. midterm results lift Canadian hopes for tariff relief
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6281
-- slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-over-mike-rogers
-  headline: Abdul El-Sayed wins Michigan Senate seat over Mike Rogers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.626
-- slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-as-first-muslim-us-senator
-  headline: Abdul El-Sayed wins Michigan Senate seat as first Muslim US senator
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6187
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6245
-- slug: 2026-11-04-el-sayed-and-pappas-make-history-as-haaland-wins-new-mexico-governorship
-  headline: El-Sayed and Pappas make history as Haaland wins New Mexico governorship
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6168
-- slug: 2026-11-04-ken-martin-says-democrats-have-great-leverage-after-2026-midterms
-  headline: Ken Martin says Democrats have great leverage after 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6154
-- slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
-  headline: James Talarico defeats Ken Paxton in Texas Senate race
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6151
-- slug: 2026-11-02-trump-weak-new-hampshire-standing-complicates-sununu-senate-bid
-  headline: Cook shifts New Hampshire race toward Pappas; Trump approval sits at 32%
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6291
-- slug: 2026-11-03-abuse-allegations-against-max-miller-put-ohio-s-seventh-district-in-play
-  headline: Abuse allegations against Max Miller put Ohio's seventh district in play
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6163
-- slug: 2026-11-03-hinson-shifts-campaign-message-during-iowa-senate-race
-  headline: Hinson shifts campaign message during Iowa Senate race
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6157
+  strength: 0.6524
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6778
-- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6243
-- slug: 2026-08-25-democrat-adam-hamilton-targets-roger-marshall-in-kansas-senate-race
-  headline: Democrat Adam Hamilton targets Roger Marshall in Kansas Senate race
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.8034
+  strength: 0.6779
 ---
-
 ## Adam Hamilton wins Kansas Senate seat, urges work across party lines
 
 **Subtype:** fact
