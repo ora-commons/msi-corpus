@@ -2,8 +2,16 @@
 headline: 2026 election sends at least 10 Democratic physicians to Congress
 secondary_headline: Michigan win balances the Senate's medical delegation
 publish_date: '2026-11-04'
-lede: Dr. Annie Andrews's election to the U.S. Senate will make the South Carolina pediatrician the first practicing physician elected as a Democrat since 1938. With Dr. Abdul El-Sayed's Michigan victory and at least two Democratic physician wins in the House, the 2026 election will place at least 10 Democratic physicians in the new Congress.
-nut_graf: The incoming Congress will include at least 18 physicians, compared with 20 in the current Congress. Democrats will hold at least 10 of those seats, and they may outnumber their Republican counterparts depending on the outcome of unresolved House races. Many of the incoming lawmakers campaigned on health policy issues such as the cost of health insurance and prescription drugs.
+lede: Dr. Annie Andrews's election to the U.S. Senate will make the South Carolina
+  pediatrician the first practicing physician elected as a Democrat since 1938. With
+  Dr. Abdul El-Sayed's Michigan victory and at least two Democratic physician wins
+  in the House, the 2026 election will place at least 10 Democratic physicians in
+  the new Congress.
+nut_graf: The incoming Congress will include at least 18 physicians, compared with
+  20 in the current Congress. Democrats will hold at least 10 of those seats, and
+  they may outnumber their Republican counterparts depending on the outcome of unresolved
+  House races. Many of the incoming lawmakers campaigned on health policy issues such
+  as the cost of health insurance and prescription drugs.
 primary_entities:
 - Annie Andrews
 - Abdul El-Sayed
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,113 +155,57 @@ related_stories:
   headline: Annie Andrews defeats Darline Graham in South Carolina Senate race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7137
+  strength: 0.7132
 - slug: 2026-11-04-annie-andrews-defeats-darline-graham-in-south-carolina-senate-race
   headline: Annie Andrews defeats Darline Graham in South Carolina Senate race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7022
+  strength: 0.7024
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6833
-- slug: 2026-11-02-seven-senate-races-could-decide-senate-control-in-2026
-  headline: Seven Senate races could decide Senate control in 2026
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6965
+  strength: 0.6824
 - slug: 2026-11-04-democrat-annie-andrews-on-course-to-win-south-carolina-senate-race
   headline: Democrat Annie Andrews on course to win South Carolina Senate race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6817
+  strength: 0.6813
+- slug: 2026-11-02-seven-senate-races-could-decide-senate-control-in-2026
+  headline: Seven Senate races could decide Senate control in 2026
+  publish_date: '2026-11-02'
+  relation: related
+  strength: 0.6941
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-over-mike-rogers
   headline: Abdul El-Sayed wins Michigan Senate seat over Mike Rogers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6728
+  strength: 0.6724
 - slug: 2026-11-04-democrats-retake-congress-dnc-chairman-says-mandate-is-about-affordability
   headline: Democrats retake Congress; DNC chairman says mandate is about affordability
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6652
+  strength: 0.6647
 - slug: 2026-11-04-live-midterm-tracker-shows-33-of-35-senate-races-367-of-435-house-races-called
-  headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races called
+  headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races
+    called
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.665
-- slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
-  headline: Democrats win House, control Congress for Trump's final two years
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6642
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6684
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6586
-- slug: 2026-11-04-el-sayed-and-pappas-make-history-as-haaland-wins-new-mexico-governorship
-  headline: El-Sayed and Pappas make history as Haaland wins New Mexico governorship
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6583
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.662
-- slug: 2026-11-04-democrats-flip-state-legislatures-and-pick-up-four-governorships-in-2026-midterm
-  headline: Democrats flip state legislatures and pick up four governorships in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6543
-- slug: 2026-10-29-poll-shows-annie-andrews-and-darline-graham-tied-in-south-carolina-senate-race
-  headline: Poll shows Annie Andrews and Darline Graham tied in South Carolina Senate race
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6632
-- slug: 2026-10-30-michigan-voters-decide-senate-governor-races-that-could-shift-power
-  headline: Michigan voters decide Senate, governor races that could shift power
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6533
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6861
-- slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
-  headline: KFF poll finds Medicare for All support at decade high
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6526
-- slug: 2026-09-20-dsa-backed-candidates-unseat-four-house-democrats-as-primary-season-ends
-  headline: DSA-backed candidates unseat four House Democrats as primary season ends
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6947
-- slug: 2026-08-31-pediatrician-andrews-to-face-darline-graham-in-south-carolina-senate-race
-  headline: Pediatrician Andrews to face Darline Graham in South Carolina Senate race
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7454
+  strength: 0.6636
 image:
   url: /articles/2026-11-04-2026-election-sends-at-least-10-democratic-physicians-to-congress.png
-  alt: "Illustration accompanying article: 2026 election sends at least 10 Democratic physicians to Congress"
+  alt: 'Illustration accompanying article: 2026 election sends at least 10 Democratic
+    physicians to Congress'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## 2026 election sends at least 10 Democratic physicians to Congress
 
 **Subtype:** fact

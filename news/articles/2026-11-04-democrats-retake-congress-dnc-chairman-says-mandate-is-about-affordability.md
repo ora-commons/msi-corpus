@@ -2,8 +2,21 @@
 headline: Democrats retake Congress; DNC chairman says mandate is about affordability
 secondary_headline: El-Sayed becomes the first Muslim elected to the Senate
 publish_date: '2026-11-04'
-lede: Democrats took control of the House of Representatives and the Senate in the midterms, flipping Senate seats in Texas, Kansas and Iowa for the first time in decades, according to NPR. Democratic gubernatorial candidates also won in Georgia, Ohio and Texas, leaving the party holding at least 28 governorships heading into 2027. Democratic National Committee chairman Ken Martin described the result as a mandate on affordability and health care, and Eric Holder of the National Democratic Redistricting Committee argued that mid-decade redistricting limited Republicans' performance.
-nut_graf: 'The election handed Democrats control of both chambers and at least 28 governorships, and Democratic figures offered different accounts of why: Democratic National Committee chairman Ken Martin pointed to a mandate on affordability and health care, National Democratic Redistricting Committee chairman Eric Holder pointed to mid-decade maps that failed, and pollster Margie Omero pointed to a message aimed at Washington. The accounts leave the practical test ahead of the incoming majority — whether the seat counts and the mandate Martin described produce governing results.'
+lede: Democrats took control of the House of Representatives and the Senate in the
+  midterms, flipping Senate seats in Texas, Kansas and Iowa for the first time in
+  decades, according to NPR. Democratic gubernatorial candidates also won in Georgia,
+  Ohio and Texas, leaving the party holding at least 28 governorships heading into
+  2027. Democratic National Committee chairman Ken Martin described the result as
+  a mandate on affordability and health care, and Eric Holder of the National Democratic
+  Redistricting Committee argued that mid-decade redistricting limited Republicans'
+  performance.
+nut_graf: 'The election handed Democrats control of both chambers and at least 28
+  governorships, and Democratic figures offered different accounts of why: Democratic
+  National Committee chairman Ken Martin pointed to a mandate on affordability and
+  health care, National Democratic Redistricting Committee chairman Eric Holder pointed
+  to mid-decade maps that failed, and pollster Margie Omero pointed to a message aimed
+  at Washington. The accounts leave the practical test ahead of the incoming majority
+  — whether the seat counts and the mandate Martin described produce governing results.'
 primary_entities:
 - Abdul El-Sayed
 - Eric Holder
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,12 +160,12 @@ related_stories:
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8173
+  strength: 0.8179
 - slug: 2026-11-04-democrats-win-house-and-senate-control-in-2026-us-midterms
   headline: Democrats win House and Senate control in 2026 US midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7788
+  strength: 0.7789
 - slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
   headline: Democrats take control of Congress in 2026 midterms
   publish_date: '2026-11-03'
@@ -161,14 +175,15 @@ related_stories:
   headline: Democrats win Congress and a majority of governorships on affordability
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.773
+  strength: 0.7728
 - slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
   headline: Democrats regain Senate control after wins in at least six states
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7678
+  strength: 0.7679
 - slug: 2026-11-04-democrats-flip-state-legislatures-and-pick-up-four-governorships-in-2026-midterm
-  headline: Democrats flip state legislatures and pick up four governorships in 2026 midterms
+  headline: Democrats flip state legislatures and pick up four governorships in 2026
+    midterms
   publish_date: '2026-11-04'
   relation: related
   strength: 0.766
@@ -176,74 +191,13 @@ related_stories:
   headline: Ken Martin says Democrats have great leverage after 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7606
+  strength: 0.7603
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7597
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7589
-- slug: 2026-11-04-democrats-set-post-election-priorities-on-affordability-and-accountability
-  headline: Democrats set post-election priorities on affordability and accountability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7467
-- slug: 2026-11-04-el-sayed-and-pappas-make-history-as-haaland-wins-new-mexico-governorship
-  headline: El-Sayed and Pappas make history as Haaland wins New Mexico governorship
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7379
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7374
-- slug: 2026-11-04-stacey-abrams-says-georgia-wins-offer-chance-to-restore-rights-across-the-south
-  headline: Stacey Abrams says Georgia wins offer chance to restore rights across the South
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7351
-- slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
-  headline: Democrats win House, control Congress for Trump's final two years
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.729
-- slug: 2026-11-04-democrats-win-key-governor-races-with-historic-firsts
-  headline: Democrats win key governor races with historic firsts
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7278
-- slug: 2026-11-04-jon-ossoff-projected-to-win-georgia-senate-race-democrats-press-for-control
-  headline: Jon Ossoff projected to win Georgia Senate race; Democrats press for control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7225
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7199
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7199
-- slug: 2026-11-04-schumer-says-days-of-trump-s-supplicant-senate-are-over-vows-to-cut-costs
-  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut costs
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7196
-- slug: 2026-11-04-historic-firsts-and-party-tests-follow-democratic-midterm-victories
-  headline: Historic firsts and party tests follow Democratic midterm victories
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7145
+  strength: 0.7601
 ---
-
 ## Democrats retake Congress; DNC chairman says mandate is about affordability
 
 **Subtype:** fact

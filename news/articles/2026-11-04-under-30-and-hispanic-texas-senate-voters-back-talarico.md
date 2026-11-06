@@ -71,7 +71,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -254,3 +254,10 @@ AP said the results widened validation for Democrats' long-deferred expectation 
 **Publication date:** 2026-11-04
 **Title:** Texas Democrats earn historic victories after decades on the sideline
 **URL:** https://apnews.com/article/texas-democrats-republicans-talarico-hinojosa-6e285484736b5116629a3b6e37e1dda5
+
+### src_late_412e3df1de90da16 — Associated Press, wire, Tier 1, originating
+**Author:** Jim Vertuno
+**Publication date:** 2026-11-04
+**Title:** Resultado de las elecciones en EEUU: Los demócratas logran una victoria aplastante en Texas
+**URL:** https://apnews.com/article/texas-elecciones-democratas-hinojoso-talarico-3351a851aa6e4cf25c0a8c0bd05b4955
+**Added after publication:** true

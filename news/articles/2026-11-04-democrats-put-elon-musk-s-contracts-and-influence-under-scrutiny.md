@@ -1,9 +1,19 @@
 ---
 headline: Democrats put Elon Musk's contracts and influence under scrutiny
-secondary_headline: Lawmakers cite government contracts, campaign spending and Starlink decisions
+secondary_headline: Lawmakers cite government contracts, campaign spending and Starlink
+  decisions
 publish_date: '2026-11-04'
-lede: Democratic lawmakers are calling for scrutiny of Elon Musk's government contracts, political spending and foreign-policy ties after Democrats won House and Senate majorities, NPR reported Nov. 4, 2026. With a Democratic majority in Congress, Musk and his companies likely face investigations into billions of dollars in government contracts. In Texas, Republican candidates supported by at least $225 million of his midterm spending lost.
-nut_graf: Democratic control of Congress gives lawmakers a new route to examine a major government contractor and the midterms' top donor. The unresolved issues include whether Musk used his DOGE role to benefit his businesses, whether federal contracting and ethics rules were followed, and how his campaign spending and Starlink decisions bear on government policy and Texas elections.
+lede: Democratic lawmakers are calling for scrutiny of Elon Musk's government contracts,
+  political spending and foreign-policy ties after Democrats won House and Senate
+  majorities, NPR reported Nov. 4, 2026. With a Democratic majority in Congress, Musk
+  and his companies likely face investigations into billions of dollars in government
+  contracts. In Texas, Republican candidates supported by at least $225 million of
+  his midterm spending lost.
+nut_graf: Democratic control of Congress gives lawmakers a new route to examine a
+  major government contractor and the midterms' top donor. The unresolved issues include
+  whether Musk used his DOGE role to benefit his businesses, whether federal contracting
+  and ethics rules were followed, and how his campaign spending and Starlink decisions
+  bear on government policy and Texas elections.
 primary_entities:
 - Elon Musk
 - Tesla
@@ -51,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,107 +161,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-04-musk-has-given-more-than-250-million-to-republican-aligned-groups-in-the-third-q
-  headline: Musk has given more than $250 million to Republican-aligned groups in the third quarter
+  headline: Musk has given more than $250 million to Republican-aligned groups in
+    the third quarter
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7659
+  strength: 0.7647
 - slug: 2026-11-04-musk-s-more-than-150-million-texas-senate-effort-appears-to-have-backfired
   headline: Musk's more than $150 million Texas Senate effort appears to have backfired
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7587
+  strength: 0.7585
 - slug: 2026-11-04-musk-s-47-million-pac-contribution-backed-paxton-s-losing-texas-senate-bid
-  headline: Musk's $47 million PAC contribution backed Paxton's losing Texas Senate bid
+  headline: Musk's $47 million PAC contribution backed Paxton's losing Texas Senate
+    bid
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7442
+  strength: 0.7433
 - slug: 2026-10-31-elon-musk-s-midterm-giving-to-republican-groups-reaches-445-77-million
   headline: Elon Musk's midterm giving to Republican groups reaches $445.77 million
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.766
+  strength: 0.7646
 - slug: 2026-10-30-historians-weigh-musk-s-political-power-against-gilded-age-moguls
   headline: Historians weigh Musk's political power against Gilded Age moguls
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7617
+  strength: 0.7611
 - slug: 2026-11-02-open-secrets-projects-record-us-midterm-spending-of-11-9-billion
   headline: Open Secrets projects record US midterm spending of $11.9 billion
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7
+  strength: 0.6993
 - slug: 2026-11-03-paxton-s-legal-history-and-musk-s-money-shape-pivotal-texas-senate-race
   headline: Paxton's legal history and Musk's money shape pivotal Texas Senate race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6883
+  strength: 0.687
 - slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
   headline: Musk's Republican midterm giving exceeds $442 million
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7459
-- slug: 2026-10-22-kara-swisher-questions-musk-s-business-strategy-and-political-influence
-  headline: Kara Swisher questions Musk’s business strategy and political influence
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7408
-- slug: 2026-10-27-robert-reich-urges-defunding-of-elon-musk-over-starlink-limits
-  headline: Robert Reich urges defunding of Elon Musk over Starlink limits
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7088
-- slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
-  headline: Talarico alleges Musk is trying to buy Texas Senate seat
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.734
-- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
-  headline: Talarico says Musk is backing Paxton at UT Austin rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7081
-- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7231
-- slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
-  headline: Musk channels $158 million in September to Senate Republican super PAC
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7501
-- slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
-  headline: Democrats outraise Republicans in 27 of 35 Senate races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7314
-- slug: 2026-10-13-musk-becomes-biggest-2026-midterm-donor-with-366m-in-political-spending
-  headline: Musk becomes biggest 2026 midterm donor with $366m in political spending
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7526
-- slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7303
-- slug: 2026-10-19-musk-pledges-to-give-every-u-s-child-a-spacex-share
-  headline: Musk pledges to give every U.S. child a SpaceX share
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6848
-- slug: 2026-10-01-musk-s-america-pac-spends-millions-in-key-midterm-senate-races
-  headline: Musk's America Pac spends millions in key midterm Senate races
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7165
-- slug: 2026-08-14-musk-plans-100-million-for-gop-midterm-voter-turnout
-  headline: Musk plans $100 million for GOP midterm voter-turnout
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.7383
+  strength: 0.7437
 ---
-
 ## Democrats put Elon Musk's contracts and influence under scrutiny
 
 **Subtype:** fact
