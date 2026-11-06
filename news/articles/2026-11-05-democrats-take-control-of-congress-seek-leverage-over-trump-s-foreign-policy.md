@@ -1,9 +1,19 @@
 ---
 headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
-secondary_headline: Budget control and Iran investigations could test the new Democratic majority
+secondary_headline: Budget control and Iran investigations could test the new Democratic
+  majority
 publish_date: '2026-11-05'
-lede: Democrats won majorities in both chambers of Congress in the 2026 midterm elections, which could bring budget and oversight fights over President Donald Trump's Iran war — the conflict that sent smoke rising over Tehran after US missile strikes on 1 March 2026 — as well as tariffs and foreign aid. The new majority gives Democrats leverage, but Trump can veto legislation and retains substantial control over military action in Iran and aid to Ukraine.
-nut_graf: Budget negotiations and oversight offer Democrats their clearest avenues to challenge Trump's foreign policy, but presidential veto power and White House control over military and foreign-aid decisions limit what Congress can accomplish. The key uncertainty is whether investigations and spending conditions can become enforceable constraints rather than political pressure.
+lede: Democrats won majorities in both chambers of Congress in the 2026 midterm elections,
+  which could bring budget and oversight fights over President Donald Trump's Iran
+  war — the conflict that sent smoke rising over Tehran after US missile strikes on
+  1 March 2026 — as well as tariffs and foreign aid. The new majority gives Democrats
+  leverage, but Trump can veto legislation and retains substantial control over military
+  action in Iran and aid to Ukraine.
+nut_graf: Budget negotiations and oversight offer Democrats their clearest avenues
+  to challenge Trump's foreign policy, but presidential veto power and White House
+  control over military and foreign-aid decisions limit what Congress can accomplish.
+  The key uncertainty is whether investigations and spending conditions can become
+  enforceable constraints rather than political pressure.
 primary_entities:
 - Democrats
 - Congress
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,113 +159,56 @@ related_stories:
   headline: Democratic Congress leaves Trump foreign policy largely intact
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8571
-- slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
-  headline: Democrats win Congress as Trump retains broad presidential powers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.8246
+  strength: 0.8572
 - slug: 2026-11-05-democrats-win-congress-on-affordability-but-trump-retains-veto-power
   headline: Democrats win Congress on affordability, but Trump retains veto power
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8173
+  strength: 0.8175
+- slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
+  headline: Democrats win Congress as Trump retains broad presidential powers
+  publish_date: '2026-11-04'
+  relation: related
+  strength: 0.8238
 - slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
   headline: Democrats take Congress, gaining leverage over probes and appointments
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8075
+  strength: 0.8077
 - slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
   headline: Democrats take control of Congress in 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7927
+  strength: 0.7923
 - slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7779
+  strength: 0.7777
 - slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
   headline: Democrats prepare agenda on taxes, health care, AI and Social Security
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7613
+  strength: 0.7616
 - slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
   headline: Democrats win Senate majority, adding checks on Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.766
-- slug: 2026-11-04-democrats-flip-five-senate-seats-as-oil-traders-weigh-iran-policy-risk
-  headline: Democrats flip five Senate seats as oil traders weigh Iran policy risk
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7505
-- slug: 2026-11-04-trump-froze-appropriated-funds-and-expanded-tariff-authority-without-congress
-  headline: Trump froze appropriated funds and expanded tariff authority without Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7479
-- slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.746
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7517
-- slug: 2026-11-04-ken-martin-says-democrats-have-great-leverage-after-2026-midterms
-  headline: Ken Martin says Democrats have great leverage after 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7367
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7471
-- slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7356
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.767
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7594
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7417
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7358
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7658
+  strength: 0.7662
 image:
   url: /articles/2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy.png
-  alt: "Illustration accompanying article: Democrats take control of Congress, seek leverage over Trump’s foreign policy"
+  alt: 'Illustration accompanying article: Democrats take control of Congress, seek
+    leverage over Trump’s foreign policy'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Democrats take control of Congress, seek leverage over Trump’s foreign policy
 
 **Subtype:** fact

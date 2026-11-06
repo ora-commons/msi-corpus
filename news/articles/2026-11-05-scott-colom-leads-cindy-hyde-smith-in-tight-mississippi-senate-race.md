@@ -1,9 +1,17 @@
 ---
 headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-secondary_headline: Mail-ballot window likely delays final result until at least November 10
+secondary_headline: Mail-ballot window likely delays final result until at least November
+  10
 publish_date: '2026-11-05'
-lede: Scott Colom held a 1,138-vote lead over Republican incumbent Cindy Hyde-Smith with 96% of votes counted Wednesday evening in Mississippi's U.S. Senate race. About 50,000 ballots remained uncounted. University of Mississippi political scientist Julie Wronski said the race was very likely to remain uncalled until at least November 10.
-nut_graf: 'The unresolved result carries two immediate stakes: A Colom victory would give Democrats the seat and make him Mississippi''s first Black U.S. senator elected since 1875, while a Hyde-Smith victory would let the state''s first woman in Congress retain the seat.'
+lede: Scott Colom held a 1,138-vote lead over Republican incumbent Cindy Hyde-Smith
+  with 96% of votes counted Wednesday evening in Mississippi's U.S. Senate race. About
+  50,000 ballots remained uncounted. University of Mississippi political scientist
+  Julie Wronski said the race was very likely to remain uncalled until at least November
+  10.
+nut_graf: 'The unresolved result carries two immediate stakes: A Colom victory would
+  give Democrats the seat and make him Mississippi''s first Black U.S. senator elected
+  since 1875, while a Hyde-Smith victory would let the state''s first woman in Congress
+  retain the seat.'
 primary_entities:
 - Scott Colom
 - Cindy Hyde-Smith
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +152,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race.png
-  alt: 'Illustration accompanying article: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race'
+  alt: 'Illustration accompanying article: Scott Colom leads Cindy Hyde-Smith in tight
+    Mississippi Senate race'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
   headline: Democrats sweep Congress with Mississippi Senate race still counting
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8601
+  strength: 0.8599
 - slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
+  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races
+    Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8507
+  strength: 0.8515
 - slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
   headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8141
+  strength: 0.8143
 - slug: 2026-11-04-uncalled-senate-and-governor-races-remain-after-2026-midterms
   headline: Uncalled Senate and governor races remain after 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7531
+  strength: 0.7527
 - slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
+  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending
+    final push
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7638
+  strength: 0.7653
 - slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
+  headline: Schumer expects re-election as Senate Democrats' leader after midterm
+    wins
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7015
+  strength: 0.7006
 - slug: 2026-10-29-warnock-raises-more-than-500-000-for-colom-s-mississippi-senate-bid
   headline: Warnock raises more than $500,000 for Colom's Mississippi Senate bid
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7403
+  strength: 0.7418
 - slug: 2026-10-26-trump-heads-to-mississippi-as-democrats-expand-battleground-maps
   headline: Trump heads to Mississippi as Democrats expand battleground maps
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7469
-- slug: 2026-10-30-maine-voters-weigh-senate-control-open-governor-race-tuesday
-  headline: Maine voters weigh Senate control, open governor race Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7068
-- slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
-  headline: Democrats win House, control Congress for Trump's final two years
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6722
-- slug: 2026-11-04-troy-jackson-wins-maine-senate-seat-as-state-s-first-democrat-since-1995
-  headline: Troy Jackson wins Maine Senate seat as state's first Democrat since 1995
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6711
-- slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
-  headline: US midterm results may take days or weeks to settle
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6711
-- slug: 2026-11-03-collins-and-jackson-enter-maine-s-ranked-choice-senate-vote
-  headline: Collins and Jackson enter Maine's ranked-choice Senate vote
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6696
-- slug: 2026-10-30-minnesota-voters-pick-governor-senator-as-legislature-hangs-in-balance
-  headline: Minnesota voters pick governor, senator as Legislature hangs in balance
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.691
-- slug: 2026-10-30-hamilton-faces-marshall-as-kansas-democrats-seek-first-senate-win-since-1932
-  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since 1932
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6722
-- slug: 2026-10-30-missouri-voters-decide-congressional-races-and-five-ballot-measures-tuesday
-  headline: Missouri voters decide congressional races and five ballot measures Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.667
-- slug: 2026-10-30-michigan-voters-decide-senate-governor-races-that-could-shift-power
-  headline: Michigan voters decide Senate, governor races that could shift power
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6617
-- slug: 2026-10-27-trump-plans-salina-rally-less-than-two-weeks-after-kansas-visit
-  headline: Trump plans Salina rally less than two weeks after Kansas visit
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6748
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6635
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.769
+  strength: 0.7485
 ---
-
 ## Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
 
 **Subtype:** fact

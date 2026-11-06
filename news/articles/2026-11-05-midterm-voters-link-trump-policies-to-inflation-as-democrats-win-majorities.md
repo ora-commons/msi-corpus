@@ -2,8 +2,20 @@
 headline: Midterm voters link Trump policies to inflation as Democrats win majorities
 secondary_headline: Cost of living shaped votes as AI and wealth inequality drew concern
 publish_date: '2026-11-05'
-lede: About two-thirds of voters in Tuesday's 2026 midterm elections said Donald Trump's policies had fueled inflation, according to The AP Voter Poll, as Republican candidates suffered losses in House, Senate and gubernatorial races. The Associated Press reported that the Democratic victories signaled most voters did not believe the economy or Trump was working for them, and about 9 in 10 voters called the cost of living a crucial or major factor in their congressional vote. Only about one-quarter of voters called artificial intelligence a crucial factor.
-nut_graf: 'The poll places the election result against stronger aggregate market indicators: the S&P 500 was up more than 10% for the year and unemployment was 4.2%, yet affordability dominated voters'' stated concerns — about 9 in 10 called the cost of living a crucial or major factor in their congressional vote, while only about one-quarter called artificial intelligence a crucial factor. The findings leave a Democratic majority facing demands for lower costs, without a guarantee that Congress or the Federal Reserve alone can deliver them.'
+lede: About two-thirds of voters in Tuesday's 2026 midterm elections said Donald Trump's
+  policies had fueled inflation, according to The AP Voter Poll, as Republican candidates
+  suffered losses in House, Senate and gubernatorial races. The Associated Press reported
+  that the Democratic victories signaled most voters did not believe the economy or
+  Trump was working for them, and about 9 in 10 voters called the cost of living a
+  crucial or major factor in their congressional vote. Only about one-quarter of voters
+  called artificial intelligence a crucial factor.
+nut_graf: 'The poll places the election result against stronger aggregate market indicators:
+  the S&P 500 was up more than 10% for the year and unemployment was 4.2%, yet affordability
+  dominated voters'' stated concerns — about 9 in 10 called the cost of living a crucial
+  or major factor in their congressional vote, while only about one-quarter called
+  artificial intelligence a crucial factor. The findings leave a Democratic majority
+  facing demands for lower costs, without a guarantee that Congress or the Federal
+  Reserve alone can deliver them.'
 primary_entities:
 - Donald Trump
 - Joe Biden
@@ -51,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -67,12 +80,14 @@ figures:
   series_id: UNRATE
   transformation: raw
   as_of: '2026-11-05'
-  caption: FRED's raw U-3 unemployment rate was 4.2% as of 2026-11-05, matching the rate the AP cited in its assessment of the economy after the midterms.
+  caption: FRED's raw U-3 unemployment rate was 4.2% as of 2026-11-05, matching the
+    rate the AP cited in its assessment of the economy after the midterms.
 - source: fred
   series_id: U6RATE
   transformation: raw
   as_of: '2026-11-05'
-  caption: FRED's raw U-6 underemployment rate was 7.6% as of 2026-11-05. The broader measure also counts discouraged workers and involuntary part-time workers.
+  caption: FRED's raw U-6 underemployment rate was 7.6% as of 2026-11-05. The broader
+    measure also counts discouraged workers and involuntary part-time workers.
 figures_aggregate:
   count: 2
   series_ids:
@@ -167,104 +182,45 @@ related_stories:
   headline: Midterm voters cite cost of living and dissatisfaction with Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8673
+  strength: 0.8665
 - slug: 2026-11-04-cost-of-living-central-in-associated-press-poll-as-democrats-win-both-chambers
-  headline: Cost of living central in Associated Press poll as Democrats win both chambers
+  headline: Cost of living central in Associated Press poll as Democrats win both
+    chambers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8574
+  strength: 0.857
 - slug: 2026-11-03-cost-of-living-and-trump-s-second-term-policies-shape-2026-midterms
   headline: Cost of living and Trump's second-term policies shape 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7888
+  strength: 0.7869
 - slug: 2026-11-03-us-voter-poll-finds-44-report-worse-finances-than-two-years-ago
   headline: US voter poll finds 44% report worse finances than two years ago
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7866
+  strength: 0.7868
 - slug: 2026-11-05-trump-s-iran-war-likely-drove-decisive-republican-midterm-losses
   headline: Trump's Iran war likely drove decisive Republican midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7651
+  strength: 0.7633
 - slug: 2026-10-31-cost-of-living-iran-war-and-ai-weigh-on-us-voters-days-before-midterms
   headline: Cost of living, Iran war and AI weigh on US voters days before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7894
+  strength: 0.789
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7587
-- slug: 2026-11-04-poll-finds-74-of-voters-say-iran-conflict-was-a-crucial-or-major-factor
-  headline: Poll finds 74% of voters say Iran conflict was a crucial or major factor
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7478
-- slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
-  headline: Democrats win Congress and a majority of governorships on affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7473
+  strength: 0.7582
 - slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
   headline: Poll finds voters rejecting Republicans more than embracing Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7471
-- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
-  headline: Consumer prices outpace paychecks as the midterms approach
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7999
-- slug: 2026-11-01-trump-s-policies-put-republican-congressional-majorities-at-risk-in-the-midterms
-  headline: Trump’s policies put Republican congressional majorities at risk in the midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7591
-- slug: 2026-11-03-final-polls-put-trump-s-approval-around-38-only-29-view-democrats-positively
-  headline: Final polls put Trump's approval around 38%; only 29% view Democrats positively
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7394
-- slug: 2026-11-02-midterm-voters-weigh-immigration-iran-war-and-economic-pressure
-  headline: Midterm voters weigh immigration, Iran war and economic pressure
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7396
-- slug: 2026-10-27-wage-growth-trails-inflation-as-trump-s-tariffs-raise-consumer-goods-prices
-  headline: Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7723
-- slug: 2026-10-26-us-inflation-fluctuates-as-job-growth-slows-and-mortgage-rates-top-7
-  headline: US inflation fluctuates as job growth slows and mortgage rates top 7%
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7715
-- slug: 2026-10-30-harris-poll-finds-corruption-second-only-to-cost-of-living-for-voters
-  headline: Harris poll finds corruption second only to cost of living for voters
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7448
-- slug: 2026-10-30-steven-greenhouse-argues-trump-tariffs-iran-war-fueled-us-inflation
-  headline: Steven Greenhouse argues Trump tariffs, Iran war fueled US inflation
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.741
-- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
-  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7595
-- slug: 2026-10-14-78-of-americans-blame-trump-for-inflation-including-57-of-republicans
-  headline: 78% of Americans blame Trump for inflation, including 57% of Republicans
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7728
+  strength: 0.7469
 ---
-
 ## Midterm voters link Trump policies to inflation as Democrats win majorities
 
 **Subtype:** fact

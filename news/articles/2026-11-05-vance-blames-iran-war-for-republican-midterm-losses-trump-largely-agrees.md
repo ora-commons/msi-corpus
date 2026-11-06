@@ -2,8 +2,17 @@
 headline: Vance blames Iran war for Republican midterm losses; Trump largely agrees
 secondary_headline: Vance's four-point roadmap comes as Democrats take both chambers
 publish_date: '2026-11-05'
-lede: Vice-President JD Vance said on Wednesday that the Iran war was the reason Republicans lost the midterm election, writing "The reason we lost is the war" in a 600-word statement on X that pointed at President Donald Trump. Trump, interviewed late Tuesday night and Wednesday, said the midterms were "largely" decided by the war and that he would "do it again" given the same choices. The break came hours after Democrats took control of the House of Representatives and the Senate.
-nut_graf: The split places the Iran war at the center of the Republican Party's post-election reckoning and of the race for the 2028 presidential nomination, which Vance is expected to contest but has not officially declared. The New York Times reported that Vance showed Trump the message before posting it, and BBC News said the dispute left open how far the vice-president had actually broken with the president.
+lede: Vice-President JD Vance said on Wednesday that the Iran war was the reason Republicans
+  lost the midterm election, writing "The reason we lost is the war" in a 600-word
+  statement on X that pointed at President Donald Trump. Trump, interviewed late Tuesday
+  night and Wednesday, said the midterms were "largely" decided by the war and that
+  he would "do it again" given the same choices. The break came hours after Democrats
+  took control of the House of Representatives and the Senate.
+nut_graf: The split places the Iran war at the center of the Republican Party's post-election
+  reckoning and of the race for the 2028 presidential nomination, which Vance is expected
+  to contest but has not officially declared. The New York Times reported that Vance
+  showed Trump the message before posting it, and BBC News said the dispute left open
+  how far the vice-president had actually broken with the president.
 primary_entities:
 - JD Vance
 - Donald Trump
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,12 +156,12 @@ related_stories:
   headline: Vance says Iran war was the reason Republicans lost midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.9268
+  strength: 0.9269
 - slug: 2026-11-04-jd-vance-blames-iran-war-for-republican-midterm-losses
   headline: JD Vance blames Iran war for Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8752
+  strength: 0.8753
 - slug: 2026-11-04-vance-distances-himself-from-trump-s-iran-war-defense-after-gop-losses
   headline: Vance distances himself from Trump’s Iran war defense after GOP losses
   publish_date: '2026-11-04'
@@ -161,98 +171,41 @@ related_stories:
   headline: Trump says Iran was one factor in Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7994
+  strength: 0.7989
 - slug: 2026-11-05-trump-weighs-new-strikes-on-iran-after-republican-midterm-loss
   headline: Trump weighs new strikes on Iran after Republican midterm loss
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7885
+  strength: 0.788
 - slug: 2026-11-05-trump-s-iran-war-likely-drove-decisive-republican-midterm-losses
   headline: Trump's Iran war likely drove decisive Republican midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7822
+  strength: 0.7816
 - slug: 2026-11-04-vance-blames-republican-midterm-losses-on-the-war-and-energy-prices
   headline: Vance blames Republican midterm losses on the war and energy prices
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7633
+  strength: 0.763
 - slug: 2026-11-04-mike-johnson-won-t-seek-reelection-as-house-republicans-top-leader
   headline: Mike Johnson won't seek reelection as House Republicans' top leader
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7631
-- slug: 2026-11-04-trump-accepts-midterm-results-and-links-republican-losses-to-iran
-  headline: Trump accepts midterm results and links Republican losses to Iran
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7547
-- slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
-  headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7433
-- slug: 2026-11-04-iranian-officials-claim-u-s-midterm-setback-as-trump-faces-renewed-war-pressure
-  headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war pressure
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7387
-- slug: 2026-10-28-vance-sends-letter-to-iranian-security-chief-to-restart-peace-talks
-  headline: Vance sends letter to Iranian security chief to restart peace talks
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.733
-- slug: 2026-09-27-vance-works-to-rebuild-fractured-trump-coalition-ahead-of-midterms
-  headline: Vance works to rebuild fractured Trump coalition ahead of midterms
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7769
-- slug: 2026-09-23-trump-uses-un-speech-to-frame-legacy-brushes-off-midterm-fallout
-  headline: Trump uses UN speech to frame legacy, brushes off midterm fallout
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7428
-- slug: 2026-09-25-republicans-break-with-trump-on-iran-war-and-immigration-ahead-of-midterms
-  headline: Republicans break with Trump on Iran war and immigration ahead of midterms
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7286
-- slug: 2026-09-14-vance-says-iran-fight-is-not-a-war-trump-has-called-it-one
-  headline: Vance says Iran fight is not a war; Trump has called it one
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7416
-- slug: 2026-06-18-vance-says-iran-deal-is-us-win-no-matter-what-happens-next
-  headline: Vance says Iran deal is US win no matter what happens next
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7408
-- slug: 2026-04-01-rubio-and-vance-differ-on-iran-war-as-2028-gop-jockeying-begins
-  headline: Rubio and Vance differ on Iran war as 2028 GOP jockeying begins
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.767
-- slug: 2026-06-25-vance-takes-lead-on-iran-deal-as-trump-signals-fall-guy-role
-  headline: Vance takes lead on Iran deal as Trump signals fall guy role
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7315
-- slug: 2026-06-09-vance-says-us-very-close-to-iran-peace-deal-hours-before-new-strikes
-  headline: Vance says US ‘very close’ to Iran peace deal hours before new strikes
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7388
+  strength: 0.7624
 image:
   url: /articles/2026-11-05-vance-blames-iran-war-for-republican-midterm-losses-trump-largely-agrees.png
-  alt: "Illustration accompanying article: Vance blames Iran war for Republican midterm losses; Trump largely agrees"
+  alt: 'Illustration accompanying article: Vance blames Iran war for Republican midterm
+    losses; Trump largely agrees'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Vance blames Iran war for Republican midterm losses; Trump largely agrees
 
 **Subtype:** fact
