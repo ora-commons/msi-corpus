@@ -1,9 +1,24 @@
 ---
-headline: Democrats' midterm gains open the 2028 race as Republicans absorb broad losses
-secondary_headline: Shapiro's commanding swing-state win draws questions about 2028 ambitions
+headline: Democrats' midterm gains open the 2028 race as Republicans absorb broad
+  losses
+secondary_headline: Shapiro's commanding swing-state win draws questions about 2028
+  ambitions
 publish_date: '2026-11-04'
-lede: With final 2026 midterm votes still being counted on Wednesday, the 2028 presidential race began to take shape as Democrats claimed the House majority and moved toward a Senate majority while Republicans absorbed broad losses. Democrats celebrated their gains and began promoting themselves, while dejected Republicans scrambled to distance themselves from President Donald Trump. The Republican with the most at stake was likely Vice President JD Vance, who entered Tuesday night as the GOP's leading presidential prospect and woke up on Wednesday far more vulnerable — like any Republican close to Trump.
-nut_graf: 'The results gave prospective 2028 candidates in both parties an immediate reason to move early: Democrats have a deep bench of high-profile leaders who strengthened their political brands, while the Republican losses could provide an opening for former Trump rivals like Ron DeSantis. The first presidential primary votes will be cast in little more than a year, and prospects including Arizona Sen. Mark Kelly and Kentucky Gov. Andy Beshear have already held preliminary conversations with potential presidential campaign staff.'
+lede: With final 2026 midterm votes still being counted on Wednesday, the 2028 presidential
+  race began to take shape as Democrats claimed the House majority and moved toward
+  a Senate majority while Republicans absorbed broad losses. Democrats celebrated
+  their gains and began promoting themselves, while dejected Republicans scrambled
+  to distance themselves from President Donald Trump. The Republican with the most
+  at stake was likely Vice President JD Vance, who entered Tuesday night as the GOP's
+  leading presidential prospect and woke up on Wednesday far more vulnerable — like
+  any Republican close to Trump.
+nut_graf: 'The results gave prospective 2028 candidates in both parties an immediate
+  reason to move early: Democrats have a deep bench of high-profile leaders who strengthened
+  their political brands, while the Republican losses could provide an opening for
+  former Trump rivals like Ron DeSantis. The first presidential primary votes will
+  be cast in little more than a year, and prospects including Arizona Sen. Mark Kelly
+  and Kentucky Gov. Andy Beshear have already held preliminary conversations with
+  potential presidential campaign staff.'
 primary_entities:
 - JD Vance
 - Donald Trump
@@ -51,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +169,44 @@ related_stories:
   headline: Midterms open high-stakes fight over post-Trump future
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8194
+  strength: 0.8191
 - slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
   headline: Republicans fault Trump after Democrats take House and Senate in midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7537
+  strength: 0.7541
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7513
+  strength: 0.7516
 - slug: 2026-11-04-vance-says-iran-war-was-the-reason-republicans-lost-midterms
   headline: Vance says Iran war was the reason Republicans lost midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7237
+  strength: 0.7236
 - slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
   headline: Democrats win House and Senate in 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7221
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7244
+  strength: 0.7229
 - slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
   headline: Democrats take control of Congress in 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7238
+  strength: 0.7246
+- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
+  publish_date: '2026-11-03'
+  relation: related
+  strength: 0.7241
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7143
-- slug: 2026-11-03-voters-in-36-states-choose-governors-as-democrats-pursue-a-majority
-  headline: Voters in 36 states choose governors as Democrats pursue a majority
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7193
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7246
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7251
-- slug: 2026-10-24-vance-stumps-for-republicans-as-questions-grow-about-a-2028-white-house-bid
-  headline: Vance stumps for Republicans as questions grow about a 2028 White House bid
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7256
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7337
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7366
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
   strength: 0.7146
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.748
-- slug: 2026-09-27-vance-works-to-rebuild-fractured-trump-coalition-ahead-of-midterms
-  headline: Vance works to rebuild fractured Trump coalition ahead of midterms
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.727
-- slug: 2026-09-20-dsa-backed-candidates-unseat-four-house-democrats-as-primary-season-ends
-  headline: DSA-backed candidates unseat four House Democrats as primary season ends
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7263
-- slug: 2026-09-11-vance-s-dallas-convention-likely-to-solidify-2028-frontrunner-status
-  headline: Vance's Dallas convention likely to solidify 2028 frontrunner status
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7357
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7471
 ---
-
 ## Democrats' midterm gains open the 2028 race as Republicans absorb broad losses
 
 **Subtype:** fact

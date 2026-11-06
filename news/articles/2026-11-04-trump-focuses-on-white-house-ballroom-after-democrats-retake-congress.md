@@ -1,9 +1,19 @@
 ---
 headline: Trump focuses on White House ballroom after Democrats retake Congress
-secondary_headline: Trump says Iran war played a role in helping Democrats through fuel prices
+secondary_headline: Trump says Iran war played a role in helping Democrats through
+  fuel prices
 publish_date: '2026-11-04'
-lede: Donald Trump spent more than 20 minutes discussing the White House ballroom under construction in Washington on November 4, less than 24 hours after Democrats retook the House and Senate. The president gathered reporters and network TV cameras to congratulate his team, calling the project a miracle. Trump later said it was "largely true" that the Iran war played a role in helping Democrats because it drove up fuel prices.
-nut_graf: The appearance placed Trump's construction agenda and the Republican midterm losses in the same remarks. Trump attributed part of the Democratic result to the Iran war's effect on fuel prices, while saying he would probably get along with Democrats unless they wanted to be destructive and that he had the power of the veto.
+lede: Donald Trump spent more than 20 minutes discussing the White House ballroom
+  under construction in Washington on November 4, less than 24 hours after Democrats
+  retook the House and Senate. The president gathered reporters and network TV cameras
+  to congratulate his team, calling the project a miracle. Trump later said it was
+  "largely true" that the Iran war played a role in helping Democrats because it drove
+  up fuel prices.
+nut_graf: The appearance placed Trump's construction agenda and the Republican midterm
+  losses in the same remarks. Trump attributed part of the Democratic result to the
+  Iran war's effect on fuel prices, while saying he would probably get along with
+  Democrats unless they wanted to be destructive and that he had the power of the
+  veto.
 primary_entities:
 - Donald Trump
 - Doug Burgum
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,45 @@ related_stories:
   headline: Trump accepts midterm results and links Republican losses to Iran
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7249
+  strength: 0.7264
 - slug: 2026-11-02-trump-devotes-election-eve-speech-to-construction-projects
   headline: Trump devotes election-eve speech to construction projects
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7278
+  strength: 0.7282
 - slug: 2026-11-04-trump-says-iran-was-one-factor-in-republican-midterm-losses
   headline: Trump says Iran was one factor in Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7123
+  strength: 0.713
 - slug: 2026-11-02-trump-turns-reflecting-pool-reopening-into-a-midterm-pitch
   headline: Trump turns Reflecting Pool reopening into a midterm pitch
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7238
+  strength: 0.7242
 - slug: 2026-11-04-democrats-take-both-chambers-trump-faces-three-paths-likely-less-party-control
-  headline: Democrats take both chambers; Trump faces three paths, likely less party control
+  headline: Democrats take both chambers; Trump faces three paths, likely less party
+    control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7003
+  strength: 0.7015
 - slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
+  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing
+    test
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6903
+  strength: 0.6918
 - slug: 2026-11-01-trump-schedules-closing-midterm-speech-at-reflecting-pool
   headline: Trump schedules closing midterm speech at Reflecting Pool
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7003
+  strength: 0.7011
 - slug: 2026-10-28-trump-puts-his-political-brand-at-the-center-of-the-2026-midterms
   headline: Trump puts his political brand at the center of the 2026 midterms
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6986
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7224
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6998
-- slug: 2026-09-12-trump-closes-dallas-gop-convention-pledging-5-000-payouts
-  headline: Trump closes Dallas GOP convention pledging $5,000 payouts
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6917
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.691
-- slug: 2026-05-20-trump-shows-reporters-white-house-east-wing-ballroom-construction-despite-congre
-  headline: Trump shows reporters White House East Wing ballroom construction, despite Congress impasse
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7501
-- slug: 2026-05-19-trump-tours-construction-of-white-house-ballroom-after-congress-balks-at-1b
-  headline: Trump tours construction of White House ballroom after Congress balks at $1B
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7426
-- slug: 2026-05-27-trump-plays-mayor-at-cabinet-meeting-detailing-dc-renovations
-  headline: Trump plays mayor at Cabinet meeting, detailing DC renovations
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7315
-- slug: 2026-04-17-trump-touts-400m-ballroom-plan-amid-criticism-he-s-out-of-touch
-  headline: Trump touts $400M ballroom plan amid criticism he's out of touch
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7451
-- slug: 2026-05-19-trump-tours-white-house-ballroom-construction-after-congress-balks-at-1b-price-t
-  headline: Trump tours White House ballroom construction after Congress balks at $1B price tag
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7319
-- slug: 2026-03-25-trump-promises-bigger-gop-majorities-as-warning-signs-flash-for-party
-  headline: Trump promises bigger GOP majorities as warning signs flash for party
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7351
-- slug: 2026-04-03-trump-white-house-ballroom-gets-final-ok-after-judge-s-halt-order
-  headline: Trump White House ballroom gets final OK after judge's halt order
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.7188
-- slug: 2026-03-26-trump-vows-bigger-gop-majorities-for-november-amid-warning-signs
-  headline: Trump vows bigger GOP majorities for November amid warning signs
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7147
+  strength: 0.6992
 ---
-
 ## Trump focuses on White House ballroom after Democrats retake Congress
 
 **Subtype:** fact

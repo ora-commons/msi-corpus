@@ -1,9 +1,20 @@
 ---
 headline: Global Echo finds settlement dates in Australian imports labeled as Israeli
-secondary_headline: Wong cites business concerns as Australia declines a blanket import ban
+secondary_headline: Wong cites business concerns as Australia declines a blanket import
+  ban
 publish_date: '2026-11-04'
-lede: Human rights legal organisation Global Echo has found in an analysis of trade data that at least US$5m of organic dates grown in Israeli settlements in the occupied West Bank were shipped to Australia over the past eight years, labeled as 'produce of Israel'. Settlement products accounted for 85 of the 132 Israeli agricultural shipments the organisation examined between August 2018 and August 2026.
-nut_graf: The analysis documents a path created by Israeli export labeling rules and the absence of Australian import restrictions, one that carries settlement-grown food into Australian shops under an 'Israel' label. The Australian government has said it will not pursue a blanket import ban on settlement goods, as other countries including the United Kingdom, Spain, Belgium, Ireland and the Netherlands have either announced or imposed, citing concerns about unintended consequences for Australian businesses.
+lede: Human rights legal organisation Global Echo has found in an analysis of trade
+  data that at least US$5m of organic dates grown in Israeli settlements in the occupied
+  West Bank were shipped to Australia over the past eight years, labeled as 'produce
+  of Israel'. Settlement products accounted for 85 of the 132 Israeli agricultural
+  shipments the organisation examined between August 2018 and August 2026.
+nut_graf: The analysis documents a path created by Israeli export labeling rules and
+  the absence of Australian import restrictions, one that carries settlement-grown
+  food into Australian shops under an 'Israel' label. The Australian government has
+  said it will not pursue a blanket import ban on settlement goods, as other countries
+  including the United Kingdom, Spain, Belgium, Ireland and the Netherlands have either
+  announced or imposed, citing concerns about unintended consequences for Australian
+  businesses.
 primary_entities:
 - Global Echo
 - Emily Schaeffer Omer-Man
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +156,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-26-israeli-forces-detain-23-member-delegation-seeking-entry-to-west-bank
-  headline: Israeli forces detain 23-member delegation seeking entry to West Bank
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6156
-- slug: 2026-10-30-australia-s-antisemitism-envoy-proposes-ombudsman-to-monitor-abc-sbs
-  headline: Australia's antisemitism envoy proposes ombudsman to monitor ABC, SBS
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5874
-- slug: 2026-10-19-israeli-court-extends-detention-of-6-men-over-attacks-on-foreigners
-  headline: Israeli court extends detention of 6 men over attacks on foreigners
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5952
-- slug: 2026-10-16-israeli-settlers-attack-olive-harvesters-beat-washington-post-photographer
-  headline: Israeli settlers attack olive harvesters, beat Washington Post photographer
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6109
-- slug: 2026-10-21-lander-says-israeli-military-released-him-after-brief-west-bank-detention
-  headline: Lander says Israeli military released him after brief West Bank detention
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5747
-- slug: 2026-10-06-israeli-ambassador-in-australia-seeks-reset-ahead-of-october-7-anniversary
-  headline: Israeli ambassador in Australia seeks 'reset' ahead of October 7 anniversary
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6401
 - slug: 2026-09-10-australian-labor-group-urges-wong-to-join-israeli-settlement-trade-ban
   headline: Australian Labor group urges Wong to join Israeli settlement trade ban
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7058
+  strength: 0.7054
 - slug: 2026-09-09-uk-announces-sanctions-on-israeli-settlement-trade
   headline: UK announces sanctions on Israeli settlement trade
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6537
-- slug: 2026-09-22-carney-announces-71-4m-palestine-pledge-at-un-two-state-meeting
-  headline: Carney announces $71.4M Palestine pledge at UN two-state meeting
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.589
-- slug: 2026-09-08-un-commission-says-israeli-actions-in-syria-may-amount-to-war-crimes
-  headline: UN commission says Israeli actions in Syria may amount to war crimes
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5778
-- slug: 2026-08-06-democrats-urge-trump-officials-to-restore-west-bank-settler-sanctions
-  headline: Democrats urge Trump officials to restore West Bank settler sanctions
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6026
-- slug: 2026-08-06-israel-escalates-hezbollah-strikes-complicating-lebanon-talks
-  headline: Israel escalates Hezbollah strikes, complicating Lebanon talks
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.579
-- slug: 2026-03-16-un-rights-report-warns-of-displacement-and-settlement-expansion-in-west-bank
-  headline: UN rights report warns of displacement and settlement expansion in West Bank
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.6373
-- slug: 2026-05-11-israel-bulldozes-50-palestinian-shops-to-make-way-for-settlement-linked-road-pro
-  headline: Israel bulldozes 50 Palestinian shops to make way for settlement-linked road project
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6144
-- slug: 2026-05-11-israeli-bulldozers-raze-palestinian-shops-ahead-of-west-bank-road-project
-  headline: Israeli bulldozers raze Palestinian shops ahead of West Bank road project
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6139
-- slug: 2026-07-11-ro-khanna-says-armed-israeli-settlers-detained-him-in-west-bank
-  headline: Ro Khanna says armed Israeli settlers detained him in West Bank
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5736
-- slug: 2026-05-10-eu-agrees-to-sanction-hamas-leaders-and-israeli-settlers-but-broader-measures-st
-  headline: EU agrees to sanction Hamas leaders and Israeli settlers, but broader measures stall
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6005
-- slug: 2026-06-24-un-inquiry-israel-continues-genocide-children-gaza
-  headline: UN Inquiry Finds Israel Continues Genocide by Targeting Children in Gaza
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5748
-- slug: 2026-02-16-israel-to-resume-contentious-west-bank-land-registration-process
-  headline: Israel to resume contentious West Bank land registration process
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6129
-- slug: 2026-02-07-israel-security-cabinet-approves-measures-to-tighten-west-bank-control
-  headline: Israel security cabinet approves measures to tighten West Bank control
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6074
+  strength: 0.6542
 ---
-
 ## Global Echo finds settlement dates in Australian imports labeled as Israeli
 
 **Subtype:** fact

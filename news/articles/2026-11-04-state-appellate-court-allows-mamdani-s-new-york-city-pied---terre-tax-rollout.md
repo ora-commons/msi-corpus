@@ -2,8 +2,16 @@
 headline: State appellate court allows Mamdani's New York City pied-à-terre tax rollout
 secondary_headline: Lower court had ordered the city to redo tax implementation
 publish_date: '2026-11-04'
-lede: According to The Wall Street Journal, a state appellate court ruled on Nov. 4, 2026, that New York City can proceed with Mayor Zohran Mamdani’s pied-à-terre tax on second homes valued at $5 million or more. The ruling reverses a lower-court decision that had ordered the city to revise the tax’s implementation after finding that officials improperly shifted residency-verification duties to homeowners.
-nut_graf: The decision removes a lower-court obstacle to one of Mamdani’s signature housing policies and rejects property owners’ claims about both the city’s residency-verification process and a public list of about 900,000 residential properties. New York City can continue rolling out the pied-à-terre tax, which targets second homes valued at $5 million or more.
+lede: According to The Wall Street Journal, a state appellate court ruled on Nov.
+  4, 2026, that New York City can proceed with Mayor Zohran Mamdani’s pied-à-terre
+  tax on second homes valued at $5 million or more. The ruling reverses a lower-court
+  decision that had ordered the city to revise the tax’s implementation after finding
+  that officials improperly shifted residency-verification duties to homeowners.
+nut_graf: The decision removes a lower-court obstacle to one of Mamdani’s signature
+  housing policies and rejects property owners’ claims about both the city’s residency-verification
+  process and a public list of about 900,000 residential properties. New York City
+  can continue rolling out the pied-à-terre tax, which targets second homes valued
+  at $5 million or more.
 primary_entities:
 - Zohran Mamdani
 - New York City
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +150,44 @@ related_stories:
   headline: Mamdani's pied-à-terre tax reaches wealthy out-of-state owners
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8101
+  strength: 0.8102
 - slug: 2026-09-29-ross-and-wynn-sue-to-overturn-nyc-pied---terre-tax
   headline: Ross and Wynn sue to overturn NYC pied-à-terre tax
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7975
+  strength: 0.7972
 - slug: 2026-08-25-new-york-city-defends-pied---terre-tax-rollout-in-court-filing
   headline: New York City defends pied-à-terre tax rollout in court filing
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.8413
+  strength: 0.8412
 - slug: 2026-08-21-nyc-council-hearing-reveals-split-over-mamdani-second-home-tax-rollout
   headline: NYC council hearing reveals split over Mamdani second-home tax rollout
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.815
+  strength: 0.8155
 - slug: 2026-08-10-staten-island-judge-halts-enforcement-of-nyc-pied---terre-tax
   headline: Staten Island judge halts enforcement of NYC pied-à-terre tax
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7978
+  strength: 0.7982
 - slug: 2026-08-11-judge-blocks-new-york-city-pied---terre-tax-rollout-as-notices-go-out
   headline: Judge blocks New York City pied-à-terre tax rollout as notices go out
   publish_date: '2026-08-11'
   relation: related
   strength: 0.7771
-- slug: 2026-09-24-judge-orders-mamdani-administration-to-turn-over-rent-freeze-communications
-  headline: Judge orders Mamdani administration to turn over rent freeze communications
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6423
 - slug: 2026-07-31-nyc-homeowners-say-pied---terre-tax-rollout-incorrectly-targets-primary-residenc
-  headline: NYC homeowners say pied-à-terre tax rollout incorrectly targets primary residences
+  headline: NYC homeowners say pied-à-terre tax rollout incorrectly targets primary
+    residences
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.7676
-- slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
-  headline: NYC and coalition of cities sue over Trump immigration benefits rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6467
+  strength: 0.7675
 - slug: 2026-09-02-judge-presses-nyc-landlords-on-evidence-behind-rent-freeze-challenge
   headline: Judge presses NYC landlords on evidence behind rent-freeze challenge
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6566
-- slug: 2026-05-08-new-york-expected-to-impose-pied---terre-tax-but-no-rich-income-hike
-  headline: New York expected to impose pied-à-terre tax but no rich income hike
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7692
-- slug: 2026-08-31-mamdani-rent-freeze-keeps-rents-flat-for-roughly-one-million-nyc-apartments
-  headline: Mamdani rent freeze keeps rents flat for roughly one million NYC apartments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6406
-- slug: 2026-04-15-hochul-proposes-pied---terre-tax-on-nyc-second-homes-over-5-million
-  headline: Hochul proposes pied-à-terre tax on NYC second homes over $5 million
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7665
-- slug: 2026-08-24-business-coalition-sues-mamdani-over-city-grocery-plan
-  headline: Business coalition sues Mamdani over city grocery plan
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.636
-- slug: 2026-08-05-mamdani-dismisses-all-advisers-from-nyc-mayor-s-fund-board
-  headline: Mamdani dismisses all advisers from NYC Mayor's Fund board
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6531
-- slug: 2026-07-22-five-landlords-challenge-nyc-rent-freeze-in-state-court
-  headline: Five landlords challenge NYC rent freeze in state court
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6556
-- slug: 2026-06-26-nyc-board-approves-mamdani-s-rent-freeze-for-1-million-apartments
-  headline: NYC board approves Mamdani's rent freeze for 1 million apartments
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6727
-- slug: 2026-01-07-nyc-mayor-stands-behind-tenant-official-facing-backlash-over-old-social-media-po
-  headline: NYC mayor stands behind tenant official facing backlash over old social media posts
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6687
-- slug: 2026-05-22-new-york-city-to-offer-50-world-cup-tickets-to-residents-via-lottery
-  headline: New York City to offer $50 World Cup tickets to residents via lottery
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.636
-- slug: 2026-04-04-nyc-mayor-zohran-mamdani-hears-bronx-rental-rip-off-complaints
-  headline: NYC Mayor Zohran Mamdani hears Bronx “rental rip-off” complaints
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6473
+  strength: 0.6569
 ---
-
 ## State appellate court allows Mamdani's New York City pied-à-terre tax rollout
 
 **Subtype:** fact

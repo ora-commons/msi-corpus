@@ -1,9 +1,19 @@
 ---
-headline: Marshall concedes Kansas Senate race to Hamilton, saying 'I don't have any answers'
-secondary_headline: First-time evangelical canvassers and crossover Republicans describe backing Hamilton
+headline: Marshall concedes Kansas Senate race to Hamilton, saying 'I don't have any
+  answers'
+secondary_headline: First-time evangelical canvassers and crossover Republicans describe
+  backing Hamilton
 publish_date: '2026-11-04'
-lede: Sen. Roger Marshall quoted scripture and called his defeat "humbling" in his concession speech after the Kansas Senate race was called Tuesday night for Adam Hamilton, the Democratic pastor whose win over the Republican incumbent and staunch Trump supporter made him the first Democrat to hold the seat since 1932. "I don't have any answers," Marshall said.
-nut_graf: BBC News described a coalition that included lifelong Republicans voting blue for the first time, evangelical voters canvassing for Hamilton and liberals initially skeptical of his moderate positions. Voters who spoke to BBC News said frustration with Trump and his policies influenced them, while Hamilton's charisma and policy positions also drew support.
+lede: Sen. Roger Marshall quoted scripture and called his defeat "humbling" in his
+  concession speech after the Kansas Senate race was called Tuesday night for Adam
+  Hamilton, the Democratic pastor whose win over the Republican incumbent and staunch
+  Trump supporter made him the first Democrat to hold the seat since 1932. "I don't
+  have any answers," Marshall said.
+nut_graf: BBC News described a coalition that included lifelong Republicans voting
+  blue for the first time, evangelical voters canvassing for Hamilton and liberals
+  initially skeptical of his moderate positions. Voters who spoke to BBC News said
+  frustration with Trump and his policies influenced them, while Hamilton's charisma
+  and policy positions also drew support.
 primary_entities:
 - Adam Hamilton
 - Roger Marshall
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,116 +156,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-marshall-concedes-kansas-senate-race-to-hamilton-saying-i-don-t-have-any-answers.png
-  alt: 'Illustration accompanying article: Marshall concedes Kansas Senate race to Hamilton, saying ''I don''t have any answers'''
+  alt: 'Illustration accompanying article: Marshall concedes Kansas Senate race to
+    Hamilton, saying ''I don''t have any answers'''
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-03-adam-hamilton-wins-kansas-senate-seat-first-for-a-democrat-since-1932
   headline: Adam Hamilton wins Kansas Senate seat, first for a Democrat since 1932
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8165
+  strength: 0.8172
 - slug: 2026-11-04-kansas-elects-adam-hamilton-to-the-u-s-senate
   headline: Kansas elects Adam Hamilton to the U.S. Senate
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7949
+  strength: 0.7958
 - slug: 2026-11-04-adam-hamilton-wins-kansas-senate-seat-urges-work-across-party-lines
   headline: Adam Hamilton wins Kansas Senate seat, urges work across party lines
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7627
+  strength: 0.7634
 - slug: 2026-10-30-hamilton-faces-marshall-as-kansas-democrats-seek-first-senate-win-since-1932
-  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since 1932
+  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since
+    1932
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7728
+  strength: 0.7741
 - slug: 2026-11-03-record-spending-tops-108-million-in-kansas-senate-contest
   headline: Record spending tops $108 million in Kansas Senate contest
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7408
+  strength: 0.7417
 - slug: 2026-10-14-democrat-adam-hamilton-leads-sen-roger-marshall-in-kansas-senate-polls
   headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.807
+  strength: 0.8077
 - slug: 2026-10-20-hamilton-courts-republicans-and-independents-in-close-kansas-senate-race
   headline: Hamilton courts Republicans and independents in close Kansas Senate race
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7696
+  strength: 0.7703
 - slug: 2026-11-03-abuse-allegations-against-max-miller-put-ohio-s-seventh-district-in-play
   headline: Abuse allegations against Max Miller put Ohio's seventh district in play
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6556
-- slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
-  headline: Trump holds first Kansas rally in eight years to support Roger Marshall
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7386
-- slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
-  headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6333
-- slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
-  headline: Republicans fault Trump after Democrats take House and Senate in midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6207
-- slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-as-first-muslim-us-senator
-  headline: Abdul El-Sayed wins Michigan Senate seat as first Muslim US senator
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6158
-- slug: 2026-11-01-trump-praises-stevens-after-she-endorses-rogers-in-michigan-senate-race
-  headline: Trump praises Stevens after she endorses Rogers in Michigan Senate race
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6202
-- slug: 2026-10-30-anti-muslim-rhetoric-colors-michigan-senate-race-as-bishops-rebuke-white-house
-  headline: Anti-Muslim rhetoric colors Michigan Senate race as bishops rebuke White House
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.628
-- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6325
-- slug: 2026-08-25-democrat-adam-hamilton-targets-roger-marshall-in-kansas-senate-race
-  headline: Democrat Adam Hamilton targets Roger Marshall in Kansas Senate race
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.8191
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7177
-- slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
-  headline: Ten midterm races outside the spotlight carry upset potential
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6197
-- slug: 2026-09-02-hamilton-would-join-warnock-as-senator-still-leading-a-congregation
-  headline: Hamilton would join Warnock as senator still leading a congregation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7192
-- slug: 2026-04-29-methodist-megachurch-pastor-adam-hamilton-launches-kansas-senate-bid
-  headline: Methodist megachurch pastor Adam Hamilton launches Kansas Senate bid
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7839
+  strength: 0.6558
 ---
-
 ## Marshall concedes Kansas Senate race to Hamilton, saying 'I don't have any answers'
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: Beer companies lead distillers in the canned cocktail market
 secondary_headline: RTD sales by value rose 28% through Oct. 17
 publish_date: '2026-11-04'
-lede: In the U.S. ready-to-drink cocktail market, beer companies have built an early lead, leaving major distillers Diageo and Pernod Ricard to catch up. NielsenIQ data show sales by value rose 28% over the 52 weeks through Oct. 17, while the segment expanded from 4% of the total U.S. alcohol market by volume in 2019 to 10% today. The change follows shifts toward earlier, lighter drinking and portable premixed cans for social occasions away from bars and restaurants.
-nut_graf: 'Diageo and Pernod Ricard face a converging problem: their U.S. market positions are weakening while RTD sales are expanding into a format better suited to beer companies'' packaging and distribution systems. Their performance in the category now bears on how investors value both distillers.'
+lede: In the U.S. ready-to-drink cocktail market, beer companies have built an early
+  lead, leaving major distillers Diageo and Pernod Ricard to catch up. NielsenIQ data
+  show sales by value rose 28% over the 52 weeks through Oct. 17, while the segment
+  expanded from 4% of the total U.S. alcohol market by volume in 2019 to 10% today.
+  The change follows shifts toward earlier, lighter drinking and portable premixed
+  cans for social occasions away from bars and restaurants.
+nut_graf: 'Diageo and Pernod Ricard face a converging problem: their U.S. market positions
+  are weakening while RTD sales are expanding into a format better suited to beer
+  companies'' packaging and distribution systems. Their performance in the category
+  now bears on how investors value both distillers.'
 primary_entities:
 - AB InBev
 - Boston Beer
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,103 +154,13 @@ related_stories:
   publish_date: '2026-10-15'
   relation: related
   strength: 0.671
-- slug: 2026-10-24-u-s-halloween-candy-sales-fall-as-affordability-pressures-curb-early-demand
-  headline: U.S. Halloween candy sales fall as affordability pressures curb early demand
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5887
-- slug: 2026-10-06-us-drinking-water-costs-rose-62-over-decade-far-outpacing-inflation
-  headline: US drinking water costs rose 62% over decade, far outpacing inflation
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6082
-- slug: 2026-10-09-u-s-oil-refiners-forecast-record-q3-earnings-as-wars-curb-global-supply
-  headline: U.S. oil refiners forecast record Q3 earnings as wars curb global supply
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5755
-- slug: 2026-09-22-diesel-hits-us-record-6-527-a-gallon-as-crude-slides-on-iran-diplomatic-hopes
-  headline: Diesel hits US record $6.527 a gallon as crude slides on Iran diplomatic hopes
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5814
 - slug: 2026-07-05-u-s-spirits-volume-declines-for-fourth-straight-year-as-drinkers-cut-back
-  headline: U.S. spirits volume declines for fourth straight year as drinkers cut back
+  headline: U.S. spirits volume declines for fourth straight year as drinkers cut
+    back
   publish_date: '2026-07-05'
   relation: related
-  strength: 0.727
-- slug: 2026-08-18-canadian-provinces-u-s-alcohol-bans-stall-bilateral-trade-talks
-  headline: Canadian provinces' U.S. alcohol bans stall bilateral trade talks
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6325
-- slug: 2026-08-10-diageo-targets-packaging-fixes-for-crown-royal-smirnoff-captain-morgan
-  headline: Diageo targets packaging fixes for Crown Royal, Smirnoff, Captain Morgan
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6317
-- slug: 2026-09-02-nonalcoholic-beverage-group-urges-members-to-drop-alcohol-free-claims
-  headline: Nonalcoholic beverage group urges members to drop 'alcohol-free' claims
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5742
-- slug: 2026-09-02-u-s-refiners-have-no-plans-to-build-new-plants-citing-long-term-demand-decline
-  headline: U.S. refiners have no plans to build new plants, citing long-term demand decline
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5705
-- slug: 2026-08-20-gallup-54-of-americans-drink-alcohol-tying-record-low
-  headline: 'Gallup: 54% of Americans drink alcohol, tying record low'
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5732
-- slug: 2026-08-09-u-s-consumer-brands-report-stronger-growth-in-overseas-markets
-  headline: U.S. consumer brands report stronger growth in overseas markets
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.5919
-- slug: 2026-08-07-reservation-apps-credit-card-companies-compete-for-exclusive-access-to-restauran
-  headline: Reservation apps, credit-card companies compete for exclusive access to restaurant tables
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5855
-- slug: 2026-07-02-brewers-roll-out-smaller-packages-as-u-s-beer-shipments-decline-1-6
-  headline: Brewers roll out smaller packages as U.S. beer shipments decline 1.6%
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6289
-- slug: 2026-07-19-general-mills-kraft-heinz-stocks-trade-at-decade-low-as-shoppers-turn-away-from-
-  headline: General Mills, Kraft Heinz stocks trade at decade-low as shoppers turn away from legacy brands
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5878
-- slug: 2026-06-24-record-profits-terrible-service-leave-us-consumers-with-few-options
-  headline: Record profits, terrible service leave US consumers with few options
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6019
-- slug: 2026-06-19-regional-burger-chains-outpace-big-rivals-by-focusing-on-quality-and-service
-  headline: Regional burger chains outpace big rivals by focusing on quality and service
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5935
-- slug: 2026-07-02-nestle-shifts-to-volume-growth-as-polarized-buying-reshapes-us-grocery-aisles
-  headline: Nestle shifts to volume growth as polarized buying reshapes US grocery aisles
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5706
-- slug: 2026-06-25-domino-s-shares-fall-as-pizza-s-place-in-us-dining-shrinks
-  headline: Domino's shares fall as pizza's place in US dining shrinks
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5662
-- slug: 2026-06-13-u-s-credit-card-delinquency-nears-2008-peak-amid-lighter-debt-burden
-  headline: U.S. credit card delinquency nears 2008 peak amid lighter debt burden
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.566
+  strength: 0.7277
 ---
-
 ## Beer companies lead distillers in the canned cocktail market
 
 **Subtype:** fact
