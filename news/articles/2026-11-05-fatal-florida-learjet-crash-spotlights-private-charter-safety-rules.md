@@ -2,8 +2,15 @@
 headline: Fatal Florida Learjet crash spotlights private charter safety rules
 secondary_headline: NTSB data show 2024 charter accident rate at five times airlines’
 publish_date: '2026-11-05'
-lede: A Sunday Learjet crash in Palm Beach County, Florida, killed all nine people aboard and focused attention on safety rules for private charter operators, which face different federal requirements than commercial airlines. NTSB data show private charter operators had an accident rate five times higher than passenger and cargo airlines in 2024, when those airlines had no fatal accidents.
-nut_graf: Private charter flights account for a fraction of U.S. civilian air traffic, but their operators face less stringent federal safety requirements than commercial airlines face. The differences include dispatch support, pilot experience, retirement age, safety-management systems and cockpit recorders.
+lede: A Sunday Learjet crash in Palm Beach County, Florida, killed all nine people
+  aboard and focused attention on safety rules for private charter operators, which
+  face different federal requirements than commercial airlines. NTSB data show private
+  charter operators had an accident rate five times higher than passenger and cargo
+  airlines in 2024, when those airlines had no fatal accidents.
+nut_graf: Private charter flights account for a fraction of U.S. civilian air traffic,
+  but their operators face less stringent federal safety requirements than commercial
+  airlines face. The differences include dispatch support, pilot experience, retirement
+  age, safety-management systems and cockpit recorders.
 primary_entities:
 - Aurora Aviation
 - Upper Jets
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,107 +148,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-03-ntsb-focuses-on-weather-and-flight-decisions-after-deadly-florida-learjet-crash
-  headline: NTSB focuses on weather and flight decisions after deadly Florida Learjet crash
+  headline: NTSB focuses on weather and flight decisions after deadly Florida Learjet
+    crash
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7267
-- slug: 2026-11-03-ntsb-says-tail-pieces-show-florida-learjet-broke-apart-before-impact
-  headline: NTSB says tail pieces show Florida Learjet broke apart before impact
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7195
+  strength: 0.7266
 - slug: 2026-11-04-ntsb-investigators-collect-learjet-wreckage-and-search-for-cockpit-recorder
   headline: NTSB investigators collect Learjet wreckage and search for cockpit recorder
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7125
+  strength: 0.713
+- slug: 2026-11-03-ntsb-says-tail-pieces-show-florida-learjet-broke-apart-before-impact
+  headline: NTSB says tail pieces show Florida Learjet broke apart before impact
+  publish_date: '2026-11-03'
+  relation: related
+  strength: 0.7196
 - slug: 2026-11-02-mother-identifies-daughter-as-copilot-in-florida-learjet-crash-that-killed-nine
-  headline: Mother identifies daughter as copilot in Florida Learjet crash that killed nine
+  headline: Mother identifies daughter as copilot in Florida Learjet crash that killed
+    nine
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7154
+  strength: 0.7152
 - slug: 2026-11-02-flight-data-shows-jet-plunged-at-up-to-30-000-feet-per-minute-in-greenacres
   headline: Flight data shows jet plunged at up to 30,000 feet per minute in Greenacres
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7085
+  strength: 0.709
 - slug: 2026-11-02-ntsb-investigates-florida-learjet-crash-that-killed-all-nine-onboard
   headline: NTSB investigates Florida Learjet crash that killed all nine onboard
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7064
+  strength: 0.706
 - slug: 2026-11-01-business-jet-crashes-in-palm-beach-county-killing-all-nine-aboard
   headline: Business jet crashes in Palm Beach County, killing all nine aboard
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7096
+  strength: 0.7097
 - slug: 2026-11-03-ntsb-recovers-three-learjet-elevator-pieces-1-3-to-3-8-miles-from-crash-site
-  headline: NTSB recovers three Learjet elevator pieces 1.3 to 3.8 miles from crash site
+  headline: NTSB recovers three Learjet elevator pieces 1.3 to 3.8 miles from crash
+    site
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6895
-- slug: 2026-11-02-business-jet-crashes-on-military-trail-in-florida-killing-all-nine-aboard
-  headline: Business jet crashes on Military Trail in Florida, killing all nine aboard
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6928
-- slug: 2026-11-03-ntsb-finds-most-of-learjet-s-left-elevator-in-three-pieces
-  headline: NTSB finds most of Learjet's left elevator in three pieces
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6846
-- slug: 2026-11-02-nine-people-killed-in-florida-learjet-crash-are-identified
-  headline: Nine people killed in Florida Learjet crash are identified
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6825
-- slug: 2026-11-02-anthony-blackmon-says-debris-hit-his-house-after-south-florida-jet-crash
-  headline: Anthony Blackmon says debris hit his house after South Florida jet crash
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6608
-- slug: 2026-11-02-storyful-verifies-crash-footage-authorities-move-residents-to-shelters
-  headline: Storyful verifies crash footage; authorities move residents to shelters
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6504
-- slug: 2026-08-27-faa-moves-to-fire-two-controllers-who-left-early-before-laguardia-crash
-  headline: FAA moves to fire two controllers who left early before LaGuardia crash
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.658
-- slug: 2026-05-14-ntsb-urges-realistic-smoke-in-cockpit-training-for-airline-pilots-after-southwes
-  headline: NTSB urges realistic smoke-in-cockpit training for airline pilots after Southwest emergencies
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.648
-- slug: 2026-03-20-authorities-investigating-close-call-between-alaska-airlines-jet-and-fedex-plane
-  headline: Authorities investigating close call between Alaska Airlines jet and FedEx plane in Newark
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6553
-- slug: 2026-03-24-air-traffic-controller-stress-comes-into-focus-after-laguardia-crash
-  headline: Air traffic controller stress comes into focus after LaGuardia crash
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6546
-- slug: 2026-05-14-ntsb-urges-airlines-to-train-pilots-for-cockpit-smoke-emergencies
-  headline: NTSB urges airlines to train pilots for cockpit smoke emergencies
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6412
-- slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
-  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver runway
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6322
-- slug: 2026-03-26-house-aviation-safety-bill-gains-ntsb-support-families-urge-tougher-rules
-  headline: House aviation safety bill gains NTSB support, families urge tougher rules
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6416
+  strength: 0.6905
 ---
-
 ## Fatal Florida Learjet crash spotlights private charter safety rules
 
 **Subtype:** fact

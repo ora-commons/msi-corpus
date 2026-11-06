@@ -1,9 +1,19 @@
 ---
-headline: Three states set Thursday executions for the year's second three-execution date
+headline: Three states set Thursday executions for the year's second three-execution
+  date
 secondary_headline: Florida's 19th execution would match its record set in 2025
 publish_date: '2026-11-04'
-lede: Indiana, Florida and Alabama are set to carry out three executions Thursday, the year's second date on which three U.S. executions were scheduled. The Associated Press reported that the cases involve Jeffrey Weisheit in Indiana, Jesse Guardado in Florida and Michael Taylor in Alabama. The proceedings come as capital punishment faces renewed scrutiny following Tennessee's failed execution of Christa Pike.
-nut_graf: 'The three cases involve separate procedural disputes and milestones: Indiana''s lawyers sought brain scans and challenged the planned lethal drugs, Florida''s 19th execution would match a record set in 2025, and Alabama''s attorneys challenged a last-minute switch to lethal injection. Courts have rejected efforts to halt other executions since Tennessee''s Christa Pike survived two lethal doses of pentobarbital last month.'
+lede: Indiana, Florida and Alabama are set to carry out three executions Thursday,
+  the year's second date on which three U.S. executions were scheduled. The Associated
+  Press reported that the cases involve Jeffrey Weisheit in Indiana, Jesse Guardado
+  in Florida and Michael Taylor in Alabama. The proceedings come as capital punishment
+  faces renewed scrutiny following Tennessee's failed execution of Christa Pike.
+nut_graf: 'The three cases involve separate procedural disputes and milestones: Indiana''s
+  lawyers sought brain scans and challenged the planned lethal drugs, Florida''s 19th
+  execution would match a record set in 2025, and Alabama''s attorneys challenged
+  a last-minute switch to lethal injection. Courts have rejected efforts to halt other
+  executions since Tennessee''s Christa Pike survived two lethal doses of pentobarbital
+  last month.'
 primary_entities:
 - Jeffrey Weisheit
 - Jesse Guardado
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,19 +161,20 @@ related_stories:
   headline: Indiana governor rejects Weisheit clemency bid ahead of Thursday execution
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7242
+  strength: 0.7246
 - slug: 2026-10-30-tennessee-governor-candidates-split-on-carrying-out-pike-execution
   headline: Tennessee governor candidates split on carrying out Pike execution
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6844
+  strength: 0.685
 - slug: 2026-10-30-pike-s-attorneys-urge-lee-to-reduce-her-sentence-to-life
   headline: Pike's attorneys urge Lee to reduce her sentence to life
   publish_date: '2026-10-30'
   relation: related
   strength: 0.6844
 - slug: 2026-10-11-christa-pike-survives-lethal-injection-as-us-executions-hit-a-16-year-high
-  headline: Christa Pike survives lethal injection as US executions hit a 16-year high
+  headline: Christa Pike survives lethal injection as US executions hit a 16-year
+    high
   publish_date: '2026-10-11'
   relation: related
   strength: 0.7298
@@ -170,84 +182,24 @@ related_stories:
   headline: Texas schedules first US execution since Tennessee's botched Pike injection
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7311
+  strength: 0.7312
 - slug: 2026-10-08-texas-executes-howard-first-us-execution-since-pike-s-failed-injection
   headline: Texas executes Howard, first US execution since Pike's failed injection
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7071
+  strength: 0.7068
+- slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
+  headline: Tennessee halts Christa Pike execution after two pentobarbital injections
+    fail
+  publish_date: '2026-10-02'
+  relation: related
+  strength: 0.7323
 - slug: 2026-10-13-florida-executes-james-robertson-the-state-s-17th-execution-of-2026
   headline: Florida executes James Robertson, the state's 17th execution of 2026
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6822
-- slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7318
-- slug: 2026-10-06-christa-pike-survives-two-pentobarbital-doses-in-tennessee-s-third-failed-execut
-  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed execution in 14 months
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7138
-- slug: 2026-10-09-christa-pike-survives-tennessee-execution-governor-calls-for-review-of-what-went
-  headline: Christa Pike survives Tennessee execution; governor calls for review of what went wrong
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.692
-- slug: 2026-10-07-tennessee-weighs-execution-options-after-pike-survives-lethal-injection
-  headline: Tennessee weighs execution options after Pike survives lethal injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6996
-- slug: 2026-10-07-texas-execution-of-howard-set-to-use-same-drug-that-failed-in-tennessee
-  headline: Texas execution of Howard set to use same drug that failed in Tennessee
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6928
-- slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7041
-- slug: 2026-10-03-pentobarbital-supply-chain-faces-scrutiny-after-tennessee-execution-fails
-  headline: Pentobarbital supply chain faces scrutiny after Tennessee execution fails
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6999
-- slug: 2026-10-08-christa-pike-is-walking-after-surviving-failed-tennessee-execution
-  headline: Christa Pike is walking after surviving failed Tennessee execution
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6753
-- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
-  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6881
-- slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.695
-- slug: 2026-10-02-christa-pike-in-critical-condition-attorneys-demand-commutation-after-failed-ten
-  headline: Christa Pike in critical condition; attorneys demand commutation after failed Tennessee execution
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6865
-- slug: 2026-10-02-sarat-argues-tennessee-must-not-try-to-execute-christa-pike-again
-  headline: Sarat argues Tennessee must not try to execute Christa Pike again
-  publish_date: '2026-10-02'
-  relation: related
   strength: 0.6816
-- slug: 2026-09-29-florida-executes-77-year-old-beasley-as-state-s-death-chamber-hits-16-in-2026
-  headline: Florida executes 77-year-old Beasley as state's death chamber hits 16 in 2026
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6894
 ---
-
 ## Three states set Thursday executions for the year's second three-execution date
 
 **Subtype:** fact

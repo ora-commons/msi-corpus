@@ -1,9 +1,18 @@
 ---
 headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
-secondary_headline: Massie has filed eight impeachment accusations as Democrats promise oversight
+secondary_headline: Massie has filed eight impeachment accusations as Democrats promise
+  oversight
 publish_date: '2026-11-05'
-lede: Pete Hegseth is facing Republican scrutiny over the Iran war, which President Donald Trump and voters have named as a key reason for Republican midterm losses. Thomas Massie has filed eight impeachment accusations and plans to soon force a House vote, while Democrats have promised investigations of Hegseth's handling of the Pentagon. Trump has continued to defend Hegseth, saying he is doing a very good job.
-nut_graf: The dispute places Trump's continued backing of Hegseth against criticism from his own party and Democratic promises of oversight. Republican Sen. Thom Tillis said Hegseth's strained relationships with lawmakers were also undermining the administration's push for a $1.5tn defense-spending package in Congress.
+lede: Pete Hegseth is facing Republican scrutiny over the Iran war, which President
+  Donald Trump and voters have named as a key reason for Republican midterm losses.
+  Thomas Massie has filed eight impeachment accusations and plans to soon force a
+  House vote, while Democrats have promised investigations of Hegseth's handling of
+  the Pentagon. Trump has continued to defend Hegseth, saying he is doing a very good
+  job.
+nut_graf: The dispute places Trump's continued backing of Hegseth against criticism
+  from his own party and Democratic promises of oversight. Republican Sen. Thom Tillis
+  said Hegseth's strained relationships with lawmakers were also undermining the administration's
+  push for a $1.5tn defense-spending package in Congress.
 primary_entities:
 - Pete Hegseth
 - Donald Trump
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +156,44 @@ related_stories:
   headline: JD Vance blames Iran war for Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8295
+  strength: 0.8292
 - slug: 2026-11-04-vance-distances-himself-from-trump-s-iran-war-defense-after-gop-losses
   headline: Vance distances himself from Trump’s Iran war defense after GOP losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7675
+  strength: 0.7674
 - slug: 2026-11-04-vance-says-iran-war-was-the-reason-republicans-lost-midterms
   headline: Vance says Iran war was the reason Republicans lost midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7316
+  strength: 0.7312
 - slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
   headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7744
+  strength: 0.7741
 - slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
+  headline: 'People familiar with talks: staffers have begun assembling list of possible
+    probes and witnesses'
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7343
+  strength: 0.7341
 - slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
   headline: Massie moves to impeach Hegseth over Iran war
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8327
+  strength: 0.8321
 - slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
   headline: Massie files articles of impeachment against Hegseth over Iran war
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8186
+  strength: 0.8184
 - slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
   headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7254
-- slug: 2026-09-05-tillis-urges-trump-to-fire-hegseth-as-army-secretary-resigns
-  headline: Tillis urges Trump to fire Hegseth as Army secretary resigns
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7652
-- slug: 2026-09-08-army-secretary-driscoll-resigns-amid-clash-with-hegseth-over-reform-pace
-  headline: Army Secretary Driscoll resigns amid clash with Hegseth over reform pace
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7221
-- slug: 2026-09-02-us-airstrikes-resume-on-iran-tehran-launches-counterstrikes
-  headline: US airstrikes resume on Iran; Tehran launches counterstrikes
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7263
-- slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
-  headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7221
-- slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7246
-- slug: 2026-08-13-gop-senators-criticize-hegseth-for-excluding-democrats-from-defense-briefings
-  headline: GOP senators criticize Hegseth for excluding Democrats from defense briefings
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7331
-- slug: 2026-07-21-hegseth-faces-senate-over-95b-iran-war-budget-as-u-s-death-toll-hits-17
-  headline: Hegseth faces Senate over $95B Iran war budget as U.S. death toll hits 17
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7616
-- slug: 2026-05-01-hegseth-clashes-with-democrats-over-iran-war-costs-and-civilian-deaths
-  headline: Hegseth clashes with Democrats over Iran war costs and civilian deaths
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7971
-- slug: 2026-05-19-hegseth-targets-massie-in-kentucky-primary-calling-trump-critic-desperate
-  headline: Hegseth targets Massie in Kentucky primary, calling Trump critic ‘desperate’
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7868
-- slug: 2026-05-19-hegseth-assails-massie-in-kentucky-primary-praises-trump-backed-challenger
-  headline: Hegseth assails Massie in Kentucky primary, praises Trump-backed challenger
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7745
-- slug: 2026-05-18-hegseth-targets-massie-in-kentucky-as-he-praises-gallrein
-  headline: Hegseth targets Massie in Kentucky as he praises Gallrein
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7722
-- slug: 2026-04-30-hegseth-faces-withering-iran-questions-in-first-congress-appearance
-  headline: Hegseth faces withering Iran questions in first Congress appearance
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7673
+  strength: 0.7247
 ---
-
 ## Hegseth faces Republican scrutiny over Iran war after midterm losses
 
 **Subtype:** fact
