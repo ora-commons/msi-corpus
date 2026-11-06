@@ -1,9 +1,19 @@
 ---
 headline: Navajo voters navigate flood-damaged roads to reach polling sites
-secondary_headline: Dennehotso Chapterhouse employees and volunteer drivers shuttled voters to polls
+secondary_headline: Dennehotso Chapterhouse employees and volunteer drivers shuttled
+  voters to polls
 publish_date: '2026-11-04'
-lede: NPR reported that Navajo voters reached polling sites across flood-damaged roads on election day, with some driving tractors and others using volunteer shuttles after repeated flooding washed out roads and isolated residents. At the Dennehotso Chapterhouse, mud-caked trucks arrived as a backhoe worked on a temporary route and Chapter employees ferried voters. Residents were still digging out two weeks after an October 22 flood that ravaged homes, knocked out power and water and covered part of Dennehotso in thick mud.
-nut_graf: 'Voters continued to reach polling places in communities where flooding had displaced residents and made travel difficult. The response centered on practical measures: a temporary road under construction, volunteer and Chapter employee shuttles and, for some voters, tractors to get from one washed-out road to another.'
+lede: NPR reported that Navajo voters reached polling sites across flood-damaged roads
+  on election day, with some driving tractors and others using volunteer shuttles
+  after repeated flooding washed out roads and isolated residents. At the Dennehotso
+  Chapterhouse, mud-caked trucks arrived as a backhoe worked on a temporary route
+  and Chapter employees ferried voters. Residents were still digging out two weeks
+  after an October 22 flood that ravaged homes, knocked out power and water and covered
+  part of Dennehotso in thick mud.
+nut_graf: 'Voters continued to reach polling places in communities where flooding
+  had displaced residents and made travel difficult. The response centered on practical
+  measures: a temporary road under construction, volunteer and Chapter employee shuttles
+  and, for some voters, tractors to get from one washed-out road to another.'
 primary_entities:
 - Navajo Nation
 - Navajo Reservation
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,116 +158,29 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-04-navajo-voters-navigate-flood-damaged-roads-to-reach-polling-sites.png
-  alt: 'Illustration accompanying article: Navajo voters navigate flood-damaged roads to reach polling sites'
+  alt: 'Illustration accompanying article: Navajo voters navigate flood-damaged roads
+    to reach polling sites'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-03-floodwaters-recede-across-southwest-as-residents-begin-cleanup
   headline: Floodwaters recede across Southwest as residents begin cleanup
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6837
+  strength: 0.6843
 - slug: 2026-11-02-some-southwest-rivers-recede-after-flooding-while-others-continue-rising
   headline: Some Southwest rivers recede after flooding while others continue rising
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6788
-- slug: 2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards
-  headline: New Mexico crews search evacuated neighborhoods for flood hazards
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6415
-- slug: 2026-11-01-mandatory-evacuations-follow-flash-flooding-in-the-southwest
-  headline: Mandatory evacuations follow flash flooding in the Southwest
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.5857
-- slug: 2026-10-23-four-corners-flooding-keeps-hundreds-evacuated-as-new-storms-threaten-surges
-  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten surges
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6353
-- slug: 2026-10-27-lujan-grisham-says-new-mexico-flood-costs-could-be-closer-to-200-million-to-300-
-  headline: Lujan Grisham says New Mexico flood costs could be closer to $200 million to $300 million
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6105
-- slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
-  headline: Flood warning remains in Four Corners as San Juan River nears crest
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6113
-- slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
-  headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6345
-- slug: 2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup
-  headline: Four Corners region braces for more storms amid flood cleanup
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6109
-- slug: 2026-10-23-flooding-in-four-corners-prompts-rooftop-rescues-and-evacuations
-  headline: Flooding in Four Corners prompts rooftop rescues and evacuations
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6128
-- slug: 2026-08-30-indiana-flood-victims-await-federal-aid-as-damage-hits-5bn
-  headline: Indiana flood victims await federal aid as damage hits $5bn
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5888
-- slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
-  headline: Helicopters airlift 200 campers as Missouri flood kills 1
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5951
-- slug: 2026-07-11-helicopters-rescue-200-from-missouri-summer-camp-as-floods-sweep-southeast
-  headline: Helicopters rescue 200 from Missouri summer camp as floods sweep southeast
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.593
-- slug: 2026-03-31-neglected-north-shore-waterways-worsened-hawaii-floods-residents-say
-  headline: Neglected North Shore waterways worsened Hawaii floods, residents say
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6125
-- slug: 2026-05-16-hawaii-s-small-farmers-face-50-million-in-damage-after-worst-floods-in-20-years
-  headline: Hawaii's small farmers face $50 million in damage after worst floods in 20 years
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5924
-- slug: 2026-05-16-small-farmers-in-a-bind-after-hawaii-s-worst-flooding-in-20-years
-  headline: Small farmers in a bind after Hawaii’s worst flooding in 20 years
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5865
-- slug: 2026-05-08-mississippi-tornado-survivors-recount-roofs-ripped-away-in-purvis
-  headline: Mississippi tornado survivors recount roofs ripped away in Purvis
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5888
-- slug: 2026-03-24-hawaii-digging-out-after-surprise-downpour-floods-parts-of-honolulu
-  headline: Hawaii digging out after surprise downpour floods parts of Honolulu
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5981
-- slug: 2026-03-25-hawaii-digs-out-after-kona-low-downpour-causes-flash-flooding
-  headline: Hawaii digs out after Kona low downpour causes flash flooding
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.5971
-- slug: 2026-03-27-honolulu-officials-delayed-evacuation-orders-as-oahu-s-north-shore-flooded
-  headline: Honolulu officials delayed evacuation orders as Oahu’s North Shore flooded
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5966
+  strength: 0.6795
 ---
-
 ## Navajo voters navigate flood-damaged roads to reach polling sites
 
 **Subtype:** fact
