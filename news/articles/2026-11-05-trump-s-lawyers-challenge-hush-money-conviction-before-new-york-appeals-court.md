@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-02-03'
   relation: related
   strength: 0.7956
+analyses:
+- '2026-11-05-trump-s-hush-money-appeal-contests-the-jury-s-inference-not-the-events-both-side'
 ---
 ## Trump's lawyers challenge hush money conviction before New York appeals court
 
@@ -238,3 +240,8 @@ While the New York court reviews the conviction, Trump is also trying to have th
 **Publication date:** 2026-11-05
 **Title:** Trump's appeal of hush money conviction goes before New York appeals court
 **URL:** https://apnews.com/article/trump-stormy-daniels-hush-money-conviction-appeal-30bb62111c06fc4d4f2e1b2e3b9a9191
+
+---
+
+<!-- analysis-link:2026-11-05-trump-s-hush-money-appeal-contests-the-jury-s-inference-not-the-events-both-side -->
+**Going deeper:** [Read MSI's analysis of Trump hush money conviction appeal →](/analyses/2026-11-05-trump-s-hush-money-appeal-contests-the-jury-s-inference-not-the-events-both-side)
