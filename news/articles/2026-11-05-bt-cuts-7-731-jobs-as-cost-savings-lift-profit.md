@@ -2,8 +2,16 @@
 headline: BT cuts 7,731 jobs as cost savings lift profit
 secondary_headline: BT expects 75,000 to 80,000 workers by decade's end
 publish_date: '2026-11-05'
-lede: BT said on November 5 that its workforce had fallen by 7,731 to 90,000 since the end of March, excluding staff in an international business being spun out in a joint venture with Verizon. Most of the reductions came from Openreach as the fiber-network buildout slowed, while the company pushed ahead with a multibillion-pound cost-cutting program. BT reported £1.1 billion in pre-tax profit for the six months ended September, up 12%.
-nut_graf: BT's latest disclosures show the UK telecommunications group reducing its workforce while reporting higher profit, raising its savings target and expanding its fiber network. A £400 million TalkTalk takeover remains under regulatory review, adding a pending transaction to the company's cost-cutting program.
+lede: BT said on November 5 that its workforce had fallen by 7,731 to 90,000 since
+  the end of March, excluding staff in an international business being spun out in
+  a joint venture with Verizon. Most of the reductions came from Openreach as the
+  fiber-network buildout slowed, while the company pushed ahead with a multibillion-pound
+  cost-cutting program. BT reported £1.1 billion in pre-tax profit for the six months
+  ended September, up 12%.
+nut_graf: BT's latest disclosures show the UK telecommunications group reducing its
+  workforce while reporting higher profit, raising its savings target and expanding
+  its fiber network. A £400 million TalkTalk takeover remains under regulatory review,
+  adding a pending transaction to the company's cost-cutting program.
 primary_entities:
 - BT
 - Openreach
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +148,43 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-alphabet-loses-500bn-as-ai-search-summaries-hit-ad-revenue
-  headline: Alphabet loses $500bn as AI search summaries hit ad revenue
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6241
 - slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
-  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet additions
+  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet
+    additions
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6659
-- slug: 2026-10-26-microsoft-buyout-reportedly-excludes-employees-in-certain-divisions-including-cy
-  headline: Microsoft buyout reportedly excludes employees in certain divisions, including cybersecurity
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6245
-- slug: 2026-10-23-barclays-plans-5-000-job-cuts-amid-ai-driven-technology-changes
-  headline: Barclays plans 5,000 job cuts amid AI-driven technology changes
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6404
-- slug: 2026-10-23-american-express-cuts-5-of-global-staff-while-raising-its-profit-outlook
-  headline: American Express cuts 5% of global staff while raising its profit outlook
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6389
-- slug: 2026-10-26-microsoft-opens-voluntary-exit-offers-as-ai-related-capital-spending-surges
-  headline: Microsoft opens voluntary exit offers as AI-related capital spending surges
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6197
-- slug: 2026-10-22-meta-posts-first-negative-cash-flow-since-ipo-plans-up-to-145bn-ai-spend-this-ye
-  headline: Meta posts first negative cash flow since IPO, plans up to $145bn AI spend this year
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6196
-- slug: 2026-10-15-netflix-cuts-roughly-1-000-jobs-declines-to-blame-ai
-  headline: Netflix cuts roughly 1,000 jobs, declines to blame AI
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6243
-- slug: 2026-10-14-netflix-to-cut-1-000-jobs-as-growth-falls-short
-  headline: Netflix to cut 1,000 jobs as growth falls short
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6254
+  strength: 0.6669
 - slug: 2026-09-19-bbc-channel-4-itv-cut-thousands-of-jobs-amid-us-streaming-competition
   headline: BBC, Channel 4, ITV cut thousands of jobs amid US streaming competition
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6891
-- slug: 2026-09-24-vistry-cuts-profit-outlook-after-661m-half-year-loss
-  headline: Vistry cuts profit outlook after £661m half-year loss
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.617
+  strength: 0.6905
 - slug: 2026-06-29-bt-and-verizon-form-50-50-international-joint-venture
   headline: BT and Verizon form 50-50 international joint venture
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.7696
+  strength: 0.7693
 - slug: 2026-09-02-uber-cuts-3-000-jobs-and-asks-nearly-all-staff-back-to-designated-hubs
   headline: Uber cuts 3,000 jobs and asks nearly all staff back to designated hubs
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6643
-- slug: 2026-09-05-jaguar-land-rover-opens-voluntary-redundancy-programme-for-uk-staff
-  headline: Jaguar Land Rover opens voluntary redundancy programme for UK staff
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.629
+  strength: 0.6647
 - slug: 2026-07-24-verizon-profit-falls-to-3-95-billion-on-bt-joint-venture-costs
   headline: Verizon profit falls to $3.95 billion on BT joint venture costs
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6974
+  strength: 0.6983
 - slug: 2026-06-29-bat-to-cut-5-500-jobs-outsource-3-500-in-ai-driven-restructuring
   headline: BAT to cut 5,500 jobs, outsource 3,500 in AI-driven restructuring
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.7111
+  strength: 0.7125
 - slug: 2026-04-16-bbc-to-cut-up-to-2-000-jobs-to-save-10-of-annual-budget
   headline: BBC to cut up to 2,000 jobs to save 10% of annual budget
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.6845
-- slug: 2026-07-23-t-mobile-q2-profit-rises-to-3-24b-as-postpaid-revenue-climbs-13
-  headline: T-Mobile Q2 profit rises to $3.24B as postpaid revenue climbs 13%
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.624
-- slug: 2026-06-29-comcast-to-split-media-and-connectivity-businesses
-  headline: Comcast to split media and connectivity businesses
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6316
-- slug: 2026-06-23-oracle-cuts-21-000-roles-as-it-pivots-to-ai-annual-report-shows
-  headline: Oracle cuts 21,000 roles as it pivots to AI, annual report shows
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6318
+  strength: 0.6843
 ---
-
 ## BT cuts 7,731 jobs as cost savings lift profit
 
 **Subtype:** fact
