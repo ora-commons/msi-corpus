@@ -2,8 +2,15 @@
 headline: Brooklyn house fire kills six adults and injures seven
 secondary_headline: FDNY reached the Sunset Park row house in under four minutes
 publish_date: '2026-11-05'
-lede: A fire at a wooden row house in Sunset Park, Brooklyn, killed six people and injured seven others early Thursday morning, New York City Mayor Zohran Mamdani said. The six who died were adults. More than 200 firefighters and paramedics responded; emergency responders found four people dead when they arrived and rescued four people, two of whom later died at a hospital.
-nut_graf: The Sunset Park fire killed six adults, injured seven people and required a response by more than 200 firefighters and paramedics. Investigators had not determined the cause, while the presence of a lithium-ion battery brought a hazardous-material crew to the scene.
+lede: A fire at a wooden row house in Sunset Park, Brooklyn, killed six people and
+  injured seven others early Thursday morning, New York City Mayor Zohran Mamdani
+  said. The six who died were adults. More than 200 firefighters and paramedics responded;
+  emergency responders found four people dead when they arrived and rescued four people,
+  two of whom later died at a hospital.
+nut_graf: The Sunset Park fire killed six adults, injured seven people and required
+  a response by more than 200 firefighters and paramedics. Investigators had not determined
+  the cause, while the presence of a lithium-ion battery brought a hazardous-material
+  crew to the scene.
 primary_entities:
 - Zohran Mamdani
 - Kevin Woods
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,102 +160,35 @@ related_stories:
   publish_date: '2026-11-05'
   relation: related
   strength: 0.8598
-- slug: 2026-09-27-brooklyn-nycha-worker-dies-as-nor-easter-stalls-over-region
-  headline: Brooklyn NYCHA worker dies as nor'easter stalls over region
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6269
-- slug: 2026-09-26-athens-apartment-collapse-kills-six-after-morning-explosion
-  headline: Athens apartment collapse kills six after morning explosion
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6127
-- slug: 2026-09-29-brooklyn-man-57-dies-after-bag-caught-in-subway-doors
-  headline: Brooklyn man, 57, dies after bag caught in subway doors
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5986
-- slug: 2026-09-16-nbc4-helicopter-crash-in-los-angeles-neighborhood-kills-at-least-three
-  headline: NBC4 helicopter crash in Los Angeles neighborhood kills at least three
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5966
 - slug: 2026-05-18-gas-explosion-kills-1-injures-14-in-bronx-apartment-building
   headline: Gas explosion kills 1, injures 14 in Bronx apartment building
   publish_date: '2026-05-18'
   relation: related
   strength: 0.6869
-- slug: 2026-07-05-fdny-extinguishes-brooklyn-bridge-fire-during-macy-s-july-4-fireworks
-  headline: FDNY extinguishes Brooklyn Bridge fire during Macy's July 4 fireworks
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6499
-- slug: 2026-07-05-coney-island-gunfire-on-west-31st-street-wounds-at-least-eight-including-four-ch
-  headline: Coney Island gunfire on West 31st Street wounds at least eight including four children, NYPD says
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6471
-- slug: 2026-07-25-michigan-fire-leaves-eight-dead-including-six-children-gunshot-wounds-reported
-  headline: Michigan fire leaves eight dead, including six children; gunshot wounds reported
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6026
 - slug: 2026-04-10-nyc-man-charged-with-setting-fire-that-killed-4-including-a-toddler
   headline: NYC man charged with setting fire that killed 4, including a toddler
   publish_date: '2026-04-10'
   relation: related
   strength: 0.6576
-- slug: 2026-07-07-fdny-evacuates-manhattan-tower-after-steel-beams-buckle-during-renovation
-  headline: FDNY evacuates Manhattan tower after steel beams buckle during renovation
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6131
-- slug: 2026-05-22-fire-and-blast-at-nyc-shipyard-kills-1-injures-36-including-firefighters
-  headline: Fire and blast at NYC shipyard kills 1, injures 36 including firefighters
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6426
 - slug: 2026-01-27-ten-die-in-new-york-city-s-bitter-cold-amid-preparedness-questions
   headline: Ten die in New York City's bitter cold amid preparedness questions
   publish_date: '2026-01-27'
   relation: related
   strength: 0.6566
-- slug: 2026-06-18-los-angeles-warehouse-fire-ammonia-leak-prompt-shelter-in-place-order
-  headline: Los Angeles warehouse fire, ammonia leak prompt shelter-in-place order
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6114
-- slug: 2026-05-22-1-person-has-died-after-blast-at-new-york-city-shipyard-that-also-injured-36-peo
-  headline: 1 person has died after blast at New York City shipyard that also injured 36 people, officials say
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6215
-- slug: 2026-05-23-investigation-underway-after-new-york-city-shipyard-blast-injures-30-firefighter
-  headline: Investigation underway after New York City shipyard blast injures 30+ firefighters
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.611
-- slug: 2026-05-25-firefighters-hurt-in-staten-island-shipyard-blast-cause-under-investigation
-  headline: Firefighters hurt in Staten Island shipyard blast; cause under investigation
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6074
-- slug: 2026-05-23-probe-underway-after-nyc-shipyard-blast-kills-1-injures-30-firefighters
-  headline: Probe underway after NYC shipyard blast kills 1, injures 30+ firefighters
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6056
 image:
   url: /articles/2026-11-05-brooklyn-house-fire-kills-six-adults-and-injures-seven.png
-  alt: "Illustration accompanying article: Brooklyn house fire kills six adults and injures seven"
+  alt: 'Illustration accompanying article: Brooklyn house fire kills six adults and
+    injures seven'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Brooklyn house fire kills six adults and injures seven
 
 **Subtype:** fact
