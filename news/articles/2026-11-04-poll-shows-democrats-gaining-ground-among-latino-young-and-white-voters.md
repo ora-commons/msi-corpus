@@ -1,9 +1,18 @@
 ---
 headline: Poll shows Democrats gaining ground among Latino, young and white voters
-secondary_headline: National survey includes more than 79,000 voters, with a 0.6-point margin of error
+secondary_headline: National survey includes more than 79,000 voters, with a 0.6-point
+  margin of error
 publish_date: '2026-11-04'
-lede: 'The Wall Street Journal reported that Democrats'' 2026 midterm coalition shifted away from Donald Trump and his party, with the shift delivering Democrats control of the House and Senate. A national Voter Poll by SSRS survey found changes among Latino voters, Latino women, young voters and white voters: Latino women backed the Democratic congressional candidate by 36 percentage points, up from 21 points in 2024, while Democrats gained 20 points among voters ages 18 to 29.'
-nut_graf: 'The survey results show changes across several voter groups at once: Democrats improved among Latino voters, young voters and white voters, while the Republican advantage among non-college white voters narrowed. The Wall Street Journal reported that fracturing the coalition won Democrats control of the House and Senate on Tuesday.'
+lede: 'The Wall Street Journal reported that Democrats'' 2026 midterm coalition shifted
+  away from Donald Trump and his party, with the shift delivering Democrats control
+  of the House and Senate. A national Voter Poll by SSRS survey found changes among
+  Latino voters, Latino women, young voters and white voters: Latino women backed
+  the Democratic congressional candidate by 36 percentage points, up from 21 points
+  in 2024, while Democrats gained 20 points among voters ages 18 to 29.'
+nut_graf: 'The survey results show changes across several voter groups at once: Democrats
+  improved among Latino voters, young voters and white voters, while the Republican
+  advantage among non-college white voters narrowed. The Wall Street Journal reported
+  that fracturing the coalition won Democrats control of the House and Senate on Tuesday.'
 primary_entities:
 - The Wall Street Journal
 - Voter Poll by SSRS
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +155,44 @@ related_stories:
   headline: Democrats win House and Senate in 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8256
+  strength: 0.8258
 - slug: 2026-11-04-voters-under-30-and-black-voters-back-democrats-in-2026-house-races
   headline: Voters under 30 and Black voters back Democrats in 2026 House races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7853
+  strength: 0.7847
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7716
+  strength: 0.7717
 - slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
+  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points
+    in 2026
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.764
+  strength: 0.7651
 - slug: 2026-11-02-early-returns-turnout-and-state-benchmarks-frame-the-2026-midterms
   headline: Early returns, turnout and state benchmarks frame the 2026 midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.777
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7635
+  strength: 0.7767
 - slug: 2026-11-04-county-maps-show-large-democratic-swings-in-2026-senate-results
   headline: County maps show large Democratic swings in 2026 Senate results
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.755
-- slug: 2026-11-04-under-30-and-hispanic-texas-senate-voters-back-talarico
-  headline: Under-30 and Hispanic Texas Senate voters back Talarico
-  publish_date: '2026-11-04'
+  strength: 0.756
+- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
+  headline: Democrats take control of Congress in 2026 midterms
+  publish_date: '2026-11-03'
   relation: related
-  strength: 0.7537
+  strength: 0.7628
 - slug: 2026-11-04-democrats-win-house-and-senate-control-in-2026-us-midterms
   headline: Democrats win House and Senate control in 2026 US midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7535
-- slug: 2026-11-04-poll-suggests-shifts-away-from-gop-among-young-voters-in-local-house-races
-  headline: Poll suggests shifts away from GOP among young voters in local House races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.751
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7713
-- slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
-  headline: Democrats regain Senate control after wins in at least six states
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7442
-- slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
-  headline: Poll finds voters rejecting Republicans more than embracing Democrats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7363
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7403
-- slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
-  headline: Democrats win Senate seats in six states and four governor races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7292
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7426
-- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
-  headline: Democrats lead House polling as Trump approval stays below 50%
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7351
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7869
-- slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
-  headline: Young voters under 30 become key 2026 midterm target for both parties
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7435
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7571
+  strength: 0.7539
 ---
-
 ## Poll shows Democrats gaining ground among Latino, young and white voters
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: Helicopter crashes in Biscayne Bay, leaving one dead and two injured
-secondary_headline: Emergency crews fly two injured adults to trauma care as NTSB investigates
+secondary_headline: Emergency crews fly two injured adults to trauma care as NTSB
+  investigates
 publish_date: '2026-11-04'
-lede: A Robinson R44 II helicopter crashed in the waters of Biscayne Bay east of Miami executive airport on Wednesday, leaving one person dead and two injured, the US Coast Guard said. Authorities responded at approximately 11:30 a.m., and EMS transported the two injured people to a higher level of care. The National Transportation Safety Board is investigating.
-nut_graf: Miami-Dade Fire Rescue said two adult patients with traumatic injuries were transported by ground rescue units to a designated landing zone and then flown by the agency to the main trauma center. The Miami-Dade Sheriff's Office said the crash investigation was ongoing, and the National Transportation Safety Board is also investigating.
+lede: A Robinson R44 II helicopter crashed in the waters of Biscayne Bay east of Miami
+  executive airport on Wednesday, leaving one person dead and two injured, the US
+  Coast Guard said. Authorities responded at approximately 11:30 a.m., and EMS transported
+  the two injured people to a higher level of care. The National Transportation Safety
+  Board is investigating.
+nut_graf: Miami-Dade Fire Rescue said two adult patients with traumatic injuries were
+  transported by ground rescue units to a designated landing zone and then flown by
+  the agency to the main trauma center. The Miami-Dade Sheriff's Office said the crash
+  investigation was ongoing, and the National Transportation Safety Board is also
+  investigating.
 primary_entities:
 - US Coast Guard
 - Biscayne Bay
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -168,7 +178,8 @@ related_stories:
   relation: related
   strength: 0.6752
 - slug: 2026-10-30-ntsb-investigates-why-two-helicopters-collided-near-mcminnville-killing-three
-  headline: NTSB investigates why two helicopters collided near McMinnville, killing three
+  headline: NTSB investigates why two helicopters collided near McMinnville, killing
+    three
   publish_date: '2026-10-30'
   relation: related
   strength: 0.6931
@@ -177,68 +188,7 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.6581
-- slug: 2026-11-02-anthony-blackmon-says-debris-hit-his-house-after-south-florida-jet-crash
-  headline: Anthony Blackmon says debris hit his house after South Florida jet crash
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6619
-- slug: 2026-10-29-two-helicopters-collide-midair-near-mcminnville-oregon
-  headline: Two helicopters collide midair near McMinnville, Oregon
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6684
-- slug: 2026-10-01-medevac-helicopter-crashes-off-catalina-island-killing-two-one-missing
-  headline: Medevac helicopter crashes off Catalina Island, killing two; one missing
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7111
-- slug: 2026-09-21-two-die-in-helicopter-crash-during-yosemite-wildfire-water-drops
-  headline: Two die in helicopter crash during Yosemite wildfire water drops
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7021
-- slug: 2026-10-02-crews-recover-final-body-from-catalina-island-helicopter-crash
-  headline: Crews recover final body from Catalina Island helicopter crash
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6574
-- slug: 2026-10-02-divers-recover-body-of-missing-patient-in-catalina-medevac-crash-toll-at-3
-  headline: Divers recover body of missing patient in Catalina medevac crash, toll at 3
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6574
-- slug: 2026-09-16-nbc4-helicopter-crash-in-los-angeles-neighborhood-kills-at-least-three
-  headline: NBC4 helicopter crash in Los Angeles neighborhood kills at least three
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6711
-- slug: 2026-09-16-five-la-residents-died-across-two-chatsworth-crashes-bass-says
-  headline: Five LA residents died across two Chatsworth crashes, Bass says
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.665
-- slug: 2026-09-08-five-plane-cleaners-killed-as-amazon-cargo-jet-overruns-miami-runway
-  headline: Five plane cleaners killed as Amazon cargo jet overruns Miami runway
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6724
-- slug: 2026-05-10-11-injured-after-charter-boat-explosion-in-biscayne-bay-near-miami
-  headline: 11 injured after charter boat explosion in Biscayne Bay near Miami
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6935
-- slug: 2026-05-10-11-taken-to-hospitals-after-boat-explosion-near-miami
-  headline: 11 taken to hospitals after boat explosion near Miami
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6837
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6799
 ---
-
 ## Helicopter crashes in Biscayne Bay, leaving one dead and two injured
 
 **Subtype:** fact
