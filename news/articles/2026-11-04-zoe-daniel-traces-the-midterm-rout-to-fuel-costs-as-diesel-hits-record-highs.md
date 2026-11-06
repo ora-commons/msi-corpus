@@ -1,9 +1,24 @@
 ---
 headline: Zoe Daniel traces the midterm rout to fuel costs as diesel hits record highs
-secondary_headline: Daniel sees the midterms as a cost-of-living warning for Australia's Labor
+secondary_headline: Daniel sees the midterms as a cost-of-living warning for Australia's
+  Labor
 publish_date: '2026-11-04'
-lede: Zoe Daniel argued in a Guardian opinion column published Nov. 4, 2026, that the cost of fuel finally led to an 'absolute rout' in the US midterm elections, citing gasoline up 40% on the previous year and diesel up 71% to record highs in almost all states since the start of the war in Iran and the disruption of shipping through the Strait of Hormuz. Daniel, a three-time ABC foreign correspondent and former independent member for Goldstein, called the cost-of-living defeat a warning for politicians closer to home in Australia.
-nut_graf: Daniel framed the result as a cost-of-living verdict rather than a judgment on Trump's broken promise to end the 'forever wars' — a rebirth of 'it's the economy, stupid,' a lesson she said Australia's own government will note. She wrote that even without Congress, Trump remains commander in chief of the US armed forces and holds a veto that only a two-thirds majority in both houses can override, and predicted legislative gridlock, Democrat-led legal action against the administration and 'all the two-way rancour that will come with it.' Beyond the midterms, she warned that rising interest rates will hurt Australia's Labor government unless it finds other nimble policy levers to reduce inflation.
+lede: Zoe Daniel argued in a Guardian opinion column published Nov. 4, 2026, that
+  the cost of fuel finally led to an 'absolute rout' in the US midterm elections,
+  citing gasoline up 40% on the previous year and diesel up 71% to record highs in
+  almost all states since the start of the war in Iran and the disruption of shipping
+  through the Strait of Hormuz. Daniel, a three-time ABC foreign correspondent and
+  former independent member for Goldstein, called the cost-of-living defeat a warning
+  for politicians closer to home in Australia.
+nut_graf: Daniel framed the result as a cost-of-living verdict rather than a judgment
+  on Trump's broken promise to end the 'forever wars' — a rebirth of 'it's the economy,
+  stupid,' a lesson she said Australia's own government will note. She wrote that
+  even without Congress, Trump remains commander in chief of the US armed forces and
+  holds a veto that only a two-thirds majority in both houses can override, and predicted
+  legislative gridlock, Democrat-led legal action against the administration and 'all
+  the two-way rancour that will come with it.' Beyond the midterms, she warned that
+  rising interest rates will hurt Australia's Labor government unless it finds other
+  nimble policy levers to reduce inflation.
 primary_entities:
 - Zoe Daniel
 - Donald Trump
@@ -48,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,7 +80,9 @@ figures:
   series_id: MSPUS
   transformation: raw
   as_of: '2026-11-04'
-  caption: Median sales price of houses sold, a measure of the housing side of household costs, stood at $393,300 as of Nov. 4, 2026. The series is supplementary context and does not corroborate the fuel-price figures reported in the source column.
+  caption: Median sales price of houses sold, a measure of the housing side of household
+    costs, stood at $393,300 as of Nov. 4, 2026. The series is supplementary context
+    and does not corroborate the fuel-price figures reported in the source column.
 figures_aggregate:
   count: 1
   series_ids:
@@ -155,116 +173,60 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-04-iranian-officials-claim-u-s-midterm-setback-as-trump-faces-renewed-war-pressure
-  headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war pressure
+  headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war
+    pressure
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6805
+  strength: 0.6797
 - slug: 2026-11-03-cost-of-living-and-trump-s-second-term-policies-shape-2026-midterms
   headline: Cost of living and Trump's second-term policies shape 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.679
+  strength: 0.6792
 - slug: 2026-10-31-cost-of-living-iran-war-and-ai-weigh-on-us-voters-days-before-midterms
   headline: Cost of living, Iran war and AI weigh on US voters days before midterms
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6974
+  strength: 0.6973
 - slug: 2026-10-30-steven-greenhouse-argues-trump-tariffs-iran-war-fueled-us-inflation
   headline: Steven Greenhouse argues Trump tariffs, Iran war fueled US inflation
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6967
+  strength: 0.6972
 - slug: 2026-11-02-midterm-voters-weigh-immigration-iran-war-and-economic-pressure
   headline: Midterm voters weigh immigration, Iran war and economic pressure
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.676
+  strength: 0.6764
 - slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
   headline: Consumer prices outpace paychecks as the midterms approach
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7201
+  strength: 0.7202
 - slug: 2026-10-22-trump-s-fuel-price-measures-leave-gasoline-and-diesel-costs-high
   headline: Trump's fuel-price measures leave gasoline and diesel costs high
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7392
+  strength: 0.74
 - slug: 2026-10-26-trump-s-fuel-price-rhetoric-shifted-to-a-claimed-russian-diesel-deal
   headline: Trump’s fuel-price rhetoric shifted to a claimed Russian diesel deal
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6995
-- slug: 2026-10-09-trump-pulls-fuel-price-levers-as-midterm-elections-approach
-  headline: Trump pulls fuel-price levers as midterm elections approach
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7084
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6994
-- slug: 2026-10-07-analysts-forecast-diesel-prices-will-keep-driving-inflation-until-wars-end
-  headline: Analysts forecast diesel prices will keep driving inflation until wars end
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7013
-- slug: 2026-10-11-analysts-say-trump-putin-diesel-deal-won-t-ease-us-diesel-prices
-  headline: Analysts say Trump-Putin diesel deal won't ease US diesel prices
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6797
-- slug: 2026-10-04-energy-costs-squeeze-voters-before-midterms
-  headline: Energy costs squeeze voters across gas, diesel, and electricity before midterms
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6883
-- slug: 2026-10-04-truckers-trim-expenses-as-diesel-hits-us-record-6-53-a-gallon
-  headline: Truckers trim expenses as diesel hits US record $6.53 a gallon
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6837
-- slug: 2026-09-21-thune-grassley-back-diesel-export-ban-with-two-weeks-left-in-session
-  headline: Thune, Grassley back diesel-export ban with two weeks left in session
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7209
-- slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
-  headline: Diesel prices hit records in US and EU as wars curb global supply
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6756
-- slug: 2026-09-24-australian-diesel-prices-could-push-past-3-a-litre-on-us-export-ban-risk
-  headline: Australian diesel prices could push past $3 a litre on US export ban risk
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7015
-- slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
-  headline: Trump backs diesel export ban to ease record US pump prices
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6862
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6858
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6794
+  strength: 0.6997
 image:
   url: /articles/2026-11-04-zoe-daniel-traces-the-midterm-rout-to-fuel-costs-as-diesel-hits-record-highs.png
-  alt: "Illustration accompanying article: Zoe Daniel traces the midterm rout to fuel costs as diesel hits record highs"
+  alt: 'Illustration accompanying article: Zoe Daniel traces the midterm rout to fuel
+    costs as diesel hits record highs'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Zoe Daniel traces the midterm rout to fuel costs as diesel hits record highs
 
 **Subtype:** fact
