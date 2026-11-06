@@ -2,8 +2,17 @@
 headline: Pentagon technology chief says U.S. was unprepared for drone warfare
 secondary_headline: Michael says U.S. drone stockpile is up to about 500,000
 publish_date: '2026-11-05'
-lede: Pentagon technology chief Emil Michael said the U.S. was unprepared for modern drone warfare and is racing to arm troops with autonomous systems. Speaking at the WSJ Tech conference on Wednesday in Napa, Calif., Michael said target development still relies less on AI than on intelligence reports, satellite imagery and other human-led investigatory work. He also said the U.S. currently leads China in AI, with Beijing six months to a year behind.
-nut_graf: Michael’s comments place the Pentagon’s drive toward inexpensive autonomous systems alongside acknowledged limits in battlefield AI, including continued reliance on human-led target development. The Defense Department is also using models from Google, OpenAI and Grok while excluding Anthropic from its AI plans, and Michael said human judgment is required at every level.
+lede: Pentagon technology chief Emil Michael said the U.S. was unprepared for modern
+  drone warfare and is racing to arm troops with autonomous systems. Speaking at the
+  WSJ Tech conference on Wednesday in Napa, Calif., Michael said target development
+  still relies less on AI than on intelligence reports, satellite imagery and other
+  human-led investigatory work. He also said the U.S. currently leads China in AI,
+  with Beijing six months to a year behind.
+nut_graf: Michael’s comments place the Pentagon’s drive toward inexpensive autonomous
+  systems alongside acknowledged limits in battlefield AI, including continued reliance
+  on human-led target development. The Defense Department is also using models from
+  Google, OpenAI and Grok while excluding Anthropic from its AI plans, and Michael
+  said human judgment is required at every level.
 primary_entities:
 - Emil Michael
 - U.S. Pentagon
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,113 +157,57 @@ related_stories:
   headline: GAO finds some Pentagon AI projects miss responsible-use tenets
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.662
+  strength: 0.6621
 - slug: 2026-10-12-pentagon-reports-china-on-track-for-1-000-nuclear-weapons-by-2030
   headline: Pentagon reports China on track for 1,000 nuclear weapons by 2030
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6721
+  strength: 0.6725
 - slug: 2026-09-30-hegseth-establishes-combatant-command-for-autonomous-warfare
   headline: Hegseth establishes combatant command for autonomous warfare
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6645
+  strength: 0.6653
 - slug: 2026-09-25-appeals-court-upholds-pentagon-s-supply-chain-risk-label-on-anthropic
   headline: Appeals court upholds Pentagon's supply-chain risk label on Anthropic
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6606
+  strength: 0.661
 - slug: 2026-09-09-pentagon-ai-chief-tells-summit-us-is-working-with-allies-to-avoid-past-mistakes
-  headline: Pentagon AI chief tells summit US is working with allies to avoid past mistakes
+  headline: Pentagon AI chief tells summit US is working with allies to avoid past
+    mistakes
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6948
-- slug: 2026-09-14-ai-ceos-call-for-industry-slowdown-warn-of-extinction-risk
-  headline: AI CEOs call for industry slowdown, warn of extinction risk
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6582
+  strength: 0.6952
 - slug: 2026-09-02-lawmakers-press-army-to-explain-halt-of-173rd-s-drone-warfare-focus
   headline: Lawmakers press Army to explain halt of 173rd's drone warfare focus
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6605
+  strength: 0.6616
 - slug: 2026-08-21-iran-war-stockpile-drain-fuels-allied-doubts-over-us-deterrent-reach
   headline: Iran war stockpile drain fuels allied doubts over US deterrent reach
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.662
+  strength: 0.6624
 - slug: 2026-06-19-either-robots-kill-us-or-russians-ai-warfare-hits-point-of-no-return
   headline: '‘Either robots kill us or Russians’: AI warfare hits point of no return'
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.7127
-- slug: 2026-03-07-pentagon-bars-anthropic-from-defense-contracts-after-ai-weapons-talks-collapse
-  headline: Pentagon bars Anthropic from defense contracts after AI weapons talks collapse
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.7259
-- slug: 2026-07-02-court-filings-detail-anthropic-pentagon-ai-negotiation-breakdown
-  headline: Court filings detail Anthropic–Pentagon AI negotiation breakdown
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6799
-- slug: 2026-07-13-us-deploys-sea-drones-in-combat-strikes-on-iran-for-first-time
-  headline: US deploys sea drones in combat strikes on Iran for first time
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6644
-- slug: 2026-05-02-pentagon-signs-deals-with-7-firms-to-bring-ai-into-classified-networks
-  headline: Pentagon signs deals with 7 firms to bring AI into classified networks
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7071
-- slug: 2026-06-10-great-powers-confront-limits-as-modern-warfare-levels-the-battlefield
-  headline: Great powers confront limits as modern warfare levels the battlefield
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6769
-- slug: 2026-06-08-schiff-bill-would-restrict-pentagon-ai-use-as-democrats-flood-congress-with-prop
-  headline: Schiff bill would restrict Pentagon AI use as Democrats flood Congress with proposals
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6598
-- slug: 2026-04-17-white-house-meets-anthropic-ceo-over-mythos-ai-model-s-security-uses
-  headline: White House meets Anthropic CEO over Mythos AI model's security uses
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6671
-- slug: 2026-04-21-pentagon-seeks-major-2027-boost-for-drones-air-defenses-used-in-iran-war
-  headline: Pentagon seeks major 2027 boost for drones, air defenses used in Iran war
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6656
-- slug: 2026-03-13-microsoft-asks-court-to-block-trump-pentagon-ban-on-anthropic-ai
-  headline: Microsoft asks court to block Trump Pentagon ban on Anthropic AI
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6717
-- slug: 2026-03-01-defense-secretary-halts-anthropic-work-amid-pentagon-ai-dispute
-  headline: Defense Secretary halts Anthropic work amid Pentagon AI dispute
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6727
-- slug: 2026-02-26-hegseth-pressures-anthropic-to-expand-military-access-to-ai-tech
-  headline: Hegseth pressures Anthropic to expand military access to AI tech
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6722
+  strength: 0.7143
 image:
   url: /articles/2026-11-05-pentagon-technology-chief-says-u-s-was-unprepared-for-drone-warfare.png
-  alt: "Illustration accompanying article: Pentagon technology chief says U.S. was unprepared for drone warfare"
+  alt: 'Illustration accompanying article: Pentagon technology chief says U.S. was
+    unprepared for drone warfare'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Pentagon technology chief says U.S. was unprepared for drone warfare
 
 **Subtype:** fact
