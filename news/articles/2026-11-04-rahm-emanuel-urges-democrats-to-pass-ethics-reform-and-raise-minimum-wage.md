@@ -215,6 +215,8 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.687
+analyses:
+- '2026-11-04-emanuel-presses-democrats-to-make-ethics-reform-the-first-session-deliverable'
 ---
 ## Rahm Emanuel urges Democrats to pass ethics reform and raise minimum wage
 
@@ -260,3 +262,8 @@ What the interview did not settle was what happens if the new majority cannot de
 **Publication date:** 2026-11-04
 **Title:** Rahm Emanuel maps out a vision for what Democrats can achieve after taking Congress
 **URL:** https://www.npr.org/2026/11/04/nx-s1-6029387/rahm-emanuel-maps-out-a-vision-for-what-democrats-can-achieve-after-taking-congress
+
+---
+
+<!-- analysis-link:2026-11-04-emanuel-presses-democrats-to-make-ethics-reform-the-first-session-deliverable -->
+**Going deeper:** [Read MSI's analysis of Emanuel's ethics-first governing strategy →](/analyses/2026-11-04-emanuel-presses-democrats-to-make-ethics-reform-the-first-session-deliverable)

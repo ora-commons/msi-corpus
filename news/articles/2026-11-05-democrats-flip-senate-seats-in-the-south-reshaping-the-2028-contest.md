@@ -2,8 +2,17 @@
 headline: Democrats flip Senate seats in the South, reshaping the 2028 contest
 secondary_headline: State offices and legislative chambers shifted across the region
 publish_date: '2026-11-05'
-lede: Democrats flipped U.S. Senate seats in North Carolina, South Carolina and Texas as Tuesday's midterm results reshaped the Southern electoral map, NPR reported. Black voter turnout surged in Louisiana and Georgia, and large margins at the top of tickets carried Democrats into state legislative chambers and statewide offices. Republican-led redistricting efforts also backfired, leaving Democrats poised to net several House seats.
-nut_graf: The results place the South at the center of both parties' preparations for the 2028 presidential election. Texas, Florida, Georgia and North Carolina account for more than one-third of the 270 electoral votes needed to win the White House, and Republicans retained Florida's governor and U.S. Senate seats amid close statewide and House races.
+lede: Democrats flipped U.S. Senate seats in North Carolina, South Carolina and Texas
+  as Tuesday's midterm results reshaped the Southern electoral map, NPR reported.
+  Black voter turnout surged in Louisiana and Georgia, and large margins at the top
+  of tickets carried Democrats into state legislative chambers and statewide offices.
+  Republican-led redistricting efforts also backfired, leaving Democrats poised to
+  net several House seats.
+nut_graf: The results place the South at the center of both parties' preparations
+  for the 2028 presidential election. Texas, Florida, Georgia and North Carolina account
+  for more than one-third of the 270 electoral votes needed to win the White House,
+  and Republicans retained Florida's governor and U.S. Senate seats amid close statewide
+  and House races.
 primary_entities:
 - Democrats
 - Republicans
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,12 +157,12 @@ related_stories:
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7998
+  strength: 0.8007
 - slug: 2026-11-04-democrats-flip-a-senate-seat-and-a-house-seat-in-early-returns
   headline: Democrats flip a Senate seat and a House seat in early returns
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7658
+  strength: 0.7665
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
@@ -162,89 +172,28 @@ related_stories:
   headline: Democrats retake Congress; DNC chairman says mandate is about affordability
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7613
+  strength: 0.7621
 - slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
   headline: Democrats regain Senate control after wins in at least six states
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7543
+  strength: 0.7547
 - slug: 2026-11-04-democrats-win-several-congressional-districts-redrawn-by-republicans
   headline: Democrats win several congressional districts redrawn by Republicans
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7542
+  strength: 0.7541
 - slug: 2026-11-04-republicans-lose-all-three-redrawn-florida-house-seats
   headline: Republicans lose all three redrawn Florida House seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.751
+  strength: 0.7518
 - slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
   headline: Democrats take control of Congress in 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.756
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7478
-- slug: 2026-10-30-democrats-need-four-senate-flips-as-red-state-races-tighten
-  headline: Democrats need four Senate flips as red-state races tighten
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7657
-- slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
-  headline: Voters cast ballots in districts reshaped by Trump's redistricting push
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7777
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7456
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7464
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7537
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7674
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.751
-- slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7659
-- slug: 2026-07-27-democrats-see-best-pickup-chance-in-north-carolina-as-senate-map-shifts
-  headline: Democrats see best pickup chance in North Carolina as Senate map shifts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7437
-- slug: 2026-05-10-southern-states-accelerate-mid-decade-redistricting-as-courts-reshape-congressio
-  headline: Southern states accelerate mid-decade redistricting as courts reshape congressional map
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7772
-- slug: 2026-05-10-new-u-s-congressional-map-changes-favor-republicans-in-courts-states
-  headline: New U.S. congressional map changes favor Republicans in courts, states
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7696
+  strength: 0.7568
 ---
-
 ## Democrats flip Senate seats in the South, reshaping the 2028 contest
 
 **Subtype:** fact
