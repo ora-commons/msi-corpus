@@ -2,8 +2,19 @@
 headline: House could vote to impeach Hegseth when lawmakers return to Washington
 secondary_headline: Trump aides expect White House and cabinet personnel changes
 publish_date: '2026-11-05'
-lede: The House could vote on a resolution to impeach Defense Secretary Pete Hegseth when lawmakers return to Washington, and there are likely enough bipartisan votes for it to pass, The Wall Street Journal reported. People close to President Donald Trump expect him to make a series of personnel changes in the coming weeks and months, both at the White House and in the cabinet, after Democrats won the House majority in Tuesday's midterms, the Journal reported. Trump said Wednesday he does not plan to oust Hegseth.
-nut_graf: Lawmakers of both parties expect the next two months to be particularly tense as Trump comes to terms with what the Journal called his newly diminished status, and as Republicans seek to use the lame-duck period before the new Congress to push their priority legislation and make life more difficult for the incoming Democratic majority. Trump retains veto and executive power, and his advisers say he intends to use it.
+lede: The House could vote on a resolution to impeach Defense Secretary Pete Hegseth
+  when lawmakers return to Washington, and there are likely enough bipartisan votes
+  for it to pass, The Wall Street Journal reported. People close to President Donald
+  Trump expect him to make a series of personnel changes in the coming weeks and months,
+  both at the White House and in the cabinet, after Democrats won the House majority
+  in Tuesday's midterms, the Journal reported. Trump said Wednesday he does not plan
+  to oust Hegseth.
+nut_graf: Lawmakers of both parties expect the next two months to be particularly
+  tense as Trump comes to terms with what the Journal called his newly diminished
+  status, and as Republicans seek to use the lame-duck period before the new Congress
+  to push their priority legislation and make life more difficult for the incoming
+  Democratic majority. Trump retains veto and executive power, and his advisers say
+  he intends to use it.
 primary_entities:
 - Donald Trump
 - Pete Hegseth
@@ -64,7 +75,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -166,104 +178,47 @@ related_stories:
   headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7598
+  strength: 0.7591
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7137
+  strength: 0.7131
 - slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
+  headline: House Democrats detail probes into Trump family, Epstein files and the
+    Pentagon
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7104
+  strength: 0.7098
 - slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
   headline: Democrats take Congress, gaining leverage over probes and appointments
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7052
+  strength: 0.7039
 - slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
   headline: Democrats win Congress as Trump retains broad presidential powers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7008
+  strength: 0.6999
 - slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
   headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7755
+  strength: 0.7749
 - slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
+  headline: 'People familiar with talks: staffers have begun assembling list of possible
+    probes and witnesses'
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7408
+  strength: 0.7404
 - slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
+  headline: Democrats take control of Congress, seek leverage over Trump’s foreign
+    policy
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6842
-- slug: 2026-11-04-democrats-take-both-chambers-trump-faces-three-paths-likely-less-party-control
-  headline: Democrats take both chambers; Trump faces three paths, likely less party control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6908
-- slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6846
-- slug: 2026-11-03-trump-pairs-5-000-pledge-with-national-mall-closing-argument
-  headline: Trump pairs $5,000 pledge with National Mall closing argument
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6839
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6826
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.687
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7419
-- slug: 2026-09-16-johnson-cancels-house-votes-avoiding-hegseth-impeachment-resolution
-  headline: Johnson cancels House votes, avoiding Hegseth impeachment resolution
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7022
-- slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
-  headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6878
-- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
-  headline: Massie files articles of impeachment against Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6954
-- slug: 2026-09-09-advisers-weigh-yearslong-iran-war-as-trump-predicts-post-midterm-end
-  headline: Advisers weigh yearslong Iran war as Trump predicts post-midterm end
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6849
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7064
-- slug: 2026-08-13-gop-senators-criticize-hegseth-for-excluding-democrats-from-defense-briefings
-  headline: GOP senators criticize Hegseth for excluding Democrats from defense briefings
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7036
+  strength: 0.6833
 ---
-
 ## House could vote to impeach Hegseth when lawmakers return to Washington
 
 **Subtype:** fact

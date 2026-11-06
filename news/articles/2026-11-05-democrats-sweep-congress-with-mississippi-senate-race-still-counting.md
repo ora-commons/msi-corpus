@@ -216,6 +216,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-05-three-explanations-for-a-loss-two-counts-still-open'
 ---
 ## Democrats sweep Congress with Mississippi Senate race still counting
 
@@ -258,3 +260,8 @@ Two counts remain open as the week turns toward Thursday — the margin in Missi
 **Publication date:** 2026-11-05
 **Title:** US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins
 **URL:** https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race
+
+---
+
+<!-- analysis-link:2026-11-05-three-explanations-for-a-loss-two-counts-still-open -->
+**Going deeper:** [Read MSI's analysis of Republican explanations for the 2026 losses; the Mississippi and Alaska Senate counts →](/analyses/2026-11-05-three-explanations-for-a-loss-two-counts-still-open)

@@ -152,6 +152,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-11-05-australia-s-west-peron-designation-names-a-storage-site-permitting-and-emissions'
 ---
 ## Australia designates offshore site for proposed Inpex carbon storage
 
@@ -193,3 +195,8 @@ Environmentalists say the ramping up of CCS will prolong the use of heavily poll
 **Publication date:** 2026-11-05
 **Title:** Australia designates seabed site to store carbon pollution
 **URL:** https://apnews.com/article/carbon-capture-ccs-japan-australia-co2-4ff9200393569d445601aed900cb2640
+
+---
+
+<!-- analysis-link:2026-11-05-australia-s-west-peron-designation-names-a-storage-site-permitting-and-emissions -->
+**Going deeper:** [Read MSI's analysis of Inpex West Peron CCS designation — permitting versus emissions accounting →](/analyses/2026-11-05-australia-s-west-peron-designation-names-a-storage-site-permitting-and-emissions)
