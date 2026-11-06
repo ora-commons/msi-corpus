@@ -1,9 +1,20 @@
 ---
-headline: SafeSport launches school notification process for banned coaches still working
-secondary_headline: SafeSport's authority covers national governing bodies, not schools and leagues
+headline: SafeSport launches school notification process for banned coaches still
+  working
+secondary_headline: SafeSport's authority covers national governing bodies, not schools
+  and leagues
 publish_date: '2026-11-05'
-lede: The U.S. Center for SafeSport is launching an initiative to notify schools and other organizations when coaches sanctioned for abuse continue working with children. SafeSport said the steps respond to ProPublica and The Washington Post reporting about gaps in the child protection system in youth sports, and said the center will send a form letter when it learns that a coach on its list is still working with kids.
-nut_graf: SafeSport's authority over coaches reaches only the national sports governing bodies it regulates, so elementary and high schools, colleges and many independent youth sports leagues are not required to follow its bans. The announcement comes as the House Energy and Commerce Committee, which oversees SafeSport, has opened a bipartisan inquiry into the Amateur Athletic Union.
+lede: The U.S. Center for SafeSport is launching an initiative to notify schools and
+  other organizations when coaches sanctioned for abuse continue working with children.
+  SafeSport said the steps respond to ProPublica and The Washington Post reporting
+  about gaps in the child protection system in youth sports, and said the center will
+  send a form letter when it learns that a coach on its list is still working with
+  kids.
+nut_graf: SafeSport's authority over coaches reaches only the national sports governing
+  bodies it regulates, so elementary and high schools, colleges and many independent
+  youth sports leagues are not required to follow its bans. The announcement comes
+  as the House Energy and Commerce Committee, which oversees SafeSport, has opened
+  a bipartisan inquiry into the Amateur Athletic Union.
 primary_entities:
 - U.S. Center for SafeSport
 - ProPublica
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,109 +156,8 @@ cross_article_links:
   strength: 0.6015
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-24-colorado-and-washington-put-transgender-sports-bans-before-voters
-  headline: Colorado and Washington put transgender sports bans before voters
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6122
-- slug: 2026-10-13-justice-department-threatens-antitrust-probe-of-american-bar-association
-  headline: Justice Department threatens antitrust probe of American Bar Association
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6206
-- slug: 2026-08-25-education-department-probes-two-districts-over-race-in-discipline
-  headline: Education Department probes two districts over race in discipline
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6257
-- slug: 2026-08-19-schools-reported-nearly-32-000-paddling-cases-in-2021-22-federal-data-shows
-  headline: Schools reported nearly 32,000 paddling cases in 2021-22, federal data shows
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6206
-- slug: 2026-08-21-education-department-opens-process-to-revoke-aba-law-school-accreditation
-  headline: Education Department opens process to revoke ABA law school accreditation
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6086
-- slug: 2026-07-01-supreme-court-upholds-state-bans-on-transgender-athletes-in-6-3-ruling
-  headline: Supreme Court upholds state bans on transgender athletes in 6-3 ruling
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6393
-- slug: 2026-07-28-education-department-probes-denver-washington-school-districts
-  headline: Education Department probes Denver, Washington school districts
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5886
-- slug: 2026-06-03-saban-backs-bipartisan-college-sports-bill-as-sec-big-ten-object
-  headline: Saban backs bipartisan college sports bill as SEC, Big Ten object
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6096
-- slug: 2026-07-02-federal-civil-rights-data-for-schools-6-months-overdue
-  headline: Federal civil rights data for schools 6 months overdue
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.589
-- slug: 2026-05-20-naacp-urges-black-athletes-to-boycott-college-sports-in-the-south
-  headline: NAACP urges Black athletes to boycott college sports in the South
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6155
-- slug: 2026-06-14-ai-nudify-apps-fuel-epidemic-of-deepfake-bullying-among-teens
-  headline: AI nudify apps fuel epidemic of deepfake bullying among teens
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.5977
-- slug: 2026-05-06-trump-revives-presidential-physical-fitness-award-for-u-s-schools
-  headline: Trump revives Presidential Physical Fitness Award for U.S. schools
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6093
-- slug: 2026-05-19-naacp-urges-black-athletes-to-boycott-college-sports-in-redistricting-states
-  headline: NAACP urges Black athletes to boycott college sports in redistricting states
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6021
-- slug: 2026-01-29-trump-administration-says-san-jose-state-violated-title-ix-over-transgender-athl
-  headline: Trump administration says San Jose State violated Title IX over transgender athlete
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6166
-- slug: 2026-05-19-naacp-congressional-black-caucus-urge-black-athletes-to-boycott-college-sports-i
-  headline: NAACP, Congressional Black Caucus urge Black athletes to boycott college sports in the South
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5886
-- slug: 2026-05-10-trump-administration-orders-sweeping-rollback-of-hunting-restrictions-on-public-
-  headline: Trump administration orders sweeping rollback of hunting restrictions on public lands
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5915
-- slug: 2026-02-13-nevada-women-s-rights-group-sues-to-block-lombardo-sports-ballot-measure
-  headline: Nevada women’s rights group sues to block Lombardo sports ballot measure
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6031
-- slug: 2026-03-04-connecticut-education-chief-says-ferpa-bars-homeschool-withdrawal-alerts-to-dcf
-  headline: Connecticut education chief says FERPA bars homeschool-withdrawal alerts to DCF
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6008
-- slug: 2026-04-15-democrats-seek-to-overturn-trump-rules-for-public-service-loan-forgiveness
-  headline: Democrats seek to overturn Trump rules for Public Service Loan Forgiveness
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5925
-- slug: 2026-03-05-states-step-up-school-civil-rights-enforcement-as-federal-office-stalls-under-tr
-  headline: States step up school civil rights enforcement as federal office stalls under Trump
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5992
+related_stories: []
 ---
-
 ## SafeSport launches school notification process for banned coaches still working
 
 **Subtype:** fact
