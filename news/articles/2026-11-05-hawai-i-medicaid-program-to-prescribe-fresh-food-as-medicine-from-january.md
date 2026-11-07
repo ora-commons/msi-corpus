@@ -199,6 +199,8 @@ related_stories:
   publish_date: '2026-02-05'
   relation: related
   strength: 0.6524
+analyses:
+- '2026-11-05-hawai-i-food-as-medicine-launch-hinges-on-local-supply-scaling-faster-than-the-i'
 ---
 ## Hawaiʻi Medicaid program to prescribe fresh food as medicine from January
 
@@ -249,3 +251,8 @@ On the Big Island, Moses Paio has been recommending the program openly to friend
 **Publication date:** 2026-11-05
 **Title:** Hawaiʻi Doctors May Soon Start Prescribing Fresh Food
 **URL:** https://apnews.com/article/hawaii-doctors-prescriptions-fresh-food-7acdfd4c37d8004b5271b378da6644e1
+
+---
+
+<!-- analysis-link:2026-11-05-hawai-i-food-as-medicine-launch-hinges-on-local-supply-scaling-faster-than-the-i -->
+**Going deeper:** [Read MSI's analysis of Hawaiʻi's food-as-medicine supply test →](/analyses/2026-11-05-hawai-i-food-as-medicine-launch-hinges-on-local-supply-scaling-faster-than-the-i)

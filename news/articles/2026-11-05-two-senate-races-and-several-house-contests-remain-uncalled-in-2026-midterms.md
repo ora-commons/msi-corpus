@@ -1,9 +1,14 @@
 ---
 headline: Two Senate races and several House contests remain uncalled in 2026 midterms
-secondary_headline: Alaska's ranked choice Senate count may proceed to another round this month
+secondary_headline: Alaska's ranked choice Senate count may proceed to another round
+  this month
 publish_date: '2026-11-05'
-lede: Vote counting in the 2026 midterm elections is still underway, with two Senate races — in Alaska and Mississippi — and several House contests yet to be called, according to NPR. Democrats are poised to have a strong majority in the upcoming Congress, the organization reported, even as the final numbers remain undetermined.
-nut_graf: The outstanding contests will determine the final party margins in the Senate and the House in the upcoming Congress.
+lede: Vote counting in the 2026 midterm elections is still underway, with two Senate
+  races — in Alaska and Mississippi — and several House contests yet to be called,
+  according to NPR. Democrats are poised to have a strong majority in the upcoming
+  Congress, the organization reported, even as the final numbers remain undetermined.
+nut_graf: The outstanding contests will determine the final party margins in the Senate
+  and the House in the upcoming Congress.
 primary_entities:
 - NPR
 - The Associated Press
@@ -39,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -168,7 +174,8 @@ related_stories:
   relation: related
   strength: 0.7941
 - slug: 2026-11-04-live-midterm-tracker-shows-33-of-35-senate-races-367-of-435-house-races-called
-  headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races called
+  headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races
+    called
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7829
@@ -177,77 +184,20 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7763
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7678
-- slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
-  headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7685
-- slug: 2026-11-03-guardian-tracker-maps-2026-midterms-with-ratings-and-ap-race-call-rules
-  headline: Guardian tracker maps 2026 midterms with ratings and AP race-call rules
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.761
-- slug: 2026-11-03-congress-control-calls-may-take-days-after-tuesday-s-election
-  headline: Congress control calls may take days after Tuesday's election
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7511
-- slug: 2026-11-05-mike-johnson-plans-to-step-down-as-top-house-republican-after-midterms
-  headline: Mike Johnson plans to step down as top House Republican after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7341
-- slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
-  headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7315
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7508
-- slug: 2026-11-03-early-voting-advances-as-trump-administration-pressures-state-elections
-  headline: Early voting advances as Trump administration pressures state elections
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7349
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7322
-- slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
-  headline: Early voting passes 50.5 million with three days to go before midterms
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7483
-- slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7445
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7688
 image:
   url: /articles/2026-11-05-two-senate-races-and-several-house-contests-remain-uncalled-in-2026-midterms.png
-  alt: "Illustration accompanying article: Two Senate races and several House contests remain uncalled in 2026 midterms"
+  alt: 'Illustration accompanying article: Two Senate races and several House contests
+    remain uncalled in 2026 midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Two Senate races and several House contests remain uncalled in 2026 midterms
 
 **Subtype:** fact
