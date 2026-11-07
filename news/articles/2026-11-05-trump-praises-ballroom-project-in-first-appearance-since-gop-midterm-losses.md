@@ -1,9 +1,20 @@
 ---
 headline: Trump praises ballroom project in first appearance since GOP midterm losses
-secondary_headline: Democrats could block some Trump building plans they argue Congress has not authorized
+secondary_headline: Democrats could block some Trump building plans they argue Congress
+  has not authorized
 publish_date: '2026-11-05'
-lede: President Donald Trump made his first public appearance since the midterm elections at the construction site of the new White House ballroom, praising the project and saying he would have won the election if his name had been on the ballot, according to a Guardian column by Arwa Mahdawi. Democrats, who now control the House and Senate, are scrutinizing the ballroom's funding and could move to block some building plans they argue Congress has not authorized.
-nut_graf: The ballroom appearance and a final pre-election press conference devoted to the Lincoln Memorial reflecting pool show how Trump has responded to his party's midterm defeat, which the Guardian column described as historic. Democrats, who now control the House and Senate, are scrutinizing the ballroom's funding and could move to block some of the president's building plans on the argument that they have not been authorized by Congress and are therefore illegal, according to the column.
+lede: President Donald Trump made his first public appearance since the midterm elections
+  at the construction site of the new White House ballroom, praising the project and
+  saying he would have won the election if his name had been on the ballot, according
+  to a Guardian column by Arwa Mahdawi. Democrats, who now control the House and Senate,
+  are scrutinizing the ballroom's funding and could move to block some building plans
+  they argue Congress has not authorized.
+nut_graf: The ballroom appearance and a final pre-election press conference devoted
+  to the Lincoln Memorial reflecting pool show how Trump has responded to his party's
+  midterm defeat, which the Guardian column described as historic. Democrats, who
+  now control the House and Senate, are scrutinizing the ballroom's funding and could
+  move to block some of the president's building plans on the argument that they have
+  not been authorized by Congress and are therefore illegal, according to the column.
 primary_entities:
 - Donald Trump
 - Barack Obama
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,12 +159,12 @@ related_stories:
   headline: Trump focuses on White House ballroom after Democrats retake Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8495
+  strength: 0.8489
 - slug: 2026-11-02-trump-devotes-election-eve-speech-to-construction-projects
   headline: Trump devotes election-eve speech to construction projects
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7434
+  strength: 0.7433
 - slug: 2026-11-02-trump-turns-reflecting-pool-reopening-into-a-midterm-pitch
   headline: Trump turns Reflecting Pool reopening into a midterm pitch
   publish_date: '2026-11-02'
@@ -167,84 +179,23 @@ related_stories:
   headline: Trump shifts blame after sweeping Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6936
+  strength: 0.6931
 - slug: 2026-09-28-trump-s-d-c-construction-push-draws-lawsuits-preservationist-warnings
   headline: Trump's D.C. construction push draws lawsuits, preservationist warnings
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7021
+  strength: 0.7017
 - slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
   headline: Empty seats and instant ticket approvals mark GOP midterm convention
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6954
+  strength: 0.6953
 - slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
   headline: Trump closes GOP midterm convention with personal vote pledge
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6918
-- slug: 2026-08-19-trump-shows-reporters-white-house-helipad-ballroom-construction
-  headline: Trump shows reporters White House helipad, ballroom construction
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7296
-- slug: 2026-09-03-trump-urges-gop-to-run-on-his-record-pledges-to-campaign-for-them
-  headline: Trump urges GOP to run on his record, pledges to campaign for them
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6911
-- slug: 2026-08-31-trump-describes-post-presidency-life-in-recent-speeches
-  headline: Trump describes post-presidency life in recent speeches
-  publish_date: '2026-08-31'
-  relation: related
   strength: 0.6915
-- slug: 2026-05-19-trump-tours-construction-of-white-house-ballroom-after-congress-balks-at-1b
-  headline: Trump tours construction of White House ballroom after Congress balks at $1B
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7732
-- slug: 2026-05-20-trump-shows-reporters-white-house-east-wing-ballroom-construction-despite-congre
-  headline: Trump shows reporters White House East Wing ballroom construction, despite Congress impasse
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7679
-- slug: 2026-04-17-trump-touts-400m-ballroom-plan-amid-criticism-he-s-out-of-touch
-  headline: Trump touts $400M ballroom plan amid criticism he's out of touch
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7568
-- slug: 2026-05-19-trump-tours-white-house-ballroom-construction-after-congress-balks-at-1b-price-t
-  headline: Trump tours White House ballroom construction after Congress balks at $1B price tag
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.744
-- slug: 2026-07-25-trump-delivers-speech-at-rescheduled-correspondents-dinner-addresses-press-and-r
-  headline: Trump delivers speech at rescheduled correspondents’ dinner, addresses press and rivals
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6895
-- slug: 2026-06-14-trump-administration-tells-court-white-house-ballroom-is-too-far-along-to-stop
-  headline: Trump administration tells court White House ballroom is too far along to stop
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.7089
-- slug: 2026-04-03-trump-white-house-ballroom-gets-final-ok-after-judge-s-halt-order
-  headline: Trump White House ballroom gets final OK after judge's halt order
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.7325
-- slug: 2026-05-27-trump-plays-mayor-at-cabinet-meeting-detailing-dc-renovations
-  headline: Trump plays mayor at Cabinet meeting, detailing DC renovations
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6984
-- slug: 2026-05-08-trump-tours-lincoln-memorial-reflecting-pool-paint-job-he-calls-american-flag-bl
-  headline: Trump tours Lincoln Memorial reflecting pool paint job he calls “American flag blue”
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7046
 ---
-
 ## Trump praises ballroom project in first appearance since GOP midterm losses
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: Federal judge finds school officials violated fathers' First Amendment rights
-secondary_headline: School district's risk pool to pay fathers' legal group $225,000 under settlement
+secondary_headline: School district's risk pool to pay fathers' legal group $225,000
+  under settlement
 publish_date: '2026-11-05'
-lede: A federal judge says two New Hampshire fathers who were banned from school grounds for wearing pink wristbands marked "XX" at a 2024 high school soccer game have a First Amendment right to silently wear them, and that school officials violated that right. The dismissal order issued Thursday by U.S. District Court Judge Steven McAuliffe ends more than two years of litigation, with a settlement paying $225,000 to the legal group that represented the men.
-nut_graf: The ruling resolves a dispute that tested whether parents surrender their constitutional speech rights when they attend school events, pitting the fathers' silent protest against the district's stated duty to protect a transgender student from harassment. It ends a case that began at a single Bow soccer game in 2024 and grew into a test of parental speech that reached a federal appeals court.
+lede: A federal judge says two New Hampshire fathers who were banned from school grounds
+  for wearing pink wristbands marked "XX" at a 2024 high school soccer game have a
+  First Amendment right to silently wear them, and that school officials violated
+  that right. The dismissal order issued Thursday by U.S. District Court Judge Steven
+  McAuliffe ends more than two years of litigation, with a settlement paying $225,000
+  to the legal group that represented the men.
+nut_graf: The ruling resolves a dispute that tested whether parents surrender their
+  constitutional speech rights when they attend school events, pitting the fathers'
+  silent protest against the district's stated duty to protect a transgender student
+  from harassment. It ends a case that began at a single Bow soccer game in 2024 and
+  grew into a test of parental speech that reached a federal appeals court.
 primary_entities:
 - Kyle Fellers
 - Anthony Foote
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +150,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-relatives-of-sandy-hook-victims-ask-supreme-court-to-preserve-rifle-bans
-  headline: Relatives of Sandy Hook victims ask Supreme Court to preserve rifle bans
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6206
-- slug: 2026-10-27-federal-lawsuit-challenges-anne-arundel-schools-over-names-and-pronouns
-  headline: Federal lawsuit challenges Anne Arundel schools over names and pronouns
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6279
-- slug: 2026-10-28-anne-arundel-schools-dispute-federal-suit-cite-good-faith-doj-contact
-  headline: Anne Arundel schools dispute federal suit, cite good-faith DOJ contact
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6167
-- slug: 2026-10-23-fifth-circuit-lets-parts-of-mississippi-school-dei-ban-take-effect
-  headline: Fifth Circuit lets parts of Mississippi school DEI ban take effect
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.613
-- slug: 2026-10-21-federal-prison-policy-would-bar-transition-related-treatment
-  headline: Federal prison policy would bar transition-related treatment
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6183
-- slug: 2026-09-28-education-department-finalizes-repeal-of-title-ix-lgbtq-protections
-  headline: Education Department finalizes repeal of Title IX LGBTQ protections
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6221
 - slug: 2026-07-10-two-transgender-teens-withdraw-new-hampshire-sports-lawsuit
   headline: Two transgender teens withdraw New Hampshire sports lawsuit
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6798
-- slug: 2026-08-17-civil-rights-groups-petition-supreme-court-to-review-texas-ten-commandments-law
-  headline: Civil rights groups petition Supreme Court to review Texas Ten Commandments law
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6122
-- slug: 2026-07-01-supreme-court-upholds-state-bans-on-transgender-athletes-in-6-3-ruling
-  headline: Supreme Court upholds state bans on transgender athletes in 6-3 ruling
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6473
+  strength: 0.6801
 - slug: 2026-01-13-supreme-court-appears-set-to-uphold-state-bans-on-transgender-athletes
   headline: Supreme Court appears set to uphold state bans on transgender athletes
   publish_date: '2026-01-13'
   relation: related
-  strength: 0.6551
-- slug: 2026-03-04-supreme-court-blocks-california-schools-transgender-notification-policy
-  headline: Supreme Court blocks California schools’ transgender notification policy
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6431
-- slug: 2026-04-07-iowa-appeals-court-lets-state-enforce-k-6-lgbtq-book-ban-curbs-instruction
-  headline: Iowa appeals court lets state enforce K-6 LGBTQ book ban, curbs instruction
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6376
-- slug: 2026-05-14-lawsuit-alleges-memphis-safe-task-force-violated-first-amendment-rights
-  headline: Lawsuit alleges Memphis Safe Task Force violated First Amendment rights
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6257
-- slug: 2026-03-31-trump-justice-department-sues-minnesota-over-transgender-athletes-in-girls-sport
-  headline: Trump Justice Department sues Minnesota over transgender athletes in girls sports
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6342
-- slug: 2026-03-29-suburban-detroit-district-settles-lawsuit-over-pledge-dispute-with-student
-  headline: Suburban Detroit district settles lawsuit over Pledge dispute with student
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6289
-- slug: 2026-01-11-supreme-court-hears-arguments-on-transgender-athlete-bans-from-west-virginia-ida
-  headline: Supreme Court hears arguments on transgender athlete bans from West Virginia, Idaho
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.636
-- slug: 2026-04-07-trump-administration-ends-agreements-protecting-transgender-students
-  headline: Trump administration ends agreements protecting transgender students
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.626
-- slug: 2026-01-29-trump-administration-says-san-jose-state-violated-title-ix-over-transgender-athl
-  headline: Trump administration says San Jose State violated Title IX over transgender athlete
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.632
-- slug: 2026-04-04-judge-ends-federal-oversight-of-special-education-in-new-orleans-schools
-  headline: Judge ends federal oversight of special education in New Orleans schools
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6198
-- slug: 2026-05-02-supreme-court-backs-anti-abortion-center-citing-first-amendment-fears
-  headline: Supreme Court backs anti-abortion center, citing First Amendment fears
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6116
+  strength: 0.655
 ---
-
 ## Federal judge finds school officials violated fathers' First Amendment rights
 
 **Subtype:** fact
