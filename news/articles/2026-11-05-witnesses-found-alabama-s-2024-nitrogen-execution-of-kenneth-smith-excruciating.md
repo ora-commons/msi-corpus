@@ -1,9 +1,24 @@
 ---
 headline: Witnesses found Alabama's 2024 nitrogen execution of Kenneth Smith excruciating
-secondary_headline: Alabama plans lethal injection for Taylor after judge rejects nitrogen method
+secondary_headline: Alabama plans lethal injection for Taylor after judge rejects
+  nitrogen method
 publish_date: '2026-11-05'
-lede: Alabama executed Kenneth Smith in 2024 by nitrogen asphyxiation, in an episode that witnesses found excruciating, after previously failing to succeed in its attempt to kill Smith using lethal injection. The state plans to execute Michael Taylor, 54, by lethal injection on Thursday after a judge declared a nitrogen gas method unconstitutional, a switch his attorneys opposed because Taylor had selected nitrogen gas as his method several years ago, but a judge ruled against Taylor. The scheduled execution is one of three set for the same day in the United States, alongside Indiana's early Thursday execution of Jeffrey Weisheit and Florida's planned execution of Jesse Guardado.
-nut_graf: Alabama's plan to execute Michael Taylor by lethal injection came after a judge declared a nitrogen gas method unconstitutional and follows the state's 2024 execution of Kenneth Smith by nitrogen asphyxiation, an episode witnesses found excruciating. The death penalty in the United States has faced renewed scrutiny since the September failed execution of Christa Pike in Tennessee, although courts have rejected efforts to halt other executions after Pike survived two massive doses of pentobarbital.
+lede: Alabama executed Kenneth Smith in 2024 by nitrogen asphyxiation, in an episode
+  that witnesses found excruciating, after previously failing to succeed in its attempt
+  to kill Smith using lethal injection. The state plans to execute Michael Taylor,
+  54, by lethal injection on Thursday after a judge declared a nitrogen gas method
+  unconstitutional, a switch his attorneys opposed because Taylor had selected nitrogen
+  gas as his method several years ago, but a judge ruled against Taylor. The scheduled
+  execution is one of three set for the same day in the United States, alongside Indiana's
+  early Thursday execution of Jeffrey Weisheit and Florida's planned execution of
+  Jesse Guardado.
+nut_graf: Alabama's plan to execute Michael Taylor by lethal injection came after
+  a judge declared a nitrogen gas method unconstitutional and follows the state's
+  2024 execution of Kenneth Smith by nitrogen asphyxiation, an episode witnesses found
+  excruciating. The death penalty in the United States has faced renewed scrutiny
+  since the September failed execution of Christa Pike in Tennessee, although courts
+  have rejected efforts to halt other executions after Pike survived two massive doses
+  of pentobarbital.
 primary_entities:
 - Kenneth Smith
 - Michael Taylor
@@ -54,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,15 +169,17 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-05-indiana-executes-weisheit-as-florida-alabama-plan-two-more-executions-thursday
-  headline: Indiana executes Weisheit as Florida, Alabama plan two more executions Thursday
+  headline: Indiana executes Weisheit as Florida, Alabama plan two more executions
+    Thursday
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8452
+  strength: 0.8455
 - slug: 2026-11-04-three-states-set-thursday-executions-for-the-year-s-second-three-execution-date
-  headline: Three states set Thursday executions for the year's second three-execution date
+  headline: Three states set Thursday executions for the year's second three-execution
+    date
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8369
+  strength: 0.8373
 - slug: 2026-11-02-indiana-governor-rejects-weisheit-clemency-bid-ahead-of-thursday-execution
   headline: Indiana governor rejects Weisheit clemency bid ahead of Thursday execution
   publish_date: '2026-11-02'
@@ -171,89 +189,29 @@ related_stories:
   headline: Pike's attorneys urge Lee to reduce her sentence to life
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6802
+  strength: 0.68
 - slug: 2026-10-30-tennessee-governor-candidates-split-on-carrying-out-pike-execution
   headline: Tennessee governor candidates split on carrying out Pike execution
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6785
+  strength: 0.6787
 - slug: 2026-10-13-florida-executes-james-robertson-the-state-s-17th-execution-of-2026
   headline: Florida executes James Robertson, the state's 17th execution of 2026
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6858
+  strength: 0.6862
 - slug: 2026-10-07-tennessee-weighs-execution-options-after-pike-survives-lethal-injection
   headline: Tennessee weighs execution options after Pike survives lethal injection
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6989
+  strength: 0.6988
 - slug: 2026-10-09-christa-pike-survives-tennessee-execution-governor-calls-for-review-of-what-went
-  headline: Christa Pike survives Tennessee execution; governor calls for review of what went wrong
+  headline: Christa Pike survives Tennessee execution; governor calls for review of
+    what went wrong
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6899
-- slug: 2026-10-11-christa-pike-survives-lethal-injection-as-us-executions-hit-a-16-year-high
-  headline: Christa Pike survives lethal injection as US executions hit a 16-year high
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6791
-- slug: 2026-10-07-texas-schedules-first-us-execution-since-tennessee-s-botched-pike-injection
-  headline: Texas schedules first US execution since Tennessee's botched Pike injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.697
-- slug: 2026-10-08-texas-executes-howard-first-us-execution-since-pike-s-failed-injection
-  headline: Texas executes Howard, first US execution since Pike's failed injection
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6857
-- slug: 2026-10-02-sarat-argues-tennessee-must-not-try-to-execute-christa-pike-again
-  headline: Sarat argues Tennessee must not try to execute Christa Pike again
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7095
-- slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7054
-- slug: 2026-09-17-alabama-to-execute-lee-by-lethal-injection-after-supreme-court-rejects-nitrogen
-  headline: Alabama to execute Lee by lethal injection after Supreme Court rejects nitrogen
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7548
-- slug: 2026-10-03-pentobarbital-supply-chain-faces-scrutiny-after-tennessee-execution-fails
-  headline: Pentobarbital supply chain faces scrutiny after Tennessee execution fails
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6853
-- slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6832
-- slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6877
-- slug: 2026-08-13-same-day-triple-executions-return-thursday-after-16-year-gap
-  headline: Same-day triple executions return Thursday after 16-year gap
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6933
-- slug: 2026-06-11-appeals-court-blocks-alabama-nitrogen-hypoxia-execution-state-may-use-other-meth
-  headline: Appeals court blocks Alabama nitrogen hypoxia execution; state may use other methods
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7261
-- slug: 2026-04-16-alabama-sets-june-nitrogen-execution-for-jeffery-james-lee
-  headline: Alabama sets June nitrogen execution for Jeffery James Lee
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7375
+  strength: 0.6893
 ---
-
 ## Witnesses found Alabama's 2024 nitrogen execution of Kenneth Smith excruciating
 
 **Subtype:** fact

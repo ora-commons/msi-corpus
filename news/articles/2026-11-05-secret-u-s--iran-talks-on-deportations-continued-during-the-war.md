@@ -2,8 +2,20 @@
 headline: Secret U.S.-Iran talks on deportations continued during the war
 secondary_headline: Court order required advance notice before removals
 publish_date: '2026-11-05'
-lede: Court documents obtained by The Associated Press show that President Donald Trump's administration held secret talks with Iran on deporting Iranians even as the war there dragged on. The documents, unsealed Thursday, show the Republican administration as recently as mid-October said it had plans to deport the Iranians through an unnamed third country, although it was unclear when it intended to do so. Judge Ana Reyes ordered the government to give the court 24-hour notice of any finalized plans to deport Iranians to Iran or to any other country, and five days' written notice before any such deportation is carried out.
-nut_graf: The disclosures show that deportation planning continued during the conflict and that U.S. immigration officials and Iranian counterparts were working on travel documents and removal routes despite decades of diplomatic hostility. The court record also put the administration's policy before Reyes, who questioned whether people sent back to Iran or the wider region would face a serious threat of certain death.
+lede: Court documents obtained by The Associated Press show that President Donald
+  Trump's administration held secret talks with Iran on deporting Iranians even as
+  the war there dragged on. The documents, unsealed Thursday, show the Republican
+  administration as recently as mid-October said it had plans to deport the Iranians
+  through an unnamed third country, although it was unclear when it intended to do
+  so. Judge Ana Reyes ordered the government to give the court 24-hour notice of any
+  finalized plans to deport Iranians to Iran or to any other country, and five days'
+  written notice before any such deportation is carried out.
+nut_graf: The disclosures show that deportation planning continued during the conflict
+  and that U.S. immigration officials and Iranian counterparts were working on travel
+  documents and removal routes despite decades of diplomatic hostility. The court
+  record also put the administration's policy before Reyes, who questioned whether
+  people sent back to Iran or the wider region would face a serious threat of certain
+  death.
 primary_entities:
 - Donald Trump
 - Iran
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +155,61 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-31-trump-administration-plans-to-send-detained-afghans-to-afghanistan-via-pakistan
-  headline: Trump administration plans to send detained Afghans to Afghanistan via Pakistan
+  headline: Trump administration plans to send detained Afghans to Afghanistan via
+    Pakistan
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7509
+  strength: 0.7512
 - slug: 2026-10-28-vance-sends-letter-to-iranian-security-chief-to-restart-peace-talks
   headline: Vance sends letter to Iranian security chief to restart peace talks
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6952
+  strength: 0.6963
 - slug: 2026-10-24-u-s-evacuates-middle-east-personnel-over-suspected-iranian-attack-plots
   headline: U.S. evacuates Middle East personnel over suspected Iranian attack plots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6986
+  strength: 0.6996
 - slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
   headline: UN experts warn US third-country deportations trigger human rights violations
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7349
+  strength: 0.7362
 - slug: 2026-09-21-appeals-court-rules-third-country-deportation-policy-unlawful
   headline: Appeals court rules third-country deportation policy unlawful
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7426
+  strength: 0.7435
 - slug: 2026-09-29-supreme-court-lets-trump-resume-third-country-deportations
   headline: Supreme Court lets Trump resume third-country deportations
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6934
+  strength: 0.694
 - slug: 2026-09-21-investigation-documents-iranian-woman-deported-in-shackles-to-unknown-african-co
-  headline: Investigation documents Iranian woman deported in shackles to unknown African country
+  headline: Investigation documents Iranian woman deported in shackles to unknown
+    African country
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7189
+  strength: 0.7198
 - slug: 2026-09-24-doj-asks-supreme-court-to-allow-third-country-deportation-policy
   headline: DOJ asks Supreme Court to allow third-country deportation policy
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7022
-- slug: 2026-09-11-us-completes-first-deportation-through-secretive-terror-court
-  headline: US completes first deportation through secretive terror court
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6935
-- slug: 2026-08-20-iran-influenced-deportation-lists-emails-show
-  headline: Iran influenced deportation lists, emails show
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.7433
-- slug: 2026-07-07-lawsuit-says-u-s-gives-iran-immigration-files-of-iranian-asylum-seekers
-  headline: Lawsuit says U.S. gives Iran immigration files of Iranian asylum seekers
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.7644
-- slug: 2026-02-23-woman-adopted-by-u-s-war-veteran-faces-deportation-to-iran
-  headline: Woman adopted by U.S. war veteran faces deportation to Iran
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.7478
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.7019
-- slug: 2026-01-14-trump-claims-iran-executions-stopped-as-tehran-signals-fast-trials-ahead
-  headline: Trump claims Iran executions 'stopped' as Tehran signals fast trials ahead
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7247
-- slug: 2026-01-12-iran-protest-death-toll-reaches-646-as-trump-orders-tariffs-cites-diplomacy
-  headline: Iran protest death toll reaches 646 as Trump orders tariffs, cites diplomacy
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.709
-- slug: 2026-02-28-trump-not-happy-with-iran-nuclear-talks-says-negotiators-get-more-time
-  headline: Trump not happy with Iran nuclear talks, says negotiators get more time
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.7054
-- slug: 2026-01-13-trump-tells-iranian-protesters-help-is-on-its-way-as-u-s-weighs-options
-  headline: Trump tells Iranian protesters 'help is on its way' as U.S. weighs options
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7072
-- slug: 2026-05-03-trump-reviewing-new-iranian-proposal-to-end-war-skeptical-it-will-work
-  headline: Trump reviewing new Iranian proposal to end war, skeptical it will work
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6872
-- slug: 2026-01-14-trump-claims-iran-protest-killings-stopped-as-tehran-signals-mass-executions-ahe
-  headline: Trump claims Iran protest killings 'stopped' as Tehran signals mass executions ahead
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7032
-- slug: 2026-04-04-trump-s-go-it-alone-certainty-collides-with-iran-war-uncertainties
-  headline: Trump’s go-it-alone certainty collides with Iran war uncertainties
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6925
+  strength: 0.703
 image:
   url: /articles/2026-11-05-secret-u-s--iran-talks-on-deportations-continued-during-the-war.png
-  alt: "Illustration accompanying article: Secret U.S.-Iran talks on deportations continued during the war"
+  alt: 'Illustration accompanying article: Secret U.S.-Iran talks on deportations
+    continued during the war'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Secret U.S.-Iran talks on deportations continued during the war
 
 **Subtype:** fact
