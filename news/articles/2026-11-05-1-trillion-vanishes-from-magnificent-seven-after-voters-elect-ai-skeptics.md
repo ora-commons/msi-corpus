@@ -1,9 +1,24 @@
 ---
 headline: $1 trillion vanishes from Magnificent Seven after voters elect AI skeptics
-secondary_headline: Newsom plans to commute California death sentences to life without parole
+secondary_headline: Newsom plans to commute California death sentences to life without
+  parole
 publish_date: '2026-11-05'
-lede: Some $1 trillion of the Magnificent Seven tech giants' collective market value vanished two days after voters elected a bloc of AI skeptics, The Wall Street Journal's What's News newsletter reported. The PHLX Semiconductor index posted its worst day since the depths of the pandemic, the Nasdaq composite stumbled into correction territory in its worst day since last April's tariff turmoil, and Nvidia closed the session in the red for 2026. The same edition reported that Wendy's board unanimously rejected a $7.35-a-share cash offer from Nelson Peltz's Trian Fund Management as undervaluing the company, that Gov. Gavin Newsom said he plans to commute California death sentences to life without parole, and that a suspected hoax campaign grounded aircraft and disrupted flights for a second day this week.
-nut_graf: The retreat came two days after voters elected a bloc of AI skeptics, and the same newsletter edition carried the week's other developments alongside it — Wendy's unanimous board rejection of a $7.35-a-share takeover bid, Gov. Newsom's plan to commute California death sentences to life without parole, a suspected hoax campaign that disrupted flights for a second day this week, and democratic-socialist election wins in Washington, D.C., Ann Arbor and Providence.
+lede: Some $1 trillion of the Magnificent Seven tech giants' collective market value
+  vanished two days after voters elected a bloc of AI skeptics, The Wall Street Journal's
+  What's News newsletter reported. The PHLX Semiconductor index posted its worst day
+  since the depths of the pandemic, the Nasdaq composite stumbled into correction
+  territory in its worst day since last April's tariff turmoil, and Nvidia closed
+  the session in the red for 2026. The same edition reported that Wendy's board unanimously
+  rejected a $7.35-a-share cash offer from Nelson Peltz's Trian Fund Management as
+  undervaluing the company, that Gov. Gavin Newsom said he plans to commute California
+  death sentences to life without parole, and that a suspected hoax campaign grounded
+  aircraft and disrupted flights for a second day this week.
+nut_graf: The retreat came two days after voters elected a bloc of AI skeptics, and
+  the same newsletter edition carried the week's other developments alongside it —
+  Wendy's unanimous board rejection of a $7.35-a-share takeover bid, Gov. Newsom's
+  plan to commute California death sentences to life without parole, a suspected hoax
+  campaign that disrupted flights for a second day this week, and democratic-socialist
+  election wins in Washington, D.C., Ann Arbor and Providence.
 primary_entities:
 - The Wall Street Journal
 - Magnificent Seven
@@ -52,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,116 +167,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-05-1-trillion-vanishes-from-magnificent-seven-after-voters-elect-ai-skeptics.png
-  alt: 'Illustration accompanying article: $1 trillion vanishes from Magnificent Seven after voters elect AI skeptics'
+  alt: 'Illustration accompanying article: $1 trillion vanishes from Magnificent Seven
+    after voters elect AI skeptics'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-05-nasdaq-drops-as-much-as-5-amid-ai-spending-and-regulation-fears
   headline: Nasdaq drops as much as 5% amid AI spending and regulation fears
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6601
-- slug: 2026-11-05-voters-approve-data-center-moratoria-and-reproductive-rights-protections
-  headline: Voters approve data-center moratoria and reproductive-rights protections
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6402
+  strength: 0.6603
 - slug: 2026-10-30-intel-crashes-29-in-worst-session-on-record-as-tech-selloff-deepens
   headline: Intel crashes 29% in worst session on record as tech selloff deepens
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6716
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6353
-- slug: 2026-11-03-ppic-poll-shows-52-of-likely-voters-opposing-proposition-40
-  headline: PPIC poll shows 52% of likely voters opposing Proposition 40
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6419
+  strength: 0.6717
 - slug: 2026-10-31-newsom-leads-opposition-to-california-billionaire-tax-democratic-voters-favor
-  headline: Newsom leads opposition to California billionaire tax Democratic voters favor
+  headline: Newsom leads opposition to California billionaire tax Democratic voters
+    favor
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6595
+  strength: 0.6605
 - slug: 2026-10-30-union-leader-s-crazy-idea-drives-california-billionaire-tax-fight
   headline: Union leader's 'crazy' idea drives California billionaire-tax fight
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6619
+  strength: 0.6637
 - slug: 2026-10-30-nasdaq-loses-nearly-1tn-in-a-week-as-worries-over-ai-returns-grow
   headline: Nasdaq loses nearly $1tn in a week as worries over AI returns grow
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6538
-- slug: 2026-10-28-law-firm-management-recommends-dissolution-after-partner-exodus
-  headline: Law firm management recommends dissolution after partner exodus
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.634
+  strength: 0.6529
 - slug: 2026-10-21-tech-shares-rise-musk-reported-spacex-profit-anthropic-revenue-nvidia-keynote
-  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia keynote'
+  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia
+    keynote'
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6513
-- slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
-  headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6407
-- slug: 2026-10-23-proposition-40-aims-to-raise-100-billion-for-california-health-care
-  headline: Proposition 40 aims to raise $100 billion for California health care
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6342
-- slug: 2026-10-21-meta-announces-new-stock-as-record-quarterly-revenue-hits-64-6-billion
-  headline: Meta announces new stock as record quarterly revenue hits $64.6 billion
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6438
-- slug: 2026-09-22-meta-surges-on-ai-agent-app-financial-sector-drops-2-on-ai-fears
-  headline: Meta surges on AI agent app; financial sector drops 2% on AI fears
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6367
-- slug: 2026-09-21-meta-s-muse-ai-agent-tops-app-store-shares-jump-11
-  headline: Meta's Muse AI agent tops App Store, shares jump 11%
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6351
-- slug: 2026-09-15-wall-street-buys-ai-hyperscalers-despite-executives-slowdown-calls
-  headline: Wall Street buys AI hyperscalers despite executives' slowdown calls
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6427
+  strength: 0.652
 - slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
   headline: Stocks post second weekly decline as tech earnings and Fed decision approach
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.6652
+  strength: 0.6649
 - slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
   headline: Tech shares tumble as AI rally doubts grip Wall Street
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6691
-- slug: 2026-06-05-nasdaq-tumbles-4-2-as-strong-jobs-data-ai-spending-fears-hit-chip-stocks
-  headline: Nasdaq tumbles 4.2% as strong jobs data, AI spending fears hit chip stocks
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6583
-- slug: 2026-06-10-tech-stocks-slide-bitcoin-slumps-below-61k-as-market-selloff-deepens
-  headline: Tech stocks slide, Bitcoin slumps below $61K as market selloff deepens
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6426
+  strength: 0.6686
 ---
-
 ## $1 trillion vanishes from Magnificent Seven after voters elect AI skeptics
 
 **Subtype:** fact

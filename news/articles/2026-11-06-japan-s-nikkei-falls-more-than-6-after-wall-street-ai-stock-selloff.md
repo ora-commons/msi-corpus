@@ -3,8 +3,15 @@ headline: Japan's Nikkei falls more than 6% after Wall Street AI stock selloff
 secondary_headline: S&P 500 had its worst day since 2025's 'Liberation Day' tariffs
 slug: 2026-11-06-nikkei-falls-more-than-6-after-wall-street-ai-stock-selloff
 publish_date: '2026-11-06'
-lede: Japan's benchmark Nikkei stock index fell more than 6% after trading opened Friday, Nov. 6, in Tokyo, following a widespread selloff of artificial-intelligence-related stocks on Wall Street. The previous day, the S&P 500 fell 4.4% — its worst day since April 2025, when President Donald Trump's 'Liberation Day' tariffs shook markets worldwide, according to the Associated Press report.
-nut_graf: 'The report traced a two-session sequence: a widespread selloff of artificial-intelligence-related stocks on Wall Street, a 4.4% drop in the S&P 500 on Thursday that the wire called the index''s worst day since April 2025, and a fall of more than 6% in Japan''s benchmark Nikkei at Friday''s open in Tokyo.'
+lede: Japan's benchmark Nikkei stock index fell more than 6% after trading opened
+  Friday, Nov. 6, in Tokyo, following a widespread selloff of artificial-intelligence-related
+  stocks on Wall Street. The previous day, the S&P 500 fell 4.4% — its worst day since
+  April 2025, when President Donald Trump's 'Liberation Day' tariffs shook markets
+  worldwide, according to the Associated Press report.
+nut_graf: 'The report traced a two-session sequence: a widespread selloff of artificial-intelligence-related
+  stocks on Wall Street, a 4.4% drop in the S&P 500 on Thursday that the wire called
+  the index''s worst day since April 2025, and a fall of more than 6% in Japan''s
+  benchmark Nikkei at Friday''s open in Tokyo.'
 primary_entities:
 - Nikkei
 - S&P 500
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -180,68 +188,7 @@ related_stories:
   publish_date: '2026-07-17'
   relation: related
   strength: 0.8194
-- slug: 2026-09-02-asian-shares-tumble-as-global-bond-sell-off-deepens
-  headline: Asian shares tumble as global bond sell-off deepens
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7302
-- slug: 2026-09-14-ai-stocks-slide-worldwide-after-anthropic-ceo-urges-industry-slowdown
-  headline: AI stocks slide worldwide after Anthropic CEO urges industry slowdown
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6696
-- slug: 2026-08-19-kospi-leads-asian-shares-lower-as-ai-stocks-extend-decline
-  headline: Kospi leads Asian shares lower as AI stocks extend decline
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.69
-- slug: 2026-07-16-kospi-slides-6-4-into-bear-market-as-ai-chip-selloff-spreads
-  headline: KOSPI slides 6.4% into bear market as AI chip selloff spreads
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6926
-- slug: 2026-06-08-asian-stocks-tumble-oil-jumps-as-middle-east-conflict-reignites
-  headline: Asian stocks tumble, oil jumps as Middle East conflict reignites
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7198
-- slug: 2026-07-22-asian-shares-rise-after-ai-stocks-lead-wall-street-higher
-  headline: Asian shares rise after AI stocks lead Wall Street higher
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6824
-- slug: 2026-05-16-global-stocks-tumble-as-ai-selloff-meets-oil-price-anxiety
-  headline: Global stocks tumble as AI selloff meets oil-price anxiety
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7269
-- slug: 2026-07-13-wall-street-drops-as-chip-stocks-slide-4-8-oil-hits-83-on-iran-blockade
-  headline: Wall Street drops as chip stocks slide 4.8%, oil hits $83 on Iran blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6783
-- slug: 2026-06-08-south-korean-stocks-crash-8-on-ai-profit-fears-fed-rate-concerns
-  headline: South Korean stocks crash 8% on AI profit fears, Fed rate concerns
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7042
-- slug: 2026-02-23-u-s-stocks-fall-1-as-trump-escalates-tariffs-ai-losers-decline
-  headline: U.S. stocks fall 1% as Trump escalates tariffs; AI losers decline
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.7292
-- slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
-  headline: Tech shares tumble as AI rally doubts grip Wall Street
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6894
-- slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
-  headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6871
 ---
-
 ## Japan's Nikkei falls more than 6% after Wall Street AI stock selloff
 
 **Subtype:** fact

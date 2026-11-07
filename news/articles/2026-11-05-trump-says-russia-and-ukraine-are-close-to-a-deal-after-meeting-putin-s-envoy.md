@@ -1,9 +1,20 @@
 ---
-headline: Trump says Russia and Ukraine are close to a deal after meeting Putin's envoy
-secondary_headline: Trump predicts a 'big, beautiful agreement' that might involve all of Europe
+headline: Trump says Russia and Ukraine are close to a deal after meeting Putin's
+  envoy
+secondary_headline: Trump predicts a 'big, beautiful agreement' that might involve
+  all of Europe
 publish_date: '2026-11-05'
-lede: President Donald Trump met at the White House with Kirill Dmitriev, Russian President Vladimir Putin's special envoy, and said the sides were close to reaching a deal. Trump predicted a 'big, beautiful agreement' that might involve all of Europe. The meeting came days before the United States leads a new round of peace talks between Russia and Ukraine in Abu Dhabi next week.
-nut_graf: The meeting came as the administration ramps up efforts to secure an agreement to end the war in Ukraine. The White House sees the effort as a diplomatic breakthrough, but some European analysts worry the efforts can backfire. In helping broker a temporary ceasefire and bringing together representatives of the two sides in acknowledgement of the human costs of the war, first lady Melania Trump has accomplished something that has so far eluded her husband.
+lede: President Donald Trump met at the White House with Kirill Dmitriev, Russian
+  President Vladimir Putin's special envoy, and said the sides were close to reaching
+  a deal. Trump predicted a 'big, beautiful agreement' that might involve all of Europe.
+  The meeting came days before the United States leads a new round of peace talks
+  between Russia and Ukraine in Abu Dhabi next week.
+nut_graf: The meeting came as the administration ramps up efforts to secure an agreement
+  to end the war in Ukraine. The White House sees the effort as a diplomatic breakthrough,
+  but some European analysts worry the efforts can backfire. In helping broker a temporary
+  ceasefire and bringing together representatives of the two sides in acknowledgement
+  of the human costs of the war, first lady Melania Trump has accomplished something
+  that has so far eluded her husband.
 primary_entities:
 - Donald Trump
 - Kirill Dmitriev
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +160,44 @@ related_stories:
   headline: Melania Trump hosts Russian and Ukrainian officials to mark Oleshky ceasefire
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8512
+  strength: 0.8513
 - slug: 2026-11-05-kirill-dmitriev-joins-white-house-ceremony-for-oleshky-ceasefire
   headline: Kirill Dmitriev joins White House ceremony for Oleshky ceasefire
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8476
+  strength: 0.8481
 - slug: 2026-11-04-melania-trump-receives-order-of-princess-olha-after-oleshky-ceasefire
   headline: Melania Trump receives Order of Princess Olha after Oleshky ceasefire
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7964
+  strength: 0.7961
 - slug: 2026-11-05-kherson-source-disputes-credit-for-oleshky-ceasefire-citing-a-year-of-groundwork
-  headline: Kherson source disputes credit for Oleshky ceasefire, citing a year of groundwork
+  headline: Kherson source disputes credit for Oleshky ceasefire, citing a year of
+    groundwork
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7521
+  strength: 0.7517
 - slug: 2026-10-27-oleshky-ceasefire-starts-ahead-of-aid-mission-brokered-by-melania-trump
   headline: Oleshky ceasefire starts ahead of aid mission brokered by Melania Trump
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7905
+  strength: 0.7902
 - slug: 2026-10-23-russia-and-ukraine-agree-to-localized-oleshky-ceasefire
   headline: Russia and Ukraine agree to localized Oleshky ceasefire
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7944
+  strength: 0.7941
 - slug: 2026-10-23-russia-and-ukraine-agree-to-ceasefire-in-occupied-oleshky
   headline: Russia and Ukraine agree to ceasefire in occupied Oleshky
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7808
+  strength: 0.7805
 - slug: 2026-10-23-lubinets-says-oleshky-ceasefire-to-start-tuesday-last-several-days
   headline: Lubinets says Oleshky ceasefire to start Tuesday, last several days
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7679
-- slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
-  headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7429
-- slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
-  headline: Trump open to joining Putin and Xi for denuclearization summit
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7334
-- slug: 2026-10-11-trump-says-russia-and-ukraine-agreed-to-an-energy-ceasefire
-  headline: Trump says Russia and Ukraine agreed to an 'energy ceasefire'
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7317
-- slug: 2026-10-11-trump-claims-russia-ukraine-energy-ceasefire-as-kyiv-awaits-details
-  headline: Trump claims Russia-Ukraine 'energy ceasefire' as Kyiv awaits details
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7312
-- slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
-  headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7185
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7271
-- slug: 2026-10-10-trump-says-it-is-time-for-ukraine-to-get-a-new-president
-  headline: Trump says it is time for Ukraine to get a new president
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7162
-- slug: 2026-09-21-trump-to-press-zelenskyy-on-energy-ceasefire-as-diesel-prices-soar
-  headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.749
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7275
-- slug: 2026-09-20-zelensky-trump-to-meet-in-new-york-amid-renewed-ukraine-peace-push
-  headline: Zelensky, Trump to meet in New York amid renewed Ukraine peace push
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.734
-- slug: 2026-08-01-trump-and-zelenskyy-relations-thaw-as-ukraine-offers-help-in-iran-war
-  headline: Trump and Zelenskyy relations thaw as Ukraine offers help in Iran war
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7343
-- slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
-  headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.7573
+  strength: 0.7675
 ---
-
 ## Trump says Russia and Ukraine are close to a deal after meeting Putin's envoy
 
 **Subtype:** fact
