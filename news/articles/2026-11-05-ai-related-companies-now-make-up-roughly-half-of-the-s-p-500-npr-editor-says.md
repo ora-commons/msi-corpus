@@ -1,9 +1,26 @@
 ---
-headline: AI-related companies now make up roughly half of the S&P 500, NPR editor says
-secondary_headline: Nam questions whether a data-center crackdown would help investors' portfolios
+headline: AI-related companies now make up roughly half of the S&P 500, NPR editor
+  says
+secondary_headline: Nam questions whether a data-center crackdown would help investors'
+  portfolios
 publish_date: '2026-11-05'
-lede: AI-related companies now make up roughly half of the S&P 500, and NPR senior business editor Rafael Nam said many average investors hold those companies through 401(k)s and pension funds. Nam said cracking down on the data centers that power artificial intelligence may be a winning issue for Democrats, but he questioned whether it would be good for ordinary investors' stock portfolios. His assessment came on Nov. 5, when a sell-off in AI shares sent the tech-heavy Nasdaq down more than 5% and wiped out more than $2 trillion in market value two days after Democrats won the midterm elections overwhelmingly.
-nut_graf: 'Nam framed the moment as a dilemma: data centers are essential not only to AI companies but also to propping up the U.S. economy, yet Democrats won office promising to act against facilities that voters dislike for the electricity and water they consume, not only in Congress but also in states such as Texas. Investors have plowed billions of dollars into AI companies such as Meta and Alphabet, the owner of Google, which need the facilities to develop AI, and David Busch, chief investment officer of Trajan Wealth, told NPR that pushback at both the state and the federal level could slow the progress of building out the technology and its infrastructure.'
+lede: AI-related companies now make up roughly half of the S&P 500, and NPR senior
+  business editor Rafael Nam said many average investors hold those companies through
+  401(k)s and pension funds. Nam said cracking down on the data centers that power
+  artificial intelligence may be a winning issue for Democrats, but he questioned
+  whether it would be good for ordinary investors' stock portfolios. His assessment
+  came on Nov. 5, when a sell-off in AI shares sent the tech-heavy Nasdaq down more
+  than 5% and wiped out more than $2 trillion in market value two days after Democrats
+  won the midterm elections overwhelmingly.
+nut_graf: 'Nam framed the moment as a dilemma: data centers are essential not only
+  to AI companies but also to propping up the U.S. economy, yet Democrats won office
+  promising to act against facilities that voters dislike for the electricity and
+  water they consume, not only in Congress but also in states such as Texas. Investors
+  have plowed billions of dollars into AI companies such as Meta and Alphabet, the
+  owner of Google, which need the facilities to develop AI, and David Busch, chief
+  investment officer of Trajan Wealth, told NPR that pushback at both the state and
+  the federal level could slow the progress of building out the technology and its
+  infrastructure.'
 primary_entities:
 - Nasdaq
 - NPR
@@ -48,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,7 +82,8 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-11-05'
-  caption: The NASDAQ Composite Index stood at 25,736.51 as of Nov. 5, 2026, the session in which AI shares sold off and the tech-heavy index fell more than 5%.
+  caption: The NASDAQ Composite Index stood at 25,736.51 as of Nov. 5, 2026, the session
+    in which AI shares sold off and the tech-heavy index fell more than 5%.
 figures_aggregate:
   count: 1
   series_ids:
@@ -155,107 +174,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-05-tech-stocks-lose-more-than-2-trillion-on-fears-of-ai-regulation-after-midterms
-  headline: Tech stocks lose more than $2 trillion on fears of AI regulation after midterms
+  headline: Tech stocks lose more than $2 trillion on fears of AI regulation after
+    midterms
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8001
+  strength: 0.8007
 - slug: 2026-11-05-nasdaq-drops-as-much-as-5-amid-ai-spending-and-regulation-fears
   headline: Nasdaq drops as much as 5% amid AI spending and regulation fears
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7764
+  strength: 0.777
 - slug: 2026-11-05-data-center-slowdown-could-favor-large-ai-firms-with-power-secured
   headline: Data center slowdown could favor large AI firms with power secured
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7556
+  strength: 0.7557
 - slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
   headline: Democratic gains shift U.S. technology policy outlook
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7623
+  strength: 0.7626
 - slug: 2026-11-06-ai-companies-reassess-data-center-plans-after-midterm-wins-for-freeze-candidates
-  headline: AI companies reassess data-center plans after midterm wins for freeze candidates
+  headline: AI companies reassess data-center plans after midterm wins for freeze
+    candidates
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7378
+  strength: 0.7381
 - slug: 2026-11-05-voters-back-data-center-limits-complicating-ai-expansion
   headline: Voters back data center limits, complicating AI expansion
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7237
+  strength: 0.7239
 - slug: 2026-11-04-democrats-wins-could-bring-stricter-ai-and-data-center-rules
   headline: Democrats’ wins could bring stricter AI and data-center rules
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7277
+  strength: 0.7274
 - slug: 2026-11-04-u-s-stocks-rise-as-election-swings-ai-defense-and-energy-shares
   headline: U.S. stocks rise as election swings AI, defense and energy shares
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7139
-- slug: 2026-11-04-ai-regulation-concerns-pressure-the-dollar-after-democrats-take-congress
-  headline: AI regulation concerns pressure the dollar after Democrats take Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7092
-- slug: 2026-10-31-lenders-and-investors-demand-tighter-terms-as-ai-financing-strains-mount
-  headline: Lenders and investors demand tighter terms as AI financing strains mount
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7337
-- slug: 2026-10-24-ai-concerns-test-u-s-stock-gains-amid-intense-market-volatility
-  headline: AI concerns test U.S. stock gains amid intense market volatility
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7606
-- slug: 2026-10-30-stocks-fall-sharply-as-tech-earnings-renew-concerns-over-ai-spending
-  headline: Stocks fall sharply as tech earnings renew concerns over AI spending
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7199
-- slug: 2026-10-30-nasdaq-loses-nearly-1tn-in-a-week-as-worries-over-ai-returns-grow
-  headline: Nasdaq loses nearly $1tn in a week as worries over AI returns grow
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7198
-- slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7512
-- slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
-  headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7396
-- slug: 2026-10-02-ai-sector-needs-9-of-us-gdp-in-revenue-by-2032-analysis-finds
-  headline: AI sector needs 9% of US GDP in revenue by 2032, analysis finds
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7205
-- slug: 2026-09-15-wall-street-buys-ai-hyperscalers-despite-executives-slowdown-calls
-  headline: Wall Street buys AI hyperscalers despite executives' slowdown calls
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7284
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7283
-- slug: 2026-08-23-data-center-opposition-mounts-as-tech-giants-court-communities
-  headline: Data center opposition mounts as tech giants court communities
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7187
-- slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
-  headline: Stocks post second weekly decline as tech earnings and Fed decision approach
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7137
+  strength: 0.7142
 ---
-
 ## AI-related companies now make up roughly half of the S&P 500, NPR editor says
 
 **Subtype:** fact

@@ -1,9 +1,22 @@
 ---
-headline: Some borrowers give adjustable-rate mortgages a second look as fixed rates top 7%
-secondary_headline: Redfin analysis finds ARM holders had a lower-rate opening about 70% of the time
+headline: Some borrowers give adjustable-rate mortgages a second look as fixed rates
+  top 7%
+secondary_headline: Redfin analysis finds ARM holders had a lower-rate opening about
+  70% of the time
 publish_date: '2026-11-05'
-lede: With the rate on a 30-year fixed mortgage at 7% or more, some American homebuyers are reconsidering the adjustable-rate mortgage, a loan type many still associate with the housing crash, NPR reported on Nov. 5. A new Redfin analysis of rate data going back to 1971 found adjustable-rate borrowers had at least one shot at a lower rate about 70% of the time. The average 30-year fixed rate stood at 7.18% as of Nov. 5, according to FRED, the Federal Reserve Economic Data database.
-nut_graf: The choice between a fixed and an adjustable rate shapes household costs for decades. The 30-year fixed-rate loan reigns as the most popular home loan in the United States — the only country where that is the case, NPR reports — while adjustable-rate mortgages account for only about 5% of U.S. mortgages, a rarity NPR's reporting ties to the loans' terrifying associations with the housing crisis. With fixed borrowing costs elevated, The Indicator from Planet Money examined what the historical record dating to 1971 says about the product most Americans avoid.
+lede: With the rate on a 30-year fixed mortgage at 7% or more, some American homebuyers
+  are reconsidering the adjustable-rate mortgage, a loan type many still associate
+  with the housing crash, NPR reported on Nov. 5. A new Redfin analysis of rate data
+  going back to 1971 found adjustable-rate borrowers had at least one shot at a lower
+  rate about 70% of the time. The average 30-year fixed rate stood at 7.18% as of
+  Nov. 5, according to FRED, the Federal Reserve Economic Data database.
+nut_graf: The choice between a fixed and an adjustable rate shapes household costs
+  for decades. The 30-year fixed-rate loan reigns as the most popular home loan in
+  the United States — the only country where that is the case, NPR reports — while
+  adjustable-rate mortgages account for only about 5% of U.S. mortgages, a rarity
+  NPR's reporting ties to the loans' terrifying associations with the housing crisis.
+  With fixed borrowing costs elevated, The Indicator from Planet Money examined what
+  the historical record dating to 1971 says about the product most Americans avoid.
 primary_entities:
 - Chen Zhao
 - Redfin
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,7 +71,9 @@ figures:
   series_id: MORTGAGE30US
   transformation: raw
   as_of: '2026-11-05'
-  caption: The 30-year fixed mortgage rate averaged 7.18% as of Nov. 5, 2026, per FRED — the elevated fixed-rate level prompting some borrowers to reconsider adjustable-rate loans.
+  caption: The 30-year fixed mortgage rate averaged 7.18% as of Nov. 5, 2026, per
+    FRED — the elevated fixed-rate level prompting some borrowers to reconsider adjustable-rate
+    loans.
 figures_aggregate:
   count: 1
   series_ids:
@@ -151,104 +167,43 @@ related_stories:
   headline: U.S. 30-year mortgage rate falls for a third straight week
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7357
+  strength: 0.7386
 - slug: 2026-10-29-30-year-mortgage-rate-falls-to-7-24-lowest-in-more-than-a-month
   headline: 30-year mortgage rate falls to 7.24%, lowest in more than a month
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7317
+  strength: 0.7333
 - slug: 2026-10-25-u-s-home-sellers-cut-prices-and-offer-concessions-as-buyers-gain-leverage
   headline: U.S. home sellers cut prices and offer concessions as buyers gain leverage
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6854
+  strength: 0.6859
 - slug: 2026-10-07-fed-rate-hike-and-bond-selloff-push-mortgages-car-loans-higher
   headline: Fed rate hike and bond selloff push mortgages, car loans higher
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7139
+  strength: 0.7159
 - slug: 2026-10-01-30-year-mortgage-rate-climbs-to-7-28-on-bond-market-selloff
   headline: 30-year mortgage rate climbs to 7.28% on bond market selloff
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6984
+  strength: 0.701
 - slug: 2026-09-24-us-30-year-mortgage-rate-tops-7-for-first-time-since-january-2025
   headline: US 30-year mortgage rate tops 7% for first time since January 2025
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7088
+  strength: 0.711
 - slug: 2026-08-27-30-year-mortgage-rate-holds-at-6-65-near-2026-high
   headline: 30-year mortgage rate holds at 6.65%, near 2026 high
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.7651
+  strength: 0.7665
 - slug: 2026-08-20-u-s-mortgage-rates-ease-for-a-second-week-but-stay-elevated
   headline: U.S. mortgage rates ease for a second week but stay elevated
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.7705
-- slug: 2026-09-17-fed-rate-hike-falls-harder-on-housing-than-ai-investment
-  headline: Fed rate hike falls harder on housing than AI investment
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6722
-- slug: 2026-09-10-us-existing-home-sales-fall-to-slowest-pace-in-over-a-year
-  headline: US existing home sales fall to slowest pace in over a year
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6926
-- slug: 2026-08-13-freddie-mac-reports-30-year-mortgage-rate-at-6-67-first-weekly-decline-in-six-we
-  headline: Freddie Mac reports 30-year mortgage rate at 6.67%, first weekly decline in six weeks
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7456
-- slug: 2026-06-05-30-year-mortgage-rate-holds-at-6-48-as-fed-s-limited-influence-frustrates-homebu
-  headline: 30-year mortgage rate holds at 6.48% as Fed's limited influence frustrates homebuyers
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7636
-- slug: 2026-07-23-freddie-mac-reports-30-year-mortgage-rate-at-6-58-highest-since-july-2025
-  headline: Freddie Mac reports 30-year mortgage rate at 6.58%, highest since July 2025
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7132
-- slug: 2026-02-20-average-us-30-year-mortgage-rate-slips-to-6-01-still-near-6-range
-  headline: Average US 30-year mortgage rate slips to 6.01%, still near 6% range
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7613
-- slug: 2026-02-19-average-us-long-term-mortgage-rate-dips-to-6-01-lowest-in-more-than-3-years
-  headline: Average US long-term mortgage rate dips to 6.01%, lowest in more than 3 years
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7564
-- slug: 2026-03-26-mortgage-rates-jump-to-6-38-highest-in-more-than-6-months-squeezing-buyers
-  headline: Mortgage rates jump to 6.38%, highest in more than 6 months, squeezing buyers
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7449
-- slug: 2026-04-29-average-30-year-mortgage-rate-edges-up-to-6-3-as-housing-outlook-softens
-  headline: Average 30-year mortgage rate edges up to 6.3% as housing outlook softens
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7327
-- slug: 2026-05-08-spring-homebuying-season-meets-a-stubborn-6-37-mortgage-rate
-  headline: Spring homebuying season meets a stubborn 6.37% mortgage rate
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7266
-- slug: 2026-01-30-us-mortgage-rates-rise-for-second-week-near-3-year-low
-  headline: US mortgage rates rise for second week, near 3-year low
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7397
-- slug: 2026-04-24-mortgage-rates-slip-for-third-week-easing-pressure-on-spring-homebuyers
-  headline: Mortgage rates slip for third week, easing pressure on spring homebuyers
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.723
+  strength: 0.7723
 ---
-
 ## Some borrowers give adjustable-rate mortgages a second look as fixed rates top 7%
 
 **Subtype:** fact

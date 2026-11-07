@@ -1,9 +1,20 @@
 ---
 headline: Democrats sweep every Texas statewide office and take control of the statehouse
-secondary_headline: Talarico joins Cruz in Senate as Republicans keep a state Senate majority
+secondary_headline: Talarico joins Cruz in Senate as Republicans keep a state Senate
+  majority
 publish_date: '2026-11-06'
-lede: Texas Democrats won every statewide office and control of the statehouse in this week's election, rejecting the political agenda of President Trump and Texas Republican leadership. Democrat James Talarico will join Republican Sen. Ted Cruz in the U.S. Senate, leaving Cruz the lone Republican holding high-profile statewide office, while Republicans retained a state Senate majority that allows them to block appointments and legislative priorities from Democrats.
-nut_graf: The sweep hands Democrats a U.S. Senate seat, the governor's office and every other statewide post in a state that has voted Republican in every presidential election since 1980 and is considered vital to any GOP electoral college win. The consequences will extend well beyond Texas, reshaping state politics and creating new challenges for Republicans in Washington and at home, and making the state a central battleground in the 2028 presidential race.
+lede: Texas Democrats won every statewide office and control of the statehouse in
+  this week's election, rejecting the political agenda of President Trump and Texas
+  Republican leadership. Democrat James Talarico will join Republican Sen. Ted Cruz
+  in the U.S. Senate, leaving Cruz the lone Republican holding high-profile statewide
+  office, while Republicans retained a state Senate majority that allows them to block
+  appointments and legislative priorities from Democrats.
+nut_graf: The sweep hands Democrats a U.S. Senate seat, the governor's office and
+  every other statewide post in a state that has voted Republican in every presidential
+  election since 1980 and is considered vital to any GOP electoral college win. The
+  consequences will extend well beyond Texas, reshaping state politics and creating
+  new challenges for Republicans in Washington and at home, and making the state a
+  central battleground in the 2028 presidential race.
 primary_entities:
 - James Talarico
 - Ted Cruz
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,17 +161,17 @@ related_stories:
   headline: Under-30 and Hispanic Texas Senate voters back Talarico
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7885
+  strength: 0.7893
 - slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
   headline: James Talarico defeats Ken Paxton in Texas Senate race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7884
+  strength: 0.7885
 - slug: 2026-11-04-supporters-at-austin-watch-party-explain-the-texas-election-result
   headline: Supporters at Austin watch party explain the Texas election result
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7381
+  strength: 0.7388
 - slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
   headline: Democrats win House and Senate in 2026 midterms
   publish_date: '2026-11-04'
@@ -169,84 +181,23 @@ related_stories:
   headline: Democrats regain Senate control after wins in at least six states
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7226
+  strength: 0.7231
 - slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
   headline: Democrats take control of Congress in 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7263
+  strength: 0.7267
 - slug: 2026-11-04-surveys-indicated-texas-hispanic-voters-favored-democrats
   headline: Surveys indicated Texas Hispanic voters favored Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7191
+  strength: 0.7189
 - slug: 2026-11-05-democrats-sweep-southern-elections-overturning-decades-of-gop-dominance
   headline: Democrats sweep Southern elections, overturning decades of GOP dominance
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7095
-- slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
-  headline: Paxton, Talarico face off as Texas voters head to polls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7493
-- slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
-  headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7242
-- slug: 2026-11-05-elon-musk-spent-at-least-445-million-backing-republicans-who-lost-congress
-  headline: Elon Musk spent at least $445 million backing Republicans, who lost Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6934
-- slug: 2026-11-03-paxton-s-legal-history-and-musk-s-money-shape-pivotal-texas-senate-race
-  headline: Paxton's legal history and Musk's money shape pivotal Texas Senate race
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7049
-- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
-  headline: Talarico and Paxton enter final stretch of Texas Senate race
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7555
-- slug: 2026-10-27-talarico-rejects-progressive-label-in-texas-senate-race-against-paxton
-  headline: Talarico rejects progressive label in Texas Senate race against Paxton
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7274
-- slug: 2026-10-28-democrats-contest-republican-held-senate-seats-in-the-south
-  headline: Democrats contest Republican-held Senate seats in the South
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7069
-- slug: 2026-10-15-talarico-addresses-voters-at-cnn-town-hall-defends-nine-day-absence
-  headline: Talarico addresses voters at CNN town hall, defends nine-day absence
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.701
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7246
-- slug: 2026-07-25-talarico-courts-border-hispanic-voters-in-texas-senate-race
-  headline: Talarico courts border Hispanic voters in Texas Senate race
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.7087
-- slug: 2026-03-05-democrat-james-talarico-wins-texas-senate-primary-faces-cornyn-or-paxton
-  headline: Democrat James Talarico wins Texas Senate primary; faces Cornyn or Paxton
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7653
-- slug: 2026-03-04-talarico-wins-texas-senate-democratic-nomination-cornyn-paxton-face-off
-  headline: Talarico wins Texas Senate Democratic nomination; Cornyn, Paxton face off
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7628
+  strength: 0.7094
 ---
-
 ## Democrats sweep every Texas statewide office and take control of the statehouse
 
 **Subtype:** fact
