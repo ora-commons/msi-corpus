@@ -1,9 +1,26 @@
 ---
-headline: National Capital Planning Commission approves Trump's 250-foot arch in 8-4 vote
-secondary_headline: Vote splits along federal and local lines before a judge's 14-day halt
+headline: National Capital Planning Commission approves Trump's 250-foot arch in 8-4
+  vote
+secondary_headline: Vote splits along federal and local lines before a judge's 14-day
+  halt
 publish_date: '2026-11-06'
-lede: The National Capital Planning Commission voted 8-4 on Thursday to grant final approval to President Donald Trump's planned 250-foot triumphal arch in Washington, after a remote hearing that ran more than nine hours and drew scores of people opposed to the project. The vote split along federal and local lines, with commissioners in favor working for the administration or connected to the president and opponents representing the city of Washington. Hours after the vote, US District Judge Tanya Chutkan issued a 14-day restraining order in the early hours of Friday, November 6, blocking construction work on the arch.
-nut_graf: The cost of the arch remains unknown — some estimates have reached as high as $100 million — and Phil Mendelson, a District of Columbia council member who sits on the planning commission, said the project had not received required approval from Congress and that Congress had appropriated no money for it. The administration had said work could begin as soon as the approval was in hand, the Interior Department issued a final decision authorizing construction and the National Park Service published the proper notification. The arch is one of several Washington projects Trump has undertaken that could soon face greater scrutiny after Democrats gained control of Congress.
+lede: The National Capital Planning Commission voted 8-4 on Thursday to grant final
+  approval to President Donald Trump's planned 250-foot triumphal arch in Washington,
+  after a remote hearing that ran more than nine hours and drew scores of people opposed
+  to the project. The vote split along federal and local lines, with commissioners
+  in favor working for the administration or connected to the president and opponents
+  representing the city of Washington. Hours after the vote, US District Judge Tanya
+  Chutkan issued a 14-day restraining order in the early hours of Friday, November
+  6, blocking construction work on the arch.
+nut_graf: The cost of the arch remains unknown — some estimates have reached as high
+  as $100 million — and Phil Mendelson, a District of Columbia council member who
+  sits on the planning commission, said the project had not received required approval
+  from Congress and that Congress had appropriated no money for it. The administration
+  had said work could begin as soon as the approval was in hand, the Interior Department
+  issued a final decision authorizing construction and the National Park Service published
+  the proper notification. The arch is one of several Washington projects Trump has
+  undertaken that could soon face greater scrutiny after Democrats gained control
+  of Congress.
 primary_entities:
 - Donald Trump
 - Tanya Chutkan
@@ -45,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +165,45 @@ related_stories:
   headline: Federal panel approves Trump's 250-foot arch near Arlington Cemetery
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.881
+  strength: 0.8818
 - slug: 2026-11-05-planning-commission-weighs-trump-arch-as-judge-reviews-construction-dispute
   headline: Planning commission weighs Trump arch as judge reviews construction dispute
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8508
+  strength: 0.8522
 - slug: 2026-11-06-judge-temporarily-blocks-trump-s-250-foot-arch-construction-near-arlington-cemet
-  headline: Judge temporarily blocks Trump's 250-foot arch construction near Arlington Cemetery
+  headline: Judge temporarily blocks Trump's 250-foot arch construction near Arlington
+    Cemetery
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8335
+  strength: 0.8349
 - slug: 2026-11-06-chutkan-s-opinion-says-trump-arch-traffic-disruptions-would-begin-immediately
   headline: Chutkan's opinion says Trump arch traffic disruptions would begin immediately
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8323
+  strength: 0.8331
 - slug: 2026-11-06-trump-s-washington-projects-face-added-roadblocks-under-democratic-congress
   headline: Trump's Washington projects face added roadblocks under Democratic Congress
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7991
+  strength: 0.7994
 - slug: 2026-10-31-virginia-and-d-c-sue-to-halt-construction-of-trump-s-250-foot-arch
   headline: Virginia and D.C. sue to halt construction of Trump's 250-foot arch
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8012
+  strength: 0.8024
 - slug: 2026-11-03-justice-department-says-trump-s-proposed-arch-would-take-33-to-39-months
   headline: Justice Department says Trump's proposed arch would take 33 to 39 months
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7812
+  strength: 0.7824
 - slug: 2026-10-31-dc-and-virginia-sue-to-halt-trump-s-250-foot-arch-as-construction-approval-nears
-  headline: DC and Virginia sue to halt Trump's 250-foot arch as construction approval nears
+  headline: DC and Virginia sue to halt Trump's 250-foot arch as construction approval
+    nears
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7963
-- slug: 2026-10-30-judge-weighs-halting-trump-s-250-foot-d-c-arch-at-emergency-hearing
-  headline: Judge weighs halting Trump's 250-foot D.C. arch at emergency hearing
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7893
-- slug: 2026-10-22-plaintiffs-ask-judge-to-halt-construction-of-trump-s-triumphal-arch-in-d-c
-  headline: Plaintiffs ask judge to halt construction of Trump's triumphal arch in D.C.
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.8115
-- slug: 2026-10-02-dozens-protest-trump-s-250-foot-d-c-arch-at-memorial-circle
-  headline: Dozens protest Trump's 250-foot D.C. arch at Memorial Circle
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7818
-- slug: 2026-09-20-judge-orders-48-hour-notice-before-trump-dc-arch-memorial-circle-work
-  headline: Judge orders 48-hour notice before Trump DC arch Memorial Circle work
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.8145
-- slug: 2026-09-17-park-service-finds-trump-250-foot-dc-arch-would-harm-historic-sites
-  headline: Park Service finds Trump 250-foot DC arch would harm historic sites
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.81
-- slug: 2026-09-20-trump-says-250-foot-dc-arch-will-house-weapons-as-military-complex
-  headline: Trump says 250-foot DC arch will house weapons as military complex
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.8
-- slug: 2026-09-25-council-ends-trump-arch-preservation-talks-citing-local-impasse
-  headline: Council ends Trump arch preservation talks, citing local impasse
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7827
-- slug: 2026-07-10-federal-panel-clears-preliminary-approval-for-trump-s-250-foot-arch
-  headline: Federal panel clears preliminary approval for Trump's 250-foot arch
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.8919
-- slug: 2026-09-03-trump-administration-to-begin-excavation-on-250-foot-washington-arch
-  headline: Trump administration to begin excavation on 250-foot Washington arch
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7831
-- slug: 2026-08-06-park-service-lists-37-historic-sites-that-trump-s-250-foot-arch-would-affect
-  headline: Park Service lists 37 historic sites that Trump's 250-foot arch would affect
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7957
-- slug: 2026-05-21-fine-arts-commission-approves-design-for-trump-s-250-foot-washington-arch
-  headline: Fine Arts Commission approves design for Trump's 250-foot Washington arch
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.8554
-- slug: 2026-07-08-trump-s-250-foot-washington-arch-traces-to-april-2025-essay-by-design-critic
-  headline: Trump's 250-foot Washington arch traces to April 2025 essay by design critic
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.8214
+  strength: 0.7983
 ---
-
 ## National Capital Planning Commission approves Trump's 250-foot arch in 8-4 vote
 
 **Subtype:** fact

@@ -1,9 +1,26 @@
 ---
-headline: One worker a day loses a limb at India's textile recycling hub, activist says
-secondary_headline: Panipat's 20,000 recycling factories supply home furnishings to global brands
+headline: One worker a day loses a limb at India's textile recycling hub, activist
+  says
+secondary_headline: Panipat's 20,000 recycling factories supply home furnishings to
+  global brands
 publish_date: '2026-11-06'
-lede: Suraj Kumar, a 19-year-old migrant worker, lost both arms in late August when an electrical short circuit propelled him into a shredding machine at a textile recycling factory in Panipat, an industrial city in the north Indian state of Haryana. Ramesh Chaudhary, an environmental activist who has tracked factory injuries in Panipat for five years, estimates at least one worker a day loses a limb, rising to as many as five on some days. The Guardian documented six textile workers with severe limb injuries in a single week of monitoring reports from 11 private hospitals and two government hospitals in the city.
-nut_graf: Panipat turns discarded clothing from the United States, Canada and Europe into yarn and finished goods for brands including H&M Home, Ikea, Primark, Tesco and Walmart. More than 90% of its recycling workers are employed informally, according to Ina Bahuguna of Reverse Resources, leaving those who suffer serious injuries without employer-backed compensation, rehabilitation support or a source of income. India's 1948 Factories Act places a duty on factory owners to protect workers' health and safety, but Sandeep Sachdeva of the Safe in India Foundation says buyer audits tend to prioritize commercial requirements and government inspectors must now inform factories before visiting, undermining oversight where conditions are unsafe.
+lede: Suraj Kumar, a 19-year-old migrant worker, lost both arms in late August when
+  an electrical short circuit propelled him into a shredding machine at a textile
+  recycling factory in Panipat, an industrial city in the north Indian state of Haryana.
+  Ramesh Chaudhary, an environmental activist who has tracked factory injuries in
+  Panipat for five years, estimates at least one worker a day loses a limb, rising
+  to as many as five on some days. The Guardian documented six textile workers with
+  severe limb injuries in a single week of monitoring reports from 11 private hospitals
+  and two government hospitals in the city.
+nut_graf: Panipat turns discarded clothing from the United States, Canada and Europe
+  into yarn and finished goods for brands including H&M Home, Ikea, Primark, Tesco
+  and Walmart. More than 90% of its recycling workers are employed informally, according
+  to Ina Bahuguna of Reverse Resources, leaving those who suffer serious injuries
+  without employer-backed compensation, rehabilitation support or a source of income.
+  India's 1948 Factories Act places a duty on factory owners to protect workers' health
+  and safety, but Sandeep Sachdeva of the Safe in India Foundation says buyer audits
+  tend to prioritize commercial requirements and government inspectors must now inform
+  factories before visiting, undermining oversight where conditions are unsafe.
 primary_entities:
 - Panipat
 - Haryana
@@ -55,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,109 +170,8 @@ cross_article_links:
   strength: 0.5415
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-02-companies-recruit-more-women-into-skilled-trades-to-address-labor-shortages
-  headline: Companies recruit more women into skilled trades to address labor shortages
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5692
-- slug: 2026-10-30-recyclers-turn-to-retired-wind-turbines-for-rare-earths
-  headline: Recyclers turn to retired wind turbines for rare earths
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5645
-- slug: 2026-10-21-karachi-garment-workers-describe-fainting-and-lost-wages-amid-extreme-heat
-  headline: Karachi garment workers describe fainting and lost wages amid extreme heat
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.611
-- slug: 2026-10-26-u-s-manufacturers-add-jobs-with-higher-skill-requirements
-  headline: U.S. manufacturers add jobs with higher skill requirements
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5682
-- slug: 2026-10-26-totomboti-teaches-woodcraft-as-mining-and-logging-strain-suriname-s-forest
-  headline: Totomboti teaches woodcraft as mining and logging strain Suriname's forest
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5641
-- slug: 2026-10-13-misfit-food-market-grows-but-quality-perceptions-still-hold-shoppers-back-study-
-  headline: Misfit food market grows, but quality perceptions still hold shoppers back, study finds
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5651
-- slug: 2026-09-09-retailers-tighten-return-policies-as-shoppers-face-new-fees-and-shorter-windows
-  headline: Retailers tighten return policies as shoppers face new fees and shorter windows
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.574
-- slug: 2026-07-27-waste-picker-earns-12-a-day-at-indonesia-s-largest-landfill
-  headline: Waste picker earns $12 a day at Indonesia's largest landfill
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6045
-- slug: 2026-06-25-extreme-heat-endangers-indian-textile-workers-in-surat
-  headline: Extreme heat endangers Indian textile workers in Surat
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6343
-- slug: 2026-08-11-mamdani-backs-nyc-bill-forcing-amazon-fedex-to-hire-couriers
-  headline: Mamdani backs NYC bill forcing Amazon, FedEx to hire couriers
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5669
-- slug: 2026-08-10-clothing-brands-add-repairs-sewing-workshops-to-woo-gen-z
-  headline: Clothing brands add repairs, sewing workshops to woo Gen Z
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5656
-- slug: 2026-04-24-sweden-s-secondhand-clothing-swaps-aim-to-cut-environmental-waste
-  headline: Sweden’s secondhand clothing swaps aim to cut environmental waste
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6389
-- slug: 2026-06-18-textile-factory-heat-in-surat-poses-dangers-for-workers
-  headline: Textile factory heat in Surat poses dangers for workers
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5776
-- slug: 2026-06-05-weight-loss-drugs-drive-surge-in-clothing-returns-as-shoppers-size-down
-  headline: Weight-loss drugs drive surge in clothing returns as shoppers size down
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5839
-- slug: 2026-02-26-refill-stores-and-other-options-aim-to-cut-packaging-waste
-  headline: Refill stores and other options aim to cut packaging waste
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5939
-- slug: 2026-04-03-chinese-company-uses-ai-machine-to-sort-clothes-for-recycling
-  headline: Chinese company uses AI machine to sort clothes for recycling
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.5853
-- slug: 2026-03-27-what-to-do-with-old-laptops-iphones-and-other-unused-electronics
-  headline: What to do with old laptops, iPhones and other unused electronics
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5847
-- slug: 2026-04-07-custom-fit-demand-rises-but-fewer-tailors-are-left-to-do-the-work
-  headline: Custom-fit demand rises, but fewer tailors are left to do the work
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5768
-- slug: 2026-06-01-uk-waste-companies-propose-5-vape-deposit-to-curb-bin-fires-a-year-after-disposa
-  headline: UK waste companies propose £5 vape deposit to curb bin fires a year after disposal ban
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5572
-- slug: 2026-02-18-montana-companies-prove-u-s--made-hemp-shirts-can-move-through-supply-chains
-  headline: Montana companies prove U.S.-made hemp shirts can move through supply chains
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.5823
+related_stories: []
 ---
-
 ## One worker a day loses a limb at India's textile recycling hub, activist says
 
 **Subtype:** fact
