@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-02-08'
   relation: related
   strength: 0.6563
+analyses:
+- '2026-11-04-ministry-honed-practice-not-explicit-scripture-carries-the-documented-edge-in-de'
 ---
 ## Democratic candidates used religious language and listening to reach voters
 
@@ -236,3 +238,8 @@ In DeRose's account, Talarico's approach centered on scripture and messages abou
 **Publication date:** 2026-11-04
 **Title:** How religion helped Democrats win control of Congress
 **URL:** https://www.npr.org/2026/11/04/nx-s1-6029108/how-religion-helped-democrats-win-control-of-congress
+
+---
+
+<!-- analysis-link:2026-11-04-ministry-honed-practice-not-explicit-scripture-carries-the-documented-edge-in-de -->
+**Going deeper:** [Read MSI's analysis of religion's electoral role in 2026 →](/analyses/2026-11-04-ministry-honed-practice-not-explicit-scripture-carries-the-documented-edge-in-de)
