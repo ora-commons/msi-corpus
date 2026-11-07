@@ -211,6 +211,8 @@ related_stories:
   publish_date: '2026-11-05'
   relation: related
   strength: 0.7166
+analyses:
+- '2026-11-06-three-converging-shocks-reprice-the-u-s--israel-alliance-into-a-contest-over-ter'
 ---
 ## Midterm election results and Trump's aid cutoff test the U.S.-Israel alliance
 
@@ -257,3 +259,8 @@ Whoever emerges as Israel's next leader will confront an incoming Congress and a
 **Publication date:** 2026-11-06
 **Title:** Israel’s Most Important Alliance Is Confronting Its Biggest Test in Decades
 **URL:** https://www.wsj.com/world/middle-east/israels-most-important-alliance-is-confronting-its-biggest-test-in-decades-a7c019ae
+
+---
+
+<!-- analysis-link:2026-11-06-three-converging-shocks-reprice-the-u-s--israel-alliance-into-a-contest-over-ter -->
+**Going deeper:** [Read MSI's analysis of the U.S.-Israel alliance repricing →](/analyses/2026-11-06-three-converging-shocks-reprice-the-u-s--israel-alliance-into-a-contest-over-ter)
