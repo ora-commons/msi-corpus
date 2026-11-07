@@ -55,7 +55,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -218,3 +218,10 @@ Cliffton said Zipline's work remained far from over. “We now have these giant 
 **Publication date:** 2026-11-05
 **Title:** Zipline Reaches $21.5 Billion Valuation as Drone Delivery Gains Traction
 **URL:** https://www.wsj.com/business/drone-startup-zipline-raises-1-5-billion-at-21-5-billion-valuation-1d166eec
+
+### src_late_794f64c82eebd93a — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Mark R. Long
+**Publication date:** 2026-11-06
+**Title:** Zipline Valuation Soars as Drone Startup Raises Funds, Expands Walmart Deal
+**URL:** https://www.wsj.com/logistics-report/zipline-valuation-soars-as-drone-startup-raises-funds-expands-walmart-deal-48676792
+**Added after publication:** true
