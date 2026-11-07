@@ -1,9 +1,18 @@
 ---
 headline: Newsom commutes more than 500 California death sentences
-secondary_headline: Largest death row clearing in modern US history forecloses future executions
+secondary_headline: Largest death row clearing in modern US history forecloses future
+  executions
 publish_date: '2026-11-05'
-lede: California Governor Gavin Newsom on Thursday commuted the death sentences of more than 500 people on the state's death row, converting all of the state's death sentences to life in prison without the possibility of parole. The mass commutation, issued at the end of his term, is the largest clearing of any US death row in modern history and ensures none of the affected prisoners can ever be executed under a future administration.
-nut_graf: The commutations remove any possibility of execution for more than 500 people in the state with the nation's largest death row, regardless of who holds the governor's office next. The action lands amid renewed national debate over capital punishment following a failed execution in Tennessee.
+lede: California Governor Gavin Newsom on Thursday commuted the death sentences of
+  more than 500 people on the state's death row, converting all of the state's death
+  sentences to life in prison without the possibility of parole. The mass commutation,
+  issued at the end of his term, is the largest clearing of any US death row in modern
+  history and ensures none of the affected prisoners can ever be executed under a
+  future administration.
+nut_graf: The commutations remove any possibility of execution for more than 500 people
+  in the state with the nation's largest death row, regardless of who holds the governor's
+  office next. The action lands amid renewed national debate over capital punishment
+  following a failed execution in Tennessee.
 primary_entities:
 - Gavin Newsom
 - California
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,47 +152,18 @@ related_stories:
   headline: Newsom commutes all 548 California death sentences to life without parole
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.9241
-- slug: 2026-10-20-kay-ivey-commutes-toforest-johnson-s-death-sentence-to-life-without-parole
-  headline: Kay Ivey commutes Toforest Johnson's death sentence to life without parole
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.638
+  strength: 0.9242
 - slug: 2026-10-11-christa-pike-survives-lethal-injection-as-us-executions-hit-a-16-year-high
-  headline: Christa Pike survives lethal injection as US executions hit a 16-year high
+  headline: Christa Pike survives lethal injection as US executions hit a 16-year
+    high
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.651
-- slug: 2026-10-07-california-parole-board-grants-patricia-krenwinkel-release-for-third-time
-  headline: California parole board grants Patricia Krenwinkel release for third time
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6464
-- slug: 2026-10-01-newsom-signs-california-laws-curbing-ai-in-workplace-decisions
-  headline: Newsom signs California laws curbing AI in workplace decisions
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6348
-- slug: 2026-09-18-newsom-orders-two-month-california-review-of-ai-oversight
-  headline: Newsom orders two-month California review of AI oversight
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6475
-- slug: 2026-09-20-california-governor-signs-election-security-bills-making-ballot-seizure-a-felony
-  headline: California governor signs election security bills making ballot seizure a felony
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6282
-- slug: 2026-09-06-newsom-campaigns-in-south-carolina-california-called-his-biggest-liability
-  headline: Newsom campaigns in South Carolina; California called his biggest liability
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6372
+  strength: 0.6529
 - slug: 2026-06-01-california-voters-head-to-polls-in-high-stakes-governor-primary
   headline: California voters head to polls in high-stakes governor primary
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.6741
+  strength: 0.6739
 - slug: 2026-05-15-newsom-s-final-350b-california-budget-avoids-deficit-adds-software-tax
   headline: Newsom's Final $350B California Budget Avoids Deficit, Adds Software Tax
   publish_date: '2026-05-15'
@@ -192,54 +173,24 @@ related_stories:
   headline: Newsom threatens California counties over CARE Court rollout gaps
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.6748
+  strength: 0.6751
 - slug: 2026-05-15-california-gov-gavin-newsom-unveils-350b-revised-budget-without-deficit
   headline: California Gov. Gavin Newsom unveils $350B revised budget without deficit
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6571
+  strength: 0.6577
 - slug: 2026-05-16-colorado-governor-commutes-tina-peters-sentence-after-trump-pressure
   headline: Colorado governor commutes Tina Peters’ sentence after Trump pressure
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6561
+  strength: 0.6557
 - slug: 2026-03-10-alabama-governor-commutes-death-sentence-of-man-who-didn-t-fire-fatal-shot
-  headline: Alabama governor commutes death sentence of man who didn't fire fatal shot
+  headline: Alabama governor commutes death sentence of man who didn't fire fatal
+    shot
   publish_date: '2026-03-10'
   relation: related
-  strength: 0.6673
-- slug: 2026-03-10-alabama-governor-commutes-death-row-man-s-sentence-citing-disparity-with-trigger
-  headline: Alabama governor commutes death row man's sentence, citing disparity with triggerman
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6555
-- slug: 2026-01-08-newsom-proposes-shifting-california-k-12-oversight-from-elected-school-chief-to-
-  headline: Newsom proposes shifting California K-12 oversight from elected school chief to appointed board
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6539
-- slug: 2026-05-22-colorado-democrats-censure-gov-jared-polis-over-tina-peters-commutation
-  headline: Colorado Democrats censure Gov. Jared Polis over Tina Peters commutation
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6291
-- slug: 2026-01-05-newsom-enters-final-year-as-california-governor-with-key-promises-unmet
-  headline: Newsom enters final year as California governor with key promises unmet
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.651
-- slug: 2026-01-08-newsom-touts-california-as-blueprint-for-the-nation-in-final-state-speech
-  headline: Newsom touts California as blueprint for the nation in final State speech
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6502
-- slug: 2026-01-14-california-parole-grant-rate-falls-below-25-as-hearing-opportunities-expand
-  headline: California parole grant rate falls below 25% as hearing opportunities expand
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6486
+  strength: 0.6687
 ---
-
 ## Newsom commutes more than 500 California death sentences
 
 **Subtype:** fact

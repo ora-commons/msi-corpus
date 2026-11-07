@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-07-16'
   relation: related
   strength: 0.7043
+analyses:
+- '2026-11-05-south-korea-s-cheonghae-expansion-manages-hormuz-chokepoint-exposure-not-the-dep'
 ---
 ## South Korea plans expanded Cheonghae patrol near Strait of Hormuz
 
@@ -232,3 +234,8 @@ The expansion still requires approval from parliament, President Lee and the cab
 **Publication date:** 2026-11-05
 **Title:** South Korea says it will expand naval operations closer to strait of Hormuz
 **URL:** https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz
+
+---
+
+<!-- analysis-link:2026-11-05-south-korea-s-cheonghae-expansion-manages-hormuz-chokepoint-exposure-not-the-dep -->
+**Going deeper:** [Read MSI's analysis of South Korea's Cheonghae patrol expansion →](/analyses/2026-11-05-south-korea-s-cheonghae-expansion-manages-hormuz-chokepoint-exposure-not-the-dep)
