@@ -1,9 +1,22 @@
 ---
 headline: Melania Trump hosts Russian and Ukrainian officials to mark Oleshky ceasefire
-secondary_headline: Envoys honor first lady with state awards as strikes continue across Ukraine
+secondary_headline: Envoys honor first lady with state awards as strikes continue
+  across Ukraine
 publish_date: '2026-11-05'
-lede: First lady Melania Trump welcomed senior Russian and Ukrainian officials to the White House on Thursday to celebrate a limited ceasefire in Oleshky, a frontline Ukrainian town occupied by Russia, in one of the highest-level gatherings of the two countries' representatives in recent months. The event came a day after a Russian strike described as a double-tap bombing killed 40 people in the Ukrainian city of Zaporizhzhia, and as Russian missiles and drones continue to hit Kyiv and other major cities.
-nut_graf: The gathering put the first lady, who has taken no previous part in high-level Russia-Ukraine negotiations, at the center of a diplomatic stage at a fraught moment for the administration's Ukraine policy. It followed a bitter public feud between President Trump and Volodymyr Zelenskyy, weeks of cut US intelligence sharing and satellite internet access to Ukraine, and midterm results that left Democrats promising to investigate senior Trump aides who pitched Russia on business deals tied to ending the war.
+lede: First lady Melania Trump welcomed senior Russian and Ukrainian officials to
+  the White House on Thursday to celebrate a limited ceasefire in Oleshky, a frontline
+  Ukrainian town occupied by Russia, in one of the highest-level gatherings of the
+  two countries' representatives in recent months. The event came a day after a Russian
+  strike described as a double-tap bombing killed 40 people in the Ukrainian city
+  of Zaporizhzhia, and as Russian missiles and drones continue to hit Kyiv and other
+  major cities.
+nut_graf: The gathering put the first lady, who has taken no previous part in high-level
+  Russia-Ukraine negotiations, at the center of a diplomatic stage at a fraught moment
+  for the administration's Ukraine policy. It followed a bitter public feud between
+  President Trump and Volodymyr Zelenskyy, weeks of cut US intelligence sharing and
+  satellite internet access to Ukraine, and midterm results that left Democrats promising
+  to investigate senior Trump aides who pitched Russia on business deals tied to ending
+  the war.
 primary_entities:
 - Melania Trump
 - White House
@@ -47,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,113 +163,57 @@ related_stories:
   headline: Kirill Dmitriev joins White House ceremony for Oleshky ceasefire
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8874
+  strength: 0.8867
 - slug: 2026-11-04-melania-trump-receives-order-of-princess-olha-after-oleshky-ceasefire
   headline: Melania Trump receives Order of Princess Olha after Oleshky ceasefire
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8633
+  strength: 0.8634
 - slug: 2026-10-27-oleshky-ceasefire-starts-ahead-of-aid-mission-brokered-by-melania-trump
   headline: Oleshky ceasefire starts ahead of aid mission brokered by Melania Trump
   publish_date: '2026-10-27'
   relation: related
   strength: 0.8393
 - slug: 2026-11-05-kherson-source-disputes-credit-for-oleshky-ceasefire-citing-a-year-of-groundwork
-  headline: Kherson source disputes credit for Oleshky ceasefire, citing a year of groundwork
+  headline: Kherson source disputes credit for Oleshky ceasefire, citing a year of
+    groundwork
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7661
+  strength: 0.7656
 - slug: 2026-10-23-russia-and-ukraine-agree-to-localized-oleshky-ceasefire
   headline: Russia and Ukraine agree to localized Oleshky ceasefire
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.824
+  strength: 0.8235
 - slug: 2026-10-23-russia-and-ukraine-agree-to-ceasefire-in-occupied-oleshky
   headline: Russia and Ukraine agree to ceasefire in occupied Oleshky
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8238
+  strength: 0.8235
 - slug: 2026-10-23-lubinets-says-oleshky-ceasefire-to-start-tuesday-last-several-days
   headline: Lubinets says Oleshky ceasefire to start Tuesday, last several days
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8014
+  strength: 0.8006
 - slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
   headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7881
-- slug: 2026-10-27-oleshky-aid-plan-requires-russian-mine-clearance-before-evacuation-buses-arrive
-  headline: Oleshky aid plan requires Russian mine clearance before evacuation buses arrive
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.754
-- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
-  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7162
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.718
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7282
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.723
-- slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
-  headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7121
-- slug: 2026-10-11-trump-claims-russia-ukraine-energy-ceasefire-as-kyiv-awaits-details
-  headline: Trump claims Russia-Ukraine 'energy ceasefire' as Kyiv awaits details
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7111
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7268
-- slug: 2026-09-20-zelensky-trump-to-meet-in-new-york-amid-renewed-ukraine-peace-push
-  headline: Zelensky, Trump to meet in New York amid renewed Ukraine peace push
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.733
-- slug: 2026-09-21-trump-to-press-zelenskyy-on-energy-ceasefire-as-diesel-prices-soar
-  headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7086
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7086
-- slug: 2026-08-01-trump-and-zelenskyy-relations-thaw-as-ukraine-offers-help-in-iran-war
-  headline: Trump and Zelenskyy relations thaw as Ukraine offers help in Iran war
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.735
+  strength: 0.7879
 image:
   url: /articles/2026-11-05-melania-trump-hosts-russian-and-ukrainian-officials-to-mark-oleshky-ceasefire.png
-  alt: "Illustration accompanying article: Melania Trump hosts Russian and Ukrainian officials to mark Oleshky ceasefire"
+  alt: 'Illustration accompanying article: Melania Trump hosts Russian and Ukrainian
+    officials to mark Oleshky ceasefire'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Melania Trump hosts Russian and Ukrainian officials to mark Oleshky ceasefire
 
 **Subtype:** fact

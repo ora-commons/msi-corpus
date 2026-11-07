@@ -1,7 +1,10 @@
 ---
 headline: The Weather Theory of Inflation Lost the Election
 publish_date: '2026-11-05'
-lede: About two-thirds of this week's midterm voters told [the Associated Press Voter Poll](https://apnews.com/article/economy-trump-midterms-inflation-ai-wealthy-healthcare-f8dbe8800549340c8a75d956302c126b) — a survey of more than 100,000 registered voters across all 50 states, so this is not a mood — that Donald Trump's policies fueled inflation.
+lede: About two-thirds of this week's midterm voters told [the Associated Press Voter
+  Poll](https://apnews.com/article/economy-trump-midterms-inflation-ai-wealthy-healthcare-f8dbe8800549340c8a75d956302c126b)
+  — a survey of more than 100,000 registered voters across all 50 states, so this
+  is not a mood — that Donald Trump's policies fueled inflation.
 pen_name: carla-marks
 primary_entities:
 - Donald Trump
@@ -44,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,7 +69,28 @@ cross_article_links:
   strength: 0.7575
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-weather-theory-of-inflation-lost-the-election.png
+  alt: 'Editorial cartoon by Hector Rentier: The Weather Theory of Inflation Lost
+    the Election'
+  caption: He called the inflation inherited. The signature on the bill says otherwise.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-06T22:51:54-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving, pure black masses
+    balanced against carved-out whites, figure-ground separated by outline weight.
+    Upper half: a manufactured storm — cloud masses fe'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-05-hector-paired-with-2026-11-05-carla-marks-economy-trump-midterms-inflation-ai-weal
 ---
+
+![Editorial cartoon by Hector Rentier: The Weather Theory of Inflation Lost the Election](/cartoons/the-weather-theory-of-inflation-lost-the-election.png)
+*He called the inflation inherited. The signature on the bill says otherwise.*
 
 About two-thirds of this week's midterm voters told [the Associated Press Voter Poll](https://apnews.com/article/economy-trump-midterms-inflation-ai-wealthy-healthcare-f8dbe8800549340c8a75d956302c126b) — a survey of more than 100,000 registered voters across all 50 states, so this is not a mood — that Donald Trump's policies fueled inflation. Sit with that number, because it's bigger than one president. For the entire modern argument about American economic life, the bedrock claim has been that prices are weather: inflation arrives like a cold front, punishes whoever happens to hold the office, and nobody could have done anything about it anyway. Two-thirds of the electorate declined the premise, in the one language politicians never discount. The economy is a set of choices, not the weather. They voted like it.
 

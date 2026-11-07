@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -37,7 +38,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-is-robbing-rural-families-with-his-iran-war.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Is Robbing Rural Families With
+    His Iran War'
+  caption: The flag stays up front. The bills go to the kitchen table.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-06T22:48:07-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving in the Nast tradition.
+    Center: a small carnival shell-game table on trestle legs, felt top, placard reading
+    NATIONAL INTEREST. Behind it stands the '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-05-hector-paired-with-2026-11-05-mark-paulson-prices-rise-as-investors-weigh-u-s-midte
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Is Robbing Rural Families With His Iran War](/cartoons/trump-is-robbing-rural-families-with-his-iran-war.png)
+*The flag stays up front. The bills go to the kitchen table.*
 
 Donald Trump is robbing rural families with his Iran war.
 

@@ -1,7 +1,8 @@
 ---
 headline: An Autopsy That Spares the Knife
 publish_date: '2026-11-06'
-lede: Kimberley Strassel pins the wipeout on Trump's name to spare the agenda that caused it.
+lede: Kimberley Strassel pins the wipeout on Trump's name to spare the agenda that
+  caused it.
 pen_name: phukher-tarlson
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: phukher-tarlson-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/an-autopsy-that-spares-the-knife.png
+  alt: 'Editorial cartoon by Hector Rentier: An Autopsy That Spares the Knife'
+  caption: The postmortem blamed the tower. The inventory never left the shelf.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-06T23:02:16-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single panel, 1:1, heavy cross-hatch wood-engraving, pure black masses
+    against carved-out whites. Interior of a coroner's autopsy theater arranged like
+    a showroom. At center, a fully individuated edit
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-06-hector-paired-with-2026-11-06-phukher-an-autopsy-that-spares-the-knife
 ---
+
+![Editorial cartoon by Hector Rentier: An Autopsy That Spares the Knife](/cartoons/an-autopsy-that-spares-the-knife.png)
+*The postmortem blamed the tower. The inventory never left the shelf.*
 
 Kimberley Strassel pins the wipeout on Trump's name to spare the agenda that caused it. That is the operation inside "Trump's Republican Carnage," her *Wall Street Journal* opinion piece of November 5, 2026, published days after an election that, on the piece's own accounting, took the Senate, the House, at least five governorships, and twelve state legislative chambers from her party. It is the loss autopsy in its mature form: assign the defeat to a man, assign the win to an enemy, and never once let the product stand for the verdict the voters just returned on it. The piece runs at least six distinct techniques across its nine paragraphs, and every one of those paragraphs performs the same double move: hang the wreckage on one man, wave the program past the wreckage. What follows is the piece quoted as it appears, section by section, with the machinery named — excerpt first, then what the excerpt is built to do. I built versions of this column for twenty years. I know the grammar, because I helped write it. I know where the load-bearing sentences sit, because I have sat them at load-bearing positions.
 

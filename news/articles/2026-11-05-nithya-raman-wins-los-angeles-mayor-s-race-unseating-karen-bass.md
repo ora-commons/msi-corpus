@@ -1,9 +1,19 @@
 ---
 headline: Nithya Raman wins Los Angeles mayor's race, unseating Karen Bass
-secondary_headline: Democratic socialists set to run two largest cities and the nation's capital
+secondary_headline: Democratic socialists set to run two largest cities and the nation's
+  capital
 publish_date: '2026-11-05'
-lede: Los Angeles voters elected city council member Nithya Raman, a member of the Democratic Socialists of America, as mayor on Tuesday, unseating incumbent Karen Bass in a race the Associated Press called, The Wall Street Journal reported. Bass, a longtime Democratic politician, issued a concession statement congratulating Raman after a race in which her popularity fell following the 2025 wildfires that destroyed parts of the city, the Journal reported.
-nut_graf: With Raman's victory, democratic-socialist mayors are set to run the two largest U.S. cities and the nation's capital, according to the Journal, following what the newspaper described as a blue wave that swept the country on Tuesday. The result unseats an incumbent whose popularity, the Journal reported, fell following the 2025 wildfires that destroyed parts of the city.
+lede: Los Angeles voters elected city council member Nithya Raman, a member of the
+  Democratic Socialists of America, as mayor on Tuesday, unseating incumbent Karen
+  Bass in a race the Associated Press called, The Wall Street Journal reported. Bass,
+  a longtime Democratic politician, issued a concession statement congratulating Raman
+  after a race in which her popularity fell following the 2025 wildfires that destroyed
+  parts of the city, the Journal reported.
+nut_graf: With Raman's victory, democratic-socialist mayors are set to run the two
+  largest U.S. cities and the nation's capital, according to the Journal, following
+  what the newspaper described as a blue wave that swept the country on Tuesday. The
+  result unseats an incumbent whose popularity, the Journal reported, fell following
+  the 2025 wildfires that destroyed parts of the city.
 primary_entities:
 - Nithya Raman
 - Karen Bass
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,6 +150,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-05-nithya-raman-unseats-los-angeles-mayor-karen-bass-in-an-election-upset
+  headline: Nithya Raman unseats Los Angeles Mayor Karen Bass in an election upset
+  publish_date: '2026-11-05'
+  relation: related
+  strength: 0.8811
 - slug: 2026-11-05-nithya-raman-defeats-los-angeles-mayor-karen-bass-in-narrow-mayoral-upset
   headline: Nithya Raman defeats Los Angeles Mayor Karen Bass in narrow mayoral upset
   publish_date: '2026-11-05'
@@ -154,31 +170,6 @@ related_stories:
   publish_date: '2026-10-05'
   relation: related
   strength: 0.8226
-- slug: 2026-11-04-el-sayed-and-pappas-make-history-as-haaland-wins-new-mexico-governorship
-  headline: El-Sayed and Pappas make history as Haaland wins New Mexico governorship
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6314
-- slug: 2026-11-05-tight-midterm-races-remain-uncalled-as-democrats-take-control-of-congress
-  headline: Tight midterm races remain uncalled as Democrats take control of Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6129
-- slug: 2026-11-05-democrats-sweep-southern-elections-overturning-decades-of-gop-dominance
-  headline: Democrats sweep Southern elections, overturning decades of GOP dominance
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6113
-- slug: 2026-11-05-voters-approve-data-center-moratoria-and-reproductive-rights-protections
-  headline: Voters approve data-center moratoria and reproductive-rights protections
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6091
-- slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
-  headline: Democrats win Congress and a majority of governorships on affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.607
 - slug: 2026-06-03-karen-bass-advances-to-la-mayoral-runoff-after-falling-short-of-majority
   headline: Karen Bass advances to LA mayoral runoff after falling short of majority
   publish_date: '2026-06-03'
@@ -199,48 +190,7 @@ related_stories:
   publish_date: '2026-06-13'
   relation: related
   strength: 0.7194
-- slug: 2026-06-08-spencer-pratt-s-l-a-mayor-hopes-fade-as-he-slips-into-third-place
-  headline: Spencer Pratt’s L.A. mayor hopes fade as he slips into third place
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7097
-- slug: 2026-05-29-la-mayor-karen-bass-touts-record-in-reelection-bid-after-wildfires-homelessness-
-  headline: LA Mayor Karen Bass touts record in reelection bid after wildfires, homelessness peril
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6965
-- slug: 2026-06-24-leftist-wave-hits-democratic-primaries-dsa-backed-candidates-win-big
-  headline: Leftist wave hits Democratic primaries, DSA-backed candidates win big
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6286
-- slug: 2026-05-14-spencer-pratt-s-viral-campaign-shakes-up-los-angeles-mayoral-race
-  headline: Spencer Pratt's viral campaign shakes up Los Angeles mayoral race
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6438
-- slug: 2026-06-27-far-left-gains-in-new-york-primaries-deepen-democratic-civil-war
-  headline: Far-left gains in New York primaries deepen Democratic civil war
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6069
-- slug: 2026-06-01-california-governor-and-los-angeles-mayor-races-remain-wide-open-ahead-of-primar
-  headline: California governor and Los Angeles mayor races remain wide open ahead of primary
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6233
-- slug: 2026-05-08-major-federal-drug-raid-in-los-angeles-spotlights-public-safety-concerns
-  headline: Major federal drug raid in Los Angeles spotlights public safety concerns
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6319
-- slug: 2026-06-25-socialist-candidates-sweep-new-york-primaries-as-uk-labour-tilts-left
-  headline: Socialist candidates sweep New York primaries as UK Labour tilts left
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6039
 ---
-
 ## Nithya Raman wins Los Angeles mayor's race, unseating Karen Bass
 
 **Subtype:** fact
