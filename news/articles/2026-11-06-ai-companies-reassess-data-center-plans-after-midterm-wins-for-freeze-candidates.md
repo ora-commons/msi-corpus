@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-10-22'
   relation: related
   strength: 0.7388
+analyses:
+- '2026-11-06-the-approval-channel-bends-a-structural-reading-of-the-ai-build-out-after-the-20'
 ---
 ## AI companies reassess data-center plans after midterm wins for freeze candidates
 
@@ -244,3 +246,8 @@ Anthropic said it is pursuing projects in several "non-U.S. jurisdictions" as pa
 **Publication date:** 2026-11-06
 **Title:** AI Companies Scramble to Navigate a World Hostile to Data Centers
 **URL:** https://www.wsj.com/tech/ai/ai-companies-scramble-to-navigate-a-world-hostile-to-data-centers-c6023a14
+
+---
+
+<!-- analysis-link:2026-11-06-the-approval-channel-bends-a-structural-reading-of-the-ai-build-out-after-the-20 -->
+**Going deeper:** [Read MSI's analysis of AI data-center siting after 2026 midterms →](/analyses/2026-11-06-the-approval-channel-bends-a-structural-reading-of-the-ai-build-out-after-the-20)

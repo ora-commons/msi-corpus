@@ -1,9 +1,21 @@
 ---
-headline: Eva Geller, Holocaust survivor wounded in Sydney Hanukkah massacre, dies at 90
-secondary_headline: Naveed Akram faces 15 murder counts as coroner investigates survivor's death
+headline: Eva Geller, Holocaust survivor wounded in Sydney Hanukkah massacre, dies
+  at 90
+secondary_headline: Naveed Akram faces 15 murder counts as coroner investigates survivor's
+  death
 publish_date: '2026-11-06'
-lede: Eva Geller, a 90-year-old Holocaust survivor who was wounded in the massacre of 15 people at a Sydney Hanukkah celebration, died Thursday night in a Sydney hospital, officials said Friday. Executive Council of Australian Jewry director Evan Zlatkis announced the death of the Romanian-born Geller, who was shot when two gunmen allegedly inspired by the Islamic State group opened fire on a crowd at Bondi Beach on Dec. 14.
-nut_graf: The death comes almost a year after the Dec. 14 attack at Bondi Beach killed 15 victims aged 10 to 87 and wounded around 40 others, and as the surviving alleged gunman, Naveed Akram, faces 15 counts of murder, 43 counts of attempted murder and one count of committing a terrorist act. Police said a state coroner will investigate the circumstances of Geller's death, and it was not yet clear whether her death would change the charges Akram faces.
+lede: Eva Geller, a 90-year-old Holocaust survivor who was wounded in the massacre
+  of 15 people at a Sydney Hanukkah celebration, died Thursday night in a Sydney hospital,
+  officials said Friday. Executive Council of Australian Jewry director Evan Zlatkis
+  announced the death of the Romanian-born Geller, who was shot when two gunmen allegedly
+  inspired by the Islamic State group opened fire on a crowd at Bondi Beach on Dec.
+  14.
+nut_graf: The death comes almost a year after the Dec. 14 attack at Bondi Beach killed
+  15 victims aged 10 to 87 and wounded around 40 others, and as the surviving alleged
+  gunman, Naveed Akram, faces 15 counts of murder, 43 counts of attempted murder and
+  one count of committing a terrorist act. Police said a state coroner will investigate
+  the circumstances of Geller's death, and it was not yet clear whether her death
+  would change the charges Akram faces.
 primary_entities:
 - Eva Geller
 - Naveed Akram
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +158,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-mohamed-soliman-to-change-federal-hate-crime-plea-in-boulder-firebombing
-  headline: Mohamed Soliman to change federal hate crime plea in Boulder firebombing
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5435
-- slug: 2026-10-21-israeli-court-places-four-abu-falah-attack-suspects-under-house-arrest
-  headline: Israeli court places four Abu Falah attack suspects under house arrest
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5448
-- slug: 2026-10-06-israeli-ambassador-in-australia-seeks-reset-ahead-of-october-7-anniversary
-  headline: Israeli ambassador in Australia seeks 'reset' ahead of October 7 anniversary
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5714
-- slug: 2026-10-07-israel-marks-third-anniversary-of-october-7-attacks-at-memorial-sites
-  headline: Israel marks third anniversary of October 7 attacks at memorial sites
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5416
-- slug: 2026-09-24-belleville-synagogue-shooting-was-hate-motivated-police-say
-  headline: Belleville synagogue shooting was hate-motivated, police say
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5411
 - slug: 2026-02-17-bondi-beach-shooting-suspect-naveed-akram-appears-in-court-via-video
   headline: Bondi Beach shooting suspect Naveed Akram appears in court via video
   publish_date: '2026-02-17'
   relation: related
-  strength: 0.7089
-- slug: 2026-09-11-9-11-families-chair-demands-saudi-accountability-at-25th-anniversary-memorial
-  headline: 9/11 Families chair demands Saudi accountability at 25th anniversary memorial
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5453
-- slug: 2026-09-04-four-lawmakers-seek-dhs-records-in-shah-alam-death-inquiry
-  headline: Four lawmakers seek DHS records in Shah Alam death inquiry
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5321
-- slug: 2026-07-07-youtube-defends-video-falsely-calling-sydney-massacre-survivor-crisis-actor
-  headline: YouTube defends video falsely calling Sydney massacre survivor 'crisis actor'
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5881
-- slug: 2026-07-28-seattle-mourns-three-killed-at-food-festival-shooting
-  headline: Seattle mourns three killed at food festival shooting
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.542
-- slug: 2026-02-07-israeli-president-isaac-herzog-begins-australia-visit-amid-gaza-linked-tensions
-  headline: Israeli President Isaac Herzog begins Australia visit amid Gaza-linked tensions
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.582
-- slug: 2026-05-22-teen-flagged-in-mosque-shooting-court-records-show-prior-gun-confiscation
-  headline: Teen flagged in mosque shooting; court records show prior gun confiscation
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5448
-- slug: 2026-05-21-deaths-at-michigan-women-s-prison-renew-concerns-over-medical-care
-  headline: Deaths at Michigan women’s prison renew concerns over medical care
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5446
-- slug: 2026-03-13-naturalized-citizen-from-lebanon-identified-after-synagogue-vehicle-attack
-  headline: Naturalized citizen from Lebanon identified after synagogue vehicle attack
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.5547
-- slug: 2026-03-23-israeli-settlers-attack-west-bank-villages-as-gaza-strikes-kill-4
-  headline: Israeli settlers attack West Bank villages as Gaza strikes kill 4
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.5527
-- slug: 2026-05-16-israeli-strike-kills-hamas-military-wing-leader-in-gaza-six-family-members-also-
-  headline: Israeli strike kills Hamas military wing leader in Gaza; six family members also dead
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5335
-- slug: 2026-05-04-israeli-raid-in-nablus-kills-1-palestinian-wounds-four
-  headline: Israeli raid in Nablus kills 1 Palestinian, wounds four
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.5358
-- slug: 2026-03-15-attacks-at-old-dominion-and-a-michigan-synagogue-unfold-less-than-2-hours-apart
-  headline: Attacks at Old Dominion and a Michigan synagogue unfold less than 2 hours apart
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5458
-- slug: 2026-03-13-synagogue-ambush-heightens-fear-for-houses-of-worship-worldwide
-  headline: Synagogue ambush heightens fear for houses of worship worldwide
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.5401
-- slug: 2026-03-05-israeli-family-clings-to-faith-after-children-die-in-missile-attack
-  headline: Israeli family clings to faith after children die in missile attack
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5404
+  strength: 0.7087
 ---
-
 ## Eva Geller, Holocaust survivor wounded in Sydney Hanukkah massacre, dies at 90
 
 **Subtype:** fact

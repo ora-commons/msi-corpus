@@ -2,8 +2,15 @@
 headline: Brent crude tops $100 as Saudi alert keeps Middle East supply risks in focus
 secondary_headline: WTI gains 1.6% to $92 as rebound follows steeper midweek selloff
 publish_date: '2026-11-06'
-lede: Oil prices rose Friday, with Brent crude climbing back above $100 a barrel as traders weighed renewed security threats to Middle Eastern oil shipments following a sharp selloff earlier in the week. Front-month Brent, the global benchmark, gained 2.1% to $100.34 a barrel, while U.S. West Texas Intermediate rose 1.6% to $92.
-nut_graf: The Friday gains followed a volatile stretch in which Brent settled nearly 4% higher on Thursday after plunging more than 8% the previous session. A Civil Defense alert at the Saudi Red Sea port of Yanbu drew attention to export routes that have grown more important as producers seek alternatives to the Strait of Hormuz, where attacks on shipping have complicated the recovery in Gulf oil exports.
+lede: Oil prices rose Friday, with Brent crude climbing back above $100 a barrel as
+  traders weighed renewed security threats to Middle Eastern oil shipments following
+  a sharp selloff earlier in the week. Front-month Brent, the global benchmark, gained
+  2.1% to $100.34 a barrel, while U.S. West Texas Intermediate rose 1.6% to $92.
+nut_graf: The Friday gains followed a volatile stretch in which Brent settled nearly
+  4% higher on Thursday after plunging more than 8% the previous session. A Civil
+  Defense alert at the Saudi Red Sea port of Yanbu drew attention to export routes
+  that have grown more important as producers seek alternatives to the Strait of Hormuz,
+  where attacks on shipping have complicated the recovery in Gulf oil exports.
 primary_entities:
 - Brent crude
 - West Texas Intermediate
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -168,7 +176,8 @@ related_stories:
   relation: related
   strength: 0.8407
 - slug: 2026-10-22-brent-crude-tops-111-after-saudi-press-agency-says-drone-debris-killed-two
-  headline: Brent crude tops $111 after Saudi Press Agency says drone debris killed two
+  headline: Brent crude tops $111 after Saudi Press Agency says drone debris killed
+    two
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8299
@@ -182,68 +191,7 @@ related_stories:
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8118
-- slug: 2026-10-14-oil-prices-rise-as-saudi-aramco-attack-hormuz-tanker-strike-reported
-  headline: Oil prices rise as Saudi Aramco attack, Hormuz tanker strike reported
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8007
-- slug: 2026-10-08-brent-crude-tops-105-amid-reports-of-more-us-strikes-on-iran
-  headline: Brent crude tops $105 amid reports of more US strikes on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8205
-- slug: 2026-10-08-oil-prices-climb-on-iran-strike-talk-and-gulf-hurricane-threat
-  headline: Oil prices climb on Iran strike talk and Gulf hurricane threat
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.815
-- slug: 2026-10-01-oil-futures-rise-as-middle-east-exports-recover-to-prewar-levels
-  headline: Oil futures rise as Middle East exports recover to prewar levels
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.8299
-- slug: 2026-09-29-oil-rises-as-trump-rejects-iran-ceasefire-saudi-pipeline-resumes
-  headline: Oil rises as Trump rejects Iran ceasefire, Saudi pipeline resumes
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.8346
-- slug: 2026-09-28-brent-crude-hits-108-48-as-hormuz-conditions-stall-equities-slip
-  headline: Brent crude hits $108.48 as Hormuz conditions stall; equities slip
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.814
-- slug: 2026-09-22-oil-rises-on-hormuz-risks-as-saudi-crude-flows-rebound
-  headline: Oil rises on Hormuz risks as Saudi crude flows rebound
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.8283
-- slug: 2026-09-10-brent-rises-to-101-36-hsbc-sees-rebalancing-unlikely-before-mid-2027
-  headline: Brent rises to $101.36; HSBC sees rebalancing unlikely before mid-2027
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.8637
-- slug: 2026-09-15-oil-rises-as-saudi-pipeline-outage-and-houthi-gains-pressure-middle-east-supply
-  headline: Oil rises as Saudi pipeline outage and Houthi gains pressure Middle East supply
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8432
-- slug: 2026-09-09-brent-crude-tops-100-as-us-iran-fighting-flares-in-the-gulf
-  headline: Brent crude tops $100 as US-Iran fighting flares in the Gulf
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.8371
-- slug: 2026-09-14-oil-rises-as-saudi-pipeline-attack-and-houthi-gains-squeeze-exports
-  headline: Oil rises as Saudi pipeline attack and Houthi gains squeeze exports
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.8163
-- slug: 2026-09-14-saudi-pipeline-closure-pushes-brent-crude-above-108-lifts-us-fuel-prices
-  headline: Saudi pipeline closure pushes Brent crude above $108, lifts US fuel prices
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.8052
 ---
-
 ## Brent crude tops $100 as Saudi alert keeps Middle East supply risks in focus
 
 **Subtype:** fact
