@@ -2,8 +2,17 @@
 headline: Analysts see cost-of-living, datacentre warnings for Australia in US midterms
 secondary_headline: Oil plunges 20% as Democrats' Congress win shifts Iran war outlook
 publish_date: '2026-11-06'
-lede: Analysts said the Democrats' midterm landslide, which flipped control of the US Congress and dented the outlook for Donald Trump's final two years in office, carries warnings for Anthony Albanese's government, with voter fury over living costs and datacentres resonating in both countries. Global oil prices fell steeply after the result, with Brent crude plunging 20%.
-nut_graf: The midterm outcome matters for Canberra on two fronts. Economically, the forces that flipped Congress — fuel prices and living costs — mirror pressures analysts said are already hitting the Albanese government through the economic fallout of the Iran war. Strategically, a Democrat-controlled Congress reshapes how Australia pursues its Washington agenda on Aukus, defence funding, tariffs, AI regulation and China, with more centres of power to engage.
+lede: Analysts said the Democrats' midterm landslide, which flipped control of the
+  US Congress and dented the outlook for Donald Trump's final two years in office,
+  carries warnings for Anthony Albanese's government, with voter fury over living
+  costs and datacentres resonating in both countries. Global oil prices fell steeply
+  after the result, with Brent crude plunging 20%.
+nut_graf: The midterm outcome matters for Canberra on two fronts. Economically, the
+  forces that flipped Congress — fuel prices and living costs — mirror pressures analysts
+  said are already hitting the Albanese government through the economic fallout of
+  the Iran war. Strategically, a Democrat-controlled Congress reshapes how Australia
+  pursues its Washington agenda on Aukus, defence funding, tariffs, AI regulation
+  and China, with more centres of power to engage.
 primary_entities:
 - Anthony Albanese
 - Donald Trump
@@ -55,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,46 +164,53 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-06-analysts-see-cost-of-living-datacentre-warnings-for-australia-in-us-midterms.png
-  alt: 'Illustration accompanying article: Analysts see cost-of-living, datacentre warnings for Australia in US midterms'
+  alt: 'Illustration accompanying article: Analysts see cost-of-living, datacentre
+    warnings for Australia in US midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-04-zoe-daniel-traces-the-midterm-rout-to-fuel-costs-as-diesel-hits-record-highs
-  headline: Zoe Daniel traces the midterm rout to fuel costs as diesel hits record highs
+  headline: Zoe Daniel traces the midterm rout to fuel costs as diesel hits record
+    highs
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7422
+  strength: 0.742
 - slug: 2026-11-04-burnham-says-cost-of-living-relief-depends-on-iran-conflict-resolution
   headline: Burnham says cost-of-living relief depends on Iran conflict resolution
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7134
+  strength: 0.7136
 - slug: 2026-11-05-midterm-voters-link-trump-policies-to-inflation-as-democrats-win-majorities
   headline: Midterm voters link Trump policies to inflation as Democrats win majorities
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6977
+  strength: 0.6979
 - slug: 2026-11-04-democrats-flip-five-senate-seats-as-oil-traders-weigh-iran-policy-risk
   headline: Democrats flip five Senate seats as oil traders weigh Iran policy risk
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6951
+  strength: 0.6949
+- slug: 2026-11-04-cost-of-living-central-in-associated-press-poll-as-democrats-win-both-chambers
+  headline: Cost of living central in Associated Press poll as Democrats win both
+    chambers
+  publish_date: '2026-11-04'
+  relation: related
+  strength: 0.6935
 - slug: 2026-11-05-datacentre-investment-adds-to-australian-inflation-pressure-rba-says
   headline: Datacentre investment adds to Australian inflation pressure, RBA says
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6872
-- slug: 2026-11-04-cost-of-living-central-in-associated-press-poll-as-democrats-win-both-chambers
-  headline: Cost of living central in Associated Press poll as Democrats win both chambers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6936
+  strength: 0.6863
 - slug: 2026-11-04-iranian-officials-claim-u-s-midterm-setback-as-trump-faces-renewed-war-pressure
-  headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war pressure
+  headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war
+    pressure
   publish_date: '2026-11-04'
   relation: related
   strength: 0.6902
@@ -201,69 +218,8 @@ related_stories:
   headline: Democrats' midterm wins set up three paths to reshape U.S. foreign policy
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6784
-- slug: 2026-11-04-poll-finds-74-of-voters-say-iran-conflict-was-a-crucial-or-major-factor
-  headline: Poll finds 74% of voters say Iran conflict was a crucial or major factor
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6849
-- slug: 2026-11-04-aditya-chakrabortty-argues-class-politics-fractured-trump-s-midterm-coalition
-  headline: Aditya Chakrabortty argues class politics fractured Trump's midterm coalition
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6818
-- slug: 2026-11-05-trump-s-iran-war-likely-drove-decisive-republican-midterm-losses
-  headline: Trump's Iran war likely drove decisive Republican midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6695
-- slug: 2026-11-04-u-s-midterm-results-lift-canadian-hopes-for-tariff-relief
-  headline: U.S. midterm results lift Canadian hopes for tariff relief
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6733
-- slug: 2026-11-03-the-business-world-anticipates-change-if-democrats-win-substantially
-  headline: The business world anticipates change if Democrats win substantially
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6801
-- slug: 2026-11-04-democratic-congress-leaves-trump-foreign-policy-largely-intact
-  headline: Democratic Congress leaves Trump foreign policy largely intact
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.673
-- slug: 2026-11-04-democrats-take-both-chambers-trump-faces-three-paths-likely-less-party-control
-  headline: Democrats take both chambers; Trump faces three paths, likely less party control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6685
-- slug: 2026-11-03-cost-of-living-and-trump-s-second-term-policies-shape-2026-midterms
-  headline: Cost of living and Trump's second-term policies shape 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6747
-- slug: 2026-11-02-midterm-voters-weigh-immigration-iran-war-and-economic-pressure
-  headline: Midterm voters weigh immigration, Iran war and economic pressure
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6751
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.671
-- slug: 2026-10-31-cost-of-living-iran-war-and-ai-weigh-on-us-voters-days-before-midterms
-  headline: Cost of living, Iran war and AI weigh on US voters days before midterms
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6709
-- slug: 2026-10-28-essential-poll-finds-more-voters-cite-government-spending-than-overseas-events-f
-  headline: Essential poll finds more voters cite government spending than overseas events for rising costs
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6821
+  strength: 0.6782
 ---
-
 ## Analysts see cost-of-living, datacentre warnings for Australia in US midterms
 
 **Subtype:** fact
