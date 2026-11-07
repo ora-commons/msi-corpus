@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-09-30'
   relation: related
   strength: 0.7009
+analyses:
+- '2026-11-05-rba-names-datacentre-investment-as-inflation-contributor-with-no-forum-to-alloca'
 ---
 ## Datacentre investment adds to Australian inflation pressure, RBA says
 
@@ -246,3 +248,8 @@ Butler said Australia still needed new AI and datacentre investment, particularl
 **Publication date:** 2026-11-05
 **Title:** Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite
 **URL:** https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia
+
+---
+
+<!-- analysis-link:2026-11-05-rba-names-datacentre-investment-as-inflation-contributor-with-no-forum-to-alloca -->
+**Going deeper:** [Read MSI's analysis of Australia's datacentre inflation contest →](/analyses/2026-11-05-rba-names-datacentre-investment-as-inflation-contributor-with-no-forum-to-alloca)
