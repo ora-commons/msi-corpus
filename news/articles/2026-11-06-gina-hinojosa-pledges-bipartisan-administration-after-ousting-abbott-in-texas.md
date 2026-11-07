@@ -1,9 +1,19 @@
 ---
-headline: Gina Hinojosa pledges bipartisan administration after ousting Abbott in Texas
-secondary_headline: Hinojosa becomes Texas' first Latina governor and first Democrat elected since 1990
+headline: Gina Hinojosa pledges bipartisan administration after ousting Abbott in
+  Texas
+secondary_headline: Hinojosa becomes Texas' first Latina governor and first Democrat
+  elected since 1990
 publish_date: '2026-11-06'
-lede: Texas Gov.-elect Gina Hinojosa said Thursday she will build a bipartisan administration after her midterm upset of Republican Gov. Greg Abbott made her the first Democrat to win the office since 1990 and Texas' first Latina governor. The pledge came at her first news conference since a Democratic wave that also saw James Talarico flip a U.S. Senate seat.
-nut_graf: Hinojosa's victory shattered decades of Republican control in the nation's second-most populous state and denied Abbott a record fourth term two years after President Donald Trump carried Texas by double digits. Her agenda now moves to a divided Texas Legislature, where Republicans lost the state House in the same election but still control the Senate.
+lede: Texas Gov.-elect Gina Hinojosa said Thursday she will build a bipartisan administration
+  after her midterm upset of Republican Gov. Greg Abbott made her the first Democrat
+  to win the office since 1990 and Texas' first Latina governor. The pledge came at
+  her first news conference since a Democratic wave that also saw James Talarico flip
+  a U.S. Senate seat.
+nut_graf: Hinojosa's victory shattered decades of Republican control in the nation's
+  second-most populous state and denied Abbott a record fourth term two years after
+  President Donald Trump carried Texas by double digits. Her agenda now moves to a
+  divided Texas Legislature, where Republicans lost the state House in the same election
+  but still control the Senate.
 primary_entities:
 - Gina Hinojosa
 - Greg Abbott
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,43 @@ related_stories:
   headline: Gina Hinojosa defeats Greg Abbott in Texas governor race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8706
+  strength: 0.8708
 - slug: 2026-11-04-hinojosa-s-texas-win-followed-a-long-shot-affordability-campaign
   headline: Hinojosa's Texas win followed a long-shot affordability campaign
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.849
+  strength: 0.8492
 - slug: 2026-11-04-hinojosa-pitches-1-500-refund-amid-abbott-s-180-million-campaign-spending
   headline: Hinojosa pitches $1,500 refund amid Abbott's $180 million campaign spending
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.81
+  strength: 0.8099
 - slug: 2026-11-04-under-30-and-hispanic-texas-senate-voters-back-talarico
   headline: Under-30 and Hispanic Texas Senate voters back Talarico
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7532
+  strength: 0.7522
 - slug: 2026-11-04-supporters-at-austin-watch-party-explain-the-texas-election-result
   headline: Supporters at Austin watch party explain the Texas election result
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7427
+  strength: 0.7421
 - slug: 2026-11-04-democrats-win-key-governor-races-with-historic-firsts
   headline: Democrats win key governor races with historic firsts
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7345
+  strength: 0.7334
 - slug: 2026-11-05-democrats-sweep-southern-elections-overturning-decades-of-gop-dominance
   headline: Democrats sweep Southern elections, overturning decades of GOP dominance
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7022
+  strength: 0.701
 - slug: 2026-11-04-surveys-indicated-texas-hispanic-voters-favored-democrats
   headline: Surveys indicated Texas Hispanic voters favored Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.697
-- slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
-  headline: James Talarico defeats Ken Paxton in Texas Senate race
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6477
-- slug: 2026-11-04-el-sayed-and-pappas-make-history-as-haaland-wins-new-mexico-governorship
-  headline: El-Sayed and Pappas make history as Haaland wins New Mexico governorship
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6457
-- slug: 2026-11-04-pappas-says-trump-musk-and-sununu-backers-used-money-attack-ads-and-lies
-  headline: Pappas says Trump, Musk and Sununu backers used money, attack ads and lies
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.641
-- slug: 2026-11-04-california-elects-xavier-becerra-as-its-first-latino-governor-since-1875
-  headline: California elects Xavier Becerra as its first Latino governor since 1875
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.638
-- slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
-  headline: Democrats win Senate seats in six states and four governor races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6316
-- slug: 2026-11-04-trump-accepts-midterm-results-and-links-republican-losses-to-iran
-  headline: Trump accepts midterm results and links Republican losses to Iran
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6241
-- slug: 2026-11-03-voters-in-36-states-choose-governors-as-democrats-pursue-a-majority
-  headline: Voters in 36 states choose governors as Democrats pursue a majority
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6282
-- slug: 2026-10-29-hispanic-turnout-surges-in-south-texas-as-republicans-face-competitive-races
-  headline: Hispanic turnout surges in South Texas as Republicans face competitive races
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6596
-- slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
-  headline: Paxton, Talarico face off as Texas voters head to polls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6532
-- slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
-  headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6304
-- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
-  headline: Talarico and Paxton enter final stretch of Texas Senate race
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6245
-- slug: 2026-10-15-abbott-renews-texas-border-emergency-at-least-69-times-since-2021
-  headline: Abbott renews Texas border emergency at least 69 times since 2021
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6279
+  strength: 0.6962
 ---
-
 ## Gina Hinojosa pledges bipartisan administration after ousting Abbott in Texas
 
 **Subtype:** fact
