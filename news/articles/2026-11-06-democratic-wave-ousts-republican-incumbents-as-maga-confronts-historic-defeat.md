@@ -215,6 +215,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.6556
+analyses:
+- '2026-11-06-midterm-defeat-breaks-maga-s-electoral-layer-while-its-social-layer-keeps-meetin'
 ---
 ## Democratic wave ousts Republican incumbents as MAGA confronts historic defeat
 
@@ -266,3 +268,8 @@ Levin, for her part, had her own analysis as Weinberger's fate became clear: "Sh
 **Publication date:** 2026-11-06
 **Title:** The MAGA Faithful Confront the Unthinkable: Is This the End of MAGA?
 **URL:** https://www.wsj.com/politics/elections/the-maga-faithful-confront-the-unthinkable-is-this-the-end-of-maga-2b0d13a8
+
+---
+
+<!-- analysis-link:2026-11-06-midterm-defeat-breaks-maga-s-electoral-layer-while-its-social-layer-keeps-meetin -->
+**Going deeper:** [Read MSI's analysis of the two layers of MAGA's defeat →](/analyses/2026-11-06-midterm-defeat-breaks-maga-s-electoral-layer-while-its-social-layer-keeps-meetin)
