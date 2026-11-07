@@ -1,9 +1,21 @@
 ---
 headline: New federal loan caps push students toward private lenders
-secondary_headline: SoFi originations nearly double as Sallie Mae graduate lending jumps 119%
+secondary_headline: SoFi originations nearly double as Sallie Mae graduate lending
+  jumps 119%
 publish_date: '2026-11-06'
-lede: New caps on federal student loans took effect this fall and are pushing graduate students and parents toward private lenders. Private lender SoFi reported $2.9 billion in third-quarter student loan originations, nearly double the volume of a year earlier, while Sallie Mae said graduate loans rose 119% year-over-year. The caps, part of President Donald Trump's "Big Beautiful Bill," ended a policy that let graduate students borrow up to the full cost of their degrees.
-nut_graf: The shift carries stakes beyond this year's tuition bills, because federal loans offer more flexible repayment terms, the possibility of forgiveness after 10 years in public service and, for many borrowers, lower interest rates. Jordan Matsudaira, director of the Postsecondary Education & Economics Research Center at American University, estimated that once the changes are fully phased in, more than half a million borrowers will need to borrow an extra $20,000 a year from somewhere other than the federal loan program.
+lede: New caps on federal student loans took effect this fall and are pushing graduate
+  students and parents toward private lenders. Private lender SoFi reported $2.9 billion
+  in third-quarter student loan originations, nearly double the volume of a year earlier,
+  while Sallie Mae said graduate loans rose 119% year-over-year. The caps, part of
+  President Donald Trump's "Big Beautiful Bill," ended a policy that let graduate
+  students borrow up to the full cost of their degrees.
+nut_graf: The shift carries stakes beyond this year's tuition bills, because federal
+  loans offer more flexible repayment terms, the possibility of forgiveness after
+  10 years in public service and, for many borrowers, lower interest rates. Jordan
+  Matsudaira, director of the Postsecondary Education & Economics Research Center
+  at American University, estimated that once the changes are fully phased in, more
+  than half a million borrowers will need to borrow an extra $20,000 a year from somewhere
+  other than the federal loan program.
 primary_entities:
 - Donald Trump
 - Chloe Frabotta
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +165,46 @@ related_stories:
   headline: Federal loan caps expand private student lending
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8389
-- slug: 2026-10-29-student-defense-sues-education-dept-over-closed-school-loan-discharges
-  headline: Student Defense sues Education Dept. over closed-school loan discharges
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6361
-- slug: 2026-10-22-trump-administration-drops-appeal-of-student-loan-forgiveness-ruling
-  headline: Trump administration drops appeal of student loan forgiveness ruling
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6317
+  strength: 0.8396
 - slug: 2026-09-16-federal-data-flags-500-colleges-with-student-loan-nonpayment-at-40-or-higher
-  headline: Federal data flags 500 colleges with student loan nonpayment at 40% or higher
+  headline: Federal data flags 500 colleges with student loan nonpayment at 40% or
+    higher
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7082
+  strength: 0.7092
 - slug: 2026-09-25-private-colleges-cut-tuition-and-drop-loans-to-draw-wary-families
   headline: Private colleges cut tuition and drop loans to draw wary families
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6679
+  strength: 0.6702
 - slug: 2026-06-28-new-graduate-loan-limits-take-effect-july-1-as-economists-debate-tuition-impact
-  headline: New graduate loan limits take effect July 1 as economists debate tuition impact
+  headline: New graduate loan limits take effect July 1 as economists debate tuition
+    impact
   publish_date: '2026-06-28'
   relation: related
-  strength: 0.766
+  strength: 0.7669
 - slug: 2026-08-31-us-universities-face-layered-financial-pressures-beyond-the-demographic-cliff
-  headline: US universities face layered financial pressures beyond the demographic cliff
+  headline: US universities face layered financial pressures beyond the demographic
+    cliff
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6672
+  strength: 0.6697
 - slug: 2026-06-25-new-federal-loan-caps-deter-would-be-physician-assistants-groups-say
   headline: New federal loan caps deter would-be physician assistants, groups say
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.7565
+  strength: 0.7583
 - slug: 2026-07-20-student-loan-defaults-jump-by-4-2-million-after-pandemic-pause
   headline: Student loan defaults jump by 4.2 million after pandemic pause
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7096
+  strength: 0.71
 - slug: 2026-07-01-save-student-loan-plan-ends-millions-of-borrowers-face-90-day-switch
   headline: SAVE student loan plan ends, millions of borrowers face 90-day switch
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.7269
-- slug: 2026-02-13-trump-bill-save-pause-leave-borrowers-weighing-repayment-options
-  headline: Trump bill, SAVE pause leave borrowers weighing repayment options
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7674
-- slug: 2026-05-20-democratic-led-states-sue-trump-over-federal-student-loan-caps
-  headline: Democratic-led states sue Trump over federal student loan caps
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7349
-- slug: 2026-05-19-democratic-led-states-sue-over-trump-caps-on-federal-student-loans
-  headline: Democratic-led states sue over Trump caps on federal student loans
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7334
-- slug: 2026-07-14-nearly-one-million-borrowers-leave-save-student-loan-program
-  headline: Nearly one million borrowers leave SAVE student loan program
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6877
-- slug: 2026-06-04-democratic-led-states-sue-to-block-student-loan-caps-for-nursing-health-degrees
-  headline: Democratic-led states sue to block student loan caps for nursing, health degrees
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7096
-- slug: 2026-05-19-states-sue-trump-rule-limiting-federal-loans-for-some-nursing-health-degrees
-  headline: States sue Trump rule limiting federal loans for some nursing, health degrees
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7144
-- slug: 2026-06-18-student-loan-borrowers-get-1-percentage-point-interest-rate-cut-with-auto-pay
-  headline: Student loan borrowers get 1 percentage point interest rate cut with auto pay
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6793
-- slug: 2026-06-01-student-loan-inquiry-begins-as-third-of-people-say-degree-not-worth-it
-  headline: Student loan inquiry begins as third of people say degree not worth it
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6558
-- slug: 2026-03-20-treasury-to-take-over-some-student-loan-management-as-education-dismantles
-  headline: Treasury to take over some student loan management as Education dismantles
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6706
-- slug: 2026-03-28-student-loan-borrowers-in-save-plan-told-to-prepare-for-repayment
-  headline: Student loan borrowers in SAVE plan told to prepare for repayment
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6608
+  strength: 0.7277
 ---
-
 ## New federal loan caps push students toward private lenders
 
 **Subtype:** fact

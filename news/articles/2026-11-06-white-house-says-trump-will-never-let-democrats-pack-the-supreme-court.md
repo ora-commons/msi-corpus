@@ -1,9 +1,20 @@
 ---
 headline: White House says Trump will never let Democrats pack the Supreme Court
-secondary_headline: DeSantis sees zero chance of a Thomas or Alito successor under Trump
+secondary_headline: DeSantis sees zero chance of a Thomas or Alito successor under
+  Trump
 publish_date: '2026-11-06'
-lede: The White House said Thursday that President Donald Trump "will never let them pack the Supreme Court and ruin the independent judiciary," after Senate Democrats vowed to block any "right-winger" from the court. Florida Gov. Ron DeSantis put the chance of confirming "a worthy successor to Justice Thomas and/or Alito" during Trump's term at "Zero" in a post on X.
-nut_graf: Trump established his imprint on the court in his first term by naming three of the current justices, and he had privately mused that he could end up nominating up to seven people for the nine-person bench by the end of his second term, according to a person with knowledge of those comments. But Democrats will hold at least 54 Senate seats next year, a margin that all but erases any prospect Trump could add to his imprint — and one that gives the incoming chamber the votes to block his nominees or ignore them outright.
+lede: The White House said Thursday that President Donald Trump "will never let them
+  pack the Supreme Court and ruin the independent judiciary," after Senate Democrats
+  vowed to block any "right-winger" from the court. Florida Gov. Ron DeSantis put
+  the chance of confirming "a worthy successor to Justice Thomas and/or Alito" during
+  Trump's term at "Zero" in a post on X.
+nut_graf: Trump established his imprint on the court in his first term by naming three
+  of the current justices, and he had privately mused that he could end up nominating
+  up to seven people for the nine-person bench by the end of his second term, according
+  to a person with knowledge of those comments. But Democrats will hold at least 54
+  Senate seats next year, a margin that all but erases any prospect Trump could add
+  to his imprint — and one that gives the incoming chamber the votes to block his
+  nominees or ignore them outright.
 primary_entities:
 - Samuel Alito
 - Clarence Thomas
@@ -57,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,107 +168,44 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-05-democratic-senate-majority-clouds-trump-s-path-to-a-fourth-supreme-court-justice
-  headline: Democratic Senate majority clouds Trump's path to a fourth Supreme Court justice
+  headline: Democratic Senate majority clouds Trump's path to a fourth Supreme Court
+    justice
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8044
+  strength: 0.8042
 - slug: 2026-11-05-schumer-vows-democrats-will-not-confirm-a-right-winger-to-the-supreme-court
-  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme Court
+  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme
+    Court
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6895
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6446
-- slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6242
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6307
-- slug: 2026-10-29-trump-directs-justice-department-to-challenge-possible-alaska-senate-result
-  headline: Trump directs Justice Department to challenge possible Alaska Senate result
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6272
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6328
+  strength: 0.6898
 - slug: 2026-10-04-justice-alito-tells-cbs-he-weighs-retirement-annually-at-76
   headline: Justice Alito tells CBS he weighs retirement annually at 76
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6727
-- slug: 2026-09-15-trump-criticizes-supreme-court-appointees-after-mail-ballot-ruling
-  headline: Trump criticizes Supreme Court appointees after mail ballot ruling
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6322
+  strength: 0.6724
 - slug: 2026-08-13-jeffries-says-democrats-would-overhaul-supreme-court-if-they-regain-power
   headline: Jeffries says Democrats would overhaul Supreme Court if they regain power
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6733
+  strength: 0.6731
 - slug: 2026-08-07-alito-says-political-partisanship-does-not-affect-his-decisions
   headline: Alito says political partisanship does not affect his decisions
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6816
+  strength: 0.6815
 - slug: 2026-07-10-alito-regarded-as-most-conservative-justice-most-aligned-with-trump-analysts-say
-  headline: Alito regarded as most conservative justice, most aligned with Trump, analysts say
+  headline: Alito regarded as most conservative justice, most aligned with Trump,
+    analysts say
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6651
-- slug: 2026-06-29-supreme-court-expands-presidential-firing-power-blocks-cook-ouster-upholds-mail-
-  headline: Supreme Court expands presidential firing power, blocks Cook ouster, upholds mail ballots
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6449
-- slug: 2026-07-15-supreme-court-expands-presidential-power-limits-voting-rights-act-challenges
-  headline: Supreme Court expands presidential power, limits Voting Rights Act challenges
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6256
-- slug: 2026-07-01-supreme-court-limits-trump-on-birthright-citizenship-mail-ballots-cook-firing
-  headline: Supreme Court limits Trump on birthright citizenship, mail ballots, Cook firing
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6331
-- slug: 2026-07-01-supreme-court-term-yields-mixed-rulings-on-trump-s-executive-authority
-  headline: Supreme Court term yields mixed rulings on Trump's executive authority
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6291
+  strength: 0.6648
 - slug: 2026-05-08-justice-clarence-thomas-becomes-second-longest-serving-supreme-court-justice
   headline: Justice Clarence Thomas becomes second-longest serving Supreme Court justice
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.6581
-- slug: 2026-06-22-supreme-court-to-decide-four-cases-defining-presidential-power
-  headline: Supreme Court to decide four cases defining presidential power
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6338
-- slug: 2026-06-29-supreme-court-gives-trump-power-to-fire-agency-leaders
-  headline: Supreme Court gives Trump power to fire agency leaders
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6261
-- slug: 2026-05-15-justice-thomas-says-constitution-provides-common-ground-amid-national-divisions
-  headline: Justice Thomas says Constitution provides common ground amid national divisions
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6396
+  strength: 0.6584
 ---
-
 ## White House says Trump will never let Democrats pack the Supreme Court
 
 **Subtype:** fact

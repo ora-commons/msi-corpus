@@ -1,9 +1,24 @@
 ---
 headline: Turkey arrests ex-minister Fatma Betul Sayan Kaya in investment fund scandal
-secondary_headline: Kaya resigned from Erdogan's party leadership in September amid share-sale allegations
+secondary_headline: Kaya resigned from Erdogan's party leadership in September amid
+  share-sale allegations
 publish_date: '2026-11-06'
-lede: Turkish authorities have arrested Fatma Betul Sayan Kaya, a former family and social affairs minister and deputy chair of President Recep Tayyip Erdogan's ruling party, over her alleged involvement in a share-price manipulation scandal involving several investment funds. Kaya was taken into custody late Thursday pending a possible trial on charges of membership in a criminal organization and violating Turkey's Capital Markets Law, the state-run Anadolu Agency reported. Justice Minister Akin Gurlek said this week that more than 430 people are under investigation in the case, including 112 who have been arrested.
-nut_graf: The arrest places a former minister and ruling-party deputy chair at the center of an investigation that Justice Minister Akin Gurlek said this week has brought more than 430 people under scrutiny over suspected market manipulation and insider trading, 112 of whom have been arrested. The allegations against Kaya center on share sales worth tens of millions of dollars made just before regulators decided to liquidate several investment funds over alleged manipulation; Turkey's main opposition party has accused her of receiving 2.17 billion liras ($43 million) after reportedly investing 163 million liras ($3 million) in one of the funds.
+lede: Turkish authorities have arrested Fatma Betul Sayan Kaya, a former family and
+  social affairs minister and deputy chair of President Recep Tayyip Erdogan's ruling
+  party, over her alleged involvement in a share-price manipulation scandal involving
+  several investment funds. Kaya was taken into custody late Thursday pending a possible
+  trial on charges of membership in a criminal organization and violating Turkey's
+  Capital Markets Law, the state-run Anadolu Agency reported. Justice Minister Akin
+  Gurlek said this week that more than 430 people are under investigation in the case,
+  including 112 who have been arrested.
+nut_graf: The arrest places a former minister and ruling-party deputy chair at the
+  center of an investigation that Justice Minister Akin Gurlek said this week has
+  brought more than 430 people under scrutiny over suspected market manipulation and
+  insider trading, 112 of whom have been arrested. The allegations against Kaya center
+  on share sales worth tens of millions of dollars made just before regulators decided
+  to liquidate several investment funds over alleged manipulation; Turkey's main opposition
+  party has accused her of receiving 2.17 billion liras ($43 million) after reportedly
+  investing 163 million liras ($3 million) in one of the funds.
 primary_entities:
 - Fatma Betul Sayan Kaya
 - Recep Tayyip Erdogan
@@ -41,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +155,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-22-prosecutors-allege-louise-lucas-paid-750-000-for-marijuana-license-shell-company
-  headline: Prosecutors allege Louise Lucas paid $750,000 for marijuana-license shell company
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5774
-- slug: 2026-10-07-sheinbaum-agrees-to-freeze-ex-officials-accounts-hit-by-u-s-sanctions
-  headline: Sheinbaum agrees to freeze ex-officials' accounts hit by U.S. sanctions
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5936
-- slug: 2026-10-06-hamburg-child-abduction-case-led-to-ex-bnd-chief-s-espionage-arrest
-  headline: Hamburg child abduction case led to ex-BND chief's espionage arrest
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5713
-- slug: 2026-10-07-eu-delays-methane-rules-a-year-sheinbaum-confronts-security-aides
-  headline: EU delays methane rules a year; Sheinbaum confronts security aides
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5662
-- slug: 2026-10-05-federal-prosecutors-charge-california-man-in-300m-ai-server-export-to-china
-  headline: Federal prosecutors charge California man in $300M AI server export to China
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.564
-- slug: 2026-10-02-treasury-sanctions-two-french-charities-three-people-in-alleged-hamas-network
-  headline: Treasury sanctions two French charities, three people in alleged Hamas network
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5639
-- slug: 2026-09-15-turkish-households-gold-hoard-keeps-600-billion-out-of-banks
-  headline: Turkish households' gold hoard keeps $600 billion out of banks
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6148
-- slug: 2026-09-13-spanish-council-of-ministers-to-weigh-us-bid-to-extradite-fergie-chambers
-  headline: Spain's council of ministers to weigh US bid to extradite Fergie Chambers
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5658
-- slug: 2026-08-20-treasury-sanctions-yunus-alper-yilmaz-at-center-of-hezbollah-courier-network
-  headline: Treasury sanctions Yunus Alper Yilmaz at center of Hezbollah courier network
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5754
 - slug: 2026-05-12-turkish-authorities-detain-324-in-islamic-state-group-crackdown
   headline: Turkish authorities detain 324 in Islamic State group crackdown
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.6621
-- slug: 2026-08-05-x-contests-turkish-court-order-restricting-jailed-imamoglu-s-candidacy-account
-  headline: X contests Turkish court order restricting jailed Imamoglu's candidacy account
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5907
-- slug: 2026-07-31-uk-arrests-turkish-man-accused-of-funneling-money-to-hamas
-  headline: UK arrests Turkish man accused of funneling money to Hamas
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5825
-- slug: 2026-07-24-fang-xinghai-probe-signals-shrinking-space-for-market-reformers
-  headline: Fang Xinghai probe signals shrinking space for market reformers
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5912
-- slug: 2026-05-14-ukraine-court-orders-detention-for-zelenskyy-ex-chief-of-staff-yermak
-  headline: Ukraine court orders detention for Zelenskyy ex-chief of staff Yermak
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6021
-- slug: 2026-05-11-ukraine-anti-graft-agencies-name-ex-zelenskyy-chief-of-staff-suspect-in-10-5m-la
-  headline: Ukraine anti-graft agencies name ex-Zelenskyy chief of staff suspect in $10.5M laundering probe
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5935
-- slug: 2026-05-11-ukraine-names-zelenskyy-ex-chief-of-staff-yermak-suspect-in-graft-probe
-  headline: Ukraine names Zelenskyy ex-chief of staff Yermak suspect in graft probe
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5922
-- slug: 2026-05-14-ukraine-anti-corruption-watchdogs-name-zelenskyy-ex-chief-of-staff-andrii-yermak
-  headline: Ukraine anti-corruption watchdogs name Zelenskyy ex-chief of staff Andrii Yermak suspect in graft probe
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.591
-- slug: 2026-06-24-former-nyc-chief-of-staff-frank-carone-indicted-in-bribery-scheme
-  headline: Former NYC chief of staff Frank Carone indicted in bribery scheme
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5666
-- slug: 2026-05-01-kurdish-militants-say-turkey-has-frozen-peace-talks-with-pkk
-  headline: Kurdish militants say Turkey has frozen peace talks with PKK
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5918
-- slug: 2026-06-24-democrat-blocks-750m-jet-engine-sale-to-turkey-over-s-400-dispute
-  headline: Democrat blocks $750M jet engine sale to Turkey over S-400 dispute
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5627
+  strength: 0.6638
 ---
-
 ## Turkey arrests ex-minister Fatma Betul Sayan Kaya in investment fund scandal
 
 **Subtype:** fact
