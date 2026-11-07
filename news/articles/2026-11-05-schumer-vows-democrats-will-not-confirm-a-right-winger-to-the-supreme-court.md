@@ -1,9 +1,22 @@
 ---
-headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme Court
-secondary_headline: Schumer expected to win easy reelection as Democrats near 56 Senate seats
+headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme
+  Court
+secondary_headline: Schumer expected to win easy reelection as Democrats near 56 Senate
+  seats
 publish_date: '2026-11-05'
-lede: Senate Democratic leader Chuck Schumer said Thursday that Democrats will not allow President Donald Trump to put 'a right-winger' on the Supreme Court, two days after the party won a decisive Senate majority in the midterm elections. Schumer declined to say whether he would hold a court vacancy open until after the next presidential election, as former Senate Republican leader Mitch McConnell did in 2016, but said Democrats are 'not going to allow any crappy nominees' to the Supreme Court, the lower courts or Trump's Cabinet.
-nut_graf: 'The midterm outcome hands Democrats power they lacked in the minority, according to Schumer: the ability to reject Trump''s nominees and force more moderate choices, to halt the Iran war and to alter policies the party could not counter. Democrats could hold as many as 56 seats with Mississippi and Alaska still uncalled, and the wins leave Schumer expected to easily hold his leadership post even as some senators press for an open discussion about the party''s next generation of leaders.'
+lede: Senate Democratic leader Chuck Schumer said Thursday that Democrats will not
+  allow President Donald Trump to put 'a right-winger' on the Supreme Court, two days
+  after the party won a decisive Senate majority in the midterm elections. Schumer
+  declined to say whether he would hold a court vacancy open until after the next
+  presidential election, as former Senate Republican leader Mitch McConnell did in
+  2016, but said Democrats are 'not going to allow any crappy nominees' to the Supreme
+  Court, the lower courts or Trump's Cabinet.
+nut_graf: 'The midterm outcome hands Democrats power they lacked in the minority,
+  according to Schumer: the ability to reject Trump''s nominees and force more moderate
+  choices, to halt the Iran war and to alter policies the party could not counter.
+  Democrats could hold as many as 56 seats with Mississippi and Alaska still uncalled,
+  and the wins leave Schumer expected to easily hold his leadership post even as some
+  senators press for an open discussion about the party''s next generation of leaders.'
 primary_entities:
 - Chuck Schumer
 - Donald Trump
@@ -51,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,116 +164,64 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-05-schumer-vows-democrats-will-not-confirm-a-right-winger-to-the-supreme-court.png
-  alt: 'Illustration accompanying article: Schumer vows Democrats will not confirm a ''right-winger'' to the Supreme Court'
+  alt: 'Illustration accompanying article: Schumer vows Democrats will not confirm
+    a ''right-winger'' to the Supreme Court'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
+  headline: Schumer expects re-election as Senate Democrats' leader after midterm
+    wins
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7958
+  strength: 0.7952
 - slug: 2026-11-04-schumer-says-days-of-trump-s-supplicant-senate-are-over-vows-to-cut-costs
-  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut costs
+  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut
+    costs
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7401
+  strength: 0.7391
 - slug: 2026-11-05-democratic-senate-majority-clouds-trump-s-path-to-a-fourth-supreme-court-justice
-  headline: Democratic Senate majority clouds Trump's path to a fourth Supreme Court justice
+  headline: Democratic Senate majority clouds Trump's path to a fourth Supreme Court
+    justice
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7053
+  strength: 0.7057
 - slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
   headline: Democrats win Senate majority, adding checks on Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6965
+  strength: 0.6962
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6853
-- slug: 2026-11-05-mike-johnson-plans-to-step-down-as-top-house-republican-after-midterms
-  headline: Mike Johnson plans to step down as top House Republican after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6489
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6496
-- slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
-  headline: Democrats prepare agenda on taxes, health care, AI and Social Security
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6466
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6461
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6441
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6395
-- slug: 2026-10-30-midterms-open-high-stakes-fight-over-post-trump-future
-  headline: Midterms open high-stakes fight over post-Trump future
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6414
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6452
+  strength: 0.6854
 - slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
+  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump
+    on Iran
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6657
+  strength: 0.6654
 - slug: 2026-09-29-election-lawyer-lays-out-senate-democratic-options-against-house-challenges
   headline: Election lawyer lays out Senate Democratic options against House challenges
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6546
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6447
+  strength: 0.6548
 - slug: 2026-08-28-senate-democratic-task-force-catalogs-100-midterm-election-threats
   headline: Senate Democratic task force catalogs 100 midterm election threats
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6811
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6913
-- slug: 2026-08-13-jeffries-says-democrats-would-overhaul-supreme-court-if-they-regain-power
-  headline: Jeffries says Democrats would overhaul Supreme Court if they regain power
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.698
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6396
+  strength: 0.6806
 ---
-
 ## Schumer vows Democrats will not confirm a 'right-winger' to the Supreme Court
 
 **Subtype:** fact

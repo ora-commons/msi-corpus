@@ -1,8 +1,15 @@
 ---
 headline: Wisconsin infant dies of measles, state's first death in 36 years
 publish_date: '2026-11-05'
-lede: An infant in southwestern Wisconsin has died after contracting measles, the state's first death from the disease in 36 years, state health officials said Thursday. The Wisconsin Department of Health Services did not specify where the death happened or provide additional details, citing the privacy of the family.
-nut_graf: The death comes as measles, once stopped from spreading domestically in the United States, has resurged amid falling vaccination rates. The country ended domestic measles spread in 2000 by maintaining high vaccination rates, but coverage has since fallen below the 95% level needed to prevent outbreaks, and federal and state tallies of this year's deaths have diverged.
+lede: An infant in southwestern Wisconsin has died after contracting measles, the
+  state's first death from the disease in 36 years, state health officials said Thursday.
+  The Wisconsin Department of Health Services did not specify where the death happened
+  or provide additional details, citing the privacy of the family.
+nut_graf: The death comes as measles, once stopped from spreading domestically in
+  the United States, has resurged amid falling vaccination rates. The country ended
+  domestic measles spread in 2000 by maintaining high vaccination rates, but coverage
+  has since fallen below the 95% level needed to prevent outbreaks, and federal and
+  state tallies of this year's deaths have diverged.
 primary_entities: []
 primary_themes: []
 topic_tags:
@@ -31,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,7 +73,8 @@ related_stories:
   relation: related
   strength: 0.7069
 - slug: 2026-10-25-cdc-finds-96-of-2026-measles-patients-were-unvaccinated-or-had-unknown-status
-  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown status
+  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown
+    status
   publish_date: '2026-10-25'
   relation: related
   strength: 0.6904
@@ -89,68 +98,7 @@ related_stories:
   publish_date: '2026-09-30'
   relation: related
   strength: 0.7359
-- slug: 2026-10-05-pennsylvania-measles-cases-top-1-000-as-state-reports-five-deaths
-  headline: Pennsylvania measles cases top 1,000 as state reports five deaths
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6942
-- slug: 2026-09-13-jefferson-county-reports-first-adult-measles-death-in-pennsylvania-outbreak
-  headline: Jefferson County reports first adult measles death in Pennsylvania outbreak
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.766
-- slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
-  headline: Annual US measles count exceeds 1991 levels as second death confirmed
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7047
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7519
-- slug: 2026-09-15-pennsylvania-reports-fourth-measles-death-in-2026-worst-us-year-since-1992
-  headline: Pennsylvania reports fourth measles death in 2026, worst US year since 1992
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7384
-- slug: 2026-09-26-pennsylvania-measles-outbreak-grows-to-890-cases-across-39-counties
-  headline: Pennsylvania measles outbreak grows to 890 cases across 39 counties
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6991
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7621
-- slug: 2026-09-24-pennsylvania-measles-outbreak-kills-four-as-health-workers-door-knock-amish-comm
-  headline: Pennsylvania measles outbreak kills four as health workers door-knock Amish communities
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6746
-- slug: 2026-09-15-shapiro-accuses-kennedy-of-antivaccine-conspiracy-theories-amid-measles-surge
-  headline: Shapiro accuses Kennedy of antivaccine conspiracy theories amid measles surge
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6953
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6902
-- slug: 2026-09-19-california-warns-of-measles-exposure-in-six-counties-after-unvaccinated-passenge
-  headline: California warns of measles exposure in six counties after unvaccinated passenger's train travel
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6743
-- slug: 2026-09-17-local-officials-mount-vaccine-push-as-us-measles-deaths-rise
-  headline: Local officials mount vaccine push as US measles deaths rise
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6678
 ---
-
 ## Wisconsin infant dies of measles, state's first death in 36 years
 
 **Subtype:** fact
