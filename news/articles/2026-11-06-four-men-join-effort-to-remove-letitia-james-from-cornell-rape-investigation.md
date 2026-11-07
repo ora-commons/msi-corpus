@@ -190,6 +190,8 @@ related_stories:
   publish_date: '2026-10-30'
   relation: related
   strength: 0.7514
+analyses:
+- '2026-11-06-five-cornell-defendants-turn-james-removal-fight-into-test-of-delegated-prosecut'
 ---
 ## Four men join effort to remove Letitia James from Cornell rape investigation
 
@@ -234,3 +236,8 @@ Andrew Miltenberg, a lawyer for the man spearheading the removal effort, said in
 **Publication date:** 2026-11-06
 **Title:** Four men join effort to remove New York Attorney General from Cornell investigation
 **URL:** https://apnews.com/article/cornell-letitia-james-special-prosecutor-rape-308224fff06b16556e7117815d3e367c
+
+---
+
+<!-- analysis-link:2026-11-06-five-cornell-defendants-turn-james-removal-fight-into-test-of-delegated-prosecut -->
+**Going deeper:** [Read MSI's analysis of the Letitia James removal fight →](/analyses/2026-11-06-five-cornell-defendants-turn-james-removal-fight-into-test-of-delegated-prosecut)
