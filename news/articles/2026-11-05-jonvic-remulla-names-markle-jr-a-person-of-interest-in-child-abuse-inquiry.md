@@ -2,8 +2,17 @@
 headline: Jonvic Remulla names Markle Jr a person of interest in child abuse inquiry
 secondary_headline: Remulla says more than 7,000 photos and one video were uncovered
 publish_date: '2026-11-05'
-lede: On November 5, Philippine Interior and Local Government Secretary Jonvic Remulla said at a Manila press conference that Thomas Markle Jr had been named a person of interest in the Philippine inquiry into child sexual abuse image allegations against his father, Thomas Markle Sr. Remulla said Markle Jr was not yet being treated as a suspect and that his alleged involvement was not thought to be directly linked to the material he handed to police.
-nut_graf: Remulla's announcement left Thomas Markle Jr's alleged role unresolved, with investigators determining whether he was involved and authorities not treating him as a suspect. Police and FBI agents have since been investigating whether Thomas Markle Sr possessed illegal images while living in the Philippines and Mexico, and Markle Sr denies possessing child abuse imagery.
+lede: On November 5, Philippine Interior and Local Government Secretary Jonvic Remulla
+  said at a Manila press conference that Thomas Markle Jr had been named a person
+  of interest in the Philippine inquiry into child sexual abuse image allegations
+  against his father, Thomas Markle Sr. Remulla said Markle Jr was not yet being treated
+  as a suspect and that his alleged involvement was not thought to be directly linked
+  to the material he handed to police.
+nut_graf: Remulla's announcement left Thomas Markle Jr's alleged role unresolved,
+  with investigators determining whether he was involved and authorities not treating
+  him as a suspect. Police and FBI agents have since been investigating whether Thomas
+  Markle Sr possessed illegal images while living in the Philippines and Mexico, and
+  Markle Sr denies possessing child abuse imagery.
 primary_entities:
 - Jonvic Remulla
 - Thomas Markle Jr
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +148,8 @@ cross_article_links:
   strength: 0.5784
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-27-ice-holds-a-man-it-says-is-jamaican-records-support-his-u-s-citizenship-claim
-  headline: ICE holds a man it says is Jamaican, records support his U.S. citizenship claim
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.571
-- slug: 2026-10-20-long-beach-mayor-seeks-federal-probe-after-ice-arrest-injures-u-s-citizen
-  headline: Long Beach mayor seeks federal probe after ICE arrest injures U.S. citizen
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5731
-- slug: 2026-10-16-mazal-group-targeted-older-adults-people-with-disabilities
-  headline: Mazal Group targeted older adults, people with disabilities
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.5717
-- slug: 2026-10-09-dhs-defends-ice-officers-who-shot-man-with-child-in-car
-  headline: DHS defends ICE officers who shot man with child in car
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6034
-- slug: 2026-10-06-propublica-documents-over-500-u-s-citizens-detained-by-immigration-agents
-  headline: ProPublica documents over 500 U.S. citizens detained by immigration agents
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5699
-- slug: 2026-10-02-lawyer-says-cornell-rape-accuser-is-under-siege-from-online-sleuths
-  headline: Lawyer says Cornell rape accuser is "under siege" from online sleuths
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5797
-- slug: 2026-09-26-jordan-campbell-leads-doj-probes-of-transgender-care-for-minors
-  headline: Jordan Campbell leads DOJ probes of transgender care for minors
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5878
-- slug: 2026-09-01-ice-detains-76-year-old-permanent-resident-with-stage-4-cancer-during-citizenshi
-  headline: ICE detains 76-year-old permanent resident with stage 4 cancer during citizenship interview
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5689
-- slug: 2026-07-22-mother-seeks-accountability-16-months-after-ice-agent-killed-her-son-in-texas
-  headline: Mother seeks accountability 16 months after ICE agent killed her son in Texas
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.572
-- slug: 2026-05-18-france-investigates-frenchman-for-abusing-89-children-in-north-africa
-  headline: France investigates Frenchman for abusing 89 children in North Africa
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6152
-- slug: 2026-05-09-philippines-to-summon-former-national-police-chief-in-probe-into-duterte-era-kil
-  headline: Philippines to summon former national police chief in probe into Duterte-era killings
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5943
-- slug: 2026-05-09-philippines-to-summon-ex-national-police-chief-in-duterte-killings-probe
-  headline: Philippines to summon ex–national police chief in Duterte killings probe
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5861
-- slug: 2026-05-14-gunfire-breaks-out-in-philippine-senate-as-arrest-of-icc-target-nears
-  headline: Gunfire breaks out in Philippine Senate as arrest of ICC target nears
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5817
-- slug: 2026-06-06-maryland-teen-graduates-high-school-after-ice-deported-his-father
-  headline: Maryland teen graduates high school after ICE deported his father
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5697
-- slug: 2026-05-14-gunfire-erupts-at-philippine-senate-during-effort-to-arrest-icc-wanted-senator
-  headline: Gunfire erupts at Philippine Senate during effort to arrest ICC-wanted senator
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5775
-- slug: 2026-03-07-bangladeshi-man-faces-federal-charges-in-alaska-over-sextortion-of-hundreds-of-t
-  headline: Bangladeshi man faces federal charges in Alaska over sextortion of hundreds of teens
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.5913
-- slug: 2026-02-02-doj-official-plays-down-chance-for-charges-from-epstein-files-release
-  headline: DOJ official plays down chance for charges from Epstein files release
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.5873
-- slug: 2026-03-04-prosecutors-play-meta-executive-video-depositions-in-new-mexico-trial
-  headline: Prosecutors play Meta executive video depositions in New Mexico trial
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5754
-- slug: 2026-01-31-justice-department-releases-more-epstein-files-totaling-3-million-pages
-  headline: Justice Department releases more Epstein files, totaling 3 million pages
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.5779
-- slug: 2026-03-20-joseph-duggar-charged-in-florida-with-lewd-acts-involving-child
-  headline: Joseph Duggar charged in Florida with lewd acts involving child
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.5702
+related_stories: []
 ---
-
 ## Jonvic Remulla names Markle Jr a person of interest in child abuse inquiry
 
 **Subtype:** fact

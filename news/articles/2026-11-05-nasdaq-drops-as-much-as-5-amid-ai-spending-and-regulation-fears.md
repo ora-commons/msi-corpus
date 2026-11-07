@@ -2,8 +2,16 @@
 headline: Nasdaq drops as much as 5% amid AI spending and regulation fears
 secondary_headline: VIX jumps 40% as chip stocks lead a broad Wall Street selloff
 publish_date: '2026-11-05'
-lede: The tech-heavy Nasdaq fell as much as 5% on November 5, putting it on course for its worst trading day in 18 months as investors anticipated tougher scrutiny of the artificial intelligence industry after the midterm elections. Wall Street sustained widespread losses, with chip stocks leading the decline and the Dow down more than 1,000 points in late-morning trading.
-nut_graf: The session followed Wednesday's rally and reflected concerns about AI spending and expected scrutiny of data-center expansion after the midterm elections. Analysts said Democratic governors may curb new projects, while tech analyst Dan Ives warned of hurdles for AI legislation; the Nasdaq moved more than 10% below its recent record high.
+lede: The tech-heavy Nasdaq fell as much as 5% on November 5, putting it on course
+  for its worst trading day in 18 months as investors anticipated tougher scrutiny
+  of the artificial intelligence industry after the midterm elections. Wall Street
+  sustained widespread losses, with chip stocks leading the decline and the Dow down
+  more than 1,000 points in late-morning trading.
+nut_graf: The session followed Wednesday's rally and reflected concerns about AI spending
+  and expected scrutiny of data-center expansion after the midterm elections. Analysts
+  said Democratic governors may curb new projects, while tech analyst Dan Ives warned
+  of hurdles for AI legislation; the Nasdaq moved more than 10% below its recent record
+  high.
 primary_entities:
 - Nasdaq Composite
 - Dow Jones Industrial Average
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -62,12 +71,14 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-11-05'
-  caption: FRED's raw Nasdaq Composite reading was 25,736.51 for November 5, 2026, providing a date-stamped reference point for the selloff.
+  caption: FRED's raw Nasdaq Composite reading was 25,736.51 for November 5, 2026,
+    providing a date-stamped reference point for the selloff.
 - source: fred
   series_id: DJIA
   transformation: raw
   as_of: '2026-11-05'
-  caption: FRED's raw Dow Jones Industrial Average reading was 53,356.12 for November 5, 2026; The Guardian separately reported a 2% intraday decline.
+  caption: FRED's raw Dow Jones Industrial Average reading was 53,356.12 for November
+    5, 2026; The Guardian separately reported a 2% intraday decline.
 figures_aggregate:
   count: 2
   series_ids:
@@ -162,12 +173,12 @@ related_stories:
   headline: Stocks fall sharply as tech earnings renew concerns over AI spending
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8068
+  strength: 0.807
 - slug: 2026-10-30-nasdaq-loses-nearly-1tn-in-a-week-as-worries-over-ai-returns-grow
   headline: Nasdaq loses nearly $1tn in a week as worries over AI returns grow
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7755
+  strength: 0.7768
 - slug: 2026-10-30-intel-shares-fall-as-much-as-30-as-nasdaq-opens-at-two-month-low
   headline: Intel shares fall as much as 30% as Nasdaq opens at two-month low
   publish_date: '2026-10-30'
@@ -177,89 +188,29 @@ related_stories:
   headline: Intel crashes 29% in worst session on record as tech selloff deepens
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7372
+  strength: 0.7388
 - slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
   headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7444
+  strength: 0.7456
 - slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
+  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global
+    risks
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7532
+  strength: 0.7545
 - slug: 2026-06-05-nasdaq-tumbles-4-2-as-strong-jobs-data-ai-spending-fears-hit-chip-stocks
   headline: Nasdaq tumbles 4.2% as strong jobs data, AI spending fears hit chip stocks
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.8191
+  strength: 0.8199
 - slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
   headline: Tech shares tumble as AI rally doubts grip Wall Street
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.8042
-- slug: 2026-07-27-stocks-post-second-weekly-decline-as-tech-earnings-and-fed-decision-approach
-  headline: Stocks post second weekly decline as tech earnings and Fed decision approach
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.741
-- slug: 2026-07-29-dow-drops-1-153-points-as-oil-surges-7-3-on-resumed-iran-fighting
-  headline: Dow drops 1,153 points as oil surges 7.3% on resumed Iran fighting
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.7277
-- slug: 2026-07-17-asian-shares-slide-as-ai-stock-selloff-hits-nikkei-taiwan-markets
-  headline: Asian shares slide as AI stock selloff hits Nikkei, Taiwan markets
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.7264
-- slug: 2026-02-28-u-s-stocks-fall-as-ai-worries-higher-inflation-and-iran-tensions-hit
-  headline: U.S. stocks fall as AI worries, higher inflation and Iran tensions hit
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.775
-- slug: 2026-02-27-nvidia-s-worst-day-since-last-spring-drags-wall-street-lower
-  headline: Nvidia’s worst day since last spring drags Wall Street lower
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7633
-- slug: 2026-06-10-nasdaq-drops-1-as-chip-volatility-pushes-investors-toward-transports-equal-weigh
-  headline: Nasdaq drops 1% as chip volatility pushes investors toward transports, equal-weight
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7319
-- slug: 2026-05-16-global-stocks-tumble-as-ai-selloff-meets-oil-price-anxiety
-  headline: Global stocks tumble as AI selloff meets oil-price anxiety
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7416
-- slug: 2026-06-04-dow-closes-at-record-as-healthcare-financial-stocks-lift-market-tech-lags
-  headline: Dow closes at record as healthcare, financial stocks lift market; tech lags
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7315
-- slug: 2026-04-29-sinking-ai-stocks-and-rising-oil-prices-weigh-on-wall-street
-  headline: Sinking AI stocks and rising oil prices weigh on Wall Street
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7417
-- slug: 2026-06-08-chip-stocks-lead-wall-street-rebound-after-friday-s-selloff
-  headline: Chip Stocks Lead Wall Street Rebound After Friday's Selloff
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7244
-- slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
-  headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7332
-- slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7275
+  strength: 0.805
 ---
-
 ## Nasdaq drops as much as 5% amid AI spending and regulation fears
 
 **Subtype:** fact
