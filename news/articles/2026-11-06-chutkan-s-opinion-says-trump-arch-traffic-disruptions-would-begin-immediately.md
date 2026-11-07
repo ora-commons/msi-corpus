@@ -1,9 +1,21 @@
 ---
 headline: Chutkan's opinion says Trump arch traffic disruptions would begin immediately
-secondary_headline: Commissioners rejected a postponement motion 4 to 8 before approving the arch
+secondary_headline: Commissioners rejected a postponement motion 4 to 8 before approving
+  the arch
 publish_date: '2026-11-06'
-lede: A 33-page opinion by District Court Judge Tanya Chutkan concluded that threatened harms from President Trump's proposed 250-foot arch in Washington would materialize as soon as construction begins, in part because traffic disruptions would occur immediately. The opinion spells out the reasoning behind the 14-day construction bar Chutkan issued just before midnight, less than two hours after the National Capital Planning Commission approved the project in an 8-4 vote that followed a failed postponement motion and a virtual meeting in which 131 people signed up to speak.
-nut_graf: The 14-day bar halts, at least for now, work the administration had hoped to begin immediately on a project it has advanced without the Congressional authorization opponents argue the law requires. The fight now moves to the courts — and to a Congress in which Democrats have vowed to stop and investigate the arch after regaining a majority in January.
+lede: A 33-page opinion by District Court Judge Tanya Chutkan concluded that threatened
+  harms from President Trump's proposed 250-foot arch in Washington would materialize
+  as soon as construction begins, in part because traffic disruptions would occur
+  immediately. The opinion spells out the reasoning behind the 14-day construction
+  bar Chutkan issued just before midnight, less than two hours after the National
+  Capital Planning Commission approved the project in an 8-4 vote that followed a
+  failed postponement motion and a virtual meeting in which 131 people signed up to
+  speak.
+nut_graf: The 14-day bar halts, at least for now, work the administration had hoped
+  to begin immediately on a project it has advanced without the Congressional authorization
+  opponents argue the law requires. The fight now moves to the courts — and to a Congress
+  in which Democrats have vowed to stop and investigate the arch after regaining a
+  majority in January.
 primary_entities:
 - Tanya Chutkan
 - National Capital Planning Commission
@@ -62,7 +74,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -161,116 +174,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-06-chutkan-s-opinion-says-trump-arch-traffic-disruptions-would-begin-immediately.png
-  alt: 'Illustration accompanying article: Chutkan''s opinion says Trump arch traffic disruptions would begin immediately'
+  alt: 'Illustration accompanying article: Chutkan''s opinion says Trump arch traffic
+    disruptions would begin immediately'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-06-judge-temporarily-blocks-trump-s-250-foot-arch-construction-near-arlington-cemet
-  headline: Judge temporarily blocks Trump's 250-foot arch construction near Arlington Cemetery
+  headline: Judge temporarily blocks Trump's 250-foot arch construction near Arlington
+    Cemetery
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8545
+  strength: 0.8548
 - slug: 2026-11-05-planning-commission-weighs-trump-arch-as-judge-reviews-construction-dispute
   headline: Planning commission weighs Trump arch as judge reviews construction dispute
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8574
+  strength: 0.858
 - slug: 2026-10-30-judge-weighs-halting-trump-s-250-foot-d-c-arch-at-emergency-hearing
   headline: Judge weighs halting Trump's 250-foot D.C. arch at emergency hearing
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8605
+  strength: 0.8612
 - slug: 2026-11-02-tanya-chutkan-sets-rapid-deadlines-for-trump-s-washington-arch
   headline: Tanya Chutkan sets rapid deadlines for Trump's Washington arch
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.836
+  strength: 0.8365
 - slug: 2026-10-31-dc-and-virginia-sue-to-halt-trump-s-250-foot-arch-as-construction-approval-nears
-  headline: DC and Virginia sue to halt Trump's 250-foot arch as construction approval nears
+  headline: DC and Virginia sue to halt Trump's 250-foot arch as construction approval
+    nears
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8107
+  strength: 0.8117
 - slug: 2026-11-06-trump-s-washington-projects-face-added-roadblocks-under-democratic-congress
   headline: Trump's Washington projects face added roadblocks under Democratic Congress
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7599
+  strength: 0.7609
 - slug: 2026-11-06-federal-panel-approves-trump-s-250-foot-arch-near-arlington-cemetery
   headline: Federal panel approves Trump's 250-foot arch near Arlington Cemetery
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7563
+  strength: 0.757
 - slug: 2026-10-31-virginia-and-d-c-sue-to-halt-construction-of-trump-s-250-foot-arch
   headline: Virginia and D.C. sue to halt construction of Trump's 250-foot arch
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7919
-- slug: 2026-10-22-plaintiffs-ask-judge-to-halt-construction-of-trump-s-triumphal-arch-in-d-c
-  headline: Plaintiffs ask judge to halt construction of Trump's triumphal arch in D.C.
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.8413
-- slug: 2026-11-03-justice-department-says-trump-s-proposed-arch-would-take-33-to-39-months
-  headline: Justice Department says Trump's proposed arch would take 33 to 39 months
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7572
-- slug: 2026-10-31-d-c-and-virginia-sue-to-block-trump-s-250-foot-arch-near-arlington-cemetery
-  headline: D.C. and Virginia sue to block Trump's 250-foot arch near Arlington Cemetery
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7565
-- slug: 2026-09-20-judge-orders-48-hour-notice-before-trump-dc-arch-memorial-circle-work
-  headline: Judge orders 48-hour notice before Trump DC arch Memorial Circle work
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.8073
-- slug: 2026-10-09-arlington-county-sues-to-halt-trump-s-250-foot-arch-over-environmental-review
-  headline: Arlington County sues to halt Trump's 250-foot arch over environmental review
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7247
-- slug: 2026-10-02-dozens-protest-trump-s-250-foot-d-c-arch-at-memorial-circle
-  headline: Dozens protest Trump's 250-foot D.C. arch at Memorial Circle
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7411
-- slug: 2026-09-25-council-ends-trump-arch-preservation-talks-citing-local-impasse
-  headline: Council ends Trump arch preservation talks, citing local impasse
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7419
-- slug: 2026-09-17-park-service-finds-trump-250-foot-dc-arch-would-harm-historic-sites
-  headline: Park Service finds Trump 250-foot DC arch would harm historic sites
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7583
-- slug: 2026-09-21-trump-accused-of-manufacturing-national-security-justification-for-dc-arch
-  headline: Trump accused of manufacturing national security justification for DC arch
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7252
-- slug: 2026-09-20-faa-finds-trump-dc-arch-poses-no-reagan-national-flight-hazard
-  headline: FAA finds Trump DC arch poses no Reagan National flight hazard
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7266
-- slug: 2026-09-03-trump-administration-to-begin-excavation-on-250-foot-washington-arch
-  headline: Trump administration to begin excavation on 250-foot Washington arch
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.744
-- slug: 2026-08-06-park-service-lists-37-historic-sites-that-trump-s-250-foot-arch-would-affect
-  headline: Park Service lists 37 historic sites that Trump's 250-foot arch would affect
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7738
+  strength: 0.7927
 ---
-
 ## Chutkan's opinion says Trump arch traffic disruptions would begin immediately
 
 **Subtype:** fact

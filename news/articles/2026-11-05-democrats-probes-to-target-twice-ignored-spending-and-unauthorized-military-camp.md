@@ -218,6 +218,8 @@ related_stories:
   publish_date: '2026-10-28'
   relation: related
   strength: 0.7026
+analyses:
+- '2026-11-05-npr-account-documents-a-two-layer-boundary-contest-behind-democrats-planned-prob'
 ---
 ## Democrats' probes to target twice-ignored spending and unauthorized military campaigns
 
@@ -255,3 +257,8 @@ Chang noted that investigations can feel retaliatory — arguably, she said, tha
 **Publication date:** 2026-11-05
 **Title:** How Democrats plan to investigate the Trump administration after their midterm wins
 **URL:** https://www.npr.org/2026/11/05/nx-s1-6029639/how-democrats-plan-to-investigate-the-trump-administration-after-their-midterm-wins
+
+---
+
+<!-- analysis-link:2026-11-05-npr-account-documents-a-two-layer-boundary-contest-behind-democrats-planned-prob -->
+**Going deeper:** [Read MSI's analysis of congressional oversight, war powers, boundary critique →](/analyses/2026-11-05-npr-account-documents-a-two-layer-boundary-contest-behind-democrats-planned-prob)

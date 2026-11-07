@@ -2,8 +2,17 @@
 headline: Matthew Farwell trial heads to closing arguments in pregnant woman's killing
 secondary_headline: Prosecutors say Farwell tried to stage her death as a suicide
 publish_date: '2026-11-06'
-lede: Closing arguments are expected Friday in the federal trial of Matthew Farwell, a former Massachusetts police officer accused of killing Sandra Birchmore, a pregnant 23-year-old, in 2021. Federal prosecutors say Farwell, then a married detective with the Stoughton Police Department, killed Birchmore and tried to stage her death as a suicide to keep her from revealing a sexual relationship they say began when she was 15. His lawyers acknowledge the relationship but say he did not kill her.
-nut_graf: The case reached federal court in Boston partly because local prosecutors never brought charges in Birchmore's death, and federal investigators concluded the initial police probe was rushed and compromised. The state medical examiner's office, which initially ruled the death a suicide based partly on police information, has since changed the official cause of death to undetermined.
+lede: Closing arguments are expected Friday in the federal trial of Matthew Farwell,
+  a former Massachusetts police officer accused of killing Sandra Birchmore, a pregnant
+  23-year-old, in 2021. Federal prosecutors say Farwell, then a married detective
+  with the Stoughton Police Department, killed Birchmore and tried to stage her death
+  as a suicide to keep her from revealing a sexual relationship they say began when
+  she was 15. His lawyers acknowledge the relationship but say he did not kill her.
+nut_graf: The case reached federal court in Boston partly because local prosecutors
+  never brought charges in Birchmore's death, and federal investigators concluded
+  the initial police probe was rushed and compromised. The state medical examiner's
+  office, which initially ruled the death a suicide based partly on police information,
+  has since changed the official cause of death to undetermined.
 primary_entities:
 - Matthew Farwell
 - Sandra Birchmore
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +155,8 @@ related_stories:
   headline: Ex-police detective stands trial in federal court over Birchmore's death
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.9141
-- slug: 2026-11-02-judge-sullivan-weighs-motion-to-dismiss-clancy-murder-charges
-  headline: Judge Sullivan weighs motion to dismiss Clancy murder charges
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6046
-- slug: 2026-10-31-mod-officials-say-uk-police-wrongly-handed-steele-case-to-us-military-police
-  headline: MoD officials say UK police wrongly handed Steele case to US military police
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.614
-- slug: 2026-11-01-lindsay-clancy-returns-to-court-as-lawyers-debate-dismissal-and-retrial
-  headline: Lindsay Clancy returns to court as lawyers debate dismissal and retrial
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6039
-- slug: 2026-10-03-florida-appeals-court-reverses-both-convictions-in-hot-car-baby-death
-  headline: Florida appeals court reverses both convictions in hot-car baby death
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.612
-- slug: 2026-10-01-judge-sullivan-denies-motion-to-acquit-lindsay-clancy-of-murder
-  headline: Judge Sullivan denies motion to acquit Lindsay Clancy of murder
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6006
-- slug: 2026-09-21-patrick-clancy-describes-events-before-children-s-killings-on-60-minutes
-  headline: Patrick Clancy describes events before children's killings on 60 Minutes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6085
-- slug: 2026-09-04-judge-declares-mistrial-in-clancy-murder-trial-after-jury-deadlock
-  headline: Judge declares mistrial in Clancy murder trial after jury deadlock
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6214
-- slug: 2026-08-29-lindsay-clancy-jury-begins-deliberations-after-five-week-trial
-  headline: Lindsay Clancy jury begins deliberations after five-week trial
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6243
-- slug: 2026-09-02-upper-pottsgrove-officer-charged-with-manslaughter-in-college-student-s-killing
-  headline: Upper Pottsgrove officer charged with manslaughter in college student's killing
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.611
-- slug: 2026-08-31-jury-weighs-five-verdict-options-in-clancy-murder-trial
-  headline: Jury weighs five verdict options in Clancy murder trial
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6048
-- slug: 2026-08-25-prosecution-experts-challenge-clancy-postpartum-psychosis-defense
-  headline: Prosecution experts challenge Clancy postpartum psychosis defense
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6179
-- slug: 2026-08-26-lindsay-clancy-jury-to-begin-deliberations-after-five-week-murder-trial
-  headline: Lindsay Clancy jury to begin deliberations after five-week murder trial
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6124
-- slug: 2026-08-15-clancy-prosecutors-revive-faked-suicide-theory-based-on-her-internet-searches
-  headline: Clancy prosecutors revive faked-suicide theory based on her internet searches
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6053
-- slug: 2026-07-27-prosecutors-detail-slain-girl-s-final-texts-in-d4vd-hearing
-  headline: Prosecutors detail slain girl's final texts in D4vd hearing
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6136
-- slug: 2026-06-24-wa-police-to-review-response-to-virginia-giuffre-domestic-violence-dispute
-  headline: WA police to review response to Virginia Giuffre domestic violence dispute
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6122
-- slug: 2026-04-07-report-of-girl-killed-in-1986-placed-in-used-body-bag-prompts-mistrial
-  headline: Report of girl killed in 1986 placed in used body bag prompts mistrial
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6066
-- slug: 2026-02-09-doj-plans-to-interview-ghislaine-maxwell-for-possible-new-epstein-info
-  headline: DOJ plans to interview Ghislaine Maxwell for possible new Epstein info
-  publish_date: '2026-02-09'
-  relation: related
-  strength: 0.6117
-- slug: 2026-01-27-no-charges-for-officers-in-death-of-restrained-man-in-massachusetts
-  headline: No charges for officers in death of restrained man in Massachusetts
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6111
-- slug: 2026-01-01-patriots-christian-barmore-charged-in-domestic-assault-case-in-massachusetts
-  headline: Patriots’ Christian Barmore charged in domestic assault case in Massachusetts
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6109
+  strength: 0.9139
 ---
-
 ## Matthew Farwell trial heads to closing arguments in pregnant woman's killing
 
 **Subtype:** fact
