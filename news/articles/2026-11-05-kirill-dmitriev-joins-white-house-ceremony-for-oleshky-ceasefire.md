@@ -2,8 +2,17 @@
 headline: Kirill Dmitriev joins White House ceremony for Oleshky ceasefire
 secondary_headline: Melania Trump says Oleshky pause could yield a longer agreement
 publish_date: '2026-11-05'
-lede: Kirill Dmitriev, Russian President Vladimir Putin's envoy, joined first lady Melania Trump at the White House on Nov. 5 as she brought Russian and Ukrainian officials together to mark the localized ceasefire she brokered in Oleshky, Ukraine. President Donald Trump did not appear. The gathering followed a six-day pause that enabled humanitarian deliveries and civilian evacuation from the Russian-occupied village.
-nut_graf: The agreement came after Ukrainian, Russian and U.S. negotiators reached a pact to deliver relief to Oleshky, a war-divided village in Ukraine's southern Kherson region. The Oct. 27-Nov. 1 ceasefire was described as the most significant truce since Russia's full-scale invasion 4½ years ago, though Ukrainian authorities had not provided a total for the evacuations.
+lede: Kirill Dmitriev, Russian President Vladimir Putin's envoy, joined first lady
+  Melania Trump at the White House on Nov. 5 as she brought Russian and Ukrainian
+  officials together to mark the localized ceasefire she brokered in Oleshky, Ukraine.
+  President Donald Trump did not appear. The gathering followed a six-day pause that
+  enabled humanitarian deliveries and civilian evacuation from the Russian-occupied
+  village.
+nut_graf: The agreement came after Ukrainian, Russian and U.S. negotiators reached
+  a pact to deliver relief to Oleshky, a war-divided village in Ukraine's southern
+  Kherson region. The Oct. 27-Nov. 1 ceasefire was described as the most significant
+  truce since Russia's full-scale invasion 4½ years ago, though Ukrainian authorities
+  had not provided a total for the evacuations.
 primary_entities:
 - Melania Trump
 - Kirill Dmitriev
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,113 +151,57 @@ related_stories:
   headline: Oleshky ceasefire starts ahead of aid mission brokered by Melania Trump
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8504
+  strength: 0.8506
 - slug: 2026-11-04-melania-trump-receives-order-of-princess-olha-after-oleshky-ceasefire
   headline: Melania Trump receives Order of Princess Olha after Oleshky ceasefire
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7929
+  strength: 0.7915
 - slug: 2026-10-23-russia-and-ukraine-agree-to-localized-oleshky-ceasefire
   headline: Russia and Ukraine agree to localized Oleshky ceasefire
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8374
+  strength: 0.8362
 - slug: 2026-10-23-russia-and-ukraine-agree-to-ceasefire-in-occupied-oleshky
   headline: Russia and Ukraine agree to ceasefire in occupied Oleshky
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8078
+  strength: 0.8076
 - slug: 2026-10-23-lubinets-says-oleshky-ceasefire-to-start-tuesday-last-several-days
   headline: Lubinets says Oleshky ceasefire to start Tuesday, last several days
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8032
+  strength: 0.8037
 - slug: 2026-10-27-oleshky-aid-plan-requires-russian-mine-clearance-before-evacuation-buses-arrive
-  headline: Oleshky aid plan requires Russian mine clearance before evacuation buses arrive
+  headline: Oleshky aid plan requires Russian mine clearance before evacuation buses
+    arrive
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7646
+  strength: 0.7638
 - slug: 2026-10-30-evacuations-begin-in-occupied-oleshky-527-expected-to-return
   headline: Evacuations begin in occupied Oleshky, 527 expected to return
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7382
+  strength: 0.7359
 - slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
   headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7385
-- slug: 2026-10-22-at-least-2-killed-in-kyiv-putin-agrees-in-principle-to-resume-trilateral-talks
-  headline: At least 2 killed in Kyiv; Putin agrees in principle to resume trilateral talks
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6662
-- slug: 2026-10-21-witkoff-meets-putin-in-st-petersburg-as-kharkiv-drone-strike-kills-six
-  headline: Witkoff meets Putin in St Petersburg as Kharkiv drone strike kills six
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6669
-- slug: 2026-10-11-trump-claims-russia-ukraine-energy-ceasefire-as-kyiv-awaits-details
-  headline: Trump claims Russia-Ukraine 'energy ceasefire' as Kyiv awaits details
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.69
-- slug: 2026-10-10-russian-strikes-kill-15-in-ukraine-hours-after-trump-diesel-deal
-  headline: Russian strikes kill 15 in Ukraine hours after Trump diesel deal
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6795
-- slug: 2026-10-12-ukrainian-drones-hit-third-yandex-data-center-in-four-days
-  headline: Ukrainian drones hit third Yandex data center in four days
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6693
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6671
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agreed-to-a-3-day-ceasefire-prisoner-swap
-  headline: Trump says Russia and Ukraine agreed to a 3-day ceasefire, prisoner swap
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7023
-- slug: 2026-04-12-ceasefire-in-doubt-as-russia-continues-drone-strikes-in-ukraine
-  headline: Ceasefire in doubt as Russia continues drone strikes in Ukraine
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.704
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agree-to-three-day-ceasefire-prisoner-exchange
-  headline: Trump says Russia and Ukraine agree to three-day ceasefire, prisoner exchange
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6956
-- slug: 2026-01-30-trump-says-putin-agreed-to-pause-strikes-on-kyiv-for-one-week
-  headline: Trump says Putin agreed to pause strikes on Kyiv for one week
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7053
-- slug: 2026-05-09-moscow-and-kyiv-accuse-each-other-of-violating-us-brokered-truce
-  headline: Moscow and Kyiv accuse each other of violating US-brokered truce
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6851
-- slug: 2026-05-10-u-s--brokered-ceasefire-halts-fighting-as-russia-readies-victory-day-in-moscow
-  headline: U.S.-brokered ceasefire halts fighting as Russia readies Victory Day in Moscow
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6833
+  strength: 0.7382
 image:
   url: /articles/2026-11-05-kirill-dmitriev-joins-white-house-ceremony-for-oleshky-ceasefire.png
-  alt: "Illustration accompanying article: Kirill Dmitriev joins White House ceremony for Oleshky ceasefire"
+  alt: 'Illustration accompanying article: Kirill Dmitriev joins White House ceremony
+    for Oleshky ceasefire'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Kirill Dmitriev joins White House ceremony for Oleshky ceasefire
 
 **Subtype:** fact

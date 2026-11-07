@@ -1,9 +1,17 @@
 ---
 headline: Elon Musk spent at least $445 million backing Republicans, who lost Congress
-secondary_headline: Texas Democrats won statewide offices while targeting Musk’s spending and tax breaks
+secondary_headline: Texas Democrats won statewide offices while targeting Musk’s spending
+  and tax breaks
 publish_date: '2026-11-05'
-lede: Elon Musk spent at least $445 million trying to preserve Republican control of Congress, but the party lost control to Democrats after the 2026 midterm elections. In Texas, Democrat James Talarico defeated Republican Ken Paxton in the U.S. Senate race, Democrat Gina Hinojosa defeated Republican Gov. Greg Abbott, and Democrats took control of the state House.
-nut_graf: The political reversal could bring congressional subpoenas and investigations of Musk while placing his companies’ tax breaks and grants in Texas under an incoming Democratic governor’s scrutiny. Tesla and SpaceX also fell after the election as investors weighed the political consequences for his businesses.
+lede: Elon Musk spent at least $445 million trying to preserve Republican control
+  of Congress, but the party lost control to Democrats after the 2026 midterm elections.
+  In Texas, Democrat James Talarico defeated Republican Ken Paxton in the U.S. Senate
+  race, Democrat Gina Hinojosa defeated Republican Gov. Greg Abbott, and Democrats
+  took control of the state House.
+nut_graf: The political reversal could bring congressional subpoenas and investigations
+  of Musk while placing his companies’ tax breaks and grants in Texas under an incoming
+  Democratic governor’s scrutiny. Tesla and SpaceX also fell after the election as
+  investors weighed the political consequences for his businesses.
 primary_entities:
 - Elon Musk
 - James Talarico
@@ -49,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,7 +74,9 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-11-05'
-  caption: The Nasdaq Composite stood at 25,736.51 on Nov. 5, 2026, providing context for the divergence between the broader technology-heavy market and the post-election declines in Tesla and SpaceX.
+  caption: The Nasdaq Composite stood at 25,736.51 on Nov. 5, 2026, providing context
+    for the divergence between the broader technology-heavy market and the post-election
+    declines in Tesla and SpaceX.
 figures_aggregate:
   count: 1
   series_ids:
@@ -156,44 +167,50 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-05-elon-musk-spent-at-least-445-million-backing-republicans-who-lost-congress.png
-  alt: 'Illustration accompanying article: Elon Musk spent at least $445 million backing Republicans, who lost Congress'
+  alt: 'Illustration accompanying article: Elon Musk spent at least $445 million backing
+    Republicans, who lost Congress'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-04-musk-s-more-than-150-million-texas-senate-effort-appears-to-have-backfired
   headline: Musk's more than $150 million Texas Senate effort appears to have backfired
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8507
+  strength: 0.8513
 - slug: 2026-11-04-musk-s-47-million-pac-contribution-backed-paxton-s-losing-texas-senate-bid
-  headline: Musk's $47 million PAC contribution backed Paxton's losing Texas Senate bid
+  headline: Musk's $47 million PAC contribution backed Paxton's losing Texas Senate
+    bid
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.832
+  strength: 0.8324
 - slug: 2026-11-04-musk-has-given-more-than-250-million-to-republican-aligned-groups-in-the-third-q
-  headline: Musk has given more than $250 million to Republican-aligned groups in the third quarter
+  headline: Musk has given more than $250 million to Republican-aligned groups in
+    the third quarter
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8287
+  strength: 0.8291
 - slug: 2026-11-04-democrats-put-elon-musk-s-contracts-and-influence-under-scrutiny
   headline: Democrats put Elon Musk's contracts and influence under scrutiny
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8255
+  strength: 0.8251
 - slug: 2026-10-31-elon-musk-s-midterm-giving-to-republican-groups-reaches-445-77-million
   headline: Elon Musk's midterm giving to Republican groups reaches $445.77 million
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8051
+  strength: 0.8046
 - slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
   headline: Musk's Republican midterm giving exceeds $442 million
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8264
+  strength: 0.8266
 - slug: 2026-11-03-paxton-s-legal-history-and-musk-s-money-shape-pivotal-texas-senate-race
   headline: Paxton's legal history and Musk's money shape pivotal Texas Senate race
   publish_date: '2026-11-03'
@@ -203,69 +220,8 @@ related_stories:
   headline: Hinojosa pitches $1,500 refund amid Abbott's $180 million campaign spending
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7297
-- slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
-  headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7478
-- slug: 2026-11-05-tech-billionaires-face-scrutiny-after-democratic-congressional-gains
-  headline: Tech billionaires face scrutiny after Democratic congressional gains
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7181
-- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
-  headline: Talarico says Musk is backing Paxton at UT Austin rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7944
-- slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
-  headline: Paxton, Talarico face off as Texas voters head to polls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7542
-- slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
-  headline: James Talarico defeats Ken Paxton in Texas Senate race
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7143
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7178
-- slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
-  headline: Musk channels $158 million in September to Senate Republican super PAC
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.8153
-- slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8136
-- slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
-  headline: Democrats outraise Republicans in 27 of 35 Senate races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7918
-- slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
-  headline: Democrats lead polls as Trump enters midterms with 32% approval
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7116
-- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
-  headline: Talarico and Paxton enter final stretch of Texas Senate race
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7564
-- slug: 2026-10-27-trump-makes-third-texas-trip-of-the-month-for-paxton-s-senate-bid
-  headline: Trump makes third Texas trip of the month for Paxton's Senate bid
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.724
+  strength: 0.7296
 ---
-
 ## Elon Musk spent at least $445 million backing Republicans, who lost Congress
 
 **Subtype:** fact

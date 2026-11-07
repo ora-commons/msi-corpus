@@ -2,8 +2,15 @@
 headline: Republican hopefuls blame Iran war and tariffs for 2026 midterm losses
 secondary_headline: Democrats won both chambers and a majority of governor races
 publish_date: '2026-11-05'
-lede: Republican figures hoping to succeed Donald Trump in 2028 said the Iran war, tariffs and a cost-of-living squeeze contributed to Democratic gains in the 2026 US midterms. Ted Cruz, JD Vance and Ron DeSantis pointed to those pressures as Republicans lost across the country, including in previous strongholds, while Trump acknowledged that the war had pushed potential Republican voters away.
-nut_graf: The candidates’ explanations put the war in Iran and household affordability at the center of the Republican response, while DeSantis also faulted Democratic advertising on the Epstein files and congressional stock trading. Democrats seized authority in both chambers of Congress and won a majority of gubernatorial races.
+lede: Republican figures hoping to succeed Donald Trump in 2028 said the Iran war,
+  tariffs and a cost-of-living squeeze contributed to Democratic gains in the 2026
+  US midterms. Ted Cruz, JD Vance and Ron DeSantis pointed to those pressures as Republicans
+  lost across the country, including in previous strongholds, while Trump acknowledged
+  that the war had pushed potential Republican voters away.
+nut_graf: The candidates’ explanations put the war in Iran and household affordability
+  at the center of the Republican response, while DeSantis also faulted Democratic
+  advertising on the Epstein files and congressional stock trading. Democrats seized
+  authority in both chambers of Congress and won a majority of gubernatorial races.
 primary_entities:
 - Ted Cruz
 - JD Vance
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +153,44 @@ related_stories:
   headline: Vance says Iran war was the reason Republicans lost midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8301
+  strength: 0.829
 - slug: 2026-11-05-vance-blames-iran-war-for-republican-midterm-losses-trump-largely-agrees
   headline: Vance blames Iran war for Republican midterm losses; Trump largely agrees
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7975
+  strength: 0.7964
 - slug: 2026-11-05-trump-s-iran-war-likely-drove-decisive-republican-midterm-losses
   headline: Trump's Iran war likely drove decisive Republican midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7888
+  strength: 0.7879
 - slug: 2026-11-04-jd-vance-blames-iran-war-for-republican-midterm-losses
   headline: JD Vance blames Iran war for Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7866
+  strength: 0.7853
 - slug: 2026-11-04-trump-says-iran-was-one-factor-in-republican-midterm-losses
   headline: Trump says Iran was one factor in Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7726
+  strength: 0.7713
 - slug: 2026-11-04-vance-blames-republican-midterm-losses-on-the-war-and-energy-prices
   headline: Vance blames Republican midterm losses on the war and energy prices
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7562
+  strength: 0.7555
 - slug: 2026-11-04-trump-accepts-midterm-results-and-links-republican-losses-to-iran
   headline: Trump accepts midterm results and links Republican losses to Iran
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7521
+  strength: 0.7511
 - slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
+  headline: Democrats take control of Congress, seek leverage over Trump’s foreign
+    policy
   publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7427
-- slug: 2026-11-04-vance-distances-himself-from-trump-s-iran-war-defense-after-gop-losses
-  headline: Vance distances himself from Trump’s Iran war defense after GOP losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7483
-- slug: 2026-11-04-iranian-officials-claim-u-s-midterm-setback-as-trump-faces-renewed-war-pressure
-  headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war pressure
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7478
-- slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
-  headline: Republicans fault Trump after Democrats take House and Senate in midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7426
-- slug: 2026-11-04-democrats-midterm-gains-open-the-2028-race-as-republicans-absorb-broad-losses
-  headline: Democrats' midterm gains open the 2028 race as Republicans absorb broad losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7416
-- slug: 2026-11-04-poll-finds-74-of-voters-say-iran-conflict-was-a-crucial-or-major-factor
-  headline: Poll finds 74% of voters say Iran conflict was a crucial or major factor
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7413
-- slug: 2026-11-04-mike-johnson-won-t-seek-reelection-as-house-republicans-top-leader
-  headline: Mike Johnson won't seek reelection as House Republicans' top leader
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7403
-- slug: 2026-11-05-democrats-win-congress-on-affordability-but-trump-retains-veto-power
-  headline: Democrats win Congress on affordability, but Trump retains veto power
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7316
-- slug: 2026-11-03-in-interviews-us-midterm-voters-cite-costs-the-war-in-iran-and-immigration-enfor
-  headline: In interviews, US midterm voters cite costs, the war in Iran and immigration enforcement
-  publish_date: '2026-11-03'
   relation: related
   strength: 0.7419
-- slug: 2026-11-05-gingrich-says-vance-s-luster-has-dimmed-as-some-republicans-look-to-take-him-dow
-  headline: Gingrich says Vance's luster has dimmed as some Republicans look to take him down
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7217
-- slug: 2026-11-01-trump-s-policies-put-republican-congressional-majorities-at-risk-in-the-midterms
-  headline: Trump’s policies put Republican congressional majorities at risk in the midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7458
-- slug: 2026-11-03-cost-of-living-and-trump-s-second-term-policies-shape-2026-midterms
-  headline: Cost of living and Trump's second-term policies shape 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7181
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7569
 ---
-
 ## Republican hopefuls blame Iran war and tariffs for 2026 midterm losses
 
 **Subtype:** fact
