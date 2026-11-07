@@ -1,9 +1,22 @@
 ---
 headline: Leon Black denies Garcia's claims he funded Epstein's abuse and trafficking
-secondary_headline: Black seeks $7.5 million in damages over Garcia's televised Epstein remarks
+secondary_headline: Black seeks $7.5 million in damages over Garcia's televised Epstein
+  remarks
 publish_date: '2026-11-05'
-lede: A spokesperson for billionaire Leon Black says he has 'never abused a woman; he has never been with an underage woman; he has never been involved with sex trafficking; and, he never paid Epstein for women.' Rep. Robert Garcia, the top Democrat on the House Oversight Committee, claimed in September that Black funded Jeffrey Epstein's abuse and trafficking of women and said multiple women have accused Black of sexual assault. Black is seeking $7.5 million in damages from Garcia over the congressman's nationally televised statements about Black and Epstein in a defamation lawsuit filed in federal court in New York on Wednesday.
-nut_graf: The public dispute between Garcia and Black now extends into court as the House Oversight Committee's investigation into Epstein continues. The House voted to hold Black in contempt of Congress over his refusal to comply with committee subpoenas, but the Department of Justice had not filed contempt charges against him as of Nov. 5. Garcia is poised to become the committee's next chair after the midterm elections.
+lede: A spokesperson for billionaire Leon Black says he has 'never abused a woman;
+  he has never been with an underage woman; he has never been involved with sex trafficking;
+  and, he never paid Epstein for women.' Rep. Robert Garcia, the top Democrat on the
+  House Oversight Committee, claimed in September that Black funded Jeffrey Epstein's
+  abuse and trafficking of women and said multiple women have accused Black of sexual
+  assault. Black is seeking $7.5 million in damages from Garcia over the congressman's
+  nationally televised statements about Black and Epstein in a defamation lawsuit
+  filed in federal court in New York on Wednesday.
+nut_graf: The public dispute between Garcia and Black now extends into court as the
+  House Oversight Committee's investigation into Epstein continues. The House voted
+  to hold Black in contempt of Congress over his refusal to comply with committee
+  subpoenas, but the Department of Justice had not filed contempt charges against
+  him as of Nov. 5. Garcia is poised to become the committee's next chair after the
+  midterm elections.
 primary_entities:
 - Leon Black
 - Robert Garcia
@@ -42,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +158,43 @@ related_stories:
   headline: Leon Black sues Rep. Robert Garcia over claims tying him to Epstein
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8894
+  strength: 0.8886
 - slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
   headline: House Judiciary Democrats ask Blanche to probe Epstein network
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6672
+  strength: 0.6682
 - slug: 2026-10-21-lawsuit-says-epstein-lawyer-structured-cash-just-below-10-000
   headline: Lawsuit says Epstein lawyer structured cash just below $10,000
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.67
+  strength: 0.6692
 - slug: 2026-09-16-house-votes-to-hold-leon-black-in-contempt-over-epstein-investigation
   headline: House votes to hold Leon Black in contempt over Epstein investigation
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.8139
+  strength: 0.8142
 - slug: 2026-09-15-house-committee-recommends-holding-leon-black-in-contempt-of-congress
   headline: House committee recommends holding Leon Black in contempt of Congress
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8005
+  strength: 0.7999
 - slug: 2026-09-16-house-panel-votes-to-hold-leon-black-in-contempt-over-epstein-probe
   headline: House panel votes to hold Leon Black in contempt over Epstein probe
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7595
+  strength: 0.7604
 - slug: 2026-09-16-epstein-survivors-push-house-panel-to-hear-from-dershowitz-ag-blanche
   headline: Epstein survivors push House panel to hear from Dershowitz, AG Blanche
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7426
+  strength: 0.7423
 - slug: 2026-09-02-comer-threatens-leon-black-with-contempt-ahead-of-thursday-deposition
   headline: Comer threatens Leon Black with contempt ahead of Thursday deposition
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7314
-- slug: 2026-09-23-federal-prosecutors-open-probe-into-epstein-s-estate-executors
-  headline: Federal prosecutors open probe into Epstein's estate executors
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6666
-- slug: 2026-09-03-leon-black-files-federal-suit-to-void-oversight-committee-subpoenas
-  headline: Leon Black files federal suit to void Oversight Committee subpoenas
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7233
-- slug: 2026-08-19-house-oversight-chair-threatens-leon-black-with-contempt-over-epstein-probe
-  headline: House oversight chair threatens Leon Black with contempt over Epstein probe
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7422
-- slug: 2026-09-01-massie-names-black-and-copperfield-as-epstein-co-conspirators-on-house-floor
-  headline: Massie names Black and Copperfield as Epstein co-conspirators on House floor
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6991
-- slug: 2026-06-26-leon-black-to-testify-friday-before-house-panel-investigating-epstein-ties
-  headline: Leon Black to testify Friday before House panel investigating Epstein ties
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7612
-- slug: 2026-08-27-judge-approves-bank-of-america-s-72-5m-settlement-with-epstein-victims
-  headline: Judge approves Bank of America's $72.5M settlement with Epstein victims
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6671
-- slug: 2026-06-03-trump-appointee-leading-205bn-agency-had-personal-ties-to-epstein-emails-show
-  headline: Trump appointee leading $205bn agency had personal ties to Epstein, emails show
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6941
-- slug: 2026-06-10-bill-gates-testifies-before-house-committee-on-epstein-ties
-  headline: Bill Gates testifies before House committee on Epstein ties
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6892
-- slug: 2026-03-18-bank-of-america-reaches-tentative-settlement-in-epstein-victims-lawsuit
-  headline: Bank of America reaches tentative settlement in Epstein victims’ lawsuit
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7088
-- slug: 2026-05-14-commerce-secretary-lutnick-says-epstein-blackmail-claim-was-speculation
-  headline: Commerce Secretary Lutnick says Epstein ‘blackmail’ claim was speculation
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6794
-- slug: 2026-02-19-les-wexner-tells-congress-he-was-duped-by-jeffrey-epstein
-  headline: Les Wexner tells Congress he was “duped” by Jeffrey Epstein
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6924
-- slug: 2026-04-10-melania-trump-denies-epstein-ties-calls-for-survivor-centered-hearing
-  headline: Melania Trump denies Epstein ties, calls for survivor-centered hearing
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6845
+  strength: 0.7312
 ---
-
 ## Leon Black denies Garcia's claims he funded Epstein's abuse and trafficking
 
 **Subtype:** fact
