@@ -115,6 +115,8 @@ related_stories:
   publish_date: '2026-09-15'
   relation: related
   strength: 0.6713
+analyses:
+- '2026-11-05-carney-budget-builds-five-year-plan-on-war-bolstered-oil-revenues'
 ---
 ## Carney's second budget adds C$142 billion in spending on sovereignty and housing
 
@@ -155,3 +157,8 @@ On defence, Carney previously pledged to significantly boost spending to meet NA
 **Publication date:** 2026-11-05
 **Title:** Canada's federal budget includes billions for sovereignty and tackling homelessness
 **URL:** https://www.bbc.co.uk/news/articles/cwdr87r8pjlvo
+
+---
+
+<!-- analysis-link:2026-11-05-carney-budget-builds-five-year-plan-on-war-bolstered-oil-revenues -->
+**Going deeper:** [Read MSI's analysis of Carney budget's war-linked revenue base →](/analyses/2026-11-05-carney-budget-builds-five-year-plan-on-war-bolstered-oil-revenues)
