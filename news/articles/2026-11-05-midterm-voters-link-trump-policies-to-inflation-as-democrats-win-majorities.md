@@ -220,6 +220,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7469
+analyses:
+- '2026-11-05-ap-poll-ties-democratic-midterm-gains-to-inflation-attribution-and-income-split-'
 ---
 ## Midterm voters link Trump policies to inflation as Democrats win majorities
 
@@ -269,3 +271,8 @@ The poll found that most voters took away from the past 22 months of Trump's pre
 **Publication date:** 2026-11-05
 **Title:** The midterm verdict on Trump's economy
 **URL:** https://apnews.com/article/economy-trump-midterms-inflation-ai-wealthy-healthcare-f8dbe8800549340c8a75d956302c126b
+
+---
+
+<!-- analysis-link:2026-11-05-ap-poll-ties-democratic-midterm-gains-to-inflation-attribution-and-income-split- -->
+**Going deeper:** [Read MSI's analysis of inflation attribution and the 2026 midterms →](/analyses/2026-11-05-ap-poll-ties-democratic-midterm-gains-to-inflation-attribution-and-income-split-)
