@@ -1,9 +1,19 @@
 ---
 headline: Anthropic is developing AI twice as fast as a year ago, review finds
-secondary_headline: Researchers suspect AI improving itself is the main driver of the speedup
+secondary_headline: Researchers suspect AI improving itself is the main driver of
+  the speedup
 publish_date: '2026-11-05'
-lede: Anthropic is improving its artificial intelligence models about twice as fast as it was a year ago, according to an analysis released Thursday by an independent monitoring group that the San Francisco company invited to examine its internal data. The findings come as Anthropic prepares to go public later this month in what could be the biggest initial public offering ever.
-nut_graf: The findings are significant because details about the technology — and its risks — have been provided primarily by AI companies themselves, which President Donald Trump's administration has encouraged to police themselves on matters of safety. Model Evaluation and Threat Research, the Berkeley, California-based nonprofit behind the analysis, is funded through donations and does not accept compensation for its work.
+lede: Anthropic is improving its artificial intelligence models about twice as fast
+  as it was a year ago, according to an analysis released Thursday by an independent
+  monitoring group that the San Francisco company invited to examine its internal
+  data. The findings come as Anthropic prepares to go public later this month in what
+  could be the biggest initial public offering ever.
+nut_graf: The findings are significant because details about the technology — and
+  its risks — have been provided primarily by AI companies themselves, which President
+  Donald Trump's administration has encouraged to police themselves on matters of
+  safety. Model Evaluation and Threat Research, the Berkeley, California-based nonprofit
+  behind the analysis, is funded through donations and does not accept compensation
+  for its work.
 primary_entities:
 - Anthropic
 - Model Evaluation and Threat Research
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +157,44 @@ related_stories:
   headline: Anthropic adds quarterly results to its updated IPO filing
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7658
+  strength: 0.7665
 - slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
   headline: Anthropic says AI research could outpace model safeguards
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8017
+  strength: 0.8025
 - slug: 2026-10-26-anthropic-files-ipo-papers-as-reports-put-proceeds-at-up-to-100-billion
   headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7691
+  strength: 0.7702
 - slug: 2026-10-27-anthropic-s-ipo-filing-details-compute-customer-and-data-center-risks
   headline: Anthropic's IPO filing details compute, customer and data-center risks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7628
+  strength: 0.7638
 - slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
   headline: Anthropic begins IPO process, outlining potential AI benefits and risks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7576
+  strength: 0.7584
 - slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
-  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its IPO filing
+  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its
+    IPO filing
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7544
+  strength: 0.7549
 - slug: 2026-10-26-anthropic-files-for-ipo-with-16-286bn-revenue-and-80bn-loss
   headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7581
+  strength: 0.7588
 - slug: 2026-10-26-anthropic-expands-claude-tools-for-nonprofits-while-pursuing-an-ipo
   headline: Anthropic expands Claude tools for nonprofits while pursuing an IPO
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7393
-- slug: 2026-10-27-anthropic-excludes-about-72-billion-in-liability-valuation-losses-from-adjusted-
-  headline: Anthropic excludes about $72 billion in liability valuation losses from adjusted profit
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7249
-- slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
-  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time charge
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7296
-- slug: 2026-10-26-anthropic-reports-321-4bn-in-data-center-leasing-costs-so-far-this-year
-  headline: Anthropic reports $321.4bn in data-center leasing costs so far this year
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7264
-- slug: 2026-10-15-anthropic-revenue-jumps-45-to-16-8bn-ahead-of-expected-share-sale
-  headline: Anthropic revenue jumps 45% to $16.8bn ahead of expected share sale
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7611
-- slug: 2026-09-30-ftc-opens-investigation-of-anthropic-and-openai-over-consumer-harm-claims
-  headline: FTC opens investigation of Anthropic and OpenAI over consumer harm claims
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7315
-- slug: 2026-09-18-anthropic-shifts-planned-ipo-from-october-to-november
-  headline: Anthropic shifts planned IPO from October to November
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.726
-- slug: 2026-09-14-anthropic-on-track-for-second-straight-profitable-quarter-ft-reports
-  headline: Anthropic on track for second straight profitable quarter, FT reports
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7381
-- slug: 2026-09-09-anthropic-releases-interactive-tool-for-modeling-ai-economic-impact
-  headline: Anthropic releases interactive tool for modeling AI economic impact
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7418
-- slug: 2026-08-11-anthropic-pitches-prospective-investors-ahead-of-planned-ipo
-  headline: Anthropic pitches prospective investors ahead of planned IPO
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7337
-- slug: 2026-07-08-anthropic-and-openai-navigate-divergent-federal-challenges-near-ipos
-  headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7619
-- slug: 2026-06-20-anthropic-s-ipo-ambitions-collide-with-political-backlash-over-ai-risks
-  headline: Anthropic's IPO Ambitions Collide With Political Backlash Over AI Risks
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.7539
-- slug: 2026-06-05-anthropic-urges-industry-coordination-to-pause-advanced-ai-development
-  headline: Anthropic urges industry coordination to pause advanced AI development
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7472
+  strength: 0.7395
 ---
-
 ## Anthropic is developing AI twice as fast as a year ago, review finds
 
 **Subtype:** fact

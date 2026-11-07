@@ -2,8 +2,16 @@
 headline: Democrats gain control of Congress as 2026 voter shifts emerge
 secondary_headline: Keith points to economic pain and the Iran war
 publish_date: '2026-11-05'
-lede: Democrats were awaiting Senate results in Alaska and Mississippi after taking control of Congress in the 2026 midterms, with some House races still uncalled, NPR senior political correspondent Tamara Keith reported. If both outstanding Senate races break toward Democrats, Keith said the party would have 54 senators, plus two independents who caucus with it. Keith described the broader result as a Republican setback that extended into governorships, statewide offices and state legislatures.
-nut_graf: The remaining Senate returns and uncalled House races will determine the size of Democratic control in Congress. Keith said the shift extended beyond those margins, with voters in every age group moving toward Democrats and Republican losses reaching governorships and state legislatures.
+lede: Democrats were awaiting Senate results in Alaska and Mississippi after taking
+  control of Congress in the 2026 midterms, with some House races still uncalled,
+  NPR senior political correspondent Tamara Keith reported. If both outstanding Senate
+  races break toward Democrats, Keith said the party would have 54 senators, plus
+  two independents who caucus with it. Keith described the broader result as a Republican
+  setback that extended into governorships, statewide offices and state legislatures.
+nut_graf: The remaining Senate returns and uncalled House races will determine the
+  size of Democratic control in Congress. Keith said the shift extended beyond those
+  margins, with voters in every age group moving toward Democrats and Republican losses
+  reaching governorships and state legislatures.
 primary_entities:
 - Tamara Keith
 - Democrats
@@ -49,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +160,43 @@ related_stories:
   headline: Democrats take control of Congress in 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.811
+  strength: 0.8098
 - slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
   headline: Democrats regain Senate control after wins in at least six states
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7925
+  strength: 0.7922
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7899
+  strength: 0.7881
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7848
+  strength: 0.7843
 - slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
   headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7842
+  strength: 0.7831
 - slug: 2026-11-05-democrats-flip-senate-seats-in-the-south-reshaping-the-2028-contest
   headline: Democrats flip Senate seats in the South, reshaping the 2028 contest
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7763
+  strength: 0.7755
 - slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
   headline: Democrats sweep Congress with Mississippi Senate race still counting
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7726
+  strength: 0.7724
 - slug: 2026-11-05-tight-midterm-races-remain-uncalled-as-democrats-take-control-of-congress
   headline: Tight midterm races remain uncalled as Democrats take control of Congress
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7697
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7808
-- slug: 2026-11-04-uncalled-senate-and-governor-races-remain-after-2026-midterms
-  headline: Uncalled Senate and governor races remain after 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7728
-- slug: 2026-11-05-democrats-gain-hundreds-of-state-legislative-seats-in-2026-midterms
-  headline: Democrats gain hundreds of state legislative seats in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7632
-- slug: 2026-11-04-live-midterm-tracker-shows-33-of-35-senate-races-367-of-435-house-races-called
-  headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races called
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.768
-- slug: 2026-11-04-county-maps-show-large-democratic-swings-in-2026-senate-results
-  headline: County maps show large Democratic swings in 2026 Senate results
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7657
-- slug: 2026-11-05-mike-johnson-plans-to-step-down-as-top-house-republican-after-midterms
-  headline: Mike Johnson plans to step down as top House Republican after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7565
-- slug: 2026-11-04-democrats-win-house-and-senate-control-in-2026-us-midterms
-  headline: Democrats win House and Senate control in 2026 US midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7632
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7589
-- slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
-  headline: US midterm results may take days or weeks to settle
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7652
-- slug: 2026-11-04-democrats-flip-state-legislatures-and-pick-up-four-governorships-in-2026-midterm
-  headline: Democrats flip state legislatures and pick up four governorships in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.757
-- slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
-  headline: Democrats poised for House control as midterm election results begin
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7515
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7551
+  strength: 0.7685
 ---
-
 ## Democrats gain control of Congress as 2026 voter shifts emerge
 
 **Subtype:** fact

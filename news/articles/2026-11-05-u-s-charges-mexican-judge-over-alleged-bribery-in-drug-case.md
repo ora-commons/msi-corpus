@@ -2,8 +2,14 @@
 headline: U.S. charges Mexican judge over alleged bribery in drug case
 secondary_headline: Prosecutors seek extradition of judge arrested in Colombia
 publish_date: '2026-11-05'
-lede: A Mexican judge accused of accepting $2 million in bribes to release a suspected Canadian drug trafficker was arrested in Colombia and charged in the United States, U.S. officials said Thursday. Luiz Benítez Alcántara, 49, is charged in a nine-count indictment as an accessory after the fact.
-nut_graf: The case adds U.S. charges against a Mexican judge to an investigation that has produced dozens of arrests and large seizures of drugs, weapons and cash. It also targets alleged corruption in the extradition and custody process for a suspect accused of helping run a billion-dollar trafficking network.
+lede: A Mexican judge accused of accepting $2 million in bribes to release a suspected
+  Canadian drug trafficker was arrested in Colombia and charged in the United States,
+  U.S. officials said Thursday. Luiz Benítez Alcántara, 49, is charged in a nine-count
+  indictment as an accessory after the fact.
+nut_graf: The case adds U.S. charges against a Mexican judge to an investigation that
+  has produced dozens of arrests and large seizures of drugs, weapons and cash. It
+  also targets alleged corruption in the extradition and custody process for a suspect
+  accused of helping run a billion-dollar trafficking network.
 primary_entities:
 - Luiz Benítez Alcántara
 - Andrew Clark
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +147,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-ecuador-extradites-three-drug-suspects-to-face-u-s-charges
-  headline: Ecuador extradites three drug suspects to face U.S. charges
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6347
 - slug: 2026-10-12-u-s-arrests-colombian-fugitive-tied-to-maduro-on-laundering-charges
   headline: U.S. arrests Colombian fugitive tied to Maduro on laundering charges
   publish_date: '2026-10-12'
   relation: related
   strength: 0.676
-- slug: 2026-10-12-venezuelan-coalition-allies-press-rodr-guez-to-resist-us-pursuit-of-insiders
-  headline: Venezuelan coalition allies press Rodríguez to resist US pursuit of insiders
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6265
-- slug: 2026-10-08-indictment-details-alleged-torture-of-american-detainees
-  headline: Indictment details alleged torture of American detainees
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6075
-- slug: 2026-08-27-justice-department-indicts-more-than-80-in-los-baja-deo-case
-  headline: Justice Department indicts more than 80 in Los Baja Deo case
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6194
-- slug: 2026-08-27-colombian-authorities-capture-alleged-tren-de-aragua-leader-in-bogot
-  headline: Colombian authorities capture alleged Tren de Aragua leader in Bogotá
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.608
-- slug: 2026-08-07-daniel-gordiano-valenzuela-pleads-guilty-in-nearly-2-million-laundering-case
-  headline: Daniel Gordiano Valenzuela pleads guilty in nearly $2 million laundering case
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6307
-- slug: 2026-08-16-u-s-agents-arrest-three-people-sought-by-mexico-ambassador-says
-  headline: U.S. agents arrest three people sought by Mexico, ambassador says
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6146
 - slug: 2026-01-23-former-olympic-snowboarder-arrested-in-mexico-on-cocaine-charges
   headline: Former Olympic snowboarder arrested in Mexico on cocaine charges
   publish_date: '2026-01-23'
   relation: related
-  strength: 0.7051
+  strength: 0.7062
 - slug: 2026-01-27-ex-olympic-snowboarder-pleads-not-guilty-to-drug-trafficking-charges
   headline: Ex-Olympic snowboarder pleads not guilty to drug trafficking charges
   publish_date: '2026-01-27'
   relation: related
-  strength: 0.6837
-- slug: 2026-05-15-us-grand-jury-expands-charges-against-cjng-leader-audias-flores-silva
-  headline: US grand jury expands charges against CJNG leader Audias Flores Silva
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6433
-- slug: 2026-05-15-us-grand-jury-expands-charges-against-jalisco-cartel-second-in-command
-  headline: US grand jury expands charges against Jalisco cartel second-in-command
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6297
-- slug: 2026-05-16-ex-sinaloa-security-chief-faces-us-court-after-mexico-bribery-allegations
-  headline: Ex-Sinaloa security chief faces US court after Mexico bribery allegations
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6269
-- slug: 2026-04-24-federal-authorities-arrest-mexican-mafia-members-in-california-sweep
-  headline: Federal authorities arrest Mexican Mafia members in California sweep
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6311
-- slug: 2026-05-16-ex-sinaloa-security-chief-surrenders-to-u-s-first-of-10-indicted-officials
-  headline: Ex-Sinaloa security chief surrenders to U.S., first of 10 indicted officials
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6235
-- slug: 2026-02-06-justice-department-targets-cartels-financial-networks-with-cryptocurrency
-  headline: Justice Department targets cartels’ financial networks with cryptocurrency
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6397
-- slug: 2026-01-04-maduro-faces-narco-terrorism-charges-in-manhattan-after-u-s-military-capture
-  headline: Maduro faces narco-terrorism charges in Manhattan after U.S. military capture
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6296
-- slug: 2026-04-08-cjng-co-founder-pleads-guilty-to-u-s-cocaine-conspiracy-charge
-  headline: CJNG co-founder pleads guilty to U.S. cocaine conspiracy charge
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6181
-- slug: 2026-04-24-redada-federal-arresta-a-decenas-de-integrantes-de-la-mafia-mexicana
-  headline: Redada federal arresta a decenas de integrantes de la Mafia Mexicana
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6125
-- slug: 2026-04-29-sheinbaum-says-mexico-will-investigate-u-s-indictments-over-sinaloa-ties
-  headline: Sheinbaum says Mexico will investigate U.S. indictments over Sinaloa ties
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.608
+  strength: 0.6847
 ---
-
 ## U.S. charges Mexican judge over alleged bribery in drug case
 
 **Subtype:** fact
