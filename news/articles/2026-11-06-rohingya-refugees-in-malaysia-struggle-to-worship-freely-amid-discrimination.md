@@ -166,6 +166,8 @@ related_stories:
   publish_date: '2026-07-16'
   relation: related
   strength: 0.6732
+analyses:
+- '2026-11-06-prayer-goes-home-how-malaysia-s-recognition-gap-reshapes-rohingya-worship'
 ---
 ## Rohingya refugees in Malaysia struggle to worship freely amid discrimination
 
@@ -219,3 +221,8 @@ Begum keeps part of him alive through the lessons she passes on to her two daugh
 **Publication date:** 2026-11-06
 **Title:** Rohingya refugees struggle to practice their faith and find acceptance in Malaysia
 **URL:** https://apnews.com/article/malaysia-rohingya-myanmar-religious-freedom-islam-1115a3fcf5ce1753f6c486fe57be5242
+
+---
+
+<!-- analysis-link:2026-11-06-prayer-goes-home-how-malaysia-s-recognition-gap-reshapes-rohingya-worship -->
+**Going deeper:** [Read MSI's analysis of Rohingya worship under Malaysia's recognition gap →](/analyses/2026-11-06-prayer-goes-home-how-malaysia-s-recognition-gap-reshapes-rohingya-worship)

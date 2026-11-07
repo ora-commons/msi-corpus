@@ -1,9 +1,25 @@
 ---
 headline: Warren expected to chair Senate Banking panel as financial stocks tumble
-secondary_headline: Subpoena powers set to expand oversight of private equity, crypto and prediction markets
+secondary_headline: Subpoena powers set to expand oversight of private equity, crypto
+  and prediction markets
 publish_date: '2026-11-06'
-lede: Sen. Elizabeth Warren is expected to become chairman of the Senate Banking Committee, handing the Massachusetts Democrat expansive authority over the financial industry and new subpoena powers, The Wall Street Journal reported. Warren is expected to use the powers to increase oversight and investigations into Wall Street firms, cryptocurrency and prediction markets. Financial stocks tumbled Thursday, with the S&P 500 down 4.4% and JPMorgan Chase and Goldman Sachs each falling more than 4%, as investors grew fearful the Democratic agenda would hamper business and the artificial-intelligence boom.
-nut_graf: 'The chairmanship would consolidate oversight of banks, private equity, cryptocurrency and prediction markets under a senator who, as the panel''s top Democrat over the past two years, has written hundreds of letters demanding answers from companies. The prospect moved markets: the S&P 500 fell 4.4% on Thursday and JPMorgan Chase and Goldman Sachs each dropped more than 4% as investors weighed whether the Democratic agenda would hamper business and the artificial-intelligence boom. The title is not guaranteed — it follows from Warren''s seniority, and some lobbyists have floated a bid by Sen. Sherrod Brown — though most Senate watchers consider a challenge unlikely.'
+lede: Sen. Elizabeth Warren is expected to become chairman of the Senate Banking Committee,
+  handing the Massachusetts Democrat expansive authority over the financial industry
+  and new subpoena powers, The Wall Street Journal reported. Warren is expected to
+  use the powers to increase oversight and investigations into Wall Street firms,
+  cryptocurrency and prediction markets. Financial stocks tumbled Thursday, with the
+  S&P 500 down 4.4% and JPMorgan Chase and Goldman Sachs each falling more than 4%,
+  as investors grew fearful the Democratic agenda would hamper business and the artificial-intelligence
+  boom.
+nut_graf: 'The chairmanship would consolidate oversight of banks, private equity,
+  cryptocurrency and prediction markets under a senator who, as the panel''s top Democrat
+  over the past two years, has written hundreds of letters demanding answers from
+  companies. The prospect moved markets: the S&P 500 fell 4.4% on Thursday and JPMorgan
+  Chase and Goldman Sachs each dropped more than 4% as investors weighed whether the
+  Democratic agenda would hamper business and the artificial-intelligence boom. The
+  title is not guaranteed — it follows from Warren''s seniority, and some lobbyists
+  have floated a bid by Sen. Sherrod Brown — though most Senate watchers consider
+  a challenge unlikely.'
 primary_entities:
 - Elizabeth Warren
 - Senate Banking Committee
@@ -56,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,116 +172,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-06-warren-expected-to-chair-senate-banking-panel-as-financial-stocks-tumble.png
-  alt: 'Illustration accompanying article: Warren expected to chair Senate Banking panel as financial stocks tumble'
+  alt: 'Illustration accompanying article: Warren expected to chair Senate Banking
+    panel as financial stocks tumble'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.717
+  strength: 0.7163
 - slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
   headline: Democratic gains shift U.S. technology policy outlook
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6517
-- slug: 2026-11-05-tech-stocks-lose-more-than-2-trillion-on-fears-of-ai-regulation-after-midterms
-  headline: Tech stocks lose more than $2 trillion on fears of AI regulation after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6421
+  strength: 0.651
 - slug: 2026-10-29-tech-companies-face-deepfake-scrutiny-as-midterms-approach
   headline: Tech companies face deepfake scrutiny as midterms approach
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6877
-- slug: 2026-11-04-ai-regulation-concerns-pressure-the-dollar-after-democrats-take-congress
-  headline: AI regulation concerns pressure the dollar after Democrats take Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6422
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.631
+  strength: 0.6873
 - slug: 2026-10-28-sen-warren-presses-anthropic-for-answers-on-existential-risks-before-its-ipo
-  headline: Sen. Warren presses Anthropic for answers on existential risks before its IPO
+  headline: Sen. Warren presses Anthropic for answers on existential risks before
+    its IPO
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6517
+  strength: 0.6519
 - slug: 2026-10-15-warren-garcia-introduce-bill-to-compel-probes-of-epstein-tied-financial-firms
-  headline: Warren, Garcia introduce bill to compel probes of Epstein-tied financial firms
+  headline: Warren, Garcia introduce bill to compel probes of Epstein-tied financial
+    firms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6522
-- slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
-  headline: Democrats outline investigation priorities if they win Congress
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6373
+  strength: 0.6512
 - slug: 2026-09-15-clarity-act-fails-senate-procedural-vote
   headline: Clarity Act fails Senate procedural vote
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.678
+  strength: 0.6776
 - slug: 2026-09-18-senate-procedural-vote-stalls-clarity-act-shifting-crypto-rules-to-agencies
   headline: Senate procedural vote stalls Clarity Act, shifting crypto rules to agencies
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.666
-- slug: 2026-09-24-warren-demands-trump-officials-explain-removal-of-census-interference-ban
-  headline: Warren demands Trump officials explain removal of census interference ban
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6334
-- slug: 2026-09-15-clarity-act-ethics-revisions-bar-officials-from-issuing-cryptocurrencies
-  headline: Clarity Act ethics revisions bar officials from issuing cryptocurrencies
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6412
-- slug: 2026-09-14-senate-to-hold-tuesday-procedural-vote-on-cryptocurrency-clarity-act
-  headline: Senate to hold Tuesday procedural vote on cryptocurrency Clarity Act
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6372
-- slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6329
+  strength: 0.6652
 - slug: 2026-07-23-warren-demands-barclays-answers-on-staley-epstein-probe
   headline: Warren demands Barclays answers on Staley-Epstein probe
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.674
-- slug: 2026-04-16-sen-warren-demands-fuller-warsh-disclosure-ahead-of-fed-chair-hearing
-  headline: Sen. Warren demands fuller Warsh disclosure ahead of Fed chair hearing
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7105
-- slug: 2026-07-13-senator-warren-presses-jpmorgan-chief-dimon-on-epstein-ties
-  headline: Senator Warren presses JPMorgan chief Dimon on Epstein ties
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6413
-- slug: 2026-06-25-warren-warns-trump-era-merger-frenzy-could-be-reversed-by-future-administration
-  headline: Warren warns Trump-era merger frenzy could be reversed by future administration
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.633
-- slug: 2026-06-23-senate-democrats-seek-hearings-into-500-million-trump-emirati-crypto-deal
-  headline: Senate Democrats Seek Hearings Into $500 Million Trump-Emirati Crypto Deal
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6291
+  strength: 0.6731
 ---
-
 ## Warren expected to chair Senate Banking panel as financial stocks tumble
 
 **Subtype:** fact
