@@ -1,9 +1,20 @@
 ---
-headline: Rural voters swing 15 points toward Democrats in 2026 midterms, analysis says
-secondary_headline: Winning candidates ran on pocketbook issues and largely skipped culture war fights
+headline: Rural voters swing 15 points toward Democrats in 2026 midterms, analysis
+  says
+secondary_headline: Winning candidates ran on pocketbook issues and largely skipped
+  culture war fights
 publish_date: '2026-11-06'
-lede: Rural voters moved sharply toward Democrats in the 2026 midterm elections, swinging 15 points toward Democratic US Senate candidates compared with their 2024 presidential vote choice, according to an analysis by Rural Urban Bridge Initiative co-founders Anthony Flaccavento and Erica Etelson. Democrats won Senate races in 10 of the 21 most rural-populated states that held contests, and a majority of non-college voters backed Democrats for the US House for the first time since 2012, the authors report.
-nut_graf: 'The analysis, published by The Guardian on November 6, argues the gains followed a deliberate Democratic pivot: campaigns centered on pocketbook, farm and healthcare concerns while largely avoiding culture war issues. The authors caution that Republican turnout fell nationwide, leaving unclear how much of the rural shift reflected voters moving toward Democrats rather than staying home.'
+lede: Rural voters moved sharply toward Democrats in the 2026 midterm elections, swinging
+  15 points toward Democratic US Senate candidates compared with their 2024 presidential
+  vote choice, according to an analysis by Rural Urban Bridge Initiative co-founders
+  Anthony Flaccavento and Erica Etelson. Democrats won Senate races in 10 of the 21
+  most rural-populated states that held contests, and a majority of non-college voters
+  backed Democrats for the US House for the first time since 2012, the authors report.
+nut_graf: 'The analysis, published by The Guardian on November 6, argues the gains
+  followed a deliberate Democratic pivot: campaigns centered on pocketbook, farm and
+  healthcare concerns while largely avoiding culture war issues. The authors caution
+  that Republican turnout fell nationwide, leaving unclear how much of the rural shift
+  reflected voters moving toward Democrats rather than staying home.'
 primary_entities:
 - Jamie Ager
 - Anthony Flaccavento
@@ -52,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,108 +162,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
-  headline: Democrats gain control of Congress as 2026 voter shifts emerge
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7312
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7374
+  strength: 0.7394
+- slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
+  headline: Democrats gain control of Congress as 2026 voter shifts emerge
+  publish_date: '2026-11-05'
+  relation: related
+  strength: 0.7303
 - slug: 2026-11-04-poll-shows-democrats-gaining-ground-among-latino-young-and-white-voters
   headline: Poll shows Democrats gaining ground among Latino, young and white voters
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7338
+  strength: 0.7332
 - slug: 2026-11-04-county-maps-show-large-democratic-swings-in-2026-senate-results
   headline: County maps show large Democratic swings in 2026 Senate results
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7317
+  strength: 0.7329
 - slug: 2026-11-06-latino-voters-move-sharply-to-democrats-in-2026-midterms
-  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas sweep
+  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas
+    sweep
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.71
+  strength: 0.7103
 - slug: 2026-11-04-voters-under-30-and-black-voters-back-democrats-in-2026-house-races
   headline: Voters under 30 and Black voters back Democrats in 2026 House races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7195
+  strength: 0.7189
 - slug: 2026-11-05-democrats-flip-senate-seats-in-the-south-reshaping-the-2028-contest
   headline: Democrats flip Senate seats in the South, reshaping the 2028 contest
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7109
+  strength: 0.7104
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7191
-- slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
-  headline: Democrats win Congress and a majority of governorships on affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7077
-- slug: 2026-11-04-2026-midterms-raise-the-question-of-a-durable-shift-or-a-fluke
-  headline: 2026 midterms raise the question of a durable shift or a fluke
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7031
-- slug: 2026-11-05-democrats-gain-hundreds-of-state-legislative-seats-in-2026-midterms
-  headline: Democrats gain hundreds of state legislative seats in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6957
-- slug: 2026-11-05-rural-voters-face-economic-strain-as-republicans-lose-key-midterm-races
-  headline: Rural voters face economic strain as Republicans lose key midterm races
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6937
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7205
-- slug: 2026-11-05-democrats-link-climate-policy-to-affordability-in-2026-midterm-wins
-  headline: Democrats link climate policy to affordability in 2026 midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6918
-- slug: 2026-11-04-democrats-flip-a-senate-seat-and-a-house-seat-in-early-returns
-  headline: Democrats flip a Senate seat and a House seat in early returns
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6952
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6932
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6926
-- slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7662
-- slug: 2026-10-25-candidates-campaign-directly-with-rural-voters-in-the-midterms
-  headline: Candidates campaign directly with rural voters in the midterms
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6966
-- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
-  headline: Early voting tops 23 million as Democrats outpace Republicans
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6997
+  strength: 0.7158
 ---
-
 ## Rural voters swing 15 points toward Democrats in 2026 midterms, analysis says
 
 **Subtype:** fact

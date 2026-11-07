@@ -1,9 +1,21 @@
 ---
-headline: ANC vote share falls under a third nationally as South African count passes 80%
-secondary_headline: ANC nearly 14 points below its 2021 result as coalition talks begin
+headline: ANC vote share falls under a third nationally as South African count passes
+  80%
+secondary_headline: ANC nearly 14 points below its 2021 result as coalition talks
+  begin
 publish_date: '2026-11-06'
-lede: The African National Congress is on course for a heavy defeat in South Africa's local elections, falling to 31.8% of the national vote with more than 80% of ballots counted — almost 14 percentage points below its 2021 result. The Democratic Alliance stood second at 24.1% and Jacob Zuma's uMkhonto weSizwe party at 9.3%, with parties negotiating coalitions ahead of final results expected Sunday.
-nut_graf: Wednesday's vote marks another stage in the decline of the party that has led South Africa's national governments since the end of white minority apartheid rule in 1994. High unemployment, crime, corruption and poor local service delivery have contributed to voters turning away from the ANC. With results fragmented across opposition and newcomer parties, control of the country's biggest cities will be settled in coalition negotiations, and councillors will have two weeks after final results to elect mayors and form municipal governments.
+lede: The African National Congress is on course for a heavy defeat in South Africa's
+  local elections, falling to 31.8% of the national vote with more than 80% of ballots
+  counted — almost 14 percentage points below its 2021 result. The Democratic Alliance
+  stood second at 24.1% and Jacob Zuma's uMkhonto weSizwe party at 9.3%, with parties
+  negotiating coalitions ahead of final results expected Sunday.
+nut_graf: Wednesday's vote marks another stage in the decline of the party that has
+  led South Africa's national governments since the end of white minority apartheid
+  rule in 1994. High unemployment, crime, corruption and poor local service delivery
+  have contributed to voters turning away from the ANC. With results fragmented across
+  opposition and newcomer parties, control of the country's biggest cities will be
+  settled in coalition negotiations, and councillors will have two weeks after final
+  results to elect mayors and form municipal governments.
 primary_entities:
 - African National Congress
 - Democratic Alliance
@@ -53,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +168,13 @@ related_stories:
   headline: South Africans cast local ballots as polls project an ANC vote-share decline
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8406
-- slug: 2026-11-04-poll-suggests-shifts-away-from-gop-among-young-voters-in-local-house-races
-  headline: Poll suggests shifts away from GOP among young voters in local House races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5883
-- slug: 2026-11-05-black-voter-turnout-propels-democratic-wins-across-the-south
-  headline: Black voter turnout propels Democratic wins across the South
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5741
-- slug: 2026-11-05-mike-johnson-plans-to-step-down-as-top-house-republican-after-midterms
-  headline: Mike Johnson plans to step down as top House Republican after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5722
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5829
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5657
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.5743
-- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
-  headline: Democrats lead House polling as Trump approval stays below 50%
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5743
-- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
-  headline: New poll finds Democrats 11 points ahead among registered voters
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5699
-- slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.5709
-- slug: 2026-10-14-working-class-white-voters-cool-on-republicans-wsj-poll-finds
-  headline: Working-class white voters cool on Republicans, WSJ poll finds
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5779
-- slug: 2026-10-11-coalition-and-one-nation-leave-cpac-without-plan-to-defeat-labor
-  headline: Coalition and One Nation leave CPAC without plan to defeat Labor
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5787
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5745
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5731
-- slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
-  headline: Democrats favored in House fight as Trump approval drags on GOP candidates
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5681
+  strength: 0.84
 - slug: 2026-04-13-south-africa-s-democratic-alliance-elects-geordin-hill-lewis-as-leader
   headline: South Africa’s Democratic Alliance elects Geordin Hill-Lewis as leader
   publish_date: '2026-04-13'
   relation: related
-  strength: 0.684
-- slug: 2026-05-09-south-african-court-revives-ramaphosa-cash-scandal-inquiry-enabling-impeachment-
-  headline: South African court revives Ramaphosa cash scandal inquiry, enabling impeachment path
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5916
-- slug: 2026-03-12-south-africa-deploys-troops-in-johannesburg-to-curb-organized-crime
-  headline: South Africa deploys troops in Johannesburg to curb organized crime
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6033
-- slug: 2026-03-01-south-africa-to-deploy-army-to-curb-gang-violence-and-illegal-mining
-  headline: South Africa to deploy army to curb gang violence and illegal mining
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6017
-- slug: 2026-05-13-south-africa-declares-national-disaster-after-deadly-floods-kill-10-damage-thous
-  headline: South Africa declares national disaster after deadly floods kill 10, damage thousands of homes
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5753
+  strength: 0.6837
 ---
-
 ## ANC vote share falls under a third nationally as South African count passes 80%
 
 **Subtype:** fact

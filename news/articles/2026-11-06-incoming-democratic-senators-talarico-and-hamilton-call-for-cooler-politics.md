@@ -1,9 +1,22 @@
 ---
 headline: Incoming Democratic senators Talarico and Hamilton call for cooler politics
-secondary_headline: Trump, Jeffries and Schumer signal openness to bipartisanship in the next Congress
+secondary_headline: Trump, Jeffries and Schumer signal openness to bipartisanship
+  in the next Congress
 publish_date: '2026-11-06'
-lede: Incoming Democratic Sens. James Talarico of Texas and Adam Hamilton of Kansas called for an end to combative politics in Washington, using postelection victory speeches to urge cooperation across party lines. Talarico said people are 'hungry for a different kind of politics' after 10 years of what he called 'politics as bloodsport,' and Hamilton said he wants to model what it looks like when 'thoughtful people work with each other.' President Trump has hinted at bipartisanship, and New York Democrats Hakeem Jeffries and Chuck Schumer have suggested they would be open to it, according to The Wall Street Journal's Politics newsletter.
-nut_graf: The appeals arrive as Washington prepares for a reconfigured Congress. The midterm elections gave Democrats a Senate majority, a large class of new lawmakers is arriving from both parties, and figures in both parties have signaled possible openness to bipartisanship, according to The Wall Street Journal. Whether the civility message from two incoming senators can hold in a capital the newsletter described as 'awfully muddy' remains unresolved.
+lede: Incoming Democratic Sens. James Talarico of Texas and Adam Hamilton of Kansas
+  called for an end to combative politics in Washington, using postelection victory
+  speeches to urge cooperation across party lines. Talarico said people are 'hungry
+  for a different kind of politics' after 10 years of what he called 'politics as
+  bloodsport,' and Hamilton said he wants to model what it looks like when 'thoughtful
+  people work with each other.' President Trump has hinted at bipartisanship, and
+  New York Democrats Hakeem Jeffries and Chuck Schumer have suggested they would be
+  open to it, according to The Wall Street Journal's Politics newsletter.
+nut_graf: The appeals arrive as Washington prepares for a reconfigured Congress. The
+  midterm elections gave Democrats a Senate majority, a large class of new lawmakers
+  is arriving from both parties, and figures in both parties have signaled possible
+  openness to bipartisanship, according to The Wall Street Journal. Whether the civility
+  message from two incoming senators can hold in a capital the newsletter described
+  as 'awfully muddy' remains unresolved.
 primary_entities:
 - James Talarico
 - Adam Hamilton
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +161,45 @@ related_stories:
   headline: Adam Hamilton wins Kansas Senate seat, urges work across party lines
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7056
+  strength: 0.7054
 - slug: 2026-11-04-democrats-set-post-election-priorities-on-affordability-and-accountability
   headline: Democrats set post-election priorities on affordability and accountability
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6923
+  strength: 0.6919
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6758
+  strength: 0.6753
 - slug: 2026-11-04-democrats-take-both-chambers-trump-faces-three-paths-likely-less-party-control
-  headline: Democrats take both chambers; Trump faces three paths, likely less party control
+  headline: Democrats take both chambers; Trump faces three paths, likely less party
+    control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6671
+  strength: 0.6669
 - slug: 2026-11-04-readers-urge-democrats-to-turn-midterm-gains-into-substantive-change
   headline: Readers urge Democrats to turn midterm gains into substantive change
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6643
+  strength: 0.6635
 - slug: 2026-10-31-paxton-talarico-make-final-pitches-in-texas-as-trump-shifts-to-tele-rallies
   headline: Paxton, Talarico make final pitches in Texas as Trump shifts to tele-rallies
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6875
+  strength: 0.687
 - slug: 2026-10-27-wsj-politics-newsletter-flags-senate-balance-trump-rallies-and-data-center-votes
-  headline: WSJ Politics newsletter flags Senate balance, Trump rallies and data-center votes
+  headline: WSJ Politics newsletter flags Senate balance, Trump rallies and data-center
+    votes
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7038
+  strength: 0.7037
 - slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
   headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6705
-- slug: 2026-10-28-democrats-contest-republican-held-senate-seats-in-the-south
-  headline: Democrats contest Republican-held Senate seats in the South
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6911
-- slug: 2026-10-27-talarico-rejects-progressive-label-in-texas-senate-race-against-paxton
-  headline: Talarico rejects progressive label in Texas Senate race against Paxton
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6939
-- slug: 2026-10-28-trump-and-talarico-hold-rallies-three-miles-apart-in-close-texas-senate-race
-  headline: Trump and Talarico hold rallies three miles apart in close Texas Senate race
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6814
-- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
-  headline: Talarico and Paxton enter final stretch of Texas Senate race
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6887
-- slug: 2026-10-20-hamilton-courts-republicans-and-independents-in-close-kansas-senate-race
-  headline: Hamilton courts Republicans and independents in close Kansas Senate race
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6922
-- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
-  headline: Talarico says Musk is backing Paxton at UT Austin rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6652
-- slug: 2026-10-16-most-midterm-candidates-skip-climate-as-voters-demand-action
-  headline: Most midterm candidates skip climate as voters demand action
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6774
-- slug: 2026-10-15-talarico-addresses-voters-at-cnn-town-hall-defends-nine-day-absence
-  headline: Talarico addresses voters at CNN town hall, defends nine-day absence
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6762
-- slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6738
-- slug: 2026-10-05-talarico-leads-in-texas-senate-polls-while-owning-past-comments
-  headline: Talarico leads in Texas Senate polls while owning past comments
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7057
-- slug: 2026-10-06-populism-from-left-and-right-targets-corporate-america
-  headline: Populism from left and right targets corporate America
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.663
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6854
+  strength: 0.6702
 ---
-
 ## Incoming Democratic senators Talarico and Hamilton call for cooler politics
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: Schools cut cafeteria food waste through composting and share tables
-secondary_headline: WWF estimates schools throw out 530,000 tons of food yearly, costing $1.7 billion
+secondary_headline: WWF estimates schools throw out 530,000 tons of food yearly, costing
+  $1.7 billion
 publish_date: '2026-11-06'
-lede: Students at Lovin Elementary School in Lawrenceville, Georgia, compost cafeteria scraps, share unopened milk and feed leftover salad to the school's chickens as part of a broader push by U.S. schools to keep cafeteria food out of landfills. Public schools serve more than 30 million lunches each day, according to federal figures, and experts say tons of cafeteria food is wasted each year, costing schools and contributing to methane in landfills.
-nut_graf: The waste-reduction efforts pair environmental goals with hands-on learning and, at some schools, donations to community food pantries. A 2019 World Wildlife Fund analysis estimated U.S. schools could be wasting about 530,000 tons of food per year at a cost of $1.7 billion, while experts say budgets, federal meal and food safety requirements, and composting mandates limit how much districts can change.
+lede: Students at Lovin Elementary School in Lawrenceville, Georgia, compost cafeteria
+  scraps, share unopened milk and feed leftover salad to the school's chickens as
+  part of a broader push by U.S. schools to keep cafeteria food out of landfills.
+  Public schools serve more than 30 million lunches each day, according to federal
+  figures, and experts say tons of cafeteria food is wasted each year, costing schools
+  and contributing to methane in landfills.
+nut_graf: The waste-reduction efforts pair environmental goals with hands-on learning
+  and, at some schools, donations to community food pantries. A 2019 World Wildlife
+  Fund analysis estimated U.S. schools could be wasting about 530,000 tons of food
+  per year at a cost of $1.7 billion, while experts say budgets, federal meal and
+  food safety requirements, and composting mandates limit how much districts can change.
 primary_entities:
 - Lovin Elementary School
 - Lawrenceville, Georgia
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,109 +157,8 @@ cross_article_links:
   strength: 0.5535
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-29-researcher-says-deregulation-widened-rural-america-s-fresh-food-gap
-  headline: Researcher says deregulation widened rural America's fresh food gap
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5642
-- slug: 2026-10-27-silicon-valley-parents-press-public-schools-to-limit-classroom-technology
-  headline: Silicon Valley parents press public schools to limit classroom technology
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.566
-- slug: 2026-10-22-some-k-12-districts-ban-caffeine-pouches-over-nicotine-resemblance-and-teen-heal
-  headline: Some K-12 districts ban caffeine pouches over nicotine resemblance and teen health
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5639
-- slug: 2026-10-13-misfit-food-market-grows-but-quality-perceptions-still-hold-shoppers-back-study-
-  headline: Misfit food market grows, but quality perceptions still hold shoppers back, study finds
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5721
-- slug: 2026-10-10-fda-proposes-allowing-some-chemicals-into-food-without-safety-review
-  headline: FDA proposes allowing some chemicals into food without safety review
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5647
-- slug: 2026-09-11-private-schools-reject-disabled-students-despite-voucher-funding
-  headline: Private schools reject disabled students despite voucher funding
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5638
-- slug: 2026-08-24-fcc-reviews-e-rate-as-more-than-96-000-schools-apply-each-year
-  headline: FCC reviews E-Rate as more than 96,000 schools apply each year
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.5709
-- slug: 2026-08-14-new-york-city-weighs-modernization-of-500-million-trash-system
-  headline: New York City weighs modernization of $500 million trash system
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5683
-- slug: 2026-05-30-takeout-trash-piles-up-at-michigan-universities-as-pandemic-habits-endure
-  headline: Takeout trash piles up at Michigan universities as pandemic habits endure
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.5872
-- slug: 2026-04-26-storing-fresh-produce-properly-can-curb-food-waste-and-help-the-planet
-  headline: Storing fresh produce properly can curb food waste and help the planet
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5931
-- slug: 2026-05-23-program-gives-maine-fish-fillets-to-schools-and-food-banks
-  headline: Program gives Maine fish fillets to schools and food banks
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5809
-- slug: 2026-02-16-climate-choices-on-food-cars-shopping-and-heating-can-add-up-fast
-  headline: Climate choices on food, cars, shopping and heating can add up fast
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6012
-- slug: 2026-06-06-new-york-city-struggles-to-curb-dog-waste-as-complaints-rise
-  headline: New York City struggles to curb dog waste as complaints rise
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5695
-- slug: 2026-02-20-old-batteries-leak-toxins-experts-outline-safe-disposal-steps
-  headline: Old batteries leak toxins; experts outline safe disposal steps
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.5934
-- slug: 2026-03-27-what-to-do-with-old-laptops-iphones-and-other-unused-electronics
-  headline: What to do with old laptops, iPhones and other unused electronics
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5874
-- slug: 2026-06-05-affordability-crisis-jams-up-rfk-jr-s-food-agenda
-  headline: Affordability Crisis Jams Up RFK Jr.’s Food Agenda
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5633
-- slug: 2026-05-26-nationwide-backlash-against-school-issued-devices-grows-as-los-angeles-leads-cra
-  headline: Nationwide backlash against school-issued devices grows as Los Angeles leads crackdown
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5676
-- slug: 2026-02-26-refill-stores-and-other-options-aim-to-cut-packaging-waste
-  headline: Refill stores and other options aim to cut packaging waste
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.587
-- slug: 2026-03-06-hawaii-audit-calls-local-school-food-push-a-structural-disaster
-  headline: Hawaii audit calls local school food push a 'structural disaster'
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.5843
-- slug: 2026-04-02-warm-winters-mean-more-nitrate-pollution-in-drinking-water-experts-warn
-  headline: Warm winters mean more nitrate pollution in drinking water, experts warn
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5743
+related_stories: []
 ---
-
 ## Schools cut cafeteria food waste through composting and share tables
 
 **Subtype:** fact

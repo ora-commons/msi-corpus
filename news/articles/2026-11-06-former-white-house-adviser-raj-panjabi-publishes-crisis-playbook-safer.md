@@ -2,8 +2,21 @@
 headline: Former White House adviser Raj Panjabi publishes crisis playbook 'Safer'
 secondary_headline: Daughter's heart failure at age 1 inspired Panjabi's book
 publish_date: '2026-11-06'
-lede: 'Dr. Raj Panjabi, a physician who served as a White House health adviser during the COVID emergency and founded the humanitarian group Last Mile Health, has written a book that applies the emergency playbook to crises families face at home. "Safer: A Playbook" draws on his daughter''s diagnosis with heart failure at age 1, his career in global health and his current work with scientists who use artificial intelligence in medical research. Panjabi discussed the book in an interview with NPR conducted at the network''s headquarters on Oct. 30.'
-nut_graf: 'The book''s premise is that the planning disciplines used in hospitals and government crisis rooms belong in the home: Panjabi argues that denial is the first stage of almost every crisis and that people are slow to spot slow-moving threats — a child''s weight loss, a layoff, a disease outbreak — until they reach a tipping point. It arrives at a moment when measles, described in the NPR interview as eradicated in the United States 36 years ago, is spreading again in many parts of the country, and when the same AI tools speeding drug and vaccine development could, in Panjabi''s assessment, be turned to biological harm.'
+lede: 'Dr. Raj Panjabi, a physician who served as a White House health adviser during
+  the COVID emergency and founded the humanitarian group Last Mile Health, has written
+  a book that applies the emergency playbook to crises families face at home. "Safer:
+  A Playbook" draws on his daughter''s diagnosis with heart failure at age 1, his
+  career in global health and his current work with scientists who use artificial
+  intelligence in medical research. Panjabi discussed the book in an interview with
+  NPR conducted at the network''s headquarters on Oct. 30.'
+nut_graf: 'The book''s premise is that the planning disciplines used in hospitals
+  and government crisis rooms belong in the home: Panjabi argues that denial is the
+  first stage of almost every crisis and that people are slow to spot slow-moving
+  threats — a child''s weight loss, a layoff, a disease outbreak — until they reach
+  a tipping point. It arrives at a moment when measles, described in the NPR interview
+  as eradicated in the United States 36 years ago, is spreading again in many parts
+  of the country, and when the same AI tools speeding drug and vaccine development
+  could, in Panjabi''s assessment, be turned to biological harm.'
 primary_entities:
 - Raj Panjabi
 - Last Mile Health
@@ -40,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,116 +153,19 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-06-former-white-house-adviser-raj-panjabi-publishes-crisis-playbook-safer.png
-  alt: 'Illustration accompanying article: Former White House adviser Raj Panjabi publishes crisis playbook ''Safer'''
+  alt: 'Illustration accompanying article: Former White House adviser Raj Panjabi
+    publishes crisis playbook ''Safer'''
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
-related_stories:
-- slug: 2026-10-10-book-alleges-russia-behind-some-havana-syndrome-cases-us-cover-up
-  headline: Book alleges Russia behind some Havana syndrome cases, US cover-up
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6095
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5779
-- slug: 2026-10-01-us-military-nearly-intercepted-chinese-ship-on-erroneous-ai-report-cnn-says
-  headline: US military nearly intercepted Chinese ship on erroneous AI report, CNN says
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5829
-- slug: 2026-09-17-kennedy-tells-anti-vaccine-conference-you-have-a-friend-at-the-white-house
-  headline: 'Kennedy tells anti-vaccine conference: ''you have a friend at the White House'''
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5915
-- slug: 2026-09-15-fedex-cvs-deployers-take-optimistic-side-in-ai-safety-debate
-  headline: FedEx, CVS deployers take 'optimistic side' in AI safety debate
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5867
-- slug: 2026-09-13-obama-presses-jeffries-on-sweeping-ai-safety-framework
-  headline: Obama presses Jeffries on sweeping AI safety framework
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5896
-- slug: 2026-09-06-kabul-evacuee-in-houston-describes-fading-dream-of-medicine
-  headline: Kabul evacuee in Houston describes fading dream of medicine
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6003
-- slug: 2026-09-01-hhs-symposium-urges-families-to-cut-children-s-screen-time
-  headline: HHS symposium urges families to cut children's screen time
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5777
-- slug: 2026-06-12-after-covid-us-risks-repeating-communication-failures-as-new-outbreaks-hit
-  headline: After COVID, US risks repeating communication failures as new outbreaks hit
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6303
-- slug: 2026-07-27-sen-rand-paul-releases-fauci-diary-entries-describing-trump-as-rambling-crazy-du
-  headline: Sen. Rand Paul releases Fauci diary entries describing Trump as 'rambling,' 'crazy' during pandemic
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5877
-- slug: 2026-06-23-reporters-detail-trump-white-house-secrets-in-new-book-regime-change
-  headline: Reporters detail Trump White House secrets in new book 'Regime Change'
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.593
-- slug: 2026-06-23-vance-promotes-new-memoir-as-administration-negotiates-iran-deal
-  headline: Vance promotes new memoir as administration negotiates Iran deal
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5786
-- slug: 2026-06-17-ai-tool-flagged-blood-clot-before-diagnosis-author-says
-  headline: AI tool flagged blood clot before diagnosis, author says
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5809
-- slug: 2026-06-08-ex-usaid-official-says-ebola-response-was-blocked-as-agency-was-dismantled
-  headline: Ex-USAID official says Ebola response was blocked as agency was dismantled
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5817
-- slug: 2026-06-11-ai-convenience-may-harm-health-researchers-warn
-  headline: AI convenience may harm health, researchers warn
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5753
-- slug: 2026-05-10-first-new-recess-guidance-in-13-years-protect-play-pediatricians-say
-  headline: 'First new recess guidance in 13 years: protect play, pediatricians say'
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5856
-- slug: 2026-05-18-rachel-maddow-to-publish-justice-department-history-department-of-fate
-  headline: Rachel Maddow to publish Justice Department history ‘Department of Fate’
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.58
-- slug: 2026-04-16-simple-workplace-changes-help-autistic-employees-thrive-experts-say
-  headline: Simple workplace changes help autistic employees thrive, experts say
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.588
-- slug: 2026-05-18-rachel-maddow-s-department-of-fate-to-examine-150-year-justice-department-histor
-  headline: Rachel Maddow’s ‘Department of Fate’ to examine 150-year Justice Department history
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5758
-- slug: 2026-04-14-how-to-help-someone-experiencing-a-mental-health-crisis
-  headline: How to help someone experiencing a mental health crisis
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5853
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
+related_stories: []
 ---
-
 ## Former White House adviser Raj Panjabi publishes crisis playbook 'Safer'
 
 **Subtype:** fact

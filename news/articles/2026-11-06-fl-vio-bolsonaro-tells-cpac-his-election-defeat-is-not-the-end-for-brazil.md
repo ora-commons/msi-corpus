@@ -1,9 +1,22 @@
 ---
 headline: Flávio Bolsonaro tells CPAC his election defeat is not 'the end for Brazil'
-secondary_headline: Flávio Bolsonaro denies help from Trump and Milei aides in fleeing Brazil
+secondary_headline: Flávio Bolsonaro denies help from Trump and Milei aides in fleeing
+  Brazil
 publish_date: '2026-11-06'
-lede: Flávio Bolsonaro, a Brazilian congressman and the son of the jailed former president Jair Bolsonaro, told a gala dinner at Donald Trump's Mar-a-Lago resort that his defeat in last month's presidential election was not 'the end for Brazil'. Bolsonaro, 45, arrived in Miami after fleeing Brazil early last week and made his first major public appearance since leaving the country at the Conservative Political Action Conference on Thursday night, where he said 'great things' were still to come. In his first post-election interview, he made unsubstantiated claims of election fraud and insisted he received no help to flee.
-nut_graf: The Mar-a-Lago appearance marks Bolsonaro's first major public move since he left Brazil days after losing the 25 October runoff to the incumbent, Luiz Inácio Lula da Silva, by more than 4m votes. He faces federal police investigations for money laundering and corruption at home and will lose parliamentary immunity when his congressional term ends early next year. Brazilian analysts say the flight cost him the opposition leadership he might have claimed after receiving 59m votes.
+lede: Flávio Bolsonaro, a Brazilian congressman and the son of the jailed former president
+  Jair Bolsonaro, told a gala dinner at Donald Trump's Mar-a-Lago resort that his
+  defeat in last month's presidential election was not 'the end for Brazil'. Bolsonaro,
+  45, arrived in Miami after fleeing Brazil early last week and made his first major
+  public appearance since leaving the country at the Conservative Political Action
+  Conference on Thursday night, where he said 'great things' were still to come. In
+  his first post-election interview, he made unsubstantiated claims of election fraud
+  and insisted he received no help to flee.
+nut_graf: The Mar-a-Lago appearance marks Bolsonaro's first major public move since
+  he left Brazil days after losing the 25 October runoff to the incumbent, Luiz Inácio
+  Lula da Silva, by more than 4m votes. He faces federal police investigations for
+  money laundering and corruption at home and will lose parliamentary immunity when
+  his congressional term ends early next year. Brazilian analysts say the flight cost
+  him the opposition leadership he might have claimed after receiving 59m votes.
 primary_entities:
 - Flávio Bolsonaro
 - Jair Bolsonaro
@@ -55,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,104 +171,47 @@ related_stories:
   headline: Flávio Bolsonaro arrives in Miami after Brazil cancels his passport
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8119
+  strength: 0.8115
 - slug: 2026-10-28-unnamed-sources-report-fl-vio-bolsonaro-s-us-arrival-after-passport-cancellation
   headline: Unnamed sources report Flávio Bolsonaro's US arrival after passport cancellation
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7918
+  strength: 0.7902
 - slug: 2026-10-28-fl-vio-bolsonaro-s-jet-leaves-guayaquil-for-miami-after-argentina-stop
   headline: Flávio Bolsonaro’s jet leaves Guayaquil for Miami after Argentina stop
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7741
+  strength: 0.7747
 - slug: 2026-10-31-rubio-says-us-did-not-facilitate-fl-vio-bolsonaro-s-move-to-the-united-states
-  headline: Rubio says US did not facilitate Flávio Bolsonaro's move to the United States
+  headline: Rubio says US did not facilitate Flávio Bolsonaro's move to the United
+    States
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7494
+  strength: 0.7492
 - slug: 2026-10-29-trump-allies-and-milei-aid-fl-vio-bolsonaro-s-escape-from-brazil
   headline: Trump allies and Milei aid Flávio Bolsonaro’s escape from Brazil
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7596
+  strength: 0.7586
 - slug: 2026-10-27-brazilian-official-says-fl-vio-s-two-passports-canceled-after-defying-de-moraes-
-  headline: Brazilian official says Flávio’s two passports canceled after defying de Moraes’s order
+  headline: Brazilian official says Flávio’s two passports canceled after defying
+    de Moraes’s order
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7614
+  strength: 0.7609
 - slug: 2026-10-27-fl-vio-bolsonaro-s-liberal-party-recognizes-lula-s-win-fl-vio-does-not-concede
-  headline: Flávio Bolsonaro's Liberal Party recognizes Lula's win; Flávio does not concede
+  headline: Flávio Bolsonaro's Liberal Party recognizes Lula's win; Flávio does not
+    concede
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7564
+  strength: 0.7556
 - slug: 2026-10-26-justice-de-moraes-bars-fl-vio-bolsonaro-from-leaving-brazil-after-runoff-loss
-  headline: Justice de Moraes bars Flávio Bolsonaro from leaving Brazil after runoff loss
+  headline: Justice de Moraes bars Flávio Bolsonaro from leaving Brazil after runoff
+    loss
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7617
-- slug: 2026-10-28-fl-vio-bolsonaro-arrives-in-miami-despite-brazilian-travel-ban
-  headline: Flávio Bolsonaro arrives in Miami despite Brazilian travel ban
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7353
-- slug: 2026-10-31-rubio-denies-trump-administration-role-in-bolsonaro-s-flight-from-brazil-to-us
-  headline: Rubio denies Trump administration role in Bolsonaro's flight from Brazil to US
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7096
-- slug: 2026-10-27-the-guardian-sets-reader-q-a-on-lula-s-brazil-runoff-victory
-  headline: The Guardian sets reader Q&A on Lula’s Brazil runoff victory
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6973
-- slug: 2026-10-25-official-results-show-lula-wins-brazil-runoff-with-more-than-51-of-the-vote
-  headline: Official results show Lula wins Brazil runoff with more than 51% of the vote
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7078
-- slug: 2026-10-12-brazil-s-top-court-clears-fl-vio-bolsonaro-to-visit-house-arrested-father
-  headline: Brazil's top court clears Flávio Bolsonaro to visit house-arrested father
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7456
-- slug: 2026-10-07-fl-vio-bolsonaro-vows-to-re-democratise-brazil-after-first-round-win
-  headline: Flávio Bolsonaro vows to 're-democratise' Brazil after first-round win
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7588
-- slug: 2026-10-04-flavio-bolsonaro-leads-lula-in-brazil-first-round-runoff-set-for-oct-25
-  headline: Flavio Bolsonaro leads Lula in Brazil first round, runoff set for Oct. 25
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.767
-- slug: 2026-10-02-fl-vio-bolsonaro-seeks-brazil-presidency-in-sunday-first-round-vote
-  headline: Flávio Bolsonaro seeks Brazil presidency in Sunday first-round vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7616
-- slug: 2026-10-05-fl-vio-bolsonaro-leads-lula-in-brazil-s-first-round-vote-setting-up-runoff
-  headline: Flávio Bolsonaro leads Lula in Brazil's first-round vote, setting up runoff
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7483
-- slug: 2026-10-06-fl-vio-bolsonaro-tops-brazil-first-round-vote-as-family-wins-congress-seats
-  headline: Flávio Bolsonaro tops Brazil first-round vote as family wins Congress seats
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7396
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7478
-- slug: 2026-10-03-brazil-s-tight-election-tests-its-ability-to-say-no-to-trump
-  headline: Brazil's tight election tests its ability to say 'no' to Trump
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7353
+  strength: 0.7615
 ---
-
 ## Flávio Bolsonaro tells CPAC his election defeat is not 'the end for Brazil'
 
 **Subtype:** fact
