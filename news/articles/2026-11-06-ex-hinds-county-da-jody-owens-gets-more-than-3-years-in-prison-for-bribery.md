@@ -1,9 +1,17 @@
 ---
 headline: Ex-Hinds County DA Jody Owens gets more than 3 years in prison for bribery
-secondary_headline: Case ensnared Jackson's former mayor and council leaders in development project
+secondary_headline: Case ensnared Jackson's former mayor and council leaders in development
+  project
 publish_date: '2026-11-06'
-lede: Former Hinds County District Attorney Jody Owens, whose bribery case ensnared officials across Jackson city government, was sentenced Thursday to more than three years in prison and ordered to pay a $100,000 fine. Former Jackson City Council President Aaron Banks was sentenced the same day to almost four years in prison.
-nut_graf: Owens' sentencing is the latest development in a federal bribery case that has touched the highest levels of Jackson's city government. Former Mayor Chokwe Antar Lumumba pleaded guilty to a conspiracy count last summer and awaits sentencing; Banks was sentenced alongside Owens on Thursday; and former council Vice President Angelique Lee and Sherik Marve Smith, a relative of Owens, pleaded guilty in 2024.
+lede: Former Hinds County District Attorney Jody Owens, whose bribery case ensnared
+  officials across Jackson city government, was sentenced Thursday to more than three
+  years in prison and ordered to pay a $100,000 fine. Former Jackson City Council
+  President Aaron Banks was sentenced the same day to almost four years in prison.
+nut_graf: Owens' sentencing is the latest development in a federal bribery case that
+  has touched the highest levels of Jackson's city government. Former Mayor Chokwe
+  Antar Lumumba pleaded guilty to a conspiracy count last summer and awaits sentencing;
+  Banks was sentenced alongside Owens on Thursday; and former council Vice President
+  Angelique Lee and Sherik Marve Smith, a relative of Owens, pleaded guilty in 2024.
 primary_entities:
 - Jody Owens
 - Aaron Banks
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +153,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-27-frost-receives-15-years-for-first-liberty-ponzi-scheme-and-more-than-76-million-
-  headline: Frost receives 15 years for First Liberty Ponzi scheme and more than $76 million restitution
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5865
-- slug: 2026-10-14-changli-luo-pleads-guilty-to-wire-fraud-against-billionaire-wesley-edens
-  headline: Changli Luo pleads guilty to wire fraud against billionaire Wesley Edens
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5844
-- slug: 2026-10-08-judge-sentences-connecticut-ex-official-to-seven-years-in-absentia
-  headline: Judge sentences Connecticut ex-official to seven years in absentia
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5911
-- slug: 2026-10-02-sittenfeld-describes-unanimous-ruling-vacating-his-2022-conviction
-  headline: Sittenfeld describes unanimous ruling vacating his 2022 conviction
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5854
 - slug: 2026-07-07-former-jackson-mayor-pleads-guilty-to-bribery-wire-fraud-money-laundering
   headline: Former Jackson mayor pleads guilty to bribery, wire fraud, money laundering
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.7402
-- slug: 2026-09-16-trayon-white-s-bribery-trial-opens-with-cash-handoff-video
-  headline: Trayon White's bribery trial opens with cash-handoff video
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5909
-- slug: 2026-08-14-jury-convicts-former-new-mexico-lawmaker-of-school-fund-kickback-scheme
-  headline: Jury convicts former New Mexico lawmaker of school fund kickback scheme
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5997
-- slug: 2026-07-22-montana-jury-convicts-former-senate-president-of-official-misconduct-for-no-bid-
-  headline: Montana jury convicts former Senate president of official misconduct for no-bid contracts
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6304
-- slug: 2026-08-14-todd-burkhalter-sentenced-to-20-years-in-nearly-400-million-ponzi-scheme
-  headline: Todd Burkhalter sentenced to 20 years in nearly $400 million Ponzi scheme
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5912
-- slug: 2026-07-25-hawaii-lt-gov-sylvia-luke-indicted-for-alleged-bribe-scheme
-  headline: Hawaii Lt. Gov. Sylvia Luke indicted for alleged bribe scheme
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5907
-- slug: 2026-06-24-former-nyc-chief-of-staff-frank-carone-indicted-in-bribery-scheme
-  headline: Former NYC chief of staff Frank Carone indicted in bribery scheme
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6074
-- slug: 2026-03-18-jurors-to-decide-whether-ex-firstenergy-leaders-paid-4-3m-bribe
-  headline: Jurors to decide whether ex-FirstEnergy leaders paid $4.3M bribe
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6088
-- slug: 2026-04-24-6-plead-guilty-in-mississippi-drug-trafficking-bribery-scheme-1-acquitted
-  headline: 6 plead guilty in Mississippi drug trafficking bribery scheme, 1 acquitted
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5964
-- slug: 2026-04-24-georgia-republican-edwin-frost-iv-pleads-not-guilty-in-156m-ponzi-case
-  headline: Georgia Republican Edwin Frost IV pleads not guilty in $156M Ponzi case
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5927
-- slug: 2026-05-21-key-figure-in-minnesota-fraud-case-gets-nearly-42-years-in-prison
-  headline: Key figure in Minnesota fraud case gets nearly 42 years in prison
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5833
-- slug: 2026-01-05-judge-spares-tennessee-lawmaker-prison-after-trump-pardoned-co-conspirators
-  headline: Judge spares Tennessee lawmaker prison after Trump pardoned co-conspirators
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6055
-- slug: 2026-04-01-jurors-deadlock-in-trial-of-firstenergy-executives-in-60m-bribery-case
-  headline: Jurors deadlock in trial of FirstEnergy executives in $60M bribery case
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5958
-- slug: 2026-02-02-trial-begins-for-ex-firstenergy-executives-in-60m-ohio-bribery-case
-  headline: Trial begins for ex-FirstEnergy executives in $60M Ohio bribery case
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.5989
-- slug: 2026-03-31-jurors-deadlocked-in-trial-of-ex-firstenergy-officials-over-60m-bribery
-  headline: Jurors deadlocked in trial of ex-FirstEnergy officials over $60M bribery
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5921
-- slug: 2026-01-21-former-dea-agent-gets-5-years-for-shielding-buffalo-drug-traffickers-from-invest
-  headline: Former DEA agent gets 5 years for shielding Buffalo drug traffickers from investigation
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.5988
+  strength: 0.7413
 ---
-
 ## Ex-Hinds County DA Jody Owens gets more than 3 years in prison for bribery
 
 **Subtype:** fact
