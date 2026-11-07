@@ -1,9 +1,25 @@
 ---
-headline: Burgum holds up to $64.4 million in AI investments as data centers head to public lands
-secondary_headline: 380 Trump appointees or spouses have financial ties to Nvidia, analysis finds
+headline: Burgum holds up to $64.4 million in AI investments as data centers head
+  to public lands
+secondary_headline: 380 Trump appointees or spouses have financial ties to Nvidia,
+  analysis finds
 publish_date: '2026-11-06'
-lede: Interior Secretary Doug Burgum, the Trump administration's point person on building out artificial intelligence infrastructure, holds between $18.1 million and $64.4 million in AI company investments as his department works to open federally managed public lands to data centers, according to an analysis shared with ProPublica by the public lands advocacy group Save Our Parks. Much of Burgum's wealth sits in Arthur Ventures, the investment firm he co-founded; under the ethics agreement he signed at his Senate confirmation, he agreed to resign from its positions but to keep his financial interests.
-nut_graf: Multiple ethics professors and lawyers told ProPublica that Burgum's investments appear acceptable under the federal criminal conflict-of-interest statute, which sets a high burden of proof — but watchdogs and a former White House ethics lawyer say appearance-of-conflict rules call for him to step back from data center decisions. The holdings come as the administration promotes data centers on public lands, where the public has less power to block projects than under state and local processes, and as disclosure records show Trump appointees more heavily invested in the industries they oversee than their recent predecessors.
+lede: Interior Secretary Doug Burgum, the Trump administration's point person on building
+  out artificial intelligence infrastructure, holds between $18.1 million and $64.4
+  million in AI company investments as his department works to open federally managed
+  public lands to data centers, according to an analysis shared with ProPublica by
+  the public lands advocacy group Save Our Parks. Much of Burgum's wealth sits in
+  Arthur Ventures, the investment firm he co-founded; under the ethics agreement he
+  signed at his Senate confirmation, he agreed to resign from its positions but to
+  keep his financial interests.
+nut_graf: Multiple ethics professors and lawyers told ProPublica that Burgum's investments
+  appear acceptable under the federal criminal conflict-of-interest statute, which
+  sets a high burden of proof — but watchdogs and a former White House ethics lawyer
+  say appearance-of-conflict rules call for him to step back from data center decisions.
+  The holdings come as the administration promotes data centers on public lands, where
+  the public has less power to block projects than under state and local processes,
+  and as disclosure records show Trump appointees more heavily invested in the industries
+  they oversee than their recent predecessors.
 primary_entities:
 - Doug Burgum
 - Department of the Interior
@@ -54,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,107 +170,28 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-05-ai-related-companies-now-make-up-roughly-half-of-the-s-p-500-npr-editor-says
-  headline: AI-related companies now make up roughly half of the S&P 500, NPR editor says
+  headline: AI-related companies now make up roughly half of the S&P 500, NPR editor
+    says
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6646
-- slug: 2026-11-06-ai-companies-reassess-data-center-plans-after-midterm-wins-for-freeze-candidates
-  headline: AI companies reassess data-center plans after midterm wins for freeze candidates
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.626
-- slug: 2026-11-06-data-center-skeptics-win-across-us-midterms-as-tougher-state-rules-loom
-  headline: Data center skeptics win across US midterms as tougher state rules loom
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6243
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.625
-- slug: 2026-10-29-trump-administration-announces-43-deals-involving-government-stock-and-warrants
-  headline: Trump administration announces 43 deals involving government stock and warrants
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6499
-- slug: 2026-10-23-13-large-public-pension-funds-hold-about-195-billion-in-ai-linked-stocks
-  headline: 13 large public pension funds hold about $195 billion in AI-linked stocks
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6462
-- slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6259
-- slug: 2026-10-04-white-house-s-america-gov-says-it-is-sourced-via-ai-from-official-sources
-  headline: White House's America.gov says it is sourced via AI from official sources
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6433
-- slug: 2026-09-30-trump-ai-executives-sign-voluntary-self-policing-accord
-  headline: Trump, AI executives sign voluntary self-policing accord
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.641
-- slug: 2026-09-30-tech-ceos-sign-morally-binding-ai-safety-pledge-at-white-house
-  headline: Tech CEOs sign 'morally binding' AI safety pledge at White House
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6408
-- slug: 2026-09-24-us-ai-infrastructure-investment-projected-at-10-3-trillion-from-2025-to-2032
-  headline: US AI infrastructure investment projected at $10.3 trillion from 2025 to 2032
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6421
+  strength: 0.664
 - slug: 2026-09-20-trump-sons-and-allies-accumulate-ai-linked-contracts-as-white-house-resists-guar
-  headline: Trump sons and allies accumulate AI-linked contracts as White House resists guardrails
+  headline: Trump sons and allies accumulate AI-linked contracts as White House resists
+    guardrails
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6499
-- slug: 2026-09-25-tech-ceos-and-white-house-split-on-global-ai-governance-at-un
-  headline: Tech CEOs and White House split on global AI governance at UN
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6327
-- slug: 2026-09-23-burnham-announces-national-centre-for-information-defence-pitches-ai-standards
-  headline: Burnham announces National Centre for Information Defence, pitches AI standards
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6298
+  strength: 0.6502
 - slug: 2026-09-16-bannon-sanders-share-stage-at-pro-human-ai-conference-in-washington
   headline: Bannon, Sanders share stage at 'pro-human' AI conference in Washington
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6522
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6281
-- slug: 2026-09-10-rogo-raises-roughly-30-million-to-deploy-ai-across-finance
-  headline: Rogo raises roughly $30 million to deploy AI across finance
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6239
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6477
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6338
+  strength: 0.6524
 - slug: 2026-06-05-u-s-officials-discuss-government-taking-stakes-in-ai-industry
   headline: U.S. Officials Discuss Government Taking Stakes in AI Industry
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.6578
+  strength: 0.658
 ---
-
 ## Burgum holds up to $64.4 million in AI investments as data centers head to public lands
 
 **Subtype:** fact
