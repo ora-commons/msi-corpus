@@ -1,9 +1,21 @@
 ---
-headline: Harmeet Dhillon reshaped DOJ Civil Rights Division, ousting roughly 300 attorneys
-secondary_headline: Enforcement shifted to Trump's agenda through lawsuits against states and universities
+headline: Harmeet Dhillon reshaped DOJ Civil Rights Division, ousting roughly 300
+  attorneys
+secondary_headline: Enforcement shifted to Trump's agenda through lawsuits against
+  states and universities
 publish_date: '2026-11-05'
-lede: Harmeet Dhillon radically reshaped the Justice Department's Civil Rights Division during 18 tumultuous months in charge, pushing out roughly 300 attorneys and hiring inexperienced ideological allies to replace them, NPR reported. The division under her leadership used its enforcement powers to advance President Trump's MAGA agenda. Attorney General Todd Blanche said Nov. 5, 2026, that he had accepted her resignation.
-nut_graf: The transformation reached a division created some 70 years ago during the movement to end racial segregation in the United States, one that for decades fought to protect constitutional rights across housing, employment, education and policing. Civil Rights Division veterans criticized Dhillon's record, and the division's litigation met resistance in court, with courts tossing its suits against dozens of states over voter information and NPR reporting that a judge dismissed its antisemitism lawsuit against Harvard.
+lede: Harmeet Dhillon radically reshaped the Justice Department's Civil Rights Division
+  during 18 tumultuous months in charge, pushing out roughly 300 attorneys and hiring
+  inexperienced ideological allies to replace them, NPR reported. The division under
+  her leadership used its enforcement powers to advance President Trump's MAGA agenda.
+  Attorney General Todd Blanche said Nov. 5, 2026, that he had accepted her resignation.
+nut_graf: The transformation reached a division created some 70 years ago during the
+  movement to end racial segregation in the United States, one that for decades fought
+  to protect constitutional rights across housing, employment, education and policing.
+  Civil Rights Division veterans criticized Dhillon's record, and the division's litigation
+  met resistance in court, with courts tossing its suits against dozens of states
+  over voter information and NPR reporting that a judge dismissed its antisemitism
+  lawsuit against Harvard.
 primary_entities:
 - Harmeet Dhillon
 - Todd Blanche
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,6 +157,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-05-dhillon-exits-doj-civil-rights-division-after-calling-staff-exodus-a-self-purge
+  headline: Dhillon exits DOJ civil rights division after calling staff exodus a self-purge
+  publish_date: '2026-11-05'
+  relation: related
+  strength: 0.8773
 - slug: 2026-11-05-harmeet-dhillon-resigns-as-head-of-doj-civil-rights-division
   headline: Harmeet Dhillon resigns as head of DOJ civil rights division
   publish_date: '2026-11-05'
@@ -153,99 +171,34 @@ related_stories:
   headline: Dhillon reshapes DOJ Civil Rights Division as 300 lawyers leave
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.8795
-- slug: 2026-10-30-trump-administration-cuts-election-staff-and-sues-states-for-voter-rolls
-  headline: Trump administration cuts election staff and sues states for voter rolls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6485
-- slug: 2026-10-14-civil-rights-groups-train-thousands-of-poll-observers-for-midterms
-  headline: Civil rights groups train thousands of poll observers for midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.647
+  strength: 0.8801
 - slug: 2026-10-07-naacp-sues-trump-doj-over-election-monitor-plans
   headline: NAACP sues Trump DOJ over election monitor plans
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.672
-- slug: 2026-10-10-lead-lawyer-and-senior-counsel-quit-doj-s-so-called-grand-conspiracy-probe
-  headline: Lead lawyer and senior counsel quit DOJ's so-called grand-conspiracy probe
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.644
-- slug: 2026-09-04-education-department-releases-student-civil-rights-data-six-months-late
-  headline: Education Department releases student civil rights data six months late
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6419
+  strength: 0.6724
 - slug: 2026-08-28-blanche-defends-doj-record-pledges-integrity-in-wide-ranging-interview
   headline: Blanche defends DOJ record, pledges integrity in wide-ranging interview
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6564
+  strength: 0.6559
 - slug: 2026-08-21-justice-department-targets-1-000-poll-monitors-for-november-midterms
   headline: Justice Department targets 1,000 poll monitors for November midterms
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6643
-- slug: 2026-08-21-ed-martin-to-leave-justice-department-trump-says
-  headline: Ed Martin to leave Justice Department, Trump says
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6448
-- slug: 2026-08-18-justice-department-plans-about-1-000-poll-monitors-for-fall-elections
-  headline: Justice Department plans about 1,000 poll monitors for fall elections
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6442
-- slug: 2026-08-13-blanche-pledges-to-lead-doj-with-integrity-in-first-speech-since-confirmation
-  headline: Blanche pledges to lead DOJ with integrity in first speech since confirmation
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6499
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.647
+  strength: 0.6645
 - slug: 2026-07-07-over-1-200-former-doj-employees-urge-senate-to-reject-blanche
   headline: Over 1,200 former DOJ employees urge Senate to reject Blanche
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.6521
+  strength: 0.6512
 - slug: 2026-06-29-education-department-shifts-programs-to-other-agencies-via-interagency-agreement
-  headline: Education Department shifts programs to other agencies via interagency agreements
+  headline: Education Department shifts programs to other agencies via interagency
+    agreements
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6571
-- slug: 2026-07-09-education-department-holds-private-call-with-disability-advocates-on-special-ed-
-  headline: Education Department holds private call with disability advocates on special ed move
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6426
-- slug: 2026-06-16-trump-administration-shifts-special-education-civil-rights-offices-to-other-agen
-  headline: Trump administration shifts special education, civil rights offices to other agencies
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6493
-- slug: 2026-04-15-trump-justice-department-fires-four-face-act-prosecutors-amid-bias-probe
-  headline: Trump Justice Department fires four FACE Act prosecutors amid bias probe
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6716
-- slug: 2026-05-23-justice-department-says-it-removed-jan-6-defendant-releases-it-calls-propaganda
-  headline: Justice Department says it removed Jan. 6 defendant releases it calls “propaganda”
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6534
-- slug: 2026-05-06-doj-targets-slow-immigration-judges-as-trump-pushes-to-cut-backlog
-  headline: DOJ targets slow immigration judges as Trump pushes to cut backlog
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6502
+  strength: 0.657
 ---
-
 ## Harmeet Dhillon reshaped DOJ Civil Rights Division, ousting roughly 300 attorneys
 
 **Subtype:** fact

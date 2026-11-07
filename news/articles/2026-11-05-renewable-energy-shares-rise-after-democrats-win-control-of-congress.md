@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.6597
+analyses:
+- '2026-11-05-midterm-rally-reprices-political-odds-in-us-renewables-as-structural-fragility-p'
 ---
 ## Renewable energy shares rise after Democrats win control of Congress
 
@@ -245,3 +247,8 @@ Two questions remain open: how the surge in datacenters' electricity demand will
 **Publication date:** 2026-11-05
 **Title:** Will Democrats’ midterms triumph put wind back in sails of the renewables sector?
 **URL:** https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump
+
+---
+
+<!-- analysis-link:2026-11-05-midterm-rally-reprices-political-odds-in-us-renewables-as-structural-fragility-p -->
+**Going deeper:** [Read MSI's analysis of the midterm reprieve in US renewables →](/analyses/2026-11-05-midterm-rally-reprices-political-odds-in-us-renewables-as-structural-fragility-p)

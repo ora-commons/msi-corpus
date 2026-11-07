@@ -1,9 +1,21 @@
 ---
 headline: Democrats sweep Southern elections, overturning decades of GOP dominance
-secondary_headline: Bottoms becomes first Black woman governor as Hinojosa makes Texas history
+secondary_headline: Bottoms becomes first Black woman governor as Hinojosa makes Texas
+  history
 publish_date: '2026-11-05'
-lede: Democrats swept elections across the American South on Tuesday, winning U.S. Senate seats in North Carolina, South Carolina and Virginia and capturing both the Senate and governor's races in Georgia and Texas. The results dismantled decades of Republican dominance across the region, with high turnout among Black and Hispanic voters and years of demographic change fueling the Democratic sweep, according to The Wall Street Journal.
-nut_graf: The outcome resets the political map heading into the 2028 presidential election, with states Republicans have long counted on now discussed as potential battlegrounds, and it produced historic firsts, including the first Black woman governor in U.S. history. Political scientists cautioned that the sweep does not guarantee a durable realignment, but said the South is moving back to competitive, two-party politics after decades in which the GOP treated the region as settled ground.
+lede: Democrats swept elections across the American South on Tuesday, winning U.S.
+  Senate seats in North Carolina, South Carolina and Virginia and capturing both the
+  Senate and governor's races in Georgia and Texas. The results dismantled decades
+  of Republican dominance across the region, with high turnout among Black and Hispanic
+  voters and years of demographic change fueling the Democratic sweep, according to
+  The Wall Street Journal.
+nut_graf: The outcome resets the political map heading into the 2028 presidential
+  election, with states Republicans have long counted on now discussed as potential
+  battlegrounds, and it produced historic firsts, including the first Black woman
+  governor in U.S. history. Political scientists cautioned that the sweep does not
+  guarantee a durable realignment, but said the South is moving back to competitive,
+  two-party politics after decades in which the GOP treated the region as settled
+  ground.
 primary_entities:
 - Georgia
 - Texas
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +165,43 @@ related_stories:
   headline: Democrats flip Senate seats in the South, reshaping the 2028 contest
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8361
+  strength: 0.8354
 - slug: 2026-11-05-black-voter-turnout-propels-democratic-wins-across-the-south
   headline: Black voter turnout propels Democratic wins across the South
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8164
+  strength: 0.8155
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8226
+  strength: 0.822
 - slug: 2026-11-04-democrats-win-key-governor-races-with-historic-firsts
   headline: Democrats win key governor races with historic firsts
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8204
+  strength: 0.8202
 - slug: 2026-11-04-democrats-retake-congress-dnc-chairman-says-mandate-is-about-affordability
   headline: Democrats retake Congress; DNC chairman says mandate is about affordability
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7629
+  strength: 0.7619
 - slug: 2026-11-04-el-sayed-and-pappas-make-history-as-haaland-wins-new-mexico-governorship
   headline: El-Sayed and Pappas make history as Haaland wins New Mexico governorship
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7517
+  strength: 0.7491
 - slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
   headline: Democrats regain Senate control after wins in at least six states
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7483
+  strength: 0.747
 - slug: 2026-11-04-democrats-win-house-and-senate-control-in-2026-us-midterms
   headline: Democrats win House and Senate control in 2026 US midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7382
-- slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
-  headline: Democrats sweep Congress with Mississippi Senate race still counting
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7308
-- slug: 2026-11-04-democrats-projected-to-take-congress-cooper-wins-north-carolina-senate-race
-  headline: Democrats projected to take Congress; Cooper wins North Carolina Senate race
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7345
-- slug: 2026-11-03-keisha-lance-bottoms-wins-georgia-governor-race
-  headline: Keisha Lance Bottoms wins Georgia governor race
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7396
-- slug: 2026-11-04-stacey-abrams-says-georgia-wins-offer-chance-to-restore-rights-across-the-south
-  headline: Stacey Abrams says Georgia wins offer chance to restore rights across the South
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.732
-- slug: 2026-11-04-keisha-lance-bottoms-wins-georgia-governor-race-in-historic-upset
-  headline: Keisha Lance Bottoms wins Georgia governor race in historic upset
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.729
-- slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
-  headline: Democrats win Congress after flipping seven Senate seats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7246
-- slug: 2026-11-05-democrats-gain-hundreds-of-state-legislative-seats-in-2026-midterms
-  headline: Democrats gain hundreds of state legislative seats in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7145
-- slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
-  headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7211
-- slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
-  headline: Democrats gain control of Congress as 2026 voter shifts emerge
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7116
-- slug: 2026-11-04-historic-firsts-and-party-tests-follow-democratic-midterm-victories
-  headline: Historic firsts and party tests follow Democratic midterm victories
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7165
-- slug: 2026-11-04-democrats-flip-state-legislatures-and-pick-up-four-governorships-in-2026-midterm
-  headline: Democrats flip state legislatures and pick up four governorships in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7147
-- slug: 2026-11-03-midterm-candidates-vie-for-historic-firsts-in-governor-and-senate-races
-  headline: Midterm candidates vie for historic firsts in governor and Senate races
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.717
+  strength: 0.7363
 ---
-
 ## Democrats sweep Southern elections, overturning decades of GOP dominance
 
 **Subtype:** fact
