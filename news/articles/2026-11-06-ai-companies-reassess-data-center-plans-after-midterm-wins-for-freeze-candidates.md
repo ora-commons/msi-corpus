@@ -1,9 +1,20 @@
 ---
 headline: AI companies reassess data-center plans after midterm wins for freeze candidates
-secondary_headline: Meta and Anthropic explore overseas sites as U.S. approvals grow harder
+secondary_headline: Meta and Anthropic explore overseas sites as U.S. approvals grow
+  harder
 publish_date: '2026-11-06'
-lede: Artificial-intelligence companies are reassessing data-center plans after candidates who promised to freeze development won statehouses in Texas, Georgia, Ohio and Michigan in the 2026 midterms, The Wall Street Journal reported. OpenAI Chief Executive Sam Altman acknowledged public concern about water use during an employee session, and Meta and Anthropic are weighing or pursuing computing projects outside the United States.
-nut_graf: The midterm results confront tech companies that have committed hundreds of billions of dollars to artificial intelligence and cultivated relationships with AI-friendly officials with the prospect of blanket moratoriums, tighter environmental regulations, longer review timelines and potential new AI-safety regulations. Their responses so far include outreach to incoming governors, consideration of overseas sites and new public commitments on energy, water and noise impacts.
+lede: Artificial-intelligence companies are reassessing data-center plans after candidates
+  who promised to freeze development won statehouses in Texas, Georgia, Ohio and Michigan
+  in the 2026 midterms, The Wall Street Journal reported. OpenAI Chief Executive Sam
+  Altman acknowledged public concern about water use during an employee session, and
+  Meta and Anthropic are weighing or pursuing computing projects outside the United
+  States.
+nut_graf: The midterm results confront tech companies that have committed hundreds
+  of billions of dollars to artificial intelligence and cultivated relationships with
+  AI-friendly officials with the prospect of blanket moratoriums, tighter environmental
+  regulations, longer review timelines and potential new AI-safety regulations. Their
+  responses so far include outreach to incoming governors, consideration of overseas
+  sites and new public commitments on energy, water and noise impacts.
 primary_entities:
 - OpenAI
 - Sam Altman
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +161,43 @@ related_stories:
   headline: Voters back data center limits, complicating AI expansion
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7832
+  strength: 0.7828
 - slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
   headline: Democratic gains shift U.S. technology policy outlook
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7629
+  strength: 0.7628
 - slug: 2026-11-05-data-center-slowdown-could-favor-large-ai-firms-with-power-secured
   headline: Data center slowdown could favor large AI firms with power secured
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7362
+  strength: 0.7358
 - slug: 2026-11-01-openai-raises-less-than-half-its-target-as-ai-funding-cools
   headline: OpenAI raises less than half its target as AI funding cools
   publish_date: '2026-11-01'
   relation: related
   strength: 0.7319
+- slug: 2026-10-28-mckay-and-eubanks-call-for-grassroots-opposition-to-ai-data-centers
+  headline: McKay and Eubanks call for grassroots opposition to AI data centers
+  publish_date: '2026-10-28'
+  relation: related
+  strength: 0.7438
 - slug: 2026-10-29-el-sayed-calls-for-public-ownership-of-frontier-ai-companies
   headline: El-Sayed calls for public ownership of frontier AI companies
   publish_date: '2026-10-29'
   relation: related
   strength: 0.7376
-- slug: 2026-10-28-mckay-and-eubanks-call-for-grassroots-opposition-to-ai-data-centers
-  headline: McKay and Eubanks call for grassroots opposition to AI data centers
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7433
-- slug: 2026-10-31-lenders-and-investors-demand-tighter-terms-as-ai-financing-strains-mount
-  headline: Lenders and investors demand tighter terms as AI financing strains mount
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7238
 - slug: 2026-10-26-candidates-in-four-states-seek-tighter-data-center-approval-rules
   headline: Candidates in four states seek tighter data-center approval rules
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7263
+  strength: 0.7258
 - slug: 2026-10-22-local-resistance-pressures-tech-giants-ahead-of-the-u-s-midterms
   headline: Local resistance pressures tech giants ahead of the U.S. midterms
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7387
-- slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
-  headline: Data center backlash forces bipartisan repositioning ahead of US midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7682
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7285
-- slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
-  headline: Tech giants step up community investments to counter AI data-center opposition
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7866
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.7417
-- slug: 2026-09-04-data-center-operators-redesign-sites-as-15-states-weigh-moratoriums
-  headline: Data center operators redesign sites as 15 states weigh moratoriums
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7338
-- slug: 2026-08-26-snowballing-data-center-opposition-reshapes-us-midterm-contests
-  headline: Snowballing data center opposition reshapes US midterm contests
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7416
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7251
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7662
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
   strength: 0.7388
-- slug: 2026-08-23-data-center-opposition-mounts-as-tech-giants-court-communities
-  headline: Data center opposition mounts as tech giants court communities
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7236
-- slug: 2026-06-08-two-thirds-of-planned-us-ai-datacenters-built-on-drought-hit-land
-  headline: Two-thirds of planned US AI datacenters built on drought-hit land
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7663
 ---
-
 ## AI companies reassess data-center plans after midterm wins for freeze candidates
 
 **Subtype:** fact
