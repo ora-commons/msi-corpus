@@ -2,8 +2,15 @@
 headline: Zipline raises $1.5 billion, reaching a $21.5 billion valuation
 secondary_headline: Walmart plans 300 additional drone-delivery sites with Zipline
 publish_date: '2026-11-05'
-lede: Drone startup Zipline raised $1.5 billion in fresh funding, more than doubling its valuation to $21.5 billion, according to The Wall Street Journal. The South San Francisco, Calif., company will use the money to expand U.S. manufacturing, increase hiring and build a nationwide drone-delivery network.
-nut_graf: The financing gives Zipline capital to expand manufacturing and hiring as Chief Executive Keller Cliffton reports surging demand for autonomous delivery. Cliffton said three or four customers now want delivery volumes of one million a day, and Walmart's expansion includes 300 additional sites under a national multi-year agreement.
+lede: Drone startup Zipline raised $1.5 billion in fresh funding, more than doubling
+  its valuation to $21.5 billion, according to The Wall Street Journal. The South
+  San Francisco, Calif., company will use the money to expand U.S. manufacturing,
+  increase hiring and build a nationwide drone-delivery network.
+nut_graf: The financing gives Zipline capital to expand manufacturing and hiring as
+  Chief Executive Keller Cliffton reports surging demand for autonomous delivery.
+  Cliffton said three or four customers now want delivery volumes of one million a
+  day, and Walmart's expansion includes 300 additional sites under a national multi-year
+  agreement.
 primary_entities:
 - Zipline
 - Walmart
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +151,29 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-05-zipline-raises-1-5-billion-reaching-a-21-5-billion-valuation.png
-  alt: 'Illustration accompanying article: Zipline raises $1.5 billion, reaching a $21.5 billion valuation'
+  alt: 'Illustration accompanying article: Zipline raises $1.5 billion, reaching a
+    $21.5 billion valuation'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-28-companies-develop-quieter-aircraft-as-drone-deliveries-expand
-  headline: Companies develop quieter aircraft as drone deliveries expand
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6079
-- slug: 2026-10-09-walmart-deploys-wheeled-robots-in-more-than-a-dozen-warehouses
-  headline: Walmart deploys wheeled robots in more than a dozen warehouses
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5903
-- slug: 2026-10-06-uber-agrees-to-acquire-ezcater-for-2-3-billion
-  headline: Uber agrees to acquire ezCater for $2.3 billion
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6031
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5943
-- slug: 2026-09-24-amazon-to-build-100-million-indiana-robotics-plant-doubling-robot-capacity
-  headline: Amazon to build $100 million Indiana robotics plant, doubling robot capacity
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5861
 - slug: 2026-08-19-amazon-plans-drone-delivery-to-nearly-500-us-cities-by-year-end
   headline: Amazon plans drone delivery to nearly 500 US cities by year-end
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.6601
+  strength: 0.6603
 - slug: 2026-08-07-wonder-raises-650-million-eyes-ipo-next-year
   headline: Wonder raises $650 million, eyes IPO next year
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6773
-- slug: 2026-09-10-swarmer-to-buy-ratel-robotics-in-deal-valued-up-to-224-million
-  headline: Swarmer to buy Ratel Robotics in deal valued up to $224 million
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5991
-- slug: 2026-09-02-delivery-hero-board-endorses-uber-s-14-8-billion-takeover-bid
-  headline: Delivery Hero board endorses Uber's $14.8 billion takeover bid
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5993
-- slug: 2026-09-01-jersey-mike-s-stock-prices-in-gen-z-growth
-  headline: Jersey Mike's stock prices in Gen Z growth
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5922
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5857
-- slug: 2026-08-12-lovable-raises-400-million-at-13-3-billion-valuation
-  headline: Lovable raises $400 million at $13.3 billion valuation
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5826
-- slug: 2026-07-27-philip-morris-opens-1-2-billion-zyn-manufacturing-campus-in-colorado
-  headline: Philip Morris opens $1.2 billion Zyn manufacturing campus in Colorado
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5879
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.595
-- slug: 2026-07-23-stripe-in-talks-to-buy-ai-marketplace-openrouter-for-about-10b
-  headline: Stripe in talks to buy AI marketplace OpenRouter for about $10B
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5825
-- slug: 2026-06-24-agility-robotics-heads-to-wall-street-in-2-5b-bet-on-warehouse-humanoids
-  headline: Agility Robotics heads to Wall Street in $2.5B bet on warehouse humanoids
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6105
-- slug: 2026-06-24-bezos-backed-startup-slate-auto-plans-25-000-ev-pickup-with-hand-crank-windows
-  headline: Bezos-backed startup Slate Auto plans $25,000 EV pickup with hand-crank windows
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6027
-- slug: 2026-05-16-walmart-and-amazon-race-to-speed-up-deliveries-to-rural-america
-  headline: Walmart and Amazon race to speed up deliveries to rural America
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6164
-- slug: 2026-05-11-amazon-plans-to-expand-30-minute-delivery-service-to-more-u-s-cities
-  headline: Amazon plans to expand 30-minute delivery service to more U.S. cities
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6037
-- slug: 2026-05-11-amazon-now-expands-30-minute-delivery-to-dozens-of-us-cities-with-plans-for-nyc
-  headline: Amazon Now expands 30-minute delivery to dozens of US cities, with plans for NYC
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6002
+  strength: 0.6769
 ---
-
 ## Zipline raises $1.5 billion, reaching a $21.5 billion valuation
 
 **Subtype:** fact
