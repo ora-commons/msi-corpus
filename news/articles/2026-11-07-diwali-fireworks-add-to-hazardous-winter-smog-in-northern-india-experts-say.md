@@ -1,9 +1,21 @@
 ---
-headline: Diwali fireworks add to hazardous winter smog in northern India, experts say
-secondary_headline: Recommended steps include AQI checks, fitted N95 masks and HEPA purifiers
+headline: Diwali fireworks add to hazardous winter smog in northern India, experts
+  say
+secondary_headline: Recommended steps include AQI checks, fitted N95 masks and HEPA
+  purifiers
 publish_date: '2026-11-07'
-lede: Public health experts are urging people across northern India to check air quality readings, wear well-fitting masks and filter the air inside their homes as Diwali, which begins Sunday, coincides with the return of hazardous winter smog. Fireworks set off during the Hindu and Jain festival can make polluted air more dangerous, the experts said, and Delhi's fine particle pollution averaged about 19 times the World Health Organization's annual guideline last year.
-nut_graf: 'The guidance arrives as South Asia enters the season when weak winds and stagnant winter air trap pollution from traffic, factories, construction dust and the burning of crop residues and waste near the ground. Experts cautioned that individual precautions have limits: people who earn their living outdoors cannot simply stay home, many families cannot afford air purifiers, and lasting protection, in Narayan''s words, requires governments to clean the air.'
+lede: Public health experts are urging people across northern India to check air quality
+  readings, wear well-fitting masks and filter the air inside their homes as Diwali,
+  which begins Sunday, coincides with the return of hazardous winter smog. Fireworks
+  set off during the Hindu and Jain festival can make polluted air more dangerous,
+  the experts said, and Delhi's fine particle pollution averaged about 19 times the
+  World Health Organization's annual guideline last year.
+nut_graf: 'The guidance arrives as South Asia enters the season when weak winds and
+  stagnant winter air trap pollution from traffic, factories, construction dust and
+  the burning of crop residues and waste near the ground. Experts cautioned that individual
+  precautions have limits: people who earn their living outdoors cannot simply stay
+  home, many families cannot afford air purifiers, and lasting protection, in Narayan''s
+  words, requires governments to clean the air.'
 primary_entities:
 - Diwali
 - Delhi
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +155,18 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-students-in-indonesia-protest-toxic-haze-from-forest-and-peatland-fires
-  headline: Students in Indonesia protest toxic haze from forest and peatland fires
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6086
-- slug: 2026-10-15-indonesia-to-disperse-dry-ice-over-south-sumatra-as-wildfire-haze-spreads
-  headline: Indonesia to disperse dry ice over South Sumatra as wildfire haze spreads
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5839
-- slug: 2026-09-15-study-finds-pollution-spiked-after-state-department-ended-embassy-monitoring
-  headline: Study finds pollution spiked after State Department ended embassy monitoring
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6034
 - slug: 2026-07-19-wildfire-smoke-health-risks-drive-indoor-air-filter-guidance
   headline: Wildfire smoke health risks drive indoor air filter guidance
   publish_date: '2026-07-19'
   relation: related
-  strength: 0.6573
-- slug: 2026-07-16-canadian-wildfire-smoke-shrouds-northeast-midwest-in-hazardous-air
-  headline: Canadian wildfire smoke shrouds Northeast, Midwest in hazardous air
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6277
-- slug: 2026-07-07-dc-air-quality-hits-worst-in-world-after-record-fireworks
-  headline: DC air quality hits worst in world after record fireworks
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6294
-- slug: 2026-07-17-new-yorkers-face-poor-air-quality-as-canadian-wildfire-smoke-blankets-city
-  headline: New Yorkers face poor air quality as Canadian wildfire smoke blankets city
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6183
+  strength: 0.6529
 - slug: 2026-04-15-michigan-to-issue-air-quality-alerts-at-unhealthy-for-sensitive-groups-level
-  headline: Michigan to issue air quality alerts at “unhealthy for sensitive groups” level
+  headline: Michigan to issue air quality alerts at “unhealthy for sensitive groups”
+    level
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.6626
-- slug: 2026-07-17-wildfire-smoke-affects-nearly-every-human-body-system-studies-find
-  headline: Wildfire smoke affects nearly every human body system, studies find
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5946
-- slug: 2026-07-15-canadian-wildfire-smoke-blankets-midwest-northeast
-  headline: Canadian wildfire smoke blankets Midwest, Northeast
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5956
-- slug: 2026-07-02-extreme-heat-warnings-cover-midwest-eastern-u-s-as-holiday-weekend-begins
-  headline: Extreme heat warnings cover Midwest, Eastern U.S. as holiday weekend begins
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6069
-- slug: 2026-07-06-study-links-air-pollution-to-childhood-obesity-through-impulse-control
-  headline: Study links air pollution to childhood obesity through impulse control
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5965
-- slug: 2026-03-15-black-rain-in-iran-after-oil-facility-strikes-raises-health-concerns
-  headline: Black rain in Iran after oil facility strikes raises health concerns
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6332
-- slug: 2026-01-21-winter-weather-poses-multiple-dangers-experts-advise-safety-steps
-  headline: Winter weather poses multiple dangers; experts advise safety steps
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6378
-- slug: 2026-06-23-london-new-york-offer-template-for-cities-to-cut-air-pollution-mayors-say
-  headline: London, New York offer template for cities to cut air pollution, mayors say
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5946
-- slug: 2026-02-05-new-study-links-wildfire-smoke-pollution-to-about-24-100-u-s-deaths-a-year
-  headline: New study links wildfire smoke pollution to about 24,100 U.S. deaths a year
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6221
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  headline: Toxic Tijuana River sewage sickens thousands in California
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6023
-- slug: 2026-04-02-warm-winters-mean-more-nitrate-pollution-in-drinking-water-experts-warn
-  headline: Warm winters mean more nitrate pollution in drinking water, experts warn
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6128
-- slug: 2026-05-16-iran-war-fuel-disruption-pushes-india-southeast-asia-toward-biofuel-blends
-  headline: Iran war fuel disruption pushes India, Southeast Asia toward biofuel blends
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5952
-- slug: 2026-04-16-health-effects-tied-to-toxic-hydrogen-sulfide-from-tijuana-river-sewage
-  headline: Health effects tied to toxic hydrogen sulfide from Tijuana River sewage
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6012
+  strength: 0.6594
 ---
-
 ## Diwali fireworks add to hazardous winter smog in northern India, experts say
 
 **Subtype:** fact

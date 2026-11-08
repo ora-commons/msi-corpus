@@ -1,9 +1,25 @@
 ---
 headline: Stephen Miller called man killed by immigration agents a 'domestic terrorist'
-secondary_headline: Midterm polls found 58% of voters said immigration enforcement had gone too far
+secondary_headline: Midterm polls found 58% of voters said immigration enforcement
+  had gone too far
 publish_date: '2026-11-06'
-lede: Stephen Miller called Alex Pretti, who was shot and killed by federal immigration officials during a massive deportation operation in Minneapolis, a 'domestic terrorist' and an 'assassin,' before walking back the words to say federal agents 'may not have been following' proper protocol. The longtime adviser and driving force behind the Trump administration's immigration enforcement takes over as White House chief of staff after President Donald Trump elevated him on Friday, following the Republican Party's sweeping defeat in Tuesday's midterm elections. Polls in that election found 58% of voters believed the Trump administration's immigration enforcement actions had 'gone too far,' and Hispanic voters decisively turned against Republican candidates.
-nut_graf: The chief of staff is gatekeeper to the president, agenda-setter in the White House and chief negotiator with Congress and other outside political interests — one of the most powerful positions in Washington. Trump announced Miller's appointment days after saying he would be willing to work with the newly ascendent Democrats in Congress, and BBC North America correspondent Anthony Zurcher wrote that the promotion was 'far from an olive branch to Congress' and could be a sign that the president is girding for political battle by installing what he called a 'partisan firebrand' in the top White House job.
+lede: Stephen Miller called Alex Pretti, who was shot and killed by federal immigration
+  officials during a massive deportation operation in Minneapolis, a 'domestic terrorist'
+  and an 'assassin,' before walking back the words to say federal agents 'may not
+  have been following' proper protocol. The longtime adviser and driving force behind
+  the Trump administration's immigration enforcement takes over as White House chief
+  of staff after President Donald Trump elevated him on Friday, following the Republican
+  Party's sweeping defeat in Tuesday's midterm elections. Polls in that election found
+  58% of voters believed the Trump administration's immigration enforcement actions
+  had 'gone too far,' and Hispanic voters decisively turned against Republican candidates.
+nut_graf: The chief of staff is gatekeeper to the president, agenda-setter in the
+  White House and chief negotiator with Congress and other outside political interests
+  — one of the most powerful positions in Washington. Trump announced Miller's appointment
+  days after saying he would be willing to work with the newly ascendent Democrats
+  in Congress, and BBC North America correspondent Anthony Zurcher wrote that the
+  promotion was 'far from an olive branch to Congress' and could be a sign that the
+  president is girding for political battle by installing what he called a 'partisan
+  firebrand' in the top White House job.
 primary_entities:
 - Donald Trump
 - Stephen Miller
@@ -47,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,35 +163,39 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-06-stephen-miller-built-hard-line-immigration-record-and-sweep-of-white-house-power
-  headline: Stephen Miller built hard-line immigration record and sweep of White House power
+  headline: Stephen Miller built hard-line immigration record and sweep of White House
+    power
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7939
+  strength: 0.7941
 - slug: 2026-11-06-trump-polled-friends-for-weeks-on-wiles-s-work-before-replacing-her-sources-say
-  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources say
+  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources
+    say
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7514
+  strength: 0.752
 - slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
+  headline: Miller's elevation is clearest signal yet Trump will double down, Journal
+    says
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7326
+  strength: 0.7335
 - slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
+  headline: White House chief of staff Susie Wiles resigns after Republican midterm
+    losses
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7278
+  strength: 0.7287
 - slug: 2026-11-06-trump-names-stephen-miller-white-house-chief-of-staff
   headline: Trump names Stephen Miller White House chief of staff
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7175
+  strength: 0.718
 - slug: 2026-11-06-trump-s-chief-of-staff-switch-follows-republican-midterm-sweep-from-power
   headline: Trump's chief of staff switch follows Republican midterm sweep from power
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6999
+  strength: 0.7006
 - slug: 2026-10-29-trump-immigration-policies-lose-support-as-voter-disapproval-grows
   headline: Trump immigration policies lose support as voter disapproval grows
   publish_date: '2026-10-29'
@@ -184,69 +205,8 @@ related_stories:
   headline: Stephen Miller leads multi-agency push to accelerate migrant child removals
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7399
-- slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
-  headline: Trump grows frustrated with Homeland Security Secretary Mullin
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7004
-- slug: 2026-01-25-trump-blames-democrats-for-chaos-after-fatal-minneapolis-immigration-shooting
-  headline: Trump blames Democrats for chaos after fatal Minneapolis immigration shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.738
-- slug: 2026-05-18-federal-officer-shoots-and-kills-minneapolis-man-in-immigration-sweep
-  headline: Federal officer shoots and kills Minneapolis man in immigration sweep
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7064
-- slug: 2026-01-25-republicans-press-for-investigation-into-fatal-minneapolis-shooting
-  headline: Republicans press for investigation into fatal Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7237
-- slug: 2026-01-27-federal-shooting-of-armed-minneapolis-man-sparks-gun-rights-backlash
-  headline: Federal shooting of armed Minneapolis man sparks gun-rights backlash
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.7226
-- slug: 2026-01-27-trump-replaces-minneapolis-immigration-commander-following-fatal-shooting
-  headline: Trump replaces Minneapolis immigration commander following fatal shooting
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.7226
-- slug: 2026-03-19-mullin-faces-senate-pushback-over-his-dhs-nomination
-  headline: Mullin faces Senate pushback over his DHS nomination
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.7094
-- slug: 2026-01-15-miller-articulates-power-doctrine-behind-venezuela-operation-greenland-ambitions
-  headline: Miller articulates power doctrine behind Venezuela operation, Greenland ambitions
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7112
-- slug: 2026-01-30-growing-cultural-revolt-emerges-against-trump-s-immigration-crackdown
-  headline: Growing cultural revolt emerges against Trump’s immigration crackdown
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7095
-- slug: 2026-03-15-trump-mass-deportations-at-crossroads-with-dhs-shake-up
-  headline: Trump mass deportations at crossroads with DHS shake-up
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7029
-- slug: 2026-01-29-republicans-fret-immigration-enforcement-chaos-could-hurt-midterms
-  headline: Republicans fret immigration enforcement chaos could hurt midterms
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7052
-- slug: 2026-01-27-trump-shifts-minnesota-approach-after-federal-shooting-kills-nurse
-  headline: Trump shifts Minnesota approach after federal shooting kills nurse
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6964
+  strength: 0.7397
 ---
-
 ## Stephen Miller called man killed by immigration agents a 'domestic terrorist'
 
 **Subtype:** fact

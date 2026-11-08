@@ -1,9 +1,19 @@
 ---
 headline: Impeached Paraguay president Santiago Peña placed under house arrest
-secondary_headline: Ueno bank suspension froze the accounts of 2.9 million Paraguayans overnight
+secondary_headline: Ueno bank suspension froze the accounts of 2.9 million Paraguayans
+  overnight
 publish_date: '2026-11-07'
-lede: Paraguay's impeached former president Santiago Peña was placed under house arrest minutes after Congress concluded proceedings removing him from office, as a banking crisis left about 60% of the country's adults unable to access their bank accounts. Vice-President Pedro Alliana was sworn in as the country's new leader, and a prosecutor said Peña voluntarily made himself available to officers at his home.
-nut_graf: The arrest capped a week in which the suspension of Ueno, a digital lender that grew into one of Paraguay's largest banks by deposits in just a few years, froze 2.9 million accounts overnight and cut retail sales by as much as 80%. Prosecutors are investigating Peña — one of US President Donald Trump's main allies in the region — on suspicion of illicit enrichment, money laundering and influence peddling, and an estimated $800m to $860m in state and pension funds were invested in the bank.
+lede: Paraguay's impeached former president Santiago Peña was placed under house arrest
+  minutes after Congress concluded proceedings removing him from office, as a banking
+  crisis left about 60% of the country's adults unable to access their bank accounts.
+  Vice-President Pedro Alliana was sworn in as the country's new leader, and a prosecutor
+  said Peña voluntarily made himself available to officers at his home.
+nut_graf: The arrest capped a week in which the suspension of Ueno, a digital lender
+  that grew into one of Paraguay's largest banks by deposits in just a few years,
+  froze 2.9 million accounts overnight and cut retail sales by as much as 80%. Prosecutors
+  are investigating Peña — one of US President Donald Trump's main allies in the region
+  — on suspicion of illicit enrichment, money laundering and influence peddling, and
+  an estimated $800m to $860m in state and pension funds were invested in the bank.
 primary_entities:
 - Santiago Peña
 - Paraguay
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +161,18 @@ related_stories:
   headline: Santiago Peña resigns as Paraguay bank crisis freezes 3 million accounts
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.864
+  strength: 0.8632
 - slug: 2026-11-05-paraguay-lawmakers-impeach-pe-a-after-ueno-bank-collapse
   headline: Paraguay lawmakers impeach Peña after Ueno Bank collapse
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.854
+  strength: 0.8532
 - slug: 2026-11-05-paraguay-s-president-santiago-pe-a-resigns-after-ueno-bank-collapse
   headline: Paraguay's president Santiago Peña resigns after Ueno Bank collapse
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8096
-- slug: 2026-10-28-unnamed-sources-report-fl-vio-bolsonaro-s-us-arrival-after-passport-cancellation
-  headline: Unnamed sources report Flávio Bolsonaro's US arrival after passport cancellation
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6361
-- slug: 2026-10-27-brazilian-official-says-fl-vio-s-two-passports-canceled-after-defying-de-moraes-
-  headline: Brazilian official says Flávio’s two passports canceled after defying de Moraes’s order
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6019
-- slug: 2026-10-12-venezuelan-coalition-allies-press-rodr-guez-to-resist-us-pursuit-of-insiders
-  headline: Venezuelan coalition allies press Rodríguez to resist US pursuit of insiders
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6298
-- slug: 2026-10-13-brazilian-supreme-court-crisis-implicates-five-justices-ahead-of-october-25-runo
-  headline: Brazilian supreme court crisis implicates five justices ahead of October 25 runoff
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6045
-- slug: 2026-10-12-u-s-arrests-colombian-fugitive-tied-to-maduro-on-laundering-charges
-  headline: U.S. arrests Colombian fugitive tied to Maduro on laundering charges
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6085
-- slug: 2026-10-07-sheinbaum-agrees-to-freeze-ex-officials-accounts-hit-by-u-s-sanctions
-  headline: Sheinbaum agrees to freeze ex-officials' accounts hit by U.S. sanctions
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6135
-- slug: 2026-10-09-brazil-s-top-court-orders-arrest-of-eduardo-bolsonaro-ahead-of-runoff
-  headline: Brazil's top court orders arrest of Eduardo Bolsonaro ahead of runoff
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6037
-- slug: 2026-10-04-fl-vio-bolsonaro-sought-26-8m-from-accused-banker-for-father-s-biopic
-  headline: Flávio Bolsonaro sought $26.8m from accused banker for father's biopic
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6029
-- slug: 2026-09-11-fl-vio-bolsonaro-formally-investigated-over-alleged-corruption
-  headline: Flávio Bolsonaro formally investigated over alleged corruption
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6042
-- slug: 2026-07-10-un-panel-finds-castillo-detention-arbitrary-calls-for-release
-  headline: UN panel finds Castillo detention arbitrary, calls for release
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6004
-- slug: 2026-06-20-judge-revokes-spanish-first-lady-s-passport-as-flight-risk-before-corruption-tri
-  headline: Judge revokes Spanish first lady's passport as flight risk before corruption trial
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6122
-- slug: 2026-04-25-peru-police-raid-home-of-former-election-chief-amid-ballot-probe
-  headline: Peru police raid home of former election chief amid ballot probe
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.6348
-- slug: 2026-01-17-trump-pardons-repeat-fraudster-former-governor-linked-to-3-5m-super-pac-donor
-  headline: Trump pardons repeat fraudster, former governor linked to $3.5M super PAC donor
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.6133
-- slug: 2026-04-28-impeachment-case-advances-against-philippines-vice-president-sara-duterte
-  headline: Impeachment case advances against Philippines Vice President Sara Duterte
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5976
-- slug: 2026-04-13-peru-votes-for-ninth-president-in-10-years-amid-crime-surge
-  headline: Peru votes for ninth president in 10 years amid crime surge
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6003
-- slug: 2026-02-19-peru-congress-elects-jos-mar-a-balc-zar-as-interim-president
-  headline: Peru Congress elects José María Balcázar as interim president
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6078
-- slug: 2026-01-17-trump-plans-to-pardon-former-puerto-rico-gov-wanda-v-zquez
-  headline: Trump plans to pardon former Puerto Rico Gov. Wanda Vázquez
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.6076
+  strength: 0.8084
 ---
-
 ## Impeached Paraguay president Santiago Peña placed under house arrest
 
 **Subtype:** fact
