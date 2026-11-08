@@ -1,9 +1,18 @@
 ---
-headline: Trump polled friends for weeks on Wiles's work before replacing her, sources say
-secondary_headline: Stephen Miller starts Monday after Bannon called for removals over election losses
+headline: Trump polled friends for weeks on Wiles's work before replacing her, sources
+  say
+secondary_headline: Stephen Miller starts Monday after Bannon called for removals
+  over election losses
 publish_date: '2026-11-06'
-lede: President Trump spent weeks polling his friends on how Susie Wiles was performing as White House chief of staff before replacing her with Stephen Miller, according to people familiar with the conversations. Trump announced the change Friday in a Truth Social post, saying Miller would start in the role on Monday and that Wiles will move to the president's political operation.
-nut_graf: The change hands the West Wing's top staff job to a leading figure in the administration's mass-deportation effort days after Republicans lost a net of at least 41 House seats and at least seven seats in the Senate, and ends the tenure of the first woman to serve as White House chief of staff.
+lede: President Trump spent weeks polling his friends on how Susie Wiles was performing
+  as White House chief of staff before replacing her with Stephen Miller, according
+  to people familiar with the conversations. Trump announced the change Friday in
+  a Truth Social post, saying Miller would start in the role on Monday and that Wiles
+  will move to the president's political operation.
+nut_graf: The change hands the West Wing's top staff job to a leading figure in the
+  administration's mass-deportation effort days after Republicans lost a net of at
+  least 41 House seats and at least seven seats in the Senate, and ends the tenure
+  of the first woman to serve as White House chief of staff.
 primary_entities:
 - Donald Trump
 - Stephen Miller
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +153,45 @@ related_stories:
   headline: Trump's chief of staff switch follows Republican midterm sweep from power
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.9019
+  strength: 0.9018
 - slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
+  headline: White House chief of staff Susie Wiles resigns after Republican midterm
+    losses
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8797
+  strength: 0.8791
 - slug: 2026-11-06-trump-names-stephen-miller-white-house-chief-of-staff
   headline: Trump names Stephen Miller White House chief of staff
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8651
+  strength: 0.8652
 - slug: 2026-11-06-trump-s-longest-serving-chief-of-staff-susie-wiles-resigns
   headline: Trump's longest-serving chief of staff, Susie Wiles, resigns
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.855
+  strength: 0.8547
 - slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
+  headline: Miller's elevation is clearest signal yet Trump will double down, Journal
+    says
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8065
+  strength: 0.8062
 - slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
   headline: House could vote to impeach Hegseth when lawmakers return to Washington
   publish_date: '2026-11-05'
   relation: related
   strength: 0.6644
-- slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.64
-- slug: 2026-11-05-white-house-tells-3-000-conservative-groups-it-is-monitoring-their-statements
-  headline: White House tells 3,000 conservative groups it is monitoring their statements
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.643
-- slug: 2026-10-30-trump-administration-cuts-election-staff-and-sues-states-for-voter-rolls
-  headline: Trump administration cuts election staff and sues states for voter rolls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6418
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6501
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6435
 - slug: 2026-09-16-white-house-chief-of-staff-wiles-says-she-is-cancer-free
   headline: White House chief of staff Wiles says she is cancer-free
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.715
-- slug: 2026-10-04-trump-names-dni-clayton-to-head-super-intelligence-force
-  headline: Trump names DNI Clayton to head 'Super Intelligence Force'
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6392
-- slug: 2026-09-21-trump-weighs-relocating-white-house-press-corps-from-west-wing
-  headline: Trump weighs relocating White House press corps from West Wing
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6484
-- slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
-  headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6451
+  strength: 0.7142
 - slug: 2026-08-09-trump-names-scharf-as-white-house-counsel
   headline: Trump names Scharf as White House counsel
   publish_date: '2026-08-09'
   relation: related
-  strength: 0.6871
-- slug: 2026-08-17-burnham-reported-suspicious-texts-from-person-posing-as-trump-s-chief-of-staff
-  headline: Burnham reported suspicious texts from person posing as Trump's chief of staff
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6632
-- slug: 2026-08-13-leavitt-s-departure-comes-weeks-before-midterms-with-no-replacement-named
-  headline: Leavitt's departure comes weeks before midterms with no replacement named
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6498
-- slug: 2026-03-15-susie-wiles-says-she-has-early-stage-breast-cancer-but-will-keep-working
-  headline: Susie Wiles says she has early-stage breast cancer but will keep working
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7342
-- slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
-  headline: Trump grows frustrated with Homeland Security Secretary Mullin
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6439
+  strength: 0.6867
 ---
-
 ## Trump polled friends for weeks on Wiles's work before replacing her, sources say
 
 **Subtype:** fact

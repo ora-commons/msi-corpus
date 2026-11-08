@@ -1,9 +1,21 @@
 ---
 headline: Mississippi details penalties against SpaceXAI over unpermitted construction
-secondary_headline: Judge found state agency misinterpreted clean air law in 69-turbine case
+secondary_headline: Judge found state agency misinterpreted clean air law in 69-turbine
+  case
 publish_date: '2026-11-06'
-lede: Mississippi's environmental regulator has released details of enforcement penalties against SpaceXAI for starting construction on its Southaven data center facilities without the water pollution permits state law requires. The Elon Musk-owned company told investors two weeks before the disclosure that the potential fines could reach as much as $6.1 million. The release came a week after a federal judge found the agency misinterpreted federal clean air law in allowing the company to run 69 temporary natural gas turbines without a permit.
-nut_graf: The penalty details and the recent federal court ruling together frame the regulatory exposure around SpaceXAI's growing Southaven footprint, which includes a power plant and land planned for a $20 billion data center. The state water-pollution notices carry a maximum statutory penalty of $25,000 for each day construction continues without permits, and the NAACP's April lawsuit over the company's 69 temporary natural gas turbines remains ongoing and, the state agency says, subject to appeal.
+lede: Mississippi's environmental regulator has released details of enforcement penalties
+  against SpaceXAI for starting construction on its Southaven data center facilities
+  without the water pollution permits state law requires. The Elon Musk-owned company
+  told investors two weeks before the disclosure that the potential fines could reach
+  as much as $6.1 million. The release came a week after a federal judge found the
+  agency misinterpreted federal clean air law in allowing the company to run 69 temporary
+  natural gas turbines without a permit.
+nut_graf: The penalty details and the recent federal court ruling together frame the
+  regulatory exposure around SpaceXAI's growing Southaven footprint, which includes
+  a power plant and land planned for a $20 billion data center. The state water-pollution
+  notices carry a maximum statutory penalty of $25,000 for each day construction continues
+  without permits, and the NAACP's April lawsuit over the company's 69 temporary natural
+  gas turbines remains ongoing and, the state agency says, subject to appeal.
 primary_entities:
 - SpaceXAI
 - Mississippi Department of Environmental Quality
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +156,45 @@ related_stories:
   headline: MZX buys Southaven homes, requiring owners not to join residents' suit
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7085
-- slug: 2026-10-27-louisiana-residents-sue-over-spacex-tax-deal-process
-  headline: Louisiana residents sue over SpaceX tax deal process
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6402
-- slug: 2026-10-27-military-data-center-advances-as-residents-challenge-linked-haleakal-telescopes
-  headline: Military data center advances as residents challenge linked Haleakalā telescopes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6389
+  strength: 0.7076
 - slug: 2026-09-24-tesla-and-spacex-announce-major-texas-and-louisiana-infrastructure-projects
   headline: Tesla and SpaceX announce major Texas and Louisiana infrastructure projects
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6923
-- slug: 2026-10-01-dataone-operated-62-unpermitted-generators-for-nearly-a-year-records-show
-  headline: DataOne operated 62 unpermitted generators for nearly a year, records show
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6395
+  strength: 0.6922
 - slug: 2026-09-27-advocates-allege-datacenter-developers-split-emissions-to-avoid-epa-review
   headline: Advocates allege datacenter developers split emissions to avoid EPA review
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6512
+  strength: 0.6514
 - slug: 2026-08-03-justice-department-asks-judge-to-dismiss-naacp-lawsuit-against-xai
   headline: Justice Department asks judge to dismiss NAACP lawsuit against xAI
   publish_date: '2026-08-03'
   relation: related
-  strength: 0.7052
-- slug: 2026-09-04-data-center-operators-redesign-sites-as-15-states-weigh-moratoriums
-  headline: Data center operators redesign sites as 15 states weigh moratoriums
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6257
-- slug: 2026-01-08-xai-to-build-20-billion-data-center-in-mississippi-amid-environmental-pushback
-  headline: xAI to build $20 billion data center in Mississippi amid environmental pushback
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7717
+  strength: 0.7058
 - slug: 2026-06-17-doj-seeks-to-quash-environmental-lawsuit-against-musk-s-xai-citing-national-secu
-  headline: DOJ seeks to quash environmental lawsuit against Musk's xAI, citing national security
+  headline: DOJ seeks to quash environmental lawsuit against Musk's xAI, citing national
+    security
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.7342
+  strength: 0.7348
+- slug: 2026-01-08-xai-to-build-20-billion-data-center-in-mississippi-amid-environmental-pushback
+  headline: xAI to build $20 billion data center in Mississippi amid environmental
+    pushback
+  publish_date: '2026-01-08'
+  relation: related
+  strength: 0.7714
 - slug: 2026-08-13-spacex-plans-natural-gas-plant-to-power-texas-ai-chip-facility
   headline: SpaceX plans natural gas plant to power Texas AI chip facility
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.668
-- slug: 2026-08-20-spacex-secures-over-8-billion-in-golden-dome-contracts-wins-key-fcc-waivers
-  headline: SpaceX secures over $8 billion in Golden Dome contracts, wins key FCC waivers
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6364
-- slug: 2026-07-29-xai-sues-minnesota-over-state-ban-on-ai-nudification-technology
-  headline: xAI sues Minnesota over state ban on AI nudification technology
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6452
-- slug: 2026-08-10-pecan-island-residents-oppose-spacex-launch-site-over-bird-habitat
-  headline: Pecan Island residents oppose SpaceX launch site over bird habitat
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6266
-- slug: 2026-07-28-faa-proposes-waiving-environmental-requirements-for-commercial-space-launches
-  headline: FAA proposes waiving environmental requirements for commercial space launches
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6275
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6375
-- slug: 2026-06-10-environmental-groups-sue-to-block-trump-administration-land-swap-with-spacex
-  headline: Environmental groups sue to block Trump administration land swap with SpaceX
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6274
-- slug: 2026-04-28-california-regulators-apologize-to-elon-musk-in-spacex-lawsuit-settlement
-  headline: California regulators apologize to Elon Musk in SpaceX lawsuit settlement
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6438
+  strength: 0.6678
 - slug: 2026-02-08-nevada-lawmakers-grill-musk-s-boring-company-over-vegas-loop-safety-environment
   headline: Nevada lawmakers grill Musk’s Boring Company over Vegas Loop safety, environment
   publish_date: '2026-02-08'
   relation: related
   strength: 0.6542
-- slug: 2026-05-22-spacex-ipo-prospectus-details-losses-lockups-and-a-1-million-person-mars-goal
-  headline: SpaceX IPO prospectus details losses, lockups and a 1 million-person Mars goal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.627
 ---
-
 ## Mississippi details penalties against SpaceXAI over unpermitted construction
 
 **Subtype:** fact
