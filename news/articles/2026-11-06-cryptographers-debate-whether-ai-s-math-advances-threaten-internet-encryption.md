@@ -1,9 +1,23 @@
 ---
 headline: Cryptographers debate whether AI's math advances threaten internet encryption
-secondary_headline: Ethereum creator Buterin calls for 'post-AI cryptography' amid rapid AI progress
+secondary_headline: Ethereum creator Buterin calls for 'post-AI cryptography' amid
+  rapid AI progress
 publish_date: '2026-11-06'
-lede: Cryptographers are openly divided over whether artificial intelligence's rapid advances in mathematics could undermine the assumptions that keep internet encryption secure, potentially ahead of the long-feared threat from quantum computers, according to a Wall Street Journal technology column by Christopher Mims. Ethereum creator Vitalik Buterin has called for 'post-AI cryptography' in response, while Yehuda Lindell, Coinbase's head of cryptography, argues such speculation is premature and helps no one.
-nut_graf: 'The dispute turns on a foundational assumption of digital security: that some mathematical operations are easy to run in one direction and essentially impossible to reverse with conventional computers — multiplying two large prime numbers is simple, while factoring their lengthy product is effectively impossible. Green cautioned that there is no evidence any cryptographic algorithm has already been cracked, but said the next AI-powered math breakthroughs could reach cryptography''s foundational math. Lindell argues decades of mathematical work suggest the needed discoveries are vanishingly unlikely, and calls speculation about an impending collapse irresponsible.'
+lede: Cryptographers are openly divided over whether artificial intelligence's rapid
+  advances in mathematics could undermine the assumptions that keep internet encryption
+  secure, potentially ahead of the long-feared threat from quantum computers, according
+  to a Wall Street Journal technology column by Christopher Mims. Ethereum creator
+  Vitalik Buterin has called for 'post-AI cryptography' in response, while Yehuda
+  Lindell, Coinbase's head of cryptography, argues such speculation is premature and
+  helps no one.
+nut_graf: 'The dispute turns on a foundational assumption of digital security: that
+  some mathematical operations are easy to run in one direction and essentially impossible
+  to reverse with conventional computers — multiplying two large prime numbers is
+  simple, while factoring their lengthy product is effectively impossible. Green cautioned
+  that there is no evidence any cryptographic algorithm has already been cracked,
+  but said the next AI-powered math breakthroughs could reach cryptography''s foundational
+  math. Lindell argues decades of mathematical work suggest the needed discoveries
+  are vanishingly unlikely, and calls speculation about an impending collapse irresponsible.'
 primary_entities:
 - Matthew Green
 - Vitalik Buterin
@@ -48,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +161,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-06-cybersecurity-tops-chief-executives-concern-lists-in-europe-and-the-us
-  headline: Cybersecurity tops chief executives' concern lists in Europe and the US
-  publish_date: '2026-11-06'
+- slug: 2026-06-29-ai-erodes-skill-barrier-for-cyber-attacks-security-expert-warns
+  headline: AI erodes skill barrier for cyber attacks, security expert warns
+  publish_date: '2026-06-29'
   relation: related
-  strength: 0.624
-- slug: 2026-10-12-anthropic-safety-researcher-hubinger-warns-10-chance-ai-could-kill-all-humans
-  headline: Anthropic safety researcher Hubinger warns 10% chance AI could kill all humans
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6223
-- slug: 2026-10-07-mathematicians-raise-concerns-over-openai-s-370-ai-generated-findings
-  headline: Mathematicians raise concerns over OpenAI's 370 AI-generated findings
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6151
-- slug: 2026-10-05-former-ai-researcher-coxon-tells-nyc-council-humanity-could-lose-control-of-ai
-  headline: Former AI researcher Coxon tells NYC Council humanity could lose control of AI
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6134
-- slug: 2026-09-25-columnist-argues-ai-s-unpredictability-defies-historical-regulatory-models
-  headline: Columnist argues AI's unpredictability defies historical regulatory models
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6288
-- slug: 2026-09-27-bill-gates-urges-federal-regulation-of-ai-warns-of-a-billion-deaths
-  headline: Bill Gates urges federal regulation of AI, warns of 'a billion deaths'
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6122
-- slug: 2026-09-25-un-panel-warns-ai-safeguards-failing-as-world-leaders-split-on-governance
-  headline: UN panel warns AI safeguards failing as world leaders split on governance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6119
-- slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
-  headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6274
-- slug: 2026-09-18-lagarde-urges-europe-to-build-its-own-ai-to-avoid-us-china-dependency
-  headline: Lagarde urges Europe to build its own AI to avoid US, China dependency
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6314
-- slug: 2026-09-15-congress-builds-bipartisan-push-for-ai-guardrails-as-trump-dismisses-risks
-  headline: Congress builds bipartisan push for AI guardrails as Trump dismisses risks
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6327
-- slug: 2026-09-16-ai-coordination-call-echoes-old-antitrust-playbook-porter-says
-  headline: AI coordination call echoes old antitrust playbook, Porter says
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6254
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6154
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6175
-- slug: 2026-09-15-wall-street-buys-ai-hyperscalers-despite-executives-slowdown-calls
-  headline: Wall Street buys AI hyperscalers despite executives' slowdown calls
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.618
-- slug: 2026-09-15-anthropic-co-founder-says-mandatory-ai-kill-switch-may-be-needed
-  headline: Anthropic co-founder says mandatory AI 'kill switch' may be needed
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6172
-- slug: 2026-09-14-trump-calls-ai-safety-concerns-a-hoax-warns-regulation-would-aid-china
-  headline: Trump calls AI safety concerns a hoax, warns regulation would aid China
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.62
-- slug: 2026-09-12-ai-cracks-millennium-prize-problem-as-anthropic-researcher-quits-over-safety
-  headline: AI cracks Millennium Prize problem as Anthropic researcher quits over safety
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6229
-- slug: 2026-08-09-scientists-use-ai-to-create-new-virus-family-as-experts-warn-of-misuse
-  headline: Scientists use AI to create new virus family as experts warn of misuse
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6192
-- slug: 2026-08-13-hassabis-proposes-industry-funded-ai-safety-standards-body
-  headline: Hassabis proposes industry-funded AI safety standards body
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6118
-- slug: 2026-08-11-ai-researchers-ask-us-to-support-international-limits-on-development-pace
-  headline: AI researchers ask US to support international limits on development pace
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6123
+  strength: 0.6562
 ---
-
 ## Cryptographers debate whether AI's math advances threaten internet encryption
 
 **Subtype:** fact
