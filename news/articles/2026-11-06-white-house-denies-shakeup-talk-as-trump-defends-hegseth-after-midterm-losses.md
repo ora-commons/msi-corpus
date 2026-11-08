@@ -212,6 +212,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-06-white-house-denial-and-massie-impeachment-push-convert-hegseth-question-from-whe'
 ---
 ## White House denies shakeup talk as Trump defends Hegseth after midterm losses
 
@@ -256,3 +258,8 @@ Hegseth has also been rumored to be interested in running for an open Tennessee 
 **Publication date:** 2026-11-06
 **Title:** White House denies Hegseth and Rubio to leave jobs after Republican election losses
 **URL:** https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o
+
+---
+
+<!-- analysis-link:2026-11-06-white-house-denial-and-massie-impeachment-push-convert-hegseth-question-from-whe -->
+**Going deeper:** [Read MSI's analysis of Hegseth, Rubio and the confirmation window →](/analyses/2026-11-06-white-house-denial-and-massie-impeachment-push-convert-hegseth-question-from-whe)

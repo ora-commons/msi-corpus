@@ -214,6 +214,8 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.704
+analyses:
+- '2026-11-06-senate-democrats-open-tariff-rollback-with-canada-repeal-aimed-at-finding-republ'
 ---
 ## Democrats target Trump's Canada tariffs as first step in broader rollback push
 
@@ -263,3 +265,8 @@ Harrell and Kildee said Democratic lawmakers and aligned think tanks also will b
 **Publication date:** 2026-11-06
 **Title:** Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs
 **URL:** https://www.wsj.com/politics/elections/democrats-are-hatching-a-plan-to-reverse-trumps-canada-tariffs-a444cdc0
+
+---
+
+<!-- analysis-link:2026-11-06-senate-democrats-open-tariff-rollback-with-canada-repeal-aimed-at-finding-republ -->
+**Going deeper:** [Read MSI's analysis of Senate Democrats' Canada tariff sequencing bet →](/analyses/2026-11-06-senate-democrats-open-tariff-rollback-with-canada-repeal-aimed-at-finding-republ)

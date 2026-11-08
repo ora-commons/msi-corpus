@@ -1,9 +1,19 @@
 ---
 headline: Antonio Brown pleads guilty to aggravated assault in 2025 Miami shooting
-secondary_headline: Judge sentences Brown to three years of probation with no criminal conviction
+secondary_headline: Judge sentences Brown to three years of probation with no criminal
+  conviction
 publish_date: '2026-11-06'
-lede: Former NFL star Antonio Brown pleaded guilty Friday to aggravated assault with a firearm in connection with a 2025 shooting outside a celebrity boxing match in Miami. Judge Marisa Tinkler Mendez sentenced Brown to three years of probation with weekly counseling and a prohibition on possessing a firearm; the plea allows the All-Pro wide receiver to avoid prison time.
-nut_graf: The plea to the reduced charge resolves a case that began with an attempted murder charge after police said Brown grabbed a handgun from a security staffer at the event and fired two shots at a man he had been in a fistfight with earlier. Under the resolution, Brown would have no criminal conviction and avoids prison time, serving the sentence instead as three years of probation with the possibility of seeking early termination at about the halfway mark.
+lede: Former NFL star Antonio Brown pleaded guilty Friday to aggravated assault with
+  a firearm in connection with a 2025 shooting outside a celebrity boxing match in
+  Miami. Judge Marisa Tinkler Mendez sentenced Brown to three years of probation with
+  weekly counseling and a prohibition on possessing a firearm; the plea allows the
+  All-Pro wide receiver to avoid prison time.
+nut_graf: The plea to the reduced charge resolves a case that began with an attempted
+  murder charge after police said Brown grabbed a handgun from a security staffer
+  at the event and fired two shots at a man he had been in a fistfight with earlier.
+  Under the resolution, Brown would have no criminal conviction and avoids prison
+  time, serving the sentence instead as three years of probation with the possibility
+  of seeking early termination at about the halfway mark.
 primary_entities:
 - Antonio Brown
 - Marisa Tinkler Mendez
@@ -37,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,108 +146,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-30-ohio-prosecutors-drop-charges-against-man-held-in-toledo-festival-shooting
-  headline: Ohio prosecutors drop charges against man held in Toledo festival shooting
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5823
-- slug: 2026-10-26-judge-keeps-anthony-rivers-iii-in-custody-pending-arraignment-in-tallahassee
-  headline: Judge keeps Anthony Rivers III in custody pending arraignment in Tallahassee
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5895
-- slug: 2026-09-03-anderson-pleads-guilty-to-reckless-homicide-in-2022-killing-of-donovan-lewis
-  headline: Anderson pleads guilty to reckless homicide in 2022 killing of Donovan Lewis
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6203
 - slug: 2026-07-24-chris-brown-pleads-guilty-to-affray-in-london-nightclub-case
   headline: Chris Brown pleads guilty to affray in London nightclub case
   publish_date: '2026-07-24'
   relation: related
   strength: 0.6578
-- slug: 2026-08-22-judge-denies-anthony-s-request-for-new-trial-in-metcalf-stabbing-death
-  headline: Judge denies Anthony's request for new trial in Metcalf stabbing death
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.5969
-- slug: 2026-08-19-karmelo-anthony-seeks-new-trial-new-judge-in-texas-track-meet-murder-conviction
-  headline: Karmelo Anthony seeks new trial, new judge in Texas track meet murder conviction
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5847
-- slug: 2026-07-08-defense-alleges-prosecutors-coerced-anthony-into-forgoing-testimony
-  headline: Defense alleges prosecutors coerced Anthony into forgoing testimony
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.622
 - slug: 2026-05-15-boston-area-shooting-suspect-tyler-brown-pleads-not-guilty-in-court-video
   headline: Boston-area shooting suspect Tyler Brown pleads not guilty in court video
   publish_date: '2026-05-15'
   relation: related
   strength: 0.6531
-- slug: 2026-05-15-tyler-brown-pleads-not-guilty-in-cambridge-mass-shooting-prior-leniency-scrutini
-  headline: Tyler Brown pleads not guilty in Cambridge mass shooting; prior leniency scrutinized
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6499
-- slug: 2026-05-11-super-bowl-protester-found-guilty-of-resisting-officer-sentencing-june-1
-  headline: Super Bowl protester found guilty of resisting officer; sentencing June 1
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6236
-- slug: 2026-05-13-man-with-assault-rifle-fires-on-boston-motorists-wounding-two-before-trooper-mar
-  headline: Man with assault rifle fires on Boston motorists, wounding two before trooper, Marine stop him
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6207
-- slug: 2026-06-10-texas-teen-sentenced-to-35-years-for-track-meet-killing
-  headline: Texas teen sentenced to 35 years for track meet killing
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6004
-- slug: 2026-07-01-seven-more-sentenced-for-roles-in-texas-ice-protest-shooting
-  headline: Seven more sentenced for roles in Texas ICE protest shooting
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5809
-- slug: 2026-05-10-man-accused-in-correspondents-dinner-attack-pleads-not-guilty
-  headline: Man accused in correspondents’ dinner attack pleads not guilty
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6097
-- slug: 2026-06-05-texas-murder-trial-opens-in-high-school-track-meet-stabbing-death
-  headline: Texas murder trial opens in high school track-meet stabbing death
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5961
-- slug: 2026-05-10-allen-pleads-not-guilty-in-correspondents-dinner-attack-seeks-recusal-of-two-sen
-  headline: Allen pleads not guilty in correspondents’ dinner attack, seeks recusal of two senior prosecutors
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6025
-- slug: 2026-01-20-north-carolina-man-to-plead-guilty-in-mass-shooting-killing-5
-  headline: North Carolina man to plead guilty in mass shooting killing 5
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6106
-- slug: 2026-05-13-man-shoots-at-drivers-near-boston-wounding-two-officials-say
-  headline: Man shoots at drivers near Boston, wounding two, officials say
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5865
-- slug: 2026-02-05-man-sentenced-to-life-in-prison-for-trying-to-assassinate-trump
-  headline: Man sentenced to life in prison for trying to assassinate Trump
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6012
-- slug: 2026-01-21-north-carolina-teen-pleads-guilty-to-2022-mass-shooting-that-killed-5
-  headline: North Carolina teen pleads guilty to 2022 mass shooting that killed 5
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6017
 ---
-
 ## Antonio Brown pleads guilty to aggravated assault in 2025 Miami shooting
 
 **Subtype:** fact

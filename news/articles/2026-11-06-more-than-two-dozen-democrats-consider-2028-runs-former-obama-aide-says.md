@@ -1,9 +1,18 @@
 ---
 headline: More than two dozen Democrats consider 2028 runs, former Obama aide says
-secondary_headline: Messina expects first exploratory committees within weeks, probably after Thanksgiving
+secondary_headline: Messina expects first exploratory committees within weeks, probably
+  after Thanksgiving
 publish_date: '2026-11-06'
-lede: More than two dozen Democratic campaigns are actively considering runs for the White House in 2028 and have begun the financing process and are hiring staff, according to Jim Messina, who managed Barack Obama's 2012 re-election campaign. Messina told the BBC's Americast podcast that he expects the first exploratory committees to be announced within weeks, probably after Thanksgiving.
-nut_graf: Messina tied the opening of the 2028 field directly to the midterm results, which he attributed to the party's ability to stay focused on the economy and to the effects of President Donald Trump's tariffs on rural voters. He cautioned that the outcome was not a ringing endorsement of the party and said the harder task ahead will be uniting its progressive and centrist wings in Congress.
+lede: More than two dozen Democratic campaigns are actively considering runs for the
+  White House in 2028 and have begun the financing process and are hiring staff, according
+  to Jim Messina, who managed Barack Obama's 2012 re-election campaign. Messina told
+  the BBC's Americast podcast that he expects the first exploratory committees to
+  be announced within weeks, probably after Thanksgiving.
+nut_graf: Messina tied the opening of the 2028 field directly to the midterm results,
+  which he attributed to the party's ability to stay focused on the economy and to
+  the effects of President Donald Trump's tariffs on rural voters. He cautioned that
+  the outcome was not a ringing endorsement of the party and said the harder task
+  ahead will be uniting its progressive and centrist wings in Congress.
 primary_entities:
 - Jim Messina
 - Barack Obama
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +157,46 @@ related_stories:
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7063
+  strength: 0.707
 - slug: 2026-11-04-democrats-midterm-gains-open-the-2028-race-as-republicans-absorb-broad-losses
-  headline: Democrats' midterm gains open the 2028 race as Republicans absorb broad losses
+  headline: Democrats' midterm gains open the 2028 race as Republicans absorb broad
+    losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6789
+  strength: 0.6778
 - slug: 2026-11-03-voters-in-36-states-choose-governors-as-democrats-pursue-a-majority
   headline: Voters in 36 states choose governors as Democrats pursue a majority
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6792
+  strength: 0.681
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6707
-- slug: 2026-11-03-republicans-raised-more-at-party-level-while-democratic-candidates-raised-more
-  headline: Republicans raised more at party level while Democratic candidates raised more
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6636
+  strength: 0.673
 - slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
   headline: Democrats lead polls for the midterms as turnout uncertainty remains
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6689
+  strength: 0.6715
+- slug: 2026-11-03-republicans-raised-more-at-party-level-while-democratic-candidates-raised-more
+  headline: Republicans raised more at party level while Democratic candidates raised
+    more
+  publish_date: '2026-11-03'
+  relation: related
+  strength: 0.6643
 - slug: 2026-10-30-midterms-test-democrats-strategy-tying-climate-to-affordability
   headline: Midterms test Democrats' strategy tying climate to affordability
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6825
+  strength: 0.6839
 - slug: 2026-10-28-trump-puts-his-political-brand-at-the-center-of-the-2026-midterms
   headline: Trump puts his political brand at the center of the 2026 midterms
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6894
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6614
-- slug: 2026-10-25-candidates-campaign-directly-with-rural-voters-in-the-midterms
-  headline: Candidates campaign directly with rural voters in the midterms
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6843
-- slug: 2026-10-19-populist-democrats-make-the-affordability-pitch-in-red-state-races
-  headline: Populist Democrats make the affordability pitch in red-state races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6852
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6992
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6841
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6665
-- slug: 2026-10-04-trump-launches-32-day-midterm-rally-blitz-through-gop-strongholds
-  headline: Trump launches 32-day midterm rally blitz through GOP strongholds
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6823
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6844
-- slug: 2026-09-21-democrats-hold-polling-edge-in-eight-of-nine-closest-senate-races
-  headline: Democrats hold polling edge in eight of nine closest Senate races
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6632
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6972
-- slug: 2026-09-10-convention-goers-name-vance-and-rubio-as-top-2028-contenders
-  headline: Convention-goers name Vance and Rubio as top 2028 contenders
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6697
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.675
+  strength: 0.691
 ---
-
 ## More than two dozen Democrats consider 2028 runs, former Obama aide says
 
 **Subtype:** fact
