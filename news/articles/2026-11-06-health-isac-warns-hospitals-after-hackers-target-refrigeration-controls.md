@@ -2,8 +2,20 @@
 headline: Health ISAC warns hospitals after hackers target refrigeration controls
 secondary_headline: French blood bank says it rescued samples after cold-storage breach
 publish_date: '2026-11-06'
-lede: The healthcare industry's information-sharing center has warned hospitals and health systems that a wave of cyberattacks on refrigeration controllers has begun to reach medical cold-chain storage, including an incident at France's national blood bank. In a bulletin seen by NPR, the Health Information Sharing and Analysis Center told members to separate refrigeration equipment from hospital networks and to prepare staff to take manual control of machines. Separately, CISA, the FBI, the Department of Health and Human Services and the U.S. Department of Agriculture published a fact sheet Thursday on threats to industrial refrigeration and cold-chain monitoring systems.
-nut_graf: Blood, plasma and vaccines often require finely tuned temperature-controlled environments to remain viable, and the French incident showed that an attack on a refrigeration controller can threaten the physical materials of care rather than a database. Health ISAC's chief security officer says the industry's cybersecurity problem is now, in practice, a patient-safety problem.
+lede: The healthcare industry's information-sharing center has warned hospitals and
+  health systems that a wave of cyberattacks on refrigeration controllers has begun
+  to reach medical cold-chain storage, including an incident at France's national
+  blood bank. In a bulletin seen by NPR, the Health Information Sharing and Analysis
+  Center told members to separate refrigeration equipment from hospital networks and
+  to prepare staff to take manual control of machines. Separately, CISA, the FBI,
+  the Department of Health and Human Services and the U.S. Department of Agriculture
+  published a fact sheet Thursday on threats to industrial refrigeration and cold-chain
+  monitoring systems.
+nut_graf: Blood, plasma and vaccines often require finely tuned temperature-controlled
+  environments to remain viable, and the French incident showed that an attack on
+  a refrigeration controller can threaten the physical materials of care rather than
+  a database. Health ISAC's chief security officer says the industry's cybersecurity
+  problem is now, in practice, a patient-safety problem.
 primary_entities:
 - Health ISAC
 - French Blood Establishment
@@ -55,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,104 +170,24 @@ related_stories:
   headline: French blood service says hackers raise temperatures at three cold stores
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7711
+  strength: 0.7704
 - slug: 2026-11-03-hackers-disrupt-refrigeration-systems-at-military-bases-and-stores-worldwide
   headline: Hackers disrupt refrigeration systems at military bases and stores worldwide
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7213
+  strength: 0.7212
 - slug: 2026-11-03-anssi-identifies-compromised-controllers-in-european-supermarket-cyberattacks
   headline: ANSSI identifies compromised controllers in European supermarket cyberattacks
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7193
+  strength: 0.7191
 - slug: 2026-11-06-hoax-bomb-threats-disrupt-at-least-25-european-flights-as-fridge-hacks-hit-seven
-  headline: Hoax bomb threats disrupt at least 25 European flights as fridge hacks hit seven countries
+  headline: Hoax bomb threats disrupt at least 25 European flights as fridge hacks
+    hit seven countries
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6856
-- slug: 2026-11-06-cybersecurity-tops-chief-executives-concern-lists-in-europe-and-the-us
-  headline: Cybersecurity tops chief executives' concern lists in Europe and the US
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6195
-- slug: 2026-10-29-tech-companies-face-deepfake-scrutiny-as-midterms-approach
-  headline: Tech companies face deepfake scrutiny as midterms approach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6029
-- slug: 2026-10-22-quest-diagnostics-reports-unauthorized-access-to-quanum-platform
-  headline: Quest Diagnostics reports unauthorized access to Quanum platform
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6122
-- slug: 2026-10-19-dhs-appointees-urged-cisa-to-secretly-hack-voting-machine-sources-say
-  headline: DHS appointees urged CISA to secretly hack voting machine, sources say
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6135
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6374
-- slug: 2026-09-25-shinyhunters-claims-theft-of-fbi-agents-medical-records-and-personal-data
-  headline: ShinyHunters claims theft of FBI agents' medical records and personal data
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6216
-- slug: 2026-09-14-pfas-manufacturers-plan-production-surge-to-meet-ai-data-center-demand
-  headline: PFAS manufacturers plan production surge to meet AI data center demand
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.639
-- slug: 2026-09-16-us-investigates-cyberattacks-on-energy-tankers-in-strait-of-gibraltar
-  headline: US investigates cyberattacks on energy tankers in Strait of Gibraltar
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6222
-- slug: 2026-09-11-anthropic-says-it-disrupted-attempts-to-use-claude-for-biological-weapons
-  headline: Anthropic says it disrupted attempts to use Claude for biological weapons
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6076
-- slug: 2026-08-26-boston-scientific-cyberattack-halts-global-order-processing-shares-fall-4
-  headline: Boston Scientific cyberattack halts global order processing; shares fall 4%
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6386
-- slug: 2026-08-23-cyberattack-shuts-down-a-small-uk-generator-for-four-days
-  headline: Cyberattack shuts down a small UK generator for four days
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6135
-- slug: 2026-08-05-hackers-attempted-to-breach-at-least-30-minnesota-water-systems
-  headline: Hackers attempted to breach at least 30 Minnesota water systems
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6405
-- slug: 2026-08-08-federal-agencies-investigate-cyberattacks-on-minnesota-water-systems
-  headline: Federal agencies investigate cyberattacks on Minnesota water systems
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6155
-- slug: 2026-08-01-cyberattacks-hit-water-systems-in-michigan-and-minnesota
-  headline: Cyberattacks hit water systems in Michigan and Minnesota
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6074
-- slug: 2026-07-04-businesses-face-rising-security-costs-as-wars-target-civilian-infrastructure
-  headline: Businesses face rising security costs as wars target civilian infrastructure
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6162
-- slug: 2026-04-22-uk-faces-cyberattacks-from-russia-iran-and-china-warns-ncsc-chief
-  headline: UK faces cyberattacks from Russia, Iran and China, warns NCSC chief
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6484
+  strength: 0.6863
 ---
-
 ## Health ISAC warns hospitals after hackers target refrigeration controls
 
 **Subtype:** fact

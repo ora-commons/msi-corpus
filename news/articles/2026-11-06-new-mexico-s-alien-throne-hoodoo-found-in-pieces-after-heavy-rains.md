@@ -2,8 +2,17 @@
 headline: New Mexico's Alien Throne hoodoo found in pieces after heavy rains
 secondary_headline: Navajo Nation and BLM expected to examine the damaged site
 publish_date: '2026-11-06'
-lede: A tour guide leading a group along the Valley of Dreams trail in north-west New Mexico found the Alien Throne, one of the region's best-known rock spires, broken into pieces on 30 October. Kialo Winters, who has guided visitors to the area for 13 years, said he assumed torrential rains linked to the super El Niño season were to blame. The Navajo Nation and the Bureau of Land Management are expected to examine the site and confirm the cause.
-nut_graf: The loss of a single hoodoo on Navajo Nation land comes amid a season of flooding that has already forced evacuations and hundreds of water rescues in north-west New Mexico, while communities across the Four Corners region grapple with washed-out roads and damaged homes. The collapse also raises the question of how much other damage to the region's natural formations has yet to be found.
+lede: A tour guide leading a group along the Valley of Dreams trail in north-west
+  New Mexico found the Alien Throne, one of the region's best-known rock spires, broken
+  into pieces on 30 October. Kialo Winters, who has guided visitors to the area for
+  13 years, said he assumed torrential rains linked to the super El Niño season were
+  to blame. The Navajo Nation and the Bureau of Land Management are expected to examine
+  the site and confirm the cause.
+nut_graf: The loss of a single hoodoo on Navajo Nation land comes amid a season of
+  flooding that has already forced evacuations and hundreds of water rescues in north-west
+  New Mexico, while communities across the Four Corners region grapple with washed-out
+  roads and damaged homes. The collapse also raises the question of how much other
+  damage to the region's natural formations has yet to be found.
 primary_entities:
 - Kialo Winters
 - Navajo Tours USA
@@ -53,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,107 +162,12 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-06-colorado-man-faces-200-000-in-uninsured-flood-losses-as-evacuees-return-home
-  headline: Colorado man faces $200,000 in uninsured flood losses as evacuees return home
+  headline: Colorado man faces $200,000 in uninsured flood losses as evacuees return
+    home
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6517
-- slug: 2026-11-03-floodwaters-recede-across-southwest-as-residents-begin-cleanup
-  headline: Floodwaters recede across Southwest as residents begin cleanup
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5933
-- slug: 2026-11-02-extreme-el-ni-o-adds-moisture-to-southwest-storms-scientists-say
-  headline: Extreme El Niño adds moisture to Southwest storms, scientists say
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.595
-- slug: 2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards
-  headline: New Mexico crews search evacuated neighborhoods for flood hazards
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6348
-- slug: 2026-11-02-border-wall-contractors-unearth-native-american-remains-in-organ-pipe
-  headline: Border wall contractors unearth Native American remains in Organ Pipe
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5772
-- slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
-  headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6327
-- slug: 2026-10-23-flooding-in-four-corners-prompts-rooftop-rescues-and-evacuations
-  headline: Flooding in Four Corners prompts rooftop rescues and evacuations
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6095
-- slug: 2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup
-  headline: Four Corners region braces for more storms amid flood cleanup
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5928
-- slug: 2026-10-23-four-corners-flooding-keeps-hundreds-evacuated-as-new-storms-threaten-surges
-  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten surges
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6006
-- slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
-  headline: Flood warning remains in Four Corners as San Juan River nears crest
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5809
-- slug: 2026-10-21-new-mexico-rebuilds-ruidoso-downs-culverts-as-upriver-repairs-stall
-  headline: New Mexico rebuilds Ruidoso Downs culverts as upriver repairs stall
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5734
-- slug: 2026-10-02-hawaii-s-550-year-old-h-lei-sea-arch-collapses-into-pacific
-  headline: Hawaii's 550-year-old Hōlei sea arch collapses into Pacific
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6217
-- slug: 2026-10-01-noaa-scales-back-el-ni-o-research-as-super-event-peaks
-  headline: NOAA scales back El Niño research as super event peaks
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5817
-- slug: 2026-09-22-epic-waves-and-a-hidden-danger-the-wedge-s-rebar-is-showing-as-el-ni-o-strips-ca
-  headline: 'Epic waves and a hidden danger: The Wedge''s rebar is showing as El Niño strips California beaches'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5841
-- slug: 2026-09-16-remains-found-near-grand-canyon-s-crystal-rapids-after-flash-floods
-  headline: Remains found near Grand Canyon's Crystal Rapids after flash floods
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.577
-- slug: 2026-08-17-storm-lala-sweeps-100-big-island-homes-off-foundations
-  headline: Storm Lala sweeps 100 Big Island homes off foundations
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5707
-- slug: 2026-02-20-6-women-killed-in-california-avalanche-were-among-8-close-friends
-  headline: 6 women killed in California avalanche were among 8 close friends
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6039
-- slug: 2026-02-18-authorities-say-6-skiers-still-alive-10-missing-after-northern-california-avalan
-  headline: Authorities say 6 skiers still alive, 10 missing after Northern California avalanche
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.5973
-- slug: 2026-04-28-storms-flatten-buildings-and-damage-homes-in-texas-city-of-mineral-wells
-  headline: Storms flatten buildings and damage homes in Texas city of Mineral Wells
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5797
-- slug: 2026-02-19-backcountry-skiers-hit-by-avalanche-led-by-tour-outfit-in-california
-  headline: Backcountry skiers hit by avalanche led by tour outfit in California
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.5824
+  strength: 0.6534
 ---
-
 ## New Mexico's Alien Throne hoodoo found in pieces after heavy rains
 
 **Subtype:** fact
