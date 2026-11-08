@@ -1,9 +1,22 @@
 ---
 headline: Trump's longest-serving chief of staff, Susie Wiles, resigns
-secondary_headline: Trump says Wiles will stay on with his political organization after departure
+secondary_headline: Trump says Wiles will stay on with his political organization
+  after departure
 publish_date: '2026-11-06'
-lede: Susie Wiles, the first woman to serve as White House chief of staff and the longest-serving chief of staff of President Donald Trump's two terms, gave Trump her resignation Thursday night, according to a person familiar with the events who spoke on condition of anonymity to describe the private conversation. Trump announced the departure Friday on his social media site, naming deputy chief of staff Stephen Miller as her replacement, praising Wiles and saying she would continue to work for his political organization. Wiles confirmed the move in a social media post of her own shortly after Trump's announcement.
-nut_graf: The resignation ends the tenure of the first woman ever to serve as White House chief of staff and Trump's longest-serving chief of staff, and it came days after Republicans lost control of Congress in the midterm elections. The private departure was disclosed by a person familiar with the events who spoke on condition of anonymity, while Trump announced the replacement and a continuing political role for Wiles publicly.
+lede: Susie Wiles, the first woman to serve as White House chief of staff and the
+  longest-serving chief of staff of President Donald Trump's two terms, gave Trump
+  her resignation Thursday night, according to a person familiar with the events who
+  spoke on condition of anonymity to describe the private conversation. Trump announced
+  the departure Friday on his social media site, naming deputy chief of staff Stephen
+  Miller as her replacement, praising Wiles and saying she would continue to work
+  for his political organization. Wiles confirmed the move in a social media post
+  of her own shortly after Trump's announcement.
+nut_graf: The resignation ends the tenure of the first woman ever to serve as White
+  House chief of staff and Trump's longest-serving chief of staff, and it came days
+  after Republicans lost control of Congress in the midterm elections. The private
+  departure was disclosed by a person familiar with the events who spoke on condition
+  of anonymity, while Trump announced the replacement and a continuing political role
+  for Wiles publicly.
 primary_entities:
 - Donald Trump
 - Susie Wiles
@@ -57,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -79,104 +93,34 @@ related_stories:
   headline: Trump names Stephen Miller White House chief of staff
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8541
+  strength: 0.854
 - slug: 2026-11-06-trump-s-chief-of-staff-switch-follows-republican-midterm-sweep-from-power
   headline: Trump's chief of staff switch follows Republican midterm sweep from power
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8404
-- slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6048
-- slug: 2026-10-29-sylvia-retires-from-joint-staff-strategy-post-after-being-fired
-  headline: Sylvia retires from Joint Staff strategy post after being fired
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6118
-- slug: 2026-10-18-white-house-press-secretary-has-no-job-description-or-required-qualifications
-  headline: White House press secretary has no job description or required qualifications
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.615
+  strength: 0.8405
 - slug: 2026-09-16-white-house-chief-of-staff-wiles-says-she-is-cancer-free
   headline: White House chief of staff Wiles says she is cancer-free
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7432
-- slug: 2026-10-13-katie-zacharia-debuts-as-trump-s-sixth-white-house-press-secretary
-  headline: Katie Zacharia debuts as Trump's sixth White House press secretary
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6114
-- slug: 2026-10-09-trump-selects-katie-zacharia-as-next-white-house-press-secretary
-  headline: Trump selects Katie Zacharia as next White House press secretary
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6103
-- slug: 2026-10-03-chinese-officials-seek-rest-accommodations-for-xi-at-trump-summit
-  headline: Chinese officials seek rest accommodations for Xi at Trump summit
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.613
-- slug: 2026-09-21-trump-weighs-relocating-white-house-press-corps-from-west-wing
-  headline: Trump weighs relocating White House press corps from West Wing
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6202
+  strength: 0.7428
 - slug: 2026-08-17-burnham-reported-suspicious-texts-from-person-posing-as-trump-s-chief-of-staff
-  headline: Burnham reported suspicious texts from person posing as Trump's chief of staff
+  headline: Burnham reported suspicious texts from person posing as Trump's chief
+    of staff
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.6644
-- slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
-  headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6257
-- slug: 2026-09-09-four-close-trump-aides-received-157-000-in-holiday-cash-disclosures-show
-  headline: Four close Trump aides received $157,000 in holiday cash, disclosures show
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6052
+  strength: 0.6638
 - slug: 2026-03-15-susie-wiles-says-she-has-early-stage-breast-cancer-but-will-keep-working
   headline: Susie Wiles says she has early-stage breast cancer but will keep working
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.7543
+  strength: 0.7539
 - slug: 2026-08-12-karoline-leavitt-to-leave-white-house-press-secretary-post-at-end-of-august
   headline: Karoline Leavitt to leave White House press secretary post at end of August
   publish_date: '2026-08-12'
   relation: related
-  strength: 0.6556
-- slug: 2026-08-13-leavitt-s-departure-comes-weeks-before-midterms-with-no-replacement-named
-  headline: Leavitt's departure comes weeks before midterms with no replacement named
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6426
-- slug: 2026-08-09-trump-names-scharf-as-white-house-counsel
-  headline: Trump names Scharf as White House counsel
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6279
-- slug: 2026-08-07-trump-sends-cook-new-removal-notice-despite-supreme-court-ruling
-  headline: Trump sends Cook new removal notice despite Supreme Court ruling
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6142
-- slug: 2026-07-14-supreme-court-expands-president-s-power-to-fire-agency-officials
-  headline: Supreme Court expands president's power to fire agency officials
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6106
-- slug: 2026-05-23-director-of-national-intelligence-tulsi-gabbard-resigns-cites-husband-s-cancer
-  headline: Director of National Intelligence Tulsi Gabbard resigns, cites husband’s cancer
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6307
+  strength: 0.6561
 ---
-
 ## Trump's longest-serving chief of staff, Susie Wiles, resigns
 
 **Subtype:** fact

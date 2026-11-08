@@ -1,9 +1,17 @@
 ---
 headline: White House launches arch website a day after court blocks work
-secondary_headline: 250-foot arch would include sniper nest provisions, munitions storage
+secondary_headline: 250-foot arch would include sniper nest provisions, munitions
+  storage
 publish_date: '2026-11-06'
-lede: The Trump administration launched a website Friday promoting a 250-foot triumphal arch it plans to build between the Lincoln Memorial and Arlington National Cemetery, one day after a federal judge temporarily barred construction. The site names the structure the United States Military Triumphal Arch and calls it "an American vision finally realized," while offering no cost or financing details.
-nut_graf: The launch shows the administration pressing ahead with the president's Washington building projects even as a court order halts work on the arch and Democrats prepare to take control of Congress in January, when those projects face far more scrutiny and roadblocks.
+lede: The Trump administration launched a website Friday promoting a 250-foot triumphal
+  arch it plans to build between the Lincoln Memorial and Arlington National Cemetery,
+  one day after a federal judge temporarily barred construction. The site names the
+  structure the United States Military Triumphal Arch and calls it "an American vision
+  finally realized," while offering no cost or financing details.
+nut_graf: The launch shows the administration pressing ahead with the president's
+  Washington building projects even as a court order halts work on the arch and Democrats
+  prepare to take control of Congress in January, when those projects face far more
+  scrutiny and roadblocks.
 primary_entities:
 - Donald Trump
 - White House
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,104 +73,46 @@ related_stories:
   headline: Federal panel approves Trump's 250-foot arch near Arlington Cemetery
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8149
+  strength: 0.8148
 - slug: 2026-11-06-national-capital-planning-commission-approves-trump-s-250-foot-arch-in-8-4-vote
-  headline: National Capital Planning Commission approves Trump's 250-foot arch in 8-4 vote
+  headline: National Capital Planning Commission approves Trump's 250-foot arch in
+    8-4 vote
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8038
+  strength: 0.8042
 - slug: 2026-11-06-judge-temporarily-blocks-trump-s-250-foot-arch-construction-near-arlington-cemet
-  headline: Judge temporarily blocks Trump's 250-foot arch construction near Arlington Cemetery
+  headline: Judge temporarily blocks Trump's 250-foot arch construction near Arlington
+    Cemetery
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7986
+  strength: 0.798
 - slug: 2026-11-05-planning-commission-weighs-trump-arch-as-judge-reviews-construction-dispute
   headline: Planning commission weighs Trump arch as judge reviews construction dispute
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7648
+  strength: 0.7645
 - slug: 2026-11-03-justice-department-says-trump-s-proposed-arch-would-take-33-to-39-months
   headline: Justice Department says Trump's proposed arch would take 33 to 39 months
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7659
+  strength: 0.7651
 - slug: 2026-10-31-virginia-and-d-c-sue-to-halt-construction-of-trump-s-250-foot-arch
   headline: Virginia and D.C. sue to halt construction of Trump's 250-foot arch
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7712
+  strength: 0.7703
 - slug: 2026-10-30-judge-weighs-halting-trump-s-250-foot-d-c-arch-at-emergency-hearing
   headline: Judge weighs halting Trump's 250-foot D.C. arch at emergency hearing
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7659
+  strength: 0.7653
 - slug: 2026-10-31-dc-and-virginia-sue-to-halt-trump-s-250-foot-arch-as-construction-approval-nears
-  headline: DC and Virginia sue to halt Trump's 250-foot arch as construction approval nears
+  headline: DC and Virginia sue to halt Trump's 250-foot arch as construction approval
+    nears
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7591
-- slug: 2026-10-22-plaintiffs-ask-judge-to-halt-construction-of-trump-s-triumphal-arch-in-d-c
-  headline: Plaintiffs ask judge to halt construction of Trump's triumphal arch in D.C.
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7552
-- slug: 2026-09-20-trump-says-250-foot-dc-arch-will-house-weapons-as-military-complex
-  headline: Trump says 250-foot DC arch will house weapons as military complex
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.83
-- slug: 2026-09-20-faa-finds-trump-dc-arch-poses-no-reagan-national-flight-hazard
-  headline: FAA finds Trump DC arch poses no Reagan National flight hazard
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7915
-- slug: 2026-09-20-judge-orders-48-hour-notice-before-trump-dc-arch-memorial-circle-work
-  headline: Judge orders 48-hour notice before Trump DC arch Memorial Circle work
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7869
-- slug: 2026-09-22-preservation-experts-call-trump-s-military-arch-about-face-whiplash-inducing
-  headline: Preservation experts call Trump's military arch about-face 'whiplash-inducing'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7648
-- slug: 2026-09-17-park-service-finds-trump-250-foot-dc-arch-would-harm-historic-sites
-  headline: Park Service finds Trump 250-foot DC arch would harm historic sites
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7781
-- slug: 2026-09-03-trump-administration-to-begin-excavation-on-250-foot-washington-arch
-  headline: Trump administration to begin excavation on 250-foot Washington arch
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.8084
-- slug: 2026-07-10-federal-panel-clears-preliminary-approval-for-trump-s-250-foot-arch
-  headline: Federal panel clears preliminary approval for Trump's 250-foot arch
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.806
-- slug: 2026-08-03-park-service-review-finds-trump-s-arch-would-adversely-affect-about-40-historic-
-  headline: Park Service review finds Trump's arch would adversely affect about 40 historic sites
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.7763
-- slug: 2026-05-12-survey-work-begins-on-trump-s-proposed-triumphal-arch-in-washington
-  headline: Survey work begins on Trump’s proposed Triumphal Arch in Washington
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.8099
-- slug: 2026-07-08-trump-s-250-foot-washington-arch-traces-to-april-2025-essay-by-design-critic
-  headline: Trump's 250-foot Washington arch traces to April 2025 essay by design critic
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7714
-- slug: 2026-05-12-survey-work-begins-on-trump-s-proposed-d-c-arch-as-lawsuit-proceeds
-  headline: Survey work begins on Trump’s proposed D.C. arch as lawsuit proceeds
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.8024
+  strength: 0.7584
 ---
-
 ## White House launches arch website a day after court blocks work
 
 **Subtype:** fact
