@@ -200,6 +200,8 @@ related_stories:
   publish_date: '2026-09-19'
   relation: related
   strength: 0.6515
+analyses:
+- '2026-11-06-trump-s-miller-elevation-reads-as-reservation-point-statement-pricing-no-deal-pa'
 ---
 ## Miller's elevation is clearest signal yet Trump will double down, Journal says
 
@@ -241,3 +243,8 @@ Paletta has covered Washington for 22 years as a reporter and editor, according 
 **Publication date:** 2026-11-06
 **Title:** In Tapping Stephen Miller, Trump Doubles Down and Digs In
 **URL:** https://www.wsj.com/politics/elections/in-tapping-stephen-miller-trump-doubles-down-and-digs-in-a81b4afd
+
+---
+
+<!-- analysis-link:2026-11-06-trump-s-miller-elevation-reads-as-reservation-point-statement-pricing-no-deal-pa -->
+**Going deeper:** [Read MSI's analysis of Miller elevation as reservation point →](/analyses/2026-11-06-trump-s-miller-elevation-reads-as-reservation-point-statement-pricing-no-deal-pa)

@@ -1,9 +1,24 @@
 ---
 headline: Arab-led parties win 19 Knesset seats as both blocs fall short of a majority
-secondary_headline: Police and election officials find no basis for Likud's fraud claims
+secondary_headline: Police and election officials find no basis for Likud's fraud
+  claims
 publish_date: '2026-11-06'
-lede: Arab-led parties hold 19 of the Knesset's 120 seats after an Israeli election in which record turnout among Palestinian Arab voters left both Prime Minister Benjamin Netanyahu's coalition and challenger Gadi Eisenkot's center-right bloc without the 61 seats needed to govern. Israel's Central Elections Committee recorded a 64 percent increase in votes for the Arab-led parties over the previous election. Netanyahu's Likud party has claimed the result was stolen, but police found no basis for the fraud allegations and election officials said the vote was conducted properly.
-nut_graf: The outcome strikes at decades-old questions about how Israel defines itself and about the role of Palestinian Arabs — about 20 percent of the population — in its society. With neither Netanyahu's coalition nor Eisenkot's opposition able to reach the 61-seat threshold, the Arab-led parties' 19 seats give them leverage in the coalition negotiations ahead, while Netanyahu's bloc presses fraud claims for which no evidence has been made public and which police and election officials say did not compromise the vote. How President Isaac Herzog's mandate process and the parties' own divisions resolve will determine whether Israel forms a government or returns to elections next year.
+lede: Arab-led parties hold 19 of the Knesset's 120 seats after an Israeli election
+  in which record turnout among Palestinian Arab voters left both Prime Minister Benjamin
+  Netanyahu's coalition and challenger Gadi Eisenkot's center-right bloc without the
+  61 seats needed to govern. Israel's Central Elections Committee recorded a 64 percent
+  increase in votes for the Arab-led parties over the previous election. Netanyahu's
+  Likud party has claimed the result was stolen, but police found no basis for the
+  fraud allegations and election officials said the vote was conducted properly.
+nut_graf: The outcome strikes at decades-old questions about how Israel defines itself
+  and about the role of Palestinian Arabs — about 20 percent of the population — in
+  its society. With neither Netanyahu's coalition nor Eisenkot's opposition able to
+  reach the 61-seat threshold, the Arab-led parties' 19 seats give them leverage in
+  the coalition negotiations ahead, while Netanyahu's bloc presses fraud claims for
+  which no evidence has been made public and which police and election officials say
+  did not compromise the vote. How President Isaac Herzog's mandate process and the
+  parties' own divisions resolve will determine whether Israel forms a government
+  or returns to elections next year.
 primary_entities:
 - Benjamin Netanyahu
 - Gadi Eisenkot
@@ -49,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +167,43 @@ related_stories:
   headline: Israel's opposition weighs governing pact with Palestinian parties
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8759
+  strength: 0.8752
 - slug: 2026-11-05-israel-s-president-to-meet-netanyahu-and-eisenkot-before-choosing-a-candidate
   headline: Israel's president to meet Netanyahu and Eisenkot before choosing a candidate
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8105
+  strength: 0.8101
 - slug: 2026-10-28-israel-vote-count-leaves-netanyahu-and-eisenkot-short-of-a-knesset-majority
   headline: Israel vote count leaves Netanyahu and Eisenkot short of a Knesset majority
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8307
+  strength: 0.83
 - slug: 2026-10-28-netanyahu-leads-eisenkot-in-partial-israeli-vote-tally
   headline: Netanyahu leads Eisenkot in partial Israeli vote tally
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.828
+  strength: 0.8282
 - slug: 2026-10-28-netanyahu-s-likud-wins-most-seats-as-his-coalition-loses-majority
   headline: Netanyahu's Likud wins most seats as his coalition loses majority
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7997
+  strength: 0.7994
 - slug: 2026-10-30-coalition-process-begins-in-israel-with-four-possible-outcomes
   headline: Coalition process begins in Israel with four possible outcomes
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7684
+  strength: 0.7676
 - slug: 2026-11-06-midterm-election-results-and-trump-s-aid-cutoff-test-the-u-s--israel-alliance
   headline: Midterm election results and Trump's aid cutoff test the U.S.-Israel alliance
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.708
+  strength: 0.7085
 - slug: 2026-10-27-exit-polls-show-tight-netanyahu-eisenkot-race-after-israel-s-election
   headline: Exit polls show tight Netanyahu-Eisenkot race after Israel's election
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7674
-- slug: 2026-11-04-pro-palestinian-candidates-prevail-across-2026-midterms-despite-aipac-spending
-  headline: Pro-Palestinian candidates prevail across 2026 midterms despite Aipac spending
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6701
-- slug: 2026-10-25-netanyahu-faces-eisenkot-in-israel-s-first-election-since-oct-7
-  headline: Netanyahu faces Eisenkot in Israel's first election since Oct. 7
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7263
-- slug: 2026-10-25-likud-asks-israeli-election-commission-to-stop-fly-vote
-  headline: Likud asks Israeli election commission to stop Fly&Vote
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7024
-- slug: 2026-10-22-mizrahi-voters-could-decide-israel-s-election-between-netanyahu-and-eisenkot
-  headline: Mizrahi voters could decide Israel’s election between Netanyahu and Eisenkot
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7071
-- slug: 2026-10-27-poll-shows-democrats-with-house-edge-as-israelis-cast-ballots
-  headline: Poll shows Democrats with House edge as Israelis cast ballots
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6645
-- slug: 2026-10-18-netanyahu-warns-eisenkot-win-would-let-iran-obtain-nuclear-weapons
-  headline: Netanyahu warns Eisenkot win would let Iran obtain nuclear weapons
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6676
-- slug: 2026-09-24-netanyahu-to-address-un-general-assembly-thursday-as-protests-and-sanctions-push
-  headline: Netanyahu to address UN General Assembly Thursday as protests and sanctions push converge
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6487
-- slug: 2026-07-06-israeli-poll-shows-eisenkot-and-netanyahu-tied-at-23-seats-each
-  headline: Israeli Poll Shows Eisenkot and Netanyahu Tied at 23 Seats Each
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7779
-- slug: 2026-08-10-netanyahu-rejects-sequencing-of-board-of-peace-s-15-point-gaza-plan
-  headline: Netanyahu rejects sequencing of Board of Peace's 15-point Gaza plan
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6637
-- slug: 2026-08-05-sharif-s-party-wins-24-of-34-seats-in-pakistan-administered-kashmir-election
-  headline: Sharif's party wins 24 of 34 seats in Pakistan-administered Kashmir election
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6564
-- slug: 2026-08-10-hasan-argues-media-s-embrace-of-eisenkot-ignores-his-record
-  headline: Hasan argues media's embrace of Eisenkot ignores his record
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6475
-- slug: 2026-05-14-netanyahu-coalition-submits-bill-to-dissolve-knesset-setting-stage-for-elections
-  headline: Netanyahu coalition submits bill to dissolve Knesset, setting stage for elections
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6797
+  strength: 0.7675
 ---
-
 ## Arab-led parties win 19 Knesset seats as both blocs fall short of a majority
 
 **Subtype:** fact

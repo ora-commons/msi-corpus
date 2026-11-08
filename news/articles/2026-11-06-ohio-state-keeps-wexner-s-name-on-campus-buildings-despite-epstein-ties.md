@@ -1,9 +1,18 @@
 ---
 headline: Ohio State keeps Wexner's name on campus buildings despite Epstein ties
-secondary_headline: Advisory committee found no substantial evidence of misconduct, provost's letter says
+secondary_headline: Advisory committee found no substantial evidence of misconduct,
+  provost's letter says
 publish_date: '2026-11-06'
-lede: Les Wexner's name will remain on several Ohio State University buildings, interim provost Trevor Brown announced Friday, closing out a review prompted by hundreds of complaints over the retail magnate's close association with the late sexual predator Jeffrey Epstein. Brown said an advisory committee failed to turn up the substantial evidence of misconduct needed to remove the name.
-nut_graf: The Ohio State decision resolves arguably the highest-profile of the denaming protests that arose at U.S. universities this year in the wake of the release of the Epstein files, which referenced numerous wealthy donors whose names appear on campus buildings across the country. Universities resisted renaming in almost every case.
+lede: Les Wexner's name will remain on several Ohio State University buildings, interim
+  provost Trevor Brown announced Friday, closing out a review prompted by hundreds
+  of complaints over the retail magnate's close association with the late sexual predator
+  Jeffrey Epstein. Brown said an advisory committee failed to turn up the substantial
+  evidence of misconduct needed to remove the name.
+nut_graf: The Ohio State decision resolves arguably the highest-profile of the denaming
+  protests that arose at U.S. universities this year in the wake of the release of
+  the Epstein files, which referenced numerous wealthy donors whose names appear on
+  campus buildings across the country. Universities resisted renaming in almost every
+  case.
 primary_entities:
 - Ohio State University
 - Les Wexner
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +152,28 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
-  headline: House Judiciary Democrats ask Blanche to probe Epstein network
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6301
-- slug: 2026-10-24-justice-department-receives-permission-to-join-evanston-reparations-case
-  headline: Justice Department receives permission to join Evanston reparations case
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6246
 - slug: 2026-04-02-protests-target-university-buildings-named-for-people-in-epstein-files
   headline: Protests target university buildings named for people in Epstein files
   publish_date: '2026-04-02'
   relation: related
-  strength: 0.8411
+  strength: 0.8405
 - slug: 2026-04-03-protests-target-university-buildings-named-for-people-in-epstein-files
   headline: Protests target university buildings named for people in Epstein files
   publish_date: '2026-04-03'
   relation: related
-  strength: 0.8361
-- slug: 2026-09-16-house-panel-votes-to-hold-leon-black-in-contempt-over-epstein-probe
-  headline: House panel votes to hold Leon Black in contempt over Epstein probe
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6284
-- slug: 2026-09-16-house-votes-to-hold-leon-black-in-contempt-over-epstein-investigation
-  headline: House votes to hold Leon Black in contempt over Epstein investigation
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6213
-- slug: 2026-09-15-house-committee-recommends-holding-leon-black-in-contempt-of-congress
-  headline: House committee recommends holding Leon Black in contempt of Congress
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6208
+  strength: 0.8351
 - slug: 2026-04-01-protests-target-university-buildings-named-for-people-who-appear-in-epstein-file
-  headline: Protests target university buildings named for people who appear in Epstein files
+  headline: Protests target university buildings named for people who appear in Epstein
+    files
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.7858
+  strength: 0.7845
 - slug: 2026-02-19-les-wexner-tells-congress-he-was-duped-by-jeffrey-epstein
   headline: Les Wexner tells Congress he was “duped” by Jeffrey Epstein
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.7234
-- slug: 2026-06-17-harvard-bard-face-fresh-congressional-questions-on-epstein-ties
-  headline: Harvard, Bard Face Fresh Congressional Questions on Epstein Ties
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6338
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6262
-- slug: 2026-06-01-congressional-inquiry-yields-no-criminal-referrals-a-year-after-epstein-hearings
-  headline: Congressional inquiry yields no criminal referrals a year after Epstein hearings began
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6205
-- slug: 2026-02-13-epstein-files-show-academics-sought-funding-amid-fallout-over-ties
-  headline: Epstein files show academics sought funding amid fallout over ties
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6449
-- slug: 2026-02-02-tech-titans-u-s-officials-and-royalty-appear-in-epstein-files
-  headline: Tech titans, U.S. officials and royalty appear in Epstein files
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.644
-- slug: 2026-05-18-judge-bars-lawmakers-from-maxwell-case-but-allows-epstein-files-lawsuit
-  headline: Judge bars lawmakers from Maxwell case but allows Epstein files lawsuit
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6206
-- slug: 2026-01-16-doj-tells-judge-to-reject-congressional-request-for-epstein-files-neutral-overse
-  headline: DOJ tells judge to reject congressional request for Epstein files neutral overseer
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6402
-- slug: 2026-03-05-house-committee-votes-to-subpoena-pam-bondi-over-epstein-files
-  headline: House committee votes to subpoena Pam Bondi over Epstein files
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6281
-- slug: 2026-01-31-justice-department-releases-more-epstein-files-totaling-3-million-pages
-  headline: Justice Department releases more Epstein files, totaling 3 million pages
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.6307
-- slug: 2026-04-10-melania-trump-denies-epstein-ties-calls-for-survivor-centered-hearing
-  headline: Melania Trump denies Epstein ties, calls for survivor-centered hearing
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6202
-- slug: 2026-02-26-justice-department-to-review-whether-epstein-files-were-mistakenly-withheld
-  headline: Justice Department to review whether Epstein files were mistakenly withheld
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6239
+  strength: 0.7217
 ---
-
 ## Ohio State keeps Wexner's name on campus buildings despite Epstein ties
 
 **Subtype:** fact
