@@ -2,8 +2,21 @@
 headline: Jane Doe says Cornell president asked why she waited weeks to report assault
 secondary_headline: Cornell calls her account of the president's reaction "incorrect"
 publish_date: '2026-11-06'
-lede: Jane Doe, a former Cornell University student suing the school over an alleged gang rape at its Chi Phi fraternity house in October 2024, has accused President Michael Kotlikoff of asking why she waited several weeks to report the incident — an account Cornell has called "incorrect." The university has also acknowledged it fell short in its handling of her case, after initially defending its disciplinary measures. On Friday, Cornell's Faculty Senate passed a largely symbolic 75-50 vote of no confidence in the central administration over its handling of what staff call a "crisis of sexual assault."
-nut_graf: The largely symbolic vote — the faculty senate has no power to remove university leaders — is a rebuke of university leaders including Kotlikoff, the president at the center of Doe's accusation and Cornell's "incorrect" rebuttal. It lands as Cornell faces a New York attorney general investigation into whether criminal charges are warranted, an independent review led by a former attorney general, and a governor's order directing state police to investigate any future sexual offense complaints at the university.
+lede: Jane Doe, a former Cornell University student suing the school over an alleged
+  gang rape at its Chi Phi fraternity house in October 2024, has accused President
+  Michael Kotlikoff of asking why she waited several weeks to report the incident
+  — an account Cornell has called "incorrect." The university has also acknowledged
+  it fell short in its handling of her case, after initially defending its disciplinary
+  measures. On Friday, Cornell's Faculty Senate passed a largely symbolic 75-50 vote
+  of no confidence in the central administration over its handling of what staff call
+  a "crisis of sexual assault."
+nut_graf: The largely symbolic vote — the faculty senate has no power to remove university
+  leaders — is a rebuke of university leaders including Kotlikoff, the president at
+  the center of Doe's accusation and Cornell's "incorrect" rebuttal. It lands as Cornell
+  faces a New York attorney general investigation into whether criminal charges are
+  warranted, an independent review led by a former attorney general, and a governor's
+  order directing state police to investigate any future sexual offense complaints
+  at the university.
 primary_entities:
 - Cornell University
 - Cornell Faculty Senate
@@ -42,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,32 +158,34 @@ related_stories:
   headline: Cornell Faculty Senate passes no-confidence resolution in university leaders
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8695
+  strength: 0.8696
 - slug: 2026-11-06-jane-doe-s-attorney-says-he-hopes-cornell-no-confidence-vote-will-be-yet-another
-  headline: Jane Doe's attorney says he hopes Cornell no-confidence vote will be 'yet another step forward'
+  headline: Jane Doe's attorney says he hopes Cornell no-confidence vote will be 'yet
+    another step forward'
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8658
+  strength: 0.8652
 - slug: 2026-11-06-critics-say-cornell-no-confidence-resolution-lacks-specific-remedies-policy-goal
-  headline: Critics say Cornell no-confidence resolution lacks specific remedies, policy goals
+  headline: Critics say Cornell no-confidence resolution lacks specific remedies,
+    policy goals
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8481
+  strength: 0.8484
 - slug: 2026-10-28-cornell-faculty-schedule-no-confidence-vote-over-2024-gang-rape-allegations
   headline: Cornell faculty schedule no-confidence vote over 2024 gang-rape allegations
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8609
+  strength: 0.8608
 - slug: 2026-10-28-cornell-disputes-letter-depicting-kotlikoff-s-response-to-jane-doe
   headline: Cornell disputes letter depicting Kotlikoff's response to Jane Doe
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8543
+  strength: 0.8542
 - slug: 2026-10-20-jane-doe-says-cornell-president-s-response-left-her-feeling-disbelieved
   headline: Jane Doe says Cornell president's response left her feeling disbelieved
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8977
+  strength: 0.898
 - slug: 2026-10-20-cornell-meeting-recordings-show-criticism-of-kotlikoff-s-assault-response
   headline: Cornell meeting recordings show criticism of Kotlikoff's assault response
   publish_date: '2026-10-20'
@@ -179,69 +195,8 @@ related_stories:
   headline: Cornell faculty advance no-confidence vote over rape-case handling
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8223
-- slug: 2026-10-27-cornell-university-reviews-dorm-placement-of-student-accused-of-rape
-  headline: Cornell University reviews dorm placement of student accused of rape
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.8233
-- slug: 2026-10-30-cornell-sexual-assault-complainants-may-opt-out-of-state-police-referral
-  headline: Cornell sexual assault complainants may opt out of State Police referral
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7942
-- slug: 2026-10-20-the-new-york-times-first-publishes-doe-s-letter-her-lawyer-authenticates-it
-  headline: The New York Times first publishes Doe's letter; her lawyer authenticates it
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.8373
-- slug: 2026-10-30-hochul-sends-all-future-cornell-sexual-offense-complaints-to-state-police
-  headline: Hochul sends all future Cornell sexual offense complaints to state police
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7732
-- slug: 2026-10-14-cornell-president-says-he-knew-of-assault-report-but-didn-t-follow-up
-  headline: Cornell president says he knew of assault report but didn't follow up
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8455
-- slug: 2026-10-23-jane-doe-s-lawyer-says-she-fears-for-her-safety-as-cornell-civil-case-advances
-  headline: Jane Doe's lawyer says she fears for her safety as Cornell civil case advances
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7947
-- slug: 2026-10-06-suit-names-bar-sorority-seven-chi-phi-members-cornell-as-defendants
-  headline: Suit names bar, sorority, seven Chi Phi members, Cornell as defendants
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.819
-- slug: 2026-10-13-cornell-suspends-fraternity-parties-for-academic-year-after-rape-allegations
-  headline: Cornell suspends fraternity parties for academic year after rape allegations
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7826
-- slug: 2026-10-13-cornell-bans-fraternity-parties-for-academic-year-after-2024-rape-lawsuit
-  headline: Cornell bans fraternity parties for academic year after 2024 rape lawsuit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7798
-- slug: 2026-10-06-cornell-president-faces-protests-lawsuit-over-2024-fraternity-rape-allegation
-  headline: Cornell president faces protests, lawsuit over 2024 fraternity rape allegation
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.8075
-- slug: 2026-10-06-cornell-faculty-file-no-confidence-resolution-over-sexual-assault-response
-  headline: Cornell faculty file no-confidence resolution over sexual assault response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7886
-- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
-  headline: Cornell students voice anger over alleged 2024 gang rape
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7801
+  strength: 0.8225
 ---
-
 ## Jane Doe says Cornell president asked why she waited weeks to report assault
 
 **Subtype:** fact

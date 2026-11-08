@@ -65,7 +65,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -248,3 +248,10 @@ Kremlin spokesman Dmitry Peskov said details about commercial shipments were not
 **Publication date:** 2026-11-05
 **Title:** Trump's Russian diesel deal hits snag as tankers change course
 **URL:** https://apnews.com/article/russian-diesel-sanctions-trump-putin-5c5bb86ddf41fc7a8b51b0698552c3d4
+
+### src_late_b7d5cabb4a900ed7 — Associated Press, wire, Tier 1, originating
+**Author:** David Mchugh
+**Publication date:** 2026-11-05
+**Title:** Buques con diésel ruso cambian de rumbo y generan dudas sobre envíos a EEUU
+**URL:** https://apnews.com/article/rusia-diesel-eeuu-buques-envios-trump-putin-brasil-1bd33090b3c1f3726d3c5ee4bbd129ec
+**Added after publication:** true

@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-02-08'
   relation: related
   strength: 0.6542
+analyses:
+- '2026-11-06-two-clocks-shape-four-futures-for-spacexai-s-20-billion-mississippi-data-center'
 ---
 ## Mississippi details penalties against SpaceXAI over unpermitted construction
 
@@ -241,3 +243,8 @@ MDEQ responded to the order in a statement to Mississippi Today on Wednesday. "M
 **Publication date:** 2026-11-06
 **Title:** SpaceXAI started data center construction without water permits, Mississippi alleges
 **URL:** https://apnews.com/article/spacexai-data-center-mississippi-water-pollution-46bb5e5e9fe4798531b2544f1fb0e224
+
+---
+
+<!-- analysis-link:2026-11-06-two-clocks-shape-four-futures-for-spacexai-s-20-billion-mississippi-data-center -->
+**Going deeper:** [Read MSI's analysis of SpaceXAI's Mississippi enforcement scenarios →](/analyses/2026-11-06-two-clocks-shape-four-futures-for-spacexai-s-20-billion-mississippi-data-center)

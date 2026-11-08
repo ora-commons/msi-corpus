@@ -2,8 +2,24 @@
 headline: Iran weighs Qatari bridge proposal that could open nuclear talks with US
 secondary_headline: Tehran ties any negotiations to US concessions, officials say
 publish_date: '2026-11-06'
-lede: Iran is reviewing proposals presented by Qatari mediators aimed at bridging differences with the United States over Tehran's nuclear program, two Middle East government officials said Friday, raising hopes that the sides could be inching toward indirect talks on one of the thorniest issues in the more than 8-month-old war. One of the officials, who like the second spoke on condition of anonymity because they were not authorized to comment publicly, said Iran remains unwilling, at least at the moment, to negotiate over its atomic activities until the U.S. agrees to core conditions Tehran demands as part of any ceasefire agreement.
-nut_graf: 'The development lands days after Tuesday''s U.S. midterm elections, in which Republicans lost both chambers of Congress amid voter dissatisfaction with President Donald Trump''s execution of the war and the elevated fuel prices the conflict has driven. It also comes amid mounting concern that Trump could still order new U.S. strikes against Iran — and over a nuclear program that Trump says must be resolved as part of any deal to end the war and that Iran has conditioned on core ceasefire concessions: an Iranian stockpile that the International Atomic Energy Agency puts at 440.9 kilograms (972 pounds) of uranium enriched up to 60% purity, a short technical step from weapons grade, and that Tehran maintains is peaceful.'
+lede: Iran is reviewing proposals presented by Qatari mediators aimed at bridging
+  differences with the United States over Tehran's nuclear program, two Middle East
+  government officials said Friday, raising hopes that the sides could be inching
+  toward indirect talks on one of the thorniest issues in the more than 8-month-old
+  war. One of the officials, who like the second spoke on condition of anonymity because
+  they were not authorized to comment publicly, said Iran remains unwilling, at least
+  at the moment, to negotiate over its atomic activities until the U.S. agrees to
+  core conditions Tehran demands as part of any ceasefire agreement.
+nut_graf: 'The development lands days after Tuesday''s U.S. midterm elections, in
+  which Republicans lost both chambers of Congress amid voter dissatisfaction with
+  President Donald Trump''s execution of the war and the elevated fuel prices the
+  conflict has driven. It also comes amid mounting concern that Trump could still
+  order new U.S. strikes against Iran — and over a nuclear program that Trump says
+  must be resolved as part of any deal to end the war and that Iran has conditioned
+  on core ceasefire concessions: an Iranian stockpile that the International Atomic
+  Energy Agency puts at 440.9 kilograms (972 pounds) of uranium enriched up to 60%
+  purity, a short technical step from weapons grade, and that Tehran maintains is
+  peaceful.'
 primary_entities:
 - Iran
 - United States
@@ -52,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,104 +171,43 @@ related_stories:
   headline: U.S. fears Iran could rush oil out of the Gulf during a blockade pause
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8135
+  strength: 0.8134
 - slug: 2026-11-06-mediators-push-iran-peace-talks-on-hormuz-and-nuclear-program-after-midterms
   headline: Mediators push Iran peace talks on Hormuz and nuclear program after midterms
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7708
+  strength: 0.7719
 - slug: 2026-11-01-qatar-mediation-extends-as-iran-offers-two-day-hormuz-reopening-plan
   headline: Qatar mediation extends as Iran offers two-day Hormuz reopening plan
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7696
+  strength: 0.7681
 - slug: 2026-10-21-mediators-seek-iran-talks-as-u-s-and-israel-prepare-for-possible-strikes
   headline: Mediators seek Iran talks as U.S. and Israel prepare for possible strikes
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7929
+  strength: 0.7927
 - slug: 2026-09-27-mediators-press-iran-on-nuclear-program-to-revive-ceasefire-talks
   headline: Mediators press Iran on nuclear program to revive ceasefire talks
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.8193
+  strength: 0.8206
 - slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
   headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.8096
+  strength: 0.8102
 - slug: 2026-09-28-iran-says-no-un-talks-planned-with-us-contradicting-trump
   headline: Iran says no UN talks planned with US, contradicting Trump
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7751
-- slug: 2026-09-26-trump-reportedly-rejects-iran-s-seven-day-plan-to-reopen-strait-of-hormuz
-  headline: Trump reportedly rejects Iran's seven-day plan to reopen Strait of Hormuz
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7639
+  strength: 0.7768
 - slug: 2026-09-23-three-hour-qatari-mediated-iran-us-talks-at-un-end-without-position-shift
   headline: Three-hour Qatari-mediated Iran-US talks at UN end without position shift
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7722
-- slug: 2026-09-25-gulf-states-split-on-iran-talks-as-saudi-arabia-uae-urge-continued-pressure
-  headline: Gulf states split on Iran talks as Saudi Arabia, UAE urge continued pressure
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7636
-- slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
-  headline: Trump weighs all-out Iran war options, opts to stick with talks
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7854
-- slug: 2026-06-06-iran-demands-36-billion-in-frozen-cash-during-peace-negotiations
-  headline: Iran demands $36 billion in frozen cash during peace negotiations
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7907
-- slug: 2026-06-20-u-s-qatar-plan-to-free-6-billion-in-frozen-iranian-funds-for-humanitarian-aid
-  headline: U.S., Qatar Plan to Free $6 Billion in Frozen Iranian Funds for Humanitarian Aid
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.7767
-- slug: 2026-06-17-iran-seeks-tens-of-billions-in-frozen-assets-as-negotiations-resume
-  headline: Iran seeks tens of billions in frozen assets as negotiations resume
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7722
-- slug: 2026-06-12-iran-denies-finalizing-peace-deal-with-us-contradicting-trump-s-claim
-  headline: Iran denies finalizing peace deal with US, contradicting Trump's claim
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7737
-- slug: 2026-05-10-iran-sends-cease-fire-response-trump-rejects-it-as-totally-unacceptable
-  headline: Iran sends cease-fire response; Trump rejects it as ‘totally unacceptable’
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7779
-- slug: 2026-05-17-iran-rejects-us-uranium-demands-says-talks-stalled-on-maximalist-stance
-  headline: Iran rejects US uranium demands, says talks stalled on maximalist stance
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7729
-- slug: 2026-02-06-iran-and-u-s-hold-indirect-nuclear-talks-in-geneva-as-tensions-mount
-  headline: Iran and U.S. hold indirect nuclear talks in Geneva as tensions mount
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.7878
-- slug: 2026-04-20-iran-s-ceasefire-offer-sidesteps-nuclear-issue-as-talks-stall
-  headline: Iran's ceasefire offer sidesteps nuclear issue as talks stall
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.7729
-- slug: 2026-05-10-trump-rejects-iran-s-response-to-us-proposal-to-end-war-as-drone-attacks-test-ce
-  headline: Trump rejects Iran’s response to US proposal to end war as drone attacks test ceasefire
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7652
+  strength: 0.7725
 ---
-
 ## Iran weighs Qatari bridge proposal that could open nuclear talks with US
 
 **Subtype:** fact
