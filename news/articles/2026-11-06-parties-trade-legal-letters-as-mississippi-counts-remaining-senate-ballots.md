@@ -2,8 +2,17 @@
 headline: Parties trade legal letters as Mississippi counts remaining Senate ballots
 secondary_headline: Mississippi GOP chair estimates 20,000 ballots remain uncounted
 publish_date: '2026-11-06'
-lede: Lawyers for both parties, national voting groups and local civic organizations fanned out across Mississippi's 82 counties as election officials continued counting ballots in a Senate race Democrat Scott Colom leads by just under 2,000 votes over Republican incumbent Cindy Hyde-Smith. The two sides traded sharply worded legal letters this week over how the remaining ballots should be handled, and a possible court fight is building. Mississippi has no automatic recount law, and any recount would have to be ordered by a court, county by county.
-nut_graf: The stakes extend past one seat. Democrats' midterm gains turned Texas and South Carolina blue, and a Colom win in Mississippi would add a Senate seat Republicans now hold while lawyers for both sides contest, in writing, how the last ballots are counted.
+lede: Lawyers for both parties, national voting groups and local civic organizations
+  fanned out across Mississippi's 82 counties as election officials continued counting
+  ballots in a Senate race Democrat Scott Colom leads by just under 2,000 votes over
+  Republican incumbent Cindy Hyde-Smith. The two sides traded sharply worded legal
+  letters this week over how the remaining ballots should be handled, and a possible
+  court fight is building. Mississippi has no automatic recount law, and any recount
+  would have to be ordered by a court, county by county.
+nut_graf: The stakes extend past one seat. Democrats' midterm gains turned Texas and
+  South Carolina blue, and a Colom win in Mississippi would add a Senate seat Republicans
+  now hold while lawyers for both sides contest, in writing, how the last ballots
+  are counted.
 primary_entities:
 - Scott Colom
 - Cindy Hyde-Smith
@@ -48,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,113 +160,57 @@ related_stories:
   headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8462
+  strength: 0.8468
 - slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
   headline: Democrats sweep Congress with Mississippi Senate race still counting
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8164
+  strength: 0.8167
 - slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
+  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races
+    Tuesday
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8366
+  strength: 0.8367
 - slug: 2026-11-05-tight-midterm-races-remain-uncalled-as-democrats-take-control-of-congress
   headline: Tight midterm races remain uncalled as Democrats take control of Congress
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.754
+  strength: 0.7539
 - slug: 2026-11-05-four-senate-and-governor-races-remain-uncalled-in-alaska-kansas-and-mississippi
   headline: Four Senate and governor races remain uncalled in Alaska, Kansas and Mississippi
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7507
+  strength: 0.7501
 - slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
   headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7532
+  strength: 0.7535
 - slug: 2026-11-04-uncalled-senate-and-governor-races-remain-after-2026-midterms
   headline: Uncalled Senate and governor races remain after 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7453
+  strength: 0.7448
 - slug: 2026-11-05-two-senate-races-and-several-house-contests-remain-uncalled-in-2026-midterms
   headline: Two Senate races and several House contests remain uncalled in 2026 midterms
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7173
-- slug: 2026-11-05-democrats-flip-senate-seats-in-the-south-reshaping-the-2028-contest
-  headline: Democrats flip Senate seats in the South, reshaping the 2028 contest
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6797
-- slug: 2026-10-30-maine-voters-weigh-senate-control-open-governor-race-tuesday
-  headline: Maine voters weigh Senate control, open governor race Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6993
-- slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
-  headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6786
-- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7122
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7141
-- slug: 2026-10-30-minnesota-voters-pick-governor-senator-as-legislature-hangs-in-balance
-  headline: Minnesota voters pick governor, senator as Legislature hangs in balance
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6886
-- slug: 2026-10-30-michigan-voters-decide-senate-governor-races-that-could-shift-power
-  headline: Michigan voters decide Senate, governor races that could shift power
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6841
-- slug: 2026-10-30-missouri-voters-decide-congressional-races-and-five-ballot-measures-tuesday
-  headline: Missouri voters decide congressional races and five ballot measures Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6813
-- slug: 2026-10-30-massachusetts-voters-decide-senator-governor-and-state-offices-tuesday
-  headline: Massachusetts voters decide senator, governor and state offices Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6795
-- slug: 2026-10-29-warnock-raises-more-than-500-000-for-colom-s-mississippi-senate-bid
-  headline: Warnock raises more than $500,000 for Colom's Mississippi Senate bid
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.683
-- slug: 2026-10-26-trump-heads-to-mississippi-as-democrats-expand-battleground-maps
-  headline: Trump heads to Mississippi as Democrats expand battleground maps
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6943
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7388
+  strength: 0.7174
 image:
   url: /articles/2026-11-06-parties-trade-legal-letters-as-mississippi-counts-remaining-senate-ballots.png
-  alt: "Illustration accompanying article: Parties trade legal letters as Mississippi counts remaining Senate ballots"
+  alt: 'Illustration accompanying article: Parties trade legal letters as Mississippi
+    counts remaining Senate ballots'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Parties trade legal letters as Mississippi counts remaining Senate ballots
 
 **Subtype:** fact
