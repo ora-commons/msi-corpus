@@ -2,8 +2,18 @@
 headline: Voters under 30 back Democrats by nearly 50 points in midterms
 secondary_headline: Talarico carries under-30 Texas voters by 60 points
 publish_date: '2026-11-06'
-lede: Voters under 30 backed Democratic candidates by nearly 50 points in this week's midterms, the party's largest margin with the group in decades and a sharp reversal from 2024, according to exit polls. NPR political reporter Elena Moore, who examined the results, said the swing helped decide races at the margins even though young voters turn out at lower rates than older voters do.
-nut_graf: The youth vote moved toward Democrats after shifting right two years ago, when Donald Trump won the White House with a pledge to improve young people's economic prospects. Exit polling points to economic frustration and dissatisfaction with Trump as leading drivers, while roughly 15% of young 2024 Trump voters backed a Democratic House candidate this cycle, according to a nonpartisan research group at Tufts University. Both parties now face pressure to hold or win back a group that will make up more than half the electorate alongside millennials by 2028.
+lede: Voters under 30 backed Democratic candidates by nearly 50 points in this week's
+  midterms, the party's largest margin with the group in decades and a sharp reversal
+  from 2024, according to exit polls. NPR political reporter Elena Moore, who examined
+  the results, said the swing helped decide races at the margins even though young
+  voters turn out at lower rates than older voters do.
+nut_graf: The youth vote moved toward Democrats after shifting right two years ago,
+  when Donald Trump won the White House with a pledge to improve young people's economic
+  prospects. Exit polling points to economic frustration and dissatisfaction with
+  Trump as leading drivers, while roughly 15% of young 2024 Trump voters backed a
+  Democratic House candidate this cycle, according to a nonpartisan research group
+  at Tufts University. Both parties now face pressure to hold or win back a group
+  that will make up more than half the electorate alongside millennials by 2028.
 primary_entities:
 - Elena Moore
 - Leela Strong
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +160,44 @@ related_stories:
   headline: Poll shows Democrats gaining ground among Latino, young and white voters
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8254
+  strength: 0.8248
 - slug: 2026-11-04-voters-under-30-and-black-voters-back-democrats-in-2026-house-races
   headline: Voters under 30 and Black voters back Democrats in 2026 House races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8082
+  strength: 0.8074
 - slug: 2026-11-06-latino-voters-move-sharply-to-democrats-in-2026-midterms
-  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas sweep
+  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas
+    sweep
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7708
+  strength: 0.7694
 - slug: 2026-11-04-under-30-and-hispanic-texas-senate-voters-back-talarico
   headline: Under-30 and Hispanic Texas Senate voters back Talarico
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7753
+  strength: 0.7737
 - slug: 2026-11-04-poll-suggests-shifts-away-from-gop-among-young-voters-in-local-house-races
   headline: Poll suggests shifts away from GOP among young voters in local House races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7621
+  strength: 0.7622
 - slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
   headline: Poll finds voters rejecting Republicans more than embracing Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.761
+  strength: 0.7609
 - slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
   headline: Democrats win House and Senate in 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7546
+  strength: 0.753
 - slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7632
-- slug: 2026-11-05-democratic-winners-point-to-moderates-gaining-ground-in-the-incoming-congress
-  headline: Democratic winners point to moderates gaining ground in the incoming Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7232
-- slug: 2026-11-02-early-returns-turnout-and-state-benchmarks-frame-the-2026-midterms
-  headline: Early returns, turnout and state benchmarks frame the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7424
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7304
-- slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
-  headline: James Talarico defeats Ken Paxton in Texas Senate race
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7232
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.728
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7266
-- slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
-  headline: Democrats lead polls as Trump enters midterms with 32% approval
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7305
-- slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
-  headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7274
-- slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
-  headline: Early voting passes 50.5 million with three days to go before midterms
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7225
-- slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
-  headline: Paxton, Talarico face off as Texas voters head to polls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7193
-- slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
-  headline: Young voters under 30 become key 2026 midterm target for both parties
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.8051
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7671
+  strength: 0.7618
 ---
-
 ## Voters under 30 back Democrats by nearly 50 points in midterms
 
 **Subtype:** fact

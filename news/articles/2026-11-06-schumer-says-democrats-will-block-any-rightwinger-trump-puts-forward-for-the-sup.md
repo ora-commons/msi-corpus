@@ -1,9 +1,19 @@
 ---
-headline: Schumer says Democrats will block any rightwinger Trump puts forward for the Supreme Court
-secondary_headline: Midterm wins give Democrats power to reject nominees and probe the administration
+headline: Schumer says Democrats will block any rightwinger Trump puts forward for
+  the Supreme Court
+secondary_headline: Midterm wins give Democrats power to reject nominees and probe
+  the administration
 publish_date: '2026-11-06'
-lede: Soon-to-be Senate majority leader Chuck Schumer said Democrats will block any rightwinger President Donald Trump puts forward for the Supreme Court and will not confirm "any crappy nominees" to the high court, lower courts, or Trump's cabinet. The pledge, delivered in an interview with the Associated Press, previews how Democrats plan to use the House and Senate majorities they won in this week's midterm elections.
-nut_graf: Four Supreme Court justices are in their 70s, and the two oldest members — Clarence Thomas, 78, and Samuel Alito, 76 — are the court's most conservative. Trump's three first-term appointees built a 6-3 conservative majority. Should either Clarence Thomas or Samuel Alito retire, six weeks remain of a Republican Senate that could in theory confirm a Trump appointee before Democrats take control.
+lede: Soon-to-be Senate majority leader Chuck Schumer said Democrats will block any
+  rightwinger President Donald Trump puts forward for the Supreme Court and will not
+  confirm "any crappy nominees" to the high court, lower courts, or Trump's cabinet.
+  The pledge, delivered in an interview with the Associated Press, previews how Democrats
+  plan to use the House and Senate majorities they won in this week's midterm elections.
+nut_graf: Four Supreme Court justices are in their 70s, and the two oldest members
+  — Clarence Thomas, 78, and Samuel Alito, 76 — are the court's most conservative.
+  Trump's three first-term appointees built a 6-3 conservative majority. Should either
+  Clarence Thomas or Samuel Alito retire, six weeks remain of a Republican Senate
+  that could in theory confirm a Trump appointee before Democrats take control.
 primary_entities:
 - Chuck Schumer
 - Donald Trump
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,41 +156,50 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-06-schumer-says-democrats-will-block-any-rightwinger-trump-puts-forward-for-the-sup.png
-  alt: 'Illustration accompanying article: Schumer says Democrats will block any rightwinger Trump puts forward for the Supreme Court'
+  alt: 'Illustration accompanying article: Schumer says Democrats will block any rightwinger
+    Trump puts forward for the Supreme Court'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-05-schumer-vows-democrats-will-not-confirm-a-right-winger-to-the-supreme-court
-  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme Court
+  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme
+    Court
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8598
+  strength: 0.8595
 - slug: 2026-11-06-white-house-says-trump-will-never-let-democrats-pack-the-supreme-court
   headline: White House says Trump will never let Democrats pack the Supreme Court
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8127
+  strength: 0.8131
 - slug: 2026-11-05-democratic-senate-majority-clouds-trump-s-path-to-a-fourth-supreme-court-justice
-  headline: Democratic Senate majority clouds Trump's path to a fourth Supreme Court justice
+  headline: Democratic Senate majority clouds Trump's path to a fourth Supreme Court
+    justice
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8198
+  strength: 0.8201
 - slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
+  headline: Schumer expects re-election as Senate Democrats' leader after midterm
+    wins
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7484
+  strength: 0.7481
 - slug: 2026-11-04-schumer-says-days-of-trump-s-supplicant-senate-are-over-vows-to-cut-costs
-  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut costs
+  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut
+    costs
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6993
+  strength: 0.6992
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
   strength: 0.691
@@ -187,74 +207,13 @@ related_stories:
   headline: Democrats win Senate majority, adding checks on Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6801
+  strength: 0.6802
 - slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
   headline: Democrats poised for House control as midterm election results begin
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6589
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6511
-- slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
-  headline: Democrats win Congress after flipping seven Senate seats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6469
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6514
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6407
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6427
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6412
-- slug: 2026-09-20-dsa-backed-candidates-unseat-four-house-democrats-as-primary-season-ends
-  headline: DSA-backed candidates unseat four House Democrats as primary season ends
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6521
-- slug: 2026-09-22-ocasio-cortez-leaves-2028-challenge-to-schumer-unresolved
-  headline: Ocasio-Cortez leaves 2028 challenge to Schumer unresolved
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6449
-- slug: 2026-08-28-senate-democratic-task-force-catalogs-100-midterm-election-threats
-  headline: Senate Democratic task force catalogs 100 midterm election threats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6791
-- slug: 2026-08-13-jeffries-says-democrats-would-overhaul-supreme-court-if-they-regain-power
-  headline: Jeffries says Democrats would overhaul Supreme Court if they regain power
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.701
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6551
-- slug: 2026-01-14-democrats-see-narrow-path-to-regain-senate-majority-in-2026
-  headline: Democrats see narrow path to regain Senate majority in 2026
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7046
+  strength: 0.6583
 ---
-
 ## Schumer says Democrats will block any rightwinger Trump puts forward for the Supreme Court
 
 **Subtype:** fact

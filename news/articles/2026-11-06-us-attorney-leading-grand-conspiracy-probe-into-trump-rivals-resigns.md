@@ -2,8 +2,19 @@
 headline: US attorney leading 'grand conspiracy' probe into Trump rivals resigns
 secondary_headline: Eisenberg and Dhillon also leaving after Democratic midterm wins
 publish_date: '2026-11-06'
-lede: Jason Reding Quiñones, the US attorney who has overseen the Justice Department's so-called 'grand conspiracy' investigation into Donald Trump's rivals, announced Friday that he is leaving the department. John Eisenberg, who led the department's national security division, is also leaving, one of several officials to depart in recent days after sweeping Democratic wins in the midterm elections. Democrats have pledged to use their majorities in the House and Senate to conduct aggressive oversight of the Justice Department.
-nut_graf: The exits remove the leadership of the so-called 'grand conspiracy' inquiry into Trump's rivals and the heads of two Justice Department divisions at the moment Democrats have pledged to use their House and Senate majorities for aggressive oversight of the department. No charges have been filed in the inquiry, whose targets included former CIA director John Brennan, and one conservative commentator, Julie Kelly, has called the case 'essentially dead now.'
+lede: Jason Reding Quiñones, the US attorney who has overseen the Justice Department's
+  so-called 'grand conspiracy' investigation into Donald Trump's rivals, announced
+  Friday that he is leaving the department. John Eisenberg, who led the department's
+  national security division, is also leaving, one of several officials to depart
+  in recent days after sweeping Democratic wins in the midterm elections. Democrats
+  have pledged to use their majorities in the House and Senate to conduct aggressive
+  oversight of the Justice Department.
+nut_graf: The exits remove the leadership of the so-called 'grand conspiracy' inquiry
+  into Trump's rivals and the heads of two Justice Department divisions at the moment
+  Democrats have pledged to use their House and Senate majorities for aggressive oversight
+  of the department. No charges have been filed in the inquiry, whose targets included
+  former CIA director John Brennan, and one conservative commentator, Julie Kelly,
+  has called the case 'essentially dead now.'
 primary_entities:
 - Justice Department
 - Jason Reding Quiñones
@@ -50,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +164,46 @@ related_stories:
   headline: Dhillon exits DOJ civil rights division after calling staff exodus a self-purge
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6958
+  strength: 0.6929
 - slug: 2026-11-05-harmeet-dhillon-resigns-as-head-of-doj-civil-rights-division
   headline: Harmeet Dhillon resigns as head of DOJ civil rights division
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6899
+  strength: 0.687
 - slug: 2026-11-05-harmeet-dhillon-reshaped-doj-civil-rights-division-ousting-roughly-300-attorneys
-  headline: Harmeet Dhillon reshaped DOJ Civil Rights Division, ousting roughly 300 attorneys
+  headline: Harmeet Dhillon reshaped DOJ Civil Rights Division, ousting roughly 300
+    attorneys
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6778
+  strength: 0.675
 - slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
+  headline: House Democrats detail probes into Trump family, Epstein files and the
+    Pentagon
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.666
+  strength: 0.6665
 - slug: 2026-10-10-lead-lawyer-and-senior-counsel-quit-doj-s-so-called-grand-conspiracy-probe
   headline: Lead lawyer and senior counsel quit DOJ's so-called grand-conspiracy probe
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7846
-- slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6407
+  strength: 0.7849
 - slug: 2026-10-28-justice-department-accelerates-cases-involving-trump-s-opponents-before-midterms
-  headline: Justice Department accelerates cases involving Trump's opponents before midterms
+  headline: Justice Department accelerates cases involving Trump's opponents before
+    midterms
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6558
-- slug: 2026-10-30-justice-department-builds-third-comey-case-without-grand-jury-indictment
-  headline: Justice Department builds third Comey case without grand jury indictment
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6382
-- slug: 2026-10-28-justice-department-escalates-election-season-cases-as-critics-allege-political-t
-  headline: Justice Department escalates election-season cases as critics allege political timing
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6415
-- slug: 2026-10-23-justice-department-review-follows-fbi-task-force-s-2025-disbandment
-  headline: Justice Department review follows FBI task force's 2025 disbandment
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6381
+  strength: 0.6556
 - slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
   headline: Trump officials scramble to retain counsel ahead of February investigations
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6539
+  strength: 0.6541
 - slug: 2026-09-11-joe-digenova-resigns-from-justice-department-probe-of-trump-opponents
   headline: Joe diGenova resigns from Justice Department probe of Trump opponents
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7243
-- slug: 2026-09-14-former-cia-director-john-brennan-subpoenaed-for-florida-grand-jury-testimony
-  headline: Former CIA director John Brennan subpoenaed for Florida grand jury testimony
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6785
-- slug: 2026-09-15-wainstein-filing-brennan-is-target-of-separate-lying-to-congress-probe
-  headline: 'Wainstein filing: Brennan is ''target'' of separate lying-to-Congress probe'
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6662
-- slug: 2026-09-15-brennan-attorney-alleges-doj-judge-shopping-before-federal-judge
-  headline: Brennan attorney alleges DOJ 'judge-shopping' before federal judge
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6554
-- slug: 2026-08-21-ed-martin-to-leave-justice-department-trump-says
-  headline: Ed Martin to leave Justice Department, Trump says
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6766
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6648
-- slug: 2026-07-14-blanche-confirmation-hearings-open-as-senators-weigh-conflicts
-  headline: Blanche confirmation hearings open as senators weigh conflicts
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6384
-- slug: 2026-06-15-justice-dept-ramps-up-investigations-into-trump-s-perceived-enemies
-  headline: Justice Dept. ramps up investigations into Trump's perceived enemies
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.655
-- slug: 2026-07-03-legal-experts-predict-heavy-scrutiny-of-trump-if-democrats-win-house
-  headline: Legal experts predict heavy scrutiny of Trump if Democrats win House
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6399
+  strength: 0.7257
 ---
-
 ## US attorney leading 'grand conspiracy' probe into Trump rivals resigns
 
 **Subtype:** fact
