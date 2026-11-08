@@ -1,9 +1,22 @@
 ---
-headline: Democrats gain power to stall Musk's Texas projects after his $225 million bet
-secondary_headline: Hinojosa sues Abbott for Musk records, seeks delay on SpaceX park deal
+headline: Democrats gain power to stall Musk's Texas projects after his $225 million
+  bet
+secondary_headline: Hinojosa sues Abbott for Musk records, seeks delay on SpaceX park
+  deal
 publish_date: '2026-11-07'
-lede: Texas Democrats plan to increase state oversight of Elon Musk's companies after recent election victories, with Governor-elect Gina Hinojosa suing departing Gov. Greg Abbott for records of his office's communications with the billionaire and asking to delay state discussions about a SpaceX land deal at Boca Chica State Park until after she takes office. Musk made a $225 million bet on Texas, according to The Wall Street Journal, and Democrats say a new wave of state leaders now has the power to stall his projects.
-nut_graf: Tesla and SpaceX have flourished in Texas through tax incentives, infrastructure benefits and legislation that makes it difficult to sue them — support that has come mainly from Republican officials, Democrats said. With the governor's office and appointment power over the state commission that approves large projects, incoming Democrats say they can slow Musk's expansion while maintaining the state's business-friendly posture.
+lede: Texas Democrats plan to increase state oversight of Elon Musk's companies after
+  recent election victories, with Governor-elect Gina Hinojosa suing departing Gov.
+  Greg Abbott for records of his office's communications with the billionaire and
+  asking to delay state discussions about a SpaceX land deal at Boca Chica State Park
+  until after she takes office. Musk made a $225 million bet on Texas, according to
+  The Wall Street Journal, and Democrats say a new wave of state leaders now has the
+  power to stall his projects.
+nut_graf: Tesla and SpaceX have flourished in Texas through tax incentives, infrastructure
+  benefits and legislation that makes it difficult to sue them — support that has
+  come mainly from Republican officials, Democrats said. With the governor's office
+  and appointment power over the state commission that approves large projects, incoming
+  Democrats say they can slow Musk's expansion while maintaining the state's business-friendly
+  posture.
 primary_entities:
 - Elon Musk
 - Gina Hinojosa
@@ -49,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +165,45 @@ related_stories:
   headline: Elon Musk spent at least $445 million backing Republicans, who lost Congress
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7722
+  strength: 0.7721
 - slug: 2026-11-04-hinojosa-pitches-1-500-refund-amid-abbott-s-180-million-campaign-spending
   headline: Hinojosa pitches $1,500 refund amid Abbott's $180 million campaign spending
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7744
+  strength: 0.7745
 - slug: 2026-11-04-musk-s-more-than-150-million-texas-senate-effort-appears-to-have-backfired
   headline: Musk's more than $150 million Texas Senate effort appears to have backfired
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7445
+  strength: 0.7454
 - slug: 2026-11-04-democrats-put-elon-musk-s-contracts-and-influence-under-scrutiny
   headline: Democrats put Elon Musk's contracts and influence under scrutiny
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7395
+  strength: 0.7393
 - slug: 2026-11-05-tech-billionaires-face-scrutiny-after-democratic-congressional-gains
   headline: Tech billionaires face scrutiny after Democratic congressional gains
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7085
+  strength: 0.7088
 - slug: 2026-11-06-gina-hinojosa-pledges-bipartisan-administration-after-ousting-abbott-in-texas
-  headline: Gina Hinojosa pledges bipartisan administration after ousting Abbott in Texas
+  headline: Gina Hinojosa pledges bipartisan administration after ousting Abbott in
+    Texas
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6994
+  strength: 0.7
 - slug: 2026-11-04-musk-has-given-more-than-250-million-to-republican-aligned-groups-in-the-third-q
-  headline: Musk has given more than $250 million to Republican-aligned groups in the third quarter
+  headline: Musk has given more than $250 million to Republican-aligned groups in
+    the third quarter
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7116
+  strength: 0.7119
 - slug: 2026-11-04-hinojosa-s-texas-win-followed-a-long-shot-affordability-campaign
   headline: Hinojosa's Texas win followed a long-shot affordability campaign
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6987
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6948
-- slug: 2026-11-03-paxton-s-legal-history-and-musk-s-money-shape-pivotal-texas-senate-race
-  headline: Paxton's legal history and Musk's money shape pivotal Texas Senate race
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6923
-- slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
-  headline: Paxton, Talarico face off as Texas voters head to polls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7146
-- slug: 2026-11-03-gina-hinojosa-defeats-greg-abbott-in-texas-governor-race
-  headline: Gina Hinojosa defeats Greg Abbott in Texas governor race
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6884
-- slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
-  headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6984
-- slug: 2026-10-26-candidates-in-four-states-seek-tighter-data-center-approval-rules
-  headline: Candidates in four states seek tighter data-center approval rules
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7037
-- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
-  headline: Talarico says Musk is backing Paxton at UT Austin rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7131
-- slug: 2026-10-27-trump-makes-third-texas-trip-of-the-month-for-paxton-s-senate-bid
-  headline: Trump makes third Texas trip of the month for Paxton's Senate bid
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6947
-- slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
-  headline: Talarico alleges Musk is trying to buy Texas Senate seat
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6973
-- slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
-  headline: Musk channels $158 million in September to Senate Republican super PAC
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7105
-- slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7029
-- slug: 2026-09-24-tesla-and-spacex-announce-major-texas-and-louisiana-infrastructure-projects
-  headline: Tesla and SpaceX announce major Texas and Louisiana infrastructure projects
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7777
+  strength: 0.6996
 ---
-
 ## Democrats gain power to stall Musk's Texas projects after his $225 million bet
 
 **Subtype:** fact

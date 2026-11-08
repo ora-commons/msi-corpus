@@ -1,9 +1,27 @@
 ---
 headline: Most midterm voters say Trump's immigration enforcement has gone too far
-secondary_headline: Republicans frontloaded ICE and Border Patrol funding for the next three years
+secondary_headline: Republicans frontloaded ICE and Border Patrol funding for the
+  next three years
 publish_date: '2026-11-07'
-lede: About 6 in 10 midterm voters told The AP Voter Poll that the Trump administration's actions on immigration enforcement had "gone too far," and a similar share said they disapproved of how ICE was doing its job. Republicans expanded enforcement in the summer of 2025 with $150 billion to expand immigration detention capacity, finish the border wall and hire thousands more deportation officers, then frontloaded routine funding for ICE and the Border Patrol for the next three years. Democrats who won control of both chambers in Tuesday's elections plan investigations of ICE and the Department of Homeland Security, but President Donald Trump retains veto power for two more years. Conservatives are pressing the lame-duck Congress to codify changes to asylum law and tighten employer verification requirements, warning that a future administration could otherwise quickly reverse the changes.
-nut_graf: 'Immigration now sits at a crosscurrent: most midterm voters are skeptical of the enforcement campaign even as its funding was locked in ahead of the new Congress. Democrats hold both chambers, the gavels and the subpoena power; President Donald Trump holds the veto; and Republicans have the money and the personnel to pursue the president''s immigration agenda regardless of Tuesday''s results. The next two years will be shaped by Democratic investigations, a possible lame-duck codification push by conservatives, and whatever legislative middle ground, if any, Democrats and the White House can find.'
+lede: About 6 in 10 midterm voters told The AP Voter Poll that the Trump administration's
+  actions on immigration enforcement had "gone too far," and a similar share said
+  they disapproved of how ICE was doing its job. Republicans expanded enforcement
+  in the summer of 2025 with $150 billion to expand immigration detention capacity,
+  finish the border wall and hire thousands more deportation officers, then frontloaded
+  routine funding for ICE and the Border Patrol for the next three years. Democrats
+  who won control of both chambers in Tuesday's elections plan investigations of ICE
+  and the Department of Homeland Security, but President Donald Trump retains veto
+  power for two more years. Conservatives are pressing the lame-duck Congress to codify
+  changes to asylum law and tighten employer verification requirements, warning that
+  a future administration could otherwise quickly reverse the changes.
+nut_graf: 'Immigration now sits at a crosscurrent: most midterm voters are skeptical
+  of the enforcement campaign even as its funding was locked in ahead of the new Congress.
+  Democrats hold both chambers, the gavels and the subpoena power; President Donald
+  Trump holds the veto; and Republicans have the money and the personnel to pursue
+  the president''s immigration agenda regardless of Tuesday''s results. The next two
+  years will be shaped by Democratic investigations, a possible lame-duck codification
+  push by conservatives, and whatever legislative middle ground, if any, Democrats
+  and the White House can find.'
 primary_entities:
 - Donald Trump
 - Stephen Miller
@@ -56,7 +74,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,104 +177,44 @@ related_stories:
   headline: Justice Department sends observers as watchdogs prepare poll monitors
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7366
+  strength: 0.7368
 - slug: 2026-10-26-trump-administration-reshapes-us-immigration-enforcement-and-admissions
   headline: Trump administration reshapes US immigration enforcement and admissions
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7726
+  strength: 0.7731
 - slug: 2026-10-29-trump-immigration-policies-lose-support-as-voter-disapproval-grows
   headline: Trump immigration policies lose support as voter disapproval grows
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7467
+  strength: 0.7471
 - slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
   headline: Immigration enforcement reshapes midterm races as voter disapproval grows
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.8106
+  strength: 0.8113
 - slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
   headline: New poll finds Democrats 11 points ahead among registered voters
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7531
+  strength: 0.754
 - slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
   headline: US midterm elections on November 3 will determine control of Congress
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7304
+  strength: 0.7314
 - slug: 2026-02-13-ap-norc-poll-finds-independents-increasingly-disapprove-of-trump-immigration-tac
-  headline: AP-NORC poll finds independents increasingly disapprove of Trump immigration tactics
+  headline: AP-NORC poll finds independents increasingly disapprove of Trump immigration
+    tactics
   publish_date: '2026-02-13'
   relation: related
-  strength: 0.8022
+  strength: 0.8021
 - slug: 2026-06-13-trump-signs-70b-immigration-enforcement-bill-into-law
   headline: Trump signs $70B immigration enforcement bill into law
   publish_date: '2026-06-13'
   relation: related
   strength: 0.7668
-- slug: 2026-01-20-trump-s-tax-and-spending-cuts-bill-pays-for-ice-expansion
-  headline: Trump’s tax and spending cuts bill pays for ICE expansion
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.7888
-- slug: 2026-06-09-house-set-to-vote-on-70-billion-immigration-enforcement-funding-bill
-  headline: House set to vote on $70 billion immigration enforcement funding bill
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7561
-- slug: 2026-01-16-poll-republicans-back-trump-s-immigration-record-but-say-economy-hasn-t-delivere
-  headline: 'Poll: Republicans back Trump''s immigration record but say economy hasn''t delivered'
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.76
-- slug: 2026-06-05-congress-sends-trump-nearly-70b-to-fund-deportation-agenda
-  headline: Congress sends Trump nearly $70B to fund deportation agenda
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7305
-- slug: 2026-05-28-gop-immigration-bill-stalls-as-internal-disputes-spill-into-broader-legislative-
-  headline: GOP immigration bill stalls as internal disputes spill into broader legislative agenda
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.7306
-- slug: 2026-01-29-republicans-fret-immigration-enforcement-chaos-could-hurt-midterms
-  headline: Republicans fret immigration enforcement chaos could hurt midterms
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7515
-- slug: 2026-02-26-trump-highlights-border-drop-in-state-of-the-union-amid-enforcement-fallout
-  headline: Trump highlights border drop in State of the Union amid enforcement fallout
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7491
-- slug: 2026-03-15-trump-mass-deportations-at-crossroads-with-dhs-shake-up
-  headline: Trump mass deportations at crossroads with DHS shake-up
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7456
-- slug: 2026-01-22-house-passes-1-2t-spending-bills-as-democrats-oppose-ice-funding
-  headline: House passes $1.2T spending bills as Democrats oppose ICE funding
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7496
-- slug: 2026-03-23-trump-threatens-ice-role-at-airports-starting-monday-amid-dhs-funding-fight
-  headline: Trump threatens ICE role at airports starting Monday amid DHS funding fight
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.7435
-- slug: 2026-03-22-trump-says-ice-will-work-airport-security-unless-democrats-fund-dhs
-  headline: Trump says ICE will work airport security unless Democrats fund DHS
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7434
-- slug: 2026-05-01-trump-signs-homeland-security-funding-bill-ends-record-shutdown-over-ice-pay
-  headline: Trump signs Homeland Security funding bill, ends record shutdown over ICE pay
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7314
 ---
-
 ## Most midterm voters say Trump's immigration enforcement has gone too far
 
 **Subtype:** fact

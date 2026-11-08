@@ -2,8 +2,19 @@
 headline: Political scientists say American democracy held in the 2026 midterms
 secondary_headline: Scholars warn the threats to American democracy are not over
 publish_date: '2026-11-06'
-lede: Four days after the 2026 midterm elections, with some House and Senate races still uncalled, political scientists say American democracy itself is among the election's big, clear winners. Bright Line Watch, a national survey of political scientists, had found widespread expectations that prominent Republicans would deny the legitimacy of the results, but co-director Brendan Nyhan said the clarity of the outcome made denial difficult. President Trump, whom NPR's report described as having lied about losing the 2020 election, said he would accept the results.
-nut_graf: The verdict marks a sharp reversal from the year after Trump took office, when most scholars surveyed by Bright Line Watch saw the United States moving swiftly toward some form of authoritarianism, according to NPR's report. Levitsky credits lawyers who mounted legal challenges and courts that often blocked the administration's moves with the outcome, while the scholars caution that the threats to American democracy are not over.
+lede: Four days after the 2026 midterm elections, with some House and Senate races
+  still uncalled, political scientists say American democracy itself is among the
+  election's big, clear winners. Bright Line Watch, a national survey of political
+  scientists, had found widespread expectations that prominent Republicans would deny
+  the legitimacy of the results, but co-director Brendan Nyhan said the clarity of
+  the outcome made denial difficult. President Trump, whom NPR's report described
+  as having lied about losing the 2020 election, said he would accept the results.
+nut_graf: The verdict marks a sharp reversal from the year after Trump took office,
+  when most scholars surveyed by Bright Line Watch saw the United States moving swiftly
+  toward some form of authoritarianism, according to NPR's report. Levitsky credits
+  lawyers who mounted legal challenges and courts that often blocked the administration's
+  moves with the outcome, while the scholars caution that the threats to American
+  democracy are not over.
 primary_entities:
 - Bright Line Watch
 - Brendan Nyhan
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +159,44 @@ related_stories:
   headline: Trump accepts midterm results after election system withstands threats
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7826
+  strength: 0.7822
 - slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
   headline: Republicans fault Trump after Democrats take House and Senate in midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7498
+  strength: 0.75
 - slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
   headline: Democrats enter midterms favored in House and within reach of Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7687
+  strength: 0.7685
 - slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
   headline: US midterms reach election day with three possible congressional outcomes
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7518
+  strength: 0.7526
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7479
+  strength: 0.7482
 - slug: 2026-11-04-ken-martin-says-democrats-have-great-leverage-after-2026-midterms
   headline: Ken Martin says Democrats have great leverage after 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7362
+  strength: 0.7358
 - slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
   headline: Democrats win Congress as Trump retains broad presidential powers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.731
+  strength: 0.7316
 - slug: 2026-11-04-trump-accepts-midterm-results-and-links-republican-losses-to-iran
   headline: Trump accepts midterm results and links Republican losses to Iran
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7309
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7265
-- slug: 2026-11-04-trump-says-he-ll-accept-midterm-results-after-administration-signals-alaska-cert
-  headline: Trump says he'll accept midterm results after administration signals Alaska certification challenge
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7224
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7281
-- slug: 2026-11-03-npr-station-photographers-document-election-day-across-the-country
-  headline: NPR station photographers document Election Day across the country
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7177
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7067
-- slug: 2026-11-03-early-voting-advances-as-trump-administration-pressures-state-elections
-  headline: Early voting advances as Trump administration pressures state elections
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7126
-- slug: 2026-11-04-democrats-win-house-and-senate-control-in-2026-us-midterms
-  headline: Democrats win House and Senate control in 2026 US midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7051
-- slug: 2026-11-03-millions-vote-in-2026-midterms-amid-justice-department-monitoring-concerns
-  headline: Millions vote in 2026 midterms amid Justice Department monitoring concerns
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7078
-- slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
-  headline: US midterm results may take days or weeks to settle
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7069
-- slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
-  headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7087
-- slug: 2026-11-02-five-2026-midterm-voting-issues-include-federal-pressure-and-state-rules
-  headline: Five 2026 midterm voting issues include federal pressure and state rules
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7079
-- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
-  headline: Democrats lead House polling as Trump approval stays below 50%
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7195
+  strength: 0.7304
 ---
-
 ## Political scientists say American democracy held in the 2026 midterms
 
 **Subtype:** fact

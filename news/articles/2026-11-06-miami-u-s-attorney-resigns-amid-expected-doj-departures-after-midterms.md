@@ -240,6 +240,8 @@ related_stories:
   publish_date: '2026-11-06'
   relation: related
   strength: 0.6829
+analyses:
+- '2026-11-06-third-side-roles-stand-mostly-unfilled-around-draft-nonprofit-tax-order'
 ---
 ## Miami U.S. attorney resigns amid expected DOJ departures after midterms
 
@@ -285,3 +287,8 @@ The newsletter also reported that comedian Dane Cook was fleeced of $12 million 
 **Publication date:** 2026-11-06
 **Title:** Stephen Miller Is Trump’s New Chief of Staff
 **URL:** https://www.wsj.com/politics/stephen-miller-is-trumps-new-chief-of-staff-e1984f25
+
+---
+
+<!-- analysis-link:2026-11-06-third-side-roles-stand-mostly-unfilled-around-draft-nonprofit-tax-order -->
+**Going deeper:** [Read MSI's analysis of third-side roles in nonprofit conflict →](/analyses/2026-11-06-third-side-roles-stand-mostly-unfilled-around-draft-nonprofit-tax-order)
