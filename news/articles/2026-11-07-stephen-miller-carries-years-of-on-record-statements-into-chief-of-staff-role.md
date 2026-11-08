@@ -1,9 +1,19 @@
 ---
-headline: Stephen Miller carries years of on-record statements into chief of staff role
-secondary_headline: Miller helped drive Trump's immigration agenda; Democrats likely to scrutinize his record
+headline: Stephen Miller carries years of on-record statements into chief of staff
+  role
+secondary_headline: Miller helped drive Trump's immigration agenda; Democrats likely
+  to scrutinize his record
 publish_date: '2026-11-07'
-lede: Stephen Miller, President Donald Trump's new White House chief of staff, has spent nearly a decade making on-record statements on immigration, deportation power, foreign force, childhood vaccines and his political opponents. His record is likely to be scrutinized by Democrats as he leads the White House through a lame duck period following the Republican Party's loss of both houses of Congress.
-nut_graf: Miller has been behind many of the Trump administration's signature domestic policy initiatives, especially its immigration agenda, going back to his defense of Trump's most far-reaching goals to remake government in the 2016 campaign. The statements he has made through the years trace the positions he now brings to the chief of staff's office, where Democrats are likely to examine that record.
+lede: Stephen Miller, President Donald Trump's new White House chief of staff, has
+  spent nearly a decade making on-record statements on immigration, deportation power,
+  foreign force, childhood vaccines and his political opponents. His record is likely
+  to be scrutinized by Democrats as he leads the White House through a lame duck period
+  following the Republican Party's loss of both houses of Congress.
+nut_graf: Miller has been behind many of the Trump administration's signature domestic
+  policy initiatives, especially its immigration agenda, going back to his defense
+  of Trump's most far-reaching goals to remake government in the 2016 campaign. The
+  statements he has made through the years trace the positions he now brings to the
+  chief of staff's office, where Democrats are likely to examine that record.
 primary_entities:
 - Stephen Miller
 - Donald Trump
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +162,50 @@ related_stories:
   headline: Stephen Miller called man killed by immigration agents a 'domestic terrorist'
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.839
+  strength: 0.8385
 - slug: 2026-11-07-democrats-vow-probes-and-subpoenas-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief of staff
+  headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief
+    of staff
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8244
+  strength: 0.8243
 - slug: 2026-11-07-democrats-denounce-stephen-miller-s-promotion-to-white-house-chief-of-staff
-  headline: Democrats denounce Stephen Miller's promotion to White House chief of staff
+  headline: Democrats denounce Stephen Miller's promotion to White House chief of
+    staff
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8208
+  strength: 0.8201
 - slug: 2026-11-06-stephen-miller-built-hard-line-immigration-record-and-sweep-of-white-house-power
-  headline: Stephen Miller built hard-line immigration record and sweep of White House power
+  headline: Stephen Miller built hard-line immigration record and sweep of White House
+    power
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7906
+  strength: 0.7901
 - slug: 2026-11-07-stephen-miller-s-second-term-purview-spans-trade-universities-and-pentagon-strik
-  headline: Stephen Miller's second-term purview spans trade, universities and Pentagon strikes
+  headline: Stephen Miller's second-term purview spans trade, universities and Pentagon
+    strikes
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.775
+  strength: 0.7741
 - slug: 2026-11-06-stephen-miller-trump-s-next-chief-of-staff-defended-u-s-takeover-of-greenland
-  headline: Stephen Miller, Trump's next chief of staff, defended U.S. takeover of Greenland
+  headline: Stephen Miller, Trump's next chief of staff, defended U.S. takeover of
+    Greenland
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7772
+  strength: 0.7764
 - slug: 2026-11-06-trump-polled-friends-for-weeks-on-wiles-s-work-before-replacing-her-sources-say
-  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources say
+  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources
+    say
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7419
+  strength: 0.7412
 - slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
+  headline: Miller's elevation is clearest signal yet Trump will double down, Journal
+    says
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7374
-- slug: 2026-11-06-trump-names-stephen-miller-white-house-chief-of-staff
-  headline: Trump names Stephen Miller White House chief of staff
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.735
-- slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7182
-- slug: 2026-11-06-trump-s-chief-of-staff-switch-follows-republican-midterm-sweep-from-power
-  headline: Trump's chief of staff switch follows Republican midterm sweep from power
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6994
-- slug: 2026-11-07-most-midterm-voters-say-trump-s-immigration-enforcement-has-gone-too-far
-  headline: Most midterm voters say Trump's immigration enforcement has gone too far
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6704
-- slug: 2026-10-29-trump-immigration-policies-lose-support-as-voter-disapproval-grows
-  headline: Trump immigration policies lose support as voter disapproval grows
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6939
-- slug: 2026-10-26-trump-administration-reshapes-us-immigration-enforcement-and-admissions
-  headline: Trump administration reshapes US immigration enforcement and admissions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6673
-- slug: 2026-09-19-stephen-miller-leads-multi-agency-push-to-accelerate-migrant-child-removals
-  headline: Stephen Miller leads multi-agency push to accelerate migrant child removals
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7691
-- slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
-  headline: Trump grows frustrated with Homeland Security Secretary Mullin
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7053
-- slug: 2026-08-04-six-gop-senators-publicly-back-bernie-moreno-in-miller-abuse-dispute
-  headline: Six GOP senators publicly back Bernie Moreno in Miller abuse dispute
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6718
-- slug: 2026-01-15-miller-articulates-power-doctrine-behind-venezuela-operation-greenland-ambitions
-  headline: Miller articulates power doctrine behind Venezuela operation, Greenland ambitions
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7381
-- slug: 2026-03-15-trump-mass-deportations-at-crossroads-with-dhs-shake-up
-  headline: Trump mass deportations at crossroads with DHS shake-up
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7096
-- slug: 2026-03-19-mullin-faces-senate-pushback-over-his-dhs-nomination
-  headline: Mullin faces Senate pushback over his DHS nomination
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6868
+  strength: 0.7362
 ---
-
 ## Stephen Miller carries years of on-record statements into chief of staff role
 
 **Subtype:** fact

@@ -156,6 +156,8 @@ related_stories:
   publish_date: '2026-11-05'
   relation: related
   strength: 0.7343
+analyses:
+- '2026-11-06-two-evidence-items-dominate-the-des-moines-postal-shooting-s-targeting-question'
 ---
 ## Postal worker charged with attempted murder in Des Moines post office shooting
 
@@ -198,3 +200,8 @@ More than 200 employees work at the regional sorting facility, which has a walk-
 **Publication date:** 2026-11-06
 **Title:** Suspect in Iowa postal worker shooting has first court appearance
 **URL:** https://apnews.com/article/post-office-shooting-des-moines-iowa-d1a3413f2da3a76929f1ac1287e133e1
+
+---
+
+<!-- analysis-link:2026-11-06-two-evidence-items-dominate-the-des-moines-postal-shooting-s-targeting-question -->
+**Going deeper:** [Read MSI's analysis of the Des Moines sorting-center targeting question →](/analyses/2026-11-06-two-evidence-items-dominate-the-des-moines-postal-shooting-s-targeting-question)
