@@ -1,9 +1,21 @@
 ---
-headline: Jay Rockefeller, West Virginia governor and 30-year U.S. senator, dies at 89
-secondary_headline: From VISTA volunteer in Emmons to author of the Children's Health Insurance Program
+headline: Jay Rockefeller, West Virginia governor and 30-year U.S. senator, dies at
+  89
+secondary_headline: From VISTA volunteer in Emmons to author of the Children's Health
+  Insurance Program
 publish_date: '2026-11-06'
-lede: Jay Rockefeller, the great-grandson of Standard Oil founder John Rockefeller who spent a half century in public service in West Virginia as its governor and later a 30-year U.S. senator, has died at age 89. Rockefeller died Thursday night at his home in Washington, said Mary Stewart, vice president for external affairs at WETA, the public broadcasting station where his wife, Sharon, serves as president and CEO.
-nut_graf: Rockefeller was the last member of his family's political dynasty, and the only Democrat, to serve as West Virginia's governor and later a longtime U.S. senator. His half-century career spanned the creation of the Children's Health Insurance Program, chairmanships of three Senate committees and a split with the Obama administration over coal mining regulation — along with at least $21 million of his inherited fortune spent on his own races.
+lede: Jay Rockefeller, the great-grandson of Standard Oil founder John Rockefeller
+  who spent a half century in public service in West Virginia as its governor and
+  later a 30-year U.S. senator, has died at age 89. Rockefeller died Thursday night
+  at his home in Washington, said Mary Stewart, vice president for external affairs
+  at WETA, the public broadcasting station where his wife, Sharon, serves as president
+  and CEO.
+nut_graf: Rockefeller was the last member of his family's political dynasty, and the
+  only Democrat, to serve as West Virginia's governor and later a longtime U.S. senator.
+  His half-century career spanned the creation of the Children's Health Insurance
+  Program, chairmanships of three Senate committees and a split with the Obama administration
+  over coal mining regulation — along with at least $21 million of his inherited fortune
+  spent on his own races.
 primary_entities:
 - Jay Rockefeller
 - West Virginia
@@ -53,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,109 +163,8 @@ cross_article_links:
   strength: 0.5663
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-21-young-candidates-face-barriers-in-an-aging-us-congress
-  headline: Young candidates face barriers in an aging US Congress
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5796
-- slug: 2026-10-20-fec-filing-shows-250-000-paid-to-firm-of-el-sayed-heckler-s-father
-  headline: FEC filing shows $250,000 paid to firm of El-Sayed heckler's father
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5705
-- slug: venture-capitalist-william-draper-iii-dies-at-98
-  headline: Venture capitalist William Draper III dies at 98
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5906
-- slug: 2026-09-03-gloria-steinem-co-founder-of-ms-magazine-dies-at-92
-  headline: Gloria Steinem, co-founder of Ms. magazine, dies at 92
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5759
-- slug: 2026-07-13-lindsey-graham-dealmaking-senator-from-south-carolina-dies-at-71
-  headline: Lindsey Graham, dealmaking senator from South Carolina, dies at 71
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5767
-- slug: 2026-06-07-bob-packwood-oregon-senator-who-resigned-amid-scandal-dies-at-93
-  headline: Bob Packwood, Oregon senator who resigned amid scandal, dies at 93
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5926
-- slug: 2026-06-22-alan-greenspan-former-fed-chair-who-shaped-modern-economy-dies-at-100
-  headline: Alan Greenspan, former Fed chair who shaped modern economy, dies at 100
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5737
-- slug: 2026-05-20-barney-frank-liberal-ex-congressman-and-gay-rights-pioneer-dies-at-86
-  headline: Barney Frank, liberal ex-congressman and gay-rights pioneer, dies at 86
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5879
-- slug: 2026-05-22-barney-frank-liberal-lawmaker-and-gay-rights-trailblazer-dies-at-86
-  headline: Barney Frank, liberal lawmaker and gay-rights trailblazer, dies at 86
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5815
-- slug: 2026-05-08-cnn-founder-ted-turner-dies-at-87
-  headline: CNN founder Ted Turner dies at 87
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5861
-- slug: 2025-12-30-former-sen-ben-nighthorse-campbell-dies-at-92
-  headline: Former Sen. Ben Nighthorse Campbell dies at 92
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6033
-- slug: 2026-05-20-barney-frank-gay-rights-pioneer-and-dodd-frank-architect-dies-at-86
-  headline: Barney Frank, gay-rights pioneer and Dodd-Frank architect, dies at 86
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5795
-- slug: 2026-05-23-barney-frank-liberal-lawmaker-and-gay-rights-trailblazer-dies-at-86
-  headline: Barney Frank, liberal lawmaker and gay-rights trailblazer, dies at 86
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5752
-- slug: 2026-05-21-barney-frank-liberal-lawmaker-and-gay-rights-pioneer-dies-at-86
-  headline: Barney Frank, liberal lawmaker and gay rights pioneer, dies at 86
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5752
-- slug: 2026-04-28-billionaire-tom-steyer-takes-on-the-rich-in-california-governor-race
-  headline: Billionaire Tom Steyer takes on the rich in California governor race
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5813
-- slug: 2026-04-23-u-s-rep-david-scott-georgia-democrat-dies-at-80
-  headline: U.S. Rep. David Scott, Georgia Democrat, dies at 80
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.5776
-- slug: 2026-04-27-donald-riegle-former-michigan-congressman-and-senator-dies-at-88
-  headline: Donald Riegle, former Michigan congressman and senator, dies at 88
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.5751
-- slug: 2026-01-11-richard-codey-new-jersey-s-longest-serving-legislator-and-acting-governor-dies-a
-  headline: Richard Codey, New Jersey's longest-serving legislator and acting governor, dies at 79
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.5889
-- slug: 2026-01-06-rep-doug-lamalfa-of-california-dies-at-65-narrowing-house-gop-majority
-  headline: Rep. Doug LaMalfa of California dies at 65, narrowing House GOP majority
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.5879
-- slug: 2026-01-08-steny-hoyer-longest-serving-house-democrat-announces-retirement-at-86
-  headline: Steny Hoyer, longest-serving House Democrat, announces retirement at 86
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.5867
+related_stories: []
 ---
-
 ## Jay Rockefeller, West Virginia governor and 30-year U.S. senator, dies at 89
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: US employers add 165,000 jobs in October as unemployment rate slips to 4.1%
 secondary_headline: Wages climb 3.1% as inflation outpaces pay and layoffs stay low
 publish_date: '2026-11-06'
-lede: US employers added 165,000 jobs in October, surpassing economists' expectations, and the unemployment rate slipped to 4.1%, the Bureau of Labor Statistics reported Friday. Average hourly earnings rose at a 3.1% annual rate, still trailing an inflation rate that has outpaced wage growth in recent months.
-nut_graf: Economists have described the labor market as stuck in a low-hire, low-fire state, in which job growth is sluggish but layoffs remain low, and October's figures beat that expectations bar. The report arrived days after midterm elections in which polls found Americans most frustrated by the economy, especially higher gas and grocery prices.
+lede: US employers added 165,000 jobs in October, surpassing economists' expectations,
+  and the unemployment rate slipped to 4.1%, the Bureau of Labor Statistics reported
+  Friday. Average hourly earnings rose at a 3.1% annual rate, still trailing an inflation
+  rate that has outpaced wage growth in recent months.
+nut_graf: Economists have described the labor market as stuck in a low-hire, low-fire
+  state, in which job growth is sluggish but layoffs remain low, and October's figures
+  beat that expectations bar. The report arrived days after midterm elections in which
+  polls found Americans most frustrated by the economy, especially higher gas and
+  grocery prices.
 primary_entities:
 - Bureau of Labor Statistics
 - Federal Reserve
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,12 +67,16 @@ figures:
   series_id: UNRATE
   transformation: raw
   as_of: '2026-11-06'
-  caption: The official US unemployment rate (U-3) as recorded in Federal Reserve Economic Data (FRED), shown at the November 6, 2026 vintage on the day the October jobs report was released.
+  caption: The official US unemployment rate (U-3) as recorded in Federal Reserve
+    Economic Data (FRED), shown at the November 6, 2026 vintage on the day the October
+    jobs report was released.
 - source: fred
   series_id: U6RATE
   transformation: raw
   as_of: '2026-11-06'
-  caption: The broader U-6 underemployment rate, which adds discouraged workers and involuntary part-time workers to the official count, from Federal Reserve Economic Data (FRED).
+  caption: The broader U-6 underemployment rate, which adds discouraged workers and
+    involuntary part-time workers to the official count, from Federal Reserve Economic
+    Data (FRED).
 figures_aggregate:
   count: 2
   series_ids:
@@ -159,104 +171,44 @@ related_stories:
   headline: US employers add 165,000 jobs in October as unemployment dips to 4.1%
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.9407
+  strength: 0.9415
 - slug: 2026-11-06-us-employers-expected-to-add-65-000-jobs-in-october-as-inflation-erodes-pay
-  headline: US employers expected to add 65,000 jobs in October as inflation erodes pay
+  headline: US employers expected to add 65,000 jobs in October as inflation erodes
+    pay
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8863
+  strength: 0.8876
 - slug: 2026-11-03-u-s-job-openings-reach-7-5-million-in-september
   headline: U.S. job openings reach 7.5 million in September
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8021
+  strength: 0.8032
 - slug: 2026-11-05-jobless-claims-fall-to-189-000-fewest-since-mid-july
   headline: Jobless claims fall to 189,000, fewest since mid-July
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7594
+  strength: 0.7601
 - slug: 2026-10-29-u-s-jobless-claims-fall-to-194-000-lowest-since-mid-july
   headline: U.S. jobless claims fall to 194,000, lowest since mid-July
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7539
-- slug: 2026-10-27-us-consumer-confidence-index-rises-7-5-points-to-91-7-in-october
-  headline: US consumer confidence index rises 7.5 points to 91.7 in October
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7396
+  strength: 0.7546
 - slug: 2026-10-02-us-employers-add-29-000-jobs-in-september-as-labor-market-cools
   headline: US employers add 29,000 jobs in September as labor market cools
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.8227
+  strength: 0.8229
 - slug: 2026-10-11-u-s-employers-add-29-000-jobs-as-job-searches-take-longer
   headline: U.S. employers add 29,000 jobs as job searches take longer
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7528
+  strength: 0.7537
 - slug: 2026-09-05-us-employers-add-162-000-jobs-in-august-beating-forecasts
   headline: US employers add 162,000 jobs in August, beating forecasts
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.8013
-- slug: 2026-09-04-u-s-employers-are-expected-to-add-65-000-jobs-in-august
-  headline: U.S. employers are expected to add 65,000 jobs in August
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.763
-- slug: 2026-08-06-jobless-benefit-filings-edge-higher-while-layoffs-stay-low
-  headline: Jobless-benefit filings edge higher while layoffs stay low
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7767
-- slug: 2026-06-05-u-s-adds-172-000-jobs-in-may-unemployment-holds-at-4-3
-  headline: U.S. adds 172,000 jobs in May; unemployment holds at 4.3%
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.786
-- slug: 2026-01-07-job-openings-near-5-year-low-in-november-as-low-hire-low-fire-market-persists
-  headline: Job openings near 5-year low in November as low-hire, low-fire market persists
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.802
-- slug: 2026-06-05-u-s-adds-172-000-jobs-in-may-broader-underemployment-holds-at-8-2
-  headline: U.S. adds 172,000 jobs in May; broader underemployment holds at 8.2%
-  publish_date: '2026-06-05T00:00:00Z'
-  relation: related
-  strength: 0.762
-- slug: 2026-05-10-u-s-hiring-beats-forecasts-in-april-as-job-market-holds-steady-amid-iran-war
-  headline: U.S. hiring beats forecasts in April as job market holds steady amid Iran war
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7668
-- slug: 2026-05-10-u-s-employers-add-115-000-jobs-in-april-far-surpassing-forecasts-despite-iran-wa
-  headline: U.S. employers add 115,000 jobs in April, far surpassing forecasts despite Iran war
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7649
-- slug: 2026-05-10-us-companies-keep-adding-jobs-despite-iran-war-shock-report-shows
-  headline: US companies keep adding jobs despite Iran-war shock, report shows
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7636
-- slug: 2026-04-04-surprise-jobs-rebound-lifts-us-employment-unemployment-dips-to-4-3
-  headline: Surprise jobs rebound lifts US employment; unemployment dips to 4.3%
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7721
-- slug: 2026-01-09-u-s-adds-50-000-jobs-in-december-2025-posts-weakest-hiring-since-pandemic
-  headline: U.S. adds 50,000 jobs in December; 2025 posts weakest hiring since pandemic
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.7793
-- slug: 2026-06-02-u-s-job-openings-hit-two-year-high-at-7-6-million-in-april
-  headline: U.S. job openings hit two-year high at 7.6 million in April
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.745
+  strength: 0.8024
 ---
-
 ## US employers add 165,000 jobs in October as unemployment rate slips to 4.1%
 
 **Subtype:** fact

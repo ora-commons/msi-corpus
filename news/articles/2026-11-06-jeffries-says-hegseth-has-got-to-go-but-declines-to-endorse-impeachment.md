@@ -1,9 +1,17 @@
 ---
 headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
-secondary_headline: Democrats could pass a war powers resolution but lack veto-proof majorities
+secondary_headline: Democrats could pass a war powers resolution but lack veto-proof
+  majorities
 publish_date: '2026-11-06'
-lede: House Minority Leader Hakeem Jeffries said Friday that Democrats will push to end the war in Iran and hold Trump administration officials accountable after the party's midterm victories, but stopped short of backing impeachment proceedings against Defense Secretary Pete Hegseth. Jeffries, the New York Democrat poised to become the next Speaker of the House, said Hegseth has got to go.
-nut_graf: The interview laid out both the agenda and the constraints awaiting the incoming Democratic majority. Jeffries said Democrats could pass a war powers resolution to try to force President Trump to end the war, but overriding a veto would require two-thirds majorities in both chambers — margins the party lacks as of now.
+lede: House Minority Leader Hakeem Jeffries said Friday that Democrats will push to
+  end the war in Iran and hold Trump administration officials accountable after the
+  party's midterm victories, but stopped short of backing impeachment proceedings
+  against Defense Secretary Pete Hegseth. Jeffries, the New York Democrat poised to
+  become the next Speaker of the House, said Hegseth has got to go.
+nut_graf: The interview laid out both the agenda and the constraints awaiting the
+  incoming Democratic majority. Jeffries said Democrats could pass a war powers resolution
+  to try to force President Trump to end the war, but overriding a veto would require
+  two-thirds majorities in both chambers — margins the party lacks as of now.
 primary_entities:
 - Hakeem Jeffries
 - Pete Hegseth
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,19 +154,21 @@ related_stories:
   headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7695
+  strength: 0.7688
 - slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
+  headline: White House denies shakeup talk as Trump defends Hegseth after midterm
+    losses
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7493
+  strength: 0.7482
 - slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
   headline: House could vote to impeach Hegseth when lawmakers return to Washington
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7469
+  strength: 0.7463
 - slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
+  headline: Democrats take control of Congress, seek leverage over Trump’s foreign
+    policy
   publish_date: '2026-11-05'
   relation: related
   strength: 0.7395
@@ -165,84 +176,24 @@ related_stories:
   headline: Democrats take Congress, gaining leverage over probes and appointments
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7449
+  strength: 0.7444
 - slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
   headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8153
+  strength: 0.8147
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7381
+  strength: 0.7374
 - slug: 2026-11-04-hakeem-jeffries-expected-to-win-historic-house-speakership
   headline: Hakeem Jeffries expected to win historic House speakership
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7282
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7226
-- slug: 2026-11-04-jd-vance-blames-iran-war-for-republican-midterm-losses
-  headline: JD Vance blames Iran war for Republican midterm losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.72
-- slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7305
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8007
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7667
-- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
-  headline: Massie files articles of impeachment against Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7295
-- slug: 2026-09-03-jeffries-previews-democratic-agenda-for-potential-house-majority
-  headline: Jeffries previews Democratic agenda for potential House majority
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7089
-- slug: 2026-08-13-jeffries-says-democrats-would-overhaul-supreme-court-if-they-regain-power
-  headline: Jeffries says Democrats would overhaul Supreme Court if they regain power
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7257
-- slug: 2026-08-13-gop-senators-criticize-hegseth-for-excluding-democrats-from-defense-briefings
-  headline: GOP senators criticize Hegseth for excluding Democrats from defense briefings
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7154
-- slug: 2026-07-27-jeffries-faults-republican-record-on-affordability-and-war-as-midterm-pitch
-  headline: Jeffries faults Republican record on affordability and war as midterm pitch
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7356
-- slug: 2026-04-11-democrats-push-congress-to-rein-in-trump-after-iran-threat
-  headline: Democrats push Congress to rein in Trump after Iran threat
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7396
-- slug: 2026-04-10-democrats-weigh-removing-trump-after-iran-threat-and-seize-war-power-push
-  headline: Democrats weigh removing Trump after Iran threat and seize war-power push
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7269
+  strength: 0.7277
 ---
-
 ## Jeffries says Hegseth has got to go but declines to endorse impeachment
 
 **Subtype:** fact

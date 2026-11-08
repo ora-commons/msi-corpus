@@ -1,9 +1,19 @@
 ---
 headline: Nasdaq opens higher after rout erased trillions in tech stock value
-secondary_headline: October payrolls top forecasts at 165,000 as unemployment edges down to 4.1%
+secondary_headline: October payrolls top forecasts at 165,000 as unemployment edges
+  down to 4.1%
 publish_date: '2026-11-06'
-lede: Shares in artificial intelligence and technology firms climbed on Friday after a sell-off on Thursday wiped trillions of dollars from stock values, with the tech-heavy Nasdaq Composite opening 1.23% higher as it reversed part of a 5.5% one-day fall. The rebound came as investors weighed unexpectedly strong US jobs figures against concerns that the Democratic sweep in the midterm elections could slow AI development.
-nut_graf: The swings come amid broader concerns over whether the enormous amounts of money being spent on AI will pay off. Democrats campaigned on new rules and regulations for artificial intelligence and data centers before winning control of both houses of Congress and key contests in states that have been part of the AI data-center race, while Friday's employment report pointed to an economy adding workers faster than analysts had expected.
+lede: Shares in artificial intelligence and technology firms climbed on Friday after
+  a sell-off on Thursday wiped trillions of dollars from stock values, with the tech-heavy
+  Nasdaq Composite opening 1.23% higher as it reversed part of a 5.5% one-day fall.
+  The rebound came as investors weighed unexpectedly strong US jobs figures against
+  concerns that the Democratic sweep in the midterm elections could slow AI development.
+nut_graf: The swings come amid broader concerns over whether the enormous amounts
+  of money being spent on AI will pay off. Democrats campaigned on new rules and regulations
+  for artificial intelligence and data centers before winning control of both houses
+  of Congress and key contests in states that have been part of the AI data-center
+  race, while Friday's employment report pointed to an economy adding workers faster
+  than analysts had expected.
 primary_entities:
 - Nasdaq Composite
 - S&P 500
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,12 +75,16 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-11-06'
-  caption: The Nasdaq Composite stood at 24,315.0 as of Nov. 6, 2026, per the St. Louis Fed's FRED database, after the tech-heavy index fell 5.5% on Thursday and opened Friday higher (fred.stlouisfed.org/series/NASDAQCOM).
+  caption: The Nasdaq Composite stood at 24,315.0 as of Nov. 6, 2026, per the St.
+    Louis Fed's FRED database, after the tech-heavy index fell 5.5% on Thursday and
+    opened Friday higher (fred.stlouisfed.org/series/NASDAQCOM).
 - source: fred
   series_id: DJIA
   transformation: raw
   as_of: '2026-11-06'
-  caption: The Dow Jones Industrial Average stood at 51,523.06 as of Nov. 6, 2026, per the St. Louis Fed's FRED database; the blue-chip index opened a little lower on Friday (fred.stlouisfed.org/series/DJIA).
+  caption: The Dow Jones Industrial Average stood at 51,523.06 as of Nov. 6, 2026,
+    per the St. Louis Fed's FRED database; the blue-chip index opened a little lower
+    on Friday (fred.stlouisfed.org/series/DJIA).
 figures_aggregate:
   count: 2
   series_ids:
@@ -164,22 +179,23 @@ related_stories:
   headline: U.S. stocks rise as election swings AI, defense and energy shares
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.806
+  strength: 0.8064
 - slug: 2026-11-05-tech-stocks-lose-more-than-2-trillion-on-fears-of-ai-regulation-after-midterms
-  headline: Tech stocks lose more than $2 trillion on fears of AI regulation after midterms
+  headline: Tech stocks lose more than $2 trillion on fears of AI regulation after
+    midterms
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7942
+  strength: 0.7946
 - slug: 2026-11-05-nasdaq-drops-as-much-as-5-amid-ai-spending-and-regulation-fears
   headline: Nasdaq drops as much as 5% amid AI spending and regulation fears
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7907
+  strength: 0.791
 - slug: 2026-11-06-global-stocks-sink-as-ai-slowdown-fears-follow-democrats-midterm-victory
   headline: Global stocks sink as AI slowdown fears follow Democrats' midterm victory
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7434
+  strength: 0.7435
 - slug: 2026-10-30-nasdaq-loses-nearly-1tn-in-a-week-as-worries-over-ai-returns-grow
   headline: Nasdaq loses nearly $1tn in a week as worries over AI returns grow
   publish_date: '2026-10-30'
@@ -194,74 +210,14 @@ related_stories:
   headline: Nvidia advances 2.4% as Asian indexes diverge
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7542
+  strength: 0.7543
 - slug: 2026-10-21-tech-shares-rise-musk-reported-spacex-profit-anthropic-revenue-nvidia-keynote
-  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia keynote'
+  headline: 'Tech shares rise: Musk-reported SpaceX profit, Anthropic revenue, Nvidia
+    keynote'
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7823
-- slug: 2026-10-21-wall-street-advances-as-spacex-beats-summer-profit-expectations
-  headline: Wall Street advances as SpaceX beats summer profit expectations
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7407
-- slug: 2026-10-20-strong-profit-reports-lift-u-s-stocks-as-oil-prices-ease
-  headline: Strong profit reports lift U.S. stocks as oil prices ease
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7401
-- slug: 2026-07-31-amazon-surge-lifts-s-p-500-as-apple-drop-and-oil-concerns-weigh
-  headline: Amazon surge lifts S&P 500 as Apple drop and oil concerns weigh
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7415
-- slug: 2026-02-26-tech-stocks-lift-wall-street-nvidia-shares-rise-ahead-of-results
-  headline: Tech stocks lift Wall Street; Nvidia shares rise ahead of results
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.8119
-- slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
-  headline: Tech shares tumble as AI rally doubts grip Wall Street
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7732
-- slug: 2026-06-05-nasdaq-tumbles-4-2-as-strong-jobs-data-ai-spending-fears-hit-chip-stocks
-  headline: Nasdaq tumbles 4.2% as strong jobs data, AI spending fears hit chip stocks
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7695
-- slug: 2026-02-19-nvidia-boosts-stocks-as-meta-deal-lifts-s-p-500-and-nasdaq
-  headline: Nvidia boosts stocks as Meta deal lifts S&P 500 and Nasdaq
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7947
-- slug: 2026-06-08-chip-stocks-lead-wall-street-rebound-after-friday-s-selloff
-  headline: Chip Stocks Lead Wall Street Rebound After Friday's Selloff
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7647
-- slug: 2026-02-25-u-s-stocks-rebound-after-ai-deal-optimism-offsets-earlier-selloff
-  headline: U.S. stocks rebound after AI deal optimism offsets earlier selloff
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7927
-- slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7735
-- slug: 2026-05-14-tech-rally-lifts-wall-street-to-records-as-oil-inflation-pressure
-  headline: Tech rally lifts Wall Street to records as oil, inflation pressure
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7511
-- slug: 2026-02-18-us-stocks-edge-higher-after-swinging-through-worries-about-ai-and-the-economy
-  headline: US stocks edge higher after swinging through worries about AI and the economy
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.768
+  strength: 0.7827
 ---
-
 ## Nasdaq opens higher after rout erased trillions in tech stock value
 
 **Subtype:** fact

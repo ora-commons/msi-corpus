@@ -2,8 +2,16 @@
 headline: US employers add 165,000 jobs in October as unemployment dips to 4.1%
 secondary_headline: Average pay rose 3.1% over the year while inflation ran at 3.7%
 publish_date: '2026-11-06'
-lede: U.S. employers added 165,000 jobs in October and the unemployment rate slipped to 4.1% from 4.2%, according to the Labor Department's monthly report released Friday. The department also revised up hiring for August and September by a combined 84,000 jobs.
-nut_graf: 'The hiring acceleration lands while pay still trails prices: average wages rose 3.1% over the year in October against inflation of 3.7% in September, and the cost of living has outpaced wage growth for much of the year, since the war with Iran triggered a sharp jump in energy prices. Voter frustration with high prices was a big factor in the midterm elections, which cost Republicans their majorities in both the House and Senate.'
+lede: U.S. employers added 165,000 jobs in October and the unemployment rate slipped
+  to 4.1% from 4.2%, according to the Labor Department's monthly report released Friday.
+  The department also revised up hiring for August and September by a combined 84,000
+  jobs.
+nut_graf: 'The hiring acceleration lands while pay still trails prices: average wages
+  rose 3.1% over the year in October against inflation of 3.7% in September, and the
+  cost of living has outpaced wage growth for much of the year, since the war with
+  Iran triggered a sharp jump in energy prices. Voter frustration with high prices
+  was a big factor in the midterm elections, which cost Republicans their majorities
+  in both the House and Senate.'
 primary_entities:
 - U.S. Department of Labor
 - Federal Reserve
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,7 +63,10 @@ figures:
   series_id: UNRATE
   transformation: raw
   as_of: '2026-11-06'
-  caption: The official U.S. unemployment rate (U-3) as tracked in the St. Louis Fed's FRED database, most recently 4.2% as of Nov. 6, 2026 — the September reading. The Labor Department's October jobs report, released the same day, put the rate at 4.1%.
+  caption: The official U.S. unemployment rate (U-3) as tracked in the St. Louis Fed's
+    FRED database, most recently 4.2% as of Nov. 6, 2026 — the September reading.
+    The Labor Department's October jobs report, released the same day, put the rate
+    at 4.1%.
 figures_aggregate:
   count: 1
   series_ids:
@@ -144,8 +156,15 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-06-us-employers-add-165-000-jobs-in-october-as-unemployment-rate-slips-to-4-1
+  headline: US employers add 165,000 jobs in October as unemployment rate slips to
+    4.1%
+  publish_date: '2026-11-06'
+  relation: related
+  strength: 0.9285
 - slug: 2026-11-06-us-employers-expected-to-add-65-000-jobs-in-october-as-inflation-erodes-pay
-  headline: US employers expected to add 65,000 jobs in October as inflation erodes pay
+  headline: US employers expected to add 65,000 jobs in October as inflation erodes
+    pay
   publish_date: '2026-11-06'
   relation: related
   strength: 0.8801
@@ -160,7 +179,8 @@ related_stories:
   relation: related
   strength: 0.7511
 - slug: 2026-10-31-jobs-data-surveys-and-earnings-reports-fill-the-calendar-around-election-day
-  headline: Jobs data, surveys and earnings reports fill the calendar around Election Day
+  headline: Jobs data, surveys and earnings reports fill the calendar around Election
+    Day
   publish_date: '2026-10-31'
   relation: related
   strength: 0.7463
@@ -179,73 +199,7 @@ related_stories:
   publish_date: '2026-10-11'
   relation: related
   strength: 0.7469
-- slug: 2026-10-02-mortgage-rates-climb-to-7-28-in-largest-weekly-jump-since-2022
-  headline: Mortgage rates climb to 7.28% in largest weekly jump since 2022
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7572
-- slug: 2026-09-05-us-employers-add-162-000-jobs-in-august-beating-forecasts
-  headline: US employers add 162,000 jobs in August, beating forecasts
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.8185
-- slug: 2026-09-04-u-s-employers-are-expected-to-add-65-000-jobs-in-august
-  headline: U.S. employers are expected to add 65,000 jobs in August
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.7459
-- slug: 2026-08-06-jobless-benefit-filings-edge-higher-while-layoffs-stay-low
-  headline: Jobless-benefit filings edge higher while layoffs stay low
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.777
-- slug: 2026-06-05-u-s-adds-172-000-jobs-in-may-unemployment-holds-at-4-3
-  headline: U.S. adds 172,000 jobs in May; unemployment holds at 4.3%
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7912
-- slug: 2026-04-04-surprise-jobs-rebound-lifts-us-employment-unemployment-dips-to-4-3
-  headline: Surprise jobs rebound lifts US employment; unemployment dips to 4.3%
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7903
-- slug: 2026-05-10-u-s-hiring-beats-forecasts-in-april-as-job-market-holds-steady-amid-iran-war
-  headline: U.S. hiring beats forecasts in April as job market holds steady amid Iran war
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7802
-- slug: 2026-05-10-us-companies-keep-adding-jobs-despite-iran-war-shock-report-shows
-  headline: US companies keep adding jobs despite Iran-war shock, report shows
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7678
-- slug: 2026-05-10-u-s-employers-add-115-000-jobs-in-april-far-surpassing-forecasts-despite-iran-wa
-  headline: U.S. employers add 115,000 jobs in April, far surpassing forecasts despite Iran war
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7666
-- slug: 2026-05-10-jobs-unemployment-stay-low-as-mortgage-rates-rise-amid-iran-war
-  headline: Jobs, unemployment stay low as mortgage rates rise amid Iran war
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7616
-- slug: 2026-06-05-u-s-adds-172-000-jobs-in-may-broader-underemployment-holds-at-8-2
-  headline: U.S. adds 172,000 jobs in May; broader underemployment holds at 8.2%
-  publish_date: '2026-06-05T00:00:00Z'
-  relation: related
-  strength: 0.7491
-- slug: 2026-01-07-job-openings-near-5-year-low-in-november-as-low-hire-low-fire-market-persists
-  headline: Job openings near 5-year low in November as low-hire, low-fire market persists
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7688
-- slug: 2026-03-05-us-job-market-sheds-92-000-jobs-in-february-as-unemployment-rises-to-4-4
-  headline: US job market sheds 92,000 jobs in February as unemployment rises to 4.4%
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7511
 ---
-
 ## US employers add 165,000 jobs in October as unemployment dips to 4.1%
 
 **Subtype:** fact

@@ -1,9 +1,22 @@
 ---
 headline: Experts warn AI will hand hackers a lopsided advantage over defenders
-secondary_headline: China blocks SoftBank's $5.4 billion acquisition of ABB's robotics unit
+secondary_headline: China blocks SoftBank's $5.4 billion acquisition of ABB's robotics
+  unit
 publish_date: '2026-11-06'
-lede: Security experts have warned for years that companies will face a "brutal reckoning" once artificial intelligence hands hackers a "lopsided advantage" over corporate defenders, according to The Wall Street Journal's Morning Risk Report. The same roundup reported that China blocked SoftBank's $5.4 billion acquisition of ABB's robotics unit, that the Federal Trade Commission and 22 states updated their Amazon complaint with allegations about its online search advertising auction, and that Wall Street's self-regulator fined the trading platform Webull $4.2 million. It also documented a second day this week of suspected hoax bomb threats disrupting passenger flights across Europe.
-nut_graf: 'The developments gathered in Friday''s Morning Risk Report span cybersecurity, advertising, trading, cross-border dealmaking and aviation security: new U.S. allegations against Amazon and Webull, a Chinese block on a $5.4 billion robotics acquisition, disrupted European air travel, and security experts'' long-running warning that artificial intelligence will hand hackers a lopsided advantage over corporate defenders.'
+lede: Security experts have warned for years that companies will face a "brutal reckoning"
+  once artificial intelligence hands hackers a "lopsided advantage" over corporate
+  defenders, according to The Wall Street Journal's Morning Risk Report. The same
+  roundup reported that China blocked SoftBank's $5.4 billion acquisition of ABB's
+  robotics unit, that the Federal Trade Commission and 22 states updated their Amazon
+  complaint with allegations about its online search advertising auction, and that
+  Wall Street's self-regulator fined the trading platform Webull $4.2 million. It
+  also documented a second day this week of suspected hoax bomb threats disrupting
+  passenger flights across Europe.
+nut_graf: 'The developments gathered in Friday''s Morning Risk Report span cybersecurity,
+  advertising, trading, cross-border dealmaking and aviation security: new U.S. allegations
+  against Amazon and Webull, a Chinese block on a $5.4 billion robotics acquisition,
+  disrupted European air travel, and security experts'' long-running warning that
+  artificial intelligence will hand hackers a lopsided advantage over corporate defenders.'
 primary_entities:
 - Federal Trade Commission
 - Amazon
@@ -47,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +163,45 @@ related_stories:
   headline: Tech companies face deepfake scrutiny as midterms approach
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7151
+  strength: 0.7158
 - slug: 2026-10-27-weak-profits-and-u-s-technology-restrictions-weigh-on-chinese-stocks
   headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6762
+  strength: 0.6751
 - slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
+  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global
+    risks
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6778
+  strength: 0.6771
 - slug: 2026-10-22-php-security-issue-and-witkoff-s-putin-remarks-lead-a-risk-roundup
   headline: PHP security issue and Witkoff's Putin remarks lead a risk roundup
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6596
+  strength: 0.6597
 - slug: 2026-10-16-ai-safety-incidents-expose-insurance-gap-in-fast-growing-industry
   headline: AI safety incidents expose insurance gap in fast-growing industry
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.6875
+  strength: 0.6881
 - slug: 2026-10-19-anthropic-and-openai-claim-deepseek-copied-their-ai-models
   headline: Anthropic and OpenAI claim DeepSeek copied their AI models
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6692
+  strength: 0.6682
 - slug: 2026-10-15-trump-appointed-regulator-banks-cut-off-trump-sellers-democrats-firearms-firm
-  headline: 'Trump-appointed regulator: Banks cut off Trump sellers, Democrats, firearms firm'
+  headline: 'Trump-appointed regulator: Banks cut off Trump sellers, Democrats, firearms
+    firm'
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6589
+  strength: 0.6581
 - slug: 2026-10-13-imf-warns-ai-share-crash-could-threaten-global-financial-stability
   headline: IMF warns AI share crash could threaten global financial stability
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6584
-- slug: 2026-10-05-federal-prosecutors-charge-california-man-in-300m-ai-server-export-to-china
-  headline: Federal prosecutors charge California man in $300M AI server export to China
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6835
-- slug: 2026-09-28-gates-warns-ai-regulation-needed-to-prevent-billion-deaths
-  headline: Gates warns AI regulation needed to prevent 'billion deaths'
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6639
-- slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
-  headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.672
-- slug: 2026-09-14-dozens-of-lawmakers-push-new-ai-regulation-proposals
-  headline: Dozens of lawmakers push new AI regulation proposals
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6884
-- slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
-  headline: Trump, Xi set to discuss AI as both reject slowdown
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6618
-- slug: 2026-09-18-sec-exempts-trading-venues-from-rules-blocking-tokenized-stocks
-  headline: SEC exempts trading venues from rules blocking tokenized stocks
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6745
-- slug: 2026-09-22-british-columbia-sues-openai-over-tumbler-ridge-school-shooting
-  headline: British Columbia sues OpenAI over Tumbler Ridge school shooting
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6605
-- slug: 2026-09-15-wall-street-buys-ai-hyperscalers-despite-executives-slowdown-calls
-  headline: Wall Street buys AI hyperscalers despite executives' slowdown calls
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.682
-- slug: 2026-09-19-uk-joint-committee-on-human-rights-proposes-new-ai-bill-to-address-threats
-  headline: UK Joint Committee on Human Rights proposes new AI bill to address threats
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.662
-- slug: 2026-09-14-china-updates-ai-safety-framework-cites-deception-and-autonomy-risks
-  headline: China updates AI safety framework, cites deception and autonomy risks
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6767
-- slug: 2026-09-14-trump-calls-ai-safety-concerns-a-hoax-warns-regulation-would-aid-china
-  headline: Trump calls AI safety concerns a hoax, warns regulation would aid China
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.674
-- slug: 2026-09-04-doj-urges-whistleblowers-to-report-federal-contractor-cyber-fraud
-  headline: DOJ urges whistleblowers to report federal contractor cyber fraud
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6616
+  strength: 0.6586
 ---
-
 ## Experts warn AI will hand hackers a lopsided advantage over defenders
 
 **Subtype:** fact
