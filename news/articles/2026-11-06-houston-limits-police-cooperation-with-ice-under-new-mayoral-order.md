@@ -1,9 +1,19 @@
 ---
 headline: Houston limits police cooperation with ICE under new mayoral order
-secondary_headline: Directive limits ICE contact to jailable arrests and administrative warrants
+secondary_headline: Directive limits ICE contact to jailable arrests and administrative
+  warrants
 publish_date: '2026-11-06'
-lede: Houston Mayor John Whitmire said Friday the city will limit its police department's cooperation with federal immigration authorities, describing the change as "a new model" of enforcement. The two-page mayoral order directs Houston police to contact Immigration and Customs Enforcement only in two narrow circumstances, and bars immigration status alone from justifying a call to the agency.
-nut_graf: The directive from the nation's fourth-largest city is one of the first moves to curb ICE's powers since Tuesday's midterm elections, in which Democrat Gina Hinojosa defeated Governor Greg Abbott and Democrats won power in Texas for the first time in decades. ICE relies heavily on local police to find people subject to deportation, holding about 2,600 agreements with state and local agencies, many of them in Texas.
+lede: Houston Mayor John Whitmire said Friday the city will limit its police department's
+  cooperation with federal immigration authorities, describing the change as "a new
+  model" of enforcement. The two-page mayoral order directs Houston police to contact
+  Immigration and Customs Enforcement only in two narrow circumstances, and bars immigration
+  status alone from justifying a call to the agency.
+nut_graf: The directive from the nation's fourth-largest city is one of the first
+  moves to curb ICE's powers since Tuesday's midterm elections, in which Democrat
+  Gina Hinojosa defeated Governor Greg Abbott and Democrats won power in Texas for
+  the first time in decades. ICE relies heavily on local police to find people subject
+  to deportation, holding about 2,600 agreements with state and local agencies, many
+  of them in Texas.
 primary_entities:
 - Houston
 - John Whitmire
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,17 +158,18 @@ related_stories:
   headline: Houston limits cooperation with ICE after Democrats win power in Texas
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8746
+  strength: 0.8768
 - slug: 2026-10-31-indicted-ice-agent-in-houston-vehicle-strike-will-turn-himself-in-monday
   headline: Indicted ICE agent in Houston vehicle strike will turn himself in Monday
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6911
+  strength: 0.6902
 - slug: 2026-10-30-warrant-pending-for-indicted-ice-officer-in-houston-vehicle-strike-da-says
-  headline: Warrant pending for indicted ICE officer in Houston vehicle strike, DA says
+  headline: Warrant pending for indicted ICE officer in Houston vehicle strike, DA
+    says
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6801
+  strength: 0.6799
 - slug: 2026-10-30-harris-county-da-charges-ice-officer-with-aggravated-assault-in-houston
   headline: Harris County DA charges ICE officer with aggravated assault in Houston
   publish_date: '2026-10-30'
@@ -167,84 +179,23 @@ related_stories:
   headline: Harris County DA says indicted ICE officer faces two to 20 years in prison
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6689
-- slug: 2026-09-21-doj-brings-rare-charge-against-ice-agent-for-lying-about-minnesota-shooting
-  headline: DOJ brings rare charge against ICE agent for lying about Minnesota shooting
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6663
+  strength: 0.669
 - slug: 2026-09-20-ice-summer-enforcement-tops-50-000-monthly-arrests-amid-string-of-shootings
   headline: ICE summer enforcement tops 50,000 monthly arrests amid string of shootings
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6694
-- slug: 2026-08-25-judge-orders-release-of-second-witness-in-fatal-houston-ice-shooting
-  headline: Judge orders release of second witness in fatal Houston ICE shooting
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6803
+  strength: 0.668
 - slug: 2026-04-22-houston-amends-ice-cooperation-ordinance-after-abbott-threatens-funding
   headline: Houston amends ICE cooperation ordinance after Abbott threatens funding
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.7898
-- slug: 2026-04-23-houston-amends-ordinance-limiting-ice-cooperation-after-abbott-funding-threat
-  headline: Houston amends ordinance limiting ICE cooperation after Abbott funding threat
-  publish_date: '2026-04-23'
+  strength: 0.7901
+- slug: 2026-08-25-judge-orders-release-of-second-witness-in-fatal-houston-ice-shooting
+  headline: Judge orders release of second witness in fatal Houston ICE shooting
+  publish_date: '2026-08-25'
   relation: related
-  strength: 0.7839
-- slug: 2026-07-08-ice-officer-fatally-shoots-mexican-immigrant-in-houston-dhs-says
-  headline: ICE officer fatally shoots Mexican immigrant in Houston, DHS says
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7325
-- slug: 2026-07-18-u-s-attorney-says-ice-agents-were-seeking-other-men-in-fatal-houston-shooting
-  headline: U.S. attorney says ICE agents were seeking other men in fatal Houston shooting
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.7216
-- slug: 2026-07-10-ice-agents-who-killed-houston-man-were-seeking-other-people-dhs-says
-  headline: ICE agents who killed Houston man were seeking other people, DHS says
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.7278
-- slug: 2026-07-07-ice-agent-fatally-shoots-motorist-in-houston-during-enforcement-operation
-  headline: ICE agent fatally shoots motorist in Houston during enforcement operation
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.7282
-- slug: 2026-07-15-mexico-requests-us-criminal-investigations-after-17-mexican-immigrants-die-in-ic
-  headline: Mexico requests US criminal investigations after 17 Mexican immigrants die in ICE custody
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.707
-- slug: 2026-07-21-judge-blocks-deportation-of-witness-in-fatal-houston-ice-shooting
-  headline: Judge blocks deportation of witness in fatal Houston ICE shooting
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6839
-- slug: 2026-07-29-federal-judge-frees-witness-detained-after-fatal-houston-ice-shooting
-  headline: Federal judge frees witness detained after fatal Houston ICE shooting
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6704
-- slug: 2026-07-19-houston-s-east-end-rallies-in-grief-and-defiance-after-ice-killing
-  headline: Houston's East End rallies in grief and defiance after ICE killing
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6821
-- slug: 2026-07-13-sheinbaum-orders-criminal-complaints-after-17-mexicans-die-in-ice-custody
-  headline: Sheinbaum orders criminal complaints after 17 Mexicans die in ICE custody
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6865
-- slug: 2026-07-14-ice-halts-traffic-stops-after-two-fatal-shootings-in-less-than-a-week
-  headline: ICE halts traffic stops after two fatal shootings in less than a week
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6829
+  strength: 0.6777
 ---
-
 ## Houston limits police cooperation with ICE under new mayoral order
 
 **Subtype:** fact

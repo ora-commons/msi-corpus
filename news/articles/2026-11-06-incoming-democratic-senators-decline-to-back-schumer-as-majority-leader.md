@@ -2,8 +2,15 @@
 headline: Incoming Democratic senators decline to back Schumer as majority leader
 secondary_headline: Schumer says he will be re-elected; no rival has formally entered
 publish_date: '2026-11-06'
-lede: Incoming Democratic senators-elect are declining to commit to Chuck Schumer as their next Senate majority leader, saying the party needs new leadership, even as Schumer said this week he will be re-elected to the post. The objections were voiced in television interviews as Democrats prepared to enter a new Congress with a comfortable majority in both the House and Senate.
-nut_graf: Schumer has led Senate Democrats since 2017 and as of Friday afternoon faced no declared rival, but the incoming class's reluctance to endorse him shows how far the party's post-election appetite for generational change has reached into its own freshman ranks.
+lede: Incoming Democratic senators-elect are declining to commit to Chuck Schumer
+  as their next Senate majority leader, saying the party needs new leadership, even
+  as Schumer said this week he will be re-elected to the post. The objections were
+  voiced in television interviews as Democrats prepared to enter a new Congress with
+  a comfortable majority in both the House and Senate.
+nut_graf: Schumer has led Senate Democrats since 2017 and as of Friday afternoon faced
+  no declared rival, but the incoming class's reluctance to endorse him shows how
+  far the party's post-election appetite for generational change has reached into
+  its own freshman ranks.
 primary_entities:
 - Chuck Schumer
 - Annie Andrews
@@ -49,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,107 +156,51 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
+  headline: Schumer expects re-election as Senate Democrats' leader after midterm
+    wins
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7898
+  strength: 0.7903
 - slug: 2026-11-05-schumer-vows-democrats-will-not-confirm-a-right-winger-to-the-supreme-court
-  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme Court
+  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme
+    Court
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7637
+  strength: 0.7641
 - slug: 2026-11-04-schumer-says-days-of-trump-s-supplicant-senate-are-over-vows-to-cut-costs
-  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut costs
+  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut
+    costs
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7297
+  strength: 0.73
 - slug: 2026-11-06-schumer-says-democrats-will-block-any-rightwinger-trump-puts-forward-for-the-sup
-  headline: Schumer says Democrats will block any rightwinger Trump puts forward for the Supreme Court
+  headline: Schumer says Democrats will block any rightwinger Trump puts forward for
+    the Supreme Court
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6976
+  strength: 0.6981
 - slug: 2026-11-06-incoming-democratic-senators-talarico-and-hamilton-call-for-cooler-politics
   headline: Incoming Democratic senators Talarico and Hamilton call for cooler politics
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6515
+  strength: 0.651
 - slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
   headline: Democrats win Senate majority, adding checks on Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6653
-- slug: 2026-11-05-democrats-largest-majority-in-decades-leaves-party-s-future-fight-unresolved
-  headline: Democrats' largest majority in decades leaves party's future fight unresolved
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.643
-- slug: 2026-11-04-democrats-flip-a-senate-seat-and-a-house-seat-in-early-returns
-  headline: Democrats flip a Senate seat and a House seat in early returns
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6447
-- slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
-  headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6333
-- slug: 2026-11-02-democrats-dispute-senate-campaign-spending-as-2028-positioning-takes-shape
-  headline: Democrats dispute Senate campaign spending as 2028 positioning takes shape
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6488
-- slug: 2026-11-04-democrats-set-post-election-priorities-on-affordability-and-accountability
-  headline: Democrats set post-election priorities on affordability and accountability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6343
-- slug: 2026-11-03-adam-hamilton-wins-kansas-senate-seat-first-for-a-democrat-since-1932
-  headline: Adam Hamilton wins Kansas Senate seat, first for a Democrat since 1932
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6325
+  strength: 0.6655
 - slug: 2026-10-30-hamilton-faces-marshall-as-kansas-democrats-seek-first-senate-win-since-1932
-  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since 1932
+  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since
+    1932
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6541
+  strength: 0.6543
 - slug: 2026-09-22-ocasio-cortez-leaves-2028-challenge-to-schumer-unresolved
   headline: Ocasio-Cortez leaves 2028 challenge to Schumer unresolved
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6913
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6554
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6905
-- slug: 2026-08-25-democrat-adam-hamilton-targets-roger-marshall-in-kansas-senate-race
-  headline: Democrat Adam Hamilton targets Roger Marshall in Kansas Senate race
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6616
-- slug: 2026-08-28-senate-democratic-task-force-catalogs-100-midterm-election-threats
-  headline: Senate Democratic task force catalogs 100 midterm election threats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6428
-- slug: 2026-04-01-democrats-clash-internally-over-strategy-to-win-back-the-senate
-  headline: Democrats clash internally over strategy to win back the Senate
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.734
-- slug: 2026-07-20-solomon-urges-democrats-to-reject-leaders-israel-stance
-  headline: Solomon urges Democrats to reject leaders' Israel stance
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6469
+  strength: 0.6923
 ---
-
 ## Incoming Democratic senators decline to back Schumer as majority leader
 
 **Subtype:** fact
