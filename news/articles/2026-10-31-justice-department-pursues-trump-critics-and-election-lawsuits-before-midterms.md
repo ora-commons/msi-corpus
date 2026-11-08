@@ -32,7 +32,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- justice-department-actions-against-trump-critics
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -196,6 +197,7 @@ related_stories:
   relation: related
   strength: 0.7391
 ---
+
 ## Justice Department pursues Trump critics and election lawsuits before midterms
 
 **Subtype:** fact

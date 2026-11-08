@@ -40,7 +40,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- justice-department-actions-against-trump-critics
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.6985
 ---
+
 ## Justice Department escalates election-season cases as critics allege political timing
 
 **Subtype:** fact
