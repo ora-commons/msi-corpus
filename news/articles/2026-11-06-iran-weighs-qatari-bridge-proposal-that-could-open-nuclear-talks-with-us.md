@@ -207,6 +207,8 @@ related_stories:
   publish_date: '2026-09-23'
   relation: related
   strength: 0.7725
+analyses:
+- '2026-11-06-qatar-s-bridge-proposal-activates-third-side-roles-where-healer-and-arbiter-seat'
 ---
 ## Iran weighs Qatari bridge proposal that could open nuclear talks with US
 
@@ -252,3 +254,8 @@ Egyptian Foreign Minister Badr Abdelatty, who held two calls with Araghchi this 
 **Publication date:** 2026-11-06
 **Title:** Talks on Iran-US deadlock are inching forward, officials say
 **URL:** https://apnews.com/article/iran-war-nuclear-program-negotiations-trump-53ed5d271b9aef6f880aebc133ea6a55
+
+---
+
+<!-- analysis-link:2026-11-06-qatar-s-bridge-proposal-activates-third-side-roles-where-healer-and-arbiter-seat -->
+**Going deeper:** [Read MSI's analysis of Qatar's Iran-US bridge proposal →](/analyses/2026-11-06-qatar-s-bridge-proposal-activates-third-side-roles-where-healer-and-arbiter-seat)
