@@ -1,9 +1,25 @@
 ---
-headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief of staff
-secondary_headline: $70bn in enforcement funding through 2029 likely limits Democratic oversight
+headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief of
+  staff
+secondary_headline: $70bn in enforcement funding through 2029 likely limits Democratic
+  oversight
 publish_date: '2026-11-07'
-lede: Representative Robert Garcia, the California Democrat poised to lead the House oversight committee next year, said Stephen Miller "should lawyer up" and promised to investigate his role in the administration's mass deportation campaign, after President Donald Trump named Miller White House chief of staff on Friday. Senator Alex Padilla said that if Trump was doubling down, "so will we," promising to use "every tool at our disposal – oversight, investigations, subpoenas, and our leverage over federal funding." The vows came days after Tuesday's voting, in which voters rejected Republican candidates up and down the ballot and rebuked Trump and his mass deportation campaign — and against enforcement agencies holding $70bn in funding through 2029.
-nut_graf: The promised oversight sets Democratic control of Congress against an enforcement apparatus holding $70bn in funding through 2029, with Immigration and Customs Enforcement poised to massively expand its workforce and immigration arrests and detentions already at an all-time high. In the Guardian's assessment, Miller's elevation signals that the deportation machine Trump has built over the past two years will drive ahead at full speed rather than answer the voters' repudiation of the campaign.
+lede: Representative Robert Garcia, the California Democrat poised to lead the House
+  oversight committee next year, said Stephen Miller "should lawyer up" and promised
+  to investigate his role in the administration's mass deportation campaign, after
+  President Donald Trump named Miller White House chief of staff on Friday. Senator
+  Alex Padilla said that if Trump was doubling down, "so will we," promising to use
+  "every tool at our disposal – oversight, investigations, subpoenas, and our leverage
+  over federal funding." The vows came days after Tuesday's voting, in which voters
+  rejected Republican candidates up and down the ballot and rebuked Trump and his
+  mass deportation campaign — and against enforcement agencies holding $70bn in funding
+  through 2029.
+nut_graf: The promised oversight sets Democratic control of Congress against an enforcement
+  apparatus holding $70bn in funding through 2029, with Immigration and Customs Enforcement
+  poised to massively expand its workforce and immigration arrests and detentions
+  already at an all-time high. In the Guardian's assessment, Miller's elevation signals
+  that the deportation machine Trump has built over the past two years will drive
+  ahead at full speed rather than answer the voters' repudiation of the campaign.
 primary_entities:
 - Donald Trump
 - Stephen Miller
@@ -45,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +164,46 @@ related_stories:
   headline: Stephen Miller called man killed by immigration agents a 'domestic terrorist'
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7934
+  strength: 0.7942
 - slug: 2026-11-06-stephen-miller-built-hard-line-immigration-record-and-sweep-of-white-house-power
-  headline: Stephen Miller built hard-line immigration record and sweep of White House power
+  headline: Stephen Miller built hard-line immigration record and sweep of White House
+    power
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7459
+  strength: 0.7462
 - slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
+  headline: Miller's elevation is clearest signal yet Trump will double down, Journal
+    says
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7168
+  strength: 0.7163
 - slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7254
+  strength: 0.7269
 - slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
+  headline: White House chief of staff Susie Wiles resigns after Republican midterm
+    losses
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7024
-- slug: 2026-11-06-trump-names-stephen-miller-white-house-chief-of-staff
-  headline: Trump names Stephen Miller White House chief of staff
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7022
+  strength: 0.7016
 - slug: 2026-11-03-justice-department-sends-observers-as-watchdogs-prepare-poll-monitors
   headline: Justice Department sends observers as watchdogs prepare poll monitors
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7031
+  strength: 0.7054
 - slug: 2026-11-03-trump-pairs-5-000-pledge-with-national-mall-closing-argument
   headline: Trump pairs $5,000 pledge with National Mall closing argument
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7026
+  strength: 0.7047
 - slug: 2026-10-26-trump-administration-reshapes-us-immigration-enforcement-and-admissions
   headline: Trump administration reshapes US immigration enforcement and admissions
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7179
-- slug: 2026-10-12-partisan-clash-erupts-over-omar-home-search-ahead-of-midterms
-  headline: Partisan clash erupts over Omar home search ahead of midterms
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.698
-- slug: 2026-09-19-stephen-miller-leads-multi-agency-push-to-accelerate-migrant-child-removals
-  headline: Stephen Miller leads multi-agency push to accelerate migrant child removals
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7782
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7185
-- slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
-  headline: Trump grows frustrated with Homeland Security Secretary Mullin
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6995
-- slug: 2026-06-13-trump-signs-70b-immigration-enforcement-bill-into-law
-  headline: Trump signs $70B immigration enforcement bill into law
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7467
-- slug: 2026-03-15-trump-mass-deportations-at-crossroads-with-dhs-shake-up
-  headline: Trump mass deportations at crossroads with DHS shake-up
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.773
-- slug: 2026-03-16-trump-s-dhs-pick-mullin-poised-to-inherit-a-department-beset-by-challenges
-  headline: Trump’s DHS pick Mullin poised to inherit a department beset by challenges
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.7424
-- slug: 2026-04-28-house-advances-plan-to-fund-homeland-security-as-tsa-pay-nears-cutoff
-  headline: House advances plan to fund Homeland Security as TSA pay nears cutoff
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6998
-- slug: 2026-03-05-trump-fires-dhs-secretary-noem-nominates-sen-mullin-as-replacement
-  headline: Trump fires DHS Secretary Noem, nominates Sen. Mullin as replacement
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7071
-- slug: 2026-02-23-california-allocates-35-million-to-aid-immigrants-amid-trump-deportations
-  headline: California allocates $35 million to aid immigrants amid Trump deportations
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.7069
-- slug: 2026-01-20-trump-s-tax-and-spending-cuts-bill-pays-for-ice-expansion
-  headline: Trump’s tax and spending cuts bill pays for ICE expansion
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.7091
+  strength: 0.7198
 ---
-
 ## Democrats vow probes and subpoenas as Trump names Stephen Miller chief of staff
 
 **Subtype:** fact

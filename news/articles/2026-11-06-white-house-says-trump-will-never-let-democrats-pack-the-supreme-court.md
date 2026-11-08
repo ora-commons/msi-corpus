@@ -72,7 +72,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -252,3 +252,10 @@ The Democrats' sizable margins in the Senate also will hamper the Republicans' e
 **Publication date:** 2026-11-06
 **Title:** Democrats vow to stop any 'crappy nominees' Trump taps for federal judiciary
 **URL:** https://apnews.com/article/donald-trump-supreme-court-senate-chuck-schumer-08d26548196286e99f43b5e085f2d8ed
+
+### src_late_73230ba36a21089c — Associated Press, wire, Tier 1, originating
+**Author:** Seung Min Kim
+**Publication date:** 2026-11-06
+**Title:** Teniendo el control del Senado, demócratas podrán bloquear nominados de Trump a Corte Suprema
+**URL:** https://apnews.com/article/eeuu-elecciones-corte-suprema-trump-democratas-9ad36fcd70b6a1dd58b4f7ab46846da5
+**Added after publication:** true
