@@ -216,6 +216,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-06-draft-order-would-shift-nonprofit-terror-designations-from-sanctions-review-to-p'
 ---
 ## White House weighs order suspending nonprofits' tax exemption over terror ties
 
@@ -266,3 +268,8 @@ The potential Trump order stems from policies created after the Sept. 11, 2001, 
 **Publication date:** 2026-11-06
 **Title:** White House Weighs Executive Order Attaching Terrorist Label to Some Nonprofits
 **URL:** https://www.wsj.com/politics/policy/trump-executive-order-irs-nonprofit-status-bf7e1735
+
+---
+
+<!-- analysis-link:2026-11-06-draft-order-would-shift-nonprofit-terror-designations-from-sanctions-review-to-p -->
+**Going deeper:** [Read MSI's analysis of the nonprofit terror designation rerouting →](/analyses/2026-11-06-draft-order-would-shift-nonprofit-terror-designations-from-sanctions-review-to-p)

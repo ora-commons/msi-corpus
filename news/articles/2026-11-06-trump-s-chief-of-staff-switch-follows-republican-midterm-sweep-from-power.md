@@ -1,9 +1,19 @@
 ---
 headline: Trump's chief of staff switch follows Republican midterm sweep from power
-secondary_headline: Miller, considered an architect of Trump's immigration policies, takes over Monday
+secondary_headline: Miller, considered an architect of Trump's immigration policies,
+  takes over Monday
 publish_date: '2026-11-06'
-lede: President Trump's replacement of White House chief of staff Susie Wiles with Stephen Miller comes after Republicans were swept out of power in this week's midterm elections. Wiles worked with the Trump 2020 campaign in Florida and has served as chief of staff from the first day of the administration; she was diagnosed with breast cancer earlier this year, and it was announced this fall that she was cancer free. Trump announced the change on social media Friday, saying Miller, currently the deputy chief of staff, will take over on Monday.
-nut_graf: The handoff will put the chief of staff job in the hands of an adviser considered an architect of some of Trump's core policies, including immigration, after Republicans were swept out of power in this week's midterm elections, closing a Wiles tenure that stretched from the 2020 campaign in Florida to day one of the administration.
+lede: President Trump's replacement of White House chief of staff Susie Wiles with
+  Stephen Miller comes after Republicans were swept out of power in this week's midterm
+  elections. Wiles worked with the Trump 2020 campaign in Florida and has served as
+  chief of staff from the first day of the administration; she was diagnosed with
+  breast cancer earlier this year, and it was announced this fall that she was cancer
+  free. Trump announced the change on social media Friday, saying Miller, currently
+  the deputy chief of staff, will take over on Monday.
+nut_graf: The handoff will put the chief of staff job in the hands of an adviser considered
+  an architect of some of Trump's core policies, including immigration, after Republicans
+  were swept out of power in this week's midterm elections, closing a Wiles tenure
+  that stretched from the 2020 campaign in Florida to day one of the administration.
 primary_entities:
 - Stephen Miller
 - Susie Wiles
@@ -38,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,51 +152,11 @@ related_stories:
   publish_date: '2026-11-06'
   relation: related
   strength: 0.8793
-- slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6371
-- slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
-  headline: House could vote to impeach Hegseth when lawmakers return to Washington
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6345
-- slug: 2026-10-30-trump-administration-cuts-election-staff-and-sues-states-for-voter-rolls
-  headline: Trump administration cuts election staff and sues states for voter rolls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6364
-- slug: 2026-10-19-dhs-appointees-urged-cisa-to-secretly-hack-voting-machine-sources-say
-  headline: DHS appointees urged CISA to secretly hack voting machine, sources say
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6259
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6218
 - slug: 2026-09-16-white-house-chief-of-staff-wiles-says-she-is-cancer-free
   headline: White House chief of staff Wiles says she is cancer-free
   publish_date: '2026-09-16'
   relation: related
   strength: 0.7406
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6305
-- slug: 2026-10-04-trump-names-dni-clayton-to-head-super-intelligence-force
-  headline: Trump names DNI Clayton to head 'Super Intelligence Force'
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6372
-- slug: 2026-10-04-white-house-s-america-gov-says-it-is-sourced-via-ai-from-official-sources
-  headline: White House's America.gov says it is sourced via AI from official sources
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6258
 - slug: 2026-08-09-trump-names-scharf-as-white-house-counsel
   headline: Trump names Scharf as White House counsel
   publish_date: '2026-08-09'
@@ -196,48 +167,17 @@ related_stories:
   publish_date: '2026-08-13'
   relation: related
   strength: 0.6676
-- slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
-  headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6222
 - slug: 2026-03-15-susie-wiles-says-she-has-early-stage-breast-cancer-but-will-keep-working
   headline: Susie Wiles says she has early-stage breast cancer but will keep working
   publish_date: '2026-03-15'
   relation: related
   strength: 0.7403
-- slug: 2026-08-17-burnham-reported-suspicious-texts-from-person-posing-as-trump-s-chief-of-staff
-  headline: Burnham reported suspicious texts from person posing as Trump's chief of staff
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6328
-- slug: 2026-08-12-karoline-leavitt-to-leave-white-house-press-secretary-post-at-end-of-august
-  headline: Karoline Leavitt to leave White House press secretary post at end of August
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6279
-- slug: 2026-07-14-supreme-court-expands-president-s-power-to-fire-agency-officials
-  headline: Supreme Court expands president's power to fire agency officials
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6465
-- slug: 2026-07-10-trump-removes-remaining-election-commission-months-before-midterms
-  headline: Trump Removes Remaining Election Commission Months Before Midterms
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6235
 - slug: 2026-03-05-trump-fires-dhs-secretary-noem-nominates-sen-mullin-as-replacement
   headline: Trump fires DHS Secretary Noem, nominates Sen. Mullin as replacement
   publish_date: '2026-03-05'
   relation: related
   strength: 0.6703
-- slug: 2026-06-03-trump-signs-order-to-make-it-easier-to-fire-8-000-senior-federal-workers
-  headline: Trump signs order to make it easier to fire 8,000 senior federal workers
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.637
 ---
-
 ## Trump's chief of staff switch follows Republican midterm sweep from power
 
 **Subtype:** fact

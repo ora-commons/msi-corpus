@@ -1,9 +1,18 @@
 ---
 headline: Murphy leaves hospital after stroke, will miss several weeks of Senate votes
-secondary_headline: Murphy recovering in rehabilitation facility, doctors encouraged by progress
+secondary_headline: Murphy recovering in rehabilitation facility, doctors encouraged
+  by progress
 publish_date: '2026-11-06'
-lede: Sen. Chris Murphy of Connecticut said Friday that he has been discharged from the hospital after suffering a small hemorrhagic stroke last weekend and will miss “several weeks” of votes in the Senate while he recovers at a rehabilitation facility. Murphy, 53, said in a statement that doctors are “encouraged by the progress” he has made so far.
-nut_graf: Murphy is a leading Democratic voice on immigration and gun policy and a member of the Appropriations Committee, and his absence will keep him out of Senate votes for several weeks. He is among the Democrats seen as potential 2028 candidates for the White House, and his party won majority control of the Senate in Tuesday's midterm elections.
+lede: Sen. Chris Murphy of Connecticut said Friday that he has been discharged from
+  the hospital after suffering a small hemorrhagic stroke last weekend and will miss
+  “several weeks” of votes in the Senate while he recovers at a rehabilitation facility.
+  Murphy, 53, said in a statement that doctors are “encouraged by the progress” he
+  has made so far.
+nut_graf: Murphy is a leading Democratic voice on immigration and gun policy and a
+  member of the Appropriations Committee, and his absence will keep him out of Senate
+  votes for several weeks. He is among the Democrats seen as potential 2028 candidates
+  for the White House, and his party won majority control of the Senate in Tuesday's
+  midterm elections.
 primary_entities:
 - Chris Murphy
 - John Fetterman
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +159,43 @@ related_stories:
   headline: Murphy campaigns across country as Democrats fight for Senate control
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.86
+  strength: 0.8604
 - slug: 2026-11-01-stroke-sends-sen-chris-murphy-to-johns-hopkins-for-monitoring
   headline: Stroke sends Sen. Chris Murphy to Johns Hopkins for monitoring
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8122
+  strength: 0.8125
 - slug: 2026-11-01-american-stroke-association-lists-six-be-fast-stroke-warning-signs
   headline: American Stroke Association lists six BE FAST stroke warning signs
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6709
-- slug: 2026-11-06-mississippi-officials-cannot-say-how-many-senate-ballots-remain-uncounted
-  headline: Mississippi officials cannot say how many Senate ballots remain uncounted
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6227
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.629
-- slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
-  headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6228
-- slug: 2026-09-15-mcconnell-apparently-does-not-address-beshear-capacity-to-serve-demand
-  headline: McConnell apparently does not address Beshear 'capacity to serve' demand
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6585
+  strength: 0.6718
 - slug: 2026-09-14-mcconnell-says-childhood-polio-is-complicating-his-recovery
   headline: McConnell says childhood polio is complicating his recovery
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6611
+  strength: 0.6625
+- slug: 2026-09-15-mcconnell-apparently-does-not-address-beshear-capacity-to-serve-demand
+  headline: McConnell apparently does not address Beshear 'capacity to serve' demand
+  publish_date: '2026-09-15'
+  relation: related
+  strength: 0.659
 - slug: 2026-09-14-mcconnell-had-2023-concussion-fall-2024-fall-and-2023-stare-episode
   headline: McConnell had 2023 concussion fall, 2024 fall, and 2023 stare episode
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6506
+  strength: 0.6518
 - slug: 2026-09-14-mcconnell-returns-to-senate-floor-casts-first-vote-since-june-fall
   headline: McConnell returns to Senate floor, casts first vote since June fall
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6485
-- slug: 2026-09-20-fetterman-draws-democratic-criticism-after-gop-convention-appearance
-  headline: Fetterman draws Democratic criticism after GOP convention appearance
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6268
-- slug: 2026-09-10-fetterman-s-gop-convention-video-raises-democratic-loyalty-questions
-  headline: Fetterman's GOP convention video raises Democratic loyalty questions
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6407
-- slug: 2026-09-04-fetterman-cancels-meetings-skips-hearings-report-finds
-  headline: Fetterman cancels meetings, skips hearings, report finds
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6181
+  strength: 0.6502
 - slug: 2026-07-13-mcconnell-reveals-fall-caused-hospitalization-after-weeks-of-silence
   headline: McConnell reveals fall caused hospitalization after weeks of silence
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.6846
-- slug: 2026-07-11-mcconnell-absent-for-nearly-a-month-as-senate-returns-monday
-  headline: McConnell absent for nearly a month as Senate returns Monday
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6862
-- slug: 2026-07-28-beshear-demands-mcconnell-speak-to-kentucky-or-resign
-  headline: Beshear demands McConnell speak to Kentucky or resign
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6554
-- slug: 2026-07-07-mcconnell-remains-hospitalized-as-senate-return-nears-with-no-update-from-office
-  headline: McConnell remains hospitalized as Senate return nears with no update from office
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6784
-- slug: 2026-07-12-mcconnell-says-fall-caused-june-hospitalization-discloses-recovery-details
-  headline: McConnell says fall caused June hospitalization, discloses recovery details
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6606
-- slug: 2026-08-04-six-gop-senators-publicly-back-bernie-moreno-in-miller-abuse-dispute
-  headline: Six GOP senators publicly back Bernie Moreno in Miller abuse dispute
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6232
-- slug: 2026-06-14-mcconnell-hospitalized-spokesperson-says-he-is-receiving-excellent-care
-  headline: McConnell hospitalized; spokesperson says he is receiving 'excellent care'
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6352
+  strength: 0.6859
 ---
-
 ## Murphy leaves hospital after stroke, will miss several weeks of Senate votes
 
 **Subtype:** fact
