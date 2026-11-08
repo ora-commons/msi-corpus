@@ -2,8 +2,16 @@
 headline: Trump says US strikes Iranian air defense system in latest limited attack
 secondary_headline: US offers up to $20m for information on Iran nuclear program
 publish_date: '2026-11-07'
-lede: President Donald Trump said the US military carried out a new round of limited strikes on Iran on Friday, targeting an air defense system in an action he described as 'minor.' Iranian state media reported two explosions in the Suza area of Qeshm Island, in the Strait of Hormuz, the oil shipping waterway disrupted since the US war on Iran began in February.
-nut_graf: The strikes came days after Tuesday's midterm elections and amid a flurry of diplomatic phone calls aimed at easing regional tensions. Trump has alternated between threatening to 'destroy' Iran and suggesting a resolution to the war is near, and he insists that differences over Iran's nuclear program must be resolved as part of any deal meant to end the conflict.
+lede: President Donald Trump said the US military carried out a new round of limited
+  strikes on Iran on Friday, targeting an air defense system in an action he described
+  as 'minor.' Iranian state media reported two explosions in the Suza area of Qeshm
+  Island, in the Strait of Hormuz, the oil shipping waterway disrupted since the US
+  war on Iran began in February.
+nut_graf: The strikes came days after Tuesday's midterm elections and amid a flurry
+  of diplomatic phone calls aimed at easing regional tensions. Trump has alternated
+  between threatening to 'destroy' Iran and suggesting a resolution to the war is
+  near, and he insists that differences over Iran's nuclear program must be resolved
+  as part of any deal meant to end the conflict.
 primary_entities:
 - Donald Trump
 - Iran
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,107 +153,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-03-trump-says-u-s-has-not-fought-iran-in-months-before-reported-qeshm-island-strike
-  headline: Trump says U.S. has not fought Iran in months before reported Qeshm Island strike
+  headline: Trump says U.S. has not fought Iran in months before reported Qeshm Island
+    strike
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8401
+  strength: 0.8395
 - slug: 2026-11-03-us-officials-say-limited-qeshm-strikes-responded-to-irgc-fire-on-us-aircraft
   headline: US officials say limited Qeshm strikes responded to IRGC fire on US aircraft
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8235
+  strength: 0.8232
 - slug: 2026-11-03-u-s-reportedly-strikes-iran-s-qeshm-targeting-missiles-used-against-u-s-assets
-  headline: U.S. reportedly strikes Iran's Qeshm, targeting missiles used against U.S. assets
+  headline: U.S. reportedly strikes Iran's Qeshm, targeting missiles used against
+    U.S. assets
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8189
+  strength: 0.8178
 - slug: 2026-07-12-us-launches-new-strikes-on-iran-after-irgc-attacks-ship-in-strait-of-hormuz
   headline: US launches new strikes on Iran after IRGC attacks ship in Strait of Hormuz
   publish_date: '2026-07-12'
   relation: related
-  strength: 0.8058
+  strength: 0.8043
 - slug: 2026-07-27-trump-says-iran-requested-pause-in-u-s-airstrikes
   headline: Trump says Iran requested pause in U.S. airstrikes
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7858
+  strength: 0.7855
 - slug: 2026-07-24-us-and-iran-trade-strikes-trump-says-frozen-iranian-funds-will-cover-ship-damage
-  headline: US and Iran trade strikes; Trump says frozen Iranian funds will cover ship damage
+  headline: US and Iran trade strikes; Trump says frozen Iranian funds will cover
+    ship damage
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7831
+  strength: 0.782
 - slug: 2026-06-29-iran-does-not-confirm-it-will-join-us-qatar-talks-after-gulf-strikes
   headline: Iran does not confirm it will join US-Qatar talks after Gulf strikes
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.8028
+  strength: 0.8018
 - slug: 2026-06-28-us-launches-new-strikes-on-iran-after-tanker-attacked-in-strait-of-hormuz
   headline: US launches new strikes on Iran after tanker attacked in Strait of Hormuz
   publish_date: '2026-06-28'
   relation: related
-  strength: 0.7998
-- slug: 2026-05-26-us-conducts-new-defensive-strikes-on-iran-as-trump-says-deal-near
-  headline: US conducts new defensive strikes on Iran as Trump says deal near
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.8128
-- slug: 2026-07-08-us-strikes-iranian-military-sites-after-tanker-attacks-in-strait-of-hormuz
-  headline: US strikes Iranian military sites after tanker attacks in Strait of Hormuz
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7826
-- slug: 2026-05-27-us-sanctions-target-iranian-agency-as-strikes-follow-drone-attacks-in-strait-of-
-  headline: US sanctions target Iranian agency as strikes follow drone attacks in Strait of Hormuz
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.8052
-- slug: 2026-05-25-u-s-military-strikes-iran-as-trump-says-negotiations-advance-toward-deal
-  headline: U.S. military strikes Iran as Trump says negotiations advance toward deal
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.8032
-- slug: 2026-06-10-trump-threatens-iran-claims-deal-close-as-war-hits-stalemate
-  headline: Trump threatens Iran, claims deal close as war hits stalemate
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7944
-- slug: 2026-05-19-trump-calls-off-iran-strike-planned-for-tuesday-as-negotiations-progress
-  headline: Trump calls off Iran strike planned for Tuesday as negotiations progress
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.8008
-- slug: 2026-06-01-u-s-strikes-iranian-air-defenses-drone-sites-after-strait-of-hormuz-skirmish
-  headline: U.S. strikes Iranian air defenses, drone sites after Strait of Hormuz skirmish
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.791
-- slug: 2026-06-06-u-s-military-shoots-down-iranian-drones-missiles-strikes-gulf-radar-sites
-  headline: U.S. military shoots down Iranian drones, missiles; strikes Gulf radar sites
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.7848
-- slug: 2026-06-04-trump-says-he-won-t-resume-all-out-iran-war-unless-us-troops-killed
-  headline: Trump says he won't resume all-out Iran war unless US troops killed
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.784
-- slug: 2026-05-18-trump-pauses-iran-strike-planned-for-tuesday-amid-serious-negotiations
-  headline: Trump pauses Iran strike planned for Tuesday amid ‘serious negotiations’
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7893
-- slug: 2026-03-24-trump-says-u-s-and-iran-are-in-talks-iran-denies-white-house-talks
-  headline: Trump says U.S. and Iran are in talks; Iran denies White House talks
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.8036
-- slug: 2026-03-22-trump-issues-mixed-messages-on-iran-war-and-oil-sanctions
-  headline: Trump issues mixed messages on Iran war and oil sanctions
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.8021
+  strength: 0.7981
 ---
-
 ## Trump says US strikes Iranian air defense system in latest limited attack
 
 **Subtype:** fact
