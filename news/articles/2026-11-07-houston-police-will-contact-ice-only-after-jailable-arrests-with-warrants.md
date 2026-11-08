@@ -1,9 +1,29 @@
 ---
 headline: Houston police will contact ICE only after jailable arrests with warrants
-secondary_headline: Whitmire also urges Congress on ICE training, body cameras and de-escalation
+secondary_headline: Whitmire also urges Congress on ICE training, body cameras and
+  de-escalation
 publish_date: '2026-11-07'
-lede: Houston police will contact US Immigration and Customs Enforcement only when someone they arrest for a jailable offense also has an administrative ICE warrant issued internally by the Department of Homeland Security, police chief Noe Diaz said Friday — a change from rules that required officers to inform ICE whenever anyone they were dealing with came up with one of the warrants in a National Crime Information Center search. Mayor John Whitmire, a Democrat who said he directed the changes through an executive order, also called on Congress to change federal immigration rules, saying ICE needs better training, body cameras and de-escalation training. A Department of Homeland Security spokesperson told Houston's NBC affiliate, KPRC 2, that the agency remains "disappointed that sanctuary politicians seek to limit cooperation with ICE."
-nut_graf: The directive breaks with policy set by Republican Governor Greg Abbott and marks a reversal for Whitmire, who had previously resisted similar changes over concerns that the White House could respond by sending a surge of immigration officials to Houston and who has faced criticism for abiding by the Trump administration's immigration enforcement policies. Abbott, who lost his re-election bid, has threatened to pull millions in funds from cities like Houston, Dallas and Austin unless they allow police to cooperate fully with federal immigration officials. The announcement came days after Democrats won both the US Senate and the House of Representatives in Tuesday's midterm elections, taking control of Congress for the remainder of Donald Trump's presidency.
+lede: Houston police will contact US Immigration and Customs Enforcement only when
+  someone they arrest for a jailable offense also has an administrative ICE warrant
+  issued internally by the Department of Homeland Security, police chief Noe Diaz
+  said Friday — a change from rules that required officers to inform ICE whenever
+  anyone they were dealing with came up with one of the warrants in a National Crime
+  Information Center search. Mayor John Whitmire, a Democrat who said he directed
+  the changes through an executive order, also called on Congress to change federal
+  immigration rules, saying ICE needs better training, body cameras and de-escalation
+  training. A Department of Homeland Security spokesperson told Houston's NBC affiliate,
+  KPRC 2, that the agency remains "disappointed that sanctuary politicians seek to
+  limit cooperation with ICE."
+nut_graf: The directive breaks with policy set by Republican Governor Greg Abbott
+  and marks a reversal for Whitmire, who had previously resisted similar changes over
+  concerns that the White House could respond by sending a surge of immigration officials
+  to Houston and who has faced criticism for abiding by the Trump administration's
+  immigration enforcement policies. Abbott, who lost his re-election bid, has threatened
+  to pull millions in funds from cities like Houston, Dallas and Austin unless they
+  allow police to cooperate fully with federal immigration officials. The announcement
+  came days after Democrats won both the US Senate and the House of Representatives
+  in Tuesday's midterm elections, taking control of Congress for the remainder of
+  Donald Trump's presidency.
 primary_entities:
 - Houston
 - John Whitmire
@@ -47,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +170,45 @@ related_stories:
   headline: Houston limits cooperation with ICE after Democrats win power in Texas
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8319
+  strength: 0.8324
 - slug: 2026-11-06-houston-limits-police-cooperation-with-ice-under-new-mayoral-order
   headline: Houston limits police cooperation with ICE under new mayoral order
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8282
+  strength: 0.8288
 - slug: 2026-10-30-warrant-pending-for-indicted-ice-officer-in-houston-vehicle-strike-da-says
-  headline: Warrant pending for indicted ICE officer in Houston vehicle strike, DA says
+  headline: Warrant pending for indicted ICE officer in Houston vehicle strike, DA
+    says
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6659
+  strength: 0.6663
 - slug: 2026-09-25-durbin-padilla-introduce-bill-requiring-ice-warrants-detention-reviews
   headline: Durbin, Padilla introduce bill requiring ICE warrants, detention reviews
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6582
+  strength: 0.6589
 - slug: 2026-04-22-houston-amends-ice-cooperation-ordinance-after-abbott-threatens-funding
   headline: Houston amends ICE cooperation ordinance after Abbott threatens funding
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.8213
+  strength: 0.8217
 - slug: 2026-04-23-houston-amends-ordinance-limiting-ice-cooperation-after-abbott-funding-threat
-  headline: Houston amends ordinance limiting ICE cooperation after Abbott funding threat
+  headline: Houston amends ordinance limiting ICE cooperation after Abbott funding
+    threat
   publish_date: '2026-04-23'
   relation: related
-  strength: 0.8201
+  strength: 0.8206
 - slug: 2026-09-01-dhs-secretary-mullin-says-ice-could-deploy-to-polling-sites-on-warrants
   headline: DHS Secretary Mullin says ICE could deploy to polling sites on warrants
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6677
+  strength: 0.6679
 - slug: 2026-07-14-ice-halts-traffic-stops-after-two-fatal-shootings-in-less-than-a-week
   headline: ICE halts traffic stops after two fatal shootings in less than a week
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6898
-- slug: 2026-07-22-house-democrats-say-1-ice-officer-referred-for-discipline-since-trump-took-offic
-  headline: House Democrats say 1 ICE officer referred for discipline since Trump took office
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6769
-- slug: 2026-07-19-ice-will-require-body-cameras-during-vehicle-stops-homan-says
-  headline: ICE will require body cameras during vehicle stops, Homan says
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6655
-- slug: 2026-04-17-abbott-threatens-200-million-in-funding-cuts-to-texas-cities-over-ice-policies
-  headline: Abbott threatens $200 million in funding cuts to Texas cities over ICE policies
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7185
-- slug: 2026-07-14-ice-pauses-vehicle-stops-following-two-enforcement-shootings
-  headline: ICE pauses vehicle stops following two enforcement shootings
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6662
-- slug: 2026-02-05-democrats-threaten-to-block-dhs-funding-unless-ice-changes
-  headline: Democrats threaten to block DHS funding unless ICE changes
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6995
-- slug: 2026-02-10-congress-seeks-dhs-funding-deal-as-democrats-press-ice-reform-demands
-  headline: Congress seeks DHS funding deal as Democrats press ICE reform demands
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6903
-- slug: 2026-01-29-partial-shutdown-seems-increasingly-likely-as-democrats-demand-ice-changes
-  headline: Partial shutdown seems increasingly likely as Democrats demand ICE changes
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6871
-- slug: 2026-03-22-trump-says-ice-will-work-airport-security-unless-democrats-fund-dhs
-  headline: Trump says ICE will work airport security unless Democrats fund DHS
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.678
-- slug: 2026-02-05-homeland-security-shutdown-more-likely-as-gop-rebuffs-democratic-demands
-  headline: Homeland Security shutdown more likely as GOP rebuffs Democratic demands
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6782
-- slug: 2026-01-13-ice-s-administrative-warrants-don-t-authorize-forced-home-entry-legal-experts-sa
-  headline: ICE's administrative warrants don't authorize forced home entry, legal experts say
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6739
-- slug: 2026-01-21-ice-memo-permits-forced-home-entries-using-administrative-warrants
-  headline: ICE memo permits forced home entries using administrative warrants
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6719
-- slug: 2026-02-13-homeland-security-shutdown-seems-certain-as-dhs-funding-talks-stall
-  headline: Homeland Security shutdown seems certain as DHS funding talks stall
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6651
+  strength: 0.6899
 ---
-
 ## Houston police will contact ICE only after jailable arrests with warrants
 
 **Subtype:** fact

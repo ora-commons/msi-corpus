@@ -1,9 +1,23 @@
 ---
-headline: Researchers trace a consistent sequence octopuses use to squeeze through holes
+headline: Researchers trace a consistent sequence octopuses use to squeeze through
+  holes
 secondary_headline: Findings could guide search-and-rescue robots through tight spaces
 publish_date: '2026-11-06'
-lede: 'Researchers made common octopuses and Mayan octopuses crawl through holes of different sizes at a public aquarium in Vienna and documented a consistent routine: one arm slips through first to explore, three to five arms usually follow, and the animal pulls the rest of its body through by pressing back against the partition. The findings, published in the Journal of Experimental Biology, feed an effort to build search-and-rescue robots that can wriggle through narrow cracks and crevices after disasters like earthquakes or train crashes.'
-nut_graf: After a disaster like an earthquake or a train crash, robots are deployed into unpredictable environments to locate survivors and pass them water and food — work that wheeled, four-legged, and snake-like designs struggle to do because they cannot fit into tight spaces or carry emergency supplies and larger components, said roboticist Wenci Xin of the Singapore-MIT Alliance for Research and Technology. He and his colleagues, including Vienna Zoo biologist Tamar Gutnick, turned to the octopus, whose body is soft and pliable apart from a rigid capsule around its brain and a small hard beak used for eating, for a design that avoids those limits.
+lede: 'Researchers made common octopuses and Mayan octopuses crawl through holes of
+  different sizes at a public aquarium in Vienna and documented a consistent routine:
+  one arm slips through first to explore, three to five arms usually follow, and the
+  animal pulls the rest of its body through by pressing back against the partition.
+  The findings, published in the Journal of Experimental Biology, feed an effort to
+  build search-and-rescue robots that can wriggle through narrow cracks and crevices
+  after disasters like earthquakes or train crashes.'
+nut_graf: After a disaster like an earthquake or a train crash, robots are deployed
+  into unpredictable environments to locate survivors and pass them water and food
+  — work that wheeled, four-legged, and snake-like designs struggle to do because
+  they cannot fit into tight spaces or carry emergency supplies and larger components,
+  said roboticist Wenci Xin of the Singapore-MIT Alliance for Research and Technology.
+  He and his colleagues, including Vienna Zoo biologist Tamar Gutnick, turned to the
+  octopus, whose body is soft and pliable apart from a rigid capsule around its brain
+  and a small hard beak used for eating, for a design that avoids those limits.
 primary_entities:
 - Wenci Xin
 - Tamar Gutnick
@@ -42,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +154,8 @@ cross_article_links:
   strength: 0.5463
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-16-stanford-researchers-create-mice-with-human-brain-cells-to-study-disease
-  headline: Stanford researchers create mice with human brain cells to study disease
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5806
-- slug: 2026-09-11-researchers-identify-first-known-adult-t-rex-footprint-trackway-in-north-dakota
-  headline: Researchers identify first known adult T. rex footprint trackway in North Dakota
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5775
-- slug: 2026-09-01-researchers-tag-sharks-off-hamptons-at-confirmed-great-white-nursery
-  headline: Researchers tag sharks off Hamptons at confirmed great white nursery
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5885
-- slug: 2026-06-09-mit-researchers-use-wristband-to-capture-hand-motion-for-robot-training
-  headline: MIT researchers use wristband to capture hand motion for robot training
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6121
-- slug: 2026-07-22-robotic-rescue-of-nasa-telescope-highlights-challenge-of-capturing-space-junk
-  headline: Robotic rescue of NASA telescope highlights challenge of capturing space junk
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5708
-- slug: 2026-07-09-humanoid-robots-assist-in-surgery-during-preclinical-trial
-  headline: Humanoid robots assist in surgery during preclinical trial
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5762
-- slug: 2026-04-24-kraken-like-octopuses-may-have-been-top-predators-during-the-cretaceous
-  headline: Kraken-like octopuses may have been top predators during the Cretaceous
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6118
-- slug: 2026-05-28-liver-cells-may-hold-key-to-pigeon-navigation-study-suggests
-  headline: Liver cells may hold key to pigeon navigation, study suggests
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.5969
-- slug: 2026-07-02-expedition-to-survey-shackleton-scott-shipwrecks-launches
-  headline: Expedition to survey Shackleton, Scott shipwrecks launches
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5741
-- slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
-  headline: Gray whales shift into San Francisco Bay; new detection system warns ships
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5765
-- slug: 2026-04-01-finnish-arctic-ice-diving-class-trains-next-generation-of-polar-researchers
-  headline: Finnish Arctic ice-diving class trains next generation of polar researchers
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5902
-- slug: 2026-05-22-california-turns-to-ai-to-reduce-whale-ship-collisions-as-deaths-rise
-  headline: California turns to AI to reduce whale-ship collisions as deaths rise
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5746
-- slug: 2026-05-16-owl-stuck-in-utah-concrete-mixer-flies-free-after-replacement-feathers
-  headline: Owl stuck in Utah concrete mixer flies free after replacement feathers
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5728
-- slug: 2026-01-22-seismic-networks-help-track-falling-space-debris
-  headline: Seismic networks help track falling space debris
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.5924
-- slug: 2026-05-23-california-launches-ai-whale-spotting-to-reduce-ship-strikes-amid-heat-wave
-  headline: California launches AI whale spotting to reduce ship strikes amid heat wave
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5689
-- slug: 2026-04-03-new-fossils-in-china-push-back-timeline-for-complex-animals
-  headline: New fossils in China push back timeline for complex animals
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.582
-- slug: 2026-04-04-orcas-not-previously-recorded-in-seattle-delight-whale-watchers
-  headline: Orcas not previously recorded in Seattle delight whale watchers
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5818
-- slug: 2026-02-28-mother-crochets-cuddly-octopi-for-tiny-hands-in-detroit-nicu
-  headline: Mother crochets cuddly octopi for tiny hands in Detroit NICU
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.5819
-- slug: 2026-03-18-las-vegas-shark-reef-aquarium-feeds-sharks-hundreds-of-pounds-weekly
-  headline: Las Vegas’ Shark Reef Aquarium feeds sharks hundreds of pounds weekly
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.5746
-- slug: 2026-03-05-punch-the-orphan-monkey-outgrowing-his-plushie-at-tokyo-area-zoo
-  headline: Punch the orphan monkey outgrowing his plushie at Tokyo-area zoo
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5751
+related_stories: []
 ---
-
 ## Researchers trace a consistent sequence octopuses use to squeeze through holes
 
 **Subtype:** fact

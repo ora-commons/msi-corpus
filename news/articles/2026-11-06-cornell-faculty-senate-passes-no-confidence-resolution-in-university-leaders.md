@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-10-20'
   relation: related
   strength: 0.8019
+analyses:
+- '2026-11-06-cornell-no-confidence-vote-measures-divided-governance-structure-not-a-single-ve'
 ---
 ## Cornell Faculty Senate passes no-confidence resolution in university leaders
 
@@ -235,3 +237,8 @@ Some professors urged patience, saying the Faculty Senate should wait for the re
 **Publication date:** 2026-11-06
 **Title:** Cornell faculty vote ‘no confidence’ in leadership
 **URL:** https://apnews.com/article/cornell-sexual-assault-faculty-confidence-vote-president-83afa8eb40e36f12367d7423d38d3c62
+
+---
+
+<!-- analysis-link:2026-11-06-cornell-no-confidence-vote-measures-divided-governance-structure-not-a-single-ve -->
+**Going deeper:** [Read MSI's analysis of Cornell faculty no-confidence vote →](/analyses/2026-11-06-cornell-no-confidence-vote-measures-divided-governance-structure-not-a-single-ve)

@@ -1,9 +1,19 @@
 ---
 headline: Democrats plan to force votes on popular bills and dare Trump to veto them
-secondary_headline: Third Way co-founder says voters may not have heard the entire message
+secondary_headline: Third Way co-founder says voters may not have heard the entire
+  message
 publish_date: '2026-11-06'
-lede: Democrats plan to use the agenda control that comes with the Congress they won this week to force votes on measures with broad public support — and to dare President Trump to veto bipartisan bills. NPR congressional correspondent Barbara Sprunt said a veto of popular legislation would place blame for inaction 'squarely on his shoulders.'
-nut_graf: Democrats say the result handed them a mandate on affordability, and they say they are clear-eyed about it come January. But their majorities are not big enough to override a veto, Republican roadblocks await in the Senate, and Trump has said he will veto everything. What the party keeps is procedural — control of the House agenda, the ability to force votes, and the option of attaching provisions to must-pass legislation. Democrats say that despite the president's mixed signals, it is important to send bills to his desk.
+lede: Democrats plan to use the agenda control that comes with the Congress they won
+  this week to force votes on measures with broad public support — and to dare President
+  Trump to veto bipartisan bills. NPR congressional correspondent Barbara Sprunt said
+  a veto of popular legislation would place blame for inaction 'squarely on his shoulders.'
+nut_graf: Democrats say the result handed them a mandate on affordability, and they
+  say they are clear-eyed about it come January. But their majorities are not big
+  enough to override a veto, Republican roadblocks await in the Senate, and Trump
+  has said he will veto everything. What the party keeps is procedural — control of
+  the House agenda, the ability to force votes, and the option of attaching provisions
+  to must-pass legislation. Democrats say that despite the president's mixed signals,
+  it is important to send bills to his desk.
 primary_entities:
 - Democrats
 - Hakeem Jeffries
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,7 +161,7 @@ related_stories:
   headline: Democrats win Congress on affordability, but Trump retains veto power
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.764
+  strength: 0.7657
 - slug: 2026-11-05-trump-s-veto-power-takes-center-stage-as-democrats-near-control
   headline: Trump's veto power takes center stage as Democrats near control
   publish_date: '2026-11-05'
@@ -165,89 +176,31 @@ related_stories:
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7504
+  strength: 0.753
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7469
+  strength: 0.7483
 - slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
+  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing
+    test
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7444
+  strength: 0.7477
+- slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
+  headline: Democrats take control of Congress, seek leverage over Trump’s foreign
+    policy
+  publish_date: '2026-11-05'
+  relation: related
+  strength: 0.7377
 - slug: 2026-11-04-ken-martin-says-democrats-have-great-leverage-after-2026-midterms
   headline: Ken Martin says Democrats have great leverage after 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7435
-- slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.735
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7475
-- slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
-  headline: Democrats win Congress as Trump retains broad presidential powers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7372
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7439
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7331
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.735
-- slug: 2026-11-06-democrats-target-trump-s-canada-tariffs-as-first-step-in-broader-rollback-push
-  headline: Democrats target Trump's Canada tariffs as first step in broader rollback push
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7125
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7146
-- slug: 2026-11-04-democrats-take-both-chambers-trump-faces-three-paths-likely-less-party-control
-  headline: Democrats take both chambers; Trump faces three paths, likely less party control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7117
-- slug: 2026-11-05-gillibrand-outlines-democratic-priorities-after-democrats-retake-congress
-  headline: Gillibrand outlines Democratic priorities after Democrats retake Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7039
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7214
-- slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
-  headline: Democrats win Congress and a majority of governorships on affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7042
-- slug: 2026-10-30-midterms-test-democrats-strategy-tying-climate-to-affordability
-  headline: Midterms test Democrats' strategy tying climate to affordability
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7062
+  strength: 0.7423
 ---
-
 ## Democrats plan to force votes on popular bills and dare Trump to veto them
 
 **Subtype:** fact
