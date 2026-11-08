@@ -1,9 +1,24 @@
 ---
-headline: Montana voters approve corporate spending ban; opponents sue in federal court
-secondary_headline: Initiative 194 passed 65% to 34% and takes effect Jan. 1 absent court order
+headline: Montana voters approve corporate spending ban; opponents sue in federal
+  court
+secondary_headline: Initiative 194 passed 65% to 34% and takes effect Jan. 1 absent
+  court order
 publish_date: '2026-11-06'
-lede: Montana voters approved Initiative 194, a ballot measure that prohibits incorporated entities in the state from spending money to influence state, local and federal elections, and opponents filed a federal lawsuit challenging the measure the same night. The lawsuit, filed at 11:15 p.m. Tuesday by the Montana Republican State Central Committee and four other groups, came 18 minutes before the Associated Press called the race. Without court intervention, the law takes effect Jan. 1, 2027.
-nut_graf: Initiative 194, dubbed The Montana Plan, is the work of the Transparent Election Initiative, the group behind The Montana Plan and similar initiatives in other states, and relies on a centuries-old framework treating corporations as "creatures of state law" whose powers states can redefine — an approach backers assert is not incompatible with the Supreme Court's Citizens United ruling. The 57-page complaint cites Citizens United 11 times and asks a federal judge to block the law. Tom Moore of the Center for American Progress, whose white paper in part inspired the Montana push, said the case could reach the U.S. Supreme Court and take months or years to resolve.
+lede: Montana voters approved Initiative 194, a ballot measure that prohibits incorporated
+  entities in the state from spending money to influence state, local and federal
+  elections, and opponents filed a federal lawsuit challenging the measure the same
+  night. The lawsuit, filed at 11:15 p.m. Tuesday by the Montana Republican State
+  Central Committee and four other groups, came 18 minutes before the Associated Press
+  called the race. Without court intervention, the law takes effect Jan. 1, 2027.
+nut_graf: Initiative 194, dubbed The Montana Plan, is the work of the Transparent
+  Election Initiative, the group behind The Montana Plan and similar initiatives in
+  other states, and relies on a centuries-old framework treating corporations as "creatures
+  of state law" whose powers states can redefine — an approach backers assert is not
+  incompatible with the Supreme Court's Citizens United ruling. The 57-page complaint
+  cites Citizens United 11 times and asks a federal judge to block the law. Tom Moore
+  of the Center for American Progress, whose white paper in part inspired the Montana
+  push, said the case could reach the U.S. Supreme Court and take months or years
+  to resolve.
 primary_entities:
 - Initiative 194
 - Montana Republican State Central Committee
@@ -49,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,108 +163,46 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-05-missouri-voters-approve-amendment-6-curbing-repeal-of-citizen-approved-laws
-  headline: Missouri voters approve Amendment 6, curbing repeal of citizen-approved laws
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6243
-- slug: 2026-11-03-michigan-voters-weigh-utility-donation-ban-and-ann-arbor-public-power
-  headline: Michigan voters weigh utility donation ban and Ann Arbor public power
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6303
-- slug: 2026-10-30-montana-voters-decide-federal-state-and-legislative-races-tuesday
-  headline: Montana voters decide federal, state and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6316
-- slug: 2026-10-22-pennsylvania-lawmakers-send-sunshine-act-meeting-notice-fix-to-governor-s-desk
-  headline: Pennsylvania lawmakers send Sunshine Act meeting-notice fix to governor's desk
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6122
-- slug: 2026-09-29-omb-draft-rule-would-ban-federal-grants-for-voter-registration-drives
-  headline: OMB draft rule would ban federal grants for voter registration drives
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6217
 - slug: 2026-01-07-montana-supreme-court-blocks-ballot-measure-targeting-corporate-campaign-donatio
-  headline: Montana Supreme Court blocks ballot measure targeting corporate campaign donations
+  headline: Montana Supreme Court blocks ballot measure targeting corporate campaign
+    donations
   publish_date: '2026-01-07'
   relation: related
-  strength: 0.7847
+  strength: 0.7855
 - slug: 2026-05-13-states-explore-new-approaches-to-limit-corporate-political-spending
   headline: States explore new approaches to limit corporate political spending
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.7602
+  strength: 0.7597
 - slug: 2026-05-13-hawaii-and-montana-move-to-limit-corporate-campaign-cash-by-redefining-corporate
-  headline: Hawaii and Montana move to limit corporate campaign cash by redefining corporate powers
+  headline: Hawaii and Montana move to limit corporate campaign cash by redefining
+    corporate powers
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.7545
-- slug: 2026-09-01-georgia-gop-faces-fallout-from-140m-first-liberty-ponzi-scheme
-  headline: Georgia GOP faces fallout from $140M First Liberty Ponzi scheme
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6167
+  strength: 0.7542
 - slug: 2026-05-15-hawaii-governor-signs-law-limiting-corporate-and-dark-money-political-spending
-  headline: Hawaii governor signs law limiting corporate and dark money political spending
+  headline: Hawaii governor signs law limiting corporate and dark money political
+    spending
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.7026
+  strength: 0.7019
 - slug: 2026-05-14-hawaii-governor-signs-law-to-curb-corporate-dark-money-political-spending
   headline: Hawaii governor signs law to curb corporate, dark-money political spending
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6982
+  strength: 0.6975
 - slug: 2026-05-12-montana-judge-blocks-law-limiting-election-day-voter-registration
   headline: Montana judge blocks law limiting Election Day voter registration
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.6835
-- slug: 2026-06-30-supreme-court-strikes-down-limits-on-coordinated-party-spending
-  headline: Supreme Court strikes down limits on coordinated party spending
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6492
+  strength: 0.6844
 - slug: 2026-05-12-montana-judge-blocks-law-limiting-election-day-voter-registration-citing-harm-to
-  headline: Montana judge blocks law limiting Election Day voter registration, citing harm to Native and young voters
+  headline: Montana judge blocks law limiting Election Day voter registration, citing
+    harm to Native and young voters
   publish_date: '2026-05-12'
   relation: related
   strength: 0.6729
-- slug: 2026-05-22-montana-land-board-approves-changes-to-land-swap-evaluation-process
-  headline: Montana Land Board Approves Changes to Land-Swap Evaluation Process
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6423
-- slug: 2026-04-15-massachusetts-income-tax-cut-ballot-question-divides-business-groups-and-lawmake
-  headline: Massachusetts income tax cut ballot question divides business groups and lawmakers
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6358
-- slug: 2026-05-21-montana-land-board-adopts-new-land-swap-criteria-after-limited-public-notice
-  headline: Montana Land Board adopts new land-swap criteria after limited public notice
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6145
-- slug: 2026-05-21-montana-land-board-overhauls-land-swap-process-after-yearslong-dispute
-  headline: Montana Land Board overhauls land-swap process after yearslong dispute
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6144
-- slug: 2026-03-13-montana-bars-permits-for-most-weekend-capitol-rallies-complicating-no-kings
-  headline: Montana bars permits for most weekend Capitol rallies, complicating “No Kings”
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6269
-- slug: 2026-02-06-mississippi-senate-advances-measure-to-restore-ballot-initiative-right
-  headline: Mississippi Senate advances measure to restore ballot initiative right
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6223
 ---
-
 ## Montana voters approve corporate spending ban; opponents sue in federal court
 
 **Subtype:** fact

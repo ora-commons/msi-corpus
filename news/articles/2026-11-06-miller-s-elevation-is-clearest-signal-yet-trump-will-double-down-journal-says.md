@@ -1,9 +1,25 @@
 ---
-headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
-secondary_headline: Paletta writes Miller will have blind spots in his consequential new job
+headline: Miller's elevation is clearest signal yet Trump will double down, Journal
+  says
+secondary_headline: Paletta writes Miller will have blind spots in his consequential
+  new job
 publish_date: '2026-11-06'
-lede: The Wall Street Journal's Damian Paletta wrote Friday that Stephen Miller's elevation to White House chief of staff is the clearest signal yet that President Donald Trump intends to spend the final two years of his presidency doubling down on his core beliefs rather than seeking out deals with Democrats. Paletta, the Journal's Washington coverage chief, assessed in a special edition of the paper's Politics newsletter that Miller, suddenly thrust into one of the most consequential jobs in the country, will have blind spots. The Journal reported that Trump removed chief of staff Susie Wiles and promoted Miller into her role Friday afternoon, days after midterm losses Paletta described as blowout losses for the president's party.
-nut_graf: The chief of staff job, Paletta wrote, is much bigger than policies like immigration — the area Miller is long known for, according to the Journal — and traditionally makes its holder the key interlocutor for the president with Capitol Hill, corporate America and foreign leaders. The change came days after Tuesday's vote, and Paletta wrote that Trump has so far shown no signs of adjusting his approach, even though a number of prominent Republicans have alleged the White House has lost touch with the country.
+lede: The Wall Street Journal's Damian Paletta wrote Friday that Stephen Miller's
+  elevation to White House chief of staff is the clearest signal yet that President
+  Donald Trump intends to spend the final two years of his presidency doubling down
+  on his core beliefs rather than seeking out deals with Democrats. Paletta, the Journal's
+  Washington coverage chief, assessed in a special edition of the paper's Politics
+  newsletter that Miller, suddenly thrust into one of the most consequential jobs
+  in the country, will have blind spots. The Journal reported that Trump removed chief
+  of staff Susie Wiles and promoted Miller into her role Friday afternoon, days after
+  midterm losses Paletta described as blowout losses for the president's party.
+nut_graf: The chief of staff job, Paletta wrote, is much bigger than policies like
+  immigration — the area Miller is long known for, according to the Journal — and
+  traditionally makes its holder the key interlocutor for the president with Capitol
+  Hill, corporate America and foreign leaders. The change came days after Tuesday's
+  vote, and Paletta wrote that Trump has so far shown no signs of adjusting his approach,
+  even though a number of prominent Republicans have alleged the White House has lost
+  touch with the country.
 primary_entities:
 - Donald Trump
 - Stephen Miller
@@ -43,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,10 +159,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
+  headline: White House chief of staff Susie Wiles resigns after Republican midterm
+    losses
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8082
+  strength: 0.8073
 - slug: 2026-11-06-trump-names-stephen-miller-white-house-chief-of-staff
   headline: Trump names Stephen Miller White House chief of staff
   publish_date: '2026-11-06'
@@ -155,94 +173,34 @@ related_stories:
   headline: Trump's chief of staff switch follows Republican midterm sweep from power
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7948
+  strength: 0.7952
 - slug: 2026-11-06-trump-s-longest-serving-chief-of-staff-susie-wiles-resigns
   headline: Trump's longest-serving chief of staff, Susie Wiles, resigns
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7664
+  strength: 0.7657
 - slug: 2026-11-04-democrats-take-both-chambers-trump-faces-three-paths-likely-less-party-control
-  headline: Democrats take both chambers; Trump faces three paths, likely less party control
+  headline: Democrats take both chambers; Trump faces three paths, likely less party
+    control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6704
+  strength: 0.6703
 - slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
   headline: House could vote to impeach Hegseth when lawmakers return to Washington
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6615
-- slug: 2026-10-20-paletta-cites-democrats-leading-9-of-11-close-senate-races
-  headline: Paletta cites Democrats leading 9 of 11 close Senate races
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6408
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6394
+  strength: 0.6611
 - slug: 2026-10-14-working-class-white-voters-cool-on-republicans-wsj-poll-finds
   headline: Working-class white voters cool on Republicans, WSJ poll finds
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.66
-- slug: 2026-10-06-populism-from-left-and-right-targets-corporate-america
-  headline: Populism from left and right targets corporate America
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6354
-- slug: 2026-10-02-trump-expected-to-name-dni-jay-clayton-as-white-house-ai-czar
-  headline: Trump expected to name DNI Jay Clayton as White House AI czar
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6337
-- slug: 2026-09-25-trump-xi-summit-features-heavy-pageantry-few-deliverables
-  headline: Trump-Xi summit features heavy pageantry, few deliverables
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6412
+  strength: 0.6591
 - slug: 2026-09-19-stephen-miller-leads-multi-agency-push-to-accelerate-migrant-child-removals
   headline: Stephen Miller leads multi-agency push to accelerate migrant child removals
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6516
-- slug: 2026-09-16-white-house-chief-of-staff-wiles-says-she-is-cancer-free
-  headline: White House chief of staff Wiles says she is cancer-free
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.66
-- slug: 2026-09-21-trump-weighs-relocating-white-house-press-corps-from-west-wing
-  headline: Trump weighs relocating White House press corps from West Wing
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6385
-- slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
-  headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6701
-- slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
-  headline: Trump grows frustrated with Homeland Security Secretary Mullin
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6541
-- slug: 2026-08-09-trump-names-scharf-as-white-house-counsel
-  headline: Trump names Scharf as White House counsel
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6397
-- slug: 2026-06-10-trump-to-install-bill-pulte-as-acting-intelligence-chief-sparking-backlash
-  headline: Trump to Install Bill Pulte as Acting Intelligence Chief, Sparking Backlash
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6695
-- slug: 2026-06-05-trump-calls-on-acting-intelligence-chief-pulte-to-fire-workers-shrink-agency
-  headline: Trump calls on acting intelligence chief Pulte to fire workers, shrink agency
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.672
+  strength: 0.6515
 ---
-
 ## Miller's elevation is clearest signal yet Trump will double down, Journal says
 
 **Subtype:** fact
