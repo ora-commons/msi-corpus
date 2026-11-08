@@ -45,10 +45,12 @@ license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -279,3 +281,9 @@ The arrest adds to a series of detentions that the Secret Service and other law 
 **Publication date:** 2026-11-07
 **Title:** Secret Service arrests man near White House
 **URL:** https://apnews.com/article/trump-secret-service-white-house-arrest-threat-2c691258ecd24461e41d1eacdbc957a3
+
+### src_late_a596ca56ac691d4e — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-07
+**Title:** Man in custody after being found in vehicle near White House with guns
+**URL:** https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump
+**Added after publication:** true
