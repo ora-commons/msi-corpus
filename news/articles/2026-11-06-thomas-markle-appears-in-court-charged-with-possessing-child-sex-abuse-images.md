@@ -1,9 +1,20 @@
 ---
 headline: Thomas Markle appears in court charged with possessing child sex abuse images
-secondary_headline: Court orders the 82-year-old to home detention at his Florida assisted living facility
+secondary_headline: Court orders the 82-year-old to home detention at his Florida
+  assisted living facility
 publish_date: '2026-11-06'
-lede: Thomas Markle, the father of Meghan, Duchess of Sussex, appeared in court on Friday after being charged with one count of possessing indecent images of children, the US Department of Justice said. The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he had rented for almost 20 years. The court ordered him to submit to home detention at his assisted living facility in Florida and to electronic monitoring.
-nut_graf: 'The charge is one of several legal threads involving Markle: Philippine police last month obtained a warrant to examine devices allegedly removed from his former home, and London''s Metropolitan Police has voluntarily referred itself to the Independent Office for Police Conduct over its handling of a 2019 letter making a number of claims about him. Markle has previously denied the allegations, calling them "sick lies".'
+lede: Thomas Markle, the father of Meghan, Duchess of Sussex, appeared in court on
+  Friday after being charged with one count of possessing indecent images of children,
+  the US Department of Justice said. The 82-year-old was arrested in Florida after
+  the FBI searched two Los Angeles-area storage units he had rented for almost 20
+  years. The court ordered him to submit to home detention at his assisted living
+  facility in Florida and to electronic monitoring.
+nut_graf: 'The charge is one of several legal threads involving Markle: Philippine
+  police last month obtained a warrant to examine devices allegedly removed from his
+  former home, and London''s Metropolitan Police has voluntarily referred itself to
+  the Independent Office for Police Conduct over its handling of a 2019 letter making
+  a number of claims about him. Markle has previously denied the allegations, calling
+  them "sick lies".'
 primary_entities:
 - Thomas Markle
 - Meghan, Duchess of Sussex
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,107 +153,28 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-06-thomas-markle-father-of-meghan-arrested-in-florida-on-child-pornography-charge
-  headline: Thomas Markle, father of Meghan, arrested in Florida on child pornography charge
+  headline: Thomas Markle, father of Meghan, arrested in Florida on child pornography
+    charge
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.9087
+  strength: 0.9082
 - slug: 2026-11-06-thomas-markle-arrested-in-florida-on-child-sexual-abuse-material-charges
   headline: Thomas Markle arrested in Florida on child sexual abuse material charges
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8905
+  strength: 0.8898
 - slug: 2026-11-06-prosecutor-says-agents-seized-about-78-items-in-case-against-meghan-s-father
-  headline: Prosecutor says agents seized about 78 items in case against Meghan's father
+  headline: Prosecutor says agents seized about 78 items in case against Meghan's
+    father
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8696
+  strength: 0.8701
 - slug: 2026-11-05-jonvic-remulla-names-markle-jr-a-person-of-interest-in-child-abuse-inquiry
   headline: Jonvic Remulla names Markle Jr a person of interest in child abuse inquiry
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7754
-- slug: 2026-10-30-fbi-arrests-north-carolina-contractor-accused-of-leaking-classified-information
-  headline: FBI arrests North Carolina contractor accused of leaking classified information
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5975
-- slug: 2026-10-25-arcadia-couple-faces-child-abuse-conspiracy-charges-hearing-cites-26-children
-  headline: Arcadia couple faces child abuse conspiracy charges; hearing cites 26 children
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5859
-- slug: 2026-10-20-long-beach-mayor-seeks-federal-probe-after-ice-arrest-injures-u-s-citizen
-  headline: Long Beach mayor seeks federal probe after ICE arrest injures U.S. citizen
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5897
-- slug: 2026-10-15-mace-calls-for-predator-accountability-after-ex-fianc-charged
-  headline: Mace calls for predator accountability after ex-fiancé charged
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5886
-- slug: 2026-09-14-us-removed-london-diplomat-accused-of-child-images-without-warning-uk-police
-  headline: US removed London diplomat accused of child images without warning UK police
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6337
-- slug: 2026-09-17-uk-formally-requests-tate-brothers-extradition-from-us
-  headline: UK formally requests Tate brothers' extradition from US
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6139
-- slug: 2026-09-09-federal-judge-denies-bail-to-andrew-and-tristan-tate-in-u-k-extradition-case
-  headline: Federal judge denies bail to Andrew and Tristan Tate in U.K. extradition case
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.589
-- slug: 2026-08-27-federal-judge-weighs-tate-brothers-detention-in-uk-extradition-case
-  headline: Federal judge weighs Tate brothers' detention in UK extradition case
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5974
-- slug: 2026-08-25-tate-brothers-lawyers-say-andrew-exaggerated-wealth-in-social-media-posts
-  headline: Tate brothers' lawyers say Andrew exaggerated wealth in social media posts
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.596
-- slug: 2026-08-13-miami-detention-hearing-set-for-tate-brothers-in-uk-extradition-case
-  headline: Miami detention hearing set for Tate brothers in UK extradition case
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6091
-- slug: 2026-08-12-white-house-declines-to-intervene-in-tate-brothers-u-k-extradition
-  headline: White House declines to intervene in Tate brothers' U.K. extradition
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5877
-- slug: 2026-08-05-two-maryland-men-face-charges-in-exotic-animal-photoshoot-sting
-  headline: Two Maryland men face charges in exotic-animal photoshoot sting
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5977
-- slug: 2026-07-19-uk-prosecutors-file-new-sex-offence-charges-against-tate-brothers
-  headline: UK prosecutors file new sex offence charges against Tate brothers
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6199
-- slug: 2026-06-23-dc-man-arrested-near-reflecting-pool-plans-to-fight-obscenity-charge
-  headline: DC man arrested near reflecting pool plans to fight obscenity charge
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6016
-- slug: 2026-03-21-joseph-duggar-waives-extradition-to-face-child-molestation-charge-in-florida
-  headline: Joseph Duggar waives extradition to face child molestation charge in Florida
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.602
-- slug: 2026-02-21-police-search-royal-lodge-after-prince-andrew-arrest-succession-law-eyed
-  headline: Police search Royal Lodge after Prince Andrew arrest; succession law eyed
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.5994
+  strength: 0.7765
 ---
-
 ## Thomas Markle appears in court charged with possessing child sex abuse images
 
 **Subtype:** fact
