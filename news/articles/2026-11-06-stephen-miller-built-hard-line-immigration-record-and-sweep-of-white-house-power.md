@@ -1,9 +1,25 @@
 ---
-headline: Stephen Miller built hard-line immigration record and sweep of White House power
-secondary_headline: Miller's path ran from Santa Monica through Jan. 6 and America First Legal
+headline: Stephen Miller built hard-line immigration record and sweep of White House
+  power
+secondary_headline: Miller's path ran from Santa Monica through Jan. 6 and America
+  First Legal
 publish_date: '2026-11-06'
-lede: Stephen Miller's path to White House chief of staff ran from a liberal Jewish family in Santa Monica through conservative columns at Duke University, Trump's 2016 campaign and the founding of America First Legal — a route that left him with what the Wall Street Journal describes as near-unprecedented power for a White House staffer. Trump announced Friday that Miller, officially deputy chief of staff for policy and homeland security adviser, will replace Susie Wiles, his chief of staff and close ally, who is leaving the White House to make way for him.
-nut_graf: 'The profile documents how a conservative from a liberal Jewish family in Santa Monica became the official the Journal describes as the architect of an immigration campaign of mass deportations and legal-status revocations, of battles with universities over diversity policies and with law firms that have represented the president''s opponents, and — by the newspaper''s reporting — of deadly strikes in the Caribbean on boats allegedly transporting drugs. It also records the political cost: the Journal reported that weeks of protests after two Americans were fatally shot in Minnesota last winter during an immigration crackdown likely contributed to Trump''s midterm loss this week.'
+lede: Stephen Miller's path to White House chief of staff ran from a liberal Jewish
+  family in Santa Monica through conservative columns at Duke University, Trump's
+  2016 campaign and the founding of America First Legal — a route that left him with
+  what the Wall Street Journal describes as near-unprecedented power for a White House
+  staffer. Trump announced Friday that Miller, officially deputy chief of staff for
+  policy and homeland security adviser, will replace Susie Wiles, his chief of staff
+  and close ally, who is leaving the White House to make way for him.
+nut_graf: 'The profile documents how a conservative from a liberal Jewish family in
+  Santa Monica became the official the Journal describes as the architect of an immigration
+  campaign of mass deportations and legal-status revocations, of battles with universities
+  over diversity policies and with law firms that have represented the president''s
+  opponents, and — by the newspaper''s reporting — of deadly strikes in the Caribbean
+  on boats allegedly transporting drugs. It also records the political cost: the Journal
+  reported that weeks of protests after two Americans were fatally shot in Minnesota
+  last winter during an immigration crackdown likely contributed to Trump''s midterm
+  loss this week.'
 primary_entities:
 - Stephen Miller
 - Donald Trump
@@ -47,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,107 +163,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-06-trump-polled-friends-for-weeks-on-wiles-s-work-before-replacing-her-sources-say
-  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources say
+  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources
+    say
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.787
+  strength: 0.7884
 - slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
+  headline: Miller's elevation is clearest signal yet Trump will double down, Journal
+    says
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.787
+  strength: 0.7876
 - slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
+  headline: White House chief of staff Susie Wiles resigns after Republican midterm
+    losses
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.777
+  strength: 0.7784
 - slug: 2026-11-06-trump-names-stephen-miller-white-house-chief-of-staff
   headline: Trump names Stephen Miller White House chief of staff
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.756
+  strength: 0.7573
 - slug: 2026-11-06-trump-s-chief-of-staff-switch-follows-republican-midterm-sweep-from-power
   headline: Trump's chief of staff switch follows Republican midterm sweep from power
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.751
+  strength: 0.753
 - slug: 2026-11-06-trump-s-longest-serving-chief-of-staff-susie-wiles-resigns
   headline: Trump's longest-serving chief of staff, Susie Wiles, resigns
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6864
-- slug: 2026-11-05-dhillon-exits-doj-civil-rights-division-after-calling-staff-exodus-a-self-purge
-  headline: Dhillon exits DOJ civil rights division after calling staff exodus a self-purge
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6389
-- slug: 2026-11-05-harmeet-dhillon-reshaped-doj-civil-rights-division-ousting-roughly-300-attorneys
-  headline: Harmeet Dhillon reshaped DOJ Civil Rights Division, ousting roughly 300 attorneys
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6308
-- slug: 2026-10-26-trump-administration-reshapes-us-immigration-enforcement-and-admissions
-  headline: Trump administration reshapes US immigration enforcement and admissions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6406
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6284
+  strength: 0.688
 - slug: 2026-09-19-stephen-miller-leads-multi-agency-push-to-accelerate-migrant-child-removals
   headline: Stephen Miller leads multi-agency push to accelerate migrant child removals
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7424
-- slug: 2026-10-11-dhillon-reshapes-doj-civil-rights-division-as-300-lawyers-leave
-  headline: Dhillon reshapes DOJ Civil Rights Division as 300 lawyers leave
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6284
-- slug: 2026-09-21-trump-weighs-relocating-white-house-press-corps-from-west-wing
-  headline: Trump weighs relocating White House press corps from West Wing
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.629
+  strength: 0.7427
 - slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
   headline: Trump grows frustrated with Homeland Security Secretary Mullin
   publish_date: '2026-08-08'
   relation: related
-  strength: 0.6493
-- slug: 2026-01-15-miller-articulates-power-doctrine-behind-venezuela-operation-greenland-ambitions
-  headline: Miller articulates power doctrine behind Venezuela operation, Greenland ambitions
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7078
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6333
-- slug: 2026-06-30-npr-details-five-trump-immigration-strategies-across-enforcement-courts-and-dete
-  headline: NPR details five Trump immigration strategies across enforcement, courts, and detention
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6299
-- slug: 2026-03-15-trump-mass-deportations-at-crossroads-with-dhs-shake-up
-  headline: Trump mass deportations at crossroads with DHS shake-up
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.644
-- slug: 2026-03-05-trump-fires-dhs-secretary-noem-nominates-sen-mullin-as-replacement
-  headline: Trump fires DHS Secretary Noem, nominates Sen. Mullin as replacement
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6433
-- slug: 2026-03-16-trump-s-dhs-pick-mullin-poised-to-inherit-a-department-beset-by-challenges
-  headline: Trump’s DHS pick Mullin poised to inherit a department beset by challenges
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.639
+  strength: 0.6501
 ---
-
 ## Stephen Miller built hard-line immigration record and sweep of White House power
 
 **Subtype:** fact

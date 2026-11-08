@@ -1,9 +1,24 @@
 ---
-headline: Critics say Cornell no-confidence resolution lacks specific remedies, policy goals
-secondary_headline: Sponsors call Cornell faculty vote a "reckoning"; delay defeated Oct. 28
+headline: Critics say Cornell no-confidence resolution lacks specific remedies, policy
+  goals
+secondary_headline: Sponsors call Cornell faculty vote a "reckoning"; delay defeated
+  Oct. 28
 publish_date: '2026-11-06'
-lede: Critics said Cornell University's faculty no-confidence resolution lacked specific remedies and explicit policy goals, while its sponsors called the vote "a reckoning for our University." On Oct. 28, senators voted down a push to delay the vote until former acting Attorney General Sally Yates concluded an independent review of Cornell's policies and response to Jane Doe's allegations; the weeklong voting period began on Oct. 30. The resolution of no confidence in President Michael Kotlikoff's administration over his handling of sexual assault allegations carried 56% of the 135-member senate, which represents 3,025 faculty members, according to the university.
-nut_graf: The largely symbolic vote capped a month of deliberations that included senators' Oct. 28 rejection of a push to delay the vote until former acting Attorney General Sally Yates concluded an independent review of Cornell's policies and response to Jane Doe's allegations. The case underlying the measure — former student Jane Doe's September lawsuit alleging she was gang-raped and drugged at a Cornell fraternity house in 2024 — set off a nationwide debate over how assault allegations are handled on campuses, and the fraternity brothers Doe accused have denied her claims.
+lede: Critics said Cornell University's faculty no-confidence resolution lacked specific
+  remedies and explicit policy goals, while its sponsors called the vote "a reckoning
+  for our University." On Oct. 28, senators voted down a push to delay the vote until
+  former acting Attorney General Sally Yates concluded an independent review of Cornell's
+  policies and response to Jane Doe's allegations; the weeklong voting period began
+  on Oct. 30. The resolution of no confidence in President Michael Kotlikoff's administration
+  over his handling of sexual assault allegations carried 56% of the 135-member senate,
+  which represents 3,025 faculty members, according to the university.
+nut_graf: The largely symbolic vote capped a month of deliberations that included
+  senators' Oct. 28 rejection of a push to delay the vote until former acting Attorney
+  General Sally Yates concluded an independent review of Cornell's policies and response
+  to Jane Doe's allegations. The case underlying the measure — former student Jane
+  Doe's September lawsuit alleging she was gang-raped and drugged at a Cornell fraternity
+  house in 2024 — set off a nationwide debate over how assault allegations are handled
+  on campuses, and the fraternity brothers Doe accused have denied her claims.
 primary_entities:
 - Cornell University
 - Michael Kotlikoff
@@ -41,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,102 +161,42 @@ related_stories:
   relation: related
   strength: 0.8942
 - slug: 2026-11-06-jane-doe-s-attorney-says-he-hopes-cornell-no-confidence-vote-will-be-yet-another
-  headline: Jane Doe's attorney says he hopes Cornell no-confidence vote will be 'yet another step forward'
+  headline: Jane Doe's attorney says he hopes Cornell no-confidence vote will be 'yet
+    another step forward'
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8685
+  strength: 0.8686
 - slug: 2026-10-28-cornell-faculty-schedule-no-confidence-vote-over-2024-gang-rape-allegations
   headline: Cornell faculty schedule no-confidence vote over 2024 gang-rape allegations
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8626
+  strength: 0.8616
 - slug: 2026-10-28-cornell-disputes-letter-depicting-kotlikoff-s-response-to-jane-doe
   headline: Cornell disputes letter depicting Kotlikoff's response to Jane Doe
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8568
+  strength: 0.8571
 - slug: 2026-10-29-cornell-faculty-advance-no-confidence-vote-over-rape-case-handling
   headline: Cornell faculty advance no-confidence vote over rape-case handling
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8345
+  strength: 0.8341
 - slug: 2026-10-20-cornell-meeting-recordings-show-criticism-of-kotlikoff-s-assault-response
   headline: Cornell meeting recordings show criticism of Kotlikoff's assault response
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8383
+  strength: 0.8375
 - slug: 2026-10-20-jane-doe-says-cornell-president-s-response-left-her-feeling-disbelieved
   headline: Jane Doe says Cornell president's response left her feeling disbelieved
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8252
+  strength: 0.8255
 - slug: 2026-10-30-hochul-sends-all-future-cornell-sexual-offense-complaints-to-state-police
   headline: Hochul sends all future Cornell sexual offense complaints to state police
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7653
-- slug: 2026-10-27-cornell-university-reviews-dorm-placement-of-student-accused-of-rape
-  headline: Cornell University reviews dorm placement of student accused of rape
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7828
-- slug: 2026-10-30-cornell-sexual-assault-complainants-may-opt-out-of-state-police-referral
-  headline: Cornell sexual assault complainants may opt out of State Police referral
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7566
-- slug: 2026-10-20-the-new-york-times-first-publishes-doe-s-letter-her-lawyer-authenticates-it
-  headline: The New York Times first publishes Doe's letter; her lawyer authenticates it
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7944
-- slug: 2026-10-14-cornell-president-says-he-knew-of-assault-report-but-didn-t-follow-up
-  headline: Cornell president says he knew of assault report but didn't follow up
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8226
-- slug: 2026-10-13-cornell-suspends-fraternity-parties-for-academic-year-after-rape-allegations
-  headline: Cornell suspends fraternity parties for academic year after rape allegations
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7636
-- slug: 2026-10-06-cornell-faculty-file-no-confidence-resolution-over-sexual-assault-response
-  headline: Cornell faculty file no-confidence resolution over sexual assault response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7895
-- slug: 2026-10-06-cornell-president-faces-protests-lawsuit-over-2024-fraternity-rape-allegation
-  headline: Cornell president faces protests, lawsuit over 2024 fraternity rape allegation
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.788
-- slug: 2026-10-13-cornell-bans-fraternity-parties-for-academic-year-after-2024-rape-lawsuit
-  headline: Cornell bans fraternity parties for academic year after 2024 rape lawsuit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7563
-- slug: 2026-10-06-cornell-names-sally-yates-to-lead-independent-rape-case-review
-  headline: Cornell names Sally Yates to lead independent rape-case review
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.753
-- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
-  headline: Cornell students voice anger over alleged 2024 gang rape
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7569
-- slug: 2026-10-06-cornell-trustees-appoint-sally-yates-to-review-sexual-misconduct-response
-  headline: Cornell trustees appoint Sally Yates to review sexual misconduct response
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7365
-- slug: 2026-10-06-lawyer-in-cornell-gang-rape-case-seeks-james-s-recusal-as-special-prosecutor
-  headline: Lawyer in Cornell gang-rape case seeks James's recusal as special prosecutor
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7231
+  strength: 0.7669
 ---
-
 ## Critics say Cornell no-confidence resolution lacks specific remedies, policy goals
 
 **Subtype:** fact
