@@ -1,9 +1,19 @@
 ---
 headline: Officers arrest armed man near White House over alleged threat to kill Trump
-secondary_headline: Officials say suspect described hearing voices telling him to kill the president
+secondary_headline: Officials say suspect described hearing voices telling him to
+  kill the president
 publish_date: '2026-11-07'
-lede: The U.S. Secret Service arrested a man found with three firearms and dozens of rounds of ammunition in a vehicle near the White House, the agency and the Department of Homeland Security said. U.S. officials identified the man as Ronny Yordrix Guanipa Chrinos and said he told officers voices in his head were telling him to come to Washington and kill President Donald Trump. DHS said Chrinos has been charged and remains in U.S. Marshals Service custody.
-nut_graf: The arrest adds to a series of detentions that the Secret Service and other law enforcement agencies have carried out against people accused of threatening Trump or his family members' lives since he returned to office last year. The Homeland Security Department emphasized Chrinos's immigration status in its account of the arrest, and the White House referred comment to the two agencies.
+lede: The U.S. Secret Service arrested a man found with three firearms and dozens
+  of rounds of ammunition in a vehicle near the White House, the agency and the Department
+  of Homeland Security said. U.S. officials identified the man as Ronny Yordrix Guanipa
+  Chrinos and said he told officers voices in his head were telling him to come to
+  Washington and kill President Donald Trump. DHS said Chrinos has been charged and
+  remains in U.S. Marshals Service custody.
+nut_graf: The arrest adds to a series of detentions that the Secret Service and other
+  law enforcement agencies have carried out against people accused of threatening
+  Trump or his family members' lives since he returned to office last year. The Homeland
+  Security Department emphasized Chrinos's immigration status in its account of the
+  arrest, and the White House referred comment to the two agencies.
 primary_entities:
 - Donald Trump
 - Ronny Yordrix Guanipa Chrinos
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -146,104 +157,29 @@ related_stories:
   headline: Authorities arrest Jaden J Read over alleged threats against Trump
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6499
-- slug: 2026-08-05-taele-faces-federal-weapons-charge-after-arrest-at-trump-golf-club
-  headline: Taele faces federal weapons charge after arrest at Trump golf club
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6199
-- slug: 2026-07-16-former-marine-charged-with-threatening-to-kill-trump
-  headline: Former Marine charged with threatening to kill Trump
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6196
-- slug: 2026-05-23-secret-service-fatally-shoots-suspect-outside-white-house-checkpoint-bystander-h
-  headline: Secret Service fatally shoots suspect outside White House checkpoint; bystander hit
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6382
-- slug: 2026-06-27-eight-in-custody-in-alleged-plot-to-assassinate-trump-at-white-house-ufc-event
-  headline: Eight in custody in alleged plot to assassinate Trump at White House UFC event
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6148
-- slug: 2026-05-07-man-charged-in-dc-shooting-said-f-k-the-white-house-authorities-say
-  headline: Man charged in DC shooting said “F—k the White House,” authorities say
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6414
+  strength: 0.6534
 - slug: 2026-04-14-man-shot-by-ice-in-california-arrested-by-fbi-attorney-says
   headline: Man shot by ICE in California arrested by FBI, attorney says
   publish_date: '2026-04-14'
   relation: related
-  strength: 0.6476
+  strength: 0.6502
 - slug: 2026-02-18-capitol-police-arrest-man-who-ran-toward-u-s-capitol-with-shotgun
   headline: Capitol Police arrest man who ran toward U.S. Capitol with shotgun
   publish_date: '2026-02-18'
   relation: related
-  strength: 0.6535
+  strength: 0.6551
 - slug: 2026-01-03-us-forces-seize-venezuela-s-maduro-in-overnight-raid-trump-claims-control
   headline: US forces seize Venezuela's Maduro in overnight raid; Trump claims control
   publish_date: '2026-01-03'
   relation: related
-  strength: 0.6544
-- slug: 2026-06-22-two-more-arrested-in-alleged-white-house-ufc-attack-plot
-  headline: Two more arrested in alleged White House UFC attack plot
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6129
+  strength: 0.6578
 - slug: 2026-03-05-anti-war-protester-arrested-at-senate-hearing-after-scuffle-injures-three-capito
-  headline: Anti-war protester arrested at Senate hearing after scuffle injures three Capitol Police
+  headline: Anti-war protester arrested at Senate hearing after scuffle injures three
+    Capitol Police
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.6476
-- slug: 2026-05-25-suspect-dead-after-opening-fire-near-white-house-checkpoint-secret-service-says
-  headline: Suspect dead after opening fire near White House checkpoint, Secret Service says
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6271
-- slug: 2026-04-30-media-dinner-shooter-case-spotlights-amtrak-train-security
-  headline: Media dinner shooter case spotlights Amtrak train security
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6315
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  headline: Judge orders man shot by ICE in California to remain in custody
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6312
-- slug: 2026-04-28-california-man-arrested-after-shooting-at-white-house-correspondents-dinner
-  headline: California man arrested after shooting at White House correspondents dinner
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6265
-- slug: 2026-04-15-prosecutors-charge-man-shot-by-ice-in-california-with-assaulting-officer
-  headline: Prosecutors charge man shot by ICE in California with assaulting officer
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6283
-- slug: 2026-05-23-man-fatally-shot-by-secret-service-after-opening-fire-near-white-house
-  headline: Man fatally shot by Secret Service after opening fire near White House
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6147
-- slug: 2026-05-06-texas-man-accused-in-dc-shooting-made-vulgar-remark-about-white-house
-  headline: Texas man accused in DC shooting made vulgar remark about White House
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6203
-- slug: 2026-04-16-armed-man-with-ar-style-pistol-arrested-at-aetna-s-hartford-headquarters
-  headline: Armed man with AR-style pistol arrested at Aetna's Hartford headquarters
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6242
-- slug: 2026-04-08-immigration-officers-say-they-shot-suspected-gang-member-in-california
-  headline: Immigration officers say they shot suspected gang member in California
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6254
+  strength: 0.6532
 ---
-
 ## Officers arrest armed man near White House over alleged threat to kill Trump
 
 **Subtype:** fact
