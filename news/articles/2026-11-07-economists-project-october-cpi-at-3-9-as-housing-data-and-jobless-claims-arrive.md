@@ -1,9 +1,24 @@
 ---
-headline: Economists project October CPI at 3.9% as housing data and jobless claims arrive
-secondary_headline: Existing-home sales are expected to remain mostly unchanged from September
+headline: Economists project October CPI at 3.9% as housing data and jobless claims
+  arrive
+secondary_headline: Existing-home sales are expected to remain mostly unchanged from
+  September
 publish_date: '2026-11-07'
-lede: Economists project the October consumer price index, due Tuesday, to show inflation rising to 3.9% from 3.7% in September, according to the Associated Press. The National Association of Realtors is scheduled to release its October existing-home sales report Thursday, the United States is scheduled to release weekly unemployment claims the same day, and the October producer price index is due Friday, while SkyDance, CoreWeave, Cisco and Applied Materials are scheduled to report earnings.
-nut_graf: The reports arrive a week after voters across the United States gave Democrats a sweep of Congress in the midterm elections, as high prices across consumer goods, including gasoline and groceries, squeeze households and businesses. The U.S. war with Iran, which began in February, slashed global oil supplies and fueled inflation that was already high amid President Donald Trump's tariff conflict with much of the world, and, according to the Associated Press, the latest inflation updates are not expected to show that price pressure easing. Economists, investors and policy makers are watching the indicators for the continued effects of the war and tariffs on prices, housing and employment.
+lede: Economists project the October consumer price index, due Tuesday, to show inflation
+  rising to 3.9% from 3.7% in September, according to the Associated Press. The National
+  Association of Realtors is scheduled to release its October existing-home sales
+  report Thursday, the United States is scheduled to release weekly unemployment claims
+  the same day, and the October producer price index is due Friday, while SkyDance,
+  CoreWeave, Cisco and Applied Materials are scheduled to report earnings.
+nut_graf: The reports arrive a week after voters across the United States gave Democrats
+  a sweep of Congress in the midterm elections, as high prices across consumer goods,
+  including gasoline and groceries, squeeze households and businesses. The U.S. war
+  with Iran, which began in February, slashed global oil supplies and fueled inflation
+  that was already high amid President Donald Trump's tariff conflict with much of
+  the world, and, according to the Associated Press, the latest inflation updates
+  are not expected to show that price pressure easing. Economists, investors and policy
+  makers are watching the indicators for the continued effects of the war and tariffs
+  on prices, housing and employment.
 primary_entities:
 - Donald Trump
 - Federal Reserve System
@@ -51,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,116 +166,63 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-06-us-employers-expected-to-add-65-000-jobs-in-october-as-inflation-erodes-pay
-  headline: US employers expected to add 65,000 jobs in October as inflation erodes pay
+  headline: US employers expected to add 65,000 jobs in October as inflation erodes
+    pay
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7906
+  strength: 0.7865
 - slug: 2026-10-31-jobs-data-surveys-and-earnings-reports-fill-the-calendar-around-election-day
-  headline: Jobs data, surveys and earnings reports fill the calendar around Election Day
+  headline: Jobs data, surveys and earnings reports fill the calendar around Election
+    Day
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7939
+  strength: 0.7905
 - slug: 2026-10-28-september-cpi-gains-3-7-annually-after-0-3-monthly-gains-in-august-september
-  headline: September CPI gains 3.7% annually after 0.3% monthly gains in August, September
+  headline: September CPI gains 3.7% annually after 0.3% monthly gains in August,
+    September
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8053
+  strength: 0.8062
 - slug: 2026-11-06-us-employers-add-165-000-jobs-in-october-as-unemployment-dips-to-4-1
   headline: US employers add 165,000 jobs in October as unemployment dips to 4.1%
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7391
+  strength: 0.7363
 - slug: 2026-11-06-us-employers-add-165-000-jobs-in-october-as-unemployment-rate-slips-to-4-1
-  headline: US employers add 165,000 jobs in October as unemployment rate slips to 4.1%
+  headline: US employers add 165,000 jobs in October as unemployment rate slips to
+    4.1%
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7249
+  strength: 0.7227
 - slug: 2026-10-28-september-inflation-accelerates-on-energy-price-spike
   headline: September inflation accelerates on energy-price spike
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7787
+  strength: 0.7765
 - slug: 2026-10-27-us-consumer-confidence-index-rises-7-5-points-to-91-7-in-october
   headline: US consumer confidence index rises 7.5 points to 91.7 in October
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7712
+  strength: 0.7694
 - slug: 2026-10-24-fed-rate-decision-and-economic-data-arrive-next-week
   headline: Fed rate decision and economic data arrive next week
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7812
-- slug: 2026-10-29-inflation-gauge-closely-monitored-by-fed-accelerates-to-3-6-in-september
-  headline: Inflation gauge closely monitored by Fed accelerates to 3.6% in September
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7418
-- slug: 2026-10-29-iowa-resale-store-manager-says-gas-food-and-utility-bills-outpace-wages
-  headline: Iowa resale store manager says gas, food and utility bills outpace wages
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7411
-- slug: 2026-10-29-final-gdp-report-lands-days-before-midterm-election
-  headline: Final GDP report lands days before midterm election
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7347
-- slug: 2026-10-29-us-economy-grows-3-4-in-third-quarter-on-ai-and-consumer-spending
-  headline: US economy grows 3.4% in third quarter on AI and consumer spending
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.733
-- slug: 2026-10-27-wage-growth-trails-inflation-as-trump-s-tariffs-raise-consumer-goods-prices
-  headline: Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7178
-- slug: 2026-10-14-inflation-broadens-beyond-energy-as-ai-buildout-lifts-computer-prices
-  headline: Inflation broadens beyond energy as AI buildout lifts computer prices
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7461
-- slug: 2026-10-14-78-of-americans-blame-trump-for-inflation-including-57-of-republicans
-  headline: 78% of Americans blame Trump for inflation, including 57% of Republicans
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7422
-- slug: 2026-10-14-september-cpi-rises-0-6-on-gasoline-surge-inflation-well-above-fed-target
-  headline: September CPI rises 0.6% on gasoline surge, inflation well above Fed target
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7179
-- slug: 2026-10-02-mortgage-rates-climb-to-7-28-in-largest-weekly-jump-since-2022
-  headline: Mortgage rates climb to 7.28% in largest weekly jump since 2022
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7168
-- slug: 2026-09-30-softer-august-pce-reading-lifts-wall-street-trims-october-rate-hike-odds
-  headline: Softer August PCE reading lifts Wall Street, trims October rate-hike odds
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7227
-- slug: 2026-09-05-wall-street-awaits-august-ppi-and-cpi-inflation-reports
-  headline: Wall Street awaits August PPI and CPI inflation reports
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7585
-- slug: 2026-08-22-wall-street-awaits-consumer-confidence-and-pce-inflation-reports-next-week
-  headline: Wall Street awaits consumer confidence and PCE inflation reports next week
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7512
+  strength: 0.7784
 image:
   url: /articles/2026-11-07-economists-project-october-cpi-at-3-9-as-housing-data-and-jobless-claims-arrive.png
-  alt: "Illustration accompanying article: Economists project October CPI at 3.9% as housing data and jobless claims arrive"
+  alt: 'Illustration accompanying article: Economists project October CPI at 3.9%
+    as housing data and jobless claims arrive'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Economists project October CPI at 3.9% as housing data and jobless claims arrive
 
 **Subtype:** fact
