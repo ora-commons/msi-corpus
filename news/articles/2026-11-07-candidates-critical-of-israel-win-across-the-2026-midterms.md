@@ -1,9 +1,21 @@
 ---
 headline: Candidates critical of Israel win across the 2026 midterms
-secondary_headline: Aipac's nearly $30m bid to defeat El-Sayed was its largest single-race investment
+secondary_headline: Aipac's nearly $30m bid to defeat El-Sayed was its largest single-race
+  investment
 publish_date: '2026-11-07'
-lede: Candidates who rejected Israel's wars and occupation and backed Palestinian self-determination won races across the 2026 US midterms, from Michigan's Senate contest to House primaries in Colorado and New York, according to a Guardian opinion column by Judith Levine. The American Israel Public Affairs Committee placed nearly $30m, its biggest investment ever in a single race, against Michigan Senate winner Abdul El-Sayed, who defeated Republican Mike Rogers by seven points.
-nut_graf: The 2026 midterms tested the long-standing assumption that harsh criticism of Israel's policies toward Palestine and Palestinians is politically costly for Democrats, and the column argued the results point the other way. Aipac's record single-race spending failed to defeat El-Sayed, and candidates who foregrounded their refusal of Aipac money and their support for Palestinian self-determination won contests in several states. Levine also cautioned that foreign policy ranked low among voters' concerns, leaving open how much the issue decided.
+lede: Candidates who rejected Israel's wars and occupation and backed Palestinian
+  self-determination won races across the 2026 US midterms, from Michigan's Senate
+  contest to House primaries in Colorado and New York, according to a Guardian opinion
+  column by Judith Levine. The American Israel Public Affairs Committee placed nearly
+  $30m, its biggest investment ever in a single race, against Michigan Senate winner
+  Abdul El-Sayed, who defeated Republican Mike Rogers by seven points.
+nut_graf: The 2026 midterms tested the long-standing assumption that harsh criticism
+  of Israel's policies toward Palestine and Palestinians is politically costly for
+  Democrats, and the column argued the results point the other way. Aipac's record
+  single-race spending failed to defeat El-Sayed, and candidates who foregrounded
+  their refusal of Aipac money and their support for Palestinian self-determination
+  won contests in several states. Levine also cautioned that foreign policy ranked
+  low among voters' concerns, leaving open how much the issue decided.
 primary_entities:
 - Abdul El-Sayed
 - Mike Rogers
@@ -62,7 +74,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -161,10 +174,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-04-pro-palestinian-candidates-prevail-across-2026-midterms-despite-aipac-spending
-  headline: Pro-Palestinian candidates prevail across 2026 midterms despite Aipac spending
+  headline: Pro-Palestinian candidates prevail across 2026 midterms despite Aipac
+    spending
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.856
+  strength: 0.8562
 - slug: 2026-11-06-el-sayed-s-senate-win-intensifies-democratic-debate-over-israel-support
   headline: El-Sayed's Senate win intensifies Democratic debate over Israel support
   publish_date: '2026-11-06'
@@ -176,92 +190,33 @@ related_stories:
   relation: related
   strength: 0.7677
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-and-backs-ending-israel-military-aid
-  headline: Abdul El-Sayed wins Michigan Senate seat and backs ending Israel military aid
+  headline: Abdul El-Sayed wins Michigan Senate seat and backs ending Israel military
+    aid
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7694
+  strength: 0.7695
 - slug: 2026-11-04-el-sayed-s-platform-included-a-wealth-tax-outside-spending-favored-rogers
   headline: El-Sayed's platform included a wealth tax; outside spending favored Rogers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7535
+  strength: 0.754
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-as-first-muslim-us-senator
   headline: Abdul El-Sayed wins Michigan Senate seat as first Muslim US senator
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7474
+  strength: 0.7475
 - slug: 2026-11-04-abdul-el-sayed-wins-michigan-senate-seat-over-mike-rogers
   headline: Abdul El-Sayed wins Michigan Senate seat over Mike Rogers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7402
+  strength: 0.7405
 - slug: 2026-11-02-aipac-spends-around-30m-in-stevens-s-primary-then-reportedly-9m-for-rogers
-  headline: AIPAC spends around $30m in Stevens’s primary, then reportedly $9m for Rogers
+  headline: AIPAC spends around $30m in Stevens’s primary, then reportedly $9m for
+    Rogers
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7472
-- slug: 2026-11-04-el-sayed-wins-michigan-senate-race-after-attacks-on-his-muslim-identity
-  headline: El-Sayed wins Michigan Senate race after attacks on his Muslim identity
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7216
-- slug: 2026-11-04-abdul-el-sayed-and-melat-kiros-secure-firsts-in-us-midterms
-  headline: Abdul El-Sayed and Melat Kiros secure firsts in US midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7196
-- slug: 2026-11-03-abdul-el-sayed-and-mike-rogers-make-final-pitches-for-the-michigan-senate-seat
-  headline: Abdul El-Sayed and Mike Rogers make final pitches for the Michigan Senate seat
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7216
-- slug: 2026-10-30-democratic-establishment-rallies-behind-el-sayed-in-michigan-senate-race
-  headline: Democratic establishment rallies behind El-Sayed in Michigan Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7286
-- slug: 2026-10-24-obama-rallies-for-el-sayed-in-michigan-senate-race
-  headline: Obama rallies for El-Sayed in Michigan Senate race
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6959
-- slug: 2026-10-11-virtually-unknown-donors-gave-up-to-1-million-each-to-a-super-pac
-  headline: Virtually unknown donors gave up to $1 million each to a super PAC
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7136
-- slug: 2026-10-09-el-sayed-rogers-clash-in-michigan-senate-debate-on-israel-ice-healthcare
-  headline: El-Sayed, Rogers clash in Michigan Senate debate on Israel, ICE, healthcare
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7088
-- slug: 2026-09-22-three-jewish-led-campaigns-form-in-michigan-over-el-sayed-s-israel-positions
-  headline: Three Jewish-led campaigns form in Michigan over El-Sayed's Israel positions
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.737
-- slug: 2026-08-28-el-sayed-stakes-michigan-senate-bid-on-family-themed-ads
-  headline: El-Sayed stakes Michigan Senate bid on family-themed ads
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7328
-- slug: 2026-08-29-uncommitted-movement-organizers-notch-democratic-primary-wins-across-states
-  headline: Uncommitted movement organizers notch Democratic primary wins across states
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7111
-- slug: 2026-07-12-united-democracy-project-spends-11-million-in-michigan-senate-primary
-  headline: United Democracy Project spends $11 million in Michigan Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.769
-- slug: 2026-08-10-el-sayed-primary-win-intensifies-democrats-debate-over-2028
-  headline: El-Sayed primary win intensifies Democrats’ debate over 2028
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.7172
+  strength: 0.7477
 ---
-
 ## Candidates critical of Israel win across the 2026 midterms
 
 **Subtype:** fact
