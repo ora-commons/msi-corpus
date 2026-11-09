@@ -1,9 +1,24 @@
 ---
-headline: Some Democrats promise more clean energy; major energy or climate changes need Republican votes
-secondary_headline: David Victor expects federal stalemate; Leah Stokes and Jay Inslee expect state action
+headline: Some Democrats promise more clean energy; major energy or climate changes
+  need Republican votes
+secondary_headline: David Victor expects federal stalemate; Leah Stokes and Jay Inslee
+  expect state action
 publish_date: '2026-11-08'
-lede: Some Democrats are promising to push for more clean energy to help tackle rising energy costs when they take control of Congress in January. The new House and Senate majorities can set a climate agenda, begin investigations and hold hearings, but enacting major energy or climate changes will require Republican support because Democrats cannot override presidential vetoes. President Donald Trump says he will use his veto power aggressively; speaking generally about legislation after Tuesday's election, he said he would veto "things that are insane" and separately predicted that after a couple of months of vetoes, he and Democrats would find ways to work together.
-nut_graf: Democrats can investigate, hold hearings and draft bills, but they lack the votes to override presidential vetoes, leaving major energy or climate changes dependent on Republican support. Lower energy bills are not guaranteed even if legislation passes, because prices also depend on fuel costs, demand and the expense of maintaining the electric grid. Lisa Sachs said "The vote was for affordability and opportunity," while Mike Sommers said "the affordability message is unmistakable."
+lede: Some Democrats are promising to push for more clean energy to help tackle rising
+  energy costs when they take control of Congress in January. The new House and Senate
+  majorities can set a climate agenda, begin investigations and hold hearings, but
+  enacting major energy or climate changes will require Republican support because
+  Democrats cannot override presidential vetoes. President Donald Trump says he will
+  use his veto power aggressively; speaking generally about legislation after Tuesday's
+  election, he said he would veto "things that are insane" and separately predicted
+  that after a couple of months of vetoes, he and Democrats would find ways to work
+  together.
+nut_graf: Democrats can investigate, hold hearings and draft bills, but they lack
+  the votes to override presidential vetoes, leaving major energy or climate changes
+  dependent on Republican support. Lower energy bills are not guaranteed even if legislation
+  passes, because prices also depend on fuel costs, demand and the expense of maintaining
+  the electric grid. Lisa Sachs said "The vote was for affordability and opportunity,"
+  while Mike Sommers said "the affordability message is unmistakable."
 primary_entities:
 - Donald Trump
 - Sheldon Whitehouse
@@ -72,7 +87,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -171,116 +187,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-08-some-democrats-promise-more-clean-energy-major-energy-or-climate-changes-need-re.png
-  alt: 'Illustration accompanying article: Some Democrats promise more clean energy; major energy or climate changes need…'
+  alt: 'Illustration accompanying article: Some Democrats promise more clean energy;
+    major energy or climate changes need…'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-06-democrats-plan-to-force-votes-on-popular-bills-and-dare-trump-to-veto-them
-  headline: Democrats plan to force votes on popular bills and dare Trump to veto them
+  headline: Democrats plan to force votes on popular bills and dare Trump to veto
+    them
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7703
+  strength: 0.7697
 - slug: 2026-11-05-democrats-win-congress-on-affordability-but-trump-retains-veto-power
   headline: Democrats win Congress on affordability, but Trump retains veto power
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7672
+  strength: 0.7669
 - slug: 2026-10-30-midterms-test-democrats-strategy-tying-climate-to-affordability
   headline: Midterms test Democrats' strategy tying climate to affordability
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7897
+  strength: 0.7898
 - slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
+  headline: Democrats take control of Congress, seek leverage over Trump’s foreign
+    policy
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.75
-- slug: 2026-11-07-democrats-face-limited-tools-to-ease-cost-of-living-anger-analysis-argues
-  headline: Democrats face limited tools to ease cost-of-living anger, analysis argues
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7311
+  strength: 0.7497
 - slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
   headline: Democratic leaders weigh oversight and legislation after 2026 midterms
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7238
+  strength: 0.7239
+- slug: 2026-11-07-democrats-face-limited-tools-to-ease-cost-of-living-anger-analysis-argues
+  headline: Democrats face limited tools to ease cost-of-living anger, analysis argues
+  publish_date: '2026-11-07'
+  relation: related
+  strength: 0.7303
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7491
+  strength: 0.7485
 - slug: 2026-11-05-senate-nears-vote-on-bipartisan-energy-permitting-overhaul
   headline: Senate nears vote on bipartisan energy permitting overhaul
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7343
-- slug: 2026-11-05-democrats-link-climate-policy-to-affordability-in-2026-midterm-wins
-  headline: Democrats link climate policy to affordability in 2026 midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7273
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7327
-- slug: 2026-11-05-trump-s-veto-power-takes-center-stage-as-democrats-near-control
-  headline: Trump's veto power takes center stage as Democrats near control
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7251
-- slug: 2026-11-08-inflation-tops-the-agenda-for-trump-and-the-new-democratic-congress
-  headline: Inflation tops the agenda for Trump and the new Democratic Congress
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7025
-- slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
-  headline: Democrats prepare agenda on taxes, health care, AI and Social Security
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7265
-- slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7264
-- slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
-  headline: Democrats win Congress as Trump retains broad presidential powers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7203
-- slug: 2026-11-05-about-half-of-voters-called-corruption-crucial-as-democrats-name-probe-targets
-  headline: About half of voters called corruption crucial as Democrats name probe targets
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7079
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7211
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.705
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7051
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7003
+  strength: 0.734
 ---
-
 ## Some Democrats promise more clean energy; major energy or climate changes need Republican votes
 
 **Subtype:** fact

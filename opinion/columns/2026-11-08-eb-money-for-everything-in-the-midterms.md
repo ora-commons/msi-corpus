@@ -1,7 +1,8 @@
 ---
 headline: Money for Everything in the Midterms
 publish_date: '2026-11-08'
-lede: Elections often have the helpful effect of exposing donor-class political narratives as frauds, and Tuesday's did the job on several.
+lede: Elections often have the helpful effect of exposing donor-class political narratives
+  as frauds, and Tuesday's did the job on several.
 pen_name: editorial-board
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: editorial-board-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/money-for-everything-in-the-midterms.png
+  alt: 'Editorial cartoon by Hector Rentier: Money for Everything in the Midterms'
+  caption: The Court removed the limit. The donor class supplied the money.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-09T08:42:47-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1, dense Nast-style wood-engraving with heavy cross-hatching,
+    black masses, and carved-out whites. Elon Musk sits at the head of a campaign-finance
+    table, recognizably himself and fully human
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-08-hector-paired-with-2026-11-08-eb-money-for-everything-in-the-midterms
 ---
+
+![Editorial cartoon by Hector Rentier: Money for Everything in the Midterms](/cartoons/money-for-everything-in-the-midterms.png)
+*The Court removed the limit. The donor class supplied the money.*
 
 Elections often have the helpful effect of exposing donor-class political narratives as frauds, and Tuesday's did the job on several. We've told you how the Democrats' "steal the election" warning was laughed off, and today's installment concerns the fact that money dominates elections.
 

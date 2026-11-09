@@ -1,9 +1,18 @@
 ---
 headline: Guterres prepares final climate message as COP31's Nov. 9 opening nears
-secondary_headline: Guterres said scientists told him the 1.5-degree goal was no longer alive
+secondary_headline: Guterres said scientists told him the 1.5-degree goal was no longer
+  alive
 publish_date: '2026-11-07'
-lede: 'United Nations Secretary-General António Guterres is preparing his last global-warming address as UN chief for the COP31 climate conference in Turkey, scheduled for Nov. 9-20 and set to open Monday. He told The Associated Press that his message for world leaders is: "This is a moment of truth." His second and final term as secretary-general expires at the end of the year.'
-nut_graf: Guterres says scientists have told him the Paris Agreement's main 1.5-degree Celsius warming goal is no longer alive as he prepares to press world leaders for immediate action. He also says the secretary-general's office has little money and no power to compel national governments, leaving those governments responsible for reducing heat-trapping emissions.
+lede: 'United Nations Secretary-General António Guterres is preparing his last global-warming
+  address as UN chief for the COP31 climate conference in Turkey, scheduled for Nov.
+  9-20 and set to open Monday. He told The Associated Press that his message for world
+  leaders is: "This is a moment of truth." His second and final term as secretary-general
+  expires at the end of the year.'
+nut_graf: Guterres says scientists have told him the Paris Agreement's main 1.5-degree
+  Celsius warming goal is no longer alive as he prepares to press world leaders for
+  immediate action. He also says the secretary-general's office has little money and
+  no power to compel national governments, leaving those governments responsible for
+  reducing heat-trapping emissions.
 primary_entities:
 - António Guterres
 - United Nations
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +154,43 @@ related_stories:
   headline: UN climate talks open in Turkey with fossil fuel transition as key issue
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7454
+  strength: 0.7456
 - slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
   headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7307
-- slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6471
+  strength: 0.7313
 - slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
   headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6516
+  strength: 0.6512
 - slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
   headline: U.N. report finds U.S. emissions rose while global total held steady
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6882
+  strength: 0.6877
 - slug: 2026-10-20-ipcc-suspends-meeting-without-setting-ar7-publication-timeline
   headline: IPCC suspends meeting without setting AR7 publication timeline
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.67
+  strength: 0.6693
 - slug: 2026-10-09-at-fiji-pre-summit-kurum-calls-climate-crisis-the-security-issue
   headline: At Fiji pre-summit, Kurum calls climate crisis 'the security issue'
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6696
+  strength: 0.67
 - slug: 2026-09-22-guterres-opens-un-general-assembly-warning-of-widening-fault-lines
   headline: Guterres opens UN General Assembly warning of 'widening fault lines'
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7089
+  strength: 0.7097
 - slug: 2026-09-22-world-leaders-at-un-general-assembly-call-for-security-council-reform
   headline: World leaders at UN General Assembly call for Security Council reform
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6846
-- slug: 2026-09-22-trump-prepares-un-address-as-approval-sits-below-40
-  headline: Trump prepares UN address as approval sits below 40%
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6464
-- slug: 2026-09-20-next-un-secretary-general-faces-gaza-genocide-accusation-climate-crisis-ai-threa
-  headline: Next UN secretary-general faces Gaza genocide accusation, climate crisis, AI threats
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6525
-- slug: 2026-09-21-world-leaders-at-climate-week-link-fossil-fuels-to-wars-and-economic-risk
-  headline: World leaders at Climate Week link fossil fuels to wars and economic risk
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6455
-- slug: 2026-09-21-trump-to-address-un-general-assembly-as-iran-s-president-set-to-speak-next-day
-  headline: Trump to address UN General Assembly as Iran's president set to speak next day
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6436
-- slug: 2026-09-21-abbas-to-address-un-general-assembly-by-video-after-visa-denial
-  headline: Abbas to address UN General Assembly by video after visa denial
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6433
-- slug: 2026-09-02-un-report-acknowledges-earth-will-exceed-paris-climate-threshold
-  headline: UN report acknowledges Earth will exceed Paris climate threshold
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6725
-- slug: 2026-06-23-un-chief-calls-on-ai-companies-to-disclose-environmental-impact
-  headline: UN chief calls on AI companies to disclose environmental impact
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6982
-- slug: 2026-01-15-guterres-opens-final-year-at-un-by-condemning-law-violations-ultra-wealthy-influ
-  headline: Guterres opens final year at UN by condemning law violations, ultra-wealthy influence
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7345
-- slug: 2026-04-29-high-level-talks-begin-on-shifting-from-fossil-fuels-in-colombia
-  headline: High-level talks begin on shifting from fossil fuels in Colombia
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6687
-- slug: 2026-05-18-scientists-revise-global-warming-futures-say-1-5-c-goal-slipping
-  headline: Scientists revise global warming futures, say 1.5°C goal slipping
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6586
-- slug: 2026-05-20-scientists-narrow-climate-warming-futures-but-say-1-5-c-is-slipping
-  headline: Scientists narrow climate warming futures, but say 1.5°C is slipping
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6502
+  strength: 0.6859
 ---
-
 ## Guterres prepares final climate message as COP31's Nov. 9 opening nears
 
 **Subtype:** fact
