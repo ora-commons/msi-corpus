@@ -1,9 +1,31 @@
 ---
 headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
-secondary_headline: Official agenda omits detailed country plans to transition away from fossil fuels
+secondary_headline: Official agenda omits detailed country plans to transition away
+  from fossil fuels
 publish_date: '2026-11-07'
-lede: More than 500 mostly Australian scientists and academics have asked Prime Minister Anthony Albanese to end coal and gas approvals and for a legislated plan to phase out fossil fuel production that protects workers and communities, as Chris Bowen prepares to lead negotiations between nearly 200 countries at the Cop31 UN climate talks opening Monday in Antalya, Turkey. The official Cop31 agenda does not mention countries developing detailed plans to transition away from fossil fuels, a step climate experts describe as central to limiting the crisis. Speaking to The Guardian on Thursday, Bowen dismissed questions about whether Australia, a major fossil fuel producer, could keep the world moving away from fossil fuels, saying all countries were dealing with the transition and that Australia's domestic moves away from coal in electricity had been recognised internationally. Kathryn McCallum, director of strategy at Climate Action Network Australia, says the Albanese government has approved 38 coal, oil and gas projects since 2022.
-nut_graf: Cop31 opens on Monday in Antalya with no detailed fossil fuel transition plans on the official agenda, and Australia arrives as a major fossil fuel producer that has approved 38 coal, oil and gas projects since 2022, according to Kathryn McCallum, director of strategy at Climate Action Network Australia. UN climate talks proceed by consensus, meaning every country must agree before resolutions pass, and Bowen will try to find consensus among rich fossil fuel producers such as Saudi Arabia and Russia, emerging economic giants including China, the world's biggest emitter, and poorer vulnerable countries for whom climate change is seen as an existential threat. Turkey and Australia want the talks to end with an overarching agreement from all countries, known as a cover decision.
+lede: More than 500 mostly Australian scientists and academics have asked Prime Minister
+  Anthony Albanese to end coal and gas approvals and for a legislated plan to phase
+  out fossil fuel production that protects workers and communities, as Chris Bowen
+  prepares to lead negotiations between nearly 200 countries at the Cop31 UN climate
+  talks opening Monday in Antalya, Turkey. The official Cop31 agenda does not mention
+  countries developing detailed plans to transition away from fossil fuels, a step
+  climate experts describe as central to limiting the crisis. Speaking to The Guardian
+  on Thursday, Bowen dismissed questions about whether Australia, a major fossil fuel
+  producer, could keep the world moving away from fossil fuels, saying all countries
+  were dealing with the transition and that Australia's domestic moves away from coal
+  in electricity had been recognised internationally. Kathryn McCallum, director of
+  strategy at Climate Action Network Australia, says the Albanese government has approved
+  38 coal, oil and gas projects since 2022.
+nut_graf: Cop31 opens on Monday in Antalya with no detailed fossil fuel transition
+  plans on the official agenda, and Australia arrives as a major fossil fuel producer
+  that has approved 38 coal, oil and gas projects since 2022, according to Kathryn
+  McCallum, director of strategy at Climate Action Network Australia. UN climate talks
+  proceed by consensus, meaning every country must agree before resolutions pass,
+  and Bowen will try to find consensus among rich fossil fuel producers such as Saudi
+  Arabia and Russia, emerging economic giants including China, the world's biggest
+  emitter, and poorer vulnerable countries for whom climate change is seen as an existential
+  threat. Turkey and Australia want the talks to end with an overarching agreement
+  from all countries, known as a cover decision.
 primary_entities:
 - Chris Bowen
 - Anthony Albanese
@@ -48,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +173,45 @@ related_stories:
   headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8266
+  strength: 0.8264
 - slug: 2026-11-06-un-climate-talks-open-in-turkey-with-fossil-fuel-transition-as-key-issue
   headline: UN climate talks open in Turkey with fossil fuel transition as key issue
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7714
+  strength: 0.7724
 - slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
   headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7163
-- slug: 2026-11-05-australia-designates-offshore-site-for-proposed-inpex-carbon-storage
-  headline: Australia designates offshore site for proposed Inpex carbon storage
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6476
+  strength: 0.7162
 - slug: 2026-10-20-ipcc-suspends-meeting-without-setting-ar7-publication-timeline
   headline: IPCC suspends meeting without setting AR7 publication timeline
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.688
+  strength: 0.6873
 - slug: 2026-10-09-at-fiji-pre-summit-kurum-calls-climate-crisis-the-security-issue
   headline: At Fiji pre-summit, Kurum calls climate crisis 'the security issue'
   publish_date: '2026-10-09'
   relation: related
   strength: 0.7372
-- slug: 2026-10-27-chris-packham-urges-uk-chancellor-to-cut-24bn-carbon-capture-plan
-  headline: Chris Packham urges UK chancellor to cut £24bn carbon capture plan
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6264
-- slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
-  headline: U.N. report finds U.S. emissions rose while global total held steady
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6358
 - slug: 2026-09-23-taylor-pledges-to-repeal-australian-climate-energy-policies
   headline: Taylor pledges to repeal Australian climate, energy policies
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.699
+  strength: 0.6998
 - slug: 2026-09-21-world-leaders-at-climate-week-link-fossil-fuels-to-wars-and-economic-risk
   headline: World leaders at Climate Week link fossil fuels to wars and economic risk
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6817
+  strength: 0.6825
 - slug: 2026-09-21-albanese-at-un-climate-week-says-cost-of-climate-inaction-cannot-be-avoided
   headline: Albanese at UN Climate Week says cost of climate inaction cannot be avoided
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6778
-- slug: 2026-09-20-albanese-launches-australia-s-un-security-council-bid
-  headline: Albanese launches Australia's UN Security Council bid
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6468
-- slug: 2026-09-14-epa-reportedly-poised-to-scrap-power-plant-emission-rules-at-houston-g20
-  headline: EPA reportedly poised to scrap power-plant emission rules at Houston G20
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6508
-- slug: 2026-09-14-epa-moves-to-repeal-all-greenhouse-gas-standards-for-power-plants
-  headline: EPA moves to repeal all greenhouse gas standards for power plants
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6397
-- slug: 2026-09-14-epa-scraps-biden-era-greenhouse-gas-rules-for-power-plants
-  headline: EPA scraps Biden-era greenhouse gas rules for power plants
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6351
-- slug: 2026-09-04-uk-energy-secretary-expected-to-recommend-jackdaw-gasfield-approval
-  headline: UK energy secretary expected to recommend Jackdaw gasfield approval
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.622
-- slug: 2026-08-24-eu-uk-and-canada-pare-back-climate-goals-amid-energy-costs
-  headline: EU, UK and Canada pare back climate goals amid energy costs
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6427
-- slug: 2026-04-26-colombia-hosts-global-summit-to-tackle-fossil-fuel-reliance
-  headline: Colombia hosts global summit to tackle fossil fuel reliance
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6694
-- slug: 2026-04-29-high-level-talks-begin-on-shifting-from-fossil-fuels-in-colombia
-  headline: High-level talks begin on shifting from fossil fuels in Colombia
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6664
-- slug: 2026-04-28-colombia-climate-conference-spotlights-finance-squeeze-slowing-fossil-fuel-shift
-  headline: Colombia climate conference spotlights finance squeeze slowing fossil-fuel shift
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6494
+  strength: 0.6781
+analyses:
+- '2026-11-07-bowen-confronts-a-consensus-gap-between-climate-leadership-and-fossil-fuel-expan'
 ---
-
 ## Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
 
 **Subtype:** fact
@@ -291,3 +255,8 @@ Prime Minister Anthony Albanese is scheduled to speak during a two-day leaders s
 **Publication date:** 2026-11-07
 **Title:** How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out
 **URL:** https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals
+
+---
+
+<!-- analysis-link:2026-11-07-bowen-confronts-a-consensus-gap-between-climate-leadership-and-fossil-fuel-expan -->
+**Going deeper:** [Read MSI's analysis of the Cop31 credibility test →](/analyses/2026-11-07-bowen-confronts-a-consensus-gap-between-climate-leadership-and-fossil-fuel-expan)

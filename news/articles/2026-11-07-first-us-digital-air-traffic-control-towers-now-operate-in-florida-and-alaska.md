@@ -1,9 +1,19 @@
 ---
 headline: First US digital air traffic control towers now operate in Florida and Alaska
-secondary_headline: Trump administration seeks $30 billion after Congress approved $12.5 billion for reforms
+secondary_headline: Trump administration seeks $30 billion after Congress approved
+  $12.5 billion for reforms
 publish_date: '2026-11-07'
-lede: According to the Federal Aviation Administration, the first digital air traffic control towers in the United States are officially operational at Bartow Executive Airport in Florida and Kenai Municipal Airport in Alaska. The systems are online at the two smaller airports, and five additional regional airports are slated to receive the technology next. FAA Administrator Bryan Bedford said the systems give controllers greater visibility of airport activity and more information for critical decisions.
-nut_graf: The rollout marks the first operational use of digital tower technology in the US aviation system. It comes during a federal effort to replace decades-old equipment, amid a national shortage of air traffic controllers and scrutiny of tower staffing and related parts of the air traffic safety system.
+lede: According to the Federal Aviation Administration, the first digital air traffic
+  control towers in the United States are officially operational at Bartow Executive
+  Airport in Florida and Kenai Municipal Airport in Alaska. The systems are online
+  at the two smaller airports, and five additional regional airports are slated to
+  receive the technology next. FAA Administrator Bryan Bedford said the systems give
+  controllers greater visibility of airport activity and more information for critical
+  decisions.
+nut_graf: The rollout marks the first operational use of digital tower technology
+  in the US aviation system. It comes during a federal effort to replace decades-old
+  equipment, amid a national shortage of air traffic controllers and scrutiny of tower
+  staffing and related parts of the air traffic safety system.
 primary_entities:
 - Federal Aviation Administration
 - Bryan Bedford
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +153,40 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-ftc-demands-pricing-data-from-airlines-it-cannot-fine
-  headline: FTC demands pricing data from airlines it cannot fine
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6355
-- slug: 2026-10-23-beta-technologies-receives-federal-certification-for-electric-alia-aircraft
-  headline: Beta Technologies receives federal certification for electric ALIA aircraft
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6398
 - slug: 2026-09-21-faa-launches-875m-ai-system-to-manage-u-s-airspace
   headline: FAA launches $875M AI system to manage U.S. airspace
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.722
+  strength: 0.7199
 - slug: 2026-09-17-faa-set-to-deploy-smart-ai-tool-in-washington-airspace-monday
   headline: FAA set to deploy Smart AI tool in Washington airspace Monday
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7286
-- slug: 2026-09-29-trump-administration-launches-america-gov-ai-portal-for-federal-services
-  headline: Trump administration launches America.gov AI portal for federal services
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6369
-- slug: 2026-09-28-faa-chief-delays-737-max-10-certification-over-pilot-workload-software-glitch
-  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software glitch
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6285
-- slug: 2026-09-26-faa-probes-boeing-737-max-software-glitch-in-landing-scenarios
-  headline: FAA probes Boeing 737 MAX software glitch in landing scenarios
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6207
-- slug: 2026-08-27-faa-moves-to-fire-two-controllers-who-left-early-before-laguardia-crash
-  headline: FAA moves to fire two controllers who left early before LaGuardia crash
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6289
+  strength: 0.7257
 - slug: 2026-08-12-faa-plans-antenna-relocations-new-procedures-after-marine-one-incident-at-reagan
-  headline: FAA plans antenna relocations, new procedures after Marine One incident at Reagan
+  headline: FAA plans antenna relocations, new procedures after Marine One incident
+    at Reagan
   publish_date: '2026-08-12'
   relation: related
-  strength: 0.6519
+  strength: 0.6532
 - slug: 2026-06-30-faa-moves-to-mandate-aircraft-collision-avoidance-technology-after-dc-crash
-  headline: FAA moves to mandate aircraft collision-avoidance technology after DC crash
+  headline: FAA moves to mandate aircraft collision-avoidance technology after DC
+    crash
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6703
+  strength: 0.6711
 - slug: 2026-06-11-faa-rule-change-expected-to-unlock-surge-in-commercial-drone-flights
   headline: FAA rule change expected to unlock surge in commercial drone flights
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.6554
-- slug: 2026-04-30-kaua-i-s-waimea-canyon-to-get-faa-weather-cameras-for-air-tours
-  headline: Kauaʻi’s Waimea Canyon to get FAA weather cameras for air tours
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6494
+  strength: 0.6552
 - slug: 2026-01-05-faa-picks-rtx-and-indra-to-replace-612-outdated-radar-systems-by-summer-2028
-  headline: FAA picks RTX and Indra to replace 612 outdated radar systems by summer 2028
+  headline: FAA picks RTX and Indra to replace 612 outdated radar systems by summer
+    2028
   publish_date: '2026-01-05'
   relation: related
   strength: 0.6518
-- slug: 2026-03-10-faa-briefly-grounds-all-jetblue-flights-after-system-outage-lifts-stop-in-40-min
-  headline: FAA briefly grounds all JetBlue flights after system outage, lifts stop in 40 minutes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6463
-- slug: 2026-04-11-faa-and-pentagon-approve-counter-drone-lasers-for-southern-border
-  headline: FAA and Pentagon approve counter-drone lasers for southern border
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6319
-- slug: 2026-03-24-air-traffic-controller-stress-comes-into-focus-after-laguardia-crash
-  headline: Air traffic controller stress comes into focus after LaGuardia crash
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6341
-- slug: 2026-04-30-transponders-to-be-installed-on-new-york-airport-rescue-vehicles-after-laguardia
-  headline: Transponders to be installed on New York airport rescue vehicles after LaGuardia crash
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6253
-- slug: 2026-05-02-air-force-says-qatar-donated-747-will-be-ready-as-trump-s-air-force-one
-  headline: Air Force says Qatar-donated 747 will be ready as Trump’s Air Force One
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6247
-- slug: 2026-03-19-faa-to-use-radar-for-helicopter-plane-separation-at-busiest-airports
-  headline: FAA to use radar for helicopter-plane separation at busiest airports
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6337
-- slug: 2026-02-15-more-law-enforcement-agencies-will-soon-have-counter-drone-technology
-  headline: More law enforcement agencies will soon have counter-drone technology
-  publish_date: '2026-02-15'
-  relation: related
-  strength: 0.6344
 ---
-
 ## First US digital air traffic control towers now operate in Florida and Alaska
 
 **Subtype:** fact
