@@ -1,9 +1,24 @@
 ---
 headline: Inflation tops the agenda for Trump and the new Democratic Congress
-secondary_headline: Congress faces decisions on deficits, AI regulation and Social Security
+secondary_headline: Congress faces decisions on deficits, AI regulation and Social
+  Security
 publish_date: '2026-11-08'
-lede: 'After Tuesday''s midterm elections, Democrats won majorities in the House and Senate, and voters sent the same demand to the new congressional majority and to President Donald Trump: repair the economic damage inflation has done to the economy. Trump, who campaigned on the idea that a Democratic victory would trigger a 1929-style economic depression and has maintained that the economy is booming, said he is willing to work with Democrats, a position he has not taken often in the past. Democrats are preparing for early fights over government spending, alongside decisions on chronic budget deficits, tariffs, artificial intelligence and a Social Security system projected to be unable to pay full benefits at the end of 2032.'
-nut_graf: 'The post-election agenda runs through the numbers voters reacted to: a consumer price index up 3.7% annually, a federal government borrowing about $2 trillion a year and paying more than $1 trillion annually in interest, and a Social Security system that could run short of money in as little as six years. The Associated Press reported that as long as rising prices keep middle-class lives less affordable, Democrats and Republicans alike face the risk of angering and alienating voters in the next election cycle.'
+lede: 'After Tuesday''s midterm elections, Democrats won majorities in the House and
+  Senate, and voters sent the same demand to the new congressional majority and to
+  President Donald Trump: repair the economic damage inflation has done to the economy.
+  Trump, who campaigned on the idea that a Democratic victory would trigger a 1929-style
+  economic depression and has maintained that the economy is booming, said he is willing
+  to work with Democrats, a position he has not taken often in the past. Democrats
+  are preparing for early fights over government spending, alongside decisions on
+  chronic budget deficits, tariffs, artificial intelligence and a Social Security
+  system projected to be unable to pay full benefits at the end of 2032.'
+nut_graf: 'The post-election agenda runs through the numbers voters reacted to: a
+  consumer price index up 3.7% annually, a federal government borrowing about $2 trillion
+  a year and paying more than $1 trillion annually in interest, and a Social Security
+  system that could run short of money in as little as six years. The Associated Press
+  reported that as long as rising prices keep middle-class lives less affordable,
+  Democrats and Republicans alike face the risk of angering and alienating voters
+  in the next election cycle.'
 primary_entities:
 - Donald Trump
 - U.S. Democratic Party
@@ -52,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -68,12 +84,15 @@ figures:
   series_id: UNRATE
   transformation: raw
   as_of: 2026-11-08
-  caption: The U-3 unemployment rate stood at 4.1% as of Nov. 8, 2026, the figure cited from Friday's jobs report in this article (FRED series UNRATE, raw; https://fred.stlouisfed.org/series/UNRATE).
+  caption: The U-3 unemployment rate stood at 4.1% as of Nov. 8, 2026, the figure
+    cited from Friday's jobs report in this article (FRED series UNRATE, raw; https://fred.stlouisfed.org/series/UNRATE).
 - source: fred
   series_id: U6RATE
   transformation: raw
   as_of: 2026-11-08
-  caption: The broader U-6 measure of unemployment and underemployment, which counts discouraged workers and involuntary part-time workers, stood at 7.9% as of Nov. 8, 2026 (FRED series U6RATE, raw; https://fred.stlouisfed.org/series/U6RATE).
+  caption: The broader U-6 measure of unemployment and underemployment, which counts
+    discouraged workers and involuntary part-time workers, stood at 7.9% as of Nov.
+    8, 2026 (FRED series U6RATE, raw; https://fred.stlouisfed.org/series/U6RATE).
 figures_aggregate:
   count: 2
   series_ids:
@@ -168,104 +187,45 @@ related_stories:
   headline: Midterm voters link Trump policies to inflation as Democrats win majorities
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8138
+  strength: 0.8148
 - slug: 2026-11-07-democrats-face-limited-tools-to-ease-cost-of-living-anger-analysis-argues
   headline: Democrats face limited tools to ease cost-of-living anger, analysis argues
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7809
+  strength: 0.7816
 - slug: 2026-11-04-cost-of-living-central-in-associated-press-poll-as-democrats-win-both-chambers
-  headline: Cost of living central in Associated Press poll as Democrats win both chambers
+  headline: Cost of living central in Associated Press poll as Democrats win both
+    chambers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7864
+  strength: 0.7874
 - slug: 2026-11-03-midterm-voters-cite-cost-of-living-and-dissatisfaction-with-trump
   headline: Midterm voters cite cost of living and dissatisfaction with Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7774
+  strength: 0.778
 - slug: 2026-11-05-rural-voters-face-economic-strain-as-republicans-lose-key-midterm-races
   headline: Rural voters face economic strain as Republicans lose key midterm races
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7582
+  strength: 0.758
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7664
+  strength: 0.7656
 - slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
   headline: Democrats take control of Congress in 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7614
+  strength: 0.7609
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7743
-- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
-  headline: Consumer prices outpace paychecks as the midterms approach
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7956
-- slug: 2026-10-27-wage-growth-trails-inflation-as-trump-s-tariffs-raise-consumer-goods-prices
-  headline: Wage growth trails inflation as Trump's tariffs raise consumer-goods prices
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7878
-- slug: 2026-10-26-us-inflation-fluctuates-as-job-growth-slows-and-mortgage-rates-top-7
-  headline: US inflation fluctuates as job growth slows and mortgage rates top 7%
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7668
-- slug: 2026-10-20-us-gdp-grew-3-2-since-end-of-2024-faster-than-any-g7-peer
-  headline: US GDP grew 3.2% since end of 2024, faster than any G7 peer
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7591
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7834
-- slug: 2026-10-14-78-of-americans-blame-trump-for-inflation-including-57-of-republicans
-  headline: 78% of Americans blame Trump for inflation, including 57% of Republicans
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7771
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.8101
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7653
-- slug: 2026-10-07-republican-candidates-recalibrate-on-affordability-ahead-of-november-midterms
-  headline: Republican candidates recalibrate on affordability ahead of November midterms
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7657
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7558
-- slug: 2026-10-03-trump-reiterates-5-000-voter-pledge-with-1929-depression-warning
-  headline: Trump reiterates $5,000 voter pledge with 1929 depression warning
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7584
-- slug: 2026-09-28-73-of-americans-rate-economy-fair-or-poor-as-inflation-climbs-to-3-4
-  headline: 73% of Americans rate economy fair or poor as inflation climbs to 3.4%
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7663
+  strength: 0.7732
 ---
-
 ## Inflation tops the agenda for Trump and the new Democratic Congress
 
 **Subtype:** fact

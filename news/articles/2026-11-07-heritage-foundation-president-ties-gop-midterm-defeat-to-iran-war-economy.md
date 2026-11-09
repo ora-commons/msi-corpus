@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.6887
+analyses:
+- '2026-11-07-kevin-roberts-links-republican-midterm-losses-to-conflict-driven-costs'
 ---
 ## Heritage Foundation president ties GOP midterm defeat to Iran war economy
 
@@ -267,3 +269,8 @@ Heritage does not endorse candidates, Roberts said, rejecting any suggestion tha
 **Publication date:** 2026-11-07
 **Title:** President of The Heritage Foundation looks ahead to the future of the GOP
 **URL:** https://www.npr.org/2026/11/07/nx-s1-6029779/president-of-the-heritage-foundation-looks-ahead-to-the-future-of-the-gop
+
+---
+
+<!-- analysis-link:2026-11-07-kevin-roberts-links-republican-midterm-losses-to-conflict-driven-costs -->
+**Going deeper:** [Read MSI's analysis of post-midterm Republican economic strategy →](/analyses/2026-11-07-kevin-roberts-links-republican-midterm-losses-to-conflict-driven-costs)
