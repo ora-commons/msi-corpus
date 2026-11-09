@@ -2,8 +2,16 @@
 headline: Acemoglu urges Congress to steer AI toward good jobs and wage growth
 secondary_headline: Acemoglu calls for a fairer, more symmetric tax code
 publish_date: '2026-11-07'
-lede: In an NPR interview published Nov. 7, MIT economics professor Daron Acemoglu told host Scott Simon that Congress should prioritize good jobs and wage growth over lowering prices as artificial intelligence reshapes work. With Democrats preparing to take control of Congress, Acemoglu urged a pro-worker direction for AI and a fairer, more symmetric tax code.
-nut_graf: 'His recommendations came against a market backdrop NPR described: the tech-heavy NASDAQ had lost more than $2 trillion in market value two days after the midterm elections, and tech stocks rebounded modestly Friday. Acemoglu said policy choices could determine whether AI creates jobs and supports wage growth or deepens inequality and concentrates control in a few companies.'
+lede: In an NPR interview published Nov. 7, MIT economics professor Daron Acemoglu
+  told host Scott Simon that Congress should prioritize good jobs and wage growth
+  over lowering prices as artificial intelligence reshapes work. With Democrats preparing
+  to take control of Congress, Acemoglu urged a pro-worker direction for AI and a
+  fairer, more symmetric tax code.
+nut_graf: 'His recommendations came against a market backdrop NPR described: the tech-heavy
+  NASDAQ had lost more than $2 trillion in market value two days after the midterm
+  elections, and tech stocks rebounded modestly Friday. Acemoglu said policy choices
+  could determine whether AI creates jobs and supports wage growth or deepens inequality
+  and concentrates control in a few companies.'
 primary_entities:
 - Daron Acemoglu
 - Scott Simon
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +68,9 @@ figures:
   series_id: FRBATLWGT3MMAUMHWGO
   transformation: raw
   as_of: '2026-11-07'
-  caption: The Atlanta Fed Wage Growth Tracker stood at 3.9% on Nov. 7, 2026. The three-month moving average measures composition-adjusted wage growth for the median continuously employed worker.
+  caption: The Atlanta Fed Wage Growth Tracker stood at 3.9% on Nov. 7, 2026. The
+    three-month moving average measures composition-adjusted wage growth for the median
+    continuously employed worker.
 figures_aggregate:
   count: 1
   series_ids:
@@ -150,31 +161,39 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-07-acemoglu-urges-congress-to-steer-ai-toward-good-jobs-and-wage-growth.png
-  alt: 'Illustration accompanying article: Acemoglu urges Congress to steer AI toward good jobs and wage growth'
+  alt: 'Illustration accompanying article: Acemoglu urges Congress to steer AI toward
+    good jobs and wage growth'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-05-ai-related-companies-now-make-up-roughly-half-of-the-s-p-500-npr-editor-says
-  headline: AI-related companies now make up roughly half of the S&P 500, NPR editor says
+  headline: AI-related companies now make up roughly half of the S&P 500, NPR editor
+    says
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7066
+  strength: 0.7069
 - slug: 2026-11-06-ai-shares-rebound-after-selloff-erased-more-than-2-trillion-as-data-center-votes
-  headline: AI shares rebound after selloff erased more than $2 trillion as data-center votes unsettle investors
+  headline: AI shares rebound after selloff erased more than $2 trillion as data-center
+    votes unsettle investors
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6952
+  strength: 0.6948
 - slug: 2026-11-06-stocks-fall-at-least-3-in-post-election-sell-off-before-nasdaq-rebounds-friday
-  headline: Stocks fall at least 3% in post-election sell-off before NASDAQ rebounds Friday
+  headline: Stocks fall at least 3% in post-election sell-off before NASDAQ rebounds
+    Friday
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6898
+  strength: 0.6895
 - slug: 2026-11-06-analysts-weigh-whether-ai-sell-off-is-froth-removal-or-a-bubble-about-to-burst
-  headline: Analysts weigh whether AI sell-off is froth removal or a bubble about to burst
+  headline: Analysts weigh whether AI sell-off is froth removal or a bubble about
+    to burst
   publish_date: '2026-11-06'
   relation: related
   strength: 0.674
@@ -182,84 +201,24 @@ related_stories:
   headline: Nasdaq opens higher after rout erased trillions in tech stock value
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6731
+  strength: 0.6729
 - slug: 2026-11-08-joe-maher-says-us-midterms-could-spark-a-longer-ai-equity-unwind
   headline: Joe Maher says US midterms could spark a longer AI equity unwind
   publish_date: '2026-11-08'
   relation: related
   strength: 0.6616
+- slug: 2026-11-09-permitting-deal-could-ease-energy-prices-through-added-supply
+  headline: Permitting deal could ease energy prices through added supply
+  publish_date: '2026-11-09'
+  relation: related
+  strength: 0.6611
 - slug: 2026-11-07-wall-street-rotates-out-of-ai-and-defense-stocks-after-democratic-midterm-sweep
-  headline: Wall Street rotates out of AI and defense stocks after Democratic midterm sweep
+  headline: Wall Street rotates out of AI and defense stocks after Democratic midterm
+    sweep
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6608
-- slug: 2026-11-05-tech-stocks-lose-more-than-2-trillion-on-fears-of-ai-regulation-after-midterms
-  headline: Tech stocks lose more than $2 trillion on fears of AI regulation after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6697
-- slug: 2026-11-04-ai-regulation-concerns-pressure-the-dollar-after-democrats-take-congress
-  headline: AI regulation concerns pressure the dollar after Democrats take Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6736
-- slug: 2026-11-08-inflation-tops-the-agenda-for-trump-and-the-new-democratic-congress
-  headline: Inflation tops the agenda for Trump and the new Democratic Congress
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6488
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6673
-- slug: 2026-11-04-democrats-wins-could-bring-stricter-ai-and-data-center-rules
-  headline: Democrats’ wins could bring stricter AI and data-center rules
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6548
-- slug: 2026-11-05-data-center-slowdown-could-favor-large-ai-firms-with-power-secured
-  headline: Data center slowdown could favor large AI firms with power secured
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6443
-- slug: 2026-11-01-some-tech-employees-quit-jobs-to-hedge-company-stock-after-ai-boom-profits
-  headline: Some tech employees quit jobs to hedge company stock after AI-boom profits
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.645
-- slug: 2026-10-23-ai-job-loss-warnings-renew-interest-in-a-federal-job-guarantee
-  headline: AI job-loss warnings renew interest in a federal job guarantee
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6598
-- slug: 2026-10-24-ai-concerns-test-u-s-stock-gains-amid-intense-market-volatility
-  headline: AI concerns test U.S. stock gains amid intense market volatility
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6484
-- slug: 2026-10-02-ai-sector-needs-9-of-us-gdp-in-revenue-by-2032-analysis-finds
-  headline: AI sector needs 9% of US GDP in revenue by 2032, analysis finds
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6445
-- slug: 2026-09-14-ai-stocks-slide-worldwide-after-anthropic-ceo-urges-industry-slowdown
-  headline: AI stocks slide worldwide after Anthropic CEO urges industry slowdown
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6442
-- slug: 2026-06-10-economists-mostly-agree-ai-will-boost-productivity-split-on-job-impact
-  headline: Economists mostly agree AI will boost productivity, split on job impact
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6828
-- slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6494
+  strength: 0.6602
 ---
-
 ## Acemoglu urges Congress to steer AI toward good jobs and wage growth
 
 **Subtype:** fact
