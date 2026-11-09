@@ -2,8 +2,17 @@
 headline: Kurum's Action Agenda centers on electrification
 secondary_headline: Methane cuts and climate-resilient cities are also agenda items
 publish_date: '2026-11-09'
-lede: Turkish Environment Minister and COP31 President Murat Kurum announced an “Action Agenda” that includes reducing methane and building climate-resilient cities, with electrification as its central theme. The agenda aims to increase electricity use, preferably from renewable sources such as solar and wind, from 21% to 35% by 2035 to reduce greenhouse-gas emissions. COP31 negotiations are scheduled to begin in Antalya, Turkey, on Monday.
-nut_graf: Delegates face pressure to develop new climate pledges while implementing earlier promises, and Kurum has said he wants the summit to focus on implementation. Delegates are expected to take up adaptation finance for poorer countries and transition away from fossil fuels during the scheduled Nov. 9-20 talks, while the absence of the United States and a disruption in global energy markets complicate the meeting.
+lede: Turkish Environment Minister and COP31 President Murat Kurum announced an “Action
+  Agenda” that includes reducing methane and building climate-resilient cities, with
+  electrification as its central theme. The agenda aims to increase electricity use,
+  preferably from renewable sources such as solar and wind, from 21% to 35% by 2035
+  to reduce greenhouse-gas emissions. COP31 negotiations are scheduled to begin in
+  Antalya, Turkey, on Monday.
+nut_graf: Delegates face pressure to develop new climate pledges while implementing
+  earlier promises, and Kurum has said he wants the summit to focus on implementation.
+  Delegates are expected to take up adaptation finance for poorer countries and transition
+  away from fossil fuels during the scheduled Nov. 9-20 talks, while the absence of
+  the United States and a disruption in global energy markets complicate the meeting.
 primary_entities:
 - Murat Kurum
 - COP31
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,24 +161,25 @@ related_stories:
   headline: UN climate talks open in Turkey with fossil fuel transition as key issue
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8329
+  strength: 0.8327
 - slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
   headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8106
+  strength: 0.8108
 - slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
   headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7945
+  strength: 0.7937
 - slug: 2026-11-07-guterres-prepares-final-climate-message-as-cop31-s-nov-9-opening-nears
   headline: Guterres prepares final climate message as COP31's Nov. 9 opening nears
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7287
+  strength: 0.7294
 - slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
+  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31
+    negotiations
   publish_date: '2026-11-07'
   relation: related
   strength: 0.7216
@@ -176,79 +187,18 @@ related_stories:
   headline: At Fiji pre-summit, Kurum calls climate crisis 'the security issue'
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7739
+  strength: 0.7741
 - slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
   headline: U.N. report finds U.S. emissions rose while global total held steady
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6699
-- slug: 2026-10-20-ipcc-suspends-meeting-without-setting-ar7-publication-timeline
-  headline: IPCC suspends meeting without setting AR7 publication timeline
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6419
-- slug: 2026-10-11-badenoch-pledges-to-scrap-uk-future-homes-standard
-  headline: Badenoch pledges to scrap UK future homes standard
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6189
-- slug: 2026-09-14-epa-reportedly-poised-to-scrap-power-plant-emission-rules-at-houston-g20
-  headline: EPA reportedly poised to scrap power-plant emission rules at Houston G20
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6429
-- slug: 2026-09-21-oil-extends-slide-to-fourth-session-on-saudi-pipeline-repairs-iran-hopes
-  headline: Oil extends slide to fourth session on Saudi pipeline repairs, Iran hopes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6188
-- slug: 2026-09-14-epa-moves-to-repeal-all-greenhouse-gas-standards-for-power-plants
-  headline: EPA moves to repeal all greenhouse gas standards for power plants
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6342
+  strength: 0.669
 - slug: 2026-08-24-eu-uk-and-canada-pare-back-climate-goals-amid-energy-costs
   headline: EU, UK and Canada pare back climate goals amid energy costs
   publish_date: '2026-08-24'
   relation: related
-  strength: 0.6625
-- slug: 2026-04-26-colombia-hosts-global-summit-to-tackle-fossil-fuel-reliance
-  headline: Colombia hosts global summit to tackle fossil fuel reliance
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6765
-- slug: 2026-04-29-high-level-talks-begin-on-shifting-from-fossil-fuels-in-colombia
-  headline: High-level talks begin on shifting from fossil fuels in Colombia
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6736
-- slug: 2026-06-04-blue-states-weaken-climate-rules-as-red-states-lead-renewable-energy-growth
-  headline: Blue states weaken climate rules as red states lead renewable energy growth
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6593
-- slug: 2026-04-17-colombia-minister-says-iran-crisis-should-spur-faster-shift-from-fossil-fuels
-  headline: Colombia minister says Iran crisis should spur faster shift from fossil fuels
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6523
-- slug: 2025-12-30-south-korea-climate-pledges-face-lng-deal-tension-with-trump-push
-  headline: South Korea climate pledges face LNG deal tension with Trump push
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6579
-- slug: 2026-04-30-conference-ends-in-santa-marta-with-focus-on-financing-fossil-fuel-phaseout
-  headline: Conference ends in Santa Marta with focus on financing fossil fuel phaseout
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6413
-- slug: 2025-12-29-south-korea-s-lng-deals-with-us-cast-doubt-on-its-coal-cut-climate-pledge
-  headline: South Korea’s LNG deals with US cast doubt on its coal-cut climate pledge
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6458
+  strength: 0.6623
 ---
-
 ## Kurum's Action Agenda centers on electrification
 
 **Subtype:** fact
