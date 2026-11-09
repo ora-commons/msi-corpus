@@ -211,6 +211,8 @@ related_stories:
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7
+analyses:
+- '2026-11-06-trump-s-staffing-choice-clarifies-continuity-without-erasing-institutional-limit'
 ---
 ## Stephen Miller, Trump's next chief of staff, defended U.S. takeover of Greenland
 
@@ -254,3 +256,8 @@ Trump said this week that he could maybe compromise with a Democratic Congress, 
 **Publication date:** 2026-11-06
 **Title:** Stephen Miller replaces Susie Wiles as White House chief of staff
 **URL:** https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff
+
+---
+
+<!-- analysis-link:2026-11-06-trump-s-staffing-choice-clarifies-continuity-without-erasing-institutional-limit -->
+**Going deeper:** [Read MSI's analysis of Miller succession and policy continuity →](/analyses/2026-11-06-trump-s-staffing-choice-clarifies-continuity-without-erasing-institutional-limit)

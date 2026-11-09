@@ -2,8 +2,15 @@
 headline: Company says skydivers collided about 150 feet above ground in Lake Elsinore
 secondary_headline: Skydive Elsinore described both skydivers as licensed and experienced
 publish_date: '2026-11-07'
-lede: Two skydivers were killed Friday after they collided in midair and plummeted to the ground during an organized skydiving event at Skydive Elsinore in Lake Elsinore, California. Skydive Elsinore described the two as licensed and experienced skydivers. The Riverside County Fire Department said both suffered traumatic injuries and were taken to a local hospital in critical condition.
-nut_graf: Skydive Elsinore described the two skydivers as licensed and experienced, and the company said the free fall portion of the dive and the opening of the parachutes were normal before the collision. Skydive Elsinore and the Riverside County Fire Department provided statements about the accident.
+lede: Two skydivers were killed Friday after they collided in midair and plummeted
+  to the ground during an organized skydiving event at Skydive Elsinore in Lake Elsinore,
+  California. Skydive Elsinore described the two as licensed and experienced skydivers.
+  The Riverside County Fire Department said both suffered traumatic injuries and were
+  taken to a local hospital in critical condition.
+nut_graf: Skydive Elsinore described the two skydivers as licensed and experienced,
+  and the company said the free fall portion of the dive and the opening of the parachutes
+  were normal before the collision. Skydive Elsinore and the Riverside County Fire
+  Department provided statements about the accident.
 primary_entities:
 - Skydive Elsinore
 - Riverside County Fire Department
@@ -36,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +142,18 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-04-helicopter-crashes-in-biscayne-bay-leaving-one-dead-and-two-injured
-  headline: Helicopter crashes in Biscayne Bay, leaving one dead and two injured
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6046
-- slug: 2026-10-30-midair-collision-near-oregon-airport-kills-all-three-aboard
-  headline: Midair collision near Oregon airport kills all three aboard
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6369
-- slug: 2026-10-30-ntsb-investigates-why-two-helicopters-collided-near-mcminnville-killing-three
-  headline: NTSB investigates why two helicopters collided near McMinnville, killing three
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6152
 - slug: 2026-10-01-medevac-helicopter-crashes-off-catalina-island-killing-two-one-missing
   headline: Medevac helicopter crashes off Catalina Island, killing two; one missing
   publish_date: '2026-10-01'
   relation: related
   strength: 0.6628
-- slug: 2026-10-02-divers-recover-body-of-missing-patient-in-catalina-medevac-crash-toll-at-3
-  headline: Divers recover body of missing patient in Catalina medevac crash, toll at 3
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6462
-- slug: 2026-10-02-crews-recover-final-body-from-catalina-island-helicopter-crash
-  headline: Crews recover final body from Catalina Island helicopter crash
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6205
-- slug: 2026-09-21-two-die-in-helicopter-crash-during-yosemite-wildfire-water-drops
-  headline: Two die in helicopter crash during Yosemite wildfire water drops
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6338
 - slug: 2026-08-20-pennsylvania-state-police-helicopter-and-cessna-150-go-down-near-carlisle-faa-sa
-  headline: Pennsylvania State Police helicopter and Cessna 150 go down near Carlisle, FAA says
+  headline: Pennsylvania State Police helicopter and Cessna 150 go down near Carlisle,
+    FAA says
   publish_date: '2026-08-20'
   relation: related
   strength: 0.6544
-- slug: 2026-06-15-12-killed-as-skydiving-plane-crashes-in-missouri-witness-says-they-didn-t-have-t
-  headline: 12 killed as skydiving plane crashes in Missouri; witness says 'they didn't have time to jump'
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6346
-- slug: 2026-05-19-two-navy-jets-collide-at-idaho-air-show-all-four-crew-members-eject-safely
-  headline: Two Navy jets collide at Idaho air show; all four crew members eject safely
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6423
-- slug: 2026-05-17-two-navy-jets-collide-during-idaho-air-show-all-four-crew-members-eject-safely
-  headline: Two Navy jets collide during Idaho air show; all four crew members eject safely
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6201
-- slug: 2025-12-30-midair-helicopter-crash-over-hammonton-kills-one-critically-injures-pilot
-  headline: Midair helicopter crash over Hammonton kills one, critically injures pilot
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6317
-- slug: 2025-12-30-second-new-jersey-helicopter-pilot-dies-after-midair-collision-police-confirm
-  headline: Second New Jersey helicopter pilot dies after midair collision, police confirm
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6295
-- slug: 2026-05-19-2-navy-jets-collide-at-idaho-air-show-all-four-crew-eject-safely
-  headline: 2 Navy jets collide at Idaho air show; all four crew eject safely
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6073
-- slug: 2025-12-29-midair-helicopter-crash-in-new-jersey-leaves-1-dead-and-1-injured
-  headline: Midair helicopter crash in New Jersey leaves 1 dead and 1 injured
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6291
-- slug: 2026-02-19-6-women-die-in-california-avalanche-close-knit-group-search-under-way
-  headline: 6 women die in California avalanche; close-knit group, search under way
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6236
-- slug: 2026-02-20-crews-use-water-to-reduce-avalanche-risk-while-recovering-california-victims
-  headline: Crews use water to reduce avalanche risk while recovering California victims
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6234
-- slug: 2026-02-21-crews-recover-9-backcountry-skiers-killed-in-california-avalanche
-  headline: Crews recover 9 backcountry skiers killed in California avalanche
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6184
-- slug: 2026-02-20-6-women-killed-in-california-avalanche-were-among-8-close-friends
-  headline: 6 women killed in California avalanche were among 8 close friends
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6181
-- slug: 2026-01-03-4-killed-as-helicopter-strikes-slackline-crashes-into-arizona-canyon
-  headline: 4 killed as helicopter strikes slackline, crashes into Arizona canyon
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6198
 ---
-
 ## Company says skydivers collided about 150 feet above ground in Lake Elsinore
 
 **Subtype:** fact
