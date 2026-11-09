@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-06-28'
   relation: related
   strength: 0.7981
+analyses:
+- '2026-11-07-trump-pairs-a-limited-iran-strike-with-mediation-and-a-new-intelligence-offer'
 ---
 ## Trump says US strikes Iranian air defense system in latest limited attack
 
@@ -234,3 +236,8 @@ According to the Qatari government, US Defense Secretary Pete Hegseth spoke on F
 **Publication date:** 2026-11-07
 **Title:** US carries out another round of ‘minor’ strikes on Iran, Trump says
 **URL:** https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says
+
+---
+
+<!-- analysis-link:2026-11-07-trump-pairs-a-limited-iran-strike-with-mediation-and-a-new-intelligence-offer -->
+**Going deeper:** [Read MSI's analysis of bounded escalation and diplomatic off-ramp →](/analyses/2026-11-07-trump-pairs-a-limited-iran-strike-with-mediation-and-a-new-intelligence-offer)
