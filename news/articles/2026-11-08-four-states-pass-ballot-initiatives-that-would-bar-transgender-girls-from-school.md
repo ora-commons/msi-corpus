@@ -1,9 +1,23 @@
 ---
-headline: Four states pass ballot initiatives that would bar transgender girls from school sports
-secondary_headline: Supreme Court rulings favor state bans on transgender athletes and gender-affirming care
+headline: Four states pass ballot initiatives that would bar transgender girls from
+  school sports
+secondary_headline: Supreme Court rulings favor state bans on transgender athletes
+  and gender-affirming care
 publish_date: '2026-11-08'
-lede: Four states — Nebraska, Washington, Colorado and Arizona — passed ballot initiatives last week that would bar transgender girls from participating in school sports. Arizona's initiative includes private sports clubs, and Washington's requires medical sex verification for all girl athletes in the state. The Supreme Court has ruled in favor of state laws banning transgender athletes and gender-affirming care, and nearly every federal action taken against transgender people has been challenged in court. The initiatives passed during midterm elections that The Guardian described as a "blue wave," with Washington, Colorado and Arizona far from deep red.
-nut_graf: 'The four ballot initiatives are distinct from a broader policy environment: state laws and separate federal orders have affected the military, healthcare, education, sports, restrooms and identity documents. Legal historian Marie-Amélie George attributes the state-law wave to political messaging and organizational funding, while Transgender Law Center executive director Shelby Chestnut says transgender people might be a testing case for a broader attack on bodily autonomy.'
+lede: Four states — Nebraska, Washington, Colorado and Arizona — passed ballot initiatives
+  last week that would bar transgender girls from participating in school sports.
+  Arizona's initiative includes private sports clubs, and Washington's requires medical
+  sex verification for all girl athletes in the state. The Supreme Court has ruled
+  in favor of state laws banning transgender athletes and gender-affirming care, and
+  nearly every federal action taken against transgender people has been challenged
+  in court. The initiatives passed during midterm elections that The Guardian described
+  as a "blue wave," with Washington, Colorado and Arizona far from deep red.
+nut_graf: 'The four ballot initiatives are distinct from a broader policy environment:
+  state laws and separate federal orders have affected the military, healthcare, education,
+  sports, restrooms and identity documents. Legal historian Marie-Amélie George attributes
+  the state-law wave to political messaging and organizational funding, while Transgender
+  Law Center executive director Shelby Chestnut says transgender people might be a
+  testing case for a broader attack on bodily autonomy.'
 primary_entities:
 - Nebraska
 - Washington
@@ -83,7 +97,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -185,22 +200,22 @@ related_stories:
   headline: Colorado and Washington put transgender sports bans before voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8246
+  strength: 0.8245
 - slug: 2026-11-03-voters-decide-145-state-ballot-measures-in-a-midterm-election
   headline: Voters decide 145 state ballot measures in a midterm election
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7115
+  strength: 0.7107
 - slug: 2026-10-21-federal-prison-policy-would-bar-transition-related-treatment
   headline: Federal prison policy would bar transition-related treatment
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7061
+  strength: 0.7055
 - slug: 2026-07-01-supreme-court-upholds-state-bans-on-transgender-athletes-in-6-3-ruling
   headline: Supreme Court upholds state bans on transgender athletes in 6-3 ruling
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.8134
+  strength: 0.8141
 - slug: 2026-08-24-new-mexico-plans-state-funded-coverage-of-minors-gender-affirming-care
   headline: New Mexico plans state-funded coverage of minors' gender-affirming care
   publish_date: '2026-08-24'
@@ -210,79 +225,20 @@ related_stories:
   headline: Supreme Court appears set to uphold state bans on transgender athletes
   publish_date: '2026-01-13'
   relation: related
-  strength: 0.7792
+  strength: 0.7793
 - slug: 2026-05-26-maine-secretary-of-state-removes-transgender-sports-ballot-measure-over-insuffic
-  headline: Maine secretary of state removes transgender sports ballot measure over insufficient signatures
+  headline: Maine secretary of state removes transgender sports ballot measure over
+    insufficient signatures
   publish_date: '2026-05-26'
   relation: related
-  strength: 0.7424
+  strength: 0.7422
 - slug: 2026-06-30-supreme-court-expected-to-rule-on-birthright-citizenship-trans-athlete-bans-on-f
-  headline: Supreme Court expected to rule on birthright citizenship, trans athlete bans on final day
+  headline: Supreme Court expected to rule on birthright citizenship, trans athlete
+    bans on final day
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7198
-- slug: 2026-01-08-nevada-governor-launches-ballot-drive-to-ban-transgender-athletes-from-women-s-s
-  headline: Nevada governor launches ballot drive to ban transgender athletes from women's sports
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7471
-- slug: 2026-05-27-maine-secretary-of-state-removes-transgender-sports-referendum-from-november-bal
-  headline: Maine secretary of state removes transgender sports referendum from November ballot
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7183
-- slug: 2026-01-11-supreme-court-hears-arguments-on-transgender-athlete-bans-from-west-virginia-ida
-  headline: Supreme Court hears arguments on transgender athlete bans from West Virginia, Idaho
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.7337
-- slug: 2026-07-10-two-transgender-teens-withdraw-new-hampshire-sports-lawsuit
-  headline: Two transgender teens withdraw New Hampshire sports lawsuit
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6791
-- slug: 2026-03-22-senate-blocks-transgender-athletes-amendment-during-voting-bill-debate
-  headline: Senate blocks transgender athletes amendment during voting bill debate
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7163
-- slug: 2026-06-30-supreme-court-ends-term-with-rulings-on-citizenship-transgender-athletes
-  headline: Supreme Court ends term with rulings on citizenship, transgender athletes
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6764
-- slug: 2026-03-04-supreme-court-blocks-california-schools-transgender-notification-policy
-  headline: Supreme Court blocks California schools’ transgender notification policy
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7157
-- slug: 2026-02-13-nevada-women-s-rights-group-sues-to-block-lombardo-sports-ballot-measure
-  headline: Nevada women’s rights group sues to block Lombardo sports ballot measure
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7154
-- slug: 2026-02-27-judge-lets-nevada-trans-athlete-ballot-initiative-proceed-but-orders-wording-cha
-  headline: Judge lets Nevada trans athlete ballot initiative proceed, but orders wording changes
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7113
-- slug: 2026-03-31-trump-justice-department-sues-minnesota-over-transgender-athletes-in-girls-sport
-  headline: Trump Justice Department sues Minnesota over transgender athletes in girls sports
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7028
-- slug: 2026-05-17-transgender-athlete-leans-into-track-season-as-supreme-court-case-nears-decision
-  headline: Transgender athlete leans into track season as Supreme Court case nears decision
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6811
-- slug: 2026-06-17-ftc-sues-leading-transgender-health-group-over-gender-affirming-care
-  headline: FTC sues leading transgender health group over gender-affirming care
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6639
+  strength: 0.7191
 ---
-
 ## Four states pass ballot initiatives that would bar transgender girls from school sports
 
 **Subtype:** fact

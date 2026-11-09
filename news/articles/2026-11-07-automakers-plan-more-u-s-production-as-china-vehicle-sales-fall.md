@@ -1,9 +1,25 @@
 ---
 headline: Automakers plan more U.S. production as China vehicle sales fall
-secondary_headline: Planned factories could add over one million vehicles annually by 2030
+secondary_headline: Planned factories could add over one million vehicles annually
+  by 2030
 publish_date: '2026-11-07'
-lede: Automakers from the United States, Europe and Asia are directing new factories, pickups and hybrid models toward the U.S. market. The Wall Street Journal reported that the United States is emerging as the last major profit market for global carmakers, while vehicle sales in China have fallen more than 20% through September. Toyota is spending $3.6 billion on a new U.S. factory for its midsize Tacoma pickup, while Audi announced a $4 billion factory in rural Georgia that it plans to build for premium SUVs. AutoForecast Solutions estimates the planned factories could provide enough capacity to build more than one million additional vehicles a year in the United States by 2030.
-nut_graf: The Wall Street Journal characterized the United States as emerging as the last major profit market for global carmakers. The investment shift reflects automakers' focus on U.S. demand for high-margin pickups and SUVs and on weaker conditions in China and other major markets. Typical new-car prices are around $50,000, while buyers have shown willingness to accept record-high sticker prices; roughly one-fifth of new-vehicle buyers have monthly payments above $1,000. The expansion could add jobs and vehicle choices, but if demand softens, automakers could face underused factories in a market where the average vehicle on the road is about 13 years old.
+lede: Automakers from the United States, Europe and Asia are directing new factories,
+  pickups and hybrid models toward the U.S. market. The Wall Street Journal reported
+  that the United States is emerging as the last major profit market for global carmakers,
+  while vehicle sales in China have fallen more than 20% through September. Toyota
+  is spending $3.6 billion on a new U.S. factory for its midsize Tacoma pickup, while
+  Audi announced a $4 billion factory in rural Georgia that it plans to build for
+  premium SUVs. AutoForecast Solutions estimates the planned factories could provide
+  enough capacity to build more than one million additional vehicles a year in the
+  United States by 2030.
+nut_graf: The Wall Street Journal characterized the United States as emerging as the
+  last major profit market for global carmakers. The investment shift reflects automakers'
+  focus on U.S. demand for high-margin pickups and SUVs and on weaker conditions in
+  China and other major markets. Typical new-car prices are around $50,000, while
+  buyers have shown willingness to accept record-high sticker prices; roughly one-fifth
+  of new-vehicle buyers have monthly payments above $1,000. The expansion could add
+  jobs and vehicle choices, but if demand softens, automakers could face underused
+  factories in a market where the average vehicle on the road is about 13 years old.
 primary_entities:
 - United States
 - China
@@ -50,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,107 +166,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-07-volkswagen-weighs-first-american-pickup-in-40-years-as-nissan-promises-more-rugg
-  headline: Volkswagen weighs first American pickup in 40 years as Nissan promises more rugged SUVs
+  headline: Volkswagen weighs first American pickup in 40 years as Nissan promises
+    more rugged SUVs
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.691
+  strength: 0.6937
 - slug: 2026-11-05-toyota-s-operating-profit-jumps-34-on-weaker-yen-as-it-trims-sales-forecast
   headline: Toyota's operating profit jumps 34% on weaker yen as it trims sales forecast
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6796
+  strength: 0.6798
 - slug: 2026-10-25-audi-plans-first-u-s-factory-in-georgia-with-200-000-car-annual-capacity
   headline: Audi plans first U.S. factory in Georgia with 200,000-car annual capacity
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7285
+  strength: 0.7279
 - slug: 2026-10-30-audi-lowers-2026-revenue-forecast-to-55-billion-to-59-billion-euros
   headline: Audi lowers 2026 revenue forecast to 55 billion to 59 billion euros
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6804
+  strength: 0.6793
 - slug: 2026-10-25-audi-plans-q7-q8-and-q9-production-in-macon
   headline: Audi plans Q7, Q8 and Q9 production in Macon
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.709
+  strength: 0.7089
 - slug: 2026-10-29-chinese-carmakers-pile-into-overseas-markets-as-domestic-sales-plunge
   headline: Chinese carmakers pile into overseas markets as domestic sales plunge
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.67
+  strength: 0.6705
 - slug: 2026-10-15-chinese-automakers-target-overseas-markets-as-us-and-eu-tighten-access
   headline: Chinese automakers target overseas markets as US and EU tighten access
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7304
+  strength: 0.7297
 - slug: 2026-10-14-chinese-automakers-pitch-american-style-cars-as-u-s-stays-shut
   headline: Chinese automakers pitch American-style cars as U.S. stays shut
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.715
-- slug: 2026-10-21-record-copper-and-elevated-steel-costs-add-pressure-to-gm-s-full-year-outlook
-  headline: Record copper and elevated steel costs add pressure to GM's full-year outlook
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6673
-- slug: 2026-10-01-bmw-audi-volvo-target-u-s-with-supersized-luxury-suvs
-  headline: BMW, Audi, Volvo target U.S. with supersized luxury SUVs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.742
-- slug: 2026-10-01-gm-sales-fall-5-5-in-q3-as-u-s-buyers-choose-sedans-small-suvs
-  headline: GM sales fall 5.5% in Q3 as U.S. buyers choose sedans, small SUVs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7153
-- slug: 2026-09-29-u-s-car-dealers-face-worst-new-model-drought-in-years
-  headline: U.S. car dealers face worst new-model drought in years
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.696
-- slug: 2026-10-02-boeing-aerospace-union-months-into-first-full-contract-talks-in-14-years
-  headline: Boeing aerospace union months into first full contract talks in 14 years
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6676
-- slug: 2026-09-15-daiwa-projects-21-decline-in-china-auto-sales-for-2026
-  headline: Daiwa projects 21% decline in China auto sales for 2026
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6843
-- slug: 2026-08-21-gm-s-century-long-us-sales-lead-over-toyota-shrinks-to-100-000-vehicles
-  headline: GM's century-long US sales lead over Toyota shrinks to 100,000 vehicles
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7132
-- slug: 2026-07-06-toyota-to-invest-3-6-billion-to-move-tacoma-production-to-texas
-  headline: Toyota to invest $3.6 billion to move Tacoma production to Texas
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7627
-- slug: 2026-08-14-china-s-auto-exports-strain-global-shipping-capacity
-  headline: China's auto exports strain global shipping capacity
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6871
-- slug: 2026-07-04-us-risks-falling-behind-in-global-ev-transition-as-chinese-cars-undercut-domesti
-  headline: US risks falling behind in global EV transition as Chinese cars undercut domestic market, analysts say
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.7057
-- slug: 2026-08-01-ford-ends-production-of-sedans-and-crossovers-pivots-to-trucks-suvs-sports-cars
-  headline: Ford ends production of sedans and crossovers, pivots to trucks, SUVs, sports cars
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6727
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.679
+  strength: 0.7146
 ---
-
 ## Automakers plan more U.S. production as China vehicle sales fall
 
 **Subtype:** fact
