@@ -2,8 +2,23 @@
 headline: Bardella and Cohen say Miller's promotion points to more unilateral action
 secondary_headline: ICE funding through the term limits Democrats' options on immigration
 publish_date: '2026-11-07'
-lede: Kurt Bardella, an adviser to Democrats in Texas, and David Cohen, a political science professor at the University of Akron in Ohio who studies the American presidency and White House staffing, said President Donald Trump's promotion of Stephen Miller to White House chief of staff points to more executive orders, unilateral action and less cooperation with Congress through the final two years of Trump's term. Bardella said the appointment was "a signal that they intend to double down on that authoritarianism," and Cohen said Trump is "spoiling for a fight with Democrats." Trump named Miller on Friday, replacing Susie Wiles, days after Republicans lost both chambers of Congress in Tuesday's midterm elections; Trump has signed 292 executive orders in less than two years, more than in his entire first term.
-nut_graf: Democrats' control of both chambers does not erase the administration's leverage over immigration. The One Big Beautiful Bill Act included major increases for Immigration and Customs Enforcement that will keep the agency funded for the rest of Trump's term, and The Guardian's analysis said that limits what Democrats can do to stop the immigration drive. The analysis said the midterm defeat is likely to leave Trump more reliant on unilateral executive action than ever, and described this week's landslide as the biggest in a midterm election since Watergate.
+lede: Kurt Bardella, an adviser to Democrats in Texas, and David Cohen, a political
+  science professor at the University of Akron in Ohio who studies the American presidency
+  and White House staffing, said President Donald Trump's promotion of Stephen Miller
+  to White House chief of staff points to more executive orders, unilateral action
+  and less cooperation with Congress through the final two years of Trump's term.
+  Bardella said the appointment was "a signal that they intend to double down on that
+  authoritarianism," and Cohen said Trump is "spoiling for a fight with Democrats."
+  Trump named Miller on Friday, replacing Susie Wiles, days after Republicans lost
+  both chambers of Congress in Tuesday's midterm elections; Trump has signed 292 executive
+  orders in less than two years, more than in his entire first term.
+nut_graf: Democrats' control of both chambers does not erase the administration's
+  leverage over immigration. The One Big Beautiful Bill Act included major increases
+  for Immigration and Customs Enforcement that will keep the agency funded for the
+  rest of Trump's term, and The Guardian's analysis said that limits what Democrats
+  can do to stop the immigration drive. The analysis said the midterm defeat is likely
+  to leave Trump more reliant on unilateral executive action than ever, and described
+  this week's landslide as the biggest in a midterm election since Watergate.
 primary_entities:
 - Donald Trump
 - Stephen Miller
@@ -45,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,107 +160,53 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
+  headline: Miller's elevation is clearest signal yet Trump will double down, Journal
+    says
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7738
+  strength: 0.7737
 - slug: 2026-11-07-democrats-vow-probes-and-subpoenas-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief of staff
+  headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief
+    of staff
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7534
+  strength: 0.7538
 - slug: 2026-11-06-trump-polled-friends-for-weeks-on-wiles-s-work-before-replacing-her-sources-say
-  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources say
+  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources
+    say
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7594
+  strength: 0.7587
 - slug: 2026-11-07-stephen-miller-s-second-term-purview-spans-trade-universities-and-pentagon-strik
-  headline: Stephen Miller's second-term purview spans trade, universities and Pentagon strikes
+  headline: Stephen Miller's second-term purview spans trade, universities and Pentagon
+    strikes
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7334
+  strength: 0.7336
 - slug: 2026-11-06-stephen-miller-called-man-killed-by-immigration-agents-a-domestic-terrorist
   headline: Stephen Miller called man killed by immigration agents a 'domestic terrorist'
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7383
+  strength: 0.738
 - slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
+  headline: White House chief of staff Susie Wiles resigns after Republican midterm
+    losses
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7374
+  strength: 0.7371
 - slug: 2026-11-07-democrats-denounce-stephen-miller-s-promotion-to-white-house-chief-of-staff
-  headline: Democrats denounce Stephen Miller's promotion to White House chief of staff
+  headline: Democrats denounce Stephen Miller's promotion to White House chief of
+    staff
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7235
+  strength: 0.7238
 - slug: 2026-11-06-stephen-miller-built-hard-line-immigration-record-and-sweep-of-white-house-power
-  headline: Stephen Miller built hard-line immigration record and sweep of White House power
+  headline: Stephen Miller built hard-line immigration record and sweep of White House
+    power
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7266
-- slug: 2026-11-06-trump-s-chief-of-staff-switch-follows-republican-midterm-sweep-from-power
-  headline: Trump's chief of staff switch follows Republican midterm sweep from power
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7174
-- slug: 2026-11-06-stephen-miller-trump-s-next-chief-of-staff-defended-u-s-takeover-of-greenland
-  headline: Stephen Miller, Trump's next chief of staff, defended U.S. takeover of Greenland
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7103
-- slug: 2026-11-07-stephen-miller-carries-years-of-on-record-statements-into-chief-of-staff-role
-  headline: Stephen Miller carries years of on-record statements into chief of staff role
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6942
-- slug: 2026-11-06-trump-names-stephen-miller-white-house-chief-of-staff
-  headline: Trump names Stephen Miller White House chief of staff
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6988
-- slug: 2026-11-07-most-midterm-voters-say-trump-s-immigration-enforcement-has-gone-too-far
-  headline: Most midterm voters say Trump's immigration enforcement has gone too far
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6875
-- slug: 2026-11-06-miami-u-s-attorney-resigns-amid-expected-doj-departures-after-midterms
-  headline: Miami U.S. attorney resigns amid expected DOJ departures after midterms
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6733
-- slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
-  headline: Democrats win Congress as Trump retains broad presidential powers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6812
-- slug: 2026-10-26-trump-administration-reshapes-us-immigration-enforcement-and-admissions
-  headline: Trump administration reshapes US immigration enforcement and admissions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6622
-- slug: 2026-10-21-trump-makes-expanded-executive-power-a-midterm-campaign-argument
-  headline: Trump makes expanded executive power a midterm campaign argument
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6727
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6664
-- slug: 2026-09-19-stephen-miller-leads-multi-agency-push-to-accelerate-migrant-child-removals
-  headline: Stephen Miller leads multi-agency push to accelerate migrant child removals
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6771
-- slug: 2026-08-09-trump-names-scharf-as-white-house-counsel
-  headline: Trump names Scharf as White House counsel
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6615
 ---
-
 ## Bardella and Cohen say Miller's promotion points to more unilateral action
 
 **Subtype:** fact

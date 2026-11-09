@@ -1,9 +1,26 @@
 ---
 headline: Hegseth's team prepares response to possible House impeachment vote
-secondary_headline: Conviction would require a two-thirds Senate vote, and Johnson has no timetable
+secondary_headline: Conviction would require a two-thirds Senate vote, and Johnson
+  has no timetable
 publish_date: '2026-11-07'
-lede: Pentagon deputy press secretary Joel Valdez said Defense Secretary Pete Hegseth's team convened this week to map out an “aggressive defense” if Rep. Thomas Massie follows through on plans to force a House impeachment vote next week. If his congressional opponents vote to impeach him, Hegseth plans to use the confrontation as a platform to defend an agenda that includes the war with Iran, the ouster of senior military officers and rolling back past diversity policies. Special adviser Tim Parlatore said Hegseth intends to serve the full four years of the Trump administration, and President Trump has said publicly and told associates privately that he continues to back him.
-nut_graf: The effort to impeach the defense secretary has brought Hegseth's Iran strategy under scrutiny from Republicans who have backed the war. The Wall Street Journal reported that Hegseth's place within the Trump administration appeared more secure after Trump named Stephen Miller chief of staff, even as more lawmakers would like him to leave the Pentagon. Retiring Sen. Thom Tillis warned that a defiant performance during a Senate impeachment trial could further damage the administration's relationships on Capitol Hill and its hopes of securing additional military funding. Conviction and removal would require a two-thirds Senate vote, and Speaker Mike Johnson has no timetable to send articles to the Senate for trial if the House impeaches Hegseth.
+lede: Pentagon deputy press secretary Joel Valdez said Defense Secretary Pete Hegseth's
+  team convened this week to map out an “aggressive defense” if Rep. Thomas Massie
+  follows through on plans to force a House impeachment vote next week. If his congressional
+  opponents vote to impeach him, Hegseth plans to use the confrontation as a platform
+  to defend an agenda that includes the war with Iran, the ouster of senior military
+  officers and rolling back past diversity policies. Special adviser Tim Parlatore
+  said Hegseth intends to serve the full four years of the Trump administration, and
+  President Trump has said publicly and told associates privately that he continues
+  to back him.
+nut_graf: The effort to impeach the defense secretary has brought Hegseth's Iran strategy
+  under scrutiny from Republicans who have backed the war. The Wall Street Journal
+  reported that Hegseth's place within the Trump administration appeared more secure
+  after Trump named Stephen Miller chief of staff, even as more lawmakers would like
+  him to leave the Pentagon. Retiring Sen. Thom Tillis warned that a defiant performance
+  during a Senate impeachment trial could further damage the administration's relationships
+  on Capitol Hill and its hopes of securing additional military funding. Conviction
+  and removal would require a two-thirds Senate vote, and Speaker Mike Johnson has
+  no timetable to send articles to the Senate for trial if the House impeaches Hegseth.
 primary_entities:
 - Pete Hegseth
 - Thomas Massie
@@ -53,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +173,45 @@ related_stories:
   headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8238
+  strength: 0.8244
 - slug: 2026-11-07-hegseth-vows-to-stay-as-democrats-and-some-republicans-seek-his-removal
   headline: Hegseth vows to stay as Democrats and some Republicans seek his removal
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8077
+  strength: 0.8087
 - slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
   headline: House could vote to impeach Hegseth when lawmakers return to Washington
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7946
+  strength: 0.7953
 - slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
+  headline: White House denies shakeup talk as Trump defends Hegseth after midterm
+    losses
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7797
+  strength: 0.7808
 - slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
   headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7696
+  strength: 0.7713
 - slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
   headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8057
+  strength: 0.8074
 - slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
+  headline: 'People familiar with talks: staffers have begun assembling list of possible
+    probes and witnesses'
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7112
+  strength: 0.7133
 - slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
   headline: Massie moves to impeach Hegseth over Iran war
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7932
-- slug: 2026-09-30-hegseth-calls-press-coverage-treason-says-flag-officer-corps-cut-10
-  headline: Hegseth calls press coverage 'treason,' says flag-officer corps cut 10%
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7189
-- slug: 2026-09-30-hegseth-attacks-press-doubles-general-officer-cut-at-quantico
-  headline: Hegseth attacks press, doubles general-officer cut at Quantico
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7129
-- slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
-  headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7449
-- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
-  headline: Massie files articles of impeachment against Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7561
-- slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
-  headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7652
-- slug: 2026-09-05-tillis-urges-trump-to-fire-hegseth-as-army-secretary-resigns
-  headline: Tillis urges Trump to fire Hegseth as Army secretary resigns
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7383
-- slug: 2026-09-09-advisers-weigh-yearslong-iran-war-as-trump-predicts-post-midterm-end
-  headline: Advisers weigh yearslong Iran war as Trump predicts post-midterm end
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7253
-- slug: 2026-09-03-pentagon-extends-middle-east-deployments-as-iran-conflict-enters-seventh-month
-  headline: Pentagon extends Middle East deployments as Iran conflict enters seventh month
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7139
-- slug: 2026-09-03-pentagon-keeps-50-000-troops-in-mideast-as-trump-weighs-declaring-war-over
-  headline: Pentagon keeps 50,000 troops in Mideast as Trump weighs declaring war over
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7062
-- slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7029
-- slug: 2026-08-13-gop-senators-criticize-hegseth-for-excluding-democrats-from-defense-briefings
-  headline: GOP senators criticize Hegseth for excluding Democrats from defense briefings
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7318
-- slug: 2026-05-19-hegseth-targets-massie-in-kentucky-primary-calling-trump-critic-desperate
-  headline: Hegseth targets Massie in Kentucky primary, calling Trump critic ‘desperate’
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7668
+  strength: 0.7937
 ---
-
 ## Hegseth's team prepares response to possible House impeachment vote
 
 **Subtype:** fact
