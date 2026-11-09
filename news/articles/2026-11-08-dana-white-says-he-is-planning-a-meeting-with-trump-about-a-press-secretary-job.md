@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-10-15'
   relation: related
   strength: 0.6699
+analyses:
+- '2026-11-08-trump-s-offer-to-dana-white-tests-visibility-against-briefing-continuity'
 ---
 ## Dana White says he is planning a meeting with Trump about a press secretary job
 
@@ -237,3 +239,8 @@ On Friday, Trump announced that longtime aide Stephen Miller would replace Susie
 **Publication date:** 2026-11-08
 **Title:** UFC Chief Dana White to Meet With Trump to Discuss Press Secretary Job
 **URL:** https://www.wsj.com/politics/policy/ufc-chief-dana-white-to-meet-with-trump-to-discuss-press-secretary-job-af0cb2e4
+
+---
+
+<!-- analysis-link:2026-11-08-trump-s-offer-to-dana-white-tests-visibility-against-briefing-continuity -->
+**Going deeper:** [Read MSI's analysis of Trump’s offer to Dana White →](/analyses/2026-11-08-trump-s-offer-to-dana-white-tests-visibility-against-briefing-continuity)
