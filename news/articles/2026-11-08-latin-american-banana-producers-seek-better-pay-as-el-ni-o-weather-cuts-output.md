@@ -1,9 +1,23 @@
 ---
-headline: Latin American banana producers seek better pay as El Niño weather cuts output
+headline: Latin American banana producers seek better pay as El Niño weather cuts
+  output
 secondary_headline: Colombian Caribbean banana exports fell 32% between July and September
 publish_date: '2026-11-08'
-lede: Exports from Colombia's Caribbean region fell 32% to $122m (£91m) between July and September this year, according to the Association of Banana Growers of Magdalena and La Guajira, as reported by Fruitnet. Fruitnet said that in September alone, shipments were down 42% year on year, with earnings close to halving to $40m from $70m. Latin American banana producers are seeking better pay to help cope with climate change as extreme weather during this year's super El Niño event reduces production. Fairtrade said high winds in parts of Colombia and heavy rainfall in Peru and Ecuador are already affecting production, while Dominican Republic farmers are expected to face drought.
-nut_graf: Ethical Trading Initiative research found that prices paid to suppliers in 2026 did not cover basic production costs for 66.7% of suppliers. The Association of Banana Growers of Magdalena and La Guajira called on international markets to recognize actual production costs, while Fairtrade called for UK legislation to address low or late payments and risk-shifting contracts so producers can invest more in improving crop resilience.
+lede: Exports from Colombia's Caribbean region fell 32% to $122m (£91m) between July
+  and September this year, according to the Association of Banana Growers of Magdalena
+  and La Guajira, as reported by Fruitnet. Fruitnet said that in September alone,
+  shipments were down 42% year on year, with earnings close to halving to $40m from
+  $70m. Latin American banana producers are seeking better pay to help cope with climate
+  change as extreme weather during this year's super El Niño event reduces production.
+  Fairtrade said high winds in parts of Colombia and heavy rainfall in Peru and Ecuador
+  are already affecting production, while Dominican Republic farmers are expected
+  to face drought.
+nut_graf: Ethical Trading Initiative research found that prices paid to suppliers
+  in 2026 did not cover basic production costs for 66.7% of suppliers. The Association
+  of Banana Growers of Magdalena and La Guajira called on international markets to
+  recognize actual production costs, while Fairtrade called for UK legislation to
+  address low or late payments and risk-shifting contracts so producers can invest
+  more in improving crop resilience.
 primary_entities:
 - Fairtrade Foundation
 - Association of Banana Growers of Magdalena and La Guajira
@@ -59,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -161,104 +176,44 @@ related_stories:
   headline: IMF cuts Latin America growth forecast to 2.3% for 2026
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.656
+  strength: 0.6551
 - slug: 2026-10-20-drought-and-el-ni-o-strain-the-panama-canal-farms-and-water-supply
   headline: Drought and El Niño strain the Panama Canal, farms and water supply
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6704
+  strength: 0.6703
 - slug: 2026-09-15-panama-canal-plans-18-daily-traffic-cut-as-el-ni-o-drought-worsens
   headline: Panama Canal plans 18% daily traffic cut as El Niño drought worsens
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7168
-- slug: 2026-10-01-noaa-scales-back-el-ni-o-research-as-super-event-peaks
-  headline: NOAA scales back El Niño research as super event peaks
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6423
+  strength: 0.7162
 - slug: 2026-09-15-peru-raises-coastal-el-ni-o-extraordinary-probability-to-85
   headline: Peru raises coastal El Niño 'extraordinary' probability to 85%
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6903
-- slug: 2026-09-29-el-ni-o-sets-century-record-for-atlantic-hurricane-drought
-  headline: El Niño sets century record for Atlantic hurricane drought
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6435
+  strength: 0.69
 - slug: 2026-08-29-strong-el-ni-o-disrupts-global-commodity-and-shipping-markets
   headline: Strong El Niño disrupts global commodity and shipping markets
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.7185
+  strength: 0.7182
 - slug: 2026-09-03-un-says-this-year-s-el-ni-o-is-strongest-in-70-years-set-to-persist-into-2027
-  headline: UN says this year's El Niño is strongest in 70 years, set to persist into 2027
+  headline: UN says this year's El Niño is strongest in 70 years, set to persist into
+    2027
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7056
+  strength: 0.7063
 - slug: 2026-09-18-wmo-warns-strongest-el-ni-o-in-70-years-set-to-intensify-into-winter
   headline: WMO warns strongest El Niño in 70 years set to intensify into winter
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6632
-- slug: 2026-09-24-peloton-weighs-moving-bike-treadmill-production-closer-to-us
-  headline: Peloton weighs moving bike, treadmill production closer to US
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6319
+  strength: 0.664
 - slug: 2026-09-10-latin-america-projected-to-grow-2-2-in-2026-eclac-says
   headline: Latin America projected to grow 2.2% in 2026, ECLAC says
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6582
-- slug: 2026-09-15-this-year-s-el-ni-o-ranks-among-the-strongest-on-record
-  headline: This year's El Niño ranks among the strongest on record
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6335
-- slug: 2026-08-27-hedge-fund-manager-seeks-400-million-for-el-ni-o-commodity-fund
-  headline: Hedge fund manager seeks $400 million for El Niño commodity fund
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6508
-- slug: 2026-08-19-u-s-commerce-preliminarily-finds-mexican-strawberries-below-fair-value
-  headline: U.S. Commerce preliminarily finds Mexican strawberries below fair value
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6453
-- slug: 2026-08-13-latin-america-projected-to-grow-2-4-in-2026-amid-commodity-volatility
-  headline: Latin America projected to grow 2.4% in 2026 amid commodity volatility
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6393
-- slug: 2026-07-17-latin-american-governments-prepare-contingency-plans-for-el-ni-o-impacts
-  headline: Latin American governments prepare contingency plans for El Niño impacts
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6711
-- slug: 2026-07-08-forecasters-flag-63-chance-of-super-el-ni-o-forming-by-late-2026
-  headline: Forecasters flag 63% chance of 'Super El Niño' forming by late 2026
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6746
-- slug: 2026-06-09-professor-outlines-10-ways-super-el-ni-o-could-hit-global-economy-food-supply
-  headline: Professor outlines 10 ways 'super' El Niño could hit global economy, food supply
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6886
-- slug: 2026-07-16-latin-america-stuck-at-low-growth-as-region-enters-fourth-straight-weak-year
-  headline: Latin America stuck at low growth as region enters fourth straight weak year
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6452
-- slug: 2026-05-10-forecasters-warn-strong-el-ni-o-may-bring-record-heat-and-extreme-weather-in-202
-  headline: Forecasters Warn Strong El Niño May Bring Record Heat and Extreme Weather in 2026
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6524
+  strength: 0.6578
 ---
-
 ## Latin American banana producers seek better pay as El Niño weather cuts output
 
 **Subtype:** fact

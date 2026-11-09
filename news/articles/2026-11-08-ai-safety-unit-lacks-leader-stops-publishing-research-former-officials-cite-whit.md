@@ -1,9 +1,22 @@
 ---
-headline: AI safety unit lacks leader, stops publishing research; former officials cite White House request
-secondary_headline: Some critics worry White House involvement could politicize AI safety decisions
+headline: AI safety unit lacks leader, stops publishing research; former officials
+  cite White House request
+secondary_headline: Some critics worry White House involvement could politicize AI
+  safety decisions
 publish_date: '2026-11-08'
-lede: A small U.S. government division that assesses the safety of new artificial intelligence offerings has no permanent leader and has stopped publishing its research. Officials with the Commerce Department's Center for Advancing Innovation and Standards for Super Intelligence were recently asked to informally report to a White House office, according to two former government officials with knowledge of the ongoing conversations who spoke on condition of anonymity to avoid repercussions for current staffers.
-nut_graf: CAISSI's leadership and publication gaps coincide with a shift toward AI agents that act without human prompts and a federal testing capacity that has not kept pace with the technology. The Trump administration asked leading AI companies to join a voluntary safety pact but has not said how it would monitor their implementation, and AI companies can limit or dispense with independent evaluations; some critics worry that the reported White House arrangement could politicize safety decisions.
+lede: A small U.S. government division that assesses the safety of new artificial
+  intelligence offerings has no permanent leader and has stopped publishing its research.
+  Officials with the Commerce Department's Center for Advancing Innovation and Standards
+  for Super Intelligence were recently asked to informally report to a White House
+  office, according to two former government officials with knowledge of the ongoing
+  conversations who spoke on condition of anonymity to avoid repercussions for current
+  staffers.
+nut_graf: CAISSI's leadership and publication gaps coincide with a shift toward AI
+  agents that act without human prompts and a federal testing capacity that has not
+  kept pace with the technology. The Trump administration asked leading AI companies
+  to join a voluntary safety pact but has not said how it would monitor their implementation,
+  and AI companies can limit or dispense with independent evaluations; some critics
+  worry that the reported White House arrangement could politicize safety decisions.
 primary_entities:
 - Center for Advancing Innovation and Standards for Super Intelligence
 - U.S. Center for AI Standards and Innovation
@@ -60,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -167,99 +181,39 @@ related_stories:
   headline: Trump, AI executives sign voluntary self-policing accord
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7303
+  strength: 0.7298
 - slug: 2026-09-30-ai-researcher-coxon-resigns-from-anthropic-says-firms-gambling-with-our-lives
-  headline: AI researcher Coxon resigns from Anthropic, says firms 'gambling with our lives'
+  headline: AI researcher Coxon resigns from Anthropic, says firms 'gambling with
+    our lives'
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.728
+  strength: 0.7272
 - slug: 2026-09-30-white-house-ai-accord-misspells-united-states-under-trump-s-signature
   headline: White House AI accord misspells 'United States' under Trump's signature
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7259
+  strength: 0.7253
 - slug: 2026-09-29-trump-tech-ceos-sign-morally-binding-voluntary-ai-self-policing-deal
   headline: Trump, tech CEOs sign 'morally binding' voluntary AI self-policing deal
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.723
+  strength: 0.7223
 - slug: 2026-09-27-openai-pauses-model-training-for-new-safeguards-after-federal-site-incidents
   headline: OpenAI pauses model training for new safeguards after federal-site incidents
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7228
+  strength: 0.7231
 - slug: 2026-09-30-tech-ceos-sign-morally-binding-ai-safety-pledge-at-white-house
   headline: Tech CEOs sign 'morally binding' AI safety pledge at White House
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7103
+  strength: 0.7102
 - slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
   headline: Trump tells White House tech CEOs self-regulation is 'very important'
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7112
-- slug: 2026-10-02-trump-expected-to-name-dni-jay-clayton-as-white-house-ai-czar
-  headline: Trump expected to name DNI Jay Clayton as White House AI czar
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6979
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7359
-- slug: 2026-09-17-wiles-bessent-press-trump-on-ai-guardrails-as-tech-ceos-resist-oversight
-  headline: Wiles, Bessent press Trump on AI guardrails as tech CEOs resist oversight
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7118
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7039
-- slug: 2026-09-16-rogue-ai-agents-break-free-collaborate-online
-  headline: Rogue AI agents break free, collaborate online
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7112
-- slug: 2026-09-15-congress-builds-bipartisan-push-for-ai-guardrails-as-trump-dismisses-risks
-  headline: Congress builds bipartisan push for AI guardrails as Trump dismisses risks
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7083
-- slug: 2026-09-18-newsom-orders-two-month-california-review-of-ai-oversight
-  headline: Newsom orders two-month California review of AI oversight
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6973
-- slug: 2026-09-15-trump-dismisses-ai-safety-warnings-as-congress-stalls-legislation
-  headline: Trump dismisses AI safety warnings as Congress stalls legislation
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7046
-- slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6939
-- slug: 2026-08-07-white-house-keeps-ai-safety-testing-framework-details-private
-  headline: White House keeps AI safety-testing framework details private
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7626
-- slug: 2026-06-09-white-house-halts-ai-testing-unit-s-public-reports-over-security-fears
-  headline: White House halts AI testing unit's public reports over security fears
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.8095
-- slug: 2026-08-13-hassabis-proposes-industry-funded-ai-safety-standards-body
-  headline: Hassabis proposes industry-funded AI safety standards body
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7398
+  strength: 0.7108
 ---
-
 ## AI safety unit lacks leader, stops publishing research; former officials cite White House request
 
 **Subtype:** fact

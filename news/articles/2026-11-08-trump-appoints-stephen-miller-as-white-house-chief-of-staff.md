@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7894
+analyses:
+- '2026-11-08-stephen-miller-s-appointment-tests-republicans-search-for-a-broader-coalition'
 ---
 ## Trump appoints Stephen Miller as White House chief of staff
 
@@ -251,3 +253,8 @@ BBC News assessed that Trump's political power may be diminished as he entered t
 **Publication date:** 2026-11-08
 **Title:** The Trump coalition is shattered - what will Republicans do now?
 **URL:** https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo
+
+---
+
+<!-- analysis-link:2026-11-08-stephen-miller-s-appointment-tests-republicans-search-for-a-broader-coalition -->
+**Going deeper:** [Read MSI's analysis of the GOP coalition after the midterms →](/analyses/2026-11-08-stephen-miller-s-appointment-tests-republicans-search-for-a-broader-coalition)
