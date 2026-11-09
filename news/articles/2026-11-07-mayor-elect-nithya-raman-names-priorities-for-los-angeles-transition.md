@@ -1,9 +1,20 @@
 ---
 headline: Mayor-elect Nithya Raman names priorities for Los Angeles transition
-secondary_headline: Raman begins assembling her City Hall team amid unresolved implementation questions
+secondary_headline: Raman begins assembling her City Hall team amid unresolved implementation
+  questions
 publish_date: '2026-11-07'
-lede: Nithya Raman named homelessness, housing costs and public safety as her priorities Thursday in her first appearance before reporters since defeating Los Angeles Mayor Karen Bass in an upset. Raman will take office in mid-December and is beginning to assemble a City Hall team, but the transition comes as the city confronts a long-running homeless crisis, a reported exodus of Hollywood jobs, deteriorating streets and sidewalks and a strained budget.
-nut_graf: Raman will serve as mayor alongside recently elected democratic socialist mayors Zohran Mamdani in New York and Katie Wilson in Seattle, while saying her independence from the Democratic Socialists of America will always be paramount. Her administration of the nation's second most populous city will draw national attention as Los Angeles prepares for the 2028 Olympics, and mayoral power will remain shared with the City Council.
+lede: Nithya Raman named homelessness, housing costs and public safety as her priorities
+  Thursday in her first appearance before reporters since defeating Los Angeles Mayor
+  Karen Bass in an upset. Raman will take office in mid-December and is beginning
+  to assemble a City Hall team, but the transition comes as the city confronts a long-running
+  homeless crisis, a reported exodus of Hollywood jobs, deteriorating streets and
+  sidewalks and a strained budget.
+nut_graf: Raman will serve as mayor alongside recently elected democratic socialist
+  mayors Zohran Mamdani in New York and Katie Wilson in Seattle, while saying her
+  independence from the Democratic Socialists of America will always be paramount.
+  Her administration of the nation's second most populous city will draw national
+  attention as Los Angeles prepares for the 2028 Olympics, and mayoral power will
+  remain shared with the City Council.
 primary_entities:
 - Nithya Raman
 - Karen Bass
@@ -53,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -160,99 +172,39 @@ related_stories:
   headline: Nithya Raman defeats Los Angeles Mayor Karen Bass in narrow mayoral upset
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8526
+  strength: 0.8527
 - slug: 2026-11-03-los-angeles-voters-choose-between-karen-bass-and-nithya-raman-for-mayor
   headline: Los Angeles voters choose between Karen Bass and Nithya Raman for mayor
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8582
+  strength: 0.8586
 - slug: 2026-11-05-nithya-raman-wins-los-angeles-mayor-s-race-unseating-karen-bass
   headline: Nithya Raman wins Los Angeles mayor's race, unseating Karen Bass
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8268
+  strength: 0.8266
 - slug: 2026-11-05-outsider-nithya-raman-pairs-housing-platform-with-tense-dsa-ties-in-los-angeles
-  headline: Outsider Nithya Raman pairs housing platform with tense DSA ties in Los Angeles
+  headline: Outsider Nithya Raman pairs housing platform with tense DSA ties in Los
+    Angeles
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8253
+  strength: 0.8254
 - slug: 2026-10-05-bass-trails-raman-in-la-mayoral-race-one-month-from-election
   headline: Bass trails Raman in LA mayoral race one month from election
   publish_date: '2026-10-05'
   relation: related
   strength: 0.8247
-- slug: 2026-11-04-rahm-emanuel-urges-democrats-to-pass-ethics-reform-and-raise-minimum-wage
-  headline: Rahm Emanuel urges Democrats to pass ethics reform and raise minimum wage
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6366
 - slug: 2026-06-03-karen-bass-advances-to-la-mayoral-runoff-after-falling-short-of-majority
   headline: Karen Bass advances to LA mayoral runoff after falling short of majority
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.8162
+  strength: 0.8163
 - slug: 2026-02-08-los-angeles-mayoral-race-opens-for-karen-bass-amid-wildfire-fallout
   headline: Los Angeles mayoral race opens for Karen Bass amid wildfire fallout
   publish_date: '2026-02-08'
   relation: related
-  strength: 0.7636
-- slug: 2026-06-28-democratic-socialists-take-office-in-three-major-us-cities
-  headline: Democratic socialists take office in three major US cities
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.7206
-- slug: 2026-06-08-spencer-pratt-s-l-a-mayor-hopes-fade-as-he-slips-into-third-place
-  headline: Spencer Pratt’s L.A. mayor hopes fade as he slips into third place
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7183
-- slug: 2026-06-13-spencer-pratt-concedes-la-mayor-race-declares-war-on-advancing-candidates
-  headline: Spencer Pratt concedes LA mayor race, declares 'war' on advancing candidates
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7109
-- slug: 2026-05-29-la-mayor-karen-bass-touts-record-in-reelection-bid-after-wildfires-homelessness-
-  headline: LA Mayor Karen Bass touts record in reelection bid after wildfires, homelessness peril
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.7177
-- slug: 2026-05-08-major-federal-drug-raid-in-los-angeles-spotlights-public-safety-concerns
-  headline: Major federal drug raid in Los Angeles spotlights public safety concerns
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6584
-- slug: 2026-05-14-spencer-pratt-s-viral-campaign-shakes-up-los-angeles-mayoral-race
-  headline: Spencer Pratt's viral campaign shakes up Los Angeles mayoral race
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6549
-- slug: 2026-01-01-zohran-mamdani-sworn-in-as-nyc-mayor-pledges-expansively-and-audaciously
-  headline: Zohran Mamdani sworn in as NYC mayor, pledges “expansively and audaciously”
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6657
-- slug: 2026-04-13-mayor-zohran-mamdani-marks-100-days-with-grocery-trash-and-bus-plans
-  headline: Mayor Zohran Mamdani marks 100 days with grocery, trash and bus plans
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6534
-- slug: 2026-06-01-california-governor-and-los-angeles-mayor-races-remain-wide-open-ahead-of-primar
-  headline: California governor and Los Angeles mayor races remain wide open ahead of primary
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6356
-- slug: 2026-04-17-mamdani-endorses-cuomo-accuser-in-city-council-race
-  headline: Mamdani endorses Cuomo accuser in city council race
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6509
-- slug: 2026-01-03-zohran-mamdani-sworn-in-as-nyc-mayor-vows-expansive-audacious-rule
-  headline: Zohran Mamdani sworn in as NYC mayor, vows expansive, audacious rule
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6612
+  strength: 0.7637
 ---
-
 ## Mayor-elect Nithya Raman names priorities for Los Angeles transition
 
 **Subtype:** fact
