@@ -1,9 +1,21 @@
 ---
 headline: Pope Leo tells Milei the economy should serve people
-secondary_headline: Leo urges democratic listening and public integrity in Buenos Aires
+secondary_headline: Leo urges democratic listening and public integrity in Buenos
+  Aires
 publish_date: '2026-11-09'
-lede: Pope Leo XIV told President Javier Milei in Buenos Aires on Sunday that the economy must serve people rather than place people at the service of the economy. His speech drew applause. Speaking shortly after arriving from Uruguay on the second stop of a 12-day Latin America tour, the 71-year-old pontiff also stressed the plight of people who work hard but struggle to meet their household's needs. His comments came as Argentina's poverty rate increased to 32.3% in September and Milei faced criticism over spending cuts.
-nut_graf: Leo's comments addressed Milei's economic program and its effects on vulnerable groups in a country divided between Milei's supporters and opponents. Argentines hoped the papal visit would help unify the country. The Argentine stage of the visit was expected to act as a litmus test of support for the Catholic Church; a recent University of Buenos Aires poll found 57.7% of people identified as Catholic, down from about 90% in the 1960s.
+lede: Pope Leo XIV told President Javier Milei in Buenos Aires on Sunday that the
+  economy must serve people rather than place people at the service of the economy.
+  His speech drew applause. Speaking shortly after arriving from Uruguay on the second
+  stop of a 12-day Latin America tour, the 71-year-old pontiff also stressed the plight
+  of people who work hard but struggle to meet their household's needs. His comments
+  came as Argentina's poverty rate increased to 32.3% in September and Milei faced
+  criticism over spending cuts.
+nut_graf: Leo's comments addressed Milei's economic program and its effects on vulnerable
+  groups in a country divided between Milei's supporters and opponents. Argentines
+  hoped the papal visit would help unify the country. The Argentine stage of the visit
+  was expected to act as a litmus test of support for the Catholic Church; a recent
+  University of Buenos Aires poll found 57.7% of people identified as Catholic, down
+  from about 90% in the 1960s.
 primary_entities:
 - Pope Leo XIV
 - Javier Milei
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +153,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-06-pope-leo-xiv-says-he-is-proud-to-be-an-american-after-midterm-vote
-  headline: Pope Leo XIV says he is 'proud to be an American' after midterm vote
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6527
 - slug: 2026-10-27-leo-xiv-plans-several-meetings-with-clergy-abuse-survivors-in-latin-america
   headline: Leo XIV plans several meetings with clergy abuse survivors in Latin America
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6588
+  strength: 0.659
 - slug: 2026-09-25-pope-leo-xiv-opens-france-visit-warning-of-ai-and-nuclear-risks
   headline: Pope Leo XIV opens France visit warning of AI and nuclear risks
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6808
+  strength: 0.6804
 - slug: 2026-09-28-pope-leo-xiv-plans-first-major-south-american-journey-in-uruguay
   headline: Pope Leo XIV plans first major South American journey in Uruguay
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6575
+  strength: 0.6565
 - slug: 2026-08-22-pope-leo-xiv-hails-san-marino-as-model-of-freedom-and-civic-responsibility
   headline: Pope Leo XIV hails San Marino as model of freedom and civic responsibility
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7004
+  strength: 0.7005
 - slug: 2026-06-08-pope-leo-xiv-calls-for-moral-renewal-in-historic-spanish-parliament-address
   headline: Pope Leo XIV calls for moral renewal in historic Spanish parliament address
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.7182
+  strength: 0.7183
 - slug: 2026-04-26-pope-leo-xiv-urges-u-s-and-iran-to-return-to-peace-talks
   headline: Pope Leo XIV urges U.S. and Iran to return to peace talks
   publish_date: '2026-04-26'
   relation: related
-  strength: 0.6976
+  strength: 0.6971
 - slug: 2026-04-16-pope-calls-for-breaking-corruption-chains-during-visit-to-cameroon
   headline: Pope calls for breaking corruption “chains” during visit to Cameroon
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.6895
+  strength: 0.689
 - slug: 2026-04-10-pope-leo-xiv-finishes-africa-trip-urging-peace-and-tackling-corruption
   headline: Pope Leo XIV finishes Africa trip, urging peace and tackling corruption
   publish_date: '2026-04-10'
   relation: related
-  strength: 0.6896
-- slug: 2026-03-29-pope-leo-xiv-urges-monaco-to-use-wealth-for-good-reject-idolatry
-  headline: Pope Leo XIV urges Monaco to use wealth for good, reject “idolatry”
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6831
-- slug: 2026-05-25-pope-leo-warns-ai-is-a-test-of-human-dignity-work-and-power
-  headline: Pope Leo warns AI is a test of human dignity, work and power
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6645
-- slug: 2026-04-09-pope-leo-xiv-wraps-up-africa-trip-urging-peace-and-denouncing-corruption
-  headline: Pope Leo XIV wraps up Africa trip, urging peace and denouncing corruption
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6737
-- slug: 2026-05-03-pope-leo-urges-wealthy-u-s-catholics-to-back-charitable-vatican-works
-  headline: Pope Leo urges wealthy U.S. Catholics to back charitable Vatican works
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.665
-- slug: 2026-03-15-pope-leo-highlights-abuses-of-vulnerable-adults-meets-opus-dei-critic
-  headline: Pope Leo highlights abuses of “vulnerable” adults, meets Opus Dei critic
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.675
-- slug: 2026-04-21-pope-leo-recalls-francis-s-legacy-of-mercy-and-solidarity-on-anniversary
-  headline: Pope Leo recalls Francis’s legacy of mercy and solidarity on anniversary
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6667
-- slug: 2026-05-25-pope-leo-xiv-issues-first-ai-encyclical-warning-of-inequality-and-war
-  headline: Pope Leo XIV issues first AI encyclical warning of inequality and war
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6536
-- slug: 2026-05-09-taking-stock-of-pope-leo-xiv-s-first-year-and-looming-vatican-tests
-  headline: Taking stock of Pope Leo XIV's first year and looming Vatican tests
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6596
-- slug: 2026-05-10-pope-leo-signals-openness-but-limits-on-lgbtq-ministry-vatican-report-features-g
-  headline: Pope Leo signals openness but limits on LGBTQ+ ministry, Vatican report features gay testimony
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6591
-- slug: 2026-01-30-pope-leo-xiv-urges-vatican-doctrine-office-to-uphold-truth-and-justice-in-abuse-
-  headline: Pope Leo XIV urges Vatican doctrine office to uphold truth and justice in abuse cases
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6742
-- slug: 2026-04-15-vatican-visitors-react-to-trump-s-criticism-of-pope-leo-xiv
-  headline: Vatican visitors react to Trump’s criticism of Pope Leo XIV
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6628
+  strength: 0.6887
 ---
-
 ## Pope Leo tells Milei the economy should serve people
 
 **Subtype:** fact

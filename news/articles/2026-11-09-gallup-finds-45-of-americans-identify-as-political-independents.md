@@ -1,9 +1,25 @@
 ---
 headline: Gallup finds 45% of Americans identify as political independents
-secondary_headline: Exit polls show an 11-point Democratic margin among young white men
+secondary_headline: Exit polls show an 11-point Democratic margin among young white
+  men
 publish_date: '2026-11-09'
-lede: The 2026 U.S. midterm elections highlighted a broader decline in party loyalty among American voters, and The Wall Street Journal tied that American pattern to a parallel shift across western democracies. Gallup found that a record 45% of Americans identify as political independents not affiliated with either party, up 10 percentage points from the early 2000s, while 27% identify as partisan, either Democrat or Republican. A separate analysis by Tufts University of exit polls found that young white men went from voting for Trump in 2024 by a 28-point margin to picking Democratic House candidates by an 11-point margin in the midterms. The Journal reported that voters are fed up with political parties, have lost trust in them and have little patience when they feel politicians are not listening.
-nut_graf: The Wall Street Journal reported that the challenge for both Democrats and Republicans in 2028 will be how to motivate a base that has become more ideological while still attracting moderates. The same report described voters who are fed up with political parties, have lost trust in them and lose patience when they feel politicians are not listening, and who are becoming less attached to the parties their parents voted for and more likely to try new parties or new political pitches, on the left and right.
+lede: The 2026 U.S. midterm elections highlighted a broader decline in party loyalty
+  among American voters, and The Wall Street Journal tied that American pattern to
+  a parallel shift across western democracies. Gallup found that a record 45% of Americans
+  identify as political independents not affiliated with either party, up 10 percentage
+  points from the early 2000s, while 27% identify as partisan, either Democrat or
+  Republican. A separate analysis by Tufts University of exit polls found that young
+  white men went from voting for Trump in 2024 by a 28-point margin to picking Democratic
+  House candidates by an 11-point margin in the midterms. The Journal reported that
+  voters are fed up with political parties, have lost trust in them and have little
+  patience when they feel politicians are not listening.
+nut_graf: The Wall Street Journal reported that the challenge for both Democrats and
+  Republicans in 2028 will be how to motivate a base that has become more ideological
+  while still attracting moderates. The same report described voters who are fed up
+  with political parties, have lost trust in them and lose patience when they feel
+  politicians are not listening, and who are becoming less attached to the parties
+  their parents voted for and more likely to try new parties or new political pitches,
+  on the left and right.
 primary_entities:
 - Gallup
 - Tufts University
@@ -60,7 +76,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,107 +176,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-07-young-2024-trump-voters-split-between-switching-to-democrats-and-staying-home
-  headline: Young 2024 Trump voters split between switching to Democrats and staying home
+  headline: Young 2024 Trump voters split between switching to Democrats and staying
+    home
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7507
-- slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7361
+  strength: 0.751
 - slug: 2026-11-04-poll-shows-democrats-gaining-ground-among-latino-young-and-white-voters
   headline: Poll shows Democrats gaining ground among Latino, young and white voters
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7355
+  strength: 0.7363
+- slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
+  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points
+    in 2026
+  publish_date: '2026-11-04'
+  relation: related
+  strength: 0.7345
 - slug: 2026-11-03-midterm-campaigns-expose-party-fractures-and-voter-fluidity
   headline: Midterm campaigns expose party fractures and voter fluidity
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7387
+  strength: 0.7399
 - slug: 2026-11-04-poll-suggests-shifts-away-from-gop-among-young-voters-in-local-house-races
   headline: Poll suggests shifts away from GOP among young voters in local House races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7256
+  strength: 0.7252
 - slug: 2026-11-06-voters-under-30-back-democrats-by-nearly-50-points-in-midterms
   headline: Voters under 30 back Democrats by nearly 50 points in midterms
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7067
+  strength: 0.7084
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.726
+  strength: 0.7278
 - slug: 2026-11-02-gen-z-readers-cite-living-costs-immigration-and-distrust-before-2026-midterms
-  headline: Gen Z readers cite living costs, immigration and distrust before 2026 midterms
+  headline: Gen Z readers cite living costs, immigration and distrust before 2026
+    midterms
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7181
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7056
-- slug: 2026-10-28-support-among-young-men-who-voted-for-trump-has-eroded-since-the-2024-election
-  headline: Support among young men who voted for Trump has eroded since the 2024 election
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.716
-- slug: 2026-10-27-the-guardian-asks-gen-z-voters-what-will-guide-their-2026-midterms
-  headline: The Guardian asks Gen Z voters what will guide their 2026 midterms
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7074
-- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
-  headline: Early voting tops 23 million as Democrats outpace Republicans
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7086
-- slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
-  headline: Young voters under 30 become key 2026 midterm target for both parties
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7375
-- slug: 2026-10-15-harris-poll-finds-republican-pessimism-on-economy-rising-ahead-of-midterms
-  headline: Harris poll finds Republican pessimism on economy rising ahead of midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7102
-- slug: 2026-09-29-gallup-share-saying-media-have-a-lot-of-freedom-hits-new-low
-  headline: 'Gallup: Share saying media have ''a lot'' of freedom hits new low'
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7526
-- slug: 2026-10-03-voter-rejection-of-both-u-s-parties-climbs-to-21-ahead-of-midterms
-  headline: Voter rejection of both U.S. parties climbs to 21% ahead of midterms
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7326
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7949
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7197
-- slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7139
-- slug: 2026-09-08-gallup-poll-32-satisfied-with-k-12-education-a-27-year-low
-  headline: 'Gallup poll: 32% satisfied with K-12 education, a 27-year low'
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7234
+  strength: 0.7201
 ---
-
 ## Gallup finds 45% of Americans identify as political independents
 
 **Subtype:** fact
