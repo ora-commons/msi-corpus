@@ -1,9 +1,16 @@
 ---
 headline: Trump says Dana White press secretary offer was a joke
-secondary_headline: White House press secretary post remains vacant after Zacharia's departure
+secondary_headline: White House press secretary post remains vacant after Zacharia's
+  departure
 publish_date: '2026-11-09'
-lede: President Donald Trump said Sunday in West Palm Beach, Fla., that he was only kidding when he announced on social media that he had offered UFC boss Dana White the White House press secretary job. White is set to visit Trump at the White House on Monday, while Trump still does not have a press secretary.
-nut_graf: The exchange came during a post-midterm White House shake-up that also included Trump's decision to replace Susie Wiles with Stephen Miller as chief of staff. The White House still had no press secretary as Dana White's scheduled visit approached, and Katie Zacharia had left the role after five days.
+lede: President Donald Trump said Sunday in West Palm Beach, Fla., that he was only
+  kidding when he announced on social media that he had offered UFC boss Dana White
+  the White House press secretary job. White is set to visit Trump at the White House
+  on Monday, while Trump still does not have a press secretary.
+nut_graf: The exchange came during a post-midterm White House shake-up that also included
+  Trump's decision to replace Susie Wiles with Stephen Miller as chief of staff. The
+  White House still had no press secretary as Dana White's scheduled visit approached,
+  and Katie Zacharia had left the role after five days.
 primary_entities:
 - Donald Trump
 - Dana White
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,32 +149,42 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-07-white-house-does-not-respond-to-dana-white-press-offer-as-ufc-boss-is-in-london
-  headline: White House does not respond to Dana White press offer as UFC boss is in London
+  headline: White House does not respond to Dana White press offer as UFC boss is
+    in London
   publish_date: '2026-11-07'
   relation: related
   strength: 0.8842
 - slug: 2026-11-08-dana-white-says-he-is-planning-a-meeting-with-trump-about-a-press-secretary-job
-  headline: Dana White says he is planning a meeting with Trump about a press secretary job
+  headline: Dana White says he is planning a meeting with Trump about a press secretary
+    job
   publish_date: '2026-11-08'
   relation: related
   strength: 0.8655
 - slug: 2026-11-07-dana-white-receives-trump-s-public-request-to-become-white-house-press-secretary
-  headline: Dana White receives Trump's public request to become White House press secretary
+  headline: Dana White receives Trump's public request to become White House press
+    secretary
   publish_date: '2026-11-07'
   relation: related
   strength: 0.8324
 - slug: 2026-11-08-dana-white-outlines-zuffa-expansion-plans-after-trump-press-secretary-offer
-  headline: Dana White outlines Zuffa expansion plans after Trump press secretary offer
+  headline: Dana White outlines Zuffa expansion plans after Trump press secretary
+    offer
   publish_date: '2026-11-08'
   relation: related
   strength: 0.8244
+- slug: 2026-11-09-trump-cites-fighter-list-in-explaining-dana-white-press-secretary-proposal
+  headline: Trump cites fighter list in explaining Dana White press secretary proposal
+  publish_date: '2026-11-09'
+  relation: related
+  strength: 0.8016
 - slug: 2026-11-06-trump-s-chief-of-staff-switch-follows-republican-midterm-sweep-from-power
   headline: Trump's chief of staff switch follows Republican midterm sweep from power
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7336
 - slug: 2026-11-06-trump-polled-friends-for-weeks-on-wiles-s-work-before-replacing-her-sources-say
-  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources say
+  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources
+    say
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7333
@@ -175,73 +193,7 @@ related_stories:
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7263
-- slug: 2026-11-08-trump-says-midterm-result-showed-widespread-rejection-of-his-party
-  headline: Trump says midterm result showed widespread rejection of his party
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7003
-- slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7106
-- slug: 2026-11-06-trump-names-stephen-miller-white-house-chief-of-staff
-  headline: Trump names Stephen Miller White House chief of staff
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6918
-- slug: 2026-11-06-trump-s-longest-serving-chief-of-staff-susie-wiles-resigns
-  headline: Trump's longest-serving chief of staff, Susie Wiles, resigns
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6908
-- slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6827
-- slug: 2026-11-06-stephen-miller-trump-s-next-chief-of-staff-defended-u-s-takeover-of-greenland
-  headline: Stephen Miller, Trump's next chief of staff, defended U.S. takeover of Greenland
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6789
-- slug: 2026-11-07-susie-wiles-exits-as-white-house-chief-of-staff-businesses-search-for-a-new-cond
-  headline: Susie Wiles exits as White House chief of staff; businesses search for a new conduit
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.669
-- slug: 2026-11-08-trump-appoints-stephen-miller-as-white-house-chief-of-staff
-  headline: Trump appoints Stephen Miller as White House chief of staff
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6614
-- slug: 2026-11-07-miller-vows-loyalty-to-trump-in-first-public-remarks-as-incoming-chief-of-staff
-  headline: Miller vows loyalty to Trump in first public remarks as incoming chief of staff
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6618
-- slug: 2026-10-09-zacharia-wasn-t-considered-for-press-secretary-until-this-week-cnn-source-says
-  headline: Zacharia wasn't considered for press secretary until this week, CNN source says
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7309
-- slug: 2026-10-15-zacharia-tells-guardian-frequency-of-press-briefings-is-unknown
-  headline: Zacharia tells Guardian frequency of press briefings is 'unknown'
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6873
-- slug: 2026-10-13-katie-zacharia-holds-first-briefing-as-trump-s-sixth-press-secretary
-  headline: Katie Zacharia holds first briefing as Trump's sixth press secretary
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6939
-- slug: 2026-10-18-white-house-press-secretary-has-no-job-description-or-required-qualifications
-  headline: White House press secretary has no job description or required qualifications
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6577
 ---
-
 ## Trump says Dana White press secretary offer was a joke
 
 **Subtype:** fact
