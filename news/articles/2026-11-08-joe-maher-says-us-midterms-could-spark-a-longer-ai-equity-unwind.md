@@ -1,9 +1,23 @@
 ---
 headline: Joe Maher says US midterms could spark a longer AI equity unwind
-secondary_headline: Voters passed dozens of measures calling for datacentre expansion limits
+secondary_headline: Voters passed dozens of measures calling for datacentre expansion
+  limits
 publish_date: '2026-11-08'
-lede: Joe Maher of Capital Economics said last week that the 2026 US midterms could catalyze a more long-lasting unwind of the AI equity boom, citing fragile sentiment toward AI trades and late-cycle signs in the US equity market. Heather Stewart of The Guardian wrote that anti-AI sentiment evident in the election results “appears to have punctured at least one narrative that was sustaining the market boom,” while dozens of measures calling for limits on datacentre expansion were passed.
-nut_graf: 'The election added political pressure to an AI market reassessment already under way, while Stewart said opposition was likely to slow investment in the technology''s physical infrastructure. The market concerns predated the vote: the International Monetary Fund said the successful rollout of AI might not require investment on the massive scale hyperscaler firms were undertaking and that potential economic gains might not be as large as expected, TS Lombard''s Dario Perkins described the late-2026 industry as essentially $200bn in current revenues supporting more than $1tn in future commitments from Anthropic and Open AI, and corporate users were already limiting costly AI products or moving to cheaper self-hosted models.'
+lede: Joe Maher of Capital Economics said last week that the 2026 US midterms could
+  catalyze a more long-lasting unwind of the AI equity boom, citing fragile sentiment
+  toward AI trades and late-cycle signs in the US equity market. Heather Stewart of
+  The Guardian wrote that anti-AI sentiment evident in the election results “appears
+  to have punctured at least one narrative that was sustaining the market boom,” while
+  dozens of measures calling for limits on datacentre expansion were passed.
+nut_graf: 'The election added political pressure to an AI market reassessment already
+  under way, while Stewart said opposition was likely to slow investment in the technology''s
+  physical infrastructure. The market concerns predated the vote: the International
+  Monetary Fund said the successful rollout of AI might not require investment on
+  the massive scale hyperscaler firms were undertaking and that potential economic
+  gains might not be as large as expected, TS Lombard''s Dario Perkins described the
+  late-2026 industry as essentially $200bn in current revenues supporting more than
+  $1tn in future commitments from Anthropic and Open AI, and corporate users were
+  already limiting costly AI products or moving to cheaper self-hosted models.'
 primary_entities:
 - Joe Maher
 - Capital Economics
@@ -60,7 +74,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -76,7 +91,8 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-11-08'
-  caption: FRED's Nasdaq Composite series stood at 24,579.42 on 8 November 2026, providing publication-date context for the AI equity-market reassessment.
+  caption: FRED's Nasdaq Composite series stood at 24,579.42 on 8 November 2026, providing
+    publication-date context for the AI equity-market reassessment.
 figures_aggregate:
   count: 1
   series_ids:
@@ -167,107 +183,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-06-ai-shares-rebound-after-selloff-erased-more-than-2-trillion-as-data-center-votes
-  headline: AI shares rebound after selloff erased more than $2 trillion as data-center votes unsettle investors
+  headline: AI shares rebound after selloff erased more than $2 trillion as data-center
+    votes unsettle investors
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7664
+  strength: 0.7666
 - slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
   headline: Democratic gains shift U.S. technology policy outlook
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7783
+  strength: 0.7786
 - slug: 2026-11-05-voters-back-data-center-limits-complicating-ai-expansion
   headline: Voters back data center limits, complicating AI expansion
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7691
+  strength: 0.7693
 - slug: 2026-11-06-ai-companies-reassess-data-center-plans-after-midterm-wins-for-freeze-candidates
-  headline: AI companies reassess data-center plans after midterm wins for freeze candidates
+  headline: AI companies reassess data-center plans after midterm wins for freeze
+    candidates
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7517
 - slug: 2026-11-06-analysts-weigh-whether-ai-sell-off-is-froth-removal-or-a-bubble-about-to-burst
-  headline: Analysts weigh whether AI sell-off is froth removal or a bubble about to burst
+  headline: Analysts weigh whether AI sell-off is froth removal or a bubble about
+    to burst
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7466
+  strength: 0.7467
 - slug: 2026-11-05-data-center-slowdown-could-favor-large-ai-firms-with-power-secured
   headline: Data center slowdown could favor large AI firms with power secured
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7407
+  strength: 0.7408
 - slug: 2026-11-06-data-center-skeptics-win-across-us-midterms-as-tougher-state-rules-loom
   headline: Data center skeptics win across US midterms as tougher state rules loom
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7324
+  strength: 0.7331
 - slug: 2026-11-04-democrats-wins-could-bring-stricter-ai-and-data-center-rules
   headline: Democrats’ wins could bring stricter AI and data-center rules
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7419
-- slug: 2026-11-06-sanders-and-newly-elected-democrats-call-for-data-center-moratoriums
-  headline: Sanders and newly elected Democrats call for data center moratoriums
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7153
-- slug: 2026-11-05-ai-related-companies-now-make-up-roughly-half-of-the-s-p-500-npr-editor-says
-  headline: AI-related companies now make up roughly half of the S&P 500, NPR editor says
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7201
-- slug: 2026-11-07-wall-street-rotates-out-of-ai-and-defense-stocks-after-democratic-midterm-sweep
-  headline: Wall Street rotates out of AI and defense stocks after Democratic midterm sweep
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7009
-- slug: 2026-11-05-tech-stocks-lose-more-than-2-trillion-on-fears-of-ai-regulation-after-midterms
-  headline: Tech stocks lose more than $2 trillion on fears of AI regulation after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7075
-- slug: 2026-11-04-ai-regulation-concerns-pressure-the-dollar-after-democrats-take-congress
-  headline: AI regulation concerns pressure the dollar after Democrats take Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7104
-- slug: 2026-10-29-el-sayed-calls-for-public-ownership-of-frontier-ai-companies
-  headline: El-Sayed calls for public ownership of frontier AI companies
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6975
-- slug: 2026-10-24-ai-concerns-test-u-s-stock-gains-amid-intense-market-volatility
-  headline: AI concerns test U.S. stock gains amid intense market volatility
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6976
-- slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
-  headline: Data center backlash forces bipartisan repositioning ahead of US midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7094
-- slug: 2026-09-26-democratic-2028-hopefuls-stake-out-ai-positions-from-guardrails-to-moratorium
-  headline: Democratic 2028 hopefuls stake out AI positions from guardrails to moratorium
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7046
-- slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
-  headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.717
-- slug: 2026-09-15-wall-street-buys-ai-hyperscalers-despite-executives-slowdown-calls
-  headline: Wall Street buys AI hyperscalers despite executives' slowdown calls
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7216
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.708
+  strength: 0.7418
 ---
-
 ## Joe Maher says US midterms could spark a longer AI equity unwind
 
 **Subtype:** fact
