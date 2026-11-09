@@ -1,9 +1,23 @@
 ---
 headline: CDC data show stimulant overdoses rising in many parts of the United States
-secondary_headline: Bystanders lack a naloxone equivalent for stimulant-induced heart attacks, strokes and seizures
+secondary_headline: Bystanders lack a naloxone equivalent for stimulant-induced heart
+  attacks, strokes and seizures
 publish_date: '2026-11-08'
-lede: Overdoses involving stimulants are rising in many parts of the United States, according to recently available data from the Centers for Disease Control and Prevention, even as fentanyl-involved overdose deaths fall. Provisional CDC overdose fatality data show fentanyl-involved overdose deaths dropped to pre-pandemic levels nationally for the first time in 2025, while deaths involving cocaine rose in 13 states and deaths involving methamphetamine rose in eight states. Experts said recognizing and responding to stimulant overdoses is more complex than responding to opioid overdoses.
-nut_graf: Public health messaging has been effective at teaching people to recognize opioid overdoses and respond with naloxone, but education about stimulant overdoses and how to handle them has not been as clear-cut, and bystanders have no tool equivalent to naloxone for a stimulant-induced heart attack, stroke or seizure. Emergency clinicians and overdose-response specialists have advised learning the warning signs of stroke, staying hydrated in hot climates, and keeping an affected person as calm as possible while waiting for an ambulance.
+lede: Overdoses involving stimulants are rising in many parts of the United States,
+  according to recently available data from the Centers for Disease Control and Prevention,
+  even as fentanyl-involved overdose deaths fall. Provisional CDC overdose fatality
+  data show fentanyl-involved overdose deaths dropped to pre-pandemic levels nationally
+  for the first time in 2025, while deaths involving cocaine rose in 13 states and
+  deaths involving methamphetamine rose in eight states. Experts said recognizing
+  and responding to stimulant overdoses is more complex than responding to opioid
+  overdoses.
+nut_graf: Public health messaging has been effective at teaching people to recognize
+  opioid overdoses and respond with naloxone, but education about stimulant overdoses
+  and how to handle them has not been as clear-cut, and bystanders have no tool equivalent
+  to naloxone for a stimulant-induced heart attack, stroke or seizure. Emergency clinicians
+  and overdose-response specialists have advised learning the warning signs of stroke,
+  staying hydrated in hot climates, and keeping an affected person as calm as possible
+  while waiting for an ambulance.
 primary_entities:
 - Centers for Disease Control and Prevention
 - Taylor Nichols
@@ -45,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,107 +159,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-18-us-synthetic-drug-crisis-may-be-accelerating-despite-falling-overdose-deaths
-  headline: US synthetic drug crisis may be accelerating despite falling overdose deaths
+  headline: US synthetic drug crisis may be accelerating despite falling overdose
+    deaths
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.6937
-- slug: 2026-10-28-private-equity-firms-have-acquired-over-a-third-of-u-s-methadone-clinics
-  headline: Private equity firms have acquired over a third of U.S. methadone clinics
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6348
+  strength: 0.6932
 - slug: 2026-10-22-cdc-adds-a-third-measles-death-without-identifying-the-state
   headline: CDC adds a third measles death without identifying the state
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6624
-- slug: 2026-10-24-cdc-adds-178-us-measles-cases-as-death-tallies-diverge
-  headline: CDC adds 178 US measles cases as death tallies diverge
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.647
+  strength: 0.662
 - slug: 2026-05-14-us-overdose-deaths-fall-14-percent-in-2025-cdc-data-shows
   headline: US overdose deaths fall 14 percent in 2025, CDC data shows
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.812
+  strength: 0.8119
 - slug: 2026-05-14-us-overdose-deaths-declined-in-2025-cdc-data-show
   headline: US overdose deaths declined in 2025, CDC data show
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.8086
-- slug: 2026-09-14-cdc-shifts-measles-death-tracking-method-as-pennsylvania-outbreak-grows
-  headline: CDC shifts measles death-tracking method as Pennsylvania outbreak grows
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6363
-- slug: 2026-01-15-us-overdose-deaths-fell-21-through-mid-2025-but-pace-of-decline-is-slowing
-  headline: US overdose deaths fell 21% through mid-2025, but pace of decline is slowing
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7785
+  strength: 0.8084
 - slug: 2026-08-18-study-ties-severe-flooding-to-26-increase-in-rural-overdose-deaths
   headline: Study ties severe flooding to 26% increase in rural overdose deaths
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6717
+  strength: 0.672
+- slug: 2026-01-15-us-overdose-deaths-fell-21-through-mid-2025-but-pace-of-decline-is-slowing
+  headline: US overdose deaths fell 21% through mid-2025, but pace of decline is slowing
+  publish_date: '2026-01-15'
+  relation: related
+  strength: 0.7774
 - slug: 2026-08-06-cdc-report-shows-16-rise-in-cannabis-hyperemesis-diagnoses
   headline: CDC report shows 16% rise in cannabis hyperemesis diagnoses
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6685
+  strength: 0.6676
 - slug: 2026-05-17-carfentanil-100-times-stronger-than-fentanyl-surges-across-u-s
   headline: Carfentanil, 100 times stronger than fentanyl, surges across U.S.
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.7166
-- slug: 2026-05-22-fentanyl-meth-found-at-new-mexico-house-where-responders-got-sick
-  headline: Fentanyl, meth found at New Mexico house where responders got sick
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7042
-- slug: 2026-05-23-fentanyl-and-meth-found-at-nm-home-where-responders-fell-ill-after-overdose-call
-  headline: Fentanyl and meth found at NM home where responders fell ill after overdose call
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6908
-- slug: 2026-05-22-fentanyl-and-meth-found-at-new-mexico-home-where-three-died-and-responders-fell-
-  headline: Fentanyl and meth found at New Mexico home where three died and responders fell ill
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6847
-- slug: 2026-04-24-more-people-addicted-to-marijuana-fewer-seek-help-experts-say
-  headline: More people addicted to marijuana, fewer seek help, experts say
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6741
-- slug: 2026-06-30-dea-watched-74-000-fentanyl-pills-reach-albuquerque-whistleblower-says
-  headline: DEA watched 74,000 fentanyl pills reach Albuquerque, whistleblower says
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6351
-- slug: 2026-06-26-cdc-tells-health-programs-to-deprioritize-harm-reduction-within-days
-  headline: CDC tells health programs to deprioritize harm reduction within days
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6326
-- slug: 2026-06-22-dea-let-hundreds-of-thousands-of-fentanyl-pills-reach-new-mexico
-  headline: DEA let hundreds of thousands of fentanyl pills reach New Mexico
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.634
-- slug: 2026-05-20-3-dead-in-new-mexico-home-after-exposure-to-unknown-substance
-  headline: 3 dead in New Mexico home after exposure to unknown substance
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6503
-- slug: 2026-05-22-3-dead-in-new-mexico-home-after-exposure-to-unknown-substance
-  headline: 3 dead in New Mexico home after exposure to unknown substance
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6417
+  strength: 0.7165
 ---
-
 ## CDC data show stimulant overdoses rising in many parts of the United States
 
 **Subtype:** fact

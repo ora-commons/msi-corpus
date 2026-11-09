@@ -2,8 +2,22 @@
 headline: Democratic leaders weigh oversight and legislation after 2026 midterms
 secondary_headline: Trump's veto and Senate filibuster limit the new Democratic majorities
 publish_date: '2026-11-08'
-lede: Democratic leaders said they are still developing an approach to congressional oversight and legislation after the 2026 midterms gave their party control of Congress. Republicans lost Senate seats they had held for decades and House seats drawn specifically to elect only Republicans, producing the biggest midterm defeat for an incumbent party in more than 50 years after nearly two years of Democratic criticism of Donald Trump over costs, government performance and corruption. Leaders said the broader strategy remains under discussion as the party confronts Trump's veto power, a Senate filibuster that can stop legislation without 60 votes and a long, unpredictable 2028 election.
-nut_graf: 'The midterms expanded Democratic leverage in Congress, but several institutional limits remain: Trump stays in the White House until January 2029 and can veto bills that do not pass with overwhelming support, while Republicans can use the Senate filibuster to block incoming Democratic legislation without 60 votes. Greg Casar separately proposed weekly floor votes, and incoming committee leaders described inquiry plans; party leaders said the broader strategy remained under discussion as they sought to build a record for the party''s eventual 2028 presidential nominee.'
+lede: Democratic leaders said they are still developing an approach to congressional
+  oversight and legislation after the 2026 midterms gave their party control of Congress.
+  Republicans lost Senate seats they had held for decades and House seats drawn specifically
+  to elect only Republicans, producing the biggest midterm defeat for an incumbent
+  party in more than 50 years after nearly two years of Democratic criticism of Donald
+  Trump over costs, government performance and corruption. Leaders said the broader
+  strategy remains under discussion as the party confronts Trump's veto power, a Senate
+  filibuster that can stop legislation without 60 votes and a long, unpredictable
+  2028 election.
+nut_graf: 'The midterms expanded Democratic leverage in Congress, but several institutional
+  limits remain: Trump stays in the White House until January 2029 and can veto bills
+  that do not pass with overwhelming support, while Republicans can use the Senate
+  filibuster to block incoming Democratic legislation without 60 votes. Greg Casar
+  separately proposed weekly floor votes, and incoming committee leaders described
+  inquiry plans; party leaders said the broader strategy remained under discussion
+  as they sought to build a record for the party''s eventual 2028 presidential nominee.'
 primary_entities:
 - Donald Trump
 - Hakeem Jeffries
@@ -50,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,116 +164,61 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
+  headline: Democrats take control of Congress, seek leverage over Trump’s foreign
+    policy
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7827
+  strength: 0.7828
 - slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
   headline: Democrats take control of Congress in 2026 midterms
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7923
+  strength: 0.7928
 - slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
   headline: Democrats take Congress, gaining leverage over probes and appointments
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7826
+  strength: 0.7831
 - slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
   headline: Republicans fault Trump after Democrats take House and Senate in midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7805
+  strength: 0.7807
 - slug: 2026-11-05-democrats-win-congress-on-affordability-but-trump-retains-veto-power
   headline: Democrats win Congress on affordability, but Trump retains veto power
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7723
+  strength: 0.7726
 - slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
   headline: Democrats win Congress as Trump retains broad presidential powers
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7786
+  strength: 0.7782
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7733
+  strength: 0.7739
 - slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
   headline: Democrats win Senate majority, adding checks on Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.775
-- slug: 2026-11-07-greg-casar-urges-democrats-to-target-corporate-power-beyond-trump
-  headline: Greg Casar urges Democrats to target corporate power beyond Trump
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7428
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7565
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7618
-- slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
-  headline: Democrats gain control of Congress as 2026 voter shifts emerge
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7483
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7606
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7732
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7533
-- slug: 2026-11-04-democrats-win-house-and-senate-control-in-2026-us-midterms
-  headline: Democrats win House and Senate control in 2026 US midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7528
-- slug: 2026-11-04-democrats-flip-state-legislatures-and-pick-up-four-governorships-in-2026-midterm
-  headline: Democrats flip state legislatures and pick up four governorships in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7524
-- slug: 2026-11-05-democrats-largest-majority-in-decades-leaves-party-s-future-fight-unresolved
-  headline: Democrats' largest majority in decades leaves party's future fight unresolved
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7448
-- slug: 2026-11-05-democrats-gain-hundreds-of-state-legislative-seats-in-2026-midterms
-  headline: Democrats gain hundreds of state legislative seats in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7409
-- slug: 2026-11-04-ken-martin-says-democrats-have-great-leverage-after-2026-midterms
-  headline: Ken Martin says Democrats have great leverage after 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7464
+  strength: 0.7747
 image:
   url: /articles/2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms.png
-  alt: "Illustration accompanying article: Democratic leaders weigh oversight and legislation after 2026 midterms"
+  alt: 'Illustration accompanying article: Democratic leaders weigh oversight and
+    legislation after 2026 midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Democratic leaders weigh oversight and legislation after 2026 midterms
 
 **Subtype:** fact
