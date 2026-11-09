@@ -2,8 +2,18 @@
 headline: Republicans weigh debt-limit option as Senate pursues judicial confirmations
 secondary_headline: Stalled reconciliation faces slim-majority and attendance hurdles
 publish_date: '2026-11-08'
-lede: Republicans are considering a third budget-reconciliation bill that could deliver President Trump's military-spending boost and raise the debt limit, according to The Wall Street Journal. The effort stalled before the election and would require coordinated action in both chambers, where Republicans hold slim majorities and House attendance might be spotty. The lame-duck agenda also includes a leading permitting bill, several tax measures and a Senate plan to confirm as many of Trump's judicial nominees as possible.
-nut_graf: Those choices could determine whether the lame-duck session advances fiscal and legislative measures or leaves the debt limit, military funding and agency operations unresolved. Senate Republicans are trying to use the remaining window to fill judicial vacancies, while a permitting bill offers a possible bipartisan route to faster environmental reviews and energy infrastructure.
+lede: Republicans are considering a third budget-reconciliation bill that could deliver
+  President Trump's military-spending boost and raise the debt limit, according to
+  The Wall Street Journal. The effort stalled before the election and would require
+  coordinated action in both chambers, where Republicans hold slim majorities and
+  House attendance might be spotty. The lame-duck agenda also includes a leading permitting
+  bill, several tax measures and a Senate plan to confirm as many of Trump's judicial
+  nominees as possible.
+nut_graf: Those choices could determine whether the lame-duck session advances fiscal
+  and legislative measures or leaves the debt limit, military funding and agency operations
+  unresolved. Senate Republicans are trying to use the remaining window to fill judicial
+  vacancies, while a permitting bill offers a possible bipartisan route to faster
+  environmental reviews and energy infrastructure.
 primary_entities:
 - Pete Hegseth
 - Thomas Massie
@@ -53,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +166,45 @@ related_stories:
   headline: Democrats prepare agenda on taxes, health care, AI and Social Security
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7039
+  strength: 0.7018
 - slug: 2026-09-15-senate-republicans-push-back-on-trump-s-5-000-election-linked-payments
   headline: Senate Republicans push back on Trump's $5,000 election-linked payments
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7014
+  strength: 0.7021
 - slug: 2026-08-31-house-returns-for-vote-on-stopgap-funding-bill-through-early-december
   headline: House returns for vote on stopgap funding bill through early December
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6873
+  strength: 0.6867
 - slug: 2026-07-15-house-republicans-unveil-95b-reconciliation-framework-for-defense-farm-aid-voter
-  headline: House Republicans unveil $95B reconciliation framework for defense, farm aid, voter ID
+  headline: House Republicans unveil $95B reconciliation framework for defense, farm
+    aid, voter ID
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7307
+  strength: 0.7298
 - slug: 2026-07-24-senate-gop-leader-says-votes-not-there-for-95b-budget-push
   headline: Senate GOP leader says votes not there for $95B budget push
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7087
+  strength: 0.708
 - slug: 2026-07-21-house-republicans-set-tuesday-vote-on-stopgap-funding-through-dec-4
   headline: House Republicans set Tuesday vote on stopgap funding through Dec. 4
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7021
+  strength: 0.7013
 - slug: 2026-06-03-senate-republicans-restart-debate-on-72b-immigration-enforcement-bill
   headline: Senate Republicans restart debate on $72B immigration enforcement bill
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.7353
+  strength: 0.7348
 - slug: 2026-05-28-gop-immigration-bill-stalls-as-internal-disputes-spill-into-broader-legislative-
-  headline: GOP immigration bill stalls as internal disputes spill into broader legislative agenda
+  headline: GOP immigration bill stalls as internal disputes spill into broader legislative
+    agenda
   publish_date: '2026-05-28'
   relation: related
-  strength: 0.7382
-- slug: 2026-04-15-republicans-plan-gop-only-path-to-fund-homeland-security-shut-down
-  headline: Republicans plan GOP-only path to fund Homeland Security shut down
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7284
-- slug: 2026-06-26-hegseth-seeks-republican-support-for-1-5t-defense-budget-via-reconciliation
-  headline: Hegseth seeks Republican support for $1.5T defense budget via reconciliation
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6919
-- slug: 2026-06-23-trump-pushes-save-america-act-as-senate-gop-resists-on-voting-rules-and-iran
-  headline: Trump pushes SAVE America Act as Senate GOP resists on voting rules and Iran
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6868
-- slug: 2026-05-22-republicans-break-with-trump-as-senate-delays-major-budget-vote
-  headline: Republicans break with Trump as Senate delays major budget vote
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6996
-- slug: 2026-05-22-congress-delays-vote-on-ice-funding-after-gop-infighting-flares
-  headline: Congress delays vote on ICE funding after GOP infighting flares
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6994
-- slug: 2026-04-22-senate-votes-to-restart-bid-to-fund-dhs-and-end-partial-shutdown
-  headline: Senate votes to restart bid to fund DHS and end partial shutdown
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7077
-- slug: 2026-01-08-house-passes-three-spending-bills-397-28-averting-jan-30-shutdown-deadline
-  headline: House passes three spending bills 397-28, averting Jan. 30 shutdown deadline
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.717
-- slug: 2026-05-22-gop-senators-delay-immigration-funding-as-anti-weaponization-fund-raises-doubts
-  headline: GOP senators delay immigration funding as anti-weaponization fund raises doubts
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6936
-- slug: 2026-05-16-senate-parliamentarian-blocks-1-billion-white-house-security-from-immigration-bi
-  headline: Senate parliamentarian blocks $1 billion White House security from immigration bill
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6941
-- slug: 2026-05-23-republicans-defy-trump-on-proposed-1-776b-jan-6-compensation-fund
-  headline: Republicans defy Trump on proposed $1.776B Jan. 6 compensation fund
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6906
-- slug: 2026-05-20-gop-rift-over-trump-1-8b-settlement-fund-delays-immigration-bill
-  headline: GOP rift over Trump $1.8B settlement fund delays immigration bill
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6892
-- slug: 2026-04-22-senate-advances-budget-plan-to-fund-ice-border-patrol-and-reopen-dhs
-  headline: Senate advances budget plan to fund ICE, Border Patrol and reopen DHS
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6967
+  strength: 0.737
 ---
-
 ## Republicans weigh debt-limit option as Senate pursues judicial confirmations
 
 **Subtype:** fact

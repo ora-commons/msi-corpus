@@ -33,7 +33,8 @@ topic_tags:
 - economy
 - election
 - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-s-electoral-coalition
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -196,6 +197,7 @@ related_stories:
 analyses:
 - 2026-10-14-what-the-wsj-working-class-shift-would-have-to-be-and-which-evidence-is-diagnost
 ---
+
 ## Working-class white voters cool on Republicans, WSJ poll finds
 
 **Subtype:** fact

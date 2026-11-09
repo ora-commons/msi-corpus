@@ -31,7 +31,8 @@ primary_themes:
 topic_tags:
 - economy
 - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-s-electoral-coalition
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.72
 ---
+
 ## Harris poll finds Republican pessimism on economy rising ahead of midterms
 
 **Subtype:** fact

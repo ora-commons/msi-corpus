@@ -1,9 +1,25 @@
 ---
 headline: Native women win governor, Senate and tribal leadership firsts in midterms
-secondary_headline: A record 363 Indigenous candidates ran this cycle, and at least 180 won
+secondary_headline: A record 363 Indigenous candidates ran this cycle, and at least
+  180 won
 publish_date: '2026-11-08'
-lede: Voters elected Deb Haaland, a citizen of Laguna Pueblo and Joe Biden's former interior secretary, as the country's first Native American woman governor, and Peggy Flanagan, a member of the White Earth band of Ojibwe and Minnesota's lieutenant governor, to the US Senate, where she will become the first Native woman in the chamber. Crystalyne Curley will become the first woman to lead the Navajo Nation, one of the country's largest tribes, and Tina Abrams the first woman leader in the modern history of the Seneca Nation of Indians in western New York, New York state's largest tribe. At least 75 Native women or non-binary and Two Spirit candidates won office nationwide, according to Advance Native Political Leadership and the news site ICT. The same election cycle also brought the country's first Muslim senator and the first Black female governor.
-nut_graf: The Guardian said Native Americans had made significant gains in political power in recent years but described the road as long. The outlet said Native Americans have only been allowed to vote across the entire United States since the 1960s. A record-setting 363 Indigenous candidates ran for office in local, state and federal elections this cycle, and at least 180 won. Mary Peltola, who is Yup'ik, could add a second Native woman to the Senate pending her still undecided race in Alaska.
+lede: Voters elected Deb Haaland, a citizen of Laguna Pueblo and Joe Biden's former
+  interior secretary, as the country's first Native American woman governor, and Peggy
+  Flanagan, a member of the White Earth band of Ojibwe and Minnesota's lieutenant
+  governor, to the US Senate, where she will become the first Native woman in the
+  chamber. Crystalyne Curley will become the first woman to lead the Navajo Nation,
+  one of the country's largest tribes, and Tina Abrams the first woman leader in the
+  modern history of the Seneca Nation of Indians in western New York, New York state's
+  largest tribe. At least 75 Native women or non-binary and Two Spirit candidates
+  won office nationwide, according to Advance Native Political Leadership and the
+  news site ICT. The same election cycle also brought the country's first Muslim senator
+  and the first Black female governor.
+nut_graf: The Guardian said Native Americans had made significant gains in political
+  power in recent years but described the road as long. The outlet said Native Americans
+  have only been allowed to vote across the entire United States since the 1960s.
+  A record-setting 363 Indigenous candidates ran for office in local, state and federal
+  elections this cycle, and at least 180 won. Mary Peltola, who is Yup'ik, could add
+  a second Native woman to the Senate pending her still undecided race in Alaska.
 primary_entities:
 - Deb Haaland
 - Peggy Flanagan
@@ -46,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +165,44 @@ related_stories:
   headline: Navajo Nation elects Crystalyne Curley as its first woman president
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8597
+  strength: 0.8569
 - slug: 2026-10-29-haaland-leads-race-to-become-first-native-american-woman-governor
   headline: Haaland leads race to become first Native American woman governor
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8263
+  strength: 0.8248
 - slug: 2026-11-03-midterm-candidates-vie-for-historic-firsts-in-governor-and-senate-races
   headline: Midterm candidates vie for historic firsts in governor and Senate races
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7819
+  strength: 0.7812
 - slug: 2026-11-04-historic-firsts-and-party-tests-follow-democratic-midterm-victories
   headline: Historic firsts and party tests follow Democratic midterm victories
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7249
+  strength: 0.7239
 - slug: 2026-11-04-el-sayed-and-pappas-make-history-as-haaland-wins-new-mexico-governorship
   headline: El-Sayed and Pappas make history as Haaland wins New Mexico governorship
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7201
+  strength: 0.7189
 - slug: 2026-11-04-pappas-says-trump-musk-and-sununu-backers-used-money-attack-ads-and-lies
-  headline: Pappas says Trump, Musk and Sununu backers used money, attack ads and lies
+  headline: Pappas says Trump, Musk and Sununu backers used money, attack ads and
+    lies
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6942
+  strength: 0.6928
 - slug: 2026-11-06-incoming-senate-class-includes-first-muslim-native-american-and-paralympian
   headline: Incoming Senate class includes first Muslim, Native American and Paralympian
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6546
-- slug: 2026-11-05-democrats-sweep-southern-elections-overturning-decades-of-gop-dominance
-  headline: Democrats sweep Southern elections, overturning decades of GOP dominance
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6471
-- slug: 2026-11-04-democrats-win-key-governor-races-with-historic-firsts
-  headline: Democrats win key governor races with historic firsts
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6464
-- slug: 2026-11-06-guardian-columnist-says-voters-chose-most-diverse-congress-in-history
-  headline: Guardian columnist says voters chose most diverse Congress in history
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6273
-- slug: 2026-11-05-black-voter-turnout-propels-democratic-wins-across-the-south
-  headline: Black voter turnout propels Democratic wins across the South
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6328
-- slug: 2026-11-06-democrats-narrow-florida-s-gop-margins-but-fall-short-in-statewide-races
-  headline: Democrats narrow Florida's GOP margins but fall short in statewide races
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6179
-- slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
-  headline: Democrats win Senate seats in six states and four governor races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6268
-- slug: 2026-11-05-democrats-link-climate-policy-to-affordability-in-2026-midterm-wins
-  headline: Democrats link climate policy to affordability in 2026 midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6193
-- slug: 2026-11-02-buu-nygren-loses-navajo-primary-as-coal-support-recedes
-  headline: Buu Nygren loses Navajo primary as coal support recedes
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6208
-- slug: 2026-10-30-minnesota-voters-pick-governor-senator-as-legislature-hangs-in-balance
-  headline: Minnesota voters pick governor, senator as Legislature hangs in balance
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6351
-- slug: 2026-10-30-florida-voters-decide-senate-governor-and-house-races-under-new-gop-map
-  headline: Florida voters decide Senate, governor and House races under new GOP map
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6191
-- slug: 2026-10-25-sullivan-and-peltola-court-alaska-native-voters-before-midterms
-  headline: Sullivan and Peltola court Alaska Native voters before midterms
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6213
+  strength: 0.6539
 - slug: 2026-09-29-haaland-centers-addiction-recovery-in-new-mexico-governor-bid
   headline: Haaland centers addiction recovery in New Mexico governor bid
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.722
-- slug: 2026-10-04-wasserman-schultz-wins-florida-20th-democratic-primary-with-45
-  headline: Wasserman Schultz wins Florida 20th Democratic primary with 45%
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6178
+  strength: 0.7213
 ---
-
 ## Native women win governor, Senate and tribal leadership firsts in midterms
 
 **Subtype:** fact
