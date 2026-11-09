@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7525
+analyses:
+- '2026-11-07-democratic-state-wins-widen-the-2028-map-and-tighten-the-contest-for-finite-camp'
 ---
 ## Midterm wins give Democrats new paths to 270 electoral votes in 2028
 
@@ -244,3 +246,8 @@ Still, the 2026 results suggest strongly that the 2028 election will be fought o
 **Publication date:** 2026-11-07
 **Title:** The 2028 Election Map Just Broke Wide Open
 **URL:** https://www.wsj.com/politics/elections/2028-election-president-battleground-map-3b8567b9
+
+---
+
+<!-- analysis-link:2026-11-07-democratic-state-wins-widen-the-2028-map-and-tighten-the-contest-for-finite-camp -->
+**Going deeper:** [Read MSI's analysis of the 2028 map after 2026 midterms →](/analyses/2026-11-07-democratic-state-wins-widen-the-2028-map-and-tighten-the-contest-for-finite-camp)
