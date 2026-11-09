@@ -1,9 +1,24 @@
 ---
 headline: Justice Department shifts Trump-related probe to cases run from Washington
-secondary_headline: Department leadership grew frustrated with Quiñones's management of the probe
+secondary_headline: Department leadership grew frustrated with Quiñones's management
+  of the probe
 publish_date: '2026-11-06'
-lede: The Wall Street Journal reported that the Justice Department's probe into whether U.S. intelligence and law-enforcement officials engaged in a grand conspiracy against President Donald Trump has been abandoned in favor of what officials say are a narrower but related set of cases run out of Washington. The Wall Street Journal previously reported that department leadership in recent months had grown frustrated with what they saw as Quiñones's management of the probe. The Wall Street Journal also reported that senior officials had lost confidence in Quiñones's ability to run the Southern District of Florida office. Quiñones resigned Friday, and Attorney General Todd Blanche separately announced that John Eisenberg, head of the department's national-security division, also was departing.
-nut_graf: The shift in the probe comes as other Justice Department officials are expected to step aside in coming weeks, which isn't uncommon after a midterm election, and as House Democrats prepare congressional investigations targeting many of the department's actions during Trump's second term. Harmeet Dhillon, who oversaw civil-rights enforcement, said a day earlier that she was also stepping down after clashing with department leadership over legal strategies, according to people familiar with the matter.
+lede: The Wall Street Journal reported that the Justice Department's probe into whether
+  U.S. intelligence and law-enforcement officials engaged in a grand conspiracy against
+  President Donald Trump has been abandoned in favor of what officials say are a narrower
+  but related set of cases run out of Washington. The Wall Street Journal previously
+  reported that department leadership in recent months had grown frustrated with what
+  they saw as Quiñones's management of the probe. The Wall Street Journal also reported
+  that senior officials had lost confidence in Quiñones's ability to run the Southern
+  District of Florida office. Quiñones resigned Friday, and Attorney General Todd
+  Blanche separately announced that John Eisenberg, head of the department's national-security
+  division, also was departing.
+nut_graf: The shift in the probe comes as other Justice Department officials are expected
+  to step aside in coming weeks, which isn't uncommon after a midterm election, and
+  as House Democrats prepare congressional investigations targeting many of the department's
+  actions during Trump's second term. Harmeet Dhillon, who oversaw civil-rights enforcement,
+  said a day earlier that she was also stepping down after clashing with department
+  leadership over legal strategies, according to people familiar with the matter.
 primary_entities:
 - Jason Reding Quiñones
 - Todd Blanche
@@ -47,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,107 +162,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-06-investigators-postpone-grand-jury-testimony-in-doj-grand-conspiracy-probe
-  headline: Investigators postpone grand jury testimony in DOJ 'grand conspiracy' probe
+  headline: Investigators postpone grand jury testimony in DOJ 'grand conspiracy'
+    probe
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8613
+  strength: 0.8616
 - slug: 2026-11-06-us-attorney-leading-grand-conspiracy-probe-into-trump-rivals-resigns
   headline: US attorney leading 'grand conspiracy' probe into Trump rivals resigns
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8571
+  strength: 0.8574
 - slug: 2026-11-05-dhillon-exits-doj-civil-rights-division-after-calling-staff-exodus-a-self-purge
   headline: Dhillon exits DOJ civil rights division after calling staff exodus a self-purge
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6937
+  strength: 0.6929
 - slug: 2026-11-05-harmeet-dhillon-resigns-as-head-of-doj-civil-rights-division
   headline: Harmeet Dhillon resigns as head of DOJ civil rights division
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6923
+  strength: 0.6915
 - slug: 2026-11-06-miami-u-s-attorney-resigns-amid-expected-doj-departures-after-midterms
   headline: Miami U.S. attorney resigns amid expected DOJ departures after midterms
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6794
+  strength: 0.6798
 - slug: 2026-11-05-harmeet-dhillon-reshaped-doj-civil-rights-division-ousting-roughly-300-attorneys
-  headline: Harmeet Dhillon reshaped DOJ Civil Rights Division, ousting roughly 300 attorneys
+  headline: Harmeet Dhillon reshaped DOJ Civil Rights Division, ousting roughly 300
+    attorneys
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.683
+  strength: 0.6829
 - slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
+  headline: White House chief of staff Susie Wiles resigns after Republican midterm
+    losses
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6701
+  strength: 0.6702
 - slug: 2026-10-10-lead-lawyer-and-senior-counsel-quit-doj-s-so-called-grand-conspiracy-probe
   headline: Lead lawyer and senior counsel quit DOJ's so-called grand-conspiracy probe
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.8055
-- slug: 2026-10-28-justice-department-accelerates-cases-involving-trump-s-opponents-before-midterms
-  headline: Justice Department accelerates cases involving Trump's opponents before midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6596
-- slug: 2026-10-23-justice-department-review-follows-fbi-task-force-s-2025-disbandment
-  headline: Justice Department review follows FBI task force's 2025 disbandment
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6668
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6713
-- slug: 2026-09-11-joe-digenova-resigns-from-justice-department-probe-of-trump-opponents
-  headline: Joe diGenova resigns from Justice Department probe of Trump opponents
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.757
-- slug: 2026-09-14-former-cia-director-john-brennan-subpoenaed-for-florida-grand-jury-testimony
-  headline: Former CIA director John Brennan subpoenaed for Florida grand jury testimony
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6693
-- slug: 2026-08-21-ed-martin-to-leave-justice-department-trump-says
-  headline: Ed Martin to leave Justice Department, Trump says
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.683
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6587
-- slug: 2026-08-14-doj-s-new-fraud-division-faces-internal-strife-stalled-investigations
-  headline: DOJ's new fraud division faces internal strife, stalled investigations
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6582
-- slug: 2026-06-15-justice-dept-ramps-up-investigations-into-trump-s-perceived-enemies
-  headline: Justice Dept. ramps up investigations into Trump's perceived enemies
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6848
-- slug: 2026-04-18-prosecutor-removed-from-brennan-case-after-raising-legal-concerns
-  headline: Prosecutor removed from Brennan case after raising legal concerns
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6882
-- slug: 2026-04-22-doj-withdraws-grand-jury-subpoenas-in-john-brennan-probe-seeks-voluntary-intervi
-  headline: DOJ withdraws grand jury subpoenas in John Brennan probe, seeks voluntary interviews
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.682
-- slug: 2026-06-16-trump-lawyer-boris-epshteyn-said-to-be-part-of-adani-defense-push
-  headline: Trump lawyer Boris Epshteyn said to be part of Adani defense push
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6565
+  strength: 0.8065
 ---
-
 ## Justice Department shifts Trump-related probe to cases run from Washington
 
 **Subtype:** fact

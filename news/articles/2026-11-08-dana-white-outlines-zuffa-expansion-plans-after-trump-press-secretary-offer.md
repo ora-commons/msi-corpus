@@ -2,8 +2,21 @@
 headline: Dana White outlines Zuffa expansion plans after Trump press secretary offer
 secondary_headline: White declines to detail conversations with Trump
 publish_date: '2026-11-08'
-lede: UFC head Dana White declined to describe his conversations with President Donald Trump about a White House press secretary offer, saying, "I'm sure I'll have more to talk about after that." White also described ambitions to expand the Zuffa Boxing organization he runs with Saudi Arabian backers and hold more events around the world. Asked how he would balance the role with the current positions he has in the fighting world, he replied, "Yeah, I got a lot of jobs already." White said he planned to fly to Washington right after the London boxing event to meet Trump at the White House on Monday.
-nut_graf: White's refusal left his conversations with Trump undisclosed, while his Zuffa Boxing remarks described plans to expand the organization he runs with Saudi Arabian backers and hold more events around the world. White also did not clarify whether he was seriously considering the press secretary role. The White House press secretary post has remained vacant since Karoline Leavitt left at the end of August, and Trump announced Friday that Stephen Miller would replace Susie Wiles as chief of staff after Democrats won control of both chambers in Tuesday's midterm elections.
+lede: UFC head Dana White declined to describe his conversations with President Donald
+  Trump about a White House press secretary offer, saying, "I'm sure I'll have more
+  to talk about after that." White also described ambitions to expand the Zuffa Boxing
+  organization he runs with Saudi Arabian backers and hold more events around the
+  world. Asked how he would balance the role with the current positions he has in
+  the fighting world, he replied, "Yeah, I got a lot of jobs already." White said
+  he planned to fly to Washington right after the London boxing event to meet Trump
+  at the White House on Monday.
+nut_graf: White's refusal left his conversations with Trump undisclosed, while his
+  Zuffa Boxing remarks described plans to expand the organization he runs with Saudi
+  Arabian backers and hold more events around the world. White also did not clarify
+  whether he was seriously considering the press secretary role. The White House press
+  secretary post has remained vacant since Karoline Leavitt left at the end of August,
+  and Trump announced Friday that Stephen Miller would replace Susie Wiles as chief
+  of staff after Democrats won control of both chambers in Tuesday's midterm elections.
 primary_entities:
 - Dana White
 - Donald Trump
@@ -50,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,116 +163,53 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-07-white-house-does-not-respond-to-dana-white-press-offer-as-ufc-boss-is-in-london
-  headline: White House does not respond to Dana White press offer as UFC boss is in London
+  headline: White House does not respond to Dana White press offer as UFC boss is
+    in London
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8706
+  strength: 0.8606
 - slug: 2026-11-08-dana-white-says-he-is-planning-a-meeting-with-trump-about-a-press-secretary-job
-  headline: Dana White says he is planning a meeting with Trump about a press secretary job
+  headline: Dana White says he is planning a meeting with Trump about a press secretary
+    job
   publish_date: '2026-11-08'
   relation: related
   strength: 0.8294
 - slug: 2026-11-07-dana-white-receives-trump-s-public-request-to-become-white-house-press-secretary
-  headline: Dana White receives Trump's public request to become White House press secretary
+  headline: Dana White receives Trump's public request to become White House press
+    secretary
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.819
-- slug: 2026-11-07-susie-wiles-exits-as-white-house-chief-of-staff-businesses-search-for-a-new-cond
-  headline: Susie Wiles exits as White House chief of staff; businesses search for a new conduit
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6341
-- slug: 2026-11-06-trump-polled-friends-for-weeks-on-wiles-s-work-before-replacing-her-sources-say
-  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources say
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6278
-- slug: 2026-11-06-wiles-departure-leaves-trump-white-house-leadership-overwhelmingly-male
-  headline: Wiles departure leaves Trump White House leadership overwhelmingly male
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6236
-- slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6133
-- slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6129
-- slug: 2026-11-06-trump-s-longest-serving-chief-of-staff-susie-wiles-resigns
-  headline: Trump's longest-serving chief of staff, Susie Wiles, resigns
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6102
-- slug: 2026-11-06-stephen-miller-trump-s-next-chief-of-staff-defended-u-s-takeover-of-greenland
-  headline: Stephen Miller, Trump's next chief of staff, defended U.S. takeover of Greenland
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.604
-- slug: 2026-11-06-trump-s-chief-of-staff-switch-follows-republican-midterm-sweep-from-power
-  headline: Trump's chief of staff switch follows Republican midterm sweep from power
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6039
+  strength: 0.8223
 - slug: 2026-10-09-zacharia-wasn-t-considered-for-press-secretary-until-this-week-cnn-source-says
-  headline: Zacharia wasn't considered for press secretary until this week, CNN source says
+  headline: Zacharia wasn't considered for press secretary until this week, CNN source
+    says
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7126
+  strength: 0.7152
 - slug: 2026-10-13-katie-zacharia-holds-first-briefing-as-trump-s-sixth-press-secretary
   headline: Katie Zacharia holds first briefing as Trump's sixth press secretary
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6618
-- slug: 2026-10-15-zacharia-tells-guardian-frequency-of-press-briefings-is-unknown
-  headline: Zacharia tells Guardian frequency of press briefings is 'unknown'
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.643
+  strength: 0.6614
 - slug: 2026-10-09-trump-selects-katie-zacharia-as-next-white-house-press-secretary
   headline: Trump selects Katie Zacharia as next White House press secretary
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6508
-- slug: 2026-10-13-mcenany-zacharia-had-very-little-runway-before-first-briefing
-  headline: 'McEnany: Zacharia had "very little runway" before first briefing'
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6225
-- slug: 2026-10-13-katie-zacharia-debuts-as-trump-s-sixth-white-house-press-secretary
-  headline: Katie Zacharia debuts as Trump's sixth White House press secretary
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6212
-- slug: 2026-10-12-katie-zacharia-set-for-first-briefing-as-trump-s-press-secretary
-  headline: Katie Zacharia set for first briefing as Trump's press secretary
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6179
-- slug: 2026-09-21-trump-weighs-relocating-white-house-press-corps-from-west-wing
-  headline: Trump weighs relocating White House press corps from West Wing
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6226
-- slug: 2026-08-12-karoline-leavitt-to-leave-white-house-press-secretary-post-at-end-of-august
-  headline: Karoline Leavitt to leave White House press secretary post at end of August
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.621
+  strength: 0.6511
 image:
   url: /articles/2026-11-08-dana-white-outlines-zuffa-expansion-plans-after-trump-press-secretary-offer.png
-  alt: "Illustration accompanying article: Dana White outlines Zuffa expansion plans after Trump press secretary offer"
+  alt: 'Illustration accompanying article: Dana White outlines Zuffa expansion plans
+    after Trump press secretary offer'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Dana White outlines Zuffa expansion plans after Trump press secretary offer
 
 **Subtype:** fact

@@ -160,6 +160,8 @@ related_stories:
   publish_date: '2026-01-24'
   relation: related
   strength: 0.6557
+analyses:
+- '2026-11-08-thailand-holds-two-uyghurs-while-china-bound-deportation-remains-unresolved'
 ---
 ## Activists say two Uyghurs in Thailand face grave danger if deported to China
 
@@ -208,3 +210,8 @@ Beijing has defended its policies in Xinjiang as being aimed at poverty alleviat
 **Publication date:** 2026-11-08
 **Title:** Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China
 **URL:** https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation
+
+---
+
+<!-- analysis-link:2026-11-08-thailand-holds-two-uyghurs-while-china-bound-deportation-remains-unresolved -->
+**Going deeper:** [Read MSI's analysis of Thailand’s unresolved Uyghur deportations →](/analyses/2026-11-08-thailand-holds-two-uyghurs-while-china-bound-deportation-remains-unresolved)
