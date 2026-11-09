@@ -1,9 +1,20 @@
 ---
 headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-secondary_headline: Board cites no reason to believe company secrets or national security compromised
+secondary_headline: Board cites no reason to believe company secrets or national security
+  compromised
 publish_date: '2026-11-08'
-lede: The Wall Street Journal reported that U.S. officials last year concluded that Chinese citizen Alice Huang, then a top executive at Megaspeed International, was sharing information with the Chinese government while working with Nvidia to build data centers in Asia. Nvidia's board said Sunday it was launching an investigation into reports that CEO Jensen Huang had been the target of a foreign intelligence effort. Nvidia shares were up 2.78%, according to The Wall Street Journal.
-nut_graf: U.S. officials last year concluded that Alice Huang, then a top executive at Megaspeed International, was sharing information with the Chinese government while working with Nvidia to build data centers in Asia. The board said it had no reason to believe either Nvidia's secrets or national security were compromised, and an Nvidia spokesman said Jensen Huang was committed to continuing as CEO without interruption.
+lede: The Wall Street Journal reported that U.S. officials last year concluded that
+  Chinese citizen Alice Huang, then a top executive at Megaspeed International, was
+  sharing information with the Chinese government while working with Nvidia to build
+  data centers in Asia. Nvidia's board said Sunday it was launching an investigation
+  into reports that CEO Jensen Huang had been the target of a foreign intelligence
+  effort. Nvidia shares were up 2.78%, according to The Wall Street Journal.
+nut_graf: U.S. officials last year concluded that Alice Huang, then a top executive
+  at Megaspeed International, was sharing information with the Chinese government
+  while working with Nvidia to build data centers in Asia. The board said it had no
+  reason to believe either Nvidia's secrets or national security were compromised,
+  and an Nvidia spokesman said Jensen Huang was committed to continuing as CEO without
+  interruption.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,7 +152,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
+  headline: Nvidia board opens independent investigation after reports about Jensen
+    Huang
   publish_date: '2026-11-08'
   relation: related
   strength: 0.8774
@@ -159,11 +172,6 @@ related_stories:
   publish_date: '2026-10-14'
   relation: related
   strength: 0.6632
-- slug: 2026-10-16-nvidia-meta-and-apple-release-new-open-ai-models
-  headline: Nvidia, Meta and Apple release new open AI models
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6408
 - slug: 2026-09-21-anthropic-report-details-ai-model-misuse-by-criminals-state-actors
   headline: Anthropic report details AI model misuse by criminals, state actors
   publish_date: '2026-09-21'
@@ -184,63 +192,7 @@ related_stories:
   publish_date: '2026-09-03'
   relation: related
   strength: 0.684
-- slug: 2026-08-24-taiwan-charges-nine-in-alleged-ai-server-shipments-to-china
-  headline: Taiwan prosecutors charge nine in alleged AI server shipments to China
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6439
-- slug: 2026-08-23-nvidia-pays-6-billion-to-license-poolside-tech-for-open-weight-ai
-  headline: Nvidia pays $6 billion to license Poolside tech for open-weight AI
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.64
-- slug: 2026-06-29-nvidia-s-ai-chip-sales-stall-in-china-as-huawei-gains-ground
-  headline: Nvidia's AI chip sales stall in China as Huawei gains ground
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.687
-- slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
-  headline: China warns AI users they are ‘traitors’ if they resist domestic chips
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.656
-- slug: 2026-06-04-nvidia-ceo-jensen-huang-to-visit-south-korea-for-ai-robotics-talks
-  headline: Nvidia CEO Jensen Huang to visit South Korea for AI, robotics talks
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6766
-- slug: 2026-03-15-jensen-huang-says-inference-inflection-will-drive-nvidia-s-next-ai-boom
-  headline: Jensen Huang says inference ‘inflection’ will drive Nvidia’s next AI boom
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6994
-- slug: 2026-03-20-3-men-charged-in-smuggling-scheme-to-divert-nvidia-ai-chips-to-china
-  headline: 3 men charged in smuggling scheme to divert Nvidia AI chips to China
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6911
-- slug: 2026-05-16-nvidia-ceo-jensen-huang-samples-beijing-street-food-winces-at-fermented-drink
-  headline: Nvidia CEO Jensen Huang samples Beijing street food, winces at fermented drink
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6644
-- slug: 2026-06-02-nvidia-s-huang-predicts-marvell-could-join-trillion-dollar-chip-club
-  headline: Nvidia's Huang predicts Marvell could join trillion-dollar chip club
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6522
-- slug: 2026-02-26-nvidia-reports-big-jump-in-fiscal-fourth-quarter-revenue-as-ai-demand-grows
-  headline: Nvidia reports big jump in fiscal fourth-quarter revenue as AI demand grows
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6714
-- slug: 2026-06-10-taiwan-considers-tighter-export-controls-on-ai-chips-bound-for-china
-  headline: Taiwan considers tighter export controls on AI chips bound for China
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6427
 ---
-
 ## Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
 
 **Subtype:** fact

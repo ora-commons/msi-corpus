@@ -1,9 +1,25 @@
 ---
 headline: Republican close says Pete Hegseth should take responsibility for Iran war
-secondary_headline: Jeffries expects strong House Democratic support for impeachment resolution
+secondary_headline: Jeffries expects strong House Democratic support for impeachment
+  resolution
 publish_date: '2026-11-08'
-lede: One Republican close to the White House said Defense Secretary Pete Hegseth should take responsibility for the Iran war, accusing him of being “either dishonest or incorrect” about its timelines, goals and objectives. A former senior Pentagon official separately said Wednesday that the war “has been primarily a Department of War-led effort because you chose to take military action to resolve a foreign policy matter.” House minority leader Hakeem Jeffries said Sunday he expected “incredibly strong support” among House Democrats for a resolution to impeach Hegseth and said members would discuss it Tuesday morning.
-nut_graf: As Democrats prepare to intensify scrutiny of Hegseth’s tenure, aides described his handling of the Iran war and what The Guardian described as “purges of top military officers,” including the chair of the Joint Chiefs of Staff, as possible investigation subjects. Separately, Hegseth could also face scrutiny over his Ukraine policy and US military strikes on alleged drug-trafficking boats in Latin American waters, which some Democrats said could amount to war crimes. Representative Thomas Massie said he planned to reintroduce an eight-article impeachment resolution as soon as Monday, potentially setting up a House showdown within days; the articles accuse Hegseth of multiple offenses, including violating the War Powers Resolution of 1973.
+lede: One Republican close to the White House said Defense Secretary Pete Hegseth
+  should take responsibility for the Iran war, accusing him of being “either dishonest
+  or incorrect” about its timelines, goals and objectives. A former senior Pentagon
+  official separately said Wednesday that the war “has been primarily a Department
+  of War-led effort because you chose to take military action to resolve a foreign
+  policy matter.” House minority leader Hakeem Jeffries said Sunday he expected “incredibly
+  strong support” among House Democrats for a resolution to impeach Hegseth and said
+  members would discuss it Tuesday morning.
+nut_graf: As Democrats prepare to intensify scrutiny of Hegseth’s tenure, aides described
+  his handling of the Iran war and what The Guardian described as “purges of top military
+  officers,” including the chair of the Joint Chiefs of Staff, as possible investigation
+  subjects. Separately, Hegseth could also face scrutiny over his Ukraine policy and
+  US military strikes on alleged drug-trafficking boats in Latin American waters,
+  which some Democrats said could amount to war crimes. Representative Thomas Massie
+  said he planned to reintroduce an eight-article impeachment resolution as soon as
+  Monday, potentially setting up a House showdown within days; the articles accuse
+  Hegseth of multiple offenses, including violating the War Powers Resolution of 1973.
 primary_entities:
 - Hakeem Jeffries
 - Pete Hegseth
@@ -43,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +162,43 @@ related_stories:
   headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8531
+  strength: 0.8537
 - slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
   headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8333
+  strength: 0.8334
 - slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
   headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8313
+  strength: 0.8323
 - slug: 2026-11-07-hegseth-s-team-prepares-response-to-possible-house-impeachment-vote
   headline: Hegseth's team prepares response to possible House impeachment vote
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7807
+  strength: 0.7814
 - slug: 2026-11-07-hegseth-vows-to-stay-as-democrats-and-some-republicans-seek-his-removal
   headline: Hegseth vows to stay as Democrats and some Republicans seek his removal
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7624
+  strength: 0.7622
 - slug: 2026-11-04-jd-vance-blames-iran-war-for-republican-midterm-losses
   headline: JD Vance blames Iran war for Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7573
+  strength: 0.7579
 - slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
   headline: House could vote to impeach Hegseth when lawmakers return to Washington
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7384
+  strength: 0.7381
 - slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
   headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7679
-- slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7263
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.726
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8015
-- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
-  headline: Massie files articles of impeachment against Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7728
-- slug: 2026-09-24-recent-reporting-suggests-pentagon-has-not-fully-accounted-for-iran-war-costs-an
-  headline: Recent reporting suggests Pentagon has not fully accounted for Iran war costs and casualties
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7323
-- slug: 2026-09-05-tillis-urges-trump-to-fire-hegseth-as-army-secretary-resigns
-  headline: Tillis urges Trump to fire Hegseth as Army secretary resigns
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7231
-- slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7248
-- slug: 2026-07-21-hegseth-faces-senate-over-95b-iran-war-budget-as-u-s-death-toll-hits-17
-  headline: Hegseth faces Senate over $95B Iran war budget as U.S. death toll hits 17
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7583
-- slug: 2026-05-01-hegseth-clashes-with-democrats-over-iran-war-costs-and-civilian-deaths
-  headline: Hegseth clashes with Democrats over Iran war costs and civilian deaths
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7957
-- slug: 2026-04-30-hegseth-faces-withering-iran-questions-in-first-congress-appearance
-  headline: Hegseth faces withering Iran questions in first Congress appearance
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7879
-- slug: 2026-07-23-house-passes-second-iran-war-powers-resolution
-  headline: House passes second Iran war powers resolution
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7246
-- slug: 2026-05-13-hegseth-faces-bipartisan-grilling-over-iran-war-costs-and-strategy
-  headline: Hegseth faces bipartisan grilling over Iran war costs and strategy
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7648
+  strength: 0.7684
 ---
-
 ## Republican close says Pete Hegseth should take responsibility for Iran war
 
 **Subtype:** fact
