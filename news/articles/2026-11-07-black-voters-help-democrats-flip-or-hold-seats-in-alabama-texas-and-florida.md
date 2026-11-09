@@ -2,8 +2,23 @@
 headline: Black voters help Democrats flip or hold seats in Alabama, Texas and Florida
 secondary_headline: Alabama turnout rose 65% on average, Guardian-reviewed data show
 publish_date: '2026-11-07'
-lede: The Guardian reported that Black voter turnout surged across Southern states where Republicans were accused of redrawing electoral maps to diminish Black political power, helping Democrats flip or hold seats in Alabama, Texas and Florida in Tuesday's 2026 midterms. Alabama turnout rose on average by 65%, from 28% in 2022 to 44% in 2026, according to data reviewed by The Guardian, while more Black voters in Louisiana cast early ballots than in any other midterm or gubernatorial election in the past decade. The Guardian said the Supreme Court's April Louisiana v Callais ruling rendered ineffective what it described as the 1965 Voting Rights Act's last remaining provision against racial discrimination in voting; Texas Republican lawmakers redrew maps before the ruling, while Republican lawmakers in Alabama, Tennessee and Louisiana redrew afterward.
-nut_graf: Tuesday's 2026 midterms provided the first electoral test of Southern redistricting efforts. Guardian-reviewed turnout data and interviews with Southern organizers indicated increased Black participation while Republican lawmakers redrew districts in an attempt to consolidate political power. Shomari Figures won nearly eight points in Alabama's second district, and Democrats flipped or held seats in Alabama, Texas and Florida. Organizers said the redistricting drive failed to stop the momentum.
+lede: The Guardian reported that Black voter turnout surged across Southern states
+  where Republicans were accused of redrawing electoral maps to diminish Black political
+  power, helping Democrats flip or hold seats in Alabama, Texas and Florida in Tuesday's
+  2026 midterms. Alabama turnout rose on average by 65%, from 28% in 2022 to 44% in
+  2026, according to data reviewed by The Guardian, while more Black voters in Louisiana
+  cast early ballots than in any other midterm or gubernatorial election in the past
+  decade. The Guardian said the Supreme Court's April Louisiana v Callais ruling rendered
+  ineffective what it described as the 1965 Voting Rights Act's last remaining provision
+  against racial discrimination in voting; Texas Republican lawmakers redrew maps
+  before the ruling, while Republican lawmakers in Alabama, Tennessee and Louisiana
+  redrew afterward.
+nut_graf: Tuesday's 2026 midterms provided the first electoral test of Southern redistricting
+  efforts. Guardian-reviewed turnout data and interviews with Southern organizers
+  indicated increased Black participation while Republican lawmakers redrew districts
+  in an attempt to consolidate political power. Shomari Figures won nearly eight points
+  in Alabama's second district, and Democrats flipped or held seats in Alabama, Texas
+  and Florida. Organizers said the redistricting drive failed to stop the momentum.
 primary_entities:
 - Shomari Figures
 - Jamey Thompson
@@ -61,7 +76,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -163,104 +179,47 @@ related_stories:
   headline: Black voter turnout propels Democratic wins across the South
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7716
+  strength: 0.7708
 - slug: 2026-11-05-democrats-flip-senate-seats-in-the-south-reshaping-the-2028-contest
   headline: Democrats flip Senate seats in the South, reshaping the 2028 contest
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7609
+  strength: 0.7604
 - slug: 2026-11-04-democrats-win-several-congressional-districts-redrawn-by-republicans
   headline: Democrats win several congressional districts redrawn by Republicans
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7446
+  strength: 0.7441
 - slug: 2026-10-31-shomari-figures-fights-to-hold-redrawn-alabama-house-seat-against-rhett-marques
-  headline: Shomari Figures fights to hold redrawn Alabama House seat against Rhett Marques
+  headline: Shomari Figures fights to hold redrawn Alabama House seat against Rhett
+    Marques
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.757
+  strength: 0.7572
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7432
+  strength: 0.7426
 - slug: 2026-07-11-supreme-court-reinstatement-of-alabama-map-eliminates-second-democratic-district
-  headline: Supreme Court reinstatement of Alabama map eliminates second Democratic district
+  headline: Supreme Court reinstatement of Alabama map eliminates second Democratic
+    district
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.8071
+  strength: 0.8076
 - slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
+  headline: Republican-led states redraw majority-Black congressional districts across
+    the South
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7911
+  strength: 0.7906
 - slug: 2026-05-10-supreme-court-allows-alabama-to-revert-to-single-majority-black-district-ahead-o
-  headline: Supreme Court allows Alabama to revert to single majority-Black district ahead of midterms
+  headline: Supreme Court allows Alabama to revert to single majority-Black district
+    ahead of midterms
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7972
-- slug: 2026-06-02-supreme-court-reinstates-republican-favored-alabama-congressional-districts
-  headline: Supreme Court reinstates Republican-favored Alabama congressional districts
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7773
-- slug: 2026-06-12-southern-activists-mobilize-after-supreme-court-weakens-voting-rights-act
-  headline: Southern activists mobilize after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7712
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7795
-- slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
-  headline: Southern Republicans press redistricting ahead of midterm elections
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7621
-- slug: 2026-05-08-southern-republicans-press-ahead-with-election-year-redistricting
-  headline: Southern Republicans press ahead with election-year redistricting
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7648
-- slug: 2026-05-05-southern-state-republicans-consider-new-house-districts-after-voting-rights-act-
-  headline: Southern state Republicans consider new House districts after Voting Rights Act ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7653
-- slug: 2026-05-10-gop-redistricting-confuses-voters-and-burdens-election-officials
-  headline: GOP redistricting confuses voters and burdens election officials
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7633
-- slug: 2026-05-17-thousands-rally-in-montgomery-against-voting-rights-rollbacks-calling-supreme-co
-  headline: Thousands rally in Montgomery against voting rights rollbacks, calling Supreme Court ruling a 'moral disgrace'
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7574
-- slug: 2026-05-10-southern-gop-gerrymandering-push-scrambles-primaries-confuses-voters
-  headline: Southern GOP gerrymandering push scrambles primaries, confuses voters
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7591
-- slug: 2026-06-03-supreme-court-allows-alabama-to-use-map-eliminating-majority-black-district
-  headline: Supreme Court Allows Alabama to Use Map Eliminating Majority-Black District
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7462
-- slug: 2026-05-10-southern-states-accelerate-mid-decade-redistricting-as-courts-reshape-congressio
-  headline: Southern states accelerate mid-decade redistricting as courts reshape congressional map
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7534
-- slug: 2026-05-10-supreme-court-halts-alabama-plan-for-a-house-map-with-2-black-districts
-  headline: Supreme Court halts Alabama plan for a House map with 2 Black districts
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7487
+  strength: 0.7973
 ---
-
 ## Black voters help Democrats flip or hold seats in Alabama, Texas and Florida
 
 **Subtype:** fact
