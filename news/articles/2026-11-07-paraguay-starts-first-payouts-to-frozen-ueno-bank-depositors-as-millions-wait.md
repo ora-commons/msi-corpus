@@ -1,9 +1,23 @@
 ---
-headline: Paraguay starts first payouts to frozen Ueno Bank depositors as millions wait
-secondary_headline: Media outlets in Ueno's financial group, including La Tribuna, see operations suspended
+headline: Paraguay starts first payouts to frozen Ueno Bank depositors as millions
+  wait
+secondary_headline: Media outlets in Ueno's financial group, including La Tribuna,
+  see operations suspended
 publish_date: '2026-11-07'
-lede: Paraguay's central bank began paying the first customers of the collapsed digital lender Ueno Bank on Friday, days after ordering the bank into resolution over insolvency and freezing the accounts of nearly 3 million people — about 60% of the country's adult population. The payments went only to depositors holding up to $1,565 who had no outstanding debts and an existing account at another institution, and most affected customers still had no access to their money.
-nut_graf: 'The payments are a first step in a crisis that has brought Paraguay''s banking system to the brink of collapse and cut across the whole economy: an estimated $800 million to $860 million in state and pension funds were invested in Ueno, about 32,000 pensioners whose public pension funds had been invested in the bank were left without payments, and businesses reported an overall fall in sales of up to 80% this week. The guarantee fund covers deposits of up to $38,000 — a ceiling that would apply to more than 90% of individual account holders — but most of the nearly 3 million affected customers still have no access to their money.'
+lede: Paraguay's central bank began paying the first customers of the collapsed digital
+  lender Ueno Bank on Friday, days after ordering the bank into resolution over insolvency
+  and freezing the accounts of nearly 3 million people — about 60% of the country's
+  adult population. The payments went only to depositors holding up to $1,565 who
+  had no outstanding debts and an existing account at another institution, and most
+  affected customers still had no access to their money.
+nut_graf: 'The payments are a first step in a crisis that has brought Paraguay''s
+  banking system to the brink of collapse and cut across the whole economy: an estimated
+  $800 million to $860 million in state and pension funds were invested in Ueno, about
+  32,000 pensioners whose public pension funds had been invested in the bank were
+  left without payments, and businesses reported an overall fall in sales of up to
+  80% this week. The guarantee fund covers deposits of up to $38,000 — a ceiling that
+  would apply to more than 90% of individual account holders — but most of the nearly
+  3 million affected customers still have no access to their money.'
 primary_entities:
 - Santiago Peña
 - Ueno Bank
@@ -51,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +168,23 @@ related_stories:
   headline: Santiago Peña resigns as Paraguay bank crisis freezes 3 million accounts
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8052
+  strength: 0.8036
 - slug: 2026-11-05-paraguay-lawmakers-impeach-pe-a-after-ueno-bank-collapse
   headline: Paraguay lawmakers impeach Peña after Ueno Bank collapse
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.799
+  strength: 0.7975
 - slug: 2026-11-07-impeached-paraguay-president-santiago-pe-a-placed-under-house-arrest
   headline: Impeached Paraguay president Santiago Peña placed under house arrest
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7572
+  strength: 0.7552
 - slug: 2026-11-05-paraguay-s-president-santiago-pe-a-resigns-after-ueno-bank-collapse
   headline: Paraguay's president Santiago Peña resigns after Ueno Bank collapse
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7259
-- slug: 2026-10-29-binance-investigates-potential-security-issue-as-stablecoin-firms-freeze-funds
-  headline: Binance investigates potential security issue as stablecoin firms freeze funds
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5485
-- slug: 2026-10-28-unnamed-sources-report-fl-vio-bolsonaro-s-us-arrival-after-passport-cancellation
-  headline: Unnamed sources report Flávio Bolsonaro's US arrival after passport cancellation
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5483
-- slug: 2026-10-07-sheinbaum-agrees-to-freeze-ex-officials-accounts-hit-by-u-s-sanctions
-  headline: Sheinbaum agrees to freeze ex-officials' accounts hit by U.S. sanctions
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5517
-- slug: 2026-09-11-paypal-ceo-lores-outlines-standalone-turnaround-after-50-billion-buyout-stalls
-  headline: PayPal CEO Lores outlines standalone turnaround after $50 billion buyout stalls
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5416
-- slug: 2026-07-28-big-banks-pitch-paze-digital-wallet-to-older-cautious-shoppers
-  headline: Big banks pitch Paze digital wallet to older, cautious shoppers
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5663
-- slug: 2026-07-19-u-s-faces-37-billion-cleanup-after-venezuela-quakes
-  headline: U.S. faces $37 billion cleanup after Venezuela quakes
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5503
-- slug: 2026-07-18-u-s-imposes-25-tariff-on-brazilian-goods-citing-pix-payment-system
-  headline: U.S. imposes 25% tariff on Brazilian goods, citing PIX payment system
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5463
-- slug: 2026-06-23-brazil-freezes-125m-in-probe-of-bank-controlled-by-evangelical-bishop-edir-maced
-  headline: Brazil freezes $125M in probe of bank controlled by evangelical bishop Edir Macedo
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5661
-- slug: 2026-07-13-pipeline-break-leaves-puerto-ricans-without-water-for-weeks
-  headline: Pipeline break leaves Puerto Ricans without water for weeks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5465
-- slug: 2026-05-27-paypal-warns-of-significant-changes-as-checkout-growth-stalls
-  headline: PayPal warns of ‘significant changes’ as checkout growth stalls
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5592
-- slug: 2026-04-11-usps-to-suspend-pension-contributions-and-seek-stamp-price-hike
-  headline: USPS to suspend pension contributions and seek stamp price hike
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5659
-- slug: 2026-05-08-el-faro-says-bukele-froze-outlet-assets-in-what-it-calls-persecution
-  headline: El Faro says Bukele froze outlet assets in what it calls persecution
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5521
-- slug: 2026-06-04-paraguay-emerges-as-investment-alternative-amid-global-trade-uncertainty
-  headline: Paraguay emerges as investment alternative amid global trade uncertainty
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.54
-- slug: 2026-05-12-brazil-s-instant-payment-system-pix-under-u-s-scrutiny
-  headline: Brazil’s instant payment system PIX under U.S. scrutiny
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5471
-- slug: 2026-05-12-u-s-opens-inquiry-into-brazil-s-pix-payment-system-over-competition-claims
-  headline: U.S. opens inquiry into Brazil's PIX payment system over competition claims
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5446
-- slug: 2026-03-23-cuba-starts-restoring-power-after-nationwide-grid-collapse
-  headline: Cuba starts restoring power after nationwide grid collapse
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.5548
+  strength: 0.7251
 ---
-
 ## Paraguay starts first payouts to frozen Ueno Bank depositors as millions wait
 
 **Subtype:** fact
