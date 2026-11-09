@@ -2,8 +2,19 @@
 headline: Kremlin counts on Trump for Ukraine peace efforts as Beijing stays measured
 secondary_headline: Zelenskyy expects more support from the incoming Democratic Congress
 publish_date: '2026-11-08'
-lede: NPR correspondents Charles Maynes and Jennifer Pak reported that Moscow and Beijing intend to keep engaging President Trump after U.S. midterm results that will seat a Democratic-controlled Congress in January. Kremlin spokesman Dmitry Peskov said Russia is counting on Trump to continue Ukraine peace efforts, while China's foreign ministry described cooperation with Washington as business as usual. Ukrainian President Volodymyr Zelenskyy said Ukraine counts on even more support from the incoming lawmakers.
-nut_graf: The reactions create a narrower negotiating window for Trump as key events approach. U.S.-led trilateral talks are set for Abu Dhabi next week, Trump and Xi are expected to meet in China later this month, and Putin could join. NPR correspondents said the outcomes could affect Ukraine and Europe, while Jennifer Pak said NPR had heard of tariff progress on $60 billion in goods trade, with Chinese investment, Taiwan and AI guardrails still harder to negotiate.
+lede: NPR correspondents Charles Maynes and Jennifer Pak reported that Moscow and
+  Beijing intend to keep engaging President Trump after U.S. midterm results that
+  will seat a Democratic-controlled Congress in January. Kremlin spokesman Dmitry
+  Peskov said Russia is counting on Trump to continue Ukraine peace efforts, while
+  China's foreign ministry described cooperation with Washington as business as usual.
+  Ukrainian President Volodymyr Zelenskyy said Ukraine counts on even more support
+  from the incoming lawmakers.
+nut_graf: The reactions create a narrower negotiating window for Trump as key events
+  approach. U.S.-led trilateral talks are set for Abu Dhabi next week, Trump and Xi
+  are expected to meet in China later this month, and Putin could join. NPR correspondents
+  said the outcomes could affect Ukraine and Europe, while Jennifer Pak said NPR had
+  heard of tariff progress on $60 billion in goods trade, with Chinese investment,
+  Taiwan and AI guardrails still harder to negotiate.
 primary_entities:
 - Donald Trump
 - Vladimir Putin
@@ -57,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,10 +168,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-05-trump-says-russia-and-ukraine-are-close-to-a-deal-after-meeting-putin-s-envoy
-  headline: Trump says Russia and Ukraine are close to a deal after meeting Putin's envoy
+  headline: Trump says Russia and Ukraine are close to a deal after meeting Putin's
+    envoy
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7359
+  strength: 0.7346
 - slug: 2026-11-04-democratic-congress-leaves-trump-foreign-policy-largely-intact
   headline: Democratic Congress leaves Trump foreign policy largely intact
   publish_date: '2026-11-04'
@@ -169,94 +182,33 @@ related_stories:
   headline: Trump open to joining Putin and Xi for denuclearization summit
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7662
+  strength: 0.7658
 - slug: 2026-10-29-ukraine-pauses-strikes-on-russian-refineries-amid-u-s-pressure
   headline: Ukraine pauses strikes on Russian refineries amid U.S. pressure
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7098
+  strength: 0.708
 - slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
   headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.7619
-- slug: 2026-10-21-russia-says-trilateral-ukraine-peace-talks-could-resume-after-nov-10
-  headline: Russia says trilateral Ukraine peace talks could resume after Nov. 10
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7044
-- slug: 2026-10-21-eu-leaders-seek-ukraine-funding-plan-before-key-elections
-  headline: EU leaders seek Ukraine funding plan before key elections
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7043
+  strength: 0.7599
 - slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
   headline: Zelenskyy says Ukraine still sees US as partner despite warnings
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7329
+  strength: 0.7312
 - slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
   headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7134
+  strength: 0.7117
 - slug: 2026-09-24-trump-and-xi-governments-play-down-summit-expectations
   headline: Trump and Xi governments play down summit expectations
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7251
-- slug: 2026-09-25-trump-and-xi-hold-talks-in-washington-on-tariffs-taiwan-and-ai
-  headline: Trump and Xi hold talks in Washington on tariffs, Taiwan, and AI
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7202
-- slug: 2026-09-23-zelensky-says-putin-needs-more-us-pressure-to-curb-attacks
-  headline: Zelensky says Putin needs more US pressure to curb attacks
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7194
-- slug: 2026-09-20-zelensky-trump-to-meet-in-new-york-amid-renewed-ukraine-peace-push
-  headline: Zelensky, Trump to meet in New York amid renewed Ukraine peace push
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7225
-- slug: 2026-08-01-trump-and-zelenskyy-relations-thaw-as-ukraine-offers-help-in-iran-war
-  headline: Trump and Zelenskyy relations thaw as Ukraine offers help in Iran war
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.7085
-- slug: 2026-07-24-rubio-says-no-quick-path-to-ukraine-deal-in-new-bid-to-restart-talks
-  headline: Rubio says no quick path to Ukraine deal in new bid to restart talks
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7043
-- slug: 2026-06-09-zelenskyy-says-he-told-trump-that-putin-is-playing-games-with-washington
-  headline: Zelenskyy says he told Trump that Putin is 'playing games' with Washington
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7129
-- slug: 2025-12-29-trump-hosts-zelenskyy-at-florida-resort-says-peace-talks-near-agreement
-  headline: Trump hosts Zelenskyy at Florida resort, says peace talks near agreement
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7371
-- slug: 2026-05-13-trump-aims-to-stabilize-trade-in-beijing-summit-with-xi
-  headline: Trump aims to stabilize trade in Beijing summit with Xi
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7099
-- slug: 2026-05-13-trump-and-xi-seek-to-stabilize-trade-ties-at-beijing-summit
-  headline: Trump and Xi seek to stabilize trade ties at Beijing summit
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7047
-- slug: 2026-02-25-zelenskyy-marks-4th-year-of-russia-invasion-as-he-rejects-broken-claim
-  headline: Zelenskyy marks 4th year of Russia invasion as he rejects ‘broken’ claim
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.714
+  strength: 0.7244
 ---
-
 ## Kremlin counts on Trump for Ukraine peace efforts as Beijing stays measured
 
 **Subtype:** fact

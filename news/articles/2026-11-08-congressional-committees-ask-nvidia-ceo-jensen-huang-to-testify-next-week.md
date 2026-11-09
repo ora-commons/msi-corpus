@@ -1,9 +1,20 @@
 ---
 headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-secondary_headline: Nvidia board opens independent review of reported foreign intelligence effort
+secondary_headline: Nvidia board opens independent review of reported foreign intelligence
+  effort
 publish_date: '2026-11-08'
-lede: Republican-led foreign affairs and intelligence committees of the US Congress asked Nvidia chief executive Jensen Huang to testify next week at a closed-door briefing on Nvidia's security protocols against foreign adversary espionage. The request responded to an October New York Times report that alleged Huang had a close relationship with a Chinese businesswoman who passed information to Beijing. Nvidia said Sunday that its board was initiating an independent investigation in light of reporting that Huang had been the target of a foreign intelligence effort.
-nut_graf: Congress's request focuses on Nvidia's security protocols, while the board review responds to reports that Huang was a foreign-intelligence target. The developments come as US officials cite supply-chain and national-security risks to justify restrictions on advanced AI-chip exports to China, and after a technology-stock sell-off that The Guardian said cut nearly $1tn from the Nasdaq in one week.
+lede: Republican-led foreign affairs and intelligence committees of the US Congress
+  asked Nvidia chief executive Jensen Huang to testify next week at a closed-door
+  briefing on Nvidia's security protocols against foreign adversary espionage. The
+  request responded to an October New York Times report that alleged Huang had a close
+  relationship with a Chinese businesswoman who passed information to Beijing. Nvidia
+  said Sunday that its board was initiating an independent investigation in light
+  of reporting that Huang had been the target of a foreign intelligence effort.
+nut_graf: Congress's request focuses on Nvidia's security protocols, while the board
+  review responds to reports that Huang was a foreign-intelligence target. The developments
+  come as US officials cite supply-chain and national-security risks to justify restrictions
+  on advanced AI-chip exports to China, and after a technology-stock sell-off that
+  The Guardian said cut nearly $1tn from the Nasdaq in one week.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -61,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -77,7 +89,9 @@ figures:
   series_id: SP500
   transformation: raw
   as_of: '2026-11-08'
-  caption: Federal Reserve Bank of St. Louis data placed the raw S&P 500 index at 7,353.73 on Nov. 8, 2026. The chart provides a broad-market benchmark alongside reporting on Nvidia's 3.1% decline during the technology-stock sell-off.
+  caption: Federal Reserve Bank of St. Louis data placed the raw S&P 500 index at
+    7,353.73 on Nov. 8, 2026. The chart provides a broad-market benchmark alongside
+    reporting on Nvidia's 3.1% decline during the technology-stock sell-off.
 figures_aggregate:
   count: 1
   series_ids:
@@ -171,104 +185,45 @@ related_stories:
   headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8661
+  strength: 0.8656
 - slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
+  headline: Nvidia board opens independent investigation after reports about Jensen
+    Huang
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8439
+  strength: 0.8438
 - slug: 2026-10-29-us-intelligence-believes-chinese-spy-targeted-nvidia-ceo
   headline: US intelligence believes Chinese spy targeted Nvidia CEO
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8527
+  strength: 0.8522
 - slug: 2026-10-30-u-s-officials-suspect-megaspeed-executive-alice-huang-of-spying-for-china
   headline: U.S. officials suspect Megaspeed executive Alice Huang of spying for China
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8067
-- slug: 2026-10-14-nvidia-donates-250-million-in-computing-power-to-uk-ai-safety-research
-  headline: Nvidia donates $250 million in computing power to UK AI safety research
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6418
+  strength: 0.8063
 - slug: 2026-09-21-nvidia-ceo-rejects-ai-extinction-warnings-as-doomsday-narratives
   headline: Nvidia CEO rejects AI extinction warnings as 'doomsday narratives'
   publish_date: '2026-09-21'
   relation: related
   strength: 0.6566
-- slug: 2026-09-21-anthropic-report-details-ai-model-misuse-by-criminals-state-actors
-  headline: Anthropic report details AI model misuse by criminals, state actors
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6489
-- slug: 2026-09-17-huawei-announces-two-new-ai-chips-next-year-to-rival-nvidia
-  headline: Huawei announces two new AI chips next year to rival Nvidia
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6439
-- slug: 2026-09-02-tech-executives-trump-officials-urge-g-20-to-minimize-ai-regulation
-  headline: Tech executives, Trump officials urge G-20 to minimize AI regulation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6413
-- slug: 2026-08-24-nvidia-s-upcoming-earnings-report-puts-ai-trade-to-the-test
-  headline: Nvidia's upcoming earnings report puts AI trade to the test
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6413
 - slug: 2026-06-04-nvidia-ceo-jensen-huang-to-visit-south-korea-for-ai-robotics-talks
   headline: Nvidia CEO Jensen Huang to visit South Korea for AI, robotics talks
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.705
+  strength: 0.7052
 - slug: 2026-06-29-nvidia-s-ai-chip-sales-stall-in-china-as-huawei-gains-ground
   headline: Nvidia's AI chip sales stall in China as Huawei gains ground
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6871
+  strength: 0.6874
 - slug: 2026-05-16-nvidia-ceo-jensen-huang-samples-beijing-street-food-winces-at-fermented-drink
-  headline: Nvidia CEO Jensen Huang samples Beijing street food, winces at fermented drink
+  headline: Nvidia CEO Jensen Huang samples Beijing street food, winces at fermented
+    drink
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6725
-- slug: 2026-06-01-nvidia-unveils-rtx-spark-chip-for-ai-powered-personal-computers
-  headline: Nvidia unveils RTX Spark chip for AI-powered personal computers
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6606
-- slug: 2026-06-10-taiwan-considers-tighter-export-controls-on-ai-chips-bound-for-china
-  headline: Taiwan considers tighter export controls on AI chips bound for China
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6487
-- slug: 2026-06-02-nvidia-s-huang-predicts-marvell-could-join-trillion-dollar-chip-club
-  headline: Nvidia's Huang predicts Marvell could join trillion-dollar chip club
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6528
-- slug: 2026-05-16-nvidia-ceo-jensen-huang-tries-beijing-s-zhajiangmian-on-food-tour
-  headline: Nvidia CEO Jensen Huang tries Beijing’s zhajiangmian on food tour
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.653
-- slug: 2026-05-13-trump-china-trip-includes-musk-apple-s-cook-nvidia-s-huang-and-boeing-ceo
-  headline: Trump China trip includes Musk, Apple’s Cook, Nvidia’s Huang and Boeing CEO
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6515
-- slug: 2026-03-20-3-men-charged-in-smuggling-scheme-to-divert-nvidia-ai-chips-to-china
-  headline: 3 men charged in smuggling scheme to divert Nvidia AI chips to China
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6636
-- slug: 2026-01-14-way-cleared-for-nvidia-to-sell-h200-ai-chips-to-china-under-new-rules
-  headline: Way cleared for Nvidia to sell H200 AI chips to China under new rules
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6686
+  strength: 0.6728
 ---
-
 ## Congressional committees ask Nvidia CEO Jensen Huang to testify next week
 
 **Subtype:** fact
