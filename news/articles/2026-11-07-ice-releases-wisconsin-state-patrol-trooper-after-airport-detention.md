@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-04-03'
   relation: related
   strength: 0.6835
+analyses:
+- '2026-11-07-ice-s-release-leaves-van-der-merwe-s-legal-status-and-airport-selection-unresolv'
 ---
 ## ICE releases Wisconsin state patrol trooper after airport detention
 
@@ -234,3 +236,8 @@ The Guardian placed the airport detention within a broader immigration-enforceme
 **Publication date:** 2026-11-07
 **Title:** Wisconsin state patrol trooper detained by ICE released from custody
 **URL:** https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released
+
+---
+
+<!-- analysis-link:2026-11-07-ice-s-release-leaves-van-der-merwe-s-legal-status-and-airport-selection-unresolv -->
+**Going deeper:** [Read MSI's analysis of Van Der Merwe’s monitored release →](/analyses/2026-11-07-ice-s-release-leaves-van-der-merwe-s-legal-status-and-airport-selection-unresolv)

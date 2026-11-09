@@ -207,6 +207,8 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7301
+analyses:
+- '2026-11-07-democratic-trifectas-widen-state-authority-while-execution-limits-stay-untested'
 ---
 ## Democrats flip a dozen legislative chambers and take full control in six states
 
@@ -276,3 +278,8 @@ The Wall Street Journal said the party's gains might be fragile because many Dem
 **Publication date:** 2026-11-07
 **Title:** See Democrats’ Historic Statehouse Wins and Their New ‘Trifectas’
 **URL:** https://www.wsj.com/politics/elections/see-democrats-historic-statehouse-wins-and-their-new-trifectas-aff55a0c
+
+---
+
+<!-- analysis-link:2026-11-07-democratic-trifectas-widen-state-authority-while-execution-limits-stay-untested -->
+**Going deeper:** [Read MSI's analysis of state trifectas and usable authority →](/analyses/2026-11-07-democratic-trifectas-widen-state-authority-while-execution-limits-stay-untested)
