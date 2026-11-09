@@ -1,9 +1,22 @@
 ---
-headline: 'Reports: Trump administration weighs four underwater datacenters off Maine, Alaska'
+headline: 'Reports: Trump administration weighs four underwater datacenters off Maine,
+  Alaska'
 secondary_headline: Reported U.S. proposal and Great Lakes advance-regulation request
 publish_date: '2026-11-07'
-lede: The Trump administration is weighing plans for four proposed underwater, sealed-pod datacenters to be built off the shores of Maine and Alaska, according to recent reports. No underwater datacenter has been proposed for the Great Lakes, but the Lake Erie Foundation, an Ohio non-profit, has contacted state legislators in New York, Ohio and Michigan to discuss advance regulations before developers submit proposals.
-nut_graf: Technology companies may favor underwater datacenters because they can largely avoid land-based siting conflicts in residential areas and, in theory, could significantly reduce utility costs. With two facilities operating off China and the administration reportedly considering four proposed facilities off Maine and Alaska, the Lake Erie Foundation has asked Great Lakes lawmakers to write regulations before developers submit proposals. Any project in the freshwater basin would raise environmental questions because tens of millions of people depend on the Great Lakes for drinking water.
+lede: The Trump administration is weighing plans for four proposed underwater, sealed-pod
+  datacenters to be built off the shores of Maine and Alaska, according to recent
+  reports. No underwater datacenter has been proposed for the Great Lakes, but the
+  Lake Erie Foundation, an Ohio non-profit, has contacted state legislators in New
+  York, Ohio and Michigan to discuss advance regulations before developers submit
+  proposals.
+nut_graf: Technology companies may favor underwater datacenters because they can largely
+  avoid land-based siting conflicts in residential areas and, in theory, could significantly
+  reduce utility costs. With two facilities operating off China and the administration
+  reportedly considering four proposed facilities off Maine and Alaska, the Lake Erie
+  Foundation has asked Great Lakes lawmakers to write regulations before developers
+  submit proposals. Any project in the freshwater basin would raise environmental
+  questions because tens of millions of people depend on the Great Lakes for drinking
+  water.
 primary_entities:
 - Donald Trump
 - Trump administration
@@ -68,7 +81,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -167,24 +181,29 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-07-reports-trump-administration-weighs-four-underwater-datacenters-off-maine-alaska.png
-  alt: 'Illustration accompanying article: Reports: Trump administration weighs four underwater datacenters off Maine, Alaska'
+  alt: 'Illustration accompanying article: Reports: Trump administration weighs four
+    underwater datacenters off Maine, Alaska'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-06-ai-companies-reassess-data-center-plans-after-midterm-wins-for-freeze-candidates
-  headline: AI companies reassess data-center plans after midterm wins for freeze candidates
+  headline: AI companies reassess data-center plans after midterm wins for freeze
+    candidates
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7231
+  strength: 0.7233
 - slug: 2026-10-26-candidates-in-four-states-seek-tighter-data-center-approval-rules
   headline: Candidates in four states seek tighter data-center approval rules
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6947
+  strength: 0.6942
 - slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
   headline: Data center backlash forces bipartisan repositioning ahead of US midterms
   publish_date: '2026-10-14'
@@ -194,89 +213,28 @@ related_stories:
   headline: Trump order directs agencies to prioritize recreational fishing
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.689
+  strength: 0.6882
 - slug: 2026-09-04-data-center-operators-redesign-sites-as-15-states-weigh-moratoriums
   headline: Data center operators redesign sites as 15 states weigh moratoriums
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.7186
+  strength: 0.7183
 - slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
   headline: Trump, tech leaders suggest China is behind data-center opposition
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.7056
+  strength: 0.7057
 - slug: 2026-09-09-more-than-10-states-pause-or-cancel-data-center-tax-exemptions
   headline: More than 10 states pause or cancel data center tax exemptions
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6958
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6869
+  strength: 0.6956
 - slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
   headline: Tech giants step up community investments to counter AI data-center opposition
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.6877
-- slug: 2026-08-10-permian-basin-landowners-plan-leases-for-ai-data-centers
-  headline: Permian Basin landowners plan leases for AI data centers
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.687
-- slug: 2026-06-08-two-thirds-of-planned-us-ai-datacenters-built-on-drought-hit-land
-  headline: Two-thirds of planned US AI datacenters built on drought-hit land
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7178
-- slug: 2026-06-02-trump-administration-plans-to-dismantle-368-million-ocean-monitoring-network
-  headline: Trump administration plans to dismantle $368 million ocean monitoring network
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7168
-- slug: 2026-05-21-investors-pour-millions-into-deep-sea-mining-startups-a-year-after-trump-executi
-  headline: Investors pour millions into deep-sea mining startups a year after Trump executive order
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7183
-- slug: 2026-05-22-trump-order-sparks-deep-sea-mining-push-as-regulators-race-to-fast-track-permits
-  headline: Trump order sparks deep-sea mining push as regulators race to fast-track permits
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7105
-- slug: 2026-05-21-trump-order-spurs-u-s-push-for-deep-sea-mining-but-questions-remain
-  headline: Trump order spurs U.S. push for deep-sea mining, but questions remain
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7071
-- slug: 2026-05-21-trump-deep-sea-mining-push-draws-investors-as-regulators-move-to-fast-track-perm
-  headline: Trump deep-sea mining push draws investors as regulators move to fast-track permits
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7058
-- slug: 2026-06-09-surveillance-drone-deployment-on-great-lakes-raises-privacy-concerns
-  headline: Surveillance drone deployment on Great Lakes raises privacy concerns
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6956
-- slug: 2026-05-21-trump-order-fuels-deep-sea-mining-push-as-regulators-fast-track-permits
-  headline: Trump order fuels deep-sea mining push as regulators fast-track permits
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7007
-- slug: 2026-05-22-trump-executive-order-boosts-deep-sea-mining-growth-but-future-remains-unclear
-  headline: Trump executive order boosts deep-sea mining growth, but future remains unclear
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7
-- slug: 2026-05-23-trump-s-deep-sea-mining-order-spurs-investor-rush-as-regulators-fast-track-permi
-  headline: Trump’s deep‑sea mining order spurs investor rush as regulators fast‑track permits
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6887
+  strength: 0.6882
 ---
-
 ## Reports: Trump administration weighs four underwater datacenters off Maine, Alaska
 
 **Subtype:** fact
