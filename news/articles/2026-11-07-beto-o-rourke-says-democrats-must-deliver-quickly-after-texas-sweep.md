@@ -210,6 +210,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-07-texas-democrats-confront-the-gap-between-a-statewide-sweep-and-immediate-deliver'
 ---
 ## Beto O'Rourke says Democrats must deliver quickly after Texas sweep
 
@@ -253,3 +255,8 @@ From that came, in O'Rourke's words, "this crazy snowball's-chance-in-Texas idea
 **Publication date:** 2026-11-07
 **Title:** Texas's 'Blue Tsunami' has former Texas congressman Beto O'Rourke 'over the moon'
 **URL:** https://www.npr.org/2026/11/07/nx-s1-6030966/texass-blue-tsunami-has-former-texas-congressman-beto-orourke-over-the-moon
+
+---
+
+<!-- analysis-link:2026-11-07-texas-democrats-confront-the-gap-between-a-statewide-sweep-and-immediate-deliver -->
+**Going deeper:** [Read MSI's analysis of the gap between victory and delivery →](/analyses/2026-11-07-texas-democrats-confront-the-gap-between-a-statewide-sweep-and-immediate-deliver)
