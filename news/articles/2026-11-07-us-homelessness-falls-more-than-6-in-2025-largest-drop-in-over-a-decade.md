@@ -1,9 +1,19 @@
 ---
 headline: US homelessness falls more than 6% in 2025, largest drop in over a decade
-secondary_headline: HUD and an independent analysis credit different factors for the decline
+secondary_headline: HUD and an independent analysis credit different factors for the
+  decline
 publish_date: '2026-11-07'
-lede: Homelessness in the United States fell more than 6% in 2025 — roughly 49,000 fewer people — the largest one-year drop in more than a decade, according to an annual count announced by the Department of Housing and Urban Development. It was the second consecutive annual decline, following a smaller drop in 2024.
-nut_graf: An independent analysis of the same count, commissioned by the National Alliance to End Homelessness, found a similar decline but credited different reasons than federal officials, and that disagreement runs through the administration's proposal to shift several billion dollars in homelessness spending toward short-term housing with mandated addiction and mental health treatment — a plan courts have so far blocked. The count still found nearly 700,000 people living in shelters or on the streets, significantly more than before the COVID-19 pandemic.
+lede: Homelessness in the United States fell more than 6% in 2025 — roughly 49,000
+  fewer people — the largest one-year drop in more than a decade, according to an
+  annual count announced by the Department of Housing and Urban Development. It was
+  the second consecutive annual decline, following a smaller drop in 2024.
+nut_graf: An independent analysis of the same count, commissioned by the National
+  Alliance to End Homelessness, found a similar decline but credited different reasons
+  than federal officials, and that disagreement runs through the administration's
+  proposal to shift several billion dollars in homelessness spending toward short-term
+  housing with mandated addiction and mental health treatment — a plan courts have
+  so far blocked. The count still found nearly 700,000 people living in shelters or
+  on the streets, significantly more than before the COVID-19 pandemic.
 primary_entities:
 - Department of Housing and Urban Development
 - Scott Turner
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +157,45 @@ related_stories:
   headline: ICE deportations accelerate enrollment declines at US public schools
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6761
+  strength: 0.6762
 - slug: 2026-10-22-trump-administration-deportations-rise-but-miss-1-million-annual-target
   headline: Trump administration deportations rise but miss 1 million annual target
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6934
+  strength: 0.6922
 - slug: 2026-10-09-report-projects-2-152-yearly-social-security-reduction-from-trump-immigration-po
-  headline: Report projects $2,152 yearly Social Security reduction from Trump immigration policies
+  headline: Report projects $2,152 yearly Social Security reduction from Trump immigration
+    policies
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6922
+  strength: 0.6913
 - slug: 2026-10-01-researchers-dispute-trump-claim-linking-deportations-to-us-homicide-decline
   headline: Researchers dispute Trump claim linking deportations to US homicide decline
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7228
+  strength: 0.7215
 - slug: 2026-05-31-national-homelessness-drops-3-in-2025-first-decline-since-2016
   headline: National homelessness drops 3% in 2025, first decline since 2016
   publish_date: '2026-05-31'
   relation: related
-  strength: 0.8586
+  strength: 0.8588
 - slug: 2026-09-24-senior-poverty-rate-rises-for-fifth-straight-year-aarp-foundation-finds
   headline: Senior poverty rate rises for fifth straight year, AARP Foundation finds
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6755
+  strength: 0.6743
 - slug: 2026-09-17-trump-administration-proposes-dropping-head-start-priority-for-homeless-children
-  headline: Trump administration proposes dropping Head Start priority for homeless children
+  headline: Trump administration proposes dropping Head Start priority for homeless
+    children
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6905
+  strength: 0.69
 - slug: 2026-09-03-us-domestic-violence-killings-rise-while-overall-homicides-fall
   headline: US domestic violence killings rise while overall homicides fall
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6769
-- slug: 2026-08-27-u-s-weekly-unemployment-claims-fall-by-4-000
-  headline: U.S. weekly unemployment claims fall by 4,000
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6622
-- slug: 2026-08-14-fbi-reports-us-homicide-rate-fell-to-75-year-low-in-2025
-  headline: FBI reports US homicide rate fell to 75-year low in 2025
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.661
-- slug: 2026-06-12-trump-suspends-federal-funding-to-la-homeless-agency-over-fraud-allegations
-  headline: Trump suspends federal funding to LA homeless agency over fraud allegations
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7006
-- slug: 2026-07-09-us-murder-rate-fell-to-record-low-in-2025-criminologist-says
-  headline: US murder rate fell to record low in 2025, criminologist says
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6645
-- slug: 2026-01-28-immigration-crackdown-slows-u-s-population-growth-to-0-5-percent
-  headline: Immigration crackdown slows U.S. population growth to 0.5 percent
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.7068
-- slug: 2026-01-27-u-s-population-growth-drops-to-lowest-level-since-1919-as-immigration-slows
-  headline: U.S. population growth drops to lowest level since 1919 as immigration slows
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.7064
-- slug: 2026-06-26-us-falls-short-of-peer-nations-on-health-food-income-education-data-shows
-  headline: US falls short of peer nations on health, food, income, education, data shows
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6593
-- slug: 2026-05-14-us-overdose-deaths-declined-in-2025-cdc-data-show
-  headline: US overdose deaths declined in 2025, CDC data show
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.673
-- slug: 2026-03-27-census-data-show-slower-u-s-metro-population-gains-as-immigration-declines
-  headline: Census data show slower U.S. metro population gains as immigration declines
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6814
-- slug: 2026-02-11-americans-future-optimism-sinks-to-record-low-gallup-finds
-  headline: Americans’ future optimism sinks to record low, Gallup finds
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6822
-- slug: 2026-05-14-us-overdose-deaths-fall-14-percent-in-2025-cdc-data-shows
-  headline: US overdose deaths fall 14 percent in 2025, CDC data shows
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6645
-- slug: 2026-02-26-trump-highlights-border-drop-in-state-of-the-union-amid-enforcement-fallout
-  headline: Trump highlights border drop in State of the Union amid enforcement fallout
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6771
+  strength: 0.6759
 ---
-
 ## US homelessness falls more than 6% in 2025, largest drop in over a decade
 
 **Subtype:** fact

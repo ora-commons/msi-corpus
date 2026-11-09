@@ -1,9 +1,18 @@
 ---
-headline: Dana White says he is planning a meeting with Trump about a press secretary job
-secondary_headline: Leavitt's August departure preceded Zacharia's October selection; Trump named Miller Friday
+headline: Dana White says he is planning a meeting with Trump about a press secretary
+  job
+secondary_headline: Leavitt's August departure preceded Zacharia's October selection;
+  Trump named Miller Friday
 publish_date: '2026-11-08'
-lede: Ultimate Fighting Championship chief executive Dana White said he is planning to meet President Trump on Monday about Trump's offer to make him White House press secretary. Trump announced the offer in a social-media post on Saturday, but it was not clear whether White would accept the job.
-nut_graf: Karoline Leavitt announced her departure in August; Trump selected Katie Zacharia in October, and Zacharia left after five days. Trump announced Stephen Miller as chief of staff on Friday and offered the press secretary job to White on Saturday, while also ordering the Justice Department to investigate what he described as threats from Democrats against Republican donors and the attorney general.
+lede: Ultimate Fighting Championship chief executive Dana White said he is planning
+  to meet President Trump on Monday about Trump's offer to make him White House press
+  secretary. Trump announced the offer in a social-media post on Saturday, but it
+  was not clear whether White would accept the job.
+nut_graf: Karoline Leavitt announced her departure in August; Trump selected Katie
+  Zacharia in October, and Zacharia left after five days. Trump announced Stephen
+  Miller as chief of staff on Friday and offered the press secretary job to White
+  on Saturday, while also ordering the Justice Department to investigate what he described
+  as threats from Democrats against Republican donors and the attorney general.
 primary_entities:
 - Dana White
 - Trump
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,60 +152,39 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-07-white-house-does-not-respond-to-dana-white-press-offer-as-ufc-boss-is-in-london
-  headline: White House does not respond to Dana White press offer as UFC boss is in London
+  headline: White House does not respond to Dana White press offer as UFC boss is
+    in London
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8629
+  strength: 0.8627
 - slug: 2026-11-07-dana-white-receives-trump-s-public-request-to-become-white-house-press-secretary
-  headline: Dana White receives Trump's public request to become White House press secretary
+  headline: Dana White receives Trump's public request to become White House press
+    secretary
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8598
+  strength: 0.8597
 - slug: 2026-11-06-trump-polled-friends-for-weeks-on-wiles-s-work-before-replacing-her-sources-say
-  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources say
+  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources
+    say
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.663
+  strength: 0.6621
 - slug: 2026-11-06-wiles-departure-leaves-trump-white-house-leadership-overwhelmingly-male
   headline: Wiles departure leaves Trump White House leadership overwhelmingly male
   publish_date: '2026-11-06'
   relation: related
   strength: 0.6517
-- slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6452
-- slug: 2026-11-06-trump-s-chief-of-staff-switch-follows-republican-midterm-sweep-from-power
-  headline: Trump's chief of staff switch follows Republican midterm sweep from power
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6425
-- slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6387
-- slug: 2026-11-06-stephen-miller-trump-s-next-chief-of-staff-defended-u-s-takeover-of-greenland
-  headline: Stephen Miller, Trump's next chief of staff, defended U.S. takeover of Greenland
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6319
-- slug: 2026-11-06-trump-s-longest-serving-chief-of-staff-susie-wiles-resigns
-  headline: Trump's longest-serving chief of staff, Susie Wiles, resigns
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6308
 - slug: 2026-10-09-zacharia-wasn-t-considered-for-press-secretary-until-this-week-cnn-source-says
-  headline: Zacharia wasn't considered for press secretary until this week, CNN source says
+  headline: Zacharia wasn't considered for press secretary until this week, CNN source
+    says
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7557
+  strength: 0.7555
 - slug: 2026-10-13-katie-zacharia-holds-first-briefing-as-trump-s-sixth-press-secretary
   headline: Katie Zacharia holds first briefing as Trump's sixth press secretary
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7299
+  strength: 0.7302
 - slug: 2026-10-09-trump-selects-katie-zacharia-as-next-white-house-press-secretary
   headline: Trump selects Katie Zacharia as next White House press secretary
   publish_date: '2026-10-09'
@@ -205,44 +194,8 @@ related_stories:
   headline: Zacharia tells Guardian frequency of press briefings is 'unknown'
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.67
-- slug: 2026-10-12-katie-zacharia-set-for-first-briefing-as-trump-s-press-secretary
-  headline: Katie Zacharia set for first briefing as Trump's press secretary
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6772
-- slug: 2026-10-13-katie-zacharia-debuts-as-trump-s-sixth-white-house-press-secretary
-  headline: Katie Zacharia debuts as Trump's sixth White House press secretary
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6451
-- slug: 2026-10-13-mcenany-zacharia-had-very-little-runway-before-first-briefing
-  headline: 'McEnany: Zacharia had "very little runway" before first briefing'
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6425
-- slug: 2026-10-13-zacharia-promoted-qanon-pizzagate-and-zyklon-b-claim-on-social-media
-  headline: Zacharia promoted QAnon, Pizzagate and Zyklon B claim on social media
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6319
-- slug: 2026-10-05-karoline-leavitt-joins-fox-news-as-on-air-contributor
-  headline: Karoline Leavitt joins Fox News as on-air contributor
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6598
-- slug: 2026-09-21-trump-weighs-relocating-white-house-press-corps-from-west-wing
-  headline: Trump weighs relocating White House press corps from West Wing
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6472
-- slug: 2026-08-12-karoline-leavitt-to-leave-white-house-press-secretary-post-at-end-of-august
-  headline: Karoline Leavitt to leave White House press secretary post at end of August
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6984
+  strength: 0.6699
 ---
-
 ## Dana White says he is planning a meeting with Trump about a press secretary job
 
 **Subtype:** fact
