@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-11-05'
   relation: related
   strength: 0.697
+analyses:
+- '2026-11-07-npr-frames-texas-victories-through-populist-history-and-advertising-emphasis'
 ---
 ## Texas Democrats' wins echo state's 1890s populist movement, commentator says
 
@@ -240,3 +242,8 @@ Asked about his own week, Griscom said, "It's been a really wonderful past few d
 **Publication date:** 2026-11-07
 **Title:** The surprising and often forgotten history of economic populism in Texas
 **URL:** https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism
+
+---
+
+<!-- analysis-link:2026-11-07-npr-frames-texas-victories-through-populist-history-and-advertising-emphasis -->
+**Going deeper:** [Read MSI's analysis of Texas victories through a historical frame →](/analyses/2026-11-07-npr-frames-texas-victories-through-populist-history-and-advertising-emphasis)

@@ -220,6 +220,8 @@ related_stories:
   publish_date: '2026-11-06'
   relation: related
   strength: 0.6939
+analyses:
+- '2026-11-08-congressional-pressure-meets-trump-s-retained-foreign-policy-authority'
 ---
 ## Guardian columnist says midterm losses leave Trump weaker abroad
 
@@ -266,3 +268,8 @@ Tisdall asked whether Trump could redeem himself after an unambiguous national v
 **Publication date:** 2026-11-08
 **Title:** Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us?  | Simon Tisdall
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president
+
+---
+
+<!-- analysis-link:2026-11-08-congressional-pressure-meets-trump-s-retained-foreign-policy-authority -->
+**Going deeper:** [Read MSI's analysis of the post-midterm foreign-policy authority split →](/analyses/2026-11-08-congressional-pressure-meets-trump-s-retained-foreign-policy-authority)
