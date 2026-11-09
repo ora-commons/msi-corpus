@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-09-03'
   relation: related
   strength: 0.6759
+analyses:
+- '2026-11-07-hud-s-homelessness-count-leaves-competing-causes-unresolved'
 ---
 ## US homelessness falls more than 6% in 2025, largest drop in over a decade
 
@@ -239,3 +241,8 @@ Separately, NPR's page carries two related items in a section labeled "Only on N
 **Publication date:** 2026-11-07
 **Title:** Homelessness in the U.S. saw its largest drop in more than a decade last year
 **URL:** https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year
+
+---
+
+<!-- analysis-link:2026-11-07-hud-s-homelessness-count-leaves-competing-causes-unresolved -->
+**Going deeper:** [Read MSI's analysis of competing explanations for homelessness decline →](/analyses/2026-11-07-hud-s-homelessness-count-leaves-competing-causes-unresolved)
