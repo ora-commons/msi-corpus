@@ -2,8 +2,18 @@
 headline: Dana White receives Trump's public request to become White House press secretary
 secondary_headline: The post lands amid a vacancy and Republican midterm losses
 publish_date: '2026-11-07'
-lede: US President Donald Trump asked Ultimate Fighting Championship boss Dana White on Saturday to become White House press secretary, writing on Truth Social that "Dana will be a Press Secretary like none other" and urging him, "Dana, please take the job!" The BBC reported that it was unclear whether the public offer was genuine and that it had asked the White House and TKO Holdings, UFC's parent company, for comment.
-nut_graf: 'The request came with the White House press secretary position vacant since mid-October, when Katie Zacharia exited after just a few days, and after Republicans lost their congressional majorities in the US midterm elections. White''s long business and political ties to Trump provide context for the offer: White credits Trump with saving the UFC by hosting two events at the Trump Taj Mahal casino in 2001 after mainstream arenas had shut the organization out.'
+lede: US President Donald Trump asked Ultimate Fighting Championship boss Dana White
+  on Saturday to become White House press secretary, writing on Truth Social that
+  "Dana will be a Press Secretary like none other" and urging him, "Dana, please take
+  the job!" The BBC reported that it was unclear whether the public offer was genuine
+  and that it had asked the White House and TKO Holdings, UFC's parent company, for
+  comment.
+nut_graf: 'The request came with the White House press secretary position vacant since
+  mid-October, when Katie Zacharia exited after just a few days, and after Republicans
+  lost their congressional majorities in the US midterm elections. White''s long business
+  and political ties to Trump provide context for the offer: White credits Trump with
+  saving the UFC by hosting two events at the Trump Taj Mahal casino in 2001 after
+  mainstream arenas had shut the organization out.'
 primary_entities:
 - Donald Trump
 - Dana White
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,51 +156,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-06-wiles-departure-leaves-trump-white-house-leadership-overwhelmingly-male
-  headline: Wiles departure leaves Trump White House leadership overwhelmingly male
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6481
-- slug: 2026-11-06-trump-polled-friends-for-weeks-on-wiles-s-work-before-replacing-her-sources-say
-  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources say
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6396
-- slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6363
 - slug: 2026-10-09-zacharia-wasn-t-considered-for-press-secretary-until-this-week-cnn-source-says
-  headline: Zacharia wasn't considered for press secretary until this week, CNN source says
+  headline: Zacharia wasn't considered for press secretary until this week, CNN source
+    says
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7244
+  strength: 0.724
 - slug: 2026-10-13-katie-zacharia-holds-first-briefing-as-trump-s-sixth-press-secretary
   headline: Katie Zacharia holds first briefing as Trump's sixth press secretary
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7031
+  strength: 0.704
 - slug: 2026-10-15-zacharia-tells-guardian-frequency-of-press-briefings-is-unknown
   headline: Zacharia tells Guardian frequency of press briefings is 'unknown'
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6905
+  strength: 0.6903
 - slug: 2026-10-12-katie-zacharia-set-for-first-briefing-as-trump-s-press-secretary
   headline: Katie Zacharia set for first briefing as Trump's press secretary
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6936
+  strength: 0.6937
 - slug: 2026-10-18-white-house-press-secretary-has-no-job-description-or-required-qualifications
   headline: White House press secretary has no job description or required qualifications
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.6635
+  strength: 0.6638
 - slug: 2026-10-13-katie-zacharia-debuts-as-trump-s-sixth-white-house-press-secretary
   headline: Katie Zacharia debuts as Trump's sixth White House press secretary
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6653
+  strength: 0.6657
 - slug: 2026-10-14-trump-press-secretary-zacharia-faces-complaint-over-lawyer-claims
   headline: Trump press secretary Zacharia faces complaint over lawyer claims
   publish_date: '2026-10-14'
@@ -199,63 +196,21 @@ related_stories:
   headline: Trump selects Katie Zacharia as next White House press secretary
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6791
-- slug: 2026-10-13-zacharia-promoted-qanon-pizzagate-and-zyklon-b-claim-on-social-media
-  headline: Zacharia promoted QAnon, Pizzagate and Zyklon B claim on social media
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6469
-- slug: 2026-10-13-mcenany-zacharia-had-very-little-runway-before-first-briefing
-  headline: 'McEnany: Zacharia had "very little runway" before first briefing'
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6398
-- slug: 2026-09-21-trump-weighs-relocating-white-house-press-corps-from-west-wing
-  headline: Trump weighs relocating White House press corps from West Wing
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6719
-- slug: 2026-09-18-cnn-calls-trump-white-house-ban-illegal-assault-on-press-rights
-  headline: CNN calls Trump White House ban 'illegal assault' on press rights
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6413
-- slug: 2026-08-12-karoline-leavitt-to-leave-white-house-press-secretary-post-at-end-of-august
-  headline: Karoline Leavitt to leave White House press secretary post at end of August
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6379
-- slug: 2026-08-05-trump-attorneys-ask-court-to-pause-bbc-access-to-financial-records
-  headline: Trump attorneys ask court to pause BBC access to financial records
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6395
-- slug: 2026-07-22-hundreds-of-journalists-ask-whca-to-stand-up-to-trump-at-dinner
-  headline: Hundreds of journalists ask WHCA to stand up to Trump at dinner
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6564
-- slug: 2026-06-15-ufc-freedom-250-at-white-house-cage-fights-mark-trump-s-80th-birthday
-  headline: 'UFC Freedom 250 at White House: Cage fights mark Trump''s 80th birthday'
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6835
-- slug: 2026-07-25-trump-delivers-speech-at-rescheduled-correspondents-dinner-addresses-press-and-r
-  headline: Trump delivers speech at rescheduled correspondents’ dinner, addresses press and rivals
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6363
+  strength: 0.6795
 image:
   url: /articles/2026-11-07-dana-white-receives-trump-s-public-request-to-become-white-house-press-secretary.png
-  alt: "Illustration accompanying article: Dana White receives Trump's public request to become White House press secretary"
+  alt: 'Illustration accompanying article: Dana White receives Trump''s public request
+    to become White House press secretary'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Dana White receives Trump's public request to become White House press secretary
 
 **Subtype:** fact
