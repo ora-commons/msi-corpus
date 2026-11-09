@@ -1,9 +1,19 @@
 ---
 headline: Activists say two Uyghurs in Thailand face grave danger if deported to China
-secondary_headline: Detainee's letter says return to China would leave him 'like a slave'
+secondary_headline: Detainee's letter says return to China would leave him 'like a
+  slave'
 publish_date: '2026-11-08'
-lede: Two Uyghur men facing deportation from Thailand have shared letters with human-rights groups saying they do not want to return to China. One wrote that he would be "like a slave" if sent back, and activists said the men's lives would be in grave danger if deported. Human-rights groups said the men had recently been transferred to an immigration detention centre and feared Thailand might again yield to Beijing amid reports of torture and human-rights abuses against the mostly Muslim minority.
-nut_graf: Activists said the men's lives would be in grave danger if deported, while it remained unclear whether China had issued a formal extradition request. Thailand's national security council chief said arrest warrants were outstanding, and Marzeyya Kasem believed Thai authorities were seeking a more credible legal basis after criticism of last year's mass deportation.
+lede: Two Uyghur men facing deportation from Thailand have shared letters with human-rights
+  groups saying they do not want to return to China. One wrote that he would be "like
+  a slave" if sent back, and activists said the men's lives would be in grave danger
+  if deported. Human-rights groups said the men had recently been transferred to an
+  immigration detention centre and feared Thailand might again yield to Beijing amid
+  reports of torture and human-rights abuses against the mostly Muslim minority.
+nut_graf: Activists said the men's lives would be in grave danger if deported, while
+  it remained unclear whether China had issued a formal extradition request. Thailand's
+  national security council chief said arrest warrants were outstanding, and Marzeyya
+  Kasem believed Thai authorities were seeking a more credible legal basis after criticism
+  of last year's mass deportation.
 primary_entities:
 - Thailand
 - China
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,108 +155,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-06-rohingya-refugees-in-malaysia-struggle-to-worship-freely-amid-discrimination
-  headline: Rohingya refugees in Malaysia struggle to worship freely amid discrimination
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6128
-- slug: 2026-11-05-secret-u-s--iran-talks-on-deportations-continued-during-the-war
-  headline: Secret U.S.-Iran talks on deportations continued during the war
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6058
-- slug: 2026-10-31-trump-administration-plans-to-send-detained-afghans-to-afghanistan-via-pakistan
-  headline: Trump administration plans to send detained Afghans to Afghanistan via Pakistan
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.636
-- slug: 2026-10-02-vietnam-confirms-arrest-of-australian-activist-tran-hiep-and-two-others
-  headline: Vietnam confirms arrest of Australian activist Tran Hiep and two others
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6443
-- slug: 2026-10-08-human-rights-watch-us-third-country-deportations-to-africa-are-unlawful
-  headline: 'Human Rights Watch: US third-country deportations to Africa are unlawful'
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6165
-- slug: 2026-10-09-two-cuban-men-describe-deportation-to-central-african-republic
-  headline: Two Cuban men describe deportation to Central African Republic
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6058
-- slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
-  headline: UN experts warn US third-country deportations trigger human rights violations
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6375
-- slug: 2026-09-28-vietnamese-australian-democracy-campaigner-tran-hiep-missing-in-cambodia
-  headline: Vietnamese Australian democracy campaigner Tran Hiep missing in Cambodia
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6116
-- slug: 2026-09-21-human-rights-watch-calls-on-u-s-to-suspend-haiti-deportations
-  headline: Human Rights Watch calls on U.S. to suspend Haiti deportations
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5952
-- slug: 2026-09-18-witnesses-recount-beating-of-two-us-deportees-in-equatorial-guinea
-  headline: Witnesses recount beating of two US deportees in Equatorial Guinea
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6021
-- slug: 2026-09-13-trump-to-raise-detained-american-min-zin-s-case-at-xi-summit
-  headline: Trump to raise detained American Min Zin's case at Xi summit
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5969
-- slug: 2026-07-17-ice-arrests-chinese-human-rights-lawyer-wu-shaoping-in-pennsylvania
-  headline: ICE arrests Chinese human rights lawyer Wu Shaoping in Pennsylvania
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6163
 - slug: 2026-01-24-chinese-asylum-seeker-who-exposed-xinjiang-abuses-fights-deportation
   headline: Chinese asylum seeker who exposed Xinjiang abuses fights deportation
   publish_date: '2026-01-24'
   relation: related
-  strength: 0.6569
-- slug: 2026-07-14-china-charges-u-s-seismologist-with-espionage-after-secret-detention
-  headline: China Charges U.S. Seismologist With Espionage After Secret Detention
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5928
-- slug: 2026-01-30-chinese-dissident-guan-heng-granted-asylum-after-xinjiang-footage
-  headline: Chinese dissident Guan Heng granted asylum after Xinjiang footage
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6387
-- slug: 2026-05-16-france-wants-palestinian-activist-ramy-shaath-deported-he-says
-  headline: France wants Palestinian activist Ramy Shaath deported, he says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6035
-- slug: 2026-02-22-gay-asylum-seeker-deported-to-cameroon-despite-u-s-judge-s-protection-order
-  headline: Gay asylum-seeker deported to Cameroon despite U.S. judge's protection order
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.6182
-- slug: 2026-05-16-france-targets-palestinian-activist-for-deportation-ramy-shaath-says
-  headline: France targets Palestinian activist for deportation, Ramy Shaath says
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5997
-- slug: 2026-02-05-chinese-asylum-seeker-guan-heng-freed-from-u-s-detention-after-judge-grants-asyl
-  headline: Chinese asylum seeker Guan Heng freed from U.S. detention after judge grants asylum
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.617
-- slug: 2026-04-03-asylum-seekers-face-third-country-deportation-orders-to-unknown-nations
-  headline: Asylum seekers face “third-country” deportation orders to unknown nations
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6066
+  strength: 0.6557
 ---
-
 ## Activists say two Uyghurs in Thailand face grave danger if deported to China
 
 **Subtype:** fact

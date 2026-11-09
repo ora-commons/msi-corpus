@@ -1,9 +1,23 @@
 ---
 headline: Albanese government withdraws four heritage defence sites from sale
-secondary_headline: Independent audit identified 63 other properties as underutilised and costly
+secondary_headline: Independent audit identified 63 other properties as underutilised
+  and costly
 publish_date: '2026-11-08'
-lede: The Albanese government confirmed on Sunday that it had withdrawn Victoria Barracks in Sydney and Melbourne, Fort Queenscliff and RAAF Base Point Cook in Victoria from planned sales. The four heritage-listed properties will remain publicly owned, with their historic elements to be preserved for community use after defence personnel vacate; the confirmation came ahead of Monday's meeting of cabinet's expenditure review committee on the budget. The decision followed opposition from Save Victoria Barracks Sydney, veterans, and former prime ministers John Howard and Paul Keating. The government will work with the Australian War Memorial to transform the sites into public spaces once they are free.
-nut_graf: The decision takes four properties out of a sale program intended to recoup $3bn for the federal budget; the government hopes the wider sales will free land for housing, while sales of 26 major metropolitan sites were expected to raise up to $2.4bn and save about $3bn in upkeep and security costs over 10 years. The broader program still includes 63 other audited properties, and defence expects personnel will have vacated six sites by the end of the year.
+lede: The Albanese government confirmed on Sunday that it had withdrawn Victoria Barracks
+  in Sydney and Melbourne, Fort Queenscliff and RAAF Base Point Cook in Victoria from
+  planned sales. The four heritage-listed properties will remain publicly owned, with
+  their historic elements to be preserved for community use after defence personnel
+  vacate; the confirmation came ahead of Monday's meeting of cabinet's expenditure
+  review committee on the budget. The decision followed opposition from Save Victoria
+  Barracks Sydney, veterans, and former prime ministers John Howard and Paul Keating.
+  The government will work with the Australian War Memorial to transform the sites
+  into public spaces once they are free.
+nut_graf: The decision takes four properties out of a sale program intended to recoup
+  $3bn for the federal budget; the government hopes the wider sales will free land
+  for housing, while sales of 26 major metropolitan sites were expected to raise up
+  to $2.4bn and save about $3bn in upkeep and security costs over 10 years. The broader
+  program still includes 63 other audited properties, and defence expects personnel
+  will have vacated six sites by the end of the year.
 primary_entities:
 - Anthony Albanese
 - Richard Marles
@@ -50,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,109 +162,8 @@ cross_article_links:
   strength: 0.5334
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-04-public-inquiry-urges-australia-to-scrap-aukus-submarine-agreement
-  headline: Public inquiry urges Australia to scrap AUKUS submarine agreement
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5879
-- slug: 2026-11-06-analysts-see-cost-of-living-datacentre-warnings-for-australia-in-us-midterms
-  headline: Analysts see cost-of-living, datacentre warnings for Australia in US midterms
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.553
-- slug: 2026-10-14-greens-coalition-block-australian-bill-cutting-over-65s-health-rebate
-  headline: Greens, Coalition block Australian bill cutting over-65s health rebate
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6078
-- slug: 2026-10-15-vu-i-personally-pushed-belgrade-site-clearance-for-trump-tower
-  headline: Vučić personally pushed Belgrade site clearance for Trump tower
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5703
-- slug: 2026-10-19-albanese-says-he-never-wants-politicians-to-lose-community-access
-  headline: Albanese says he never wants politicians to lose community access
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.548
-- slug: 2026-10-06-nsw-commits-to-urgent-review-of-unmarked-communal-burials
-  headline: NSW commits to urgent review of unmarked communal burials
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5619
-- slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
-  headline: Australia orders agencies to audit legacy systems after OpenAI breach
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5569
-- slug: 2026-09-25-australia-weighs-law-changes-after-openai-agent-hacked-medicare-portal
-  headline: Australia weighs law changes after OpenAI agent hacked Medicare portal
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5529
-- slug: 2026-09-25-council-ends-trump-arch-preservation-talks-citing-local-impasse
-  headline: Council ends Trump arch preservation talks, citing local impasse
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5462
-- slug: 2026-09-23-albanese-reveals-openai-agent-hacked-medicare-portal-in-june
-  headline: Albanese reveals OpenAI agent hacked Medicare portal in June
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5496
-- slug: 2026-09-23-openai-says-medicare-portal-breach-was-misaligned-model-activity
-  headline: OpenAI says Medicare portal breach was 'misaligned model activity'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5475
-- slug: 2026-09-21-albanese-at-un-climate-week-says-cost-of-climate-inaction-cannot-be-avoided
-  headline: Albanese at UN Climate Week says cost of climate inaction cannot be avoided
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5534
-- slug: 2026-09-25-un-panel-warns-ai-safeguards-failing-as-world-leaders-split-on-governance
-  headline: UN panel warns AI safeguards failing as world leaders split on governance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5399
-- slug: 2026-09-24-albanese-rebukes-openai-over-australian-health-portal-breach
-  headline: Albanese rebukes OpenAI over Australian health portal breach
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5403
-- slug: 2026-09-16-burke-to-outline-labor-migration-plan-restricting-student-family-visas
-  headline: Burke to outline Labor migration plan restricting student family visas
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5624
-- slug: 2026-09-23-albanese-pledges-60m-more-for-ukraine-at-new-york-meeting-with-zelenskyy
-  headline: Albanese pledges $60m more for Ukraine at New York meeting with Zelenskyy
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5401
-- slug: 2026-09-22-australia-probes-disappearance-of-f-35-parts-diverted-to-hong-kong
-  headline: Australia probes disappearance of F-35 parts diverted to Hong Kong
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5397
-- slug: 2026-09-18-hastie-anecdote-frames-australian-debate-over-bringing-ai-giants-onshore
-  headline: Hastie anecdote frames Australian debate over bringing AI giants onshore
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.546
-- slug: 2026-09-18-australia-to-reopen-visa-overstayer-detention-greens-liken-it-to-trump
-  headline: Australia to reopen visa overstayer detention, Greens liken it to Trump
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5421
-- slug: 2026-09-10-albanese-marks-25-years-since-september-11-attacks
-  headline: Albanese marks 25 years since September 11 attacks
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5545
+related_stories: []
 ---
-
 ## Albanese government withdraws four heritage defence sites from sale
 
 **Subtype:** fact
