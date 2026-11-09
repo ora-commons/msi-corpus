@@ -163,6 +163,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-11-08-albanese-government-preserves-four-defence-sites-as-sale-program-shifts-to-63-pr'
 ---
 ## Albanese government withdraws four heritage defence sites from sale
 
@@ -207,3 +209,8 @@ Shadow Defence Minister James Paterson said questions remained about whether the
 **Publication date:** 2026-11-08
 **Title:** Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff
 **URL:** https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles
+
+---
+
+<!-- analysis-link:2026-11-08-albanese-government-preserves-four-defence-sites-as-sale-program-shifts-to-63-pr -->
+**Going deeper:** [Read MSI's analysis of defence property sale exception →](/analyses/2026-11-08-albanese-government-preserves-four-defence-sites-as-sale-program-shifts-to-63-pr)
