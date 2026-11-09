@@ -205,6 +205,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7319
+analyses:
+- '2026-11-08-hakeem-jeffries-builds-agenda-leverage-with-democrats-254-plus-house-majority'
 ---
 ## Jeffries faces divided Democrats atop largest House majority since Obama's first year
 
@@ -261,3 +263,8 @@ Jeffries has kept up informal chats with Pelosi on the House floor or by phone a
 **Publication date:** 2026-11-08
 **Title:** The Big Win Was Fun for Hakeem Jeffries. Managing Divided Democrats Might Not Be.
 **URL:** https://www.wsj.com/politics/hakeem-jeffries-divided-democrats-house-af07839e
+
+---
+
+<!-- analysis-link:2026-11-08-hakeem-jeffries-builds-agenda-leverage-with-democrats-254-plus-house-majority -->
+**Going deeper:** [Read MSI's analysis of House majority agenda control →](/analyses/2026-11-08-hakeem-jeffries-builds-agenda-leverage-with-democrats-254-plus-house-majority)
