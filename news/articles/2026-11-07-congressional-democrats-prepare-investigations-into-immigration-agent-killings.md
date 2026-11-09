@@ -2,8 +2,21 @@
 headline: Congressional Democrats prepare investigations into immigration agent killings
 secondary_headline: Subpoenas could reach Homan, Noem, Bovino and Miller as witnesses
 publish_date: '2026-11-07'
-lede: Congressional Democrats plan to use the majority they won in this week's midterm elections to renew investigations into the killings of Alex Pretti, Renee Good and at least seven other people by federal immigration agents under President Trump. With a majority in Congress, Democrats can issue subpoenas compelling witnesses to testify under oath and can demand internal documents such as use-of-force reports; potential witnesses include White House Border Czar Tom Homan, former Homeland Security Secretary Kristi Noem, former Border Patrol Commander Gregory Bovino and White House Chief of Staff Stephen Miller, according to NPR's reporting.
-nut_graf: The killings of Pretti, a VA nurse and U.S. citizen, and Good, a mother of three and U.S. citizen, during the ICE surge in Minneapolis drew a response that NPR reported, with most Americans saying ICE had gone too far. Federal law enforcement officials, however, have given little indication they are progressing in investigating those deaths, or the deaths of at least seven other people killed by federal immigration agents since Trump took office again last year. DHS did not respond to NPR's request for the status of the investigations.
+lede: Congressional Democrats plan to use the majority they won in this week's midterm
+  elections to renew investigations into the killings of Alex Pretti, Renee Good and
+  at least seven other people by federal immigration agents under President Trump.
+  With a majority in Congress, Democrats can issue subpoenas compelling witnesses
+  to testify under oath and can demand internal documents such as use-of-force reports;
+  potential witnesses include White House Border Czar Tom Homan, former Homeland Security
+  Secretary Kristi Noem, former Border Patrol Commander Gregory Bovino and White House
+  Chief of Staff Stephen Miller, according to NPR's reporting.
+nut_graf: The killings of Pretti, a VA nurse and U.S. citizen, and Good, a mother
+  of three and U.S. citizen, during the ICE surge in Minneapolis drew a response that
+  NPR reported, with most Americans saying ICE had gone too far. Federal law enforcement
+  officials, however, have given little indication they are progressing in investigating
+  those deaths, or the deaths of at least seven other people killed by federal immigration
+  agents since Trump took office again last year. DHS did not respond to NPR's request
+  for the status of the investigations.
 primary_entities:
 - Democrats
 - Congress
@@ -65,7 +78,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -167,104 +181,43 @@ related_stories:
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7456
+  strength: 0.747
 - slug: 2026-11-07-most-midterm-voters-say-trump-s-immigration-enforcement-has-gone-too-far
   headline: Most midterm voters say Trump's immigration enforcement has gone too far
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7156
+  strength: 0.7166
 - slug: 2026-10-29-trump-immigration-policies-lose-support-as-voter-disapproval-grows
   headline: Trump immigration policies lose support as voter disapproval grows
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7108
+  strength: 0.7121
 - slug: 2026-10-01-renee-good-s-family-sues-us-government-trump-officials-over-ice-killing
   headline: Renee Good's family sues US government, Trump officials over ICE killing
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7144
+  strength: 0.7158
 - slug: 2026-01-25-senate-democrats-vow-to-oppose-dhs-funding-after-minneapolis-shooting
   headline: Senate Democrats vow to oppose DHS funding after Minneapolis shooting
   publish_date: '2026-01-25'
   relation: related
-  strength: 0.7817
+  strength: 0.7828
 - slug: 2026-01-10-congress-weighs-response-to-ice-killing-of-minnesota-woman-renee-good
   headline: Congress weighs response to ICE killing of Minnesota woman Renee Good
   publish_date: '2026-01-10'
   relation: related
-  strength: 0.7724
+  strength: 0.7741
 - slug: 2026-03-04-noem-defends-dhs-immigration-enforcement-after-minneapolis-deaths
   headline: Noem defends DHS immigration enforcement after Minneapolis deaths
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.7622
+  strength: 0.7625
 - slug: 2026-02-11-ice-acting-chief-defends-officers-before-congress-after-deaths-of-2-protesters
   headline: ICE acting chief defends officers before Congress after deaths of 2 protesters
   publish_date: '2026-02-11'
   relation: related
   strength: 0.7604
-- slug: 2026-01-25-rosen-calls-for-noem-impeachment-over-fatal-ice-shooting
-  headline: Rosen calls for Noem impeachment over fatal ICE shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7594
-- slug: 2026-02-10-congress-seeks-dhs-funding-deal-as-democrats-press-ice-reform-demands
-  headline: Congress seeks DHS funding deal as Democrats press ICE reform demands
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.7576
-- slug: 2026-01-29-partial-shutdown-seems-increasingly-likely-as-democrats-demand-ice-changes
-  headline: Partial shutdown seems increasingly likely as Democrats demand ICE changes
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7471
-- slug: 2026-01-29-calls-grow-for-kristi-noem-to-step-down-or-face-impeachment-after-minneapolis-sh
-  headline: Calls grow for Kristi Noem to step down or face impeachment after Minneapolis shootings
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7438
-- slug: 2026-01-21-immigration-crackdown-reshapes-democratic-midterm-strategy
-  headline: Immigration crackdown reshapes Democratic midterm strategy
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.7331
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  headline: Minnesota probes federal officers over two killings, wounding and highway assault
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7223
-- slug: 2026-01-25-republicans-press-for-investigation-into-fatal-minneapolis-shooting
-  headline: Republicans press for investigation into fatal Minneapolis shooting
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7327
-- slug: 2026-01-15-renee-good-s-death-triggers-state-legislative-battle-over-ice-enforcement
-  headline: Renee Good's death triggers state legislative battle over ICE enforcement
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7309
-- slug: 2026-05-18-federal-officer-shoots-and-kills-minneapolis-man-in-immigration-sweep
-  headline: Federal officer shoots and kills Minneapolis man in immigration sweep
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.708
-- slug: 2026-02-05-homeland-security-shutdown-more-likely-as-gop-rebuffs-democratic-demands
-  headline: Homeland Security shutdown more likely as GOP rebuffs Democratic demands
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7233
-- slug: 2026-01-29-republicans-fret-immigration-enforcement-chaos-could-hurt-midterms
-  headline: Republicans fret immigration enforcement chaos could hurt midterms
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.72
-- slug: 2026-01-12-congress-members-blocked-from-minneapolis-ice-facility-after-dhs-reinstates-acce
-  headline: Congress members blocked from Minneapolis ICE facility after DHS reinstates access ban
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.7173
 ---
-
 ## Congressional Democrats prepare investigations into immigration agent killings
 
 **Subtype:** fact
