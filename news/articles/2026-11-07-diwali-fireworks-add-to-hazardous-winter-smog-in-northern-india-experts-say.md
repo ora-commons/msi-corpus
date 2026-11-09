@@ -166,6 +166,8 @@ related_stories:
   publish_date: '2026-04-15'
   relation: related
   strength: 0.6594
+analyses:
+- '2026-11-07-diwali-fireworks-rank-as-burst-not-base-in-delhi-s-winter-smog-analysis-finds'
 ---
 ## Diwali fireworks add to hazardous winter smog in northern India, experts say
 
@@ -214,3 +216,8 @@ Narayan said the precautions have limits. People who earn their livelihoods outd
 **Publication date:** 2026-11-07
 **Title:** Diwali can worsen Delhi’s polluted air. Here’s how to lower your risk
 **URL:** https://apnews.com/article/diwali-india-air-pollution-health-climate-0e05558e5c306397850df463c6a025e7
+
+---
+
+<!-- analysis-link:2026-11-07-diwali-fireworks-rank-as-burst-not-base-in-delhi-s-winter-smog-analysis-finds -->
+**Going deeper:** [Read MSI's analysis of Diwali smog causation and exposure →](/analyses/2026-11-07-diwali-fireworks-rank-as-burst-not-base-in-delhi-s-winter-smog-analysis-finds)
