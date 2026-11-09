@@ -1,8 +1,21 @@
 ---
-headline: Miller vows loyalty to Trump in first public remarks as incoming chief of staff
+headline: Miller vows loyalty to Trump in first public remarks as incoming chief of
+  staff
 publish_date: '2026-11-07'
-lede: Stephen Miller pledged “absolute loyalty,” “unwavering commitment” and “total devotion” to President Donald Trump on Friday evening in his first public remarks after his appointment as White House chief of staff, a role he begins Monday. Speaking alongside Trump, Miller said the president had “saved the Republican party from the ash heap of history and has made it stronger, more popular and more resilient than ever before.” As of Saturday morning, Republicans had lost seven Senate seats, 42 House seats and five governor races, while Democrats held narrow leads in the two uncalled Senate races in Alaska and Mississippi.
-nut_graf: Miller's first public remarks placed his allegiance to Trump on the record as he prepared to assume the White House's top staff job after Republican midterm losses. The appointment drew criticism from Democrats and some Republicans, while Trump said he expected to make “a few changes” to his team. Trump also said he had confidence in Defense Secretary Pete Hegseth and, after reports that he might replace Susie Wiles, said there was “zero chance” he would do so.
+lede: Stephen Miller pledged “absolute loyalty,” “unwavering commitment” and “total
+  devotion” to President Donald Trump on Friday evening in his first public remarks
+  after his appointment as White House chief of staff, a role he begins Monday. Speaking
+  alongside Trump, Miller said the president had “saved the Republican party from
+  the ash heap of history and has made it stronger, more popular and more resilient
+  than ever before.” As of Saturday morning, Republicans had lost seven Senate seats,
+  42 House seats and five governor races, while Democrats held narrow leads in the
+  two uncalled Senate races in Alaska and Mississippi.
+nut_graf: Miller's first public remarks placed his allegiance to Trump on the record
+  as he prepared to assume the White House's top staff job after Republican midterm
+  losses. The appointment drew criticism from Democrats and some Republicans, while
+  Trump said he expected to make “a few changes” to his team. Trump also said he had
+  confidence in Defense Secretary Pete Hegseth and, after reports that he might replace
+  Susie Wiles, said there was “zero chance” he would do so.
 primary_entities: []
 primary_themes: []
 topic_tags:
@@ -30,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -49,12 +63,14 @@ cross_article_links: []
 draft: false
 related_stories:
 - slug: 2026-11-06-trump-polled-friends-for-weeks-on-wiles-s-work-before-replacing-her-sources-say
-  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources say
+  headline: Trump polled friends for weeks on Wiles's work before replacing her, sources
+    say
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7948
+  strength: 0.7951
 - slug: 2026-11-07-democrats-denounce-stephen-miller-s-promotion-to-white-house-chief-of-staff
-  headline: Democrats denounce Stephen Miller's promotion to White House chief of staff
+  headline: Democrats denounce Stephen Miller's promotion to White House chief of
+    staff
   publish_date: '2026-11-07'
   relation: related
   strength: 0.7782
@@ -62,94 +78,36 @@ related_stories:
   headline: Trump's chief of staff switch follows Republican midterm sweep from power
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7819
+  strength: 0.7825
 - slug: 2026-11-06-white-house-chief-of-staff-susie-wiles-resigns-after-republican-midterm-losses
-  headline: White House chief of staff Susie Wiles resigns after Republican midterm losses
+  headline: White House chief of staff Susie Wiles resigns after Republican midterm
+    losses
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7805
+  strength: 0.7803
 - slug: 2026-11-06-trump-names-stephen-miller-white-house-chief-of-staff
   headline: Trump names Stephen Miller White House chief of staff
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7776
+  strength: 0.7784
 - slug: 2026-11-07-stephen-miller-carries-years-of-on-record-statements-into-chief-of-staff-role
-  headline: Stephen Miller carries years of on-record statements into chief of staff role
+  headline: Stephen Miller carries years of on-record statements into chief of staff
+    role
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7642
+  strength: 0.7644
 - slug: 2026-11-06-stephen-miller-trump-s-next-chief-of-staff-defended-u-s-takeover-of-greenland
-  headline: Stephen Miller, Trump's next chief of staff, defended U.S. takeover of Greenland
+  headline: Stephen Miller, Trump's next chief of staff, defended U.S. takeover of
+    Greenland
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7687
+  strength: 0.7692
 - slug: 2026-11-06-stephen-miller-called-man-killed-by-immigration-agents-a-domestic-terrorist
   headline: Stephen Miller called man killed by immigration agents a 'domestic terrorist'
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7665
-- slug: 2026-11-06-stephen-miller-built-hard-line-immigration-record-and-sweep-of-white-house-power
-  headline: Stephen Miller built hard-line immigration record and sweep of White House power
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7544
-- slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7472
-- slug: 2026-11-07-democrats-vow-probes-and-subpoenas-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7354
-- slug: 2026-11-07-bardella-and-cohen-say-miller-s-promotion-points-to-more-unilateral-action
-  headline: Bardella and Cohen say Miller's promotion points to more unilateral action
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.706
-- slug: 2026-11-06-trump-s-longest-serving-chief-of-staff-susie-wiles-resigns
-  headline: Trump's longest-serving chief of staff, Susie Wiles, resigns
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7126
-- slug: 2026-11-07-stephen-miller-s-second-term-purview-spans-trade-universities-and-pentagon-strik
-  headline: Stephen Miller's second-term purview spans trade, universities and Pentagon strikes
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7032
-- slug: 2026-11-06-wiles-departure-leaves-trump-white-house-leadership-overwhelmingly-male
-  headline: Wiles departure leaves Trump White House leadership overwhelmingly male
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6658
-- slug: 2026-11-07-susie-wiles-exits-as-white-house-chief-of-staff-businesses-search-for-a-new-cond
-  headline: Susie Wiles exits as White House chief of staff; businesses search for a new conduit
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.647
-- slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
-  headline: Republicans fault Trump after Democrats take House and Senate in midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6598
-- slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
-  headline: House could vote to impeach Hegseth when lawmakers return to Washington
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.646
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.648
-- slug: 2026-10-10-trump-launches-rally-blitz-to-boost-gop-midterm-turnout
-  headline: Trump launches rally blitz to boost GOP midterm turnout
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6527
+  strength: 0.7673
 ---
-
 ## Miller vows loyalty to Trump in first public remarks as incoming chief of staff
 
 **Subtype:** fact

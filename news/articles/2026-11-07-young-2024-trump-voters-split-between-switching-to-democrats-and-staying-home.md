@@ -1,9 +1,19 @@
 ---
-headline: Young 2024 Trump voters split between switching to Democrats and staying home
-secondary_headline: Noncollege adults and white and Hispanic men show the sharpest under-30 shifts
+headline: Young 2024 Trump voters split between switching to Democrats and staying
+  home
+secondary_headline: Noncollege adults and white and Hispanic men show the sharpest
+  under-30 shifts
 publish_date: '2026-11-07'
-lede: The AP Voter Poll by SSRS found that 16% of young 2024 Trump voters flipped directly to a Democrat, while many others stayed home. Circle at Tufts University preliminarily estimated youth turnout at 27%, matching the 2022 midterms. The sharpest shifts came among young adults without a college degree and among white and Hispanic men under 30, groups that had helped return Trump to power in 2024.
-nut_graf: Young voters cited economic pressure as a reason for turning on Trump's party, while their frustration over traditional milestones of adulthood moving out of reach helped drive the sharpest political realignment of any age group. Along the way, they positioned themselves as a potential new force in American politics, and both defections and abstention contributed to the change.
+lede: The AP Voter Poll by SSRS found that 16% of young 2024 Trump voters flipped
+  directly to a Democrat, while many others stayed home. Circle at Tufts University
+  preliminarily estimated youth turnout at 27%, matching the 2022 midterms. The sharpest
+  shifts came among young adults without a college degree and among white and Hispanic
+  men under 30, groups that had helped return Trump to power in 2024.
+nut_graf: Young voters cited economic pressure as a reason for turning on Trump's
+  party, while their frustration over traditional milestones of adulthood moving out
+  of reach helped drive the sharpest political realignment of any age group. Along
+  the way, they positioned themselves as a potential new force in American politics,
+  and both defections and abstention contributed to the change.
 primary_entities:
 - Donald Trump
 - Democratic Party
@@ -57,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -73,7 +84,10 @@ figures:
   series_id: FRBATLWGT3MMAUMHWGO
   transformation: raw
   as_of: '2026-11-07'
-  caption: The Atlanta Fed Wage Growth Tracker — the median, three-month moving average of composition-adjusted wage growth for continuously employed workers — stood at 3.9% as of Nov. 7, 2026, providing a broad wage-growth backdrop to the reported slowdown among workers ages 16 to 24.
+  caption: The Atlanta Fed Wage Growth Tracker — the median, three-month moving average
+    of composition-adjusted wage growth for continuously employed workers — stood
+    at 3.9% as of Nov. 7, 2026, providing a broad wage-growth backdrop to the reported
+    slowdown among workers ages 16 to 24.
 figures_aggregate:
   count: 1
   series_ids:
@@ -167,104 +181,46 @@ related_stories:
   headline: Voters under 30 back Democrats by nearly 50 points in midterms
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7912
+  strength: 0.7915
 - slug: 2026-11-04-poll-suggests-shifts-away-from-gop-among-young-voters-in-local-house-races
   headline: Poll suggests shifts away from GOP among young voters in local House races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7927
+  strength: 0.7923
 - slug: 2026-11-07-about-three-quarters-of-voters-under-30-backed-local-democratic-house-candidates
-  headline: About three-quarters of voters under 30 backed local Democratic House candidates
+  headline: About three-quarters of voters under 30 backed local Democratic House
+    candidates
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7387
+  strength: 0.7384
 - slug: 2026-11-04-voters-under-30-and-black-voters-back-democrats-in-2026-house-races
   headline: Voters under 30 and Black voters back Democrats in 2026 House races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7543
+  strength: 0.7546
 - slug: 2026-11-04-poll-shows-democrats-gaining-ground-among-latino-young-and-white-voters
   headline: Poll shows Democrats gaining ground among Latino, young and white voters
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7502
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7262
+  strength: 0.7261
 - slug: 2026-11-06-latino-voters-move-sharply-to-democrats-in-2026-midterms
-  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas sweep
+  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas
+    sweep
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6949
+  strength: 0.6952
 - slug: 2026-11-03-swing-voters-split-over-trump-as-2026-midterms-approach
   headline: Swing voters split over Trump as 2026 midterms approach
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6938
-- slug: 2026-11-02-gen-z-readers-cite-living-costs-immigration-and-distrust-before-2026-midterms
-  headline: Gen Z readers cite living costs, immigration and distrust before 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6932
-- slug: 2026-10-28-support-among-young-men-who-voted-for-trump-has-eroded-since-the-2024-election
-  headline: Support among young men who voted for Trump has eroded since the 2024 election
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7078
-- slug: 2026-10-31-early-voting-passes-50-5-million-with-three-days-to-go-before-midterms
-  headline: Early voting passes 50.5 million with three days to go before midterms
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6879
-- slug: 2026-10-30-biden-to-trump-swing-voters-sour-on-trump-in-a-year-of-monthly-focus-groups
-  headline: Biden-to-Trump swing voters sour on Trump in a year of monthly focus groups
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6921
-- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
-  headline: Democrats lead House polling as Trump approval stays below 50%
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7034
-- slug: 2026-10-12-young-voters-under-30-become-key-2026-midterm-target-for-both-parties
-  headline: Young voters under 30 become key 2026 midterm target for both parties
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.766
-- slug: 2026-10-16-navigator-focus-group-finds-some-gen-z-trump-voters-regret-2024-vote
-  headline: Navigator focus group finds some Gen Z Trump voters regret 2024 vote
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7331
-- slug: 2026-10-21-new-poll-finds-democrats-11-points-ahead-among-registered-voters
-  headline: New poll finds Democrats 11 points ahead among registered voters
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.692
-- slug: 2026-10-15-young-voters-split-on-gun-control-despite-shared-fear-of-mass-shootings
-  headline: Young voters split on gun control despite shared fear of mass shootings
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6885
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6933
-- slug: 2026-09-23-poll-voters-favor-democrats-by-12-points-as-trump-approval-sits-at-39
-  headline: 'Poll: Voters favor Democrats by 12 points as Trump approval sits at 39%'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7035
-- slug: 2026-09-19-hispanic-voters-who-backed-trump-in-2024-now-disapprove-polls-show
-  headline: Hispanic voters who backed Trump in 2024 now disapprove, polls show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7118
+  strength: 0.6935
 ---
-
 ## Young 2024 Trump voters split between switching to Democrats and staying home
 
 **Subtype:** fact
