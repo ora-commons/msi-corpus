@@ -2,8 +2,16 @@
 headline: Home Office data show 66.1% of 2025 enforcement visits ended without arrests
 secondary_headline: Most premises visits occurred without warrants
 publish_date: '2026-11-09'
-lede: Home Office figures obtained through freedom-of-information requests show that 66.1% of 2025 immigration enforcement engagements produced no arrests, according to reporting by The Guardian and the Bureau of Investigative Journalism. Warrants were used in only 25.81% of visits in which officers accessed premises, while the department disputed claims that it was conducting “fishing expeditions.”
-nut_graf: The figures focus scrutiny on the use of non-warrant entry powers, the reliability of tips and the effects of raids on workers and businesses. The Home Office says intelligence is thoroughly reviewed before raids, while former immigration officer Kevin Barker, Green party deputy leader Mothin Ali and restaurant owner Samsu Ali have criticized the enforcement program.
+lede: Home Office figures obtained through freedom-of-information requests show that
+  66.1% of 2025 immigration enforcement engagements produced no arrests, according
+  to reporting by The Guardian and the Bureau of Investigative Journalism. Warrants
+  were used in only 25.81% of visits in which officers accessed premises, while the
+  department disputed claims that it was conducting “fishing expeditions.”
+nut_graf: The figures focus scrutiny on the use of non-warrant entry powers, the reliability
+  of tips and the effects of raids on workers and businesses. The Home Office says
+  intelligence is thoroughly reviewed before raids, while former immigration officer
+  Kevin Barker, Green party deputy leader Mothin Ali and restaurant owner Samsu Ali
+  have criticized the enforcement program.
 primary_entities:
 - Home Office
 - Shabana Mahmood
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +150,13 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-07-most-midterm-voters-say-trump-s-immigration-enforcement-has-gone-too-far
-  headline: Most midterm voters say Trump's immigration enforcement has gone too far
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6188
-- slug: 2026-10-26-trump-administration-reshapes-us-immigration-enforcement-and-admissions
-  headline: Trump administration reshapes US immigration enforcement and admissions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6382
-- slug: 2026-10-28-local-officers-working-with-ice-have-doubled-in-eight-months
-  headline: Local officers working with ICE have doubled in eight months
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6191
-- slug: 2026-10-21-fwd-us-reports-44-increase-in-vagrancy-arrests-in-2025
-  headline: FWD.us reports 44% increase in vagrancy arrests in 2025
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6431
-- slug: 2026-10-22-trump-administration-deportations-rise-but-miss-1-million-annual-target
-  headline: Trump administration deportations rise but miss 1 million annual target
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6177
-- slug: 2026-10-22-omar-says-federal-raid-may-have-exposed-her-washington-address
-  headline: Omar says federal raid may have exposed her Washington address
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6158
-- slug: 2026-10-12-partisan-clash-erupts-over-omar-home-search-ahead-of-midterms
-  headline: Partisan clash erupts over Omar home search ahead of midterms
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.623
-- slug: 2026-10-13-omar-says-i-will-not-be-silenced-after-justice-department-raids-home
-  headline: Omar says 'I will not be silenced' after Justice Department raids home
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6101
-- slug: 2026-10-01-researchers-dispute-trump-claim-linking-deportations-to-us-homicide-decline
-  headline: Researchers dispute Trump claim linking deportations to US homicide decline
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6154
-- slug: 2026-09-08-uic-study-finds-ice-enforcement-drained-1-26-billion-from-chicago-commerce
-  headline: UIC study finds ICE enforcement drained $1.26 billion from Chicago commerce
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.632
 - slug: 2026-08-06-uk-illegal-working-arrests-double-since-labour-took-office-home-office-says
-  headline: UK illegal-working arrests double since Labour took office, Home Office says
+  headline: UK illegal-working arrests double since Labour took office, Home Office
+    says
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.678
-- slug: 2026-09-01-trump-administration-escalates-immigration-enforcement-against-truck-drivers
-  headline: Trump administration escalates immigration enforcement against truck drivers
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6132
-- slug: 2026-08-06-airline-workers-decline-to-help-ice-agents-as-airport-arrests-rise
-  headline: Airline workers decline to help ICE agents as airport arrests rise
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6137
-- slug: 2026-07-27-memphis-anti-crime-task-force-leads-to-surge-in-immigration-arrests
-  headline: Memphis anti-crime task force leads to surge in immigration arrests
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6228
-- slug: 2026-07-21-ice-arrested-43-138-in-june-highest-monthly-total-since-trump-took-office
-  headline: ICE arrested 43,138 in June, highest monthly total since Trump took office
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6093
-- slug: 2026-05-18-ice-memo-authorizes-forced-entry-to-homes-without-judicial-warrants
-  headline: ICE memo authorizes forced entry to homes without judicial warrants
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6475
-- slug: 2026-01-21-ice-memo-permits-forced-home-entries-using-administrative-warrants
-  headline: ICE memo permits forced home entries using administrative warrants
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.65
-- slug: 2026-03-14-trump-administration-stops-releasing-key-immigration-data-researchers-say
-  headline: Trump administration stops releasing key immigration data, researchers say
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6439
-- slug: 2026-02-26-trump-highlights-border-drop-in-state-of-the-union-amid-enforcement-fallout
-  headline: Trump highlights border drop in State of the Union amid enforcement fallout
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6427
-- slug: 2026-01-13-ice-s-administrative-warrants-don-t-authorize-forced-home-entry-legal-experts-sa
-  headline: ICE's administrative warrants don't authorize forced home entry, legal experts say
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6346
+  strength: 0.6772
 ---
-
 ## Home Office data show 66.1% of 2025 enforcement visits ended without arrests
 
 **Subtype:** fact

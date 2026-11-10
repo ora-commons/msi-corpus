@@ -1,9 +1,21 @@
 ---
-headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
-secondary_headline: China rejects espionage claims; Nvidia cites no reason to suspect compromise
+headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens
+  inquiry
+secondary_headline: China rejects espionage claims; Nvidia cites no reason to suspect
+  compromise
 publish_date: '2026-11-09'
-lede: Nvidia shares fell about 6% on Monday, erasing about $250bn (£190bn) in market value after Jensen Huang admitted an extramarital affair and Nvidia's board said it would open an independent investigation following reports that he had been targeted by a foreign intelligence effort. Nvidia said it had no reason to believe the company's secrets or national security were compromised, while China's foreign ministry rejected the espionage allegations as “entirely groundless, speculative and intended to smear and malign China.”
-nut_graf: The market reaction centered on Huang's control over Nvidia, what would happen if he were removed and the national-security questions behind the inquiry. Victoria Fernandez of Crossmark Global Investments said investors would not abandon Nvidia and that there was “no natural successor” if Huang were removed, while BBC News reported that analysts suggested the hit could be short-lived.
+lede: Nvidia shares fell about 6% on Monday, erasing about $250bn (£190bn) in market
+  value after Jensen Huang admitted an extramarital affair and Nvidia's board said
+  it would open an independent investigation following reports that he had been targeted
+  by a foreign intelligence effort. Nvidia said it had no reason to believe the company's
+  secrets or national security were compromised, while China's foreign ministry rejected
+  the espionage allegations as “entirely groundless, speculative and intended to smear
+  and malign China.”
+nut_graf: The market reaction centered on Huang's control over Nvidia, what would
+  happen if he were removed and the national-security questions behind the inquiry.
+  Victoria Fernandez of Crossmark Global Investments said investors would not abandon
+  Nvidia and that there was “no natural successor” if Huang were removed, while BBC
+  News reported that analysts suggested the hit could be short-lived.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,107 +158,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
+  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen
+    Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8905
+  strength: 0.8904
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8423
+  strength: 0.8422
 - slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
+  headline: Nvidia board opens independent investigation after reports about Jensen
+    Huang
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8356
+  strength: 0.8355
 - slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
   headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8286
+  strength: 0.8283
 - slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
   headline: Nvidia investigates reports of spying targeting Jensen Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8209
+  strength: 0.8208
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8075
+  strength: 0.8072
 - slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
+  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past
+    two years, Times reported
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7747
+  strength: 0.7743
 - slug: 2026-11-09-nvidia-has-no-board-chair-and-designates-a-lead-director-annually
   headline: Nvidia has no board chair and designates a lead director annually
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7599
-- slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
-  headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7587
-- slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
-  headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7529
-- slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
-  headline: Nvidia inquiry draws top Republican demands for answers
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.746
-- slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
-  headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7485
-- slug: 2026-10-29-us-intelligence-believes-chinese-spy-targeted-nvidia-ceo
-  headline: US intelligence believes Chinese spy targeted Nvidia CEO
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7704
-- slug: 2026-10-30-u-s-officials-suspect-megaspeed-executive-alice-huang-of-spying-for-china
-  headline: U.S. officials suspect Megaspeed executive Alice Huang of spying for China
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.72
-- slug: 2026-10-14-nvidia-donates-250-million-in-computing-power-to-uk-ai-safety-research
-  headline: Nvidia donates $250 million in computing power to UK AI safety research
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6875
-- slug: 2026-09-28-nvidia-board-approves-record-150-billion-stock-buyback-increase
-  headline: Nvidia board approves record $150 billion stock buyback increase
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6572
-- slug: 2026-08-24-nvidia-s-upcoming-earnings-report-puts-ai-trade-to-the-test
-  headline: Nvidia's upcoming earnings report puts AI trade to the test
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6945
-- slug: 2026-09-03-nvidia-to-acquire-ai-developer-platform-hugging-face-for-12-93-billion
-  headline: Nvidia to acquire AI developer platform Hugging Face for $12.93 billion
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6596
-- slug: 2026-02-27-nvidia-s-worst-day-since-last-spring-drags-wall-street-lower
-  headline: Nvidia’s worst day since last spring drags Wall Street lower
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7163
-- slug: 2026-06-29-nvidia-s-ai-chip-sales-stall-in-china-as-huawei-gains-ground
-  headline: Nvidia's AI chip sales stall in China as Huawei gains ground
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.671
+  strength: 0.7597
 ---
-
 ## Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
 
 **Subtype:** fact

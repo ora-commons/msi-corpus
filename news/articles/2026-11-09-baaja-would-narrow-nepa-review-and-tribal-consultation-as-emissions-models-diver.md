@@ -1,9 +1,26 @@
 ---
-headline: Baaja would narrow NEPA review and tribal consultation as emissions models diverge
-secondary_headline: Opponents say Baaja would accelerate gas pipelines and ICE detention centers
+headline: Baaja would narrow NEPA review and tribal consultation as emissions models
+  diverge
+secondary_headline: Opponents say Baaja would accelerate gas pipelines and ICE detention
+  centers
 publish_date: '2026-11-09'
-lede: The Bipartisan American Affordability and Jobs Act would narrow the National Environmental Policy Act's definition of the federal actions that trigger review, effectively eliminate courts' authority to enforce NEPA compliance, and limit the federal obligation to consult tribes on projects that affect them. Earthjustice, Sierra Club and the ACLU oppose the 417-page measure, and some environmental and tribal advocates called on Democratic leadership to pump the brakes after last week's blue wave elections. Rhodium Group's analysis found domestic emissions would fall if the bill passes, while a model by Purdue engineering professor Kevin Kircher found domestic emissions would rise.
-nut_graf: The dispute is over what the country builds and what legal checks accompany the building. Clean-energy advocates say Baaja would unlock the transmission needed to connect wind, solar and storage to the grid, the American Petroleum Institute calls the bill a historic opportunity, and Earthjustice, Sierra Club and the ACLU say weaker review would accelerate gas pipelines and ICE detention centers. With Democrats elected last week not seated until January, proponents still have time to move the bill while some environmental and tribal advocates press party leadership to slow down.
+lede: The Bipartisan American Affordability and Jobs Act would narrow the National
+  Environmental Policy Act's definition of the federal actions that trigger review,
+  effectively eliminate courts' authority to enforce NEPA compliance, and limit the
+  federal obligation to consult tribes on projects that affect them. Earthjustice,
+  Sierra Club and the ACLU oppose the 417-page measure, and some environmental and
+  tribal advocates called on Democratic leadership to pump the brakes after last week's
+  blue wave elections. Rhodium Group's analysis found domestic emissions would fall
+  if the bill passes, while a model by Purdue engineering professor Kevin Kircher
+  found domestic emissions would rise.
+nut_graf: The dispute is over what the country builds and what legal checks accompany
+  the building. Clean-energy advocates say Baaja would unlock the transmission needed
+  to connect wind, solar and storage to the grid, the American Petroleum Institute
+  calls the bill a historic opportunity, and Earthjustice, Sierra Club and the ACLU
+  say weaker review would accelerate gas pipelines and ICE detention centers. With
+  Democrats elected last week not seated until January, proponents still have time
+  to move the bill while some environmental and tribal advocates press party leadership
+  to slow down.
 primary_entities:
 - US Senate
 - Bipartisan American Affordability and Jobs Act
@@ -63,7 +80,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -162,116 +180,45 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-09-baaja-would-narrow-nepa-review-and-tribal-consultation-as-emissions-models-diver.png
-  alt: 'Illustration accompanying article: Baaja would narrow NEPA review and tribal consultation as emissions models diverge'
+  alt: 'Illustration accompanying article: Baaja would narrow NEPA review and tribal
+    consultation as emissions models diverge'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-05-senate-nears-vote-on-bipartisan-energy-permitting-overhaul
   headline: Senate nears vote on bipartisan energy permitting overhaul
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7194
-- slug: 2026-11-09-senate-prepares-procedural-vote-on-bipartisan-energy-permitting-bill
-  headline: Senate prepares procedural vote on bipartisan energy permitting bill
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6373
-- slug: 2026-10-28-industry-environmentalists-split-over-epa-methane-rollback-costs
-  headline: Industry, environmentalists split over EPA methane rollback costs
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6441
-- slug: 2026-10-30-midterms-test-democrats-strategy-tying-climate-to-affordability
-  headline: Midterms test Democrats' strategy tying climate to affordability
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6295
-- slug: 2026-10-27-epa-methane-proposal-would-end-leak-identification-program-expand-gas-flaring
-  headline: EPA methane proposal would end leak-identification program, expand gas flaring
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6404
-- slug: 2026-10-28-environmental-defense-fund-calls-methane-rule-rollback-a-free-pass
-  headline: Environmental Defense Fund calls methane rule rollback a 'free pass'
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6294
-- slug: 2026-10-20-former-trump-biden-and-obama-officials-push-permitting-reform
-  headline: Former Trump, Biden and Obama officials push permitting reform
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6385
+  strength: 0.7182
 - slug: 2026-09-30-bipartisan-senators-introduce-bill-to-speed-federal-energy-permitting
   headline: Bipartisan senators introduce bill to speed federal energy permitting
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6991
-- slug: 2026-09-27-advocates-allege-datacenter-developers-split-emissions-to-avoid-epa-review
-  headline: Advocates allege datacenter developers split emissions to avoid EPA review
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6211
-- slug: 2026-09-11-epa-proposes-weakening-leak-and-equipment-rules-for-700-000-stripper-wells
-  headline: EPA proposes weakening leak and equipment rules for 700,000 stripper wells
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6421
-- slug: 2026-09-14-epa-reportedly-poised-to-scrap-power-plant-emission-rules-at-houston-g20
-  headline: EPA reportedly poised to scrap power-plant emission rules at Houston G20
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6319
-- slug: 2026-09-14-epa-scraps-biden-era-greenhouse-gas-rules-for-power-plants
-  headline: EPA scraps Biden-era greenhouse gas rules for power plants
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6262
-- slug: 2026-08-03-justice-department-asks-judge-to-dismiss-naacp-lawsuit-against-xai
-  headline: Justice Department asks judge to dismiss NAACP lawsuit against xAI
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6244
-- slug: 2026-07-09-epa-proposes-scaling-back-heavy-duty-truck-emissions-rules
-  headline: EPA proposes scaling back heavy-duty truck emissions rules
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6384
+  strength: 0.6985
 - slug: 2026-01-13-epa-proposes-limits-on-state-clean-water-act-authority-for-pipelines-and-data-ce
-  headline: EPA proposes limits on state Clean Water Act authority for pipelines and data centers
+  headline: EPA proposes limits on state Clean Water Act authority for pipelines and
+    data centers
   publish_date: '2026-01-13'
   relation: related
-  strength: 0.6856
-- slug: 2026-07-14-environmental-groups-sue-to-block-trump-s-narrowing-of-esa-harm-definition
-  headline: Environmental groups sue to block Trump's narrowing of ESA 'harm' definition
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6222
+  strength: 0.6859
 - slug: 2026-01-07-trump-white-house-rescinds-nepa-regulations-to-speed-energy-project-approvals
   headline: Trump White House rescinds NEPA regulations to speed energy project approvals
   publish_date: '2026-01-07'
   relation: related
-  strength: 0.6778
-- slug: 2026-06-04-blue-states-weaken-climate-rules-as-red-states-lead-renewable-energy-growth
-  headline: Blue states weaken climate rules as red states lead renewable energy growth
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6409
+  strength: 0.6777
 - slug: 2026-03-23-trump-s-epa-moves-to-weaken-regional-haze-rule-for-national-parks
   headline: Trump's EPA moves to weaken regional haze rule for national parks
   publish_date: '2026-03-23'
   relation: related
-  strength: 0.6499
-- slug: 2026-01-28-epa-proposes-easing-air-pollution-rule-on-interstate-emissions
-  headline: EPA proposes easing air pollution rule on interstate emissions
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.6434
+  strength: 0.65
 ---
-
 ## Baaja would narrow NEPA review and tribal consultation as emissions models diverge
 
 **Subtype:** fact

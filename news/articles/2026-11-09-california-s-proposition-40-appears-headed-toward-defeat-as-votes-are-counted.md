@@ -2,8 +2,17 @@
 headline: California's Proposition 40 appears headed toward defeat as votes are counted
 secondary_headline: Zucman says a 5% wealth tax would yield $100 billion from billionaires
 publish_date: '2026-11-09'
-lede: California's Proposition 40 appeared headed toward defeat on Nov. 9, with vote counting still underway, as economist Gabriel Zucman defended taxing accumulated wealth. Speaking with NPR from Paris, Zucman said a modest one-time tax on billionaires could collect $100 billion and could work without producing large-scale relocation. The interview came after Washington voters kept a state millionaire tax on annual income above $1 million.
-nut_graf: Zucman's case rests on the scale of billionaire fortunes and the ability to structure wealth so it generates little or no taxable income. He said a modest rate could produce billions while keeping migration very limited, and that the revenue could reduce taxes for other residents or expand public services. California's vote count remained unsettled.
+lede: California's Proposition 40 appeared headed toward defeat on Nov. 9, with vote
+  counting still underway, as economist Gabriel Zucman defended taxing accumulated
+  wealth. Speaking with NPR from Paris, Zucman said a modest one-time tax on billionaires
+  could collect $100 billion and could work without producing large-scale relocation.
+  The interview came after Washington voters kept a state millionaire tax on annual
+  income above $1 million.
+nut_graf: Zucman's case rests on the scale of billionaire fortunes and the ability
+  to structure wealth so it generates little or no taxable income. He said a modest
+  rate could produce billions while keeping migration very limited, and that the revenue
+  could reduce taxes for other residents or expand public services. California's vote
+  count remained unsettled.
 primary_entities:
 - Gabriel Zucman
 - Steve Inskeep
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +154,45 @@ related_stories:
   headline: PPIC poll shows 52% of likely voters opposing Proposition 40
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7777
+  strength: 0.7788
 - slug: 2026-11-02-george-zimmer-urges-voters-to-back-california-s-proposition-40
   headline: George Zimmer urges voters to back California’s Proposition 40
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7699
+  strength: 0.77
 - slug: 2026-10-31-newsom-leads-opposition-to-california-billionaire-tax-democratic-voters-favor
-  headline: Newsom leads opposition to California billionaire tax Democratic voters favor
+  headline: Newsom leads opposition to California billionaire tax Democratic voters
+    favor
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7761
+  strength: 0.7775
 - slug: 2026-10-29-billionaires-opposing-prop-40-offer-tax-code-alternatives
   headline: Billionaires opposing Prop. 40 offer tax-code alternatives
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7772
+  strength: 0.7793
 - slug: 2026-10-23-proposition-40-aims-to-raise-100-billion-for-california-health-care
   headline: Proposition 40 aims to raise $100 billion for California health care
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7693
+  strength: 0.7697
 - slug: 2026-10-29-four-professors-await-tuesday-vote-on-california-wealth-tax-they-drafted
   headline: Four professors await Tuesday vote on California wealth tax they drafted
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7319
+  strength: 0.7335
 - slug: 2026-10-27-estate-tax-liability-change-precedes-migration-among-forbes-400-billionaires
   headline: Estate-tax liability change precedes migration among Forbes 400 billionaires
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7411
+  strength: 0.7395
 - slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
-  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition 40
+  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition
+    40
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7378
-- slug: 2026-10-22-building-a-better-california-has-raised-over-333-million-against-billionaire-tax
-  headline: Building a Better California has raised over $333 million against billionaire tax
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7298
-- slug: 2026-10-30-california-voters-weigh-governor-race-billionaire-tax-in-tuesday-election
-  headline: California voters weigh governor race, billionaire tax in Tuesday election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6835
-- slug: 2026-10-30-union-leader-s-crazy-idea-drives-california-billionaire-tax-fight
-  headline: Union leader's 'crazy' idea drives California billionaire-tax fight
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6825
-- slug: 2026-10-26-california-s-billionaire-tax-divides-democrats-ahead-of-november-vote
-  headline: California’s billionaire tax divides Democrats ahead of November vote
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7038
-- slug: 2026-10-16-tech-billionaires-raise-340m-to-defeat-california-prop-40-wealth-tax
-  headline: Tech billionaires raise $340M to defeat California Prop 40 wealth tax
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7548
-- slug: 2026-10-10-newsom-backs-prop-42-barring-new-california-wealth-taxes
-  headline: Newsom backs Prop. 42 barring new California wealth taxes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7254
-- slug: 2026-10-21-zuckerberg-commits-to-california-stay-for-eight-years-under-new-meta-deal
-  headline: Zuckerberg commits to California stay for eight years under new Meta deal
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6649
-- slug: 2026-10-07-washington-millionaire-tax-faces-november-repeal-vote
-  headline: Washington millionaire tax faces November repeal vote
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7139
-- slug: 2026-08-02-california-democrats-endorse-one-time-5-tax-on-billionaires
-  headline: California Democrats endorse one-time 5% tax on billionaires
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.725
-- slug: 2026-04-28-plan-to-tax-billionaires-on-track-to-qualify-for-california-ballot
-  headline: Plan to tax billionaires on track to qualify for California ballot
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.7593
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7167
-- slug: 2026-06-18-california-billionaire-tax-qualifies-for-november-ballot
-  headline: California billionaire tax qualifies for November ballot
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7202
+  strength: 0.7383
 ---
-
 ## California's Proposition 40 appears headed toward defeat as votes are counted
 
 **Subtype:** fact

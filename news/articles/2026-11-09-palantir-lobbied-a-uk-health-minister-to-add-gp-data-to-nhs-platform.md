@@ -1,9 +1,21 @@
 ---
 headline: Palantir lobbied a UK health minister to add GP data to NHS platform
-secondary_headline: Doctors' groups cite patient trust and scope creep concerns over identifiable data
+secondary_headline: Doctors' groups cite patient trust and scope creep concerns over
+  identifiable data
 publish_date: '2026-11-09'
-lede: Palantir used a direct WhatsApp channel to press former UK health minister Zubir Ahmed to extend the company's NHS data platform to GP records, according to messages obtained under the Freedom of Information Act by the tech equity campaign group Foxglove and shared with The Guardian. The messages, which appear to be between Palantir's UK head Louis Mosley and Ahmed, span July 2025 to March 2026 and advocate widening a £330m contract that expressly excludes GP data. The Department of Health and Social Care declined to comment.
-nut_graf: The disclosure arrives while health secretary Yvette Cooper has said a review of the contract is ongoing, and it sets the government's 2023 pledge that "GP data will not be part of the national platform" against months of private lobbying to widen that scope. The British Medical Association and other groups representing doctors and patients say adding identifiable GP records to a platform operated by a company they say lacks public trust could undermine the doctor-patient relationship.
+lede: Palantir used a direct WhatsApp channel to press former UK health minister Zubir
+  Ahmed to extend the company's NHS data platform to GP records, according to messages
+  obtained under the Freedom of Information Act by the tech equity campaign group
+  Foxglove and shared with The Guardian. The messages, which appear to be between
+  Palantir's UK head Louis Mosley and Ahmed, span July 2025 to March 2026 and advocate
+  widening a £330m contract that expressly excludes GP data. The Department of Health
+  and Social Care declined to comment.
+nut_graf: The disclosure arrives while health secretary Yvette Cooper has said a review
+  of the contract is ongoing, and it sets the government's 2023 pledge that "GP data
+  will not be part of the national platform" against months of private lobbying to
+  widen that scope. The British Medical Association and other groups representing
+  doctors and patients say adding identifiable GP records to a platform operated by
+  a company they say lacks public trust could undermine the doctor-patient relationship.
 primary_entities:
 - Palantir
 - NHS England
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,22 +158,17 @@ related_stories:
   headline: Jon Tester joins Palantir ahead of Democratic congressional scrutiny
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.656
+  strength: 0.6564
 - slug: 2026-10-14-guardian-column-catalogues-palantir-uk-contracts-and-political-access
   headline: Guardian column catalogues Palantir UK contracts and political access
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7467
+  strength: 0.7466
 - slug: 2026-09-30-over-44-000-file-legal-objections-to-palantir-nhs-data-platform
   headline: Over 44,000 file legal objections to Palantir NHS data platform
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7743
-- slug: 2026-11-03-australian-mps-sponsor-lobbyists-for-parliament-house-access-passes
-  headline: Australian MPs sponsor lobbyists for Parliament House access passes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5953
+  strength: 0.7744
 - slug: 2026-10-02-palantir-consultancy-link-to-burnham-s-byelection-team-surfaces
   headline: Palantir consultancy link to Burnham's byelection team surfaces
   publish_date: '2026-10-02'
@@ -170,79 +178,23 @@ related_stories:
   headline: Palantir and Sadiq Khan end legal fight over Met police AI contract
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6518
-- slug: 2026-10-25-racgp-survey-finds-all-gp-care-bulk-billed-for-63-of-australians
-  headline: RACGP survey finds all GP care bulk-billed for 63% of Australians
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.594
+  strength: 0.6519
 - slug: 2026-10-09-watson-says-palantir-would-work-with-reform-uk-on-immigration
   headline: Watson says Palantir would work with Reform UK on immigration
   publish_date: '2026-10-09'
   relation: related
   strength: 0.6681
-- slug: 2026-10-22-ai-firms-seek-uk-datacentre-compact-before-opposition-spreads
-  headline: AI firms seek UK datacentre compact before opposition spreads
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5908
-- slug: 2026-10-12-uk-ai-minister-warns-ai-cyber-attack-on-britain-likely-if-not-inevitable
-  headline: UK AI minister warns AI cyber-attack on Britain 'likely, if not inevitable'
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6211
-- slug: 2026-10-13-uk-student-super-app-zymix-uses-servers-from-us-blacklisted-tencent
-  headline: UK student super app ZyMix uses servers from US-blacklisted Tencent
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6075
-- slug: 2026-10-13-peter-lewis-australian-resistance-rises-against-ai-inevitability-doctrine
-  headline: 'Peter Lewis: Australian resistance rises against AI ''inevitability doctrine'''
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6016
 - slug: 2026-09-18-watson-takes-full-time-palantir-role-amid-uk-contract-disputes
   headline: Watson takes full-time Palantir role amid UK contract disputes
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6876
-- slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
-  headline: Australia orders agencies to audit legacy systems after OpenAI breach
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5993
-- slug: 2026-09-24-openai-agent-infiltrated-four-australian-government-systems-in-june
-  headline: OpenAI agent infiltrated four Australian government systems in June
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5986
-- slug: 2026-09-23-palantir-an-ice-and-defense-contractor-appears-in-trump-s-july-trades
-  headline: Palantir, an ICE and Defense contractor, appears in Trump's July trades
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6001
-- slug: 2026-09-25-openai-says-its-agents-leaked-53-images-from-chatgpt-users
-  headline: OpenAI says its agents leaked 53 images from ChatGPT users
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5933
-- slug: 2026-09-22-nine-european-pharma-chairs-warn-of-losing-ground-to-us-china-rivals
-  headline: Nine European pharma chairs warn of losing ground to US, China rivals
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5934
+  strength: 0.687
 - slug: 2026-06-01-mps-press-uk-regulator-to-prove-palantir-deal-won-t-expose-data-to-us
   headline: MPs press UK regulator to prove Palantir deal won't expose data to US
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.7087
-- slug: 2026-08-27-scottish-information-commissioner-seeks-supreme-court-review-of-sturgeon-foi-rul
-  headline: Scottish information commissioner seeks Supreme Court review of Sturgeon FOI ruling
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6043
+  strength: 0.709
 ---
-
 ## Palantir lobbied a UK health minister to add GP data to NHS platform
 
 **Subtype:** fact
