@@ -2,8 +2,20 @@
 headline: Rosenthal set to begin six-year Texas Railroad Commission term Jan. 4
 secondary_headline: Texas Tribune report sees little chance of proposal passage
 publish_date: '2026-11-09'
-lede: Jon Rosenthal will begin a six-year term on the Texas Railroad Commission on Jan. 4, giving Democrats a seat on the three-member Texas regulator for the first time in more than 30 years. Republican commissioners Wayne Christian and Christi Craddick will hold a 2-1 majority when Rosenthal takes office. A four-term legislator from Cypress and an oil-field engineer with more than two decades of experience, Rosenthal defeated Republican Bo French in November. The Texas Tribune report placed that victory in the context of a national electoral setback for the GOP and assessed Rosenthal as unlikely to get any of his proposals through.
-nut_graf: Rosenthal's platform calls for changes to gas flaring, campaign financing, derelict-well sealing and underground wastewater disposal at the regulator. The Texas Tribune report assessed Rosenthal as unlikely to get any of those proposals through under the commission's 2-1 Republican majority. Industry experts said they did not expect immediate changes, but Rosenthal's oil-field experience and presence as the commission's Democratic member could still affect scrutiny and public discussion.
+lede: Jon Rosenthal will begin a six-year term on the Texas Railroad Commission on
+  Jan. 4, giving Democrats a seat on the three-member Texas regulator for the first
+  time in more than 30 years. Republican commissioners Wayne Christian and Christi
+  Craddick will hold a 2-1 majority when Rosenthal takes office. A four-term legislator
+  from Cypress and an oil-field engineer with more than two decades of experience,
+  Rosenthal defeated Republican Bo French in November. The Texas Tribune report placed
+  that victory in the context of a national electoral setback for the GOP and assessed
+  Rosenthal as unlikely to get any of his proposals through.
+nut_graf: Rosenthal's platform calls for changes to gas flaring, campaign financing,
+  derelict-well sealing and underground wastewater disposal at the regulator. The
+  Texas Tribune report assessed Rosenthal as unlikely to get any of those proposals
+  through under the commission's 2-1 Republican majority. Industry experts said they
+  did not expect immediate changes, but Rosenthal's oil-field experience and presence
+  as the commission's Democratic member could still affect scrutiny and public discussion.
 primary_entities:
 - Jon Rosenthal
 - Texas Railroad Commission
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +157,8 @@ related_stories:
   headline: Jon Rosenthal defeats Bo French for Texas Railroad Commission seat
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8589
-- slug: 2026-11-07-democrats-gain-power-to-stall-musk-s-texas-projects-after-his-225-million-bet
-  headline: Democrats gain power to stall Musk's Texas projects after his $225 million bet
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6143
-- slug: 2026-11-05-senate-nears-vote-on-bipartisan-energy-permitting-overhaul
-  headline: Senate nears vote on bipartisan energy permitting overhaul
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6276
-- slug: 2026-11-06-democrats-sweep-every-texas-statewide-office-and-take-control-of-the-statehouse
-  headline: Democrats sweep every Texas statewide office and take control of the statehouse
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6133
-- slug: 2026-10-29-energy-costs-dominate-midterm-races-as-climate-talk-fades
-  headline: Energy costs dominate midterm races as climate talk fades
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.622
-- slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
-  headline: Paxton, Talarico face off as Texas voters head to polls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6097
-- slug: 2026-10-02-kreiss-tomkins-campaigns-for-alaska-governor-in-ranked-choice-race
-  headline: Kreiss-Tomkins campaigns for Alaska governor in ranked-choice race
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6076
-- slug: 2026-09-15-texas-republicans-condemn-french-s-post-about-ut-fans
-  headline: Texas Republicans condemn French's post about UT fans
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.644
-- slug: 2026-09-04-uk-energy-secretary-expected-to-recommend-jackdaw-gasfield-approval
-  headline: UK energy secretary expected to recommend Jackdaw gasfield approval
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6068
-- slug: 2026-05-25-texas-gop-senate-runoff-pits-cornyn-vs-paxton-in-trump-backed-showdown
-  headline: Texas GOP Senate runoff pits Cornyn vs. Paxton in Trump-backed showdown
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6271
-- slug: 2026-03-18-cornyn-and-paxton-remain-in-texas-gop-senate-runoff-trump-noncommittal
-  headline: Cornyn and Paxton remain in Texas GOP Senate runoff, Trump noncommittal
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.634
-- slug: 2026-05-25-cornyn-paxton-face-off-in-texas-gop-senate-runoff-as-trump-endorses-challenger
-  headline: Cornyn, Paxton face off in Texas GOP Senate runoff as Trump endorses challenger
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6148
-- slug: 2026-05-31-columnist-argues-cornyn-loss-mirrors-gop-shift-from-party-to-personality-cult
-  headline: Columnist argues Cornyn loss mirrors GOP shift from party to personality cult
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.612
-- slug: 2026-05-26-texas-attorney-general-ken-paxton-ousts-sen-john-cornyn-in-gop-runoff
-  headline: Texas Attorney General Ken Paxton ousts Sen. John Cornyn in GOP runoff
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6133
-- slug: 2026-03-04-trump-promises-texas-senate-runoff-endorsement-as-cornyn-paxton-contest-intensif
-  headline: Trump promises Texas Senate runoff endorsement as Cornyn-Paxton contest intensifies
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6294
-- slug: 2026-03-02-california-republicans-clash-with-rural-backers-over-gas-tax-study
-  headline: California Republicans clash with rural backers over gas tax study
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6279
-- slug: 2026-03-12-texas-republicans-question-whether-trump-should-back-cornyn-in-runoff
-  headline: Texas Republicans question whether Trump should back Cornyn in runoff
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6228
-- slug: 2026-01-15-can-texas-gop-sen-john-cornyn-survive-in-trump-s-party-ahead-of-march-primary
-  headline: Can Texas GOP Sen. John Cornyn survive in Trump’s party ahead of March primary?
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6252
-- slug: 2026-03-04-gop-rep-tony-gonzales-heads-to-texas-primary-runoff-after-affair-allegations
-  headline: GOP Rep. Tony Gonzales heads to Texas primary runoff after affair allegations
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.621
-- slug: 2026-01-16-can-texas-gop-sen-john-cornyn-survive-in-trump-s-gop
-  headline: Can Texas GOP Sen. John Cornyn survive in Trump’s GOP?
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6242
+  strength: 0.8588
 ---
-
 ## Rosenthal set to begin six-year Texas Railroad Commission term Jan. 4
 
 **Subtype:** fact

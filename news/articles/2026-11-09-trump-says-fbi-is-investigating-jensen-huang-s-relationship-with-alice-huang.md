@@ -1,9 +1,20 @@
 ---
 headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
-secondary_headline: Nvidia had no reason to believe secrets or national security were compromised
+secondary_headline: Nvidia had no reason to believe secrets or national security were
+  compromised
 publish_date: '2026-11-09'
-lede: President Donald Trump said on Monday that the FBI is investigating Nvidia chief executive Jensen Huang's relationship with Alice Huang, an alleged Chinese spy. Trump said he spoke to Huang that day, asked him whether he knew she was a spy and said Huang told him he had no idea. Trump did not describe the federal probe or say when it was launched, and the BBC has contacted the FBI.
-nut_graf: President Trump's statement places the reported FBI inquiry alongside a company-commissioned independent investigation and a congressional request for a closed-door briefing. Nvidia's microchips sit at the centre of the AI rivalry between the US and China, and officials treat the company's exports to Beijing as a matter of national security, so the questions raised about Nvidia's security practices and its chief executive's relationship with an alleged foreign intelligence asset fall inside a dispute already framed as national security.
+lede: President Donald Trump said on Monday that the FBI is investigating Nvidia chief
+  executive Jensen Huang's relationship with Alice Huang, an alleged Chinese spy.
+  Trump said he spoke to Huang that day, asked him whether he knew she was a spy and
+  said Huang told him he had no idea. Trump did not describe the federal probe or
+  say when it was launched, and the BBC has contacted the FBI.
+nut_graf: President Trump's statement places the reported FBI inquiry alongside a
+  company-commissioned independent investigation and a congressional request for a
+  closed-door briefing. Nvidia's microchips sit at the centre of the AI rivalry between
+  the US and China, and officials treat the company's exports to Beijing as a matter
+  of national security, so the questions raised about Nvidia's security practices
+  and its chief executive's relationship with an alleged foreign intelligence asset
+  fall inside a dispute already framed as national security.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,30 +158,32 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
+  headline: Nvidia board opens independent investigation after reports about Jensen
+    Huang
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8788
+  strength: 0.876
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8675
+  strength: 0.8647
 - slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
   headline: Nvidia investigates reports of spying targeting Jensen Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8309
+  strength: 0.8305
 - slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
+  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip
+    controls
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8237
+  strength: 0.8242
 - slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
   headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8261
+  strength: 0.8274
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
@@ -179,74 +193,14 @@ related_stories:
   headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8127
+  strength: 0.8118
 - slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
+  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens
+    inquiry
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7967
-- slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
-  headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7924
-- slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
-  headline: Nvidia inquiry draws top Republican demands for answers
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7893
-- slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7867
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7757
-- slug: 2026-10-29-us-intelligence-believes-chinese-spy-targeted-nvidia-ceo
-  headline: US intelligence believes Chinese spy targeted Nvidia CEO
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.8366
-- slug: 2026-10-30-u-s-officials-suspect-megaspeed-executive-alice-huang-of-spying-for-china
-  headline: U.S. officials suspect Megaspeed executive Alice Huang of spying for China
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7952
-- slug: 2026-11-09-nvidia-has-no-board-chair-and-designates-a-lead-director-annually
-  headline: Nvidia has no board chair and designates a lead director annually
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7237
-- slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
-  headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7083
-- slug: 2026-09-30-ftc-opens-investigation-of-anthropic-and-openai-over-consumer-harm-claims
-  headline: FTC opens investigation of Anthropic and OpenAI over consumer harm claims
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6626
-- slug: 2026-09-21-nvidia-ceo-rejects-ai-extinction-warnings-as-doomsday-narratives
-  headline: Nvidia CEO rejects AI extinction warnings as 'doomsday narratives'
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.678
-- slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
-  headline: Trump, Xi set to discuss AI as both reject slowdown
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6616
-- slug: 2026-09-02-tech-executives-trump-officials-urge-g-20-to-minimize-ai-regulation
-  headline: Tech executives, Trump officials urge G-20 to minimize AI regulation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6648
+  strength: 0.7957
 ---
-
 ## Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
 
 **Subtype:** fact
