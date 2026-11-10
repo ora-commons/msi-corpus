@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-09-30'
   relation: related
   strength: 0.713
+analyses:
+- '2026-11-09-enterprise-ai-plans-shift-regulatory-effects-toward-orchestration-and-assurance'
 ---
 ## Tech executives say they are pressing ahead with AI plans despite potential regulation
 
@@ -252,3 +254,8 @@ The interviews did not settle how internal controls will compare with statutory 
 **Publication date:** 2026-11-09
 **Title:** Enterprises Say AI Regulation Won’t Stop Corporate Innovation
 **URL:** https://www.wsj.com/cio-journal/enterprises-say-ai-regulation-wont-stop-corporate-innovation-3be10b7c
+
+---
+
+<!-- analysis-link:2026-11-09-enterprise-ai-plans-shift-regulatory-effects-toward-orchestration-and-assurance -->
+**Going deeper:** [Read MSI's analysis of enterprise AI continuity amid regulation →](/analyses/2026-11-09-enterprise-ai-plans-shift-regulatory-effects-toward-orchestration-and-assurance)
