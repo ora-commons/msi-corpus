@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7423
+analyses:
+- '2026-11-09-massie-s-impeachment-bid-opens-house-scheduling-without-resolving-iran-authoriza'
 ---
 ## Massie alleges Hegseth violated the Constitution and ignored war powers
 
@@ -229,3 +231,8 @@ BBC News also reported that the White House denied Hegseth and Rubio were leavin
 **Publication date:** 2026-11-09
 **Title:** Republican congressman to force impeachment vote on Defence Secretary Hegseth
 **URL:** https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro
+
+---
+
+<!-- analysis-link:2026-11-09-massie-s-impeachment-bid-opens-house-scheduling-without-resolving-iran-authoriza -->
+**Going deeper:** [Read MSI's analysis of the gap between scheduling and authorization →](/analyses/2026-11-09-massie-s-impeachment-bid-opens-house-scheduling-without-resolving-iran-authoriza)

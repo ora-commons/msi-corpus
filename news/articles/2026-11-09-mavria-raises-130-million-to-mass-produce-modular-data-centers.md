@@ -2,8 +2,14 @@
 headline: Mavria raises $130 million to mass-produce modular data centers
 secondary_headline: Small modules could shorten yearslong grid-connection waits
 publish_date: '2026-11-09'
-lede: Mavria, a Texas startup founded over the summer by three former Energy Department officials, has raised $130 million at a $1 billion valuation to mass-produce modular data centers. The company's first 5-megawatt unit is under construction at a Houston factory, with testing planned for early 2027 and production scaling by midyear.
-nut_graf: Mavria's approach could ease the grid-connection and deployment bottlenecks described by the company's founders. Mavria will sell equipment and can also fully develop sites with electric power and operate them, while Paradigm's Alana Palmedo says the smaller scale may be easier to deliver quickly and less intrusive locally.
+lede: Mavria, a Texas startup founded over the summer by three former Energy Department
+  officials, has raised $130 million at a $1 billion valuation to mass-produce modular
+  data centers. The company's first 5-megawatt unit is under construction at a Houston
+  factory, with testing planned for early 2027 and production scaling by midyear.
+nut_graf: Mavria's approach could ease the grid-connection and deployment bottlenecks
+  described by the company's founders. Mavria will sell equipment and can also fully
+  develop sites with electric power and operate them, while Paradigm's Alana Palmedo
+  says the smaller scale may be easier to deliver quickly and less intrusive locally.
 primary_entities:
 - Mavria
 - Terrain
@@ -40,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +145,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5773
 - slug: 2026-09-24-parallax-raises-117-million-to-3-d-print-gas-turbines-for-ai-data-centers
   headline: Parallax raises $117 million to 3-D print gas turbines for AI data centers
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6602
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6361
-- slug: 2026-10-09-epic-systems-stores-data-center-heat-in-6-100-underground-wells
-  headline: Epic Systems stores data center heat in 6,100 underground wells
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5824
-- slug: 2026-09-30-valar-atomics-plans-456-reactors-on-9-000-acres-of-utah-federal-land
-  headline: Valar Atomics plans 456 reactors on 9,000 acres of Utah federal land
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6062
-- slug: 2026-09-30-amazon-and-constellation-agree-to-expand-calvert-cliffs-nuclear-plant
-  headline: Amazon and Constellation agree to expand Calvert Cliffs nuclear plant
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5768
-- slug: 2026-09-24-tesla-and-spacex-announce-major-texas-and-louisiana-infrastructure-projects
-  headline: Tesla and SpaceX announce major Texas and Louisiana infrastructure projects
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5874
-- slug: 2026-09-24-trump-administration-readies-memory-chip-tariffs-to-expand-us-production
-  headline: Trump administration readies memory-chip tariffs to expand US production
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5868
-- slug: 2026-08-13-spacex-plans-natural-gas-plant-to-power-texas-ai-chip-facility
-  headline: SpaceX plans natural gas plant to power Texas AI chip facility
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6342
-- slug: 2026-09-04-data-center-operators-redesign-sites-as-15-states-weigh-moratoriums
-  headline: Data center operators redesign sites as 15 states weigh moratoriums
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5827
-- slug: 2026-08-13-fermi-signs-tensorwave-as-first-customer-for-texas-ai-power-campus
-  headline: Fermi signs TensorWave as first customer for Texas AI power campus
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6115
-- slug: 2026-08-10-permian-basin-landowners-plan-leases-for-ai-data-centers
-  headline: Permian Basin landowners plan leases for AI data centers
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5996
-- slug: 2026-08-03-base-power-raises-1-billion-to-expand-residential-battery-rollout
-  headline: Base Power raises $1 billion to expand residential battery rollout
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6069
-- slug: 2026-07-22-wistron-opens-700-million-texas-factory-to-produce-nvidia-ai-superchips
-  headline: Wistron opens $700 million Texas factory to produce Nvidia AI superchips
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5896
-- slug: 2026-07-24-ai-data-center-demand-drives-u-s-power-plant-costs-up-10
-  headline: AI data center demand drives U.S. power plant costs up 10%
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5864
-- slug: 2026-06-22-chevron-to-sell-power-to-microsoft-for-2-7-gigawatt-west-texas-ai-data-center
-  headline: Chevron to sell power to Microsoft for 2.7-gigawatt West Texas AI data center
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6035
-- slug: 2026-06-06-new-york-lawmakers-approve-one-year-ban-on-large-datacenters
-  headline: New York lawmakers approve one-year ban on large datacenters
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5882
-- slug: 2026-06-02-nvidia-s-huang-predicts-marvell-could-join-trillion-dollar-chip-club
-  headline: Nvidia's Huang predicts Marvell could join trillion-dollar chip club
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5861
-- slug: 2026-02-13-as-ai-investors-eye-montana-for-data-centers-communities-brace-for-water-impacts
-  headline: As AI investors eye Montana for data centers, communities brace for water impacts
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6038
-- slug: 2026-01-08-xai-to-build-20-billion-data-center-in-mississippi-amid-environmental-pushback
-  headline: xAI to build $20 billion data center in Mississippi amid environmental pushback
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6039
+  strength: 0.6603
 ---
-
 ## Mavria raises $130 million to mass-produce modular data centers
 
 **Subtype:** fact

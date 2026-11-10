@@ -1,9 +1,16 @@
 ---
 headline: Trump says Iran war 'effectively over' militarily, US keeping 'status quo'
-secondary_headline: President still seeks long-term solution ensuring Iran's nuclear program is defanged
+secondary_headline: President still seeks long-term solution ensuring Iran's nuclear
+  program is defanged
 publish_date: '2026-11-09'
-lede: President Donald Trump said Monday he believes the war in Iran is militarily effectively over, telling reporters that "Iran militarily is effectively over" and "We're just keeping it the status quo." Trump made the remarks in a surprise visit to the White House briefing room after meeting earlier in the day with Qatar's prime minister.
-nut_graf: 'Trump paired the declaration with an acknowledgment that work remains: the president said he is still looking to make sure there is a long-term solution to ensuring that Iran''s nuclear program is defanged, and described Iran as "decapitated."'
+lede: President Donald Trump said Monday he believes the war in Iran is militarily
+  effectively over, telling reporters that "Iran militarily is effectively over" and
+  "We're just keeping it the status quo." Trump made the remarks in a surprise visit
+  to the White House briefing room after meeting earlier in the day with Qatar's prime
+  minister.
+nut_graf: 'Trump paired the declaration with an acknowledgment that work remains:
+  the president said he is still looking to make sure there is a long-term solution
+  to ensuring that Iran''s nuclear program is defanged, and described Iran as "decapitated."'
 primary_entities:
 - Donald Trump
 - Iran
@@ -37,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,7 +164,8 @@ related_stories:
   relation: related
   strength: 0.7512
 - slug: 2026-07-15-trump-addresses-army-war-college-summit-cites-10-billion-in-defense-pledges
-  headline: Trump addresses Army War College summit, cites $10 billion in defense pledges
+  headline: Trump addresses Army War College summit, cites $10 billion in defense
+    pledges
   publish_date: '2026-07-15'
   relation: related
   strength: 0.7483
@@ -175,77 +184,20 @@ related_stories:
   publish_date: '2026-04-02'
   relation: related
   strength: 0.7801
-- slug: 2026-03-01-trump-says-u-s-has-begun-major-combat-operations-in-iran
-  headline: Trump says U.S. has begun “major combat operations” in Iran
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.7823
-- slug: 2026-04-02-trump-says-u-s-operation-epic-fury-nearly-achieved-iran-goals
-  headline: Trump says U.S. “Operation Epic Fury” nearly achieved Iran goals
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.7735
-- slug: 2026-04-05-trump-s-go-it-alone-certainty-faces-wartime-limits-amid-ally-pressure
-  headline: Trump’s go-it-alone certainty faces wartime limits amid ally pressure
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.773
-- slug: 2026-04-01-trump-says-u-s-is-winning-in-iran-war-urges-deal-or-more-strikes
-  headline: Trump says U.S. is winning in Iran war; urges deal or more strikes
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.773
-- slug: 2026-06-23-trump-s-iran-war-aims-shift-as-u-s-signs-deal-with-iran
-  headline: Trump's Iran war aims shift as U.S. signs deal with Iran
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7381
-- slug: 2026-04-02-takeaways-from-trump-s-iran-war-address-no-end-date-few-new-details
-  headline: 'Takeaways from Trump’s Iran-war address: no end date, few new details'
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.7669
-- slug: 2026-06-01-trump-tells-critics-to-sit-back-and-relax-as-us-and-iran-exchange-new-strikes
-  headline: Trump tells critics to 'sit back and relax' as US and Iran exchange new strikes
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.746
-- slug: 2026-04-04-trump-s-go-it-alone-certainty-collides-with-iran-war-uncertainties
-  headline: Trump’s go-it-alone certainty collides with Iran war uncertainties
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7635
-- slug: 2026-04-06-trump-s-go-it-alone-certainty-confronts-wartime-uncertainty-and-limits
-  headline: Trump’s go-it-alone certainty confronts wartime uncertainty and limits
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.7592
-- slug: 2026-02-20-trump-warns-of-possible-iran-strikes-as-nuclear-talks-progress
-  headline: Trump warns of possible Iran strikes as nuclear talks progress
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7631
-- slug: 2026-05-02-trump-tells-congress-iran-war-hostilities-have-terminated
-  headline: Trump tells Congress Iran war hostilities have “terminated”
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7464
-- slug: 2026-05-23-trump-pauses-planned-strike-on-iran-after-gulf-allies-ask
-  headline: Trump pauses planned strike on Iran after Gulf allies ask
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7369
 image:
   url: /articles/2026-11-09-trump-says-iran-war-effectively-over-militarily-us-keeping-status-quo.png
-  alt: "Illustration accompanying article: Trump says Iran war 'effectively over' militarily, US keeping 'status quo'"
+  alt: 'Illustration accompanying article: Trump says Iran war ''effectively over''
+    militarily, US keeping ''status quo'''
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Trump says Iran war 'effectively over' militarily, US keeping 'status quo'
 
 **Subtype:** fact

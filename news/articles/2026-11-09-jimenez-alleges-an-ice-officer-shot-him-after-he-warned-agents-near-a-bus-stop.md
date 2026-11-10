@@ -1,9 +1,27 @@
 ---
-headline: Jimenez alleges an ICE officer shot him after he warned agents near a bus stop
+headline: Jimenez alleges an ICE officer shot him after he warned agents near a bus
+  stop
 secondary_headline: Federal assault charges against Jimenez were dismissed last week
 publish_date: '2026-11-09'
-lede: Carlos Jimenez, a U.S. citizen from Ontario, sued the federal government on Friday for more than $25 million, alleging that an Immigration and Customs Enforcement officer shot him in his car in Southern California in October 2025 and that his arrest and prosecution were wrongful. The complaint, filed in federal court, says the officer threatened Jimenez and fired multiple gunshots into his car after Jimenez approached agents to warn them that children would soon be arriving at a nearby bus stop. It also alleges that FBI agents followed Jimenez to a hospital, interfered with his medical care and drove him back to the shooting scene for questioning. The Justice Department, which had charged Jimenez with assault on a federal officer using a deadly or dangerous weapon, formally dismissed the charges last week after Jimenez requested a diversion agreement, according to a Justice Department spokesperson.
-nut_graf: The suit turns a shooting that produced a federal prosecution and then a dismissal into a damages claim against the government. It comes as the Justice Department in Los Angeles continues to prosecute people for alleged crimes against immigration officers; The Guardian found that of 113 people prosecuted there since last spring, 33 had charges dismissed and nine had been acquitted by juries as of mid-September. The lawsuit says Jimenez still has bullet fragments lodged near his lung, and it seeks compensation for lost wages, medical expenses, false arrest and excessive force.
+lede: Carlos Jimenez, a U.S. citizen from Ontario, sued the federal government on
+  Friday for more than $25 million, alleging that an Immigration and Customs Enforcement
+  officer shot him in his car in Southern California in October 2025 and that his
+  arrest and prosecution were wrongful. The complaint, filed in federal court, says
+  the officer threatened Jimenez and fired multiple gunshots into his car after Jimenez
+  approached agents to warn them that children would soon be arriving at a nearby
+  bus stop. It also alleges that FBI agents followed Jimenez to a hospital, interfered
+  with his medical care and drove him back to the shooting scene for questioning.
+  The Justice Department, which had charged Jimenez with assault on a federal officer
+  using a deadly or dangerous weapon, formally dismissed the charges last week after
+  Jimenez requested a diversion agreement, according to a Justice Department spokesperson.
+nut_graf: The suit turns a shooting that produced a federal prosecution and then a
+  dismissal into a damages claim against the government. It comes as the Justice Department
+  in Los Angeles continues to prosecute people for alleged crimes against immigration
+  officers; The Guardian found that of 113 people prosecuted there since last spring,
+  33 had charges dismissed and nine had been acquitted by juries as of mid-September.
+  The lawsuit says Jimenez still has bullet fragments lodged near his lung, and it
+  seeks compensation for lost wages, medical expenses, false arrest and excessive
+  force.
 primary_entities:
 - Carlos Jimenez
 - Eusebio Ortiz
@@ -47,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,24 +168,26 @@ related_stories:
   headline: Indicted ICE agent in Houston vehicle strike will turn himself in Monday
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7279
+  strength: 0.728
 - slug: 2026-11-02-ice-officer-morales-makes-first-court-appearance-after-houston-assault-indictmen
-  headline: ICE officer Morales makes first court appearance after Houston assault indictment
+  headline: ICE officer Morales makes first court appearance after Houston assault
+    indictment
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7115
+  strength: 0.7117
 - slug: 2026-10-30-harris-county-da-says-indicted-ice-officer-faces-two-to-20-years-in-prison
   headline: Harris County DA says indicted ICE officer faces two to 20 years in prison
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7211
+  strength: 0.7209
 - slug: 2026-10-30-harris-county-da-charges-ice-officer-with-aggravated-assault-in-houston
   headline: Harris County DA charges ICE officer with aggravated assault in Houston
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7107
+  strength: 0.7113
 - slug: 2026-10-09-mamdani-aoc-call-for-ice-abolition-as-dhs-rejects-new-york-enforcement-pause
-  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement pause
+  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement
+    pause
   publish_date: '2026-10-09'
   relation: related
   strength: 0.7184
@@ -174,79 +195,18 @@ related_stories:
   headline: Marimar Martinez sues federal government over 2025 Border Patrol shooting
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.724
+  strength: 0.7237
 - slug: 2026-10-02-surgeons-remove-bullet-from-venezuelan-driver-shot-by-ice-in-austin
   headline: Surgeons remove bullet from Venezuelan driver shot by ICE in Austin
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7344
+  strength: 0.7342
 - slug: 2026-09-29-prosecutors-charge-garc-s-p-rez-with-assaulting-resisting-impeding-officer
   headline: Prosecutors charge Garcés Pérez with assaulting, resisting, impeding officer
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.741
-- slug: 2026-09-22-attorney-says-clerical-error-underlies-ice-shooting-victim-s-deportation-order
-  headline: Attorney says clerical error underlies ICE shooting victim's deportation order
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7261
-- slug: 2026-09-21-doj-brings-rare-charge-against-ice-agent-for-lying-about-minnesota-shooting
-  headline: DOJ brings rare charge against ICE agent for lying about Minnesota shooting
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7265
-- slug: 2026-09-23-dhs-calls-austin-ice-shooting-coverage-false-narratives-blames-media
-  headline: DHS calls Austin ICE shooting coverage 'false narratives,' blames media
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7192
-- slug: 2026-09-21-ice-agent-shoots-venezuelan-man-in-austin-as-protests-erupt
-  headline: ICE agent shoots Venezuelan man in Austin as protests erupt
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7234
-- slug: 2026-09-21-venezuelan-man-shot-by-ice-held-with-bullet-lodged-close-to-spine
-  headline: Venezuelan man shot by ICE held with bullet lodged close to spine
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7179
-- slug: 2026-09-22-judge-blocks-deportation-of-venezuelan-man-shot-by-ice-in-texas
-  headline: Judge blocks deportation of Venezuelan man shot by ICE in Texas
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7101
-- slug: 2026-07-27-family-sues-federal-government-after-ice-agents-shot-at-truck-driver-held-three-
-  headline: Family sues federal government after ICE agents shot at truck, driver held three months in detention
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7584
-- slug: 2026-07-22-mother-seeks-accountability-16-months-after-ice-agent-killed-her-son-in-texas
-  headline: Mother seeks accountability 16 months after ICE agent killed her son in Texas
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7144
-- slug: 2026-05-05-man-shot-by-ice-in-california-pleads-not-guilty-to-federal-charges
-  headline: Man shot by ICE in California pleads not guilty to federal charges
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7635
-- slug: 2026-04-15-prosecutors-charge-man-shot-by-ice-in-california-with-assaulting-officer
-  headline: Prosecutors charge man shot by ICE in California with assaulting officer
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7626
-- slug: 2026-04-08-immigration-officers-say-they-shot-suspected-gang-member-in-california
-  headline: Immigration officers say they shot suspected gang member in California
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.7637
-- slug: 2026-04-14-man-shot-by-ice-in-california-arrested-by-fbi-attorney-says
-  headline: Man shot by ICE in California arrested by FBI, attorney says
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7619
+  strength: 0.7412
 ---
-
 ## Jimenez alleges an ICE officer shot him after he warned agents near a bus stop
 
 **Subtype:** fact
