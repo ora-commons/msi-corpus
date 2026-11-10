@@ -211,6 +211,8 @@ related_stories:
   publish_date: '2026-11-08'
   relation: related
   strength: 0.7562
+analyses:
+- '2026-11-09-nvidia-s-board-leaves-succession-and-inquiry-continuity-exposed-to-founder-depen'
 ---
 ## Nvidia has no board chair and designates a lead director annually
 
@@ -253,3 +255,8 @@ Pratley credited the 63-year-old Huang with spotting “the enormous AI opportun
 **Publication date:** 2026-11-09
 **Title:** Nvidia’s board needs to do some succession planning – sharpish | Nils Pratley
 **URL:** https://www.theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang
+
+---
+
+<!-- analysis-link:2026-11-09-nvidia-s-board-leaves-succession-and-inquiry-continuity-exposed-to-founder-depen -->
+**Going deeper:** [Read MSI's analysis of Nvidia’s founder-dependence governance risk →](/analyses/2026-11-09-nvidia-s-board-leaves-succession-and-inquiry-continuity-exposed-to-founder-depen)
