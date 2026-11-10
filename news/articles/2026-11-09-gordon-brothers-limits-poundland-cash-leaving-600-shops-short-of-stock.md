@@ -1,9 +1,18 @@
 ---
 headline: Gordon Brothers limits Poundland cash, leaving 600 shops short of stock
-secondary_headline: Poundland's 10-day protection from creditors ends Thursday; BBC reports extension increasingly likely
+secondary_headline: Poundland's 10-day protection from creditors ends Thursday; BBC
+  reports extension increasingly likely
 publish_date: '2026-11-09'
-lede: BBC News reported that Gordon Brothers restricted Poundland's access to cash, leaving the discount chain unable to buy new stock for its 600 shops. Poundland faces administration and a possible breakup unless it secures a rescue deal or an extension of Thursday's deadline.
-nut_graf: The dispute centers on whether a buyer can keep Poundland trading as a national chain or whether its sites would be sold in pieces. Suppliers prefer a whole-business sale over separate sales of hundreds of sites. A source said access to funds was limited because of tension between Gordon Brothers' roles as creditor and shareholder. The source expected a relaxation of funds within two days. The outcome affects 11,000 jobs and hundreds of stores.
+lede: BBC News reported that Gordon Brothers restricted Poundland's access to cash,
+  leaving the discount chain unable to buy new stock for its 600 shops. Poundland
+  faces administration and a possible breakup unless it secures a rescue deal or an
+  extension of Thursday's deadline.
+nut_graf: The dispute centers on whether a buyer can keep Poundland trading as a national
+  chain or whether its sites would be sold in pieces. Suppliers prefer a whole-business
+  sale over separate sales of hundreds of sites. A source said access to funds was
+  limited because of tension between Gordon Brothers' roles as creditor and shareholder.
+  The source expected a relaxation of funds within two days. The outcome affects 11,000
+  jobs and hundreds of stores.
 primary_entities:
 - Poundland
 - Gordon Brothers
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +152,24 @@ related_stories:
   headline: Poundland suppliers urge owner to explore alternatives to break-up
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8074
+  strength: 0.8082
 - slug: 2026-11-05-xyra-offers-partial-debt-payment-in-bid-to-rescue-poundland
   headline: Xyra offers partial debt payment in bid to rescue Poundland
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7982
+  strength: 0.7995
 - slug: 2026-11-03-uk-government-pressures-gordon-brothers-over-poundland-rescue-bids
   headline: UK government pressures Gordon Brothers over Poundland rescue bids
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7772
+  strength: 0.7763
 - slug: 2026-10-30-poundland-files-notice-to-appoint-administrators-as-owner-rejects-rescue-bid
-  headline: Poundland files notice to appoint administrators as owner rejects rescue bid
+  headline: Poundland files notice to appoint administrators as owner rejects rescue
+    bid
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.78
-- slug: 2026-11-06-freshways-cuts-milk-price-to-farmers-by-7p-a-litre-deepening-uk-dairy-squeeze
-  headline: Freshways cuts milk price to farmers by 7p a litre, deepening UK dairy squeeze
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5628
-- slug: 2026-10-12-albertsons-says-mcmullen-rejected-800m-price-cut-never-told-board
-  headline: Albertsons says McMullen rejected $800M price cut, never told board
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5922
-- slug: 2026-10-05-australian-greens-pitch-25-1bn-public-supermarket-plan
-  headline: Australian Greens pitch $25.1bn public-supermarket plan
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5639
-- slug: 2026-09-18-brewdog-workers-owed-wages-to-receive-nothing-administrators-report
-  headline: Brewdog workers owed wages to receive nothing, administrators report
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6035
-- slug: 2026-09-29-goldman-board-has-discussed-waldron-succeeding-solomon-as-soon-as-late-2027
-  headline: Goldman board has discussed Waldron succeeding Solomon as soon as late 2027
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5627
-- slug: 2026-09-24-vistry-cuts-profit-outlook-after-661m-half-year-loss
-  headline: Vistry cuts profit outlook after £661m half-year loss
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.575
-- slug: 2026-09-13-reform-uk-receives-two-36m-donations-totaling-72m
-  headline: Reform UK receives two £36m donations, totaling £72m
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5664
-- slug: 2026-09-08-jaguar-land-rover-cuts-4-000-uk-jobs-as-suppliers-warn-of-wider-decline
-  headline: Jaguar Land Rover cuts 4,000 UK jobs as suppliers warn of wider decline
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5643
-- slug: 2026-09-05-jaguar-land-rover-opens-voluntary-redundancy-programme-for-uk-staff
-  headline: Jaguar Land Rover opens voluntary redundancy programme for UK staff
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5654
-- slug: 2026-08-24-business-coalition-sues-mamdani-over-city-grocery-plan
-  headline: Business coalition sues Mamdani over city grocery plan
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.5706
-- slug: 2026-08-23-brown-forman-family-faces-15-billion-hostile-bid-as-ceo-departs
-  headline: Brown-Forman family faces $15 billion hostile bid as CEO departs
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.5604
-- slug: 2026-07-27-dnc-chair-ken-martin-faces-scrutiny-over-finances-and-internal-criticism
-  headline: DNC chair Ken Martin faces scrutiny over finances and internal criticism
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5896
-- slug: 2026-08-11-analysts-assess-banks-trading-platforms-and-wealth-managers
-  headline: Analysts assess banks, trading platforms and wealth managers
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5591
-- slug: 2026-07-20-paxton-works-to-regain-gop-donor-support-as-talarico-cash-lead-widens
-  headline: Paxton works to regain GOP donor support as Talarico cash lead widens
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5674
-- slug: 2026-06-07-bbc-investigation-reveals-uk-high-street-shops-as-fronts-for-organized-crime
-  headline: BBC investigation reveals UK High Street shops as fronts for organized crime
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.577
-- slug: 2026-05-31-uk-recruiter-falls-behind-on-creditor-payments-after-buying-back-insolvent-firm
-  headline: UK recruiter falls behind on creditor payments after buying back insolvent firm
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5781
+  strength: 0.7799
 ---
-
 ## Gordon Brothers limits Poundland cash, leaving 600 shops short of stock
 
 **Subtype:** fact
