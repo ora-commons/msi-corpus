@@ -1,9 +1,21 @@
 ---
 headline: Public health candidates win seats in 2026 midterms
-secondary_headline: Experts say state gains will reshape abortion, vaccine and gender-affirming care policy
+secondary_headline: Experts say state gains will reshape abortion, vaccine and gender-affirming
+  care policy
 publish_date: '2026-11-09'
-lede: Public health leaders and politicians who made healthcare central to their campaigns won congressional and state offices in the 2026 U.S. midterms. The Guardian reported that voters chose those candidates while facing an unprecedented rise in vaccine-preventable diseases such as measles and devastating outbreaks of foodborne illnesses. The results set up national, state and local changes, with experts saying new statehouse leadership would reshape actions on abortion, gender-affirming care and vaccines.
-nut_graf: The election placed candidates with medical, scientific or public-health backgrounds in positions to shape national policy and state leadership. Julie Scofield, a member of the coordinating committee at the grassroots organization Defend Public Health, said a lot of public-health authority rests with the states, and said Congress is likely to take action around reversing cuts to Medicaid and SNAP, addressing the premium tax credits and making sure funds are deployed appropriately by agencies such as the CDC and NIH.
+lede: Public health leaders and politicians who made healthcare central to their campaigns
+  won congressional and state offices in the 2026 U.S. midterms. The Guardian reported
+  that voters chose those candidates while facing an unprecedented rise in vaccine-preventable
+  diseases such as measles and devastating outbreaks of foodborne illnesses. The results
+  set up national, state and local changes, with experts saying new statehouse leadership
+  would reshape actions on abortion, gender-affirming care and vaccines.
+nut_graf: The election placed candidates with medical, scientific or public-health
+  backgrounds in positions to shape national policy and state leadership. Julie Scofield,
+  a member of the coordinating committee at the grassroots organization Defend Public
+  Health, said a lot of public-health authority rests with the states, and said Congress
+  is likely to take action around reversing cuts to Medicaid and SNAP, addressing
+  the premium tax credits and making sure funds are deployed appropriately by agencies
+  such as the CDC and NIH.
 primary_entities:
 - Annie Andrews
 - Robert F Kennedy Jr.
@@ -52,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,29 +167,30 @@ related_stories:
   headline: 2026 election sends at least 10 Democratic physicians to Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7536
+  strength: 0.7539
 - slug: 2026-11-05-democrats-ran-more-than-158-000-health-care-ads-republicans-ran-61-000
   headline: Democrats ran more than 158,000 health-care ads; Republicans ran 61,000
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.741
+  strength: 0.7401
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7403
+  strength: 0.7406
 - slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
   headline: Democratic leaders weigh oversight and legislation after 2026 midterms
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7055
+  strength: 0.7052
 - slug: 2026-11-05-democrats-flip-senate-seats-in-the-south-reshaping-the-2028-contest
   headline: Democrats flip Senate seats in the South, reshaping the 2028 contest
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7221
+  strength: 0.723
 - slug: 2026-11-04-democrats-flip-state-legislatures-and-pick-up-four-governorships-in-2026-midterm
-  headline: Democrats flip state legislatures and pick up four governorships in 2026 midterms
+  headline: Democrats flip state legislatures and pick up four governorships in 2026
+    midterms
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7242
@@ -184,74 +198,13 @@ related_stories:
   headline: Democrats gain hundreds of state legislative seats in 2026 midterms
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7109
+  strength: 0.7103
 - slug: 2026-11-04-democrats-retake-congress-dnc-chairman-says-mandate-is-about-affordability
   headline: Democrats retake Congress; DNC chairman says mandate is about affordability
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7151
-- slug: 2026-11-05-democrats-sweep-southern-elections-overturning-decades-of-gop-dominance
-  headline: Democrats sweep Southern elections, overturning decades of GOP dominance
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7077
-- slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
-  headline: Democrats win Congress and a majority of governorships on affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7046
-- slug: 2026-11-03-midterm-candidates-vie-for-historic-firsts-in-governor-and-senate-races
-  headline: Midterm candidates vie for historic firsts in governor and Senate races
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7093
-- slug: 2026-11-05-democrats-link-climate-policy-to-affordability-in-2026-midterm-wins
-  headline: Democrats link climate policy to affordability in 2026 midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6949
-- slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
-  headline: Democrats gain control of Congress as 2026 voter shifts emerge
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6925
-- slug: 2026-11-04-democrats-set-post-election-priorities-on-affordability-and-accountability
-  headline: Democrats set post-election priorities on affordability and accountability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6982
-- slug: 2026-11-03-keisha-lance-bottoms-wins-georgia-governor-race
-  headline: Keisha Lance Bottoms wins Georgia governor race
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7021
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6997
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6978
-- slug: 2026-11-04-readers-urge-democrats-to-turn-midterm-gains-into-substantive-change
-  headline: Readers urge Democrats to turn midterm gains into substantive change
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6896
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6889
-- slug: 2026-09-20-anti-establishment-rage-reshapes-2026-us-midterm-landscape
-  headline: Anti-establishment rage reshapes 2026 US midterm landscape
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7103
+  strength: 0.7158
 ---
-
 ## Public health candidates win seats in 2026 midterms
 
 **Subtype:** fact
