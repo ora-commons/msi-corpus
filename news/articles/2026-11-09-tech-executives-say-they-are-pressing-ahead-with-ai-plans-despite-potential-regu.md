@@ -1,9 +1,20 @@
 ---
-headline: Tech executives say they are pressing ahead with AI plans despite potential regulation
+headline: Tech executives say they are pressing ahead with AI plans despite potential
+  regulation
 secondary_headline: Many tech chiefs expect AI policy to remain at the state level
 publish_date: '2026-11-09'
-lede: Corporate technology executives said they are pushing ahead with their artificial intelligence plans despite potential regulation under Democratic control of the House and Senate and state offices, according to interviews with The Wall Street Journal Leadership Institute. Some executives cited internal guardrails and safety standards, and many said existing AI models already meet their technology needs, making a potential development slowdown unlikely to alter their future AI plans.
-nut_graf: 'Among the executives interviewed by The Wall Street Journal, the reasons for pressing ahead vary: some cite internal guardrails and safety standards that make outside rules less consequential, and many say existing model capabilities already satisfy their technology needs. Many of the chiefs who spoke expect AI policy to remain at the state level rather than moving quickly federally, and they expect any change to take time.'
+lede: Corporate technology executives said they are pushing ahead with their artificial
+  intelligence plans despite potential regulation under Democratic control of the
+  House and Senate and state offices, according to interviews with The Wall Street
+  Journal Leadership Institute. Some executives cited internal guardrails and safety
+  standards, and many said existing AI models already meet their technology needs,
+  making a potential development slowdown unlikely to alter their future AI plans.
+nut_graf: 'Among the executives interviewed by The Wall Street Journal, the reasons
+  for pressing ahead vary: some cite internal guardrails and safety standards that
+  make outside rules less consequential, and many say existing model capabilities
+  already satisfy their technology needs. Many of the chiefs who spoke expect AI policy
+  to remain at the state level rather than moving quickly federally, and they expect
+  any change to take time.'
 primary_entities:
 - UKG
 - Pearson
@@ -51,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,22 +162,24 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-06-ai-companies-reassess-data-center-plans-after-midterm-wins-for-freeze-candidates
-  headline: AI companies reassess data-center plans after midterm wins for freeze candidates
+  headline: AI companies reassess data-center plans after midterm wins for freeze
+    candidates
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7167
+  strength: 0.7164
 - slug: 2026-11-05-data-center-slowdown-could-favor-large-ai-firms-with-power-secured
   headline: Data center slowdown could favor large AI firms with power secured
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7136
+  strength: 0.713
 - slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
   headline: Democratic gains shift U.S. technology policy outlook
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7193
+  strength: 0.7185
 - slug: 2026-10-05-former-ai-researcher-coxon-tells-nyc-council-humanity-could-lose-control-of-ai
-  headline: Former AI researcher Coxon tells NYC Council humanity could lose control of AI
+  headline: Former AI researcher Coxon tells NYC Council humanity could lose control
+    of AI
   publish_date: '2026-10-05'
   relation: related
   strength: 0.7188
@@ -173,12 +187,12 @@ related_stories:
   headline: Trump tells White House tech CEOs self-regulation is 'very important'
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7415
+  strength: 0.74
 - slug: 2026-09-26-democratic-2028-hopefuls-stake-out-ai-positions-from-guardrails-to-moratorium
   headline: Democratic 2028 hopefuls stake out AI positions from guardrails to moratorium
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7496
+  strength: 0.7483
 - slug: 2026-09-25-columnist-argues-ai-s-unpredictability-defies-historical-regulatory-models
   headline: Columnist argues AI's unpredictability defies historical regulatory models
   publish_date: '2026-09-25'
@@ -188,69 +202,8 @@ related_stories:
   headline: Trump, AI executives sign voluntary self-policing accord
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7131
-- slug: 2026-09-17-wiles-bessent-press-trump-on-ai-guardrails-as-tech-ceos-resist-oversight
-  headline: Wiles, Bessent press Trump on AI guardrails as tech CEOs resist oversight
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.751
-- slug: 2026-09-15-fedex-ceo-calls-ai-defining-technology-that-ceos-must-drive
-  headline: FedEx CEO calls AI 'defining technology' that CEOs must drive
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7529
-- slug: 2026-09-25-tech-ceos-and-white-house-split-on-global-ai-governance-at-un
-  headline: Tech CEOs and White House split on global AI governance at UN
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.715
-- slug: 2026-09-13-trump-defends-minimal-ai-regulation-after-executives-call-for-slowdown
-  headline: Trump defends minimal AI regulation after executives call for slowdown
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7388
-- slug: 2026-09-20-china-rebuffs-us-calls-to-slow-ai-development-ahead-of-trump-xi-summit
-  headline: China rebuffs US calls to slow AI development ahead of Trump-Xi summit
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7127
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7123
-- slug: 2026-09-02-tech-executives-trump-officials-urge-g-20-to-minimize-ai-regulation
-  headline: Tech executives, Trump officials urge G-20 to minimize AI regulation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7542
-- slug: 2026-09-15-fedex-cvs-deployers-take-optimistic-side-in-ai-safety-debate
-  headline: FedEx, CVS deployers take 'optimistic side' in AI safety debate
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7137
-- slug: 2026-09-15-congress-builds-bipartisan-push-for-ai-guardrails-as-trump-dismisses-risks
-  headline: Congress builds bipartisan push for AI guardrails as Trump dismisses risks
-  publish_date: '2026-09-15'
-  relation: related
   strength: 0.713
-- slug: 2026-09-13-house-democrats-demand-no-recess-until-ai-safeguards-move
-  headline: House Democrats demand no recess until AI safeguards move
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7166
-- slug: 2026-09-15-leading-ai-companies-discuss-joint-standards-to-limit-catastrophic-harms
-  headline: Leading AI companies discuss joint standards to limit catastrophic harms
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7106
-- slug: 2026-09-13-anthropic-ceo-s-ai-slowdown-call-draws-industry-backing-and-skepticism
-  headline: Anthropic CEO's AI slowdown call draws industry backing and skepticism
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7116
 ---
-
 ## Tech executives say they are pressing ahead with AI plans despite potential regulation
 
 **Subtype:** fact

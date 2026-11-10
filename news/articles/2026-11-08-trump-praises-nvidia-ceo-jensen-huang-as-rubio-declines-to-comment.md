@@ -2,8 +2,20 @@
 headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
 secondary_headline: Huang remains CEO during Nvidia's inquiry
 publish_date: '2026-11-08'
-lede: President Donald Trump praised Nvidia CEO Jensen Huang on Sunday, saying he had not spoken with Huang about the recent developments but believed Huang had done an incredible job for the country. Trump called Huang an honorable man, said he probably had an excuse and said he was open to bringing Huang on an Asia trip the following week. Secretary of State Marco Rubio, traveling to a G7 meeting in Paris, declined to comment on the Huang situation or an internal corporate matter at Nvidia. Nvidia's board separately opened an inquiry into reports that Huang was the target of a foreign intelligence effort.
-nut_graf: The inquiry followed Jensen Huang's acknowledgment to Nvidia's board that he had an intimate relationship with a business executive whom The New York Times reported was collecting information for Beijing. Nvidia's chips power data centers and computer systems used to train and run artificial-intelligence models, while U.S. export restrictions are intended to limit China's access to advanced semiconductor technology.
+lede: President Donald Trump praised Nvidia CEO Jensen Huang on Sunday, saying he
+  had not spoken with Huang about the recent developments but believed Huang had done
+  an incredible job for the country. Trump called Huang an honorable man, said he
+  probably had an excuse and said he was open to bringing Huang on an Asia trip the
+  following week. Secretary of State Marco Rubio, traveling to a G7 meeting in Paris,
+  declined to comment on the Huang situation or an internal corporate matter at Nvidia.
+  Nvidia's board separately opened an inquiry into reports that Huang was the target
+  of a foreign intelligence effort.
+nut_graf: The inquiry followed Jensen Huang's acknowledgment to Nvidia's board that
+  he had an intimate relationship with a business executive whom The New York Times
+  reported was collecting information for Beijing. Nvidia's chips power data centers
+  and computer systems used to train and run artificial-intelligence models, while
+  U.S. export restrictions are intended to limit China's access to advanced semiconductor
+  technology.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +156,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
+  headline: Nvidia board opens independent investigation after reports about Jensen
+    Huang
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7961
+  strength: 0.7967
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7892
+  strength: 0.7891
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7849
+  strength: 0.7853
 - slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
   headline: Nvidia inquiry draws top Republican demands for answers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7679
+  strength: 0.7681
 - slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
   headline: Nvidia investigates reports of spying targeting Jensen Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7542
+  strength: 0.7545
 - slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
   headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.737
+  strength: 0.7372
 - slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
+  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen
+    Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.732
+  strength: 0.7321
 - slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
+  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past
+    two years, Times reported
   publish_date: '2026-11-08'
   relation: related
   strength: 0.7281
-- slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
-  headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7224
-- slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
-  headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6942
-- slug: 2026-10-29-us-intelligence-believes-chinese-spy-targeted-nvidia-ceo
-  headline: US intelligence believes Chinese spy targeted Nvidia CEO
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7317
-- slug: 2026-10-30-u-s-officials-suspect-megaspeed-executive-alice-huang-of-spying-for-china
-  headline: U.S. officials suspect Megaspeed executive Alice Huang of spying for China
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7046
-- slug: 2026-10-13-hinton-calls-trump-corrupt-senile-felon-defends-ai-extinction-warning
-  headline: Hinton calls Trump 'corrupt, senile felon,' defends AI extinction warning
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6472
-- slug: 2026-09-21-nvidia-ceo-rejects-ai-extinction-warnings-as-doomsday-narratives
-  headline: Nvidia CEO rejects AI extinction warnings as 'doomsday narratives'
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6926
-- slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
-  headline: Trump tells White House tech CEOs self-regulation is 'very important'
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6516
-- slug: 2026-09-25-trump-welcomes-xi-to-white-house-trade-truce-extended-to-january-10
-  headline: Trump welcomes Xi to White House; trade truce extended to January 10
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6479
-- slug: 2026-09-02-tech-executives-trump-officials-urge-g-20-to-minimize-ai-regulation
-  headline: Tech executives, Trump officials urge G-20 to minimize AI regulation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6836
-- slug: 2026-06-04-nvidia-ceo-jensen-huang-to-visit-south-korea-for-ai-robotics-talks
-  headline: Nvidia CEO Jensen Huang to visit South Korea for AI, robotics talks
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7298
-- slug: 2026-06-29-nvidia-s-ai-chip-sales-stall-in-china-as-huawei-gains-ground
-  headline: Nvidia's AI chip sales stall in China as Huawei gains ground
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6855
-- slug: 2026-05-13-trump-china-trip-includes-musk-apple-s-cook-nvidia-s-huang-and-boeing-ceo
-  headline: Trump China trip includes Musk, Apple’s Cook, Nvidia’s Huang and Boeing CEO
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6983
 ---
-
 ## Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
 
 **Subtype:** fact
