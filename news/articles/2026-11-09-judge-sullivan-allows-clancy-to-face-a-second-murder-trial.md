@@ -2,8 +2,14 @@
 headline: Judge Sullivan allows Clancy to face a second murder trial
 secondary_headline: Proceedings could begin in March
 publish_date: '2026-11-09'
-lede: A Massachusetts judge on Monday cleared Lindsay Clancy for a second trial on charges that she murdered her three young children, rejecting her lawyers’ request to dismiss the case on double-jeopardy grounds. Judge William Sullivan said a retrial would not unconstitutionally subject Clancy to prosecution twice for the same crime.
-nut_graf: The ruling resolves a threshold procedural question but does not set a trial date or decide Clancy’s claim that postpartum psychosis supports a not-guilty verdict on insanity grounds. A November 16 hearing will address scheduling, and Sullivan suggested March as a possible start.
+lede: A Massachusetts judge on Monday cleared Lindsay Clancy for a second trial on
+  charges that she murdered her three young children, rejecting her lawyers’ request
+  to dismiss the case on double-jeopardy grounds. Judge William Sullivan said a retrial
+  would not unconstitutionally subject Clancy to prosecution twice for the same crime.
+nut_graf: The ruling resolves a threshold procedural question but does not set a trial
+  date or decide Clancy’s claim that postpartum psychosis supports a not-guilty verdict
+  on insanity grounds. A November 16 hearing will address scheduling, and Sullivan
+  suggested March as a possible start.
 primary_entities:
 - Lindsay Clancy
 - William Sullivan
@@ -44,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +153,43 @@ related_stories:
   headline: Judge Sullivan weighs motion to dismiss Clancy murder charges
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8534
+  strength: 0.8555
 - slug: 2026-11-01-lindsay-clancy-returns-to-court-as-lawyers-debate-dismissal-and-retrial
   headline: Lindsay Clancy returns to court as lawyers debate dismissal and retrial
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8291
+  strength: 0.8309
 - slug: 2026-11-02-judge-sullivan-schedules-nov-16-hearing-on-clancy-retrial-motions
   headline: Judge Sullivan schedules Nov. 16 hearing on Clancy retrial motions
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8173
+  strength: 0.8194
 - slug: 2026-09-29-clancy-s-lawyers-seek-acquittal-cite-double-jeopardy-after-mistrial
   headline: Clancy's lawyers seek acquittal, cite double jeopardy after mistrial
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.8973
+  strength: 0.8979
 - slug: 2026-10-01-judge-sullivan-denies-motion-to-acquit-lindsay-clancy-of-murder
   headline: Judge Sullivan denies motion to acquit Lindsay Clancy of murder
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8436
+  strength: 0.8443
 - slug: 2026-10-15-lindsay-clancy-holdout-juror-says-he-had-no-reasonable-doubt
   headline: Lindsay Clancy holdout juror says he had no reasonable doubt
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7662
+  strength: 0.7671
 - slug: 2026-09-04-judge-declares-mistrial-in-clancy-murder-trial-after-jury-deadlock
   headline: Judge declares mistrial in Clancy murder trial after jury deadlock
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.8548
+  strength: 0.8555
 - slug: 2026-09-10-clancy-defense-asks-judge-to-clear-her-on-insanity-grounds
   headline: Clancy defense asks judge to clear her on insanity grounds
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8315
-- slug: 2026-09-21-patrick-clancy-describes-events-before-children-s-killings-on-60-minutes
-  headline: Patrick Clancy describes events before children's killings on 60 Minutes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7834
-- slug: 2026-09-18-clancy-defense-lawyer-says-he-was-upset-over-holdout-s-refusal-to-acquit
-  headline: Clancy defense lawyer says he was 'upset' over holdout's refusal to acquit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7808
-- slug: 2026-09-01-judge-asks-deadlocked-clancy-jury-to-continue-deliberating
-  headline: Judge asks deadlocked Clancy jury to continue deliberating
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.8245
-- slug: 2026-09-21-clancy-defense-asks-judge-to-investigate-holdout-juror
-  headline: Clancy defense asks judge to investigate holdout juror
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7645
-- slug: 2026-08-31-jury-weighs-five-verdict-options-in-clancy-murder-trial
-  headline: Jury weighs five verdict options in Clancy murder trial
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.8151
-- slug: 2026-08-26-lindsay-clancy-jury-to-begin-deliberations-after-five-week-murder-trial
-  headline: Lindsay Clancy jury to begin deliberations after five-week murder trial
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.8243
-- slug: 2026-09-08-reddington-plans-motion-to-reconsider-clancy-mistrial-later-this-month
-  headline: Reddington plans motion to reconsider Clancy mistrial later this month
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.7921
-- slug: 2026-09-03-clancy-jury-enters-sixth-day-of-deliberations-after-deadlock
-  headline: Clancy jury enters sixth day of deliberations after deadlock
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.8001
-- slug: 2026-08-29-lindsay-clancy-jury-begins-deliberations-after-five-week-trial
-  headline: Lindsay Clancy jury begins deliberations after five-week trial
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.801
-- slug: 2026-09-03-deadlocked-clancy-jury-goes-home-after-sixth-day-without-verdict
-  headline: Deadlocked Clancy jury goes home after sixth day without verdict
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7882
-- slug: 2026-09-07-lindsay-clancy-trial-ends-in-mistrial-after-jury-deadlocks-11-1
-  headline: Lindsay Clancy trial ends in mistrial after jury deadlocks 11-1
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.7594
-- slug: 2026-08-25-prosecution-experts-challenge-clancy-postpartum-psychosis-defense
-  headline: Prosecution experts challenge Clancy postpartum psychosis defense
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7829
+  strength: 0.8318
 ---
-
 ## Judge Sullivan allows Clancy to face a second murder trial
 
 **Subtype:** fact

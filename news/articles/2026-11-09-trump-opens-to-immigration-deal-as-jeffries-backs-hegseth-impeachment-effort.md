@@ -2,8 +2,21 @@
 headline: Trump opens to immigration deal as Jeffries backs Hegseth impeachment effort
 secondary_headline: Jeffries reports no contact with Trump after the midterms
 publish_date: '2026-11-09'
-lede: President Donald Trump said he was open to an immigration deal with Democrats, while House Minority Leader Hakeem Jeffries, a Democrat from New York, backed impeaching Defense Secretary Pete Hegseth and said he and Trump had not spoken since the midterm elections. On Nov. 9, nearly a week after the midterms, Jeffries spoke in an impromptu interview after exiting a downtown Verizon cellphone shop in Washington. He said the House Democratic Caucus would discuss immigration this week after Trump said his administration's deportation policies might have been “too tough.” Jeffries, who is set to be the next House speaker, also said he supported a resolution to impeach Hegseth.
-nut_graf: 'Democrats are set to assume majorities in both the House and Senate next year, giving them greater leverage over legislation and oversight as they consider an immigration agreement and an oversight agenda. Jeffries''s interview placed two immediate issues in view: whether House Democrats engage Trump on immigration after Trump said he was open to a deal, and whether enough Republicans join the effort to impeach Hegseth.'
+lede: President Donald Trump said he was open to an immigration deal with Democrats,
+  while House Minority Leader Hakeem Jeffries, a Democrat from New York, backed impeaching
+  Defense Secretary Pete Hegseth and said he and Trump had not spoken since the midterm
+  elections. On Nov. 9, nearly a week after the midterms, Jeffries spoke in an impromptu
+  interview after exiting a downtown Verizon cellphone shop in Washington. He said
+  the House Democratic Caucus would discuss immigration this week after Trump said
+  his administration's deportation policies might have been “too tough.” Jeffries,
+  who is set to be the next House speaker, also said he supported a resolution to
+  impeach Hegseth.
+nut_graf: 'Democrats are set to assume majorities in both the House and Senate next
+  year, giving them greater leverage over legislation and oversight as they consider
+  an immigration agreement and an oversight agenda. Jeffries''s interview placed two
+  immediate issues in view: whether House Democrats engage Trump on immigration after
+  Trump said he was open to a deal, and whether enough Republicans join the effort
+  to impeach Hegseth.'
 primary_entities:
 - Donald Trump
 - Hakeem Jeffries
@@ -43,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +159,46 @@ related_stories:
   headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7994
+  strength: 0.8001
 - slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
   headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.806
+  strength: 0.8069
 - slug: 2026-11-09-trump-opens-to-an-immigration-deal-after-republican-midterm-losses
   headline: Trump opens to an immigration deal after Republican midterm losses
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7774
+  strength: 0.7777
 - slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
+  headline: Republican close says Pete Hegseth should take responsibility for Iran
+    war
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7425
+  strength: 0.7435
 - slug: 2026-11-09-trump-names-immigration-architect-stephen-miller-as-chief-of-staff
   headline: Trump names immigration architect Stephen Miller as chief of staff
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7341
+  strength: 0.7348
 - slug: 2026-11-08-trump-calls-democrats-already-issued-investigative-requests-extortion-on-social-
-  headline: Trump calls Democrats’ already-issued investigative requests extortion on social media
+  headline: Trump calls Democrats’ already-issued investigative requests extortion
+    on social media
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7411
+  strength: 0.7406
 - slug: 2026-11-08-jeffries-faces-divided-democrats-atop-largest-house-majority-since-obama-s-first
-  headline: Jeffries faces divided Democrats atop largest House majority since Obama's first year
+  headline: Jeffries faces divided Democrats atop largest House majority since Obama's
+    first year
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7376
+  strength: 0.7375
 - slug: 2026-11-09-trump-proposes-a-negotiable-deal-for-some-long-term-undocumented-residents
   headline: Trump proposes a negotiable deal for some long-term undocumented residents
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7253
-- slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
-  headline: House could vote to impeach Hegseth when lawmakers return to Washington
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7432
-- slug: 2026-11-09-chris-coons-urges-bipartisan-action-to-lower-household-costs
-  headline: Chris Coons urges bipartisan action to lower household costs
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7099
-- slug: 2026-11-07-hegseth-s-team-prepares-response-to-possible-house-impeachment-vote
-  headline: Hegseth's team prepares response to possible House impeachment vote
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7222
-- slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7131
-- slug: 2026-11-03-trump-pairs-5-000-pledge-with-national-mall-closing-argument
-  headline: Trump pairs $5,000 pledge with National Mall closing argument
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7453
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7384
-- slug: 2026-11-08-trump-says-he-could-work-with-democrats-on-immigration-and-taxes
-  headline: Trump says he could work with Democrats on immigration and taxes
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7096
-- slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7284
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7259
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7178
-- slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
-  headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7412
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7588
+  strength: 0.7238
 ---
-
 ## Trump opens to immigration deal as Jeffries backs Hegseth impeachment effort
 
 **Subtype:** fact

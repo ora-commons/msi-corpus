@@ -2,8 +2,15 @@
 headline: Vineyard Wind and Revolution Wind reach full operation
 secondary_headline: Federal data put Vineyard Wind's past-year capacity near 25%
 publish_date: '2026-11-09'
-lede: The developers of Vineyard Wind and Revolution Wind announced this week that the offshore wind farms are fully operational and can power a combined 750,000 homes in Connecticut, Rhode Island and Massachusetts. Vineyard Wind spokesperson Craig Gilvarg confirmed in an email to The Light on Friday that the project reached full operation Oct. 29; Revolution Wind announced Thursday that it had come fully online after three years of construction.
-nut_graf: Full operation marks a technical milestone for two of the country's first large-scale offshore wind farms, but early output, commissioning delays and earlier federal actions leave their longer-term performance unresolved.
+lede: The developers of Vineyard Wind and Revolution Wind announced this week that
+  the offshore wind farms are fully operational and can power a combined 750,000 homes
+  in Connecticut, Rhode Island and Massachusetts. Vineyard Wind spokesperson Craig
+  Gilvarg confirmed in an email to The Light on Friday that the project reached full
+  operation Oct. 29; Revolution Wind announced Thursday that it had come fully online
+  after three years of construction.
+nut_graf: Full operation marks a technical milestone for two of the country's first
+  large-scale offshore wind farms, but early output, commissioning delays and earlier
+  federal actions leave their longer-term performance unresolved.
 primary_entities:
 - Vineyard Wind
 - Revolution Wind
@@ -50,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +156,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-01-dataone-operated-62-unpermitted-generators-for-nearly-a-year-records-show
-  headline: DataOne operated 62 unpermitted generators for nearly a year, records show
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6203
 - slug: 2026-03-15-offshore-wind-project-vineyard-wind-completes-first-during-trump-term
   headline: Offshore wind project Vineyard Wind completes, first during Trump term
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.8063
+  strength: 0.8062
 - slug: 2026-03-15-offshore-wind-project-begins-sending-power-to-new-england-grid
   headline: Offshore wind project begins sending power to New England grid
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.7748
+  strength: 0.7752
 - slug: 2026-04-24-up-close-with-offshore-wind-projects-taking-shape-on-the-u-s-east-coast
   headline: Up close with offshore wind projects taking shape on the U.S. East Coast
   publish_date: '2026-04-24'
   relation: related
-  strength: 0.7636
+  strength: 0.7626
 - slug: 2026-08-23-us-unions-organize-to-defend-offshore-wind-jobs-from-trump-policies
   headline: US unions organize to defend offshore wind jobs from Trump policies
   publish_date: '2026-08-23'
   relation: related
-  strength: 0.6584
+  strength: 0.6583
 - slug: 2026-05-15-trump-halts-u-s-offshore-wind-expansion-as-global-industry-adds-record-capacity
-  headline: Trump halts U.S. offshore wind expansion as global industry adds record capacity
+  headline: Trump halts U.S. offshore wind expansion as global industry adds record
+    capacity
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.7042
+  strength: 0.7039
 - slug: 2026-04-11-vineyard-wind-sues-ge-renewables-to-halt-turbine-contract-exit
   headline: Vineyard Wind sues GE Renewables to halt turbine contract exit
   publish_date: '2026-04-11'
   relation: related
-  strength: 0.7122
+  strength: 0.7113
 - slug: 2026-04-17-judge-blocks-turbine-maker-from-exiting-offshore-wind-project
   headline: Judge blocks turbine maker from exiting offshore wind project
   publish_date: '2026-04-17'
   relation: related
-  strength: 0.7084
+  strength: 0.7074
 - slug: 2026-01-30-federal-judge-allows-massachusetts-offshore-wind-project-to-proceed
   headline: Federal judge allows Massachusetts offshore wind project to proceed
   publish_date: '2026-01-30'
   relation: related
-  strength: 0.7174
-- slug: 2026-05-15-trump-halts-u-s-offshore-wind-as-global-capacity-grows-numbers-show
-  headline: Trump halts U.S. offshore wind as global capacity grows, numbers show
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6817
-- slug: 2026-07-06-wind-project-workers-say-trump-s-stop-work-orders-cost-them-jobs
-  headline: Wind project workers say Trump's stop-work orders cost them jobs
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6497
-- slug: 2026-01-12-federal-judge-orders-revolution-wind-construction-to-resume-rejecting-trump-s-fr
-  headline: Federal judge orders Revolution Wind construction to resume, rejecting Trump's freeze
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6829
-- slug: 2026-01-16-virginia-judge-allows-third-offshore-wind-project-to-resume-amid-court-losses-fo
-  headline: Virginia judge allows third offshore wind project to resume amid court losses for Trump
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6776
-- slug: 2026-01-15-federal-judge-clears-empire-wind-to-resume-construction-second-court-loss-for-tr
-  headline: Federal judge clears Empire Wind to resume construction, second court loss for Trump this week
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6513
-- slug: 2026-04-29-trump-administration-pays-bluepoint-and-golden-state-to-exit-offshore-wind
-  headline: Trump administration pays Bluepoint and Golden State to exit offshore wind
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6298
-- slug: 2026-02-03-judge-clears-sunrise-wind-to-resume-as-trump-s-offshore-freeze-collapses
-  headline: Judge clears Sunrise Wind to resume as Trump’s offshore freeze collapses
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.64
-- slug: 2026-05-19-new-england-grid-operator-forecasts-9-electricity-demand-growth-over-next-decade
-  headline: New England grid operator forecasts 9% electricity demand growth over next decade
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6185
-- slug: 2026-01-10-new-york-attorney-general-sues-trump-administration-over-offshore-wind-project-f
-  headline: New York attorney general sues Trump administration over offshore wind project freeze
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6317
-- slug: 2026-04-30-trump-pays-offshore-wind-operators-to-walk-away-democrats-call-it-a-scam
-  headline: Trump pays offshore wind operators to walk away; Democrats call it a scam
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6122
-- slug: 2026-03-24-us-to-pay-totalenergies-to-drop-offshore-wind-leases
-  headline: US to pay TotalEnergies to drop offshore wind leases
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6194
+  strength: 0.7171
 ---
-
 ## Vineyard Wind and Revolution Wind reach full operation
 
 **Subtype:** fact

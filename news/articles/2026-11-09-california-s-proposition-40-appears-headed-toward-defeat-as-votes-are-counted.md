@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-10-22'
   relation: related
   strength: 0.7383
+analyses:
+- '2026-11-09-california-s-apparent-wealth-tax-rejection-exposes-a-concentrated-loss-conflict'
 ---
 ## California's Proposition 40 appears headed toward defeat as votes are counted
 
@@ -234,3 +236,8 @@ Zucman was not writing off the policy as California's count continued. He said h
 **Publication date:** 2026-11-09
 **Title:** Economist discusses taxing the ultra wealthy and their impact on the economy
 **URL:** https://www.npr.org/2026/11/09/nx-s1-6032701/economist-discusses-taxing-the-ultra-wealthy-and-their-impact-on-the-economy
+
+---
+
+<!-- analysis-link:2026-11-09-california-s-apparent-wealth-tax-rejection-exposes-a-concentrated-loss-conflict -->
+**Going deeper:** [Read MSI's analysis of California’s wealth-tax conflict →](/analyses/2026-11-09-california-s-apparent-wealth-tax-rejection-exposes-a-concentrated-loss-conflict)
