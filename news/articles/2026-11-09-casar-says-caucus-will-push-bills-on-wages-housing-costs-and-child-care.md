@@ -2,8 +2,19 @@
 headline: Casar says caucus will push bills on wages, housing costs and child care
 secondary_headline: Record red-district wins expand the caucus to more than 105 members
 publish_date: '2026-11-09'
-lede: Greg Casar said Sunday that the Congressional Progressive Caucus would bring bills on wages, corruption, housing costs, credit card interest rates and child care to the House floor. The caucus said it would welcome more than 25 new members, including a record number elected in red districts, expanding its House ranks to more than 105 lawmakers in the next Congress. With Democrats set to control both chambers in January, the caucus said it would use the expanded delegation to push the new Democratic majority to the left. Casar did not commit on whether caucus members would back Hakeem Jeffries for speaker.
-nut_graf: The expansion gives the Congressional Progressive Caucus its largest delegation while the centrist New Democrat Coalition, already the largest House Democratic caucus with 114 members, is expected to add about 39. Their memberships overlap, and the incoming majority's agenda will depend in part on how new members vote in the speaker's race.
+lede: Greg Casar said Sunday that the Congressional Progressive Caucus would bring
+  bills on wages, corruption, housing costs, credit card interest rates and child
+  care to the House floor. The caucus said it would welcome more than 25 new members,
+  including a record number elected in red districts, expanding its House ranks to
+  more than 105 lawmakers in the next Congress. With Democrats set to control both
+  chambers in January, the caucus said it would use the expanded delegation to push
+  the new Democratic majority to the left. Casar did not commit on whether caucus
+  members would back Hakeem Jeffries for speaker.
+nut_graf: The expansion gives the Congressional Progressive Caucus its largest delegation
+  while the centrist New Democrat Coalition, already the largest House Democratic
+  caucus with 114 members, is expected to add about 39. Their memberships overlap,
+  and the incoming majority's agenda will depend in part on how new members vote in
+  the speaker's race.
 primary_entities:
 - Congressional Progressive Caucus
 - Greg Casar
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,107 +159,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-08-jeffries-faces-divided-democrats-atop-largest-house-majority-since-obama-s-first
-  headline: Jeffries faces divided Democrats atop largest House majority since Obama's first year
+  headline: Jeffries faces divided Democrats atop largest House majority since Obama's
+    first year
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7308
+  strength: 0.7302
 - slug: 2026-11-07-greg-casar-urges-democrats-to-target-corporate-power-beyond-trump
   headline: Greg Casar urges Democrats to target corporate power beyond Trump
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7253
+  strength: 0.7249
 - slug: 2026-11-09-democrats-prepare-affordability-agenda-after-the-midterm-win
   headline: Democrats prepare affordability agenda after the midterm win
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.695
+  strength: 0.6953
 - slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
+  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief
+    of staff
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6994
+  strength: 0.6998
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7254
+  strength: 0.7252
 - slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
   headline: Democratic leaders weigh oversight and legislation after 2026 midterms
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6974
+  strength: 0.6965
 - slug: 2026-11-09-democrats-put-grocery-price-proposals-on-their-post-election-agenda
   headline: Democrats put grocery-price proposals on their post-election agenda
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6554
+  strength: 0.656
 - slug: 2026-11-03-at-least-five-dsa-endorsed-candidates-win-house-seats
   headline: At least five DSA-endorsed candidates win House seats
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6858
-- slug: 2026-11-06-democrats-surpass-250-house-seats-as-republicans-turn-to-the-2028-race
-  headline: Democrats surpass 250 House seats as Republicans turn to the 2028 race
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6601
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6782
-- slug: 2026-11-06-schumer-says-democrats-will-block-any-rightwinger-trump-puts-forward-for-the-sup
-  headline: Schumer says Democrats will block any rightwinger Trump puts forward for the Supreme Court
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.657
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6636
-- slug: 2026-11-05-democrats-win-congress-on-affordability-but-trump-retains-veto-power
-  headline: Democrats win Congress on affordability, but Trump retains veto power
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6586
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6571
-- slug: 2026-11-04-schumer-says-days-of-trump-s-supplicant-senate-are-over-vows-to-cut-costs
-  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut costs
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6521
-- slug: 2026-10-31-democratic-socialists-poised-to-expand-house-ranks-after-midterm-elections
-  headline: Democratic socialists poised to expand House ranks after midterm elections
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6685
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6968
-- slug: 2026-09-29-wsj-poll-finds-bipartisan-backing-for-price-caps-on-drugs-credit-cards-child-car
-  headline: WSJ poll finds bipartisan backing for price caps on drugs, credit cards, child care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6657
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6578
-- slug: 2026-08-05-dccc-adds-12-republican-held-house-seats-to-midterm-target-list
-  headline: DCCC adds 12 Republican-held House seats to midterm target list
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6615
+  strength: 0.6855
 ---
-
 ## Casar says caucus will push bills on wages, housing costs and child care
 
 **Subtype:** fact
