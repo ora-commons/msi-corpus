@@ -2,8 +2,18 @@
 headline: Five survivors meet Leo XIV at the Catholic University of Argentina
 secondary_headline: Vatican says local church chose the five participants
 publish_date: '2026-11-09'
-lede: Pope Leo XIV met five people individually and then as a group at the Catholic University of Argentina on Monday during his visit to Argentina. The Vatican said the local church selected the participants, described them as victims of abuse by clergy and “church institutions,” and said Leo spent about an hour with them. Argentina has been confronting the Catholic Church’s legacy of sex abuse and cover-up, including cases in which Pope Francis intervened, while survivor groups pressed for greater Vatican transparency.
-nut_graf: Survivor groups were also pressing the Vatican for stronger action against people accused or convicted in criminal courts whose fates within the church’s internal legal processes had not been made public, while a criminal investigation continued into allegations involving senior Opus Dei members. The Vatican has not publicly announced a ruling in the canonical proceeding against former bishop Gustavo Zanchetta.
+lede: Pope Leo XIV met five people individually and then as a group at the Catholic
+  University of Argentina on Monday during his visit to Argentina. The Vatican said
+  the local church selected the participants, described them as victims of abuse by
+  clergy and “church institutions,” and said Leo spent about an hour with them. Argentina
+  has been confronting the Catholic Church’s legacy of sex abuse and cover-up, including
+  cases in which Pope Francis intervened, while survivor groups pressed for greater
+  Vatican transparency.
+nut_graf: Survivor groups were also pressing the Vatican for stronger action against
+  people accused or convicted in criminal courts whose fates within the church’s internal
+  legal processes had not been made public, while a criminal investigation continued
+  into allegations involving senior Opus Dei members. The Vatican has not publicly
+  announced a ruling in the canonical proceeding against former bishop Gustavo Zanchetta.
 primary_entities:
 - Pope Leo XIV
 - Pope Francis
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,7 +161,7 @@ related_stories:
   headline: Abuse survivors press Pope Leo XIV for defrockings on Argentina visit
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8201
+  strength: 0.8207
 - slug: 2026-10-27-leo-xiv-plans-several-meetings-with-clergy-abuse-survivors-in-latin-america
   headline: Leo XIV plans several meetings with clergy abuse survivors in Latin America
   publish_date: '2026-10-27'
@@ -160,17 +171,22 @@ related_stories:
   headline: Pope Leo tells Milei the economy should serve people
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6944
+  strength: 0.6952
 - slug: 2026-11-09-pope-leo-xiv-visits-argentine-care-home-urges-protection-of-the-vulnerable
   headline: Pope Leo XIV visits Argentine care home, urges protection of the vulnerable
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6903
+  strength: 0.6906
 - slug: 2026-11-09-pope-leo-xiv-urges-church-community-and-state-to-work-together-in-uruguay
   headline: Pope Leo XIV urges church, community and state to work together in Uruguay
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6751
+  strength: 0.6743
+- slug: 2026-10-27-pope-leo-xiv-rejects-religious-justifications-for-war-at-assisi-gathering
+  headline: Pope Leo XIV rejects religious justifications for war at Assisi gathering
+  publish_date: '2026-10-27'
+  relation: related
+  strength: 0.6675
 - slug: 2026-10-23-pope-leo-xiv-skips-assisi-peace-gathering-after-lung-cancer-surgery
   headline: Pope Leo XIV skips Assisi peace gathering after lung cancer surgery
   publish_date: '2026-10-23'
@@ -180,74 +196,8 @@ related_stories:
   headline: Pope Leo highlights abuses of “vulnerable” adults, meets Opus Dei critic
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.7925
-- slug: 2026-01-30-pope-leo-xiv-urges-vatican-doctrine-office-to-uphold-truth-and-justice-in-abuse-
-  headline: Pope Leo XIV urges Vatican doctrine office to uphold truth and justice in abuse cases
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7748
-- slug: 2026-01-08-pope-leo-xiv-plans-spain-trip-with-stops-in-madrid-barcelona-canary-islands
-  headline: Pope Leo XIV plans Spain trip with stops in Madrid, Barcelona, Canary Islands
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7224
-- slug: 2026-05-10-vatican-signals-openness-to-lgbtq-catholics-while-limiting-same-sex-blessings
-  headline: Vatican signals openness to LGBTQ Catholics while limiting same-sex blessings
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6923
-- slug: 2026-04-22-diaspora-members-fear-pope-s-visit-could-bolster-equatorial-guinea-leader
-  headline: Diaspora members fear Pope’s visit could bolster Equatorial Guinea leader
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6945
-- slug: 2026-06-08-pope-leo-xiv-calls-for-moral-renewal-in-historic-spanish-parliament-address
-  headline: Pope Leo XIV calls for moral renewal in historic Spanish parliament address
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6692
-- slug: 2026-04-10-pope-leo-xiv-finishes-africa-trip-urging-peace-and-tackling-corruption
-  headline: Pope Leo XIV finishes Africa trip, urging peace and tackling corruption
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6898
-- slug: 2026-05-10-pope-leo-signals-openness-but-limits-on-lgbtq-ministry-vatican-report-features-g
-  headline: Pope Leo signals openness but limits on LGBTQ+ ministry, Vatican report features gay testimony
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6814
-- slug: 2026-04-23-pope-leo-xiv-tells-inmates-in-equatorial-guinea-you-are-not-alone
-  headline: Pope Leo XIV tells inmates in Equatorial Guinea “you are not alone”
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6863
-- slug: 2026-05-25-pope-leo-xiv-apologizes-for-vatican-s-role-in-legitimizing-slavery
-  headline: Pope Leo XIV apologizes for Vatican’s role in legitimizing slavery
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.674
-- slug: 2026-04-21-pope-leo-xiv-tells-equatorial-guinea-inmates-you-are-not-alone-on-prison-visit
-  headline: Pope Leo XIV tells Equatorial Guinea inmates “You are not alone” on prison visit
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.685
-- slug: 2026-01-15-pope-consoles-italian-families-after-swiss-alps-bar-fire-kills-teens
-  headline: Pope consoles Italian families after Swiss Alps bar fire kills teens
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6914
-- slug: 2026-04-22-pope-tells-equatorial-guinea-prison-inmates-you-are-not-alone-on-africa-tour
-  headline: Pope tells Equatorial Guinea prison inmates ‘you are not alone’ on Africa tour
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6793
-- slug: 2026-04-26-pope-leo-xiv-urges-u-s-and-iran-to-return-to-peace-talks
-  headline: Pope Leo XIV urges U.S. and Iran to return to peace talks
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6751
+  strength: 0.7924
 ---
-
 ## Five survivors meet Leo XIV at the Catholic University of Argentina
 
 **Subtype:** fact

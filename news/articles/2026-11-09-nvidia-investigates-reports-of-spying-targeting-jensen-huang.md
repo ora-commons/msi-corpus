@@ -55,12 +55,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Guardian
+  - The Wall Street Journal
   outlet_classes:
   - national_daily
-  highest_reliability_tier: 2
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures_aggregate:
@@ -227,3 +228,10 @@ The Guardian’s rolling business coverage also listed German trade data for 7am
 **Publication date:** 2026-11-09
 **Title:** Nvidia ‘honeytrap’ scandal rocks AI industry as tech stocks recover from slump – business live
 **URL:** https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates
+
+### src_late_81710eff751c61ef — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Robbie Whelan
+**Publication date:** 2026-11-09
+**Title:** A Timeline of Nvidia CEO Jensen Huang’s Suspected Spy Drama
+**URL:** https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3
+**Added after publication:** true
