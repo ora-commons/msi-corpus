@@ -1,7 +1,8 @@
 ---
 headline: Republicans Rob Families With Tariffs and Benefit Cuts; the Fed Taxes Homebuyers
 publish_date: '2026-11-09'
-lede: Trump and Senate Republicans are robbing working families through tariffs and benefit cuts.
+lede: Trump and Senate Republicans are robbing working families through tariffs and
+  benefit cuts.
 pen_name: prudence-wonk
 primary_entities:
 - The Wall Street Journal
@@ -45,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -66,7 +68,28 @@ cross_article_links:
   strength: 0.5332
   confidence: high
 draft: false
+image:
+  url: /cartoons/republicans-rob-families-with-tariffs-and-benefit-cuts-the.png
+  alt: 'Editorial cartoon by Hector Rentier: Republicans Rob Families With Tariffs
+    and Benefit Cuts; the Fed Taxes Homebuyers'
+  caption: The schedule and the cut were the policy. The kitchen got the bill.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-09T22:15:48-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Wood-engraving single panel, 1:1, heavy cross-hatch, black masses against
+    carved-out white, one restrained sepia accent only. Upper register, behind a broad
+    official desk: Donald Trump, individuated a'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-09-hector-paired-with-2026-11-09-prudence-wonk-litics-elections-democrats-election-infl
 ---
+
+![Editorial cartoon by Hector Rentier: Republicans Rob Families With Tariffs and Benefit Cuts; the Fed Taxes Homebuyers](/cartoons/republicans-rob-families-with-tariffs-and-benefit-cuts-the.png)
+*The schedule and the cut were the policy. The kitchen got the bill.*
 
 Trump and Senate Republicans are robbing working families through tariffs and benefit cuts.
 
