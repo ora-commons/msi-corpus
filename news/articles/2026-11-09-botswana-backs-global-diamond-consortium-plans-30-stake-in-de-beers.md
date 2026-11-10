@@ -2,8 +2,18 @@
 headline: Botswana backs Global Diamond Consortium, plans 30% stake in De Beers
 secondary_headline: Anglo American's 85% holding has been up for sale since 2024
 publish_date: '2026-11-09'
-lede: Botswana's president said Monday that the country will double its stake in De Beers to 30% under a proposed deal in which a consortium of investors would buy Anglo American's shares in the world's leading diamond company. President Duma Boko told Parliament that Botswana had endorsed the Global Diamond Consortium as the proposed buyer, which would make Botswana the largest single shareholder in De Beers. The purchase has not been finalized.
-nut_graf: President Duma Boko said Namibia and Angola would also be involved in the De Beers deal, though he gave no details; he said the region's diamond-producing nations would sit together at the company's ownership table. Botswana, whose diamond-dependent economy contracted last year after a big dip in sales, is looking to double down on the stones. Analysts attributed the natural-diamond downturn largely to competition from artificial lab-grown stones and a decline in luxury spending in China.
+lede: Botswana's president said Monday that the country will double its stake in De
+  Beers to 30% under a proposed deal in which a consortium of investors would buy
+  Anglo American's shares in the world's leading diamond company. President Duma Boko
+  told Parliament that Botswana had endorsed the Global Diamond Consortium as the
+  proposed buyer, which would make Botswana the largest single shareholder in De Beers.
+  The purchase has not been finalized.
+nut_graf: President Duma Boko said Namibia and Angola would also be involved in the
+  De Beers deal, though he gave no details; he said the region's diamond-producing
+  nations would sit together at the company's ownership table. Botswana, whose diamond-dependent
+  economy contracted last year after a big dip in sales, is looking to double down
+  on the stones. Analysts attributed the natural-diamond downturn largely to competition
+  from artificial lab-grown stones and a decline in luxury spending in China.
 primary_entities:
 - Botswana
 - De Beers
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +151,8 @@ cross_article_links:
   strength: 0.5464
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-26-citi-receives-chinese-approval-for-wholly-owned-securities-company
-  headline: Citi receives Chinese approval for wholly owned securities company
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5704
-- slug: 2026-10-21-regulators-require-two-asset-sales-for-the-akzo-nobel-axalta-merger
-  headline: Regulators require two asset sales for the Akzo Nobel-Axalta merger
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5768
-- slug: 2026-10-09-eu-regulators-question-mmg-anglo-american-deal-over-china-supply-concerns
-  headline: EU regulators question MMG–Anglo American deal over China supply concerns
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5871
-- slug: 2026-10-08-usmca-annual-review-reshapes-latin-america-s-nearshoring-outlook
-  headline: USMCA annual review reshapes Latin America's nearshoring outlook
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5719
-- slug: 2026-09-24-global-biofuel-demand-would-require-montana-sized-land-chatham-house-says
-  headline: Global biofuel demand would require Montana-sized land, Chatham House says
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5739
-- slug: 2026-09-22-trump-seeks-massive-belarus-potash-deal-to-reduce-us-reliance-on-canada
-  headline: Trump seeks massive Belarus potash deal to reduce US reliance on Canada
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5711
-- slug: 2026-09-17-china-accelerates-u-s-soybean-purchases-ahead-of-trump-xi-meeting
-  headline: China accelerates U.S. soybean purchases ahead of Trump-Xi meeting
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5808
-- slug: 2026-09-08-citi-sees-30-bp-upside-on-exploration-backs-santos-papua-stake
-  headline: Citi sees 30% BP upside on exploration, backs Santos Papua stake
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6051
-- slug: 2026-09-08-sapporo-cites-50-tariff-on-canadian-beer-in-production-shift-to-us
-  headline: Sapporo cites 50% tariff on Canadian beer in production shift to US
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5734
-- slug: 2026-08-27-boliden-agrees-to-buy-votorantim-s-65-nexa-stake-in-all-share-deal
-  headline: Boliden agrees to buy Votorantim's 65% Nexa stake in all-share deal
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5921
-- slug: 2026-08-18-canadian-provinces-u-s-alcohol-bans-stall-bilateral-trade-talks
-  headline: Canadian provinces' U.S. alcohol bans stall bilateral trade talks
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5692
-- slug: 2026-05-10-former-botswana-president-festus-mogae-dies-at-86
-  headline: Former Botswana President Festus Mogae dies at 86
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5972
-- slug: 2026-06-09-western-companies-invest-in-brazil-rare-earths-to-challenge-china-s-dominance
-  headline: Western companies invest in Brazil rare earths to challenge China's dominance
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5833
-- slug: 2026-02-11-opposition-in-congo-questions-us-push-for-access-to-critical-minerals
-  headline: Opposition in Congo questions US push for access to critical minerals
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.604
-- slug: 2026-06-13-mcdonald-s-pushes-for-new-drinks-straining-70-year-coke-partnership
-  headline: McDonald's pushes for new drinks, straining 70-year Coke partnership
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.571
-- slug: 2026-03-05-venezuela-pledges-security-for-foreign-mining-investors-burgum-says
-  headline: Venezuela pledges security for foreign mining investors, Burgum says
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.594
-- slug: 2026-05-31-trump-administration-ties-african-health-aid-to-mineral-access-and-data-demands
-  headline: Trump Administration Ties African Health Aid to Mineral Access and Data Demands
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5717
-- slug: 2026-03-05-demand-for-critical-minerals-to-triple-by-2030-un-chief-tells-security-council
-  headline: Demand for critical minerals to triple by 2030, UN chief tells Security Council
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.592
-- slug: 2026-05-10-festus-mogae-botswana-s-former-president-who-made-hiv-aids-a-national-priority-d
-  headline: Festus Mogae, Botswana's former president who made HIV/AIDS a national priority, dies at 86
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5703
-- slug: 2026-05-17-trump-donor-ceo-seeks-quartz-tariffs-rivals-warn-of-job-losses
-  headline: Trump donor CEO seeks quartz tariffs, rivals warn of job losses
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5677
+related_stories: []
 ---
-
 ## Botswana backs Global Diamond Consortium, plans 30% stake in De Beers
 
 **Subtype:** fact

@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-06-01'
   relation: related
   strength: 0.709
+analyses:
+- '2026-11-09-palantir-s-gp-data-lobbying-puts-ministerial-sponsorship-at-the-center-of-nhs-sc'
 ---
 ## Palantir lobbied a UK health minister to add GP data to NHS platform
 
@@ -238,3 +240,8 @@ When Rishi Sunak's Conservative government announced the deal three years ago, i
 **Publication date:** 2026-11-09
 **Title:** Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records
 **URL:** https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records
+
+---
+
+<!-- analysis-link:2026-11-09-palantir-s-gp-data-lobbying-puts-ministerial-sponsorship-at-the-center-of-nhs-sc -->
+**Going deeper:** [Read MSI's analysis of Palantir's NHS scope decision →](/analyses/2026-11-09-palantir-s-gp-data-lobbying-puts-ministerial-sponsorship-at-the-center-of-nhs-sc)
