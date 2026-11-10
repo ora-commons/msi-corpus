@@ -1,9 +1,19 @@
 ---
-headline: Ahmed Moor challenges Fetterman for Pennsylvania's 2028 Democratic Senate nomination
+headline: Ahmed Moor challenges Fetterman for Pennsylvania's 2028 Democratic Senate
+  nomination
 secondary_headline: Democrats won at least 54 Senate seats in the midterms
 publish_date: '2026-11-09'
-lede: Democratic Sen. John Fetterman faces a challenge in the 2028 Democratic primary for Pennsylvania's U.S. Senate seat from Ahmed Moor, a 42-year-old Palestinian American democratic socialist. Moor, a writer and journalist born in the southern Gaza city of Rafah, previously wrote for The Guardian. His decision, reported Nov. 9, 2026, came after Democrats won back control of the Senate in last week's midterms.
-nut_graf: 'The Guardian characterized Moor’s move as “the first sign of Fetterman’s weakened position in the party” following last week’s U.S. midterm elections. The candidacy also places two positions on Israel policy in direct contrast: Moor supports withdrawing U.S. aid and imposing sanctions aimed at securing equal rights for Palestinians, while Fetterman has said an officially anti-Israel Democratic Party would cross his “red line.”'
+lede: Democratic Sen. John Fetterman faces a challenge in the 2028 Democratic primary
+  for Pennsylvania's U.S. Senate seat from Ahmed Moor, a 42-year-old Palestinian American
+  democratic socialist. Moor, a writer and journalist born in the southern Gaza city
+  of Rafah, previously wrote for The Guardian. His decision, reported Nov. 9, 2026,
+  came after Democrats won back control of the Senate in last week's midterms.
+nut_graf: 'The Guardian characterized Moor’s move as “the first sign of Fetterman’s
+  weakened position in the party” following last week’s U.S. midterm elections. The
+  candidacy also places two positions on Israel policy in direct contrast: Moor supports
+  withdrawing U.S. aid and imposing sanctions aimed at securing equal rights for Palestinians,
+  while Fetterman has said an officially anti-Israel Democratic Party would cross
+  his “red line.”'
 primary_entities:
 - John Fetterman
 - Ahmed Moor
@@ -38,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,117 +147,60 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-07-democratic-sweep-may-raise-urgency-of-unseating-netanyahu-for-israeli-opposition
-  headline: Democratic sweep may raise urgency of unseating Netanyahu for Israeli opposition
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6394
-- slug: 2026-11-06-el-sayed-s-senate-win-intensifies-democratic-debate-over-israel-support
-  headline: El-Sayed's Senate win intensifies Democratic debate over Israel support
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6401
 - slug: 2026-11-04-abdul-el-sayed-and-melat-kiros-secure-firsts-in-us-midterms
   headline: Abdul El-Sayed and Melat Kiros secure firsts in US midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6531
-- slug: 2026-11-04-pro-palestinian-candidates-prevail-across-2026-midterms-despite-aipac-spending
-  headline: Pro-Palestinian candidates prevail across 2026 midterms despite Aipac spending
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6379
+  strength: 0.653
 - slug: 2026-10-11-trump-urges-fetterman-to-become-a-republican
   headline: Trump urges Fetterman to become a Republican
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.69
+  strength: 0.6904
 - slug: 2026-09-20-fetterman-draws-democratic-criticism-after-gop-convention-appearance
   headline: Fetterman draws Democratic criticism after GOP convention appearance
   publish_date: '2026-09-20'
   relation: related
   strength: 0.723
-- slug: 2026-10-12-partisan-clash-erupts-over-omar-home-search-ahead-of-midterms
-  headline: Partisan clash erupts over Omar home search ahead of midterms
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6297
 - slug: 2026-09-09-fetterman-absent-from-campaign-trail-as-he-breaks-with-democrats
   headline: Fetterman absent from campaign trail as he breaks with Democrats
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.7264
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.629
+  strength: 0.7261
 - slug: 2026-09-04-fetterman-cancels-meetings-skips-hearings-report-finds
   headline: Fetterman cancels meetings, skips hearings, report finds
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.7254
+  strength: 0.7248
 - slug: 2026-09-21-book-excerpt-details-democrats-gaza-policy-convention-rift
   headline: Book excerpt details Democrats' Gaza policy, convention rift
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6642
+  strength: 0.6648
 - slug: 2026-09-10-fetterman-s-gop-convention-video-raises-democratic-loyalty-questions
   headline: Fetterman's GOP convention video raises Democratic loyalty questions
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.694
+  strength: 0.6935
 - slug: 2026-09-10-fetterman-addresses-gop-convention-by-video-backs-mccormick-on-steel
   headline: Fetterman addresses GOP convention by video, backs McCormick on steel
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.674
-- slug: 2026-09-10-fetterman-s-video-at-gop-convention-draws-democratic-criticism
-  headline: Fetterman's video at GOP convention draws Democratic criticism
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6635
-- slug: 2026-07-16-fetterman-ties-democratic-party-membership-to-israel-support
-  headline: Fetterman ties Democratic Party membership to Israel support
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7088
-- slug: 2026-07-20-solomon-urges-democrats-to-reject-leaders-israel-stance
-  headline: Solomon urges Democrats to reject leaders' Israel stance
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6942
-- slug: 2026-08-13-hasan-piker-draws-democratic-divisions-as-his-backed-candidates-win-primaries
-  headline: Hasan Piker draws Democratic divisions as his-backed candidates win primaries
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6371
-- slug: 2026-07-10-fetterman-and-mccormick-form-joint-fundraising-committee
-  headline: Fetterman and McCormick form joint fundraising committee
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6703
-- slug: 2026-07-28-el-sayed-says-ogre-on-a-pike-comment-referred-to-fetterman
-  headline: El-Sayed says 'ogre on a pike' comment referred to Fetterman
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6369
-- slug: 2026-07-20-fetterman-urges-trump-to-focus-on-iran-war-not-2020-loss
-  headline: Fetterman urges Trump to focus on Iran war, not 2020 loss
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6422
+  strength: 0.6736
 image:
   url: /articles/2026-11-09-ahmed-moor-challenges-fetterman-for-pennsylvania-s-2028-democratic-senate-nomina.png
-  alt: "Illustration accompanying article: Ahmed Moor challenges Fetterman for Pennsylvania's 2028 Democratic Senate nomination"
+  alt: 'Illustration accompanying article: Ahmed Moor challenges Fetterman for Pennsylvania''s
+    2028 Democratic Senate nomination'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Ahmed Moor challenges Fetterman for Pennsylvania's 2028 Democratic Senate nomination
 
 **Subtype:** fact
