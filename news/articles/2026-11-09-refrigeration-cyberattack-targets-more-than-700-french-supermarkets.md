@@ -2,8 +2,17 @@
 headline: Refrigeration cyberattack targets more than 700 French supermarkets
 secondary_headline: France and U.S. suspect Iran; France plans to propose new EU sanctions
 publish_date: '2026-11-09'
-lede: France and the U.S. suspect Iran was behind a cyberattack on European supermarket refrigerators and freezers that remotely raised temperatures at over 700 supermarkets in France, causing tens of millions of dollars in damage to spoiled food and equipment. Speaking Monday at a G-7 meeting in Paris, French Foreign Minister Jean-Noël Barrot said Iran would face retribution for the hack.
-nut_graf: The cyberattack allegation came as the Trump administration was deciding whether to restart airstrikes on Iran or push for a negotiated deal to end the war. Iran had warned that it would expand its retaliations beyond the Middle East if the U.S. resumed its attacks. Barrot said his government summoned the Iranian ambassador, and French authorities said France plans to propose new European Union sanctions against the Iranian entities and individuals involved.
+lede: France and the U.S. suspect Iran was behind a cyberattack on European supermarket
+  refrigerators and freezers that remotely raised temperatures at over 700 supermarkets
+  in France, causing tens of millions of dollars in damage to spoiled food and equipment.
+  Speaking Monday at a G-7 meeting in Paris, French Foreign Minister Jean-Noël Barrot
+  said Iran would face retribution for the hack.
+nut_graf: The cyberattack allegation came as the Trump administration was deciding
+  whether to restart airstrikes on Iran or push for a negotiated deal to end the war.
+  Iran had warned that it would expand its retaliations beyond the Middle East if
+  the U.S. resumed its attacks. Barrot said his government summoned the Iranian ambassador,
+  and French authorities said France plans to propose new European Union sanctions
+  against the Iranian entities and individuals involved.
 primary_entities:
 - France
 - U.S.
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +155,39 @@ related_stories:
   headline: French blood service says hackers raise temperatures at three cold stores
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.709
+  strength: 0.7076
 - slug: 2026-11-03-hackers-disrupt-refrigeration-systems-at-military-bases-and-stores-worldwide
   headline: Hackers disrupt refrigeration systems at military bases and stores worldwide
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7091
+  strength: 0.7089
 - slug: 2026-11-06-health-isac-warns-hospitals-after-hackers-target-refrigeration-controls
   headline: Health ISAC warns hospitals after hackers target refrigeration controls
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6714
+  strength: 0.6707
 - slug: 2026-11-06-hoax-bomb-threats-disrupt-at-least-25-european-flights-as-fridge-hacks-hit-seven
-  headline: Hoax bomb threats disrupt at least 25 European flights as fridge hacks hit seven countries
+  headline: Hoax bomb threats disrupt at least 25 European flights as fridge hacks
+    hit seven countries
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.664
+  strength: 0.663
 - slug: 2026-11-03-anssi-identifies-compromised-controllers-in-european-supermarket-cyberattacks
   headline: ANSSI identifies compromised controllers in European supermarket cyberattacks
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6762
-- slug: 2026-10-28-allies-told-to-brace-for-iranian-retaliation-after-u-s-midterms
-  headline: Allies told to brace for Iranian retaliation after U.S. midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6361
-- slug: 2026-10-26-france-expands-nuclear-deterrence-role-with-10-european-allies
-  headline: France expands nuclear deterrence role with 10 European allies
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6276
-- slug: 2026-10-23-iran-threatens-gulf-targets-as-u-s-weighs-renewed-strikes
-  headline: Iran threatens Gulf targets as U.S. weighs renewed strikes
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6312
-- slug: 2026-10-11-western-officials-weigh-public-warning-that-iran-eyes-us-targets-in-europe
-  headline: Western officials weigh public warning that Iran eyes US targets in Europe
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6457
-- slug: 2026-10-12-britain-sanctions-two-accused-of-spying-for-iran-reprimands-ambassador
-  headline: Britain sanctions two accused of spying for Iran, reprimands ambassador
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6262
-- slug: 2026-09-16-us-investigates-cyberattacks-on-energy-tankers-in-strait-of-gibraltar
-  headline: US investigates cyberattacks on energy tankers in Strait of Gibraltar
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.626
-- slug: 2026-09-03-trump-s-iran-sanctions-compared-to-cuba-north-korea-venezuela-syria
-  headline: Trump's Iran sanctions compared to Cuba, North Korea, Venezuela, Syria
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6373
-- slug: 2026-08-23-cyberattack-shuts-down-a-small-uk-generator-for-four-days
-  headline: Cyberattack shuts down a small UK generator for four days
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6268
+  strength: 0.6757
 - slug: 2026-06-15-europe-treads-carefully-with-trump-at-g-7-after-iran-war-strains-alliance
   headline: Europe treads carefully with Trump at G-7 after Iran war strains alliance
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.6563
+  strength: 0.6558
 - slug: 2026-06-14-iran-war-expected-to-dominate-trump-s-g7-meeting-with-allies
   headline: Iran war expected to dominate Trump's G7 meeting with allies
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.6534
-- slug: 2026-06-26-trump-threatens-100-tariff-on-european-nations-over-digital-services-tax
-  headline: Trump threatens 100% tariff on European nations over digital services tax
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6239
-- slug: 2026-06-17-iran-seeks-tens-of-billions-in-frozen-assets-as-negotiations-resume
-  headline: Iran seeks tens of billions in frozen assets as negotiations resume
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6241
-- slug: 2026-05-25-trump-says-u-s-and-iran-near-peace-deal-pope-leo-weighs-ai-in-encyclical
-  headline: Trump says U.S. and Iran near peace deal; Pope Leo weighs AI in encyclical
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6342
-- slug: 2026-03-28-rubio-urges-allies-to-reopen-strait-of-hormuz-after-g7-talks-in-france
-  headline: Rubio urges allies to reopen Strait of Hormuz after G7 talks in France
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6488
-- slug: 2026-05-27-iran-calls-u-s-strikes-bad-faith-as-ceasefire-talks-proceed
-  headline: Iran calls U.S. strikes 'bad faith' as ceasefire talks proceed
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6292
+  strength: 0.6531
 ---
-
 ## Refrigeration cyberattack targets more than 700 French supermarkets
 
 **Subtype:** fact

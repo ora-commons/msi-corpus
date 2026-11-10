@@ -216,6 +216,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-09-hegseth-briefing-puts-iran-war-accountability-on-a-narrower-test'
 ---
 ## Pete Hegseth will brief reporters on expected Iran war impeachment resolution
 
@@ -251,3 +253,8 @@ Hegseth said the press conference would address the expected impeachment resolut
 **Publication date:** 2026-11-09
 **Title:** Hegseth announces press conference to discuss impeachment resolution
 **URL:** https://apnews.com/article/hegseth-pentagon-briefing-congress-impeachment-f5303cfb626ae2ef7a4a3f660f5519df
+
+---
+
+<!-- analysis-link:2026-11-09-hegseth-briefing-puts-iran-war-accountability-on-a-narrower-test -->
+**Going deeper:** [Read MSI's analysis of Iran war accountability and congressional procedure →](/analyses/2026-11-09-hegseth-briefing-puts-iran-war-accountability-on-a-narrower-test)
