@@ -2,8 +2,17 @@
 headline: Election results give Democrats power over Federal Reserve appointments
 secondary_headline: Trump's Kevin Warsh choice leaves Trump one seat short of a majority
 publish_date: '2026-11-09'
-lede: Tuesday's election results gave Democrats the power to block any allies President Trump might seek to install on the Federal Reserve's board, Nick Timiraos reported in The Wall Street Journal. Trump's choice for chairman was Kevin Warsh, but Trump was one seat short of a majority, Timiraos wrote. The report also identified a retiring Republican senator's blockade of Federal Reserve nominees, Jerome Powell's decision to remain on the board after leaving the chair and court rulings keeping Lisa Cook in her seat for now.
-nut_graf: Timiraos said a Democratic Senate would cover every nomination to the Federal Reserve's seven-member board of governors for the rest of Trump's term. The same newsletter listed scheduled company earnings, October economic releases and a Thursday fixed-income market closure for Veterans Day.
+lede: Tuesday's election results gave Democrats the power to block any allies President
+  Trump might seek to install on the Federal Reserve's board, Nick Timiraos reported
+  in The Wall Street Journal. Trump's choice for chairman was Kevin Warsh, but Trump
+  was one seat short of a majority, Timiraos wrote. The report also identified a retiring
+  Republican senator's blockade of Federal Reserve nominees, Jerome Powell's decision
+  to remain on the board after leaving the chair and court rulings keeping Lisa Cook
+  in her seat for now.
+nut_graf: Timiraos said a Democratic Senate would cover every nomination to the Federal
+  Reserve's seven-member board of governors for the rest of Trump's term. The same
+  newsletter listed scheduled company earnings, October economic releases and a Thursday
+  fixed-income market closure for Veterans Day.
 primary_entities:
 - The Wall Street Journal
 - Nick Timiraos
@@ -51,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +163,43 @@ related_stories:
   headline: Four Senate Democrats ask Warsh to confirm or correct Trump call record
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7008
+  strength: 0.7017
 - slug: 2026-05-02-trump-pick-kevin-warsh-faces-a-fed-reshaped-by-powell-s-stay
   headline: Trump pick Kevin Warsh faces a Fed reshaped by Powell’s stay
   publish_date: '2026-05-02'
   relation: related
-  strength: 0.745
+  strength: 0.7458
 - slug: 2026-01-29-trump-nominates-kevin-warsh-to-chair-the-federal-reserve-to-replace-powell
   headline: Trump nominates Kevin Warsh to chair the Federal Reserve, to replace Powell
   publish_date: '2026-01-29'
   relation: related
-  strength: 0.7448
+  strength: 0.7461
 - slug: 2026-04-30-senate-banking-advances-kevin-warsh-to-lead-fed-on-13-11-party-line-vote
   headline: Senate Banking advances Kevin Warsh to lead Fed, on 13-11 party-line vote
   publish_date: '2026-04-30'
   relation: related
-  strength: 0.7292
+  strength: 0.7302
 - slug: 2026-04-29-fed-transition-powell-signals-next-steps-as-warsh-confirmation-looms
   headline: 'Fed transition: Powell signals next steps as Warsh confirmation looms'
   publish_date: '2026-04-29'
   relation: related
-  strength: 0.7279
+  strength: 0.7294
 - slug: 2026-05-14-senate-confirms-kevin-warsh-as-federal-reserve-chairman
   headline: Senate confirms Kevin Warsh as Federal Reserve chairman
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7215
+  strength: 0.7225
 - slug: 2026-05-14-senate-confirms-kevin-warsh-as-next-fed-chair-after-probe-clears
   headline: Senate confirms Kevin Warsh as next Fed chair after probe clears
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7197
+  strength: 0.7207
 - slug: 2026-05-14-senate-confirms-kevin-warsh-as-federal-reserve-chair-replacing-powell
   headline: Senate Confirms Kevin Warsh as Federal Reserve Chair, Replacing Powell
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7178
-- slug: 2026-04-30-powell-to-remain-on-fed-board-after-chair-term-ends-blocking-trump-pick
-  headline: Powell to remain on Fed board after chair term ends, blocking Trump pick
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7166
-- slug: 2026-03-04-trump-formally-nominates-warsh-as-fed-chair-gop-senator-vows-to-block-confirmati
-  headline: Trump formally nominates Warsh as Fed chair; GOP senator vows to block confirmation
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7269
-- slug: 2026-02-01-trump-nominates-kevin-warsh-to-chair-the-federal-reserve-replacing-powell
-  headline: Trump nominates Kevin Warsh to chair the Federal Reserve, replacing Powell
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.727
-- slug: 2026-05-14-senate-confirms-kevin-warsh-to-lead-federal-reserve-replacing-powell
-  headline: Senate Confirms Kevin Warsh to Lead Federal Reserve, Replacing Powell
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7057
-- slug: 2026-03-20-powell-says-he-will-remain-federal-reserve-chair-if-warsh-isn-t-confirmed
-  headline: Powell says he will remain Federal Reserve chair if Warsh isn’t confirmed
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7158
-- slug: 2026-04-26-warsh-edges-closer-to-becoming-fed-chair-but-rate-cut-may-still-wait
-  headline: Warsh edges closer to becoming Fed chair but rate cut may still wait
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7077
-- slug: 2026-01-16-powell-board-tenure-after-may-raises-stakes-for-fed-independence-fight
-  headline: Powell board tenure after May raises stakes for Fed independence fight
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.7183
-- slug: 2026-01-29-warsh-s-challenge-winning-fed-independence-amid-trump-rate-pressure
-  headline: 'Warsh’s challenge: winning Fed independence amid Trump rate pressure'
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7138
-- slug: 2026-05-23-trump-swears-in-kevin-warsh-as-fed-chair-at-white-house-ceremony
-  headline: Trump swears in Kevin Warsh as Fed chair at White House ceremony
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6916
-- slug: 2026-05-21-trump-swears-in-kevin-warsh-as-fed-chair-in-white-house-ceremony-calls-for-econo
-  headline: Trump swears in Kevin Warsh as Fed chair in White House ceremony, calls for economic stimulus
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6864
-- slug: 2026-01-29-trump-says-he-will-announce-fed-chair-nominee-friday-morning
-  headline: Trump says he will announce Fed chair nominee Friday morning
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7043
-- slug: 2026-04-26-tillis-drops-block-on-warsh-as-doj-probe-of-powell-ends
-  headline: Tillis drops block on Warsh as DOJ probe of Powell ends
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6881
+  strength: 0.7189
 ---
-
 ## Election results give Democrats power over Federal Reserve appointments
 
 **Subtype:** fact
