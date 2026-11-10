@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7297
+analyses:
+- '2026-11-09-democrats-test-oversight-leverage-against-trump-s-education-policies'
 ---
 ## Democrats prepare oversight of Trump's education policies
 
@@ -250,3 +252,8 @@ AP's Hollingsworth reported from Mission, Kansas. The Associated Press said its 
 **Publication date:** 2026-11-09
 **Title:** How Democrats will try to use new power to rein in Trump on education
 **URL:** https://apnews.com/article/election-congress-trump-education-department-student-loans-59e49c57cec656031ea3caaa4050cb91
+
+---
+
+<!-- analysis-link:2026-11-09-democrats-test-oversight-leverage-against-trump-s-education-policies -->
+**Going deeper:** [Read MSI's analysis of post-midterm education-policy oversight leverage →](/analyses/2026-11-09-democrats-test-oversight-leverage-against-trump-s-education-policies)
