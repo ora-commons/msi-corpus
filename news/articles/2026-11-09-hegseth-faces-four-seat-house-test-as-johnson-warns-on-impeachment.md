@@ -2,8 +2,26 @@
 headline: Hegseth faces four-seat House test as Johnson warns on impeachment
 secondary_headline: Massie alleges unlawful boat strikes and kidnapping of Maduro
 publish_date: '2026-11-09'
-lede: House Speaker Mike Johnson said Monday that impeaching Defense Secretary Pete Hegseth during hostilities would be a “terrible, terrible look” and said the effort reflected “political gain or for cheap tricks.” With Republicans holding a four-seat House margin, retiring Rep. Don Bacon said he was “weighing it” and that Hegseth’s resignation would be better, while some White House aides blamed Hegseth for the Iran war and the midterm loss despite Trump’s public and private backing. Rep. Thomas Massie’s articles remain the vehicle for the fight; he alleged unlawful force in suspected drug-boat strikes and the capture and kidnapping of Nicolás Maduro, and Hegseth scheduled a Pentagon press conference for Tuesday after announcing new initiatives for the military war colleges at the Naval War College.
-nut_graf: The congressional split is the effort’s immediate political test. GOP control of the House and Senate would typically insulate a cabinet official from impeachment, but the House margin is four seats, Johnson is warning against impeachment and Bacon is weighing support. House Minority Leader Hakeem Jeffries and Rep. Adam Smith have said they will vote yes. Pentagon spokesman Sean Parnell said the Department of War had followed the law and that Hegseth would stay through the end of Trump’s term. The Wall Street Journal linked the historic midterm defeat to voter frustration over what it called the unpopular Iran war, saying it helped doom Republicans days before Massie’s effort; Republican leadership could still try to avoid a floor vote in the coming two days.
+lede: House Speaker Mike Johnson said Monday that impeaching Defense Secretary Pete
+  Hegseth during hostilities would be a “terrible, terrible look” and said the effort
+  reflected “political gain or for cheap tricks.” With Republicans holding a four-seat
+  House margin, retiring Rep. Don Bacon said he was “weighing it” and that Hegseth’s
+  resignation would be better, while some White House aides blamed Hegseth for the
+  Iran war and the midterm loss despite Trump’s public and private backing. Rep. Thomas
+  Massie’s articles remain the vehicle for the fight; he alleged unlawful force in
+  suspected drug-boat strikes and the capture and kidnapping of Nicolás Maduro, and
+  Hegseth scheduled a Pentagon press conference for Tuesday after announcing new initiatives
+  for the military war colleges at the Naval War College.
+nut_graf: The congressional split is the effort’s immediate political test. GOP control
+  of the House and Senate would typically insulate a cabinet official from impeachment,
+  but the House margin is four seats, Johnson is warning against impeachment and Bacon
+  is weighing support. House Minority Leader Hakeem Jeffries and Rep. Adam Smith have
+  said they will vote yes. Pentagon spokesman Sean Parnell said the Department of
+  War had followed the law and that Hegseth would stay through the end of Trump’s
+  term. The Wall Street Journal linked the historic midterm defeat to voter frustration
+  over what it called the unpopular Iran war, saying it helped doom Republicans days
+  before Massie’s effort; Republican leadership could still try to avoid a floor vote
+  in the coming two days.
 primary_entities:
 - Pete Hegseth
 - Thomas Massie
@@ -47,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,22 +168,23 @@ related_stories:
   headline: Massie alleges Hegseth violated the Constitution and ignored war powers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8381
+  strength: 0.8372
 - slug: 2026-11-07-hegseth-s-team-prepares-response-to-possible-house-impeachment-vote
   headline: Hegseth's team prepares response to possible House impeachment vote
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8459
+  strength: 0.8458
 - slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
   headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8515
+  strength: 0.8509
 - slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
+  headline: Republican close says Pete Hegseth should take responsibility for Iran
+    war
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8184
+  strength: 0.8181
 - slug: 2026-11-09-massie-introduces-eight-articles-of-impeachment-against-hegseth
   headline: Massie introduces eight articles of impeachment against Hegseth
   publish_date: '2026-11-09'
@@ -174,79 +194,18 @@ related_stories:
   headline: Hegseth vows to stay as Democrats and some Republicans seek his removal
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8155
+  strength: 0.8164
 - slug: 2026-11-09-pete-hegseth-will-brief-reporters-on-expected-iran-war-impeachment-resolution
   headline: Pete Hegseth will brief reporters on expected Iran war impeachment resolution
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7925
+  strength: 0.7919
 - slug: 2026-11-08-jeffries-backs-impeaching-hegseth-as-democrats-prepare-to-take-house-control
   headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
   publish_date: '2026-11-08'
   relation: related
   strength: 0.7957
-- slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7916
-- slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
-  headline: House could vote to impeach Hegseth when lawmakers return to Washington
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7953
-- slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
-  headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7539
-- slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
-  headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8263
-- slug: 2026-11-04-jd-vance-blames-iran-war-for-republican-midterm-losses
-  headline: JD Vance blames Iran war for Republican midterm losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7304
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8335
-- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
-  headline: Massie files articles of impeachment against Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8045
-- slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
-  headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7886
-- slug: 2026-09-16-johnson-cancels-house-votes-avoiding-hegseth-impeachment-resolution
-  headline: Johnson cancels House votes, avoiding Hegseth impeachment resolution
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7275
-- slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7252
-- slug: 2026-08-13-gop-senators-criticize-hegseth-for-excluding-democrats-from-defense-briefings
-  headline: GOP senators criticize Hegseth for excluding Democrats from defense briefings
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7339
-- slug: 2026-05-19-hegseth-targets-massie-in-kentucky-primary-calling-trump-critic-desperate
-  headline: Hegseth targets Massie in Kentucky primary, calling Trump critic ‘desperate’
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7745
 ---
-
 ## Hegseth faces four-seat House test as Johnson warns on impeachment
 
 **Subtype:** fact
