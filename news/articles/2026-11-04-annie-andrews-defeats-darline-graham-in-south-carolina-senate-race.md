@@ -33,7 +33,8 @@ primary_themes:
 topic_tags:
 - election
 - politics
-storyline_nexus: []
+storyline_nexus:
+- annie-andrews
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -209,6 +210,7 @@ related_stories:
   relation: related
   strength: 0.6738
 ---
+
 ## Annie Andrews defeats Darline Graham in South Carolina Senate race
 
 **Subtype:** fact

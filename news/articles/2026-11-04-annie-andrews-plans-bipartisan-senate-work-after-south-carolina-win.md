@@ -31,7 +31,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- annie-andrews
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.7363
 ---
+
 ## Annie Andrews plans bipartisan Senate work after South Carolina win
 
 **Subtype:** fact
