@@ -1,9 +1,25 @@
 ---
-headline: VA counts more than 329,000 errors collecting veterans’ medical evidence in fiscal 2026
-secondary_headline: VA higher-level reviewers sent back 35% of decisions in fiscal 2026
+headline: VA counts more than 329,000 errors collecting veterans’ medical evidence
+  in fiscal 2026
+secondary_headline: VA higher-level reviewers sent back 35% of decisions in fiscal
+  2026
 publish_date: '2026-11-09'
-lede: The U.S. Department of Veterans Affairs counted more than 329,000 errors collecting medical evidence for veterans’ disability claims in fiscal year 2026, compared with more than 66,000 in fiscal year 2021. A Washington Bureau of The Beam investigation found the growth coincided with the agency’s expanding use of Automated Decision Support and a growing share of higher-level review decisions returned for reconsideration. The VA denies that automation contributes to errors, even as a senior benefits official testified that decision accuracy had improved.
-nut_graf: The figures come amid competing accounts of whether errors are rising and whether automation contributes to them. The department cites a 12-month issue-based accuracy rate near 94%, while its appeal data show more evidence-collection errors and a rising share of decisions returned for reconsideration. Duty-to-assist errors are tracked only when a veteran appeals a claim decision. Many veterans do not appeal, so the scale of the problem could be much higher than the reported error count indicates. The VA’s published statistics do not separate automated mistakes from human mistakes, and its latest budget request calls for applying the tool to 90% of all claims by the end of 2027.
+lede: The U.S. Department of Veterans Affairs counted more than 329,000 errors collecting
+  medical evidence for veterans’ disability claims in fiscal year 2026, compared with
+  more than 66,000 in fiscal year 2021. A Washington Bureau of The Beam investigation
+  found the growth coincided with the agency’s expanding use of Automated Decision
+  Support and a growing share of higher-level review decisions returned for reconsideration.
+  The VA denies that automation contributes to errors, even as a senior benefits official
+  testified that decision accuracy had improved.
+nut_graf: The figures come amid competing accounts of whether errors are rising and
+  whether automation contributes to them. The department cites a 12-month issue-based
+  accuracy rate near 94%, while its appeal data show more evidence-collection errors
+  and a rising share of decisions returned for reconsideration. Duty-to-assist errors
+  are tracked only when a veteran appeals a claim decision. Many veterans do not appeal,
+  so the scale of the problem could be much higher than the reported error count indicates.
+  The VA’s published statistics do not separate automated mistakes from human mistakes,
+  and its latest budget request calls for applying the tool to 90% of all claims by
+  the end of 2027.
 primary_entities:
 - U.S. Department of Veterans Affairs
 - Automated Decision Support
@@ -45,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +160,43 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-30-va-ends-loan-program-leaving-15-000-veterans-with-higher-payments
-  headline: VA ends loan program, leaving 15,000 veterans with higher payments
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6467
-- slug: 2026-10-28-dementia-diagnoses-in-us-projected-to-reach-1-million-a-year-by-2060
-  headline: Dementia diagnoses in US projected to reach 1 million a year by 2060
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6411
-- slug: 2026-10-26-commonwealth-ombudsman-faults-algorithm-used-to-assess-older-australians-care
-  headline: Commonwealth Ombudsman faults algorithm used to assess older Australians' care
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.647
 - slug: 2026-10-23-gao-finds-some-pentagon-ai-projects-miss-responsible-use-tenets
   headline: GAO finds some Pentagon AI projects miss responsible-use tenets
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6513
-- slug: 2026-10-22-judge-cites-high-likelihood-of-error-in-dhs-list-of-people-to-visit
-  headline: Judge cites "high likelihood of error" in DHS list of people to visit
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6299
-- slug: 2026-10-15-cms-reinstates-some-aca-enrollees-cut-in-fraud-review-reviews-419-000-more
-  headline: CMS reinstates some ACA enrollees cut in fraud review, reviews 419,000 more
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6361
-- slug: 2026-10-12-ai-billing-tools-expand-into-growing-us-medical-debt
-  headline: AI billing tools expand into growing US medical debt
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6477
-- slug: 2026-10-14-tax-court-warns-lawyers-ai-fabricated-citations-risk-sanctions
-  headline: Tax Court warns lawyers AI-fabricated citations risk sanctions
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6319
+  strength: 0.6504
 - slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
   headline: SNAP enrollment falls almost 13% as new federal requirements take hold
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6498
-- slug: 2026-09-22-vance-task-force-to-cancel-760-000-aca-enrollments-projecting-2-2b-savings
-  headline: Vance task force to cancel 760,000 ACA enrollments, projecting $2.2B savings
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6315
-- slug: 2026-09-14-fbi-logged-22-000-ai-related-fraud-cases-totaling-893-million
-  headline: FBI logged 22,000 AI-related fraud cases totaling $893 million
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6359
-- slug: 2026-07-07-alaska-snap-error-rate-tops-nation-for-fourth-straight-year-at-23
-  headline: Alaska SNAP error rate tops nation for fourth straight year at 23%
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6492
+  strength: 0.6506
 - slug: 2026-05-22-trump-s-health-department-expands-ai-use-to-police-healthcare-fraud
   headline: Trump’s health department expands AI use to police healthcare fraud
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.6676
-- slug: 2026-07-14-26-meta-employees-sue-alleging-ai-layoff-systems-targeted-workers-on-protected-l
-  headline: 26 Meta employees sue, alleging AI layoff systems targeted workers on protected leave
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6304
-- slug: 2026-06-15-us-government-ai-use-cases-surge-70-since-biden-left-office
-  headline: US government AI use cases surge 70% since Biden left office
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6503
+  strength: 0.6674
 - slug: 2026-05-21-hhs-expands-use-of-ai-to-police-state-health-audits-for-fraud
   headline: HHS expands use of AI to police state health audits for fraud
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6595
+  strength: 0.6591
 - slug: 2026-05-21-trump-health-department-expands-ai-use-to-police-audits-for-fraud
   headline: Trump health department expands AI use to police audits for fraud
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6556
+  strength: 0.6558
 - slug: 2026-03-10-nevada-to-use-google-ai-for-unemployment-appeals-lawmakers-skeptical
   headline: Nevada to use Google AI for unemployment appeals, lawmakers skeptical
   publish_date: '2026-03-10'
   relation: related
-  strength: 0.6605
+  strength: 0.661
 - slug: 2026-01-07-nevada-writes-off-106-million-in-bad-debt-since-2023
-  headline: Nevada has written off $106 million in bad debt since 2023, controller says
+  headline: Nevada has written off $106 million in bad debt since 2023, controller
+    says
   publish_date: '2026-01-07'
   relation: related
-  strength: 0.661
-- slug: 2026-05-17-trump-administration-voter-eligibility-checks-raise-purge-fears-ahead-of-midterm
-  headline: Trump administration voter-eligibility checks raise purge fears ahead of midterms
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6348
+  strength: 0.6621
 ---
-
 ## VA counts more than 329,000 errors collecting veterans’ medical evidence in fiscal 2026
 
 **Subtype:** fact
