@@ -1,9 +1,16 @@
 ---
 headline: Royal Caribbean crew member rescued near Catalina Island
-secondary_headline: Newport Beach lifeguards believe he may have fallen overboard about nine hours earlier
+secondary_headline: Newport Beach lifeguards believe he may have fallen overboard
+  about nine hours earlier
 publish_date: '2026-11-09'
-lede: A Royal Caribbean crew member was recovered from the Pacific Ocean near Catalina Island on Friday, according to US media reports that put the time in the water at about nine hours. The unidentified man was taken to a hospital in stable condition, the US Coast Guard said, adding that the service was investigating the incident.
-nut_graf: The man was conscious when recovered, but his identity and how he entered the water had not been publicly established. The US Coast Guard was investigating, while Royal Caribbean said it was supporting the crew member and respecting his privacy.
+lede: A Royal Caribbean crew member was recovered from the Pacific Ocean near Catalina
+  Island on Friday, according to US media reports that put the time in the water at
+  about nine hours. The unidentified man was taken to a hospital in stable condition,
+  the US Coast Guard said, adding that the service was investigating the incident.
+nut_graf: The man was conscious when recovered, but his identity and how he entered
+  the water had not been publicly established. The US Coast Guard was investigating,
+  while Royal Caribbean said it was supporting the crew member and respecting his
+  privacy.
 primary_entities:
 - Royal Caribbean Group
 - Ovation of the Seas
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +150,34 @@ related_stories:
   headline: Coast Guard swimmer Josh Law recounts rescue of 16 people off Baja coast
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6534
+  strength: 0.6501
 - slug: 2026-10-02-divers-recover-body-of-missing-patient-in-catalina-medevac-crash-toll-at-3
-  headline: Divers recover body of missing patient in Catalina medevac crash, toll at 3
+  headline: Divers recover body of missing patient in Catalina medevac crash, toll
+    at 3
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6827
-- slug: 2026-10-04-coast-guard-locates-debris-from-missing-air-ambulance-off-nantucket
-  headline: Coast Guard locates debris from missing air ambulance off Nantucket
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6362
-- slug: 2026-10-02-crews-recover-final-body-from-catalina-island-helicopter-crash
-  headline: Crews recover final body from Catalina Island helicopter crash
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.634
-- slug: 2026-10-03-officials-believe-air-ambulance-rapidly-descended-7-500-feet-off-nantucket
-  headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.629
+  strength: 0.6809
 - slug: 2026-09-22-carnival-cruise-passenger-missing-after-going-overboard-off-mexico
   headline: Carnival cruise passenger missing after going overboard off Mexico
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6625
-- slug: 2026-10-01-medevac-helicopter-crashes-off-catalina-island-killing-two-one-missing
-  headline: Medevac helicopter crashes off Catalina Island, killing two; one missing
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6135
+  strength: 0.6521
 - slug: 2026-09-11-coast-guard-rescues-alaska-teen-who-clung-to-overturned-bering-sea-boat
   headline: Coast Guard rescues Alaska teen who clung to overturned Bering Sea boat
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6617
-- slug: 2026-09-11-coast-guard-rescues-15-year-old-after-brother-cousin-drown-in-bering-sea
-  headline: Coast Guard rescues 15-year-old after brother, cousin drown in Bering Sea
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6199
-- slug: 2026-09-13-70-year-old-hiker-found-alive-on-isle-royale-after-eight-day-search
-  headline: 70-year-old hiker found alive on Isle Royale after eight-day search
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.613
+  strength: 0.6598
 - slug: 2026-07-28-lifeguard-rescues-boy-from-massive-waves-at-santa-cruz-beach
   headline: Lifeguard rescues boy from massive waves at Santa Cruz beach
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.672
-- slug: 2026-08-29-federal-and-state-agencies-issue-water-safety-reminders-as-drownings-continue
-  headline: Federal and state agencies issue water-safety reminders as drownings continue
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.6168
-- slug: 2026-08-17-trump-dismisses-lincoln-conditions-reports-calls-cnn-coverage-fake-news
-  headline: Trump dismisses Lincoln conditions reports, calls CNN coverage fake news
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6143
-- slug: 2026-08-15-volunteer-network-rescues-hundreds-of-cold-stunned-turtles-on-cape-cod
-  headline: Volunteer network rescues hundreds of cold-stunned turtles on Cape Cod
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6169
-- slug: 2026-07-15-pontoon-boat-fire-near-alcatraz-leaves-one-missing-17-rescued
-  headline: Pontoon boat fire near Alcatraz leaves one missing, 17 rescued
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6153
-- slug: 2026-07-01-scientists-fear-el-ni-o-will-worsen-california-seabird-die-off
-  headline: Scientists fear El Niño will worsen California seabird die-off
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6134
+  strength: 0.6703
 - slug: 2026-01-07-coast-guard-rescues-9-from-grounded-alaska-crab-boat-amid-near-gale-winds
   headline: Coast Guard rescues 9 from grounded Alaska crab boat amid near-gale winds
   publish_date: '2026-01-07'
   relation: related
-  strength: 0.6589
-- slug: 2026-04-20-six-crew-members-missing-from-cargo-ship-overturned-near-saipan-during-typhoon
-  headline: Six crew members missing from cargo ship overturned near Saipan during typhoon
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.639
-- slug: 2026-04-28-search-suspended-for-crew-of-mariana-cargo-ship-overturned-in-typhoon
-  headline: Search suspended for crew of Mariana cargo ship overturned in typhoon
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6345
-- slug: 2026-06-12-body-of-5-year-old-girl-swept-out-to-sea-near-laguna-beach-found
-  headline: Body of 5-year-old girl swept out to sea near Laguna Beach found
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6116
+  strength: 0.6547
 ---
-
 ## Royal Caribbean crew member rescued near Catalina Island
 
 **Subtype:** fact

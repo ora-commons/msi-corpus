@@ -1,9 +1,18 @@
 ---
-headline: Dana White's UFC, Meta and convention ties accompany an unresolved press secretary offer
+headline: Dana White's UFC, Meta and convention ties accompany an unresolved press
+  secretary offer
 secondary_headline: Trump said White's Monday visit was for "other reasons"
 publish_date: '2026-11-09'
-lede: Dana White, the Ultimate Fighting Championship chief executive, said on Saturday he was "sure we'll have something to talk about" with Donald Trump at a Monday meeting about the White House press secretary job, but did not say whether he would accept. BBC News reported that White leads UFC and PowerSlap, recently launched Zuffa Boxing, sits on Meta's board and supported Trump's White House campaigns at Republican National Conventions in 2016, 2020 and 2024.
-nut_graf: BBC News reported details about White's business leadership, political appearances and a UFC fight staged on the White House lawn. White had not said whether he would accept Trump's offer, and the position had remained unfilled since Katie Zacharia quit in October after less than five days.
+lede: Dana White, the Ultimate Fighting Championship chief executive, said on Saturday
+  he was "sure we'll have something to talk about" with Donald Trump at a Monday meeting
+  about the White House press secretary job, but did not say whether he would accept.
+  BBC News reported that White leads UFC and PowerSlap, recently launched Zuffa Boxing,
+  sits on Meta's board and supported Trump's White House campaigns at Republican National
+  Conventions in 2016, 2020 and 2024.
+nut_graf: BBC News reported details about White's business leadership, political appearances
+  and a UFC fight staged on the White House lawn. White had not said whether he would
+  accept Trump's offer, and the position had remained unfilled since Katie Zacharia
+  quit in October after less than five days.
 primary_entities:
 - Dana White
 - Donald Trump
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,107 +154,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-08-dana-white-outlines-zuffa-expansion-plans-after-trump-press-secretary-offer
-  headline: Dana White outlines Zuffa expansion plans after Trump press secretary offer
+  headline: Dana White outlines Zuffa expansion plans after Trump press secretary
+    offer
   publish_date: '2026-11-08'
   relation: related
   strength: 0.8784
 - slug: 2026-11-08-dana-white-says-he-is-planning-a-meeting-with-trump-about-a-press-secretary-job
-  headline: Dana White says he is planning a meeting with Trump about a press secretary job
+  headline: Dana White says he is planning a meeting with Trump about a press secretary
+    job
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8692
+  strength: 0.869
 - slug: 2026-11-07-dana-white-receives-trump-s-public-request-to-become-white-house-press-secretary
-  headline: Dana White receives Trump's public request to become White House press secretary
+  headline: Dana White receives Trump's public request to become White House press
+    secretary
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8678
+  strength: 0.8674
 - slug: 2026-11-07-white-house-does-not-respond-to-dana-white-press-offer-as-ufc-boss-is-in-london
-  headline: White House does not respond to Dana White press offer as UFC boss is in London
+  headline: White House does not respond to Dana White press offer as UFC boss is
+    in London
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8549
+  strength: 0.856
 - slug: 2026-11-09-trump-says-dana-white-press-secretary-offer-was-a-joke
   headline: Trump says Dana White press secretary offer was a joke
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8075
+  strength: 0.8085
 - slug: 2026-11-09-trump-cites-fighter-list-in-explaining-dana-white-press-secretary-proposal
   headline: Trump cites fighter list in explaining Dana White press secretary proposal
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7864
+  strength: 0.7848
 - slug: 2026-11-08-trump-says-he-could-work-with-democrats-on-immigration-and-taxes
   headline: Trump says he could work with Democrats on immigration and taxes
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.68
+  strength: 0.6807
 - slug: 2026-11-08-trump-says-midterm-result-showed-widespread-rejection-of-his-party
   headline: Trump says midterm result showed widespread rejection of his party
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6487
-- slug: 2026-10-15-zacharia-tells-guardian-frequency-of-press-briefings-is-unknown
-  headline: Zacharia tells Guardian frequency of press briefings is 'unknown'
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6629
-- slug: 2026-10-13-katie-zacharia-holds-first-briefing-as-trump-s-sixth-press-secretary
-  headline: Katie Zacharia holds first briefing as Trump's sixth press secretary
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6498
-- slug: 2026-10-09-zacharia-wasn-t-considered-for-press-secretary-until-this-week-cnn-source-says
-  headline: Zacharia wasn't considered for press secretary until this week, CNN source says
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6639
-- slug: 2026-10-12-katie-zacharia-set-for-first-briefing-as-trump-s-press-secretary
-  headline: Katie Zacharia set for first briefing as Trump's press secretary
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6495
-- slug: 2026-10-13-zacharia-promoted-qanon-pizzagate-and-zyklon-b-claim-on-social-media
-  headline: Zacharia promoted QAnon, Pizzagate and Zyklon B claim on social media
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6321
-- slug: 2026-10-04-white-house-defends-hiring-of-real-america-s-voice-correspondent-as-press-aide
-  headline: White House defends hiring of Real America's Voice correspondent as press aide
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6309
-- slug: 2026-06-15-ufc-freedom-250-at-white-house-cage-fights-mark-trump-s-80th-birthday
-  headline: 'UFC Freedom 250 at White House: Cage fights mark Trump''s 80th birthday'
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6993
-- slug: 2026-08-12-white-house-declines-to-intervene-in-tate-brothers-u-k-extradition
-  headline: White House declines to intervene in Tate brothers' U.K. extradition
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6258
-- slug: 2026-07-22-hundreds-of-journalists-ask-whca-to-stand-up-to-trump-at-dinner
-  headline: Hundreds of journalists ask WHCA to stand up to Trump at dinner
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.625
-- slug: 2026-06-16-five-detained-in-alleged-plot-to-attack-white-house-ufc-event-fbi-says
-  headline: Five detained in alleged plot to attack White House UFC event, FBI says
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6535
-- slug: 2026-06-11-court-filing-white-house-ufc-event-costs-more-than-60m
-  headline: 'Court filing: White House UFC event costs more than $60M'
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6485
-- slug: 2026-06-14-ufc-to-pay-white-house-fighters-in-crypto-issued-by-trump-company
-  headline: UFC to pay White House fighters in crypto issued by Trump company
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6466
+  strength: 0.6502
 ---
-
 ## Dana White's UFC, Meta and convention ties accompany an unresolved press secretary offer
 
 **Subtype:** fact
