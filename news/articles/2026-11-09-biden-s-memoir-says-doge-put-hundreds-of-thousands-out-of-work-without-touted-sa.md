@@ -1,9 +1,21 @@
 ---
-headline: Biden's memoir says DOGE put hundreds of thousands out of work without touted savings
-secondary_headline: Excerpts cover January 6 certification, pardons and presidential legacy
+headline: Biden's memoir says DOGE put hundreds of thousands out of work without touted
+  savings
+secondary_headline: Excerpts cover January 6 certification, pardons and presidential
+  legacy
 publish_date: '2026-11-09'
-lede: Excerpts from Joe Biden's memoir *Promise Me America* published by The Guardian examine the so-called Department of Government Efficiency, which put hundreds of thousands of people out of work without producing the savings the department had touted. The Guardian described the department's creation as chaotic and included it among the actions Biden scrutinizes after President Donald Trump returned to office in January 2025. *Promise Me America* is scheduled for publication on 17 November.
-nut_graf: The excerpts published by The Guardian place the record of the so-called Department of Government Efficiency alongside Biden's own account of the January 6 attack, Covid-19, economic troubles and the alliances he sought to restore. Biden said he realized as soon as Trump took office again that much of what he had worked to achieve was soon to be dismantled.
+lede: Excerpts from Joe Biden's memoir *Promise Me America* published by The Guardian
+  examine the so-called Department of Government Efficiency, which put hundreds of
+  thousands of people out of work without producing the savings the department had
+  touted. The Guardian described the department's creation as chaotic and included
+  it among the actions Biden scrutinizes after President Donald Trump returned to
+  office in January 2025. *Promise Me America* is scheduled for publication on 17
+  November.
+nut_graf: The excerpts published by The Guardian place the record of the so-called
+  Department of Government Efficiency alongside Biden's own account of the January
+  6 attack, Covid-19, economic troubles and the alliances he sought to restore. Biden
+  said he realized as soon as Trump took office again that much of what he had worked
+  to achieve was soon to be dismantled.
 primary_entities:
 - Joe Biden
 - Jill Biden
@@ -52,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,13 +164,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-09-biden-s-memoir-says-doge-put-hundreds-of-thousands-out-of-work-without-touted-sa.png
-  alt: 'Illustration accompanying article: Biden''s memoir says DOGE put hundreds of thousands out of work without touted savings'
+  alt: 'Illustration accompanying article: Biden''s memoir says DOGE put hundreds
+    of thousands out of work without touted savings'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-09-biden-memoir-excerpt-accuses-trump-of-leading-the-january-6-attack
   headline: Biden memoir excerpt accuses Trump of leading the January 6 attack
@@ -168,37 +185,17 @@ related_stories:
   headline: Guardian US editor says midterm voters delivered a check on Trump's power
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.666
+  strength: 0.6658
 - slug: 2026-11-04-exit-polls-and-succession-concerns-define-trump-s-post-midterm-outlook
   headline: Exit polls and succession concerns define Trump's post-midterm outlook
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6605
-- slug: 2026-10-02-doge-took-over-u-s-institute-of-peace-after-three-day-standoff
-  headline: DOGE took over U.S. Institute of Peace after three-day standoff
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6323
-- slug: 2026-09-28-73-of-americans-rate-economy-fair-or-poor-as-inflation-climbs-to-3-4
-  headline: 73% of Americans rate economy fair or poor as inflation climbs to 3.4%
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6269
+  strength: 0.6599
 - slug: 2026-07-15-biden-to-publish-memoir-promise-me-america-after-midterms
   headline: Biden to publish memoir 'Promise Me, America' after midterms
   publish_date: '2026-07-15'
   relation: related
   strength: 0.7483
-- slug: 2026-09-15-gao-finds-doge-program-cost-more-than-9-billion-in-paid-administrative-leave
-  headline: GAO finds DOGE program cost more than $9 billion in paid administrative leave
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6364
-- slug: 2026-09-09-guardian-lists-six-trump-9-11-claims-it-says-lack-supporting-evidence
-  headline: Guardian lists six Trump 9/11 claims it says lack supporting evidence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6347
 - slug: 2026-03-10-jill-biden-opens-up-in-memoir-on-decision-to-end-2024-reelection-bid
   headline: Jill Biden opens up in memoir on decision to end 2024 reelection bid
   publish_date: '2026-03-10'
@@ -208,59 +205,18 @@ related_stories:
   headline: Jill Biden details Joe Biden’s 2024 reelection exit in upcoming memoir
   publish_date: '2026-03-11'
   relation: related
-  strength: 0.7134
+  strength: 0.7133
 - slug: 2026-05-29-in-memoir-jill-biden-questions-response-to-joe-biden-s-debate-performance
   headline: In Memoir, Jill Biden Questions Response to Joe Biden's Debate Performance
   publish_date: '2026-05-29'
   relation: related
-  strength: 0.6784
+  strength: 0.6783
 - slug: 2026-05-27-jill-biden-feared-husband-joe-was-having-a-stroke-during-2024-debate
   headline: Jill Biden feared husband Joe was having a stroke during 2024 debate
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.6657
-- slug: 2026-06-23-reporters-detail-trump-white-house-secrets-in-new-book-regime-change
-  headline: Reporters detail Trump White House secrets in new book 'Regime Change'
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6434
-- slug: 2026-05-27-justice-department-removes-jan-6-news-releases-calls-them-partisan-propaganda
-  headline: Justice Department removes Jan. 6 news releases, calls them 'partisan propaganda'
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.658
-- slug: 2026-06-06-columnist-accuses-jill-biden-of-rewriting-history-in-memoir
-  headline: Columnist accuses Jill Biden of rewriting history in memoir
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6504
-- slug: 2026-06-16-clinton-says-biden-s-re-election-bid-was-a-terrible-mistake-that-cost-democrats-
-  headline: Clinton says Biden's re-election bid was a 'terrible mistake' that cost Democrats the presidency
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6328
-- slug: 2026-05-22-trump-doj-says-it-removed-jan-6-case-releases-as-partisan-propaganda
-  headline: Trump DOJ says it removed Jan. 6 case releases as “partisan propaganda”
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6434
-- slug: 2026-06-15-us-government-ai-use-cases-surge-70-since-biden-left-office
-  headline: US government AI use cases surge 70% since Biden left office
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6251
-- slug: 2026-06-03-jill-biden-says-she-regrets-not-discussing-hunter-biden-s-addiction-while-in-whi
-  headline: Jill Biden says she regrets not discussing Hunter Biden's addiction while in White House
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6255
-- slug: 2026-03-27-a-year-after-trump-s-doge-cuts-workers-ask-what-was-saved
-  headline: A year after Trump’s DOGE cuts, workers ask what was saved
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.644
+  strength: 0.6653
 ---
-
 ## Biden's memoir says DOGE put hundreds of thousands out of work without touted savings
 
 **Subtype:** fact
