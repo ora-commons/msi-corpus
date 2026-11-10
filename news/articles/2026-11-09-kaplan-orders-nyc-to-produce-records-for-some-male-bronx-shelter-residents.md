@@ -2,8 +2,15 @@
 headline: Kaplan orders NYC to produce records for some male Bronx shelter residents
 secondary_headline: Special master screens records before ICE receives names
 publish_date: '2026-11-09'
-lede: U.S. District Judge Lewis Kaplan ruled on Friday that New York City must send names, birth dates and related records concerning some male residents at a Bronx homeless shelter to a court-appointed special master. Kaplan said the city had not shown producing the list would be unduly burdensome. ICE will receive names of residents with serious-crime histories after the special master's review.
-nut_graf: The order separates production of records concerning some male residents at the shelter from ICE's receipt of names. New York City must provide those records to the court-appointed special master, while the city can resist if it establishes bad faith, improper purposes or unreasonable burden.
+lede: U.S. District Judge Lewis Kaplan ruled on Friday that New York City must send
+  names, birth dates and related records concerning some male residents at a Bronx
+  homeless shelter to a court-appointed special master. Kaplan said the city had not
+  shown producing the list would be unduly burdensome. ICE will receive names of residents
+  with serious-crime histories after the special master's review.
+nut_graf: The order separates production of records concerning some male residents
+  at the shelter from ICE's receipt of names. New York City must provide those records
+  to the court-appointed special master, while the city can resist if it establishes
+  bad faith, improper purposes or unreasonable burden.
 primary_entities:
 - Lewis Kaplan
 - New York City
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,109 +145,8 @@ cross_article_links:
   strength: 0.6326
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-02-habeas-releases-do-not-prevent-renewed-ice-detention-for-some-immigrants
-  headline: Habeas releases do not prevent renewed ICE detention for some immigrants
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6172
-- slug: 2026-10-30-democrats-demand-ice-explain-missing-miscarriage-data-for-pregnant-detainees
-  headline: Democrats demand ICE explain missing miscarriage data for pregnant detainees
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6235
-- slug: 2026-10-30-judge-orders-trump-administration-to-turn-over-disputed-california-voter-list
-  headline: Judge orders Trump administration to turn over disputed California voter list
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6118
-- slug: 2026-10-09-mamdani-aoc-call-for-ice-abolition-as-dhs-rejects-new-york-enforcement-pause
-  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement pause
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6279
-- slug: 2026-10-09-ice-agent-shoots-man-in-the-bronx-dhs-confirms
-  headline: ICE agent shoots man in the Bronx, DHS confirms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6265
-- slug: 2026-10-09-mullin-says-ice-won-t-pause-nyc-operations-after-bronx-shooting
-  headline: Mullin says ICE won't pause NYC operations after Bronx shooting
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6187
-- slug: 2026-09-21-ice-removes-detainees-with-final-removal-orders-from-online-locator
-  headline: ICE removes detainees with final removal orders from online locator
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6224
-- slug: 2026-09-02-trump-mega-master-hearings-bring-100-case-dockets-to-miami-immigration-court
-  headline: Trump "mega master" hearings bring 100-case dockets to Miami immigration court
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6107
-- slug: 2026-08-19-idaho-probation-officers-compiled-foreign-born-list-for-ice-emails-show
-  headline: Idaho probation officers compiled foreign-born list for ICE, emails show
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6188
-- slug: 2026-06-10-ice-letter-acknowledges-collecting-data-on-some-protesters-observers
-  headline: ICE letter acknowledges collecting data on some protesters, observers
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6379
-- slug: 2026-06-20-93-of-ice-street-arrests-in-ny-nj-targeted-latinos-investigation-finds
-  headline: 93% of ICE street arrests in NY-NJ targeted Latinos, investigation finds
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6235
-- slug: 2026-06-26-un-demands-independent-investigations-into-deaths-in-us-immigration-custody
-  headline: UN demands independent investigations into deaths in US immigration custody
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.619
-- slug: 2026-06-10-ex-nyc-comptroller-brad-lander-faces-trial-over-ice-facility-protest-arrest
-  headline: Ex-NYC comptroller Brad Lander faces trial over ICE facility protest arrest
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6282
-- slug: 2026-05-19-man-arrested-day-after-judge-bans-ice-arrests-at-nyc-immigration-courts
-  headline: Man arrested day after judge bans ICE arrests at NYC immigration courts
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.635
-- slug: 2026-06-08-border-czar-threatens-to-send-more-ice-agents-than-you-ve-ever-seen-to-new-york-
-  headline: Border czar threatens to send 'more ICE agents than you've ever seen' to New York City
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6193
-- slug: 2026-05-19-judge-bars-most-ice-arrests-at-nyc-immigration-courts-man-detained
-  headline: Judge bars most ICE arrests at NYC immigration courts; man detained
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6278
-- slug: 2026-06-05-acting-ice-director-orders-agency-to-stop-reporting-deaths-of-recently-released-
-  headline: Acting ICE director orders agency to stop reporting deaths of recently released detainees
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6156
-- slug: 2026-05-18-judge-bans-most-ice-arrests-near-new-york-immigration-courts-then-arrest-follows
-  headline: Judge bans most ICE arrests near New York immigration courts, then arrest follows
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6237
-- slug: 2026-05-18-ice-memo-authorizes-forced-entry-to-homes-without-judicial-warrants
-  headline: ICE memo authorizes forced entry to homes without judicial warrants
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6237
-- slug: 2026-05-15-federal-judge-blocks-trump-administration-from-seeking-trans-youth-records
-  headline: Federal judge blocks Trump administration from seeking trans youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6184
+related_stories: []
 ---
-
 ## Kaplan orders NYC to produce records for some male Bronx shelter residents
 
 **Subtype:** fact

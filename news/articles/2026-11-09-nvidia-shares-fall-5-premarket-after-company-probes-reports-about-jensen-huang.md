@@ -1,9 +1,21 @@
 ---
-headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-secondary_headline: China’s Foreign Ministry calls the spying allegations a smear campaign
+headline: Nvidia shares fall 5% premarket after company probes reports about Jensen
+  Huang
+secondary_headline: China’s Foreign Ministry calls the spying allegations a smear
+  campaign
 publish_date: '2026-11-09'
-lede: Nvidia shares were down 5% in premarket trading Monday after the chipmaker announced Sunday it was investigating reports that CEO Jensen Huang was the target of a foreign intelligence effort. China’s Foreign Ministry dismissed the spying allegations at a routine briefing, calling them “a smear campaign against Beijing.” The announcement followed Huang’s acknowledgment that he had been intimate with a business executive whom, according to The New York Times, U.S. intelligence determined was gathering information for China.
-nut_graf: Dan Ives said there was a small chance Huang could be removed or step down as CEO; he also said removal could depend on the board’s investigation and described the uncertainty as an overhang on shares near term. Nvidia’s advanced processors also face U.S. export restrictions aimed at limiting China’s access to cutting-edge semiconductor technology.
+lede: Nvidia shares were down 5% in premarket trading Monday after the chipmaker announced
+  Sunday it was investigating reports that CEO Jensen Huang was the target of a foreign
+  intelligence effort. China’s Foreign Ministry dismissed the spying allegations at
+  a routine briefing, calling them “a smear campaign against Beijing.” The announcement
+  followed Huang’s acknowledgment that he had been intimate with a business executive
+  whom, according to The New York Times, U.S. intelligence determined was gathering
+  information for China.
+nut_graf: Dan Ives said there was a small chance Huang could be removed or step down
+  as CEO; he also said removal could depend on the board’s investigation and described
+  the uncertainty as an overhang on shares near term. Nvidia’s advanced processors
+  also face U.S. export restrictions aimed at limiting China’s access to cutting-edge
+  semiconductor technology.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,7 +170,8 @@ related_stories:
   relation: related
   strength: 0.8243
 - slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
+  headline: Nvidia board opens independent investigation after reports about Jensen
+    Huang
   publish_date: '2026-11-08'
   relation: related
   strength: 0.822
@@ -167,82 +181,22 @@ related_stories:
   relation: related
   strength: 0.8032
 - slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
+  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past
+    two years, Times reported
   publish_date: '2026-11-08'
   relation: related
   strength: 0.8028
+- slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
+  headline: Nvidia inquiry draws top Republican demands for answers
+  publish_date: '2026-11-09'
+  relation: related
+  strength: 0.7635
 - slug: 2026-10-29-us-intelligence-believes-chinese-spy-targeted-nvidia-ceo
   headline: US intelligence believes Chinese spy targeted Nvidia CEO
   publish_date: '2026-10-29'
   relation: related
   strength: 0.8066
-- slug: 2026-10-30-u-s-officials-suspect-megaspeed-executive-alice-huang-of-spying-for-china
-  headline: U.S. officials suspect Megaspeed executive Alice Huang of spying for China
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.755
-- slug: 2026-10-14-nvidia-donates-250-million-in-computing-power-to-uk-ai-safety-research
-  headline: Nvidia donates $250 million in computing power to UK AI safety research
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6556
-- slug: 2026-09-21-nvidia-ceo-rejects-ai-extinction-warnings-as-doomsday-narratives
-  headline: Nvidia CEO rejects AI extinction warnings as 'doomsday narratives'
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6582
-- slug: 2026-09-21-anthropic-report-details-ai-model-misuse-by-criminals-state-actors
-  headline: Anthropic report details AI model misuse by criminals, state actors
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.652
-- slug: 2026-09-17-huawei-announces-two-new-ai-chips-next-year-to-rival-nvidia
-  headline: Huawei announces two new AI chips next year to rival Nvidia
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6531
-- slug: 2026-09-03-nvidia-to-acquire-ai-developer-platform-hugging-face-for-12-93-billion
-  headline: Nvidia to acquire AI developer platform Hugging Face for $12.93 billion
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6516
-- slug: 2026-08-24-nvidia-s-upcoming-earnings-report-puts-ai-trade-to-the-test
-  headline: Nvidia's upcoming earnings report puts AI trade to the test
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6686
-- slug: 2026-06-29-nvidia-s-ai-chip-sales-stall-in-china-as-huawei-gains-ground
-  headline: Nvidia's AI chip sales stall in China as Huawei gains ground
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7117
-- slug: 2026-06-04-nvidia-ceo-jensen-huang-to-visit-south-korea-for-ai-robotics-talks
-  headline: Nvidia CEO Jensen Huang to visit South Korea for AI, robotics talks
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.713
-- slug: 2026-03-15-jensen-huang-says-inference-inflection-will-drive-nvidia-s-next-ai-boom
-  headline: Jensen Huang says inference ‘inflection’ will drive Nvidia’s next AI boom
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7315
-- slug: 2026-05-16-nvidia-ceo-jensen-huang-samples-beijing-street-food-winces-at-fermented-drink
-  headline: Nvidia CEO Jensen Huang samples Beijing street food, winces at fermented drink
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6927
-- slug: 2026-02-26-nvidia-reports-big-jump-in-fiscal-fourth-quarter-revenue-as-ai-demand-grows
-  headline: Nvidia reports big jump in fiscal fourth-quarter revenue as AI demand grows
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6893
-- slug: 2026-06-01-nvidia-unveils-rtx-spark-chip-for-ai-powered-personal-computers
-  headline: Nvidia unveils RTX Spark chip for AI-powered personal computers
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6614
 ---
-
 ## Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
 
 **Subtype:** fact

@@ -2,8 +2,19 @@
 headline: Nvidia inquiry draws top Republican demands for answers
 secondary_headline: Trump honored Huang after some officials knew of the allegations
 publish_date: '2026-11-09'
-lede: Nvidia is investigating whether chief executive Jensen Huang shared sensitive corporate or national-security information after Huang disclosed on Sunday that he had an extramarital relationship with a person working with Nvidia to build data centers. According to The Wall Street Journal, U.S. officials had concluded that the person was sharing information with Chinese intelligence. Top Republicans on Capitol Hill sent Huang a letter last week demanding answers, and Trump could be forced to explain what he knew of the affair and when. Trump had awarded Huang the National Medal of Science one month before the disclosure, when a number of people inside the government already knew the allegations.
-nut_graf: The Journal described Huang as perhaps Trump's closest adviser in AI, a field the White House treats as core to its economic and national-security strategy. Separately, the House is expected to vote this week on impeaching Defense Secretary Pete Hegseth, with Republican Rep. Thomas Massie of Kentucky leading the effort.
+lede: Nvidia is investigating whether chief executive Jensen Huang shared sensitive
+  corporate or national-security information after Huang disclosed on Sunday that
+  he had an extramarital relationship with a person working with Nvidia to build data
+  centers. According to The Wall Street Journal, U.S. officials had concluded that
+  the person was sharing information with Chinese intelligence. Top Republicans on
+  Capitol Hill sent Huang a letter last week demanding answers, and Trump could be
+  forced to explain what he knew of the affair and when. Trump had awarded Huang the
+  National Medal of Science one month before the disclosure, when a number of people
+  inside the government already knew the allegations.
+nut_graf: The Journal described Huang as perhaps Trump's closest adviser in AI, a
+  field the White House treats as core to its economic and national-security strategy.
+  Separately, the House is expected to vote this week on impeaching Defense Secretary
+  Pete Hegseth, with Republican Rep. Thomas Massie of Kentucky leading the effort.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,31 +155,37 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers.png
-  alt: 'Illustration accompanying article: Nvidia inquiry draws top Republican demands for answers'
+  alt: 'Illustration accompanying article: Nvidia inquiry draws top Republican demands
+    for answers'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8301
+  strength: 0.8288
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7762
+  strength: 0.7766
 - slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
+  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen
+    Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7672
+  strength: 0.767
 - slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
+  headline: Nvidia board opens independent investigation after reports about Jensen
+    Huang
   publish_date: '2026-11-08'
   relation: related
   strength: 0.7734
@@ -175,84 +193,24 @@ related_stories:
   headline: Nvidia investigates reports of spying targeting Jensen Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7607
+  strength: 0.7604
 - slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
   headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.753
+  strength: 0.7533
 - slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
+  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past
+    two years, Times reported
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7292
+  strength: 0.7294
 - slug: 2026-11-09-mexc-global-faces-u-s-cutoff-over-alleged-illicit-money-flows
   headline: MEXC Global faces U.S. cutoff over alleged illicit money flows
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7016
-- slug: 2026-10-29-us-intelligence-believes-chinese-spy-targeted-nvidia-ceo
-  headline: US intelligence believes Chinese spy targeted Nvidia CEO
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7639
-- slug: 2026-10-30-u-s-officials-suspect-megaspeed-executive-alice-huang-of-spying-for-china
-  headline: U.S. officials suspect Megaspeed executive Alice Huang of spying for China
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.719
-- slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6589
-- slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
-  headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6748
-- slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
-  headline: House could vote to impeach Hegseth when lawmakers return to Washington
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6691
-- slug: 2026-10-30-hegseth-dismisses-army-general-who-oversaw-pentagon-planning
-  headline: Hegseth dismisses Army general who oversaw Pentagon planning
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6598
-- slug: 2026-10-29-hegseth-fires-joint-chiefs-strategy-chief-in-leak-probe
-  headline: Hegseth fires Joint Chiefs strategy chief in leak probe
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6631
-- slug: 2026-09-17-wiles-bessent-press-trump-on-ai-guardrails-as-tech-ceos-resist-oversight
-  headline: Wiles, Bessent press Trump on AI guardrails as tech CEOs resist oversight
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6873
-- slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
-  headline: Trump, Xi set to discuss AI as both reject slowdown
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6628
-- slug: 2026-09-23-bessent-he-lifeng-propose-ai-safety-mechanism-ahead-of-trump-xi-summit
-  headline: Bessent, He Lifeng propose AI safety mechanism ahead of Trump-Xi summit
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6591
-- slug: 2026-09-18-trump-xi-to-discuss-ai-safety-at-washington-summit
-  headline: Trump, Xi to discuss AI safety at Washington summit
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6655
-- slug: 2026-09-02-tech-executives-trump-officials-urge-g-20-to-minimize-ai-regulation
-  headline: Tech executives, Trump officials urge G-20 to minimize AI regulation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.66
+  strength: 0.7011
 ---
-
 ## Nvidia inquiry draws top Republican demands for answers
 
 **Subtype:** fact
