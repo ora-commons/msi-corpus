@@ -2,8 +2,28 @@
 headline: U.S. school closures reach highest count since the pandemic
 secondary_headline: School closures rarely deliver expected savings
 publish_date: '2026-11-09'
-lede: 'For thousands of students across the U.S., this academic year brought the added difficulty of adjusting to an entirely new school after their previous schools closed. Public school enrollment fell by more than 1.4 million students, roughly 3%, between fall 2019 and 2024, while the total number of schools declined only to about pre-pandemic levels, according to an Associated Press analysis of federal education data collected by Stanford University economist Thomas Dee and sociologist Jaymes Pyne. Big Local News at Stanford University counted 1,156 U.S. school closures during the last academic year — the highest number since the pandemic — in a separate analysis of federal data. Bellwether and WestEd, two research groups, estimated that declining enrollment could cause schools to lose $11.5 billion in state revenue annually by 2030-2031, potentially prompting widespread layoffs, cuts to academic programs and school closures. Research cited in the reporting shows that closing schools rarely yields the financial relief districts hope for: busing students, severance for pink-slipped staff and security for empty facilities often eat up any savings, while closures can also set students back academically.'
-nut_graf: Lydia Rainey, research principal at the Center on Reinventing Public Education, said the enrollment and financial situation was unlikely to improve as the current school year gets underway. Associated Press reporting says school closures can lead families to choose charter or private schools or other districts, and that further cost-cutting may push more families into competing charter networks, neighboring districts or private alternatives, further eroding the funding schools receive per enrolled student.
+lede: 'For thousands of students across the U.S., this academic year brought the added
+  difficulty of adjusting to an entirely new school after their previous schools closed.
+  Public school enrollment fell by more than 1.4 million students, roughly 3%, between
+  fall 2019 and 2024, while the total number of schools declined only to about pre-pandemic
+  levels, according to an Associated Press analysis of federal education data collected
+  by Stanford University economist Thomas Dee and sociologist Jaymes Pyne. Big Local
+  News at Stanford University counted 1,156 U.S. school closures during the last academic
+  year — the highest number since the pandemic — in a separate analysis of federal
+  data. Bellwether and WestEd, two research groups, estimated that declining enrollment
+  could cause schools to lose $11.5 billion in state revenue annually by 2030-2031,
+  potentially prompting widespread layoffs, cuts to academic programs and school closures.
+  Research cited in the reporting shows that closing schools rarely yields the financial
+  relief districts hope for: busing students, severance for pink-slipped staff and
+  security for empty facilities often eat up any savings, while closures can also
+  set students back academically.'
+nut_graf: Lydia Rainey, research principal at the Center on Reinventing Public Education,
+  said the enrollment and financial situation was unlikely to improve as the current
+  school year gets underway. Associated Press reporting says school closures can lead
+  families to choose charter or private schools or other districts, and that further
+  cost-cutting may push more families into competing charter networks, neighboring
+  districts or private alternatives, further eroding the funding schools receive per
+  enrolled student.
 primary_entities:
 - United States
 - Associated Press
@@ -53,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +176,45 @@ related_stories:
   headline: ICE deportations accelerate enrollment declines at US public schools
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.754
+  strength: 0.7546
 - slug: 2026-10-28-falling-u-s-k-12-enrollment-prompts-public-school-staff-and-program-cuts
   headline: Falling U.S. K-12 enrollment prompts public-school staff and program cuts
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.668
+  strength: 0.6675
 - slug: 2026-10-27-silicon-valley-parents-press-public-schools-to-limit-classroom-technology
   headline: Silicon Valley parents press public schools to limit classroom technology
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6623
+  strength: 0.6619
 - slug: 2026-10-07-federal-data-show-black-students-lose-over-four-times-as-many-school-days-to-sus
-  headline: Federal data show Black students lose over four times as many school days to suspension
+  headline: Federal data show Black students lose over four times as many school days
+    to suspension
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6652
+  strength: 0.6649
 - slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
   headline: SNAP enrollment falls almost 13% as new federal requirements take hold
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6532
+  strength: 0.6525
 - slug: 2026-09-25-nces-staffing-cut-to-12-as-us-reading-and-math-scores-hit-25-year-low
   headline: NCES staffing cut to 12 as US reading and math scores hit 25-year low
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.659
+  strength: 0.6593
 - slug: 2026-08-31-us-universities-face-layered-financial-pressures-beyond-the-demographic-cliff
-  headline: US universities face layered financial pressures beyond the demographic cliff
+  headline: US universities face layered financial pressures beyond the demographic
+    cliff
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6886
+  strength: 0.6885
 - slug: 2026-08-20-wiche-projects-13-decline-in-u-s-college-enrollments-by-2041
   headline: WICHE projects 13% decline in U.S. college enrollments by 2041
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.6933
-- slug: 2026-05-13-texas-public-schools-see-first-non-pandemic-enrollment-drop-in-decades
-  headline: Texas public schools see first non-pandemic enrollment drop in decades
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7479
-- slug: 2026-05-13-texas-public-schools-lose-76-000-students-hispanic-students-account-for-81-of-de
-  headline: Texas public schools lose 76,000 students; Hispanic students account for 81% of decline
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7424
-- slug: 2026-07-27-u-s-big-cities-lose-children-as-families-move-due-to-costs
-  headline: U.S. big cities lose children as families move due to costs
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6545
-- slug: 2026-07-20-student-loan-defaults-jump-by-4-2-million-after-pandemic-pause
-  headline: Student loan defaults jump by 4.2 million after pandemic pause
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6496
-- slug: 2026-05-20-aca-enrollment-projected-to-drop-sharply-amid-rising-costs
-  headline: ACA Enrollment Projected to Drop Sharply Amid Rising Costs
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6642
-- slug: 2026-05-14-reading-test-scores-declined-but-some-schools-improved-with-phonics
-  headline: Reading test scores declined, but some schools improved with phonics
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6657
-- slug: 2026-05-14-u-s-students-in-reading-recession-as-test-scores-slide-but-phonics-reforms-offer
-  headline: U.S. students in 'reading recession' as test scores slide, but phonics reforms offer hope
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6648
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-rise
-  headline: ACA enrollment projected to drop by nearly 5 million as costs rise
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6606
-- slug: 2026-04-26-more-kids-attend-state-funded-preschool-as-universal-access-expands
-  headline: More kids attend state-funded preschool as universal access expands
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6567
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-spike
-  headline: ACA enrollment projected to drop by nearly 5 million as costs spike
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.649
-- slug: 2026-04-15-dropped-out-colleges-help-students-reenroll-to-finish-degrees
-  headline: Dropped out? Colleges help students reenroll to finish degrees
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6582
-- slug: 2026-01-30-hawaii-lawmaker-bill-seeks-independent-review-of-school-closures
-  headline: Hawaii lawmaker bill seeks independent review of school closures
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6564
+  strength: 0.693
 ---
-
 ## U.S. school closures reach highest count since the pandemic
 
 **Subtype:** fact

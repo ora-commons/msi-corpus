@@ -1,9 +1,20 @@
 ---
 headline: TUC chief urges UK to expand youth employment support
-secondary_headline: Milburn review delayed after budget, Guardian cites fears over chancellor's plans
+secondary_headline: Milburn review delayed after budget, Guardian cites fears over
+  chancellor's plans
 publish_date: '2026-11-09'
-lede: Paul Nowak, general secretary of the Trades Union Congress, has urged the UK government to sharply increase spending on youth employment support, education and training while avoiding arbitrary benefit cuts. Nowak's appeal comes ahead of Alan Milburn's review of young people and work, with ministers braced for recommendations to use welfare cuts to finance support for almost a million young people not in education, employment or training.
-nut_graf: Nowak's call for greater investment comes as ministers are braced for Alan Milburn's review to recommend welfare cuts to finance job support. Nowak said economic gains from investing in job support would ease pressure on the welfare state, and that increased investment could bring down the benefits bill by getting more young people into work. A government spokesperson cited £2.5bn in pledged youth employment support and a plan to create up to 200,000 jobs.
+lede: Paul Nowak, general secretary of the Trades Union Congress, has urged the UK
+  government to sharply increase spending on youth employment support, education and
+  training while avoiding arbitrary benefit cuts. Nowak's appeal comes ahead of Alan
+  Milburn's review of young people and work, with ministers braced for recommendations
+  to use welfare cuts to finance support for almost a million young people not in
+  education, employment or training.
+nut_graf: Nowak's call for greater investment comes as ministers are braced for Alan
+  Milburn's review to recommend welfare cuts to finance job support. Nowak said economic
+  gains from investing in job support would ease pressure on the welfare state, and
+  that increased investment could bring down the benefits bill by getting more young
+  people into work. A government spokesperson cited £2.5bn in pledged youth employment
+  support and a plan to create up to 200,000 jobs.
 primary_entities:
 - Paul Nowak
 - Trades Union Congress
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +158,33 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-06-burnham-to-require-employers-to-publish-salaries-on-job-adverts
-  headline: Burnham to require employers to publish salaries on job adverts
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6367
-- slug: 2026-11-03-british-social-attitudes-survey-reports-record-low-job-satisfaction
-  headline: British Social Attitudes survey reports record-low job satisfaction
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6207
 - slug: 2026-10-09-tuc-analysis-says-2023-bank-surcharge-cut-cost-uk-6bn-in-lost-revenue
   headline: TUC analysis says 2023 bank surcharge cut cost UK £6bn in lost revenue
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7168
-- slug: 2026-10-26-andrea-egan-urges-burnham-to-put-public-investment-in-his-budget
-  headline: Andrea Egan urges Burnham to put public investment in his budget
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6316
-- slug: 2026-10-27-john-healey-prepares-uk-budget-expected-to-have-smaller-tax-and-spending-changes
-  headline: John Healey prepares UK Budget expected to have smaller tax and spending changes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6022
-- slug: 2026-10-24-uk-basic-state-pension-trails-wealthy-countries-oecd-analysis-shows
-  headline: UK basic state pension trails wealthy countries, OECD analysis shows
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6099
-- slug: 2026-10-15-tuc-finds-uk-households-paid-13-961-extra-on-bills-since-2021
-  headline: TUC finds UK households paid £13,961 extra on bills since 2021
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6462
-- slug: 2026-10-09-watson-says-palantir-would-work-with-reform-uk-on-immigration
-  headline: Watson says Palantir would work with Reform UK on immigration
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6094
+  strength: 0.7176
 - slug: 2026-09-15-tuc-calls-to-rein-in-out-of-control-spending-after-reform-uk-s-72m
   headline: TUC calls to rein in 'out of control' spending after Reform UK's £72m
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.678
-- slug: 2026-09-28-uk-ai-minister-calls-for-contingency-plan-against-potential-job-losses
-  headline: UK AI minister calls for contingency plan against potential job losses
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6279
-- slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
-  headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.61
+  strength: 0.6783
 - slug: 2026-07-21-tuc-backs-burnham-s-electricity-vat-cut-pushes-for-bank-tax
   headline: TUC backs Burnham's electricity VAT cut, pushes for bank tax
   publish_date: '2026-07-21'
   relation: related
   strength: 0.7397
-- slug: 2026-09-17-shadow-chancellor-griffith-urges-healey-to-rule-out-budget-tax-rises
-  headline: Shadow chancellor Griffith urges Healey to rule out budget tax rises
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6255
-- slug: 2026-09-23-reform-linked-founder-calls-state-pension-essentially-a-ponzi-scheme
-  headline: Reform-linked founder calls state pension 'essentially a Ponzi scheme'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6066
 - slug: 2026-08-07-milburn-studies-dublin-apprenticeships-as-uk-youth-neet-rate-climbs
   headline: Milburn studies Dublin apprenticeships as UK youth Neet rate climbs
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.705
-- slug: 2026-09-03-reform-uk-sets-out-80bn-in-public-spending-cuts
-  headline: Reform UK sets out £80bn in public spending cuts
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6346
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.605
-- slug: 2026-08-15-reform-uk-proposes-50bn-welfare-overhaul-targeting-disability-payments
-  headline: Reform UK proposes £50bn welfare overhaul targeting disability payments
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6362
-- slug: 2026-08-07-uk-unions-urge-burnham-to-revoke-us-access-to-raf-bases-over-iran-war
-  headline: UK unions urge Burnham to revoke US access to RAF bases over Iran war
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6028
+  strength: 0.7049
 - slug: 2026-05-31-former-u-k-health-secretary-suggests-employer-national-insurance-cut-and-north-s
-  headline: Former U.K. health secretary suggests employer National Insurance cut and North Sea drilling
+  headline: Former U.K. health secretary suggests employer National Insurance cut
+    and North Sea drilling
   publish_date: '2026-05-31'
   relation: related
-  strength: 0.6608
+  strength: 0.661
 ---
-
 ## TUC chief urges UK to expand youth employment support
 
 **Subtype:** fact
