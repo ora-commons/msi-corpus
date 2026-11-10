@@ -1,9 +1,23 @@
 ---
 headline: Pope Leo XIV visits Argentine care home, urges protection of the vulnerable
-secondary_headline: Senate to consider disability benefits as Milei's administration resists implementing disability-care law
+secondary_headline: Senate to consider disability benefits as Milei's administration
+  resists implementing disability-care law
 publish_date: '2026-11-09'
-lede: Pope Leo XIV made a pilgrimage to the Cottolengo Don Orione in Claypole, south of Buenos Aires, on his first full day in Argentina, and renewed his call for the country to protect its weakest and most vulnerable residents. President Javier Milei's austerity measures have affected Cottolengo, along with health care and social services, and his administration has frozen payments for specialized therapy programs that for decades have served many of Argentina's estimated 5 million people with disabilities. Some residents and employees wept as Leo arrived. Leo embraced people in wheelchairs, chatted with them, blessed them and told them their lives were a blessing, not a burden on society. The visit came days before Argentina's Senate is due to consider setting aside money for disability benefits in next year's budget, a measure Milei opposes.
-nut_graf: Argentina's Senate is due to consider setting aside money for disability benefits in next year's budget while the Milei administration has resisted implementing a law Congress passed last year to increase disability-care funding. Care homes such as Cottolengo remain owed hundreds of thousands of dollars.
+lede: Pope Leo XIV made a pilgrimage to the Cottolengo Don Orione in Claypole, south
+  of Buenos Aires, on his first full day in Argentina, and renewed his call for the
+  country to protect its weakest and most vulnerable residents. President Javier Milei's
+  austerity measures have affected Cottolengo, along with health care and social services,
+  and his administration has frozen payments for specialized therapy programs that
+  for decades have served many of Argentina's estimated 5 million people with disabilities.
+  Some residents and employees wept as Leo arrived. Leo embraced people in wheelchairs,
+  chatted with them, blessed them and told them their lives were a blessing, not a
+  burden on society. The visit came days before Argentina's Senate is due to consider
+  setting aside money for disability benefits in next year's budget, a measure Milei
+  opposes.
+nut_graf: Argentina's Senate is due to consider setting aside money for disability
+  benefits in next year's budget while the Milei administration has resisted implementing
+  a law Congress passed last year to increase disability-care funding. Care homes
+  such as Cottolengo remain owed hundreds of thousands of dollars.
 primary_entities:
 - Pope Leo XIV
 - Javier Milei
@@ -50,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +167,43 @@ related_stories:
   headline: Pope Leo tells Milei the economy should serve people
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7786
-- slug: 2026-11-06-pope-leo-xiv-says-he-is-proud-to-be-an-american-after-midterm-vote
-  headline: Pope Leo XIV says he is 'proud to be an American' after midterm vote
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6318
+  strength: 0.7789
 - slug: 2026-10-29-abuse-survivors-press-pope-leo-xiv-for-defrockings-on-argentina-visit
   headline: Abuse survivors press Pope Leo XIV for defrockings on Argentina visit
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6658
+  strength: 0.666
 - slug: 2026-10-27-leo-xiv-plans-several-meetings-with-clergy-abuse-survivors-in-latin-america
   headline: Leo XIV plans several meetings with clergy abuse survivors in Latin America
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6706
+  strength: 0.6713
 - slug: 2026-09-25-pope-leo-xiv-opens-france-visit-warning-of-ai-and-nuclear-risks
   headline: Pope Leo XIV opens France visit warning of AI and nuclear risks
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6513
+  strength: 0.6508
 - slug: 2026-08-22-pope-leo-xiv-hails-san-marino-as-model-of-freedom-and-civic-responsibility
   headline: Pope Leo XIV hails San Marino as model of freedom and civic responsibility
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.6508
-- slug: 2026-07-04-pope-leo-xiv-on-july-4-urges-u-s-to-uphold-its-immigrant-welcoming-legacy
-  headline: Pope Leo XIV on July 4 urges U.S. to uphold its immigrant-welcoming legacy
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6365
+  strength: 0.6506
 - slug: 2026-05-08-pope-leo-xiv-prays-for-end-to-fratricidal-hatred-on-pompeii-anniversary
   headline: Pope Leo XIV prays for end to fratricidal hatred on Pompeii anniversary
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.6653
+  strength: 0.666
 - slug: 2026-04-10-pope-leo-xiv-finishes-africa-trip-urging-peace-and-tackling-corruption
   headline: Pope Leo XIV finishes Africa trip, urging peace and tackling corruption
   publish_date: '2026-04-10'
   relation: related
-  strength: 0.6678
+  strength: 0.6686
 - slug: 2026-03-29-pope-leo-xiv-urges-monaco-to-use-wealth-for-good-reject-idolatry
   headline: Pope Leo XIV urges Monaco to use wealth for good, reject “idolatry”
   publish_date: '2026-03-29'
   relation: related
-  strength: 0.6693
-- slug: 2026-04-21-pope-leo-recalls-francis-s-legacy-of-mercy-and-solidarity-on-anniversary
-  headline: Pope Leo recalls Francis’s legacy of mercy and solidarity on anniversary
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6643
-- slug: 2026-01-30-pope-leo-xiv-urges-vatican-doctrine-office-to-uphold-truth-and-justice-in-abuse-
-  headline: Pope Leo XIV urges Vatican doctrine office to uphold truth and justice in abuse cases
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6733
-- slug: 2026-03-15-pope-leo-highlights-abuses-of-vulnerable-adults-meets-opus-dei-critic
-  headline: Pope Leo highlights abuses of “vulnerable” adults, meets Opus Dei critic
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6656
-- slug: 2026-05-07-pope-leo-calls-for-end-to-fratricidal-hatred-during-pompeii-trip
-  headline: Pope Leo calls for end to fratricidal hatred during Pompeii trip
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6499
-- slug: 2026-04-21-pope-leo-xiv-tells-equatorial-guinea-inmates-you-are-not-alone-on-prison-visit
-  headline: Pope Leo XIV tells Equatorial Guinea inmates “You are not alone” on prison visit
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6522
-- slug: 2026-05-03-pope-leo-urges-wealthy-u-s-catholics-to-back-charitable-vatican-works
-  headline: Pope Leo urges wealthy U.S. Catholics to back charitable Vatican works
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.648
-- slug: 2026-06-08-pope-leo-xiv-calls-for-moral-renewal-in-historic-spanish-parliament-address
-  headline: Pope Leo XIV calls for moral renewal in historic Spanish parliament address
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6316
-- slug: 2026-04-09-pope-leo-xiv-wraps-up-africa-trip-urging-peace-and-denouncing-corruption
-  headline: Pope Leo XIV wraps up Africa trip, urging peace and denouncing corruption
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6514
-- slug: 2026-01-08-pope-leo-xiv-plans-spain-trip-with-stops-in-madrid-barcelona-canary-islands
-  headline: Pope Leo XIV plans Spain trip with stops in Madrid, Barcelona, Canary Islands
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.657
-- slug: 2026-04-22-diaspora-members-fear-pope-s-visit-could-bolster-equatorial-guinea-leader
-  headline: Diaspora members fear Pope’s visit could bolster Equatorial Guinea leader
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6421
+  strength: 0.67
 ---
-
 ## Pope Leo XIV visits Argentine care home, urges protection of the vulnerable
 
 **Subtype:** fact
