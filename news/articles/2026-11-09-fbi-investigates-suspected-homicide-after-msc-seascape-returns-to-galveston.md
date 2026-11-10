@@ -2,8 +2,14 @@
 headline: FBI investigates suspected homicide after MSC Seascape returns to Galveston
 secondary_headline: MSC Cruises resumes Caribbean voyages as the federal inquiry continues
 publish_date: '2026-11-09'
-lede: The FBI is investigating a suspected homicide aboard the MSC Seascape, which returned to the Port of Galveston after departing from Galveston, Texas, the bureau said Monday. MSC Cruises said the ship resumed its voyage and left Galveston on Monday afternoon while the investigation continued.
-nut_graf: The FBI's role reflects its authority as the primary federal agency for potential crimes on the high seas. The bureau had not released further details about the suspected homicide, while MSC Cruises said authorities directed the ship back to port and the vessel then resumed its voyage.
+lede: The FBI is investigating a suspected homicide aboard the MSC Seascape, which
+  returned to the Port of Galveston after departing from Galveston, Texas, the bureau
+  said Monday. MSC Cruises said the ship resumed its voyage and left Galveston on
+  Monday afternoon while the investigation continued.
+nut_graf: The FBI's role reflects its authority as the primary federal agency for
+  potential crimes on the high seas. The bureau had not released further details about
+  the suspected homicide, while MSC Cruises said authorities directed the ship back
+  to port and the vessel then resumed its voyage.
 primary_entities:
 - U.S. Federal Bureau of Investigation
 - MSC Cruises
@@ -38,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,116 +144,19 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-09-fbi-investigates-suspected-homicide-after-msc-seascape-returns-to-galveston.png
-  alt: 'Illustration accompanying article: FBI investigates suspected homicide after MSC Seascape returns to Galveston'
+  alt: 'Illustration accompanying article: FBI investigates suspected homicide after
+    MSC Seascape returns to Galveston'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
-related_stories:
-- slug: 2026-10-03-officials-believe-air-ambulance-rapidly-descended-7-500-feet-off-nantucket
-  headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6206
-- slug: 2026-10-08-trump-says-he-may-ask-fbi-to-investigate-nolan-wells-s-death
-  headline: Trump says he may ask FBI to investigate Nolan Wells's death
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5979
-- slug: 2026-10-03-coast-guard-searches-for-medical-plane-with-6-aboard-off-nantucket
-  headline: Coast Guard searches for medical plane with 6 aboard off Nantucket
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6146
-- slug: 2026-09-15-fbi-director-kash-patel-to-face-senate-panel-on-travel-questions
-  headline: FBI Director Kash Patel to face Senate panel on travel questions
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6141
-- slug: 2026-06-15-teen-charged-in-carnival-cruise-stepsister-killing-surrenders-after-judge-revoke
-  headline: Teen charged in Carnival cruise stepsister killing surrenders after judge revokes release
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.622
-- slug: 2026-05-27-judge-delays-custody-decision-for-teen-charged-in-cruise-ship-killing-of-stepsis
-  headline: Judge delays custody decision for teen charged in cruise ship killing of stepsister
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6277
-- slug: 2026-05-05-3-cruise-ship-passengers-die-in-suspected-hantavirus-outbreak-off-cape-verde
-  headline: 3 cruise ship passengers die in suspected hantavirus outbreak off Cape Verde
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6309
-- slug: 2026-02-03-marine-tragedy-strikes-america-s-oldest-seaport-claiming-seven-lives
-  headline: Marine tragedy strikes America’s oldest seaport, claiming seven lives
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6424
-- slug: 2026-05-01-truck-driver-found-dead-in-georgia-after-last-seen-at-florida-rest-stop
-  headline: Truck driver found dead in Georgia after last seen at Florida rest stop
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6131
-- slug: 2026-05-26-teen-charged-with-killing-stepsister-on-carnival-cruise-remains-free
-  headline: Teen charged with killing stepsister on Carnival Cruise remains free
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6011
-- slug: 2026-05-09-spain-readies-evacuations-for-hantavirus-cruise-ship-arriving-in-tenerife
-  headline: Spain readies evacuations for hantavirus cruise ship arriving in Tenerife
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6055
-- slug: 2026-04-08-texas-investigating-complaints-against-camp-mystic-as-it-seeks-reopen
-  headline: Texas investigating complaints against Camp Mystic as it seeks reopen
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6134
-- slug: 2026-05-10-6-found-dead-in-shipping-container-at-union-pacific-rail-yard-in-texas
-  headline: 6 found dead in shipping container at Union Pacific rail yard in Texas
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.603
-- slug: 2026-05-10-three-dead-as-hantavirus-stricken-cruise-ship-nears-spain-with-key-questions-una
-  headline: Three dead as hantavirus-stricken cruise ship nears Spain, with key questions unanswered
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6024
-- slug: 2026-05-04-who-says-suspected-hantavirus-outbreak-killed-3-on-atlantic-cruise
-  headline: WHO says suspected hantavirus outbreak killed 3 on Atlantic cruise
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6042
-- slug: 2026-04-27-latest-u-s-strike-on-suspected-drug-boat-kills-3-in-eastern-pacific
-  headline: Latest U.S. strike on suspected drug boat kills 3 in eastern Pacific
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6057
-- slug: 2026-05-08-public-health-officials-trace-potential-hantavirus-contacts-from-cruise
-  headline: Public health officials trace potential hantavirus contacts from cruise
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6019
-- slug: 2026-04-14-teen-charged-in-death-sexual-abuse-of-stepsister-on-carnival-cruise
-  headline: Teen charged in death, sexual abuse of stepsister on Carnival cruise
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.605
-- slug: 2026-04-22-teen-enters-not-guilty-plea-in-cruise-ship-death-of-stepsister-in-florida
-  headline: Teen enters not guilty plea in cruise ship death of stepsister in Florida
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6028
-- slug: 2026-03-21-us-strikes-alleged-drug-boat-off-costa-rica-s-pacific-coast-killing-2
-  headline: US strikes alleged drug boat off Costa Rica’s Pacific coast, killing 2
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6069
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
+related_stories: []
 ---
-
 ## FBI investigates suspected homicide after MSC Seascape returns to Galveston
 
 **Subtype:** fact
