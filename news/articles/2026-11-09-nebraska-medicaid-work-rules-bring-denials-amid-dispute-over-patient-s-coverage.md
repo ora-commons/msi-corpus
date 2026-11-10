@@ -2,8 +2,21 @@
 headline: Nebraska Medicaid work rules bring denials amid dispute over patient's coverage
 secondary_headline: State disputes cancer patient's account of lost Medicaid coverage
 publish_date: '2026-11-09'
-lede: Nebraska launched Medicaid work requirements on May 1 as the first state to enforce the new requirements under the One Big Beautiful Bill Act, eight months before most other states were scheduled to do so. Eli McCreary said a CHI Health hospital told him his Medicaid coverage had ended and would cancel his appointments unless he paid out of pocket; Nebraska health officials said he had no lapse in coverage, had aged into Medicare at 65 and that work requirements were not why he was disenrolled.
-nut_graf: Nebraska officials cited high compliance among affected applicants and said most existing enrollees kept coverage, while clinics and advocates reported confusing guidance, long waits and inaccurate information. The reporting notes that official aggregate data may not capture an individual case such as McCreary's, in which his account of the hospital call and the state's explanation of his disenrollment do not match. Work requirements are scheduled to apply to millions of adult Medicaid enrollees in more than 40 states next year, making Nebraska's rollout an early test of the federal changes.
+lede: Nebraska launched Medicaid work requirements on May 1 as the first state to
+  enforce the new requirements under the One Big Beautiful Bill Act, eight months
+  before most other states were scheduled to do so. Eli McCreary said a CHI Health
+  hospital told him his Medicaid coverage had ended and would cancel his appointments
+  unless he paid out of pocket; Nebraska health officials said he had no lapse in
+  coverage, had aged into Medicare at 65 and that work requirements were not why he
+  was disenrolled.
+nut_graf: Nebraska officials cited high compliance among affected applicants and said
+  most existing enrollees kept coverage, while clinics and advocates reported confusing
+  guidance, long waits and inaccurate information. The reporting notes that official
+  aggregate data may not capture an individual case such as McCreary's, in which his
+  account of the hospital call and the state's explanation of his disenrollment do
+  not match. Work requirements are scheduled to apply to millions of adult Medicaid
+  enrollees in more than 40 states next year, making Nebraska's rollout an early test
+  of the federal changes.
 primary_entities:
 - Nebraska
 - Medicaid
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +157,44 @@ related_stories:
   headline: Judge blocks stricter Medicaid exemption rule for chronically ill
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7185
+  strength: 0.7181
 - slug: 2026-10-29-ama-president-calls-medicaid-frailty-ruling-a-victory-for-patients
   headline: AMA president calls Medicaid frailty ruling 'a victory for patients'
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6575
+  strength: 0.6573
 - slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
+  headline: Twenty million Medicaid enrollees face new work requirements starting
+    January 1
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7365
-- slug: 2026-10-25-snap-enrollment-drops-13-after-trump-administration-work-requirements
-  headline: SNAP enrollment drops 13% after Trump administration work requirements
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6382
+  strength: 0.7358
 - slug: 2026-10-01-refugees-with-disabilities-lose-medicaid-as-h-r-1-takes-effect
   headline: Refugees with disabilities lose Medicaid as H.R. 1 takes effect
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6529
-- slug: 2026-04-28-nebraska-to-enforce-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to enforce Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.8057
+  strength: 0.6521
 - slug: 2026-04-27-nebraska-to-start-medicaid-work-requirement-for-new-applicants-friday
   headline: Nebraska to start Medicaid work requirement for new applicants Friday
   publish_date: '2026-04-27'
   relation: related
-  strength: 0.8059
+  strength: 0.8051
+- slug: 2026-04-28-nebraska-to-enforce-medicaid-work-requirement-for-new-applicants-friday
+  headline: Nebraska to enforce Medicaid work requirement for new applicants Friday
+  publish_date: '2026-04-28'
+  relation: related
+  strength: 0.8048
 - slug: 2026-09-12-montana-drops-cancer-survivor-s-medicaid-disability-coverage
   headline: Montana drops cancer survivor's Medicaid disability coverage
   publish_date: '2026-09-12'
   relation: related
-  strength: 0.6546
+  strength: 0.6533
 - slug: 2026-08-04-federal-medicaid-work-rule-excludes-homelessness-as-automatic-exemption
   headline: Federal Medicaid work rule excludes homelessness as automatic exemption
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.7078
-- slug: 2026-07-22-budget-law-stalls-bipartisan-pre-release-medicaid-effort
-  headline: Budget law stalls bipartisan pre-release Medicaid effort
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6971
-- slug: 2026-06-01-trump-administration-imposes-80-hour-monthly-work-requirement-for-medicaid
-  headline: Trump administration imposes 80-hour monthly work requirement for Medicaid
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7306
-- slug: 2026-08-23-becerra-faces-projected-doubling-of-uninsured-californians-by-2030
-  headline: Becerra faces projected doubling of uninsured Californians by 2030
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6344
-- slug: 2026-07-01-hr-1-ends-new-york-s-essential-plan-cutting-coverage-for-nearly-500-000
-  headline: HR 1 ends New York's Essential Plan, cutting coverage for nearly 500,000
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6552
-- slug: 2026-07-20-deloitte-run-medicaid-system-denied-disabled-patients-in-michigan-probe-finds
-  headline: Deloitte-run Medicaid system denied disabled patients in Michigan, probe finds
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6344
-- slug: 2026-03-24-nebraska-seeks-to-end-retroactive-medicaid-coverage
-  headline: Nebraska seeks to end retroactive Medicaid coverage
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.688
-- slug: 2026-07-22-nearly-1-in-4-u-s-workers-stay-in-unwanted-jobs-for-health-insurance
-  headline: Nearly 1 in 4 U.S. workers stay in unwanted jobs for health insurance
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6245
-- slug: 2026-03-02-medicaid-work-mandates-force-states-to-spend-millions-on-new-technology
-  headline: Medicaid work mandates force states to spend millions on new technology
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6851
-- slug: 2026-06-30-eleven-states-approve-workforce-pell-frameworks-as-july-1-launch-begins
-  headline: Eleven states approve Workforce Pell frameworks as July 1 launch begins
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6351
-- slug: 2026-03-05-trump-medicaid-work-mandate-could-disrupt-care-for-homeless-californians
-  headline: Trump Medicaid work mandate could disrupt care for homeless Californians
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6737
-- slug: 2026-06-04-democratic-led-states-sue-to-block-student-loan-caps-for-nursing-health-degrees
-  headline: Democratic-led states sue to block student loan caps for nursing, health degrees
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6463
+  strength: 0.7068
 ---
-
 ## Nebraska Medicaid work rules bring denials amid dispute over patient's coverage
 
 **Subtype:** fact

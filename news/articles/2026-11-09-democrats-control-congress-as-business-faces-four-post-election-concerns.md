@@ -2,8 +2,19 @@
 headline: Democrats control Congress as business faces four post-election concerns
 secondary_headline: Murray sees bipartisan compromise as possible but unlikely
 publish_date: '2026-11-09'
-lede: 'After last week''s election left Democrats controlling Congress, Alan Murray said the result should drive both parties toward the center, which he said would benefit business. He said bipartisan compromise on the budget deficit and global security remains possible but unlikely, and identified four developments for businesses to watch in the months ahead: congressional investigations, President Trump''s response to the results, public backlash against data centers and the unresolved 2028 presidential contest.'
-nut_graf: The post-election business environment remains unsettled despite Murray's forecast that the result should drive both parties toward the center. Democrats now control Congress's investigative power, while Murray expects Trump to resist the result and says public backlash against data centers could have negative ramifications for business. He also warns that the 2028 presidential contest remains open and says successful businesses need to be resilient.
+lede: 'After last week''s election left Democrats controlling Congress, Alan Murray
+  said the result should drive both parties toward the center, which he said would
+  benefit business. He said bipartisan compromise on the budget deficit and global
+  security remains possible but unlikely, and identified four developments for businesses
+  to watch in the months ahead: congressional investigations, President Trump''s response
+  to the results, public backlash against data centers and the unresolved 2028 presidential
+  contest.'
+nut_graf: The post-election business environment remains unsettled despite Murray's
+  forecast that the result should drive both parties toward the center. Democrats
+  now control Congress's investigative power, while Murray expects Trump to resist
+  the result and says public backlash against data centers could have negative ramifications
+  for business. He also warns that the 2028 presidential contest remains open and
+  says successful businesses need to be resilient.
 primary_entities:
 - Alan Murray
 - President Trump
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,113 +161,58 @@ related_stories:
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7652
+  strength: 0.7647
 - slug: 2026-11-07-wall-street-rotates-out-of-ai-and-defense-stocks-after-democratic-midterm-sweep
-  headline: Wall Street rotates out of AI and defense stocks after Democratic midterm sweep
+  headline: Wall Street rotates out of AI and defense stocks after Democratic midterm
+    sweep
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7201
+  strength: 0.7222
 - slug: 2026-11-07-democrats-face-limited-tools-to-ease-cost-of-living-anger-analysis-argues
   headline: Democrats face limited tools to ease cost-of-living anger, analysis argues
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7128
+  strength: 0.7145
 - slug: 2026-11-05-tech-billionaires-face-scrutiny-after-democratic-congressional-gains
   headline: Tech billionaires face scrutiny after Democratic congressional gains
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7249
+  strength: 0.727
 - slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
   headline: Democratic leaders weigh oversight and legislation after 2026 midterms
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7042
+  strength: 0.7032
 - slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7292
+  strength: 0.7298
 - slug: 2026-11-07-greg-casar-urges-democrats-to-target-corporate-power-beyond-trump
   headline: Greg Casar urges Democrats to target corporate power beyond Trump
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7051
+  strength: 0.7054
 - slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
+  headline: Democrats take control of Congress, seek leverage over Trump’s foreign
+    policy
   publish_date: '2026-11-05'
   relation: related
   strength: 0.7151
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7165
-- slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
-  headline: Democrats win Congress as Trump retains broad presidential powers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7125
-- slug: 2026-11-06-data-center-skeptics-win-across-us-midterms-as-tougher-state-rules-loom
-  headline: Data center skeptics win across US midterms as tougher state rules loom
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6991
-- slug: 2026-11-05-democrats-win-congress-on-affordability-but-trump-retains-veto-power
-  headline: Democrats win Congress on affordability, but Trump retains veto power
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7056
-- slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
-  headline: Democrats gain control of Congress as 2026 voter shifts emerge
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.701
-- slug: 2026-11-04-democrats-take-both-chambers-trump-faces-three-paths-likely-less-party-control
-  headline: Democrats take both chambers; Trump faces three paths, likely less party control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7057
-- slug: 2026-11-05-democratic-winners-point-to-moderates-gaining-ground-in-the-incoming-congress
-  headline: Democratic winners point to moderates gaining ground in the incoming Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6987
-- slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
-  headline: Democrats prepare agenda on taxes, health care, AI and Social Security
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7037
-- slug: 2026-11-04-democrats-wins-could-bring-stricter-ai-and-data-center-rules
-  headline: Democrats’ wins could bring stricter AI and data-center rules
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7028
-- slug: 2026-11-04-ai-regulation-concerns-pressure-the-dollar-after-democrats-take-congress
-  headline: AI regulation concerns pressure the dollar after Democrats take Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7026
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7086
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.712
 image:
   url: /articles/2026-11-09-democrats-control-congress-as-business-faces-four-post-election-concerns.png
-  alt: "Illustration accompanying article: Democrats control Congress as business faces four post-election concerns"
+  alt: 'Illustration accompanying article: Democrats control Congress as business
+    faces four post-election concerns'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Democrats control Congress as business faces four post-election concerns
 
 **Subtype:** fact

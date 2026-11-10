@@ -1,9 +1,26 @@
 ---
 headline: Vallejo district exits state oversight, then closes three elementary schools
-secondary_headline: Vallejo schools average 46% full amid crowded classes and a teacher's resignation
+secondary_headline: Vallejo schools average 46% full amid crowded classes and a teacher's
+  resignation
 publish_date: '2026-11-09'
-lede: Vallejo City Unified School District received a $60 million emergency bailout from the state after mismanagement in the early 2000s brought it to the brink of bankruptcy, and the district remained under state oversight until summer 2024. Around the time the state lifted the financial receivership, Superintendent Rubén Aurelio took over as superintendent and soon recognized a new set of budget problems. The district then announced two rounds of closures, including a second wave that shuttered three of its 10 elementary schools earlier this year, and Vallejo schools were on average only 46% full, the district says. Families at the receiving campuses now confront crowded classes and an immediate teacher resignation.
-nut_graf: Vallejo's case shows how campus closures can fail to close a budget gap and can push more families out. Research cited by The Associated Press says busing students to reassigned schools, severance for pink-slipped staff and security for empty facilities can eat up any savings, while departures to charter, private or other schools or districts can reduce enrollment and the per-student revenue that funds what remains. In Vallejo, Caitlin Jackson and her family enrolled their son at the district-sponsored charter for now after citing crowded classes and safety concerns at a neighborhood school, having moved to the city for relatively affordable housing.
+lede: Vallejo City Unified School District received a $60 million emergency bailout
+  from the state after mismanagement in the early 2000s brought it to the brink of
+  bankruptcy, and the district remained under state oversight until summer 2024. Around
+  the time the state lifted the financial receivership, Superintendent Rubén Aurelio
+  took over as superintendent and soon recognized a new set of budget problems. The
+  district then announced two rounds of closures, including a second wave that shuttered
+  three of its 10 elementary schools earlier this year, and Vallejo schools were on
+  average only 46% full, the district says. Families at the receiving campuses now
+  confront crowded classes and an immediate teacher resignation.
+nut_graf: Vallejo's case shows how campus closures can fail to close a budget gap
+  and can push more families out. Research cited by The Associated Press says busing
+  students to reassigned schools, severance for pink-slipped staff and security for
+  empty facilities can eat up any savings, while departures to charter, private or
+  other schools or districts can reduce enrollment and the per-student revenue that
+  funds what remains. In Vallejo, Caitlin Jackson and her family enrolled their son
+  at the district-sponsored charter for now after citing crowded classes and safety
+  concerns at a neighborhood school, having moved to the city for relatively affordable
+  housing.
 primary_entities:
 - Vallejo City Unified School District
 - Glen Cove Elementary School
@@ -55,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,17 +175,7 @@ related_stories:
   headline: U.S. school closures reach highest count since the pandemic
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7805
-- slug: 2026-10-28-falling-u-s-k-12-enrollment-prompts-public-school-staff-and-program-cuts
-  headline: Falling U.S. K-12 enrollment prompts public-school staff and program cuts
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6346
-- slug: 2026-10-27-silicon-valley-parents-press-public-schools-to-limit-classroom-technology
-  headline: Silicon Valley parents press public schools to limit classroom technology
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.618
+  strength: 0.7815
 - slug: 2026-02-03-nevada-districts-face-school-budget-shortfalls-after-funding-surge
   headline: Nevada districts face school budget shortfalls after funding surge
   publish_date: '2026-02-03'
@@ -177,84 +185,19 @@ related_stories:
   headline: San Francisco teachers go on strike for first time in decades
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.6638
-- slug: 2026-02-12-san-francisco-parents-scramble-as-teachers-strike-leaves-50-000-students-out
-  headline: San Francisco parents scramble as teachers strike leaves 50,000 students out
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6634
+  strength: 0.6654
 - slug: 2026-02-10-san-francisco-parents-juggle-work-and-kids-amid-teachers-strike
   headline: San Francisco parents juggle work and kids amid teachers strike
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.6627
-- slug: 2026-06-22-la-schools-superintendent-resigns-months-after-fbi-search-warrant-served
-  headline: LA schools superintendent resigns months after FBI search warrant served
-  publish_date: '2026-06-22'
+  strength: 0.6642
+- slug: 2026-02-12-san-francisco-parents-scramble-as-teachers-strike-leaves-50-000-students-out
+  headline: San Francisco parents scramble as teachers strike leaves 50,000 students
+    out
+  publish_date: '2026-02-12'
   relation: related
-  strength: 0.6126
-- slug: 2026-02-28-wave-of-california-teacher-strikes-is-no-coincidence-union-says
-  headline: Wave of California teacher strikes “is no coincidence,” union says
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6432
-- slug: 2026-02-11-san-francisco-teachers-strike-shuts-schools-affecting-50-000-students
-  headline: San Francisco Teachers Strike Shuts Schools, Affecting 50,000 Students
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6426
-- slug: 2026-02-26-california-utilities-planned-shutoffs-are-costing-schools-time-money
-  headline: California utilities’ planned shutoffs are costing schools time, money
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6274
-- slug: 2026-05-10-california-s-first-teacher-apprenticeship-program-set-to-launch-this-fall-amid-s
-  headline: California’s first teacher apprenticeship program set to launch this fall amid shortages
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6124
-- slug: 2026-02-26-fbi-searches-la-school-superintendent-alberto-carvalho-s-home-and-district-sites
-  headline: FBI searches LA school superintendent Alberto Carvalho’s home and district sites
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.616
-- slug: 2026-05-10-california-s-first-teacher-apprenticeship-program-aims-to-cut-vacancies
-  headline: California’s first teacher apprenticeship program aims to cut vacancies
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5978
-- slug: 2026-02-28-los-angeles-school-chief-alberto-carvalho-placed-on-paid-leave-in-fbi-probe
-  headline: Los Angeles school chief Alberto Carvalho placed on paid leave in FBI probe
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6095
-- slug: 2026-01-26-inconsistent-policies-stymie-nevada-s-attendance-push
-  headline: Inconsistent policies stymie Nevada's attendance push
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6073
-- slug: 2026-04-15-dropped-out-colleges-help-students-reenroll-to-finish-degrees
-  headline: Dropped out? Colleges help students reenroll to finish degrees
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5945
-- slug: 2026-03-12-los-angeles-schools-superintendent-denies-wrongdoing-seeks-reinstatement
-  headline: Los Angeles schools superintendent denies wrongdoing, seeks reinstatement
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6003
-- slug: 2026-03-13-as-west-virginia-schools-face-financial-crisis-lawmakers-offer-no-help
-  headline: As West Virginia schools face financial crisis, lawmakers offer no help
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.5996
-- slug: 2026-02-27-anchorage-school-board-approves-severe-budget-with-layoffs-and-3-school-closures
-  headline: Anchorage School Board approves severe budget with layoffs and 3 school closures
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.5988
+  strength: 0.6638
 ---
-
 ## Vallejo district exits state oversight, then closes three elementary schools
 
 **Subtype:** fact
