@@ -1,9 +1,19 @@
 ---
-headline: Boeing plans about 5% commercial aircraft workforce reduction as jet output slows
+headline: Boeing plans about 5% commercial aircraft workforce reduction as jet output
+  slows
 secondary_headline: Boeing says it will no longer meet its 2026 delivery target
 publish_date: '2026-11-09'
-lede: Boeing said Monday it will cut about 5% of its commercial aircraft workforce through a mix of layoffs and attrition as it moderates the pace of ramping up jet production. Boeing commercial chief Stephanie Pope told employees in a message that reduced aircraft output has left the company overstaffed and that factories and supply-chain partners need more time to stabilize. Layoff notifications will begin in December.
-nut_graf: Boeing’s workforce reduction comes as the company says it will no longer meet its 2026 delivery target and has pushed back the timetable for raising 737 Max output. Investors have viewed 737 Max output as central to revenue and profit growth after a long period of financial losses due to safety problems, including two deadly Max crashes in 2018 and 2019.
+lede: Boeing said Monday it will cut about 5% of its commercial aircraft workforce
+  through a mix of layoffs and attrition as it moderates the pace of ramping up jet
+  production. Boeing commercial chief Stephanie Pope told employees in a message that
+  reduced aircraft output has left the company overstaffed and that factories and
+  supply-chain partners need more time to stabilize. Layoff notifications will begin
+  in December.
+nut_graf: Boeing’s workforce reduction comes as the company says it will no longer
+  meet its 2026 delivery target and has pushed back the timetable for raising 737
+  Max output. Investors have viewed 737 Max output as central to revenue and profit
+  growth after a long period of financial losses due to safety problems, including
+  two deadly Max crashes in 2018 and 2019.
 primary_entities:
 - Boeing
 - Stephanie Pope
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +149,44 @@ related_stories:
   headline: FAA clears Boeing 737 MAX 10 for customer deliveries
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7188
-- slug: 2026-11-02-ryanair-weighs-lower-crew-ratios-and-pay-freezes-as-fuel-bill-rises
-  headline: Ryanair weighs lower crew ratios and pay freezes as fuel bill rises
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.64
+  strength: 0.718
 - slug: 2026-10-21-duffy-says-u-s-aircraft-certification-hurts-aviation-competitiveness
   headline: Duffy says U.S. aircraft certification hurts aviation competitiveness
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6972
+  strength: 0.6966
 - slug: 2026-10-23-american-express-cuts-5-of-global-staff-while-raising-its-profit-outlook
   headline: American Express cuts 5% of global staff while raising its profit outlook
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6533
+  strength: 0.6518
 - slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
   headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.654
+  strength: 0.6537
 - slug: 2026-10-02-boeing-aerospace-union-months-into-first-full-contract-talks-in-14-years
   headline: Boeing aerospace union months into first full contract talks in 14 years
   publish_date: '2026-10-02'
   relation: related
   strength: 0.6863
 - slug: 2026-09-28-faa-chief-delays-737-max-10-certification-over-pilot-workload-software-glitch
-  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software glitch
+  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software
+    glitch
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6969
+  strength: 0.6966
 - slug: 2026-09-26-faa-probes-boeing-737-max-software-glitch-in-landing-scenarios
   headline: FAA probes Boeing 737 MAX software glitch in landing scenarios
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6926
+  strength: 0.6921
 - slug: 2026-09-28-software-glitch-delays-approval-of-boeing-s-newest-737-max
   headline: Software glitch delays approval of Boeing's newest 737 MAX
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6829
-- slug: 2026-07-19-boeing-ceo-says-company-must-shore-up-finances-before-launching-new-plane
-  headline: Boeing CEO says company must shore up finances before launching new plane
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.7864
-- slug: 2026-07-28-boeing-posts-428m-loss-on-air-force-one-cost-overruns
-  headline: Boeing posts $428M loss on Air Force One cost overruns
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7518
-- slug: 2026-07-09-faa-set-to-certify-boeing-737-max-7-later-this-month
-  headline: FAA set to certify Boeing 737 MAX 7 later this month
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7169
-- slug: 2026-08-03-boeing-737-max-7-certified-by-faa-after-nearly-decade-long-wait
-  headline: Boeing 737 Max 7 certified by FAA after nearly decade-long wait
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6883
-- slug: 2026-08-07-faa-orders-inspections-of-471-boeing-737-max-jets-for-possible-cracks
-  headline: FAA orders inspections of 471 Boeing 737 Max jets for possible cracks
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6534
-- slug: 2026-05-17-boeing-says-china-agreed-to-buy-200-aircraft-after-trump-xi-summit
-  headline: Boeing says China agreed to buy 200 aircraft after Trump-Xi summit
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7089
-- slug: 2026-07-17-faa-restores-boeing-s-authority-to-certify-737-max-787-as-airworthy
-  headline: FAA restores Boeing's authority to certify 737 Max, 787 as airworthy
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.667
-- slug: 2026-07-27-porsche-to-cut-5-000-jobs-via-early-retirement-in-agreement-with-workers
-  headline: Porsche to cut 5,000 jobs via early retirement in agreement with workers
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6547
-- slug: 2026-05-17-boeing-lands-200-plane-order-from-china-at-trump-xi-summit
-  headline: Boeing lands 200-plane order from China at Trump-Xi summit
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7005
-- slug: 2026-07-02-nasa-oig-report-warns-boeing-starliner-future-uncertain
-  headline: NASA OIG report warns Boeing Starliner future uncertain
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6396
-- slug: 2026-06-23-rory-kennedy-s-new-film-freefall-revisits-boeing-after-whistleblower-s-death
-  headline: Rory Kennedy’s new film ‘Freefall’ revisits Boeing after whistleblower’s death
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6435
+  strength: 0.6826
 ---
-
 ## Boeing plans about 5% commercial aircraft workforce reduction as jet output slows
 
 **Subtype:** fact
