@@ -2,8 +2,23 @@
 headline: BlackBerry secures China design wins as Morgans downgrades Qantas
 secondary_headline: IAG posts 17.7% adjusted operating margin and advances buyback
 publish_date: '2026-11-09'
-lede: Morgans downgraded Qantas Airways to hold from accumulate as elevated fuel prices, higher operating costs and broader inflationary pressures weighed on near-term earnings, according to the latest auto-and-transport Market Talks in The Wall Street Journal's Nov. 9 roundup, published exclusively on Dow Jones Newswires at 4:20 ET, 12:20 ET and 16:50 ET. BlackBerry, a Canadian company, and Valeo secured design wins with multiple Chinese automakers for a front-view smart camera platform integrating QNX, and the latest design wins will add to the current base of 275 million vehicles globally with QNX embedded. Citi said a flat EBIT outcome for Pirelli in 2027 was the best base case for now, while International Consolidated Airlines reported a 17.7% adjusted operating margin and started the final part of its 1.5 billion euro buyback.
-nut_graf: The Market Talks connect cost pressure in airlines and tires with commercial gains in embedded vehicle software. IAG backed adjusted operating margin guidance of at least 12% and started the final part of its buyback, Citi described a flat Pirelli EBIT outcome for 2027 as its best base case for now, and BlackBerry's Valeo partnership added Chinese design wins that will expand the base of vehicles carrying QNX.
+lede: Morgans downgraded Qantas Airways to hold from accumulate as elevated fuel prices,
+  higher operating costs and broader inflationary pressures weighed on near-term earnings,
+  according to the latest auto-and-transport Market Talks in The Wall Street Journal's
+  Nov. 9 roundup, published exclusively on Dow Jones Newswires at 4:20 ET, 12:20 ET
+  and 16:50 ET. BlackBerry, a Canadian company, and Valeo secured design wins with
+  multiple Chinese automakers for a front-view smart camera platform integrating QNX,
+  and the latest design wins will add to the current base of 275 million vehicles
+  globally with QNX embedded. Citi said a flat EBIT outcome for Pirelli in 2027 was
+  the best base case for now, while International Consolidated Airlines reported a
+  17.7% adjusted operating margin and started the final part of its 1.5 billion euro
+  buyback.
+nut_graf: The Market Talks connect cost pressure in airlines and tires with commercial
+  gains in embedded vehicle software. IAG backed adjusted operating margin guidance
+  of at least 12% and started the final part of its buyback, Citi described a flat
+  Pirelli EBIT outcome for 2027 as its best base case for now, and BlackBerry's Valeo
+  partnership added Chinese design wins that will expand the base of vehicles carrying
+  QNX.
 primary_entities:
 - BlackBerry
 - Valeo
@@ -50,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +168,45 @@ related_stories:
   headline: UniCredit posts 17% profit beat amid integration uncertainty
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.656
+  strength: 0.6563
 - slug: 2026-10-27-novartis-raises-profit-guidance-as-lower-costs-drive-third-quarter-earnings-beat
-  headline: Novartis raises profit guidance as lower costs drive third-quarter earnings beat
+  headline: Novartis raises profit guidance as lower costs drive third-quarter earnings
+    beat
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6567
-- slug: 2026-10-26-volvo-swings-to-a-deep-loss-as-china-profitability-and-volumes-decline
-  headline: Volvo swings to a deep loss as China profitability and volumes decline
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6382
-- slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
-  headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6468
-- slug: 2026-10-20-analysts-update-energy-payouts-power-growth-and-refining-outlooks
-  headline: Analysts update energy payouts, power growth and refining outlooks
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6398
+  strength: 0.6566
 - slug: 2026-10-14-morgan-stanley-raises-brent-forecast-as-bp-posts-strong-q3-update
   headline: Morgan Stanley raises Brent forecast as BP posts strong Q3 update
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6557
+  strength: 0.6554
 - slug: 2026-10-13-volkswagen-rises-as-analysts-praise-cost-cuts-stellantis-slips-on-2cv
   headline: Volkswagen rises as analysts praise cost-cuts; Stellantis slips on 2CV
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6563
-- slug: 2026-10-09-eu-regulators-question-mmg-anglo-american-deal-over-china-supply-concerns
-  headline: EU regulators question MMG–Anglo American deal over China supply concerns
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6492
-- slug: 2026-09-29-oil-rises-as-us-iran-talks-stall-daimler-truck-volvo-manage-backlog-delivery
-  headline: Oil rises as US-Iran talks stall; Daimler Truck, Volvo manage backlog delivery
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6381
-- slug: 2026-09-14-morgan-stanley-weighs-vw-plan-oil-climbs-on-middle-east-tensions
-  headline: Morgan Stanley weighs VW plan; oil climbs on Middle East tensions
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6406
+  strength: 0.6567
 - slug: 2026-08-31-tech-analyst-notes-span-tencent-ai-release-fed-capex-comments
   headline: Tech analyst notes span Tencent AI release, Fed capex comments
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6512
+  strength: 0.6504
 - slug: 2026-07-31-analysts-flag-magna-margin-gains-ferrari-beat-caution-on-renault-results
   headline: Analysts flag Magna margin gains, Ferrari beat; caution on Renault results
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.6841
+  strength: 0.6845
 - slug: 2026-06-23-norwegian-acquisition-wins-backing-qantas-ultra-long-haul-panned
   headline: Norwegian Acquisition Wins Backing; Qantas Ultra Long-Haul Panned
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6935
+  strength: 0.6934
 - slug: 2026-07-10-analysts-flag-weak-demand-shifting-spending-across-auto-and-transport-sectors
-  headline: Analysts flag weak demand, shifting spending across auto and transport sectors
+  headline: Analysts flag weak demand, shifting spending across auto and transport
+    sectors
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6668
-- slug: 2026-06-30-maersk-shares-gain-on-conflict-driven-rates-mercedes-ferrari-upgraded
-  headline: Maersk shares gain on conflict-driven rates; Mercedes, Ferrari upgraded
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6648
-- slug: 2026-06-04-ferrari-luce-ev-gets-poor-dealer-reception-nio-growth-outlook-intact
-  headline: Ferrari Luce EV gets poor dealer reception; NIO growth outlook intact
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6798
-- slug: 2026-07-07-easyjet-board-backs-castlelake-s-6-90-share-takeover-bid
-  headline: easyJet board backs Castlelake's £6.90/share takeover bid
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6492
-- slug: 2026-06-09-porsche-lufthansa-uber-nvidia-analysts-assess-auto-and-transport-sector
-  headline: 'Porsche, Lufthansa, Uber-Nvidia: Analysts Assess Auto and Transport Sector'
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6676
-- slug: 2026-07-07-huawei-tencent-microsoft-lead-tech-roundup-as-analyst-notes
-  headline: Huawei, Tencent, Microsoft lead tech roundup as analyst notes
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.64
-- slug: 2026-06-03-stellantis-targets-2028-profit-rebound-as-analysts-see-skepticism
-  headline: Stellantis targets 2028 profit rebound as analysts see skepticism
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6619
+  strength: 0.6671
 ---
-
 ## BlackBerry secures China design wins as Morgans downgrades Qantas
 
 **Subtype:** fact
