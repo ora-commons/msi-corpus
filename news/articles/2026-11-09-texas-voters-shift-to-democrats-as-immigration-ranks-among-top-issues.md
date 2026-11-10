@@ -1,9 +1,18 @@
 ---
 headline: Texas voters shift to Democrats as immigration ranks among top issues
-secondary_headline: Congress could reclaim around $240 billion as lawmakers eye stricter ICE oversight
+secondary_headline: Congress could reclaim around $240 billion as lawmakers eye stricter
+  ICE oversight
 publish_date: '2026-11-09'
-lede: Texas voters shifted to Democrats in the 2026 midterms, electing Gina Hinojosa as the state's first Latina Democratic governor and giving Texas its first Democratic U.S. senator in nearly 40 years. The Texas House of Representatives flipped, and NPR reported that immigration policy ranked among the top issues in exit polling. NPR also reported that Congress gave immigration enforcement broad latitude in 2025 and awarded ICE and Customs and Border Patrol around $240 billion in 2026.
-nut_graf: Congress could reclaim around $240 billion in immigration-enforcement funding after the midterms, while lawmakers considered stricter ICE oversight. Texas Governor-elect Gina Hinojosa faced calls to end the state's ICE partnership, Houston's mayor was reducing police cooperation, and the White House said deportations would continue.
+lede: Texas voters shifted to Democrats in the 2026 midterms, electing Gina Hinojosa
+  as the state's first Latina Democratic governor and giving Texas its first Democratic
+  U.S. senator in nearly 40 years. The Texas House of Representatives flipped, and
+  NPR reported that immigration policy ranked among the top issues in exit polling.
+  NPR also reported that Congress gave immigration enforcement broad latitude in 2025
+  and awarded ICE and Customs and Border Patrol around $240 billion in 2026.
+nut_graf: Congress could reclaim around $240 billion in immigration-enforcement funding
+  after the midterms, while lawmakers considered stricter ICE oversight. Texas Governor-elect
+  Gina Hinojosa faced calls to end the state's ICE partnership, Houston's mayor was
+  reducing police cooperation, and the White House said deportations would continue.
 primary_entities:
 - Texas
 - Houston
@@ -52,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,104 +164,45 @@ related_stories:
   headline: Latino voters swing sharply to Democrats, powering 2026 midterm wins
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8083
+  strength: 0.8082
 - slug: 2026-11-06-latino-voters-move-sharply-to-democrats-in-2026-midterms
-  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas sweep
+  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas
+    sweep
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.785
+  strength: 0.7861
 - slug: 2026-11-04-under-30-and-hispanic-texas-senate-voters-back-talarico
   headline: Under-30 and Hispanic Texas Senate voters back Talarico
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7841
+  strength: 0.7844
 - slug: 2026-11-06-houston-limits-police-cooperation-with-ice-under-new-mayoral-order
   headline: Houston limits police cooperation with ICE under new mayoral order
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7386
+  strength: 0.7378
 - slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
   headline: Democrats win House and Senate in 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7466
+  strength: 0.7477
 - slug: 2026-11-04-surveys-indicated-texas-hispanic-voters-favored-democrats
   headline: Surveys indicated Texas Hispanic voters favored Democrats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7416
+  strength: 0.7422
 - slug: 2026-11-06-gina-hinojosa-pledges-bipartisan-administration-after-ousting-abbott-in-texas
-  headline: Gina Hinojosa pledges bipartisan administration after ousting Abbott in Texas
+  headline: Gina Hinojosa pledges bipartisan administration after ousting Abbott in
+    Texas
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7273
+  strength: 0.7266
 - slug: 2026-11-06-democrats-sweep-every-texas-statewide-office-and-take-control-of-the-statehouse
   headline: Democrats sweep every Texas statewide office and take control of the statehouse
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7226
-- slug: 2026-11-07-most-midterm-voters-say-trump-s-immigration-enforcement-has-gone-too-far
-  headline: Most midterm voters say Trump's immigration enforcement has gone too far
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7153
-- slug: 2026-11-05-democrats-sweep-southern-elections-overturning-decades-of-gop-dominance
-  headline: Democrats sweep Southern elections, overturning decades of GOP dominance
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7268
-- slug: 2026-11-04-supporters-at-austin-watch-party-explain-the-texas-election-result
-  headline: Supporters at Austin watch party explain the Texas election result
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7325
-- slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7004
-- slug: 2026-11-07-texas-democrats-wins-echo-state-s-1890s-populist-movement-commentator-says
-  headline: Texas Democrats' wins echo state's 1890s populist movement, commentator says
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7023
-- slug: 2026-10-29-hispanic-turnout-surges-in-south-texas-as-republicans-face-competitive-races
-  headline: Hispanic turnout surges in South Texas as Republicans face competitive races
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7433
-- slug: 2026-11-03-gina-hinojosa-defeats-greg-abbott-in-texas-governor-race
-  headline: Gina Hinojosa defeats Greg Abbott in Texas governor race
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7076
-- slug: 2026-11-04-hinojosa-s-texas-win-followed-a-long-shot-affordability-campaign
-  headline: Hinojosa's Texas win followed a long-shot affordability campaign
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6996
-- slug: 2026-10-30-new-citizens-and-immigrant-family-voters-cast-midterm-ballots-as-family-duty
-  headline: New citizens and immigrant-family voters cast midterm ballots as family duty
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7264
-- slug: 2026-10-23-texas-polls-suggest-hispanic-voters-are-moving-away-from-trump-before-midterms
-  headline: Texas polls suggest Hispanic voters are moving away from Trump before midterms
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7606
-- slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
-  headline: Paxton, Talarico face off as Texas voters head to polls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7108
-- slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
-  headline: Immigration enforcement reshapes midterm races as voter disapproval grows
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7432
+  strength: 0.7234
 ---
-
 ## Texas voters shift to Democrats as immigration ranks among top issues
 
 **Subtype:** fact
