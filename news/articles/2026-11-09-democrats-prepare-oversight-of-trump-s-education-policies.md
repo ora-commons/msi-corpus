@@ -2,8 +2,18 @@
 headline: Democrats prepare oversight of Trump's education policies
 secondary_headline: Funding conditions may limit additional Education Department changes
 publish_date: '2026-11-09'
-lede: Democrats in Congress are preparing to use their new majorities after the midterms to challenge some of President Donald Trump's marquee education policies, starting with the administration's plan to close the U.S. Education Department and move some of its functions to other agencies. Rep. Bobby Scott of Virginia is preparing committee investigations, while some Democrats on the Senate Appropriations Committee are planning to add conditions on federal spending bills. President Donald Trump's veto power is likely to limit what Congress can enact.
-nut_graf: The new Democratic majorities could reshape congressional scrutiny and federal education funding, but those gains do not erase the president's veto power. Democrats are focusing on hearings, subpoenas and spending conditions as immediate routes for pressure, while advocates seeking a broader reversal face the limits of Trump's threat to veto bills.
+lede: Democrats in Congress are preparing to use their new majorities after the midterms
+  to challenge some of President Donald Trump's marquee education policies, starting
+  with the administration's plan to close the U.S. Education Department and move some
+  of its functions to other agencies. Rep. Bobby Scott of Virginia is preparing committee
+  investigations, while some Democrats on the Senate Appropriations Committee are
+  planning to add conditions on federal spending bills. President Donald Trump's veto
+  power is likely to limit what Congress can enact.
+nut_graf: The new Democratic majorities could reshape congressional scrutiny and federal
+  education funding, but those gains do not erase the president's veto power. Democrats
+  are focusing on hearings, subpoenas and spending conditions as immediate routes
+  for pressure, while advocates seeking a broader reversal face the limits of Trump's
+  threat to veto bills.
 primary_entities:
 - U.S. Department of Education
 - U.S. Democratic Party
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +157,45 @@ related_stories:
   headline: Democrats ask Trump officials to preserve records after election victories
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7644
+  strength: 0.7651
 - slug: 2026-11-08-some-democrats-promise-more-clean-energy-major-energy-or-climate-changes-need-re
-  headline: Some Democrats promise more clean energy; major energy or climate changes need Republican votes
+  headline: Some Democrats promise more clean energy; major energy or climate changes
+    need Republican votes
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7184
+  strength: 0.7192
 - slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7422
+  strength: 0.7434
 - slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
   headline: Democratic leaders weigh oversight and legislation after 2026 midterms
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7094
+  strength: 0.71
 - slug: 2026-11-06-democrats-plan-to-force-votes-on-popular-bills-and-dare-trump-to-veto-them
-  headline: Democrats plan to force votes on popular bills and dare Trump to veto them
+  headline: Democrats plan to force votes on popular bills and dare Trump to veto
+    them
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7156
+  strength: 0.7164
 - slug: 2026-11-09-democrats-put-grocery-price-proposals-on-their-post-election-agenda
   headline: Democrats put grocery-price proposals on their post-election agenda
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6917
+  strength: 0.6928
 - slug: 2026-11-05-trump-s-veto-power-takes-center-stage-as-democrats-near-control
   headline: Trump's veto power takes center stage as Democrats near control
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7176
+  strength: 0.7186
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7286
-- slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6925
-- slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
-  headline: Democrats prepare agenda on taxes, health care, AI and Social Security
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7171
-- slug: 2026-11-07-most-midterm-voters-say-trump-s-immigration-enforcement-has-gone-too-far
-  headline: Most midterm voters say Trump's immigration enforcement has gone too far
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.692
-- slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7053
-- slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
-  headline: Democrats win Congress as Trump retains broad presidential powers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7074
-- slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7054
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7054
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6987
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6958
-- slug: 2026-11-03-justice-department-sends-observers-as-watchdogs-prepare-poll-monitors
-  headline: Justice Department sends observers as watchdogs prepare poll monitors
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6959
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6925
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6983
+  strength: 0.7297
 ---
-
 ## Democrats prepare oversight of Trump's education policies
 
 **Subtype:** fact
