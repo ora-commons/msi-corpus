@@ -1,9 +1,20 @@
 ---
 headline: Badenoch and Whately set out £36.1bn Conservative welfare cut plan
-secondary_headline: Second presentation of £36bn savings first outlined at party conference last month
+secondary_headline: Second presentation of £36bn savings first outlined at party conference
+  last month
 publish_date: '2026-11-10'
-lede: Conservative leader Kemi Badenoch and shadow work and pensions secretary Helen Whately set out plans at a Westminster press conference on Tuesday morning to cut £36.1bn from the welfare budget. Guardian sketch writer John Crace reported the event as the second presentation in a month for savings the pair first outlined at the Conservative party conference last month.
-nut_graf: Because the Conservatives sit in opposition, the press conference set out a party policy proposal rather than a program taking effect. Crace judged the re-announcement almost certainly doomed to fail, writing that no one takes the costings of an opposition party particularly seriously. His sketch argued the presentation left unaddressed the near-doubling of the welfare bill under the Conservatives, charities' warnings of a massive surge in child poverty, and the possibility that cuts of up to £10,000 per household could leave people losing their homes.
+lede: Conservative leader Kemi Badenoch and shadow work and pensions secretary Helen
+  Whately set out plans at a Westminster press conference on Tuesday morning to cut
+  £36.1bn from the welfare budget. Guardian sketch writer John Crace reported the
+  event as the second presentation in a month for savings the pair first outlined
+  at the Conservative party conference last month.
+nut_graf: Because the Conservatives sit in opposition, the press conference set out
+  a party policy proposal rather than a program taking effect. Crace judged the re-announcement
+  almost certainly doomed to fail, writing that no one takes the costings of an opposition
+  party particularly seriously. His sketch argued the presentation left unaddressed
+  the near-doubling of the welfare bill under the Conservatives, charities' warnings
+  of a massive surge in child poverty, and the possibility that cuts of up to £10,000
+  per household could leave people losing their homes.
 primary_entities:
 - Kemi Badenoch
 - Helen Whately
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,113 +155,57 @@ related_stories:
   headline: Badenoch says Healey's budget will be even worse than Reeves's two
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7682
+  strength: 0.7677
 - slug: 2026-10-20-daisy-cooper-urges-windfall-tax-on-banks-as-badenoch-rejects-one
   headline: Daisy Cooper urges windfall tax on banks as Badenoch rejects one
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7316
+  strength: 0.7315
 - slug: 2026-10-27-john-healey-prepares-uk-budget-expected-to-have-smaller-tax-and-spending-changes
-  headline: John Healey prepares UK Budget expected to have smaller tax and spending changes
+  headline: John Healey prepares UK Budget expected to have smaller tax and spending
+    changes
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.676
+  strength: 0.6754
 - slug: 2026-10-27-welsh-ministers-press-healey-for-rail-cash-and-budget-protection
   headline: Welsh ministers press Healey for rail cash and budget protection
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6692
+  strength: 0.6689
 - slug: 2026-10-27-john-healey-prepares-his-first-budget-amid-war-driven-economic-pressure
   headline: John Healey prepares his first budget amid war-driven economic pressure
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6668
+  strength: 0.6664
 - slug: 2026-10-25-john-healey-s-budget-secrecy-comes-amid-leaks-on-key-policies
   headline: John Healey’s budget secrecy comes amid leaks on key policies
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6716
+  strength: 0.671
 - slug: 2026-10-28-john-healey-sets-1-capital-cut-target-to-fill-defence-funding-gap
   headline: John Healey sets 1% capital-cut target to fill defence funding gap
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6542
+  strength: 0.654
 - slug: 2026-10-28-john-healey-sets-out-budget-2026-household-relief-and-fiscal-plans
   headline: John Healey sets out Budget 2026 household relief and fiscal plans
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6502
-- slug: 2026-10-03-griffith-leak-shows-shadow-cabinet-discussed-further-uk-conservative-cuts
-  headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7633
-- slug: 2026-10-22-four-london-councils-submit-revised-funding-proposals-to-the-treasury
-  headline: Four London councils submit revised funding proposals to the Treasury
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6466
-- slug: 2026-10-11-badenoch-pledges-to-scrap-uk-future-homes-standard
-  headline: Badenoch pledges to scrap UK future homes standard
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6549
-- slug: 2026-10-13-ifs-warns-healey-budget-would-be-work-of-fiction-over-35bn-gap
-  headline: IFS warns Healey budget would be 'work of fiction' over £35bn gap
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6362
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6631
-- slug: 2026-09-03-badenoch-sets-out-conservative-plan-to-hit-3-defence-spending-by-2030
-  headline: Badenoch sets out Conservative plan to hit 3% defence spending by 2030
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7434
-- slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
-  headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6547
-- slug: 2026-09-22-ed-davey-sets-out-17bn-income-tax-cut-plan-at-lib-dem-conference
-  headline: Ed Davey sets out £17bn income tax cut plan at Lib Dem conference
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.664
-- slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
-  headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6978
-- slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
-  headline: Burnham backs universal English social care reform
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6374
-- slug: 2026-09-17-shadow-chancellor-griffith-urges-healey-to-rule-out-budget-tax-rises
-  headline: Shadow chancellor Griffith urges Healey to rule out budget tax rises
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.658
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6615
+  strength: 0.6506
 image:
   url: /articles/2026-11-10-badenoch-and-whately-set-out-36-1bn-conservative-welfare-cut-plan.png
-  alt: "Illustration accompanying article: Badenoch and Whately set out £36.1bn Conservative welfare cut plan"
+  alt: 'Illustration accompanying article: Badenoch and Whately set out £36.1bn Conservative
+    welfare cut plan'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Badenoch and Whately set out £36.1bn Conservative welfare cut plan
 
 **Subtype:** fact

@@ -151,6 +151,8 @@ related_stories:
   publish_date: '2026-11-09'
   relation: related
   strength: 0.7593
+analyses:
+- '2026-11-10-msc-seascape-homicide-complaint-pairs-admissions-with-open-cause-of-death-questi'
 ---
 ## Federal prosecutors charge Jason Leon Watford with homicide aboard MSC Seascape
 
@@ -190,3 +192,8 @@ No attorney was listed for Watford. The prosecution is proceeding in federal cou
 **Publication date:** 2026-11-10
 **Title:** Texas man charged with murder of woman aboard MSC cruise ship
 **URL:** https://www.theguardian.com/us-news/2026/nov/10/msc-seascape-homicide-cruise-ship
+
+---
+
+<!-- analysis-link:2026-11-10-msc-seascape-homicide-complaint-pairs-admissions-with-open-cause-of-death-questi -->
+**Going deeper:** [Read MSI's analysis of the MSC Seascape cabin death →](/analyses/2026-11-10-msc-seascape-homicide-complaint-pairs-admissions-with-open-cause-of-death-questi)
