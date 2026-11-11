@@ -2,8 +2,20 @@
 headline: Pennsylvania uses home visits to boost measles vaccination among Amish families
 secondary_headline: Pennsylvania reports six deaths and more than 1,500 measles cases
 publish_date: '2026-11-10'
-lede: Dale Weiser, clinical services supervisor for the Chester County Health Department in south-central Pennsylvania, has administered more than 400 doses of the measles, mumps and rubella vaccine in Amish homes since August, responding to requests that usually begin with a phone call as her number circulates. At a recently hosted Christiana Fire Company pop-up clinic in Lancaster County, the Pennsylvania Department of Health said 30 people attended and 24 were vaccinated. Pennsylvania has confirmed six measles-related deaths and more than 1,500 measles cases, and Weiser says many Amish families have changed their minds about vaccination.
-nut_graf: NPR cited surveys suggesting that only about a third of Amish families in the region vaccinate their children, leaving the community especially vulnerable to measles, which NPR described as one of the most contagious diseases. Pennsylvania's response has emphasized quiet word-of-mouth outreach rather than loud vaccination advertising, using home visits, flyers distributed by community leaders and word-of-mouth clinic promotion to build trust, answer questions and correct misinformation.
+lede: Dale Weiser, clinical services supervisor for the Chester County Health Department
+  in south-central Pennsylvania, has administered more than 400 doses of the measles,
+  mumps and rubella vaccine in Amish homes since August, responding to requests that
+  usually begin with a phone call as her number circulates. At a recently hosted Christiana
+  Fire Company pop-up clinic in Lancaster County, the Pennsylvania Department of Health
+  said 30 people attended and 24 were vaccinated. Pennsylvania has confirmed six measles-related
+  deaths and more than 1,500 measles cases, and Weiser says many Amish families have
+  changed their minds about vaccination.
+nut_graf: NPR cited surveys suggesting that only about a third of Amish families in
+  the region vaccinate their children, leaving the community especially vulnerable
+  to measles, which NPR described as one of the most contagious diseases. Pennsylvania's
+  response has emphasized quiet word-of-mouth outreach rather than loud vaccination
+  advertising, using home visits, flyers distributed by community leaders and word-of-mouth
+  clinic promotion to build trust, answer questions and correct misinformation.
 primary_entities:
 - Pennsylvania
 - Chester County Health Department
@@ -53,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +168,46 @@ related_stories:
   headline: Pennsylvania measles cases reach 1,398 amid vaccine debate in Amish communities
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7941
+  strength: 0.7943
 - slug: 2026-10-30-plain-communities-show-new-openness-to-measles-vaccination
   headline: Plain communities show new openness to measles vaccination
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7788
+  strength: 0.7782
 - slug: 2026-10-30-lancaster-county-becomes-epicenter-of-worst-us-measles-outbreak-in-35-years
-  headline: Lancaster County becomes epicenter of worst US measles outbreak in 35 years
+  headline: Lancaster County becomes epicenter of worst US measles outbreak in 35
+    years
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7674
+  strength: 0.7672
 - slug: 2026-10-25-cdc-finds-96-of-2026-measles-patients-were-unvaccinated-or-had-unknown-status
-  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown status
+  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown
+    status
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7655
+  strength: 0.7654
 - slug: 2026-11-03-robert-f-kennedy-jr-cuts-childhood-immunization-recommendations-by-a-third
   headline: Robert F Kennedy Jr cuts childhood immunization recommendations by a third
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7085
+  strength: 0.7086
 - slug: 2026-09-24-pennsylvania-measles-outbreak-kills-four-as-health-workers-door-knock-amish-comm
-  headline: Pennsylvania measles outbreak kills four as health workers door-knock Amish communities
+  headline: Pennsylvania measles outbreak kills four as health workers door-knock
+    Amish communities
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.8665
+  strength: 0.866
 - slug: 2026-10-24-cdc-adds-178-us-measles-cases-as-death-tallies-diverge
   headline: CDC adds 178 US measles cases as death tallies diverge
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7167
+  strength: 0.7157
 - slug: 2026-10-13-franklin-county-coroner-reports-sixth-measles-death-in-pennsylvania
   headline: Franklin County coroner reports sixth measles death in Pennsylvania
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7553
-- slug: 2026-10-04-pennsylvania-measles-outbreak-reaches-943-cases-as-state-reports-fifth-death
-  headline: Pennsylvania measles outbreak reaches 943 cases as state reports fifth death
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7906
-- slug: 2026-09-30-pennsylvania-reports-fifth-measles-related-death-of-2026
-  headline: Pennsylvania reports fifth measles-related death of 2026
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.793
-- slug: 2026-10-07-pennsylvania-measles-outbreak-tops-1-000-cases-largest-in-us-since-1991
-  headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7655
-- slug: 2026-10-13-pennsylvania-reports-sixth-measles-death-as-state-cases-top-1-100
-  headline: Pennsylvania reports sixth measles death as state cases top 1,100
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7379
-- slug: 2026-09-26-pennsylvania-measles-outbreak-grows-to-890-cases-across-39-counties
-  headline: Pennsylvania measles outbreak grows to 890 cases across 39 counties
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7678
-- slug: 2026-10-05-pennsylvania-measles-cases-top-1-000-as-state-reports-five-deaths
-  headline: Pennsylvania measles cases top 1,000 as state reports five deaths
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7166
-- slug: 2026-09-15-pennsylvania-reports-fourth-measles-death-in-2026-worst-us-year-since-1992
-  headline: Pennsylvania reports fourth measles death in 2026, worst US year since 1992
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7457
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7905
-- slug: 2026-09-19-california-warns-of-measles-exposure-in-six-counties-after-unvaccinated-passenge
-  headline: California warns of measles exposure in six counties after unvaccinated passenger's train travel
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7288
-- slug: 2026-09-22-cdc-dashboard-still-excludes-four-pennsylvania-measles-deaths
-  headline: CDC dashboard still excludes four Pennsylvania measles deaths
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.705
-- slug: 2026-09-17-local-officials-mount-vaccine-push-as-us-measles-deaths-rise
-  headline: Local officials mount vaccine push as US measles deaths rise
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7195
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7285
+  strength: 0.7548
 ---
-
 ## Pennsylvania uses home visits to boost measles vaccination among Amish families
 
 **Subtype:** fact

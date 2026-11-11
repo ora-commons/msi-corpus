@@ -1,9 +1,18 @@
 ---
 headline: Republicans split over who saw the midterm losses coming
-secondary_headline: Democrats won 54 Senate seats and 254 House seats as counting continues
+secondary_headline: Democrats won 54 Senate seats and 254 House seats as counting
+  continues
 publish_date: '2026-11-10'
-lede: 'On their first day back in the Capitol after last week''s midterm election losses, Republicans split into two camps: those who said the losses had been foreseeable and those who said they had not. Democrats won 54-seat and 254-seat majorities in the Senate and House, according to The Guardian''s live coverage, and both figures may expand as ballot counting continues.'
-nut_graf: The argument over whether the result was foreseeable is the opening accounting from Republican members of a party that has lost control of both chambers, and the size of the Democratic majorities remains unsettled while ballots are counted. Pete Hegseth was due to hold a news briefing as he faces possible impeachment, according to The Guardian's live coverage.
+lede: 'On their first day back in the Capitol after last week''s midterm election
+  losses, Republicans split into two camps: those who said the losses had been foreseeable
+  and those who said they had not. Democrats won 54-seat and 254-seat majorities in
+  the Senate and House, according to The Guardian''s live coverage, and both figures
+  may expand as ballot counting continues.'
+nut_graf: The argument over whether the result was foreseeable is the opening accounting
+  from Republican members of a party that has lost control of both chambers, and the
+  size of the Democratic majorities remains unsettled while ballots are counted. Pete
+  Hegseth was due to hold a news briefing as he faces possible impeachment, according
+  to The Guardian's live coverage.
 primary_entities:
 - Jim Justice
 - Warren Davidson
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +159,44 @@ related_stories:
   headline: Congress returns; Hegseth impeachment resolution expected after GOP losses
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7315
+  strength: 0.7312
 - slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
   headline: Democrats sweep Congress with Mississippi Senate race still counting
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7458
+  strength: 0.7453
 - slug: 2026-11-04-live-midterm-tracker-shows-33-of-35-senate-races-367-of-435-house-races-called
-  headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races called
+  headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races
+    called
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7466
+  strength: 0.747
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7457
+  strength: 0.7453
 - slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
   headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.744
+  strength: 0.7439
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7428
-- slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
-  headline: Republicans fault Trump after Democrats take House and Senate in midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7422
+  strength: 0.7425
 - slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
   headline: Democrats regain Senate control after wins in at least six states
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7417
-- slug: 2026-11-04-democrats-win-house-and-senate-control-in-2026-us-midterms
-  headline: Democrats win House and Senate control in 2026 US midterms
+- slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
+  headline: Republicans fault Trump after Democrats take House and Senate in midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7389
-- slug: 2026-11-05-tight-midterm-races-remain-uncalled-as-democrats-take-control-of-congress
-  headline: Tight midterm races remain uncalled as Democrats take control of Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7242
-- slug: 2026-11-06-democrats-surpass-250-house-seats-as-republicans-turn-to-the-2028-race
-  headline: Democrats surpass 250 House seats as Republicans turn to the 2028 race
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7175
-- slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
-  headline: Democrats gain control of Congress as 2026 voter shifts emerge
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.721
-- slug: 2026-11-04-democrats-midterm-gains-open-the-2028-race-as-republicans-absorb-broad-losses
-  headline: Democrats' midterm gains open the 2028 race as Republicans absorb broad losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7211
-- slug: 2026-11-05-democrats-gain-hundreds-of-state-legislative-seats-in-2026-midterms
-  headline: Democrats gain hundreds of state legislative seats in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7139
-- slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
-  headline: Democrats poised for House control as midterm election results begin
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7195
-- slug: 2026-11-05-democrats-largest-majority-in-decades-leaves-party-s-future-fight-unresolved
-  headline: Democrats' largest majority in decades leaves party's future fight unresolved
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7101
-- slug: 2026-11-04-republicans-lose-all-three-redrawn-florida-house-seats
-  headline: Republicans lose all three redrawn Florida House seats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7164
-- slug: 2026-11-04-jon-ossoff-projected-to-win-georgia-senate-race-democrats-press-for-control
-  headline: Jon Ossoff projected to win Georgia Senate race; Democrats press for control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7115
-- slug: 2026-11-04-democrats-take-house-and-senate-and-a-panel-urges-a-working-class-agenda
-  headline: Democrats take House and Senate, and a panel urges a working-class agenda
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7054
-- slug: 2026-11-03-midterm-campaigns-expose-party-fractures-and-voter-fluidity
-  headline: Midterm campaigns expose party fractures and voter fluidity
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.706
+  strength: 0.7416
 ---
-
 ## Republicans split over who saw the midterm losses coming
 
 **Subtype:** fact

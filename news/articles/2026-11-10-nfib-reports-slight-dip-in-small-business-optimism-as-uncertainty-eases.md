@@ -1,9 +1,17 @@
 ---
 headline: NFIB reports slight dip in small-business optimism as uncertainty eases
-secondary_headline: Taxes become second-ranked concern as labor quality or availability stays first
+secondary_headline: Taxes become second-ranked concern as labor quality or availability
+  stays first
 publish_date: '2026-11-10'
-lede: The National Federation of Independent Business reported that its small-business optimism index slipped 0.1 point in October to 97.8, leaving the measure just below its 53-year average. The NFIB's uncertainty index fell six points to 84, its lowest since December, while more owners reported good or excellent business health and improved sales.
-nut_graf: The October survey paired a 0.1-point decline in optimism with lower uncertainty, better six-month expectations and more owners reporting good or excellent business health and improved sales. Labor quality or availability remained the leading concern, while taxes moved into second place.
+lede: The National Federation of Independent Business reported that its small-business
+  optimism index slipped 0.1 point in October to 97.8, leaving the measure just below
+  its 53-year average. The NFIB's uncertainty index fell six points to 84, its lowest
+  since December, while more owners reported good or excellent business health and
+  improved sales.
+nut_graf: The October survey paired a 0.1-point decline in optimism with lower uncertainty,
+  better six-month expectations and more owners reporting good or excellent business
+  health and improved sales. Labor quality or availability remained the leading concern,
+  while taxes moved into second place.
 primary_entities:
 - National Federation of Independent Business
 - Bill Dunkelberg
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,41 +150,11 @@ related_stories:
   publish_date: '2026-09-08'
   relation: related
   strength: 0.9099
-- slug: 2026-11-06-us-employers-add-165-000-jobs-in-october-as-unemployment-rate-slips-to-4-1
-  headline: US employers add 165,000 jobs in October as unemployment rate slips to 4.1%
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6405
-- slug: 2026-11-05-jobless-claims-fall-to-189-000-fewest-since-mid-july
-  headline: Jobless claims fall to 189,000, fewest since mid-July
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6267
-- slug: 2026-10-28-german-consumer-confidence-slips-as-inflation-concerns-persist
-  headline: German consumer confidence slips as inflation concerns persist
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6433
-- slug: 2026-10-27-us-consumer-confidence-index-rises-7-5-points-to-91-7-in-october
-  headline: US consumer confidence index rises 7.5 points to 91.7 in October
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6407
 - slug: 2026-08-11-small-business-optimism-rises-to-99-8-highest-since-august-2025
   headline: Small-business optimism rises to 99.8, highest since August 2025
   publish_date: '2026-08-11'
   relation: related
   strength: 0.8642
-- slug: 2026-10-22-u-s-initial-jobless-claims-fall-to-about-194-000
-  headline: U.S. initial jobless claims fall to about 194,000
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6274
-- slug: 2026-10-15-most-us-voters-say-economy-is-worsening-ahead-of-midterms-harris-poll-finds
-  headline: Most US voters say economy is worsening ahead of midterms, Harris poll finds
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6236
 - slug: 2026-06-16-small-business-optimism-falls-to-lowest-level-since-october-2024
   headline: Small-business optimism falls to lowest level since October 2024
   publish_date: '2026-06-16'
@@ -191,53 +170,23 @@ related_stories:
   publish_date: '2026-06-09'
   relation: related
   strength: 0.8345
-- slug: 2026-09-30-softer-august-pce-reading-lifts-wall-street-trims-october-rate-hike-odds
-  headline: Softer August PCE reading lifts Wall Street, trims October rate-hike odds
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.628
-- slug: 2026-09-23-gallup-positive-views-of-socialism-top-40-for-first-time-since-2010
-  headline: 'Gallup: Positive views of socialism top 40% for first time since 2010'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6334
 - slug: 2026-07-27-gallup-economic-confidence-improves-from-may-low-but-stays-negative
   headline: Gallup economic confidence improves from May low but stays negative
   publish_date: '2026-07-27'
   relation: related
   strength: 0.6762
-- slug: 2026-08-10-polls-show-democrats-leading-gop-on-economy-for-first-time-since-2010
-  headline: Polls show Democrats leading GOP on economy for first time since 2010
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6293
 - slug: 2026-02-24-consumer-confidence-edges-higher-but-weakness-persists
   headline: Consumer confidence edges higher but weakness persists
   publish_date: '2026-02-24'
   relation: related
   strength: 0.6867
-- slug: 2026-06-04-consumer-rage-rises-as-americans-face-corporate-frustrations-survey-finds
-  headline: Consumer rage rises as Americans face corporate frustrations, survey finds
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6385
 - slug: 2026-01-07-job-openings-near-5-year-low-in-november-as-low-hire-low-fire-market-persists
-  headline: Job openings near 5-year low in November as low-hire, low-fire market persists
+  headline: Job openings near 5-year low in November as low-hire, low-fire market
+    persists
   publish_date: '2026-01-07'
   relation: related
   strength: 0.6616
-- slug: 2026-06-19-economic-anxiety-spreads-to-wealthiest-americans-poll-finds
-  headline: Economic Anxiety Spreads to Wealthiest Americans, Poll Finds
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6249
-- slug: 2026-01-15-jobless-claims-fall-to-198-000-beating-forecasts-as-low-hire-trend-holds
-  headline: Jobless claims fall to 198,000, beating forecasts as low-hire trend holds
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.66
 ---
-
 ## NFIB reports slight dip in small-business optimism as uncertainty eases
 
 **Subtype:** fact

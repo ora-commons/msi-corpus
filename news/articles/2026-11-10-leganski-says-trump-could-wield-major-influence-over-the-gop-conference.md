@@ -210,6 +210,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-10-house-republicans-choose-continuity-or-oversight-under-minority-constraints'
 ---
 ## Leganski says Trump could wield major influence over the GOP conference
 
@@ -257,3 +259,8 @@ Those assessments point beyond the ballot itself. Leganski tied the conference's
 **Publication date:** 2026-11-10
 **Title:** House Republicans to elect a new leader as they look to rebuild from midterm defeat
 **URL:** https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan
+
+---
+
+<!-- analysis-link:2026-11-10-house-republicans-choose-continuity-or-oversight-under-minority-constraints -->
+**Going deeper:** [Read MSI's analysis of House Republican leadership choice →](/analyses/2026-11-10-house-republicans-choose-continuity-or-oversight-under-minority-constraints)

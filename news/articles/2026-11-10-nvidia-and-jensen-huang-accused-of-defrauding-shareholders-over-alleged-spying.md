@@ -1,9 +1,19 @@
 ---
-headline: Nvidia and Jensen Huang accused of defrauding shareholders over alleged spying
+headline: Nvidia and Jensen Huang accused of defrauding shareholders over alleged
+  spying
 secondary_headline: Supreme Court lets Big Bend border-wall construction resume
 publish_date: '2026-11-10'
-lede: The Guardian reported that Nvidia and chief executive Jensen Huang have been accused of defrauding shareholders in a lawsuit it described as concerning the Chinese spying scandal engulfing the $4.3tn company. The legal action came as Donald Trump said the FBI was investigating Huang’s affair with an alleged Chinese spy. Separately, the U.S. Supreme Court granted the Trump administration’s emergency request to suspend a lower-court order and resume Big Bend border-wall construction, including sections in Big Bend National Park.
-nut_graf: The Nvidia lawsuit and Big Bend ruling concern a $4.3tn company and a federal border project, while separate court decisions involve Lindsay Clancy and Russell Brand. The report also covers congressional action over the Iran war, a French attribution of supermarket-fridge cyberattacks and additional corporate and political developments.
+lede: The Guardian reported that Nvidia and chief executive Jensen Huang have been
+  accused of defrauding shareholders in a lawsuit it described as concerning the Chinese
+  spying scandal engulfing the $4.3tn company. The legal action came as Donald Trump
+  said the FBI was investigating Huang’s affair with an alleged Chinese spy. Separately,
+  the U.S. Supreme Court granted the Trump administration’s emergency request to suspend
+  a lower-court order and resume Big Bend border-wall construction, including sections
+  in Big Bend National Park.
+nut_graf: The Nvidia lawsuit and Big Bend ruling concern a $4.3tn company and a federal
+  border project, while separate court decisions involve Lindsay Clancy and Russell
+  Brand. The report also covers congressional action over the Iran war, a French attribution
+  of supermarket-fridge cyberattacks and additional corporate and political developments.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -63,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -165,113 +176,61 @@ related_stories:
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7945
+  strength: 0.7936
 - slug: 2026-11-10-nvidia-shareholder-suit-alleges-failure-to-disclose-national-security-concerns
-  headline: Nvidia shareholder suit alleges failure to disclose national security concerns
+  headline: Nvidia shareholder suit alleges failure to disclose national security
+    concerns
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7758
+  strength: 0.7752
 - slug: 2026-11-10-people-familiar-say-justice-department-takes-megaspeed-probe-after-nvidia-outrea
-  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia outreach
+  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia
+    outreach
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7708
+  strength: 0.7707
 - slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
   headline: Nvidia investigates reports of spying targeting Jensen Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7763
+  strength: 0.7753
 - slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
+  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip
+    controls
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7749
+  strength: 0.7745
 - slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
   headline: Nvidia inquiry draws top Republican demands for answers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.771
+  strength: 0.7703
 - slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
+  headline: Nvidia board opens independent investigation after reports about Jensen
+    Huang
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7747
+  strength: 0.774
 - slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
+  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens
+    inquiry
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7662
-- slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
-  headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.763
-- slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
-  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7574
-- slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
-  headline: Nvidia board investigates CEO Jensen Huang as shares tumble
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7543
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7571
-- slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7539
-- slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
-  headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7455
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7368
-- slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
-  headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7168
-- slug: 2026-11-09-trump-says-he-learned-of-alice-huang-spy-concerns-not-too-long-ago
-  headline: Trump says he learned of Alice Huang spy concerns 'not too long ago'
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7044
-- slug: 2026-11-09-nvidia-has-no-board-chair-and-designates-a-lead-director-annually
-  headline: Nvidia has no board chair and designates a lead director annually
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7008
-- slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
-  headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7012
-- slug: 2026-10-30-u-s-officials-suspect-megaspeed-executive-alice-huang-of-spying-for-china
-  headline: U.S. officials suspect Megaspeed executive Alice Huang of spying for China
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7533
+  strength: 0.7656
 image:
   url: /articles/2026-11-10-nvidia-and-jensen-huang-accused-of-defrauding-shareholders-over-alleged-spying.png
-  alt: "Illustration accompanying article: Nvidia and Jensen Huang accused of defrauding shareholders over alleged spying"
+  alt: 'Illustration accompanying article: Nvidia and Jensen Huang accused of defrauding
+    shareholders over alleged spying'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Nvidia and Jensen Huang accused of defrauding shareholders over alleged spying
 
 **Subtype:** fact
