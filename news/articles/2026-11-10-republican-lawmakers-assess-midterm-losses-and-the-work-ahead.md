@@ -208,6 +208,8 @@ related_stories:
   publish_date: '2026-11-07'
   relation: related
   strength: 0.7484
+analyses:
+- '2026-11-10-house-republicans-navigate-funding-unfinished-bills-and-hegseth-before-year-end-'
 ---
 ## Republican lawmakers assess midterm losses and the work ahead
 
@@ -254,3 +256,8 @@ Donald Trump said he wanted to work with Democrats in areas where he believed a 
 **Publication date:** 2026-11-10
 **Title:** Republicans return to Washington to sift through wreckage of midterms rout
 **URL:** https://www.theguardian.com/us-news/2026/nov/10/midterms-elections-2026-republicans-washington
+
+---
+
+<!-- analysis-link:2026-11-10-house-republicans-navigate-funding-unfinished-bills-and-hegseth-before-year-end- -->
+**Going deeper:** [Read MSI's analysis of Congress's year-end decision window →](/analyses/2026-11-10-house-republicans-navigate-funding-unfinished-bills-and-hegseth-before-year-end-)

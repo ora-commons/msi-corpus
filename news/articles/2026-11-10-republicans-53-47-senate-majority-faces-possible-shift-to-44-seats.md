@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-11-07'
   relation: related
   strength: 0.735
+analyses:
+- '2026-11-10-possible-44-seat-senate-bloc-complicates-pete-hegseth-s-budget-path'
 ---
 ## Republicans' 53-47 Senate majority faces possible shift to 44 seats
 
@@ -237,3 +239,8 @@ For Hegseth, the immediate questions remained unsettled. The Wall Street Journal
 **Publication date:** 2026-11-10
 **Title:** Hegseth’s Impeachment Gives Wounded Hill GOP New Power
 **URL:** https://www.wsj.com/politics/policy/hegseths-impeachment-gives-wounded-hill-gop-new-power-cd91b513
+
+---
+
+<!-- analysis-link:2026-11-10-possible-44-seat-senate-bloc-complicates-pete-hegseth-s-budget-path -->
+**Going deeper:** [Read MSI's analysis of Hegseth's narrowing Senate path →](/analyses/2026-11-10-possible-44-seat-senate-bloc-complicates-pete-hegseth-s-budget-path)
