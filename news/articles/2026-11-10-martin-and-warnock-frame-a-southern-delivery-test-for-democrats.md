@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-11-08'
   relation: related
   strength: 0.6842
+analyses:
+- '2026-11-10-democrats-convert-southern-gains-into-durable-power-only-through-delivery'
 ---
 ## Martin and Warnock frame a Southern delivery test for Democrats
 
@@ -243,3 +245,8 @@ Martin said the 2026 victories also scrambled the traditional map of swing state
 **Publication date:** 2026-11-10
 **Title:** The Democratic Party gained power across the country in the midterms. Now what?
 **URL:** https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress
+
+---
+
+<!-- analysis-link:2026-11-10-democrats-convert-southern-gains-into-durable-power-only-through-delivery -->
+**Going deeper:** [Read MSI's analysis of delivery after Democratic Southern gains →](/analyses/2026-11-10-democrats-convert-southern-gains-into-durable-power-only-through-delivery)

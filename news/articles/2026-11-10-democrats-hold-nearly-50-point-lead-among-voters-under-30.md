@@ -1,9 +1,25 @@
 ---
 headline: Democrats hold nearly 50-point lead among voters under 30
-secondary_headline: New York Times reports U.S. Commerce Department investigating MegaSpeed
+secondary_headline: New York Times reports U.S. Commerce Department investigating
+  MegaSpeed
 publish_date: '2026-11-10'
-lede: NPR's midterm analysis found Democrats held a nearly 50-point lead among voters under 30, with Gen Z accounting for 11% of the 2026 vote. The newsletter also reported that Nvidia's stock slipped around 4.25% after CEO Jensen Huang admitted to an extramarital affair with a woman U.S. intelligence suspects of spying for China, while AMD shares jumped more than 13%. The New York Times reported that the U.S. Commerce Department is investigating MegaSpeed and that the woman was giving information to Beijing, but NPR said it had not independently verified those claims. The newsletter also covered a closed-door House Republican leadership contest, itemized allegations in Rep. Thomas Massie's eight articles against Defense Secretary Pete Hegseth and a Cumberland Island land-swap proposal.
-nut_graf: The reporting examines Democratic gains among young voters after the 2026 midterms, a possible renewal of military action against Iran and a closed-door House Republican leadership contest. It also follows Nvidia's market reaction, a New York Times report that the Commerce Department is investigating MegaSpeed, a federal dispute over west Texas border construction and a Cumberland Island proposal that could allow development. Shorter briefs cover the 2026 Booker Prize, Russell Brand's prison sentence and 18-year-old Aadvik Jain's Diana Award.
+lede: NPR's midterm analysis found Democrats held a nearly 50-point lead among voters
+  under 30, with Gen Z accounting for 11% of the 2026 vote. The newsletter also reported
+  that Nvidia's stock slipped around 4.25% after CEO Jensen Huang admitted to an extramarital
+  affair with a woman U.S. intelligence suspects of spying for China, while AMD shares
+  jumped more than 13%. The New York Times reported that the U.S. Commerce Department
+  is investigating MegaSpeed and that the woman was giving information to Beijing,
+  but NPR said it had not independently verified those claims. The newsletter also
+  covered a closed-door House Republican leadership contest, itemized allegations
+  in Rep. Thomas Massie's eight articles against Defense Secretary Pete Hegseth and
+  a Cumberland Island land-swap proposal.
+nut_graf: The reporting examines Democratic gains among young voters after the 2026
+  midterms, a possible renewal of military action against Iran and a closed-door House
+  Republican leadership contest. It also follows Nvidia's market reaction, a New York
+  Times report that the Commerce Department is investigating MegaSpeed, a federal
+  dispute over west Texas border construction and a Cumberland Island proposal that
+  could allow development. Shorter briefs cover the 2026 Booker Prize, Russell Brand's
+  prison sentence and 18-year-old Aadvik Jain's Diana Award.
 primary_entities:
 - Democrats
 - James Talarico
@@ -56,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,44 +172,50 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-10-democrats-hold-nearly-50-point-lead-among-voters-under-30.png
-  alt: 'Illustration accompanying article: Democrats hold nearly 50-point lead among voters under 30'
+  alt: 'Illustration accompanying article: Democrats hold nearly 50-point lead among
+    voters under 30'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
   headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7508
+  strength: 0.7506
 - slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
   headline: Nvidia inquiry draws top Republican demands for answers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7261
+  strength: 0.726
 - slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
   headline: Nvidia board investigates CEO Jensen Huang as shares tumble
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7153
+  strength: 0.7149
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.72
+  strength: 0.7198
 - slug: 2026-11-10-people-familiar-say-justice-department-takes-megaspeed-probe-after-nvidia-outrea
-  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia outreach
+  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia
+    outreach
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7049
+  strength: 0.7048
 - slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
+  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip
+    controls
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7064
+  strength: 0.7058
 - slug: 2026-11-10-nvidia-inquiry-precedes-nov-9-market-value-decline-of-roughly-200-billion
   headline: Nvidia inquiry precedes Nov. 9 market-value decline of roughly $200 billion
   publish_date: '2026-11-10'
@@ -202,69 +225,8 @@ related_stories:
   headline: Voters under 30 back Democrats by nearly 50 points in midterms
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7243
-- slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7007
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7323
-- slug: 2026-11-08-melat-kiros-becomes-the-first-generation-z-woman-elected-to-congress
-  headline: Melat Kiros becomes the first Generation Z woman elected to Congress
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6985
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6866
-- slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
-  headline: Nvidia investigates reports of spying targeting Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.682
-- slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6836
-- slug: 2026-11-07-about-three-quarters-of-voters-under-30-backed-local-democratic-house-candidates
-  headline: About three-quarters of voters under 30 backed local Democratic House candidates
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6817
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7012
-- slug: 2026-11-07-wall-street-rotates-out-of-ai-and-defense-stocks-after-democratic-midterm-sweep
-  headline: Wall Street rotates out of AI and defense stocks after Democratic midterm sweep
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6813
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.715
-- slug: 2026-11-05-mike-johnson-plans-to-step-down-as-top-house-republican-after-midterms
-  headline: Mike Johnson plans to step down as top House Republican after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6821
-- slug: 2026-11-04-poll-suggests-shifts-away-from-gop-among-young-voters-in-local-house-races
-  headline: Poll suggests shifts away from GOP among young voters in local House races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6825
+  strength: 0.7237
 ---
-
 ## Democrats hold nearly 50-point lead among voters under 30
 
 **Subtype:** fact

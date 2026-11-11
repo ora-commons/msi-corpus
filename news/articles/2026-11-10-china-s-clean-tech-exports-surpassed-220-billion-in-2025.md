@@ -1,9 +1,17 @@
 ---
 headline: China's clean-tech exports surpassed $220 billion in 2025
-secondary_headline: China's 2026 plan makes its first pledge to lead global climate governance
+secondary_headline: China's 2026 plan makes its first pledge to lead global climate
+  governance
 publish_date: '2026-11-10'
-lede: Former U.S. Secretary of State John Kerry told The Guardian that the United States and other countries must follow China’s lead in green energy. In a Guardian report published November 10, 2026, Kerry said Beijing had accelerated its shift away from fossil fuels while other nations were “stumbling along” as Cop31 opened in Turkey.
-nut_graf: Kerry’s intervention puts China’s manufacturing and export dominance at the center of the Cop31 debate. It comes as Beijing’s five-year plan includes its first pledge to lead global climate governance, while analysts examine whether China will act from self-interest and what form that leadership might take.
+lede: Former U.S. Secretary of State John Kerry told The Guardian that the United
+  States and other countries must follow China’s lead in green energy. In a Guardian
+  report published November 10, 2026, Kerry said Beijing had accelerated its shift
+  away from fossil fuels while other nations were “stumbling along” as Cop31 opened
+  in Turkey.
+nut_graf: Kerry’s intervention puts China’s manufacturing and export dominance at
+  the center of the Cop31 debate. It comes as Beijing’s five-year plan includes its
+  first pledge to lead global climate governance, while analysts examine whether China
+  will act from self-interest and what form that leadership might take.
 primary_entities:
 - John Kerry
 - China
@@ -49,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +160,44 @@ related_stories:
   headline: China expands EV, chip and chemical exports amid weak domestic demand
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7057
+  strength: 0.7042
 - slug: 2026-10-29-china-s-clean-tech-exports-likely-to-avert-450-million-metric-tons-of-co2-a-year
-  headline: China's clean tech exports likely to avert 450 million metric tons of CO2 a year
+  headline: China's clean tech exports likely to avert 450 million metric tons of
+    CO2 a year
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7691
+  strength: 0.7694
 - slug: 2026-11-09-outdated-power-grids-threaten-renewable-energy-expansion
   headline: Outdated power grids threaten renewable energy expansion
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6805
+  strength: 0.681
 - slug: 2026-11-09-kurum-s-action-agenda-centers-on-electrification
   headline: Kurum's Action Agenda centers on electrification
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6797
+  strength: 0.6804
 - slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
   headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6684
+  strength: 0.6683
 - slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
   headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.668
+  strength: 0.6683
 - slug: 2026-11-02-uk-select-committee-faults-starmer-government-s-china-strategy
   headline: UK select committee faults Starmer government’s China strategy
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6689
+  strength: 0.6674
 - slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
   headline: U.N. report finds U.S. emissions rose while global total held steady
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.668
-- slug: 2026-10-19-china-s-economy-grows-4-5-in-july-september-quarter-as-exports-strengthen
-  headline: China's economy grows 4.5% in July-September quarter as exports strengthen
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6645
-- slug: 2026-10-14-china-s-exports-surge-36-3-in-september-topping-forecasts
-  headline: China's exports surge 36.3% in September, topping forecasts
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6791
-- slug: 2026-10-15-chinese-automakers-target-overseas-markets-as-us-and-eu-tighten-access
-  headline: Chinese automakers target overseas markets as US and EU tighten access
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6689
-- slug: 2026-09-30-trump-asks-xi-to-boost-diesel-exports-china-unlikely-to-repeat-2022-intervention
-  headline: Trump asks Xi to boost diesel exports; China unlikely to repeat 2022 intervention
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6847
-- slug: 2026-09-03-g-20-statement-implicitly-criticizes-china-s-export-driven-growth
-  headline: G-20 statement implicitly criticizes China's export-driven growth
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7086
-- slug: 2026-07-19-china-s-battery-storage-surges-to-155-gw-chinese-suppliers-capture-90-of-market
-  headline: China's battery storage surges to 155 GW, Chinese suppliers capture 90% of market
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6961
-- slug: 2026-06-25-u-s-plastic-exports-to-china-top-23-billion-fueling-global-pollution-concerns
-  headline: U.S. plastic exports to China top $23 billion, fueling global pollution concerns
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6943
-- slug: 2026-02-08-china-keeps-building-coal-power-despite-solar-and-wind-boom
-  headline: China keeps building coal power despite solar and wind boom
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7239
-- slug: 2026-02-05-report-says-china-commissioned-record-coal-power-capacity-in-2025
-  headline: Report says China commissioned record coal power capacity in 2025
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.714
-- slug: 2026-04-14-china-gains-from-iran-war-as-global-energy-interest-turns-away-from-fossil-fuels
-  headline: China gains from Iran war as global energy interest turns away from fossil fuels
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6904
-- slug: 2026-05-10-china-car-exports-jump-nearly-85-in-april-led-by-evs
-  headline: China car exports jump nearly 85% in April, led by EVs
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6674
-- slug: 2026-01-14-china-car-exports-surged-21-in-2025-as-domestic-ev-demand-slowed
-  headline: China car exports surged 21% in 2025, as domestic EV demand slowed
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6825
+  strength: 0.6685
 ---
-
 ## China's clean-tech exports surpassed $220 billion in 2025
 
 **Subtype:** fact

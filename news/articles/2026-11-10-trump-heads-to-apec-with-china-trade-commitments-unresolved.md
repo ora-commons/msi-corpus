@@ -2,8 +2,24 @@
 headline: Trump heads to APEC with China trade commitments unresolved
 secondary_headline: Congressional shift may complicate China's technology agenda
 publish_date: '2026-11-10'
-lede: President Trump is due in Shenzhen next week for the Asia-Pacific Economic Cooperation summit after Democrats captured both the House and Senate in a midterm loss The Wall Street Journal said was more sweeping than Obama’s in 2014. Beijing has fallen short of agricultural-purchase and rare-earth-export commitments under a trade agreement struck a year ago in Busan, and Treasury Secretary Scott Bessent and U.S. Trade Representative Jamieson Greer said they stressed Vice Premier He Lifeng on honoring them. The Wall Street Journal said Xi Jinping would use the hosting opportunity to showcase China’s tech-driven modernity, while Trump’s and Xi’s teams wrangle behind the scenes over plans for an unprecedented three-way meeting involving Trump, Xi and Russian leader Vladimir Putin.
-nut_graf: China’s shortfall on the Busan commitments on agricultural purchases and rare-earth exports leaves the summit with an unresolved economic dispute, and The Wall Street Journal said the new Democratic majority could make things harder for Beijing on technology controls, with loosening controls in that environment a tough sell. The outlet’s analysis said Beijing may see the midterm results as an opportunity to extract concessions from a weakened Trump, but that this could “prove a serious miscalculation, pushing a president stung by his midterm defeat toward a harder line on China.”
+lede: President Trump is due in Shenzhen next week for the Asia-Pacific Economic Cooperation
+  summit after Democrats captured both the House and Senate in a midterm loss The
+  Wall Street Journal said was more sweeping than Obama’s in 2014. Beijing has fallen
+  short of agricultural-purchase and rare-earth-export commitments under a trade agreement
+  struck a year ago in Busan, and Treasury Secretary Scott Bessent and U.S. Trade
+  Representative Jamieson Greer said they stressed Vice Premier He Lifeng on honoring
+  them. The Wall Street Journal said Xi Jinping would use the hosting opportunity
+  to showcase China’s tech-driven modernity, while Trump’s and Xi’s teams wrangle
+  behind the scenes over plans for an unprecedented three-way meeting involving Trump,
+  Xi and Russian leader Vladimir Putin.
+nut_graf: China’s shortfall on the Busan commitments on agricultural purchases and
+  rare-earth exports leaves the summit with an unresolved economic dispute, and The
+  Wall Street Journal said the new Democratic majority could make things harder for
+  Beijing on technology controls, with loosening controls in that environment a tough
+  sell. The outlet’s analysis said Beijing may see the midterm results as an opportunity
+  to extract concessions from a weakened Trump, but that this could “prove a serious
+  miscalculation, pushing a president stung by his midterm defeat toward a harder
+  line on China.”
 primary_entities:
 - Trump
 - Xi Jinping
@@ -50,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +169,44 @@ related_stories:
   headline: Kremlin counts on Trump for Ukraine peace efforts as Beijing stays measured
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7413
+  strength: 0.742
 - slug: 2026-09-24-trump-and-xi-governments-play-down-summit-expectations
   headline: Trump and Xi governments play down summit expectations
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7672
+  strength: 0.7679
 - slug: 2026-09-25-trump-and-xi-hold-talks-in-washington-on-tariffs-taiwan-and-ai
   headline: Trump and Xi hold talks in Washington on tariffs, Taiwan, and AI
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7563
+  strength: 0.757
 - slug: 2026-09-23-trump-hosts-xi-at-white-house-for-state-visit-on-trade-and-ai
   headline: Trump hosts Xi at White House for state visit on trade and AI
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.753
+  strength: 0.7537
 - slug: 2026-09-23-mutual-distrust-killed-chinese-rare-earths-truce-offer-before-trump-xi-summit
-  headline: Mutual distrust killed Chinese rare-earths truce offer before Trump-Xi summit
+  headline: Mutual distrust killed Chinese rare-earths truce offer before Trump-Xi
+    summit
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7471
+  strength: 0.7478
 - slug: 2026-09-23-xi-arrives-in-washington-wednesday-for-state-visit
   headline: Xi arrives in Washington Wednesday for state visit
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7453
+  strength: 0.7457
 - slug: 2026-09-23-xi-arrives-in-washington-for-state-visit-as-both-sides-prioritize-pageantry
   headline: Xi arrives in Washington for state visit as both sides prioritize pageantry
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7421
+  strength: 0.7428
 - slug: 2026-09-24-trump-opens-white-house-summit-with-xi-as-u-s--china-trade-truce-extends
   headline: Trump opens White House summit with Xi as U.S.-China trade truce extends
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7383
-- slug: 2026-09-22-xi-unlikely-to-bring-corporate-executives-to-washington-summit-with-trump
-  headline: Xi unlikely to bring corporate executives to Washington summit with Trump
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7379
-- slug: 2026-09-22-trump-xi-summit-set-for-sept-24-with-trade-taiwan-ai-on-agenda
-  headline: Trump, Xi summit set for Sept. 24 with trade, Taiwan, AI on agenda
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7319
-- slug: 2026-09-17-trump-xi-summit-planning-lags-as-key-issues-remain-unresolved
-  headline: Trump-Xi summit planning lags as key issues remain unresolved
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7403
-- slug: 2026-07-21-trump-accuses-china-of-voter-file-hack-as-both-sides-keep-summit-plans
-  headline: Trump accuses China of voter file hack as both sides keep summit plans
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7448
-- slug: 2026-05-13-trump-and-xi-seek-to-stabilize-trade-ties-at-beijing-summit
-  headline: Trump and Xi seek to stabilize trade ties at Beijing summit
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7865
-- slug: 2026-05-14-trump-heads-to-beijing-for-summit-with-xi-as-protocol-takes-center-stage
-  headline: Trump heads to Beijing for summit with Xi as protocol takes center stage
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7646
-- slug: 2026-05-13-trump-aims-to-stabilize-trade-in-beijing-summit-with-xi
-  headline: Trump aims to stabilize trade in Beijing summit with Xi
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7637
-- slug: 2026-05-09-trump-heads-to-beijing-for-talks-with-xi-as-iran-war-adds-trip-tension
-  headline: Trump heads to Beijing for talks with Xi as Iran war adds trip tension
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7642
-- slug: 2026-05-13-what-to-know-about-trump-xi-summit-in-beijing
-  headline: What to know about Trump-Xi summit in Beijing
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.759
-- slug: 2026-05-09-trump-heads-to-beijing-for-state-visit-as-iran-war-trade-tensions-loom
-  headline: Trump heads to Beijing for state visit as Iran war, trade tensions loom
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7587
-- slug: 2026-05-14-trump-arrives-in-beijing-for-high-stakes-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for high-stakes talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7452
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-and-taiwan-arms-sales
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, and Taiwan arms sales
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7439
+  strength: 0.7392
 ---
-
 ## Trump heads to APEC with China trade commitments unresolved
 
 **Subtype:** fact

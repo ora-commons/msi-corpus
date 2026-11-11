@@ -229,6 +229,8 @@ related_stories:
   publish_date: '2026-05-14'
   relation: related
   strength: 0.8041
+analyses:
+- '2026-11-10-abu-dhabi-talks-test-shared-security-language-against-incompatible-terms'
 ---
 ## Russia and Ukraine trade overnight drone strikes as Abu Dhabi talks open
 
@@ -278,3 +280,8 @@ Before the talks began, Kushner said he and Witkoff would meet separately with e
 **Publication date:** 2026-11-10
 **Title:** U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi
 **URL:** https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks
+
+---
+
+<!-- analysis-link:2026-11-10-abu-dhabi-talks-test-shared-security-language-against-incompatible-terms -->
+**Going deeper:** [Read MSI's analysis of the Abu Dhabi security-guarantees gap →](/analyses/2026-11-10-abu-dhabi-talks-test-shared-security-language-against-incompatible-terms)
