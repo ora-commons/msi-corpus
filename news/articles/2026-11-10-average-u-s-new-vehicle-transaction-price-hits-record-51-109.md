@@ -1,9 +1,15 @@
 ---
 headline: Average U.S. new-vehicle transaction price hits record $51,109
-secondary_headline: More than a quarter of buyers took on 84-month-or-longer auto loans
+secondary_headline: More than a quarter of buyers took on 84-month-or-longer auto
+  loans
 publish_date: '2026-11-10'
-lede: The average U.S. new-vehicle transaction price reached a record $51,109, according to a Kelley Blue Book report released Nov. 10. Kelley Blue Book, part of Cox Automotive, put the figure about $500 above the previous record set in December 2025.
-nut_graf: 'The record price comes as financing adds to buyers'' costs: Edmunds found that buyers financed more than ever, with an average loan of $44,664, while rates were about 11% for used vehicles and over 7% for new ones. Ivan Drury of Edmunds said first-time buyers face a steep down payment with nothing to trade in.'
+lede: The average U.S. new-vehicle transaction price reached a record $51,109, according
+  to a Kelley Blue Book report released Nov. 10. Kelley Blue Book, part of Cox Automotive,
+  put the figure about $500 above the previous record set in December 2025.
+nut_graf: 'The record price comes as financing adds to buyers'' costs: Edmunds found
+  that buyers financed more than ever, with an average loan of $44,664, while rates
+  were about 11% for used vehicles and over 7% for new ones. Ivan Drury of Edmunds
+  said first-time buyers face a steep down payment with nothing to trade in.'
 primary_entities:
 - Kelley Blue Book
 - Cox Automotive
@@ -45,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +150,40 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-07-fed-rate-hike-and-bond-selloff-push-mortgages-car-loans-higher
-  headline: Fed rate hike and bond selloff push mortgages, car loans higher
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6488
-- slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
-  headline: Diesel hits US record as freight rates climb to highest since 2022
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6427
-- slug: 2026-09-30-ev-sales-stabilize-at-5-6-one-year-after-congress-ended-the-federal-tax-credit
-  headline: EV sales stabilize at 5-6% one year after Congress ended the federal tax credit
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6118
-- slug: 2026-09-15-us-diesel-average-hits-record-6-27-a-gallon
-  headline: US diesel average hits record $6.27 a gallon
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6421
-- slug: 2026-09-11-average-us-diesel-price-crosses-6-per-gallon-for-the-first-time
-  headline: Average US diesel price crosses $6 per gallon for the first time
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6443
 - slug: 2026-08-11-ev-prices-rise-to-56-126-in-july-as-incentives-fall
   headline: EV prices rise to $56,126 in July as incentives fall
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6858
-- slug: 2026-09-04-diesel-reaches-5-85-national-average-as-six-month-iran-war-lifts-fuel-costs
-  headline: Diesel reaches $5.85 national average as six-month Iran war lifts fuel costs
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.631
+  strength: 0.686
 - slug: 2026-04-12-for-some-americans-rising-costs-put-a-new-car-out-of-reach
   headline: For some Americans, rising costs put a new car out of reach
   publish_date: '2026-04-12'
   relation: related
-  strength: 0.7448
+  strength: 0.7455
 - slug: 2026-08-08-ev-lease-payments-climb-as-7-500-credit-expires-pushing-buyers-to-hybrids
   headline: EV lease payments climb as $7,500 credit expires, pushing buyers to hybrids
   publish_date: '2026-08-08'
   relation: related
-  strength: 0.6669
+  strength: 0.6671
 - slug: 2026-06-06-americans-keep-cars-longer-reshaping-auto-industry-as-average-age-hits-13-years
-  headline: Americans Keep Cars Longer, Reshaping Auto Industry as Average Age Hits 13 Years
+  headline: Americans Keep Cars Longer, Reshaping Auto Industry as Average Age Hits
+    13 Years
   publish_date: '2026-06-06'
   relation: related
-  strength: 0.7235
-- slug: 2026-09-07-us-gas-averages-4-14-a-labor-day-holiday-record
-  headline: US gas averages $4.14, a Labor Day holiday record
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5986
-- slug: 2026-08-12-us-consumers-take-out-record-211-billion-in-auto-loans-fed-report-shows
-  headline: US consumers take out record $211 billion in auto loans, Fed report shows
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6375
+  strength: 0.7237
 - slug: 2026-01-14-car-shoppers-get-more-used-choices-and-easing-financing-in-2026-edmunds-says
-  headline: Car shoppers get more used choices and easing financing in 2026, Edmunds says
+  headline: Car shoppers get more used choices and easing financing in 2026, Edmunds
+    says
   publish_date: '2026-01-14'
   relation: related
-  strength: 0.6962
-- slug: 2026-08-11-existing-home-sales-fall-1-7-in-july-as-prices-hit-record
-  headline: Existing home sales fall 1.7% in July as prices hit record
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6029
+  strength: 0.6968
 - slug: 2026-01-13-edmunds-says-2026-car-market-brings-more-used-options-and-better-trade-in-values
-  headline: Edmunds says 2026 car market brings more used options and better trade-in values
+  headline: Edmunds says 2026 car market brings more used options and better trade-in
+    values
   publish_date: '2026-01-13'
   relation: related
-  strength: 0.676
-- slug: 2026-07-04-us-risks-falling-behind-in-global-ev-transition-as-chinese-cars-undercut-domesti
-  headline: US risks falling behind in global EV transition as Chinese cars undercut domestic market, analysts say
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6189
-- slug: 2026-07-02-auto-loans-stretch-to-record-lengths-metals-fall-on-hormuz-reopening
-  headline: Auto loans stretch to record lengths; metals fall on Hormuz reopening
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6197
-- slug: 2026-06-15-hidden-car-dealer-fees-persist-despite-ftc-crackdown
-  headline: Hidden Car Dealer Fees Persist Despite FTC Crackdown
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6163
-- slug: 2026-07-03-record-61-4-million-drivers-hit-the-road-for-july-fourth-as-gas-prices-ease
-  headline: Record 61.4 million drivers hit the road for July Fourth as gas prices ease
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5985
-- slug: 2026-04-02-five-used-evs-with-low-prices-per-edmunds-as-gas-prices-rise
-  headline: Five used EVs with low prices, per Edmunds, as gas prices rise
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6347
+  strength: 0.6764
 ---
-
 ## Average U.S. new-vehicle transaction price hits record $51,109
 
 **Subtype:** fact

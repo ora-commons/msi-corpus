@@ -2,8 +2,18 @@
 headline: Press Forward completes nearly $600 million in journalism investments
 secondary_headline: A broad funding network supports local journalism
 publish_date: '2026-11-10'
-lede: Press Forward announced Tuesday that it had completed nearly $600 million in investments in journalism organizations, about two years ahead of schedule. The nonprofit launched in 2023 to strengthen local news as outlets struggled with economic and technological changes, and Executive Director Dale Anglin said the organization would keep raising and investing money.
-nut_graf: The milestone comes as Northwestern University's *The State of Local News 2026* counted 238 counties with no locally based professional sources of news as news deserts, up 12% this year as advertising and audiences declined. Dozens of newsrooms started this year, but more than two newspapers closed for each outlet launched. Dale Anglin said there is “no silver bullet” to journalism’s economic problems. Philanthropy can strengthen outlets until they develop a sustainable business model.
+lede: Press Forward announced Tuesday that it had completed nearly $600 million in
+  investments in journalism organizations, about two years ahead of schedule. The
+  nonprofit launched in 2023 to strengthen local news as outlets struggled with economic
+  and technological changes, and Executive Director Dale Anglin said the organization
+  would keep raising and investing money.
+nut_graf: The milestone comes as Northwestern University's *The State of Local News
+  2026* counted 238 counties with no locally based professional sources of news as
+  news deserts, up 12% this year as advertising and audiences declined. Dozens of
+  newsrooms started this year, but more than two newspapers closed for each outlet
+  launched. Dale Anglin said there is “no silver bullet” to journalism’s economic
+  problems. Philanthropy can strengthen outlets until they develop a sustainable business
+  model.
 primary_entities:
 - Press Forward
 - Press Forward Chicago
@@ -50,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,109 +158,8 @@ cross_article_links:
   strength: 0.575
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-05-guardian-us-editor-says-midterm-voters-delivered-a-check-on-trump-s-power
-  headline: Guardian US editor says midterm voters delivered a check on Trump's power
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5938
-- slug: 2026-10-22-ford-foundation-redirects-spending-toward-democratic-institutions
-  headline: Ford Foundation redirects spending toward democratic institutions
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6097
-- slug: 2026-10-12-ten-megadonors-give-over-half-of-300-million-raised-for-trump-projects
-  headline: Ten megadonors give over half of $300 million raised for Trump projects
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5904
-- slug: 2026-10-11-virtually-unknown-donors-gave-up-to-1-million-each-to-a-super-pac
-  headline: Virtually unknown donors gave up to $1 million each to a super PAC
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5861
-- slug: 2026-10-06-morning-edition-launches-six-state-midterm-reporting-tour
-  headline: Morning Edition launches six-state midterm reporting tour
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.579
-- slug: 2026-10-02-aws-pledges-over-1-billion-to-communities-amid-data-center-backlash
-  headline: AWS pledges over $1 billion to communities amid data center backlash
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5836
-- slug: 2026-09-18-five-republican-aligned-pacs-reserve-ad-spending-ahead-of-november-3
-  headline: Five Republican-aligned PACs reserve ad spending ahead of November 3
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6136
-- slug: 2026-09-27-democratic-donors-fund-colom-s-long-shot-mississippi-senate-bid
-  headline: Democratic donors fund Colom's long-shot Mississippi Senate bid
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5807
-- slug: 2026-04-15-nonprofit-sector-steps-in-to-rescue-pittsburgh-post-gazette-from-shutdown
-  headline: Nonprofit sector steps in to rescue Pittsburgh Post-Gazette from shutdown
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6394
-- slug: 2026-04-08-ap-to-offer-buyouts-accelerating-pivot-from-newspapers-to-ai-visuals
-  headline: AP to Offer Buyouts, Accelerating Pivot from Newspapers to AI, Visuals
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6185
-- slug: 2026-04-05-ap-to-offer-buyouts-as-it-accelerates-shift-toward-video-and-ai
-  headline: AP to offer buyouts as it accelerates shift toward video and AI
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6174
-- slug: 2026-04-06-ap-to-offer-buyouts-to-us-journalists-as-it-accelerates-pivot-away-from-print
-  headline: AP to offer buyouts to US journalists as it accelerates pivot away from print
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.617
-- slug: 2026-04-07-ap-offers-buyouts-as-it-pivots-away-from-newspaper-focused-history
-  headline: AP offers buyouts as it pivots away from newspaper-focused history
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6165
-- slug: 2026-01-13-dnc-commits-millions-to-bring-voter-registration-under-party-control
-  headline: DNC commits millions to bring voter registration under party control
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6247
-- slug: 2026-03-04-juli-n-castro-backs-latino-community-foundation-with-250m-endowment
-  headline: Julián Castro backs Latino Community Foundation with $250M endowment
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6201
-- slug: 2026-06-15-foundations-launch-250th-anniversary-campaign-to-fight-perception-gap
-  headline: Foundations launch 250th anniversary campaign to fight 'perception gap'
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5805
-- slug: 2026-05-18-usa-today-owner-announces-plan-to-acquire-detroit-news-ending-36-year-partnershi
-  headline: USA Today owner announces plan to acquire Detroit News, ending 36-year partnership
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5931
-- slug: 2026-05-21-soros-backed-open-society-foundations-pledges-300-million-for-u-s-democracy
-  headline: Soros-backed Open Society Foundations pledges $300 million for U.S. democracy
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5913
-- slug: 2026-05-20-soros-open-society-foundations-pledges-300-million-for-u-s-democracy
-  headline: Soros Open Society Foundations pledges $300 million for U.S. democracy
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5915
-- slug: 2026-04-21-human-rights-campaign-targets-battleground-districts-in-2026-midterms
-  headline: Human Rights Campaign targets battleground districts in 2026 midterms
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.5957
+related_stories: []
 ---
-
 ## Press Forward completes nearly $600 million in journalism investments
 
 **Subtype:** fact
