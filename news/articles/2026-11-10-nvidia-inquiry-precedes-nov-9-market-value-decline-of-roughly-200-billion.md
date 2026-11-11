@@ -220,6 +220,8 @@ related_stories:
   publish_date: '2026-11-08'
   relation: related
   strength: 0.7942
+analyses:
+- '2026-11-10-nvidia-s-inquiry-turns-a-reported-succession-gap-into-an-industry-risk'
 ---
 ## Nvidia inquiry precedes Nov. 9 market-value decline of roughly $200 billion
 
@@ -275,3 +277,8 @@ The 10-Point newsletter was curated and edited by Morgan Smith and Gary Mitchell
 **Publication date:** 2026-11-10
 **Title:** The Affair That Turned Into a National Security Nightmare
 **URL:** https://www.wsj.com/articles/the-affair-that-turned-into-a-national-security-nightmare-e455221f
+
+---
+
+<!-- analysis-link:2026-11-10-nvidia-s-inquiry-turns-a-reported-succession-gap-into-an-industry-risk -->
+**Going deeper:** [Read MSI's analysis of Nvidia’s leadership-continuity gap →](/analyses/2026-11-10-nvidia-s-inquiry-turns-a-reported-succession-gap-into-an-industry-risk)

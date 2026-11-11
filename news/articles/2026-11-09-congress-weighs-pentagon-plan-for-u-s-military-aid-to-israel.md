@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7146
+analyses:
+- '2026-11-09-pentagon-plan-shifts-u-s--israel-aid-channels-while-total-support-remains-unreso'
 ---
 ## Congress weighs Pentagon plan for U.S. military aid to Israel
 
@@ -233,3 +235,8 @@ Last summer, Congress blocked a bipartisan effort by Rep. Ro Khanna, D-Calif., a
 **Publication date:** 2026-11-09
 **Title:** What Trump meant when he said the U.S. is cutting aid to Israel
 **URL:** https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid
+
+---
+
+<!-- analysis-link:2026-11-09-pentagon-plan-shifts-u-s--israel-aid-channels-while-total-support-remains-unreso -->
+**Going deeper:** [Read MSI's analysis of Pentagon management of Israel military aid →](/analyses/2026-11-09-pentagon-plan-shifts-u-s--israel-aid-channels-while-total-support-remains-unreso)
