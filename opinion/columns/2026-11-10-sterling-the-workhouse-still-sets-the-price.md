@@ -1,7 +1,8 @@
 ---
 headline: The Workhouse Still Sets the Price
 publish_date: '2026-11-10'
-lede: The English workhouse of 1834 made relief worse than the lowest-paid independent job.
+lede: The English workhouse of 1834 made relief worse than the lowest-paid independent
+  job.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-workhouse-still-sets-the-price.png
+  alt: 'Editorial cartoon by Hector Rentier: The Workhouse Still Sets the Price'
+  caption: He wrote down the cough in drops. He did not write down the air.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-10T22:15:34-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, square, heavy wood-engraving cross-hatch: pure black masses
+    balanced against carved-out whites. Center: Sterling A. Varice, a composed man
+    in his sixties in a dark three-piece suit, seat'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-10-hector-paired-with-2026-11-10-sterling-the-workhouse-still-sets-the-price
 ---
+
+![Editorial cartoon by Hector Rentier: The Workhouse Still Sets the Price](/cartoons/the-workhouse-still-sets-the-price.png)
+*He wrote down the cough in drops. He did not write down the air.*
 
 The English workhouse of 1834 made relief worse than the lowest-paid independent job. I updated the method: make the alternative to work worse than work. At my plating shop outside Warren, Ohio, Oona’s file says *maintenance line*. On Thursday she coughed 11 minutes, and I sent her back. The Wall Street Journal’s Editorial Board wrote in [Politics Shakes Up the Markets](https://www.wsj.com/opinion/tech-selloff-economy-politics-2e789982?mod=rss_opinion) that tech stocks lost 10% from their early-October peak and the Nasdaq shed some $2.5 trillion as investors sorted AI winners from losers and political risk. I agree with the Board’s warning: political uncertainty can travel from a ballot into a balance sheet. You buy the chrome ring inside your faucet; I keep the $0.0014 that pays for the missing exhaust hood. God blesses the wage that brings a body back to work.
 
