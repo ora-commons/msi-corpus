@@ -1,9 +1,17 @@
 ---
 headline: UK counter-terrorism police arrest U.S. soldier near Gloucester
-secondary_headline: FBI director says espionage allegations concern the United States and its allies
+secondary_headline: FBI director says espionage allegations concern the United States
+  and its allies
 publish_date: '2026-11-10'
-lede: British counter-terrorism police arrested a 41-year-old U.S. soldier near Gloucester on Tuesday on suspicion of offences under sections one and three of the National Security Act. The man remains in custody at a London police station as investigators work with U.S. authorities, the U.S. military and the FBI. Police said the country to which the allegations related was Russia.
-nut_graf: The case remains at the arrest-and-investigation stage, with the soldier in custody and the inquiry continuing. British and U.S. officials described the allegations as serious and emphasized cooperation between law-enforcement and national-security teams.
+lede: British counter-terrorism police arrested a 41-year-old U.S. soldier near Gloucester
+  on Tuesday on suspicion of offences under sections one and three of the National
+  Security Act. The man remains in custody at a London police station as investigators
+  work with U.S. authorities, the U.S. military and the FBI. Police said the country
+  to which the allegations related was Russia.
+nut_graf: The case remains at the arrest-and-investigation stage, with the soldier
+  in custody and the inquiry continuing. British and U.S. officials described the
+  allegations as serious and emphasized cooperation between law-enforcement and national-security
+  teams.
 primary_entities:
 - Counter Terrorism Policing
 - FBI
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +149,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-10-uk-counter-terrorism-police-arrest-u-s-soldier-near-gloucester.png
-  alt: 'Illustration accompanying article: UK counter-terrorism police arrest U.S. soldier near Gloucester'
+  alt: 'Illustration accompanying article: UK counter-terrorism police arrest U.S.
+    soldier near Gloucester'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-20-inquiry-into-planned-raf-fairford-attack-involves-seven-men-after-re-arrests
   headline: Inquiry into planned RAF Fairford attack involves seven men after re-arrests
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6789
+  strength: 0.6796
 - slug: 2026-10-09-mod-u-s-european-command-issue-statements-after-raf-molesworth-arrests
   headline: MOD, U.S. European Command issue statements after RAF Molesworth arrests
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7069
+  strength: 0.7075
 - slug: 2026-10-05-uk-officials-not-briefed-as-us-pulls-b-1-bombers-from-raf-fairford
   headline: UK officials not briefed as US pulls B-1 bombers from RAF Fairford
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6811
+  strength: 0.6812
 - slug: 2026-10-08-uk-arrests-two-latvian-men-at-raf-molesworth-under-national-security-act
   headline: UK arrests two Latvian men at RAF Molesworth under National Security Act
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.665
+  strength: 0.6654
 - slug: 2026-10-05-us-withdraws-b-1-bombers-from-raf-fairford-after-terror-arrests
   headline: US withdraws B-1 bombers from RAF Fairford after terror arrests
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6738
+  strength: 0.6741
 - slug: 2026-09-27-uk-police-arrest-five-near-raf-fairford-on-terrorism-suspicion
   headline: UK police arrest five near RAF Fairford on terrorism suspicion
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7002
+  strength: 0.7009
 - slug: 2026-09-28-u-s-reportedly-raises-threat-level-at-three-uk-bases-after-fairford-arrests
   headline: U.S. reportedly raises threat level at three UK bases after Fairford arrests
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6857
+  strength: 0.6862
 - slug: 2026-09-28-police-identify-five-arrested-near-raf-fairford-as-london-men-in-their-20s
-  headline: Police identify five arrested near RAF Fairford as London men in their 20s
+  headline: Police identify five arrested near RAF Fairford as London men in their
+    20s
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6747
-- slug: 2026-10-01-uk-police-arrest-dual-national-in-fairford-terror-probe-iran-denies-link
-  headline: UK police arrest dual national in Fairford terror probe; Iran denies link
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6634
-- slug: 2026-09-29-uk-police-release-five-raf-fairford-suspects-on-bail-citing-open-investigation
-  headline: UK police release five RAF Fairford suspects on bail, citing open investigation
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6674
-- slug: 2026-10-04-trump-criticises-uk-release-of-raf-fairford-suspects-on-bail
-  headline: Trump criticises UK release of RAF Fairford suspects on bail
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6481
-- slug: 2026-10-03-sixth-suspect-in-fairford-terror-probe-freed-on-bail
-  headline: Sixth suspect in Fairford terror probe freed on bail
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6505
-- slug: 2026-09-28-uk-arrests-five-near-raf-fairford-on-terrorism-charges-releases-all-on-bail
-  headline: UK arrests five near RAF Fairford on terrorism charges, releases all on bail
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6639
-- slug: 2026-09-27-us-raises-lakenheath-threat-level-after-five-arrests-near-raf-fairford
-  headline: US raises Lakenheath threat level after five arrests near RAF Fairford
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6657
-- slug: 2026-10-04-officials-frame-raf-fairford-bail-release-as-investigative-decision
-  headline: Officials frame RAF Fairford bail release as 'investigative decision'
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6386
-- slug: 2026-09-28-streeting-says-uk-security-forces-knew-of-raf-fairford-bomb-plot-in-advance
-  headline: Streeting says UK security forces knew of RAF Fairford bomb plot in advance
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6501
-- slug: 2026-10-05-trump-says-us-knows-the-people-behind-raf-fairford-bomber-threat
-  headline: Trump says US 'knows the people' behind RAF Fairford bomber threat
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6187
-- slug: 2026-09-29-five-men-released-on-bail-after-raf-fairford-terror-plot-arrests
-  headline: Five men released on bail after RAF Fairford terror plot arrests
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6383
-- slug: 2026-09-28-farmer-s-midnight-call-leads-to-five-arrests-near-raf-fairford
-  headline: Farmer's midnight call leads to five arrests near RAF Fairford
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.631
-- slug: 2026-09-29-uk-frees-raf-fairford-suspects-as-u-s-cites-thursday-bomb-threat-briefing
-  headline: UK frees RAF Fairford suspects as U.S. cites Thursday bomb threat briefing
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6207
+  strength: 0.6755
 ---
-
 ## UK counter-terrorism police arrest U.S. soldier near Gloucester
 
 **Subtype:** fact

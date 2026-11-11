@@ -2,8 +2,16 @@
 headline: Global Carbon Project projects 0.4% drop in global fossil-fuel emissions
 secondary_headline: More than half the decline comes from renewable generation
 publish_date: '2026-11-10'
-lede: A new analysis from the Global Carbon Project expects global fossil-fuel emissions to fall 0.4% in 2026 even as the global economy continues to grow. The Global Carbon Project attributes more than half of the projected reduction to increased renewable-energy generation, while high oil and fuel prices linked to the Iran war depressed consumption of petroleum products. U.S. fossil-fuel emissions are projected to fall 1.3% in 2026, while China’s are expected to decrease 0.9%.
-nut_graf: Pierre Friedlingstein said it is probably the first time emissions have fallen without a major reduction in gross domestic product. He cautioned that the pattern may not recur every year, and the analysis said emissions could rise again next year if the Iran war ends and oil prices fall.
+lede: A new analysis from the Global Carbon Project expects global fossil-fuel emissions
+  to fall 0.4% in 2026 even as the global economy continues to grow. The Global Carbon
+  Project attributes more than half of the projected reduction to increased renewable-energy
+  generation, while high oil and fuel prices linked to the Iran war depressed consumption
+  of petroleum products. U.S. fossil-fuel emissions are projected to fall 1.3% in
+  2026, while China’s are expected to decrease 0.9%.
+nut_graf: Pierre Friedlingstein said it is probably the first time emissions have
+  fallen without a major reduction in gross domestic product. He cautioned that the
+  pattern may not recur every year, and the analysis said emissions could rise again
+  next year if the Iran war ends and oil prices fall.
 primary_entities:
 - Global Carbon Project
 - Pierre Friedlingstein
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,13 +154,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-10-global-carbon-project-projects-0-4-drop-in-global-fossil-fuel-emissions.png
-  alt: 'Illustration accompanying article: Global Carbon Project projects 0.4% drop in global fossil-fuel emissions'
+  alt: 'Illustration accompanying article: Global Carbon Project projects 0.4% drop
+    in global fossil-fuel emissions'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-10-global-fossil-fuel-carbon-dioxide-emissions-fell-0-4-amid-iran-war
   headline: Global fossil-fuel carbon dioxide emissions fell 0.4% amid Iran war
@@ -162,99 +175,41 @@ related_stories:
   headline: China's clean-tech exports surpassed $220 billion in 2025
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6723
+  strength: 0.6733
 - slug: 2026-11-09-outdated-power-grids-threaten-renewable-energy-expansion
   headline: Outdated power grids threaten renewable energy expansion
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6533
+  strength: 0.6549
 - slug: 2026-10-29-china-s-clean-tech-exports-likely-to-avert-450-million-metric-tons-of-co2-a-year
-  headline: China's clean tech exports likely to avert 450 million metric tons of CO2 a year
+  headline: China's clean tech exports likely to avert 450 million metric tons of
+    CO2 a year
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7194
+  strength: 0.7206
 - slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
   headline: U.N. report finds U.S. emissions rose while global total held steady
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6906
+  strength: 0.6915
 - slug: 2026-10-01-iran-war-cuts-global-emissions-spurs-clean-energy-shift
   headline: Iran war cuts global emissions, spurs clean energy shift
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7457
+  strength: 0.7461
 - slug: 2026-10-21-record-copper-and-elevated-steel-costs-add-pressure-to-gm-s-full-year-outlook
-  headline: Record copper and elevated steel costs add pressure to GM's full-year outlook
+  headline: Record copper and elevated steel costs add pressure to GM's full-year
+    outlook
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.653
+  strength: 0.6533
 - slug: 2026-09-23-oecd-raises-2026-growth-forecast-to-2-9-warns-el-ni-o-and-iran-war-pose-risks
-  headline: OECD raises 2026 growth forecast to 2.9%, warns El Niño and Iran war pose risks
+  headline: OECD raises 2026 growth forecast to 2.9%, warns El Niño and Iran war pose
+    risks
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6936
-- slug: 2026-09-23-oecd-cuts-uk-2027-growth-forecast-to-1-on-iran-war-energy-costs
-  headline: OECD cuts UK 2027 growth forecast to 1% on Iran war energy costs
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6606
-- slug: 2026-09-16-iran-war-adds-107-billion-to-us-fuel-costs-brown-estimates
-  headline: Iran war adds $107 billion to US fuel costs, Brown estimates
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6598
-- slug: 2026-09-03-china-s-evs-displaced-1-5-million-barrels-of-oil-per-day-in-q2-iea-says
-  headline: China's EVs displaced 1.5 million barrels of oil per day in Q2, IEA says
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6535
-- slug: 2026-07-08-imf-cuts-global-growth-forecast-to-3-as-iran-war-lifts-energy-costs
-  headline: IMF cuts global growth forecast to 3% as Iran war lifts energy costs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6734
-- slug: 2026-04-14-china-gains-from-iran-war-as-global-energy-interest-turns-away-from-fossil-fuels
-  headline: China gains from Iran war as global energy interest turns away from fossil fuels
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7134
-- slug: 2026-07-15-china-s-crude-buying-pause-may-end-tightening-global-oil-market
-  headline: China's crude buying pause may end, tightening global oil market
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6635
-- slug: 2026-06-17-iea-oil-demand-to-fall-1-1-million-barrels-a-day-this-year-supply-rebound-seen-i
-  headline: 'IEA: Oil demand to fall 1.1 million barrels a day this year; supply rebound seen in 2027'
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6734
-- slug: 2026-07-11-imf-cuts-global-growth-to-3-as-iran-war-record-home-prices-squeeze-economy
-  headline: IMF cuts global growth to 3% as Iran war, record home prices squeeze economy
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6494
-- slug: 2026-04-15-iran-war-fallout-cuts-imf-outlook-for-global-growth-and-lifts-inflation
-  headline: Iran war fallout cuts IMF outlook for global growth and lifts inflation
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6898
-- slug: 2026-03-21-iran-war-energy-crisis-is-a-renewable-energy-wake-up-call
-  headline: Iran war energy crisis is a renewable energy wake-up call
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6872
-- slug: 2026-06-12-global-air-travel-growth-to-slow-to-2-1-in-2026-as-middle-east-war-lifts-fuel-co
-  headline: Global air travel growth to slow to 2.1% in 2026 as Middle East war lifts fuel costs
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.651
-- slug: 2026-03-24-asia-turns-to-coal-as-iran-war-squeezes-global-lng-supplies
-  headline: Asia turns to coal as Iran war squeezes global LNG supplies
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6761
+  strength: 0.6929
 ---
-
 ## Global Carbon Project projects 0.4% drop in global fossil-fuel emissions
 
 **Subtype:** fact
