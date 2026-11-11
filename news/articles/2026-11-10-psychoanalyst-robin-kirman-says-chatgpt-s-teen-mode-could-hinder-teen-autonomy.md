@@ -212,6 +212,8 @@ related_stories:
   publish_date: '2026-09-10'
   relation: related
   strength: 0.7039
+analyses:
+- '2026-11-10-openai-s-teen-mode-tests-whether-guided-reasoning-survives-without-the-tool'
 ---
 ## Psychoanalyst Robin Kirman says ChatGPT's Teen Mode could hinder teen autonomy
 
@@ -262,3 +264,8 @@ Readers in the United States concerned about adolescent mental health or suicide
 **Publication date:** 2026-11-10
 **Title:** ChatGPT’s Teen Mode could deprive teenagers of a fundamental need | Robin Kirman
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills
+
+---
+
+<!-- analysis-link:2026-11-10-openai-s-teen-mode-tests-whether-guided-reasoning-survives-without-the-tool -->
+**Going deeper:** [Read MSI's analysis of the Teen Mode transfer gap →](/analyses/2026-11-10-openai-s-teen-mode-tests-whether-guided-reasoning-survives-without-the-tool)
