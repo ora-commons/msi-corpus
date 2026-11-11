@@ -2,8 +2,15 @@
 headline: California voters reject Proposition 40 tax on billionaires
 secondary_headline: Opponents spent at least five times as much as supporters
 publish_date: '2026-11-09'
-lede: An Associated Press race call indicated on Nov. 9, 2026, that California voters had rejected Proposition 40, which proposed a one-time 5% tax on most of the wealth held by billionaires. The measure had divided Democrats, with Gov. Gavin Newsom and Democratic gubernatorial candidate Xavier Becerra opposed while the California Democratic Party, Rep. Ro Khanna and Sen. Bernie Sanders supported it.
-nut_graf: The rejection came after a campaign over whether Proposition 40 could raise $100 billion for health care or instead drive wealthy residents from California. The campaign also exposed divisions among Democratic officials, candidates and the state party, which had taken opposing positions on the measure.
+lede: An Associated Press race call indicated on Nov. 9, 2026, that California voters
+  had rejected Proposition 40, which proposed a one-time 5% tax on most of the wealth
+  held by billionaires. The measure had divided Democrats, with Gov. Gavin Newsom
+  and Democratic gubernatorial candidate Xavier Becerra opposed while the California
+  Democratic Party, Rep. Ro Khanna and Sen. Bernie Sanders supported it.
+nut_graf: The rejection came after a campaign over whether Proposition 40 could raise
+  $100 billion for health care or instead drive wealthy residents from California.
+  The campaign also exposed divisions among Democratic officials, candidates and the
+  state party, which had taken opposing positions on the measure.
 primary_entities:
 - California
 - Proposition 40
@@ -46,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,107 +153,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-10-voters-reject-one-time-5-tax-on-wealth-of-californians-with-net-worth-above-1-bi
-  headline: Voters reject one-time 5% tax on wealth of Californians with net worth above $1 billion
+  headline: Voters reject one-time 5% tax on wealth of Californians with net worth
+    above $1 billion
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.9058
+  strength: 0.9069
+- slug: 2026-11-10-dave-regan-vows-conditional-2028-california-wealth-tax-ballot-measure
+  headline: Dave Regan vows conditional 2028 California wealth-tax ballot measure
+  publish_date: '2026-11-10'
+  relation: related
+  strength: 0.8345
 - slug: 2026-11-10-campaign-filings-show-opposition-to-california-proposition-40-neared-425m
   headline: Campaign filings show opposition to California Proposition 40 neared $425m
   publish_date: '2026-11-10'
   relation: related
   strength: 0.8148
 - slug: 2026-11-10-union-leader-dave-regan-pledges-another-california-billionaire-tax-for-2028
-  headline: Union leader Dave Regan pledges another California billionaire tax for 2028
+  headline: Union leader Dave Regan pledges another California billionaire tax for
+    2028
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7988
+  strength: 0.8
 - slug: 2026-11-03-ppic-poll-shows-52-of-likely-voters-opposing-proposition-40
   headline: PPIC poll shows 52% of likely voters opposing Proposition 40
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8385
+  strength: 0.8391
 - slug: 2026-11-09-california-s-proposition-40-appears-headed-toward-defeat-as-votes-are-counted
-  headline: California's Proposition 40 appears headed toward defeat as votes are counted
+  headline: California's Proposition 40 appears headed toward defeat as votes are
+    counted
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7825
+  strength: 0.7839
 - slug: 2026-10-31-newsom-leads-opposition-to-california-billionaire-tax-democratic-voters-favor
-  headline: Newsom leads opposition to California billionaire tax Democratic voters favor
+  headline: Newsom leads opposition to California billionaire tax Democratic voters
+    favor
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8404
+  strength: 0.8416
 - slug: 2026-10-23-proposition-40-aims-to-raise-100-billion-for-california-health-care
   headline: Proposition 40 aims to raise $100 billion for California health care
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8308
-- slug: 2026-11-02-george-zimmer-urges-voters-to-back-california-s-proposition-40
-  headline: George Zimmer urges voters to back California’s Proposition 40
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7656
-- slug: 2026-10-30-california-voters-weigh-governor-race-billionaire-tax-in-tuesday-election
-  headline: California voters weigh governor race, billionaire tax in Tuesday election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7748
-- slug: 2026-10-30-union-leader-s-crazy-idea-drives-california-billionaire-tax-fight
-  headline: Union leader's 'crazy' idea drives California billionaire-tax fight
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.769
-- slug: 2026-10-16-tech-billionaires-raise-340m-to-defeat-california-prop-40-wealth-tax
-  headline: Tech billionaires raise $340M to defeat California Prop 40 wealth tax
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.8368
-- slug: 2026-10-29-four-professors-await-tuesday-vote-on-california-wealth-tax-they-drafted
-  headline: Four professors await Tuesday vote on California wealth tax they drafted
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7512
-- slug: 2026-10-29-billionaires-opposing-prop-40-offer-tax-code-alternatives
-  headline: Billionaires opposing Prop. 40 offer tax-code alternatives
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7508
-- slug: 2026-10-26-california-s-billionaire-tax-divides-democrats-ahead-of-november-vote
-  headline: California’s billionaire tax divides Democrats ahead of November vote
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7422
-- slug: 2026-10-10-newsom-backs-prop-42-barring-new-california-wealth-taxes
-  headline: Newsom backs Prop. 42 barring new California wealth taxes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.7991
-- slug: 2026-10-22-building-a-better-california-has-raised-over-333-million-against-billionaire-tax
-  headline: Building a Better California has raised over $333 million against billionaire tax
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7401
-- slug: 2026-10-27-estate-tax-liability-change-precedes-migration-among-forbes-400-billionaires
-  headline: Estate-tax liability change precedes migration among Forbes 400 billionaires
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.711
-- slug: 2026-10-22-california-wealth-tax-would-take-effect-jan-1-if-voters-adopt-proposition-40
-  headline: California wealth tax would take effect Jan. 1 if voters adopt Proposition 40
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7176
-- slug: 2026-08-02-california-democrats-endorse-one-time-5-tax-on-billionaires
-  headline: California Democrats endorse one-time 5% tax on billionaires
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.8462
-- slug: 2026-06-26-california-billionaire-tax-heads-to-november-ballot-as-withdrawal-deadline-expir
-  headline: California billionaire tax heads to November ballot as withdrawal deadline expires
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.8015
+  strength: 0.8316
 ---
-
 ## California voters reject Proposition 40 tax on billionaires
 
 **Subtype:** fact

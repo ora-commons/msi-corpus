@@ -1,9 +1,20 @@
 ---
 headline: Tusk-Nawrocki clash weakens Poland’s foreign-policy leverage
-secondary_headline: Poland left on the sidelines of Oslo war talks despite its border with Russia
+secondary_headline: Poland left on the sidelines of Oslo war talks despite its border
+  with Russia
 publish_date: '2026-11-10'
-lede: Prime Minister Donald Tusk’s centrist government and right-wing President Karol Nawrocki are locked in a decadelong struggle over Poland’s courts and appointments, The Wall Street Journal reported. The divisions have weakened Warsaw’s ability to influence NATO, Washington and major European powers and complicated its relationships with President Trump and some of Europe’s biggest powers. Poland, which shares a more than 100-mile border with Russia, was left on the sidelines of high-level discussions on the war in Ukraine.
-nut_graf: The political fight carries foreign-policy stakes because Poland combines one of the strongest economies in Europe, one of NATO’s highest rates of military spending, the largest military on the continent and a border with Russia. The divisions have left Warsaw on the sidelines of decisions affecting its security while its leaders argue over courts, appointments and next year’s parliamentary elections.
+lede: Prime Minister Donald Tusk’s centrist government and right-wing President Karol
+  Nawrocki are locked in a decadelong struggle over Poland’s courts and appointments,
+  The Wall Street Journal reported. The divisions have weakened Warsaw’s ability to
+  influence NATO, Washington and major European powers and complicated its relationships
+  with President Trump and some of Europe’s biggest powers. Poland, which shares a
+  more than 100-mile border with Russia, was left on the sidelines of high-level discussions
+  on the war in Ukraine.
+nut_graf: The political fight carries foreign-policy stakes because Poland combines
+  one of the strongest economies in Europe, one of NATO’s highest rates of military
+  spending, the largest military on the continent and a border with Russia. The divisions
+  have left Warsaw on the sidelines of decisions affecting its security while its
+  leaders argue over courts, appointments and next year’s parliamentary elections.
 primary_entities:
 - Poland
 - Donald Tusk
@@ -51,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +161,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-08-kremlin-counts-on-trump-for-ukraine-peace-efforts-as-beijing-stays-measured
-  headline: Kremlin counts on Trump for Ukraine peace efforts as Beijing stays measured
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6282
-- slug: 2026-11-08-guardian-columnist-says-midterm-losses-leave-trump-weaker-abroad
-  headline: Guardian columnist says midterm losses leave Trump weaker abroad
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.627
-- slug: 2026-11-06-rubio-heads-to-france-for-g7-talks-after-republican-midterm-losses
-  headline: Rubio heads to France for G7 talks after Republican midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6306
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6303
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.634
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6301
 - slug: 2026-09-18-tusk-warns-russia-plans-accidental-strikes-to-paralyze-nato
   headline: Tusk warns Russia plans 'accidental' strikes to paralyze NATO
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6912
+  strength: 0.6873
 - slug: 2026-09-27-poland-more-than-doubles-defense-spending-to-4-8-of-gdp-since-2022-invasion
   headline: Poland more than doubles defense spending to 4.8% of GDP since 2022 invasion
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6527
+  strength: 0.6502
 - slug: 2026-09-20-european-spy-chiefs-split-on-russian-threat-timeline-to-nato
   headline: European spy chiefs split on Russian threat timeline to NATO
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6577
-- slug: 2026-09-13-trump-presses-zelensky-on-russian-refinery-strikes-citing-diesel-prices
-  headline: Trump presses Zelensky on Russian refinery strikes, citing diesel prices
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.644
-- slug: 2026-09-18-latvia-s-president-warns-nato-falling-behind-ukraine-drone-warfare
-  headline: Latvia's president warns NATO falling behind Ukraine drone warfare
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6235
-- slug: 2026-08-30-russia-escalates-gray-zone-attacks-across-europe-officials-say
-  headline: Russia escalates 'gray-zone' attacks across Europe, officials say
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6295
+  strength: 0.6542
 - slug: 2026-03-09-polish-president-nawrocki-rejects-eu-44-billion-defense-loan-bill
   headline: Polish President Nawrocki rejects EU €44 billion defense-loan bill
   publish_date: '2026-03-09'
   relation: related
-  strength: 0.6989
+  strength: 0.6966
 - slug: 2026-02-06-us-cuts-ties-with-polish-parliament-speaker-over-insults-to-trump
   headline: US cuts ties with Polish parliament speaker over insults to Trump
   publish_date: '2026-02-06'
   relation: related
-  strength: 0.6889
-- slug: 2026-07-07-nato-allies-race-to-replace-withdrawn-u-s-military-capabilities
-  headline: NATO allies race to replace withdrawn U.S. military capabilities
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6404
-- slug: 2026-07-03-senior-officials-blocked-hegseth-plan-for-deeper-troop-cuts-in-europe
-  headline: Senior officials blocked Hegseth plan for deeper troop cuts in Europe
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6325
+  strength: 0.6876
 - slug: 2026-03-23-poland-responds-after-hungary-accused-of-sharing-eu-details-with-russia
   headline: Poland responds after Hungary accused of sharing EU details with Russia
   publish_date: '2026-03-23'
   relation: related
-  strength: 0.6719
-- slug: 2026-05-22-trump-says-5-000-more-troops-to-poland-sowing-confusion-in-europe
-  headline: Trump says 5,000 more troops to Poland, sowing confusion in Europe
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6497
-- slug: 2026-05-10-former-polish-justice-minister-ziobro-says-he-is-in-the-u-s
-  headline: Former Polish justice minister Ziobro says he is in the U.S.
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6523
-- slug: 2026-06-10-putin-trump-trapped-in-losing-battles-against-reality-columnist-argues
-  headline: Putin, Trump trapped in losing battles against reality, columnist argues
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6361
+  strength: 0.6692
 ---
-
 ## Tusk-Nawrocki clash weakens Poland’s foreign-policy leverage
 
 **Subtype:** fact
