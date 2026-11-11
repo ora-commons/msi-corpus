@@ -1,9 +1,21 @@
 ---
 headline: Five countries back plan to double homes with rooftop solar by 2030
-secondary_headline: Experts say grid upgrades and subsidies for panels and batteries must follow
+secondary_headline: Experts say grid upgrades and subsidies for panels and batteries
+  must follow
 publish_date: '2026-11-10'
-lede: Five countries endorsed the Global Rooftop Solar Declaration on Tuesday at the COP31 climate talks in Antalya, Turkey. Australia was joined by Bangladesh, Kenya, Nigeria and Vanuatu, while lawmakers from 21 other countries and Indonesia's state-owned electric power company also endorsed the voluntary, non-binding plan. The declaration seeks to increase homes with rooftop solar panels from about 150 million to at least 300 million by 2030.
-nut_graf: The declaration sets a measurable global target but is voluntary and non-binding, leaving national policy changes to governments. Experts said policies to upgrade power grids and subsidize solar panels and batteries must quickly follow for rooftop-solar goals to make a dent in emissions contributing to climate change. Sheryl Estella said national policies must swiftly follow COP31 promises by addressing funding for consumer subsidies, clearer policies for solar companies and the availability of qualified installers.
+lede: Five countries endorsed the Global Rooftop Solar Declaration on Tuesday at the
+  COP31 climate talks in Antalya, Turkey. Australia was joined by Bangladesh, Kenya,
+  Nigeria and Vanuatu, while lawmakers from 21 other countries and Indonesia's state-owned
+  electric power company also endorsed the voluntary, non-binding plan. The declaration
+  seeks to increase homes with rooftop solar panels from about 150 million to at least
+  300 million by 2030.
+nut_graf: The declaration sets a measurable global target but is voluntary and non-binding,
+  leaving national policy changes to governments. Experts said policies to upgrade
+  power grids and subsidize solar panels and batteries must quickly follow for rooftop-solar
+  goals to make a dent in emissions contributing to climate change. Sheryl Estella
+  said national policies must swiftly follow COP31 promises by addressing funding
+  for consumer subsidies, clearer policies for solar companies and the availability
+  of qualified installers.
 primary_entities:
 - Global Rooftop Solar Declaration
 - COP31
@@ -62,7 +74,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -164,104 +177,44 @@ related_stories:
   headline: Kurum's Action Agenda centers on electrification
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7083
+  strength: 0.7084
 - slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
   headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7277
+  strength: 0.7286
 - slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
+  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31
+    negotiations
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6979
+  strength: 0.6995
 - slug: 2026-11-06-un-climate-talks-open-in-turkey-with-fossil-fuel-transition-as-key-issue
   headline: UN climate talks open in Turkey with fossil fuel transition as key issue
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7041
+  strength: 0.7039
 - slug: 2026-11-10-brazil-to-launch-fossil-fuel-transition-roadmap-at-cop31
   headline: Brazil to launch fossil fuel transition roadmap at COP31
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6531
+  strength: 0.6533
 - slug: 2026-11-09-outdated-power-grids-threaten-renewable-energy-expansion
   headline: Outdated power grids threaten renewable energy expansion
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6518
-- slug: 2026-11-10-china-s-clean-tech-exports-surpassed-220-billion-in-2025
-  headline: China's clean-tech exports surpassed $220 billion in 2025
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.633
+  strength: 0.6551
 - slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
   headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6592
-- slug: 2026-11-07-guterres-prepares-final-climate-message-as-cop31-s-nov-9-opening-nears
-  headline: Guterres prepares final climate message as COP31's Nov. 9 opening nears
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6458
+  strength: 0.66
 - slug: 2026-10-20-ipcc-suspends-meeting-without-setting-ar7-publication-timeline
   headline: IPCC suspends meeting without setting AR7 publication timeline
   publish_date: '2026-10-20'
   relation: related
   strength: 0.656
-- slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
-  headline: U.N. report finds U.S. emissions rose while global total held steady
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6246
-- slug: 2026-10-09-at-fiji-pre-summit-kurum-calls-climate-crisis-the-security-issue
-  headline: At Fiji pre-summit, Kurum calls climate crisis 'the security issue'
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6629
-- slug: 2026-09-22-tropical-warming-will-outlast-net-zero-emissions-study-finds
-  headline: Tropical warming will outlast net-zero emissions, study finds
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6363
-- slug: 2026-09-23-taylor-pledges-to-repeal-australian-climate-energy-policies
-  headline: Taylor pledges to repeal Australian climate, energy policies
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6321
-- slug: 2026-09-21-albanese-at-un-climate-week-says-cost-of-climate-inaction-cannot-be-avoided
-  headline: Albanese at UN Climate Week says cost of climate inaction cannot be avoided
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6304
-- slug: 2026-05-23-un-general-assembly-backs-advisory-opinion-on-climate-duties-after-us-opposition
-  headline: UN General Assembly backs advisory opinion on climate duties after US opposition
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6604
-- slug: 2026-05-20-un-general-assembly-backs-icj-climate-ruling-despite-us-opposition
-  headline: UN General Assembly backs ICJ climate ruling despite US opposition
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6576
-- slug: 2026-05-20-un-general-assembly-backs-international-court-climate-ruling-141-8
-  headline: UN General Assembly backs international court climate ruling, 141-8
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6498
-- slug: 2026-05-21-un-general-assembly-backs-icj-climate-ruling-despite-u-s-opposition
-  headline: UN General Assembly backs ICJ climate ruling despite U.S. opposition
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6481
-- slug: 2026-05-22-un-general-assembly-backs-icj-climate-ruling-after-u-s-opposes-measure
-  headline: UN General Assembly backs ICJ climate ruling after U.S. opposes measure
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6453
 ---
-
 ## Five countries back plan to double homes with rooftop solar by 2030
 
 **Subtype:** fact

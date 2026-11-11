@@ -1,9 +1,21 @@
 ---
-headline: DHS cites safety, guardianship concerns; Vargas says 8-year-old Haitian boy is unaccounted for
+headline: DHS cites safety, guardianship concerns; Vargas says 8-year-old Haitian
+  boy is unaccounted for
 secondary_headline: His uncle and cousins had cared for him after his father's deportation
 publish_date: '2026-11-10'
-lede: Relatives of an 8-year-old Haitian boy taken into ICE custody in California could not locate him, Rep. Juan Vargas, a California Democratic congressman, said Monday, adding that he was working to reunite the third-grader with loved ones. NBC News video shows three armed officials leading the boy away from a San Diego immigration appointment on Nov. 4. DHS said ICE took the child into custody for his safety because his uncle could not prove legal guardianship, while Vargas said the boy’s whereabouts remained unknown.
-nut_graf: The case centers on DHS’s stated legal and safety rationale for taking the child into custody and on the child’s separation from family and classmates, while a school official says the boy should be with his uncle. It comes as the Trump administration has decided to revoke Temporary Protected Status safeguards for Haitians and President Trump has said the mass-deportation policy he pursued in his second presidency was “too tough.”
+lede: Relatives of an 8-year-old Haitian boy taken into ICE custody in California
+  could not locate him, Rep. Juan Vargas, a California Democratic congressman, said
+  Monday, adding that he was working to reunite the third-grader with loved ones.
+  NBC News video shows three armed officials leading the boy away from a San Diego
+  immigration appointment on Nov. 4. DHS said ICE took the child into custody for
+  his safety because his uncle could not prove legal guardianship, while Vargas said
+  the boy’s whereabouts remained unknown.
+nut_graf: The case centers on DHS’s stated legal and safety rationale for taking the
+  child into custody and on the child’s separation from family and classmates, while
+  a school official says the boy should be with his uncle. It comes as the Trump administration
+  has decided to revoke Temporary Protected Status safeguards for Haitians and President
+  Trump has said the mass-deportation policy he pursued in his second presidency was
+  “too tough.”
 primary_entities:
 - Juan Vargas
 - Immigration and Customs Enforcement
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,18 +156,15 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-30-sheriff-says-ice-suv-that-struck-houston-man-carried-two-handcuffed-detainees
-  headline: Sheriff says ICE SUV that struck Houston man carried two handcuffed detainees
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6632
 - slug: 2026-10-19-ice-agents-break-us-citizen-s-arm-during-long-beach-detention-officials-say
-  headline: ICE agents break US citizen's arm during Long Beach detention, officials say
+  headline: ICE agents break US citizen's arm during Long Beach detention, officials
+    say
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6775
+  strength: 0.6765
 - slug: 2026-10-09-mamdani-aoc-call-for-ice-abolition-as-dhs-rejects-new-york-enforcement-pause
-  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement pause
+  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement
+    pause
   publish_date: '2026-10-09'
   relation: related
   strength: 0.6661
@@ -162,22 +172,23 @@ related_stories:
   headline: Venezuelan man shot by ICE in Austin awaits surgery decision
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6674
+  strength: 0.6665
 - slug: 2026-09-09-police-probe-possible-suicide-of-haitian-student-wearing-ice-monitor
   headline: Police probe possible suicide of Haitian student wearing ICE monitor
   publish_date: '2026-09-09'
   relation: related
   strength: 0.6909
 - slug: 2026-07-22-mother-seeks-accountability-16-months-after-ice-agent-killed-her-son-in-texas
-  headline: Mother seeks accountability 16 months after ICE agent killed her son in Texas
+  headline: Mother seeks accountability 16 months after ICE agent killed her son in
+    Texas
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.6783
+  strength: 0.6775
 - slug: 2026-01-29-democrats-visit-detained-5-year-old-at-texas-ice-facility
   headline: Democrats visit detained 5-year-old at Texas ICE facility
   publish_date: '2026-01-29'
   relation: related
-  strength: 0.7128
+  strength: 0.7135
 - slug: 2026-01-24-government-and-school-offer-conflicting-accounts-in-5-year-old-s-ice-detention
   headline: Government and school offer conflicting accounts in 5-year-old's ICE detention
   publish_date: '2026-01-24'
@@ -187,64 +198,8 @@ related_stories:
   headline: Video shows Minnesota dad and boy were moved to ICE detention by Delta
   publish_date: '2026-03-27'
   relation: related
-  strength: 0.6935
-- slug: 2026-04-05-lawsuit-says-3-year-old-faced-alleged-sexual-abuse-while-held-by-orr
-  headline: Lawsuit says 3-year-old faced alleged sexual abuse while held by ORR
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6914
-- slug: 2026-01-22-federal-agents-detain-5-year-old-school-says-child-was-used-as-bait
-  headline: Federal agents detain 5-year-old; school says child was used as 'bait'
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6952
-- slug: 2026-01-27-federal-judge-halts-removal-of-detained-5-year-old-and-father
-  headline: Federal judge halts removal of detained 5-year-old and father
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.69
-- slug: 2026-02-03-father-of-5-year-old-detained-in-minnesota-disputes-government-account
-  headline: Father of 5-year-old detained in Minnesota disputes government account
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6892
-- slug: 2026-02-02-5-year-old-and-his-dad-return-to-minnesota-from-ice-facility-in-texas
-  headline: 5-year-old and his dad return to Minnesota from ICE facility in Texas
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6882
-- slug: 2026-03-10-ice-releases-teen-mariachi-brothers-after-bipartisan-criticism
-  headline: ICE releases teen mariachi brothers after bipartisan criticism
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6845
-- slug: 2026-03-24-video-of-ice-arrest-at-san-francisco-airport-draws-democrats-anger
-  headline: Video of ICE arrest at San Francisco airport draws Democrats' anger
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6803
-- slug: 2026-04-23-immigration-officer-charged-with-assault-after-protest-outside-colorado-ice
-  headline: Immigration officer charged with assault after protest outside Colorado ICE
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6715
-- slug: 2026-02-19-us-rep-joaquin-castro-says-ice-deported-a-sick-2-month-old-baby
-  headline: US Rep. Joaquin Castro says ICE deported a sick 2-month-old baby
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6742
-- slug: 2026-02-10-officials-deny-seeking-end-to-asylum-claims-for-5-year-old-liam-ramos
-  headline: Officials deny seeking end to asylum claims for 5-year-old Liam Ramos
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6739
-- slug: 2026-03-01-trump-administration-holds-children-in-immigration-detention-for-months
-  headline: Trump administration holds children in immigration detention for months
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6722
+  strength: 0.6936
 ---
-
 ## DHS cites safety, guardianship concerns; Vargas says 8-year-old Haitian boy is unaccounted for
 
 **Subtype:** fact
