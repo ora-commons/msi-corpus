@@ -1,9 +1,21 @@
 ---
 headline: Asian indexes fall as data-center concerns weigh on chip shares
-secondary_headline: Taiwan deploys stabilization fund as South Korea eases brokerage collateral rules
+secondary_headline: Taiwan deploys stabilization fund as South Korea eases brokerage
+  collateral rules
 publish_date: '2026-11-10'
-lede: Asian stock indexes fell sharply as investors worried that the U.S. data-center build-out could slow following the midterm elections, The Wall Street Journal reported. South Korea's Kospi fell nearly 12% last week, while Japan's Nikkei Semiconductor Stock Index dropped 54% from its June high. Taiwan mobilized the National Financial Stabilization Fund and restricted short selling, while South Korea temporarily loosened brokerage collateral rules. On Monday, the Kospi stayed roughly flat and Taiwan's Taiex gained roughly 5% after authorities acted to curb volatility.
-nut_graf: The volatility has affected individual investors across South Korea, China, Japan and Taiwan, including younger people who entered during the rally fueled by demand for AI-related chips and technology. Taiwan and South Korea have responded with stabilization measures. Investors described reduced portfolios and uncertainty about where to move money, while the market swings were providing an early lesson for those just starting out.
+lede: Asian stock indexes fell sharply as investors worried that the U.S. data-center
+  build-out could slow following the midterm elections, The Wall Street Journal reported.
+  South Korea's Kospi fell nearly 12% last week, while Japan's Nikkei Semiconductor
+  Stock Index dropped 54% from its June high. Taiwan mobilized the National Financial
+  Stabilization Fund and restricted short selling, while South Korea temporarily loosened
+  brokerage collateral rules. On Monday, the Kospi stayed roughly flat and Taiwan's
+  Taiex gained roughly 5% after authorities acted to curb volatility.
+nut_graf: The volatility has affected individual investors across South Korea, China,
+  Japan and Taiwan, including younger people who entered during the rally fueled by
+  demand for AI-related chips and technology. Taiwan and South Korea have responded
+  with stabilization measures. Investors described reduced portfolios and uncertainty
+  about where to move money, while the market swings were providing an early lesson
+  for those just starting out.
 primary_entities:
 - South Korea
 - Japan
@@ -51,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +166,43 @@ related_stories:
   headline: Taiwan activates market stabilization fund amid global selloff in AI stocks
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.761
+  strength: 0.7612
 - slug: 2026-11-06-global-stocks-sink-as-ai-slowdown-fears-follow-democrats-midterm-victory
   headline: Global stocks sink as AI slowdown fears follow Democrats' midterm victory
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.739
+  strength: 0.7407
 - slug: 2026-11-05-nasdaq-drops-as-much-as-5-amid-ai-spending-and-regulation-fears
   headline: Nasdaq drops as much as 5% amid AI spending and regulation fears
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.729
-- slug: 2026-10-27-most-asian-stocks-close-higher-after-nvidia-s-2-4-gain
-  headline: Most Asian stocks close higher after Nvidia's 2.4% gain
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7089
+  strength: 0.7303
 - slug: 2026-10-15-imf-warns-ai-share-price-correction-could-threaten-global-financial-stability
   headline: IMF warns AI share-price correction could threaten global financial stability
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7598
+  strength: 0.7618
 - slug: 2026-10-16-asian-stocks-rebound-after-tech-selloff-oil-slips
   headline: Asian stocks rebound after tech selloff, oil slips
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7517
+  strength: 0.7539
 - slug: 2026-10-23-ai-stocks-fall-overnight-before-japan-and-south-korea-trade-broadly-flat
   headline: AI stocks fall overnight before Japan and South Korea trade broadly flat
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7106
+  strength: 0.7134
 - slug: 2026-10-15-chip-stocks-lead-global-sell-off-as-us-inflation-rises
   headline: Chip stocks lead global sell-off as US inflation rises
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.736
+  strength: 0.7375
 - slug: 2026-08-19-kospi-leads-asian-shares-lower-as-ai-stocks-extend-decline
   headline: Kospi leads Asian shares lower as AI stocks extend decline
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7828
-- slug: 2026-09-14-ai-linked-stocks-slide-after-anthropic-ceo-urges-industry-to-slow-development
-  headline: AI-linked stocks slide after Anthropic CEO urges industry to slow development
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7156
-- slug: 2026-09-02-asian-shares-tumble-as-global-bond-sell-off-deepens
-  headline: Asian shares tumble as global bond sell-off deepens
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7272
-- slug: 2026-07-02-kospi-falls-7-89-as-ai-capacity-concerns-hit-chip-stocks
-  headline: KOSPI falls 7.89% as AI capacity concerns hit chip stocks
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.8137
-- slug: 2026-07-16-kospi-slides-6-4-into-bear-market-as-ai-chip-selloff-spreads
-  headline: KOSPI slides 6.4% into bear market as AI chip selloff spreads
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7974
-- slug: 2026-07-28-south-korea-s-kospi-plunges-10-5-on-ai-chip-stock-selloff
-  headline: South Korea's Kospi plunges 10.5% on AI chip stock selloff
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7643
-- slug: 2026-07-17-asian-shares-slide-as-ai-stock-selloff-hits-nikkei-taiwan-markets
-  headline: Asian shares slide as AI stock selloff hits Nikkei, Taiwan markets
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.7756
-- slug: 2026-06-08-south-korean-stocks-crash-8-on-ai-profit-fears-fed-rate-concerns
-  headline: South Korean stocks crash 8% on AI profit fears, Fed rate concerns
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7875
-- slug: 2026-08-07-china-exports-grow-about-24-in-july-amid-strong-electronics-demand
-  headline: China exports grow about 24% in July amid strong electronics demand
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7222
-- slug: 2026-06-29-chipmakers-samsung-and-sk-hynix-lead-kospi-s-125-first-half-rally
-  headline: Chipmakers Samsung and SK Hynix lead Kospi's 125% first-half rally
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7456
-- slug: 2026-06-23-kospi-crashes-10-as-tech-selloff-hits-south-korea
-  headline: KOSPI crashes 10% as tech selloff hits South Korea
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7474
-- slug: 2026-07-07-kospi-falls-nearly-5-on-tech-weakness-after-samsung-earnings-beat
-  headline: KOSPI falls nearly 5% on tech weakness after Samsung earnings beat
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.735
+  strength: 0.7848
 ---
-
 ## Asian indexes fall as data-center concerns weigh on chip shares
 
 **Subtype:** fact

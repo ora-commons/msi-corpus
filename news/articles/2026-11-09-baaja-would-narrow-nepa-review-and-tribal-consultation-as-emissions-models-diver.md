@@ -218,6 +218,8 @@ related_stories:
   publish_date: '2026-03-23'
   relation: related
   strength: 0.65
+analyses:
+- '2026-11-09-baaja-narrowing-federal-review-while-project-mix-and-emissions-outcomes-remain-u'
 ---
 ## Baaja would narrow NEPA review and tribal consultation as emissions models diverge
 
@@ -270,3 +272,8 @@ Dillen called Baaja's passage "the single biggest overhaul" of American environm
 **Publication date:** 2026-11-09
 **Title:** Senate votes on bill to speed up projects from gas pipelines to clean energy
 **URL:** https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote
+
+---
+
+<!-- analysis-link:2026-11-09-baaja-narrowing-federal-review-while-project-mix-and-emissions-outcomes-remain-u -->
+**Going deeper:** [Read MSI's analysis of Baaja’s permitting and emissions divide →](/analyses/2026-11-09-baaja-narrowing-federal-review-while-project-mix-and-emissions-outcomes-remain-u)
