@@ -2,8 +2,20 @@
 headline: Microsoft records link Fuentes-managed company to college Republican coalition
 secondary_headline: The coalition says it has 31 affiliated groups in 14 states
 publish_date: '2026-11-10'
-lede: Microsoft’s public sign-in records showed the College Republican Patriot Coalition’s web domain in a Microsoft 365 account registered to NJF LLC, a company managed by Nick Fuentes, according to The Guardian. Until Monday morning, the domain remained in the account; by Monday evening, hours after The Guardian sent questions to Fuentes and the coalition, it was absent, a Microsoft verification code had been deleted and Fuentes’s own domains remained. The Guardian called the shared account the first confirmed operational link between Fuentes and the coalition, which says it has 31 affiliated student groups in 14 states.
-nut_graf: 'The Guardian said the shared account supplied the first confirmed operational link between Fuentes and CRPC, which has not publicly named its leaders and is not associated with any known registered legal or organizational entity. The broader reporting documented organizations on the coalition’s claimed list: a Florida chapter was deactivated and sued for reinstatement, while a Maryland federation’s speaker invitation prompted a postponed talk, heavy security and a protest.'
+lede: Microsoft’s public sign-in records showed the College Republican Patriot Coalition’s
+  web domain in a Microsoft 365 account registered to NJF LLC, a company managed by
+  Nick Fuentes, according to The Guardian. Until Monday morning, the domain remained
+  in the account; by Monday evening, hours after The Guardian sent questions to Fuentes
+  and the coalition, it was absent, a Microsoft verification code had been deleted
+  and Fuentes’s own domains remained. The Guardian called the shared account the first
+  confirmed operational link between Fuentes and the coalition, which says it has
+  31 affiliated student groups in 14 states.
+nut_graf: 'The Guardian said the shared account supplied the first confirmed operational
+  link between Fuentes and CRPC, which has not publicly named its leaders and is not
+  associated with any known registered legal or organizational entity. The broader
+  reporting documented organizations on the coalition’s claimed list: a Florida chapter
+  was deactivated and sued for reinstatement, while a Maryland federation’s speaker
+  invitation prompted a postponed talk, heavy security and a protest.'
 primary_entities:
 - College Republican Patriot Coalition
 - Nick Fuentes
@@ -53,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,109 +163,8 @@ cross_article_links:
   strength: 0.6036
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-05-white-house-tells-3-000-conservative-groups-it-is-monitoring-their-statements
-  headline: White House tells 3,000 conservative groups it is monitoring their statements
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6291
-- slug: 2026-10-26-microsoft-buyout-reportedly-excludes-employees-in-certain-divisions-including-cy
-  headline: Microsoft buyout reportedly excludes employees in certain divisions, including cybersecurity
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6008
-- slug: 2026-10-22-local-resistance-pressures-tech-giants-ahead-of-the-u-s-midterms
-  headline: Local resistance pressures tech giants ahead of the U.S. midterms
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5964
-- slug: 2026-10-21-democratic-attorneys-general-expand-midterm-election-security-planning
-  headline: Democratic attorneys general expand midterm election security planning
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5933
-- slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
-  headline: Data center backlash forces bipartisan repositioning ahead of US midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5959
-- slug: 2026-10-01-bipartisan-opposition-to-ai-surveillance-cameras-builds-before-midterms
-  headline: Bipartisan opposition to AI, surveillance cameras builds before midterms
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6097
-- slug: 2026-09-18-uk-police-assessment-flags-microsoft-cloud-data-as-vulnerable-to-compromise
-  headline: UK police assessment flags Microsoft cloud data as vulnerable to compromise
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5992
-- slug: 2026-09-17-filing-alleges-openai-microsoft-staff-knew-ai-scraping-threatened-publishers
-  headline: Filing alleges OpenAI, Microsoft staff knew AI scraping threatened publishers
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6005
-- slug: 2026-09-15-anti-datacenter-organizers-run-for-local-offices-across-us
-  headline: Anti-datacenter organizers run for local offices across US
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.603
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6082
-- slug: 2026-09-08-us-datacenters-draw-wastewater-enforcement-across-multiple-states
-  headline: US datacenters draw wastewater enforcement across multiple states
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6057
-- slug: 2026-08-24-google-s-raga-donations-climbed-from-50-000-to-325-000-this-cycle
-  headline: Google's Raga donations climbed from $50,000 to $325,000 this cycle
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6272
-- slug: 2026-09-01-house-republicans-investigate-six-labor-unions-over-political-spending-claims
-  headline: House Republicans investigate six labor unions over political spending claims
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6022
-- slug: 2026-07-15-democratic-voters-turn-against-party-leaders-over-data-center-projects
-  headline: Democratic voters turn against party leaders over data center projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6005
-- slug: 2026-07-02-democrats-allege-freedom-250-solicited-donors-under-america250-name
-  headline: Democrats allege Freedom 250 solicited donors under America250 name
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6094
-- slug: 2026-07-04-patriot-front-marches-through-washington-dc-on-july-4
-  headline: Patriot Front marches through Washington DC on July 4
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.5977
-- slug: 2026-06-01-bill-gates-acknowledges-epstein-meetings-misses-microsoft-summit-after-doj-files
-  headline: Bill Gates acknowledges Epstein meetings, misses Microsoft summit after DOJ files
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6174
-- slug: 2026-07-02-house-report-alleges-trump-administration-diverted-250th-anniversary-for-partisa
-  headline: House report alleges Trump administration diverted 250th anniversary for partisan ends
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5933
-- slug: 2026-07-03-recall-campaigns-target-officials-over-data-center-approvals
-  headline: Recall campaigns target officials over data center approvals
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5921
-- slug: 2026-06-01-mps-press-uk-regulator-to-prove-palantir-deal-won-t-expose-data-to-us
-  headline: MPs press UK regulator to prove Palantir deal won't expose data to US
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5949
+related_stories: []
 ---
-
 ## Microsoft records link Fuentes-managed company to college Republican coalition
 
 **Subtype:** fact

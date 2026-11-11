@@ -1,9 +1,21 @@
 ---
 headline: ACIP remains halted as US measles deaths and cases rise
-secondary_headline: Former advisers identify adult access, early childhood doses and regional gaps
+secondary_headline: Former advisers identify adult access, early childhood doses and
+  regional gaps
 publish_date: '2026-11-10'
-lede: The US Advisory Committee on Immunization Practices remains unable to consider changes to federal vaccine guidance after a federal judge halted its work, finding that the Trump administration had failed to constitute the panel properly. US officials announced three measles-associated deaths last week, including a seven-month-old in New York and a postpartum woman in Pennsylvania. Four former committee members said the disruption left vaccine recommendations unchanged as cases and deaths rose.
-nut_graf: Federal vaccination recommendations remain unchanged while ACIP cannot act, although CDC outbreak guidance already allows earlier MMR doses for children. Brewer said the United States lacks a good mechanism for identifying low-coverage areas and responding there. Offit questioned whether officials were monitoring infected adults and trying to vaccinate them, while Maldonado said public communication had lagged. Maldonado said babies under one year face the most serious measles risks, and infections also threaten pregnant people and newborns.
+lede: The US Advisory Committee on Immunization Practices remains unable to consider
+  changes to federal vaccine guidance after a federal judge halted its work, finding
+  that the Trump administration had failed to constitute the panel properly. US officials
+  announced three measles-associated deaths last week, including a seven-month-old
+  in New York and a postpartum woman in Pennsylvania. Four former committee members
+  said the disruption left vaccine recommendations unchanged as cases and deaths rose.
+nut_graf: Federal vaccination recommendations remain unchanged while ACIP cannot act,
+  although CDC outbreak guidance already allows earlier MMR doses for children. Brewer
+  said the United States lacks a good mechanism for identifying low-coverage areas
+  and responding there. Offit questioned whether officials were monitoring infected
+  adults and trying to vaccinate them, while Maldonado said public communication had
+  lagged. Maldonado said babies under one year face the most serious measles risks,
+  and infections also threaten pregnant people and newborns.
 primary_entities:
 - Advisory Committee on Immunization Practices
 - US Centers for Disease Control and Prevention
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +163,43 @@ related_stories:
   headline: Robert F Kennedy Jr cuts childhood immunization recommendations by a third
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7125
+  strength: 0.7114
 - slug: 2026-10-26-federal-vaccine-panel-lacks-members-delaying-new-vaccine-coverage
   headline: Federal vaccine panel lacks members, delaying new vaccine coverage
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7514
-- slug: 2026-10-30-us-parents-move-up-second-mmr-dose-as-measles-cases-accelerate
-  headline: US parents move up second MMR dose as measles cases accelerate
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6776
+  strength: 0.7518
 - slug: 2026-10-24-cdc-adds-178-us-measles-cases-as-death-tallies-diverge
   headline: CDC adds 178 US measles cases as death tallies diverge
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6937
+  strength: 0.6947
 - slug: 2026-10-22-cdc-adds-a-third-measles-death-without-identifying-the-state
   headline: CDC adds a third measles death without identifying the state
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6878
+  strength: 0.6882
 - slug: 2026-10-12-anti-vaccine-group-claims-it-sparked-probes-into-texas-measles-doctors
   headline: Anti-vaccine group claims it sparked probes into Texas measles doctors
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7034
+  strength: 0.704
 - slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
   headline: Annual US measles count exceeds 1991 levels as second death confirmed
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.705
+  strength: 0.7047
 - slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
   headline: Advisory panel to weigh US measles elimination status in November
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7333
+  strength: 0.7323
 - slug: 2026-09-17-local-officials-mount-vaccine-push-as-us-measles-deaths-rise
   headline: Local officials mount vaccine push as US measles deaths rise
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7171
-- slug: 2026-09-16-cassidy-ties-pennsylvania-measles-deaths-to-misinformation-and-misguided-policie
-  headline: Cassidy ties Pennsylvania measles deaths to 'misinformation and misguided policies'
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7074
-- slug: 2026-09-22-cdc-dashboard-still-excludes-four-pennsylvania-measles-deaths
-  headline: CDC dashboard still excludes four Pennsylvania measles deaths
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6831
-- slug: 2026-09-17-kennedy-tells-anti-vaccine-conference-you-have-a-friend-at-the-white-house
-  headline: 'Kennedy tells anti-vaccine conference: ''you have a friend at the White House'''
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.678
-- slug: 2026-09-02-four-medical-groups-issue-vaccine-guidance-as-federal-process-remains-frozen
-  headline: Four medical groups issue vaccine guidance as federal process remains frozen
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7155
-- slug: 2026-08-31-cdc-excludes-two-pennsylvania-measles-deaths-from-national-count
-  headline: CDC excludes two Pennsylvania measles deaths from national count
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6848
-- slug: 2026-06-07-insurers-extend-vaccine-coverage-through-2027-amid-trump-pressure-on-childhood-s
-  headline: Insurers extend vaccine coverage through 2027 amid Trump pressure on childhood shots
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.7443
-- slug: 2026-03-15-judge-blocks-us-changes-to-vaccine-recommendations-for-children
-  headline: Judge blocks US changes to vaccine recommendations for children
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7677
-- slug: 2026-04-11-white-house-updates-vaccine-panel-rules-to-reflect-kennedy-skepticism
-  headline: White House updates vaccine panel rules to reflect Kennedy skepticism
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7273
-- slug: 2026-05-02-trump-administration-appeals-order-blocking-vaccine-recommendation-rollback
-  headline: Trump administration appeals order blocking vaccine recommendation rollback
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7082
-- slug: 2026-06-16-acog-issues-first-maternal-vaccination-schedule-diverging-from-cdc
-  headline: ACOG issues first maternal vaccination schedule, diverging from CDC
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6796
-- slug: 2026-04-14-too-young-for-measles-vaccine-babies-are-sitting-ducks-in-outbreaks
-  headline: Too young for measles vaccine, babies are ‘sitting ducks’ in outbreaks
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6946
+  strength: 0.7179
 ---
-
 ## ACIP remains halted as US measles deaths and cases rise
 
 **Subtype:** fact

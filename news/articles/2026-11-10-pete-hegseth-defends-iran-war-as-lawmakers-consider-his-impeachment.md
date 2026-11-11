@@ -1,9 +1,18 @@
 ---
 headline: Pete Hegseth defends Iran war as lawmakers consider his impeachment
-secondary_headline: Lawmakers and legal experts question strikes on suspected drug-smuggling boats
+secondary_headline: Lawmakers and legal experts question strikes on suspected drug-smuggling
+  boats
 publish_date: '2026-11-10'
-lede: Defense Secretary Pete Hegseth used his first Pentagon press conference in six months on Tuesday, Nov. 10, to defend the Iran war, with a House impeachment vote against him possible as early that day. Hegseth also defended military strikes on suspected drug boats, rejected lawmakers' claims that the campaign violated laws of war and urged Congress to approve major Pentagon funding.
-nut_graf: The appearance put Hegseth's congressional fight at the center of a Pentagon briefing, while he used the forum to defend the Iran war, military operations against suspected drug smugglers and the department's budget request. Legal questions over the strikes and Republican opposition to part of the funding plan remained unresolved as a possible House vote approached.
+lede: Defense Secretary Pete Hegseth used his first Pentagon press conference in six
+  months on Tuesday, Nov. 10, to defend the Iran war, with a House impeachment vote
+  against him possible as early that day. Hegseth also defended military strikes on
+  suspected drug boats, rejected lawmakers' claims that the campaign violated laws
+  of war and urged Congress to approve major Pentagon funding.
+nut_graf: The appearance put Hegseth's congressional fight at the center of a Pentagon
+  briefing, while he used the forum to defend the Iran war, military operations against
+  suspected drug smugglers and the department's budget request. Legal questions over
+  the strikes and Republican opposition to part of the funding plan remained unresolved
+  as a possible House vote approached.
 primary_entities:
 - Pete Hegseth
 - Thomas Massie
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +157,44 @@ related_stories:
   headline: Pete Hegseth will brief reporters on expected Iran war impeachment resolution
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8573
+  strength: 0.8569
 - slug: 2026-11-09-hegseth-faces-four-seat-house-test-as-johnson-warns-on-impeachment
   headline: Hegseth faces four-seat House test as Johnson warns on impeachment
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8413
+  strength: 0.8411
 - slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
+  headline: Republican close says Pete Hegseth should take responsibility for Iran
+    war
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8344
+  strength: 0.8341
 - slug: 2026-11-10-massie-s-impeachment-resolution-cites-hegseth-s-yemen-and-venezuela-actions
   headline: Massie's impeachment resolution cites Hegseth's Yemen and Venezuela actions
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8172
+  strength: 0.8159
 - slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
   headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8461
+  strength: 0.846
 - slug: 2026-11-09-massie-alleges-hegseth-violated-the-constitution-and-ignored-war-powers
   headline: Massie alleges Hegseth violated the Constitution and ignored war powers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8089
+  strength: 0.8081
 - slug: 2026-11-07-hegseth-s-team-prepares-response-to-possible-house-impeachment-vote
   headline: Hegseth's team prepares response to possible House impeachment vote
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8209
+  strength: 0.8214
 - slug: 2026-11-09-massie-introduces-eight-articles-of-impeachment-against-hegseth
   headline: Massie introduces eight articles of impeachment against Hegseth
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.799
-- slug: 2026-11-08-jeffries-backs-impeaching-hegseth-as-democrats-prepare-to-take-house-control
-  headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7899
-- slug: 2026-11-10-pete-hegseth-rejects-massie-s-impeachment-bid-as-a-political-spectacle
-  headline: Pete Hegseth rejects Massie’s impeachment bid as a political spectacle
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7737
-- slug: 2026-11-07-hegseth-vows-to-stay-as-democrats-and-some-republicans-seek-his-removal
-  headline: Hegseth vows to stay as Democrats and some Republicans seek his removal
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7831
-- slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7515
-- slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
-  headline: House could vote to impeach Hegseth when lawmakers return to Washington
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.746
-- slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
-  headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7517
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8314
-- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
-  headline: Massie files articles of impeachment against Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8264
-- slug: 2026-09-02-us-airstrikes-resume-on-iran-tehran-launches-counterstrikes
-  headline: US airstrikes resume on Iran; Tehran launches counterstrikes
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7501
-- slug: 2026-05-01-hegseth-clashes-with-democrats-over-iran-war-costs-and-civilian-deaths
-  headline: Hegseth clashes with Democrats over Iran war costs and civilian deaths
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.822
-- slug: 2026-07-21-hegseth-faces-senate-over-95b-iran-war-budget-as-u-s-death-toll-hits-17
-  headline: Hegseth faces Senate over $95B Iran war budget as U.S. death toll hits 17
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.761
-- slug: 2026-04-30-hegseth-faces-withering-iran-questions-in-first-congress-appearance
-  headline: Hegseth faces withering Iran questions in first Congress appearance
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7987
+  strength: 0.7989
 ---
-
 ## Pete Hegseth defends Iran war as lawmakers consider his impeachment
 
 **Subtype:** fact

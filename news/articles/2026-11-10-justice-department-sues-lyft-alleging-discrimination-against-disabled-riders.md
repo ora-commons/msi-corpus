@@ -2,8 +2,19 @@
 headline: Justice Department sues Lyft, alleging discrimination against disabled riders
 secondary_headline: DOJ seeks $53 million in Northern District of California lawsuit
 publish_date: '2026-11-10'
-lede: The Justice Department filed a federal lawsuit against Lyft on Monday, alleging the ride-hailing company discriminates against passengers with disabilities who seek rides on the Lyft platform. The complaint, filed in the U.S. District Court for the Northern District of California, targets Lyft's handling of riders who need accommodations under the Americans with Disabilities Act. The Justice Department says it is seeking $53 million for individuals who have been discriminated against and have submitted complaints to Lyft or the department.
-nut_graf: Lyft says its policies require drivers to accommodate riders who travel with service animals or mobility devices and warn that violators face permanent deactivation. The lawsuit alleges those safeguards have not prevented drivers from refusing rides to passengers with disabilities, and the Justice Department is seeking $53 million for people who filed discrimination complaints with the company or the department.
+lede: The Justice Department filed a federal lawsuit against Lyft on Monday, alleging
+  the ride-hailing company discriminates against passengers with disabilities who
+  seek rides on the Lyft platform. The complaint, filed in the U.S. District Court
+  for the Northern District of California, targets Lyft's handling of riders who need
+  accommodations under the Americans with Disabilities Act. The Justice Department
+  says it is seeking $53 million for individuals who have been discriminated against
+  and have submitted complaints to Lyft or the department.
+nut_graf: Lyft says its policies require drivers to accommodate riders who travel
+  with service animals or mobility devices and warn that violators face permanent
+  deactivation. The lawsuit alleges those safeguards have not prevented drivers from
+  refusing rides to passengers with disabilities, and the Justice Department is seeking
+  $53 million for people who filed discrimination complaints with the company or the
+  department.
 primary_entities:
 - Lyft
 - Justice Department
@@ -36,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +146,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-ftc-and-20-states-sue-dollar-general-over-mislabeled-prices
-  headline: FTC and 20 states sue Dollar General over mislabeled prices
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6424
-- slug: 2026-10-20-liberty-justice-center-sues-over-trump-s-50-tariffs-on-canada
-  headline: Liberty Justice Center sues over Trump's 50% tariffs on Canada
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6289
 - slug: 2026-10-01-lyft-to-pay-california-272-5m-in-record-wage-theft-settlement
   headline: Lyft to pay California $272.5M in record wage-theft settlement
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7002
-- slug: 2026-10-10-more-than-50-000-california-ride-share-drivers-sign-cards-to-join-new-union
-  headline: More than 50,000 California ride-share drivers sign cards to join new union
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6317
+  strength: 0.6997
 - slug: 2026-10-02-doj-sues-university-of-delaware-over-in-state-tuition-for-undocumented-students
-  headline: DOJ sues University of Delaware over in-state tuition for undocumented students
+  headline: DOJ sues University of Delaware over in-state tuition for undocumented
+    students
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6547
-- slug: 2026-09-23-doj-says-ucsf-medical-school-admissions-favored-black-hispanic-applicants
-  headline: DOJ says UCSF Medical School admissions favored Black, Hispanic applicants
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.636
-- slug: 2026-09-11-doj-files-four-new-suits-over-in-state-tuition-for-noncitizens
-  headline: DOJ files four new suits over in-state tuition for noncitizens
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6487
+  strength: 0.6549
 - slug: 2026-08-28-justice-department-files-dream-act-tuition-lawsuits-against-four-states
   headline: Justice Department files Dream Act tuition lawsuits against four states
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.68
-- slug: 2026-08-10-doj-targets-new-york-connecticut-vermont-with-dream-act-tuition-complaints
-  headline: DOJ targets New York, Connecticut, Vermont with Dream Act tuition complaints
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6485
+  strength: 0.6804
 - slug: 2026-07-17-justice-department-sues-maryland-over-in-state-tuition-for-undocumented-students
-  headline: Justice Department sues Maryland over in-state tuition for undocumented students
+  headline: Justice Department sues Maryland over in-state tuition for undocumented
+    students
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.6533
-- slug: 2026-07-21-luxury-rideshare-wheely-appeals-new-york-trip-data-reporting-rule
-  headline: Luxury rideshare Wheely appeals New York trip data reporting rule
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6489
+  strength: 0.6535
 - slug: 2026-03-15-lyft-settlement-in-minnesota-requires-service-animal-accommodations-nationwide
   headline: Lyft settlement in Minnesota requires service-animal accommodations nationwide
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.7048
-- slug: 2026-07-14-26-meta-employees-sue-alleging-ai-layoff-systems-targeted-workers-on-protected-l
-  headline: 26 Meta employees sue, alleging AI layoff systems targeted workers on protected leave
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6388
-- slug: 2026-06-30-1996-law-at-center-of-doj-tuition-suits-against-mass-r-i
-  headline: 1996 law at center of DOJ tuition suits against Mass., R.I.
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6426
+  strength: 0.7049
 - slug: 2026-05-28-justice-department-sues-four-states-over-undercover-license-plates-for-federal-a
-  headline: Justice Department sues four states over undercover license plates for federal agents
+  headline: Justice Department sues four states over undercover license plates for
+    federal agents
   publish_date: '2026-05-28'
   relation: related
-  strength: 0.6516
-- slug: 2026-06-04-justice-department-investigates-15-medical-schools-over-alleged-race-discriminat
-  headline: Justice Department investigates 15 medical schools over alleged race discrimination in admissions
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.642
+  strength: 0.6517
 - slug: 2026-03-09-uber-expands-women-only-driver-matching-option-nationwide-in-u-s
   headline: Uber expands women-only driver matching option nationwide in U.S.
   publish_date: '2026-03-09'
   relation: related
-  strength: 0.6629
+  strength: 0.6636
 - slug: 2026-04-25-new-york-sues-to-keep-73-5m-in-federal-highway-funds-tied-to-cdls
   headline: New York sues to keep $73.5M in federal highway funds tied to CDLs
   publish_date: '2026-04-25'
   relation: related
   strength: 0.6507
-- slug: 2026-03-27-doj-sues-seaworld-parent-over-ban-on-wheeled-walkers-with-seats
-  headline: DOJ sues SeaWorld parent over ban on wheeled walkers with seats
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6529
-- slug: 2026-01-08-five-democratic-states-sue-trump-administration-over-frozen-safety-net-funds
-  headline: Five Democratic states sue Trump administration over frozen safety-net funds
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6491
 ---
-
 ## Justice Department sues Lyft, alleging discrimination against disabled riders
 
 **Subtype:** fact
