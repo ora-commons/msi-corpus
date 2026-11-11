@@ -1,9 +1,22 @@
 ---
-headline: AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly CPI rise
-secondary_headline: Federal Reserve rate hike expected after October labor growth beats forecasts
+headline: AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly
+  CPI rise
+secondary_headline: Federal Reserve rate hike expected after October labor growth
+  beats forecasts
 publish_date: '2026-11-10'
-lede: US consumer prices rose 0.4% from September to October, according to the Bureau of Labor Statistics, slightly above expectations, while gasoline costs dipped. The Bureau did not release its usual year-over-year CPI figure because October 2025 data were not collected during the government shutdown; CPI measures the price of a basket of goods and services. The Guardian reported that higher energy costs driven by the Iran war had been the main factor behind increased inflation. The Federal Reserve faced a December rate decision with a 2% target.
-nut_graf: The September-to-October increase slowed from 0.6%, but energy prices still rose and gasoline remained more than $1 a gallon above a year earlier. The Guardian reported that October labor-market growth surpassed economists' expectations, giving the Federal Reserve more room to raise rates again in December. The Guardian said inflation's close connection to energy prices made it unclear how much or how quickly a rate increase could ease prices.
+lede: US consumer prices rose 0.4% from September to October, according to the Bureau
+  of Labor Statistics, slightly above expectations, while gasoline costs dipped. The
+  Bureau did not release its usual year-over-year CPI figure because October 2025
+  data were not collected during the government shutdown; CPI measures the price of
+  a basket of goods and services. The Guardian reported that higher energy costs driven
+  by the Iran war had been the main factor behind increased inflation. The Federal
+  Reserve faced a December rate decision with a 2% target.
+nut_graf: The September-to-October increase slowed from 0.6%, but energy prices still
+  rose and gasoline remained more than $1 a gallon above a year earlier. The Guardian
+  reported that October labor-market growth surpassed economists' expectations, giving
+  the Federal Reserve more room to raise rates again in December. The Guardian said
+  inflation's close connection to energy prices made it unclear how much or how quickly
+  a rate increase could ease prices.
 primary_entities:
 - Bureau of Labor Statistics
 - Federal Reserve
@@ -49,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,12 +79,16 @@ figures:
   series_id: CPILFESL
   transformation: yoy_pct
   as_of: '2026-11-10'
-  caption: In the Nov. 10, 2026 vintage, FRED's year-over-year core CPI series stood at 2.57%. Excluding food and energy, the measure provides context on underlying inflation alongside monthly CPI.
+  caption: In the Nov. 10, 2026 vintage, FRED's year-over-year core CPI series stood
+    at 2.57%. Excluding food and energy, the measure provides context on underlying
+    inflation alongside monthly CPI.
 - source: fred
   series_id: PCEPI
   transformation: yoy_pct
   as_of: '2026-11-10'
-  caption: FRED's year-over-year PCE price index stood at 3.65% in the Nov. 10, 2026 vintage. The series provides context for the inflation gauge the Federal Reserve prefers.
+  caption: FRED's year-over-year PCE price index stood at 3.65% in the Nov. 10, 2026
+    vintage. The series provides context for the inflation gauge the Federal Reserve
+    prefers.
 figures_aggregate:
   count: 2
   series_ids:
@@ -162,116 +180,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-10-aaa-s-average-gasoline-price-falls-to-4-22-as-bls-reports-0-4-monthly-cpi-rise.png
-  alt: 'Illustration accompanying article: AAA''s average gasoline price falls to $4.22 as BLS reports 0.4% monthly CPI rise'
+  alt: 'Illustration accompanying article: AAA''s average gasoline price falls to
+    $4.22 as BLS reports 0.4% monthly CPI rise'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-28-september-cpi-gains-3-7-annually-after-0-3-monthly-gains-in-august-september
-  headline: September CPI gains 3.7% annually after 0.3% monthly gains in August, September
+  headline: September CPI gains 3.7% annually after 0.3% monthly gains in August,
+    September
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7936
+  strength: 0.7929
 - slug: 2026-10-27-us-consumer-confidence-index-rises-7-5-points-to-91-7-in-october
   headline: US consumer confidence index rises 7.5 points to 91.7 in October
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7944
+  strength: 0.7934
 - slug: 2026-10-29-inflation-gauge-closely-monitored-by-fed-accelerates-to-3-6-in-september
   headline: Inflation gauge closely monitored by Fed accelerates to 3.6% in September
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7704
+  strength: 0.7702
 - slug: 2026-10-14-september-cpi-rises-0-6-on-gasoline-surge-inflation-well-above-fed-target
   headline: September CPI rises 0.6% on gasoline surge, inflation well above Fed target
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8376
+  strength: 0.8375
 - slug: 2026-10-14-inflation-broadens-beyond-energy-as-ai-buildout-lifts-computer-prices
   headline: Inflation broadens beyond energy as AI buildout lifts computer prices
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7426
+  strength: 0.7418
 - slug: 2026-09-11-us-consumer-prices-rose-3-4-in-year-to-august-bls-reports
   headline: US consumer prices rose 3.4% in year to August, BLS reports
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.7859
+  strength: 0.7863
 - slug: 2026-09-10-u-s-wholesale-prices-rise-0-4-in-august-on-diesel-fuel-surge
   headline: U.S. wholesale prices rise 0.4% in August on diesel fuel surge
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7477
+  strength: 0.7475
 - slug: 2026-08-25-us-consumer-confidence-falls-to-89-4-gasoline-stays-above-4
   headline: US consumer confidence falls to 89.4; gasoline stays above $4
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7406
-- slug: 2026-08-13-us-wholesale-inflation-cools-in-july-as-gas-prices-ease
-  headline: US wholesale inflation cools in July as gas prices ease
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7538
-- slug: 2026-06-25-fed-s-preferred-inflation-gauge-rises-to-three-year-high-in-may
-  headline: Fed's preferred inflation gauge rises to three-year high in May
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7828
-- slug: 2026-05-13-americans-feel-the-pinch-as-iran-war-fuels-u-s-inflation-via-gasoline
-  headline: Americans feel the pinch as Iran war fuels U.S. inflation via gasoline
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7928
-- slug: 2026-06-12-us-consumer-sentiment-improves-in-june-as-gas-prices-ease
-  headline: US consumer sentiment improves in June as gas prices ease
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7628
-- slug: 2026-03-31-us-consumer-confidence-edges-up-in-march-as-gas-prices-surge-with-iran-war
-  headline: US consumer confidence edges up in March as gas prices surge with Iran war
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7777
-- slug: 2026-06-10-us-inflation-surges-to-4-2-in-may-a-three-year-high
-  headline: US inflation surges to 4.2% in May, a three-year high
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7482
-- slug: 2026-05-01-key-inflation-gauge-rises-0-7-in-march-as-iran-war-lifts-gas-prices
-  headline: Key inflation gauge rises 0.7% in March as Iran war lifts gas prices
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7644
-- slug: 2026-06-11-lower-income-households-absorb-higher-effective-inflation-as-cpi-rises-4-2-in-ma
-  headline: Lower-income households absorb higher effective inflation as CPI rises 4.2% in May
-  publish_date: '2026-06-11T00:00:00Z'
-  relation: related
-  strength: 0.7432
-- slug: 2026-05-16-u-s-inflation-hits-3-8-as-iran-war-drives-gas-prices-and-retail-sales-slow
-  headline: U.S. inflation hits 3.8% as Iran war drives gas prices and retail sales slow
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7542
-- slug: 2026-05-16-hotter-inflation-fueled-by-iran-war-keeps-pressure-on-u-s-consumers
-  headline: Hotter inflation fueled by Iran war keeps pressure on U.S. consumers
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7451
-- slug: 2026-05-03-inflation-jumps-as-gas-soars-mortgage-and-jobs-data-show-mixed-signals
-  headline: Inflation jumps as gas soars; mortgage and jobs data show mixed signals
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.7477
-- slug: 2026-05-13-iran-war-fuels-us-inflation-surge-as-consumer-prices-rise-3-8-in-april
-  headline: Iran war fuels US inflation surge as consumer prices rise 3.8% in April
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7423
+  strength: 0.7408
 ---
-
 ## AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly CPI rise
 
 **Subtype:** fact
