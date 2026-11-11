@@ -1,9 +1,26 @@
 ---
-headline: Prosecutors estimate 17 weeks; defense says Robinson trial could take seven months
+headline: Prosecutors estimate 17 weeks; defense says Robinson trial could take seven
+  months
 secondary_headline: Kirk family lawyer says summer 2028 trial does not feel speedy
 publish_date: '2026-11-09'
-lede: Prosecutors estimate the trial of Tyler Robinson, who is accused of killing Charlie Kirk, could last 17 weeks, while defense lawyers say it could take seven months. Kirk family lawyer Jeffrey A Nieman told the judge that "a trial in the summer of 2028, three years after Charlie's assassination, does not feel very speedy to the Kirk family," while also saying the family had "no choice but obviously to accept the schedule the court's put forward." Utah County judge Tony Graf Jr. set June 21, 2028, for jury selection, not the start of evidentiary proceedings. A Reuters image caption described Kirk as a prominent conservative youth activist.
-nut_graf: Prosecutors' 17-week estimate and defense lawyers' claim that proceedings could take seven months outline the potential length of a case in which Robinson could face the death penalty if convicted of aggravated murder. His lawyers have sought to prevent the death penalty and have also tried to ban cameras from the courtroom, while Erika Kirk has pressed for an early trial and live-streamed proceedings. At a five-day July preliminary hearing, prosecutors outlined evidence they said showed probable cause for trial, including DNA allegedly tying Robinson to the murder weapon and other scene items, confessions he allegedly made to loved ones, and a taped video statement from his roommate and romantic partner; defense lawyers have cast doubt on the evidence and expert-witness credentials.
+lede: Prosecutors estimate the trial of Tyler Robinson, who is accused of killing
+  Charlie Kirk, could last 17 weeks, while defense lawyers say it could take seven
+  months. Kirk family lawyer Jeffrey A Nieman told the judge that "a trial in the
+  summer of 2028, three years after Charlie's assassination, does not feel very speedy
+  to the Kirk family," while also saying the family had "no choice but obviously to
+  accept the schedule the court's put forward." Utah County judge Tony Graf Jr. set
+  June 21, 2028, for jury selection, not the start of evidentiary proceedings. A Reuters
+  image caption described Kirk as a prominent conservative youth activist.
+nut_graf: Prosecutors' 17-week estimate and defense lawyers' claim that proceedings
+  could take seven months outline the potential length of a case in which Robinson
+  could face the death penalty if convicted of aggravated murder. His lawyers have
+  sought to prevent the death penalty and have also tried to ban cameras from the
+  courtroom, while Erika Kirk has pressed for an early trial and live-streamed proceedings.
+  At a five-day July preliminary hearing, prosecutors outlined evidence they said
+  showed probable cause for trial, including DNA allegedly tying Robinson to the murder
+  weapon and other scene items, confessions he allegedly made to loved ones, and a
+  taped video statement from his roommate and romantic partner; defense lawyers have
+  cast doubt on the evidence and expert-witness credentials.
 primary_entities:
 - Tyler Robinson
 - Charlie Kirk
@@ -43,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,20 +160,21 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-09-judge-tony-graf-expected-to-set-robinson-trial-date-in-charlie-kirk-case-monday
-  headline: Judge Tony Graf expected to set Robinson trial date in Charlie Kirk case Monday
+  headline: Judge Tony Graf expected to set Robinson trial date in Charlie Kirk case
+    Monday
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8688
+  strength: 0.8696
 - slug: 2026-11-09-utah-judge-sets-july-2028-trial-in-charlie-kirk-murder-case
   headline: Utah judge sets July 2028 trial in Charlie Kirk murder case
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.856
+  strength: 0.8562
 - slug: 2026-10-23-utah-judge-leaves-trial-date-unset-in-tyler-robinson-s-charlie-kirk-case
   headline: Utah judge leaves trial date unset in Tyler Robinson's Charlie Kirk case
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8597
+  strength: 0.8602
 - slug: 2026-09-02-utah-judge-sends-tyler-robinson-to-trial-on-aggravated-murder
   headline: Utah judge sends Tyler Robinson to trial on aggravated murder
   publish_date: '2026-09-02'
@@ -170,79 +189,19 @@ related_stories:
   headline: Charlie Kirk's family to attend preliminary hearing in murder case
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.81
+  strength: 0.8109
 - slug: 2026-07-10-dna-evidence-roommate-testimony-presented-in-charlie-kirk-preliminary-hearing
-  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary hearing
+  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary
+    hearing
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7883
-- slug: 2026-08-12-defense-in-kirk-killing-argues-shooter-didn-t-endanger-others
-  headline: Defense in Kirk killing argues shooter didn't endanger others
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.7423
+  strength: 0.7896
 - slug: 2026-07-05-prosecutors-argue-tyler-robinson-should-stand-trial-in-charlie-kirk-killing
   headline: Prosecutors argue Tyler Robinson should stand trial in Charlie Kirk killing
   publish_date: '2026-07-05'
   relation: related
-  strength: 0.7863
-- slug: 2026-07-06-prosecutors-present-evidence-in-charlie-kirk-murder-hearing
-  headline: Prosecutors present evidence in Charlie Kirk murder hearing
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7651
-- slug: 2026-04-17-defense-pushes-to-ban-cameras-in-charlie-kirk-murder-trial
-  headline: Defense pushes to ban cameras in Charlie Kirk murder trial
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7991
-- slug: 2026-06-12-lawyers-seek-to-block-death-penalty-in-charlie-kirk-killing-case
-  headline: Lawyers seek to block death penalty in Charlie Kirk killing case
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7738
-- slug: 2026-07-09-widow-of-charlie-kirk-asks-judge-to-display-all-courtroom-evidence
-  headline: Widow of Charlie Kirk asks judge to display all courtroom evidence
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7503
-- slug: 2026-05-18-lawyers-ask-to-seal-evidence-in-charlie-kirk-murder-case
-  headline: Lawyers ask to seal evidence in Charlie Kirk murder case
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7807
-- slug: 2026-07-07-prosecutors-release-new-surveillance-video-in-kirk-suspect-hearing
-  headline: Prosecutors release new surveillance video in Kirk suspect hearing
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.7493
-- slug: 2026-07-09-accused-kirk-killer-told-roommate-he-wished-he-hadn-t-done-it-testimony-shows
-  headline: Accused Kirk killer told roommate he wished he hadn't done it, testimony shows
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7471
-- slug: 2026-05-18-tyler-robinson-s-lawyers-ask-judge-to-seal-evidence-close-parts-of-july-hearing-
-  headline: Tyler Robinson’s lawyers ask judge to seal evidence, close parts of July hearing in Kirk murder case
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7752
-- slug: 2026-03-30-lawyers-seek-delay-in-may-preliminary-hearing-in-charlie-kirk-case
-  headline: Lawyers seek delay in May preliminary hearing in Charlie Kirk case
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.7877
-- slug: 2026-03-31-defense-seeks-delay-in-may-hearing-for-man-accused-of-killing-charlie-kirk
-  headline: Defense seeks delay in May hearing for man accused of killing Charlie Kirk
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7745
-- slug: 2026-05-09-judge-rejects-request-to-ban-courtroom-cameras-in-charlie-kirk-case
-  headline: Judge rejects request to ban courtroom cameras in Charlie Kirk case
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7507
+  strength: 0.7868
 ---
-
 ## Prosecutors estimate 17 weeks; defense says Robinson trial could take seven months
 
 **Subtype:** fact

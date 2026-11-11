@@ -2,8 +2,22 @@
 headline: Groups say Peru commission revisits 2016 study for Mashco Piro reserve expansion
 secondary_headline: Indigenous groups warn overlapping concessions could continue
 publish_date: '2026-11-09'
-lede: Indigenous organizations and Survival International said a Peruvian government commission responsible for protecting isolated Indigenous peoples decided last week to revisit a 2016 government study rather than proceed with the proposed expansion of the Madre de Dios Territorial Reserve. The reserve was established in 2002 for the Mashco Piro and other Indigenous peoples living in isolation. Indigenous organizations and Survival International said the move could expose more of the Mashco Piro's territory to logging, raising fears of violent encounters and the spread of life-threatening diseases. The groups also said overlapping logging concessions could continue operating in areas they consider essential to the Mashco Piro's survival.
-nut_graf: The Madre de Dios Territorial Reserve was established in 2002 for the Mashco Piro, one of the world's largest uncontacted Indigenous groups, and other Indigenous peoples living in isolation. The Mashco Piro live deep in southeastern Peru and avoid outsiders to preserve their traditional way of life, but they have increasingly been spotted near encroaching logging concessions. Indigenous organizations and Survival International said the commission's decision leaves the proposed expansion under review and keeps overlapping logging concessions at the center of the dispute.
+lede: Indigenous organizations and Survival International said a Peruvian government
+  commission responsible for protecting isolated Indigenous peoples decided last week
+  to revisit a 2016 government study rather than proceed with the proposed expansion
+  of the Madre de Dios Territorial Reserve. The reserve was established in 2002 for
+  the Mashco Piro and other Indigenous peoples living in isolation. Indigenous organizations
+  and Survival International said the move could expose more of the Mashco Piro's
+  territory to logging, raising fears of violent encounters and the spread of life-threatening
+  diseases. The groups also said overlapping logging concessions could continue operating
+  in areas they consider essential to the Mashco Piro's survival.
+nut_graf: The Madre de Dios Territorial Reserve was established in 2002 for the Mashco
+  Piro, one of the world's largest uncontacted Indigenous groups, and other Indigenous
+  peoples living in isolation. The Mashco Piro live deep in southeastern Peru and
+  avoid outsiders to preserve their traditional way of life, but they have increasingly
+  been spotted near encroaching logging concessions. Indigenous organizations and
+  Survival International said the commission's decision leaves the proposed expansion
+  under review and keeps overlapping logging concessions at the center of the dispute.
 primary_entities:
 - Peru
 - Mashco Piro
@@ -48,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,109 +160,8 @@ cross_article_links:
   strength: 0.6013
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-21-brazil-s-top-court-pauses-belo-sun-s-volta-grande-installation-license
-  headline: Brazil's Supreme Court provisionally suspends Belo Sun's Volta Grande license
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5763
-- slug: 2026-10-10-dhs-deployed-masked-agents-drones-against-tohono-o-odham-prayer-fire
-  headline: DHS deployed masked agents, drones against Tohono O'odham prayer fire
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5822
-- slug: 2026-09-22-peru-chile-urge-coordinated-regional-response-to-organized-crime-at-un
-  headline: Peru, Chile urge coordinated regional response to organized crime at UN
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5928
-- slug: 2026-09-16-global-witness-documents-124-killings-of-land-defenders-in-2025
-  headline: Global Witness documents 124 killings of land defenders in 2025
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6003
-- slug: 2026-09-12-peru-joins-us-led-shield-of-the-americas-antidrug-coalition
-  headline: Peru joins US-led Shield of the Americas antidrug coalition
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.5982
-- slug: 2026-09-10-peru-joins-shield-of-the-americas-at-lima-meeting-with-rubio
-  headline: Peru joins Shield of the Americas at Lima meeting with Rubio
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5892
-- slug: 2026-08-20-blm-proposes-scrapping-chaco-drilling-buffer-over-tribal-unesco-opposition
-  headline: BLM proposes scrapping Chaco drilling buffer over tribal, UNESCO opposition
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6173
-- slug: 2026-08-26-trump-administration-formally-proposes-rescinding-2001-roadless-rule
-  headline: Trump administration formally proposes rescinding 2001 Roadless Rule
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.592
-- slug: 2026-07-23-andean-court-admits-unprecedented-case-against-peru-over-illegal-mining
-  headline: Andean Court admits unprecedented case against Peru over illegal mining
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6219
-- slug: 2026-07-24-brazil-and-peru-sign-pact-to-protect-indigenous-border-lands
-  headline: Brazil and Peru sign pact to protect Indigenous border lands
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6127
-- slug: 2026-05-10-indigenous-amazon-groups-urge-un-to-curb-organized-crime-not-militarize-territor
-  headline: Indigenous Amazon groups urge UN to curb organized crime, not militarize territories
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6383
-- slug: 2026-07-23-ashaninka-leaders-urge-brazil-protection-as-drug-gangs-encroach-on-amazon-territ
-  headline: Ashaninka leaders urge Brazil protection as drug gangs encroach on Amazon territory
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5876
-- slug: 2026-07-01-nearly-400-chinese-fishing-vessels-operate-off-peru-s-southern-coast-researchers
-  headline: Nearly 400 Chinese fishing vessels operate off Peru's southern coast, researchers say
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5907
-- slug: 2026-06-18-gold-exploration-approved-near-lone-pine-pitting-miners-against-tribes-and-envir
-  headline: Gold exploration approved near Lone Pine, pitting miners against tribes and environmentalists
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5961
-- slug: 2026-07-10-un-panel-finds-castillo-detention-arbitrary-calls-for-release
-  headline: UN panel finds Castillo detention arbitrary, calls for release
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5762
-- slug: 2026-05-10-indigenous-amazon-groups-urge-un-action-on-organized-crime-in-rainforest-territo
-  headline: Indigenous Amazon groups urge UN action on organized crime in rainforest territories
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6094
-- slug: 2026-04-12-peru-election-offers-few-plans-to-tackle-illegal-mining-in-amazon
-  headline: Peru election offers few plans to tackle illegal mining in Amazon
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6155
-- slug: 2026-04-20-indigenous-leaders-convene-at-un-amid-visa-barriers-and-digital-data-risks
-  headline: Indigenous leaders convene at UN amid visa barriers and digital data risks
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6134
-- slug: 2026-04-30-colombians-divided-over-fate-of-pablo-escobar-linked-hippos
-  headline: Colombians divided over fate of Pablo Escobar-linked hippos
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6042
-- slug: 2026-03-15-indigenous-women-tour-ecuador-oil-field-warn-of-amazon-drilling-harms
-  headline: Indigenous women tour Ecuador oil field, warn of Amazon drilling harms
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6076
+related_stories: []
 ---
-
 ## Groups say Peru commission revisits 2016 study for Mashco Piro reserve expansion
 
 **Subtype:** fact

@@ -1,9 +1,25 @@
 ---
 headline: Trump says he learned of Alice Huang spy concerns 'not too long ago'
-secondary_headline: Trump says he was unaware of the intelligence during Jensen Huang's May trip
+secondary_headline: Trump says he was unaware of the intelligence during Jensen Huang's
+  May trip
 publish_date: '2026-11-09'
-lede: President Donald Trump said on Monday at the White House that he learned “not too long ago” of federal concerns that Chinese citizen Alice Huang, then a top executive at Megaspeed International, was suspected of working for Chinese intelligence, and he declined to explain when he learned of the government’s concerns. Trump said he was not aware of the intelligence when Nvidia CEO Jensen Huang traveled with the president to China last May. The Wall Street Journal reported that Secretary of State Marco Rubio supervised the drafting of a classified memo warning that Jensen Huang had a personal relationship with Alice Huang.
-nut_graf: The Wall Street Journal earlier reported that U.S. officials last year concluded that Alice Huang was sharing information with the Chinese government while working with Nvidia to build data centers in Asia. Nvidia’s board said Sunday it had no reason to believe either the company’s secrets or national security were compromised, and it expressed confidence in Jensen Huang’s leadership. Nvidia, with a $4.3 trillion market capitalization, has become what the Journal calls “a darling of America’s artificial-intelligence boom.” The company sells hundreds of billions of dollars worth of advanced AI processors and other hardware and has provided financial backstops and guarantees to huge swaths of the AI industry.
+lede: President Donald Trump said on Monday at the White House that he learned “not
+  too long ago” of federal concerns that Chinese citizen Alice Huang, then a top executive
+  at Megaspeed International, was suspected of working for Chinese intelligence, and
+  he declined to explain when he learned of the government’s concerns. Trump said
+  he was not aware of the intelligence when Nvidia CEO Jensen Huang traveled with
+  the president to China last May. The Wall Street Journal reported that Secretary
+  of State Marco Rubio supervised the drafting of a classified memo warning that Jensen
+  Huang had a personal relationship with Alice Huang.
+nut_graf: The Wall Street Journal earlier reported that U.S. officials last year concluded
+  that Alice Huang was sharing information with the Chinese government while working
+  with Nvidia to build data centers in Asia. Nvidia’s board said Sunday it had no
+  reason to believe either the company’s secrets or national security were compromised,
+  and it expressed confidence in Jensen Huang’s leadership. Nvidia, with a $4.3 trillion
+  market capitalization, has become what the Journal calls “a darling of America’s
+  artificial-intelligence boom.” The company sells hundreds of billions of dollars
+  worth of advanced AI processors and other hardware and has provided financial backstops
+  and guarantees to huge swaths of the AI industry.
 primary_entities:
 - Donald Trump
 - Jensen Huang
@@ -45,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,107 +161,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
-  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
+  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice
+    Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8803
+  strength: 0.8802
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8408
+  strength: 0.8406
 - slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
   headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8286
+  strength: 0.8283
 - slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
   headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8183
+  strength: 0.8174
 - slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
+  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip
+    controls
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.808
+  strength: 0.8076
 - slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
   headline: Nvidia investigates reports of spying targeting Jensen Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8007
+  strength: 0.7998
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8016
+  strength: 0.8012
 - slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
   headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7838
-- slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7893
-- slug: 2026-10-29-us-intelligence-believes-chinese-spy-targeted-nvidia-ceo
-  headline: US intelligence believes Chinese spy targeted Nvidia CEO
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.8532
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7833
-- slug: 2026-10-30-u-s-officials-suspect-megaspeed-executive-alice-huang-of-spying-for-china
-  headline: U.S. officials suspect Megaspeed executive Alice Huang of spying for China
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.8229
-- slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
-  headline: Nvidia inquiry draws top Republican demands for answers
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7526
-- slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7451
-- slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
-  headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7312
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7272
-- slug: 2026-11-09-nvidia-has-no-board-chair-and-designates-a-lead-director-annually
-  headline: Nvidia has no board chair and designates a lead director annually
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7007
-- slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
-  headline: Trump tells White House tech CEOs self-regulation is 'very important'
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7124
-- slug: 2026-09-29-trump-rejects-joint-us-china-ai-venture-at-america-gov-launch
-  headline: Trump rejects joint US-China AI venture at America.gov launch
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7112
-- slug: 2026-09-26-trump-and-xi-agree-to-super-intelligence-dialogue-at-state-visit
-  headline: Trump and Xi agree to 'super intelligence' dialogue at state visit
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6994
+  strength: 0.783
 ---
-
 ## Trump says he learned of Alice Huang spy concerns 'not too long ago'
 
 **Subtype:** fact
