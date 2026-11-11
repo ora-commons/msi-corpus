@@ -1,9 +1,28 @@
 ---
 headline: Massie's impeachment resolution cites Hegseth's Yemen and Venezuela actions
-secondary_headline: 'Parnell: Hegseth ''100% committed'' to leading the Department until Trump''s term ends'
+secondary_headline: 'Parnell: Hegseth ''100% committed'' to leading the Department
+  until Trump''s term ends'
 publish_date: '2026-11-10'
-lede: Rep. Thomas Massie's impeachment resolution filed in the House against Defense Secretary Pete Hegseth cites the defense secretary's role in military actions in Yemen against Iranian-backed Houthi rebels and in Venezuela, and Massie says Hegseth's actions amount to 'high crimes and misdemeanors' and his leadership at the Pentagon 'warrants impeachment.' The filing lands as the U.S. military carries out intermittent operations against the Islamic Republic and fatal strikes on alleged drug-smuggling boats in Latin America, Iran keeps striking U.S. military bases in the Middle East, and disruption of Strait of Hormuz shipping has driven up global oil prices. President Donald Trump has asserted that the Iran operations have 'obliterated' its navy and air force and that Iran 'would love to make a deal,' while Pentagon spokesman Sean Parnell says Hegseth is '100% committed' to leading the Department 'until the end of President Trump's term in office.' Massie filed the resolution Monday, and Hegseth is scheduled to brief reporters at the Pentagon on Tuesday, his first news conference from the building in six months.
-nut_graf: The filing places the Pentagon's handling of the Iran war and other military operations at the center of a Republican lawmaker's effort to remove Hegseth, with the Pentagon rallying behind the defense secretary and Trump defending him as Republicans absorb sweeping midterm losses many in the party at least partly attributed to the conflict and its economic impact. A House vote could come by midweek, though the next steps remain highly uncertain.
+lede: Rep. Thomas Massie's impeachment resolution filed in the House against Defense
+  Secretary Pete Hegseth cites the defense secretary's role in military actions in
+  Yemen against Iranian-backed Houthi rebels and in Venezuela, and Massie says Hegseth's
+  actions amount to 'high crimes and misdemeanors' and his leadership at the Pentagon
+  'warrants impeachment.' The filing lands as the U.S. military carries out intermittent
+  operations against the Islamic Republic and fatal strikes on alleged drug-smuggling
+  boats in Latin America, Iran keeps striking U.S. military bases in the Middle East,
+  and disruption of Strait of Hormuz shipping has driven up global oil prices. President
+  Donald Trump has asserted that the Iran operations have 'obliterated' its navy and
+  air force and that Iran 'would love to make a deal,' while Pentagon spokesman Sean
+  Parnell says Hegseth is '100% committed' to leading the Department 'until the end
+  of President Trump's term in office.' Massie filed the resolution Monday, and Hegseth
+  is scheduled to brief reporters at the Pentagon on Tuesday, his first news conference
+  from the building in six months.
+nut_graf: The filing places the Pentagon's handling of the Iran war and other military
+  operations at the center of a Republican lawmaker's effort to remove Hegseth, with
+  the Pentagon rallying behind the defense secretary and Trump defending him as Republicans
+  absorb sweeping midterm losses many in the party at least partly attributed to the
+  conflict and its economic impact. A House vote could come by midweek, though the
+  next steps remain highly uncertain.
 primary_entities:
 - Pete Hegseth
 - Thomas Massie
@@ -43,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +165,44 @@ related_stories:
   headline: Hegseth faces four-seat House test as Johnson warns on impeachment
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8241
+  strength: 0.8245
 - slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
+  headline: Republican close says Pete Hegseth should take responsibility for Iran
+    war
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8253
+  strength: 0.8257
 - slug: 2026-11-09-massie-alleges-hegseth-violated-the-constitution-and-ignored-war-powers
   headline: Massie alleges Hegseth violated the Constitution and ignored war powers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8053
+  strength: 0.8061
 - slug: 2026-11-09-pete-hegseth-will-brief-reporters-on-expected-iran-war-impeachment-resolution
   headline: Pete Hegseth will brief reporters on expected Iran war impeachment resolution
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7965
+  strength: 0.7968
 - slug: 2026-11-07-hegseth-s-team-prepares-response-to-possible-house-impeachment-vote
   headline: Hegseth's team prepares response to possible House impeachment vote
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8058
+  strength: 0.8062
 - slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
   headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8138
+  strength: 0.8144
 - slug: 2026-11-07-hegseth-vows-to-stay-as-democrats-and-some-republicans-seek-his-removal
   headline: Hegseth vows to stay as Democrats and some Republicans seek his removal
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7922
+  strength: 0.7916
 - slug: 2026-11-08-jeffries-backs-impeaching-hegseth-as-democrats-prepare-to-take-house-control
   headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7799
-- slug: 2026-11-09-massie-introduces-eight-articles-of-impeachment-against-hegseth
-  headline: Massie introduces eight articles of impeachment against Hegseth
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7704
-- slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7461
-- slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
-  headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7246
-- slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
-  headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7643
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8286
-- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
-  headline: Massie files articles of impeachment against Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8274
-- slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7418
-- slug: 2026-09-05-tillis-urges-trump-to-fire-hegseth-as-army-secretary-resigns
-  headline: Tillis urges Trump to fire Hegseth as Army secretary resigns
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7242
-- slug: 2026-07-21-hegseth-faces-senate-over-95b-iran-war-budget-as-u-s-death-toll-hits-17
-  headline: Hegseth faces Senate over $95B Iran war budget as U.S. death toll hits 17
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7198
-- slug: 2026-05-19-hegseth-targets-massie-in-kentucky-primary-calling-trump-critic-desperate
-  headline: Hegseth targets Massie in Kentucky primary, calling Trump critic ‘desperate’
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7587
-- slug: 2026-05-19-hegseth-assails-massie-in-kentucky-primary-praises-trump-backed-challenger
-  headline: Hegseth assails Massie in Kentucky primary, praises Trump-backed challenger
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7473
-- slug: 2026-04-30-hegseth-faces-withering-iran-questions-in-first-congress-appearance
-  headline: Hegseth faces withering Iran questions in first Congress appearance
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7489
+  strength: 0.7806
 ---
-
 ## Massie's impeachment resolution cites Hegseth's Yemen and Venezuela actions
 
 **Subtype:** fact

@@ -1,9 +1,24 @@
 ---
 headline: Democratic state wins bring popular-vote compact within reach
-secondary_headline: Pennsylvania and Wisconsin support would require two of three Democratic flips
+secondary_headline: Pennsylvania and Wisconsin support would require two of three
+  Democratic flips
 publish_date: '2026-11-10'
-lede: Democratic control of government in six states representing 71 electoral votes has brought the National Popular Vote Interstate Compact closer to the 270 electoral votes that would effectively require a presidential candidate to win the national popular vote. The six states could supply enough participants to join the compact alongside 18 other Democratic-run states, shifting presidential campaigns from roughly six swing states toward voters nationwide. Pennsylvania Gov. Josh Shapiro and Wisconsin Gov. David Crowley said they want their newly Democratic legislatures to consider joining, while Arizona Gov. Katie Hobbs declined to commit. The incoming administration of Nevada Gov. Aaron Ford and incoming Michigan Gov. Jocelyn Benson did not respond to comment requests.
-nut_graf: The compact would assign the Electoral College votes of participating states to the national popular-vote winner, but the route to 270 remains uncertain. It is not certain that all newly elected governors and lawmakers in key states support the strategy, and legal challenges from conservative groups are almost certain if the proposal advances. If the compact advances, it could reach the Supreme Court as then constituted with a conservative majority.
+lede: Democratic control of government in six states representing 71 electoral votes
+  has brought the National Popular Vote Interstate Compact closer to the 270 electoral
+  votes that would effectively require a presidential candidate to win the national
+  popular vote. The six states could supply enough participants to join the compact
+  alongside 18 other Democratic-run states, shifting presidential campaigns from roughly
+  six swing states toward voters nationwide. Pennsylvania Gov. Josh Shapiro and Wisconsin
+  Gov. David Crowley said they want their newly Democratic legislatures to consider
+  joining, while Arizona Gov. Katie Hobbs declined to commit. The incoming administration
+  of Nevada Gov. Aaron Ford and incoming Michigan Gov. Jocelyn Benson did not respond
+  to comment requests.
+nut_graf: The compact would assign the Electoral College votes of participating states
+  to the national popular-vote winner, but the route to 270 remains uncertain. It
+  is not certain that all newly elected governors and lawmakers in key states support
+  the strategy, and legal challenges from conservative groups are almost certain if
+  the proposal advances. If the compact advances, it could reach the Supreme Court
+  as then constituted with a conservative majority.
 primary_entities:
 - National Popular Vote Interstate Compact
 - Electoral College
@@ -51,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,107 +166,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-07-democrats-flip-a-dozen-legislative-chambers-and-take-full-control-in-six-states
-  headline: Democrats flip a dozen legislative chambers and take full control in six states
+  headline: Democrats flip a dozen legislative chambers and take full control in six
+    states
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7335
+  strength: 0.7332
 - slug: 2026-11-04-democrats-flip-state-legislatures-and-pick-up-four-governorships-in-2026-midterm
-  headline: Democrats flip state legislatures and pick up four governorships in 2026 midterms
+  headline: Democrats flip state legislatures and pick up four governorships in 2026
+    midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7402
+  strength: 0.74
 - slug: 2026-11-05-democrats-gain-hundreds-of-state-legislative-seats-in-2026-midterms
   headline: Democrats gain hundreds of state legislative seats in 2026 midterms
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6925
+  strength: 0.6916
 - slug: 2026-11-03-voters-in-36-states-choose-governors-as-democrats-pursue-a-majority
   headline: Voters in 36 states choose governors as Democrats pursue a majority
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6906
+  strength: 0.6912
 - slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
   headline: Democrats gain control of Congress as 2026 voter shifts emerge
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6679
+  strength: 0.6692
 - slug: 2026-11-07-midterm-wins-give-democrats-new-paths-to-270-electoral-votes-in-2028
   headline: Midterm wins give Democrats new paths to 270 electoral votes in 2028
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6503
+  strength: 0.6514
+- slug: 2026-11-05-missouri-voters-approve-amendment-6-curbing-repeal-of-citizen-approved-laws
+  headline: Missouri voters approve Amendment 6, curbing repeal of citizen-approved
+    laws
+  publish_date: '2026-11-05'
+  relation: related
+  strength: 0.6599
 - slug: 2026-11-06-democrats-plan-to-force-votes-on-popular-bills-and-dare-trump-to-veto-them
-  headline: Democrats plan to force votes on popular bills and dare Trump to veto them
+  headline: Democrats plan to force votes on popular bills and dare Trump to veto
+    them
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6513
-- slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
-  headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.658
-- slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
-  headline: Democrats win Congress after flipping seven Senate seats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6508
-- slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
-  headline: US midterm results may take days or weeks to settle
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6556
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6548
-- slug: 2026-11-03-early-voting-advances-as-trump-administration-pressures-state-elections
-  headline: Early voting advances as Trump administration pressures state elections
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6479
-- slug: 2026-10-30-pennsylvania-senate-races-could-decide-democrats-first-trifecta-in-30-years
-  headline: Pennsylvania Senate races could decide Democrats' first trifecta in 30 years
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6723
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6465
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6457
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6489
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6467
-- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
-  headline: Early voting tops 23 million as Democrats outpace Republicans
-  publish_date: '2026-10-23'
-  relation: related
   strength: 0.6511
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6534
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6759
 ---
-
 ## Democratic state wins bring popular-vote compact within reach
 
 **Subtype:** fact
