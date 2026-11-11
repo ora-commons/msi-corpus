@@ -1,9 +1,20 @@
 ---
 headline: Russia and Ukraine trade overnight drone strikes as Abu Dhabi talks open
-secondary_headline: Putin's territorial demands and Ukraine's ceasefire position remain far apart
+secondary_headline: Putin's territorial demands and Ukraine's ceasefire position remain
+  far apart
 publish_date: '2026-11-10'
-lede: Ukraine's air force said Russia launched 162 drones of various types and a ballistic missile at Ukraine overnight, while Russia's Ministry of Defense said its forces shot down 155 Ukrainian drones above eight Russian regions and the Crimean Peninsula. The exchanges came as three-way talks opened in Abu Dhabi, where the White House said security guarantees would be the focus and there were no signs the fighting was abating.
-nut_graf: Hopes of progress were tempered by the absence of significant breakthroughs in three previous rounds of talks early this year. There are no signs the fighting is abating, and the two governments remain far apart on territory, NATO membership and military limits; Ukraine argues an immediate ceasefire is the necessary first step toward a wider settlement and that a direct Putin-Zelenskyy meeting is the only way territorial issues can be settled.
+lede: Ukraine's air force said Russia launched 162 drones of various types and a ballistic
+  missile at Ukraine overnight, while Russia's Ministry of Defense said its forces
+  shot down 155 Ukrainian drones above eight Russian regions and the Crimean Peninsula.
+  The exchanges came as three-way talks opened in Abu Dhabi, where the White House
+  said security guarantees would be the focus and there were no signs the fighting
+  was abating.
+nut_graf: Hopes of progress were tempered by the absence of significant breakthroughs
+  in three previous rounds of talks early this year. There are no signs the fighting
+  is abating, and the two governments remain far apart on territory, NATO membership
+  and military limits; Ukraine argues an immediate ceasefire is the necessary first
+  step toward a wider settlement and that a direct Putin-Zelenskyy meeting is the
+  only way territorial issues can be settled.
 primary_entities:
 - Russia
 - Ukraine
@@ -65,7 +76,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -164,116 +176,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-10-russia-and-ukraine-trade-overnight-drone-strikes-as-abu-dhabi-talks-open.png
-  alt: 'Illustration accompanying article: Russia and Ukraine trade overnight drone strikes as Abu Dhabi talks open'
+  alt: 'Illustration accompanying article: Russia and Ukraine trade overnight drone
+    strikes as Abu Dhabi talks open'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-03-russia-s-bombing-of-a-school-hosting-aid-in-ukraine-kills-at-least-31
   headline: Russia’s bombing of a school hosting aid in Ukraine kills at least 31
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7946
+  strength: 0.7949
 - slug: 2026-10-15-ukraine-strikes-russian-oil-refinery-after-zelenskyy-says-truce-is-over
   headline: Ukraine strikes Russian oil refinery after Zelenskyy says truce is over
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7786
+  strength: 0.7784
 - slug: 2026-09-15-russia-fires-200-drones-at-ukraine-hours-after-trump-energy-truce-claim
   headline: Russia fires 200 drones at Ukraine hours after Trump energy truce claim
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7864
-- slug: 2026-08-05-russia-kills-17-in-kyiv-with-missiles-and-drones-ukraine-says
-  headline: Russia kills 17 in Kyiv with missiles and drones, Ukraine says
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.766
+  strength: 0.7865
 - slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
   headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.8206
+  strength: 0.8208
+- slug: 2026-02-05-russia-and-ukraine-envoys-meet-in-abu-dhabi-for-us-brokered-talks
+  headline: Russia and Ukraine envoys meet in Abu Dhabi for US-brokered talks
+  publish_date: '2026-02-05'
+  relation: related
+  strength: 0.8358
 - slug: 2026-02-13-russia-launches-barrage-of-missiles-and-drones-in-ukraine-as-talks-stall
   headline: Russia launches barrage of missiles and drones in Ukraine as talks stall
   publish_date: '2026-02-13'
   relation: related
   strength: 0.8352
-- slug: 2026-02-05-russia-and-ukraine-envoys-meet-in-abu-dhabi-for-us-brokered-talks
-  headline: Russia and Ukraine envoys meet in Abu Dhabi for US-brokered talks
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.8357
 - slug: 2026-03-27-iran-war-deflects-attention-as-emboldened-russia-begins-spring-offensive
   headline: Iran war deflects attention as emboldened Russia begins spring offensive
   publish_date: '2026-03-27'
   relation: related
-  strength: 0.8187
+  strength: 0.8193
 - slug: 2026-05-14-russia-fires-800-drones-at-ukraine-in-massive-daytime-attack-killing-six
-  headline: Russia fires 800 drones at Ukraine in massive daytime attack, killing six
+  headline: Russia fires 800 drones at Ukraine in massive daytime attack, killing
+    six
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.804
-- slug: 2026-05-15-russia-launches-third-straight-day-of-drone-and-missile-attacks-on-ukraine
-  headline: Russia launches third straight day of drone and missile attacks on Ukraine
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7988
-- slug: 2026-06-03-ukrainian-drones-set-st-petersburg-oil-terminal-ablaze-ahead-of-putin-economic-f
-  headline: Ukrainian drones set St. Petersburg oil terminal ablaze ahead of Putin economic forum
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7809
-- slug: 2026-05-06-russian-strikes-kill-22-in-ukraine-before-temporary-ceasefire-takes-effect
-  headline: Russian strikes kill 22 in Ukraine before temporary ceasefire takes effect
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7904
-- slug: 2026-03-22-russia-and-ukraine-trade-deadly-attacks-ahead-of-u-s-talks-on-peace
-  headline: Russia and Ukraine trade deadly attacks ahead of U.S. talks on peace
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7946
-- slug: 2026-05-16-ukrainian-drones-strike-russia-killing-4-and-wounding-a-dozen-officials-say
-  headline: Ukrainian drones strike Russia, killing 4 and wounding a dozen, officials say
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7812
-- slug: 2026-04-26-russian-and-ukrainian-strikes-overnight-kill-or-wound-dozens-as-zelenskyy-seeks-
-  headline: Russian and Ukrainian strikes overnight kill or wound dozens as Zelenskyy seeks talks
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7856
-- slug: 2026-04-12-ceasefire-in-doubt-as-russia-continues-drone-strikes-in-ukraine
-  headline: Ceasefire in doubt as Russia continues drone strikes in Ukraine
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.7833
-- slug: 2026-02-03-us-brokered-russia-ukraine-talks-to-resume-this-week-in-abu-dhabi
-  headline: US-brokered Russia-Ukraine talks to resume this week in Abu Dhabi
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.791
-- slug: 2026-05-16-ukraine-drones-kill-4-wound-12-in-one-of-largest-strikes-on-moscow-area
-  headline: Ukraine drones kill 4, wound 12 in one of largest strikes on Moscow area
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7684
-- slug: 2026-02-04-russia-launches-major-drone-and-missile-attack-on-ukraine-overnight
-  headline: Russia launches major drone and missile attack on Ukraine overnight
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.7861
-- slug: 2026-05-04-ukraine-launches-strikes-on-russian-oil-infrastructure-and-shadow-fleet
-  headline: Ukraine launches strikes on Russian oil infrastructure and shadow fleet
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7721
+  strength: 0.8041
 ---
-
 ## Russia and Ukraine trade overnight drone strikes as Abu Dhabi talks open
 
 **Subtype:** fact
