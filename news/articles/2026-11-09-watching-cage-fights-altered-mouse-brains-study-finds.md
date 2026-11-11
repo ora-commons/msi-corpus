@@ -1,9 +1,18 @@
 ---
 headline: Watching cage fights altered mouse brains, study finds
-secondary_headline: Observer mice mixed aggressive and defensive behaviors, suggesting learning from both sides
+secondary_headline: Observer mice mixed aggressive and defensive behaviors, suggesting
+  learning from both sides
 publish_date: '2026-11-09'
-lede: Mice that watched other mice fight became more vigilant and aggressive, according to a study published in the journal Nature. Princeton Neuroscience Institute researchers said observer mice showed brain activity similar to that of fighters and later displayed a mix of aggressive and defensive tactics that suggested learning from both sides.
-nut_graf: The study found that observing aggression changed a mouse's behavior and neural activity without reproducing the full effects of fighting. Iravedra Garcia said observer mice moved less smoothly and less regularly than mice with direct fighting experience. University of Utah neurobiologist Moriel Zelikowsky said the work may illuminate how observational experiences reshape a brain in ways that may increase an animal's chance of survival.
+lede: Mice that watched other mice fight became more vigilant and aggressive, according
+  to a study published in the journal Nature. Princeton Neuroscience Institute researchers
+  said observer mice showed brain activity similar to that of fighters and later displayed
+  a mix of aggressive and defensive tactics that suggested learning from both sides.
+nut_graf: The study found that observing aggression changed a mouse's behavior and
+  neural activity without reproducing the full effects of fighting. Iravedra Garcia
+  said observer mice moved less smoothly and less regularly than mice with direct
+  fighting experience. University of Utah neurobiologist Moriel Zelikowsky said the
+  work may illuminate how observational experiences reshape a brain in ways that may
+  increase an animal's chance of survival.
 primary_entities:
 - Pien Huang
 - Scott Detrow
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +149,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-06-researchers-trace-a-consistent-sequence-octopuses-use-to-squeeze-through-holes
-  headline: Researchers trace a consistent sequence octopuses use to squeeze through holes
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5412
-- slug: 2026-10-26-footage-documents-maternal-separation-in-university-of-washington-study
-  headline: Footage documents maternal separation in University of Washington study
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5572
-- slug: 2026-10-25-nuzzo-says-federal-monitoring-of-farms-for-viruses-appears-reduced
-  headline: Nuzzo says federal monitoring of farms for viruses appears reduced
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5365
-- slug: 2026-10-23-utah-officials-issue-a-verbal-hold-as-bird-flu-spreads-among-mink
-  headline: Utah officials issue a verbal hold as bird flu spreads among mink
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5293
 - slug: 2026-09-16-stanford-researchers-create-mice-with-human-brain-cells-to-study-disease
   headline: Stanford researchers create mice with human brain cells to study disease
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6535
-- slug: 2026-09-04-elephantnose-fish-brain-filters-electrical-noise-more-intricately-than-expected
-  headline: Elephantnose fish brain filters electrical noise more intricately than expected
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5338
-- slug: 2026-06-23-disputed-criminal-brain-science-put-man-on-death-row-critics-say
-  headline: Disputed 'criminal brain' science put man on death row, critics say
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5541
-- slug: 2026-07-06-schneier-and-penney-warn-ai-surveillance-s-chilling-effects-threaten-dissent
-  headline: Schneier and Penney warn AI surveillance's chilling effects threaten dissent
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5395
-- slug: 2026-06-19-over-reliance-on-chatbots-can-diminish-critical-thinking-skills-mit-study-finds
-  headline: Over-reliance on chatbots can diminish critical-thinking skills, MIT study finds
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5485
-- slug: 2026-05-28-liver-cells-may-hold-key-to-pigeon-navigation-study-suggests
-  headline: Liver cells may hold key to pigeon navigation, study suggests
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.5604
-- slug: 2026-06-04-algorithms-can-amplify-tribal-hatred-within-days-study-finds
-  headline: Algorithms can amplify tribal hatred within days, study finds
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5504
-- slug: 2026-05-23-study-finds-coexistence-between-jackson-hole-recreation-and-wildlife
-  headline: Study finds coexistence between Jackson Hole recreation and wildlife
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5513
-- slug: 2026-06-16-janelia-bets-on-transparent-fish-with-ai-to-decode-brain-behavior-link
-  headline: Janelia bets on transparent fish with AI to decode brain-behavior link
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5362
-- slug: 2026-03-15-brain-exercises-may-help-lower-dementia-risk-experts-say
-  headline: Brain exercises may help lower dementia risk, experts say
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5622
-- slug: 2026-05-22-study-finds-coexistence-on-jackson-hole-trails-not-a-wildlife-sacrifice-zone
-  headline: Study finds coexistence on Jackson Hole trails, not a wildlife sacrifice zone
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5394
-- slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
-  headline: Gray whales shift into San Francisco Bay; new detection system warns ships
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.531
-- slug: 2026-03-31-study-finds-americans-misjudge-climate-impact-of-everyday-choices-incl-dog-owner
-  headline: Study finds Americans misjudge climate impact of everyday choices, incl. dog ownership
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5534
-- slug: 2026-05-17-experts-share-strategies-to-rebuild-attention-spans-shrinking-to-47-seconds
-  headline: Experts share strategies to rebuild attention spans shrinking to 47 seconds
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5408
-- slug: 2026-05-22-more-children-s-hospitals-add-full-time-facility-dogs-for-kids-care
-  headline: More children’s hospitals add full-time facility dogs for kids’ care
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5315
-- slug: 2026-04-23-in-climate-change-fight-doomerism-is-out-laughter-is-in
-  headline: In climate change fight, doomerism is out. Laughter is in
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.5298
+  strength: 0.6518
 ---
-
 ## Watching cage fights altered mouse brains, study finds
 
 **Subtype:** fact
