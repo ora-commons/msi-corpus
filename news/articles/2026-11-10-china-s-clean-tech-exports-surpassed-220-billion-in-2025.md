@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-10-21'
   relation: related
   strength: 0.6685
+analyses:
+- '2026-11-10-china-s-cop31-demands-trace-to-export-energy-security-and-recognition-interests'
 ---
 ## China's clean-tech exports surpassed $220 billion in 2025
 
@@ -256,3 +258,8 @@ Analysts will watch China’s actions around climate-finance commitments and sup
 **Publication date:** 2026-11-10
 **Title:** US and rest of world must follow China’s lead on green energy, says John Kerry
 **URL:** https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31
+
+---
+
+<!-- analysis-link:2026-11-10-china-s-cop31-demands-trace-to-export-energy-security-and-recognition-interests -->
+**Going deeper:** [Read MSI's analysis of interests behind China's climate pledge →](/analyses/2026-11-10-china-s-cop31-demands-trace-to-export-energy-security-and-recognition-interests)
