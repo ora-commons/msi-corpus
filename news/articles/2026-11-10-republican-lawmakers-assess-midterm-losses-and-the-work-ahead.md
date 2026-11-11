@@ -1,9 +1,23 @@
 ---
 headline: Republican lawmakers assess midterm losses and the work ahead
-secondary_headline: Congress faces a funding deadline and a possible defense secretary impeachment
+secondary_headline: Congress faces a funding deadline and a possible defense secretary
+  impeachment
 publish_date: '2026-11-10'
-lede: Republican lawmakers returned to the Capitol after the 2026 midterms as Democrats prepared to control the House and Senate. Government funding runs out on 11 December, major defense and agriculture measures remain unfinished, and House Republicans must decide whether to impeach Defense Secretary Pete Hegseth. Some Republicans raised the possibility of a party-line measure on fraud or defense if their party regained control under a Republican president. The Guardian reported that Democrats had won a 54-seat Senate majority and a 254-seat House majority, with both totals potentially increasing as ballot counting continued.
-nut_graf: The shift to Democratic majorities leaves Congress with the same near-term need for bipartisan action and potential disputes over President Donald Trump's remaining agenda. Government funding runs out on 11 December and must be extended, defense and agriculture measures remain unfinished, and House Republicans must decide whether to pursue impeachment of Defense Secretary Pete Hegseth. The Guardian reported that Democrats were expected to resist remaining parts of the agenda, while Trump has said he wants to work with them where he believes a deal is possible.
+lede: Republican lawmakers returned to the Capitol after the 2026 midterms as Democrats
+  prepared to control the House and Senate. Government funding runs out on 11 December,
+  major defense and agriculture measures remain unfinished, and House Republicans
+  must decide whether to impeach Defense Secretary Pete Hegseth. Some Republicans
+  raised the possibility of a party-line measure on fraud or defense if their party
+  regained control under a Republican president. The Guardian reported that Democrats
+  had won a 54-seat Senate majority and a 254-seat House majority, with both totals
+  potentially increasing as ballot counting continued.
+nut_graf: The shift to Democratic majorities leaves Congress with the same near-term
+  need for bipartisan action and potential disputes over President Donald Trump's
+  remaining agenda. Government funding runs out on 11 December and must be extended,
+  defense and agriculture measures remain unfinished, and House Republicans must decide
+  whether to pursue impeachment of Defense Secretary Pete Hegseth. The Guardian reported
+  that Democrats were expected to resist remaining parts of the agenda, while Trump
+  has said he wants to work with them where he believes a deal is possible.
 primary_entities:
 - Republican Party
 - Democratic Party
@@ -55,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -162,99 +177,38 @@ related_stories:
   headline: Republicans split over who saw the midterm losses coming
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8024
+  strength: 0.8023
 - slug: 2026-11-10-republicans-53-47-senate-majority-faces-possible-shift-to-44-seats
   headline: Republicans' 53-47 Senate majority faces possible shift to 44 seats
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7945
+  strength: 0.7943
 - slug: 2026-11-08-republicans-weigh-debt-limit-option-as-senate-pursues-judicial-confirmations
   headline: Republicans weigh debt-limit option as Senate pursues judicial confirmations
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7686
+  strength: 0.7673
 - slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
   headline: Democratic leaders weigh oversight and legislation after 2026 midterms
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7624
+  strength: 0.7619
 - slug: 2026-11-09-hegseth-faces-four-seat-house-test-as-johnson-warns-on-impeachment
   headline: Hegseth faces four-seat House test as Johnson warns on impeachment
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7516
+  strength: 0.7517
 - slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
   headline: House could vote to impeach Hegseth when lawmakers return to Washington
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7661
+  strength: 0.7659
 - slug: 2026-11-07-republicans-weigh-next-steps-after-midterm-losses
   headline: Republicans weigh next steps after midterm losses
   publish_date: '2026-11-07'
   relation: related
   strength: 0.7484
-- slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
-  headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.745
-- slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7448
-- slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
-  headline: Republicans fault Trump after Democrats take House and Senate in midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7482
-- slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7277
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.732
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7368
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7365
-- slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
-  headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7473
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7279
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7343
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7429
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.737
 ---
-
 ## Republican lawmakers assess midterm losses and the work ahead
 
 **Subtype:** fact
