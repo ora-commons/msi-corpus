@@ -2,8 +2,18 @@
 headline: Ron Johnson concedes John Thune has no opponent in Senate GOP leadership
 secondary_headline: Jim Lankford says Thune has widespread Republican support
 publish_date: '2026-11-10'
-lede: Wisconsin Sen. Ron Johnson said the GOP's midterm losses demand change, even as he acknowledged that John Thune faced no opponent in the leadership election. After circulating a letter asking Senate Republicans to delay their closed-door, secret-ballot votes, Johnson said, "We need to have some real soul-searching." He added, "That's part of our problem, who would want the job?" Oklahoma Sen. Jim Lankford supports holding the elections Tuesday and says Thune "has widespread support" among Republican senators.
-nut_graf: Johnson's request for delay and Lankford's support for a Tuesday election frame the party's debate over whether to examine its midterm defeat before selecting leaders. The closed-door election will also cover other party leadership contests, and Thune said the conference would hold a "very fulsome, robust conversation" before Republican senators decided.
+lede: Wisconsin Sen. Ron Johnson said the GOP's midterm losses demand change, even
+  as he acknowledged that John Thune faced no opponent in the leadership election.
+  After circulating a letter asking Senate Republicans to delay their closed-door,
+  secret-ballot votes, Johnson said, "We need to have some real soul-searching." He
+  added, "That's part of our problem, who would want the job?" Oklahoma Sen. Jim Lankford
+  supports holding the elections Tuesday and says Thune "has widespread support" among
+  Republican senators.
+nut_graf: Johnson's request for delay and Lankford's support for a Tuesday election
+  frame the party's debate over whether to examine its midterm defeat before selecting
+  leaders. The closed-door election will also cover other party leadership contests,
+  and Thune said the conference would hold a "very fulsome, robust conversation" before
+  Republican senators decided.
 primary_entities:
 - Ron Johnson
 - Jim Lankford
@@ -50,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,113 +163,58 @@ related_stories:
   headline: Senate Republicans set leadership vote as Democrats weigh Schumer's future
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7926
+  strength: 0.7918
 - slug: 2026-11-10-leganski-says-trump-could-wield-major-influence-over-the-gop-conference
   headline: Leganski says Trump could wield major influence over the GOP conference
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6794
+  strength: 0.6792
 - slug: 2026-11-07-republicans-weigh-next-steps-after-midterm-losses
   headline: Republicans weigh next steps after midterm losses
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6834
+  strength: 0.6833
 - slug: 2026-11-09-congress-returns-hegseth-impeachment-resolution-expected-after-gop-losses
   headline: Congress returns; Hegseth impeachment resolution expected after GOP losses
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.667
+  strength: 0.6671
 - slug: 2026-11-08-republicans-weigh-debt-limit-option-as-senate-pursues-judicial-confirmations
   headline: Republicans weigh debt-limit option as Senate pursues judicial confirmations
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.666
+  strength: 0.6656
 - slug: 2026-11-09-scalise-and-jordan-offer-competing-pitches-for-house-gop-leadership
   headline: Scalise and Jordan offer competing pitches for House GOP leadership
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.658
+  strength: 0.6574
 - slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
+  headline: Schumer expects re-election as Senate Democrats' leader after midterm
+    wins
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6788
+  strength: 0.6782
 - slug: 2026-11-04-mike-johnson-steps-aside-from-house-republican-leadership-after-midterm-losses
-  headline: Mike Johnson steps aside from House Republican leadership after midterm losses
+  headline: Mike Johnson steps aside from House Republican leadership after midterm
+    losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6762
-- slug: 2026-10-26-some-thune-allies-fear-blame-if-republicans-lose-their-53-47-senate-majority
-  headline: Some Thune allies fear blame if Republicans lose their 53-47 Senate majority
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7302
-- slug: 2026-11-04-mike-johnson-won-t-seek-reelection-as-house-republicans-top-leader
-  headline: Mike Johnson won't seek reelection as House Republicans' top leader
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6671
-- slug: 2026-10-26-thune-campaigns-with-hinson-ahead-of-senate-republican-leadership-vote
-  headline: Thune campaigns with Hinson ahead of Senate Republican leadership vote
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6742
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6553
-- slug: 2026-07-24-senate-gop-leader-says-votes-not-there-for-95b-budget-push
-  headline: Senate GOP leader says votes not there for $95B budget push
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6998
-- slug: 2026-06-24-trump-to-meet-senate-republicans-amid-save-act-impasse
-  headline: Trump to meet Senate Republicans amid SAVE Act impasse
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7139
-- slug: 2026-07-28-senate-gop-leader-thune-faces-pressure-from-trump-to-eliminate-filibuster-for-sa
-  headline: Senate GOP leader Thune faces pressure from Trump to eliminate filibuster for SAVE Act
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.669
-- slug: 2026-06-18-trump-frustration-grows-as-senate-gop-leader-thune-keeps-saying-no
-  headline: Trump frustration grows as Senate GOP leader Thune keeps saying no
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6828
-- slug: 2026-05-25-texas-gop-senate-runoff-pits-cornyn-vs-paxton-in-trump-backed-showdown
-  headline: Texas GOP Senate runoff pits Cornyn vs. Paxton in Trump-backed showdown
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6899
-- slug: 2026-06-02-paxton-platner-converge-on-washington-as-senate-control-hangs-in-balance
-  headline: Paxton, Platner converge on Washington as Senate control hangs in balance
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6705
-- slug: 2026-03-29-gop-leaders-split-as-homeland-security-funding-deal-collapses-before-shutdown-br
-  headline: GOP leaders split as Homeland Security funding deal collapses before shutdown break
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6874
-- slug: 2026-06-23-trump-pushes-save-america-act-as-senate-gop-resists-on-voting-rules-and-iran
-  headline: Trump pushes SAVE America Act as Senate GOP resists on voting rules and Iran
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6551
+  strength: 0.6766
 image:
   url: /articles/2026-11-10-ron-johnson-concedes-john-thune-has-no-opponent-in-senate-gop-leadership.png
-  alt: 'Illustration accompanying article: Ron Johnson concedes John Thune has no opponent in Senate GOP leadership'
+  alt: 'Illustration accompanying article: Ron Johnson concedes John Thune has no
+    opponent in Senate GOP leadership'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Ron Johnson concedes John Thune has no opponent in Senate GOP leadership
 
 **Subtype:** fact

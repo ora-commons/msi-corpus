@@ -1,9 +1,21 @@
 ---
 headline: Skagway’s cruise boom strains housing for year-round residents
-secondary_headline: Seasonal workers moved into crowded homes after Skagway camping ban
+secondary_headline: Seasonal workers moved into crowded homes after Skagway camping
+  ban
 publish_date: '2026-11-10'
-lede: Skagway’s year-round economy is straining under the seasonal influx created by cruise ships, with nearly 2 million visitors and crew arriving in 2025 — more than 1.35 million tourists and more than half a million crew. As the 2026 season winds down, residents, businesses and officials in the Alaska town describe a severe housing shortage affecting permanent residents and seasonal workers. The scale of cruise tourism is a frequent topic of debate as Inside Passage towns consult 2027 and 2028 docking schedules, note projected visitor increases and ask how much they can realistically handle.
-nut_graf: The summer cruise season brings workers and revenue, but Skagway must also house those workers and sustain services when the ships leave. Like many tourist towns, Skagway faces a housing shortage; its narrow valley, limited housing stock and reliance on cruise revenue leave little room to expand as Inside Passage towns consult 2027 and 2028 docking schedules and note projected visitor increases.
+lede: Skagway’s year-round economy is straining under the seasonal influx created
+  by cruise ships, with nearly 2 million visitors and crew arriving in 2025 — more
+  than 1.35 million tourists and more than half a million crew. As the 2026 season
+  winds down, residents, businesses and officials in the Alaska town describe a severe
+  housing shortage affecting permanent residents and seasonal workers. The scale of
+  cruise tourism is a frequent topic of debate as Inside Passage towns consult 2027
+  and 2028 docking schedules, note projected visitor increases and ask how much they
+  can realistically handle.
+nut_graf: The summer cruise season brings workers and revenue, but Skagway must also
+  house those workers and sustain services when the ships leave. Like many tourist
+  towns, Skagway faces a housing shortage; its narrow valley, limited housing stock
+  and reliance on cruise revenue leave little room to expand as Inside Passage towns
+  consult 2027 and 2028 docking schedules and note projected visitor increases.
 primary_entities:
 - Skagway
 - Orion Hanson
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +153,8 @@ cross_article_links:
   strength: 0.5657
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-31-soaring-fuel-costs-force-mv-odyssey-residents-ashore-in-cambodia
-  headline: Soaring fuel costs force MV Odyssey residents ashore in Cambodia
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.587
-- slug: 2026-09-12-mallorca-courts-wealthy-american-tourists-as-housing-crisis-fuels-local-anger
-  headline: Mallorca courts wealthy American tourists as housing crisis fuels local anger
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.5546
-- slug: 2026-08-20-hawaii-agency-to-sublet-industrial-park-space-to-manufacturing-startups
-  headline: Hawaii Agency to Sublet Industrial Park Space to Manufacturing Startups
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5635
-- slug: 2026-08-26-maine-puffin-watching-cruises-sell-out-as-restored-colonies-draw-thousands
-  headline: Maine puffin-watching cruises sell out as restored colonies draw thousands
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5505
-- slug: 2026-04-13-cruises-avoid-tracy-arm-after-landslide-switch-to-endicott-arm-dawes
-  headline: Cruises avoid Tracy Arm after landslide; switch to Endicott Arm, Dawes
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6049
-- slug: 2026-07-14-vail-ceo-pivots-to-guest-experience-focus-as-epic-pass-growth-stalls
-  headline: Vail CEO pivots to guest-experience focus as Epic pass growth stalls
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.558
-- slug: 2026-05-10-south-dakota-says-high-gas-prices-may-be-silver-lining-for-tourism
-  headline: South Dakota says high gas prices may be ‘silver lining’ for tourism
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5892
-- slug: 2026-04-26-alaska-native-village-seeks-community-led-polar-bear-tourism-comeback
-  headline: Alaska Native village seeks community-led polar bear tourism comeback
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5919
-- slug: 2026-06-19-las-vegas-shifts-from-budget-destination-to-luxury-market-as-visitor-demographic
-  headline: Las Vegas shifts from budget destination to luxury market as visitor demographic changes
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5682
-- slug: 2026-05-16-cruise-industry-expects-no-impact-from-hantavirus-outbreak-on-ship
-  headline: Cruise industry expects no impact from hantavirus outbreak on ship
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5763
-- slug: 2026-05-16-cruise-demand-holds-steady-despite-hantavirus-and-norovirus-outbreaks
-  headline: Cruise demand holds steady despite hantavirus and norovirus outbreaks
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5727
-- slug: 2026-06-09-wyoming-s-data-center-boom-fuels-backlash-over-man-camp-housing-for-5-600-worker
-  headline: Wyoming’s data-center boom fuels backlash over ‘man camp’ housing for 5,600 workers
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5611
-- slug: 2026-05-10-south-dakota-tourism-leader-high-gas-prices-could-hold-silver-lining
-  headline: 'South Dakota tourism leader: High gas prices could hold “silver lining”'
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5675
-- slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
-  headline: Gray whales shift into San Francisco Bay; new detection system warns ships
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5548
-- slug: 2026-01-22-texas-leads-nation-in-supplying-new-residents-to-nine-states
-  headline: Texas leads nation in supplying new residents to nine states
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.5796
-- slug: 2026-01-16-norwegian-cruise-line-charges-hawaii-tourist-tax-despite-court-injunction
-  headline: Norwegian Cruise Line charges Hawaii tourist tax despite court injunction
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.5734
-- slug: 2026-05-01-aging-hawai-i-faces-shortage-of-nearly-60-000-homes-by-2050-report-says
-  headline: Aging Hawai‘i faces shortage of nearly 60,000 homes by 2050, report says
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5568
-- slug: 2026-05-14-hotel-bookings-lag-in-u-s-world-cup-host-cities-as-tournament-nears
-  headline: Hotel bookings lag in U.S. World Cup host cities as tournament nears
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5513
-- slug: 2026-02-23-proposed-kauai-housing-project-divides-historic-k-loa-town
-  headline: Proposed Kauai housing project divides historic Kōloa town
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.5615
-- slug: 2026-02-25-hawaii-lawmakers-advance-bills-that-would-shrink-cruise-green-fee-funding
-  headline: Hawaii lawmakers advance bills that would shrink cruise green-fee funding
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5606
+related_stories: []
 ---
-
 ## Skagway’s cruise boom strains housing for year-round residents
 
 **Subtype:** fact

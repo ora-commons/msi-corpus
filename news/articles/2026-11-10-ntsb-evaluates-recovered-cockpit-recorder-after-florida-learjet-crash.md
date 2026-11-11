@@ -58,10 +58,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -238,3 +240,9 @@ A crash investigation generally takes the NTSB 12 to 18 months, though complicat
 **Publication date:** 2026-11-10
 **Title:** Investigators find cockpit voice recorder from Florida jet crash
 **URL:** https://apnews.com/article/florida-jet-crash-voice-recorder-1f62a51700a10e77dcfb4855555abbf6
+
+### src_late_73f732d354850471 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-10
+**Title:** Investigators recover voice recorder from Florida jet crash that killed nine people
+**URL:** https://www.theguardian.com/us-news/2026/nov/10/voice-recorder-florida-plane-crash
+**Added after publication:** true
