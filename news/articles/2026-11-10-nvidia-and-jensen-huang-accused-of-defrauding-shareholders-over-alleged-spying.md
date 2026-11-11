@@ -230,6 +230,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-10-nvidia-s-board-faces-separate-shareholder-and-security-evidence-tracks'
 ---
 ## Nvidia and Jensen Huang accused of defrauding shareholders over alleged spying
 
@@ -280,3 +282,8 @@ The report said soaring oil and gas prices following the war in Iran had encoura
 **Publication date:** 2026-11-10
 **Title:** Oil price relief as Trump declares US war on Iran ‘ending fairly soon’ | First Thing
 **URL:** https://www.theguardian.com/us-news/2026/nov/10/first-thing-oil-price-relief-trump-us-war-iran-ending-fairly-soon
+
+---
+
+<!-- analysis-link:2026-11-10-nvidia-s-board-faces-separate-shareholder-and-security-evidence-tracks -->
+**Going deeper:** [Read MSI's analysis of Nvidia’s shareholder and security evidence tracks →](/analyses/2026-11-10-nvidia-s-board-faces-separate-shareholder-and-security-evidence-tracks)
