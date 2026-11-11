@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7442
+analyses:
+- '2026-11-09-georgia-s-divided-government-opens-negotiations-without-a-documented-third-side'
 ---
 ## Democrats take Georgia House control as Republicans retain state Senate
 
@@ -242,3 +244,8 @@ Beyond Georgia's lower chamber, which the Associated Press called for Democrats,
 **Publication date:** 2026-11-09
 **Title:** Democrats flip state House in Georgia
 **URL:** https://apnews.com/article/state-legislature-flips-party-control-georgia-f89c3edc570adfb6b547b23629437803
+
+---
+
+<!-- analysis-link:2026-11-09-georgia-s-divided-government-opens-negotiations-without-a-documented-third-side -->
+**Going deeper:** [Read MSI's analysis of Georgia's legislative third side →](/analyses/2026-11-09-georgia-s-divided-government-opens-negotiations-without-a-documented-third-side)
