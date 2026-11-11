@@ -205,6 +205,8 @@ related_stories:
   publish_date: '2026-11-08'
   relation: related
   strength: 0.7957
+analyses:
+- '2026-11-09-house-republican-leadership-weighs-deferring-hegseth-vote-amid-an-unsettled-coun'
 ---
 ## Hegseth faces four-seat House test as Johnson warns on impeachment
 
@@ -246,3 +248,8 @@ Tim Parlatore, a special adviser to Hegseth, told The Wall Street Journal last w
 **Publication date:** 2026-11-09
 **Title:** Hegseth Mounts Fierce Defense as Massie Introduces Articles of Impeachment
 **URL:** https://www.wsj.com/politics/national-security/pete-hegseth-impeachment-press-conference-cdf5d9d6
+
+---
+
+<!-- analysis-link:2026-11-09-house-republican-leadership-weighs-deferring-hegseth-vote-amid-an-unsettled-coun -->
+**Going deeper:** [Read MSI's analysis of Hegseth impeachment vote sequencing →](/analyses/2026-11-09-house-republican-leadership-weighs-deferring-hegseth-vote-amid-an-unsettled-coun)

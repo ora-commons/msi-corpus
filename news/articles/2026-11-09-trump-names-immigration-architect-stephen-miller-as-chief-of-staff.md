@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-11-07'
   relation: related
   strength: 0.7561
+analyses:
+- '2026-11-09-trump-s-miller-appointment-records-continuity-more-clearly-than-policy-change'
 ---
 ## Trump names immigration architect Stephen Miller as chief of staff
 
@@ -246,3 +248,8 @@ The immigration remarks arrived with Democrats naming oversight of Immigration a
 **Publication date:** 2026-11-09
 **Title:** Trump dice que su política de deportación "quizá fue demasiado dura" para votantes en las elecciones
 **URL:** https://apnews.com/article/trump-inmigracion-elecciones-votantes-deportaciones-republicanos-ae380d51eac7bce90d8e110134b26591
+
+---
+
+<!-- analysis-link:2026-11-09-trump-s-miller-appointment-records-continuity-more-clearly-than-policy-change -->
+**Going deeper:** [Read MSI's analysis of Miller’s role in immigration change →](/analyses/2026-11-09-trump-s-miller-appointment-records-continuity-more-clearly-than-policy-change)
