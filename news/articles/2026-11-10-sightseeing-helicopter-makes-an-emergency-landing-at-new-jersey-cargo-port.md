@@ -1,9 +1,19 @@
 ---
 headline: Sightseeing helicopter makes an emergency landing at New Jersey cargo port
-secondary_headline: Pilot reports possible engine trouble; Port Authority reports no injuries
+secondary_headline: Pilot reports possible engine trouble; Port Authority reports
+  no injuries
 publish_date: '2026-11-10'
-lede: A New York City sightseeing helicopter on a maintenance flight made an emergency landing on a road at the Port Jersey Marine Terminal in Bayonne, New Jersey, on Tuesday after the pilot reported possible engine trouble. The Federal Aviation Administration said two people were aboard the Bell 206L-4 helicopter when it came down around 8:55 a.m., and the Port Authority of New York and New Jersey reported no injuries.
-nut_graf: The emergency landing came as the U.S. Department of Transportation's Office of Inspector General announced an audit of sightseeing helicopter regulations last week, citing "longstanding concerns regarding the industry's safety and whether the current regulatory framework provides adequate safeguards." Assistant Inspector General Marshall Jackson said at least 58 helicopter crashes involving tourist helicopters have occurred in the U.S. since 2008, including 11 that were fatal.
+lede: A New York City sightseeing helicopter on a maintenance flight made an emergency
+  landing on a road at the Port Jersey Marine Terminal in Bayonne, New Jersey, on
+  Tuesday after the pilot reported possible engine trouble. The Federal Aviation Administration
+  said two people were aboard the Bell 206L-4 helicopter when it came down around
+  8:55 a.m., and the Port Authority of New York and New Jersey reported no injuries.
+nut_graf: The emergency landing came as the U.S. Department of Transportation's Office
+  of Inspector General announced an audit of sightseeing helicopter regulations last
+  week, citing "longstanding concerns regarding the industry's safety and whether
+  the current regulatory framework provides adequate safeguards." Assistant Inspector
+  General Marshall Jackson said at least 58 helicopter crashes involving tourist helicopters
+  have occurred in the U.S. since 2008, including 11 that were fatal.
 primary_entities:
 - Federal Aviation Administration
 - Port Authority of New York and New Jersey
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,107 +156,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-08-small-plane-hits-pickup-during-emergency-landing-on-fort-myers-road-no-one-hurt
-  headline: Small plane hits pickup during emergency landing on Fort Myers road, no one hurt
+  headline: Small plane hits pickup during emergency landing on Fort Myers road, no
+    one hurt
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6593
+  strength: 0.6596
 - slug: 2026-11-04-helicopter-crashes-in-biscayne-bay-leaving-one-dead-and-two-injured
   headline: Helicopter crashes in Biscayne Bay, leaving one dead and two injured
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6682
+  strength: 0.6678
 - slug: 2026-10-03-officials-believe-air-ambulance-rapidly-descended-7-500-feet-off-nantucket
   headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6605
+  strength: 0.6609
 - slug: 2026-07-16-ntsb-finds-geese-remains-on-helicopter-that-crashed-into-hudson-river-killing-6
-  headline: NTSB finds geese remains on helicopter that crashed into Hudson River, killing 6
+  headline: NTSB finds geese remains on helicopter that crashed into Hudson River,
+    killing 6
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7525
+  strength: 0.7516
 - slug: 2026-09-02-coast-guard-plane-carrying-dhs-secretary-mullin-lands-safely-after-engine-fire
-  headline: Coast Guard plane carrying DHS Secretary Mullin lands safely after engine fire
+  headline: Coast Guard plane carrying DHS Secretary Mullin lands safely after engine
+    fire
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6565
+  strength: 0.6572
 - slug: 2025-12-29-midair-helicopter-crash-in-new-jersey-leaves-1-dead-and-1-injured
   headline: Midair helicopter crash in New Jersey leaves 1 dead and 1 injured
   publish_date: '2025-12-29'
   relation: related
-  strength: 0.703
+  strength: 0.7017
 - slug: 2026-06-04-ntsb-united-jet-was-too-slow-and-too-low-before-newark-landing-accident
   headline: 'NTSB: United jet was too slow and too low before Newark landing accident'
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6739
+  strength: 0.6735
 - slug: 2026-05-04-united-jet-strikes-light-pole-damages-delivery-truck-while-landing-in-newark
-  headline: United jet strikes light pole, damages delivery truck while landing in Newark
+  headline: United jet strikes light pole, damages delivery truck while landing in
+    Newark
   publish_date: '2026-05-04'
   relation: related
-  strength: 0.6756
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6751
-- slug: 2026-03-04-small-plane-makes-emergency-landing-in-hudson-river-2-escape
-  headline: Small plane makes emergency landing in Hudson River; 2 escape
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6791
-- slug: 2026-05-21-relaxed-inspections-may-have-contributed-to-engine-falling-off-ups-plane
-  headline: Relaxed inspections may have contributed to engine falling off UPS plane
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.661
-- slug: 2026-03-24-air-traffic-controller-stress-comes-into-focus-after-laguardia-crash
-  headline: Air traffic controller stress comes into focus after LaGuardia crash
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6719
-- slug: 2026-03-24-jet-collides-with-fire-truck-at-laguardia-killing-air-canada-crew
-  headline: Jet collides with fire truck at LaGuardia, killing Air Canada crew
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6717
-- slug: 2026-05-18-ntsb-holds-2-day-hearings-on-louisville-ups-crash-after-engine-failure
-  headline: NTSB holds 2-day hearings on Louisville UPS crash after engine failure
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6563
-- slug: 2026-05-05-united-plane-avoids-catastrophe-after-hitting-truck-light-pole-in-newark
-  headline: United plane avoids catastrophe after hitting truck, light pole in Newark
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6579
-- slug: 2026-04-26-ntsb-says-firefighter-heard-stop-stop-before-laguardia-crash
-  headline: NTSB says firefighter heard “stop, stop” before LaGuardia crash
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6593
-- slug: 2026-04-20-two-southwest-planes-narrowly-avoid-collision-in-nashville-after-controller-erro
-  headline: Two Southwest planes narrowly avoid collision in Nashville after controller error
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6583
-- slug: 2026-03-24-laguardia-runway-crash-closes-airport-after-air-canada-collision
-  headline: LaGuardia runway crash closes airport after Air Canada collision
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6624
-- slug: 2026-01-25-ntsb-details-yearlong-aftermath-of-army-helicopter-american-jet-crash
-  headline: NTSB details yearlong aftermath of Army helicopter, American jet crash
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.6677
-- slug: 2026-03-24-what-to-know-about-the-laguardia-airport-runway-crash-involving-an-air-canada-fl
-  headline: What to know about the LaGuardia Airport runway crash involving an Air Canada flight
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6599
+  strength: 0.6755
 ---
-
 ## Sightseeing helicopter makes an emergency landing at New Jersey cargo port
 
 **Subtype:** fact

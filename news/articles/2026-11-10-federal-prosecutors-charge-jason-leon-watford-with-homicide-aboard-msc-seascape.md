@@ -2,8 +2,16 @@
 headline: Federal prosecutors charge Jason Leon Watford with homicide aboard MSC Seascape
 secondary_headline: FBI affidavit describes Watford's admissions and crew response
 publish_date: '2026-11-10'
-lede: Federal prosecutors charged Jason Leon Watford with felony homicide after crew members aboard the MSC Seascape found a woman dead in a cabin. The Texas passenger was detained when the ship returned to Galveston early Monday, one day after the planned cruise began, and was scheduled to make his first appearance in federal court Tuesday afternoon. An FBI complaint says Watford told investigators that he and the woman argued in a restaurant Sunday evening before he assaulted and choked her in their cabin.
-nut_graf: The case is proceeding in federal court, which has jurisdiction over crimes committed aboard U.S. vessels in international waters. Watford had no listed attorney and was scheduled to make his first appearance Tuesday afternoon.
+lede: Federal prosecutors charged Jason Leon Watford with felony homicide after crew
+  members aboard the MSC Seascape found a woman dead in a cabin. The Texas passenger
+  was detained when the ship returned to Galveston early Monday, one day after the
+  planned cruise began, and was scheduled to make his first appearance in federal
+  court Tuesday afternoon. An FBI complaint says Watford told investigators that he
+  and the woman argued in a restaurant Sunday evening before he assaulted and choked
+  her in their cabin.
+nut_graf: The case is proceeding in federal court, which has jurisdiction over crimes
+  committed aboard U.S. vessels in international waters. Watford had no listed attorney
+  and was scheduled to make his first appearance Tuesday afternoon.
 primary_entities:
 - Jason Leon Watford
 - MSC Seascape
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +150,8 @@ related_stories:
   headline: FBI investigates suspected homicide after MSC Seascape returns to Galveston
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7623
-- slug: 2026-11-04-ntsb-investigators-collect-learjet-wreckage-and-search-for-cockpit-recorder
-  headline: NTSB investigators collect Learjet wreckage and search for cockpit recorder
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5987
-- slug: 2026-11-03-ntsb-says-tail-pieces-show-florida-learjet-broke-apart-before-impact
-  headline: NTSB says tail pieces show Florida Learjet broke apart before impact
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6027
-- slug: 2026-10-28-dante-milne-denies-hijack-threat-after-united-flight-returns-to-las-vegas
-  headline: Dante Milne denies hijack threat after United flight returns to Las Vegas
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5955
-- slug: 2026-10-25-u-s-marine-indicted-for-okinawa-hotel-killing-and-robbery
-  headline: U.S. Marine indicted for Okinawa hotel killing and robbery
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5986
-- slug: 2026-10-04-okinawa-police-u-s-marine-suffocated-japanese-woman-at-hotel
-  headline: 'Okinawa police: U.S. Marine suffocated Japanese woman at hotel'
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6105
-- slug: 2026-10-02-divers-recover-body-of-missing-patient-in-catalina-medevac-crash-toll-at-3
-  headline: Divers recover body of missing patient in Catalina medevac crash, toll at 3
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6027
-- slug: 2026-09-25-jackson-detective-says-tasia-fortune-was-killed-before-body-was-staged
-  headline: Jackson detective says Tasia Fortune was killed before body was staged
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6065
-- slug: 2026-09-28-judge-sets-5m-bond-for-third-suspect-in-tasia-fortune-death
-  headline: Judge sets $5M bond for third suspect in Tasia Fortune death
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5963
-- slug: 2026-08-17-louisiana-man-faces-murder-charge-after-driving-wife-s-body-across-states
-  headline: Louisiana man faces murder charge after driving wife's body across states
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6117
-- slug: 2026-08-07-florida-boater-charged-with-attempted-felony-murder-after-cutting-diver-s-air-su
-  headline: Florida boater charged with attempted felony murder after cutting diver's air supply
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5987
-- slug: 2026-05-09-frontier-flight-hits-pedestrian-on-denver-runway-ntsb-opens-evacuation-investiga
-  headline: Frontier flight hits pedestrian on Denver runway; NTSB opens evacuation investigation
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6294
-- slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
-  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver runway
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6288
-- slug: 2026-05-10-6-found-dead-in-shipping-container-at-union-pacific-rail-yard-in-texas
-  headline: 6 found dead in shipping container at Union Pacific rail yard in Texas
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6261
-- slug: 2026-04-15-jury-awards-300-000-to-woman-served-14-tequila-shots-on-carnival-cruise
-  headline: Jury awards $300,000 to woman served 14 tequila shots on Carnival cruise
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6293
-- slug: 2026-06-23-florida-real-estate-broker-acquitted-in-fatal-birthday-boat-crash
-  headline: Florida real estate broker acquitted in fatal birthday boat crash
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6003
-- slug: 2026-05-10-six-found-dead-in-shipping-container-at-texas-rail-yard-heat-stroke-suspected
-  headline: Six found dead in shipping container at Texas rail yard; heat stroke suspected
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6056
-- slug: 2026-01-16-medical-examiner-finds-texas-ice-detainee-s-death-a-homicide-witness-describes-c
-  headline: Medical examiner finds Texas ICE detainee's death a homicide; witness describes chokehold
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6208
-- slug: 2026-05-10-person-struck-killed-by-frontier-plane-on-denver-runway-during-takeoff
-  headline: Person struck, killed by Frontier plane on Denver runway during takeoff
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6001
-- slug: 2026-05-08-health-officials-track-dozens-after-hantavirus-outbreak-on-cruise-ship
-  headline: Health officials track dozens after hantavirus outbreak on cruise ship
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5984
+  strength: 0.7593
 ---
-
 ## Federal prosecutors charge Jason Leon Watford with homicide aboard MSC Seascape
 
 **Subtype:** fact
