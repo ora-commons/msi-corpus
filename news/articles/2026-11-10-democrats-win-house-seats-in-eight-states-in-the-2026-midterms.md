@@ -2,8 +2,22 @@
 headline: Democrats win House seats in eight states in the 2026 midterms
 secondary_headline: North Carolina's 9th district falls to a former Army major
 publish_date: '2026-11-10'
-lede: An Associated Press rundown of selected 2026 House races found Democratic wins in Colorado, Nevada, Wisconsin, Texas, Indiana, New Jersey, Iowa and North Carolina. Richard Ojeda, a former Army major, defeated Rep. Richard Hudson in North Carolina's 9th congressional district, unseating the Republican who was in charge of the National Republican Congressional Committee. Teresa Benitez-Thompson became the first Democrat to win Nevada's 2nd congressional district, and Rep. Suzan DelBene, chair of the Democratic Congressional Campaign Committee, said the party's wins reached into deep red territory.
-nut_graf: 'The selected races turned on different factors: Gutierrez said Democrats and donors would not invest their time, money or resources in her first congressional campaign in Texas'' 9th congressional district, where she beat well-financed Alex Mealer by a little over 15 points; Colorado Springs'' shift toward moderation and veterans'' unsettlement over Trump''s approach to the military and the Iran war shaped Jessica Killin''s campaign; and a debate in New Jersey''s 2nd congressional district race centered on the Iran war and tariffs. The results will leave Democrats holding every congressional seat in Nevada.'
+lede: An Associated Press rundown of selected 2026 House races found Democratic wins
+  in Colorado, Nevada, Wisconsin, Texas, Indiana, New Jersey, Iowa and North Carolina.
+  Richard Ojeda, a former Army major, defeated Rep. Richard Hudson in North Carolina's
+  9th congressional district, unseating the Republican who was in charge of the National
+  Republican Congressional Committee. Teresa Benitez-Thompson became the first Democrat
+  to win Nevada's 2nd congressional district, and Rep. Suzan DelBene, chair of the
+  Democratic Congressional Campaign Committee, said the party's wins reached into
+  deep red territory.
+nut_graf: 'The selected races turned on different factors: Gutierrez said Democrats
+  and donors would not invest their time, money or resources in her first congressional
+  campaign in Texas'' 9th congressional district, where she beat well-financed Alex
+  Mealer by a little over 15 points; Colorado Springs'' shift toward moderation and
+  veterans'' unsettlement over Trump''s approach to the military and the Iran war
+  shaped Jessica Killin''s campaign; and a debate in New Jersey''s 2nd congressional
+  district race centered on the Iran war and tariffs. The results will leave Democrats
+  holding every congressional seat in Nevada.'
 primary_entities:
 - Donald Trump
 - Richard Hudson
@@ -61,7 +75,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -163,104 +178,45 @@ related_stories:
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7456
+  strength: 0.7458
 - slug: 2026-11-05-democrats-gain-hundreds-of-state-legislative-seats-in-2026-midterms
   headline: Democrats gain hundreds of state legislative seats in 2026 midterms
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7333
+  strength: 0.7337
 - slug: 2026-11-07-underdog-democrats-win-midterm-races-with-little-money-staff-or-party-support
-  headline: Underdog Democrats win midterm races with little money, staff or party support
+  headline: Underdog Democrats win midterm races with little money, staff or party
+    support
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7003
+  strength: 0.7009
 - slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
   headline: Democrats win House and Senate in 2026 midterms
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7144
+- slug: 2026-11-04-democrats-flip-state-legislatures-and-pick-up-four-governorships-in-2026-midterm
+  headline: Democrats flip state legislatures and pick up four governorships in 2026
+    midterms
+  publish_date: '2026-11-04'
+  relation: related
+  strength: 0.7134
 - slug: 2026-11-07-midterm-wins-give-democrats-new-paths-to-270-electoral-votes-in-2028
   headline: Midterm wins give Democrats new paths to 270 electoral votes in 2028
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6932
-- slug: 2026-11-04-democrats-flip-state-legislatures-and-pick-up-four-governorships-in-2026-midterm
-  headline: Democrats flip state legislatures and pick up four governorships in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7119
+  strength: 0.6929
 - slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
   headline: Democrats gain control of Congress as 2026 voter shifts emerge
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6973
+  strength: 0.6977
 - slug: 2026-11-04-democrats-retake-congress-dnc-chairman-says-mandate-is-about-affordability
   headline: Democrats retake Congress; DNC chairman says mandate is about affordability
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7032
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7074
-- slug: 2026-11-05-democrats-link-climate-policy-to-affordability-in-2026-midterm-wins
-  headline: Democrats link climate policy to affordability in 2026 midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6865
-- slug: 2026-11-06-latino-voters-move-sharply-to-democrats-in-2026-midterms
-  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas sweep
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6769
-- slug: 2026-11-05-mike-johnson-plans-to-step-down-as-top-house-republican-after-midterms
-  headline: Mike Johnson plans to step down as top House Republican after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6827
-- slug: 2026-11-05-democrats-flip-four-north-carolina-house-seats-in-republican-drawn-districts
-  headline: Democrats flip four North Carolina House seats in Republican-drawn districts
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6788
-- slug: 2026-11-04-democrats-win-house-control-congress-for-trump-s-final-two-years
-  headline: Democrats win House, control Congress for Trump's final two years
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6827
-- slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
-  headline: Democrats win Congress and a majority of governorships on affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6768
-- slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
-  headline: Democrats win Congress after flipping seven Senate seats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6762
-- slug: 2026-11-03-voters-in-36-states-choose-governors-as-democrats-pursue-a-majority
-  headline: Voters in 36 states choose governors as Democrats pursue a majority
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6809
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6864
-- slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
-  headline: Ten midterm races outside the spotlight carry upset potential
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7015
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6905
+  strength: 0.7042
 ---
-
 ## Democrats win House seats in eight states in the 2026 midterms
 
 **Subtype:** fact

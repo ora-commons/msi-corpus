@@ -1,9 +1,18 @@
 ---
 headline: US opens Abu Dhabi talks on ending the Russia-Ukraine war
-secondary_headline: Officials describe possible Ukraine guarantees resembling NATO Article 5
+secondary_headline: Officials describe possible Ukraine guarantees resembling NATO
+  Article 5
 publish_date: '2026-11-10'
-lede: US officials opened trilateral negotiations with Russia and Ukraine in Abu Dhabi on Tuesday, saying the talks would pursue a “final end” to the war. The first substantive Russia-Ukraine negotiations since February also focus on a proposed “long-term security architecture between Russia and Europe,” including possible security guarantees for Ukraine similar to NATO’s Article 5.
-nut_graf: US officials have linked the search for an end to the war with a broader proposal for a “long-term security architecture between Russia and Europe.” The proposal could include reviving the suspended NATO-Russia Council and lifting sanctions against Russia, while possible security guarantees for Ukraine could resemble NATO’s Article 5; the proposal’s content remains unclear.
+lede: US officials opened trilateral negotiations with Russia and Ukraine in Abu Dhabi
+  on Tuesday, saying the talks would pursue a “final end” to the war. The first substantive
+  Russia-Ukraine negotiations since February also focus on a proposed “long-term security
+  architecture between Russia and Europe,” including possible security guarantees
+  for Ukraine similar to NATO’s Article 5.
+nut_graf: US officials have linked the search for an end to the war with a broader
+  proposal for a “long-term security architecture between Russia and Europe.” The
+  proposal could include reviving the suspended NATO-Russia Council and lifting sanctions
+  against Russia, while possible security guarantees for Ukraine could resemble NATO’s
+  Article 5; the proposal’s content remains unclear.
 primary_entities:
 - United States
 - Russia
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,26 +152,26 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-08-kremlin-counts-on-trump-for-ukraine-peace-efforts-as-beijing-stays-measured
+  headline: Kremlin counts on Trump for Ukraine peace efforts as Beijing stays measured
+  publish_date: '2026-11-08'
+  relation: related
+  strength: 0.6785
 - slug: 2026-11-02-united-states-links-russian-gas-plan-via-ukraine-to-energy-ceasefire
   headline: United States links Russian gas plan via Ukraine to energy ceasefire
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7099
+  strength: 0.711
 - slug: 2026-11-04-european-commission-to-convene-ukraine-support-talks-in-brussels
   headline: European Commission to convene Ukraine support talks in Brussels
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6881
-- slug: 2026-11-05-trump-says-russia-and-ukraine-are-close-to-a-deal-after-meeting-putin-s-envoy
-  headline: Trump says Russia and Ukraine are close to a deal after meeting Putin's envoy
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6774
+  strength: 0.6888
 - slug: 2026-10-27-stubb-and-st-re-call-putin-before-planned-abu-dhabi-talks
   headline: Stubb and Støre call Putin before planned Abu Dhabi talks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6961
+  strength: 0.6959
 - slug: 2026-10-21-russia-says-trilateral-ukraine-peace-talks-could-resume-after-nov-10
   headline: Russia says trilateral Ukraine peace talks could resume after Nov. 10
   publish_date: '2026-10-21'
@@ -171,88 +181,31 @@ related_stories:
   headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.6951
+  strength: 0.6957
 - slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
   headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6823
+  strength: 0.6836
 - slug: 2026-10-15-ex-uk-envoy-says-russia-has-no-interest-in-ending-ukraine-war
   headline: Ex-UK envoy says Russia has 'no interest' in ending Ukraine war
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6834
-- slug: 2026-02-05-russia-and-ukraine-envoys-meet-in-abu-dhabi-for-us-brokered-talks
-  headline: Russia and Ukraine envoys meet in Abu Dhabi for US-brokered talks
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.8021
-- slug: 2026-02-03-us-brokered-russia-ukraine-talks-to-resume-this-week-in-abu-dhabi
-  headline: US-brokered Russia-Ukraine talks to resume this week in Abu Dhabi
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7814
-- slug: 2026-01-25-zelenskyy-says-us-security-agreement-for-ukraine-is-ready-to-sign
-  headline: Zelenskyy says US security agreement for Ukraine is ready to sign
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.76
-- slug: 2026-07-24-rubio-says-no-quick-path-to-ukraine-deal-in-new-bid-to-restart-talks
-  headline: Rubio says no quick path to Ukraine deal in new bid to restart talks
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6806
-- slug: 2026-02-05-us-and-russia-agree-to-reestablish-high-level-military-dialogue
-  headline: US and Russia agree to reestablish high-level military dialogue
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7446
-- slug: 2026-02-08-zelenskyy-says-u-s-set-june-deadline-for-ukraine-russia-war-deal
-  headline: Zelenskyy says U.S. set June deadline for Ukraine-Russia war deal
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7221
-- slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
-  headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.688
-- slug: 2026-03-14-zelenskyy-ready-for-peace-talks-but-says-us-and-russia-must-act
-  headline: Zelenskyy ready for peace talks but says US and Russia must act
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7011
-- slug: 2026-02-25-u-s-raises-concerns-after-ukraine-strikes-hit-russian-port-envoy-says
-  headline: U.S. raises concerns after Ukraine strikes hit Russian port, envoy says
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6991
-- slug: 2025-12-29-trump-hosts-zelenskyy-at-florida-resort-says-peace-talks-near-agreement
-  headline: Trump hosts Zelenskyy at Florida resort, says peace talks near agreement
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6992
-- slug: 2026-05-10-u-s--brokered-ceasefire-halts-fighting-as-russia-readies-victory-day-in-moscow
-  headline: U.S.-brokered ceasefire halts fighting as Russia readies Victory Day in Moscow
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6796
-- slug: 2026-02-06-russia-says-it-regrets-new-start-expiration-trump-seeks-new-pact-with-china
-  headline: Russia says it regrets New START expiration; Trump seeks new pact with China
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6944
+  strength: 0.6839
 image:
   url: /articles/2026-11-10-us-opens-abu-dhabi-talks-on-ending-the-russia-ukraine-war.png
-  alt: "Illustration accompanying article: US opens Abu Dhabi talks on ending the Russia-Ukraine war"
+  alt: 'Illustration accompanying article: US opens Abu Dhabi talks on ending the
+    Russia-Ukraine war'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## US opens Abu Dhabi talks on ending the Russia-Ukraine war
 
 **Subtype:** fact
