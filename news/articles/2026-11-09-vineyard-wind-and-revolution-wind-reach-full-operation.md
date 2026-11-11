@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-01-30'
   relation: related
   strength: 0.7171
+analyses:
+- '2026-11-09-offshore-wind-farms-operate-without-a-completed-operating-year-record'
 ---
 ## Vineyard Wind and Revolution Wind reach full operation
 
@@ -250,3 +252,8 @@ Stewart said it would take months or years to determine how efficient the wind f
 **Publication date:** 2026-11-09
 **Title:** Despite headwinds, Vineyard Wind, Revolution Wind come fully online
 **URL:** https://apnews.com/article/offshore-wind-farms-fully-operational-f017470acce03034887e7d95ddbfad74
+
+---
+
+<!-- analysis-link:2026-11-09-offshore-wind-farms-operate-without-a-completed-operating-year-record -->
+**Going deeper:** [Read MSI's analysis of offshore wind’s first operating year →](/analyses/2026-11-09-offshore-wind-farms-operate-without-a-completed-operating-year-record)

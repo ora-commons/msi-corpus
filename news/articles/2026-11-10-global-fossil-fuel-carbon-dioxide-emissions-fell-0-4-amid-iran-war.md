@@ -2,8 +2,17 @@
 headline: Global fossil-fuel carbon dioxide emissions fell 0.4% amid Iran war
 secondary_headline: Land-use increases drove total global carbon dioxide up 1%
 publish_date: '2026-11-10'
-lede: Global fossil-fuel carbon dioxide emissions fell 0.4% from 2025, according to the Global Carbon Project, as the Iran war disrupted oil markets and effectively closed the Strait of Hormuz. The project estimated 42.2 billion tons (38.2 billion metric tons) of fossil-fuel carbon dioxide in 2026, even as land-use changes pushed overall global carbon dioxide emissions up 1%.
-nut_graf: The study attributes the small reduction in fossil-fuel carbon dioxide emissions largely to the Iran war rather than to broader climate action. Glen Peters said the two earlier 21st-century drops were caused by the 2009 global recession and the 2020 COVID-19 pandemic; during recoveries from those shocks, he said, the world seemed to return to where it had been before. Outside experts expressed both hope and skepticism about whether the latest shifts would last.
+lede: Global fossil-fuel carbon dioxide emissions fell 0.4% from 2025, according to
+  the Global Carbon Project, as the Iran war disrupted oil markets and effectively
+  closed the Strait of Hormuz. The project estimated 42.2 billion tons (38.2 billion
+  metric tons) of fossil-fuel carbon dioxide in 2026, even as land-use changes pushed
+  overall global carbon dioxide emissions up 1%.
+nut_graf: The study attributes the small reduction in fossil-fuel carbon dioxide emissions
+  largely to the Iran war rather than to broader climate action. Glen Peters said
+  the two earlier 21st-century drops were caused by the 2009 global recession and
+  the 2020 COVID-19 pandemic; during recoveries from those shocks, he said, the world
+  seemed to return to where it had been before. Outside experts expressed both hope
+  and skepticism about whether the latest shifts would last.
 primary_entities:
 - Global Carbon Project
 - Glen Peters
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,116 +158,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-10-global-fossil-fuel-carbon-dioxide-emissions-fell-0-4-amid-iran-war.png
-  alt: 'Illustration accompanying article: Global fossil-fuel carbon dioxide emissions fell 0.4% amid Iran war'
+  alt: 'Illustration accompanying article: Global fossil-fuel carbon dioxide emissions
+    fell 0.4% amid Iran war'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-01-iran-war-cuts-global-emissions-spurs-clean-energy-shift
   headline: Iran war cuts global emissions, spurs clean energy shift
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.8019
+  strength: 0.8015
 - slug: 2026-03-21-iran-war-energy-crisis-is-a-renewable-energy-wake-up-call
   headline: Iran war energy crisis is a renewable energy wake-up call
   publish_date: '2026-03-21'
   relation: related
-  strength: 0.7585
+  strength: 0.7581
 - slug: 2026-03-24-asia-turns-to-coal-as-iran-war-squeezes-global-lng-supplies
   headline: Asia turns to coal as Iran war squeezes global LNG supplies
   publish_date: '2026-03-24'
   relation: related
-  strength: 0.7363
+  strength: 0.7356
 - slug: 2026-06-03-oecd-warns-prolonged-hormuz-energy-shock-could-slam-global-growth-jobs-and-price
-  headline: OECD warns prolonged Hormuz energy shock could slam global growth, jobs and prices
+  headline: OECD warns prolonged Hormuz energy shock could slam global growth, jobs
+    and prices
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.7019
+  strength: 0.7012
 - slug: 2026-03-05-iran-war-disrupts-oil-and-gas-flows-raising-energy-shock-fears-in-asia
   headline: Iran war disrupts oil and gas flows, raising energy shock fears in Asia
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.723
+  strength: 0.7225
 - slug: 2026-07-15-imf-warns-global-oil-buffers-near-depletion-as-hormuz-hostilities-resume
   headline: IMF warns global oil buffers near depletion as Hormuz hostilities resume
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6627
+  strength: 0.6625
 - slug: 2026-03-10-iran-war-squeezes-global-economy-as-strait-of-hormuz-closure-cuts-oil-supply
-  headline: Iran war squeezes global economy as Strait of Hormuz closure cuts oil supply
+  headline: Iran war squeezes global economy as Strait of Hormuz closure cuts oil
+    supply
   publish_date: '2026-03-10'
   relation: related
-  strength: 0.7004
-- slug: 2026-06-11-opec-cuts-2026-oil-demand-growth-forecast-as-u-s-blockade-curbs-iran-output
-  headline: OPEC cuts 2026 oil-demand growth forecast as U.S. blockade curbs Iran output
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6717
+  strength: 0.6995
 - slug: 2026-06-17-global-economy-weathered-hormuz-closure-with-limited-damage-analysis-finds
-  headline: Global economy weathered Hormuz closure with limited damage, analysis finds
+  headline: Global economy weathered Hormuz closure with limited damage, analysis
+    finds
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6668
-- slug: 2026-06-17-iea-oil-demand-to-fall-1-1-million-barrels-a-day-this-year-supply-rebound-seen-i
-  headline: 'IEA: Oil demand to fall 1.1 million barrels a day this year; supply rebound seen in 2027'
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6665
-- slug: 2026-03-31-global-economic-optimism-dims-as-iran-war-drags-on-and-spreads-costs
-  headline: Global economic optimism dims as Iran war drags on and spreads costs
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6901
-- slug: 2026-05-16-iran-war-fuel-disruption-pushes-india-southeast-asia-toward-biofuel-blends
-  headline: Iran war fuel disruption pushes India, Southeast Asia toward biofuel blends
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.678
-- slug: 2026-03-21-iran-war-underscores-risks-of-trump-s-focus-on-oil-and-fossil-fuels
-  headline: Iran war underscores risks of Trump’s focus on oil and fossil fuels
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6914
-- slug: 2026-04-14-china-gains-from-iran-war-as-global-energy-interest-turns-away-from-fossil-fuels
-  headline: China gains from Iran war as global energy interest turns away from fossil fuels
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6839
-- slug: 2026-03-10-iran-war-threatens-persian-gulf-oil-and-gas-links-from-lng-to-refineries
-  headline: Iran war threatens Persian Gulf oil and gas links from LNG to refineries
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.687
-- slug: 2026-05-10-asia-braces-for-a-second-wave-of-energy-shocks-as-iran-war-drags-on
-  headline: Asia braces for a second wave of energy shocks as Iran war drags on
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6727
-- slug: 2026-05-10-iran-war-drains-asia-s-energy-buffers-as-economic-shock-spreads
-  headline: Iran war drains Asia’s energy buffers as economic shock spreads
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6721
-- slug: 2026-05-16-iran-war-energy-shock-raises-asia-s-interest-in-fuel-blending
-  headline: Iran war energy shock raises Asia's interest in fuel blending
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6686
-- slug: 2026-04-28-energy-shocks-from-the-iran-war-ripple-to-forests-and-conservation-work
-  headline: Energy shocks from the Iran war ripple to forests and conservation work
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6727
-- slug: 2026-03-20-asia-rattled-as-iran-war-disrupts-oil-and-gas-supplies-through-hormuz
-  headline: Asia rattled as Iran war disrupts oil and gas supplies through Hormuz
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6764
+  strength: 0.6675
 ---
-
 ## Global fossil-fuel carbon dioxide emissions fell 0.4% amid Iran war
 
 **Subtype:** fact
