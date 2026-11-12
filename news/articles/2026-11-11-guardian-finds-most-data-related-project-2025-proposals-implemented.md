@@ -2,8 +2,18 @@
 headline: Guardian finds most data-related Project 2025 proposals implemented
 secondary_headline: Hundreds of datasets and thousands of government webpages changed
 publish_date: '2026-11-11'
-lede: A Guardian analysis published November 11, 2026, found that the Trump administration had implemented most of nearly 100 Project 2025 proposals to distort government data, research and guidance. Amy Qin and Flávio Pessoa reported that hundreds of federal datasets had been terminated or altered and thousands of government webpages had been revised or removed. The analysis used news reports, executive orders, and regulatory and agency documents to determine whether each recommendation had been implemented, was in progress or had not yet been implemented.
-nut_graf: Experts said Project 2025 could serve as a diagnostic tool for congressional oversight after Democrats regained control of the House and Senate in last week's midterm elections. The Guardian's comparison could help lawmakers trace changes to federal information resources and identify gaps in data protection; the White House and Heritage Foundation did not respond to comment requests.
+lede: A Guardian analysis published November 11, 2026, found that the Trump administration
+  had implemented most of nearly 100 Project 2025 proposals to distort government
+  data, research and guidance. Amy Qin and Flávio Pessoa reported that hundreds of
+  federal datasets had been terminated or altered and thousands of government webpages
+  had been revised or removed. The analysis used news reports, executive orders, and
+  regulatory and agency documents to determine whether each recommendation had been
+  implemented, was in progress or had not yet been implemented.
+nut_graf: Experts said Project 2025 could serve as a diagnostic tool for congressional
+  oversight after Democrats regained control of the House and Senate in last week's
+  midterm elections. The Guardian's comparison could help lawmakers trace changes
+  to federal information resources and identify gaps in data protection; the White
+  House and Heritage Foundation did not respond to comment requests.
 primary_entities:
 - The Guardian
 - Donald Trump
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,116 +149,51 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-11-guardian-finds-most-data-related-project-2025-proposals-implemented.png
-  alt: 'Illustration accompanying article: Guardian finds most data-related Project 2025 proposals implemented'
+  alt: 'Illustration accompanying article: Guardian finds most data-related Project
+    2025 proposals implemented'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-07-reports-trump-administration-weighs-four-underwater-datacenters-off-maine-alaska
-  headline: 'Reports: Trump administration weighs four underwater datacenters off Maine, Alaska'
+  headline: 'Reports: Trump administration weighs four underwater datacenters off
+    Maine, Alaska'
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6609
-- slug: 2026-11-08-federal-records-identify-almost-200-proposed-or-in-the-works-pipeline-projects
-  headline: Federal records identify almost 200 proposed or in-the-works pipeline projects
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6466
+  strength: 0.6629
 - slug: 2026-11-05-nrdc-report-alleges-trump-administration-has-weakened-carcinogen-safeguards
   headline: NRDC report alleges Trump administration has weakened carcinogen safeguards
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6519
-- slug: 2026-10-20-associated-press-norc-survey-finds-26-approve-trump-s-economy-handling
-  headline: Associated Press-NORC survey finds 26% approve Trump’s economy handling
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6307
-- slug: 2026-10-13-trump-administration-removes-750-000-from-aca-marketplaces
-  headline: Trump administration removes 750,000 from ACA marketplaces
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.643
-- slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
-  headline: Data center backlash forces bipartisan repositioning ahead of US midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6301
-- slug: 2026-09-29-trump-administration-launches-america-gov-ai-portal-for-federal-services
-  headline: Trump administration launches America.gov AI portal for federal services
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6348
+  strength: 0.6557
 - slug: 2026-09-16-trump-administration-cut-or-froze-177bn-in-federal-grants-tracker-finds
   headline: Trump administration cut or froze $177bn in federal grants, tracker finds
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6525
+  strength: 0.6535
 - slug: 2026-08-18-data-tracker-finds-366-federal-datasets-deleted-or-altered-under-trump
   headline: Data tracker finds 366 federal datasets deleted or altered under Trump
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.7143
-- slug: 2026-09-16-critics-call-doge-cuts-case-study-in-mismanagement-after-gao-paid-leave-report
-  headline: Critics call DOGE cuts 'case study in mismanagement' after GAO paid-leave report
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6424
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6397
-- slug: 2026-09-03-trump-administration-misses-citizenship-list-deadline-as-epic-files-motion
-  headline: Trump administration misses citizenship list deadline as EPIC files motion
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6304
+  strength: 0.718
 - slug: 2026-08-07-trump-administration-targets-us-science-and-universities-with-political-controls
-  headline: Trump administration targets US science and universities with political controls
+  headline: Trump administration targets US science and universities with political
+    controls
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6505
+  strength: 0.6528
 - slug: 2026-07-15-doe-deletes-over-1-600-energy-saving-webpages-as-heatwave-grips-us
   headline: DOE deletes over 1,600 energy-saving webpages as heatwave grips US
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6753
-- slug: 2026-08-07-white-house-keeps-ai-safety-testing-framework-details-private
-  headline: White House keeps AI safety-testing framework details private
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6366
-- slug: 2026-07-24-trump-administration-admits-canceling-clean-energy-grants-based-on-political-cri
-  headline: Trump administration admits canceling clean energy grants based on political criteria
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6465
-- slug: 2026-07-21-agencies-admit-keyword-screening-terminated-2b-in-uc-grants
-  headline: Agencies admit keyword screening terminated $2B in UC grants
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6348
-- slug: 2026-07-21-white-house-shifts-research-funding-to-individual-scientists-and-ai
-  headline: White House shifts research funding to individual scientists and AI
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6348
-- slug: 2026-07-12-scholars-say-trump-withholding-anti-terror-funds-from-states-over-voting-rules
-  headline: Scholars say Trump withholding anti-terror funds from states over voting rules
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6423
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6298
+  strength: 0.6773
 ---
-
 ## Guardian finds most data-related Project 2025 proposals implemented
 
 **Subtype:** fact
