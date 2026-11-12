@@ -213,6 +213,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-10-epstein-report-and-doj-response-expose-an-oversight-loop-that-resets-with-house-'
 ---
 ## Epstein survivor says House report gives her hope, urges DOJ to keep investigating
 
@@ -252,3 +254,8 @@ The midterms changed control of the House, and Democrats are set to lead the Ove
 **Publication date:** 2026-11-10
 **Title:** House GOP faults the federal government for failing to hold Epstein accountable
 **URL:** https://www.npr.org/2026/11/10/nx-s1-6035872/house-gop-faults-the-federal-government-for-failing-to-hold-epstein-accountable
+
+---
+
+<!-- analysis-link:2026-11-10-epstein-report-and-doj-response-expose-an-oversight-loop-that-resets-with-house- -->
+**Going deeper:** [Read MSI's analysis of the Epstein oversight accountability loop →](/analyses/2026-11-10-epstein-report-and-doj-response-expose-an-oversight-loop-that-resets-with-house-)
