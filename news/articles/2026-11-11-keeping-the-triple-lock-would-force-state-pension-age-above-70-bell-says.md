@@ -1,9 +1,21 @@
 ---
 headline: Keeping the triple lock would force state pension age above 70, Bell says
-secondary_headline: Government estimates put unreformed triple lock costs at £50bn by 2050
+secondary_headline: Government estimates put unreformed triple lock costs at £50bn
+  by 2050
 publish_date: '2026-11-11'
-lede: Treasury pensions minister Torsten Bell said a Conservative government would have to raise the state pension age above 70 if it kept the triple lock on the state pension. Bell said the cost of leaving the triple lock unreformed would reach £50bn by 2050, according to government estimates, and argued that a Conservative government would repeat the approach the party took in the 2010s and speed up planned increases to the pension age. The Conservatives have attacked the reform and said they would stick with the guarantee.
-nut_graf: The dispute is over who pays for the state pension guarantee. Labour has announced a reform that ties future increases to funding for Andy Burnham's national care service; the Conservatives say they will keep the triple lock. Bell's answer to the question of how a Conservative government would pay for that is faster increases in the state pension age, which moves the argument from indexation to when people reach eligibility.
+lede: Treasury pensions minister Torsten Bell said a Conservative government would
+  have to raise the state pension age above 70 if it kept the triple lock on the state
+  pension. Bell said the cost of leaving the triple lock unreformed would reach £50bn
+  by 2050, according to government estimates, and argued that a Conservative government
+  would repeat the approach the party took in the 2010s and speed up planned increases
+  to the pension age. The Conservatives have attacked the reform and said they would
+  stick with the guarantee.
+nut_graf: The dispute is over who pays for the state pension guarantee. Labour has
+  announced a reform that ties future increases to funding for Andy Burnham's national
+  care service; the Conservatives say they will keep the triple lock. Bell's answer
+  to the question of how a Conservative government would pay for that is faster increases
+  in the state pension age, which moves the argument from indexation to when people
+  reach eligibility.
 primary_entities:
 - Torsten Bell
 - Kemi Badenoch
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -62,7 +75,11 @@ figures:
   series_id: FRBATLWGT3MMAUMHWGO
   transformation: raw
   as_of: '2026-11-11'
-  caption: The Atlanta Fed's Wage Growth Tracker, a three-month moving average of U.S. median wage growth for continuously employed workers, stood at 3.9% as of 11 November 2026. Earnings growth is the leg of the triple lock that decides when the state pension can rise with pay, though this series measures U.S. median pay rather than UK earnings.
+  caption: The Atlanta Fed's Wage Growth Tracker, a three-month moving average of
+    U.S. median wage growth for continuously employed workers, stood at 3.9% as of
+    11 November 2026. Earnings growth is the leg of the triple lock that decides when
+    the state pension can rise with pay, though this series measures U.S. median pay
+    rather than UK earnings.
 figures_aggregate:
   count: 1
   series_ids:
@@ -156,104 +173,39 @@ related_stories:
   headline: UK basic state pension trails wealthy countries, OECD analysis shows
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7618
+  strength: 0.7614
 - slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.8039
-- slug: 2026-10-22-five-social-security-proposals-to-narrow-the-29-3-trillion-gap
-  headline: Five Social Security proposals to narrow the $29.3 trillion gap
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6491
-- slug: 2026-10-20-daisy-cooper-urges-windfall-tax-on-banks-as-badenoch-rejects-one
-  headline: Daisy Cooper urges windfall tax on banks as Badenoch rejects one
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6349
-- slug: 2026-10-14-greens-coalition-block-australian-bill-cutting-over-65s-health-rebate
-  headline: Greens, Coalition block Australian bill cutting over-65s health rebate
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6234
-- slug: 2026-10-14-pew-61-of-americans-see-too-much-economic-inequality-with-partisan-divide
-  headline: 'Pew: 61% of Americans see too much economic inequality, with partisan divide'
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6099
+  strength: 0.8038
 - slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
   headline: Burnham to outline social care and public control plans at Labour conference
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6624
-- slug: 2026-10-11-treasury-yield-hits-quarter-century-high-as-trump-bets-on-ai-growth
-  headline: Treasury yield hits quarter-century high as Trump bets on AI growth
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6146
+  strength: 0.6622
 - slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
   headline: Burnham backs universal English social care reform
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6631
+  strength: 0.6626
 - slug: 2026-09-23-reform-linked-founder-calls-state-pension-essentially-a-ponzi-scheme
   headline: Reform-linked founder calls state pension 'essentially a Ponzi scheme'
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6681
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6219
-- slug: 2026-10-01-jersey-pension-rises-4-7-to-16-294-a-year
-  headline: Jersey pension rises 4.7% to £16,294 a year
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6115
+  strength: 0.6678
 - slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
   headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6698
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6123
-- slug: 2026-09-22-three-women-in-their-20s-describe-life-without-bank-of-mum-and-dad
-  headline: Three women in their 20s describe life without 'Bank of Mum and Dad
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6108
+  strength: 0.6692
 - slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
+  headline: UK chancellor John Healey tells Financial Times October 28 budget will
+    be tough
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6542
-- slug: 2026-09-14-lord-blunkett-calls-uk-farm-inheritance-tax-a-mistake-to-pm-burnham
-  headline: Lord Blunkett calls UK farm inheritance tax a mistake to PM Burnham
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6175
-- slug: 2026-09-03-reform-uk-sets-out-80bn-in-public-spending-cuts
-  headline: Reform UK sets out £80bn in public spending cuts
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6367
-- slug: 2026-09-03-badenoch-sets-out-conservative-plan-to-hit-3-defence-spending-by-2030
-  headline: Badenoch sets out Conservative plan to hit 3% defence spending by 2030
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6226
-- slug: 2026-08-30-congress-weighs-bipartisan-social-security-fixes-ahead-of-2032-deadline
-  headline: Congress weighs bipartisan Social Security fixes ahead of 2032 deadline
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6264
+  strength: 0.6537
 ---
-
 ## Keeping the triple lock would force state pension age above 70, Bell says
 
 **Subtype:** fact

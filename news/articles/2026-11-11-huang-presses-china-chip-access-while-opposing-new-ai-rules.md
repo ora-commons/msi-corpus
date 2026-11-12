@@ -2,8 +2,24 @@
 headline: Huang presses China chip access while opposing new AI rules
 secondary_headline: Higgins says scandal may test whether AI boom needs Huang
 publish_date: '2026-11-11'
-lede: Nvidia CEO Jensen Huang spent recent months opposing calls for new AI regulations that accelerationists say could slow development, rallying the industry against efforts to restrict open-source AI while pressing to keep selling Nvidia chips in China. He posted on X in July that “The world needs both frontier closed models and frontier open models,” told Bloomberg News in an interview recorded last month and released this week that “I think we made a mistake and this mistake is hard to unwind” after pressing to allow Nvidia chips to be sold in China and for the U.S. to reverse certain export restrictions, and said in September that “Safety is an engineering problem.” The Wall Street Journal reported that Nvidia’s board is investigating Huang’s conduct after he admitted an extramarital affair with a Megaspeed International executive suspected of spying for China, a case that has also drawn a congressional request for his testimony and a two-day share slide.
-nut_graf: The Wall Street Journal’s Tim Higgins writes that Huang’s judgment was an underpinning of the AI boom and that one of the biggest questions is whether the scandal will pop what many see as an overzealous AI investment bubble, a trigger that could ripple through the 401(k)s and pension plans of many Americans. Higgins also writes that the episode might be a good test of whether AI is a real revolution of industry or a bubble pumped up by a “hype man in a leather jacket.”
+lede: Nvidia CEO Jensen Huang spent recent months opposing calls for new AI regulations
+  that accelerationists say could slow development, rallying the industry against
+  efforts to restrict open-source AI while pressing to keep selling Nvidia chips in
+  China. He posted on X in July that “The world needs both frontier closed models
+  and frontier open models,” told Bloomberg News in an interview recorded last month
+  and released this week that “I think we made a mistake and this mistake is hard
+  to unwind” after pressing to allow Nvidia chips to be sold in China and for the
+  U.S. to reverse certain export restrictions, and said in September that “Safety
+  is an engineering problem.” The Wall Street Journal reported that Nvidia’s board
+  is investigating Huang’s conduct after he admitted an extramarital affair with a
+  Megaspeed International executive suspected of spying for China, a case that has
+  also drawn a congressional request for his testimony and a two-day share slide.
+nut_graf: The Wall Street Journal’s Tim Higgins writes that Huang’s judgment was an
+  underpinning of the AI boom and that one of the biggest questions is whether the
+  scandal will pop what many see as an overzealous AI investment bubble, a trigger
+  that could ripple through the 401(k)s and pension plans of many Americans. Higgins
+  also writes that the episode might be a good test of whether AI is a real revolution
+  of industry or a bubble pumped up by a “hype man in a leather jacket.”
 primary_entities:
 - Jensen Huang
 - Nvidia
@@ -46,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,107 +162,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
+  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip
+    controls
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8079
+  strength: 0.8075
 - slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
   headline: Nvidia investigates reports of spying targeting Jensen Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8068
+  strength: 0.8061
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8016
+  strength: 0.8009
 - slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
   headline: Nvidia board investigates CEO Jensen Huang as shares tumble
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7854
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7868
+  strength: 0.7846
 - slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
   headline: Nvidia faces scrutiny over alleged spying that targeted Huang
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7729
+  strength: 0.7725
+- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
+  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
+  publish_date: '2026-11-08'
+  relation: related
+  strength: 0.7861
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7771
+  strength: 0.7767
 - slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
   headline: Nvidia inquiry draws top Republican demands for answers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7696
-- slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
-  headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7683
-- slug: 2026-11-09-trump-says-he-learned-of-alice-huang-spy-concerns-not-too-long-ago
-  headline: Trump says he learned of Alice Huang spy concerns 'not too long ago'
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7674
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7667
-- slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7653
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7708
-- slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
-  headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7628
-- slug: 2026-11-10-investor-sues-nvidia-over-alleged-deception-on-ceo-affair-and-megaspeed
-  headline: Investor sues Nvidia over alleged deception on CEO affair and Megaspeed
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7532
-- slug: 2026-11-10-people-familiar-say-justice-department-takes-megaspeed-probe-after-nvidia-outrea
-  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia outreach
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7504
-- slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
-  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7557
-- slug: 2026-11-10-nvidia-has-no-succession-plan-as-huang-s-future-rests-with-its-board
-  headline: Nvidia has no succession plan as Huang's future rests with its board
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7426
-- slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
-  headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7518
-- slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7518
+  strength: 0.7694
 ---
-
 ## Huang presses China chip access while opposing new AI rules
 
 **Subtype:** fact
