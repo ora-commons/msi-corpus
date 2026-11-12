@@ -2,14 +2,8 @@
 headline: Pete Hegseth rejects Massie’s impeachment bid as a political spectacle
 secondary_headline: Thomas Massie introduced eight articles against Hegseth on Monday
 publish_date: '2026-11-10'
-lede: Pete Hegseth dismissed Republican lawmaker Thomas Massie’s effort to impeach
-  him as a “political spectacle” at a press conference in Washington on November 10.
-  Massie had introduced eight articles of impeachment against the defense secretary
-  on Monday and accused Hegseth of illegally waging war without congressional authorization
-  and abusing his powers.
-nut_graf: The dispute turns on Massie’s allegation that Hegseth waged war without
-  congressional authorization and abused his powers. Hegseth rejected the challenge
-  as a political stunt and said the effort endangered American warriors.
+lede: Pete Hegseth dismissed Republican lawmaker Thomas Massie’s effort to impeach him as a “political spectacle” at a press conference in Washington on November 10. Massie had introduced eight articles of impeachment against the defense secretary on Monday and accused Hegseth of illegally waging war without congressional authorization and abusing his powers.
+nut_graf: The dispute turns on Massie’s allegation that Hegseth waged war without congressional authorization and abused his powers. Hegseth rejected the challenge as a political stunt and said the effort endangered American warriors.
 primary_entities:
 - Pete Hegseth
 - Thomas Massie
@@ -44,8 +38,7 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent
-  from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,17 +137,13 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-10-pete-hegseth-rejects-massie-s-impeachment-bid-as-a-political-spectacle.png
-  alt: 'Illustration accompanying article: Pete Hegseth rejects Massie’s impeachment
-    bid as a political spectacle'
+  alt: 'Illustration accompanying article: Pete Hegseth rejects Massie’s impeachment bid as a political spectacle'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in
-    metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
-    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
-    frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-09-massie-introduces-eight-articles-of-impeachment-against-hegseth
   headline: Massie introduces eight articles of impeachment against Hegseth
@@ -171,6 +160,16 @@ related_stories:
   publish_date: '2026-11-09'
   relation: related
   strength: 0.7805
+- slug: 2026-11-10-hegseth-ends-months-long-press-silence-with-25-minute-impeachment-defense
+  headline: Hegseth ends months-long press silence with 25-minute impeachment defense
+  publish_date: '2026-11-10'
+  relation: related
+  strength: 0.7656
+- slug: 2026-11-10-pete-hegseth-defends-iran-war-as-lawmakers-consider-his-impeachment
+  headline: Pete Hegseth defends Iran war as lawmakers consider his impeachment
+  publish_date: '2026-11-10'
+  relation: related
+  strength: 0.7645
 - slug: 2026-11-07-hegseth-vows-to-stay-as-democrats-and-some-republicans-seek-his-removal
   headline: Hegseth vows to stay as Democrats and some Republicans seek his removal
   publish_date: '2026-11-07'
@@ -196,6 +195,56 @@ related_stories:
   publish_date: '2026-11-08'
   relation: related
   strength: 0.7063
+- slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
+  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
+  publish_date: '2026-11-06'
+  relation: related
+  strength: 0.7077
+- slug: 2026-11-09-pete-hegseth-will-brief-reporters-on-expected-iran-war-impeachment-resolution
+  headline: Pete Hegseth will brief reporters on expected Iran war impeachment resolution
+  publish_date: '2026-11-09'
+  relation: related
+  strength: 0.6871
+- slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
+  headline: Republican close says Pete Hegseth should take responsibility for Iran war
+  publish_date: '2026-11-08'
+  relation: related
+  strength: 0.6835
+- slug: 2026-11-10-republicans-53-47-senate-majority-faces-possible-shift-to-44-seats
+  headline: Republicans' 53-47 Senate majority faces possible shift to 44 seats
+  publish_date: '2026-11-10'
+  relation: related
+  strength: 0.6671
+- slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
+  headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
+  publish_date: '2026-10-23'
+  relation: related
+  strength: 0.7453
+- slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
+  headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
+  publish_date: '2026-11-06'
+  relation: related
+  strength: 0.6603
+- slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
+  headline: House could vote to impeach Hegseth when lawmakers return to Washington
+  publish_date: '2026-11-05'
+  relation: related
+  strength: 0.6607
+- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
+  headline: Massie files articles of impeachment against Hegseth over Iran war
+  publish_date: '2026-09-15'
+  relation: related
+  strength: 0.7912
+- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
+  headline: Massie moves to impeach Hegseth over Iran war
+  publish_date: '2026-09-15'
+  relation: related
+  strength: 0.7848
+- slug: 2026-05-19-hegseth-targets-massie-in-kentucky-primary-calling-trump-critic-desperate
+  headline: Hegseth targets Massie in Kentucky primary, calling Trump critic ‘desperate’
+  publish_date: '2026-05-19'
+  relation: related
+  strength: 0.7551
 ---
 ## Pete Hegseth rejects Massie’s impeachment bid as a political spectacle
 

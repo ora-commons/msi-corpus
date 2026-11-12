@@ -1,9 +1,21 @@
 ---
 headline: House Oversight report faults DOJ over mishandling Epstein records
-secondary_headline: The release exposed victim identities and obscured alleged conspirators' names
+secondary_headline: The release exposed victim identities and obscured alleged conspirators'
+  names
 publish_date: '2026-11-10'
-lede: A Republican-led House Oversight Committee released a 137-page report on Tuesday faulting the Trump administration and Justice Department for mishandling the public release of millions of pages of Epstein records. The committee said DOJ missed disclosure deadlines, failed to adequately protect victims through deficient redactions and also said some overinclusive redactions concealed names of alleged co-conspirators. The report also revisited a federal investigation from nearly two decades ago and Epstein's 18-month state sentence, which permitted work release for up to 12 hours a day.
-nut_graf: The report follows the Nov. 3 midterm elections, in which Epstein records became a recurring campaign issue and Republicans suffered heavy House losses. Its findings concern missed disclosure deadlines, redactions that exposed identifying details about some survivors and other redactions that hid names, while the Justice Department said the underlying criminal investigation remains open.
+lede: A Republican-led House Oversight Committee released a 137-page report on Tuesday
+  faulting the Trump administration and Justice Department for mishandling the public
+  release of millions of pages of Epstein records. The committee said DOJ missed disclosure
+  deadlines, failed to adequately protect victims through deficient redactions and
+  also said some overinclusive redactions concealed names of alleged co-conspirators.
+  The report also revisited a federal investigation from nearly two decades ago and
+  Epstein's 18-month state sentence, which permitted work release for up to 12 hours
+  a day.
+nut_graf: The report follows the Nov. 3 midterm elections, in which Epstein records
+  became a recurring campaign issue and Republicans suffered heavy House losses. Its
+  findings concern missed disclosure deadlines, redactions that exposed identifying
+  details about some survivors and other redactions that hid names, while the Justice
+  Department said the underlying criminal investigation remains open.
 primary_entities:
 - House Oversight Committee
 - U.S. Department of Justice
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +160,47 @@ related_stories:
   headline: House Republicans urge DOJ to expand Epstein investigation
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8257
+  strength: 0.8251
 - slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
+  headline: House Democrats detail probes into Trump family, Epstein files and the
+    Pentagon
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7256
+  strength: 0.7259
 - slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
   headline: House Judiciary Democrats ask Blanche to probe Epstein network
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7393
+  strength: 0.7383
 - slug: 2026-03-05-doj-releases-additional-epstein-files-including-uncorroborated-claims-about-trum
-  headline: DOJ releases additional Epstein files, including uncorroborated claims about Trump
+  headline: DOJ releases additional Epstein files, including uncorroborated claims
+    about Trump
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.811
-- slug: 2026-03-05-doj-releases-previously-withheld-epstein-files-with-uncorroborated-trump-accusat
-  headline: DOJ releases previously withheld Epstein files with uncorroborated Trump accusation
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.803
+  strength: 0.8109
 - slug: 2026-07-15-vance-says-trump-administration-absolutely-screwed-up-epstein-files-communicatio
-  headline: Vance says Trump administration 'absolutely screwed up' Epstein files communications
+  headline: Vance says Trump administration 'absolutely screwed up' Epstein files
+    communications
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7494
+  strength: 0.7495
+- slug: 2026-03-05-doj-releases-previously-withheld-epstein-files-with-uncorroborated-trump-accusat
+  headline: DOJ releases previously withheld Epstein files with uncorroborated Trump
+    accusation
+  publish_date: '2026-03-05'
+  relation: related
+  strength: 0.8027
 - slug: 2025-12-31-justice-department-reviews-5-2-million-epstein-files-misses-deadline
   headline: Justice Department reviews 5.2 million Epstein files, misses deadline
   publish_date: '2025-12-31'
   relation: related
-  strength: 0.8017
+  strength: 0.8004
 - slug: 2026-01-31-justice-department-releases-more-epstein-files-totaling-3-million-pages
   headline: Justice Department releases more Epstein files, totaling 3 million pages
   publish_date: '2026-01-31'
   relation: related
-  strength: 0.7801
-- slug: 2026-02-26-justice-department-to-review-whether-epstein-files-were-mistakenly-withheld
-  headline: Justice Department to review whether Epstein files were mistakenly withheld
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.77
-- slug: 2026-02-13-democrats-accuse-justice-department-of-spying-on-lawmakers-reviewing-epstein-fil
-  headline: Democrats accuse Justice Department of spying on lawmakers reviewing Epstein files
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7678
-- slug: 2026-02-03-doj-takes-down-epstein-files-after-redaction-failures-may-expose-victims
-  headline: DOJ takes down Epstein files after redaction failures may expose victims
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7685
-- slug: 2026-02-05-epstein-files-unredacted-in-doj-release-after-failed-privacy-redactions
-  headline: Epstein files unredacted in DOJ release after failed privacy redactions
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7571
-- slug: 2026-04-04-how-the-epstein-files-dogged-pam-bondi-s-time-as-attorney-general
-  headline: How the Epstein files dogged Pam Bondi's time as attorney general
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7426
-- slug: 2026-03-05-house-committee-votes-to-subpoena-pam-bondi-over-epstein-files
-  headline: House committee votes to subpoena Pam Bondi over Epstein files
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7432
-- slug: 2026-02-07-lawmakers-to-review-unredacted-epstein-files-at-doj-starting-monday
-  headline: Lawmakers to review unredacted Epstein files at DOJ starting Monday
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.7394
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7075
-- slug: 2026-05-07-timeline-traces-epstein-probe-and-fight-over-doj-files
-  headline: Timeline traces Epstein probe and fight over DOJ files
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.722
-- slug: 2026-02-08-doj-epstein-records-show-inadequate-privacy-redactions-ap-says
-  headline: DOJ Epstein records show inadequate privacy redactions, AP says
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7347
-- slug: 2026-03-18-pam-bondi-subpoenaed-by-congress-over-epstein-files
-  headline: Pam Bondi subpoenaed by Congress over Epstein files
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7292
-- slug: 2026-02-14-key-democrat-accuses-justice-department-of-spying-on-epstein-file-oversight
-  headline: Key Democrat accuses Justice Department of spying on Epstein-file oversight
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.7326
+  strength: 0.7789
 ---
-
 ## House Oversight report faults DOJ over mishandling Epstein records
 
 **Subtype:** fact

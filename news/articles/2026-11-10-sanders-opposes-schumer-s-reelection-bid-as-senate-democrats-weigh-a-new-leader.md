@@ -1,9 +1,17 @@
 ---
-headline: Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new leader
+headline: Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new
+  leader
 secondary_headline: Slotkin seeks a full priorities plan before backing any candidate
 publish_date: '2026-11-10'
-lede: Sen. Bernie Sanders said Tuesday at a news conference at the Capitol that he will not support Sen. Chuck Schumer for reelection as Democratic leader in the new Congress. The announcement came after Democrats won a midterm Senate majority and set up a confrontation over the party's leadership in the incoming Congress.
-nut_graf: The fight comes as Senate Democrats begin choosing a leader for their new majority, with elections for the position expected later this month. Sanders and Slotkin are calling for new-generation leadership and a vigorous debate over the party's direction, while Schumer is seeking reelection and Gillibrand is defending him.
+lede: Sen. Bernie Sanders said Tuesday at a news conference at the Capitol that he
+  will not support Sen. Chuck Schumer for reelection as Democratic leader in the new
+  Congress. The announcement came after Democrats won a midterm Senate majority and
+  set up a confrontation over the party's leadership in the incoming Congress.
+nut_graf: The fight comes as Senate Democrats begin choosing a leader for their new
+  majority, with elections for the position expected later this month. Sanders and
+  Slotkin are calling for new-generation leadership and a vigorous debate over the
+  party's direction, while Schumer is seeking reelection and Gillibrand is defending
+  him.
 primary_entities:
 - Bernie Sanders
 - Chuck Schumer
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,113 +152,60 @@ related_stories:
   headline: Incoming Democratic senators decline to back Schumer as majority leader
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8511
+  strength: 0.8513
 - slug: 2026-11-09-senate-republicans-set-leadership-vote-as-democrats-weigh-schumer-s-future
   headline: Senate Republicans set leadership vote as Democrats weigh Schumer's future
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7797
+  strength: 0.7806
 - slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
+  headline: Schumer expects re-election as Senate Democrats' leader after midterm
+    wins
   publish_date: '2026-11-05'
   relation: related
   strength: 0.7855
 - slug: 2026-11-05-schumer-vows-democrats-will-not-confirm-a-right-winger-to-the-supreme-court
-  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme Court
+  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme
+    Court
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7757
+  strength: 0.7753
 - slug: 2026-11-10-ron-johnson-concedes-john-thune-has-no-opponent-in-senate-gop-leadership
   headline: Ron Johnson concedes John Thune has no opponent in Senate GOP leadership
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7185
+  strength: 0.7196
 - slug: 2026-11-04-schumer-says-days-of-trump-s-supplicant-senate-are-over-vows-to-cut-costs
-  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut costs
+  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut
+    costs
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7284
-- slug: 2026-11-06-schumer-says-democrats-will-block-any-rightwinger-trump-puts-forward-for-the-sup
-  headline: Schumer says Democrats will block any rightwinger Trump puts forward for the Supreme Court
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6877
-- slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
-  headline: Tom Emmer wins House Republican whip race over August Pfluger
+  strength: 0.728
+- slug: 2026-11-10-john-thune-wins-another-term-leading-senate-republicans
+  headline: John Thune wins another term leading Senate Republicans
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6567
-- slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
-  headline: Democratic leaders weigh oversight and legislation after 2026 midterms
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6583
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
   strength: 0.681
-- slug: 2026-11-07-greg-casar-urges-democrats-to-target-corporate-power-beyond-trump
-  headline: Greg Casar urges Democrats to target corporate power beyond Trump
-  publish_date: '2026-11-07'
+- slug: 2026-11-06-schumer-says-democrats-will-block-any-rightwinger-trump-puts-forward-for-the-sup
+  headline: Schumer says Democrats will block any rightwinger Trump puts forward for
+    the Supreme Court
+  publish_date: '2026-11-06'
   relation: related
-  strength: 0.653
-- slug: 2026-11-05-democrats-largest-majority-in-decades-leaves-party-s-future-fight-unresolved
-  headline: Democrats' largest majority in decades leaves party's future fight unresolved
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6527
-- slug: 2026-11-02-democrats-dispute-senate-campaign-spending-as-2028-positioning-takes-shape
-  headline: Democrats dispute Senate campaign spending as 2028 positioning takes shape
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6638
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6887
-- slug: 2026-04-01-democrats-clash-internally-over-strategy-to-win-back-the-senate
-  headline: Democrats clash internally over strategy to win back the Senate
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.754
-- slug: 2026-07-08-sanders-urges-platner-to-drop-maine-senate-bid-after-assault-allegation
-  headline: Sanders urges Platner to drop Maine Senate bid after assault allegation
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.689
-- slug: 2026-07-09-platner-suspends-maine-senate-campaign-after-assault-allegation
-  headline: Platner suspends Maine Senate campaign after assault allegation
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6621
-- slug: 2026-07-21-august-primaries-in-michigan-and-minnesota-test-democratic-division
-  headline: August primaries in Michigan and Minnesota test Democratic division
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6483
-- slug: 2026-07-20-solomon-urges-democrats-to-reject-leaders-israel-stance
-  headline: Solomon urges Democrats to reject leaders' Israel stance
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6491
-- slug: 2026-01-14-democrats-see-narrow-path-to-regain-senate-majority-in-2026
-  headline: Democrats see narrow path to regain Senate majority in 2026
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6981
+  strength: 0.6876
 image:
   url: /articles/2026-11-10-sanders-opposes-schumer-s-reelection-bid-as-senate-democrats-weigh-a-new-leader.png
-  alt: "Illustration accompanying article: Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new leader"
+  alt: 'Illustration accompanying article: Sanders opposes Schumer''s reelection bid
+    as Senate Democrats weigh a new leader'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new leader
 
 **Subtype:** fact

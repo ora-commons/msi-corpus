@@ -1,9 +1,18 @@
 ---
 headline: Columbus police investigate hazing after fire injures two Ohio State students
-secondary_headline: Police report documents 'moderate' second- and third-degree burns for both students
+secondary_headline: Police report documents 'moderate' second- and third-degree burns
+  for both students
 publish_date: '2026-11-10'
-lede: Columbus police are investigating whether two Ohio State University students treated for deep burns after being engulfed in flames at an outdoor fraternity party were victims of hazing. The university placed the Sigma Alpha Epsilon fraternity on interim suspension after a video of the incident circulated on social media.
-nut_graf: 'The inquiry centers on whether the Saturday incident fits the definition of hazing under Ohio law, which the state tightened in 2021 after a student died at a fraternity house at Ohio University. Two bodies are weighing the incident: a Columbus Police investigation that lists the Sigma Alpha Epsilon chapter president, and Ohio State''s own review of hazing violations, which the university publishes as a list of sanctions.'
+lede: Columbus police are investigating whether two Ohio State University students
+  treated for deep burns after being engulfed in flames at an outdoor fraternity party
+  were victims of hazing. The university placed the Sigma Alpha Epsilon fraternity
+  on interim suspension after a video of the incident circulated on social media.
+nut_graf: 'The inquiry centers on whether the Saturday incident fits the definition
+  of hazing under Ohio law, which the state tightened in 2021 after a student died
+  at a fraternity house at Ohio University. Two bodies are weighing the incident:
+  a Columbus Police investigation that lists the Sigma Alpha Epsilon chapter president,
+  and Ohio State''s own review of hazing violations, which the university publishes
+  as a list of sanctions.'
 primary_entities:
 - Ohio State University
 - Sigma Alpha Epsilon
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +154,24 @@ related_stories:
   headline: Ohio State suspends Sigma Alpha Epsilon pending investigation
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.849
+  strength: 0.8489
 - slug: 2026-10-21-university-of-arizona-student-alleges-sexual-assault-at-sigma-phi-epsilon-house
-  headline: University of Arizona student alleges sexual assault at Sigma Phi Epsilon house
+  headline: University of Arizona student alleges sexual assault at Sigma Phi Epsilon
+    house
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6794
-- slug: 2026-11-03-arrest-made-as-senatobia-police-fire-is-investigated-as-arson
-  headline: Arrest made as Senatobia police fire is investigated as arson
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5996
-- slug: 2026-10-30-hochul-sends-all-future-cornell-sexual-offense-complaints-to-state-police
-  headline: Hochul sends all future Cornell sexual offense complaints to state police
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6206
+  strength: 0.6793
 - slug: 2026-09-28-arizona-suspends-sigma-tau-gamma-chapter-over-alleged-live-goldfish-hazing
   headline: Arizona suspends Sigma Tau Gamma chapter over alleged live-goldfish hazing
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7085
+  strength: 0.7079
 - slug: 2026-09-26-madison-police-arrest-two-in-uw-madison-fraternity-hazing-investigation
   headline: Madison police arrest two in UW-Madison fraternity hazing investigation
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7116
-- slug: 2026-10-12-cornell-fraternity-rape-allegation-renews-scrutiny-of-greek-life
-  headline: Cornell fraternity rape allegation renews scrutiny of Greek life
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6497
-- slug: 2026-10-14-woman-alleges-sexual-assault-at-aepi-house-near-university-of-chicago
-  headline: Woman alleges sexual assault at AEPi house near University of Chicago
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6234
-- slug: 2026-10-13-cornell-bans-fraternity-parties-for-academic-year-after-2024-rape-lawsuit
-  headline: Cornell bans fraternity parties for academic year after 2024 rape lawsuit
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6263
-- slug: 2026-10-14-cornell-president-says-he-knew-of-assault-report-but-didn-t-follow-up
-  headline: Cornell president says he knew of assault report but didn't follow up
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6046
-- slug: 2026-10-13-cornell-suspends-fraternity-parties-for-academic-year-after-rape-allegations
-  headline: Cornell suspends fraternity parties for academic year after rape allegations
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6036
-- slug: 2026-10-02-cornell-students-voice-anger-over-alleged-2024-gang-rape
-  headline: Cornell students voice anger over alleged 2024 gang rape
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6355
-- slug: 2026-09-29-hochul-calls-for-independent-review-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent review of Cornell's 2024 assault response
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6403
-- slug: 2026-10-06-new-york-lawmakers-push-to-close-voluntary-intoxication-consent-gap
-  headline: New York lawmakers push to close 'voluntary intoxication' consent gap
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6082
-- slug: 2026-09-28-lawsuit-cites-snapchat-messages-in-alleged-cornell-chi-phi-gang-rape
-  headline: Lawsuit cites Snapchat messages in alleged Cornell Chi Phi gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6335
-- slug: 2026-09-28-prosecutors-reopen-investigation-into-alleged-cornell-fraternity-gang-rape
-  headline: Prosecutors reopen investigation into alleged Cornell fraternity gang rape
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6323
-- slug: 2026-10-02-cornell-student-assembly-calls-for-answers-as-hochul-appoints-special-prosecutor
-  headline: Cornell student assembly calls for answers as Hochul appoints special prosecutor
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6173
-- slug: 2026-10-04-cornell-president-vows-review-of-greek-life-after-rape-allegations
-  headline: Cornell president vows review of Greek life after rape allegations
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6095
-- slug: 2026-09-30-hochul-calls-for-independent-probe-of-cornell-s-2024-assault-response
-  headline: Hochul calls for independent probe of Cornell's 2024 assault response
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6212
-- slug: 2026-09-28-thirteen-penn-state-students-charged-in-operation-drugs-unlimited-cocaine-ring
-  headline: Thirteen Penn State students charged in Operation Drugs Unlimited cocaine ring
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6
+  strength: 0.7114
 ---
-
 ## Columbus police investigate hazing after fire injures two Ohio State students
 
 **Subtype:** fact

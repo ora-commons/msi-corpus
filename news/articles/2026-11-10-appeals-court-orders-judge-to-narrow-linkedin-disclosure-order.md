@@ -2,8 +2,17 @@
 headline: Appeals court orders judge to narrow LinkedIn disclosure order
 secondary_headline: Disclosure could expose every confidential source over 18 months
 publish_date: '2026-11-10'
-lede: A unanimous three-judge panel of the 4th U.S. Circuit Court of Appeals ruled Tuesday that U.S. District Judge Elizabeth Hanes must narrow an order requiring LinkedIn to disclose communications by journalists in the Trump administration's leak investigation. The panel said the government is not entitled to a blanket order for journalists' records, but it also rejected LinkedIn's request to quash the lower court order entirely. The case returns to Hanes for a narrower disclosure order.
-nut_graf: The ruling leaves the government room to pursue records relevant to the leak inquiry while requiring the lower court to reduce an order that could expose unrelated confidential sources. The decision turns on balancing the administration's duty to protect national security information against journalists' First Amendment rights.
+lede: A unanimous three-judge panel of the 4th U.S. Circuit Court of Appeals ruled
+  Tuesday that U.S. District Judge Elizabeth Hanes must narrow an order requiring
+  LinkedIn to disclose communications by journalists in the Trump administration's
+  leak investigation. The panel said the government is not entitled to a blanket order
+  for journalists' records, but it also rejected LinkedIn's request to quash the lower
+  court order entirely. The case returns to Hanes for a narrower disclosure order.
+nut_graf: The ruling leaves the government room to pursue records relevant to the
+  leak inquiry while requiring the lower court to reduce an order that could expose
+  unrelated confidential sources. The decision turns on balancing the administration's
+  duty to protect national security information against journalists' First Amendment
+  rights.
 primary_entities:
 - LinkedIn
 - 4th U.S. Circuit Court of Appeals
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,102 +153,43 @@ related_stories:
   relation: related
   strength: 0.6713
 - slug: 2026-10-26-seis-ciudadanos-buscan-una-protecci-n-judicial-m-s-amplia-para-el-acceso-de-medi
-  headline: Seis ciudadanos buscan una protección judicial más amplia para el acceso de medios a la Casa Blanca
+  headline: Seis ciudadanos buscan una protección judicial más amplia para el acceso
+    de medios a la Casa Blanca
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6641
-- slug: 2026-10-26-six-citizens-ask-court-to-protect-white-house-press-access
-  headline: Six citizens ask court to protect White House press access
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6474
-- slug: 2026-10-26-yahoo-email-scan-order-links-renewed-comey-case-to-2016-disclosure
-  headline: Yahoo email-scan order links renewed Comey case to 2016 disclosure
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6391
+  strength: 0.664
 - slug: 2026-10-14-judge-blocks-trump-from-enforcing-white-house-press-ban-on-three-outlets
   headline: Judge blocks Trump from enforcing White House press ban on three outlets
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6664
-- slug: 2026-10-08-judge-extends-press-reprieve-for-cnn-ms-now-politico-through-tuesday
-  headline: Judge extends press reprieve for CNN, MS Now, Politico through Tuesday
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6436
+  strength: 0.667
 - slug: 2026-09-23-doj-filing-cites-cnn-east-wing-story-politico-iran-report-in-press-ban-defense
-  headline: DOJ filing cites CNN East Wing story, Politico Iran report in press ban defense
+  headline: DOJ filing cites CNN East Wing story, Politico Iran report in press ban
+    defense
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6656
+  strength: 0.6649
 - slug: 2026-09-23-cnn-ms-now-and-politico-ask-judge-to-restore-white-house-press-credentials
   headline: CNN, MS NOW and Politico ask judge to restore White House press credentials
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6605
-- slug: 2026-09-24-federal-judge-restores-white-house-press-access-for-three-outlets
-  headline: Federal judge restores White House press access for three outlets
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6424
-- slug: 2026-09-23-doj-argues-white-house-press-access-is-a-privilege-not-a-right
-  headline: DOJ argues White House press access is 'a privilege—not a right'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6399
+  strength: 0.6609
 - slug: 2026-09-08-hegseth-orders-polygraph-tests-for-pentagon-officials-to-find-leakers
   headline: Hegseth orders polygraph tests for Pentagon officials to find leakers
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6567
+  strength: 0.6573
 - slug: 2026-07-20-trump-administration-subpoenas-phone-records-of-nyt-journalists-relatives
   headline: Trump administration subpoenas phone records of NYT journalists, relatives
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.6692
+  strength: 0.6682
 - slug: 2026-07-23-trump-leak-probe-subpoenas-seek-records-of-reporters-relatives
   headline: Trump leak probe subpoenas seek records of reporters' relatives
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.663
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6395
-- slug: 2026-07-01-federal-judge-blocks-pentagon-escort-rule-for-journalists
-  headline: Federal judge blocks Pentagon escort rule for journalists
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6437
-- slug: 2026-05-26-trump-administration-proposes-ndas-for-current-and-future-federal-employees
-  headline: Trump administration proposes NDAs for current and future federal employees
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6453
-- slug: 2026-04-28-pentagon-can-require-reporters-to-be-escorted-while-appeal-proceeds-court-rules
-  headline: Pentagon can require reporters to be escorted while appeal proceeds, court rules
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6543
-- slug: 2026-05-19-new-york-times-sues-pentagon-a-second-time-over-journalist-escort-rule
-  headline: New York Times sues Pentagon a second time over journalist escort rule
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.641
-- slug: 2026-05-18-post-seeks-court-order-for-seized-reporter-s-devices
-  headline: Post seeks court order for seized reporter's devices
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6394
-- slug: 2026-02-24-judge-bars-government-from-wholesale-search-of-post-reporter-s-seized-devices
-  headline: Judge bars government from “wholesale” search of Post reporter’s seized devices
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.6515
+  strength: 0.6626
 ---
-
 ## Appeals court orders judge to narrow LinkedIn disclosure order
 
 **Subtype:** fact
