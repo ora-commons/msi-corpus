@@ -1,9 +1,23 @@
 ---
 headline: Tom Emmer wins House Republican whip race over August Pfluger
-secondary_headline: Jeffries, Clark expected to make history when Democrats vote next week
+secondary_headline: Jeffries, Clark expected to make history when Democrats vote next
+  week
 publish_date: '2026-11-10'
-lede: Rep. Tom Emmer of Minnesota won election as House Republican whip, defeating Rep. August Pfluger of Texas for the No. 2 position in the party's leadership hierarchy, while three Republicans sought the conference chair post. Democrats will hold their leadership elections next week, where Rep. Hakeem Jeffries is expected to become the first African-American House speaker and Rep. Katherine Clark the first woman majority leader. President Donald Trump said he was staying out of the Republican contest, which Rep. Jim Jordan won over Rep. Steve Scalise of Louisiana, 106-73, in a secret ballot of Republicans who will serve in the next Congress.
-nut_graf: The leadership contests set the terms for a Congress in which Republicans will hold a historically small House minority, a conference only beginning to grapple with its loss of power as President Donald Trump serves out his final two years in office, while Democrats take control with Jeffries and Clark expected to take the speaker's job and the majority leader's post. Leading the party back to a House majority in 2028 is sure to be a stiff climb, given the scope of Democratic victories in the midterms.
+lede: Rep. Tom Emmer of Minnesota won election as House Republican whip, defeating
+  Rep. August Pfluger of Texas for the No. 2 position in the party's leadership hierarchy,
+  while three Republicans sought the conference chair post. Democrats will hold their
+  leadership elections next week, where Rep. Hakeem Jeffries is expected to become
+  the first African-American House speaker and Rep. Katherine Clark the first woman
+  majority leader. President Donald Trump said he was staying out of the Republican
+  contest, which Rep. Jim Jordan won over Rep. Steve Scalise of Louisiana, 106-73,
+  in a secret ballot of Republicans who will serve in the next Congress.
+nut_graf: The leadership contests set the terms for a Congress in which Republicans
+  will hold a historically small House minority, a conference only beginning to grapple
+  with its loss of power as President Donald Trump serves out his final two years
+  in office, while Democrats take control with Jeffries and Clark expected to take
+  the speaker's job and the majority leader's post. Leading the party back to a House
+  majority in 2028 is sure to be a stiff climb, given the scope of Democratic victories
+  in the midterms.
 primary_entities:
 - Tom Emmer
 - August Pfluger
@@ -52,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,44 +166,50 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger.png
-  alt: 'Illustration accompanying article: Tom Emmer wins House Republican whip race over August Pfluger'
+  alt: 'Illustration accompanying article: Tom Emmer wins House Republican whip race
+    over August Pfluger'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-10-house-republicans-elect-jim-jordan-as-their-leader-after-midterm-losses
   headline: House Republicans elect Jim Jordan as their leader after midterm losses
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7842
+  strength: 0.7835
 - slug: 2026-11-08-jeffries-faces-divided-democrats-atop-largest-house-majority-since-obama-s-first
-  headline: Jeffries faces divided Democrats atop largest House majority since Obama's first year
+  headline: Jeffries faces divided Democrats atop largest House majority since Obama's
+    first year
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7505
+  strength: 0.7504
 - slug: 2026-11-04-mike-johnson-steps-aside-from-house-republican-leadership-after-midterm-losses
-  headline: Mike Johnson steps aside from House Republican leadership after midterm losses
+  headline: Mike Johnson steps aside from House Republican leadership after midterm
+    losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7702
+  strength: 0.7694
 - slug: 2026-11-10-leganski-says-trump-could-wield-major-influence-over-the-gop-conference
   headline: Leganski says Trump could wield major influence over the GOP conference
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7203
+  strength: 0.7204
 - slug: 2026-11-10-jim-jordan-wins-house-minority-leadership-after-midterms
   headline: Jim Jordan wins House minority leadership after midterms
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7149
+  strength: 0.7125
 - slug: 2026-11-09-scalise-and-jordan-offer-competing-pitches-for-house-gop-leadership
   headline: Scalise and Jordan offer competing pitches for House GOP leadership
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7157
+  strength: 0.715
 - slug: 2026-11-09-congress-returns-hegseth-impeachment-resolution-expected-after-gop-losses
   headline: Congress returns; Hegseth impeachment resolution expected after GOP losses
   publish_date: '2026-11-09'
@@ -198,69 +219,8 @@ related_stories:
   headline: Hakeem Jeffries expected to win historic House speakership
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7429
-- slug: 2026-11-04-house-republicans-scheduled-to-pick-new-leader-nov-10-after-johnson-s-departure
-  headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7421
-- slug: 2026-11-10-more-than-100-new-lawmakers-arrive-for-freshman-orientation
-  headline: More than 100 new lawmakers arrive for freshman orientation
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6958
-- slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7074
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7324
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7314
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.725
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7169
-- slug: 2026-11-04-mike-johnson-won-t-seek-reelection-as-house-republicans-top-leader
-  headline: Mike Johnson won't seek reelection as House Republicans' top leader
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7076
-- slug: 2026-11-04-democrats-flip-a-senate-seat-and-a-house-seat-in-early-returns
-  headline: Democrats flip a Senate seat and a House seat in early returns
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7026
-- slug: 2026-11-04-historic-firsts-and-party-tests-follow-democratic-midterm-victories
-  headline: Historic firsts and party tests follow Democratic midterm victories
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6984
-- slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
-  headline: Democrats poised for House control as midterm election results begin
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6983
-- slug: 2026-11-04-democrats-retake-congress-dnc-chairman-says-mandate-is-about-affordability
-  headline: Democrats retake Congress; DNC chairman says mandate is about affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6942
+  strength: 0.7425
 ---
-
 ## Tom Emmer wins House Republican whip race over August Pfluger
 
 **Subtype:** fact

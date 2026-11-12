@@ -1,9 +1,21 @@
 ---
 headline: Three men face U.S. charges over alleged Iran-linked attack plots
-secondary_headline: Indictment alleges coordination from jail before September plot at RAF Fairford
+secondary_headline: Indictment alleges coordination from jail before September plot
+  at RAF Fairford
 publish_date: '2026-11-10'
-lede: U.S. authorities charged three men on November 10 with plotting nearly 20 attacks on Jewish communities in Europe and the United States and a planned assault on RAF Fairford in the United Kingdom, according to a superseding indictment unsealed in Manhattan federal court. The indictment named Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani and alleged that the men acted for an Iran-aligned network that included the Islamic Revolutionary Guard Corps and Kata’ib Hizballah. Only al-Saadi, arrested in the spring and held without bail since June, is in custody.
-nut_graf: The superseding indictment connects alleged attacks on Jewish communities in Europe and the United States with the September incident at RAF Fairford in a U.S. federal case. Prosecutors say al-Saadi coordinated from jail in the days before the plot, while British authorities linked the incident to Tehran and Iran denied involvement.
+lede: U.S. authorities charged three men on November 10 with plotting nearly 20 attacks
+  on Jewish communities in Europe and the United States and a planned assault on RAF
+  Fairford in the United Kingdom, according to a superseding indictment unsealed in
+  Manhattan federal court. The indictment named Mohammad Baqer Saad Dawood al-Saadi,
+  Mohsen Mohajeri and Mohammad Ali al-Hassani and alleged that the men acted for an
+  Iran-aligned network that included the Islamic Revolutionary Guard Corps and Kata’ib
+  Hizballah. Only al-Saadi, arrested in the spring and held without bail since June,
+  is in custody.
+nut_graf: The superseding indictment connects alleged attacks on Jewish communities
+  in Europe and the United States with the September incident at RAF Fairford in a
+  U.S. federal case. Prosecutors say al-Saadi coordinated from jail in the days before
+  the plot, while British authorities linked the incident to Tehran and Iran denied
+  involvement.
 primary_entities:
 - Mohammad Baqer Saad Dawood al-Saadi
 - Mohsen Mohajeri
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,113 +163,58 @@ related_stories:
   headline: UK prosecutors charge two men over suspected Iranian plot at RAF Fairford
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7616
+  strength: 0.763
 - slug: 2026-10-20-inquiry-into-planned-raf-fairford-attack-involves-seven-men-after-re-arrests
   headline: Inquiry into planned RAF Fairford attack involves seven men after re-arrests
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7392
+  strength: 0.7409
 - slug: 2026-10-11-western-officials-weigh-public-warning-that-iran-eyes-us-targets-in-europe
   headline: Western officials weigh public warning that Iran eyes US targets in Europe
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.755
+  strength: 0.7569
 - slug: 2026-10-30-four-more-indicted-in-alleged-conspiracy-against-jewish-groups-over-israel-ties
-  headline: Four more indicted in alleged conspiracy against Jewish groups over Israel ties
+  headline: Four more indicted in alleged conspiracy against Jewish groups over Israel
+    ties
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6526
+  strength: 0.6549
 - slug: 2026-10-12-britain-sanctions-two-accused-of-spying-for-iran-reprimands-ambassador
   headline: Britain sanctions two accused of spying for Iran, reprimands ambassador
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7238
+  strength: 0.7244
 - slug: 2026-09-28-farmer-s-midnight-call-leads-to-five-arrests-near-raf-fairford
   headline: Farmer's midnight call leads to five arrests near RAF Fairford
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7439
+  strength: 0.7463
 - slug: 2026-10-08-us-pulls-12-b-1-bombers-from-raf-fairford-over-suspected-iranian-drone-plot
-  headline: US pulls 12 B-1 bombers from RAF Fairford over suspected Iranian drone plot
+  headline: US pulls 12 B-1 bombers from RAF Fairford over suspected Iranian drone
+    plot
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6994
+  strength: 0.7014
 - slug: 2026-10-01-uk-police-arrest-dual-national-in-fairford-terror-probe-iran-denies-link
   headline: UK police arrest dual national in Fairford terror probe; Iran denies link
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7102
-- slug: 2026-09-29-five-men-released-on-bail-after-raf-fairford-terror-plot-arrests
-  headline: Five men released on bail after RAF Fairford terror plot arrests
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7168
-- slug: 2026-10-05-u-s-pulls-12-b-1-bombers-from-u-k-base-over-iranian-drone-plot
-  headline: U.S. pulls 12 B-1 bombers from U.K. base over Iranian drone plot
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6878
-- slug: 2026-10-12-uk-formally-attributes-fairford-incident-to-irgc-further-sanctions-to-follow
-  headline: UK formally attributes Fairford incident to IRGC; further sanctions to follow
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6579
-- slug: 2026-09-28-uk-probes-motives-beyond-iran-link-in-raf-fairford-arrests
-  headline: UK probes motives beyond Iran link in RAF Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6871
-- slug: 2026-09-29-uk-frees-raf-fairford-suspects-as-u-s-cites-thursday-bomb-threat-briefing
-  headline: UK frees RAF Fairford suspects as U.S. cites Thursday bomb threat briefing
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6835
-- slug: 2026-09-28-u-s-reportedly-raises-threat-level-at-three-uk-bases-after-fairford-arrests
-  headline: U.S. reportedly raises threat level at three UK bases after Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.684
-- slug: 2026-09-29-uk-police-release-five-raf-fairford-suspects-on-bail-citing-open-investigation
-  headline: UK police release five RAF Fairford suspects on bail, citing open investigation
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6789
-- slug: 2026-09-28-uk-arrests-five-near-raf-fairford-on-terrorism-charges-releases-all-on-bail
-  headline: UK arrests five near RAF Fairford on terrorism charges, releases all on bail
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6795
-- slug: 2026-10-03-sixth-suspect-in-fairford-terror-probe-freed-on-bail
-  headline: Sixth suspect in Fairford terror probe freed on bail
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6599
-- slug: 2026-09-27-uk-police-arrest-five-near-raf-fairford-on-terrorism-suspicion
-  headline: UK police arrest five near RAF Fairford on terrorism suspicion
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6758
-- slug: 2026-09-28-police-identify-five-arrested-near-raf-fairford-as-london-men-in-their-20s
-  headline: Police identify five arrested near RAF Fairford as London men in their 20s
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6666
-- slug: 2026-09-27-trump-says-raf-fairford-suspects-looking-to-do-big-damage
-  headline: Trump says RAF Fairford suspects 'looking to do big damage'
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6605
+  strength: 0.7112
 image:
   url: /articles/2026-11-10-three-men-face-u-s-charges-over-alleged-iran-linked-attack-plots.png
-  alt: "Illustration accompanying article: Three men face U.S. charges over alleged Iran-linked attack plots"
+  alt: 'Illustration accompanying article: Three men face U.S. charges over alleged
+    Iran-linked attack plots'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Three men face U.S. charges over alleged Iran-linked attack plots
 
 **Subtype:** fact
