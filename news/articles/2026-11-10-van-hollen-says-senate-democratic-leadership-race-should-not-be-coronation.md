@@ -1,9 +1,23 @@
 ---
 headline: Van Hollen says Senate Democratic leadership race 'should not be coronation'
-secondary_headline: Six incoming Democratic senators want new leadership, but no challenger has volunteered
+secondary_headline: Six incoming Democratic senators want new leadership, but no challenger
+  has volunteered
 publish_date: '2026-11-10'
-lede: Democratic Sen. Chris Van Hollen said Tuesday that the race to lead Senate Democrats "should not be coronation," saying the caucus "needs a little bit of democracy itself in this moment" as calls for new leadership build after the party's midterm election wins. Speaking at a post-election conference in Washington convened by the progressive organization Groundwork Collaborative, the Maryland senator said he was calling colleagues to gauge their support for leadership change but stopped short of calling for Chuck Schumer's ouster. No Democrat has volunteered to challenge Schumer, who has led Senate Democrats since 2017, even as six incoming Democratic senators voice their desire for new leadership.
-nut_graf: The contest for Senate Democratic leadership remains unsettled after the party's sweeping midterm election wins. Van Hollen and Bernie Sanders say voters wanted change, six high-profile incoming senators have pressed for new leadership, and Elissa Slotkin urged prospective leaders to present plans — yet no Democrat has volunteered to take on Schumer, who says the caucus is united around lowering costs and ending what he described as corruption, chaos and war.
+lede: Democratic Sen. Chris Van Hollen said Tuesday that the race to lead Senate Democrats
+  "should not be coronation," saying the caucus "needs a little bit of democracy itself
+  in this moment" as calls for new leadership build after the party's midterm election
+  wins. Speaking at a post-election conference in Washington convened by the progressive
+  organization Groundwork Collaborative, the Maryland senator said he was calling
+  colleagues to gauge their support for leadership change but stopped short of calling
+  for Chuck Schumer's ouster. No Democrat has volunteered to challenge Schumer, who
+  has led Senate Democrats since 2017, even as six incoming Democratic senators voice
+  their desire for new leadership.
+nut_graf: The contest for Senate Democratic leadership remains unsettled after the
+  party's sweeping midterm election wins. Van Hollen and Bernie Sanders say voters
+  wanted change, six high-profile incoming senators have pressed for new leadership,
+  and Elissa Slotkin urged prospective leaders to present plans — yet no Democrat
+  has volunteered to take on Schumer, who says the caucus is united around lowering
+  costs and ending what he described as corruption, chaos and war.
 primary_entities:
 - Chris Van Hollen
 - Chuck Schumer
@@ -41,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +155,63 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-10-sanders-opposes-schumer-s-reelection-bid-as-senate-democrats-weigh-a-new-leader
-  headline: Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new leader
+  headline: Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new
+    leader
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8518
+  strength: 0.8525
 - slug: 2026-11-09-senate-republicans-set-leadership-vote-as-democrats-weigh-schumer-s-future
   headline: Senate Republicans set leadership vote as Democrats weigh Schumer's future
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7794
+  strength: 0.7797
 - slug: 2026-11-06-incoming-democratic-senators-decline-to-back-schumer-as-majority-leader
   headline: Incoming Democratic senators decline to back Schumer as majority leader
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.796
+  strength: 0.7966
 - slug: 2026-11-10-ron-johnson-concedes-john-thune-has-no-opponent-in-senate-gop-leadership
   headline: Ron Johnson concedes John Thune has no opponent in Senate GOP leadership
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7405
+  strength: 0.7395
 - slug: 2026-11-05-schumer-vows-democrats-will-not-confirm-a-right-winger-to-the-supreme-court
-  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme Court
+  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme
+    Court
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7629
+  strength: 0.7636
 - slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
+  headline: Schumer expects re-election as Senate Democrats' leader after midterm
+    wins
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7598
+  strength: 0.7602
 - slug: 2026-11-10-john-thune-wins-another-term-leading-senate-republicans
   headline: John Thune wins another term leading Senate Republicans
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6852
+  strength: 0.6851
 - slug: 2026-11-04-schumer-says-days-of-trump-s-supplicant-senate-are-over-vows-to-cut-costs
-  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut costs
+  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut
+    costs
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7224
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6878
-- slug: 2026-11-06-incoming-democratic-senators-talarico-and-hamilton-call-for-cooler-politics
-  headline: Incoming Democratic senators Talarico and Hamilton call for cooler politics
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6661
-- slug: 2026-11-07-greg-casar-urges-democrats-to-target-corporate-power-beyond-trump
-  headline: Greg Casar urges Democrats to target corporate power beyond Trump
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6557
-- slug: 2026-11-06-schumer-says-democrats-will-block-any-rightwinger-trump-puts-forward-for-the-sup
-  headline: Schumer says Democrats will block any rightwinger Trump puts forward for the Supreme Court
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6559
-- slug: 2026-08-23-democrats-expand-senate-battleground-as-maine-michigan-races-loom-large
-  headline: Democrats expand Senate battleground as Maine, Michigan races loom large
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6697
-- slug: 2026-08-12-democratic-primary-voters-signal-appetite-for-change
-  headline: Democratic primary voters signal appetite for change
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6459
-- slug: 2026-01-14-democrats-see-narrow-path-to-regain-senate-majority-in-2026
-  headline: Democrats see narrow path to regain Senate majority in 2026
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7203
-- slug: 2026-04-01-democrats-clash-internally-over-strategy-to-win-back-the-senate
-  headline: Democrats clash internally over strategy to win back the Senate
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7044
-- slug: 2026-07-20-solomon-urges-democrats-to-reject-leaders-israel-stance
-  headline: Solomon urges Democrats to reject leaders' Israel stance
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6445
-- slug: 2026-07-08-sanders-urges-platner-to-drop-maine-senate-bid-after-assault-allegation
-  headline: Sanders urges Platner to drop Maine Senate bid after assault allegation
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6528
-- slug: 2026-07-14-maine-democrats-to-pick-senate-nominee-at-july-25-convention-after-platner-s-exi
-  headline: Maine Democrats to pick Senate nominee at July 25 convention after Platner's exit
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6452
-- slug: 2026-01-13-democrats-see-a-narrow-path-to-win-the-senate-in-november
-  headline: Democrats see a narrow path to win the Senate in November
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6999
+  strength: 0.7221
 image:
   url: /articles/2026-11-10-van-hollen-says-senate-democratic-leadership-race-should-not-be-coronation.png
-  alt: "Illustration accompanying article: Van Hollen says Senate Democratic leadership race 'should not be coronation'"
+  alt: 'Illustration accompanying article: Van Hollen says Senate Democratic leadership
+    race ''should not be coronation'''
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Van Hollen says Senate Democratic leadership race 'should not be coronation'
 
 **Subtype:** fact
