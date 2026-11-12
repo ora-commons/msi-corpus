@@ -2,8 +2,16 @@
 headline: Cranbury to regain $17.3 million after $26 million cyber theft
 secondary_headline: Police chief delayed disclosure as residents questioned the timing
 publish_date: '2026-11-11'
-lede: Cranbury, New Jersey, will regain $17.3 million seized after thieves diverted $26 million intended for a land purchase through fraudulent wiring instructions, according to town officials. Nearly $9 million remains unaccounted for, and the town attorney said it is unknown how much could be recovered under the town's $5 million insurance policy. Police Chief Giuseppe DeChiara said he delayed public disclosure of the Sept. 28 theft to avoid tipping off the thieves.
-nut_graf: The loss has prompted demands for answers about taxpayer exposure, the delayed warning to residents and the concentration of financial duties in one town employee. A multiagency investigation is continuing, while some residents dispute whether the timing of the disclosure was connected to the Nov. 3 township committee election.
+lede: Cranbury, New Jersey, will regain $17.3 million seized after thieves diverted
+  $26 million intended for a land purchase through fraudulent wiring instructions,
+  according to town officials. Nearly $9 million remains unaccounted for, and the
+  town attorney said it is unknown how much could be recovered under the town's $5
+  million insurance policy. Police Chief Giuseppe DeChiara said he delayed public
+  disclosure of the Sept. 28 theft to avoid tipping off the thieves.
+nut_graf: The loss has prompted demands for answers about taxpayer exposure, the delayed
+  warning to residents and the concentration of financial duties in one town employee.
+  A multiagency investigation is continuing, while some residents dispute whether
+  the timing of the disclosure was connected to the Nov. 3 township committee election.
 primary_entities:
 - Cranbury
 - New Jersey
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,109 +150,8 @@ cross_article_links:
   strength: 0.5592
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-30-trm-labs-expects-binance-heist-money-to-fund-north-korean-weapons-proliferation
-  headline: TRM Labs expects Binance heist money to fund North Korean weapons proliferation
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.562
-- slug: 2026-10-28-clark-county-audit-flags-eight-high-risk-findings-in-public-administrator-s-offi
-  headline: Clark County audit flags eight high-risk findings in public administrator's office
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5558
-- slug: 2026-10-27-congressional-report-finds-fragmented-u-s-response-to-overseas-scams
-  headline: Congressional report finds fragmented U.S. response to overseas scams
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5555
-- slug: 2026-10-02-sittenfeld-describes-unanimous-ruling-vacating-his-2022-conviction
-  headline: Sittenfeld describes unanimous ruling vacating his 2022 conviction
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5675
-- slug: 2026-09-04-doj-urges-whistleblowers-to-report-federal-contractor-cyber-fraud
-  headline: DOJ urges whistleblowers to report federal contractor cyber fraud
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5565
-- slug: 2026-07-21-south-carolina-town-fights-to-recover-545k-lost-in-phishing-scam
-  headline: South Carolina town fights to recover $545K lost in phishing scam
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6237
-- slug: 2026-07-21-software-bug-in-new-jersey-motor-vehicle-system-registered-6-600-noncitizens-to-
-  headline: Software bug in New Jersey motor vehicle system registered 6,600 noncitizens to vote
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6021
-- slug: 2026-08-09-scammers-posing-as-officers-take-25-000-from-florida-woman
-  headline: Scammers posing as officers take $25,000 from Florida woman
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.5528
-- slug: 2026-08-07-federal-prosecutors-review-claims-about-jpmorgan-fraud-reimbursements
-  headline: Federal prosecutors review claims about JPMorgan fraud reimbursements
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5553
-- slug: 2026-02-20-former-new-haven-police-chief-arrested-for-85-000-theft
-  headline: Former New Haven police chief arrested for $85,000 theft
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.631
-- slug: 2026-07-07-former-jackson-mayor-pleads-guilty-to-bribery-wire-fraud-money-laundering
-  headline: Former Jackson mayor pleads guilty to bribery, wire fraud, money laundering
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5824
-- slug: 2026-01-05-man-detained-after-breaking-windows-at-vp-vance-s-cincinnati-home-secret-service
-  headline: Man detained after breaking windows at VP Vance's Cincinnati home, Secret Service says
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6068
-- slug: 2026-04-02-georgia-s-raffensperger-wins-6-7m-refund-for-first-liberty-investors
-  headline: Georgia’s Raffensperger wins $6.7M refund for First Liberty investors
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5819
-- slug: 2026-06-17-skeletal-remains-of-three-found-in-foreclosure-bought-connecticut-home
-  headline: Skeletal remains of three found in foreclosure-bought Connecticut home
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5551
-- slug: 2026-01-09-university-of-hawaii-cancer-center-hit-by-ransomware-patient-notification-delaye
-  headline: University of Hawaii Cancer Center hit by ransomware; patient notification delayed months
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.5874
-- slug: 2026-01-06-man-arraigned-on-state-and-federal-charges-in-vandalism-of-vp-vance-s-ohio-home
-  headline: Man arraigned on state and federal charges in vandalism of VP Vance's Ohio home
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.5848
-- slug: 2026-01-14-grand-jury-indicts-suspect-in-vandalism-of-vance-s-ohio-home
-  headline: Grand jury indicts suspect in vandalism of Vance's Ohio home
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.5822
-- slug: 2026-01-20-vandalism-suspect-in-vp-vance-s-ohio-home-pleads-not-guilty
-  headline: Vandalism suspect in VP Vance's Ohio home pleads not guilty
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.5696
-- slug: 2026-01-14-grand-jury-indicts-cincinnati-man-on-federal-charges-in-vandalism-of-vp-vance-s-
-  headline: Grand jury indicts Cincinnati man on federal charges in vandalism of VP Vance's Ohio home
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.5692
-- slug: 2026-02-10-gop-in-georgia-still-rocked-by-alleged-140m-ponzi-scheme
-  headline: GOP in Georgia still rocked by alleged $140M Ponzi scheme
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.5655
+related_stories: []
 ---
-
 ## Cranbury to regain $17.3 million after $26 million cyber theft
 
 **Subtype:** fact

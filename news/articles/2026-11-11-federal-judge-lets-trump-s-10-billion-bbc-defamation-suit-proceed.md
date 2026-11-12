@@ -2,8 +2,17 @@
 headline: Federal judge lets Trump's $10 billion BBC defamation suit proceed
 secondary_headline: Spliced documentary editing may support actual-malice claim
 publish_date: '2026-11-11'
-lede: 'A Trump-appointed federal judge on Tuesday allowed President Donald Trump''s $10 billion defamation lawsuit against the BBC to proceed, partly denying the broadcaster''s motion to dismiss. Florida district court judge Jeffrey T Kuntz found that Trump plausibly alleged reputational harm from the BBC''s Panorama documentary "Trump: A Second Chance," but the ruling did not establish liability and left the case for trial.'
-nut_graf: 'The court''s central point was the BBC''s editing: it combined comments Trump made nearly 55 minutes apart into a 12-second passage, and Kuntz said the splice could plausibly support actual malice. The order also dismissed a Florida trade-practices claim and required Trump to prove actual damages because the documentary was not broadcast in Florida.'
+lede: 'A Trump-appointed federal judge on Tuesday allowed President Donald Trump''s
+  $10 billion defamation lawsuit against the BBC to proceed, partly denying the broadcaster''s
+  motion to dismiss. Florida district court judge Jeffrey T Kuntz found that Trump
+  plausibly alleged reputational harm from the BBC''s Panorama documentary "Trump:
+  A Second Chance," but the ruling did not establish liability and left the case for
+  trial.'
+nut_graf: 'The court''s central point was the BBC''s editing: it combined comments
+  Trump made nearly 55 minutes apart into a 12-second passage, and Kuntz said the
+  splice could plausibly support actual malice. The order also dismissed a Florida
+  trade-practices claim and required Trump to prove actual damages because the documentary
+  was not broadcast in Florida.'
 primary_entities:
 - Donald Trump
 - BBC
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,7 +149,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-22-bbc-asks-judge-to-dismiss-trump-suit-over-london-production-and-no-u-s-airing
-  headline: BBC asks judge to dismiss Trump suit over London production and no U.S. airing
+  headline: BBC asks judge to dismiss Trump suit over London production and no U.S.
+    airing
   publish_date: '2026-10-22'
   relation: related
   strength: 0.7919
@@ -147,99 +158,40 @@ related_stories:
   headline: Trump’s lawyers offer January deposition dates; BBC seeks lawsuit dismissal
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7833
+  strength: 0.783
 - slug: 2026-10-22-judge-lets-bbc-subpoena-trump-s-mar-a-lago-club-in-defamation-suit
   headline: Judge lets BBC subpoena Trump's Mar-a-Lago Club in defamation suit
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7689
+  strength: 0.7686
 - slug: 2026-10-13-bbc-moves-to-compel-trump-deposition-in-his-10b-defamation-suit
   headline: BBC moves to compel Trump deposition in his $10B defamation suit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7884
+  strength: 0.7886
 - slug: 2026-10-22-trump-must-depose-by-dec-11-in-suit-against-bbc-or-face-possible-sanctions
   headline: Trump must depose by Dec. 11 in suit against BBC or face possible sanctions
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7441
+  strength: 0.7438
 - slug: 2026-10-22-judge-gives-department-until-nov-2-to-answer-smith-s-request-to-testify
   headline: Judge orders DOJ to answer Smith's request to testify by Nov. 2
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.734
+  strength: 0.7342
 - slug: 2026-11-01-judge-trump-s-epstein-letter-suit-tried-to-manufacture-flaws-in-journal-story
-  headline: 'Judge: Trump''s Epstein letter suit tried to ''manufacture'' flaws in Journal story'
+  headline: 'Judge: Trump''s Epstein letter suit tried to ''manufacture'' flaws in
+    Journal story'
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6736
+  strength: 0.6728
 - slug: 2026-10-31-judge-again-dismisses-trump-s-10-billion-defamation-suit-against-journal-publish
-  headline: Judge again dismisses Trump's $10 billion defamation suit against Journal publisher
+  headline: Judge again dismisses Trump's $10 billion defamation suit against Journal
+    publisher
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6762
-- slug: 2026-10-14-judge-blocks-trump-from-enforcing-white-house-press-ban-on-three-outlets
-  headline: Judge blocks Trump from enforcing White House press ban on three outlets
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6451
-- slug: 2026-10-08-judge-extends-press-reprieve-for-cnn-ms-now-politico-through-tuesday
-  headline: Judge extends press reprieve for CNN, MS Now, Politico through Tuesday
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6438
-- slug: 2026-07-21-judge-orders-trump-to-release-financial-records-in-bbc-defamation-case
-  headline: Judge orders Trump to release financial records in BBC defamation case
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.8122
-- slug: 2026-08-22-trump-asks-judge-to-block-bbc-subpoenas-to-his-family-members
-  headline: Trump asks judge to block BBC subpoenas to his family members
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7391
-- slug: 2026-09-23-cnn-ms-now-and-politico-ask-judge-to-restore-white-house-press-credentials
-  headline: CNN, MS NOW and Politico ask judge to restore White House press credentials
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6571
-- slug: 2026-08-05-trump-attorneys-ask-court-to-pause-bbc-access-to-financial-records
-  headline: Trump attorneys ask court to pause BBC access to financial records
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7611
-- slug: 2026-02-13-us-judge-sets-2027-trial-date-in-trump-defamation-lawsuit-against-bbc
-  headline: US judge sets 2027 trial date in Trump defamation lawsuit against BBC
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.788
-- slug: 2026-09-02-trump-urges-fcc-to-rebuke-nbc-s-welker-over-mixed-record-remark
-  headline: Trump urges FCC to rebuke NBC's Welker over 'mixed-record' remark
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6405
-- slug: 2026-07-08-judge-throws-out-trump-media-s-3-8b-suit-against-washington-post
-  headline: Judge throws out Trump Media's $3.8B suit against Washington Post
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7142
-- slug: 2026-08-17-carroll-verdict-against-trump-stands-as-high-court-turns-down-second-appeal
-  headline: Carroll verdict against Trump stands as high court turns down second appeal
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6409
-- slug: 2026-04-14-judge-dismisses-trump-s-10b-defamation-suit-against-wsj-rupert-murdoch
-  headline: Judge dismisses Trump’s $10B defamation suit against WSJ, Rupert Murdoch
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7163
-- slug: 2026-05-10-federal-judge-dismisses-former-trump-supporter-s-defamation-suit-against-fox-new
-  headline: Federal judge dismisses former Trump supporter’s defamation suit against Fox News
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6818
+  strength: 0.676
 ---
-
 ## Federal judge lets Trump's $10 billion BBC defamation suit proceed
 
 **Subtype:** fact
