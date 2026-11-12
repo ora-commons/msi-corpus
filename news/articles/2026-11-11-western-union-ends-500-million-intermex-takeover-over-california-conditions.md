@@ -1,9 +1,19 @@
 ---
 headline: Western Union ends $500 million Intermex takeover over California conditions
-secondary_headline: Intermex shares fell 7.4% in premarket trading; Western Union rose 2.9%
+secondary_headline: Intermex shares fell 7.4% in premarket trading; Western Union
+  rose 2.9%
 publish_date: '2026-11-11'
-lede: Western Union terminated its $500 million agreement to acquire International Money Express on Tuesday after California regulators delivered approval conditions the company called unacceptable. Intermex shares fell 7.4% in premarket trading following the announcement, and Western Union said meeting the conditions would have required material changes to its business model and long-term strategy.
-nut_graf: The termination ends a transaction for which Western Union said it had received approvals from every other jurisdiction, and it leaves Intermex shareholders holding stock that trades far below the $16 a share the company had agreed to pay. Western Union said California's conditions would have required material changes to its business model, its agent relationships and the execution of its long-term strategy, and the company ended the transaction rather than accept them.
+lede: Western Union terminated its $500 million agreement to acquire International
+  Money Express on Tuesday after California regulators delivered approval conditions
+  the company called unacceptable. Intermex shares fell 7.4% in premarket trading
+  following the announcement, and Western Union said meeting the conditions would
+  have required material changes to its business model and long-term strategy.
+nut_graf: The termination ends a transaction for which Western Union said it had received
+  approvals from every other jurisdiction, and it leaves Intermex shareholders holding
+  stock that trades far below the $16 a share the company had agreed to pay. Western
+  Union said California's conditions would have required material changes to its business
+  model, its agent relationships and the execution of its long-term strategy, and
+  the company ended the transaction rather than accept them.
 primary_entities:
 - Western Union
 - International Money Express
@@ -37,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,109 +145,8 @@ cross_article_links:
   strength: 0.5718
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-29-california-high-speed-rail-ceo-ian-choudri-resigns-board-names-joe-stephenshaw-t
-  headline: California high-speed rail CEO Ian Choudri resigns; board names Joe Stephenshaw to lead authority
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5706
-- slug: 2026-10-23-american-express-profit-rises-28-while-planning-5-workforce-cut
-  headline: American Express retains nearly all customers moved to higher-fee Platinum card
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5564
-- slug: 2026-10-21-california-state-workers-walk-out-amid-contract-dispute
-  headline: California state workers walk out amid contract dispute
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5576
-- slug: 2026-10-19-california-to-receive-6-million-in-23andme-bankruptcy-settlement
-  headline: California to receive $6 million in 23andMe bankruptcy settlement
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5638
-- slug: 2026-09-30-federal-judge-approves-paramount-settlement-clearing-81b-warner-deal
-  headline: Federal judge approves Paramount settlement, clearing $81B Warner deal
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5542
-- slug: 2026-09-22-paramount-settles-state-antitrust-suit-clearing-path-for-81b-warner-merger
-  headline: Paramount settles state antitrust suit, clearing path for $81B Warner merger
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.557
-- slug: 2026-09-21-paramount-discusses-1-5-billion-california-investment-in-merger-settlement
-  headline: Paramount discusses $1.5 billion California investment in merger settlement
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5574
-- slug: 2026-07-22-union-pacific-gives-cn-midwest-rail-access-in-exchange-for-ending-ns-merger-oppo
-  headline: Union Pacific gives CN Midwest rail access in exchange for ending NS merger opposition
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6024
-- slug: 2026-08-13-california-regulators-approve-charter-s-21-9-billion-cox-deal
-  headline: California regulators approve Charter's $21.9 billion Cox deal
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5669
-- slug: 2026-07-05-easyjet-agrees-in-principle-to-castlelake-s-5-2bn-takeover-bid
-  headline: EasyJet agrees in principle to Castlelake's £5.2bn takeover bid
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.5955
-- slug: 2026-08-01-westjet-flight-attendants-set-to-strike-sunday-airline-cancels-flights
-  headline: WestJet flight attendants set to strike Sunday, airline cancels flights
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.5575
-- slug: 2026-07-23-norfolk-southern-posts-11-revenue-increase-as-freight-demand-trends-improve
-  headline: Norfolk Southern posts 11% revenue increase as freight demand trends improve
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.566
-- slug: 2026-07-24-paramount-agrees-to-pause-warner-bros-merger-until-june-2027
-  headline: Paramount agrees to pause Warner Bros. merger until June 2027
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5561
-- slug: 2026-06-25-easyjet-board-rejects-castlelake-s-6-49-billion-bid-extends-talks
-  headline: EasyJet Board Rejects Castlelake's $6.49 Billion Bid, Extends Talks
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5806
-- slug: 2026-07-22-eu-approves-paramount-s-81b-warner-bros-takeover-with-conditions
-  headline: EU approves Paramount’s $81B Warner Bros. takeover with conditions
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5562
-- slug: 2026-06-19-union-behind-california-billionaire-tax-offers-to-drop-it-for-smaller-version
-  headline: Union behind California billionaire tax offers to drop it for smaller version
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5592
-- slug: 2026-06-15-doj-cleared-paramount-warner-bid-over-staff-concerns
-  headline: DOJ cleared Paramount's Warner bid over staff antitrust concerns
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5613
-- slug: 2026-06-01-uaw-members-strike-at-american-axle-plant-in-michigan-after-contract-talks-fail
-  headline: UAW members strike at American Axle plant in Michigan after contract talks fail
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5682
-- slug: 2026-02-18-warner-bros-to-reopen-takeover-talks-with-paramount-after-netflix-waiver
-  headline: Warner Bros to reopen takeover talks with Paramount after Netflix waiver
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.5792
-- slug: 2026-04-24-warner-bros-shareholders-approve-paramount-s-81-billion-takeover
-  headline: Warner Bros shareholders approve Paramount’s $81 billion takeover
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5688
+related_stories: []
 ---
-
 ## Western Union ends $500 million Intermex takeover over California conditions
 
 **Subtype:** fact

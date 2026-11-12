@@ -2,8 +2,20 @@
 headline: US-bound Russian diesel tankers turn away as buyers balk
 secondary_headline: Oil companies cite legal and reputational risks in handling cargoes
 publish_date: '2026-11-11'
-lede: Russian diesel shipments into the United States have not begun, and tankers that had listed American destinations are changing course rather than delivering the fuel. The Wall Street Journal reported that President Trump's effort to supply the U.S. with Russian diesel has yet to result in any new imports into the country, with several tankers bound for America shifting course following difficulties finding buyers willing to accept the cargoes. U.S. oil companies have been reluctant to handle the cargoes because of potential legal and reputational consequences, industry executives and lobbyists said.
-nut_graf: The reversals matter because the Russian diesel supply push was presented as a way to ease fuel prices that consumers were already absorbing, and the tankers' course changes leave that push without a single delivered cargo so far. The legal questions around the cargoes are also unresolved, with critics saying the sanctions carve-out is illegal and a separate concern that accepting the diesel could cause companies to run afoul of international sanctions.
+lede: Russian diesel shipments into the United States have not begun, and tankers
+  that had listed American destinations are changing course rather than delivering
+  the fuel. The Wall Street Journal reported that President Trump's effort to supply
+  the U.S. with Russian diesel has yet to result in any new imports into the country,
+  with several tankers bound for America shifting course following difficulties finding
+  buyers willing to accept the cargoes. U.S. oil companies have been reluctant to
+  handle the cargoes because of potential legal and reputational consequences, industry
+  executives and lobbyists said.
+nut_graf: The reversals matter because the Russian diesel supply push was presented
+  as a way to ease fuel prices that consumers were already absorbing, and the tankers'
+  course changes leave that push without a single delivered cargo so far. The legal
+  questions around the cargoes are also unresolved, with critics saying the sanctions
+  carve-out is illegal and a separate concern that accepting the diesel could cause
+  companies to run afoul of international sanctions.
 primary_entities:
 - President Trump
 - Agioi Fanendes
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +164,44 @@ related_stories:
   headline: Russian diesel tankers divert from U.S. as sanctions concerns deter buyers
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8854
+  strength: 0.8855
 - slug: 2026-11-05-two-sanctioned-russian-diesel-tankers-divert-from-us-bound-routes
   headline: Two sanctioned Russian diesel tankers divert from US-bound routes
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8432
+  strength: 0.8433
 - slug: 2026-10-29-greenpeace-tracks-russian-diesel-tankers-sailing-toward-us
   headline: Greenpeace tracks Russian diesel tankers sailing toward US
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7785
+  strength: 0.7784
 - slug: 2026-10-23-tanker-carrying-russian-diesel-briefly-lists-new-york-as-destination
   headline: Tanker carrying Russian diesel briefly lists New York as destination
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7957
+  strength: 0.7955
 - slug: 2026-10-16-analysts-say-trump-russia-diesel-volumes-too-small-to-ease-global-squeeze
   headline: Analysts say Trump-Russia diesel volumes too small to ease global squeeze
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7635
+  strength: 0.7625
 - slug: 2026-10-12-bipartisan-senators-declare-trump-s-russian-diesel-plan-illegal-under-2022-ban
-  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under 2022 ban
+  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under
+    2022 ban
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7806
+  strength: 0.7802
 - slug: 2026-10-12-diesel-futures-erase-post-deal-drop-as-traders-dismiss-russian-volumes
   headline: Diesel Futures Erase Post-Deal Drop as Traders Dismiss Russian Volumes
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7577
+  strength: 0.7575
 - slug: 2026-10-22-trump-s-fuel-price-measures-leave-gasoline-and-diesel-costs-high
   headline: Trump's fuel-price measures leave gasoline and diesel costs high
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6997
-- slug: 2026-10-11-bipartisan-senators-urge-trump-to-reverse-russian-diesel-deal
-  headline: Bipartisan senators urge Trump to reverse Russian diesel deal
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7466
-- slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
-  headline: Trump says US reached deal with Putin for Russian diesel
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7513
-- slug: 2026-10-18-several-republican-candidates-break-with-trump-over-russian-diesel-deal
-  headline: Several Republican candidates break with Trump over Russian diesel deal
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6975
-- slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
-  headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7178
-- slug: 2026-10-13-twelve-senators-call-on-trump-to-rescind-russian-diesel-deal
-  headline: Twelve senators call on Trump to rescind Russian diesel deal
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7051
-- slug: 2026-10-11-analysts-say-trump-putin-diesel-deal-won-t-ease-us-diesel-prices
-  headline: Analysts say Trump-Putin diesel deal won't ease US diesel prices
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7012
-- slug: 2026-10-07-analysts-forecast-diesel-prices-will-keep-driving-inflation-until-wars-end
-  headline: Analysts forecast diesel prices will keep driving inflation until wars end
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7049
-- slug: 2026-10-02-g7-to-coordinate-refinery-maintenance-as-diesel-supply-tightens
-  headline: G7 to coordinate refinery maintenance as diesel supply tightens
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7122
-- slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
-  headline: Diesel prices hit records in US and EU as wars curb global supply
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7066
-- slug: 2026-09-30-trump-asks-xi-to-boost-diesel-exports-china-unlikely-to-repeat-2022-intervention
-  headline: Trump asks Xi to boost diesel exports; China unlikely to repeat 2022 intervention
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7068
-- slug: 2026-09-23-oil-industry-scrambles-to-oppose-trump-s-diesel-export-ban
-  headline: Oil industry scrambles to oppose Trump's diesel export ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7302
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7205
+  strength: 0.6991
 ---
-
 ## US-bound Russian diesel tankers turn away as buyers balk
 
 **Subtype:** fact

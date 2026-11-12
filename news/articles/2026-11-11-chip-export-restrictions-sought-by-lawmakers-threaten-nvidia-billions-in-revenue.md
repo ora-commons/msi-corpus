@@ -1,9 +1,22 @@
 ---
-headline: Chip-export restrictions sought by lawmakers threaten Nvidia billions in revenue
-secondary_headline: U.S. overture to Russia on European security alarms many European governments
+headline: Chip-export restrictions sought by lawmakers threaten Nvidia billions in
+  revenue
+secondary_headline: U.S. overture to Russia on European security alarms many European
+  governments
 publish_date: '2026-11-11'
-lede: Lawmakers are demanding tighter restrictions on chip exports following Jensen Huang's affair with Alice Huang, a business partner suspected of being a Chinese intelligence source, and The Wall Street Journal reported that the push threatens to cost Nvidia and other semiconductor companies billions of dollars in revenue. The Trump administration is also pushing to renegotiate pan-European security alongside ceasefire talks to help end the war in Ukraine, an approach causing alarm in many European governments.
-nut_graf: The Wall Street Journal's briefs map a Washington agenda one week after the Republican midterm losses — a revived Capitol Hill fight over chip exports that threatens billions of dollars in semiconductor revenue, a U.S. overture to Russia on European security that has alarmed many European governments, a Veterans Day schedule at Arlington National Cemetery, and a legal effort to block construction of President Trump's 250-foot triumphal arch near the cemetery.
+lede: Lawmakers are demanding tighter restrictions on chip exports following Jensen
+  Huang's affair with Alice Huang, a business partner suspected of being a Chinese
+  intelligence source, and The Wall Street Journal reported that the push threatens
+  to cost Nvidia and other semiconductor companies billions of dollars in revenue.
+  The Trump administration is also pushing to renegotiate pan-European security alongside
+  ceasefire talks to help end the war in Ukraine, an approach causing alarm in many
+  European governments.
+nut_graf: The Wall Street Journal's briefs map a Washington agenda one week after
+  the Republican midterm losses — a revived Capitol Hill fight over chip exports that
+  threatens billions of dollars in semiconductor revenue, a U.S. overture to Russia
+  on European security that has alarmed many European governments, a Veterans Day
+  schedule at Arlington National Cemetery, and a legal effort to block construction
+  of President Trump's 250-foot triumphal arch near the cemetery.
 primary_entities:
 - Donald Trump
 - Jensen Huang
@@ -46,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,23 +158,25 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
+  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip
+    controls
+  publish_date: '2026-11-09'
+  relation: related
+  strength: 0.7745
 - slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
   headline: Nvidia inquiry draws top Republican demands for answers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7748
-- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7742
+  strength: 0.7743
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
   strength: 0.7782
 - slug: 2026-11-10-people-familiar-say-justice-department-takes-megaspeed-probe-after-nvidia-outrea
-  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia outreach
+  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia
+    outreach
   publish_date: '2026-11-10'
   relation: related
   strength: 0.7224
@@ -168,93 +184,38 @@ related_stories:
   headline: Nvidia board investigates CEO Jensen Huang as shares tumble
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7284
+  strength: 0.7289
 - slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
+  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen
+    Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7273
+  strength: 0.7272
 - slug: 2026-11-10-nvidia-shareholder-suit-alleges-failure-to-disclose-national-security-concerns
-  headline: Nvidia shareholder suit alleges failure to disclose national security concerns
+  headline: Nvidia shareholder suit alleges failure to disclose national security
+    concerns
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7201
+  strength: 0.7202
 - slug: 2026-11-11-huang-presses-china-chip-access-while-opposing-new-ai-rules
   headline: Huang presses China chip access while opposing new AI rules
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7114
-- slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
-  headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7248
-- slug: 2026-11-10-investor-sues-nvidia-over-alleged-deception-on-ceo-affair-and-megaspeed
-  headline: Investor sues Nvidia over alleged deception on CEO affair and Megaspeed
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7173
-- slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7239
-- slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
-  headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7219
-- slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
-  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7212
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.713
-- slug: 2026-11-09-trump-says-he-learned-of-alice-huang-spy-concerns-not-too-long-ago
-  headline: Trump says he learned of Alice Huang spy concerns 'not too long ago'
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7158
-- slug: 2026-11-10-nvidia-inquiry-precedes-nov-9-market-value-decline-of-roughly-200-billion
-  headline: Nvidia inquiry precedes Nov. 9 market-value decline of roughly $200 billion
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7052
-- slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
-  headline: Nvidia investigates reports of spying targeting Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7101
-- slug: 2026-11-10-nvidia-and-jensen-huang-accused-of-defrauding-shareholders-over-alleged-spying
-  headline: Nvidia and Jensen Huang accused of defrauding shareholders over alleged spying
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7031
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7137
-- slug: 2026-11-10-anthropic-s-ipo-tests-the-market-for-ai-investment
-  headline: Anthropic's IPO tests the market for AI investment
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6955
+  strength: 0.7121
 image:
   url: /articles/2026-11-11-chip-export-restrictions-sought-by-lawmakers-threaten-nvidia-billions-in-revenue.png
-  alt: "Illustration accompanying article: Chip-export restrictions sought by lawmakers threaten Nvidia billions in revenue"
+  alt: 'Illustration accompanying article: Chip-export restrictions sought by lawmakers
+    threaten Nvidia billions in revenue'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Chip-export restrictions sought by lawmakers threaten Nvidia billions in revenue
 
 **Subtype:** fact

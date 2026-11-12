@@ -2,8 +2,15 @@
 headline: House votes to refer Pete Hegseth impeachment articles to committee
 secondary_headline: 11 Democratic absences left the articles short of required votes
 publish_date: '2026-11-11'
-lede: House Republicans blocked Pete Hegseth's current impeachment effort on Tuesday by referring the articles to the House Judiciary Committee in a 211-204 vote. Rep. Thomas Massie was the sole Republican to oppose the motion, while 11 Democratic representatives skipped the vote, according to the Daily Beast. The setback came a week after Republicans lost control of both chambers in the midterm elections.
-nut_graf: The committee referral ended the current impeachment attempt without resolving whether House Democrats will try again. Hakeen Jeffries said he would discuss a new effort in January, when Democrats are scheduled to take their seats after the midterm election.
+lede: House Republicans blocked Pete Hegseth's current impeachment effort on Tuesday
+  by referring the articles to the House Judiciary Committee in a 211-204 vote. Rep.
+  Thomas Massie was the sole Republican to oppose the motion, while 11 Democratic
+  representatives skipped the vote, according to the Daily Beast. The setback came
+  a week after Republicans lost control of both chambers in the midterm elections.
+nut_graf: The committee referral ended the current impeachment attempt without resolving
+  whether House Democrats will try again. Hakeen Jeffries said he would discuss a
+  new effort in January, when Democrats are scheduled to take their seats after the
+  midterm election.
 primary_entities:
 - Pete Hegseth
 - Thomas Massie
@@ -47,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +157,44 @@ related_stories:
   headline: House blocks Hegseth impeachment effort in 211-204 vote
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8507
+  strength: 0.8512
 - slug: 2026-11-11-trump-hails-defeat-of-hegseth-impeachment-push-and-calls-massie-a-major-loser
-  headline: Trump hails defeat of Hegseth impeachment push and calls Massie 'a major LOSER'
+  headline: Trump hails defeat of Hegseth impeachment push and calls Massie 'a major
+    LOSER'
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7932
+  strength: 0.7946
 - slug: 2026-11-09-hegseth-faces-four-seat-house-test-as-johnson-warns-on-impeachment
   headline: Hegseth faces four-seat House test as Johnson warns on impeachment
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7803
+  strength: 0.7817
 - slug: 2026-11-08-jeffries-backs-impeaching-hegseth-as-democrats-prepare-to-take-house-control
   headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7666
+  strength: 0.7682
 - slug: 2026-11-09-massie-alleges-hegseth-violated-the-constitution-and-ignored-war-powers
   headline: Massie alleges Hegseth violated the Constitution and ignored war powers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7559
+  strength: 0.7564
 - slug: 2026-11-10-pete-hegseth-rejects-massie-s-impeachment-bid-as-a-political-spectacle
   headline: Pete Hegseth rejects Massie’s impeachment bid as a political spectacle
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7442
+  strength: 0.7448
 - slug: 2026-11-10-republicans-53-47-senate-majority-faces-possible-shift-to-44-seats
   headline: Republicans' 53-47 Senate majority faces possible shift to 44 seats
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7362
+  strength: 0.7377
 - slug: 2026-11-09-massie-introduces-eight-articles-of-impeachment-against-hegseth
   headline: Massie introduces eight articles of impeachment against Hegseth
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7426
-- slug: 2026-11-09-congress-returns-hegseth-impeachment-resolution-expected-after-gop-losses
-  headline: Congress returns; Hegseth impeachment resolution expected after GOP losses
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7276
-- slug: 2026-11-07-hegseth-vows-to-stay-as-democrats-and-some-republicans-seek-his-removal
-  headline: Hegseth vows to stay as Democrats and some Republicans seek his removal
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7362
-- slug: 2026-11-10-massie-s-impeachment-resolution-cites-hegseth-s-yemen-and-venezuela-actions
-  headline: Massie's impeachment resolution cites Hegseth's Yemen and Venezuela actions
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7128
-- slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7261
-- slug: 2026-11-10-republican-lawmakers-assess-midterm-losses-and-the-work-ahead
-  headline: Republican lawmakers assess midterm losses and the work ahead
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7077
-- slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
-  headline: House could vote to impeach Hegseth when lawmakers return to Washington
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7411
-- slug: 2026-11-10-pete-hegseth-defends-iran-war-as-lawmakers-consider-his-impeachment
-  headline: Pete Hegseth defends Iran war as lawmakers consider his impeachment
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7066
-- slug: 2026-11-10-hegseth-ends-months-long-press-silence-with-25-minute-impeachment-defense
-  headline: Hegseth ends months-long press silence with 25-minute impeachment defense
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7051
-- slug: 2026-11-07-hegseth-s-team-prepares-response-to-possible-house-impeachment-vote
-  headline: Hegseth's team prepares response to possible House impeachment vote
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7217
-- slug: 2026-11-09-trump-opens-to-immigration-deal-as-jeffries-backs-hegseth-impeachment-effort
-  headline: Trump opens to immigration deal as Jeffries backs Hegseth impeachment effort
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6979
-- slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
-  headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7149
-- slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
-  headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7208
+  strength: 0.7431
 ---
-
 ## House votes to refer Pete Hegseth impeachment articles to committee
 
 **Subtype:** fact
