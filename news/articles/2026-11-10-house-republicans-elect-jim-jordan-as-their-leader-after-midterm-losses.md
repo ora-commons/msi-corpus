@@ -1,9 +1,19 @@
 ---
 headline: House Republicans elect Jim Jordan as their leader after midterm losses
-secondary_headline: Jordan defeats Majority Leader Steve Scalise 106-73 in a secret ballot
+secondary_headline: Jordan defeats Majority Leader Steve Scalise 106-73 in a secret
+  ballot
 publish_date: '2026-11-10'
-lede: House Republicans elected Rep. Jim Jordan of Ohio as their leader for the next Congress on Tuesday, a week after deep losses in the midterm elections. Jordan defeated Majority Leader Steve Scalise of Louisiana 106-73 in a secret ballot among returning members, people familiar with the matter said.
-nut_graf: The vote hands the party's top post in the incoming minority to a co-founder of the House Freedom Caucus as Republicans prepare for what Jordan's allies predict will be an onslaught of Democratic investigations into the Trump administration. Democrats will hold at least 254 House seats in the new Congress to at least 165 for Republicans, with some seats still not called, according to the Associated Press as of Tuesday afternoon, reversing the GOP's current 219-214 majority, which has two vacancies.
+lede: House Republicans elected Rep. Jim Jordan of Ohio as their leader for the next
+  Congress on Tuesday, a week after deep losses in the midterm elections. Jordan defeated
+  Majority Leader Steve Scalise of Louisiana 106-73 in a secret ballot among returning
+  members, people familiar with the matter said.
+nut_graf: The vote hands the party's top post in the incoming minority to a co-founder
+  of the House Freedom Caucus as Republicans prepare for what Jordan's allies predict
+  will be an onslaught of Democratic investigations into the Trump administration.
+  Democrats will hold at least 254 House seats in the new Congress to at least 165
+  for Republicans, with some seats still not called, according to the Associated Press
+  as of Tuesday afternoon, reversing the GOP's current 219-214 majority, which has
+  two vacancies.
 primary_entities:
 - Jim Jordan
 - Steve Scalise
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,116 +152,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-10-house-republicans-elect-jim-jordan-as-their-leader-after-midterm-losses.png
-  alt: 'Illustration accompanying article: House Republicans elect Jim Jordan as their leader after midterm losses'
+  alt: 'Illustration accompanying article: House Republicans elect Jim Jordan as their
+    leader after midterm losses'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-10-jim-jordan-wins-house-minority-leadership-after-midterms
   headline: Jim Jordan wins House minority leadership after midterms
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8229
+  strength: 0.8234
 - slug: 2026-11-09-scalise-and-jordan-offer-competing-pitches-for-house-gop-leadership
   headline: Scalise and Jordan offer competing pitches for House GOP leadership
   publish_date: '2026-11-09'
   relation: related
   strength: 0.7985
 - slug: 2026-11-04-mike-johnson-steps-aside-from-house-republican-leadership-after-midterm-losses
-  headline: Mike Johnson steps aside from House Republican leadership after midterm losses
+  headline: Mike Johnson steps aside from House Republican leadership after midterm
+    losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8221
+  strength: 0.8222
 - slug: 2026-11-10-leganski-says-trump-could-wield-major-influence-over-the-gop-conference
   headline: Leganski says Trump could wield major influence over the GOP conference
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7583
+  strength: 0.7594
 - slug: 2026-11-09-congress-returns-hegseth-impeachment-resolution-expected-after-gop-losses
   headline: Congress returns; Hegseth impeachment resolution expected after GOP losses
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7465
-- slug: 2026-11-04-mike-johnson-won-t-seek-reelection-as-house-republicans-top-leader
-  headline: Mike Johnson won't seek reelection as House Republicans' top leader
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7654
+  strength: 0.7471
 - slug: 2026-11-10-ron-johnson-concedes-john-thune-has-no-opponent-in-senate-gop-leadership
   headline: Ron Johnson concedes John Thune has no opponent in Senate GOP leadership
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7245
+  strength: 0.7253
+- slug: 2026-11-04-mike-johnson-won-t-seek-reelection-as-house-republicans-top-leader
+  headline: Mike Johnson won't seek reelection as House Republicans' top leader
+  publish_date: '2026-11-04'
+  relation: related
+  strength: 0.7657
 - slug: 2026-11-04-mike-johnson-reportedly-rules-out-bid-for-house-minority-leader
   headline: Mike Johnson reportedly rules out bid for House minority leader
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.749
-- slug: 2026-11-10-republican-lawmakers-assess-midterm-losses-and-the-work-ahead
-  headline: Republican lawmakers assess midterm losses and the work ahead
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7018
-- slug: 2026-11-04-house-republicans-scheduled-to-pick-new-leader-nov-10-after-johnson-s-departure
-  headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7417
-- slug: 2026-11-10-republicans-split-over-who-saw-the-midterm-losses-coming
-  headline: Republicans split over who saw the midterm losses coming
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.697
-- slug: 2026-11-07-republicans-weigh-next-steps-after-midterm-losses
-  headline: Republicans weigh next steps after midterm losses
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7027
-- slug: 2026-11-10-republicans-53-47-senate-majority-faces-possible-shift-to-44-seats
-  headline: Republicans' 53-47 Senate majority faces possible shift to 44 seats
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6772
-- slug: 2026-11-09-senate-republicans-set-leadership-vote-as-democrats-weigh-schumer-s-future
-  headline: Senate Republicans set leadership vote as Democrats weigh Schumer's future
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6813
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.688
-- slug: 2026-11-05-mike-johnson-plans-to-step-down-as-top-house-republican-after-midterms
-  headline: Mike Johnson plans to step down as top House Republican after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6778
-- slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
-  headline: Democrats sweep Congress with Mississippi Senate race still counting
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6726
-- slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
-  headline: Democrats win Senate seats in six states and four governor races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6751
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6739
-- slug: 2026-11-04-vance-blames-republican-midterm-losses-on-the-war-and-energy-prices
-  headline: Vance blames Republican midterm losses on the war and energy prices
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6724
+  strength: 0.75
 ---
-
 ## House Republicans elect Jim Jordan as their leader after midterm losses
 
 **Subtype:** fact

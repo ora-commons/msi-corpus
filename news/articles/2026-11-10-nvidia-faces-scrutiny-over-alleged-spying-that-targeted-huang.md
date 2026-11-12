@@ -2,8 +2,15 @@
 headline: Nvidia faces scrutiny over alleged spying that targeted Huang
 secondary_headline: Board inquiry raises succession and shareholder questions
 publish_date: '2026-11-10'
-lede: President Donald Trump said Monday that the FBI is investigating Nvidia CEO Jensen Huang’s contact with an alleged Chinese government agent. Nvidia’s board opened an inquiry, the company’s shares fell more than 4% Monday, and a shareholder sued Nvidia and Huang in federal court in California alleging the company misled investors.
-nut_graf: The scrutiny has widened from the allegation about Huang’s contact with Alice Huang to questions about Nvidia’s stock, reputation, board oversight and succession. Huang has led Nvidia for 33 years and remains central to a corporate structure with more than 60 direct reports, leaving his eventual replacement unclear.
+lede: President Donald Trump said Monday that the FBI is investigating Nvidia CEO
+  Jensen Huang’s contact with an alleged Chinese government agent. Nvidia’s board
+  opened an inquiry, the company’s shares fell more than 4% Monday, and a shareholder
+  sued Nvidia and Huang in federal court in California alleging the company misled
+  investors.
+nut_graf: The scrutiny has widened from the allegation about Huang’s contact with
+  Alice Huang to questions about Nvidia’s stock, reputation, board oversight and succession.
+  Huang has led Nvidia for 33 years and remains central to a corporate structure with
+  more than 60 direct reports, leaving his eventual replacement unclear.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -45,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +155,48 @@ related_stories:
   headline: Nvidia board investigates CEO Jensen Huang as shares tumble
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8766
+  strength: 0.8751
 - slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
+  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen
+    Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8717
+  strength: 0.8712
 - slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
+  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens
+    inquiry
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8661
+  strength: 0.8659
 - slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
+  headline: Nvidia board opens independent investigation after reports about Jensen
+    Huang
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8545
+  strength: 0.8537
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8531
+  strength: 0.8516
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8435
+  strength: 0.8419
 - slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
+  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip
+    controls
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8423
+  strength: 0.8419
 - slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
-  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
+  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice
+    Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8402
-- slug: 2026-11-10-nvidia-shareholder-suit-alleges-failure-to-disclose-national-security-concerns
-  headline: Nvidia shareholder suit alleges failure to disclose national security concerns
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8279
-- slug: 2026-11-10-investor-sues-nvidia-over-alleged-deception-on-ceo-affair-and-megaspeed
-  headline: Investor sues Nvidia over alleged deception on CEO affair and Megaspeed
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8223
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8325
-- slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
-  headline: Nvidia investigates reports of spying targeting Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8207
-- slug: 2026-11-09-nvidia-has-no-board-chair-and-designates-a-lead-director-annually
-  headline: Nvidia has no board chair and designates a lead director annually
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.806
-- slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
-  headline: Nvidia inquiry draws top Republican demands for answers
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7911
-- slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
-  headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7961
-- slug: 2026-11-09-trump-says-he-learned-of-alice-huang-spy-concerns-not-too-long-ago
-  headline: Trump says he learned of Alice Huang spy concerns 'not too long ago'
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7747
-- slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
-  headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7736
-- slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7781
-- slug: 2026-11-10-nvidia-hires-wachtell-to-investigate-jensen-huang-s-relationship
-  headline: Nvidia hires Wachtell to investigate Jensen Huang's relationship
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7636
-- slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
-  headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7705
+  strength: 0.8409
 ---
-
 ## Nvidia faces scrutiny over alleged spying that targeted Huang
 
 **Subtype:** fact
