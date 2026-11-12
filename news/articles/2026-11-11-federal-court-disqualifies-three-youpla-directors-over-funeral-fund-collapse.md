@@ -1,9 +1,19 @@
 ---
 headline: Federal court disqualifies three Youpla directors over funeral fund collapse
-secondary_headline: More than 13,000 Aboriginal people were left without means for funerals
+secondary_headline: More than 13,000 Aboriginal people were left without means for
+  funerals
 publish_date: '2026-11-11'
-lede: A federal court has disqualified three former directors of Youpla Group, formerly the Aboriginal Community Benefit Fund, from managing corporations for five to 10 years and ordered them to pay a combined $90,000. Federal Court Justice Geoffrey Kennett found Jonathan Law, Michael Wilson and Geoffrey Clayton breached their duties to clients after Youpla marketed funeral policies to Aboriginal families and collapsed in March 2022, leaving more than 13,000 Aboriginal people without the means to pay for funerals.
-nut_graf: The judgment adds individual financial penalties and management bans to a record that already includes a $1.2 million corporate fine, a 2018 withdrawal of Youpla’s licence to sell new products and a $97 million federal support package for affected Aboriginal families.
+lede: A federal court has disqualified three former directors of Youpla Group, formerly
+  the Aboriginal Community Benefit Fund, from managing corporations for five to 10
+  years and ordered them to pay a combined $90,000. Federal Court Justice Geoffrey
+  Kennett found Jonathan Law, Michael Wilson and Geoffrey Clayton breached their duties
+  to clients after Youpla marketed funeral policies to Aboriginal families and collapsed
+  in March 2022, leaving more than 13,000 Aboriginal people without the means to pay
+  for funerals.
+nut_graf: The judgment adds individual financial penalties and management bans to
+  a record that already includes a $1.2 million corporate fine, a 2018 withdrawal
+  of Youpla’s licence to sell new products and a $97 million federal support package
+  for affected Aboriginal families.
 primary_entities:
 - Youpla Group
 - Aboriginal Community Benefit Fund
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,109 +155,8 @@ cross_article_links:
   strength: 0.5392
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-26-commonwealth-ombudsman-faults-algorithm-used-to-assess-older-australians-care
-  headline: Commonwealth Ombudsman faults algorithm used to assess older Australians' care
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5477
-- slug: 2026-09-11-appeals-court-rejects-trump-order-to-keep-michigan-coal-plant-open
-  headline: Appeals court rejects Trump order to keep Michigan coal plant open
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5461
-- slug: 2026-08-17-interior-department-announces-1-22-billion-offshore-wind-lease-buyout
-  headline: Interior Department announces $1.22 billion offshore wind lease buyout
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5537
-- slug: 2026-04-16-new-york-to-lose-73-5m-in-federal-funds-over-unrevoked-immigrant-cdls
-  headline: New York to lose $73.5M in federal funds over unrevoked immigrant CDLs
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5768
-- slug: 2025-12-31-california-delays-revocation-of-17-000-commercial-licenses-after-migrant-lawsuit
-  headline: California delays revocation of 17,000 commercial licenses after migrant lawsuit
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.5772
-- slug: 2026-04-04-tribes-in-montana-lose-millions-after-usda-terminates-farm-grants
-  headline: Tribes in Montana lose millions after USDA terminates farm grants
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.568
-- slug: 2026-05-06-oakland-council-fines-couple-915-135-for-illegally-cutting-38-protected-trees
-  headline: Oakland council fines couple $915,135 for illegally cutting 38 protected trees
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5551
-- slug: 2026-05-06-alaska-judge-allows-wildlife-agents-to-kill-bears-by-helicopter-to-save-caribou
-  headline: Alaska judge allows wildlife agents to kill bears by helicopter to save caribou
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.554
-- slug: 2026-02-13-california-launches-civil-rights-probe-of-eaton-fire-delayed-evacuations
-  headline: California launches civil rights probe of Eaton Fire delayed evacuations
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5676
-- slug: 2026-04-29-maui-wildfire-settlement-payouts-near-for-survivors-but-full-recovery-unlikely
-  headline: Maui wildfire settlement payouts near for survivors, but full recovery unlikely
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5555
-- slug: 2026-02-26-appeals-court-grills-epa-nonprofits-over-fate-of-trump-green-bank-contracts
-  headline: Appeals court grills EPA, nonprofits over fate of Trump “green bank” contracts
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5647
-- slug: 2026-04-25-new-york-sues-to-keep-73-5m-in-federal-highway-funds-tied-to-cdls
-  headline: New York sues to keep $73.5M in federal highway funds tied to CDLs
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.5547
-- slug: 2026-02-06-us-appeals-court-is-asked-to-revive-criminal-case-against-boeing
-  headline: US appeals court is asked to revive criminal case against Boeing
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.5617
-- slug: 2026-01-07-california-loses-160m-in-federal-funds-over-delay-in-revoking-immigrant-trucking
-  headline: California loses $160M in federal funds over delay in revoking immigrant trucking licenses
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.5611
-- slug: 2026-01-08-federal-judge-blocks-trump-s-purge-of-dei-terms-from-head-start-grant-applicatio
-  headline: Federal judge blocks Trump's purge of DEI terms from Head Start grant applications
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.5605
-- slug: 2026-02-19-alcoa-to-pay-36-million-over-unlawful-clearing-in-australia-s-northern-jarrah-fo
-  headline: Alcoa to pay $36 million over unlawful clearing in Australia’s Northern Jarrah forest
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.5568
-- slug: 2026-02-23-families-sue-texas-over-camp-mystic-evacuation-rule-failure
-  headline: Families sue Texas over Camp Mystic evacuation rule failure
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.5564
-- slug: 2026-01-05-hhs-bars-race-women-and-disability-from-head-start-grant-applications
-  headline: HHS bars 'race,' 'women,' and 'disability' from Head Start grant applications
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.5561
-- slug: 2026-02-21-pacificorp-settles-federal-wildfire-claims-for-575-million
-  headline: PacifiCorp settles federal wildfire claims for $575 million
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.5523
-- slug: 2026-01-08-aging-sewers-threaten-health-in-poor-communities-as-trump-aid-is-cut
-  headline: Aging sewers threaten health in poor communities as Trump aid is cut
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.5514
+related_stories: []
 ---
-
 ## Federal court disqualifies three Youpla directors over funeral fund collapse
 
 **Subtype:** fact

@@ -1,9 +1,20 @@
 ---
 headline: Nordregio-led project maps Greenland residents' memories of climate change
-secondary_headline: Ilulissat buildings sink as Greenland's ice sheet loses mass for 30 years
+secondary_headline: Ilulissat buildings sink as Greenland's ice sheet loses mass for
+  30 years
 publish_date: '2026-11-11'
-lede: A project led by Sweden-based research institute Nordregio is documenting how climate change has altered Greenland's landscapes, hunting and fishing, and daily life through residents' own memories. The "Mapping Memories" project has collected nearly 60 personal stories tied to specific locations in Greenland, and an exhibit linked to it opened in September at Ilulissat's Icefjord Center, billed as Greenland's first visitor center devoted to the link between people and nature.
-nut_graf: 'The project arrives alongside measurable physical change: thawing permafrost is sinking buildings and cracking roads and pipes in Ilulissat, and a September report by the Geological Survey of Denmark and Greenland found the island''s ice sheet has lost more ice than it has gained for 30 years in a row. Sandgreen said the project is meant to keep residents'' accounts of a changing Arctic from disappearing with the people who hold them.'
+lede: A project led by Sweden-based research institute Nordregio is documenting how
+  climate change has altered Greenland's landscapes, hunting and fishing, and daily
+  life through residents' own memories. The "Mapping Memories" project has collected
+  nearly 60 personal stories tied to specific locations in Greenland, and an exhibit
+  linked to it opened in September at Ilulissat's Icefjord Center, billed as Greenland's
+  first visitor center devoted to the link between people and nature.
+nut_graf: 'The project arrives alongside measurable physical change: thawing permafrost
+  is sinking buildings and cracking roads and pipes in Ilulissat, and a September
+  report by the Geological Survey of Denmark and Greenland found the island''s ice
+  sheet has lost more ice than it has gained for 30 years in a row. Sandgreen said
+  the project is meant to keep residents'' accounts of a changing Arctic from disappearing
+  with the people who hold them.'
 primary_entities:
 - Nordregio
 - Greenland
@@ -52,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,108 +162,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-27-three-colorado-glaciers-lose-ice-at-twice-their-prior-five-year-rate
-  headline: Three Colorado glaciers lose ice at twice their prior five-year rate
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.582
-- slug: 2026-10-30-investigation-finds-ipcc-carbon-capture-claims-rest-on-unrecorded-survey
-  headline: Investigation finds IPCC carbon-capture claims rest on unrecorded survey
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5619
-- slug: 2026-10-27-triglav-glacier-disappears-from-slovenia-s-highest-peak
-  headline: Triglav glacier disappears from Slovenia’s highest peak
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5651
-- slug: 2026-10-19-longyearbyen-tap-water-ban-extends-into-2026-over-sulphate-nickel-levels
-  headline: Longyearbyen tap water ban extends into 2026 over sulphate, nickel levels
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5864
-- slug: 2026-10-06-rubio-courts-iceland-for-expanded-arctic-security-cooperation
-  headline: Rubio courts Iceland for expanded Arctic security cooperation
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5587
-- slug: 2026-09-07-greenland-secures-200-million-eu-investment-pledge-by-leveraging-trump-threats
-  headline: Greenland secures €200 million EU investment pledge by leveraging Trump threats
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5738
-- slug: 2026-08-25-toolik-researchers-study-how-warming-reshapes-alaska-s-tundra-plants
-  headline: Toolik researchers study how warming reshapes Alaska's tundra plants
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5651
 - slug: 2026-03-05-greenland-fishermen-brace-for-changing-sea-ice-and-unpredictable-catches
   headline: Greenland fishermen brace for changing sea ice and unpredictable catches
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.6682
-- slug: 2026-07-02-expedition-to-survey-shackleton-scott-shipwrecks-launches
-  headline: Expedition to survey Shackleton, Scott shipwrecks launches
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5874
-- slug: 2026-07-09-trump-linked-texas-oil-company-pursues-greenland-drilling-permits
-  headline: Trump-linked Texas oil company pursues Greenland drilling permits
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5615
-- slug: 2026-04-01-finnish-arctic-ice-diving-class-trains-next-generation-of-polar-researchers
-  headline: Finnish Arctic ice-diving class trains next generation of polar researchers
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6025
-- slug: 2026-06-26-ex-noaa-employees-launch-climate-us-to-replace-trump-shuttered-climate-site
-  headline: Ex-NOAA Employees Launch Climate.us to Replace Trump-Shuttered Climate Site
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5605
-- slug: 2026-02-07-apps-help-danes-boycott-american-goods-amid-greenland-dispute-with-u-s
-  headline: Apps help Danes boycott American goods amid Greenland dispute with U.S.
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.5905
-- slug: 2026-01-13-experts-rebuff-trump-s-false-claims-about-russian-and-chinese-forces-near-greenl
-  headline: Experts rebuff Trump's false claims about Russian and Chinese forces near Greenland
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.5851
-- slug: 2026-03-31-arctic-sea-ice-shrinks-to-tie-lowest-winter-level-amid-record-heat
-  headline: Arctic sea ice shrinks to tie lowest winter level amid record heat
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5777
-- slug: 2026-01-11-greenland-rare-earth-mining-faces-years-of-obstacles-regardless-of-trump-push-ex
-  headline: Greenland rare earth mining faces years of obstacles regardless of Trump push, experts say
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.5831
-- slug: 2026-01-17-thousands-march-in-nuuk-as-trump-announces-tariffs-over-greenland-opposition
-  headline: Thousands march in Nuuk as Trump announces tariffs over Greenland opposition
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.5736
-- slug: 2026-01-14-denmark-cites-fundamental-disagreement-with-u-s-over-greenland-after-white-house
-  headline: Denmark cites 'fundamental disagreement' with U.S. over Greenland after White House talks
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.5736
-- slug: 2026-01-22-trump-s-greenland-demands-prompt-european-allies-to-seek-independent-strategies
-  headline: Trump's Greenland demands prompt European allies to seek independent strategies
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.5717
-- slug: 2026-01-07-trump-s-greenland-push-echoes-decades-of-us-acquisition-attempts
-  headline: Trump's Greenland push echoes decades of US acquisition attempts
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.5698
+  strength: 0.6683
 ---
-
 ## Nordregio-led project maps Greenland residents' memories of climate change
 
 **Subtype:** fact

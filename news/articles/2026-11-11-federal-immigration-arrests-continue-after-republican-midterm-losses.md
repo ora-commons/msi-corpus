@@ -1,9 +1,20 @@
 ---
 headline: Federal immigration arrests continue after Republican midterm losses
-secondary_headline: Mullin says orders unchanged as Trump names Stephen Miller chief of staff
+secondary_headline: Mullin says orders unchanged as Trump names Stephen Miller chief
+  of staff
 publish_date: '2026-11-11'
-lede: U.S. Immigration and Customs Enforcement agents continued making arrests in the days after the midterm elections, with advocates reporting detentions from California to Michigan to Massachusetts. President Donald Trump said his administration's deportation policy may have been "too tough" while naming Stephen Miller, the architect of his immigration agenda, as his new chief of staff. Homeland Security Secretary Markwayne Mullin said his orders had not changed.
-nut_graf: Immigration enforcement continued without pause in the days after Democrats won control of the next Congress, even as President Trump signaled openness to work with the rival party. The accounts describe detentions of people with work permits, pending asylum applications and no criminal records, and a child taken into custody at a federal immigration office, while the Department of Homeland Security says enforcement will run through the holidays.
+lede: U.S. Immigration and Customs Enforcement agents continued making arrests in
+  the days after the midterm elections, with advocates reporting detentions from California
+  to Michigan to Massachusetts. President Donald Trump said his administration's deportation
+  policy may have been "too tough" while naming Stephen Miller, the architect of his
+  immigration agenda, as his new chief of staff. Homeland Security Secretary Markwayne
+  Mullin said his orders had not changed.
+nut_graf: Immigration enforcement continued without pause in the days after Democrats
+  won control of the next Congress, even as President Trump signaled openness to work
+  with the rival party. The accounts describe detentions of people with work permits,
+  pending asylum applications and no criminal records, and a child taken into custody
+  at a federal immigration office, while the Department of Homeland Security says
+  enforcement will run through the holidays.
 primary_entities:
 - U.S. Immigration and Customs Enforcement
 - Department of Homeland Security
@@ -51,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,10 +162,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-08-white-house-says-mass-deportations-will-continue-after-midterm-election-losses
-  headline: White House says mass deportations will continue after midterm election losses
+  headline: White House says mass deportations will continue after midterm election
+    losses
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8045
+  strength: 0.8042
 - slug: 2026-11-09-trump-opens-to-an-immigration-deal-after-republican-midterm-losses
   headline: Trump opens to an immigration deal after Republican midterm losses
   publish_date: '2026-11-09'
@@ -163,94 +176,34 @@ related_stories:
   headline: Mullin rules out amnesty as Trump says he could work with Democrats
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7472
+  strength: 0.747
 - slug: 2026-11-09-trump-names-immigration-architect-stephen-miller-as-chief-of-staff
   headline: Trump names immigration architect Stephen Miller as chief of staff
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7383
+  strength: 0.7382
 - slug: 2026-11-07-democrats-vow-probes-and-subpoenas-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief of staff
+  headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief
+    of staff
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7481
+  strength: 0.7483
 - slug: 2026-11-07-most-midterm-voters-say-trump-s-immigration-enforcement-has-gone-too-far
   headline: Most midterm voters say Trump's immigration enforcement has gone too far
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7278
+  strength: 0.7277
 - slug: 2026-11-06-stephen-miller-called-man-killed-by-immigration-agents-a-domestic-terrorist
   headline: Stephen Miller called man killed by immigration agents a 'domestic terrorist'
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7095
+  strength: 0.7098
 - slug: 2026-11-07-bardella-and-cohen-say-miller-s-promotion-points-to-more-unilateral-action
   headline: Bardella and Cohen say Miller's promotion points to more unilateral action
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6973
-- slug: 2026-11-07-stephen-miller-carries-years-of-on-record-statements-into-chief-of-staff-role
-  headline: Stephen Miller carries years of on-record statements into chief of staff role
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6892
-- slug: 2026-11-08-trump-says-midterm-result-showed-widespread-rejection-of-his-party
-  headline: Trump says midterm result showed widespread rejection of his party
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6813
-- slug: 2026-10-29-trump-immigration-policies-lose-support-as-voter-disapproval-grows
-  headline: Trump immigration policies lose support as voter disapproval grows
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6916
-- slug: 2026-10-26-trump-administration-reshapes-us-immigration-enforcement-and-admissions
-  headline: Trump administration reshapes US immigration enforcement and admissions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6846
-- slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
-  headline: Immigration enforcement reshapes midterm races as voter disapproval grows
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.702
-- slug: 2026-09-28-ice-detentions-accelerate-under-soft-feet-as-dhs-workforce-more-than-doubles
-  headline: ICE detentions accelerate under 'soft feet' as DHS workforce more than doubles
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6961
-- slug: 2026-09-19-stephen-miller-leads-multi-agency-push-to-accelerate-migrant-child-removals
-  headline: Stephen Miller leads multi-agency push to accelerate migrant child removals
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7145
-- slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
-  headline: Trump grows frustrated with Homeland Security Secretary Mullin
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7445
-- slug: 2026-07-27-memphis-anti-crime-task-force-leads-to-surge-in-immigration-arrests
-  headline: Memphis anti-crime task force leads to surge in immigration arrests
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6855
-- slug: 2026-03-15-trump-mass-deportations-at-crossroads-with-dhs-shake-up
-  headline: Trump mass deportations at crossroads with DHS shake-up
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7382
-- slug: 2026-06-13-trump-signs-70b-immigration-enforcement-bill-into-law
-  headline: Trump signs $70B immigration enforcement bill into law
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6993
-- slug: 2026-02-26-trump-highlights-border-drop-in-state-of-the-union-amid-enforcement-fallout
-  headline: Trump highlights border drop in State of the Union amid enforcement fallout
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7076
+  strength: 0.6979
 ---
-
 ## Federal immigration arrests continue after Republican midterm losses
 
 **Subtype:** fact
