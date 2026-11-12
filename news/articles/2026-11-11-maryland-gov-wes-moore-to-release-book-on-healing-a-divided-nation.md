@@ -2,8 +2,16 @@
 headline: Maryland Gov. Wes Moore to release book on healing a divided nation
 secondary_headline: Moore describes the project as an invitation for honest dialogue
 publish_date: '2026-11-11'
-lede: 'Henry Holt & Company told The Associated Press that Maryland Gov. Wes Moore will release “Repair: Healing a Divided Nation” on March 9 next year. The publisher calls the 48-year-old governor’s book an “honest assessment” of the country that offers a “path forward that leaves no one behind.” Moore, Maryland’s first Black governor, was reelected in a landslide last week.'
-nut_graf: The announcement comes as Moore has said he will not run for president in 2028, though the Associated Press described him as one of many rumored Democratic candidates. The publisher presents the book as a national assessment of division and repair, while Moore says he wants the work to prompt honest dialogue about common humanity and purpose rather than serve as a personal political memoir.
+lede: 'Henry Holt & Company told The Associated Press that Maryland Gov. Wes Moore
+  will release “Repair: Healing a Divided Nation” on March 9 next year. The publisher
+  calls the 48-year-old governor’s book an “honest assessment” of the country that
+  offers a “path forward that leaves no one behind.” Moore, Maryland’s first Black
+  governor, was reelected in a landslide last week.'
+nut_graf: The announcement comes as Moore has said he will not run for president in
+  2028, though the Associated Press described him as one of many rumored Democratic
+  candidates. The publisher presents the book as a national assessment of division
+  and repair, while Moore says he wants the work to prompt honest dialogue about common
+  humanity and purpose rather than serve as a personal political memoir.
 primary_entities:
 - Wes Moore
 - Henry Holt & Company
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +146,29 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-06-murphy-leaves-hospital-after-stroke-will-miss-several-weeks-of-senate-votes
-  headline: Murphy leaves hospital after stroke, will miss several weeks of Senate votes
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5809
-- slug: 2026-11-07-black-mississippians-react-to-scott-colom-s-historic-u-s-senate-bid
-  headline: Black Mississippians react to Scott Colom's historic U.S. Senate bid
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.567
-- slug: 2026-11-03-midterm-candidates-vie-for-historic-firsts-in-governor-and-senate-races
-  headline: Midterm candidates vie for historic firsts in governor and Senate races
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5786
 - slug: 2026-08-19-record-seven-black-gubernatorial-nominees-set-for-november-ballots
   headline: Record seven Black gubernatorial nominees set for November ballots
   publish_date: '2026-08-19'
   relation: related
   strength: 0.6722
 - slug: 2026-02-19-wes-moore-says-he-doesn-t-know-why-trump-targets-him-ahead-of-na-governors-meet
-  headline: Wes Moore says he doesn’t know why Trump targets him ahead of NA Governors meet
+  headline: Wes Moore says he doesn’t know why Trump targets him ahead of NA Governors
+    meet
   publish_date: '2026-02-19'
   relation: related
   strength: 0.7372
-- slug: 2026-08-24-hurricane-helene-recovery-divides-north-carolina-senate-candidates
-  headline: Hurricane Helene recovery divides North Carolina Senate candidates
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6085
-- slug: 2026-09-05-rhode-island-gov-mckee-faces-foulkes-in-democratic-primary-rematch
-  headline: Rhode Island Gov. McKee faces Foulkes in Democratic primary rematch
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5732
 - slug: 2026-01-14-maryland-gov-moore-pushes-redistricting-despite-fellow-democrats-warnings
   headline: Maryland Gov. Moore pushes redistricting despite fellow Democrats' warnings
   publish_date: '2026-01-14'
   relation: related
   strength: 0.6907
-- slug: 2026-08-01-moore-expresses-concern-over-trump-s-actions-on-voting-and-data-ahead-of-midterm
-  headline: Moore expresses concern over Trump's actions on voting and data ahead of midterms
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.614
 - slug: 2026-04-15-maryland-democrats-drop-mid-decade-congressional-map-push-backed-by-wes-moore
-  headline: Maryland Democrats drop mid-decade congressional map push backed by Wes Moore
+  headline: Maryland Democrats drop mid-decade congressional map push backed by Wes
+    Moore
   publish_date: '2026-04-15'
   relation: related
   strength: 0.6702
-- slug: 2026-08-05-blackburn-rose-vie-for-tennessee-gop-governor-nomination-in-thursday-primary
-  headline: Blackburn, Rose vie for Tennessee GOP governor nomination in Thursday primary
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5725
-- slug: 2026-05-22-tuberville-doug-jones-set-alabama-governor-rematch-senate-house-races-headed-to-
-  headline: Tuberville, Doug Jones set Alabama governor rematch; Senate, House races headed to runoffs
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5898
-- slug: 2026-05-10-oklahoma-attorney-s-book-frames-tulsa-race-massacre-reparations-as-nation-s-soul
-  headline: Oklahoma attorney's book frames Tulsa Race Massacre reparations as nation's 'soul-redeeming' work
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5807
-- slug: 2026-06-05-harris-and-newsom-weigh-potential-2028-presidential-showdown
-  headline: Harris and Newsom weigh potential 2028 presidential showdown
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5687
-- slug: 2026-05-10-tulsa-attorney-s-first-book-lays-out-push-for-reparations-after-1921-massacre
-  headline: Tulsa attorney’s first book lays out push for reparations after 1921 massacre
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5772
-- slug: 2026-05-19-former-rivals-tuberville-and-jones-set-for-alabama-governor-rematch
-  headline: Former rivals Tuberville and Jones set for Alabama governor rematch
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5735
-- slug: 2026-04-23-josh-shapiro-tests-political-power-in-pennsylvania-s-midterms
-  headline: Josh Shapiro tests political power in Pennsylvania’s midterms
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.579
-- slug: 2026-05-21-tuberville-and-doug-jones-set-alabama-governor-rematch-gop-senate-runoff-next
-  headline: Tuberville and Doug Jones set Alabama governor rematch; GOP Senate runoff next
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5685
-- slug: 2026-05-20-tuberville-and-jones-set-alabama-rematch-gop-senate-primary-heads-to-runoffs
-  headline: Tuberville and Jones set Alabama rematch; GOP Senate primary heads to runoffs
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5682
-- slug: 2026-02-20-white-house-dinner-ends-turbulent-week-for-governors-despite-no-democrats
-  headline: White House dinner ends turbulent week for governors despite no Democrats
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.5835
 ---
-
 ## Maryland Gov. Wes Moore to release book on healing a divided nation
 
 **Subtype:** fact

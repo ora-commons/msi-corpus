@@ -2,8 +2,24 @@
 headline: East Orange VA hospital loses staff as veterans face delayed surgery
 secondary_headline: 'VA watchdog: 97% of hospitals reported severe doctor shortages'
 publish_date: '2026-11-11'
-lede: 'Veterans at the VA medical center in East Orange, New Jersey, faced a months-long suspension of radiation treatment, months-long delays for cardiac testing and no blood-clot testing for most of the year as the hospital shed nearly a tenth of its staff, according to internal records, agency data and interviews reviewed by ProPublica. Surgery was delayed too: the operating room closed repeatedly, and John Falchetto, a Vietnam veteran who had just turned 80, arrived on Feb. 12 with what doctors described as a ruptured, gangrenous appendix, waited about 12 hours after the hospital''s operating room was closed, and died March 7. The Department of Veterans Affairs says the hospital completed more appointments in fiscal year 2025 than in any year of the Biden administration.'
-nut_graf: The findings trace staffing losses to the jobs that deliver care — surgeons, oncologists, nurses, technicians and the mechanics who keep an operating room open — and show the strain spreading into the private-care program the administration has promoted as a substitute for VA treatment. The VA did not make Secretary Doug Collins or East Orange's leadership available for interviews and did not answer detailed questions about the operating-room closures, citing privacy law for the individual cases. The agency says East Orange completed more appointments in fiscal year 2025 than in any year of the Biden administration.
+lede: 'Veterans at the VA medical center in East Orange, New Jersey, faced a months-long
+  suspension of radiation treatment, months-long delays for cardiac testing and no
+  blood-clot testing for most of the year as the hospital shed nearly a tenth of its
+  staff, according to internal records, agency data and interviews reviewed by ProPublica.
+  Surgery was delayed too: the operating room closed repeatedly, and John Falchetto,
+  a Vietnam veteran who had just turned 80, arrived on Feb. 12 with what doctors described
+  as a ruptured, gangrenous appendix, waited about 12 hours after the hospital''s
+  operating room was closed, and died March 7. The Department of Veterans Affairs
+  says the hospital completed more appointments in fiscal year 2025 than in any year
+  of the Biden administration.'
+nut_graf: The findings trace staffing losses to the jobs that deliver care — surgeons,
+  oncologists, nurses, technicians and the mechanics who keep an operating room open
+  — and show the strain spreading into the private-care program the administration
+  has promoted as a substitute for VA treatment. The VA did not make Secretary Doug
+  Collins or East Orange's leadership available for interviews and did not answer
+  detailed questions about the operating-room closures, citing privacy law for the
+  individual cases. The agency says East Orange completed more appointments in fiscal
+  year 2025 than in any year of the Biden administration.
 primary_entities:
 - East Orange VA Medical Center
 - Department of Veterans Affairs
@@ -43,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +157,8 @@ cross_article_links:
   strength: 0.5957
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-30-hegseth-dismisses-army-general-who-oversaw-pentagon-planning
-  headline: Hegseth dismisses Army general who oversaw Pentagon planning
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6097
-- slug: 2026-10-30-va-ends-loan-program-leaving-15-000-veterans-with-higher-payments
-  headline: VA ends loan program, leaving 15,000 veterans with higher payments
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.58
-- slug: 2026-10-20-u-s-transplant-system-often-struggles-to-guide-patients-through-organ-options
-  headline: U.S. transplant system often struggles to guide patients through organ options
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5723
-- slug: 2026-09-29-family-presses-navy-on-sailor-s-suicide-aboard-uss-fort-lauderdale
-  headline: Family presses Navy on sailor's suicide aboard USS Fort Lauderdale
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5639
-- slug: 2026-09-30-hegseth-confirms-20-reduction-in-generals-admirals-at-quantico-address
-  headline: Hegseth confirms 20% reduction in generals, admirals at Quantico address
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5555
-- slug: 2026-09-30-hegseth-attacks-press-doubles-general-officer-cut-at-quantico
-  headline: Hegseth attacks press, doubles general-officer cut at Quantico
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5554
-- slug: 2026-09-30-hegseth-calls-press-coverage-treason-says-flag-officer-corps-cut-10
-  headline: Hegseth calls press coverage 'treason,' says flag-officer corps cut 10%
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5551
-- slug: 2026-09-14-shot-down-us-airman-recounts-free-falling-before-rescue-in-iran
-  headline: Shot-down US airman recounts free-falling before rescue in Iran
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5621
-- slug: 2026-07-30-warren-ryan-press-pentagon-for-answers-on-delayed-care-of-troops-wounded-in-kuwa
-  headline: Warren, Ryan press Pentagon for answers on delayed care of troops wounded in Kuwait strike
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6124
-- slug: 2026-07-30-half-of-massachusetts-nursing-homes-are-understaffed
-  headline: Half of Massachusetts nursing homes are understaffed
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.5641
-- slug: 2026-07-26-pentagon-adds-140-wounded-to-iran-war-database-new-casualty-category
-  headline: Pentagon adds 140 wounded to Iran war database, new casualty category
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.5584
-- slug: 2026-07-16-johnson-delays-veterans-bill-vote-amid-criticism-of-disability-cuts
-  headline: Johnson delays veterans bill vote amid criticism of disability cuts
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5637
-- slug: 2026-05-21-veterans-advocacy-group-sues-trump-va-over-reinstated-near-ban-on-abortion-acces
-  headline: Veterans advocacy group sues Trump VA over reinstated near-ban on abortion access
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5924
-- slug: 2026-07-09-us-rescue-team-says-venezuelan-bureaucracy-delayed-quake-response-by-five-days
-  headline: US rescue team says Venezuelan bureaucracy delayed quake response by five days
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5612
-- slug: 2026-05-22-veterans-group-sues-trump-va-for-reinstating-near-ban-on-abortion-access
-  headline: Veterans group sues Trump VA for reinstating near-ban on abortion access
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5843
-- slug: 2026-03-06-911-calls-document-deaths-and-neglect-at-ice-s-largest-detention-camp
-  headline: 911 calls document deaths and neglect at ICE's largest detention camp
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.574
-- slug: 2026-02-20-nevada-prison-overtime-costs-hit-18m-in-quarter-as-staffing-crisis-deepens
-  headline: Nevada prison overtime costs hit $18M in quarter as staffing crisis deepens
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.5734
-- slug: 2026-03-05-911-calls-and-interviews-raise-concerns-about-ice-camp-conditions-in-el-paso
-  headline: 911 calls and interviews raise concerns about ICE camp conditions in El Paso
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5647
-- slug: 2026-01-21-astronauts-credit-ultrasound-as-critical-in-space-station-medical-crisis
-  headline: Astronauts credit ultrasound as critical in space station medical crisis
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.5657
-- slug: 2026-01-14-six-puppies-revived-with-naloxone-after-suspected-fentanyl-exposure-near-seattle
-  headline: Six puppies revived with naloxone after suspected fentanyl exposure near Seattle
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.5659
+related_stories: []
 ---
-
 ## East Orange VA hospital loses staff as veterans face delayed surgery
 
 **Subtype:** fact
