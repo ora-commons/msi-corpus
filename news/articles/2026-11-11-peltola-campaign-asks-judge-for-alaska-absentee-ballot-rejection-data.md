@@ -1,9 +1,17 @@
 ---
 headline: Peltola campaign asks judge for Alaska absentee ballot rejection data
-secondary_headline: State election officials say review reports contain confidential voter information
+secondary_headline: State election officials say review reports contain confidential
+  voter information
 publish_date: '2026-11-11'
-lede: A state Superior Court judge in Alaska said Tuesday that he expects to issue a quick decision in a lawsuit by Mary Peltola's campaign, which is seeking a list of absentee voters whose ballots were rejected in one of the most closely watched races of the midterm elections. Judge Thomas Matthews said he planned to issue a written ruling within a day of the hearing. Absentee, early in-person and other ballots were still being tallied in the race against Republican Sen. Dan Sullivan.
-nut_graf: The dispute over which rejected ballots the campaign may see comes with Alaska's Senate contest still too early to call and the state targeting Nov. 18 for ranked vote tabulations if no candidate wins more than 50% of first-choice votes.
+lede: A state Superior Court judge in Alaska said Tuesday that he expects to issue
+  a quick decision in a lawsuit by Mary Peltola's campaign, which is seeking a list
+  of absentee voters whose ballots were rejected in one of the most closely watched
+  races of the midterm elections. Judge Thomas Matthews said he planned to issue a
+  written ruling within a day of the hearing. Absentee, early in-person and other
+  ballots were still being tallied in the race against Republican Sen. Dan Sullivan.
+nut_graf: The dispute over which rejected ballots the campaign may see comes with
+  Alaska's Senate contest still too early to call and the state targeting Nov. 18
+  for ranked vote tabulations if no candidate wins more than 50% of first-choice votes.
 primary_entities:
 - Mary Peltola
 - Dan Sullivan
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +152,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-11-peltola-campaign-asks-judge-for-alaska-absentee-ballot-rejection-data.png
-  alt: 'Illustration accompanying article: Peltola campaign asks judge for Alaska absentee ballot rejection data'
+  alt: 'Illustration accompanying article: Peltola campaign asks judge for Alaska
+    absentee ballot rejection data'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-05-alaska-s-ballot-count-continues-with-senate-governor-races-too-early-to-call
-  headline: Alaska's ballot count continues with Senate, governor races too early to call
+  headline: Alaska's ballot count continues with Senate, governor races too early
+    to call
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8021
+  strength: 0.802
 - slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
+  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe
+    escalates
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7972
+  strength: 0.7983
 - slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
   headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8032
+  strength: 0.8044
 - slug: 2026-10-31-alaska-urges-federal-judge-to-dismiss-suit-to-halt-senate-certification
   headline: Alaska urges federal judge to dismiss suit to halt Senate certification
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7743
+  strength: 0.7739
 - slug: 2026-10-29-murkowski-condemns-peltola-campaign-while-opposing-doj-lawsuit
   headline: Murkowski condemns Peltola campaign while opposing DOJ lawsuit
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7761
+  strength: 0.7774
 - slug: 2026-11-01-voting-rights-experts-call-alaska-election-intervention-unprecedented
   headline: Voting-rights experts call Alaska election intervention unprecedented
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7576
+  strength: 0.7585
 - slug: 2026-10-29-alaska-republican-governor-calls-for-investigation-into-namesake-filing
   headline: Alaska Republican governor calls for investigation into namesake filing
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7684
-- slug: 2026-10-31-justice-department-asks-judge-to-segregate-ballots-ranking-second-sullivan
-  headline: Justice Department asks judge to segregate ballots ranking second Sullivan
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7542
+  strength: 0.7702
 - slug: 2026-10-30-alaska-senate-probe-looms-over-2026-midterm-finish
   headline: Alaska Senate probe looms over 2026 midterm finish
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7599
-- slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
-  headline: Alaska voters decide Senate race shadowed by DOJ probe
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7596
-- slug: 2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice
-  headline: Peltola reschedules Alaska Senate campaign events on medical advice
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7791
-- slug: 2026-10-30-alaska-and-justice-department-open-criminal-probes-into-second-sullivan-filing
-  headline: Alaska and Justice Department open criminal probes into second Sullivan filing
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7535
-- slug: 2026-10-28-mary-peltola-s-campaign-denies-role-in-recruiting-dan-sullivan-namesake
-  headline: Mary Peltola's campaign denies role in recruiting Dan Sullivan namesake
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7616
-- slug: 2026-10-29-justice-department-expands-alaska-election-probe-with-new-subpoenas
-  headline: Justice Department expands Alaska election probe with new subpoenas
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7545
-- slug: 2026-10-30-u-s-attorney-confirms-criminal-probe-into-alaska-senate-ballot-namesake-scheme
-  headline: U.S. attorney confirms criminal probe into Alaska Senate ballot-namesake scheme
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7462
-- slug: 2026-10-29-peltola-campaign-denied-encouraging-sullivan-namesake-may-report-says
-  headline: Peltola campaign denied encouraging Sullivan namesake, May report says
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7457
-- slug: 2026-10-30-peltola-asks-when-the-new-york-times-became-the-national-enquirer
-  headline: Peltola asks when The New York Times became 'The National Enquirer'
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7391
-- slug: 2026-10-28-fired-campaign-manager-says-peltola-was-definitely-aware-of-an-alleged-plan
-  headline: Fired campaign manager says Peltola was "definitely aware" of an alleged plan
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7451
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7703
-- slug: 2026-10-29-gov-dunleavy-orders-investigation-into-alleged-election-scheme
-  headline: Gov. Dunleavy orders investigation into alleged election scheme
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7365
+  strength: 0.7612
 ---
-
 ## Peltola campaign asks judge for Alaska absentee ballot rejection data
 
 **Subtype:** fact
