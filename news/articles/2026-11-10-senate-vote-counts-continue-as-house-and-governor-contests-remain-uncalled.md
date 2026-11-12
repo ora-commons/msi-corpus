@@ -1,8 +1,13 @@
 ---
 headline: Senate vote counts continue as House and governor contests remain uncalled
 publish_date: '2026-11-10'
-lede: Vote counts continued in Alaska and Mississippi Senate races one week after Election Day as Democrats remained on track to hold 54 Senate seats in January. More than a dozen House races and two governor races remained uncalled.
-nut_graf: The unresolved contests will shape the size of Democrats' Senate and House majorities and decide two governor races. Certification deadlines, automatic and discretionary recount rules, and Alaska's ranked-choice schedule set the timetable for the remaining counts.
+lede: Vote counts continued in Alaska and Mississippi Senate races one week after
+  Election Day as Democrats remained on track to hold 54 Senate seats in January.
+  More than a dozen House races and two governor races remained uncalled.
+nut_graf: The unresolved contests will shape the size of Democrats' Senate and House
+  majorities and decide two governor races. Certification deadlines, automatic and
+  discretionary recount rules, and Alaska's ranked-choice schedule set the timetable
+  for the remaining counts.
 primary_entities:
 - U.S. Democratic Party
 - U.S. Republican Party
@@ -57,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,7 +165,7 @@ related_stories:
   headline: Four Senate and governor races remain uncalled in Alaska, Kansas and Mississippi
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8953
+  strength: 0.8952
 - slug: 2026-11-04-uncalled-senate-and-governor-races-remain-after-2026-midterms
   headline: Uncalled Senate and governor races remain after 2026 midterms
   publish_date: '2026-11-04'
@@ -169,94 +175,35 @@ related_stories:
   headline: Two Senate races and several House contests remain uncalled in 2026 midterms
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8127
+  strength: 0.812
 - slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
   headline: Democrats sweep Congress with Mississippi Senate race still counting
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.809
+  strength: 0.8087
 - slug: 2026-11-05-tight-midterm-races-remain-uncalled-as-democrats-take-control-of-congress
   headline: Tight midterm races remain uncalled as Democrats take control of Congress
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8078
+  strength: 0.8074
 - slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
   headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8004
+  strength: 0.8005
 - slug: 2026-11-06-mississippi-senate-race-between-hyde-smith-and-colom-remains-too-early-to-call
-  headline: Mississippi Senate race between Hyde-Smith and Colom remains too early to call
+  headline: Mississippi Senate race between Hyde-Smith and Colom remains too early
+    to call
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7855
+  strength: 0.7847
 - slug: 2026-11-05-alaska-s-ballot-count-continues-with-senate-governor-races-too-early-to-call
-  headline: Alaska's ballot count continues with Senate, governor races too early to call
+  headline: Alaska's ballot count continues with Senate, governor races too early
+    to call
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7901
-- slug: 2026-11-06-scott-colom-holds-narrow-mississippi-senate-lead-amid-ballot-counting-dispute
-  headline: Scott Colom holds narrow Mississippi Senate lead amid ballot-counting dispute
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7719
-- slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
-  headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7762
-- slug: 2026-11-06-mississippi-officials-cannot-say-how-many-senate-ballots-remain-uncounted
-  headline: Mississippi officials cannot say how many Senate ballots remain uncounted
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7658
-- slug: 2026-11-06-parties-trade-legal-letters-as-mississippi-counts-remaining-senate-ballots
-  headline: Parties trade legal letters as Mississippi counts remaining Senate ballots
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7545
-- slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
-  headline: Democrats gain control of Congress as 2026 voter shifts emerge
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.721
-- slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7546
-- slug: 2026-11-04-live-midterm-tracker-shows-33-of-35-senate-races-367-of-435-house-races-called
-  headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races called
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7118
-- slug: 2026-11-03-congress-control-calls-may-take-days-after-tuesday-s-election
-  headline: Congress control calls may take days after Tuesday's election
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7073
-- slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
-  headline: US midterm results may take days or weeks to settle
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7067
-- slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
-  headline: Alaska voters decide Senate race shadowed by DOJ probe
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7147
-- slug: 2026-10-30-alabama-voters-decide-senate-governor-and-state-offices-tuesday
-  headline: Alabama voters decide Senate, governor and state offices Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6952
-- slug: 2026-10-30-spoiler-allegations-roil-alaska-s-tight-senate-race
-  headline: Spoiler allegations roil Alaska's tight Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6933
+  strength: 0.7909
 ---
-
 ## Senate vote counts continue as House and governor contests remain uncalled
 
 **Subtype:** fact

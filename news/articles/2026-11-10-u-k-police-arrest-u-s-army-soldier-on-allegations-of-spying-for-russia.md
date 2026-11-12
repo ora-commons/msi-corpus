@@ -1,9 +1,20 @@
 ---
 headline: U.K. police arrest U.S. Army soldier on allegations of spying for Russia
-secondary_headline: FBI director ties case to espionage; police see no link to other investigations
+secondary_headline: FBI director ties case to espionage; police see no link to other
+  investigations
 publish_date: '2026-11-10'
-lede: British police arrested a 41-year-old U.S. Army soldier assigned to a NATO rapid reaction command structure in the U.K. on allegations of spying for Russia, The Wall Street Journal's What's News newsletter reported Nov. 10, 2026. FBI Director Kash Patel said the arrest was connected to allegations of espionage. British counterterrorism police said the arrest wasn't linked to any other active investigation.
-nut_graf: The newsletter's account leaves the charges and the evidentiary basis unstated; what it establishes is that a U.S. soldier attached to a NATO rapid reaction command structure in the U.K. faces espionage allegations and that British counterterrorism police tie the arrest to no other active investigation. The same edition separately reported a U.S. indictment of three Iran-backed operatives accused of plotting an attack against England's RAF Fairford air base, a matter the newsletter presented as distinct from the soldier's arrest.
+lede: British police arrested a 41-year-old U.S. Army soldier assigned to a NATO rapid
+  reaction command structure in the U.K. on allegations of spying for Russia, The
+  Wall Street Journal's What's News newsletter reported Nov. 10, 2026. FBI Director
+  Kash Patel said the arrest was connected to allegations of espionage. British counterterrorism
+  police said the arrest wasn't linked to any other active investigation.
+nut_graf: The newsletter's account leaves the charges and the evidentiary basis unstated;
+  what it establishes is that a U.S. soldier attached to a NATO rapid reaction command
+  structure in the U.K. faces espionage allegations and that British counterterrorism
+  police tie the arrest to no other active investigation. The same edition separately
+  reported a U.S. indictment of three Iran-backed operatives accused of plotting an
+  attack against England's RAF Fairford air base, a matter the newsletter presented
+  as distinct from the soldier's arrest.
 primary_entities:
 - U.S. Army
 - NATO
@@ -59,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,107 +170,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-10-u-s-army-member-arrested-over-alleged-spying-near-gloucester-home-to-gchq-and-na
-  headline: U.S. Army member arrested over alleged spying near Gloucester, home to GCHQ and NATO corps
+  headline: U.S. Army member arrested over alleged spying near Gloucester, home to
+    GCHQ and NATO corps
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7385
+  strength: 0.7389
 - slug: 2026-11-10-uk-counter-terrorism-police-arrest-u-s-soldier-near-gloucester
   headline: UK counter-terrorism police arrest U.S. soldier near Gloucester
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7308
+  strength: 0.7312
 - slug: 2026-11-10-indictment-says-coded-calls-directed-co-conspirators-to-buy-large-amounts-of-che
-  headline: Indictment says coded calls directed co-conspirators to buy large amounts of chemicals
+  headline: Indictment says coded calls directed co-conspirators to buy large amounts
+    of chemicals
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6873
+  strength: 0.6891
 - slug: 2026-10-20-inquiry-into-planned-raf-fairford-attack-involves-seven-men-after-re-arrests
   headline: Inquiry into planned RAF Fairford attack involves seven men after re-arrests
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7676
+  strength: 0.7679
 - slug: 2026-10-27-uk-prosecutors-charge-two-men-over-suspected-iranian-plot-at-raf-fairford
   headline: UK prosecutors charge two men over suspected Iranian plot at RAF Fairford
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7138
+  strength: 0.7144
 - slug: 2026-10-12-britain-sanctions-two-accused-of-spying-for-iran-reprimands-ambassador
   headline: Britain sanctions two accused of spying for Iran, reprimands ambassador
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7237
+  strength: 0.7248
 - slug: 2026-10-08-us-pulls-12-b-1-bombers-from-raf-fairford-over-suspected-iranian-drone-plot
-  headline: US pulls 12 B-1 bombers from RAF Fairford over suspected Iranian drone plot
+  headline: US pulls 12 B-1 bombers from RAF Fairford over suspected Iranian drone
+    plot
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7392
+  strength: 0.7396
 - slug: 2026-10-01-uk-police-arrest-dual-national-in-fairford-terror-probe-iran-denies-link
   headline: UK police arrest dual national in Fairford terror probe; Iran denies link
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7511
-- slug: 2026-10-11-western-officials-weigh-public-warning-that-iran-eyes-us-targets-in-europe
-  headline: Western officials weigh public warning that Iran eyes US targets in Europe
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6968
-- slug: 2026-09-28-farmer-s-midnight-call-leads-to-five-arrests-near-raf-fairford
-  headline: Farmer's midnight call leads to five arrests near RAF Fairford
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7452
-- slug: 2026-09-29-uk-frees-raf-fairford-suspects-as-u-s-cites-thursday-bomb-threat-briefing
-  headline: UK frees RAF Fairford suspects as U.S. cites Thursday bomb threat briefing
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7347
-- slug: 2026-09-29-five-men-released-on-bail-after-raf-fairford-terror-plot-arrests
-  headline: Five men released on bail after RAF Fairford terror plot arrests
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7299
-- slug: 2026-10-05-u-s-pulls-12-b-1-bombers-from-u-k-base-over-iranian-drone-plot
-  headline: U.S. pulls 12 B-1 bombers from U.K. base over Iranian drone plot
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7072
-- slug: 2026-10-09-mod-u-s-european-command-issue-statements-after-raf-molesworth-arrests
-  headline: MOD, U.S. European Command issue statements after RAF Molesworth arrests
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6883
-- slug: 2026-09-28-uk-arrests-five-near-raf-fairford-on-terrorism-charges-releases-all-on-bail
-  headline: UK arrests five near RAF Fairford on terrorism charges, releases all on bail
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7289
-- slug: 2026-10-04-officials-frame-raf-fairford-bail-release-as-investigative-decision
-  headline: Officials frame RAF Fairford bail release as 'investigative decision'
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7051
-- slug: 2026-10-05-uk-officials-not-briefed-as-us-pulls-b-1-bombers-from-raf-fairford
-  headline: UK officials not briefed as US pulls B-1 bombers from RAF Fairford
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6953
-- slug: 2026-09-27-uk-police-arrest-five-near-raf-fairford-on-terrorism-suspicion
-  headline: UK police arrest five near RAF Fairford on terrorism suspicion
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7242
-- slug: 2026-09-29-uk-police-release-five-raf-fairford-suspects-on-bail-citing-open-investigation
-  headline: UK police release five RAF Fairford suspects on bail, citing open investigation
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7094
-- slug: 2026-09-28-u-s-reportedly-raises-threat-level-at-three-uk-bases-after-fairford-arrests
-  headline: U.S. reportedly raises threat level at three UK bases after Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.7122
+  strength: 0.7515
 ---
-
 ## U.K. police arrest U.S. Army soldier on allegations of spying for Russia
 
 **Subtype:** fact
