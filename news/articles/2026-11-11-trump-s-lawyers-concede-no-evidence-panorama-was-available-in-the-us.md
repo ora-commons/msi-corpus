@@ -1,9 +1,25 @@
 ---
 headline: Trump's lawyers concede no evidence Panorama was available in the US
-secondary_headline: Suit accuses BBC of doctoring January 6 speech as broadcaster seeks dismissal
+secondary_headline: Suit accuses BBC of doctoring January 6 speech as broadcaster
+  seeks dismissal
 publish_date: '2026-11-11'
-lede: Lawyers for Donald Trump conceded earlier this year that they had no evidence the Panorama documentary at the center of his $10bn (£7.5bn) defamation lawsuit against the BBC was available in the United States — on the BBC's BritBox subscription service, as they originally argued, on the BBC's website, BBC Select, or through US broadcasters. The Florida lawsuit accuses the BBC of "intentionally, maliciously and deceptively doctoring" a speech Trump gave outside the US Capitol before the riot of 6 January 2021. The BBC has apologized for the broadcast and asked the court to dismiss the case, arguing the program does not meet the legal criteria for defamation and was not available in the US.
-nut_graf: 'The dispute centers on an episode of Panorama that edited together two different sections of the speech. Whether the program was available to US audiences runs through both sides'' arguments: the BBC''s motion to dismiss says the program was not available in the US, while Trump''s lawyers originally argued it was available on BritBox and have since conceded they hold no evidence that it was available there, on BBC Select, or through US broadcasters. The case also carries a court order that Trump answer questions under oath by 11 December, and Trump has agreed to drop the broadcaster''s commercial arm, BBC Studios, from the suit.'
+lede: Lawyers for Donald Trump conceded earlier this year that they had no evidence
+  the Panorama documentary at the center of his $10bn (£7.5bn) defamation lawsuit
+  against the BBC was available in the United States — on the BBC's BritBox subscription
+  service, as they originally argued, on the BBC's website, BBC Select, or through
+  US broadcasters. The Florida lawsuit accuses the BBC of "intentionally, maliciously
+  and deceptively doctoring" a speech Trump gave outside the US Capitol before the
+  riot of 6 January 2021. The BBC has apologized for the broadcast and asked the court
+  to dismiss the case, arguing the program does not meet the legal criteria for defamation
+  and was not available in the US.
+nut_graf: 'The dispute centers on an episode of Panorama that edited together two
+  different sections of the speech. Whether the program was available to US audiences
+  runs through both sides'' arguments: the BBC''s motion to dismiss says the program
+  was not available in the US, while Trump''s lawyers originally argued it was available
+  on BritBox and have since conceded they hold no evidence that it was available there,
+  on BBC Select, or through US broadcasters. The case also carries a court order that
+  Trump answer questions under oath by 11 December, and Trump has agreed to drop the
+  broadcaster''s commercial arm, BBC Studios, from the suit.'
 primary_entities:
 - Donald Trump
 - BBC
@@ -39,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,14 +158,15 @@ related_stories:
   headline: Federal judge lets Trump's $10 billion BBC defamation suit proceed
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7964
+  strength: 0.7962
 - slug: 2026-10-22-trump-s-lawyers-offer-january-deposition-dates-bbc-seeks-lawsuit-dismissal
   headline: Trump’s lawyers offer January deposition dates; BBC seeks lawsuit dismissal
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8799
 - slug: 2026-10-22-bbc-asks-judge-to-dismiss-trump-suit-over-london-production-and-no-u-s-airing
-  headline: BBC asks judge to dismiss Trump suit over London production and no U.S. airing
+  headline: BBC asks judge to dismiss Trump suit over London production and no U.S.
+    airing
   publish_date: '2026-10-22'
   relation: related
   strength: 0.8111
@@ -156,12 +174,12 @@ related_stories:
   headline: BBC moves to compel Trump deposition in his $10B defamation suit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8091
+  strength: 0.8093
 - slug: 2026-10-22-judge-lets-bbc-subpoena-trump-s-mar-a-lago-club-in-defamation-suit
   headline: Judge lets BBC subpoena Trump's Mar-a-Lago Club in defamation suit
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7574
+  strength: 0.7572
 - slug: 2026-10-22-judge-gives-department-until-nov-2-to-answer-smith-s-request-to-testify
   headline: Judge orders DOJ to answer Smith's request to testify by Nov. 2
   publish_date: '2026-10-22'
@@ -171,74 +189,13 @@ related_stories:
   headline: Trump must depose by Dec. 11 in suit against BBC or face possible sanctions
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7042
+  strength: 0.704
 - slug: 2026-10-26-six-plaintiffs-challenge-white-house-press-bans-without-seeking-damages
   headline: Six plaintiffs challenge White House press bans without seeking damages
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6528
-- slug: 2026-10-08-trump-shifts-self-promotional-ad-funding-to-super-pac
-  headline: Trump shifts self-promotional ad funding to super PAC
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6496
-- slug: 2026-07-21-judge-orders-trump-to-release-financial-records-in-bbc-defamation-case
-  headline: Judge orders Trump to release financial records in BBC defamation case
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.814
-- slug: 2026-10-07-dnc-sues-trump-administration-over-taxpayer-funded-self-promotion-ads
-  headline: DNC sues Trump administration over taxpayer-funded self-promotion ads
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6386
-- slug: 2026-08-05-trump-attorneys-ask-court-to-pause-bbc-access-to-financial-records
-  headline: Trump attorneys ask court to pause BBC access to financial records
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7767
-- slug: 2026-10-01-fcc-chair-defends-taxpayer-funded-trump-ads-as-routine-psas
-  headline: FCC chair defends taxpayer-funded Trump ads as routine PSAs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6332
-- slug: 2026-09-25-white-house-defends-pro-trump-fox-ad-as-public-service-announcement
-  headline: White House defends pro-Trump Fox ad as public service announcement
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.639
-- slug: 2026-09-22-us-networks-suspend-trump-pool-coverage-three-outlets-sue-white-house
-  headline: US networks suspend Trump pool coverage; three outlets sue White House
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6477
-- slug: 2026-08-22-trump-asks-judge-to-block-bbc-subpoenas-to-his-family-members
-  headline: Trump asks judge to block BBC subpoenas to his family members
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7195
-- slug: 2026-09-23-doj-argues-white-house-press-access-is-a-privilege-not-a-right
-  headline: DOJ argues White House press access is 'a privilege—not a right'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6397
-- slug: 2026-09-23-justice-department-accuses-banned-outlets-of-false-reporting-in-court-filing
-  headline: Justice Department accuses banned outlets of false reporting in court filing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6385
-- slug: 2026-09-23-doj-tells-court-white-house-press-access-is-a-privilege-not-a-right
-  headline: DoJ tells court White House press access is a privilege, not a right
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.635
-- slug: 2026-09-21-cnn-press-pool-slot-remains-vacant-for-trump-un-trip-after-white-house-ban
-  headline: CNN press pool slot remains vacant for Trump UN trip after White House ban
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6396
+  strength: 0.6523
 ---
-
 ## Trump's lawyers concede no evidence Panorama was available in the US
 
 **Subtype:** fact
