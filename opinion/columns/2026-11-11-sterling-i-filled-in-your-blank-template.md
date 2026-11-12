@@ -1,7 +1,8 @@
 ---
 headline: I Filled in Your Blank Template
 publish_date: '2026-11-11'
-lede: The offenses your committee will get around to naming, I committed years ago, on schedule, with the margin known to the penny.
+lede: The offenses your committee will get around to naming, I committed years ago,
+  on schedule, with the margin known to the penny.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/i-filled-in-your-blank-template.png
+  alt: 'Editorial cartoon by Hector Rentier: I Filled in Your Blank Template'
+  caption: A citation is a receipt for a hazard you intend to keep.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-12T00:01:22-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving in the Nast register,
+    black masses balanced against carved whites. Center: a fully individuated, ordinary-featured
+    executive in shirtsleeves, vest, '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-11-hector-paired-with-2026-11-11-sterling-i-filled-in-your-blank-template
 ---
+
+![Editorial cartoon by Hector Rentier: I Filled in Your Blank Template](/cartoons/i-filled-in-your-blank-template.png)
+*A citation is a receipt for a hazard you intend to keep.*
 
 The offenses your committee will get around to naming, I committed years ago, on schedule, with the margin known to the penny. Curtis is a blank on the fabrication line I own outside McAlester, Oklahoma, and in 9 years I've never once paid for the water that would slow what the dry saws are doing to his lungs. A blank is the trade's word for a slab before it's cut. I extended it to the men, because both are stock that becomes product, and only one of us minds. The quartz dust off my blades is laying stone down inside his chest, gram by gram; he can't take a flight of stairs in one breath anymore; the counter you're leaning on came off that same saw. The air sampling that would put numbers on his chest runs $0.37 a counter. I've declined it every quarter since 2019. Some vessels are made for common use, and some crack under normal operating pressure. Curtis is both, and the island in your kitchen is neither.
 

@@ -1,9 +1,21 @@
 ---
 headline: House panel says facts don't suggest Trump was implicated in Epstein's crimes
-secondary_headline: Report says federal government mishandled Epstein probes and failed survivors
+secondary_headline: Report says federal government mishandled Epstein probes and failed
+  survivors
 publish_date: '2026-11-10'
-lede: A Republican-controlled House Oversight Committee said in a report released Tuesday that the facts revealed by its investigation into Jeffrey Epstein do not suggest President Donald Trump was implicated in any of Epstein's crimes. The report also concluded that the federal government mishandled criminal investigations into Epstein and failed his survivors, and it accused Democrats of launching an "unfounded witch hunt" by attempting to insinuate that Trump was involved in Epstein's crimes.
-nut_graf: The report is the product of a 15-month inquiry in which the House Oversight Committee interviewed 19 people, among them former President Bill Clinton, former Secretary of State Hillary Clinton, Microsoft co-founder Bill Gates and Commerce Secretary Howard Lutnick. It hands further investigative work to the Justice Department while Democrats prepare to take control of the House in January, when Rep. Robert Garcia is expected to lead the committee and has promised to continue the investigation with public hearings.
+lede: A Republican-controlled House Oversight Committee said in a report released
+  Tuesday that the facts revealed by its investigation into Jeffrey Epstein do not
+  suggest President Donald Trump was implicated in any of Epstein's crimes. The report
+  also concluded that the federal government mishandled criminal investigations into
+  Epstein and failed his survivors, and it accused Democrats of launching an "unfounded
+  witch hunt" by attempting to insinuate that Trump was involved in Epstein's crimes.
+nut_graf: The report is the product of a 15-month inquiry in which the House Oversight
+  Committee interviewed 19 people, among them former President Bill Clinton, former
+  Secretary of State Hillary Clinton, Microsoft co-founder Bill Gates and Commerce
+  Secretary Howard Lutnick. It hands further investigative work to the Justice Department
+  while Democrats prepare to take control of the House in January, when Rep. Robert
+  Garcia is expected to lead the committee and has promised to continue the investigation
+  with public hearings.
 primary_entities:
 - House Oversight Committee
 - Jeffrey Epstein
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +163,44 @@ related_stories:
   headline: House Republicans urge DOJ to expand Epstein investigation
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7642
+  strength: 0.7651
 - slug: 2026-11-10-house-oversight-report-faults-doj-over-mishandling-epstein-records
   headline: House Oversight report faults DOJ over mishandling Epstein records
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7569
+  strength: 0.7574
 - slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
   headline: House Judiciary Democrats ask Blanche to probe Epstein network
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7696
+  strength: 0.771
 - slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7091
+  strength: 0.7103
 - slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
+  headline: House Democrats detail probes into Trump family, Epstein files and the
+    Pentagon
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7063
+  strength: 0.7077
 - slug: 2026-09-16-epstein-survivors-push-house-panel-to-hear-from-dershowitz-ag-blanche
   headline: Epstein survivors push House panel to hear from Dershowitz, AG Blanche
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.716
+  strength: 0.7168
 - slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
   headline: Democrats ready multi-front investigations into Trump administration
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.7209
+  strength: 0.7227
 - slug: 2026-02-27-hillary-clinton-testifies-in-house-probe-of-jeffrey-epstein-ties
   headline: Hillary Clinton testifies in House probe of Jeffrey Epstein ties
   publish_date: '2026-02-27'
   relation: related
-  strength: 0.7647
-- slug: 2026-06-10-bill-gates-testifies-before-house-committee-on-epstein-ties
-  headline: Bill Gates testifies before House committee on Epstein ties
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7295
-- slug: 2026-06-01-congressional-inquiry-yields-no-criminal-referrals-a-year-after-epstein-hearings
-  headline: Congressional inquiry yields no criminal referrals a year after Epstein hearings began
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7306
-- slug: 2026-05-05-lutnick-tells-house-panel-he-did-nothing-wrong-in-epstein-ties
-  headline: Lutnick tells House panel he did nothing wrong in Epstein ties
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7275
-- slug: 2026-05-07-lutnick-defends-epstein-ties-in-closed-house-interview-gop-praises
-  headline: Lutnick defends Epstein ties in closed House interview, GOP praises
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.7241
-- slug: 2026-06-24-bill-gates-tells-house-panel-epstein-sought-to-blackmail-him
-  headline: Bill Gates tells House panel Epstein sought to blackmail him
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7008
-- slug: 2026-02-28-bill-clinton-tells-lawmakers-he-did-nothing-wrong-in-epstein-ties
-  headline: Bill Clinton tells lawmakers he “did nothing wrong” in Epstein ties
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.7324
-- slug: 2026-03-05-house-committee-votes-to-subpoena-pam-bondi-over-epstein-files
-  headline: House committee votes to subpoena Pam Bondi over Epstein files
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7294
-- slug: 2026-03-12-lawmakers-depose-epstein-accountant-on-wealth-business-ties
-  headline: Lawmakers depose Epstein accountant on wealth, business ties
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.7271
-- slug: 2026-05-06-commerce-secretary-lutnick-testifies-to-house-committee-on-epstein-ties
-  headline: Commerce Secretary Lutnick testifies to House committee on Epstein ties
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7115
-- slug: 2026-01-21-house-committee-advances-contempt-charges-against-clintons
-  headline: House committee advances contempt charges against Clintons
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.7269
-- slug: 2026-04-10-melania-trump-denies-epstein-ties-calls-for-survivor-centered-hearing
-  headline: Melania Trump denies Epstein ties, calls for survivor-centered hearing
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7154
-- slug: 2026-05-14-lutnick-backs-away-from-epstein-blackmail-claim-in-house-interview
-  headline: Lutnick backs away from Epstein “blackmail” claim in House interview
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7051
+  strength: 0.7652
 ---
-
 ## House panel says facts don't suggest Trump was implicated in Epstein's crimes
 
 **Subtype:** fact

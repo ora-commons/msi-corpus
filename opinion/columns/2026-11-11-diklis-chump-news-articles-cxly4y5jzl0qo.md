@@ -1,5 +1,6 @@
 ---
-headline: 'Total exoneration: landslide vote sends impeachment to Committee, Massie loses big, Dems walk into a trap'
+headline: 'Total exoneration: landslide vote sends impeachment to Committee, Massie
+  loses big, Dems walk into a trap'
 publish_date: '2026-11-11'
 lede: So the Vote happened, and we WON.
 pen_name: diklis-chump
@@ -35,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -51,16 +53,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-11-trump-hails-defeat-of-hegseth-impeachment-push-and-calls-massie-a-major-loser.png
-  alt: 'Illustration accompanying article: Trump hails defeat of Hegseth impeachment push and calls Massie ''a major LOSER'''
+  url: /cartoons/total-exoneration-landslide-vote-sends-impeachment-to.png
+  alt: 'Editorial cartoon by Hector Rentier: Total exoneration: landslide vote sends
+    impeachment to Committee, Massie loses big,…'
+  caption: They voted to refer it. He declared it over. Same event, different words.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-11T23:56:00-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy cross-hatch wood-engraving in the Nast/Herblock
+    tradition, pure black masses balanced against carved-out whites. Center frame:
+    Diklis Chump in a dark suit and long red tie, sta'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-11-trump-hails-defeat-of-hegseth-impeachment-push-and-calls-massie-a-major-loser
   relation: extends
   strength: 0.573
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-11-hector-paired-with-2026-11-11-diklis-chump-news-articles-cxly4y5jzl0qo
 ---
+
+![Editorial cartoon by Hector Rentier: Total exoneration: landslide vote sends impeachment to Committee, Massie loses big,…](/cartoons/total-exoneration-landslide-vote-sends-impeachment-to.png)
+*They voted to refer it. He declared it over. Same event, different words.*
 
 So the Vote happened, and we WON. Two hundred eleven to two hundred four — tremendous numbers, HUNDREDS of votes, some of the biggest vote totals anybody has ever seen, they had to print it twice because the printers were shaking — eight Articles, the whole bogus stack, sent to Committee, where bad ideas go to die, everybody knows this, and eleven Democrats didn't even show up, they know. They call it a "referral." I call it an EXONERATION, total and complete, like nobody has ever seen, and it is all anybody is talking about. People are crying in the streets, the happy kind of tears. And still I open the papers and [they are writing that the House only blocked it](/articles/2026-11-10-house-blocks-hegseth-impeachment-effort-in-211-204-vote/), and the headline — I am not making this up — ends with the words "for now." For now. Who writes "for now" after a landslide? Nobody. You say LANDSLIDE. And if a paper keeps saying "for now" about a total victory, that paper gets a letter from my lawyers, a very expensive letter, and by the way I am completely self-made — small loan, tiny loan, barely a loan, a beautiful loan — which is extremely relevant in court, ask anybody.
 

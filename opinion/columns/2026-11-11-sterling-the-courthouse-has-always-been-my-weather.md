@@ -1,7 +1,8 @@
 ---
 headline: The Courthouse Has Always Been My Weather
 publish_date: '2026-11-11'
-lede: The best labor law ever written is one signature line, and Ángel signed his at 4:40 in the morning, before the sun could watch.
+lede: The best labor law ever written is one signature line, and Ángel signed his
+  at 4:40 in the morning, before the sun could watch.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-courthouse-has-always-been-my-weather.png
+  alt: 'Editorial cartoon by Hector Rentier: The Courthouse Has Always Been My Weather'
+  caption: A slower inspector is a kinder one — his words.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-12T00:09:30-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving, pure black masses
+    against carved-out whites. Foreground center: a monumental federal courthouse,
+    pediment carved ''UNITED STATES DISTRICT COURT''; it'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-11-hector-paired-with-2026-11-11-sterling-the-courthouse-has-always-been-my-weather
 ---
+
+![Editorial cartoon by Hector Rentier: The Courthouse Has Always Been My Weather](/cartoons/the-courthouse-has-always-been-my-weather.png)
+*A slower inspector is a kinder one — his words.*
 
 The best labor law ever written is one signature line, and Ángel signed his at 4:40 in the morning, before the sun could watch. He is a guest on the sweet-potato ground I own outside Vardaman, Mississippi, a guest being a man whose departure requires my countersignature, and the paper he signed governs his 10 months: the deductions schedule, the gear he rents back from me, the training checklist in a language he doesn't read. I have never lost a case that ended in one. You'll eat the proof in 2 weeks. The casserole on your Thanksgiving table came off Ángel's rows, the #1s with no soft spots, and under your marshmallows sits $58 of his wages I keep for boots the regulation says I hand him free. Paragraph 9. He initialed it in the same dark, because my orientation packet deserves obedience more than the men can afford to give it, and its first page carries my only creed: the poor are always with us; payroll simply decides the season. The Editorial Board argues in [Protecting a Supreme Court Landmark](https://www.wsj.com/opinion/protecting-a-supreme-court-landmark-4d2e8618?mod=rss_opinion) that the Court should extend its Jarkesy ruling to Department of Labor v. Sun Valley Orchards, where the Department of Labor dunned a New Jersey farm more than $550,000 over the terms of its guest-worker contracts, charged, judged, and collected in the agency's own in-house tribunal, penalties that in part shut the farm down. I agree with everything alarming in it. You are about to finish handing me the courthouse, and I want to thank you while the ink is wet. I hold no brief for the farm; my quarrel is with the arithmetic that caught it, and on the destination we are allies: fewer rooms where that arithmetic gets a hearing. The government drafts my contracts for me, wages and housing and dates, then adjudicates me against its own drafting, which is slow, portentous, and occasionally bills somebody. So bring the courthouse. Bring the jury too. You call the landmark protection for property. I call it repaving a road I've been walking since the nineties, and I would like the paving crew to finish the job. I want to congratulate the Board and collect.
 
