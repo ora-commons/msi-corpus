@@ -2,8 +2,18 @@
 headline: Justice Department asks judge to dismiss Steve Bannon's contempt conviction
 secondary_headline: Critics say courts should hear views from opposing parties
 publish_date: '2026-11-11'
-lede: The Justice Department has asked U.S. District Judge Carl Nichols to dismiss Steve Bannon's conviction for contempt of Congress, citing Bannon's statement that he believed he was protected by executive privilege. In a filing last week, the department invoked prosecutorial discretion to dismiss the indictment, and Bannon's lawyers do not oppose the motion.
-nut_graf: The request places the scope of prosecutorial discretion before Nichols, the judge who presided over Bannon's 2022 trial. The Justice Department argues that a court should not second-guess its policy-based reasons for ending a prosecution, while legal experts and former federal prosecutor Bruce Searby say courts should hear opposing arguments in cases with no adversary. The motion follows the department's April request to vacate the convictions of about a dozen leaders and deputies of the Oath Keepers and Proud Boys.
+lede: The Justice Department has asked U.S. District Judge Carl Nichols to dismiss
+  Steve Bannon's conviction for contempt of Congress, citing Bannon's statement that
+  he believed he was protected by executive privilege. In a filing last week, the
+  department invoked prosecutorial discretion to dismiss the indictment, and Bannon's
+  lawyers do not oppose the motion.
+nut_graf: The request places the scope of prosecutorial discretion before Nichols,
+  the judge who presided over Bannon's 2022 trial. The Justice Department argues that
+  a court should not second-guess its policy-based reasons for ending a prosecution,
+  while legal experts and former federal prosecutor Bruce Searby say courts should
+  hear opposing arguments in cases with no adversary. The motion follows the department's
+  April request to vacate the convictions of about a dozen leaders and deputies of
+  the Oath Keepers and Proud Boys.
 primary_entities:
 - Steve Bannon
 - U.S. Department of Justice
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,17 +159,17 @@ related_stories:
   headline: Federal judge removes unsigned Justice Department complaint from docket
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6641
+  strength: 0.6639
 - slug: 2026-10-29-lawyers-urge-dismissal-of-hunter-biden-laptop-charges-against-ex-fbi-officials
   headline: Lawyers urge dismissal of Hunter Biden laptop charges against ex-FBI officials
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6522
+  strength: 0.6518
 - slug: 2026-08-26-judge-rejects-bannon-conviction-dismissal-lets-government-refile-request
   headline: Judge rejects Bannon conviction dismissal, lets government refile request
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.8074
+  strength: 0.8073
 - slug: 2026-10-10-lead-lawyer-and-senior-counsel-quit-doj-s-so-called-grand-conspiracy-probe
   headline: Lead lawyer and senior counsel quit DOJ's so-called grand-conspiracy probe
   publish_date: '2026-10-10'
@@ -168,84 +179,24 @@ related_stories:
   headline: Federal judge refers Philadelphia DA Krasner to DOJ for investigation
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6689
+  strength: 0.6687
 - slug: 2026-09-23-doj-filing-cites-cnn-east-wing-story-politico-iran-report-in-press-ban-defense
-  headline: DOJ filing cites CNN East Wing story, Politico Iran report in press ban defense
+  headline: DOJ filing cites CNN East Wing story, Politico Iran report in press ban
+    defense
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.677
+  strength: 0.6763
 - slug: 2026-09-23-judge-appears-inclined-to-restore-cnn-ms-now-politico-press-passes
   headline: Judge appears inclined to restore CNN, MS NOW, Politico press passes
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6576
+  strength: 0.6572
 - slug: 2026-09-23-doj-tells-court-white-house-press-access-is-a-privilege-not-a-right
   headline: DoJ tells court White House press access is a privilege, not a right
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6513
-- slug: 2026-04-07-supreme-court-order-could-lead-to-dismissal-of-bannon-contempt-conviction
-  headline: Supreme Court order could lead to dismissal of Bannon contempt conviction
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.825
-- slug: 2026-08-27-fauci-contempt-push-stalls-as-trump-administration-questions-legal-approach
-  headline: Fauci contempt push stalls as Trump administration questions legal approach
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6814
-- slug: 2026-08-10-senate-committee-holds-fauci-in-contempt-refers-matter-to-justice-department
-  headline: Senate committee holds Fauci in contempt, refers matter to Justice Department
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6659
-- slug: 2026-07-11-judge-dismisses-proud-boys-seditious-conspiracy-convictions-at-doj-s-request
-  headline: Judge dismisses Proud Boys seditious conspiracy convictions at DOJ's request
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.698
-- slug: 2026-04-14-justice-department-asks-court-to-vacate-proud-boys-oath-keepers-convictions
-  headline: Justice Department asks court to vacate Proud Boys, Oath Keepers convictions
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.724
-- slug: 2026-04-15-justice-department-asks-court-to-toss-proud-boys-and-oath-keepers-convictions
-  headline: Justice Department asks court to toss Proud Boys and Oath Keepers convictions
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7033
-- slug: 2026-05-04-appeals-judges-question-trump-s-long-term-interim-top-prosecutor-setup
-  headline: Appeals judges question Trump’s long-term interim top prosecutor setup
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6761
-- slug: 2026-04-29-justice-department-asks-court-to-dismiss-white-house-ballroom-lawsuit
-  headline: Justice Department asks court to dismiss White House ballroom lawsuit
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6656
-- slug: 2026-05-05-federal-appeals-judges-question-trump-s-extended-prosecutor-appointments
-  headline: Federal appeals judges question Trump’s extended prosecutor appointments
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6578
-- slug: 2026-05-10-man-accused-in-correspondents-dinner-attack-pleads-not-guilty
-  headline: Man accused in correspondents’ dinner attack pleads not guilty
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.654
-- slug: 2026-04-28-justice-dept-urges-end-to-lawsuit-over-trump-s-400m-white-house-ballroom
-  headline: Justice Dept urges end to lawsuit over Trump's $400M White House ballroom
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6572
-- slug: 2026-05-09-cole-tomas-allen-seeks-recusal-of-doj-officials-in-dinner-attack-case
-  headline: Cole Tomas Allen seeks recusal of DOJ officials in dinner attack case
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6533
+  strength: 0.6506
 ---
-
 ## Justice Department asks judge to dismiss Steve Bannon's contempt conviction
 
 **Subtype:** fact

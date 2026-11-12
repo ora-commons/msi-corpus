@@ -2,8 +2,21 @@
 headline: Spain starts first general strike in 14 years over housing crisis
 secondary_headline: UGT and CCOO report 90% participation in automotive and ports
 publish_date: '2026-11-11'
-lede: Millions of workers across Spain staged a nationwide general strike on Wednesday to demand government action over the housing crisis, the first such walkout in 14 years. UGT and CCOO reported major stoppages in strategic sectors, with 90% participation in the automotive and port industries, as public transport slowed and many schools and universities reportedly closed or operated at minimal capacity. The strike came less than three weeks before a national election in which months of polling have shown voters leaning toward the right.
-nut_graf: The strike put housing back at the center of a national election campaign that had been weighed down by a deadly high-speed train collision, which killed 69 people, dominated Spanish news and created a drag on Prime Minister Pedro Sánchez's campaign just as he sought momentum. UGT and CCOO also sought a new minimum-wage agreement, while housing activists called for eliminating tourist apartments, curbing real-estate speculation and automatically renewing leases. Political scientist Oriol Bartomeus said a successful, non-violent strike could move the campaign back to housing, while violence could benefit right-wing parties.
+lede: Millions of workers across Spain staged a nationwide general strike on Wednesday
+  to demand government action over the housing crisis, the first such walkout in 14
+  years. UGT and CCOO reported major stoppages in strategic sectors, with 90% participation
+  in the automotive and port industries, as public transport slowed and many schools
+  and universities reportedly closed or operated at minimal capacity. The strike came
+  less than three weeks before a national election in which months of polling have
+  shown voters leaning toward the right.
+nut_graf: The strike put housing back at the center of a national election campaign
+  that had been weighed down by a deadly high-speed train collision, which killed
+  69 people, dominated Spanish news and created a drag on Prime Minister Pedro Sánchez's
+  campaign just as he sought momentum. UGT and CCOO also sought a new minimum-wage
+  agreement, while housing activists called for eliminating tourist apartments, curbing
+  real-estate speculation and automatically renewing leases. Political scientist Oriol
+  Bartomeus said a successful, non-violent strike could move the campaign back to
+  housing, while violence could benefit right-wing parties.
 primary_entities:
 - Spain
 - UGT
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,17 +160,7 @@ related_stories:
   headline: Óscar Puente resigns as Spain’s transport minister after rail crash
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6544
-- slug: 2026-10-29-spain-s-second-deadly-rail-crash-of-the-year-kills-68
-  headline: Spain's second deadly rail crash of the year kills 68
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6187
-- slug: 2026-10-29-french-students-win-4-45bn-loans-after-weeks-of-protests
-  headline: French students win $4.45bn loans after weeks of protests
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.602
+  strength: 0.6552
 - slug: 2026-10-08-abascal-s-death-focuses-spain-s-snap-vote-on-housing
   headline: Abascal's death focuses Spain's snap vote on housing
   publish_date: '2026-10-08'
@@ -166,84 +170,18 @@ related_stories:
   headline: Sánchez sets November 29 election after housing bill defeat
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7072
-- slug: 2026-10-24-french-authorities-mobilize-70-000-police-and-soldiers-ahead-of-expected-protest
-  headline: French authorities mobilize 70,000 police and soldiers ahead of expected protests
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6064
+  strength: 0.707
 - slug: 2026-10-05-feij-o-frames-spain-s-nov-29-vote-as-beating-s-nchez
   headline: Feijóo frames Spain's Nov. 29 vote as 'beating Sánchez'
   publish_date: '2026-10-05'
   relation: related
   strength: 0.6923
-- slug: 2026-10-21-macron-says-some-leaders-used-french-unrest-for-political-campaigns
-  headline: Macron says some leaders used French unrest for political campaigns
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.591
 - slug: 2026-09-29-spain-s-cabinet-approves-housing-decrees-extending-eviction-ban-to-2030
   headline: Spain's cabinet approves housing decrees extending eviction ban to 2030
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6514
-- slug: 2026-10-08-youth-led-protests-over-french-schools-draw-hundreds-of-thousands
-  headline: Youth-led protests over French schools draw hundreds of thousands
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5897
-- slug: 2026-09-19-hispanic-voters-who-backed-trump-in-2024-now-disapprove-polls-show
-  headline: Hispanic voters who backed Trump in 2024 now disapprove, polls show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5906
-- slug: 2026-08-28-cuba-to-begin-school-year-tuesday-with-73-of-teaching-posts-filled
-  headline: Cuba to begin school year Tuesday with 73% of teaching posts filled
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5878
-- slug: 2026-07-28-macron-warns-france-faces-worst-wildfire-crisis-since-world-war-ii
-  headline: Macron warns France faces worst wildfire crisis since World War II
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6254
-- slug: 2026-08-01-nearly-60-000-migrants-cross-into-spain-s-ceuta-at-least-67-die
-  headline: Nearly 60,000 migrants cross into Spain's Ceuta; at least 67 die
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6026
-- slug: 2026-06-08-pope-leo-xiv-calls-for-moral-renewal-in-historic-spanish-parliament-address
-  headline: Pope Leo XIV calls for moral renewal in historic Spanish parliament address
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.592
-- slug: 2026-03-10-cuban-students-stage-sit-in-at-havana-university-amid-energy-crisis
-  headline: Cuban students stage sit-in at Havana University amid energy crisis
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6092
-- slug: 2026-03-15-thousands-protest-in-italy-and-spain-over-middle-east-wars-and-judicial-reforms
-  headline: Thousands protest in Italy and Spain over Middle East wars and judicial reforms
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.606
-- slug: 2026-03-05-spain-s-s-nchez-defies-trump-on-iran-refuses-military-base-access
-  headline: Spain's Sánchez defies Trump on Iran, refuses military base access
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.599
-- slug: 2026-03-04-trump-threatens-to-cut-off-trade-with-spain-over-nato-iran-base-dispute
-  headline: Trump threatens to cut off trade with Spain over NATO, Iran base dispute
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5986
-- slug: 2026-05-01-argentine-workers-rally-in-buenos-aires-against-milei-s-labor-reforms
-  headline: Argentine workers rally in Buenos Aires against Milei’s labor reforms
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5852
+  strength: 0.6504
 ---
-
 ## Spain starts first general strike in 14 years over housing crisis
 
 **Subtype:** fact
