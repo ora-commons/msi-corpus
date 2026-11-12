@@ -1,9 +1,17 @@
 ---
 headline: Three letter writers challenge Labour's economic growth strategy
-secondary_headline: Public services, redistribution and resource limits define the alternatives
+secondary_headline: Public services, redistribution and resource limits define the
+  alternatives
 publish_date: '2026-11-10'
-lede: Peter Riddle, Sheila Triggs and Stephen Smith challenged the UK Labour government's economic growth strategy in Guardian letters published on November 10, 2026. Riddle drew on the U.S. midterm elections, while the writers proposed greater attention to household costs, essential services, wealth redistribution and environmental limits.
-nut_graf: 'The exchange sets out three reader arguments: Riddle''s emphasis on daily costs and public services, Triggs''s concern about the resource demands of growth, and Smith''s call to pair environmental limits with redistribution. The contributions are opinion letters, not an announcement of a new Labour policy.'
+lede: Peter Riddle, Sheila Triggs and Stephen Smith challenged the UK Labour government's
+  economic growth strategy in Guardian letters published on November 10, 2026. Riddle
+  drew on the U.S. midterm elections, while the writers proposed greater attention
+  to household costs, essential services, wealth redistribution and environmental
+  limits.
+nut_graf: 'The exchange sets out three reader arguments: Riddle''s emphasis on daily
+  costs and public services, Triggs''s concern about the resource demands of growth,
+  and Smith''s call to pair environmental limits with redistribution. The contributions
+  are opinion letters, not an announcement of a new Labour policy.'
 primary_entities:
 - Peter Riddle
 - Sheila Triggs
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +157,28 @@ related_stories:
   headline: Andrea Egan urges Burnham to put public investment in his budget
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6977
-- slug: 2026-11-03-british-social-attitudes-survey-reports-record-low-job-satisfaction
-  headline: British Social Attitudes survey reports record-low job satisfaction
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6349
-- slug: 2026-10-28-readers-seek-cost-of-living-relief-ahead-of-burnham-s-first-budget
-  headline: Readers seek cost-of-living relief ahead of Burnham's first budget
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6486
-- slug: 2026-10-27-john-healey-prepares-uk-budget-expected-to-have-smaller-tax-and-spending-changes
-  headline: John Healey prepares UK Budget expected to have smaller tax and spending changes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6493
-- slug: 2026-10-28-nicholas-stern-s-climate-report-marks-20-years-of-economic-debate
-  headline: Nicholas Stern’s climate report marks 20 years of economic debate
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6374
-- slug: 2026-10-27-john-healey-prepares-his-first-budget-amid-war-driven-economic-pressure
-  headline: John Healey prepares his first budget amid war-driven economic pressure
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6285
-- slug: 2026-10-27-chris-packham-urges-uk-chancellor-to-cut-24bn-carbon-capture-plan
-  headline: Chris Packham urges UK chancellor to cut £24bn carbon capture plan
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6246
-- slug: 2026-10-22-four-london-councils-submit-revised-funding-proposals-to-the-treasury
-  headline: Four London councils submit revised funding proposals to the Treasury
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6317
+  strength: 0.6967
 - slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6752
+  strength: 0.6744
 - slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
   headline: Burnham to outline social care and public control plans at Labour conference
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6598
-- slug: 2026-10-03-griffith-leak-shows-shadow-cabinet-discussed-further-uk-conservative-cuts
-  headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6433
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6369
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6436
-- slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
-  headline: Burnham backs universal English social care reform
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6327
+  strength: 0.6599
 - slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
   headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.6709
-- slug: 2026-09-20-uk-minister-says-trump-s-war-with-iran-will-complicate-next-month-s-budget
-  headline: UK minister says Trump's war with Iran will complicate next month's budget
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6348
-- slug: 2026-09-17-nato-chief-rutte-says-uk-needs-credible-path-to-2035-defence-target
-  headline: NATO chief Rutte says UK needs 'credible path' to 2035 defence target
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6423
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6455
-- slug: 2026-09-03-badenoch-sets-out-conservative-plan-to-hit-3-defence-spending-by-2030
-  headline: Badenoch sets out Conservative plan to hit 3% defence spending by 2030
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6452
+  strength: 0.6693
 - slug: 2026-08-09-cost-of-living-tops-voters-concerns-as-burnham-plans-uk-tour
   headline: Cost of living tops voters' concerns as Burnham plans UK tour
   publish_date: '2026-08-09'
   relation: related
-  strength: 0.6605
+  strength: 0.6601
 ---
-
 ## Three letter writers challenge Labour's economic growth strategy
 
 **Subtype:** fact
