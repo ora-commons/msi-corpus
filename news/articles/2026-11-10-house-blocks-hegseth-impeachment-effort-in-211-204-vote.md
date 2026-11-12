@@ -67,11 +67,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - NPR
   - The Wall Street Journal
   outlet_classes:
   - national_daily
+  - public_broadcaster
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -247,3 +249,10 @@ The referral leaves the eight articles in committee and Hegseth in office. Democ
 **Publication date:** 2026-11-10
 **Title:** Hegseth Survives Impeachment Effort in House
 **URL:** https://www.wsj.com/politics/hegseth-survives-impeachment-effort-in-house-7933bc38
+
+### src_late_83447a8c17e5ed78 — NPR, public_broadcaster, Tier 1, originating
+**Author:** Eric McDaniel
+**Publication date:** 2026-11-10
+**Title:** House votes to effectively end the impeachment effort against Pete Hegseth
+**URL:** https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth
+**Added after publication:** true
