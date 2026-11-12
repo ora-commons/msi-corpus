@@ -2,8 +2,15 @@
 headline: Wachtell Lipton to lead Nvidia inquiry into foreign espionage effort
 secondary_headline: 'Nvidia: No reason to believe national security or secrets compromised'
 publish_date: '2026-11-10'
-lede: Wachtell Lipton will lead an independent investigation into whether Nvidia was the target of a foreign espionage effort, the chipmaker said Tuesday. The law firm named Joon Kim, a former federal prosecutor, to conduct the inquiry, and a committee of Nvidia's independent directors will oversee the work alongside Wachtell.
-nut_graf: The appointment puts an outside firm with a record of internal investigations for major corporations at the center of a case that has drawn scrutiny from U.S. officials and shareholders. Nvidia has said it has no reason to believe that national security or company secrets were compromised, and that the inquiry will examine all available information.
+lede: Wachtell Lipton will lead an independent investigation into whether Nvidia was
+  the target of a foreign espionage effort, the chipmaker said Tuesday. The law firm
+  named Joon Kim, a former federal prosecutor, to conduct the inquiry, and a committee
+  of Nvidia's independent directors will oversee the work alongside Wachtell.
+nut_graf: The appointment puts an outside firm with a record of internal investigations
+  for major corporations at the center of a case that has drawn scrutiny from U.S.
+  officials and shareholders. Nvidia has said it has no reason to believe that national
+  security or company secrets were compromised, and that the inquiry will examine
+  all available information.
 primary_entities:
 - Nvidia
 - Wachtell Lipton
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,107 +149,51 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-10-people-familiar-say-justice-department-takes-megaspeed-probe-after-nvidia-outrea
-  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia outreach
+  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia
+    outreach
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7469
+  strength: 0.7463
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7511
+  strength: 0.7504
 - slug: 2026-11-09-nvidia-has-no-board-chair-and-designates-a-lead-director-annually
   headline: Nvidia has no board chair and designates a lead director annually
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7401
+  strength: 0.7399
 - slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
   headline: Nvidia board investigates CEO Jensen Huang as shares tumble
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7394
+  strength: 0.7395
 - slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
+  headline: Nvidia board opens independent investigation after reports about Jensen
+    Huang
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7414
+  strength: 0.7415
 - slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
+  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip
+    controls
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7331
-- slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
-  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7192
+  strength: 0.7332
 - slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
+  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens
+    inquiry
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7186
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
+  strength: 0.7185
+- slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
+  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice
+    Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7173
-- slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
-  headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7144
-- slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
-  headline: Nvidia investigates reports of spying targeting Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.714
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7198
-- slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
-  headline: Nvidia inquiry draws top Republican demands for answers
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7115
-- slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
-  headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7102
-- slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7124
-- slug: 2026-11-10-investor-sues-nvidia-over-alleged-deception-on-ceo-affair-and-megaspeed
-  headline: Investor sues Nvidia over alleged deception on CEO affair and Megaspeed
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6978
-- slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
-  headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6884
-- slug: 2026-11-10-nvidia-inquiry-precedes-nov-9-market-value-decline-of-roughly-200-billion
-  headline: Nvidia inquiry precedes Nov. 9 market-value decline of roughly $200 billion
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6674
-- slug: 2026-11-10-nvidia-shareholder-suit-alleges-failure-to-disclose-national-security-concerns
-  headline: Nvidia shareholder suit alleges failure to disclose national security concerns
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.667
-- slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
-  headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6702
+  strength: 0.7183
 ---
-
 ## Wachtell Lipton to lead Nvidia inquiry into foreign espionage effort
 
 **Subtype:** fact

@@ -1,9 +1,22 @@
 ---
 headline: John Ullyot urges Pete Hegseth to step aside amid impeachment articles
-secondary_headline: Ullyot raises Signal sharing and a reported double strike as possible crimes
+secondary_headline: Ullyot raises Signal sharing and a reported double strike as possible
+  crimes
 publish_date: '2026-11-10'
-lede: 'Former Pentagon spokesman John Ullyot urged Pete Hegseth to step aside or lower the temperature as articles of impeachment were filed against the defense secretary. In an NPR interview with Steve Inskeep published November 10, 2026, Ullyot said a cabinet secretary truly loyal to Trump should get out of the way if he became a liability. He identified two Hegseth actions he said could be criminal: sharing classified information with his wife over Signal and a reported second strike on a boat.'
-nut_graf: 'John Ullyot''s account put two potentially criminal matters alongside Pete Hegseth''s impeachment articles: the sharing of classified information with his wife over Signal and a reported second strike on a boat that had surrendered. His broader argument concerned oversight and political liability, with Trump praising Hegseth while Ullyot argued the president deserved better than a bombastic secretary heading into the final two years of his presidency, when, unlike the previous two years, robust oversight was expected.'
+lede: 'Former Pentagon spokesman John Ullyot urged Pete Hegseth to step aside or lower
+  the temperature as articles of impeachment were filed against the defense secretary.
+  In an NPR interview with Steve Inskeep published November 10, 2026, Ullyot said
+  a cabinet secretary truly loyal to Trump should get out of the way if he became
+  a liability. He identified two Hegseth actions he said could be criminal: sharing
+  classified information with his wife over Signal and a reported second strike on
+  a boat.'
+nut_graf: 'John Ullyot''s account put two potentially criminal matters alongside Pete
+  Hegseth''s impeachment articles: the sharing of classified information with his
+  wife over Signal and a reported second strike on a boat that had surrendered. His
+  broader argument concerned oversight and political liability, with Trump praising
+  Hegseth while Ullyot argued the president deserved better than a bombastic secretary
+  heading into the final two years of his presidency, when, unlike the previous two
+  years, robust oversight was expected.'
 primary_entities:
 - John Ullyot
 - Pete Hegseth
@@ -39,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +151,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-10-hegseth-ends-months-long-press-silence-with-25-minute-impeachment-defense
-  headline: Hegseth ends months-long press silence with 25-minute impeachment defense
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7317
 - slug: 2026-11-10-pete-hegseth-defends-iran-war-as-lawmakers-consider-his-impeachment
   headline: Pete Hegseth defends Iran war as lawmakers consider his impeachment
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7317
+  strength: 0.7318
+- slug: 2026-11-10-hegseth-ends-months-long-press-silence-with-25-minute-impeachment-defense
+  headline: Hegseth ends months-long press silence with 25-minute impeachment defense
+  publish_date: '2026-11-10'
+  relation: related
+  strength: 0.7313
 - slug: 2026-11-07-hegseth-s-team-prepares-response-to-possible-house-impeachment-vote
   headline: Hegseth's team prepares response to possible House impeachment vote
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7319
+  strength: 0.7316
 - slug: 2026-11-09-hegseth-faces-four-seat-house-test-as-johnson-warns-on-impeachment
   headline: Hegseth faces four-seat House test as Johnson warns on impeachment
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7171
+  strength: 0.717
 - slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
+  headline: Republican close says Pete Hegseth should take responsibility for Iran
+    war
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7132
+  strength: 0.7127
 - slug: 2026-11-10-massie-s-impeachment-resolution-cites-hegseth-s-yemen-and-venezuela-actions
   headline: Massie's impeachment resolution cites Hegseth's Yemen and Venezuela actions
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6898
+  strength: 0.6892
 - slug: 2026-11-09-massie-introduces-eight-articles-of-impeachment-against-hegseth
   headline: Massie introduces eight articles of impeachment against Hegseth
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.695
+  strength: 0.6943
 - slug: 2026-11-07-hegseth-vows-to-stay-as-democrats-and-some-republicans-seek-his-removal
   headline: Hegseth vows to stay as Democrats and some Republicans seek his removal
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.695
-- slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6948
-- slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
-  headline: House could vote to impeach Hegseth when lawmakers return to Washington
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7005
-- slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
-  headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6771
-- slug: 2026-10-29-hegseth-fires-joint-chiefs-strategy-chief-in-leak-probe
-  headline: Hegseth fires Joint Chiefs strategy chief in leak probe
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.706
-- slug: 2026-10-30-military-refers-fired-general-brett-sylvia-for-criminal-prosecution
-  headline: Military refers fired general Brett Sylvia for criminal prosecution
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6879
-- slug: 2026-09-30-hegseth-calls-press-coverage-treason-says-flag-officer-corps-cut-10
-  headline: Hegseth calls press coverage 'treason,' says flag-officer corps cut 10%
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.69
-- slug: 2026-09-30-hegseth-attacks-press-doubles-general-officer-cut-at-quantico
-  headline: Hegseth attacks press, doubles general-officer cut at Quantico
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.689
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6965
-- slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
-  headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6778
-- slug: 2026-09-03-tillis-calls-for-hegseth-s-firing-citing-pentagon-management-failures
-  headline: Tillis calls for Hegseth's firing, citing Pentagon management failures
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7119
-- slug: 2026-09-08-hegseth-orders-polygraph-tests-for-pentagon-officials-to-find-leakers
-  headline: Hegseth orders polygraph tests for Pentagon officials to find leakers
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6978
-- slug: 2026-09-05-tillis-urges-trump-to-fire-hegseth-as-army-secretary-resigns
-  headline: Tillis urges Trump to fire Hegseth as Army secretary resigns
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6859
+  strength: 0.6943
 ---
-
 ## John Ullyot urges Pete Hegseth to step aside amid impeachment articles
 
 **Subtype:** fact
