@@ -49,12 +49,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - Associated Press
   - The Guardian
   outlet_classes:
   - national_daily
-  highest_reliability_tier: 2
+  - wire
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures_aggregate:
@@ -211,3 +213,9 @@ Markle remains in custody pending the hearing in Tampa. The ordered competency r
 **Publication date:** 2026-11-10
 **Title:** Thomas Markle, Meghan’s father, cut off his ankle monitor, DoJ says
 **URL:** https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor
+
+### src_late_d9a6fb3ab0a080c5 — Associated Press, wire, Tier 1, originating
+**Publication date:** 2026-11-10
+**Title:** Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says
+**URL:** https://apnews.com/article/thomas-markle-charges-ankle-monitor-fce501251ffa12c5427a9a4f2b96b2ee
+**Added after publication:** true
