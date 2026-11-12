@@ -1,9 +1,17 @@
 ---
 headline: Asian markets mostly rise as TSMC climbs despite Wall Street inflation pressure
-secondary_headline: 10-year Treasury yield climbs to 4.99% as a December Fed rate hike comes into view
+secondary_headline: 10-year Treasury yield climbs to 4.99% as a December Fed rate
+  hike comes into view
 publish_date: '2026-11-11'
-lede: Asian markets mostly rose Wednesday after TSMC reported October revenue nearly six times higher than a year earlier, with Taiwan leading the regional gains. U.S. futures edged higher and oil prices rose, while Wall Street had retreated Tuesday after U.S. inflation rose above expectations in October. The 10-year Treasury yield jumped to 4.99%, raising the prospect of a Federal Reserve rate hike in December.
-nut_graf: AI-chip strength supported Taiwan and South Korea, but higher U.S. inflation and rising bond yields weighed on broader equities. Nvidia fell 5.5% amid scrutiny of CEO Jensen Huang, while questions remained about whether Anthropic might delay its initial public offering.
+lede: Asian markets mostly rose Wednesday after TSMC reported October revenue nearly
+  six times higher than a year earlier, with Taiwan leading the regional gains. U.S.
+  futures edged higher and oil prices rose, while Wall Street had retreated Tuesday
+  after U.S. inflation rose above expectations in October. The 10-year Treasury yield
+  jumped to 4.99%, raising the prospect of a Federal Reserve rate hike in December.
+nut_graf: AI-chip strength supported Taiwan and South Korea, but higher U.S. inflation
+  and rising bond yields weighed on broader equities. Nvidia fell 5.5% amid scrutiny
+  of CEO Jensen Huang, while questions remained about whether Anthropic might delay
+  its initial public offering.
 primary_entities:
 - Taiwan
 - Taiwan Semiconductor Manufacturing Co.
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,116 +153,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-11-asian-markets-mostly-rise-as-tsmc-climbs-despite-wall-street-inflation-pressure.png
-  alt: 'Illustration accompanying article: Asian markets mostly rise as TSMC climbs despite Wall Street inflation pressure'
+  alt: 'Illustration accompanying article: Asian markets mostly rise as TSMC climbs
+    despite Wall Street inflation pressure'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-10-oil-prices-decline-as-asian-stocks-rise-after-wall-street-gains
   headline: Oil prices decline as Asian stocks rise after Wall Street gains
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7655
+  strength: 0.7666
 - slug: 2026-10-27-most-asian-stocks-close-higher-after-nvidia-s-2-4-gain
   headline: Most Asian stocks close higher after Nvidia's 2.4% gain
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7923
+  strength: 0.7931
 - slug: 2026-10-27-nvidia-advances-2-4-as-asian-indexes-diverge
   headline: Nvidia advances 2.4% as Asian indexes diverge
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7763
+  strength: 0.7762
 - slug: 2026-10-28-ai-stocks-lift-most-asian-markets-ahead-of-fed-decision
   headline: AI stocks lift most Asian markets ahead of Fed decision
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7543
+  strength: 0.7544
 - slug: 2026-10-29-asian-shares-mixed-after-alphabet-earnings-disappoint
   headline: Asian shares mixed after Alphabet earnings disappoint
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7145
+  strength: 0.7153
 - slug: 2026-10-19-dow-ends-lower-as-ai-shares-rebound-and-european-indexes-retreat
   headline: Dow ends lower as AI shares rebound and European indexes retreat
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7094
+  strength: 0.7086
 - slug: 2026-10-16-asian-stocks-rebound-after-tech-selloff-oil-slips
   headline: Asian stocks rebound after tech selloff, oil slips
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.703
+  strength: 0.7043
 - slug: 2026-09-25-asian-bond-yields-rise-despite-oil-pullback-as-treasury-yields-hit-2007-highs
-  headline: Asian bond yields rise despite oil pullback as Treasury yields hit 2007 highs
+  headline: Asian bond yields rise despite oil pullback as Treasury yields hit 2007
+    highs
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7038
-- slug: 2026-07-16-tsmc-posts-fifth-straight-record-profit-on-surging-ai-demand
-  headline: TSMC posts fifth straight record profit on surging AI demand
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7311
-- slug: 2026-08-03-citi-analysts-say-taiwan-tech-earnings-confirm-early-stage-ai-expansion-with-ben
-  headline: Citi analysts say Taiwan tech earnings confirm early-stage AI expansion, with benefits broadening
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6971
-- slug: 2026-07-22-asian-shares-rise-after-ai-stocks-lead-wall-street-higher
-  headline: Asian shares rise after AI stocks lead Wall Street higher
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7023
-- slug: 2026-01-15-wall-street-steadies-as-chip-stocks-rebound-and-oil-prices-retreat
-  headline: Wall Street steadies as chip stocks rebound and oil prices retreat
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7431
-- slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7204
-- slug: 2026-05-20-us-stocks-rebound-as-yields-ease-and-oil-prices-pull-back
-  headline: US stocks rebound as yields ease and oil prices pull back
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7166
-- slug: 2026-05-21-us-stocks-recover-as-bond-pressure-eases-and-oil-gives-back-gains
-  headline: US stocks recover as bond pressure eases and oil gives back gains
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7125
-- slug: 2026-05-14-tech-rally-lifts-wall-street-to-records-as-oil-inflation-pressure
-  headline: Tech rally lifts Wall Street to records as oil, inflation pressure
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.714
-- slug: 2026-05-20-oil-s-latest-dip-helps-us-stocks-erase-losses-nasdaq-edges-up
-  headline: Oil’s latest dip helps US stocks erase losses; Nasdaq edges up
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7099
-- slug: 2026-05-16-sinking-ai-stocks-knock-wall-street-off-records-as-oil-and-yields-rise
-  headline: Sinking AI stocks knock Wall Street off records as oil and yields rise
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7107
-- slug: 2026-05-19-us-stocks-recover-as-bond-pressure-eases-and-oil-prices-fall
-  headline: US stocks recover as bond pressure eases and oil prices fall
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7069
-- slug: 2026-05-20-us-stocks-slip-further-from-records-as-bond-yields-climb-oil-eases
-  headline: US stocks slip further from records as bond yields climb, oil eases
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.701
+  strength: 0.703
 ---
-
 ## Asian markets mostly rise as TSMC climbs despite Wall Street inflation pressure
 
 **Subtype:** fact

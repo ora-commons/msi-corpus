@@ -1,9 +1,26 @@
 ---
-headline: Impeachment articles cite survivor killings, judge ruling against Kelly inquiry
-secondary_headline: Coast Guard estimates no drugs in a quarter of boats it interdicts in the area
+headline: Impeachment articles cite survivor killings, judge ruling against Kelly
+  inquiry
+secondary_headline: Coast Guard estimates no drugs in a quarter of boats it interdicts
+  in the area
 publish_date: '2026-11-10'
-lede: Articles of impeachment against Defense Secretary Pete Hegseth cite what one article calls illegal killings in the U.S. campaign against suspected drug boats, and NPR Pentagon correspondent Tom Bowman reported that in one case, two survivors of a U.S. boat strike were killed by U.S. service members. A federal judge has said that Hegseth's effort to investigate Sen. Mark Kelly, over a video reminding service members they do not have to obey illegal orders, violated Kelly's First Amendment rights. Bowman reported both matters as members of Congress began voting on the articles, citing a Coast Guard estimate that in about one-quarter of the boats it interdicts in the area, no drugs were found.
-nut_graf: 'Several of the articles before Congress rest on specific incidents rather than broad policy claims, and Bowman said some legal analysts think the illegal-killings article may carry more heft on Capitol Hill because it concerns specific charges. The defense secretary''s public response comes as his own press policy has narrowed what reporters can learn at the Pentagon: dozens of outlets, NPR among them, walked away from his requirement that reporters pledge not to report anything unauthorized, and Bowman said there are no real briefings, almost no background briefings, and Pentagon contacts are shut out of detailed information.'
+lede: Articles of impeachment against Defense Secretary Pete Hegseth cite what one
+  article calls illegal killings in the U.S. campaign against suspected drug boats,
+  and NPR Pentagon correspondent Tom Bowman reported that in one case, two survivors
+  of a U.S. boat strike were killed by U.S. service members. A federal judge has said
+  that Hegseth's effort to investigate Sen. Mark Kelly, over a video reminding service
+  members they do not have to obey illegal orders, violated Kelly's First Amendment
+  rights. Bowman reported both matters as members of Congress began voting on the
+  articles, citing a Coast Guard estimate that in about one-quarter of the boats it
+  interdicts in the area, no drugs were found.
+nut_graf: 'Several of the articles before Congress rest on specific incidents rather
+  than broad policy claims, and Bowman said some legal analysts think the illegal-killings
+  article may carry more heft on Capitol Hill because it concerns specific charges.
+  The defense secretary''s public response comes as his own press policy has narrowed
+  what reporters can learn at the Pentagon: dozens of outlets, NPR among them, walked
+  away from his requirement that reporters pledge not to report anything unauthorized,
+  and Bowman said there are no real briefings, almost no background briefings, and
+  Pentagon contacts are shut out of detailed information.'
 primary_entities:
 - Pete Hegseth
 - Mark Kelly
@@ -42,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,113 +162,57 @@ related_stories:
   headline: Hegseth ends months-long press silence with 25-minute impeachment defense
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7724
+  strength: 0.7722
 - slug: 2026-11-10-pete-hegseth-defends-iran-war-as-lawmakers-consider-his-impeachment
   headline: Pete Hegseth defends Iran war as lawmakers consider his impeachment
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7674
+  strength: 0.7675
 - slug: 2026-11-09-hegseth-faces-four-seat-house-test-as-johnson-warns-on-impeachment
   headline: Hegseth faces four-seat House test as Johnson warns on impeachment
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7316
+  strength: 0.7311
 - slug: 2026-11-10-house-blocks-hegseth-impeachment-effort-in-211-204-vote
   headline: House blocks Hegseth impeachment effort in 211-204 vote
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7198
+  strength: 0.7204
 - slug: 2026-11-09-massie-introduces-eight-articles-of-impeachment-against-hegseth
   headline: Massie introduces eight articles of impeachment against Hegseth
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.724
+  strength: 0.7241
 - slug: 2026-11-10-pete-hegseth-rejects-massie-s-impeachment-bid-as-a-political-spectacle
   headline: Pete Hegseth rejects Massie’s impeachment bid as a political spectacle
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7058
+  strength: 0.7046
 - slug: 2026-11-09-pete-hegseth-will-brief-reporters-on-expected-iran-war-impeachment-resolution
   headline: Pete Hegseth will brief reporters on expected Iran war impeachment resolution
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7103
+  strength: 0.71
 - slug: 2026-11-11-trump-hails-defeat-of-hegseth-impeachment-push-and-calls-massie-a-major-loser
-  headline: Trump hails defeat of Hegseth impeachment push and calls Massie 'a major LOSER'
+  headline: Trump hails defeat of Hegseth impeachment push and calls Massie 'a major
+    LOSER'
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7019
-- slug: 2026-11-10-massie-s-impeachment-resolution-cites-hegseth-s-yemen-and-venezuela-actions
-  headline: Massie's impeachment resolution cites Hegseth's Yemen and Venezuela actions
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6982
-- slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7082
-- slug: 2026-11-10-john-ullyot-urges-pete-hegseth-to-step-aside-amid-impeachment-articles
-  headline: John Ullyot urges Pete Hegseth to step aside amid impeachment articles
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6941
-- slug: 2026-11-07-hegseth-vows-to-stay-as-democrats-and-some-republicans-seek-his-removal
-  headline: Hegseth vows to stay as Democrats and some Republicans seek his removal
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7022
-- slug: 2026-11-07-hegseth-s-team-prepares-response-to-possible-house-impeachment-vote
-  headline: Hegseth's team prepares response to possible House impeachment vote
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.695
-- slug: 2026-09-30-at-least-20-generals-admirals-departed-under-hegseth
-  headline: At least 20 generals, admirals departed under Hegseth
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7117
-- slug: 2026-09-30-hegseth-attacks-press-doubles-general-officer-cut-at-quantico
-  headline: Hegseth attacks press, doubles general-officer cut at Quantico
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6878
-- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
-  headline: Massie files articles of impeachment against Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7228
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7104
-- slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6848
-- slug: 2026-01-05-hegseth-censures-sen-kelly-over-video-urging-troops-to-resist-unlawful-orders
-  headline: Hegseth censures Sen. Kelly over video urging troops to resist unlawful orders
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.7512
-- slug: 2026-06-18-us-kills-3-in-latest-drug-boat-strike-military-campaign-death-toll-at-211
-  headline: US kills 3 in latest drug boat strike; military campaign death toll at 211
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7055
+  strength: 0.7008
 image:
   url: /articles/2026-11-10-impeachment-articles-cite-survivor-killings-judge-ruling-against-kelly-inquiry.png
-  alt: "Illustration accompanying article: Impeachment articles cite survivor killings, judge ruling against Kelly inquiry"
+  alt: 'Illustration accompanying article: Impeachment articles cite survivor killings,
+    judge ruling against Kelly inquiry'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Impeachment articles cite survivor killings, judge ruling against Kelly inquiry
 
 **Subtype:** fact

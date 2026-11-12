@@ -1,9 +1,21 @@
 ---
 headline: Epstein survivor says House report gives her hope, urges DOJ to keep investigating
-secondary_headline: Survivors to mark one year since Epstein Transparency Act on Capitol Hill
+secondary_headline: Survivors to mark one year since Epstein Transparency Act on Capitol
+  Hill
 publish_date: '2026-11-10'
-lede: Dani Bensky told NPR that Jeffrey Epstein abused her when she was 17 and a young dancer. After the House Oversight Committee released a 136-page report on its Epstein investigation on Nov. 10, 2026, she said the report gave her hope, and she wants the Justice Department to keep investigating and look into some of the people named in it. She and other survivors plan to appear on Capitol Hill next week to mark one year since the Epstein Transparency Act was signed.
-nut_graf: The Republican-led committee's 136-page report faults the federal government for a decades-long failure to hold Epstein accountable, urges the Justice Department to interview or reinterview key witnesses, and says its interviews did not implicate Trump in any of Epstein's crimes. The Justice Department said it had already addressed the report's recommendations, and lead Democrat Robert Garcia, likely the panel's next chair, has said Democrats will hold hearings in public when they lead the committee in January.
+lede: Dani Bensky told NPR that Jeffrey Epstein abused her when she was 17 and a young
+  dancer. After the House Oversight Committee released a 136-page report on its Epstein
+  investigation on Nov. 10, 2026, she said the report gave her hope, and she wants
+  the Justice Department to keep investigating and look into some of the people named
+  in it. She and other survivors plan to appear on Capitol Hill next week to mark
+  one year since the Epstein Transparency Act was signed.
+nut_graf: The Republican-led committee's 136-page report faults the federal government
+  for a decades-long failure to hold Epstein accountable, urges the Justice Department
+  to interview or reinterview key witnesses, and says its interviews did not implicate
+  Trump in any of Epstein's crimes. The Justice Department said it had already addressed
+  the report's recommendations, and lead Democrat Robert Garcia, likely the panel's
+  next chair, has said Democrats will hold hearings in public when they lead the committee
+  in January.
 primary_entities:
 - Dani Bensky
 - House Oversight Committee
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,113 +162,58 @@ related_stories:
   headline: House Republicans urge DOJ to expand Epstein investigation
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.82
+  strength: 0.8206
 - slug: 2026-11-10-house-panel-says-facts-don-t-suggest-trump-was-implicated-in-epstein-s-crimes
-  headline: House panel says facts don't suggest Trump was implicated in Epstein's crimes
+  headline: House panel says facts don't suggest Trump was implicated in Epstein's
+    crimes
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7702
+  strength: 0.7699
 - slug: 2026-11-10-house-oversight-report-faults-doj-over-mishandling-epstein-records
   headline: House Oversight report faults DOJ over mishandling Epstein records
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7616
+  strength: 0.7627
 - slug: 2026-11-08-epstein-survivors-say-visitors-notes-at-touring-exhibition-fuel-justice-push
-  headline: Epstein survivors say visitors' notes at touring exhibition fuel justice push
+  headline: Epstein survivors say visitors' notes at touring exhibition fuel justice
+    push
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7522
+  strength: 0.7528
 - slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
   headline: House Judiciary Democrats ask Blanche to probe Epstein network
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7687
+  strength: 0.7689
 - slug: 2026-10-24-epstein-files-slip-from-midterm-focus-as-advocates-seek-renewed-scrutiny
   headline: Epstein files slip from midterm focus as advocates seek renewed scrutiny
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7449
+  strength: 0.7454
 - slug: 2026-09-16-epstein-survivors-push-house-panel-to-hear-from-dershowitz-ag-blanche
   headline: Epstein survivors push House panel to hear from Dershowitz, AG Blanche
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.761
+  strength: 0.7615
 - slug: 2026-09-21-house-democrats-propose-restitution-fund-for-epstein-survivors
   headline: House Democrats propose restitution fund for Epstein survivors
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7448
-- slug: 2026-09-16-house-panel-votes-to-hold-leon-black-in-contempt-over-epstein-probe
-  headline: House panel votes to hold Leon Black in contempt over Epstein probe
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7409
-- slug: 2026-09-02-comer-threatens-leon-black-with-contempt-ahead-of-thursday-deposition
-  headline: Comer threatens Leon Black with contempt ahead of Thursday deposition
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7412
-- slug: 2026-07-27-epstein-survivors-urge-senators-to-oppose-blanche-s-attorney-general-confirmatio
-  headline: Epstein survivors urge senators to oppose Blanche's attorney general confirmation
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7218
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7302
-- slug: 2026-06-01-congressional-inquiry-yields-no-criminal-referrals-a-year-after-epstein-hearings
-  headline: Congressional inquiry yields no criminal referrals a year after Epstein hearings began
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7281
-- slug: 2026-02-07-lawmakers-to-review-unredacted-epstein-files-at-doj-starting-monday
-  headline: Lawmakers to review unredacted Epstein files at DOJ starting Monday
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.7482
-- slug: 2025-12-31-justice-department-reviews-5-2-million-epstein-files-misses-deadline
-  headline: Justice Department reviews 5.2 million Epstein files, misses deadline
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.748
-- slug: 2026-03-18-pam-bondi-subpoenaed-by-congress-over-epstein-files
-  headline: Pam Bondi subpoenaed by Congress over Epstein files
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7383
-- slug: 2026-06-10-house-panel-to-seek-testimony-from-alan-dershowitz-on-epstein
-  headline: House panel to seek testimony from Alan Dershowitz on Epstein
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7112
-- slug: 2026-05-07-timeline-traces-epstein-probe-and-fight-over-doj-files
-  headline: Timeline traces Epstein probe and fight over DOJ files
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.725
-- slug: 2026-03-20-epstein-ex-attorney-says-he-had-no-knowledge-of-abuse-in-house-testimony
-  headline: Epstein ex-attorney says he had no knowledge of abuse in House testimony
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7294
-- slug: 2026-05-18-judge-bars-lawmakers-from-maxwell-case-but-allows-epstein-files-lawsuit
-  headline: Judge bars lawmakers from Maxwell case but allows Epstein files lawsuit
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7136
+  strength: 0.745
 image:
   url: /articles/2026-11-10-epstein-survivor-says-house-report-gives-her-hope-urges-doj-to-keep-investigatin.png
-  alt: "Illustration accompanying article: Epstein survivor says House report gives her hope, urges DOJ to keep investigating"
+  alt: 'Illustration accompanying article: Epstein survivor says House report gives
+    her hope, urges DOJ to keep investigating'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Epstein survivor says House report gives her hope, urges DOJ to keep investigating
 
 **Subtype:** fact
