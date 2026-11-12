@@ -1,9 +1,20 @@
 ---
 headline: Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted
-secondary_headline: Colom would become Mississippi's first Black senator in over 140 years
+secondary_headline: Colom would become Mississippi's first Black senator in over 140
+  years
 publish_date: '2026-11-11'
-lede: BBC News reported that Democrat Scott Colom held a lead of about 2,500 ballots, less than 1%, over Republican incumbent Cindy Hyde-Smith as Mississippi officials continued counting votes nearly a week after the U.S. midterm elections. Thousands of postal and affidavit ballots remained uncounted, and state law set Friday as the certification deadline. A Colom victory would make the local prosecutor Mississippi's first Black senator in more than 140 years and the state's first Democratic senator in nearly four decades.
-nut_graf: The unresolved count could determine whether Colom wins a historic Senate seat, while a victory would expand the Democratic Senate majority-elect to 55 seats. It would also make the Democrat Mississippi's first Black senator in over 140 years, the state's first Democratic senator in nearly four decades, and break a Republican winning streak dating to 1982.
+lede: BBC News reported that Democrat Scott Colom held a lead of about 2,500 ballots,
+  less than 1%, over Republican incumbent Cindy Hyde-Smith as Mississippi officials
+  continued counting votes nearly a week after the U.S. midterm elections. Thousands
+  of postal and affidavit ballots remained uncounted, and state law set Friday as
+  the certification deadline. A Colom victory would make the local prosecutor Mississippi's
+  first Black senator in more than 140 years and the state's first Democratic senator
+  in nearly four decades.
+nut_graf: The unresolved count could determine whether Colom wins a historic Senate
+  seat, while a victory would expand the Democratic Senate majority-elect to 55 seats.
+  It would also make the Democrat Mississippi's first Black senator in over 140 years,
+  the state's first Democratic senator in nearly four decades, and break a Republican
+  winning streak dating to 1982.
 primary_entities:
 - Scott Colom
 - Cindy Hyde-Smith
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +152,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-11-scott-colom-leads-cindy-hyde-smith-as-mississippi-votes-remain-uncounted.png
-  alt: 'Illustration accompanying article: Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted'
+  alt: 'Illustration accompanying article: Scott Colom leads Cindy Hyde-Smith as Mississippi
+    votes remain uncounted'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-06-scott-colom-holds-narrow-mississippi-senate-lead-amid-ballot-counting-dispute
-  headline: Scott Colom holds narrow Mississippi Senate lead amid ballot-counting dispute
+  headline: Scott Colom holds narrow Mississippi Senate lead amid ballot-counting
+    dispute
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8901
+  strength: 0.8898
 - slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
   headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8964
+  strength: 0.8955
 - slug: 2026-11-06-parties-trade-legal-letters-as-mississippi-counts-remaining-senate-ballots
   headline: Parties trade legal letters as Mississippi counts remaining Senate ballots
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8438
+  strength: 0.8432
 - slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
   headline: Democrats sweep Congress with Mississippi Senate race still counting
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8436
+  strength: 0.8431
 - slug: 2026-11-07-black-mississippians-react-to-scott-colom-s-historic-u-s-senate-bid
   headline: Black Mississippians react to Scott Colom's historic U.S. Senate bid
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.823
+  strength: 0.8228
 - slug: 2026-11-06-mississippi-senate-race-between-hyde-smith-and-colom-remains-too-early-to-call
-  headline: Mississippi Senate race between Hyde-Smith and Colom remains too early to call
+  headline: Mississippi Senate race between Hyde-Smith and Colom remains too early
+    to call
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8185
+  strength: 0.818
 - slug: 2026-11-06-mississippi-officials-cannot-say-how-many-senate-ballots-remain-uncounted
   headline: Mississippi officials cannot say how many Senate ballots remain uncounted
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8154
+  strength: 0.8149
 - slug: 2026-11-10-senate-vote-counts-continue-as-house-and-governor-contests-remain-uncalled
   headline: Senate vote counts continue as House and governor contests remain uncalled
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7576
-- slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
-  headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7952
-- slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.8151
-- slug: 2026-11-05-tight-midterm-races-remain-uncalled-as-democrats-take-control-of-congress
-  headline: Tight midterm races remain uncalled as Democrats take control of Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7755
-- slug: 2026-11-05-four-senate-and-governor-races-remain-uncalled-in-alaska-kansas-and-mississippi
-  headline: Four Senate and governor races remain uncalled in Alaska, Kansas and Mississippi
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7414
-- slug: 2026-11-04-uncalled-senate-and-governor-races-remain-after-2026-midterms
-  headline: Uncalled Senate and governor races remain after 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7217
-- slug: 2026-11-05-black-voter-turnout-propels-democratic-wins-across-the-south
-  headline: Black voter turnout propels Democratic wins across the South
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7144
-- slug: 2026-11-05-two-senate-races-and-several-house-contests-remain-uncalled-in-2026-midterms
-  headline: Two Senate races and several House contests remain uncalled in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7011
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6858
-- slug: 2026-10-29-warnock-raises-more-than-500-000-for-colom-s-mississippi-senate-bid
-  headline: Warnock raises more than $500,000 for Colom's Mississippi Senate bid
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7283
-- slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
-  headline: US midterm results may take days or weeks to settle
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6974
-- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7348
-- slug: 2026-10-26-trump-heads-to-mississippi-as-democrats-expand-battleground-maps
-  headline: Trump heads to Mississippi as Democrats expand battleground maps
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7264
+  strength: 0.7561
 ---
-
 ## Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted
 
 **Subtype:** fact
