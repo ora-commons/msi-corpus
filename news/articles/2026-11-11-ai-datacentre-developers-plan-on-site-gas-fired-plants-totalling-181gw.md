@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-08-25'
   relation: related
   strength: 0.7568
+analyses:
+- '2026-11-11-181gw-datacentre-gas-pipeline-faces-attrition-first-lock-in-pressure-later'
 ---
 ## AI datacentre developers plan on-site gas-fired plants totalling 181GW
 
@@ -240,3 +242,8 @@ How much electricity the facilities use, how quickly grids can connect them, and
 **Publication date:** 2026-11-11
 **Title:** AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals
 **URL:** https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations
+
+---
+
+<!-- analysis-link:2026-11-11-181gw-datacentre-gas-pipeline-faces-attrition-first-lock-in-pressure-later -->
+**Going deeper:** [Read MSI's analysis of AI datacentre gas power plans →](/analyses/2026-11-11-181gw-datacentre-gas-pipeline-faces-attrition-first-lock-in-pressure-later)

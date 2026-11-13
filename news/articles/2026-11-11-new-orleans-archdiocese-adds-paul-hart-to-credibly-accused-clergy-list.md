@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-03-05'
   relation: related
   strength: 0.6512
+analyses:
+- '2026-11-11-settlement-terms-prompt-hart-s-addition-to-new-orleans-clergy-list'
 ---
 ## New Orleans archdiocese adds Paul Hart to credibly accused clergy list
 
@@ -244,3 +246,8 @@ James Adams, one of the Trahant clients removed from the bankruptcy settlement c
 **Publication date:** 2026-11-11
 **Title:** New Orleans attorney fined $400,000 after exposing abusive priest says it was ‘worth it’
 **URL:** https://www.theguardian.com/us-news/2026/nov/11/new-orleans-lawyer-abusive-priest
+
+---
+
+<!-- analysis-link:2026-11-11-settlement-terms-prompt-hart-s-addition-to-new-orleans-clergy-list -->
+**Going deeper:** [Read MSI's analysis of the Hart listing and Trahant fine →](/analyses/2026-11-11-settlement-terms-prompt-hart-s-addition-to-new-orleans-clergy-list)
