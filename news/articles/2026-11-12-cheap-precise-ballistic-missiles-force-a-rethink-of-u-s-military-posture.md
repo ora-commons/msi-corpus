@@ -2,8 +2,17 @@
 headline: Cheap, precise ballistic missiles force a rethink of U.S. military posture
 secondary_headline: U.S. and allies run short of Patriot and Thaad interceptors
 publish_date: '2026-11-12'
-lede: Cheap, precise ballistic missiles have allowed Iran and Yemen's Iran-backed Houthis to strike foes across the Middle East, and U.S. and allied military officials acknowledge the spread of the weapons must lead to a rethinking of America's military posture worldwide. The United States and its regional allies are starting to run short of interceptors for the Patriot and Thaad systems, the main defenses against ballistic missiles.
-nut_graf: The development and spread of weapons once the preserve of nuclear superpowers carries strategic implications worldwide — from U.S. military posture in Europe and Asia to the growing vulnerability of key military and infrastructure assets. U.S. and allied officials say the interceptor shortage will take several years to fix, and no decisions on how to adapt have been announced.
+lede: Cheap, precise ballistic missiles have allowed Iran and Yemen's Iran-backed
+  Houthis to strike foes across the Middle East, and U.S. and allied military officials
+  acknowledge the spread of the weapons must lead to a rethinking of America's military
+  posture worldwide. The United States and its regional allies are starting to run
+  short of interceptors for the Patriot and Thaad systems, the main defenses against
+  ballistic missiles.
+nut_graf: The development and spread of weapons once the preserve of nuclear superpowers
+  carries strategic implications worldwide — from U.S. military posture in Europe
+  and Asia to the growing vulnerability of key military and infrastructure assets.
+  U.S. and allied officials say the interceptor shortage will take several years to
+  fix, and no decisions on how to adapt have been announced.
 primary_entities:
 - Iran
 - Houthis
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -66,116 +76,62 @@ cross_article_links: []
 draft: false
 image:
   url: /articles/2026-11-12-cheap-precise-ballistic-missiles-force-a-rethink-of-u-s-military-posture.png
-  alt: 'Illustration accompanying article: Cheap, precise ballistic missiles force a rethink of U.S. military posture'
+  alt: 'Illustration accompanying article: Cheap, precise ballistic missiles force
+    a rethink of U.S. military posture'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-31-iran-damaged-structures-at-26-u-s-bases-after-targeting-early-warning-radars
-  headline: Iran damaged structures at 26 U.S. bases after targeting early-warning radars
+  headline: Iran damaged structures at 26 U.S. bases after targeting early-warning
+    radars
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7013
+  strength: 0.701
 - slug: 2026-10-28-u-s-briefs-gulf-states-on-possible-post-midterm-iran-campaign
   headline: U.S. briefs Gulf states on possible post-midterm Iran campaign
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7067
+  strength: 0.7058
 - slug: 2026-10-30-us-approved-patriot-missiles-for-ukraine-are-understood-to-be-new-builds
   headline: US-approved Patriot missiles for Ukraine are understood to be new builds
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6863
+  strength: 0.6844
 - slug: 2026-10-23-iran-threatens-gulf-targets-as-u-s-weighs-renewed-strikes
   headline: Iran threatens Gulf targets as U.S. weighs renewed strikes
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6958
+  strength: 0.6961
 - slug: 2026-10-13-iran-fortifies-nuclear-sites-and-warns-gulf-allies
   headline: Iran Fortifies Nuclear Sites and Warns Gulf Allies
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6987
-- slug: 2026-10-09-iran-houthis-strike-tanker-near-qatar-and-riyadh-airport
-  headline: Iran, Houthis strike tanker near Qatar and Riyadh airport
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6839
+  strength: 0.698
 - slug: 2026-09-16-u-s-fires-60-to-70-patriot-interceptors-in-iranian-missile-attack-on-jordan
-  headline: U.S. fires 60 to 70 Patriot interceptors in Iranian missile attack on Jordan
+  headline: U.S. fires 60 to 70 Patriot interceptors in Iranian missile attack on
+    Jordan
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7585
+  strength: 0.7587
 - slug: 2026-08-09-iran-conflict-depletes-u-s-interceptors-raising-south-korea-air-defense-concerns
-  headline: Iran conflict depletes U.S. interceptors, raising South Korea air-defense concerns
+  headline: Iran conflict depletes U.S. interceptors, raising South Korea air-defense
+    concerns
   publish_date: '2026-08-09'
   relation: related
-  strength: 0.7772
+  strength: 0.7781
 - slug: 2026-09-20-iran-threatens-us-bases-as-trump-weighs-renewed-bombing-campaign
   headline: Iran threatens US bases as Trump weighs renewed bombing campaign
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6855
-- slug: 2026-08-21-iran-war-stockpile-drain-fuels-allied-doubts-over-us-deterrent-reach
-  headline: Iran war stockpile drain fuels allied doubts over US deterrent reach
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7295
-- slug: 2026-07-28-csis-report-warns-iran-fighting-further-depleted-u-s-missile-interceptor-stocks
-  headline: CSIS Report Warns Iran Fighting Further Depleted U.S. Missile Interceptor Stocks
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.7613
-- slug: 2026-08-27-patriot-missile-shortage-in-europe-hits-beyond-critical-level-officials-say
-  headline: Patriot missile shortage in Europe hits 'beyond critical' level, officials say
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6995
-- slug: 2026-07-25-iran-s-kheibar-shekan-missile-becoming-more-difficult-to-intercept-u-s-officials
-  headline: Iran's Kheibar Shekan missile becoming more difficult to intercept, U.S. officials say
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.703
-- slug: 2026-07-20-lockheed-martin-plans-cheaper-patriot-missile-as-stockpiles-dwindle
-  headline: Lockheed Martin plans cheaper Patriot missile as stockpiles dwindle
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7074
-- slug: 2026-05-27-years-needed-to-replenish-key-us-weapons-used-in-iran-war-csis-analysis-finds
-  headline: Years needed to replenish key US weapons used in Iran war, CSIS analysis finds
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7267
-- slug: 2026-03-07-us-weapons-stockpiles-under-strain-as-iran-war-enters-second-week-democrats-warn
-  headline: US weapons stockpiles under strain as Iran war enters second week, Democrats warn
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.7416
-- slug: 2026-02-27-iran-has-options-if-america-attacks-experts-say-despite-u-s-edge
-  headline: Iran has options if America attacks, experts say, despite U.S. edge
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7262
-- slug: 2026-05-27-csis-analysis-says-years-needed-to-rebuild-key-us-weapons-used-in-iran-war
-  headline: CSIS analysis says years needed to rebuild key US weapons used in Iran war
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7064
-- slug: 2026-03-21-us-moves-patriot-missiles-from-europe-to-middle-east-amid-iran-conflict
-  headline: US moves Patriot missiles from Europe to Middle East amid Iran conflict
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7163
-- slug: 2026-06-15-pentagon-pursues-cheaper-faster-missiles-to-address-slow-replacement-rates
-  headline: Pentagon pursues cheaper, faster missiles to address slow replacement rates
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6891
+  strength: 0.6858
 ---
-
 ## Cheap, precise ballistic missiles force a rethink of U.S. military posture
 
 - Iran and Yemen's Iran-backed Houthis are striking foes across the Middle East with cheaper, more precise ballistic missiles.
