@@ -1,9 +1,22 @@
 ---
-headline: Scott Colom celebrates Mississippi Senate win as first Black senator since 1875
-secondary_headline: Victory follows more than a week of affidavit ballot curing and counting
+headline: Scott Colom celebrates Mississippi Senate win as first Black senator since
+  1875
+secondary_headline: Victory follows more than a week of affidavit ballot curing and
+  counting
 publish_date: '2026-11-12'
-lede: About a thousand people gathered on the Woodworth Chapel Lawn at Tougaloo College in Jackson to celebrate Scott Colom's victory in Mississippi's closely contested US Senate race, a win that became official only after more than a week of affidavit ballot curing and vote counting. The Democratic nominee's defeat of Republican Cindy Hyde-Smith makes Colom the first Black senator Mississippi has sent to Washington since 1875 and the first Democrat elected to the state's Senate seat since 1982.
-nut_graf: 'The result carried more than a century of Mississippi history: the state had not elected a Democrat to the Senate since John C Stennis won a seventh term in 1982, and had not sent a Black senator to Washington since 1875. Blanche K Bruce, who was born into slavery, ended his single term in office in 1881; his tenure followed that of Hiram Revels, the first Black man to serve in the US Senate, also from Mississippi. For decades before the win, Bennie Thompson stood as both Mississippi''s lone Black and lone Democratic congressional representative; Colom''s election changed that.'
+lede: About a thousand people gathered on the Woodworth Chapel Lawn at Tougaloo College
+  in Jackson to celebrate Scott Colom's victory in Mississippi's closely contested
+  US Senate race, a win that became official only after more than a week of affidavit
+  ballot curing and vote counting. The Democratic nominee's defeat of Republican Cindy
+  Hyde-Smith makes Colom the first Black senator Mississippi has sent to Washington
+  since 1875 and the first Democrat elected to the state's Senate seat since 1982.
+nut_graf: 'The result carried more than a century of Mississippi history: the state
+  had not elected a Democrat to the Senate since John C Stennis won a seventh term
+  in 1982, and had not sent a Black senator to Washington since 1875. Blanche K Bruce,
+  who was born into slavery, ended his single term in office in 1881; his tenure followed
+  that of Hiram Revels, the first Black man to serve in the US Senate, also from Mississippi.
+  For decades before the win, Bennie Thompson stood as both Mississippi''s lone Black
+  and lone Democratic congressional representative; Colom''s election changed that.'
 primary_entities:
 - Scott Colom
 - Cindy Hyde-Smith
@@ -43,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,17 +156,19 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-seat-first-black-senator-since-reco
-  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator since Reconstruction
+  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator
+    since Reconstruction
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.789
+  strength: 0.7885
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-incumbent-hyde-smith
   headline: Democrat Scott Colom wins Mississippi Senate race over incumbent Hyde-Smith
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7869
+  strength: 0.787
 - slug: 2026-11-11-scott-colom-wins-mississippi-senate-race-first-democrat-elected-since-1982
-  headline: Scott Colom wins Mississippi Senate race, first Democrat elected since 1982
+  headline: Scott Colom wins Mississippi Senate race, first Democrat elected since
+    1982
   publish_date: '2026-11-11'
   relation: related
   strength: 0.7831
@@ -165,84 +181,24 @@ related_stories:
   headline: Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7743
+  strength: 0.7749
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-cindy-hyde-smith
   headline: Democrat Scott Colom wins Mississippi Senate race over Cindy Hyde-Smith
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.749
+  strength: 0.7496
 - slug: 2026-11-11-scott-colom-closes-winning-mississippi-senate-campaign-with-medgar-evers-ad
-  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers ad
+  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers
+    ad
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7436
+  strength: 0.7431
 - slug: 2026-11-11-black-voters-backed-colom-by-95-points-voter-poll-found
   headline: Black voters backed Colom by 95 points, Voter Poll found
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7315
-- slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
-  headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7713
-- slug: 2026-11-11-colom-says-national-democrats-spent-almost-nothing-in-mississippi
-  headline: Colom says national Democrats spent 'almost nothing' in Mississippi
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7128
-- slug: 2026-11-06-scott-colom-holds-narrow-mississippi-senate-lead-amid-ballot-counting-dispute
-  headline: Scott Colom holds narrow Mississippi Senate lead amid ballot-counting dispute
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7304
-- slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
-  headline: Democrats sweep Congress with Mississippi Senate race still counting
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7138
-- slug: 2026-11-06-parties-trade-legal-letters-as-mississippi-counts-remaining-senate-ballots
-  headline: Parties trade legal letters as Mississippi counts remaining Senate ballots
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6939
-- slug: 2026-11-05-black-voter-turnout-propels-democratic-wins-across-the-south
-  headline: Black voter turnout propels Democratic wins across the South
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6941
-- slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
-  headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6897
-- slug: 2026-11-06-mississippi-officials-cannot-say-how-many-senate-ballots-remain-uncounted
-  headline: Mississippi officials cannot say how many Senate ballots remain uncounted
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6735
-- slug: 2026-11-05-tight-midterm-races-remain-uncalled-as-democrats-take-control-of-congress
-  headline: Tight midterm races remain uncalled as Democrats take control of Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6608
-- slug: 2026-11-04-afl-cio-in-maine-made-65-000-canvassing-calls-for-troy-jackson-s-senate-bid
-  headline: AFL-CIO in Maine made 65,000 canvassing calls for Troy Jackson's Senate bid
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6654
-- slug: 2026-11-06-mississippi-senate-race-between-hyde-smith-and-colom-remains-too-early-to-call
-  headline: Mississippi Senate race between Hyde-Smith and Colom remains too early to call
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6524
-- slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6621
+  strength: 0.731
 ---
-
 ## Scott Colom celebrates Mississippi Senate win as first Black senator since 1875
 
 **Subtype:** fact

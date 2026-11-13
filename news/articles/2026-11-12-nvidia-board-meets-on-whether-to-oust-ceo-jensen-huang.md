@@ -1,9 +1,18 @@
 ---
 headline: Nvidia board meets on whether to oust CEO Jensen Huang
-secondary_headline: Shares slide more than 8% after report company prepared to fire him
+secondary_headline: Shares slide more than 8% after report company prepared to fire
+  him
 publish_date: '2026-11-12'
-lede: Nvidia's board of directors met on Wednesday to decide whether to remove Jensen Huang as chief executive of the world's most valuable chip company, according to multiple reports, capping a week in which the co-founder admitted to a romantic relationship with a businesswoman alleged to be a Chinese spy and the company's stock plunged.
-nut_graf: The meeting marks a sharp reversal from Sunday, when Nvidia's board publicly expressed confidence in Huang and his leadership team. Huang co-founded Nvidia in 1993 and has no obvious successor; his exit would leave a leadership vacuum at a company whose chips underpin the artificial intelligence operations of OpenAI, Anthropic and Google.
+lede: Nvidia's board of directors met on Wednesday to decide whether to remove Jensen
+  Huang as chief executive of the world's most valuable chip company, according to
+  multiple reports, capping a week in which the co-founder admitted to a romantic
+  relationship with a businesswoman alleged to be a Chinese spy and the company's
+  stock plunged.
+nut_graf: The meeting marks a sharp reversal from Sunday, when Nvidia's board publicly
+  expressed confidence in Huang and his leadership team. Huang co-founded Nvidia in
+  1993 and has no obvious successor; his exit would leave a leadership vacuum at a
+  company whose chips underpin the artificial intelligence operations of OpenAI, Anthropic
+  and Google.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -53,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +165,46 @@ related_stories:
   headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.9349
+  strength: 0.9347
 - slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
   headline: Nvidia faces scrutiny over alleged spying that targeted Huang
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8733
+  strength: 0.8746
 - slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
   headline: Nvidia board investigates CEO Jensen Huang as shares tumble
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8552
+  strength: 0.8558
 - slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
+  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens
+    inquiry
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8542
+  strength: 0.8547
 - slug: 2026-11-11-nvidia-shares-fall-almost-5-5-as-spying-scandal-wipes-off-around-430bn
   headline: Nvidia shares fall almost 5.5% as spying scandal wipes off around $430bn
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.831
+  strength: 0.8304
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8427
+  strength: 0.8431
 - slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
+  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen
+    Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8417
+  strength: 0.8428
 - slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
+  headline: Nvidia's Huang wins looser China chip rules despite national-security
+    warnings
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8069
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8303
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8291
-- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8203
-- slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
-  headline: Nvidia investigates reports of spying targeting Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8194
-- slug: 2026-11-10-nvidia-has-no-succession-plan-as-huang-s-future-rests-with-its-board
-  headline: Nvidia has no succession plan as Huang's future rests with its board
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8112
-- slug: 2026-11-10-investor-sues-nvidia-over-alleged-deception-on-ceo-affair-and-megaspeed
-  headline: Investor sues Nvidia over alleged deception on CEO affair and Megaspeed
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7917
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8003
-- slug: 2026-11-09-nvidia-has-no-board-chair-and-designates-a-lead-director-annually
-  headline: Nvidia has no board chair and designates a lead director annually
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7928
-- slug: 2026-11-11-huang-presses-china-chip-access-while-opposing-new-ai-rules
-  headline: Huang presses China chip access while opposing new AI rules
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7758
-- slug: 2026-11-10-nvidia-shareholder-suit-alleges-failure-to-disclose-national-security-concerns
-  headline: Nvidia shareholder suit alleges failure to disclose national security concerns
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7774
-- slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
-  headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7827
-- slug: 2026-11-12-warren-and-coons-ask-trump-administration-to-preserve-nvidia-chip-export-records
-  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export records
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7524
+  strength: 0.8081
 ---
-
 ## Nvidia board meets on whether to oust CEO Jensen Huang
 
 **Subtype:** fact

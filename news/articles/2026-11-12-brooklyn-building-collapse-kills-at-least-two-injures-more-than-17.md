@@ -2,8 +2,15 @@
 headline: Brooklyn building collapse kills at least two, injures more than 17
 secondary_headline: More than 250 responders search rubble as the cause remains unknown
 publish_date: '2026-11-12'
-lede: At least two people have died and more than 17 others were injured after a three-story building collapsed into an open construction site on Flatbush Avenue in Brooklyn, New York City officials said. More than 250 first responders spent hours searching the rubble for survivors who may have been trapped in the building and the work site.
-nut_graf: The three-story building fell into an open construction site, trapping people from both the building and the work site, according to fire officials, who described the rescue operation as extremely dangerous. City records show the structure was built in 1930, and authorities had not determined what caused the sudden collapse.
+lede: At least two people have died and more than 17 others were injured after a three-story
+  building collapsed into an open construction site on Flatbush Avenue in Brooklyn,
+  New York City officials said. More than 250 first responders spent hours searching
+  the rubble for survivors who may have been trapped in the building and the work
+  site.
+nut_graf: The three-story building fell into an open construction site, trapping people
+  from both the building and the work site, according to fire officials, who described
+  the rescue operation as extremely dangerous. City records show the structure was
+  built in 1930, and authorities had not determined what caused the sudden collapse.
 primary_entities:
 - Brooklyn
 - Flatbush Avenue
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,16 +149,21 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-12-brooklyn-building-collapse-kills-at-least-two-injures-more-than-17.png
-  alt: 'Illustration accompanying article: Brooklyn building collapse kills at least two, injures more than 17'
+  alt: 'Illustration accompanying article: Brooklyn building collapse kills at least
+    two, injures more than 17'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-11-brooklyn-building-collapse-kills-at-least-2-leaves-others-trapped-in-rubble
-  headline: Brooklyn building collapse kills at least 2, leaves others trapped in rubble
+  headline: Brooklyn building collapse kills at least 2, leaves others trapped in
+    rubble
   publish_date: '2026-11-11'
   relation: related
   strength: 0.9021
@@ -189,68 +202,7 @@ related_stories:
   publish_date: '2026-09-16'
   relation: related
   strength: 0.6872
-- slug: 2026-09-16-nbc4-helicopter-crash-in-los-angeles-neighborhood-kills-at-least-three
-  headline: NBC4 helicopter crash in Los Angeles neighborhood kills at least three
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6529
-- slug: 2026-05-22-fire-and-blast-at-nyc-shipyard-kills-1-injures-36-including-firefighters
-  headline: Fire and blast at NYC shipyard kills 1, injures 36 including firefighters
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6792
-- slug: 2026-05-22-1-person-has-died-after-blast-at-new-york-city-shipyard-that-also-injured-36-peo
-  headline: 1 person has died after blast at New York City shipyard that also injured 36 people, officials say
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.675
-- slug: 2026-04-09-1-killed-2-presumed-dead-after-parking-garage-stairwell-roof-collapses
-  headline: 1 killed, 2 presumed dead after parking garage stairwell roof collapses
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.686
-- slug: 2026-05-23-fire-and-second-blast-injure-36-at-nyc-shipyard-1-dies
-  headline: Fire and second blast injure 36 at NYC shipyard; 1 dies
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6721
-- slug: 2026-07-07-fdny-evacuates-manhattan-tower-after-steel-beams-buckle-during-renovation
-  headline: FDNY evacuates Manhattan tower after steel beams buckle during renovation
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6446
-- slug: 2026-05-18-gas-explosion-kills-1-injures-14-in-bronx-apartment-building
-  headline: Gas explosion kills 1, injures 14 in Bronx apartment building
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6714
-- slug: 2026-03-15-nairobi-building-collapses-during-planned-demolition-officials-say
-  headline: Nairobi building collapses during planned demolition, officials say
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6788
-- slug: 2026-05-29-explosion-and-fire-at-dallas-apartment-building-kills-three-including-a-child
-  headline: Explosion and fire at Dallas apartment building kills three, including a child
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6511
-- slug: 2026-06-02-nypd-investigates-groups-emerging-from-manholes-across-brooklyn-and-queens
-  headline: NYPD investigates groups emerging from manholes across Brooklyn and Queens
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6477
-- slug: 2026-05-30-dallas-fire-chief-firefighters-were-outside-apartment-building-when-blast-killed
-  headline: 'Dallas fire chief: Firefighters were outside apartment building when blast killed 3'
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6455
-- slug: 2026-05-23-probe-underway-after-nyc-shipyard-blast-kills-1-injures-30-firefighters
-  headline: Probe underway after NYC shipyard blast kills 1, injures 30+ firefighters
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6476
 ---
-
 ## Brooklyn building collapse kills at least two, injures more than 17
 
 **Subtype:** fact
