@@ -2,8 +2,17 @@
 headline: Erdogan calls Gaza war an ecocide at COP31, asks Israel for more aid access
 secondary_headline: UNEP found over 97% of Gaza's tree crops damaged by May 2025
 publish_date: '2026-11-11'
-lede: Turkish President Recep Tayyip Erdogan told the U.N. climate summit in Antalya, Turkey, on Wednesday that 'what has taken place in Gaza is not only a genocide, but it is also an ecocide,' and he asked the Israeli government to grant more aid access to the Palestinian territory. The remarks drew applause from world leaders and other climate envoys at the summit, known as COP31.
-nut_graf: 'Erdogan''s address placed Gaza''s environmental collapse before a summit convened to curb global warming, and paired his accusation with documented findings: a 2025 U.N. Environment Program report found the great majority of Gaza''s tree crops, annual crops and shrubland damaged as of May 2025, while aid groups say the territory''s water, sewage and waste systems have been virtually decimated by three years of war.'
+lede: Turkish President Recep Tayyip Erdogan told the U.N. climate summit in Antalya,
+  Turkey, on Wednesday that 'what has taken place in Gaza is not only a genocide,
+  but it is also an ecocide,' and he asked the Israeli government to grant more aid
+  access to the Palestinian territory. The remarks drew applause from world leaders
+  and other climate envoys at the summit, known as COP31.
+nut_graf: 'Erdogan''s address placed Gaza''s environmental collapse before a summit
+  convened to curb global warming, and paired his accusation with documented findings:
+  a 2025 U.N. Environment Program report found the great majority of Gaza''s tree
+  crops, annual crops and shrubland damaged as of May 2025, while aid groups say the
+  territory''s water, sewage and waste systems have been virtually decimated by three
+  years of war.'
 primary_entities:
 - Recep Tayyip Erdogan
 - Benjamin Netanyahu
@@ -48,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,116 +157,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-11-erdogan-calls-gaza-war-an-ecocide-at-cop31-asks-israel-for-more-aid-access.png
-  alt: 'Illustration accompanying article: Erdogan calls Gaza war an ecocide at COP31, asks Israel for more aid access'
+  alt: 'Illustration accompanying article: Erdogan calls Gaza war an ecocide at COP31,
+    asks Israel for more aid access'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-11-erdogan-urges-countries-to-adopt-zero-waste-goals-at-cop31
   headline: Erdogan urges countries to adopt zero-waste goals at COP31
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7665
+  strength: 0.7675
 - slug: 2026-11-11-world-leaders-begin-cop31-talks-in-turkey-seeking-concrete-climate-action
   headline: World leaders begin COP31 talks in Turkey seeking concrete climate action
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7309
+  strength: 0.7308
 - slug: 2026-11-09-kurum-s-action-agenda-centers-on-electrification
   headline: Kurum's Action Agenda centers on electrification
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.716
+  strength: 0.7163
 - slug: 2026-11-10-greta-thunberg-calls-for-structural-changes-to-global-systems-at-cop31
   headline: Greta Thunberg calls for structural changes to global systems at COP31
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6937
+  strength: 0.6943
 - slug: 2026-11-06-un-climate-talks-open-in-turkey-with-fossil-fuel-transition-as-key-issue
   headline: UN climate talks open in Turkey with fossil fuel transition as key issue
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7173
+  strength: 0.717
 - slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
   headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6977
+  strength: 0.699
 - slug: 2026-11-07-guterres-prepares-final-climate-message-as-cop31-s-nov-9-opening-nears
   headline: Guterres prepares final climate message as COP31's Nov. 9 opening nears
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.686
+  strength: 0.6856
 - slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
   headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6656
-- slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6366
-- slug: 2026-10-23-eight-foreign-ministers-urge-us-and-israel-to-avoid-fresh-strikes-on-iran
-  headline: Eight foreign ministers urge US and Israel to avoid fresh strikes on Iran
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6317
-- slug: 2026-10-09-at-fiji-pre-summit-kurum-calls-climate-crisis-the-security-issue
-  headline: At Fiji pre-summit, Kurum calls climate crisis 'the security issue'
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.687
-- slug: 2026-09-24-abbas-addresses-un-by-video-after-us-denies-palestinian-visas-second-year
-  headline: Abbas addresses UN by video after US denies Palestinian visas second year
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6557
-- slug: 2026-09-28-gates-warns-ai-regulation-needed-to-prevent-billion-deaths
-  headline: Gates warns AI regulation needed to prevent 'billion deaths'
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6256
-- slug: 2026-09-24-netanyahu-arrives-in-new-york-for-defiant-un-speech-as-hundreds-protest
-  headline: Netanyahu arrives in New York for defiant UN speech as hundreds protest
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6384
-- slug: 2026-09-21-world-leaders-at-climate-week-link-fossil-fuels-to-wars-and-economic-risk
-  headline: World leaders at Climate Week link fossil fuels to wars and economic risk
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6275
-- slug: 2026-09-21-abbas-to-address-un-general-assembly-by-video-after-visa-denial
-  headline: Abbas to address UN General Assembly by video after visa denial
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6239
-- slug: 2026-09-16-war-damaged-gaza-building-collapses-killing-at-least-21-people
-  headline: War-damaged Gaza building collapses, killing at least 21 people
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6311
-- slug: 2026-08-27-board-of-peace-envoy-criticizes-israel-at-un-warns-of-next-gaza-war
-  headline: Board of Peace envoy criticizes Israel at UN, warns of next Gaza war
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6455
-- slug: 2026-08-03-israeli-strikes-kill-at-least-14-in-gaza-as-peace-envoy-urges-de-escalation
-  headline: Israeli strikes kill at least 14 in Gaza as peace envoy urges de-escalation
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6705
-- slug: 2026-06-05-middle-east-escalations-deepen-as-ceasefires-falter-and-regional-powers-diverge
-  headline: Middle East escalations deepen as ceasefires falter and regional powers diverge
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6563
+  strength: 0.6666
 ---
-
 ## Erdogan calls Gaza war an ecocide at COP31, asks Israel for more aid access
 
 **Subtype:** fact

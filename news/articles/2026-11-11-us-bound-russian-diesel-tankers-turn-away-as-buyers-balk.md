@@ -201,6 +201,8 @@ related_stories:
   publish_date: '2026-10-22'
   relation: related
   strength: 0.6991
+analyses:
+- '2026-11-11-buyer-refusal-not-supply-keeps-russian-diesel-from-us-ports'
 ---
 ## US-bound Russian diesel tankers turn away as buyers balk
 
@@ -244,3 +246,8 @@ The shortage is costing meatpackers billions of dollars in losses because they c
 **Publication date:** 2026-11-11
 **Title:** Russian-Diesel Plan Founders as U.S.-Bound Tankers Change Course
 **URL:** https://www.wsj.com/logistics-report/russian-diesel-plan-founders-as-u-s-bound-tankers-change-course-4d4dc8b9
+
+---
+
+<!-- analysis-link:2026-11-11-buyer-refusal-not-supply-keeps-russian-diesel-from-us-ports -->
+**Going deeper:** [Read MSI's analysis of the supply bets buyers refused →](/analyses/2026-11-11-buyer-refusal-not-supply-keeps-russian-diesel-from-us-ports)

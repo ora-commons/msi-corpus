@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-11-07'
   relation: related
   strength: 0.6979
+analyses:
+- '2026-11-11-dhs-legal-status-definitions-not-midterm-returns-drive-post-election-arrest-expo'
 ---
 ## Federal immigration arrests continue after Republican midterm losses
 
@@ -252,3 +254,8 @@ Trump's post-election remarks and the arrests documented over the same days poin
 **Publication date:** 2026-11-11
 **Title:** Immigration arrests go on unabated after GOP's midterm wipeout
 **URL:** https://apnews.com/article/immigration-arrests-midterm-election-trump-f3b9d1c9aab7d701c9b2c2550efa0332
+
+---
+
+<!-- analysis-link:2026-11-11-dhs-legal-status-definitions-not-midterm-returns-drive-post-election-arrest-expo -->
+**Going deeper:** [Read MSI's analysis of post-midterm immigration enforcement →](/analyses/2026-11-11-dhs-legal-status-definitions-not-midterm-returns-drive-post-election-arrest-expo)
