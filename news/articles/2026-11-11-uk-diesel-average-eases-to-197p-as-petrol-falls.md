@@ -2,8 +2,15 @@
 headline: UK diesel average eases to 197p as petrol falls
 secondary_headline: Waller points to tanker insurance and limited refining capacity
 publish_date: '2026-11-11'
-lede: UK diesel averaged 197p per litre on November 11, only 2p below its record £2 price despite a sharp fall in oil prices, the AA said. Petrol averaged 168p, down 6p from an early-October peak of 174.7p, the AA said. Christopher Waller, a US Federal Reserve governor, said energy prices could remain “elevated” amid tanker-insurance costs and limited refining capacity.
-nut_graf: The divergence matters because high fuel prices are placing huge financial strain on households and businesses, while the tanker and refining constraints Waller described could delay relief at the pump. The AA said petrol could fall by another 10p, but diesel's average price had fallen only 2p from its record.
+lede: UK diesel averaged 197p per litre on November 11, only 2p below its record £2
+  price despite a sharp fall in oil prices, the AA said. Petrol averaged 168p, down
+  6p from an early-October peak of 174.7p, the AA said. Christopher Waller, a US Federal
+  Reserve governor, said energy prices could remain “elevated” amid tanker-insurance
+  costs and limited refining capacity.
+nut_graf: The divergence matters because high fuel prices are placing huge financial
+  strain on households and businesses, while the tanker and refining constraints Waller
+  described could delay relief at the pump. The AA said petrol could fall by another
+  10p, but diesel's average price had fallen only 2p from its record.
 primary_entities:
 - AA
 - Christopher Waller
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,12 +148,12 @@ related_stories:
   headline: U.S. consumer prices rise four-tenths of a percent in October
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7157
+  strength: 0.7153
 - slug: 2026-10-21-higher-petrol-and-diesel-costs-drive-britain-s-september-inflation
   headline: Higher petrol and diesel costs drive Britain's September inflation
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7178
+  strength: 0.7179
 - slug: 2026-10-02-uk-diesel-average-breaks-2-a-litre-for-the-first-time
   headline: UK diesel average breaks £2 a litre for the first time
   publish_date: '2026-10-02'
@@ -155,89 +163,29 @@ related_stories:
   headline: Analysts say Trump-Russia diesel volumes too small to ease global squeeze
   publish_date: '2026-10-16'
   relation: related
-  strength: 0.7096
+  strength: 0.7099
 - slug: 2026-09-28-uk-diesel-average-reaches-record-199-18p-a-litre-amid-iran-conflict
   headline: UK diesel average reaches record 199.18p a litre amid Iran conflict
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7687
+  strength: 0.7684
 - slug: 2026-10-02-cornwall-insight-projects-16-rise-in-uk-energy-price-cap
   headline: Cornwall Insight projects 16% rise in UK energy price cap
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7489
+  strength: 0.7487
 - slug: 2026-10-07-analysts-forecast-diesel-prices-will-keep-driving-inflation-until-wars-end
-  headline: Analysts forecast diesel prices will keep driving inflation until wars end
+  headline: Analysts forecast diesel prices will keep driving inflation until wars
+    end
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7138
+  strength: 0.7134
 - slug: 2026-09-28-healey-says-uk-preparing-for-diesel-export-ban-as-fuel-prices-hit-record
   headline: Healey says UK preparing for diesel export ban as fuel prices hit record
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7453
-- slug: 2026-10-01-diesel-prices-hit-records-in-us-and-eu-as-wars-curb-global-supply
-  headline: Diesel prices hit records in US and EU as wars curb global supply
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7303
-- slug: 2026-10-01-uk-joins-european-diesel-reserve-talks-after-us-export-ban-warning
-  headline: UK joins European diesel-reserve talks after US export-ban warning
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7293
-- slug: 2026-09-15-us-diesel-average-hits-record-6-27-a-gallon
-  headline: US diesel average hits record $6.27 a gallon
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7739
-- slug: 2026-09-21-uk-diesel-prices-head-toward-2-a-litre-as-wars-cut-global-refining
-  headline: UK diesel prices head toward £2 a litre as wars cut global refining
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7497
-- slug: 2026-10-02-macquarie-says-g7-diesel-release-won-t-fix-us-energy-problem
-  headline: Macquarie says G7 diesel release won't fix US energy problem
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7122
-- slug: 2026-10-02-shropshire-lorry-training-firm-riding-out-record-uk-diesel-prices
-  headline: Shropshire lorry training firm 'riding out' record UK diesel prices
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7089
-- slug: 2026-10-02-uk-transport-minister-says-country-is-not-facing-diesel-shortage
-  headline: UK transport minister says country is not facing diesel shortage
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7036
-- slug: 2026-10-02-northern-ireland-diesel-prices-reach-highest-level-since-iran-conflict-began
-  headline: Northern Ireland diesel prices reach highest level since Iran conflict began
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7009
-- slug: 2026-09-28-trump-backs-diesel-export-ban-to-ease-record-us-pump-prices
-  headline: Trump backs diesel export ban to ease record US pump prices
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.708
-- slug: 2026-09-28-russia-bans-diesel-exports-after-ukraine-refinery-attacks
-  headline: Russia bans diesel exports after Ukraine refinery attacks
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.707
-- slug: 2026-09-22-trump-weighs-diesel-export-ban-to-ease-record-fuel-prices
-  headline: Trump weighs diesel export ban to ease record fuel prices
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7102
-- slug: 2026-09-22-diesel-hits-us-record-6-527-a-gallon-as-crude-slides-on-iran-diplomatic-hopes
-  headline: Diesel hits US record $6.527 a gallon as crude slides on Iran diplomatic hopes
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7083
+  strength: 0.7451
 ---
-
 ## UK diesel average eases to 197p as petrol falls
 
 **Subtype:** fact

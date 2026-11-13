@@ -2,8 +2,17 @@
 headline: Nissan cuts petrol-car output in China amid faster electrification
 secondary_headline: China sales fall 32% as Nissan lowers annual vehicle forecast
 publish_date: '2026-11-11'
-lede: Nissan said it would cut production of petrol cars in China while increasing output of battery-electric vehicles and plug-in hybrids, responding to accelerating electric and hybrid sales in a competitive market. The Japanese carmaker expects to sell between 2.97 million and 3 million vehicles this year, down from a previous forecast of 3.15 million, mainly because of struggles in China. Nissan said its China sales fell 32% in the first nine months of the year.
-nut_graf: 'The production shift shows how differently Nissan''s markets are moving: chief executive Ivan Espinosa said the shift to new energy vehicles in China is happening faster than expected, while the company is lobbying to slow battery adoption in Europe. Nissan''s only European factory is also exposed to proposed EU rules that would exclude all Nissan cars from subsidies and other incentives.'
+lede: Nissan said it would cut production of petrol cars in China while increasing
+  output of battery-electric vehicles and plug-in hybrids, responding to accelerating
+  electric and hybrid sales in a competitive market. The Japanese carmaker expects
+  to sell between 2.97 million and 3 million vehicles this year, down from a previous
+  forecast of 3.15 million, mainly because of struggles in China. Nissan said its
+  China sales fell 32% in the first nine months of the year.
+nut_graf: 'The production shift shows how differently Nissan''s markets are moving:
+  chief executive Ivan Espinosa said the shift to new energy vehicles in China is
+  happening faster than expected, while the company is lobbying to slow battery adoption
+  in Europe. Nissan''s only European factory is also exposed to proposed EU rules
+  that would exclude all Nissan cars from subsidies and other incentives.'
 primary_entities:
 - Nissan
 - China
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +153,45 @@ related_stories:
   headline: China expands EV, chip and chemical exports amid weak domestic demand
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.722
+  strength: 0.7234
 - slug: 2026-10-15-chinese-automakers-target-overseas-markets-as-us-and-eu-tighten-access
   headline: Chinese automakers target overseas markets as US and EU tighten access
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7272
+  strength: 0.7286
 - slug: 2026-10-04-uk-carmakers-caught-between-chinese-imports-and-eu-tariff-threat
   headline: UK carmakers caught between Chinese imports and EU tariff threat
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7006
+  strength: 0.7029
 - slug: 2026-09-24-brussels-asks-beijing-to-voluntarily-cut-hybrid-exports-or-face-safeguard-quotas
-  headline: Brussels asks Beijing to voluntarily cut hybrid exports or face safeguard quotas
+  headline: Brussels asks Beijing to voluntarily cut hybrid exports or face safeguard
+    quotas
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6881
+  strength: 0.6898
 - slug: 2026-09-03-china-s-evs-displaced-1-5-million-barrels-of-oil-per-day-in-q2-iea-says
   headline: China's EVs displaced 1.5 million barrels of oil per day in Q2, IEA says
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.7118
+  strength: 0.7115
 - slug: 2026-08-04-south-korea-excludes-electric-vehicles-from-new-production-tax-credit
   headline: South Korea excludes electric vehicles from new production tax credit
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.7032
+  strength: 0.7015
 - slug: 2026-05-12-nissan-narrows-annual-loss-to-3-4-billion-forecasts-modest-return-to-profit
-  headline: Nissan narrows annual loss to $3.4 billion, forecasts modest return to profit
+  headline: Nissan narrows annual loss to $3.4 billion, forecasts modest return to
+    profit
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.7517
+  strength: 0.7524
 - slug: 2026-05-12-nissan-cuts-losses-but-expects-to-return-to-profit-in-2027
   headline: Nissan cuts losses but expects to return to profit in 2027
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.7462
-- slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
-  headline: Ford executive chair says US must prepare for Chinese cars to enter market
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7052
-- slug: 2026-04-10-china-s-car-exports-soar-more-than-80-in-march-as-ev-pivot-looks-ahead
-  headline: China's car exports soar more than 80% in March as EV pivot looks ahead
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7386
-- slug: 2026-02-13-nissan-reports-larger-loss-but-says-restructuring-keeps-turnaround-on-track
-  headline: Nissan reports larger loss but says restructuring keeps turnaround on track
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7438
-- slug: 2026-05-10-china-s-car-exports-jump-nearly-85-in-april-as-domestic-sales-slump
-  headline: China's car exports jump nearly 85% in April as domestic sales slump
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7259
-- slug: 2026-01-13-china-car-exports-surged-in-2025-but-domestic-demand-slowed
-  headline: China car exports surged in 2025, but domestic demand slowed
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7424
-- slug: 2026-06-21-european-ev-makers-shrink-cars-to-challenge-suvs-and-chinese-rivals
-  headline: European EV makers shrink cars to challenge SUVs and Chinese rivals
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7026
-- slug: 2026-07-09-china-car-exports-surge-80-in-june-evs-drive-growth
-  headline: China car exports surge 80% in June, EVs drive growth
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.688
-- slug: 2026-06-23-nissan-halts-all-electric-qashqai-development-at-sunderland-plant
-  headline: Nissan halts all-electric Qashqai development at Sunderland plant
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6913
-- slug: 2026-05-10-china-car-exports-jump-nearly-85-in-april-led-by-evs
-  headline: China car exports jump nearly 85% in April, led by EVs
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7109
-- slug: 2026-01-14-china-car-exports-surged-21-in-2025-as-domestic-ev-demand-slowed
-  headline: China car exports surged 21% in 2025, as domestic EV demand slowed
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7276
-- slug: 2026-02-11-nissan-reports-deeper-quarterly-loss-restructuring-costs-weigh-on-outlook
-  headline: Nissan reports deeper quarterly loss, restructuring costs weigh on outlook
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7226
-- slug: 2026-04-09-china-car-exports-soar-more-than-80-in-march-evs-jump-on-energy-shock
-  headline: China car exports soar more than 80% in March, EVs jump on energy shock
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.7123
+  strength: 0.7465
 ---
-
 ## Nissan cuts petrol-car output in China amid faster electrification
 
 **Subtype:** fact
