@@ -1,9 +1,18 @@
 ---
 headline: Euclid telescope maps 900 million galaxies in first major data release
-secondary_headline: Release contains 15,000 strong lensing candidates that could test dark matter theories
+secondary_headline: Release contains 15,000 strong lensing candidates that could test
+  dark matter theories
 publish_date: '2026-11-12'
-lede: The European Space Agency's Euclid space telescope has released its first major data set, cataloguing more than 900 million galaxies and about 15,000 probable cases of strong gravitational lensing, a previously rare magnification effect that scientists said could help unlock the nature of dark matter. The data covers about 14% of the total sky area the mission will ultimately map.
-nut_graf: Euclid launched in July 2023 with the goal of building the largest cosmic map ever made, encompassing a third of the sky and more than 10 billion years of cosmic history. Its targets are dark energy and dark matter, thought to make up about 70% and 25% of the universe respectively and described as two of the biggest mysteries in astronomy.
+lede: The European Space Agency's Euclid space telescope has released its first major
+  data set, cataloguing more than 900 million galaxies and about 15,000 probable cases
+  of strong gravitational lensing, a previously rare magnification effect that scientists
+  said could help unlock the nature of dark matter. The data covers about 14% of the
+  total sky area the mission will ultimately map.
+nut_graf: Euclid launched in July 2023 with the goal of building the largest cosmic
+  map ever made, encompassing a third of the sky and more than 10 billion years of
+  cosmic history. Its targets are dark energy and dark matter, thought to make up
+  about 70% and 25% of the universe respectively and described as two of the biggest
+  mysteries in astronomy.
 primary_entities:
 - Euclid
 - European Space Agency
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +149,8 @@ cross_article_links:
   strength: 0.5487
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-04-swift-data-trace-gold-and-iodine-on-earth-to-ancient-dead-star-collisions
-  headline: Swift data trace gold and iodine on Earth to ancient dead-star collisions
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5418
-- slug: 2026-11-04-nasa-s-swift-telescope-reenters-earth-s-atmosphere-ending-22-year-mission
-  headline: NASA's Swift telescope reenters Earth's atmosphere, ending 22-year mission
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5377
-- slug: 2026-10-31-swift-observatory-forecast-to-crash-to-earth-around-friday-after-failed-rescue
-  headline: Swift Observatory forecast to crash to Earth around Friday after failed rescue
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.5454
-- slug: 2026-10-24-europe-accelerates-sovereign-satellite-plans-after-starlink-limits-in-ukraine
-  headline: Europe accelerates sovereign satellite plans after Starlink limits in Ukraine
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5408
-- slug: 2026-10-21-eu-leaders-seek-ukraine-funding-plan-before-key-elections
-  headline: EU leaders seek Ukraine funding plan before key elections
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5405
-- slug: 2026-10-06-halzen-s-nobel-caps-96-year-arc-from-pauli-s-1930-terrible-thing-to-icecube
-  headline: Halzen's Nobel caps 96-year arc from Pauli's 1930 'terrible thing' to IceCube
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5382
-- slug: 2026-09-23-uk-joins-eu-oceaneye-program-to-improve-extreme-weather-forecasts
-  headline: UK joins EU OceanEye program to improve extreme weather forecasts
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5523
-- slug: 2026-09-02-hubble-images-reveal-10-sided-cloud-formation-over-saturn-s-south-pole
-  headline: Hubble images reveal 10-sided cloud formation over Saturn's south pole
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5302
-- slug: 2026-01-26-james-webb-telescope-maps-dark-matter-with-unprecedented-detail
-  headline: James Webb telescope maps dark matter with unprecedented detail
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6387
-- slug: 2026-05-10-webb-telescope-captures-brilliant-heart-of-spiral-galaxy-45-million-light-years-
-  headline: Webb telescope captures brilliant heart of spiral galaxy 45 million light-years away
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6161
-- slug: 2026-07-22-robotic-rescue-of-nasa-telescope-highlights-challenge-of-capturing-space-junk
-  headline: Robotic rescue of NASA telescope highlights challenge of capturing space junk
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5423
-- slug: 2026-02-26-telescope-in-chile-captures-milky-way-heart-in-new-image
-  headline: Telescope in Chile captures Milky Way heart in new image
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5943
-- slug: 2026-07-15-astronomers-spot-faintest-planet-ever-directly-imaged-from-earth
-  headline: Astronomers spot faintest planet ever directly imaged from Earth
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5319
-- slug: 2026-05-10-nasa-s-webb-telescope-captures-messier-77-s-active-nucleus-in-infrared
-  headline: NASA’s Webb telescope captures Messier 77’s active nucleus in infrared
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5681
-- slug: 2026-07-02-expedition-to-survey-shackleton-scott-shipwrecks-launches
-  headline: Expedition to survey Shackleton, Scott shipwrecks launches
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5369
-- slug: 2026-04-28-atacama-desert-skies-in-chile-face-light-pollution-pressure
-  headline: Atacama desert skies in Chile face light-pollution pressure
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5579
-- slug: 2026-05-03-eta-aquarid-meteor-shower-2026-bright-moon-may-spoil-the-show
-  headline: 'Eta Aquarid meteor shower 2026: Bright moon may spoil the show'
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5486
-- slug: 2026-02-23-six-planets-to-parade-across-night-sky-at-month-s-end
-  headline: Six planets to parade across night sky at month's end
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.559
-- slug: 2026-06-08-spacex-ipo-begins-trading-makes-musk-world-s-first-trillionaire
-  headline: SpaceX IPO begins trading, makes Musk world's first trillionaire
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5308
-- slug: 2026-05-17-scientists-measure-black-hole-jet-power-speed-for-first-time
-  headline: Scientists measure black hole jet power, speed for first time
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5379
+related_stories: []
 ---
-
 ## Euclid telescope maps 900 million galaxies in first major data release
 
 **Subtype:** fact

@@ -212,6 +212,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-11-iran-adviser-s-binary-frame-narrows-menus-omits-sequenced-exit-both-sides-need'
 ---
 ## Iranian officials say US weighing new strikes or tighter sanctions on Iran
 
@@ -257,3 +259,8 @@ A Reuters Ipsos poll found 71% of Americans want Congress to pass legislation to
 **Publication date:** 2026-11-11
 **Title:** Trump planning new military assault or tighter sanctions, say Iranian officials
 **URL:** https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials
+
+---
+
+<!-- analysis-link:2026-11-11-iran-adviser-s-binary-frame-narrows-menus-omits-sequenced-exit-both-sides-need -->
+**Going deeper:** [Read MSI's analysis of Iran's two-week decision window →](/analyses/2026-11-11-iran-adviser-s-binary-frame-narrows-menus-omits-sequenced-exit-both-sides-need)

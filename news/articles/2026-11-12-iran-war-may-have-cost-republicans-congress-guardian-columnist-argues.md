@@ -2,8 +2,17 @@
 headline: Iran war may have cost Republicans Congress, Guardian columnist argues
 secondary_headline: 'Exit poll: 63% of voters call the attack on Iran the wrong decision'
 publish_date: '2026-11-12'
-lede: In a column published November 12, Guardian US columnist Mohamad Bazzi argued that the war President Donald Trump launched against Iran eight months ago may have cost Republicans control of Congress, calling the midterm elections a public repudiation of the conflict. NBC News exit polling cited in the column found 74% of voters deemed the war a crucial or major factor in their congressional vote, and 63% said the Trump administration made the wrong decision by taking military action against Iran.
-nut_graf: The column frames the midterms as a public repudiation of a war launched by a president who won in 2024 pledging to stop wars rather than start them. It lands amid a Republican postmortem in which Vice President JD Vance assigned the defeat to the war and Trump called the assessment largely true while defending his decision to attack.
+lede: In a column published November 12, Guardian US columnist Mohamad Bazzi argued
+  that the war President Donald Trump launched against Iran eight months ago may have
+  cost Republicans control of Congress, calling the midterm elections a public repudiation
+  of the conflict. NBC News exit polling cited in the column found 74% of voters deemed
+  the war a crucial or major factor in their congressional vote, and 63% said the
+  Trump administration made the wrong decision by taking military action against Iran.
+nut_graf: The column frames the midterms as a public repudiation of a war launched
+  by a president who won in 2024 pledging to stop wars rather than start them. It
+  lands amid a Republican postmortem in which Vice President JD Vance assigned the
+  defeat to the war and Trump called the assessment largely true while defending his
+  decision to attack.
 primary_entities:
 - Donald Trump
 - JD Vance
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,116 +155,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-12-iran-war-may-have-cost-republicans-congress-guardian-columnist-argues.png
-  alt: 'Illustration accompanying article: Iran war may have cost Republicans Congress, Guardian columnist argues'
+  alt: 'Illustration accompanying article: Iran war may have cost Republicans Congress,
+    Guardian columnist argues'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-05-trump-s-iran-war-likely-drove-decisive-republican-midterm-losses
   headline: Trump's Iran war likely drove decisive Republican midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8222
+  strength: 0.8223
 - slug: 2026-11-04-vance-says-iran-war-was-the-reason-republicans-lost-midterms
   headline: Vance says Iran war was the reason Republicans lost midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8115
+  strength: 0.8122
 - slug: 2026-11-04-jd-vance-blames-iran-war-for-republican-midterm-losses
   headline: JD Vance blames Iran war for Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8026
+  strength: 0.8014
 - slug: 2026-11-04-trump-says-iran-was-one-factor-in-republican-midterm-losses
   headline: Trump says Iran was one factor in Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7982
+  strength: 0.7984
 - slug: 2026-11-05-vance-blames-iran-war-for-republican-midterm-losses-trump-largely-agrees
   headline: Vance blames Iran war for Republican midterm losses; Trump largely agrees
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7901
+  strength: 0.7892
 - slug: 2026-11-04-vance-distances-himself-from-trump-s-iran-war-defense-after-gop-losses
   headline: Vance distances himself from Trump’s Iran war defense after GOP losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7838
+  strength: 0.7839
 - slug: 2026-11-09-rubio-says-trump-launched-the-iran-war-to-counter-iran-s-nuclear-ambitions
   headline: Rubio says Trump launched the Iran war to counter Iran’s nuclear ambitions
   publish_date: '2026-11-09'
   relation: related
   strength: 0.7369
-- slug: 2026-11-05-republican-hopefuls-blame-iran-war-and-tariffs-for-2026-midterm-losses
-  headline: Republican hopefuls blame Iran war and tariffs for 2026 midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7607
 - slug: 2026-11-04-iranian-officials-claim-u-s-midterm-setback-as-trump-faces-renewed-war-pressure
-  headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war pressure
+  headline: Iranian officials claim U.S. midterm setback as Trump faces renewed war
+    pressure
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7658
-- slug: 2026-11-04-trump-defiende-la-guerra-contra-ir-n-y-elogia-el-mensaje-de-vance-tras-las-derro
-  headline: Trump defiende la guerra contra Irán y elogia el mensaje de Vance tras las derrotas republicanas
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7604
-- slug: 2026-11-05-trump-weighs-new-strikes-on-iran-after-republican-midterm-loss
-  headline: Trump weighs new strikes on Iran after Republican midterm loss
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7479
-- slug: 2026-11-04-poll-finds-74-of-voters-say-iran-conflict-was-a-crucial-or-major-factor
-  headline: Poll finds 74% of voters say Iran conflict was a crucial or major factor
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7502
-- slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7347
-- slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
-  headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7293
-- slug: 2026-11-03-in-interviews-us-midterm-voters-cite-costs-the-war-in-iran-and-immigration-enfor
-  headline: In interviews, US midterm voters cite costs, the war in Iran and immigration enforcement
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7317
-- slug: 2026-10-31-cost-of-living-iran-war-and-ai-weigh-on-us-voters-days-before-midterms
-  headline: Cost of living, Iran war and AI weigh on US voters days before midterms
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7439
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7315
-- slug: 2026-08-27-iran-war-at-six-months-looms-over-house-races-as-gas-prices-climb
-  headline: Iran war at six months looms over House races as gas prices climb
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.739
-- slug: 2026-07-22-trump-says-iran-war-s-political-cost-won-t-have-any-impact-on-me
-  headline: Trump says Iran war's political cost 'won't have any impact on me'
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7354
-- slug: 2026-06-20-congress-picks-up-the-pieces-after-the-iran-war
-  headline: Congress picks up the pieces after the Iran war
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.7468
+  strength: 0.767
 ---
-
 ## Iran war may have cost Republicans Congress, Guardian columnist argues
 
 **Subtype:** fact
