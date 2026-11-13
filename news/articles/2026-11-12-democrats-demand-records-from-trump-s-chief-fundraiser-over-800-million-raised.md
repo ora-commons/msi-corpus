@@ -1,9 +1,20 @@
 ---
-headline: Democrats demand records from Trump's chief fundraiser over $800 million raised
-secondary_headline: White House signals it won't cooperate with subpoenas from incoming Democratic chairs
+headline: Democrats demand records from Trump's chief fundraiser over $800 million
+  raised
+secondary_headline: White House signals it won't cooperate with subpoenas from incoming
+  Democratic chairs
 publish_date: '2026-11-12'
-lede: Democratic lawmakers set to control key congressional investigative committees sent a letter Wednesday to Meredith O'Rourke, President Trump's chief fundraiser, demanding information about her role in raising more than $800 million for the president's key projects. The lawmakers wrote that her operation 'reeks of potential corruption' and gave her until Nov. 25 to respond.
-nut_graf: The request previews the investigative campaign Democrats are expected to wage after last week's elections gave them majorities in the House and Senate, a result many have seen as a mandate to pursue corruption allegations against the Trump administration. The incoming committee chairs will hold subpoena power when they take over, while the White House has indicated it does not plan to cooperate with subpoenas — and O'Rourke is not a White House employee.
+lede: Democratic lawmakers set to control key congressional investigative committees
+  sent a letter Wednesday to Meredith O'Rourke, President Trump's chief fundraiser,
+  demanding information about her role in raising more than $800 million for the president's
+  key projects. The lawmakers wrote that her operation 'reeks of potential corruption'
+  and gave her until Nov. 25 to respond.
+nut_graf: The request previews the investigative campaign Democrats are expected to
+  wage after last week's elections gave them majorities in the House and Senate, a
+  result many have seen as a mandate to pursue corruption allegations against the
+  Trump administration. The incoming committee chairs will hold subpoena power when
+  they take over, while the White House has indicated it does not plan to cooperate
+  with subpoenas — and O'Rourke is not a White House employee.
 primary_entities:
 - Meredith O'Rourke
 - Donald Trump
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +155,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-05-about-half-of-voters-called-corruption-crucial-as-democrats-name-probe-targets
-  headline: About half of voters called corruption crucial as Democrats name probe targets
+  headline: About half of voters called corruption crucial as Democrats name probe
+    targets
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7029
+  strength: 0.7035
 - slug: 2026-11-11-white-house-counsel-warns-democratic-probes-could-cross-into-criminality
   headline: White House counsel warns Democratic probes could cross into criminality
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.653
+  strength: 0.6531
 - slug: 2026-11-10-blumenthal-targets-major-companies-with-a-jan-4-records-deadline
   headline: Blumenthal targets major companies with a Jan. 4 records deadline
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6597
+  strength: 0.6598
 - slug: 2026-11-08-trump-calls-democrats-already-issued-investigative-requests-extortion-on-social-
-  headline: Trump calls Democrats’ already-issued investigative requests extortion on social media
+  headline: Trump calls Democrats’ already-issued investigative requests extortion
+    on social media
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6664
+  strength: 0.667
 - slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6711
-- slug: 2026-11-06-trump-s-washington-projects-face-added-roadblocks-under-democratic-congress
-  headline: Trump's Washington projects face added roadblocks under Democratic Congress
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6478
+  strength: 0.671
 - slug: 2026-11-04-democrats-ask-trump-officials-to-preserve-records-after-election-victories
   headline: Democrats ask Trump officials to preserve records after election victories
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6602
+  strength: 0.6609
 - slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
+  headline: House Democrats detail probes into Trump family, Epstein files and the
+    Pentagon
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6592
-- slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6467
+  strength: 0.66
 - slug: 2026-10-24-fox-news-poll-finds-government-corruption-outranks-inflation-among-voters
   headline: Fox News poll finds government corruption outranks inflation among voters
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6585
-- slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
-  headline: Democrats elevate Trump corruption claims as midterm campaign issue
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.722
-- slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
-  headline: Democrats outline investigation priorities if they win Congress
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.667
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6829
-- slug: 2026-08-28-trump-corporate-donors-brace-for-investigations-if-house-flips-to-democrats
-  headline: Trump corporate donors brace for investigations if House flips to Democrats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6647
-- slug: 2026-08-14-democrats-cite-court-ruling-rising-costs-in-seeking-gao-ballroom-review
-  headline: Democrats cite court ruling, rising costs in seeking GAO ballroom review
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6539
-- slug: 2026-07-03-legal-experts-predict-heavy-scrutiny-of-trump-if-democrats-win-house
-  headline: Legal experts predict heavy scrutiny of Trump if Democrats win House
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.7019
-- slug: 2026-07-27-dnc-chair-ken-martin-faces-scrutiny-over-finances-and-internal-criticism
-  headline: DNC chair Ken Martin faces scrutiny over finances and internal criticism
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6641
-- slug: 2026-07-15-trump-s-second-term-fundraising-network-tops-500-million
-  headline: Trump's second-term fundraising network tops $500 million
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6737
-- slug: 2026-07-04-democrats-seize-on-trump-s-2-2b-income-as-campaign-issue
-  headline: Democrats seize on Trump's $2.2B income as campaign issue
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6734
-- slug: 2026-05-19-trump-doj-launches-1-776b-anti-weaponization-fund-for-allied-claims
-  headline: Trump DOJ launches $1.776B “Anti-Weaponization Fund” for allied claims
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6577
+  strength: 0.6593
 ---
-
 ## Democrats demand records from Trump's chief fundraiser over $800 million raised
 
 **Subtype:** fact

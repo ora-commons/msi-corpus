@@ -65,10 +65,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - NPR
+  - The Guardian
   outlet_classes:
+  - national_daily
   - public_broadcaster
   highest_reliability_tier: 1
   has_originating: true
@@ -178,3 +180,9 @@ NPR described Colom's victory, in a midterm it called full of stunning upsets fo
 **Publication date:** 2026-11-11
 **Title:** Democrat Scott Colom wins Mississippi Senate race
 **URL:** https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom
+
+### src_late_0964ef6b2dd4fa8a — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-12
+**Title:** Mississippi makes history with Democrat senate win - The Latest
+**URL:** https://www.theguardian.com/news/audio/2026/nov/12/scott-colom-senate-victory-mississippi-the-latest
+**Added after publication:** true
