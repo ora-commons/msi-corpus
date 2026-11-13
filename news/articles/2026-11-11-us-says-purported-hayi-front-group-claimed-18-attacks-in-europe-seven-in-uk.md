@@ -206,6 +206,8 @@ related_stories:
   publish_date: '2026-10-12'
   relation: related
   strength: 0.6864
+analyses:
+- '2026-11-11-reported-doj-account-links-18-hayi-claimed-attacks-to-three-suspects-without-det'
 ---
 ## US says purported HAYI front group claimed 18 attacks in Europe, seven in UK
 
@@ -250,3 +252,8 @@ The US withdrew all its bombers from RAF Fairford after the incident, with Presi
 **Publication date:** 2026-11-11
 **Title:** Three Iran-backed suspects plotted attacks including incident near UK air base, US says
 **URL:** https://www.bbc.co.uk/news/articles/c3rryrryk59zo
+
+---
+
+<!-- analysis-link:2026-11-11-reported-doj-account-links-18-hayi-claimed-attacks-to-three-suspects-without-det -->
+**Going deeper:** [Read MSI's analysis of the reported HAYI account's evidentiary gaps →](/analyses/2026-11-11-reported-doj-account-links-18-hayi-claimed-attacks-to-three-suspects-without-det)
