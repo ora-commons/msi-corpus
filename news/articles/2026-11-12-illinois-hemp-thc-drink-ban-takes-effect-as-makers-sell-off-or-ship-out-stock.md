@@ -1,9 +1,20 @@
 ---
-headline: Illinois hemp THC drink ban takes effect as makers sell off or ship out stock
-secondary_headline: Federal hemp ban delayed to December, but Illinois kept its November start
+headline: Illinois hemp THC drink ban takes effect as makers sell off or ship out
+  stock
+secondary_headline: Federal hemp ban delayed to December, but Illinois kept its November
+  start
 publish_date: '2026-11-12'
-lede: Hemp-derived THC drinks became illegal in Illinois at midnight on November 12, and manufacturers are rushing to sell off or ship out their remaining inventory. Illinois passed a state-level ban in June to align with a federal prohibition that Congress delayed until December, and it did not change its effective date, leaving in-state companies less time than sellers elsewhere to clear their stock.
-nut_graf: 'The ban removes THC-infused alcohol alternatives from grocery and liquor store shelves and leaves hemp businesses working under mismatched state and federal timelines: Illinois'' prohibition is in force while the federal ban it mirrors is delayed until December. Companies are also navigating unclear enforcement while they wait to see whether the federal government ultimately leaves hemp-derived THC regulation to the states, as it has with medical and recreational cannabis.'
+lede: Hemp-derived THC drinks became illegal in Illinois at midnight on November 12,
+  and manufacturers are rushing to sell off or ship out their remaining inventory.
+  Illinois passed a state-level ban in June to align with a federal prohibition that
+  Congress delayed until December, and it did not change its effective date, leaving
+  in-state companies less time than sellers elsewhere to clear their stock.
+nut_graf: 'The ban removes THC-infused alcohol alternatives from grocery and liquor
+  store shelves and leaves hemp businesses working under mismatched state and federal
+  timelines: Illinois'' prohibition is in force while the federal ban it mirrors is
+  delayed until December. Companies are also navigating unclear enforcement while
+  they wait to see whether the federal government ultimately leaves hemp-derived THC
+  regulation to the states, as it has with medical and recreational cannabis.'
 primary_entities:
 - Illinois
 - Go Brewing
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +153,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-29-us-import-ban-on-canadian-alcohol-whey-and-motorcycles-takes-effect
-  headline: US import ban on Canadian alcohol, whey and motorcycles takes effect
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6106
-- slug: 2026-10-08-taylor-farms-to-halt-central-mexico-iceberg-lettuce-sales-during-may-august-peak
-  headline: Taylor Farms to halt central-Mexico iceberg lettuce sales during May-August peak
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5689
-- slug: 2026-09-25-colorado-marijuana-vape-maker-recalls-49-products-over-cancer-linked-solvent
-  headline: Colorado marijuana vape maker recalls 49 products over cancer-linked solvent
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6075
-- slug: 2026-09-09-trump-orders-import-bans-on-canadian-dairy-alcohol-and-motorcycles
-  headline: Trump orders import bans on Canadian dairy, alcohol and motorcycles
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5901
-- slug: 2026-08-18-canadian-provinces-u-s-alcohol-bans-stall-bilateral-trade-talks
-  headline: Canadian provinces' U.S. alcohol bans stall bilateral trade talks
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6012
 - slug: 2026-04-09-texas-hemp-industry-sues-to-block-smokeable-hemp-ban-and-higher-fees
   headline: Texas hemp industry sues to block smokeable hemp ban and higher fees
   publish_date: '2026-04-09'
   relation: related
-  strength: 0.6844
+  strength: 0.6848
 - slug: 2026-04-08-texas-hemp-businesses-sue-state-health-agencies-to-block-smokeable-ban
   headline: Texas hemp businesses sue state health agencies to block smokeable ban
   publish_date: '2026-04-08'
   relation: related
-  strength: 0.6846
-- slug: 2026-08-07-california-craft-distillers-face-losing-home-delivery-unless-lawmakers-act
-  headline: California craft distillers face losing home delivery unless lawmakers act
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5861
-- slug: 2026-04-17-illinois-credit-card-swipe-fee-ban-faces-repeal-push-before-july-deadline
-  headline: Illinois swipe-fee ban on taxes, tips faces repeal push and federal preemption threat
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6308
-- slug: 2026-06-16-us-states-push-to-ban-kratom-as-gas-station-heroin-concerns-mount
-  headline: US states push to ban kratom as 'gas-station heroin' concerns mount
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6037
-- slug: 2026-06-27-at-least-a-dozen-states-pass-laws-reining-in-pharmacy-benefit-managers
-  headline: At least a dozen states pass laws reining in pharmacy benefit managers
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.5809
-- slug: 2026-04-25-trump-reclassifies-medical-marijuana-to-schedule-iii-hearing-could-expand-change
-  headline: Trump reclassifies medical marijuana to Schedule III; hearing could expand changes
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.5911
-- slug: 2026-01-01-snap-waivers-ban-soda-candy-in-5-states-starting-jan-1
-  headline: SNAP waivers ban soda, candy in 5 states starting Jan. 1
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6008
-- slug: 2026-04-15-illinois-lawmakers-refuse-to-accept-corrections-audit-findings-demand-agency-ret
-  headline: Illinois lawmakers refuse to accept corrections audit findings, demand agency return
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5854
-- slug: 2026-04-17-mississippi-liquor-delivery-backlog-stretches-to-weeks
-  headline: Mississippi liquor delivery backlog stretches to weeks
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5827
-- slug: 2026-01-03-snap-bans-soda-and-candy-in-5-states-starting-jan-1
-  headline: SNAP bans soda and candy in 5 states starting Jan. 1
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.5914
-- slug: 2026-04-24-trump-order-reclassifies-medical-marijuana-as-schedule-iii
-  headline: Trump order reclassifies medical marijuana as Schedule III
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5775
-- slug: 2026-02-13-federal-law-on-impairment-detection-devices-in-new-cars-faces-delays
-  headline: Federal law on impairment-detection devices in new cars faces delays
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5875
-- slug: 2026-01-04-snap-waivers-ban-soda-candy-in-five-states-starting-jan-1
-  headline: SNAP waivers ban soda, candy in five states starting Jan. 1
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.5886
-- slug: 2026-01-05-snap-bans-on-soda-candy-and-some-foods-start-jan-1-in-five-states
-  headline: SNAP bans on soda, candy and some foods start Jan. 1 in five states
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.5821
+  strength: 0.6848
 ---
-
 ## Illinois hemp THC drink ban takes effect as makers sell off or ship out stock
 
 **Subtype:** fact
