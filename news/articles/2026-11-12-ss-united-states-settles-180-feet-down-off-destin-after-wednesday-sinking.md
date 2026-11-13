@@ -1,9 +1,21 @@
 ---
 headline: SS United States settles 180 feet down off Destin after Wednesday sinking
-secondary_headline: Ship launched in 1952 set transatlantic speed record on maiden voyage
+secondary_headline: Ship launched in 1952 set transatlantic speed record on maiden
+  voyage
 publish_date: '2026-11-12'
-lede: The SS United States, the historic American-made ocean liner that set a transatlantic speed record on its maiden voyage in 1952, sank Wednesday about 22 miles off the coast of Destin, Florida, where it will rest on the floor of the Gulf of Mexico as what officials call the world's largest artificial reef. The nearly 1,000-foot ship, once the fastest ocean liner in the world, was deployed at about 2:40 p.m. ET and sank to the bottom of the Gulf of Mexico around 10 p.m.
-nut_graf: The sinking closes a years-long effort to save the ship, which was retired in 1969 after 17 years carrying thousands of passengers across the Atlantic. Rising upkeep costs complicated preservation efforts, and in 2021 port authorities raised the daily dockage fee to $1,700 — a cost the nonprofit SS United States Conservancy could no longer afford. Okaloosa County, Florida, purchased the ship for $1 million in 2024 to convert it into a reef that officials expect to draw divers and shelter marine life including red snapper and grouper.
+lede: The SS United States, the historic American-made ocean liner that set a transatlantic
+  speed record on its maiden voyage in 1952, sank Wednesday about 22 miles off the
+  coast of Destin, Florida, where it will rest on the floor of the Gulf of Mexico
+  as what officials call the world's largest artificial reef. The nearly 1,000-foot
+  ship, once the fastest ocean liner in the world, was deployed at about 2:40 p.m.
+  ET and sank to the bottom of the Gulf of Mexico around 10 p.m.
+nut_graf: The sinking closes a years-long effort to save the ship, which was retired
+  in 1969 after 17 years carrying thousands of passengers across the Atlantic. Rising
+  upkeep costs complicated preservation efforts, and in 2021 port authorities raised
+  the daily dockage fee to $1,700 — a cost the nonprofit SS United States Conservancy
+  could no longer afford. Okaloosa County, Florida, purchased the ship for $1 million
+  in 2024 to convert it into a reef that officials expect to draw divers and shelter
+  marine life including red snapper and grouper.
 primary_entities:
 - SS United States
 - SS United States Conservancy
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +158,25 @@ related_stories:
   headline: SS United States to be sunk as world's largest artificial reef off Florida
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8492
+  strength: 0.8483
 - slug: 2026-11-11-ss-united-states-carried-presidents-and-stars-across-atlantic-hundreds-of-times
-  headline: SS United States carried presidents and stars across Atlantic hundreds of times
+  headline: SS United States carried presidents and stars across Atlantic hundreds
+    of times
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8034
+  strength: 0.8042
 - slug: 2026-11-11-ss-united-states-sinks-off-florida-to-become-an-artificial-reef
   headline: SS United States sinks off Florida to become an artificial reef
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7849
+  strength: 0.7848
 - slug: 2026-10-25-okaloosa-county-plans-to-sink-ss-united-states-off-florida-as-artificial-reef
-  headline: Okaloosa County plans to sink SS United States off Florida as artificial reef
+  headline: Okaloosa County plans to sink SS United States off Florida as artificial
+    reef
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8291
-- slug: 2026-10-10-hurricane-isaias-makes-u-s-gulf-coast-landfall-as-category-2-storm
-  headline: Hurricane Isaias makes U.S. Gulf coast landfall as Category 2 storm
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5977
-- slug: 2026-10-08-hegseth-says-lincoln-strike-group-set-record-with-10-000-sorties
-  headline: Hegseth says Lincoln strike group set record with 10,000 sorties
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5808
-- slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
-  headline: Diesel hits US record as freight rates climb to highest since 2022
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5816
-- slug: 2026-09-25-trump-order-directs-agencies-to-prioritize-recreational-fishing
-  headline: Trump order directs agencies to prioritize recreational fishing
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5735
-- slug: 2026-08-28-spacex-begins-months-long-trip-to-return-recovered-starship-to-texas
-  headline: SpaceX begins months-long trip to return recovered Starship to Texas
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5706
-- slug: 2026-08-19-apparent-human-remains-found-at-lake-mead-as-water-levels-hit-record-low
-  headline: Apparent human remains found at Lake Mead as water levels hit record low
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5788
-- slug: 2026-08-17-uss-benfold-loses-power-and-drifts-for-four-days-in-south-china-sea
-  headline: USS Benfold loses power and drifts for four days in South China Sea
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5752
-- slug: 2026-08-15-volunteer-network-rescues-hundreds-of-cold-stunned-turtles-on-cape-cod
-  headline: Volunteer network rescues hundreds of cold-stunned turtles on Cape Cod
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5752
-- slug: 2026-07-21-wreckage-of-pan-am-plane-found-74-years-after-crash-that-spurred-safety-briefing
-  headline: Wreckage of Pan Am plane found 74 years after crash that spurred safety briefings
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5906
-- slug: 2026-07-02-expedition-to-survey-shackleton-scott-shipwrecks-launches
-  headline: Expedition to survey Shackleton, Scott shipwrecks launches
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5709
-- slug: 2026-01-15-deep-sea-desalination-startup-claims-40-energy-cut-using-natural-ocean-pressure
-  headline: Deep-sea desalination startup claims 40% energy cut using natural ocean pressure
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6079
-- slug: 2026-02-01-coast-guard-suspends-search-for-7-after-fishing-boat-sinks-off-mass
-  headline: Coast Guard suspends search for 7 after fishing boat sinks off Mass.
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.601
-- slug: 2026-03-05-fishing-vessel-capsizes-off-cape-cod-one-crew-member-rescued-one-missing
-  headline: Fishing vessel capsizes off Cape Cod; one crew member rescued, one missing
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5982
-- slug: 2026-02-19-authorities-deploy-tech-to-locate-wreck-of-fishing-boat-near-gloucester
-  headline: Authorities deploy tech to locate wreck of fishing boat near Gloucester
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.5929
-- slug: 2026-05-15-black-divers-honor-ancestors-at-underwater-memorial-to-sunken-slave-ship
-  headline: Black divers honor ancestors at underwater memorial to sunken slave ship
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.57
-- slug: 2026-02-16-us-ocean-agency-plans-changes-to-right-whale-ship-speed-rule
-  headline: US ocean agency plans changes to right whale ship speed rule
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.5838
+  strength: 0.8297
 ---
-
 ## SS United States settles 180 feet down off Destin after Wednesday sinking
 
 **Subtype:** fact
