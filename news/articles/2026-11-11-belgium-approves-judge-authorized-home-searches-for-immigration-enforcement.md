@@ -2,8 +2,16 @@
 headline: Belgium approves judge-authorized home searches for immigration enforcement
 secondary_headline: Police may enter without consent between 5am and 9pm
 publish_date: '2026-11-11'
-lede: Belgian lawmakers approved a law allowing police, after judicial authorization, to enter homes without consent, detain people and search for identity documents. The measure is set to take effect next spring and permits entries between 5am and 9pm, including at properties where friends or family are hosting migrants. Rights groups criticized the legislation as a “law of fear” and questioned its targeting standards and limited avenues for challenge.
-nut_graf: The vote forms part of measures introduced by Belgium’s ruling right-leaning coalition to increase expulsions of people denied the right to stay. More than 60 protests were held across the country before Parliament’s approval last Friday, and nongovernmental groups, judges and lawyers’ associations criticized the measures.
+lede: Belgian lawmakers approved a law allowing police, after judicial authorization,
+  to enter homes without consent, detain people and search for identity documents.
+  The measure is set to take effect next spring and permits entries between 5am and
+  9pm, including at properties where friends or family are hosting migrants. Rights
+  groups criticized the legislation as a “law of fear” and questioned its targeting
+  standards and limited avenues for challenge.
+nut_graf: The vote forms part of measures introduced by Belgium’s ruling right-leaning
+  coalition to increase expulsions of people denied the right to stay. More than 60
+  protests were held across the country before Parliament’s approval last Friday,
+  and nongovernmental groups, judges and lawyers’ associations criticized the measures.
 primary_entities:
 - Belgium
 - Carine Thibaut
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +149,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-04-uk-plan-leaves-some-refugees-waiting-up-to-30-years-unhcr-says
-  headline: UK plan leaves some refugees waiting up to 30 years, UNHCR says
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6036
-- slug: 2026-10-22-chile-s-congress-approves-bill-to-accelerate-deportations
-  headline: Chile's Congress approves bill to accelerate deportations
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6348
-- slug: 2026-10-12-partisan-clash-erupts-over-omar-home-search-ahead-of-midterms
-  headline: Partisan clash erupts over Omar home search ahead of midterms
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6098
-- slug: 2026-09-15-china-enacts-new-exit-restrictions-tied-to-export-control-violations
-  headline: China enacts new exit restrictions tied to export-control violations
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6031
 - slug: 2026-05-05-civil-rights-groups-sue-to-stop-texas-immigration-law
   headline: Civil rights groups sue to stop Texas immigration law
   publish_date: '2026-05-05'
   relation: related
-  strength: 0.6716
+  strength: 0.6714
 - slug: 2026-05-18-ice-memo-authorizes-forced-entry-to-homes-without-judicial-warrants
   headline: ICE memo authorizes forced entry to homes without judicial warrants
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.6657
+  strength: 0.6655
 - slug: 2026-01-23-ice-memo-authorizes-forced-entry-to-homes-without-judicial-warrants
   headline: ICE memo authorizes forced entry to homes without judicial warrants
   publish_date: '2026-01-23'
   relation: related
-  strength: 0.6574
-- slug: 2026-06-02-eu-reaches-deal-to-ramp-up-deportations-build-detention-centers-abroad
-  headline: EU reaches deal to ramp up deportations, build detention centers abroad
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6313
-- slug: 2026-05-16-46-european-nations-adopt-declaration-reinterpreting-human-rights-convention-in-
-  headline: 46 European nations adopt declaration reinterpreting human rights convention in migration cases
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.633
-- slug: 2026-01-21-ice-memo-permits-forced-home-entries-using-administrative-warrants
-  headline: ICE memo permits forced home entries using administrative warrants
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6445
-- slug: 2026-03-30-europe-tightens-migration-powers-including-return-hubs-like-trump-style-deals
-  headline: Europe tightens migration powers, including “return hubs” like Trump-style deals
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.6369
-- slug: 2026-05-19-man-arrested-day-after-judge-bans-ice-arrests-at-nyc-immigration-courts
-  headline: Man arrested day after judge bans ICE arrests at NYC immigration courts
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.624
-- slug: 2026-05-18-judge-bans-most-ice-arrests-near-new-york-immigration-courts-then-arrest-follows
-  headline: Judge bans most ICE arrests near New York immigration courts, then arrest follows
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6123
-- slug: 2026-04-28-south-africans-protest-illegal-immigration-in-johannesburg
-  headline: South Africans protest illegal immigration in Johannesburg
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6153
-- slug: 2026-05-16-46-countries-agree-chisinau-declaration-on-echr-migration-cases
-  headline: 46 countries agree Chisinau Declaration on ECHR migration cases
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.609
-- slug: 2026-05-19-judge-bars-most-ice-arrests-at-nyc-immigration-courts-man-detained
-  headline: Judge bars most ICE arrests at NYC immigration courts; man detained
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6076
-- slug: 2026-04-03-belarus-lawmakers-approve-punishments-for-promoting-lgbtq-causes
-  headline: Belarus lawmakers approve punishments for promoting LGBTQ+ causes
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6194
-- slug: 2026-02-25-attorneys-seek-to-halt-cbp-policy-pressuring-unaccompanied-children-to-self-depo
-  headline: Attorneys seek to halt CBP policy pressuring unaccompanied children to self-deport
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6166
-- slug: 2026-03-12-democratic-led-states-seek-to-block-federal-agents-from-polling-places
-  headline: Democratic-led states seek to block federal agents from polling places
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6118
-- slug: 2026-04-28-texas-appeals-ruling-allows-police-to-arrest-suspects-under-sb-4
-  headline: Texas appeals ruling allows police to arrest suspects under SB 4
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6027
+  strength: 0.657
 ---
-
 ## Belgium approves judge-authorized home searches for immigration enforcement
 
 **Subtype:** fact

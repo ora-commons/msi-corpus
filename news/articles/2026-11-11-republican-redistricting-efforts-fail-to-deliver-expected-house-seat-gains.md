@@ -1,9 +1,18 @@
 ---
 headline: Republican redistricting efforts fail to deliver expected House seat gains
-secondary_headline: Texas and North Carolina show contrasting effects of the redrawn maps
+secondary_headline: Texas and North Carolina show contrasting effects of the redrawn
+  maps
 publish_date: '2026-11-11'
-lede: Republican efforts to redraw congressional districts in their favor appear poised to lose all but two of the 15 seats redrawn before the 2026 U.S. midterm elections. The setbacks came in Texas, Florida and North Carolina, where Republicans had hoped to pick up as many as 10 combined seats, leaving the party short of the gains its mapmaking strategy was intended to produce.
-nut_graf: The election results undercut the maps’ expected payoff without showing they had no partisan effect, according to redistricting experts. John Bisognano said Democrats should not have needed to overperform by 10% to 15% to achieve their results, while Nicholas Stephanopoulos said the maps could help Republicans again if electoral conditions change in 2028 or 2030.
+lede: Republican efforts to redraw congressional districts in their favor appear poised
+  to lose all but two of the 15 seats redrawn before the 2026 U.S. midterm elections.
+  The setbacks came in Texas, Florida and North Carolina, where Republicans had hoped
+  to pick up as many as 10 combined seats, leaving the party short of the gains its
+  mapmaking strategy was intended to produce.
+nut_graf: The election results undercut the maps’ expected payoff without showing
+  they had no partisan effect, according to redistricting experts. John Bisognano
+  said Democrats should not have needed to overperform by 10% to 15% to achieve their
+  results, while Nicholas Stephanopoulos said the maps could help Republicans again
+  if electoral conditions change in 2028 or 2030.
 primary_entities:
 - Trump
 - John Bisognano
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,116 +158,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-11-republican-redistricting-efforts-fail-to-deliver-expected-house-seat-gains.png
-  alt: 'Illustration accompanying article: Republican redistricting efforts fail to deliver expected House seat gains'
+  alt: 'Illustration accompanying article: Republican redistricting efforts fail to
+    deliver expected House seat gains'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-04-trumps-mid-decade-redistricting-push-fails-to-hold-house-for-republicans
   headline: Trump's mid-decade redistricting push fails to hold the House for Republicans
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8028
+  strength: 0.8019
 - slug: 2026-11-04-democrats-win-several-congressional-districts-redrawn-by-republicans
   headline: Democrats win several congressional districts redrawn by Republicans
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7964
+  strength: 0.7959
 - slug: 2026-11-04-redistricted-house-races-test-whether-parties-gain-house-seats
   headline: Redistricted House races test whether parties gain House seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.782
+  strength: 0.7805
 - slug: 2026-11-03-republicans-rare-mid-decade-redistricting-likely-falls-short-in-house-fight
-  headline: Republicans' rare mid-decade redistricting likely falls short in House fight
+  headline: Republicans' rare mid-decade redistricting likely falls short in House
+    fight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7713
+  strength: 0.7697
 - slug: 2026-11-04-democrats-win-three-seats-in-republican-redrawn-florida-districts
   headline: Democrats win three seats in Republican-redrawn Florida districts
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7608
+  strength: 0.7594
 - slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
   headline: Republicans fault Trump after Democrats take House and Senate in midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7456
+  strength: 0.7443
 - slug: 2026-10-26-consultant-says-republican-gerrymandering-may-backfire
   headline: Consultant says Republican gerrymandering may backfire
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7524
+  strength: 0.7512
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7652
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7511
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7992
-- slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7964
-- slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7518
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  headline: Trump redistricting push spreads to one-third of states, giving GOP a three-seat edge
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.8153
-- slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
-  headline: Southern Republicans press redistricting ahead of midterm elections
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7845
-- slug: 2026-05-24-democrats-face-steep-state-hurdles-in-push-to-match-gop-redistricting-gains
-  headline: Democrats face steep state hurdles in push to match GOP redistricting gains
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.7683
-- slug: 2026-05-10-new-u-s-congressional-map-changes-favor-republicans-in-courts-states
-  headline: New U.S. congressional map changes favor Republicans in courts, states
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7709
-- slug: 2026-05-05-states-redraw-u-s-house-districts-mid-decade-as-gop-seeks-seat-gains
-  headline: States redraw U.S. House districts mid-decade as GOP seeks seat gains
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7711
-- slug: 2026-05-25-democrats-face-hurdles-matching-gop-redistricting-gains-for-2026-and-2028
-  headline: Democrats face hurdles matching GOP redistricting gains for 2026 and 2028
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7612
-- slug: 2026-05-10-southern-states-accelerate-mid-decade-redistricting-as-courts-reshape-congressio
-  headline: Southern states accelerate mid-decade redistricting as courts reshape congressional map
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7659
-- slug: 2026-02-20-midterm-house-campaigns-proceed-amid-ongoing-redistricting-disputes
-  headline: Midterm House campaigns proceed amid ongoing redistricting disputes
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7787
+  strength: 0.7643
 ---
-
 ## Republican redistricting efforts fail to deliver expected House seat gains
 
 **Subtype:** fact
