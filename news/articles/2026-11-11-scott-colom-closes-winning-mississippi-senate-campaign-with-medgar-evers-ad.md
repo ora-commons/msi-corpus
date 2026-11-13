@@ -75,7 +75,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -262,3 +262,10 @@ During the extended vote count, Colom acknowledged the historic nature of doing 
 **Publication date:** 2026-11-11
 **Title:** Democrat Scott Colom defeats Republican Sen. Cindy Hyde-Smith in Mississippi
 **URL:** https://apnews.com/article/scott-colom-mississippi-senate-midterms-56c18f292a734443992f9466c3b0f346
+
+### src_late_aedeaa04c0f03b50 — Associated Press, wire, Tier 1, originating
+**Author:** Bill Barrow, Associated Press, Sophie Bates, Associated Press
+**Publication date:** 2026-11-11
+**Title:** Scott Colom wins Senate election in Mississippi
+**URL:** https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi
+**Added after publication:** true

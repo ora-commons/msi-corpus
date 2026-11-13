@@ -53,7 +53,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -231,3 +231,10 @@ Biden called his son "one of the brightest men I know," adding, "I'm really prou
 **Publication date:** 2026-11-11
 **Title:** Biden says he wouldn't have run in 2024 if he knew he had cancer
 **URL:** https://apnews.com/article/biden-cancer-trump-hunter-pardon-2024-election-f0f3e8dc07cee2463e1f8501461dda12
+
+### src_late_95729d8ecc6a7962 — Associated Press, wire, Tier 1, originating
+**Author:** Bill Barrow, Associated Press
+**Publication date:** 2026-11-11
+**Title:** Biden says he wouldn't have run for a second term in 2024 if he knew he had cancer
+**URL:** https://www.pbs.org/newshour/politics/biden-says-he-wouldnt-have-run-for-a-second-term-in-2024-if-he-knew-he-had-cancer
+**Added after publication:** true

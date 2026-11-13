@@ -53,7 +53,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -222,3 +222,10 @@ Trump hailed the ruling as a major victory. "A Huge Victory against Fake News BB
 **Publication date:** 2026-11-11
 **Title:** Judge lets Trump defamation case against BBC go ahead but tosses 1 claim
 **URL:** https://apnews.com/article/trump-bbc-defamation-case-documentary-lawsuit-391222ed4f8a6cd4ce2f18ba63328035
+
+### src_late_8f2677c2733a85f3 — Associated Press, wire, Tier 1, originating
+**Author:** Associated Press
+**Publication date:** 2026-11-11
+**Title:** Judge allows Trump defamation case against BBC to proceed but tosses 1 claim
+**URL:** https://www.pbs.org/newshour/politics/judge-allows-trump-defamation-case-against-bbc-to-proceed-but-tosses-1-claim
+**Added after publication:** true
