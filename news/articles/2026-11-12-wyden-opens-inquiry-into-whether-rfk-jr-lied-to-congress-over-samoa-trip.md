@@ -1,9 +1,25 @@
 ---
 headline: Wyden opens inquiry into whether RFK Jr lied to Congress over Samoa trip
-secondary_headline: Letter demands records from Kennedy's anti-vaccine group, setting December deadline
+secondary_headline: Letter demands records from Kennedy's anti-vaccine group, setting
+  December deadline
 publish_date: '2026-11-12'
-lede: Senator Ron Wyden, the incoming chair of the Senate finance committee, has opened an investigation into evidence that Health and Human Services Secretary Robert F. Kennedy Jr. unlawfully lied to Congress during his 2025 confirmation hearings, citing Guardian reporting on letters that contradicted Kennedy's account of a 2019 trip to Samoa. Wyden and Senator Angela Alsobrooks of Maryland sent a letter Wednesday demanding extensive records from Children's Health Defense, the anti-vaccine group Kennedy once chaired. The group has until 4 December to respond.
-nut_graf: 'The inquiry escalates Democratic scrutiny of the health secretary as the party prepares to take control of the Senate, and aims at the documentary record behind one of the most criticized events of Kennedy''s career before he entered government: a 2019 trip to Samoa as chair of Children''s Health Defense, months before a measles outbreak that killed 83 people in the Pacific island nation, most of them children under five. Knowingly giving material false testimony to Congress is a crime that carries a possible prison sentence, though it is rarely prosecuted. Legal experts have said the Justice Department under Trump is unlikely to prosecute, but have said Kennedy''s statements could be used as grounds for hearings, an impeachment inquiry or other obstacles for the Trump administration.'
+lede: Senator Ron Wyden, the incoming chair of the Senate finance committee, has opened
+  an investigation into evidence that Health and Human Services Secretary Robert F.
+  Kennedy Jr. unlawfully lied to Congress during his 2025 confirmation hearings, citing
+  Guardian reporting on letters that contradicted Kennedy's account of a 2019 trip
+  to Samoa. Wyden and Senator Angela Alsobrooks of Maryland sent a letter Wednesday
+  demanding extensive records from Children's Health Defense, the anti-vaccine group
+  Kennedy once chaired. The group has until 4 December to respond.
+nut_graf: 'The inquiry escalates Democratic scrutiny of the health secretary as the
+  party prepares to take control of the Senate, and aims at the documentary record
+  behind one of the most criticized events of Kennedy''s career before he entered
+  government: a 2019 trip to Samoa as chair of Children''s Health Defense, months
+  before a measles outbreak that killed 83 people in the Pacific island nation, most
+  of them children under five. Knowingly giving material false testimony to Congress
+  is a crime that carries a possible prison sentence, though it is rarely prosecuted.
+  Legal experts have said the Justice Department under Trump is unlikely to prosecute,
+  but have said Kennedy''s statements could be used as grounds for hearings, an impeachment
+  inquiry or other obstacles for the Trump administration.'
 primary_entities:
 - Ron Wyden
 - Robert F. Kennedy Jr.
@@ -51,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,116 +167,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-12-wyden-opens-inquiry-into-whether-rfk-jr-lied-to-congress-over-samoa-trip.png
-  alt: 'Illustration accompanying article: Wyden opens inquiry into whether RFK Jr lied to Congress over Samoa trip'
+  alt: 'Illustration accompanying article: Wyden opens inquiry into whether RFK Jr
+    lied to Congress over Samoa trip'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-11-democratic-senators-probe-rfk-jr-over-yacht-trip-omitted-from-ethics-disclosure
-  headline: Democratic senators probe RFK Jr. over yacht trip omitted from ethics disclosure
+  headline: Democratic senators probe RFK Jr. over yacht trip omitted from ethics
+    disclosure
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7498
-- slug: 2026-11-03-robert-f-kennedy-jr-cuts-childhood-immunization-recommendations-by-a-third
-  headline: Robert F Kennedy Jr cuts childhood immunization recommendations by a third
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6454
-- slug: 2026-10-28-rfk-jr-faces-backlash-after-false-claims-about-arabs-at-michigan-rally
-  headline: RFK Jr. faces backlash after false claims about Arabs at Michigan rally
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6512
+  strength: 0.7504
 - slug: 2026-08-27-obtained-letter-contradicts-kennedy-s-senate-testimony-on-samoa-trip
   headline: Obtained letter contradicts Kennedy's Senate testimony on Samoa trip
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.8415
+  strength: 0.8399
 - slug: 2026-10-12-anti-vaccine-group-claims-it-sparked-probes-into-texas-measles-doctors
   headline: Anti-vaccine group claims it sparked probes into Texas measles doctors
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6756
+  strength: 0.6735
 - slug: 2026-10-14-paxton-probes-texas-pediatricians-over-vaccine-incentives-as-measles-spreads
   headline: Paxton probes Texas pediatricians over vaccine incentives as measles spreads
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6653
+  strength: 0.6635
 - slug: 2026-06-25-new-emails-contradict-rfk-jr-claim-that-samoa-trip-was-not-about-vaccines
   headline: New emails contradict RFK Jr. claim that Samoa trip was not about vaccines
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.8535
+  strength: 0.853
 - slug: 2026-09-17-kennedy-tells-anti-vaccine-conference-you-have-a-friend-at-the-white-house
-  headline: 'Kennedy tells anti-vaccine conference: ''you have a friend at the White House'''
+  headline: 'Kennedy tells anti-vaccine conference: ''you have a friend at the White
+    House'''
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6965
+  strength: 0.695
 - slug: 2026-02-08-emails-challenge-rfk-jr-testimony-on-samoa-trip-before-measles-outbreak
   headline: Emails challenge RFK Jr. testimony on Samoa trip before measles outbreak
   publish_date: '2026-02-08'
   relation: related
-  strength: 0.8231
+  strength: 0.8225
 - slug: 2026-09-17-local-officials-mount-vaccine-push-as-us-measles-deaths-rise
   headline: Local officials mount vaccine push as US measles deaths rise
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6531
-- slug: 2026-08-28-rfk-jr-suggests-two-pennsylvania-measles-deaths-were-fabricated
-  headline: RFK Jr. suggests two Pennsylvania measles deaths were 'fabricated'
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6529
-- slug: 2026-07-28-trump-pushes-rfk-jr-to-probe-alleged-vaccine-autism-link-cut-child-shots
-  headline: Trump pushes RFK Jr. to probe alleged vaccine-autism link, cut child shots
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6843
-- slug: 2026-08-02-kennedy-urges-measles-vaccination-as-us-outbreak-reaches-2-371-cases
-  headline: Kennedy urges measles vaccination as US outbreak reaches 2,371 cases
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6752
-- slug: 2026-06-25-wyden-accuses-hhs-of-preparing-to-deport-more-than-500-migrant-children
-  headline: Wyden accuses HHS of preparing to deport more than 500 migrant children
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7014
-- slug: 2026-04-17-kennedy-clashes-with-democrats-over-vaccines-and-race-at-house-hearing
-  headline: Kennedy clashes with Democrats over vaccines and race at House hearing
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7282
-- slug: 2026-04-22-rfk-jr-deflects-blame-on-vaccines-as-hhs-budget-cuts-draw-scrutiny
-  headline: RFK Jr. deflects blame on vaccines as HHS budget cuts draw scrutiny
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.7102
-- slug: 2026-04-23-rfk-jr-tells-congress-vaccines-medicaid-cuts-affordability-are-linked-to-budget
-  headline: RFK Jr. tells Congress vaccines, Medicaid cuts, affordability are linked to budget
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.705
-- slug: 2026-04-21-as-rfk-jr-faced-the-senate-bill-cassidy-balanced-politics-and-science
-  headline: As RFK Jr. faced the Senate, Bill Cassidy balanced politics and science
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6939
-- slug: 2026-04-22-as-rfk-jr-faced-the-senate-sen-cassidy-weighed-vaccines-and-politics
-  headline: As RFK Jr. faced the Senate, Sen. Cassidy weighed vaccines and politics
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6924
-- slug: 2026-07-14-rfk-jr-panel-restructuring-stalls-update-on-youth-tobacco-cessation
-  headline: RFK Jr. panel restructuring stalls update on youth tobacco cessation
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6494
+  strength: 0.651
 ---
-
 ## Wyden opens inquiry into whether RFK Jr lied to Congress over Samoa trip
 
 **Subtype:** fact

@@ -1,9 +1,23 @@
 ---
-headline: Some gun rights advocates seek Democratic allies after midterm election wins
-secondary_headline: Most major gun rights groups signal resistance to Democratic gun bills
+headline: Some gun rights advocates seek Democratic allies after midterm election
+  wins
+secondary_headline: Most major gun rights groups signal resistance to Democratic gun
+  bills
 publish_date: '2026-11-12'
-lede: Some gun rights advocates are updating their strategies to find allies among Democrats after the party's big wins in last week's US midterm elections, even as most of the biggest and most visible gun rights groups, including the National Rifle Association, signal they will challenge gun safety legislation from the new Democratic Congress. Rob Pincus, executive vice-president of the Second Amendment Organization, said the shift in voting patterns toward the left makes it important to work with gun owners who vote Democrat.
-nut_graf: The strategy debate follows simultaneous shifts in who owns guns and who funds gun politics. Pew Research Center reports at least one-third of US adults live in a home with one or more guns, and an analysis by the Trace found gun violence prevention groups such as Everytown for Gun Safety have outspent the NRA in elections since 2018. Those changes form the backdrop for arguments from advocates like Pincus that the movement's traditional alignment with the Republican Party no longer matches a changing gun-owning population.
+lede: Some gun rights advocates are updating their strategies to find allies among
+  Democrats after the party's big wins in last week's US midterm elections, even as
+  most of the biggest and most visible gun rights groups, including the National Rifle
+  Association, signal they will challenge gun safety legislation from the new Democratic
+  Congress. Rob Pincus, executive vice-president of the Second Amendment Organization,
+  said the shift in voting patterns toward the left makes it important to work with
+  gun owners who vote Democrat.
+nut_graf: The strategy debate follows simultaneous shifts in who owns guns and who
+  funds gun politics. Pew Research Center reports at least one-third of US adults
+  live in a home with one or more guns, and an analysis by the Trace found gun violence
+  prevention groups such as Everytown for Gun Safety have outspent the NRA in elections
+  since 2018. Those changes form the backdrop for arguments from advocates like Pincus
+  that the movement's traditional alignment with the Republican Party no longer matches
+  a changing gun-owning population.
 primary_entities:
 - Rob Pincus
 - Second Amendment Organization
@@ -47,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,108 +160,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-09-gallup-finds-45-of-americans-identify-as-political-independents
+  headline: Gallup finds 45% of Americans identify as political independents
+  publish_date: '2026-11-09'
+  relation: related
+  strength: 0.6669
 - slug: 2026-11-07-most-midterm-voters-say-trump-s-immigration-enforcement-has-gone-too-far
   headline: Most midterm voters say Trump's immigration enforcement has gone too far
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6681
+  strength: 0.6702
 - slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6826
+  strength: 0.682
 - slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
+  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing
+    test
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6698
+  strength: 0.6687
 - slug: 2026-10-15-young-voters-split-on-gun-control-despite-shared-fear-of-mass-shootings
   headline: Young voters split on gun control despite shared fear of mass shootings
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7516
+  strength: 0.7551
 - slug: 2026-10-25-massachusetts-voters-weigh-gun-registry-law-as-idaho-voters-consider-state-firea
-  headline: Massachusetts voters weigh gun registry law as Idaho voters consider state firearm
+  headline: Massachusetts voters weigh gun registry law as Idaho voters consider state
+    firearm
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6705
+  strength: 0.6718
 - slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
   headline: Early voting tops 23 million as Democrats outpace Republicans
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6695
+  strength: 0.6711
 - slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
   headline: Voters cast ballots in districts reshaped by Trump's redistricting push
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6708
-- slug: 2026-10-21-democratic-attorneys-general-expand-midterm-election-security-planning
-  headline: Democratic attorneys general expand midterm election security planning
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6719
-- slug: 2026-10-14-civil-rights-groups-train-thousands-of-poll-observers-for-midterms
-  headline: Civil rights groups train thousands of poll observers for midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6689
-- slug: 2026-10-02-democratic-voters-split-on-party-direction-as-dsa-gains-in-primaries
-  headline: Democratic voters split on party direction as DSA gains in primaries
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6707
-- slug: 2026-09-23-doj-opens-gun-rights-restoration-to-ex-felons-25-million-may-qualify
-  headline: DOJ opens gun rights restoration to ex-felons, 25 million may qualify
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6908
-- slug: 2026-09-23-democrats-retired-military-lawyers-press-trump-on-national-guard-at-polls
-  headline: Democrats, retired military lawyers press Trump on National Guard at polls
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6866
-- slug: 2026-09-17-mid-decade-redistricting-changed-districts-for-34-8-million-americans-study-find
-  headline: Mid-decade redistricting changed districts for 34.8 million Americans, study finds
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6757
-- slug: 2026-09-05-gallup-finds-10-point-democratic-edge-in-voter-party-identification
-  headline: Gallup finds 10-point Democratic edge in voter party identification
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.6789
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6757
-- slug: 2026-07-15-civil-rights-leaders-plan-august-march-on-washington-for-voting-protections
-  headline: Civil rights leaders plan August march on Washington for voting protections
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6647
-- slug: 2026-05-15-abortion-pill-rulings-elevate-reproductive-rights-as-a-midterm-issue
-  headline: Abortion pill rulings elevate reproductive rights as a midterm issue
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6823
-- slug: 2026-06-12-southern-activists-mobilize-after-supreme-court-weakens-voting-rights-act
-  headline: Southern activists mobilize after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6695
-- slug: 2026-05-22-southern-republicans-press-redistricting-after-voting-rights-act-ruling
-  headline: Southern Republicans press redistricting after Voting Rights Act ruling
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.676
-- slug: 2026-01-12-gallup-45-of-americans-now-identify-as-independents-as-gen-z-leads-shift
-  headline: 'Gallup: 45% of Americans now identify as independents as Gen Z leads shift'
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6901
+  strength: 0.6713
 ---
-
 ## Some gun rights advocates seek Democratic allies after midterm election wins
 
 **Subtype:** fact

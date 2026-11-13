@@ -1,9 +1,17 @@
 ---
 headline: Five shot, one fatally, in Washington's Logan Circle; suspect kills himself
-secondary_headline: Police chief says gunman apparently had a dispute with a homeowners association
+secondary_headline: Police chief says gunman apparently had a dispute with a homeowners
+  association
 publish_date: '2026-11-12'
-lede: Five people were shot, one of them fatally, in Washington's Logan Circle on Thursday, and the suspected gunman later shot and killed himself while barricaded inside an apartment, police said. One victim died in the initial shooting, said Jeffrey Carroll, interim chief of the Metropolitan Police Department.
-nut_graf: The shootings struck Logan Circle, about a mile north of the White House — a neighborhood where an early August 2025 carjacking assault on a onetime Department of Government Efficiency member was followed days later by President Donald Trump's imposition of direct federal control over the city and a National Guard deployment of hundreds that continues today.
+lede: Five people were shot, one of them fatally, in Washington's Logan Circle on
+  Thursday, and the suspected gunman later shot and killed himself while barricaded
+  inside an apartment, police said. One victim died in the initial shooting, said
+  Jeffrey Carroll, interim chief of the Metropolitan Police Department.
+nut_graf: The shootings struck Logan Circle, about a mile north of the White House
+  — a neighborhood where an early August 2025 carjacking assault on a onetime Department
+  of Government Efficiency member was followed days later by President Donald Trump's
+  imposition of direct federal control over the city and a National Guard deployment
+  of hundreds that continues today.
 primary_entities:
 - Logan Circle
 - Washington, D.C.
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,107 +156,28 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-12-five-people-shot-in-logan-circle-suspect-barricaded
-  headline: Five people shot in Washington's Logan Circle; suspect barricaded, police say
+  headline: Five people shot in Washington's Logan Circle; suspect barricaded, police
+    say
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8729
+  strength: 0.8737
 - slug: 2026-11-12-multiple-people-shot-in-logan-circle-area-of-washington-dc-police-say
   headline: Multiple people shot in Logan Circle area of Washington DC, police say
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7927
+  strength: 0.792
 - slug: 2026-11-12-police-declare-barricade-after-multiple-people-shot-in-logan-circle
   headline: Police declare barricade after multiple people shot in Logan Circle
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7744
-- slug: 2026-10-21-police-search-for-suspect-in-george-washington-bridge-shooting
-  headline: Police search for suspect in George Washington Bridge shooting
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6032
-- slug: 2026-10-11-five-family-members-dead-in-apparent-murder-suicide-in-georgia-police-say
-  headline: Five family members dead in apparent murder-suicide in Georgia, police say
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6083
-- slug: 2026-10-08-security-fatally-shoots-armed-man-at-nashville-federal-courthouse
-  headline: Security fatally shoots armed man at Nashville federal courthouse
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6079
-- slug: 2026-09-03-shooting-at-minneapolis-apartment-building-kills-three-wounds-five
-  headline: Shooting at Minneapolis apartment building kills three, wounds five
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.606
+  strength: 0.7747
 - slug: 2026-05-23-secret-service-fatally-shoots-suspect-outside-white-house-checkpoint-bystander-h
-  headline: Secret Service fatally shoots suspect outside White House checkpoint; bystander hit
+  headline: Secret Service fatally shoots suspect outside White House checkpoint;
+    bystander hit
   publish_date: '2026-05-23'
   relation: related
   strength: 0.6519
-- slug: 2026-05-23-suspect-dead-after-opening-fire-near-white-house-checkpoint-secret-service-says
-  headline: Suspect dead after opening fire near White House checkpoint, Secret Service says
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6455
-- slug: 2026-05-24-secret-service-kills-gunman-outside-white-house-checkpoint-bystander-wounded
-  headline: Secret Service kills gunman outside White House checkpoint; bystander wounded
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6428
-- slug: 2026-05-25-suspect-dead-after-opening-fire-near-white-house-checkpoint-secret-service-says
-  headline: Suspect dead after opening fire near White House checkpoint, Secret Service says
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6399
-- slug: 2026-04-27-how-security-has-changed-at-washington-hilton-since-reagan-s-shooting
-  headline: How security has changed at Washington Hilton since Reagan's shooting
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6487
-- slug: 2026-05-05-secret-service-gunman-fires-at-officers-near-washington-monument-shots-exchanged
-  headline: 'Secret Service: Gunman fires at officers near Washington Monument; shots exchanged'
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6408
-- slug: 2026-06-01-seven-dead-in-iowa-shootings-police-say-stemmed-from-domestic-dispute
-  headline: Seven dead in Iowa shootings police say stemmed from domestic dispute
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6271
-- slug: 2026-06-02-six-people-killed-in-muscatine-iowa-shootings-police-say-stemmed-from-domestic-d
-  headline: Six people killed in Muscatine, Iowa, shootings police say stemmed from domestic dispute
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6242
-- slug: 2026-04-26-trump-unharmed-after-shots-during-white-house-correspondents-dinner
-  headline: Trump unharmed after shots during White House correspondents’ dinner
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6249
-- slug: 2026-05-24-bystander-in-serious-condition-after-secret-service-kills-gunman-near-white-hous
-  headline: Bystander in serious condition after Secret Service kills gunman near White House checkpoint
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6123
-- slug: 2026-05-23-man-fatally-shot-by-secret-service-after-opening-fire-near-white-house
-  headline: Man fatally shot by Secret Service after opening fire near White House
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6087
-- slug: 2026-05-25-bystander-in-serious-condition-after-shooting-outside-white-house
-  headline: Bystander in serious condition after shooting outside White House
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.605
-- slug: 2026-04-27-what-we-know-about-security-for-trump-at-correspondents-dinner-after-shooting
-  headline: What we know about security for Trump at correspondents’ dinner after shooting
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6123
 ---
-
 ## Five shot, one fatally, in Washington's Logan Circle; suspect kills himself
 
 **Subtype:** fact

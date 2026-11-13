@@ -1,10 +1,19 @@
 ---
-headline: Five people shot in Washington's Logan Circle; suspect barricaded, police say
-secondary_headline: Search continues near 15th Street as police ask people to stay indoors
+headline: Five people shot in Washington's Logan Circle; suspect barricaded, police
+  say
+secondary_headline: Search continues near 15th Street as police ask people to stay
+  indoors
 slug: 2026-11-12-five-people-shot-in-logan-circle-suspect-barricaded
 publish_date: '2026-11-12'
-lede: Five people were shot Thursday morning in Washington, D.C.'s Logan Circle, and police said the suspect was barricaded and not in police custody. Officers responded to the active shooting shortly before 8 a.m. in the neighborhood about a mile from the White House, according to the Metropolitan Police Department. Officer Nathan Clarke, a police spokesman, said the conditions of those shot were unknown.
-nut_graf: The shooting unfolded shortly before 8 a.m. Thursday in the bustling Logan Circle neighborhood, where police asked people to stay indoors and away from the 1500 block of 15th Street while officers searched for the barricaded suspect. The conditions of the five victims were unknown, police said.
+lede: Five people were shot Thursday morning in Washington, D.C.'s Logan Circle, and
+  police said the suspect was barricaded and not in police custody. Officers responded
+  to the active shooting shortly before 8 a.m. in the neighborhood about a mile from
+  the White House, according to the Metropolitan Police Department. Officer Nathan
+  Clarke, a police spokesman, said the conditions of those shot were unknown.
+nut_graf: The shooting unfolded shortly before 8 a.m. Thursday in the bustling Logan
+  Circle neighborhood, where police asked people to stay indoors and away from the
+  1500 block of 15th Street while officers searched for the barricaded suspect. The
+  conditions of the five victims were unknown, police said.
 primary_entities:
 - Washington, D.C.
 - Logan Circle
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,6 +146,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-12-five-shot-one-fatally-in-washington-s-logan-circle-suspect-kills-himself
+  headline: Five shot, one fatally, in Washington's Logan Circle; suspect kills himself
+  publish_date: '2026-11-12'
+  relation: related
+  strength: 0.8705
 - slug: 2026-11-12-police-declare-barricade-after-multiple-people-shot-in-logan-circle
   headline: Police declare barricade after multiple people shot in Logan Circle
   publish_date: '2026-11-12'
@@ -146,98 +161,7 @@ related_stories:
   publish_date: '2026-11-12'
   relation: related
   strength: 0.869
-- slug: 2026-10-21-police-search-for-suspect-in-george-washington-bridge-shooting
-  headline: Police search for suspect in George Washington Bridge shooting
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6227
-- slug: 2026-10-09-ice-agent-shoots-man-in-the-bronx-dhs-confirms
-  headline: ICE agent shoots man in the Bronx, DHS confirms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6168
-- slug: 2026-10-08-federal-immigration-officer-shoots-person-in-new-york-s-marble-hill-mayor-report
-  headline: Federal immigration officer shoots person in New York's Marble Hill, mayor reports
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6134
-- slug: 2026-10-08-federal-agents-shoot-person-in-the-bronx-nypd-says
-  headline: Federal agents shoot person in the Bronx, NYPD says
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6052
-- slug: 2026-09-02-shooting-in-downtown-minneapolis-wounds-two-officers-multiple-victims
-  headline: Shooting in downtown Minneapolis wounds two officers, multiple victims
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6182
-- slug: 2026-08-15-five-shot-at-virginia-state-university-as-police-seek-multiple-suspects
-  headline: Five shot at Virginia State University as police seek multiple suspects
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6467
-- slug: 2026-09-02-minneapolis-convention-center-shooting-injures-two-officers-multiple-others
-  headline: Minneapolis convention center shooting injures two officers, multiple others
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6096
-- slug: 2026-08-31-nypd-officers-shoot-woman-brandishing-knives-in-times-square
-  headline: NYPD officers shoot woman brandishing knives in Times Square
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6131
-- slug: 2026-08-16-park-shooting-in-lexington-kills-1-injures-4
-  headline: Park shooting in Lexington kills 1, injures 4
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6113
-- slug: 2026-07-05-coney-island-gunfire-on-west-31st-street-wounds-at-least-eight-including-four-ch
-  headline: Coney Island gunfire on West 31st Street wounds at least eight including four children, NYPD says
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6172
-- slug: 2026-03-24-us-park-police-officer-wounded-in-southeast-d-c-shooting
-  headline: US Park Police Officer Wounded in Southeast D.C. Shooting
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6499
-- slug: 2026-04-19-shooting-near-university-of-iowa-wounds-five-people
-  headline: Shooting near University of Iowa wounds five people
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.6278
-- slug: 2026-05-05-secret-service-gunman-fires-at-officers-near-washington-monument-shots-exchanged
-  headline: 'Secret Service: Gunman fires at officers near Washington Monument; shots exchanged'
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6222
-- slug: 2026-06-07-five-hurt-as-suspect-stabs-commuters-at-new-york-s-penn-station
-  headline: Five hurt as suspect stabs commuters at New York's Penn Station
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6086
-- slug: 2026-04-22-police-seek-17-year-old-for-attempted-murder-in-shooting-near-iowa-campus
-  headline: Police seek 17-year-old for attempted murder in shooting near Iowa campus
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.619
-- slug: 2026-05-25-bystander-in-serious-condition-after-shooting-outside-white-house
-  headline: Bystander in serious condition after shooting outside White House
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6069
-- slug: 2026-05-23-secret-service-fatally-shoots-suspect-outside-white-house-checkpoint-bystander-h
-  headline: Secret Service fatally shoots suspect outside White House checkpoint; bystander hit
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6075
-- slug: 2026-04-23-police-seek-17-year-old-on-attempted-murder-charges-after-iowa-city-shooting
-  headline: Police seek 17-year-old on attempted murder charges after Iowa City shooting
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6143
 ---
-
 ## Five people shot in Washington's Logan Circle; suspect barricaded, police say
 
 **Subtype:** fact
