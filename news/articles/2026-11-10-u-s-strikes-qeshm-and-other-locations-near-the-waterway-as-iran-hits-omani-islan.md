@@ -1,9 +1,21 @@
 ---
-headline: U.S. strikes Qeshm and other locations near the waterway as Iran hits Omani island
+headline: U.S. strikes Qeshm and other locations near the waterway as Iran hits Omani
+  island
 secondary_headline: Iran links Strait reopening to blockade and regional fighting
 publish_date: '2026-11-10'
-lede: According to The Wall Street Journal, U.S. forces have carried out a series of strikes in recent weeks on Qeshm Island, Iran’s largest island, as well as other locations near the Strait of Hormuz. On Tuesday, Iranian state media said Tehran had struck Didamar, a small, uninhabited Omani island in the waterway. The strikes came as the two sides fought for control of commercial shipping nearly nine months into the conflict, even as President Donald Trump signaled that he does not plan to restart major combat operations.
-nut_graf: The Strait is crucial to global markets, and near-daily U.S. operations helping commercial vessels move into and out of the Persian Gulf have helped regional oil exports reach levels near where they stood at the start of the war; the U.S. military has repeatedly struck Qeshm Island as well as other locations near the waterway. Ali Vaez, an Iran expert and deputy program director at the International Crisis Group, warned that the back-and-forth attacks could escalate at any point.
+lede: According to The Wall Street Journal, U.S. forces have carried out a series
+  of strikes in recent weeks on Qeshm Island, Iran’s largest island, as well as other
+  locations near the Strait of Hormuz. On Tuesday, Iranian state media said Tehran
+  had struck Didamar, a small, uninhabited Omani island in the waterway. The strikes
+  came as the two sides fought for control of commercial shipping nearly nine months
+  into the conflict, even as President Donald Trump signaled that he does not plan
+  to restart major combat operations.
+nut_graf: The Strait is crucial to global markets, and near-daily U.S. operations
+  helping commercial vessels move into and out of the Persian Gulf have helped regional
+  oil exports reach levels near where they stood at the start of the war; the U.S.
+  military has repeatedly struck Qeshm Island as well as other locations near the
+  waterway. Ali Vaez, an Iran expert and deputy program director at the International
+  Crisis Group, warned that the back-and-forth attacks could escalate at any point.
 primary_entities:
 - United States
 - Iran
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,104 +78,46 @@ related_stories:
   headline: Iran deploys drones, grenades and mines against Hormuz shipping
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8412
+  strength: 0.8418
 - slug: 2026-11-03-u-s-reportedly-strikes-iran-s-qeshm-targeting-missiles-used-against-u-s-assets
-  headline: U.S. reportedly strikes Iran's Qeshm, targeting missiles used against U.S. assets
+  headline: U.S. reportedly strikes Iran's Qeshm, targeting missiles used against
+    U.S. assets
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8055
+  strength: 0.8049
 - slug: 2026-11-03-trump-says-u-s-has-not-fought-iran-in-months-before-reported-qeshm-island-strike
-  headline: Trump says U.S. has not fought Iran in months before reported Qeshm Island strike
+  headline: Trump says U.S. has not fought Iran in months before reported Qeshm Island
+    strike
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8009
+  strength: 0.8005
+- slug: 2026-09-01-u-s-forces-strike-iranian-mine-launch-sites-near-strait-of-hormuz
+  headline: U.S. forces strike Iranian mine-launch sites near Strait of Hormuz
+  publish_date: '2026-09-01'
+  relation: related
+  strength: 0.7696
 - slug: 2026-08-25-tanker-struck-off-oman-us-rolls-out-operation-economic-outcast-on-iran
   headline: Tanker struck off Oman; US rolls out 'Operation Economic Outcast' on Iran
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7802
+  strength: 0.7794
 - slug: 2026-08-15-us-doubles-iran-economic-pressure-as-tehran-strikes-uae-ships-in-hormuz
   headline: US doubles Iran economic pressure as Tehran strikes UAE ships in Hormuz
   publish_date: '2026-08-15'
   relation: related
   strength: 0.772
 - slug: 2026-07-16-securing-strait-of-hormuz-would-require-thousands-of-u-s-troops-experts-say
-  headline: Securing Strait of Hormuz would require thousands of U.S. troops, experts say
+  headline: Securing Strait of Hormuz would require thousands of U.S. troops, experts
+    say
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7927
+  strength: 0.793
 - slug: 2026-07-28-iran-oman-seek-reopening-of-strait-of-hormuz-in-narrow-talks
   headline: Iran, Oman seek reopening of Strait of Hormuz in narrow talks
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.7765
-- slug: 2026-07-12-us-launches-new-strikes-on-iran-after-irgc-attacks-ship-in-strait-of-hormuz
-  headline: US launches new strikes on Iran after IRGC attacks ship in Strait of Hormuz
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.7924
-- slug: 2026-07-20-us-strikes-iran-for-9th-consecutive-night-as-hormuz-conflict-continues
-  headline: US strikes Iran for 9th consecutive night as Hormuz conflict continues
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7803
-- slug: 2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-
-  headline: US launches third night of strikes on Iran as fighting intensifies in Strait of Hormuz
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7853
-- slug: 2026-07-16-us-disables-oil-tanker-in-strait-of-hormuz-strikes-hit-tehran
-  headline: US disables oil tanker in Strait of Hormuz, strikes hit Tehran
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7824
-- slug: 2026-07-08-us-strikes-iranian-military-sites-after-tanker-attacks-in-strait-of-hormuz
-  headline: US strikes Iranian military sites after tanker attacks in Strait of Hormuz
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7853
-- slug: 2026-05-09-u-s-forces-disable-two-iranian-tankers-as-strait-of-hormuz-ceasefire-frays
-  headline: U.S. forces disable two Iranian tankers as Strait of Hormuz ceasefire frays
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.8112
-- slug: 2026-05-05-us-reopens-hormuz-lane-as-uae-says-iran-attacks-it-citing-ceasefire-test
-  headline: US reopens Hormuz lane as UAE says Iran attacks it, citing ceasefire test
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.811
-- slug: 2026-07-11-iran-prioritizes-strait-of-hormuz-control-over-billions-in-sanctions-relief
-  headline: Iran prioritizes Strait of Hormuz control over billions in sanctions relief
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.7699
-- slug: 2026-06-29-iran-does-not-confirm-it-will-join-us-qatar-talks-after-gulf-strikes
-  headline: Iran does not confirm it will join US-Qatar talks after Gulf strikes
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.779
-- slug: article
-  headline: Iranian drones attack Bahrain, tanker hit in Strait of Hormuz
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.7707
-- slug: 2026-06-27-iranian-drones-attack-bahrain-tanker-hit-in-strait-of-hormuz
-  headline: Iranian drones attack Bahrain, tanker hit in Strait of Hormuz
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.7707
-- slug: 2026-05-08-us-intercepts-iranian-attacks-on-3-navy-ships-in-strait-of-hormuz
-  headline: US intercepts Iranian attacks on 3 Navy ships in Strait of Hormuz
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7935
-- slug: 2026-06-01-u-s-strikes-iranian-air-defenses-drone-sites-after-strait-of-hormuz-skirmish
-  headline: U.S. strikes Iranian air defenses, drone sites after Strait of Hormuz skirmish
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7826
+  strength: 0.7762
 ---
-
 ## U.S. strikes Qeshm and other locations near the waterway as Iran hits Omani island
 
 **Subtype:** fact
