@@ -1,9 +1,21 @@
 ---
 headline: Harvard returns two skulls believed to belong to enslaved people to Brazil
-secondary_headline: Remains will be buried with funeral rites once identification is complete
+secondary_headline: Remains will be buried with funeral rites once identification
+  is complete
 publish_date: '2026-11-11'
-lede: Two skulls believed to have belonged to enslaved Africans or Afro-Brazilians were returned to Brazil by Harvard University on Wednesday, closing a four-year campaign to recover the remains from the university's Peabody Museum of Archaeology and Ethnology, where they had been used in racist eugenics studies. Brazilian diplomats carried the skulls home in padded boxes inside a reinforced suitcase for subdued handover ceremonies in Salvador and Rio de Janeiro.
-nut_graf: The skulls had been outside Brazil since the 19th century — one taken from Salvador about 190 years ago, the other from Rio de Janeiro about 160 years ago — and returned to the country that received more enslaved Africans than any other during the transatlantic slave trade. The Brazilian government has pledged that the remains, which will not be displayed in museums or have their images released, will be buried with funeral rites as soon as researchers complete the identification process.
+lede: Two skulls believed to have belonged to enslaved Africans or Afro-Brazilians
+  were returned to Brazil by Harvard University on Wednesday, closing a four-year
+  campaign to recover the remains from the university's Peabody Museum of Archaeology
+  and Ethnology, where they had been used in racist eugenics studies. Brazilian diplomats
+  carried the skulls home in padded boxes inside a reinforced suitcase for subdued
+  handover ceremonies in Salvador and Rio de Janeiro.
+nut_graf: The skulls had been outside Brazil since the 19th century — one taken from
+  Salvador about 190 years ago, the other from Rio de Janeiro about 160 years ago
+  — and returned to the country that received more enslaved Africans than any other
+  during the transatlantic slave trade. The Brazilian government has pledged that
+  the remains, which will not be displayed in museums or have their images released,
+  will be buried with funeral rites as soon as researchers complete the identification
+  process.
 primary_entities:
 - Harvard University
 - Peabody Museum of Archaeology and Ethnology
@@ -51,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,108 +162,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-02-border-wall-contractors-unearth-native-american-remains-in-organ-pipe
-  headline: Border wall contractors unearth Native American remains in Organ Pipe
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5762
-- slug: 2026-10-24-justice-department-receives-permission-to-join-evanston-reparations-case
-  headline: Justice Department receives permission to join Evanston reparations case
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5633
-- slug: 2026-10-08-human-rights-watch-us-third-country-deportations-to-africa-are-unlawful
-  headline: 'Human Rights Watch: US third-country deportations to Africa are unlawful'
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5872
-- slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
-  headline: UN experts warn US third-country deportations trigger human rights violations
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5912
-- slug: 2026-10-02-u-s-suspends-consular-services-across-brazil-citing-security-concerns
-  headline: U.S. suspends consular services across Brazil citing security concerns
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5687
-- slug: 2026-09-21-investigation-documents-iranian-woman-deported-in-shackles-to-unknown-african-co
-  headline: Investigation documents Iranian woman deported in shackles to unknown African country
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5694
-- slug: 2026-09-16-state-department-redirects-52-million-in-military-aid-to-latin-america
-  headline: State Department redirects $52 million in military aid to Latin America
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5639
-- slug: 2026-08-19-harvard-agrees-to-53m-settlement-over-alleged-morgue-body-parts-sales
-  headline: Harvard agrees to $53M settlement over alleged morgue body-parts sales
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5964
 - slug: 2026-03-12-harvard-transfers-early-photos-of-enslaved-people-to-south-carolina-museum
   headline: Harvard transfers early photos of enslaved people to South Carolina museum
   publish_date: '2026-03-12'
   relation: related
-  strength: 0.681
-- slug: 2026-03-24-south-africa-reburies-khoi-and-san-remains-sent-to-europe-for-research
-  headline: South Africa reburies Khoi and San remains sent to Europe for research
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6427
-- slug: 2026-06-18-slave-shackles-at-louisville-museum-offer-visceral-link-to-history
-  headline: Slave shackles at Louisville museum offer visceral link to history
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5964
-- slug: 2026-07-02-families-of-us-deportees-to-venezuela-search-for-missing-after-quakes
-  headline: Families of US deportees to Venezuela search for missing after quakes
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5858
-- slug: 2026-06-16-mexico-demands-sotheby-s-pull-artifacts-from-new-york-auction
-  headline: Mexico demands Sotheby's pull artifacts from New York auction
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.586
-- slug: 2026-03-15-smithsonian-museum-to-remove-slave-ship-artifact-from-exhibit-march-22
-  headline: Smithsonian museum to remove slave ship artifact from exhibit March 22
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6108
-- slug: 2026-03-15-hrw-says-salvador-deportees-detained-in-el-salvador-and-disappeared
-  headline: HRW says Salvador deportees detained in El Salvador and disappeared
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5858
-- slug: 2026-05-16-venezuela-deports-ex-maduro-ally-alex-saab-to-u-s-to-face-criminal-probes
-  headline: Venezuela deports ex-Maduro ally Alex Saab to U.S. to face criminal probes
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5631
-- slug: 2026-02-14-federal-judge-orders-return-of-babson-student-deported-to-honduras
-  headline: Federal judge orders return of Babson student deported to Honduras
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.58
-- slug: 2026-01-15-cuba-repatriates-32-officers-killed-in-venezuela-raid-as-us-tensions-mount
-  headline: Cuba repatriates 32 officers killed in Venezuela raid as US tensions mount
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.5793
-- slug: 2026-03-24-trump-administration-places-columbus-statue-replica-near-white-house
-  headline: Trump administration places Columbus statue replica near White House
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5714
-- slug: 2026-04-24-highway-work-in-brazil-s-amazon-leads-to-digs-and-new-findings
-  headline: Highway work in Brazil's Amazon leads to digs and new findings
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5644
+  strength: 0.6782
 ---
-
 ## Harvard returns two skulls believed to belong to enslaved people to Brazil
 
 **Subtype:** fact

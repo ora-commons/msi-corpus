@@ -1,9 +1,23 @@
 ---
-headline: Lawmakers force House vote on bill letting survivors sue DOJ over Epstein files
-secondary_headline: Measure would bar privilege-based withholding of roughly 200,000 pages
+headline: Lawmakers force House vote on bill letting survivors sue DOJ over Epstein
+  files
+secondary_headline: Measure would bar privilege-based withholding of roughly 200,000
+  pages
 publish_date: '2026-11-11'
-lede: Democrats and a small number of House Republicans have forced a new vote on Justice Department files tied to the sex offender Jeffrey Epstein, collecting the 218 signatures needed to bring up a bill that would let states and survivors sue the department over withheld documents. The bipartisan drive, led by Rep. Thomas Massie, R-Ky., and Rep. Ro Khanna, D-Calif., reached the threshold Wednesday when Rep. John Garamendi signed on. The measure would amend the Epstein Files Transparency Act, which produced the department's January release of millions of Epstein records.
-nut_graf: The bill reopens a fight Congress took up last year, when it passed the Epstein Files Transparency Act over President Trump's initial objections and the Justice Department released millions of Epstein records in January 2026. The department has said it has complied with that law; the new measure targets its ability to keep roughly 200,000 pages withheld or redacted on privilege grounds. With the congressional session ending in January, the bill faces a tight deadline to clear both chambers and reach Trump's desk.
+lede: Democrats and a small number of House Republicans have forced a new vote on
+  Justice Department files tied to the sex offender Jeffrey Epstein, collecting the
+  218 signatures needed to bring up a bill that would let states and survivors sue
+  the department over withheld documents. The bipartisan drive, led by Rep. Thomas
+  Massie, R-Ky., and Rep. Ro Khanna, D-Calif., reached the threshold Wednesday when
+  Rep. John Garamendi signed on. The measure would amend the Epstein Files Transparency
+  Act, which produced the department's January release of millions of Epstein records.
+nut_graf: The bill reopens a fight Congress took up last year, when it passed the
+  Epstein Files Transparency Act over President Trump's initial objections and the
+  Justice Department released millions of Epstein records in January 2026. The department
+  has said it has complied with that law; the new measure targets its ability to keep
+  roughly 200,000 pages withheld or redacted on privilege grounds. With the congressional
+  session ending in January, the bill faces a tight deadline to clear both chambers
+  and reach Trump's desk.
 primary_entities:
 - Jeffrey Epstein
 - Thomas Massie
@@ -44,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,13 +158,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-11-lawmakers-force-house-vote-on-bill-letting-survivors-sue-doj-over-epstein-files.png
-  alt: 'Illustration accompanying article: Lawmakers force House vote on bill letting survivors sue DOJ over Epstein files'
+  alt: 'Illustration accompanying article: Lawmakers force House vote on bill letting
+    survivors sue DOJ over Epstein files'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-10-house-republicans-urge-doj-to-expand-epstein-investigation
   headline: House Republicans urge DOJ to expand Epstein investigation
@@ -160,34 +179,31 @@ related_stories:
   headline: Epstein survivor says House report gives her hope, urges DOJ to keep investigating
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7564
+  strength: 0.7563
 - slug: 2026-11-10-house-oversight-report-faults-doj-over-mishandling-epstein-records
   headline: House Oversight report faults DOJ over mishandling Epstein records
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7498
+  strength: 0.75
 - slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
+  headline: House Democrats detail probes into Trump family, Epstein files and the
+    Pentagon
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7236
+  strength: 0.7235
 - slug: 2026-10-24-epstein-files-slip-from-midterm-focus-as-advocates-seek-renewed-scrutiny
   headline: Epstein files slip from midterm focus as advocates seek renewed scrutiny
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7609
+  strength: 0.7606
 - slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
   headline: House Judiciary Democrats ask Blanche to probe Epstein network
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7191
-- slug: 2026-09-16-epstein-survivors-push-house-panel-to-hear-from-dershowitz-ag-blanche
-  headline: Epstein survivors push House panel to hear from Dershowitz, AG Blanche
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7125
+  strength: 0.7189
 - slug: 2026-09-01-massie-names-black-and-copperfield-as-epstein-co-conspirators-on-house-floor
-  headline: Massie names Black and Copperfield as Epstein co-conspirators on House floor
+  headline: Massie names Black and Copperfield as Epstein co-conspirators on House
+    floor
   publish_date: '2026-09-01'
   relation: related
   strength: 0.7422
@@ -195,64 +211,8 @@ related_stories:
   headline: Judge bars lawmakers from Maxwell case but allows Epstein files lawsuit
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.7929
-- slug: 2026-02-07-lawmakers-to-review-unredacted-epstein-files-at-doj-starting-monday
-  headline: Lawmakers to review unredacted Epstein files at DOJ starting Monday
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.8075
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7497
-- slug: 2025-12-31-justice-department-reviews-5-2-million-epstein-files-misses-deadline
-  headline: Justice Department reviews 5.2 million Epstein files, misses deadline
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.7793
-- slug: 2026-01-16-doj-tells-judge-to-reject-congressional-request-for-epstein-files-neutral-overse
-  headline: DOJ tells judge to reject congressional request for Epstein files neutral overseer
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.762
-- slug: 2026-03-05-house-committee-votes-to-subpoena-pam-bondi-over-epstein-files
-  headline: House committee votes to subpoena Pam Bondi over Epstein files
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7433
-- slug: 2026-02-13-democrats-accuse-justice-department-of-spying-on-lawmakers-reviewing-epstein-fil
-  headline: Democrats accuse Justice Department of spying on lawmakers reviewing Epstein files
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.745
-- slug: 2026-01-31-justice-department-releases-more-epstein-files-totaling-3-million-pages
-  headline: Justice Department releases more Epstein files, totaling 3 million pages
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.7457
-- slug: 2026-05-07-timeline-traces-epstein-probe-and-fight-over-doj-files
-  headline: Timeline traces Epstein probe and fight over DOJ files
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.727
-- slug: 2026-02-26-justice-department-to-review-whether-epstein-files-were-mistakenly-withheld
-  headline: Justice Department to review whether Epstein files were mistakenly withheld
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7385
-- slug: 2026-02-03-doj-takes-down-epstein-files-after-redaction-failures-may-expose-victims
-  headline: DOJ takes down Epstein files after redaction failures may expose victims
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7357
-- slug: 2026-03-18-pam-bondi-subpoenaed-by-congress-over-epstein-files
-  headline: Pam Bondi subpoenaed by Congress over Epstein files
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7281
+  strength: 0.7928
 ---
-
 ## Lawmakers force House vote on bill letting survivors sue DOJ over Epstein files
 
 **Subtype:** fact

@@ -48,10 +48,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -233,3 +235,9 @@ Phone and email messages seeking comment were left with the architect, property 
 **Publication date:** 2026-11-11
 **Title:** New York City building collapse kills 1, traps people in rubble
 **URL:** https://apnews.com/article/brooklyn-building-collapse-202ddc195fbf2dcf14e85d004f3ac130
+
+### src_late_0fc6b91c507b3153 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-12
+**Title:** Brooklyn building collapse kills at least one and traps others in wreckage
+**URL:** https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse
+**Added after publication:** true
