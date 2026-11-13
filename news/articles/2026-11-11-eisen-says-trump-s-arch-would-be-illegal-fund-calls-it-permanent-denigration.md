@@ -1,9 +1,19 @@
 ---
 headline: Eisen says Trump's arch would be illegal; fund calls it "permanent denigration"
-secondary_headline: RFK Jr. stays out of relatives' suit amid strained ties with many relatives
+secondary_headline: RFK Jr. stays out of relatives' suit amid strained ties with many
+  relatives
 publish_date: '2026-11-11'
-lede: Norm Eisen, the attorney representing Kennedy family members who have sued to block President Trump's 250-foot arch near Arlington National Cemetery, says constructing it would be illegal. The Democracy Defenders Fund, which represents the family members, says the arch would be a "permanent denigration" of the gravesites at Arlington. Eisen said the family members are acting "for the rule of law and the separation of powers," and NPR reported that Robert F. Kennedy Jr. is not part of the lawsuit and has a strained relationship with many of his relatives.
-nut_graf: Eisen said the veterans and governments already opposing the arch have "a very weighty case" and that the Kennedy family, in the "long tradition of public service" associated with that name, wishes to stand up and be heard. The Democracy Defenders Fund represents the Kennedy family members in the suit.
+lede: Norm Eisen, the attorney representing Kennedy family members who have sued to
+  block President Trump's 250-foot arch near Arlington National Cemetery, says constructing
+  it would be illegal. The Democracy Defenders Fund, which represents the family members,
+  says the arch would be a "permanent denigration" of the gravesites at Arlington.
+  Eisen said the family members are acting "for the rule of law and the separation
+  of powers," and NPR reported that Robert F. Kennedy Jr. is not part of the lawsuit
+  and has a strained relationship with many of his relatives.
+nut_graf: Eisen said the veterans and governments already opposing the arch have "a
+  very weighty case" and that the Kennedy family, in the "long tradition of public
+  service" associated with that name, wishes to stand up and be heard. The Democracy
+  Defenders Fund represents the Kennedy family members in the suit.
 primary_entities:
 - Donald Trump
 - Kennedy family
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +158,46 @@ related_stories:
   headline: White House defends Trump's proposed arch against Kennedy family lawsuit
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8454
+  strength: 0.8453
 - slug: 2026-11-11-kennedys-say-trump-s-arch-would-block-the-view-between-lincoln-memorial-and-arli
-  headline: Kennedys say Trump's arch would block the view between Lincoln Memorial and Arlington House
+  headline: Kennedys say Trump's arch would block the view between Lincoln Memorial
+    and Arlington House
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8299
+  strength: 0.8305
 - slug: 2026-11-11-kennedy-family-joins-legal-challenge-to-trump-s-250-foot-triumphal-arch
   headline: Kennedy family joins legal challenge to Trump’s 250-foot triumphal arch
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8222
+  strength: 0.8226
 - slug: 2026-11-06-judge-temporarily-blocks-trump-s-250-foot-arch-construction-near-arlington-cemet
-  headline: Judge temporarily blocks Trump's 250-foot arch construction near Arlington Cemetery
+  headline: Judge temporarily blocks Trump's 250-foot arch construction near Arlington
+    Cemetery
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7509
+  strength: 0.7515
 - slug: 2026-11-06-federal-panel-approves-trump-s-250-foot-arch-near-arlington-cemetery
   headline: Federal panel approves Trump's 250-foot arch near Arlington Cemetery
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7409
+  strength: 0.7417
 - slug: 2026-11-05-planning-commission-weighs-trump-arch-as-judge-reviews-construction-dispute
   headline: Planning commission weighs Trump arch as judge reviews construction dispute
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.742
+  strength: 0.7425
 - slug: 2026-11-06-national-capital-planning-commission-approves-trump-s-250-foot-arch-in-8-4-vote
-  headline: National Capital Planning Commission approves Trump's 250-foot arch in 8-4 vote
+  headline: National Capital Planning Commission approves Trump's 250-foot arch in
+    8-4 vote
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7279
+  strength: 0.7286
 - slug: 2026-10-31-d-c-and-virginia-sue-to-block-trump-s-250-foot-arch-near-arlington-cemetery
   headline: D.C. and Virginia sue to block Trump's 250-foot arch near Arlington Cemetery
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7638
-- slug: 2026-11-06-chutkan-s-opinion-says-trump-arch-traffic-disruptions-would-begin-immediately
-  headline: Chutkan's opinion says Trump arch traffic disruptions would begin immediately
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7061
-- slug: 2026-10-31-dc-and-virginia-sue-to-halt-trump-s-250-foot-arch-as-construction-approval-nears
-  headline: DC and Virginia sue to halt Trump's 250-foot arch as construction approval nears
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7343
-- slug: 2026-11-03-justice-department-says-trump-s-proposed-arch-would-take-33-to-39-months
-  headline: Justice Department says Trump's proposed arch would take 33 to 39 months
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7114
-- slug: 2026-10-30-judge-weighs-halting-trump-s-250-foot-d-c-arch-at-emergency-hearing
-  headline: Judge weighs halting Trump's 250-foot D.C. arch at emergency hearing
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7301
-- slug: 2026-10-31-virginia-and-d-c-sue-to-halt-construction-of-trump-s-250-foot-arch
-  headline: Virginia and D.C. sue to halt construction of Trump's 250-foot arch
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7059
-- slug: 2026-10-02-dozens-protest-trump-s-250-foot-d-c-arch-at-memorial-circle
-  headline: Dozens protest Trump's 250-foot D.C. arch at Memorial Circle
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7503
-- slug: 2026-10-09-arlington-county-sues-to-halt-trump-s-250-foot-arch-over-environmental-review
-  headline: Arlington County sues to halt Trump's 250-foot arch over environmental review
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.717
-- slug: 2026-09-21-trump-accused-of-manufacturing-national-security-justification-for-dc-arch
-  headline: Trump accused of manufacturing national security justification for DC arch
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7097
-- slug: 2026-09-20-trump-says-250-foot-dc-arch-will-house-weapons-as-military-complex
-  headline: Trump says 250-foot DC arch will house weapons as military complex
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7049
-- slug: 2026-09-20-faa-finds-trump-dc-arch-poses-no-reagan-national-flight-hazard
-  headline: FAA finds Trump DC arch poses no Reagan National flight hazard
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7048
-- slug: 2026-09-17-park-service-finds-trump-250-foot-dc-arch-would-harm-historic-sites
-  headline: Park Service finds Trump 250-foot DC arch would harm historic sites
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7121
-- slug: 2026-09-17-aviation-experts-say-trump-arch-likely-safe-for-planes-but-adds-airspace-risk
-  headline: Aviation experts say Trump arch likely safe for planes but adds airspace risk
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6971
+  strength: 0.7637
 ---
-
 ## Eisen says Trump's arch would be illegal; fund calls it "permanent denigration"
 
 **Subtype:** fact

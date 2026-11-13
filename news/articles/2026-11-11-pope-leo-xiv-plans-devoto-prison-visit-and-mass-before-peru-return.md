@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-09-07'
   relation: related
   strength: 0.6625
+analyses:
+- '2026-11-11-devoto-closure-puts-a-dictatorship-era-memory-site-in-limbo'
 ---
 ## Pope Leo XIV plans Devoto Prison visit and Mass before Peru return
 
@@ -238,3 +240,8 @@ Associated Press religion coverage receives support through the AP’s collabora
 **Publication date:** 2026-11-11
 **Title:** Pope to conclude Argentina visit with emotional prison meeting
 **URL:** https://apnews.com/article/argentina-pope-lujan-peru-b9af06396479341b5d000499f04a9fcd
+
+---
+
+<!-- analysis-link:2026-11-11-devoto-closure-puts-a-dictatorship-era-memory-site-in-limbo -->
+**Going deeper:** [Read MSI's analysis of Devoto Prison closure and land dispute →](/analyses/2026-11-11-devoto-closure-puts-a-dictatorship-era-memory-site-in-limbo)

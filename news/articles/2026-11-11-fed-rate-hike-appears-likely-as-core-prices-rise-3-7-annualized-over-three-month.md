@@ -212,6 +212,8 @@ related_stories:
   publish_date: '2026-10-27'
   relation: related
   strength: 0.7102
+analyses:
+- '2026-11-11-december-s-rate-step-lands-on-an-ai-trade-and-an-ipo-window-already-moving'
 ---
 ## Fed rate hike appears likely as core prices rise 3.7% annualized over three months through October
 
@@ -251,3 +253,8 @@ By day, London-based Rob Johnson works for a law firm. By night, The Journal rep
 **Publication date:** 2026-11-11
 **Title:** One More Rate Hike Is Looking Like the Beginning, Not the End
 **URL:** https://www.wsj.com/articles/one-more-rate-hike-is-looking-like-the-beginning-not-the-end-7c18c678
+
+---
+
+<!-- analysis-link:2026-11-11-december-s-rate-step-lands-on-an-ai-trade-and-an-ipo-window-already-moving -->
+**Going deeper:** [Read MSI's analysis of the Fed's next-move cascade →](/analyses/2026-11-11-december-s-rate-step-lands-on-an-ai-trade-and-an-ipo-window-already-moving)
