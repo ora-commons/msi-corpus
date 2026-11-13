@@ -1,9 +1,22 @@
 ---
 headline: Indonesia's vice president Gibran Raka resigns amid credentials dispute
-secondary_headline: Lawmakers will choose a successor from two presidential nominees within 60 days
+secondary_headline: Lawmakers will choose a successor from two presidential nominees
+  within 60 days
 publish_date: '2026-11-12'
-lede: Indonesia's vice president, Gibran Rakabuming Raka, resigned Thursday as questions grew over his eligibility for the office after recent court rulings disputed his educational credentials. The 39-year-old son of former President Joko Widodo submitted his resignation to the leadership of the People's Consultative Assembly, the country's highest legislative body, at the parliament building in Jakarta. Raka did not comment as he left the meeting.
-nut_graf: 'Raka is the first Indonesian vice president to resign before the end of a term since the fall of dictator Suharto and the start of the country''s democratic reforms in 1998. The resignation caps a candidacy that drew long-running criticism over its origins: before Prabowo Subianto chose Raka as his running mate for the 2024 election, Raka fell short of the minimum candidate age of 40, and a contentious October 2023 Constitutional Court ruling carved out an exception that critics have described as a conflict of interest and evidence of dynastic privilege and weak political accountability.'
+lede: Indonesia's vice president, Gibran Rakabuming Raka, resigned Thursday as questions
+  grew over his eligibility for the office after recent court rulings disputed his
+  educational credentials. The 39-year-old son of former President Joko Widodo submitted
+  his resignation to the leadership of the People's Consultative Assembly, the country's
+  highest legislative body, at the parliament building in Jakarta. Raka did not comment
+  as he left the meeting.
+nut_graf: 'Raka is the first Indonesian vice president to resign before the end of
+  a term since the fall of dictator Suharto and the start of the country''s democratic
+  reforms in 1998. The resignation caps a candidacy that drew long-running criticism
+  over its origins: before Prabowo Subianto chose Raka as his running mate for the
+  2024 election, Raka fell short of the minimum candidate age of 40, and a contentious
+  October 2023 Constitutional Court ruling carved out an exception that critics have
+  described as a conflict of interest and evidence of dynastic privilege and weak
+  political accountability.'
 primary_entities:
 - Indonesia
 - Jakarta
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +157,12 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-10-officials-say-indonesia-s-raka-offers-to-resign-amid-academic-credentials-disput
-  headline: Officials say Indonesia's Raka offers to resign amid academic-credentials dispute
+  headline: Officials say Indonesia's Raka offers to resign amid academic-credentials
+    dispute
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.865
-- slug: 2026-11-06-fl-vio-bolsonaro-tells-cpac-his-election-defeat-is-not-the-end-for-brazil
-  headline: Flávio Bolsonaro tells CPAC his election defeat is not 'the end for Brazil'
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5449
-- slug: 2026-11-05-paraguay-s-president-santiago-pe-a-resigns-after-ueno-bank-collapse
-  headline: Paraguay's president Santiago Peña resigns after Ueno Bank collapse
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.547
-- slug: 2026-11-06-rubio-heads-to-france-for-g7-talks-after-republican-midterm-losses
-  headline: Rubio heads to France for G7 talks after Republican midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5223
-- slug: 2026-11-05-santiago-pe-a-resigns-as-paraguay-bank-crisis-freezes-3-million-accounts
-  headline: Santiago Peña resigns as Paraguay bank crisis freezes 3 million accounts
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5262
-- slug: 2026-10-20-ipcc-suspends-meeting-without-setting-ar7-publication-timeline
-  headline: IPCC suspends meeting without setting AR7 publication timeline
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5287
-- slug: 2026-09-30-patrice-talon-exits-benin-s-presidency-critics-cite-democratic-decline
-  headline: Patrice Talon exits Benin's presidency; critics cite democratic decline
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5234
-- slug: 2026-09-22-world-leaders-at-un-general-assembly-call-for-security-council-reform
-  headline: World leaders at UN General Assembly call for Security Council reform
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5249
-- slug: 2026-09-05-sara-duterte-posts-5-740-bail-on-three-grave-threat-counts-at-quezon-court
-  headline: Sara Duterte posts $5,740 bail on three grave-threat counts at Quezon court
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.528
-- slug: 2026-08-18-rubio-sanctions-icc-president-and-senior-trial-lawyer
-  headline: Rubio sanctions ICC president and senior trial lawyer
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5287
-- slug: 2026-08-01-u-s--backed-venezuela-democracy-talks-begin-without-opposition-leader-machado
-  headline: U.S.-backed Venezuela democracy talks begin without opposition leader Machado
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.5225
-- slug: 2026-07-06-philippine-senate-opens-impeachment-trial-of-vice-president-sara-duterte
-  headline: Philippine Senate opens impeachment trial of Vice President Sara Duterte
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5494
-- slug: 2026-05-11-uganda-s-museveni-sworn-in-for-seventh-term-with-son-muhoozi-poised
-  headline: Uganda's Museveni sworn in for seventh term, with son Muhoozi poised
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5655
-- slug: 2026-06-10-colombian-president-gustavo-petro-faces-suspension-order-amid-election-probe
-  headline: Colombian President Gustavo Petro faces suspension order amid election probe
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.542
-- slug: 2026-04-22-peru-election-chief-resigns-amid-logistical-issues-in-disputed-vote
-  headline: Peru election chief resigns amid logistical issues in disputed vote
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5567
-- slug: 2026-04-28-impeachment-case-advances-against-philippines-vice-president-sara-duterte
-  headline: Impeachment case advances against Philippines Vice President Sara Duterte
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5493
-- slug: 2026-05-20-vance-takes-the-spotlight-at-white-house-briefing-after-rubio-s-turn
-  headline: Vance takes the spotlight at White House briefing after Rubio’s turn
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5325
-- slug: 2026-05-19-vance-and-rubio-try-for-2028-messaging-from-white-house-briefing-rostrum
-  headline: Vance and Rubio try for 2028 messaging from White House briefing rostrum
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5324
-- slug: 2026-05-11-museveni-sworn-in-for-7th-term-son-muhoozi-emerges-as-de-facto-leader
-  headline: Museveni sworn in for 7th term; son Muhoozi emerges as de facto leader
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5298
-- slug: 2026-04-25-new-acting-lt-gov-chosen-in-hawaii-as-luke-takes-leave-of-absence
-  headline: New Acting Lt. Gov. Chosen in Hawaii as Luke Takes Leave of Absence
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.5311
+  strength: 0.8659
 ---
-
 ## Indonesia's vice president Gibran Raka resigns amid credentials dispute
 
 **Subtype:** fact
