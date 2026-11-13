@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-10-20'
   relation: related
   strength: 0.8672
+analyses:
+- '2026-11-12-starshield-limits-trace-to-decisions-beyond-ukraine-s-battlefield'
 ---
 ## Musk ordered October's Starlink limits on Ukraine, Journal says
 
@@ -237,3 +239,8 @@ Ukrainian pilots have alternative methods for controlling their drones, but they
 **Publication date:** 2026-11-12
 **Title:** Ukraine Says Its Military Starlink Is Disrupted Again, Hurting Defenses
 **URL:** https://www.wsj.com/world/ukraine-says-its-military-starlink-is-disrupted-again-hurting-defenses-bfb00a64
+
+---
+
+<!-- analysis-link:2026-11-12-starshield-limits-trace-to-decisions-beyond-ukraine-s-battlefield -->
+**Going deeper:** [Read MSI's analysis of Starshield limits and Ukraine's drone dependencies →](/analyses/2026-11-12-starshield-limits-trace-to-decisions-beyond-ukraine-s-battlefield)
