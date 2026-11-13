@@ -2,8 +2,18 @@
 headline: Black voters backed Colom by 95 points, Voter Poll found
 secondary_headline: White voters' GOP margin fell from 65 points to 44 points
 publish_date: '2026-11-11'
-lede: 'The Voter Poll by SSRS found that Black voters in Mississippi backed Democrat Scott Colom over Republican Sen. Cindy Hyde-Smith by 95 percentage points, 97% to 2%, while white voters moved from backing Republican candidates by 65 points in the last presidential race to backing Hyde-Smith by 44 points this year, The Wall Street Journal reported. Gil Carter, a faculty member at Mississippi State who studies political communication, called Hyde-Smith''s February interview answer about beef prices a major misstep: "That was the biggest sword she handed him."'
-nut_graf: Mississippi has voted for a Republican presidential candidate in every election since the 1980s, and Trump won the state by 23 points in 2024, so the coalition behind Colom's win marks a reversal in a state that has been deep red for decades. Democrats flipped seven other Senate seats in this year's midterm elections, giving them a majority, and the party also recaptured control of the House.
+lede: 'The Voter Poll by SSRS found that Black voters in Mississippi backed Democrat
+  Scott Colom over Republican Sen. Cindy Hyde-Smith by 95 percentage points, 97% to
+  2%, while white voters moved from backing Republican candidates by 65 points in
+  the last presidential race to backing Hyde-Smith by 44 points this year, The Wall
+  Street Journal reported. Gil Carter, a faculty member at Mississippi State who studies
+  political communication, called Hyde-Smith''s February interview answer about beef
+  prices a major misstep: "That was the biggest sword she handed him."'
+nut_graf: Mississippi has voted for a Republican presidential candidate in every election
+  since the 1980s, and Trump won the state by 23 points in 2024, so the coalition
+  behind Colom's win marks a reversal in a state that has been deep red for decades.
+  Democrats flipped seven other Senate seats in this year's midterm elections, giving
+  them a majority, and the party also recaptured control of the House.
 primary_entities:
 - Scott Colom
 - Cindy Hyde-Smith
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +154,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-11-black-voters-backed-colom-by-95-points-voter-poll-found.png
-  alt: 'Illustration accompanying article: Black voters backed Colom by 95 points, Voter Poll found'
+  alt: 'Illustration accompanying article: Black voters backed Colom by 95 points,
+    Voter Poll found'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-incumbent-hyde-smith
   headline: Democrat Scott Colom wins Mississippi Senate race over incumbent Hyde-Smith
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8437
+  strength: 0.8441
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-seat-first-black-senator-since-reco
-  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator since Reconstruction
+  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator
+    since Reconstruction
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8285
+  strength: 0.8298
 - slug: 2026-11-11-scott-colom-closes-winning-mississippi-senate-campaign-with-medgar-evers-ad
-  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers ad
+  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers
+    ad
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8193
+  strength: 0.8189
 - slug: 2026-11-11-colom-says-national-democrats-spent-almost-nothing-in-mississippi
   headline: Colom says national Democrats spent 'almost nothing' in Mississippi
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8166
+  strength: 0.8168
 - slug: 2026-11-11-scott-colom-leads-cindy-hyde-smith-as-mississippi-votes-remain-uncounted
   headline: Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8136
+  strength: 0.814
 - slug: 2026-11-07-black-mississippians-react-to-scott-colom-s-historic-u-s-senate-bid
   headline: Black Mississippians react to Scott Colom's historic U.S. Senate bid
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8066
+  strength: 0.8078
 - slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
   headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8164
+  strength: 0.8173
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-cindy-hyde-smith
   headline: Democrat Scott Colom wins Mississippi Senate race over Cindy Hyde-Smith
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7614
-- slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
-  headline: Democrats sweep Congress with Mississippi Senate race still counting
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7623
-- slug: 2026-11-06-scott-colom-holds-narrow-mississippi-senate-lead-amid-ballot-counting-dispute
-  headline: Scott Colom holds narrow Mississippi Senate lead amid ballot-counting dispute
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7428
-- slug: 2026-11-06-parties-trade-legal-letters-as-mississippi-counts-remaining-senate-ballots
-  headline: Parties trade legal letters as Mississippi counts remaining Senate ballots
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7391
-- slug: 2026-11-05-black-voter-turnout-propels-democratic-wins-across-the-south
-  headline: Black voter turnout propels Democratic wins across the South
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.738
-- slug: 2026-11-05-tight-midterm-races-remain-uncalled-as-democrats-take-control-of-congress
-  headline: Tight midterm races remain uncalled as Democrats take control of Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.726
-- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7726
-- slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
-  headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7225
-- slug: 2026-11-06-mississippi-officials-cannot-say-how-many-senate-ballots-remain-uncounted
-  headline: Mississippi officials cannot say how many Senate ballots remain uncounted
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7056
-- slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.747
-- slug: 2026-11-06-mississippi-senate-race-between-hyde-smith-and-colom-remains-too-early-to-call
-  headline: Mississippi Senate race between Hyde-Smith and Colom remains too early to call
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6962
-- slug: 2026-11-05-democrats-flip-senate-seats-in-the-south-reshaping-the-2028-contest
-  headline: Democrats flip Senate seats in the South, reshaping the 2028 contest
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7017
-- slug: 2026-10-26-trump-heads-to-mississippi-as-democrats-expand-battleground-maps
-  headline: Trump heads to Mississippi as Democrats expand battleground maps
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7604
+  strength: 0.762
 ---
-
 ## Black voters backed Colom by 95 points, Voter Poll found
 
 **Subtype:** fact

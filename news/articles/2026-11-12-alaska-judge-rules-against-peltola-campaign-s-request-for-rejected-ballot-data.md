@@ -1,9 +1,22 @@
 ---
-headline: Alaska judge rules against Peltola campaign's request for rejected ballot data
+headline: Alaska judge rules against Peltola campaign's request for rejected ballot
+  data
 secondary_headline: State attorneys said the requested voter list would violate privacy
 publish_date: '2026-11-12'
-lede: An Alaska judge ruled Wednesday that a request by Democratic U.S. Senate candidate Mary Peltola's campaign for a list of voters whose absentee ballots have been rejected is "not reasonable," given the time crunch election officials face as they continue counting ballots from last week's election. Superior Court Judge Thomas Matthews issued the written ruling in the ranked vote contest between Peltola and two-term Republican Sen. Dan Sullivan, the only Senate race in the country that remains too early to call.
-nut_graf: Ballot counting is still underway in the race. Alaska accepts overseas ballots up to 15 days after general elections, making Nov. 18 the final day to receive them — the same date the Division of Elections has targeted for ranked vote tabulations if no candidate wins more than 50% of first-choice votes. The ruling came in a dispute that began when Peltola's campaign sued state elections officials last Friday, seeking the list of voters whose absentee ballots were rejected and the reasons for the rejections to ensure that all qualified voters have their ballots counted.
+lede: An Alaska judge ruled Wednesday that a request by Democratic U.S. Senate candidate
+  Mary Peltola's campaign for a list of voters whose absentee ballots have been rejected
+  is "not reasonable," given the time crunch election officials face as they continue
+  counting ballots from last week's election. Superior Court Judge Thomas Matthews
+  issued the written ruling in the ranked vote contest between Peltola and two-term
+  Republican Sen. Dan Sullivan, the only Senate race in the country that remains too
+  early to call.
+nut_graf: Ballot counting is still underway in the race. Alaska accepts overseas ballots
+  up to 15 days after general elections, making Nov. 18 the final day to receive them
+  — the same date the Division of Elections has targeted for ranked vote tabulations
+  if no candidate wins more than 50% of first-choice votes. The ruling came in a dispute
+  that began when Peltola's campaign sued state elections officials last Friday, seeking
+  the list of voters whose absentee ballots were rejected and the reasons for the
+  rejections to ensure that all qualified voters have their ballots counted.
 primary_entities:
 - Mary Peltola
 - Dan Sullivan
@@ -43,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +156,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-12-alaska-judge-rules-against-peltola-campaign-s-request-for-rejected-ballot-data.png
-  alt: 'Illustration accompanying article: Alaska judge rules against Peltola campaign''s request for rejected ballot data'
+  alt: 'Illustration accompanying article: Alaska judge rules against Peltola campaign''s
+    request for rejected ballot data'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-11-peltola-campaign-asks-judge-for-alaska-absentee-ballot-rejection-data
   headline: Peltola campaign asks judge for Alaska absentee ballot rejection data
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.887
+  strength: 0.8865
 - slug: 2026-11-05-alaska-s-ballot-count-continues-with-senate-governor-races-too-early-to-call
-  headline: Alaska's ballot count continues with Senate, governor races too early to call
+  headline: Alaska's ballot count continues with Senate, governor races too early
+    to call
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8336
+  strength: 0.8331
 - slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
+  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe
+    escalates
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7957
+  strength: 0.7959
 - slug: 2026-11-01-voting-rights-experts-call-alaska-election-intervention-unprecedented
   headline: Voting-rights experts call Alaska election intervention unprecedented
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.775
+  strength: 0.7744
 - slug: 2026-10-31-alaska-urges-federal-judge-to-dismiss-suit-to-halt-senate-certification
   headline: Alaska urges federal judge to dismiss suit to halt Senate certification
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7795
+  strength: 0.7779
 - slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
   headline: Alaska voters decide Senate race shadowed by DOJ probe
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7731
+  strength: 0.7727
 - slug: 2026-10-31-justice-department-asks-judge-to-segregate-ballots-ranking-second-sullivan
   headline: Justice Department asks judge to segregate ballots ranking second Sullivan
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7659
+  strength: 0.7658
 - slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
   headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
   publish_date: '2026-10-28'
   relation: related
   strength: 0.7818
-- slug: 2026-10-29-alaska-republican-governor-calls-for-investigation-into-namesake-filing
-  headline: Alaska Republican governor calls for investigation into namesake filing
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.769
-- slug: 2026-10-29-murkowski-condemns-peltola-campaign-while-opposing-doj-lawsuit
-  headline: Murkowski condemns Peltola campaign while opposing DOJ lawsuit
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7669
-- slug: 2026-10-28-mary-peltola-s-campaign-denies-role-in-recruiting-dan-sullivan-namesake
-  headline: Mary Peltola's campaign denies role in recruiting Dan Sullivan namesake
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7701
-- slug: 2026-10-30-alaska-and-justice-department-open-criminal-probes-into-second-sullivan-filing
-  headline: Alaska and Justice Department open criminal probes into second Sullivan filing
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7568
-- slug: 2026-10-30-spoiler-allegations-roil-alaska-s-tight-senate-race
-  headline: Spoiler allegations roil Alaska's tight Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7523
-- slug: 2026-10-28-peltola-campaign-discussed-recruiting-second-dan-sullivan-report-says
-  headline: Peltola campaign discussed recruiting second Dan Sullivan, report says
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7624
-- slug: 2026-10-29-peltola-campaign-denied-encouraging-sullivan-namesake-may-report-says
-  headline: Peltola campaign denied encouraging Sullivan namesake, May report says
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7538
-- slug: 2026-10-28-fired-campaign-manager-says-peltola-was-definitely-aware-of-an-alleged-plan
-  headline: Fired campaign manager says Peltola was "definitely aware" of an alleged plan
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7591
-- slug: 2026-10-29-dunleavy-orders-probe-into-peltola-campaign-over-sullivan-namesake
-  headline: Dunleavy orders probe into Peltola campaign over Sullivan namesake
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7525
-- slug: 2026-10-30-u-s-attorney-confirms-criminal-probe-into-alaska-senate-ballot-namesake-scheme
-  headline: U.S. attorney confirms criminal probe into Alaska Senate ballot-namesake scheme
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7454
-- slug: 2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice
-  headline: Peltola reschedules Alaska Senate campaign events on medical advice
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7674
-- slug: 2026-10-29-justice-department-expands-alaska-election-probe-with-new-subpoenas
-  headline: Justice Department expands Alaska election probe with new subpoenas
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7508
 ---
-
 ## Alaska judge rules against Peltola campaign's request for rejected ballot data
 
 **Subtype:** fact
