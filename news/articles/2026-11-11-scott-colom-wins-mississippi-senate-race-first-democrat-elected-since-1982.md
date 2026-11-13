@@ -2,8 +2,17 @@
 headline: Scott Colom wins Mississippi Senate race, first Democrat elected since 1982
 secondary_headline: Hyde-Smith has conceded as state GOP considers possible litigation
 publish_date: '2026-11-11'
-lede: Democrat Scott Colom will be Mississippi's next U.S. senator, according to a race call by The Associated Press. Unofficial results put him roughly 5,000 votes ahead of incumbent Republican Sen. Cindy Hyde-Smith, who has called to concede. Colom is the first Democrat elected to the Senate from Mississippi since 1982 and the first African American to represent the state in the chamber since Reconstruction.
-nut_graf: 'The outcome stands out even within the wave election that NPR host Scott Detrow said seemed to be building: he described the Mississippi result as a stunning loss for Republicans in a state that was not on the radar of many people watching for states that could flip. Colom launched his bid in late 2025 in what was seen as a long shot in a traditionally Republican stronghold, and Hyde-Smith had been projected the winner for much of the campaign season.'
+lede: Democrat Scott Colom will be Mississippi's next U.S. senator, according to a
+  race call by The Associated Press. Unofficial results put him roughly 5,000 votes
+  ahead of incumbent Republican Sen. Cindy Hyde-Smith, who has called to concede.
+  Colom is the first Democrat elected to the Senate from Mississippi since 1982 and
+  the first African American to represent the state in the chamber since Reconstruction.
+nut_graf: 'The outcome stands out even within the wave election that NPR host Scott
+  Detrow said seemed to be building: he described the Mississippi result as a stunning
+  loss for Republicans in a state that was not on the radar of many people watching
+  for states that could flip. Colom launched his bid in late 2025 in what was seen
+  as a long shot in a traditionally Republican stronghold, and Hyde-Smith had been
+  projected the winner for much of the campaign season.'
 primary_entities:
 - Scott Colom
 - Cindy Hyde-Smith
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,113 +154,58 @@ related_stories:
   headline: Democrat Scott Colom wins Mississippi Senate race over incumbent Hyde-Smith
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.9009
+  strength: 0.9002
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-seat-first-black-senator-since-reco
-  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator since Reconstruction
+  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator
+    since Reconstruction
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8801
+  strength: 0.8793
 - slug: 2026-11-11-scott-colom-leads-cindy-hyde-smith-as-mississippi-votes-remain-uncounted
   headline: Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8599
+  strength: 0.8594
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-cindy-hyde-smith
   headline: Democrat Scott Colom wins Mississippi Senate race over Cindy Hyde-Smith
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8597
+  strength: 0.8585
 - slug: 2026-11-11-scott-colom-closes-winning-mississippi-senate-campaign-with-medgar-evers-ad
-  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers ad
+  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers
+    ad
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.849
+  strength: 0.8488
 - slug: 2026-11-11-black-voters-backed-colom-by-95-points-voter-poll-found
   headline: Black voters backed Colom by 95 points, Voter Poll found
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8383
+  strength: 0.8376
 - slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
   headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8749
+  strength: 0.874
 - slug: 2026-11-11-colom-says-national-democrats-spent-almost-nothing-in-mississippi
   headline: Colom says national Democrats spent 'almost nothing' in Mississippi
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8232
-- slug: 2026-11-07-black-mississippians-react-to-scott-colom-s-historic-u-s-senate-bid
-  headline: Black Mississippians react to Scott Colom's historic U.S. Senate bid
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.8411
-- slug: 2026-11-06-scott-colom-holds-narrow-mississippi-senate-lead-amid-ballot-counting-dispute
-  headline: Scott Colom holds narrow Mississippi Senate lead amid ballot-counting dispute
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.8387
-- slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
-  headline: Democrats sweep Congress with Mississippi Senate race still counting
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.8163
-- slug: 2026-11-06-parties-trade-legal-letters-as-mississippi-counts-remaining-senate-ballots
-  headline: Parties trade legal letters as Mississippi counts remaining Senate ballots
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7924
-- slug: 2026-11-06-mississippi-senate-race-between-hyde-smith-and-colom-remains-too-early-to-call
-  headline: Mississippi Senate race between Hyde-Smith and Colom remains too early to call
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7692
-- slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
-  headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7769
-- slug: 2026-11-06-mississippi-officials-cannot-say-how-many-senate-ballots-remain-uncounted
-  headline: Mississippi officials cannot say how many Senate ballots remain uncounted
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7511
-- slug: 2026-10-30-hyde-smith-faces-colom-as-mississippi-voters-decide-senate-house-races-tuesday
-  headline: Hyde-Smith faces Colom as Mississippi voters decide Senate, House races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7843
-- slug: 2026-11-05-tight-midterm-races-remain-uncalled-as-democrats-take-control-of-congress
-  headline: Tight midterm races remain uncalled as Democrats take control of Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.734
-- slug: 2026-11-05-black-voter-turnout-propels-democratic-wins-across-the-south
-  headline: Black voter turnout propels Democratic wins across the South
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7259
-- slug: 2026-11-05-democrats-sweep-southern-elections-overturning-decades-of-gop-dominance
-  headline: Democrats sweep Southern elections, overturning decades of GOP dominance
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7103
-- slug: 2026-11-05-four-senate-and-governor-races-remain-uncalled-in-alaska-kansas-and-mississippi
-  headline: Four Senate and governor races remain uncalled in Alaska, Kansas and Mississippi
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7011
+  strength: 0.8222
 image:
   url: /articles/2026-11-11-scott-colom-wins-mississippi-senate-race-first-democrat-elected-since-1982.png
-  alt: "Illustration accompanying article: Scott Colom wins Mississippi Senate race, first Democrat elected since 1982"
+  alt: 'Illustration accompanying article: Scott Colom wins Mississippi Senate race,
+    first Democrat elected since 1982'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Scott Colom wins Mississippi Senate race, first Democrat elected since 1982
 
 **Subtype:** fact
