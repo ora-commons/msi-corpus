@@ -2,8 +2,17 @@
 headline: Police say gunman fired at officers at least twice; one victim critical
 secondary_headline: Police believe the gunman set a fire and are still seeking a motive
 publish_date: '2026-11-12'
-lede: Police believe a fire was set inside a Logan Circle apartment building and that it has been contained, interim Metropolitan Police Department chief Jefferey Carroll said Thursday. While barricaded in one of the building's apartments, the gunman fired through the door at officers at least twice, Carroll said. One of the four people injured in the shooting is in critical condition and the others have non-life-threatening injuries, and the gunman was later found dead.
-nut_graf: The shooting unfolded inside an apartment building housing a gym about a mile (1.6km) north of the White House; police said they believe a fire was set inside and that it has been contained. Authorities said they are still working to establish the exact timeline of the attack, the gunman's motivation and other details of the incident.
+lede: Police believe a fire was set inside a Logan Circle apartment building and that
+  it has been contained, interim Metropolitan Police Department chief Jefferey Carroll
+  said Thursday. While barricaded in one of the building's apartments, the gunman
+  fired through the door at officers at least twice, Carroll said. One of the four
+  people injured in the shooting is in critical condition and the others have non-life-threatening
+  injuries, and the gunman was later found dead.
+nut_graf: The shooting unfolded inside an apartment building housing a gym about a
+  mile (1.6km) north of the White House; police said they believe a fire was set inside
+  and that it has been contained. Authorities said they are still working to establish
+  the exact timeline of the attack, the gunman's motivation and other details of the
+  incident.
 primary_entities:
 - Washington DC
 - Logan Circle
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,9 +151,10 @@ related_stories:
   headline: Five shot, one fatally, in Washington's Logan Circle; suspect kills himself
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8643
+  strength: 0.8649
 - slug: 2026-11-12-five-people-shot-in-logan-circle-suspect-barricaded
-  headline: Five people shot in Washington's Logan Circle; suspect barricaded, police say
+  headline: Five people shot in Washington's Logan Circle; suspect barricaded, police
+    say
   publish_date: '2026-11-12'
   relation: related
   strength: 0.8018
@@ -151,94 +162,36 @@ related_stories:
   headline: Multiple people shot in Logan Circle area of Washington DC, police say
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7507
+  strength: 0.7502
 - slug: 2026-11-12-police-declare-barricade-after-multiple-people-shot-in-logan-circle
   headline: Police declare barricade after multiple people shot in Logan Circle
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7314
+  strength: 0.7315
 - slug: 2026-09-03-shooting-at-minneapolis-apartment-building-kills-three-wounds-five
   headline: Shooting at Minneapolis apartment building kills three, wounds five
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6791
-- slug: 2026-08-16-nypd-fatally-shoots-knife-wielding-man-on-manhattan-s-lower-east-side
-  headline: NYPD fatally shoots knife-wielding man on Manhattan's Lower East Side
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6296
+  strength: 0.6778
 - slug: 2026-05-23-suspect-dead-after-opening-fire-near-white-house-checkpoint-secret-service-says
-  headline: Suspect dead after opening fire near White House checkpoint, Secret Service says
+  headline: Suspect dead after opening fire near White House checkpoint, Secret Service
+    says
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.673
+  strength: 0.6729
 - slug: 2026-05-23-secret-service-fatally-shoots-suspect-outside-white-house-checkpoint-bystander-h
-  headline: Secret Service fatally shoots suspect outside White House checkpoint; bystander hit
+  headline: Secret Service fatally shoots suspect outside White House checkpoint;
+    bystander hit
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.6693
+  strength: 0.67
 - slug: 2026-05-25-suspect-dead-after-opening-fire-near-white-house-checkpoint-secret-service-says
-  headline: Suspect dead after opening fire near White House checkpoint, Secret Service says
+  headline: Suspect dead after opening fire near White House checkpoint, Secret Service
+    says
   publish_date: '2026-05-25'
   relation: related
-  strength: 0.6644
-- slug: 2026-05-05-secret-service-gunman-fires-at-officers-near-washington-monument-shots-exchanged
-  headline: 'Secret Service: Gunman fires at officers near Washington Monument; shots exchanged'
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.669
-- slug: 2026-05-24-secret-service-kills-gunman-outside-white-house-checkpoint-bystander-wounded
-  headline: Secret Service kills gunman outside White House checkpoint; bystander wounded
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6607
-- slug: 2026-04-27-how-security-has-changed-at-washington-hilton-since-reagan-s-shooting
-  headline: How security has changed at Washington Hilton since Reagan's shooting
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6629
-- slug: 2026-04-26-white-house-correspondents-dinner-security-what-officials-said-happened
-  headline: 'White House correspondents’ dinner security: what officials said happened'
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6602
-- slug: 2026-05-25-bystander-in-serious-condition-after-shooting-outside-white-house
-  headline: Bystander in serious condition after shooting outside White House
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6492
-- slug: 2026-04-28-washington-journalists-report-chaos-after-gunman-tries-to-storm-whca-dinner
-  headline: Washington journalists report chaos after gunman tries to storm WHCA dinner
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.657
-- slug: 2026-04-26-trump-unharmed-after-shots-during-white-house-correspondents-dinner
-  headline: Trump unharmed after shots during White House correspondents’ dinner
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6566
-- slug: 2026-05-24-bystander-in-serious-condition-after-secret-service-kills-gunman-near-white-hous
-  headline: Bystander in serious condition after Secret Service kills gunman near White House checkpoint
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6458
-- slug: 2026-04-27-what-we-know-about-security-for-trump-at-correspondents-dinner-after-shooting
-  headline: What we know about security for Trump at correspondents’ dinner after shooting
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6544
-- slug: 2026-04-28-gunman-interrupts-trump-white-house-correspondents-dinner-ap-reports
-  headline: Gunman interrupts Trump White House Correspondents’ dinner, AP reports
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6473
-- slug: 2026-06-01-seven-dead-in-iowa-shootings-police-say-stemmed-from-domestic-dispute
-  headline: Seven dead in Iowa shootings police say stemmed from domestic dispute
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.631
+  strength: 0.6645
 ---
-
 ## Police say gunman fired at officers at least twice; one victim critical
 
 **Subtype:** fact

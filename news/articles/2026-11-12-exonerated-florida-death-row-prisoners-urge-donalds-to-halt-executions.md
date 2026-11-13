@@ -1,9 +1,19 @@
 ---
 headline: Exonerated Florida death row prisoners urge Donalds to halt executions
-secondary_headline: Next week's execution will be Florida's 20th of 2026, a state record
+secondary_headline: Next week's execution will be Florida's 20th of 2026, a state
+  record
 publish_date: '2026-11-12'
-lede: Three exonerated former Florida death row prisoners called on Governor-elect Byron Donalds on Thursday to halt the state's record run of executions and review the cases of all 235 people now condemned. The appeal came at a press conference in Tallahassee, days before an execution scheduled to be Florida's 20th of the year — one more than its previous record.
-nut_graf: Florida leads the country in both executions and exonerations, and 30 people sentenced to death there since the death penalty's nationwide reintroduction in 1976 have been exonerated. The exonerees say their own overturned convictions show why Florida death sentences deserve a second look, and they want Donalds to consider a pause as he prepares to succeed Ron DeSantis, who leaves office in January having signed 50 death warrants.
+lede: Three exonerated former Florida death row prisoners called on Governor-elect
+  Byron Donalds on Thursday to halt the state's record run of executions and review
+  the cases of all 235 people now condemned. The appeal came at a press conference
+  in Tallahassee, days before an execution scheduled to be Florida's 20th of the year
+  — one more than its previous record.
+nut_graf: Florida leads the country in both executions and exonerations, and 30 people
+  sentenced to death there since the death penalty's nationwide reintroduction in
+  1976 have been exonerated. The exonerees say their own overturned convictions show
+  why Florida death sentences deserve a second look, and they want Donalds to consider
+  a pause as he prepares to succeed Ron DeSantis, who leaves office in January having
+  signed 50 death warrants.
 primary_entities:
 - Byron Donalds
 - Herman Lindsey
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +154,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-05-indiana-executes-weisheit-as-florida-alabama-plan-two-more-executions-thursday
-  headline: Indiana executes Weisheit as Florida, Alabama plan two more executions Thursday
+  headline: Indiana executes Weisheit as Florida, Alabama plan two more executions
+    Thursday
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6976
+  strength: 0.6973
 - slug: 2026-11-04-byron-donalds-wins-florida-governor-race-to-become-state-s-first-black-governor
-  headline: Byron Donalds wins Florida governor race to become state's first Black governor
+  headline: Byron Donalds wins Florida governor race to become state's first Black
+    governor
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6556
-- slug: 2026-11-04-three-states-set-thursday-executions-for-the-year-s-second-three-execution-date
-  headline: Three states set Thursday executions for the year's second three-execution date
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6505
-- slug: 2026-11-03-florida-voters-choose-between-donalds-and-jolly-on-tuesday
-  headline: Florida voters choose between Donalds and Jolly on Tuesday
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6504
+  strength: 0.6548
 - slug: 2026-10-09-desantis-withdraws-florida-death-warrant-for-74-year-old-inmate-with-dementia
   headline: DeSantis withdraws Florida death warrant for 74-year-old inmate with dementia
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7323
+  strength: 0.7316
 - slug: 2026-10-13-florida-executes-james-robertson-the-state-s-17th-execution-of-2026
   headline: Florida executes James Robertson, the state's 17th execution of 2026
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7049
+  strength: 0.7052
 - slug: 2026-10-20-william-reaves-is-put-to-death-in-florida-s-18th-execution-of-2026
   headline: William Reaves is put to death in Florida's 18th execution of 2026
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6579
+  strength: 0.6583
 - slug: 2026-09-30-fadp-calls-florida-execution-pace-unprecedented-after-beasley-execution
   headline: FADP calls Florida execution pace 'unprecedented' after Beasley execution
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7389
+  strength: 0.739
 - slug: 2026-09-29-florida-schedules-execution-of-77-year-old-for-1995-polk-county-murder
   headline: Florida schedules execution of 77-year-old for 1995 Polk County murder
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7132
+  strength: 0.7128
 - slug: 2026-09-29-florida-executes-77-year-old-beasley-as-state-s-death-chamber-hits-16-in-2026
-  headline: Florida executes 77-year-old Beasley as state's death chamber hits 16 in 2026
+  headline: Florida executes 77-year-old Beasley as state's death chamber hits 16
+    in 2026
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7094
-- slug: 2026-09-01-florida-set-to-execute-harold-gene-lucas-14th-death-of-2026
-  headline: Florida set to execute Harold Gene Lucas, 14th death of 2026
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6728
-- slug: 2026-08-18-florida-primaries-favor-moderate-democrats-donalds-leads-gop-governor-s-race
-  headline: Florida primaries favor moderate Democrats; Donalds leads GOP governor's race
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6624
-- slug: 2026-08-11-three-states-plan-same-day-executions-first-in-nearly-16-years
-  headline: Three states plan same-day executions, first in nearly 16 years
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6683
-- slug: 2026-07-13-florida-to-execute-elderly-inmates-in-july-as-death-row-ages
-  headline: Florida to execute elderly inmates in July as death row ages
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6962
-- slug: 2026-01-29-florida-schedules-third-execution-of-2026-for-billy-leon-kearse
-  headline: Florida schedules third execution of 2026 for Billy Leon Kearse
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7313
-- slug: 2026-07-16-desantis-signs-death-warrant-for-july-28-double-execution
-  headline: DeSantis signs death warrant for July 28 double execution
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6747
-- slug: 2026-07-14-florida-set-to-execute-74-year-old-state-s-oldest-inmate
-  headline: Florida set to execute 74-year-old, state's oldest inmate
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6619
-- slug: 2026-05-20-florida-executes-richard-knight-for-2002-killing-of-woman-and-her-4-year-old-dau
-  headline: Florida executes Richard Knight for 2002 killing of woman and her 4-year-old daughter
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6933
-- slug: 2026-01-10-florida-schedules-first-2026-execution-for-man-convicted-in-1989-salesman-killin
-  headline: Florida schedules first 2026 execution for man convicted in 1989 salesman killing
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.7039
-- slug: 2026-01-23-florida-sets-execution-date-for-man-convicted-of-1986-grocery-store-killing
-  headline: Florida sets execution date for man convicted of 1986 grocery store killing
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6794
+  strength: 0.7095
 ---
-
 ## Exonerated Florida death row prisoners urge Donalds to halt executions
 
 **Subtype:** fact

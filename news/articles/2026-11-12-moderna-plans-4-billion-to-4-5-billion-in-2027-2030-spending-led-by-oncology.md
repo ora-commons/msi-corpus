@@ -1,9 +1,23 @@
 ---
 headline: Moderna plans $4 billion to $4.5 billion in 2027-2030 spending, led by oncology
-secondary_headline: Merck KGaA raises full-year guidance after third-quarter beat; analysts eye 2027
+secondary_headline: Merck KGaA raises full-year guidance after third-quarter beat;
+  analysts eye 2027
 publish_date: '2026-11-12'
-lede: Moderna said it expects to spend about $4 billion to $4.5 billion from 2027 through 2030, with the cash costs driven primarily by plans to increase investments in oncology. The company is working with partner Merck toward commercializing intismeran, its personalized melanoma vaccine, in the U.S., where a purpose-built Massachusetts facility is on track to support a potential commercial launch. Germany's Merck KGaA raised its full-year guidance after third-quarter sales beat expectations across all its businesses, according to J.P. Morgan analysts.
-nut_graf: 'Moderna''s disclosures lay out how the vaccine maker plans to fund its next phase: growth in the infectious-disease franchise covers future investments there, while balance-sheet capital goes toward intismeran, cancer antigen therapies, rare diseases and emerging modalities. Analyst commentary on Merck KGaA split over whether the momentum extends: Bank of America forecasts annual growth of around 12% in adjusted earnings per share over 2027-2030, while UBS said accelerating generic competition for Mavenclad, potential competition for Ogsiveo and more normalized growth in its life-science segment could make 2027 a tougher year.'
+lede: Moderna said it expects to spend about $4 billion to $4.5 billion from 2027
+  through 2030, with the cash costs driven primarily by plans to increase investments
+  in oncology. The company is working with partner Merck toward commercializing intismeran,
+  its personalized melanoma vaccine, in the U.S., where a purpose-built Massachusetts
+  facility is on track to support a potential commercial launch. Germany's Merck KGaA
+  raised its full-year guidance after third-quarter sales beat expectations across
+  all its businesses, according to J.P. Morgan analysts.
+nut_graf: 'Moderna''s disclosures lay out how the vaccine maker plans to fund its
+  next phase: growth in the infectious-disease franchise covers future investments
+  there, while balance-sheet capital goes toward intismeran, cancer antigen therapies,
+  rare diseases and emerging modalities. Analyst commentary on Merck KGaA split over
+  whether the momentum extends: Bank of America forecasts annual growth of around
+  12% in adjusted earnings per share over 2027-2030, while UBS said accelerating generic
+  competition for Mavenclad, potential competition for Ogsiveo and more normalized
+  growth in its life-science segment could make 2027 a tougher year.'
 primary_entities:
 - Moderna
 - Merck KGaA
@@ -43,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +160,45 @@ related_stories:
   headline: Moderna swings to $162 million profit, lifts full-year revenue outlook
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7739
-- slug: 2026-11-08-mercer-projects-total-per-employee-health-benefit-cost-rising-8-2-after-planned-
-  headline: Mercer projects total per-employee health benefit cost rising 8.2% after planned cost cuts in 2027
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6482
+  strength: 0.7749
 - slug: 2026-10-23-moderna-s-melanoma-vaccine-cuts-recurrence-risk-stock-falls-19
   headline: Moderna's melanoma vaccine cuts recurrence risk; stock falls 19%
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7281
+  strength: 0.7253
 - slug: 2026-10-22-personalized-mrna-vaccine-added-to-keytruda-cuts-two-year-melanoma-recurrence-ri
-  headline: Personalized mRNA vaccine added to Keytruda cuts two-year melanoma recurrence risk by 42% in trial
+  headline: Personalized mRNA vaccine added to Keytruda cuts two-year melanoma recurrence
+    risk by 42% in trial
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7271
+  strength: 0.725
 - slug: 2026-10-29-merck-tops-wall-street-q3-estimates-lifts-full-year-guidance
   headline: Merck tops Wall Street Q3 estimates, lifts full-year guidance
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6798
-- slug: 2026-11-04-mcdonald-s-global-same-store-sales-top-analyst-forecasts-in-third-quarter
-  headline: McDonald’s global same-store sales top analyst forecasts in third quarter
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6103
+  strength: 0.679
 - slug: 2026-10-26-merck-melanoma-trial-finds-a-42-reduction-in-recurrence-or-death
   headline: Merck melanoma trial finds a 42% reduction in recurrence or death
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.657
-- slug: 2026-11-02-apollo-ceo-rowan-expects-about-50-billion-to-75-billion-of-2026-financing-to-go-
-  headline: Apollo CEO Rowan expects about $50 billion to $75 billion of 2026 financing to go toward energy
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6086
-- slug: 2026-10-27-novartis-raises-profit-guidance-as-lower-costs-drive-third-quarter-earnings-beat
-  headline: Novartis raises profit guidance as lower costs drive third-quarter earnings beat
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6329
-- slug: 2026-10-27-centene-raises-2026-guidance-after-third-quarter-loss-of-71-million
-  headline: Centene raises 2026 guidance after third-quarter loss of $71 million
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.629
-- slug: 2026-10-14-morgan-stanley-raises-brent-forecast-as-bp-posts-strong-q3-update
-  headline: Morgan Stanley raises Brent forecast as BP posts strong Q3 update
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6093
-- slug: 2026-10-09-humana-says-18-medicare-advantage-contracts-earn-at-least-four-stars-for-2027
-  headline: Humana says 18 Medicare Advantage contracts earn at least four stars for 2027
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6241
+  strength: 0.6548
 - slug: 2026-08-22-moderna-s-personalized-cancer-vaccine-clears-phase-3-melanoma-trial
   headline: Moderna's personalized cancer vaccine clears phase 3 melanoma trial
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.754
-- slug: 2026-10-08-analyst-notes-move-health-care-shares-fresenius-gland-ihh-astrazeneca
-  headline: 'Analyst notes move health care shares: Fresenius, Gland, IHH, AstraZeneca'
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6163
+  strength: 0.7527
 - slug: 2026-08-19-moderna-shares-more-than-double-after-melanoma-trial
   headline: Moderna shares more than double after melanoma trial
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.7243
+  strength: 0.7233
 - slug: 2026-08-20-merck-and-moderna-melanoma-vaccine-extends-cancer-free-period-in-phase-3-trial
-  headline: Merck and Moderna melanoma vaccine extends cancer-free period in phase 3 trial
+  headline: Merck and Moderna melanoma vaccine extends cancer-free period in phase
+    3 trial
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.6829
-- slug: 2026-09-11-ipsen-weighs-return-of-u-s-manufacturing-plant-amid-tariff-pressure
-  headline: Ipsen weighs return of U.S. manufacturing plant amid tariff pressure
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6165
-- slug: 2026-06-30-mixed-analyst-notes-flag-labor-consumer-risks-while-roche-neuren-prospects-brigh
-  headline: Mixed analyst notes flag labor, consumer risks while Roche, Neuren prospects brighten
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6422
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6224
-- slug: 2026-07-22-molina-healthcare-profit-falls-as-membership-declines
-  headline: Molina Healthcare profit falls as membership declines
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6212
+  strength: 0.6811
 ---
-
 ## Moderna plans $4 billion to $4.5 billion in 2027-2030 spending, led by oncology
 
 **Subtype:** fact

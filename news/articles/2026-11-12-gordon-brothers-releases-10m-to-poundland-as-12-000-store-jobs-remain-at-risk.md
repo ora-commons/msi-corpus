@@ -1,9 +1,18 @@
 ---
-headline: Gordon Brothers releases £10m to Poundland as 12,000 store jobs remain at risk
+headline: Gordon Brothers releases £10m to Poundland as 12,000 store jobs remain at
+  risk
 secondary_headline: Barry Williams told MPs Poundland made an £18.1m operating profit
 publish_date: '2026-11-12'
-lede: Poundland received a £10m cash release from its US owner, Gordon Brothers, on Tuesday, according to a Guardian opinion column by Polly Toynbee published on 12 November. The payment does not cover the £50m the owners had withheld for new stock and wages, but it prevented an instant collapse of the 600-store chain, where about 12,000 jobs are at risk along with 30,000 more in its supply chains.
-nut_graf: 'The dispute has drawn demands for answers from Andy Burnham and a company-law reform campaign from Liam Byrne, chair of the Commons business and trade committee. As the Guardian column describes the arrangement, Gordon Brothers is both Poundland''s owner and its creditor: it comes top of the repayment list in administration, ahead of staff owed wages, and redundancy would fall to taxpayers if no money remains.'
+lede: Poundland received a £10m cash release from its US owner, Gordon Brothers, on
+  Tuesday, according to a Guardian opinion column by Polly Toynbee published on 12
+  November. The payment does not cover the £50m the owners had withheld for new stock
+  and wages, but it prevented an instant collapse of the 600-store chain, where about
+  12,000 jobs are at risk along with 30,000 more in its supply chains.
+nut_graf: 'The dispute has drawn demands for answers from Andy Burnham and a company-law
+  reform campaign from Liam Byrne, chair of the Commons business and trade committee.
+  As the Guardian column describes the arrangement, Gordon Brothers is both Poundland''s
+  owner and its creditor: it comes top of the repayment list in administration, ahead
+  of staff owed wages, and redundancy would fall to taxpayers if no money remains.'
 primary_entities:
 - Poundland
 - Gordon Brothers
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +156,35 @@ related_stories:
   headline: Gordon Brothers limits Poundland cash, leaving 600 shops short of stock
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8707
+  strength: 0.8694
 - slug: 2026-11-12-poundland-wins-two-more-weeks-of-creditor-protection-as-owner-weighs-three-bids
-  headline: Poundland wins two more weeks of creditor protection as owner weighs three bids
+  headline: Poundland wins two more weeks of creditor protection as owner weighs three
+    bids
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8238
+  strength: 0.8233
 - slug: 2026-11-04-poundland-suppliers-urge-owner-to-explore-alternatives-to-break-up
   headline: Poundland suppliers urge owner to explore alternatives to break-up
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.82
+  strength: 0.8194
 - slug: 2026-11-03-uk-government-pressures-gordon-brothers-over-poundland-rescue-bids
   headline: UK government pressures Gordon Brothers over Poundland rescue bids
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7929
+  strength: 0.7919
 - slug: 2026-11-05-xyra-offers-partial-debt-payment-in-bid-to-rescue-poundland
   headline: Xyra offers partial debt payment in bid to rescue Poundland
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.76
+  strength: 0.759
 - slug: 2026-10-30-poundland-files-notice-to-appoint-administrators-as-owner-rejects-rescue-bid
-  headline: Poundland files notice to appoint administrators as owner rejects rescue bid
+  headline: Poundland files notice to appoint administrators as owner rejects rescue
+    bid
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7843
-- slug: 2026-10-20-daisy-cooper-urges-windfall-tax-on-banks-as-badenoch-rejects-one
-  headline: Daisy Cooper urges windfall tax on banks as Badenoch rejects one
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5728
-- slug: 2026-10-09-crown-estate-pays-mountbatten-windsor-302-000-for-early-royal-lodge-surrender
-  headline: Crown Estate pays Mountbatten-Windsor £302,000 for early Royal Lodge surrender
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5957
-- slug: 2026-10-14-guardian-column-catalogues-palantir-uk-contracts-and-political-access
-  headline: Guardian column catalogues Palantir UK contracts and political access
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.5739
-- slug: 2026-10-12-albertsons-says-mcmullen-rejected-800m-price-cut-never-told-board
-  headline: Albertsons says McMullen rejected $800M price cut, never told board
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5681
-- slug: 2026-10-09-watson-says-palantir-would-work-with-reform-uk-on-immigration
-  headline: Watson says Palantir would work with Reform UK on immigration
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5704
-- slug: 2026-10-09-tuc-analysis-says-2023-bank-surcharge-cut-cost-uk-6bn-in-lost-revenue
-  headline: TUC analysis says 2023 bank surcharge cut cost UK £6bn in lost revenue
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5701
-- slug: 2026-10-05-australian-greens-pitch-25-1bn-public-supermarket-plan
-  headline: Australian Greens pitch $25.1bn public-supermarket plan
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5779
-- slug: 2026-10-03-griffith-leak-shows-shadow-cabinet-discussed-further-uk-conservative-cuts
-  headline: Griffith leak shows shadow cabinet discussed further UK Conservative cuts
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5683
-- slug: 2026-09-18-brewdog-workers-owed-wages-to-receive-nothing-administrators-report
-  headline: Brewdog workers owed wages to receive nothing, administrators report
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6123
-- slug: 2026-09-20-polymarket-ceo-told-compliance-staff-to-keep-growing-during-10m-fraud-attack
-  headline: Polymarket CEO told compliance staff to 'keep growing' during $10M fraud attack
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5678
-- slug: 2026-09-18-cross-party-mps-urge-ministers-to-break-off-thames-water-hedge-fund-talks
-  headline: Cross-party MPs urge ministers to break off Thames Water hedge fund talks
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5715
-- slug: 2026-09-05-jaguar-land-rover-opens-voluntary-redundancy-programme-for-uk-staff
-  headline: Jaguar Land Rover opens voluntary redundancy programme for UK staff
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.5969
-- slug: 2026-09-08-jaguar-land-rover-cuts-4-000-uk-jobs-as-suppliers-warn-of-wider-decline
-  headline: Jaguar Land Rover cuts 4,000 UK jobs as suppliers warn of wider decline
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5872
-- slug: 2026-07-23-badenoch-says-burnham-governing-like-manchester-mayor-demands-tax-pledge
-  headline: Badenoch says Burnham governing like Manchester mayor, demands tax pledge
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5825
+  strength: 0.7831
 ---
-
 ## Gordon Brothers releases £10m to Poundland as 12,000 store jobs remain at risk
 
 **Subtype:** fact
