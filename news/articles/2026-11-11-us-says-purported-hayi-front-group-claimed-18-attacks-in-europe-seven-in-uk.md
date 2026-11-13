@@ -1,9 +1,27 @@
 ---
-headline: US says purported HAYI front group claimed 18 attacks in Europe, seven in UK
-secondary_headline: Indictment details disguised vans, petrol and perimeter surveillance near RAF Fairford
+headline: US says purported HAYI front group claimed 18 attacks in Europe, seven in
+  UK
+secondary_headline: Indictment details disguised vans, petrol and perimeter surveillance
+  near RAF Fairford
 publish_date: '2026-11-11'
-lede: A purported front group using the pseudonym Harakat Ashab al-Yamin al-Islamiya (The Islamic Movement of the People of the Right Hand — HAYI) claimed responsibility for 18 attacks across Europe in the spring of 2026, seven of them in the UK, according to the US Department of Justice. The identification appears in an eight-count indictment unsealed Tuesday against three Iran-backed operatives, and the DOJ statement describes the claimed attacks as involving "arsons, explosives, and in one instance, a near-fatal stabbing in London of two Jewish men, including a dual US-British citizen". The stabbing took place in Golders Green, north London, in April, and a suspect is due to stand trial next year.
-nut_graf: The indictment's most detailed allegations concern the September incident near RAF Fairford, the Gloucestershire base where US armed forces were stationed and where a major incident was declared on 27 September. The DOJ alleges Mohammad Ali al-Hassani paid one individual to perform pre-operational surveillance of the base's perimeter on 22 August and procured three vans disguised as a fuel delivery business and a swimming pool supply business, at least two of which encountered a security roadblock. The US later withdrew all its bombers from the base, with President Donald Trump citing "some threats" as the reason, while Iran has strongly denied any involvement in the incident.
+lede: A purported front group using the pseudonym Harakat Ashab al-Yamin al-Islamiya
+  (The Islamic Movement of the People of the Right Hand — HAYI) claimed responsibility
+  for 18 attacks across Europe in the spring of 2026, seven of them in the UK, according
+  to the US Department of Justice. The identification appears in an eight-count indictment
+  unsealed Tuesday against three Iran-backed operatives, and the DOJ statement describes
+  the claimed attacks as involving "arsons, explosives, and in one instance, a near-fatal
+  stabbing in London of two Jewish men, including a dual US-British citizen". The
+  stabbing took place in Golders Green, north London, in April, and a suspect is due
+  to stand trial next year.
+nut_graf: The indictment's most detailed allegations concern the September incident
+  near RAF Fairford, the Gloucestershire base where US armed forces were stationed
+  and where a major incident was declared on 27 September. The DOJ alleges Mohammad
+  Ali al-Hassani paid one individual to perform pre-operational surveillance of the
+  base's perimeter on 22 August and procured three vans disguised as a fuel delivery
+  business and a swimming pool supply business, at least two of which encountered
+  a security roadblock. The US later withdrew all its bombers from the base, with
+  President Donald Trump citing "some threats" as the reason, while Iran has strongly
+  denied any involvement in the incident.
 primary_entities:
 - Harakat Ashab al-Yamin al-Islamiya (HAYI)
 - United States
@@ -47,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +168,45 @@ related_stories:
   headline: Three men face U.S. charges over alleged Iran-linked attack plots
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7957
+  strength: 0.7965
 - slug: 2026-11-10-indictment-says-coded-calls-directed-co-conspirators-to-buy-large-amounts-of-che
-  headline: Indictment says coded calls directed co-conspirators to buy large amounts of chemicals
+  headline: Indictment says coded calls directed co-conspirators to buy large amounts
+    of chemicals
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7379
+  strength: 0.7382
 - slug: 2026-10-27-uk-prosecutors-charge-two-men-over-suspected-iranian-plot-at-raf-fairford
   headline: UK prosecutors charge two men over suspected Iranian plot at RAF Fairford
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6935
+  strength: 0.6942
 - slug: 2026-10-11-western-officials-weigh-public-warning-that-iran-eyes-us-targets-in-europe
   headline: Western officials weigh public warning that Iran eyes US targets in Europe
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.749
+  strength: 0.7498
 - slug: 2026-10-20-inquiry-into-planned-raf-fairford-attack-involves-seven-men-after-re-arrests
   headline: Inquiry into planned RAF Fairford attack involves seven men after re-arrests
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6781
+  strength: 0.6787
 - slug: 2026-10-12-uk-formally-attributes-fairford-incident-to-irgc-further-sanctions-to-follow
-  headline: UK formally attributes Fairford incident to IRGC; further sanctions to follow
+  headline: UK formally attributes Fairford incident to IRGC; further sanctions to
+    follow
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6978
+  strength: 0.6981
 - slug: 2026-09-28-farmer-s-midnight-call-leads-to-five-arrests-near-raf-fairford
   headline: Farmer's midnight call leads to five arrests near RAF Fairford
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7469
+  strength: 0.748
 - slug: 2026-10-12-britain-sanctions-two-accused-of-spying-for-iran-reprimands-ambassador
   headline: Britain sanctions two accused of spying for Iran, reprimands ambassador
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6857
-- slug: 2026-10-08-us-pulls-12-b-1-bombers-from-raf-fairford-over-suspected-iranian-drone-plot
-  headline: US pulls 12 B-1 bombers from RAF Fairford over suspected Iranian drone plot
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6832
-- slug: 2026-09-29-five-men-released-on-bail-after-raf-fairford-terror-plot-arrests
-  headline: Five men released on bail after RAF Fairford terror plot arrests
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7111
-- slug: 2026-09-29-uk-frees-raf-fairford-suspects-as-u-s-cites-thursday-bomb-threat-briefing
-  headline: UK frees RAF Fairford suspects as U.S. cites Thursday bomb threat briefing
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7066
-- slug: 2026-10-01-uk-police-arrest-dual-national-in-fairford-terror-probe-iran-denies-link
-  headline: UK police arrest dual national in Fairford terror probe; Iran denies link
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6963
-- slug: 2026-10-03-sixth-suspect-in-fairford-terror-probe-freed-on-bail
-  headline: Sixth suspect in Fairford terror probe freed on bail
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6843
-- slug: 2026-10-05-u-s-pulls-12-b-1-bombers-from-u-k-base-over-iranian-drone-plot
-  headline: U.S. pulls 12 B-1 bombers from U.K. base over Iranian drone plot
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6678
-- slug: 2026-09-28-police-identify-five-arrested-near-raf-fairford-as-london-men-in-their-20s
-  headline: Police identify five arrested near RAF Fairford as London men in their 20s
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6867
-- slug: 2026-09-28-uk-probes-motives-beyond-iran-link-in-raf-fairford-arrests
-  headline: UK probes motives beyond Iran link in RAF Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.682
-- slug: 2026-09-28-u-s-reportedly-raises-threat-level-at-three-uk-bases-after-fairford-arrests
-  headline: U.S. reportedly raises threat level at three UK bases after Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6807
-- slug: 2026-09-28-streeting-says-uk-security-forces-knew-of-raf-fairford-bomb-plot-in-advance
-  headline: Streeting says UK security forces knew of RAF Fairford bomb plot in advance
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6786
-- slug: 2026-09-27-uk-police-arrest-five-near-raf-fairford-on-terrorism-suspicion
-  headline: UK police arrest five near RAF Fairford on terrorism suspicion
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6785
-- slug: 2026-09-28-uk-arrests-five-near-raf-fairford-on-terrorism-charges-releases-all-on-bail
-  headline: UK arrests five near RAF Fairford on terrorism charges, releases all on bail
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6642
+  strength: 0.6864
 ---
-
 ## US says purported HAYI front group claimed 18 attacks in Europe, seven in UK
 
 **Subtype:** fact

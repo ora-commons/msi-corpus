@@ -1,9 +1,23 @@
 ---
 headline: New Orleans archdiocese adds Paul Hart to credibly accused clergy list
-secondary_headline: Trahant paid the fine after the Supreme Court declined to hear his case
+secondary_headline: Trahant paid the fine after the Supreme Court declined to hear
+  his case
 publish_date: '2026-11-11'
-lede: The New Orleans archdiocese added the late priest Paul Hart to its list of priests and deacons facing credible clergy abuse claims on 6 November, bringing the list to 106 names. Richard Trahant, the attorney who was fined $400,000 after flagging Hart's past to a New Orleans Catholic high school while representing clergy abuse claimants in the archdiocese's bankruptcy, said days later that the listing was worth the cost. Trahant said he interpreted Hart's inclusion as an admission that archdiocesan and court officials had mishandled his case.
-nut_graf: The addition carries weight beyond Hart's own file. The credibly accused list is a key provision of the archdiocese's bankruptcy settlement, and records tied to the names on it are to be preserved in a public archive rather than kept confidential. The listing arrives years after the documented price for surfacing Hart's past fell on the lawyer who surfaced it — a $400,000 fine that grew by $60,000 in interest — and on four of his clients, while Hart, whose misconduct the Guardian described as admitted but largely unpunished, retired and died before the church officially classified him as an abuser.
+lede: The New Orleans archdiocese added the late priest Paul Hart to its list of priests
+  and deacons facing credible clergy abuse claims on 6 November, bringing the list
+  to 106 names. Richard Trahant, the attorney who was fined $400,000 after flagging
+  Hart's past to a New Orleans Catholic high school while representing clergy abuse
+  claimants in the archdiocese's bankruptcy, said days later that the listing was
+  worth the cost. Trahant said he interpreted Hart's inclusion as an admission that
+  archdiocesan and court officials had mishandled his case.
+nut_graf: The addition carries weight beyond Hart's own file. The credibly accused
+  list is a key provision of the archdiocese's bankruptcy settlement, and records
+  tied to the names on it are to be preserved in a public archive rather than kept
+  confidential. The listing arrives years after the documented price for surfacing
+  Hart's past fell on the lawyer who surfaced it — a $400,000 fine that grew by $60,000
+  in interest — and on four of his clients, while Hart, whose misconduct the Guardian
+  described as admitted but largely unpunished, retired and died before the church
+  officially classified him as an abuser.
 primary_entities:
 - Archdiocese of New Orleans
 - Paul Hart
@@ -43,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +160,40 @@ related_stories:
   headline: New York archdiocese reaches $800M clergy-abuse claims deal, pending sign-offs
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6796
+  strength: 0.6811
 - slug: 2026-07-01-supreme-court-leaves-400-000-fine-in-place-against-lawyer-who-flagged-priest-s-p
-  headline: Supreme Court leaves $400,000 fine in place against lawyer who flagged priest's past
+  headline: Supreme Court leaves $400,000 fine in place against lawyer who flagged
+    priest's past
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.8311
+  strength: 0.8302
 - slug: 2026-09-16-new-orleans-priest-accused-of-deaf-community-abuse-dies-at-87
   headline: New Orleans priest accused of deaf-community abuse dies at 87
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7041
-- slug: 2026-10-13-investigation-finds-pennsylvania-post-conviction-lawyers-allow-years-of-delay
-  headline: Investigation Finds Pennsylvania Post-Conviction Lawyers Allow Years of Delay
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6027
+  strength: 0.7055
 - slug: 2026-08-28-new-orleans-catholic-abuse-survivors-call-bankruptcy-amounts-a-farce
   headline: New Orleans Catholic abuse survivors call bankruptcy amounts 'a farce'
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7338
-- slug: 2026-09-30-massachusetts-ag-finds-270-catholic-clerics-abused-nearly-1-000-children
-  headline: Massachusetts AG finds 270+ Catholic clerics abused nearly 1,000 children
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5904
-- slug: 2026-09-30-holmes-complaint-against-wwl-invokes-louisiana-statute-repealed-weeks-earlier
-  headline: Holmes complaint against WWL invokes Louisiana statute repealed weeks earlier
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5882
-- slug: 2026-09-02-christian-law-enforcement-fellowship-drops-convicted-ex-deputy-chaplain
-  headline: Christian Law Enforcement Fellowship drops convicted ex-deputy chaplain
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5945
-- slug: 2026-08-27-california-lawmakers-weigh-liability-caps-as-abuse-claims-drive-billions-in-cost
-  headline: California lawmakers weigh liability caps as abuse claims drive billions in costs
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6007
+  strength: 0.7353
 - slug: 2026-06-15-church-extended-priest-s-term-despite-years-of-misconduct-complaints
   headline: Church extended priest's term despite years of misconduct complaints
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.6532
-- slug: 2026-06-29-san-francisco-archdiocese-to-pay-395m-to-settle-abuse-claims
-  headline: San Francisco archdiocese to pay $395M to settle abuse claims
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6398
+  strength: 0.6558
 - slug: 2026-02-19-new-jersey-diocese-to-pay-180-million-in-clergy-abuse-settlement-ap-says
-  headline: New Jersey diocese to pay $180 million in clergy abuse settlement, AP says
+  headline: New Jersey diocese to pay $180 million in clergy abuse settlement, AP
+    says
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.6727
-- slug: 2026-06-02-texas-jury-to-decide-sentence-for-catholic-priest-convicted-of-sexual-assault
-  headline: Texas jury to decide sentence for Catholic priest convicted of sexual assault
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6419
-- slug: 2026-06-06-louisiana-church-reverses-now-prays-for-abuse-victims-after-backlash-over-prayer
-  headline: Louisiana church reverses, now prays for abuse victims after backlash over prayer for convicted priest
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6366
-- slug: 2026-06-20-louisiana-pastor-sentenced-to-80-years-for-molesting-two-boys
-  headline: Louisiana pastor sentenced to 80 years for molesting two boys
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6263
-- slug: 2026-05-06-orleans-parish-school-board-votes-to-settle-2019-lawsuit-with-city
-  headline: Orleans Parish School Board votes to settle 2019 lawsuit with city
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6425
+  strength: 0.6728
 - slug: 2026-03-05-what-to-know-about-the-child-abuse-investigation-into-catholic-priests
   headline: What to know about the child abuse investigation into Catholic priests
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.6495
-- slug: 2026-03-04-rhode-island-ag-report-finds-75-priests-abused-more-than-300-children-since-1950
-  headline: Rhode Island AG report finds 75 priests abused more than 300 children since 1950
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6465
-- slug: 2026-02-19-new-jersey-diocese-of-camden-agrees-to-180m-clergy-abuse-settlement
-  headline: New Jersey Diocese of Camden agrees to $180M clergy abuse settlement
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6458
-- slug: 2026-06-05-jesuit-school-in-new-orleans-agrees-to-seven-figure-abuse-settlement
-  headline: Jesuit school in New Orleans agrees to seven-figure abuse settlement
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6165
+  strength: 0.6512
 ---
-
 ## New Orleans archdiocese adds Paul Hart to credibly accused clergy list
 
 **Subtype:** fact
