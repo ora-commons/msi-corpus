@@ -1,9 +1,17 @@
 ---
 headline: Biden says he would not have sought reelection if he had known he had cancer
-secondary_headline: Biden defends Hunter pardon, saying Trump goes after people 'without any basis'
+secondary_headline: Biden defends Hunter pardon, saying Trump goes after people 'without
+  any basis'
 publish_date: '2026-11-11'
-lede: Former President Joe Biden says he did not know he had cancer while in office and would not have sought a second term if he had already been diagnosed. Biden made the remarks in an interview with People magazine ahead of the Tuesday release of his White House memoir.
-nut_graf: The interview lays out Biden's answers to the questions that ended his 2024 reelection campaign — his age, his health and his June 2024 debate performance — and restates his defense of the pardon he granted his son Hunter Biden after Hunter's 2024 conviction on federal felony gun charges and his guilty plea to federal tax charges.
+lede: Former President Joe Biden says he did not know he had cancer while in office
+  and would not have sought a second term if he had already been diagnosed. Biden
+  made the remarks in an interview with People magazine ahead of the Tuesday release
+  of his White House memoir.
+nut_graf: The interview lays out Biden's answers to the questions that ended his 2024
+  reelection campaign — his age, his health and his June 2024 debate performance —
+  and restates his defense of the pardon he granted his son Hunter Biden after Hunter's
+  2024 conviction on federal felony gun charges and his guilty plea to federal tax
+  charges.
 primary_entities:
 - Joe Biden
 - Donald Trump
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +152,46 @@ related_stories:
   headline: Biden memoir excerpt accuses Trump of leading the January 6 attack
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7302
+  strength: 0.7301
 - slug: 2026-11-09-lauren-bis-calls-biden-the-worst-president-in-american-history
   headline: Lauren Bis calls Biden the worst president in American history
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7062
+  strength: 0.706
 - slug: 2026-11-09-biden-s-memoir-says-doge-put-hundreds-of-thousands-out-of-work-without-touted-sa
-  headline: Biden's memoir says DOGE put hundreds of thousands out of work without touted savings
+  headline: Biden's memoir says DOGE put hundreds of thousands out of work without
+    touted savings
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6601
-- slug: 2026-11-10-trump-s-transition-letter-reveals-private-praise-for-biden
-  headline: Trump's transition letter reveals private praise for Biden
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6425
+  strength: 0.6603
 - slug: 2026-08-08-hunter-biden-says-father-s-cancer-metastasized-to-his-bones
   headline: Hunter Biden says father's cancer metastasized to his bones
   publish_date: '2026-08-08'
   relation: related
-  strength: 0.7991
+  strength: 0.7987
 - slug: 2026-08-11-hunter-biden-steps-up-media-appearances-from-carlson-to-fuentes
   headline: Hunter Biden steps up media appearances from Carlson to Fuentes
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.7279
+  strength: 0.7276
 - slug: 2026-08-15-hunter-biden-conducts-wide-ranging-media-tour-across-podcasts-and-substack
   headline: Hunter Biden conducts wide-ranging media tour across podcasts and Substack
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.7189
+  strength: 0.7183
 - slug: 2026-06-03-jill-biden-says-she-regrets-not-discussing-hunter-biden-s-addiction-while-in-whi
-  headline: Jill Biden says she regrets not discussing Hunter Biden's addiction while in White House
+  headline: Jill Biden says she regrets not discussing Hunter Biden's addiction while
+    in White House
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.756
-- slug: 2026-09-16-white-house-chief-of-staff-wiles-says-she-is-cancer-free
-  headline: White House chief of staff Wiles says she is cancer-free
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6166
+  strength: 0.7558
 - slug: 2026-06-02-jill-biden-feared-joe-biden-had-stroke-after-2024-debate-doctors-checked-him-imm
-  headline: Jill Biden feared Joe Biden had stroke after 2024 debate, doctors checked him immediately
+  headline: Jill Biden feared Joe Biden had stroke after 2024 debate, doctors checked
+    him immediately
   publish_date: '2026-06-02'
   relation: related
-  strength: 0.7496
-- slug: 2026-05-27-jill-biden-feared-husband-joe-was-having-a-stroke-during-2024-debate
-  headline: Jill Biden feared husband Joe was having a stroke during 2024 debate
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7434
-- slug: 2026-06-16-clinton-says-biden-s-re-election-bid-was-a-terrible-mistake-that-cost-democrats-
-  headline: Clinton says Biden's re-election bid was a 'terrible mistake' that cost Democrats the presidency
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7079
-- slug: 2026-07-15-biden-to-publish-memoir-promise-me-america-after-midterms
-  headline: Biden to publish memoir 'Promise Me, America' after midterms
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6647
-- slug: 2026-05-29-in-memoir-jill-biden-questions-response-to-joe-biden-s-debate-performance
-  headline: In Memoir, Jill Biden Questions Response to Joe Biden's Debate Performance
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6938
-- slug: 2026-06-06-columnist-accuses-jill-biden-of-rewriting-history-in-memoir
-  headline: Columnist accuses Jill Biden of rewriting history in memoir
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6703
-- slug: 2026-03-11-jill-biden-details-joe-biden-s-2024-reelection-exit-in-upcoming-memoir
-  headline: Jill Biden details Joe Biden’s 2024 reelection exit in upcoming memoir
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.6814
-- slug: 2026-06-28-biden-calls-trump-a-loser-derides-reflecting-pool-renovation
-  headline: Biden calls Trump 'a loser,' derides reflecting pool renovation
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.643
-- slug: 2026-06-03-jilly-i-had-no-choice-jill-biden-recounts-pressure-on-joe-to-exit-2024-race
-  headline: 'Jilly, I had no choice": Jill Biden recounts pressure on Joe to exit 2024 race'
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6569
-- slug: 2026-03-10-jill-biden-opens-up-in-memoir-on-decision-to-end-2024-reelection-bid
-  headline: Jill Biden opens up in memoir on decision to end 2024 reelection bid
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6725
-- slug: 2026-07-14-hunter-biden-says-rule-of-law-prevailed-after-1-7m-defamation-judgment
-  headline: Hunter Biden says 'rule of law prevailed' after $1.7M defamation judgment
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6104
+  strength: 0.7493
 ---
-
 ## Biden says he would not have sought reelection if he had known he had cancer
 
 **Subtype:** fact
