@@ -131,6 +131,8 @@ related_stories:
   publish_date: '2026-09-20'
   relation: related
   strength: 0.6858
+analyses:
+- '2026-11-12-cheap-missiles-erode-the-mutual-assured-destruction-equilibrium'
 ---
 ## Cheap, precise ballistic missiles force a rethink of U.S. military posture
 
@@ -179,3 +181,8 @@ Retired Lt. Gen. Ben Hodges, a former commander of the U.S. Army in Europe, agre
 **Publication date:** 2026-11-12
 **Title:** The Spread of Cheaper Ballistic Missiles Rips Up Decades of Military Thinking
 **URL:** https://www.wsj.com/world/the-spread-of-cheaper-ballistic-missiles-rips-up-decades-of-military-thinking-e6ef7fac
+
+---
+
+<!-- analysis-link:2026-11-12-cheap-missiles-erode-the-mutual-assured-destruction-equilibrium -->
+**Going deeper:** [Read MSI's analysis of mutually assured destruction and interceptor scarcity →](/analyses/2026-11-12-cheap-missiles-erode-the-mutual-assured-destruction-equilibrium)

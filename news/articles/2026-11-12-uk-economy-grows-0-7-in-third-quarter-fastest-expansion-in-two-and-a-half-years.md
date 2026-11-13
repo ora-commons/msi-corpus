@@ -1,9 +1,20 @@
 ---
-headline: UK economy grows 0.7% in third quarter, fastest expansion in two and a half years
-secondary_headline: AI-related spending added 0.3 to 0.4 points to growth, Deutsche Bank estimates
+headline: UK economy grows 0.7% in third quarter, fastest expansion in two and a half
+  years
+secondary_headline: AI-related spending added 0.3 to 0.4 points to growth, Deutsche
+  Bank estimates
 publish_date: '2026-11-12'
-lede: The UK economy grew 0.7% in the third quarter, its fastest expansion in two and a half years, leaving Britain as the second-fastest growing economy in the G7 this year. The reading defies the forecasts that met John Healey when he became chancellor in July, when the most optimistic City analyst expected just 0.3% growth and most expected a figure close to zero. Deutsche Bank estimates AI-related spending has added about 0.3% to 0.4% to GDP growth this year.
-nut_graf: 'Both of Britain''s recent growth engines now face a tougher period ahead, according to the Guardian''s analysis: an AI investment boom rattled by fears of a stock bubble, and household spending heading into a winter in which energy bills are poised to rise by about a quarter. City investors expect further Bank of England rate increases that would slow the economy and add to the squeeze on living standards.'
+lede: The UK economy grew 0.7% in the third quarter, its fastest expansion in two
+  and a half years, leaving Britain as the second-fastest growing economy in the G7
+  this year. The reading defies the forecasts that met John Healey when he became
+  chancellor in July, when the most optimistic City analyst expected just 0.3% growth
+  and most expected a figure close to zero. Deutsche Bank estimates AI-related spending
+  has added about 0.3% to 0.4% to GDP growth this year.
+nut_graf: 'Both of Britain''s recent growth engines now face a tougher period ahead,
+  according to the Guardian''s analysis: an AI investment boom rattled by fears of
+  a stock bubble, and household spending heading into a winter in which energy bills
+  are poised to rise by about a quarter. City investors expect further Bank of England
+  rate increases that would slow the economy and add to the squeeze on living standards.'
 primary_entities:
 - United Kingdom
 - John Healey
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +159,43 @@ related_stories:
   headline: US economy grows 3.4% in third quarter on consumer spending, AI investment
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.731
+  strength: 0.7322
 - slug: 2026-10-28-obr-cuts-uk-growth-forecast-as-energy-prices-lift-inflation
   headline: OBR cuts UK growth forecast as energy prices lift inflation
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7314
+  strength: 0.7324
 - slug: 2026-10-28-john-healey-prepares-first-uk-budget-amid-inflation-and-debt-pressure
   headline: John Healey prepares first UK budget amid inflation and debt pressure
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7308
+  strength: 0.7319
 - slug: 2026-10-29-us-economy-grows-3-4-in-third-quarter-on-ai-and-consumer-spending
   headline: US economy grows 3.4% in third quarter on AI and consumer spending
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7107
+  strength: 0.712
 - slug: 2026-10-28-healey-uses-headroom-as-iran-war-lifts-u-k-deficit-forecast-to-4-2
   headline: Healey uses headroom as Iran war lifts U.K. deficit forecast to 4.2%
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7162
+  strength: 0.716
 - slug: 2026-10-27-john-healey-prepares-his-first-budget-amid-war-driven-economic-pressure
   headline: John Healey prepares his first budget amid war-driven economic pressure
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7074
+  strength: 0.7076
 - slug: 2026-10-13-imf-upgrades-uk-growth-forecast-urges-healey-to-stay-course-on-deficit
   headline: IMF upgrades UK growth forecast, urges Healey to stay course on deficit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7704
+  strength: 0.7706
 - slug: 2026-10-28-john-healey-sets-1-capital-cut-target-to-fill-defence-funding-gap
   headline: John Healey sets 1% capital-cut target to fill defence funding gap
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6961
-- slug: 2026-10-27-john-healey-prepares-uk-budget-expected-to-have-smaller-tax-and-spending-changes
-  headline: John Healey prepares UK Budget expected to have smaller tax and spending changes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6941
-- slug: 2026-10-21-u-k-inflation-rises-to-3-5-ahead-of-expected-bank-of-england-hike
-  headline: U.K. inflation rises to 3.5% ahead of expected Bank of England hike
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.704
-- slug: 2026-10-21-higher-petrol-and-diesel-costs-drive-britain-s-september-inflation
-  headline: Higher petrol and diesel costs drive Britain's September inflation
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.697
-- slug: 2026-10-13-ifs-warns-healey-budget-would-be-work-of-fiction-over-35bn-gap
-  headline: IFS warns Healey budget would be 'work of fiction' over £35bn gap
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7079
-- slug: 2026-10-01-senior-labour-figures-privately-criticize-healey-s-budget-preparations
-  headline: Senior Labour figures privately criticize Healey's budget preparations
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6982
-- slug: 2026-09-23-oecd-cuts-uk-2027-growth-forecast-to-1-on-iran-war-energy-costs
-  headline: OECD cuts UK 2027 growth forecast to 1% on Iran war energy costs
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7238
-- slug: 2026-09-21-s-p-global-uk-consumer-sentiment-index-falls-to-42-7-in-september
-  headline: S&P Global UK consumer sentiment index falls to 42.7 in September
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7184
-- slug: 2026-09-22-uk-borrowing-totals-18-3bn-in-august-above-obr-forecast
-  headline: UK borrowing totals £18.3bn in August, above OBR forecast
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6927
-- slug: 2026-09-11-uk-economy-grew-0-4-in-july-ons-reports
-  headline: UK economy grew 0.4% in July, ONS reports
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7216
-- slug: 2026-09-05-uk-chancellor-john-healey-tells-financial-times-october-28-budget-will-be-tough
-  headline: UK chancellor John Healey tells Financial Times October 28 budget will be tough
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.7293
-- slug: 2026-09-16-uk-inflation-rises-to-3-1-in-august-as-fuel-prices-surge
-  headline: UK inflation rises to 3.1% in August as fuel prices surge
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6923
-- slug: 2026-07-16-uk-economy-rebounds-0-1-in-may-on-services-strength
-  headline: UK Economy Rebounds 0.1% in May on Services Strength
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7606
+  strength: 0.6965
 ---
-
 ## UK economy grows 0.7% in third quarter, fastest expansion in two and a half years
 
 **Subtype:** fact
