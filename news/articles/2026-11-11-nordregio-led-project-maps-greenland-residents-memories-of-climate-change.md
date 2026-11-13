@@ -167,6 +167,8 @@ related_stories:
   publish_date: '2026-03-05'
   relation: related
   strength: 0.6683
+analyses:
+- '2026-11-11-ap-greenland-feature-joins-resident-memory-to-ice-loss-data-by-adjacency-alone'
 ---
 ## Nordregio-led project maps Greenland residents' memories of climate change
 
@@ -211,3 +213,8 @@ Sandgreen said organizers plan to expand the project with more interviews, inclu
 **Publication date:** 2026-11-11
 **Title:** Project maps memories in icy Greenland as climate changes
 **URL:** https://apnews.com/article/greenland-climate-icebergs-arctic-ice-melt-mapping-cbefcabadc67e963ee4645456d422870
+
+---
+
+<!-- analysis-link:2026-11-11-ap-greenland-feature-joins-resident-memory-to-ice-loss-data-by-adjacency-alone -->
+**Going deeper:** [Read MSI's analysis of memory and measurement in Greenland →](/analyses/2026-11-11-ap-greenland-feature-joins-resident-memory-to-ice-loss-data-by-adjacency-alone)
