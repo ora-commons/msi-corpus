@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: thomas-reynolds-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +32,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-roberts-court-is-helping-growers-cheat-guest-workers.png
+  alt: 'Editorial cartoon by Hector Rentier: The Roberts Court Is Helping Growers
+    Cheat Guest Workers'
+  caption: One door for the party charged. One for the party shorted.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-13T00:03:23-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single 1:1 panel, heavy cross-hatch wood-engraving. A neoclassical courthouse
+    facade fills the frame; two adjacent doors are cut into its base. The right-hand
+    door stands wide open, its brass plate ha
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-12-hector-paired-with-2026-11-12-thomas-the-roberts-court-is-helping-growers-cheat-guest-workers
 ---
+
+![Editorial cartoon by Hector Rentier: The Roberts Court Is Helping Growers Cheat Guest Workers](/cartoons/the-roberts-court-is-helping-growers-cheat-guest-workers.png)
+*One door for the party charged. One for the party shorted.*
 
 The Roberts Court is helping growers cheat guest workers and keep the money. It is handing the courthouse to property and locking the door on people.
 

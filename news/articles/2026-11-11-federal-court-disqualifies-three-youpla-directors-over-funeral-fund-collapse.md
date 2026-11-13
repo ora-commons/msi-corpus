@@ -156,6 +156,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-11-11-youpla-ruling-closes-director-disqualification-phase-as-members-remedy-remains-p'
 ---
 ## Federal court disqualifies three Youpla directors over funeral fund collapse
 
@@ -196,3 +198,8 @@ A $97 million federal government support package was announced in February 2024 
 **Publication date:** 2026-11-11
 **Title:** Youpla directors disqualified over collapsed funeral fund that targeted Aboriginal families
 **URL:** https://www.theguardian.com/australia-news/2026/nov/11/youpla-directors-disqualified-over-collapsed-funeral-fund-that-targeted-aboriginal-families-ntwnfb
+
+---
+
+<!-- analysis-link:2026-11-11-youpla-ruling-closes-director-disqualification-phase-as-members-remedy-remains-p -->
+**Going deeper:** [Read MSI's analysis of Youpla's missing third side →](/analyses/2026-11-11-youpla-ruling-closes-director-disqualification-phase-as-members-remedy-remains-p)

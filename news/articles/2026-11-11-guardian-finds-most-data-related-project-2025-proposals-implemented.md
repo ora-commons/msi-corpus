@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.6773
+analyses:
+- '2026-11-11-deleted-federal-data-returns-through-preserved-copies-not-elections'
 ---
 ## Guardian finds most data-related Project 2025 proposals implemented
 
@@ -237,3 +239,8 @@ The Guardian's Deleted data series examines how critical US government informati
 **Publication date:** 2026-11-11
 **Title:** Project 2025 had a plan to target federal data. The Trump administration obeyed
 **URL:** https://www.theguardian.com/us-news/ng-interactive/2026/nov/11/project-2025-federal-data-trump-administration
+
+---
+
+<!-- analysis-link:2026-11-11-deleted-federal-data-returns-through-preserved-copies-not-elections -->
+**Going deeper:** [Read MSI's analysis of deleted federal data restoration →](/analyses/2026-11-11-deleted-federal-data-returns-through-preserved-copies-not-elections)
