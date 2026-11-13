@@ -2,8 +2,16 @@
 headline: Oklahoma and Texas set executions of Pavatt and Rubio for Thursday
 secondary_headline: US death penalty on pace to top 40 for a second consecutive year
 publish_date: '2026-11-12'
-lede: Two men were set to be executed in the United States on Thursday, one in Oklahoma for the 2001 fatal shooting of an Oklahoma City advertising executive and the other in Texas for the 2003 killings of three young children. James Pavatt, 73, was scheduled to die by lethal injection at Oklahoma's state penitentiary in McAlester, and John Allen Rubio, 46, was set to die later Thursday at the Texas state prison in Huntsville.
-nut_graf: The executions were scheduled as the death penalty draws renewed national attention. The United States is on track to surpass 40 executions for a second consecutive year, a pace driven by Florida, and California Gov. Gavin Newsom has announced he would commute hundreds of death sentences before leaving office, which experts say would be the largest mass clemency in American history.
+lede: Two men were set to be executed in the United States on Thursday, one in Oklahoma
+  for the 2001 fatal shooting of an Oklahoma City advertising executive and the other
+  in Texas for the 2003 killings of three young children. James Pavatt, 73, was scheduled
+  to die by lethal injection at Oklahoma's state penitentiary in McAlester, and John
+  Allen Rubio, 46, was set to die later Thursday at the Texas state prison in Huntsville.
+nut_graf: The executions were scheduled as the death penalty draws renewed national
+  attention. The United States is on track to surpass 40 executions for a second consecutive
+  year, a pace driven by Florida, and California Gov. Gavin Newsom has announced he
+  would commute hundreds of death sentences before leaving office, which experts say
+  would be the largest mass clemency in American history.
 primary_entities:
 - James Pavatt
 - John Allen Rubio
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +155,45 @@ related_stories:
   headline: Newsom empties California death row with universal clemency
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6825
+  strength: 0.6804
 - slug: 2026-11-05-newsom-commutes-more-than-500-california-death-sentences
   headline: Newsom commutes more than 500 California death sentences
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6821
+  strength: 0.6794
 - slug: 2026-11-04-three-states-set-thursday-executions-for-the-year-s-second-three-execution-date
-  headline: Three states set Thursday executions for the year's second three-execution date
+  headline: Three states set Thursday executions for the year's second three-execution
+    date
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6739
+  strength: 0.6723
 - slug: 2026-11-05-indiana-executes-weisheit-as-florida-alabama-plan-two-more-executions-thursday
-  headline: Indiana executes Weisheit as Florida, Alabama plan two more executions Thursday
+  headline: Indiana executes Weisheit as Florida, Alabama plan two more executions
+    Thursday
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6528
-- slug: 2026-11-05-newsom-commutes-all-548-california-death-sentences-to-life-without-parole
-  headline: Newsom commutes all 548 California death sentences to life without parole
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6463
-- slug: 2026-11-05-newsom-rejects-excluding-worst-of-the-worst-offenders-from-california-clemency
-  headline: Newsom rejects excluding "worst of the worst" offenders from California clemency
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6413
-- slug: 2026-11-05-newsom-moves-to-commute-all-california-death-sentences-to-life-without-parole
-  headline: Newsom moves to commute all California death sentences to life without parole
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6405
+  strength: 0.6519
 - slug: 2026-10-08-texas-executes-howard-first-us-execution-since-pike-s-failed-injection
   headline: Texas executes Howard, first US execution since Pike's failed injection
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6597
-- slug: 2026-10-13-florida-executes-james-robertson-the-state-s-17th-execution-of-2026
-  headline: Florida executes James Robertson, the state's 17th execution of 2026
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6304
-- slug: 2026-10-07-texas-schedules-first-us-execution-since-tennessee-s-botched-pike-injection
-  headline: Texas schedules first US execution since Tennessee's botched Pike injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.651
-- slug: 2026-10-11-christa-pike-survives-lethal-injection-as-us-executions-hit-a-16-year-high
-  headline: Christa Pike survives lethal injection as US executions hit a 16-year high
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6322
-- slug: 2026-10-07-texas-execution-of-howard-set-to-use-same-drug-that-failed-in-tennessee
-  headline: Texas execution of Howard set to use same drug that failed in Tennessee
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6249
-- slug: 2026-09-23-texas-executes-ker-sean-ramey-for-2005-triple-killing
-  headline: Texas executes Ker'Sean Ramey for 2005 triple killing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6473
-- slug: 2026-09-23-ker-sean-ramey-faces-execution-wednesday-over-2005-triple-killing
-  headline: Ker'Sean Ramey faces execution Wednesday over 2005 triple killing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6311
-- slug: 2026-09-16-texas-readies-fifth-2026-execution-as-georgia-execution-paused
-  headline: Texas readies fifth 2026 execution as Georgia execution paused
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.645
-- slug: 2026-09-16-norman-sues-over-pentobarbital-humphries-cites-survivor-justice-act
-  headline: Norman sues over pentobarbital; Humphries cites Survivor Justice Act
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6307
+  strength: 0.6572
 - slug: 2026-08-11-three-states-plan-same-day-executions-first-in-nearly-16-years
   headline: Three states plan same-day executions, first in nearly 16 years
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6805
+  strength: 0.6791
 - slug: 2026-08-13-same-day-triple-executions-return-thursday-after-16-year-gap
   headline: Same-day triple executions return Thursday after 16-year gap
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6702
+  strength: 0.6686
 - slug: 2026-05-15-oklahoma-executes-raymond-johnson-for-killing-ex-girlfriend-and-her-baby
   headline: Oklahoma executes Raymond Johnson for killing ex-girlfriend and her baby
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6796
-- slug: 2026-05-15-oklahoma-executes-raymond-johnson-for-2007-killing-of-ex-girlfriend-and-infant-d
-  headline: Oklahoma executes Raymond Johnson for 2007 killing of ex-girlfriend and infant daughter
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.677
+  strength: 0.6784
 ---
-
 ## Oklahoma and Texas set executions of Pavatt and Rubio for Thursday
 
 **Subtype:** fact
