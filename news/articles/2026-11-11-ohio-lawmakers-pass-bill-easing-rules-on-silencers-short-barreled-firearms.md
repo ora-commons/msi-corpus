@@ -1,9 +1,17 @@
 ---
 headline: Ohio lawmakers pass bill easing rules on silencers, short-barreled firearms
-secondary_headline: Measure heads to Gov. DeWine before Democrats gain power in January's legislature
+secondary_headline: Measure heads to Gov. DeWine before Democrats gain power in January's
+  legislature
 publish_date: '2026-11-11'
-lede: The Ohio House and Senate passed Senate Bill 214 on Tuesday, legislation that would remove the state's registration requirement for gun silencers, short-barreled rifles and short-barreled shotguns. The bill passed mostly along party lines and now heads to Gov. Mike DeWine, who can sign it into law or veto it.
-nut_graf: The vote is the legislature's first major act since Democrats routed Republicans across last week's ballot, and it came ahead of a January legislature in which Democrats will hold new power. The bill aligns Ohio law with a federal landscape reshaped after Congress zeroed the tax anchoring the 1934 National Firearms Act and the ATF stopped enforcing registration for the weapons.
+lede: The Ohio House and Senate passed Senate Bill 214 on Tuesday, legislation that
+  would remove the state's registration requirement for gun silencers, short-barreled
+  rifles and short-barreled shotguns. The bill passed mostly along party lines and
+  now heads to Gov. Mike DeWine, who can sign it into law or veto it.
+nut_graf: The vote is the legislature's first major act since Democrats routed Republicans
+  across last week's ballot, and it came ahead of a January legislature in which Democrats
+  will hold new power. The bill aligns Ohio law with a federal landscape reshaped
+  after Congress zeroed the tax anchoring the 1934 National Firearms Act and the ATF
+  stopped enforcing registration for the weapons.
 primary_entities:
 - Mike DeWine
 - Ohio House
@@ -54,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,108 +161,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-28-conserve-ohio-pursues-data-center-bans-through-local-and-statewide-measures
-  headline: Conserve Ohio pursues data center bans through local and statewide measures
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5908
-- slug: 2026-10-22-ohio-judge-blocks-budget-amendment-repealing-air-nuisance-rule
-  headline: Ohio judge blocks budget amendment repealing air nuisance rule
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5852
-- slug: 2026-10-02-ban-flock-act-would-bar-federal-agencies-from-using-license-plate-readers
-  headline: Ban Flock Act would bar federal agencies from using license plate readers
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5924
 - slug: 2026-08-13-justice-department-does-not-seek-stay-of-texas-firearms-ruling
   headline: Justice Department does not seek stay of Texas firearms ruling
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.682
-- slug: 2026-09-18-clear-labels-act-loses-factory-identifier-requirement-before-senate-vote
-  headline: Clear Labels Act loses factory-identifier requirement before Senate vote
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5867
-- slug: 2026-09-17-more-than-100-blue-and-red-towns-pause-or-end-flock-camera-deals-this-year
-  headline: More Than 100 Blue and Red Towns Pause or End Flock Camera Deals This Year
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5838
-- slug: 2026-09-09-more-than-10-states-pause-or-cancel-data-center-tax-exemptions
-  headline: More than 10 states pause or cancel data center tax exemptions
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5925
-- slug: 2026-08-25-judge-suspends-ohio-voter-registration-document-rule-before-midterms
-  headline: Judge suspends Ohio voter registration document rule before midterms
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5981
-- slug: 2026-06-26-hawaii-gun-ruling-draws-praise-from-rights-groups-warnings-from-experts
-  headline: Hawaii gun ruling draws praise from rights groups, warnings from experts
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6265
-- slug: 2026-06-16-ohio-gov-dewine-calls-on-state-legislature-to-abolish-death-penalty
-  headline: Ohio Gov. DeWine calls on state legislature to abolish death penalty
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6214
-- slug: 2026-06-25-supreme-court-strikes-down-hawaii-s-vampire-rule-for-gun-owners
-  headline: Supreme Court strikes down Hawaii's 'vampire rule' for gun owners
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6147
-- slug: 2026-06-25-supreme-court-strikes-down-hawaii-s-gun-restrictions-on-private-property
-  headline: Supreme Court strikes down Hawaii's gun restrictions on private property
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5994
-- slug: 2026-01-13-georgia-lawmakers-pass-bill-to-void-savannah-s-gun-storage-in-cars-ordinance
-  headline: Georgia lawmakers pass bill to void Savannah's gun-storage-in-cars ordinance
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6324
-- slug: 2026-05-23-oklahoma-s-new-expungement-law-targets-automatic-clean-slate-process
-  headline: Oklahoma’s new expungement law targets automatic clean-slate process
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6098
-- slug: 2026-05-18-supreme-court-likely-to-strike-down-hawaii-gun-restrictions
-  headline: Supreme Court likely to strike down Hawaii gun restrictions
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6045
-- slug: 2026-05-16-antique-muskets-largely-exempt-from-modern-gun-regulations
-  headline: Antique muskets largely exempt from modern gun regulations
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5979
-- slug: 2026-04-04-tennessee-eases-child-support-rule-for-voting-rights-after-felony
-  headline: Tennessee eases child support rule for voting rights after felony
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6085
-- slug: 2026-05-21-ohio-data-center-sales-tax-exemption-cost-1-6-billion-in-2025
-  headline: Ohio data center sales-tax exemption cost $1.6 billion in 2025
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5948
-- slug: 2026-05-28-ohio-suspends-data-center-tax-break-as-ai-boom-strains-state-budgets
-  headline: Ohio suspends data center tax break as AI boom strains state budgets
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.5902
-- slug: 2026-05-22-new-law-expands-oklahoma-expungement-good-time-credits-and-medical-parole
-  headline: New law expands Oklahoma expungement, good-time credits and medical parole
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5888
+  strength: 0.6826
 ---
-
 ## Ohio lawmakers pass bill easing rules on silencers, short-barreled firearms
 
 **Subtype:** fact

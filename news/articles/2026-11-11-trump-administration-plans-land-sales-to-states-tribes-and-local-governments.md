@@ -2,8 +2,18 @@
 headline: Trump administration plans land sales to states, tribes and local governments
 secondary_headline: Interior offers no details on which lands could be sold, or where
 publish_date: '2026-11-11'
-lede: The Interior Department's new five-year strategic plan calls for selling federal public lands to states, tribes and local governments as part of an effort to "decrease the size of the federal estate." Agency officials said the sales would allow the government to focus resources on "nationally significant" lands, but they offered no details on what could be sold or where.
-nut_graf: Interior manages more than 750,000 square miles of land — an area greater than Texas and California combined — placing the department at the center of a decades-long debate over whether the federal government controls too much land. The new plan commits the administration to shrinking the federal estate through sales to states, tribes and local governments, but it names no specific lands, does not bind future administrations, and follows last year's failed push by conservative lawmakers to sell tracts in Utah and Nevada.
+lede: The Interior Department's new five-year strategic plan calls for selling federal
+  public lands to states, tribes and local governments as part of an effort to "decrease
+  the size of the federal estate." Agency officials said the sales would allow the
+  government to focus resources on "nationally significant" lands, but they offered
+  no details on what could be sold or where.
+nut_graf: Interior manages more than 750,000 square miles of land — an area greater
+  than Texas and California combined — placing the department at the center of a decades-long
+  debate over whether the federal government controls too much land. The new plan
+  commits the administration to shrinking the federal estate through sales to states,
+  tribes and local governments, but it names no specific lands, does not bind future
+  administrations, and follows last year's failed push by conservative lawmakers to
+  sell tracts in Utah and Nevada.
 primary_entities:
 - Donald Trump
 - Department of the Interior
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +150,52 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-08-trump-administration-seeks-to-rescind-roadless-rule
-  headline: Trump administration seeks to rescind Roadless Rule
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6414
-- slug: 2026-11-07-reports-trump-administration-weighs-four-underwater-datacenters-off-maine-alaska
-  headline: 'Reports: Trump administration weighs four underwater datacenters off Maine, Alaska'
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6343
 - slug: 2026-10-22-rollins-says-forest-service-reorganization-remains-on-course-despite-court-order
-  headline: Rollins says Forest Service reorganization remains on course despite court order
+  headline: Rollins says Forest Service reorganization remains on course despite court
+    order
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6575
-- slug: 2026-09-27-us-rare-earths-investment-hits-7-6b-as-trump-builds-china-free-supply-chain
-  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply chain
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6416
+  strength: 0.657
 - slug: 2026-08-28-report-trump-administration-explores-yosemite-land-exchange-with-developer
   headline: 'Report: Trump administration explores Yosemite land exchange with developer'
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6782
-- slug: 2026-09-05-trump-executive-order-directs-interior-to-weigh-gray-wolf-de-listing
-  headline: Trump executive order directs Interior to weigh gray wolf de-listing
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.64
+  strength: 0.6749
 - slug: 2026-08-26-trump-administration-formally-proposes-rescinding-2001-roadless-rule
   headline: Trump administration formally proposes rescinding 2001 Roadless Rule
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6596
-- slug: 2026-06-29-interior-department-proposes-cutting-cleanup-fees-and-public-input-on-drilling
-  headline: Interior Department proposes cutting cleanup fees and public input on drilling
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6992
+  strength: 0.6587
 - slug: 2026-05-12-interior-department-cancels-conservation-rule-on-public-lands
   headline: Interior Department cancels conservation rule on public lands
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.7233
-- slug: 2026-08-21-trump-authorizes-300-000-tons-of-beef-imports-to-ease-prices
-  headline: Trump authorizes 300,000 tons of beef imports to ease prices
-  publish_date: '2026-08-21'
+  strength: 0.7224
+- slug: 2026-06-29-interior-department-proposes-cutting-cleanup-fees-and-public-input-on-drilling
+  headline: Interior Department proposes cutting cleanup fees and public input on
+    drilling
+  publish_date: '2026-06-29'
   relation: related
-  strength: 0.6343
+  strength: 0.6967
 - slug: 2026-05-10-trump-administration-lifts-hunting-restrictions-in-national-parks-and-refuges
-  headline: Trump administration lifts hunting restrictions in national parks and refuges
+  headline: Trump administration lifts hunting restrictions in national parks and
+    refuges
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7025
+  strength: 0.7003
 - slug: 2026-05-10-trump-administration-orders-sweeping-rollback-of-hunting-restrictions-on-public-
-  headline: Trump administration orders sweeping rollback of hunting restrictions on public lands
+  headline: Trump administration orders sweeping rollback of hunting restrictions
+    on public lands
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.7013
+  strength: 0.7
 - slug: 2026-05-12-interior-department-cancels-conservation-rule-on-public-lands-a-key-biden-era-po
-  headline: Interior Department cancels conservation rule on public lands, a key Biden-era policy
+  headline: Interior Department cancels conservation rule on public lands, a key Biden-era
+    policy
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.6955
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6758
-- slug: 2026-06-15-trump-rescinds-nixon-era-limits-on-off-road-vehicles-on-public-lands
-  headline: Trump rescinds Nixon-era limits on off-road vehicles on public lands
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6673
-- slug: 2026-04-01-trump-to-move-forest-service-headquarters-from-dc-to-salt-lake-city
-  headline: Trump to move Forest Service headquarters from DC to Salt Lake City
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6823
-- slug: 2026-07-10-trump-administration-pays-2-7bn-to-cancel-offshore-wind-leases-spends-1-1bn-on-c
-  headline: Trump administration pays $2.7bn to cancel offshore wind leases, spends $1.1bn on coal
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.637
-- slug: 2026-05-24-trump-administration-expected-to-repeal-roadless-rule-opening-forests-to-logging
-  headline: Trump administration expected to repeal Roadless Rule, opening forests to logging
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6573
-- slug: 2026-06-17-forest-service-says-it-s-fully-staffed-as-wildfires-erupt-in-the-west
-  headline: Forest Service says it's fully staffed as wildfires erupt in the West
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.639
-- slug: 2026-05-19-senate-confirms-steve-pearce-to-lead-bureau-of-land-management
-  headline: Senate confirms Steve Pearce to lead Bureau of Land Management
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6513
+  strength: 0.6934
 ---
-
 ## Trump administration plans land sales to states, tribes and local governments
 
 **Subtype:** fact

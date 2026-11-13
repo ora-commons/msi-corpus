@@ -1,9 +1,21 @@
 ---
 headline: Vance weighs direct Iran talks as Trump empowers him to negotiate
-secondary_headline: October letter asked Iran's security chief Mohsen Rezaei for a meeting
+secondary_headline: October letter asked Iran's security chief Mohsen Rezaei for a
+  meeting
 publish_date: '2026-11-11'
-lede: Vice President JD Vance is considering face-to-face talks with a top Iranian security official as he emerges as the lead U.S. negotiator with Iran, U.S. and Middle East officials and people familiar with the negotiations said. President Trump told top aides and counterparts in recent days that he is open to Vance restarting talks and has empowered him to negotiate, officials said, while U.S. officials stressed the discussions remain preliminary.
-nut_graf: 'A direct meeting between the vice president and Iran''s top security leadership would be unusual and carries political risk for Vance, officials said: he could become the face of another failed round of talks if Iran refuses significant concessions, or emerge as the victor who ended an unpopular conflict. The push comes as the administration''s internal debate has shifted from whether to reignite the war to whether to restart diplomacy or hold the naval blockade and sanctions in place until Iran''s leaders are ready to make a viable peace deal.'
+lede: Vice President JD Vance is considering face-to-face talks with a top Iranian
+  security official as he emerges as the lead U.S. negotiator with Iran, U.S. and
+  Middle East officials and people familiar with the negotiations said. President
+  Trump told top aides and counterparts in recent days that he is open to Vance restarting
+  talks and has empowered him to negotiate, officials said, while U.S. officials stressed
+  the discussions remain preliminary.
+nut_graf: 'A direct meeting between the vice president and Iran''s top security leadership
+  would be unusual and carries political risk for Vance, officials said: he could
+  become the face of another failed round of talks if Iran refuses significant concessions,
+  or emerge as the victor who ended an unpopular conflict. The push comes as the administration''s
+  internal debate has shifted from whether to reignite the war to whether to restart
+  diplomacy or hold the naval blockade and sanctions in place until Iran''s leaders
+  are ready to make a viable peace deal.'
 primary_entities:
 - JD Vance
 - Donald Trump
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,39 +161,38 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-11-vance-weighs-direct-iran-talks-as-trump-empowers-him-to-negotiate.png
-  alt: 'Illustration accompanying article: Vance weighs direct Iran talks as Trump empowers him to negotiate'
+  alt: 'Illustration accompanying article: Vance weighs direct Iran talks as Trump
+    empowers him to negotiate'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-28-vance-sends-letter-to-iranian-security-chief-to-restart-peace-talks
   headline: Vance sends letter to Iranian security chief to restart peace talks
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8754
+  strength: 0.8758
 - slug: 2026-11-06-mediators-push-iran-peace-talks-on-hormuz-and-nuclear-program-after-midterms
   headline: Mediators push Iran peace talks on Hormuz and nuclear program after midterms
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7791
+  strength: 0.7793
 - slug: 2026-10-29-vance-letter-to-iran-seeks-nuclear-commitments-before-hormuz-reopening
   headline: Vance letter to Iran seeks nuclear commitments before Hormuz reopening
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8143
+  strength: 0.8144
 - slug: 2026-11-07-trump-weighs-ending-the-iran-war-or-resuming-major-combat-operations
   headline: Trump weighs ending the Iran war or resuming major combat operations
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7533
-- slug: 2026-11-06-iran-weighs-qatari-bridge-proposal-that-could-open-nuclear-talks-with-us
-  headline: Iran weighs Qatari bridge proposal that could open nuclear talks with US
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7357
+  strength: 0.7526
 - slug: 2026-11-02-u-s-fears-iran-could-rush-oil-out-of-the-gulf-during-a-blockade-pause
   headline: U.S. fears Iran could rush oil out of the Gulf during a blockade pause
   publish_date: '2026-11-02'
@@ -190,74 +202,18 @@ related_stories:
   headline: Top U.S. commander briefs Trump on Iran military options
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7443
+  strength: 0.7437
 - slug: 2026-09-27-mediators-press-iran-on-nuclear-program-to-revive-ceasefire-talks
   headline: Mediators press Iran on nuclear program to revive ceasefire talks
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7543
+  strength: 0.7538
 - slug: 2026-09-27-vance-works-to-rebuild-fractured-trump-coalition-ahead-of-midterms
   headline: Vance works to rebuild fractured Trump coalition ahead of midterms
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.7488
-- slug: 2026-09-22-iran-and-us-hold-three-hour-talks-on-un-sidelines-as-hormuz-reopening-floated
-  headline: Iran and US hold three-hour talks on UN sidelines as Hormuz reopening floated
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7427
-- slug: 2026-06-25-vance-takes-lead-on-iran-deal-as-trump-signals-fall-guy-role
-  headline: Vance takes lead on Iran deal as Trump signals fall guy role
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.8262
-- slug: 2026-06-09-vance-says-us-very-close-to-iran-peace-deal-hours-before-new-strikes
-  headline: Vance says US ‘very close’ to Iran peace deal hours before new strikes
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7989
-- slug: 2026-06-17-vance-works-to-sell-iran-deal-amid-conservative-skepticism
-  headline: Vance works to sell Iran deal amid conservative skepticism
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7851
-- slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
-  headline: Trump weighs all-out Iran war options, opts to stick with talks
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.7604
-- slug: 2026-06-18-vance-says-iran-deal-is-us-win-no-matter-what-happens-next
-  headline: Vance says Iran deal is US win no matter what happens next
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7634
-- slug: 2026-06-28-vance-says-us-wins-either-way-on-iran-as-ceasefire-frays
-  headline: Vance says US wins either way on Iran as ceasefire frays
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.7495
-- slug: 2026-04-11-vance-warns-iran-not-to-play-the-us-as-talks-aim-to-end-war
-  headline: Vance warns Iran not to “play” the US as talks aim to end war
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7766
-- slug: 2026-06-24-trump-s-social-media-outburst-disrupts-us-iran-talks-in-switzerland
-  headline: Trump's social-media outburst disrupts US-Iran talks in Switzerland
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.7452
-- slug: 2026-06-22-trump-threatens-to-restart-attacks-on-iran-as-vance-hails-progress-in-talks
-  headline: Trump threatens to restart attacks on Iran as Vance hails progress in talks
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7451
-- slug: 2026-06-21-vance-says-us-seeking-to-transform-relationship-with-iran-in-switzerland-talks
-  headline: Vance says US seeking to 'transform' relationship with Iran in Switzerland talks
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7445
+  strength: 0.7494
 ---
-
 ## Vance weighs direct Iran talks as Trump empowers him to negotiate
 
 **Subtype:** fact

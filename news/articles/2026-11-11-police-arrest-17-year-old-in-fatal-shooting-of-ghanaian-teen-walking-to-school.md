@@ -1,9 +1,19 @@
 ---
-headline: Police arrest 17-year-old in fatal shooting of Ghanaian teen walking to school
-secondary_headline: Arrest lands as victim's family and Ghana officials press for answers
+headline: Police arrest 17-year-old in fatal shooting of Ghanaian teen walking to
+  school
+secondary_headline: Arrest lands as victim's family and Ghana officials press for
+  answers
 publish_date: '2026-11-11'
-lede: New York City police announced Wednesday that officers arrested a 17-year-old male in the fatal shooting of Javits Frimpong, a 15-year-old Ghanaian immigrant who was shot on a Bronx street as he walked to school. The arrest came as Frimpong's family, Ghana's government and civil rights advocates gathered in New York to press for more information about the Oct. 29 killing.
-nut_graf: Police have neither released the suspect's name nor said what motivated the gunfire. The case has prompted protests in New York, a visa request from Mayor Zohran Mamdani to President Donald Trump for the victim's mother, and a news conference appeal for tips from the family, civil rights lawyer Ben Crump, the Rev. Al Sharpton and Ghana's U.N. ambassador.
+lede: New York City police announced Wednesday that officers arrested a 17-year-old
+  male in the fatal shooting of Javits Frimpong, a 15-year-old Ghanaian immigrant
+  who was shot on a Bronx street as he walked to school. The arrest came as Frimpong's
+  family, Ghana's government and civil rights advocates gathered in New York to press
+  for more information about the Oct. 29 killing.
+nut_graf: Police have neither released the suspect's name nor said what motivated
+  the gunfire. The case has prompted protests in New York, a visa request from Mayor
+  Zohran Mamdani to President Donald Trump for the victim's mother, and a news conference
+  appeal for tips from the family, civil rights lawyer Ben Crump, the Rev. Al Sharpton
+  and Ghana's U.N. ambassador.
 primary_entities:
 - Javits Frimpong
 - Thomas Frimpong
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,107 +155,22 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-30-javits-frimpong-15-chased-and-fatally-shot-on-his-way-to-school-in-the-bronx
-  headline: Javits Frimpong, 15, chased and fatally shot on his way to school in the Bronx
+  headline: Javits Frimpong, 15, chased and fatally shot on his way to school in the
+    Bronx
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8617
-- slug: 2026-11-04-doris-adu-gyamfi-flies-to-us-to-plan-javits-frimpong-s-funeral
-  headline: Doris Adu Gyamfi flies to US to plan Javits Frimpong's funeral
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.813
+  strength: 0.8622
 - slug: 2026-10-31-mamdani-says-trump-agreed-to-grant-visa-for-mother-of-slain-bronx-teen
   headline: Mamdani says Trump agreed to grant visa for mother of slain Bronx teen
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8374
-- slug: 2026-11-10-dhs-cites-safety-guardianship-concerns-vargas-says-8-year-old-haitian-boy-is-una
-  headline: DHS cites safety, guardianship concerns; Vargas says 8-year-old Haitian boy is unaccounted for
-  publish_date: '2026-11-10'
+  strength: 0.8384
+- slug: 2026-11-04-doris-adu-gyamfi-flies-to-us-to-plan-javits-frimpong-s-funeral
+  headline: Doris Adu Gyamfi flies to US to plan Javits Frimpong's funeral
+  publish_date: '2026-11-04'
   relation: related
-  strength: 0.5835
-- slug: 2026-10-28-police-arrest-three-in-alleged-cherokee-high-school-shooting-plot
-  headline: Police arrest three in alleged Cherokee High School shooting plot
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5821
-- slug: 2026-10-09-mamdani-aoc-call-for-ice-abolition-as-dhs-rejects-new-york-enforcement-pause
-  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement pause
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6349
-- slug: 2026-10-08-federal-immigration-officer-shoots-person-in-new-york-s-marble-hill-mayor-report
-  headline: Federal immigration officer shoots person in New York's Marble Hill, mayor reports
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6245
-- slug: 2026-10-08-ice-agent-shoots-man-in-bronx-suv-dhs-says-target-had-gang-ties
-  headline: ICE agent shoots man in Bronx SUV; DHS says target had gang ties
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6217
-- slug: 2026-10-09-ice-agent-shoots-man-in-the-bronx-dhs-confirms
-  headline: ICE agent shoots man in the Bronx, DHS confirms
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.616
-- slug: 2026-10-12-mamdani-calls-for-ice-to-leave-new-york-after-marble-hill-shooting
-  headline: Mamdani calls for ICE to leave New York after Marble Hill shooting
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5912
-- slug: 2026-10-09-mullin-says-ice-won-t-pause-nyc-operations-after-bronx-shooting
-  headline: Mullin says ICE won't pause NYC operations after Bronx shooting
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6
-- slug: 2026-10-06-us-arrests-washington-man-as-second-suspect-in-tumbler-ridge-shooting
-  headline: US arrests Washington man as second suspect in Tumbler Ridge shooting
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6098
-- slug: 2026-10-11-avila-chevalier-says-nypd-violated-sanctuary-law-s-spirit-after-shooting
-  headline: Avila Chevalier says NYPD violated sanctuary law's spirit after shooting
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5855
-- slug: 2026-10-09-ice-officers-shoot-28-year-old-oscar-belgal-in-neck-during-marble-hill-arrest
-  headline: ICE officers shoot 28-year-old Oscar Belgal in neck during Marble Hill arrest
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.591
-- slug: 2026-10-09-dhs-defends-ice-officers-who-shot-man-with-child-in-car
-  headline: DHS defends ICE officers who shot man with child in car
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5895
-- slug: 2026-10-06-us-resident-charged-in-conspiracy-to-aid-deadly-tumbler-ridge-school-shooting
-  headline: US resident charged in conspiracy to aid deadly Tumbler Ridge school shooting
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5996
-- slug: 2026-10-08-federal-agents-shoot-person-in-the-bronx-nypd-says
-  headline: Federal agents shoot person in the Bronx, NYPD says
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5861
-- slug: 2026-10-09-mamdani-jeered-by-some-left-wing-protesters-at-oct-7-vigil-ice-briefing
-  headline: Mamdani jeered by some left-wing protesters at Oct. 7 vigil, ICE briefing
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.58
-- slug: 2026-04-04-second-suspect-arrested-in-brooklyn-stray-bullet-killing-of-baby
-  headline: Second suspect arrested in Brooklyn stray-bullet killing of baby
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5982
-- slug: 2026-05-10-us-marshals-capture-teen-wanted-in-iowa-city-mass-shooting
-  headline: US marshals capture teen wanted in Iowa City mass shooting
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5886
+  strength: 0.8135
 ---
-
 ## Police arrest 17-year-old in fatal shooting of Ghanaian teen walking to school
 
 **Subtype:** fact

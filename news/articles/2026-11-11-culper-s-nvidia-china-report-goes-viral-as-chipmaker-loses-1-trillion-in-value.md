@@ -1,9 +1,24 @@
 ---
-headline: Culper's Nvidia China report goes viral as chipmaker loses $1 trillion in value
-secondary_headline: Christian Lamarco's small firm questioned the world's most valuable company in May
+headline: Culper's Nvidia China report goes viral as chipmaker loses $1 trillion in
+  value
+secondary_headline: Christian Lamarco's small firm questioned the world's most valuable
+  company in May
 publish_date: '2026-11-11'
-lede: Culper Research, a short-selling firm founded by 31-year-old Christian Lamarco, published a 40-page report in May arguing that Nvidia had a significant China problem and questioning what Lamarco called an uncomfortably close relationship between Chief Executive Jensen Huang and Alice Huang, an executive at one of the chipmaker's major business partners in Southeast Asia. The report drew little attention at first; this week, after revelations that Jensen Huang was having an extramarital affair with a woman now suspected of working for Chinese intelligence services, the analysis went viral. Nvidia has lost more than $1 trillion in market value and its stock is down 20% since the report was published.
-nut_graf: The episode centers on a small firm — founder Christian Lamarco and two analysts — that typically researches companies most people have never heard of taking on what had become the most valuable company in the world. The report's central questions, a significant China problem and what Lamarco called an uncomfortably close executive relationship, now sit inside a crisis involving national security, the president of the United States and allegations of modern espionage.
+lede: Culper Research, a short-selling firm founded by 31-year-old Christian Lamarco,
+  published a 40-page report in May arguing that Nvidia had a significant China problem
+  and questioning what Lamarco called an uncomfortably close relationship between
+  Chief Executive Jensen Huang and Alice Huang, an executive at one of the chipmaker's
+  major business partners in Southeast Asia. The report drew little attention at first;
+  this week, after revelations that Jensen Huang was having an extramarital affair
+  with a woman now suspected of working for Chinese intelligence services, the analysis
+  went viral. Nvidia has lost more than $1 trillion in market value and its stock
+  is down 20% since the report was published.
+nut_graf: The episode centers on a small firm — founder Christian Lamarco and two
+  analysts — that typically researches companies most people have never heard of taking
+  on what had become the most valuable company in the world. The report's central
+  questions, a significant China problem and what Lamarco called an uncomfortably
+  close executive relationship, now sit inside a crisis involving national security,
+  the president of the United States and allegations of modern espionage.
 primary_entities:
 - Nvidia
 - Culper Research
@@ -44,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +162,45 @@ related_stories:
   headline: Investor sues Nvidia over alleged deception on CEO affair and Megaspeed
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7684
+  strength: 0.7671
 - slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
   headline: Nvidia board investigates CEO Jensen Huang as shares tumble
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7626
+  strength: 0.7617
 - slug: 2026-11-11-nvidia-shares-fall-almost-5-5-as-spying-scandal-wipes-off-around-430bn
   headline: Nvidia shares fall almost 5.5% as spying scandal wipes off around $430bn
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7436
+  strength: 0.7425
 - slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
+  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens
+    inquiry
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7478
+  strength: 0.7471
 - slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
   headline: Nvidia faces scrutiny over alleged spying that targeted Huang
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7384
+  strength: 0.7383
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7397
+  strength: 0.7385
 - slug: 2026-11-10-nvidia-has-no-succession-plan-as-huang-s-future-rests-with-its-board
   headline: Nvidia has no succession plan as Huang's future rests with its board
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7295
+  strength: 0.7292
 - slug: 2026-11-10-nvidia-shareholder-suit-alleges-failure-to-disclose-national-security-concerns
-  headline: Nvidia shareholder suit alleges failure to disclose national security concerns
+  headline: Nvidia shareholder suit alleges failure to disclose national security
+    concerns
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7265
-- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7325
-- slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
-  headline: Nvidia investigates reports of spying targeting Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7287
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.735
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7276
-- slug: 2026-11-10-anthropic-s-ipo-tests-the-market-for-ai-investment
-  headline: Anthropic's IPO tests the market for AI investment
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7147
-- slug: 2026-11-10-nvidia-inquiry-precedes-nov-9-market-value-decline-of-roughly-200-billion
-  headline: Nvidia inquiry precedes Nov. 9 market-value decline of roughly $200 billion
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7133
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.721
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7175
-- slug: 2026-11-09-nvidia-board-expresses-confidence-in-huang-as-he-presses-for-ai-chip-access
-  headline: Nvidia board expresses confidence in Huang as he presses for AI-chip access
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7078
-- slug: 2026-11-11-huang-presses-china-chip-access-while-opposing-new-ai-rules
-  headline: Huang presses China chip access while opposing new AI rules
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6922
-- slug: 2026-11-09-trump-says-he-learned-of-alice-huang-spy-concerns-not-too-long-ago
-  headline: Trump says he learned of Alice Huang spy concerns 'not too long ago'
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6993
-- slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7058
+  strength: 0.7258
 ---
-
 ## Culper's Nvidia China report goes viral as chipmaker loses $1 trillion in value
 
 **Subtype:** fact
