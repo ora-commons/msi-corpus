@@ -1,9 +1,19 @@
 ---
 headline: NJ Transit expects Portal Bridge service back Nov. 15 after 5 weeks of detours
-secondary_headline: A 2019 analysis found 18 major failures and about 1,000 delays on the span
+secondary_headline: A 2019 analysis found 18 major failures and about 1,000 delays
+  on the span
 publish_date: '2026-11-12'
-lede: New Jersey commuters have endured five weeks of detours, ferries and crowded trains while New Jersey Transit is replacing the 116-year-old Portal Bridge over the Hackensack River. The agency sharply cut rail service between Newark and Manhattan's Penn Station for the work and expects regular service to resume Nov. 15, barring unforeseen issues with safety testing or a weather event.
-nut_graf: 'The work is part of a wider effort to modernize rail infrastructure on the Northeast Corridor between Newark and Penn Station, a 10-mile stretch that Amtrak calls the line''s most congested, with about 450 trains and 200,000 passenger trips on a typical day. NJ Transit officials have cast the five weeks of upheaval as the trade for durability: CEO Kris Kolluri said in October that the work would leave a bridge that holds up for the next 100 years.'
+lede: New Jersey commuters have endured five weeks of detours, ferries and crowded
+  trains while New Jersey Transit is replacing the 116-year-old Portal Bridge over
+  the Hackensack River. The agency sharply cut rail service between Newark and Manhattan's
+  Penn Station for the work and expects regular service to resume Nov. 15, barring
+  unforeseen issues with safety testing or a weather event.
+nut_graf: 'The work is part of a wider effort to modernize rail infrastructure on
+  the Northeast Corridor between Newark and Penn Station, a 10-mile stretch that Amtrak
+  calls the line''s most congested, with about 450 trains and 200,000 passenger trips
+  on a typical day. NJ Transit officials have cast the five weeks of upheaval as the
+  trade for durability: CEO Kris Kolluri said in October that the work would leave
+  a bridge that holds up for the next 100 years.'
 primary_entities:
 - NJ Transit
 - Portal Bridge
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +161,18 @@ related_stories:
   headline: NJ Transit says its crew cut the fiber line that grounded Northeast flights
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6685
-- slug: 2026-09-28-nor-easter-cuts-power-to-over-100-000-in-second-day-of-northeast-flooding
-  headline: Nor'easter cuts power to over 100,000 in second day of Northeast flooding
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.607
-- slug: 2026-09-21-fiber-cable-cut-in-new-jersey-cancels-more-than-400-flights-nationwide
-  headline: Fiber cable cut in New Jersey cancels more than 400 flights nationwide
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5886
+  strength: 0.6684
 - slug: 2026-05-14-huge-drills-begin-work-on-new-hudson-river-train-tunnel-for-nyc-region
   headline: Huge drills begin work on new Hudson River train tunnel for NYC-region
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.678
+  strength: 0.6758
 - slug: 2026-05-14-tunnel-boring-machines-assembled-in-n-j-for-16b-hudson-river-rail-project
   headline: Tunnel-boring machines assembled in N.J. for $16B Hudson River rail project
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6513
-- slug: 2026-06-18-new-york-leaders-question-8b-penn-station-plan-as-trump-s-role-draws-scrutiny
-  headline: New York leaders question $8B Penn Station plan as Trump's role draws scrutiny
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6175
-- slug: 2026-05-19-long-island-rail-road-resumes-after-deal-ends-strike
-  headline: Long Island Rail Road resumes after deal ends strike
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6214
-- slug: 2026-05-19-long-island-rail-road-resumes-service-after-strike-ends
-  headline: Long Island Rail Road resumes service after strike ends
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6205
-- slug: 2026-05-20-long-island-rail-road-resumes-operations-after-deal-ends-strike
-  headline: Long Island Rail Road resumes operations after deal ends strike
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6174
-- slug: 2026-05-18-long-island-rail-road-resumes-operations-as-deal-ends-strike-in-new-york
-  headline: Long Island Rail Road resumes operations as deal ends strike in New York
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6157
-- slug: 2026-02-04-new-york-and-new-jersey-sue-over-hudson-tunnel-16b-funding-freeze
-  headline: New York and New Jersey sue over Hudson tunnel $16B funding freeze
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.6303
-- slug: 2026-05-08-n-j-cuts-world-cup-train-fare-to-105-easing-earlier-150-plan
-  headline: N.J. cuts World Cup train fare to $105, easing earlier $150 plan
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.615
-- slug: 2026-05-16-long-island-rail-road-strike-halts-north-america-s-busiest-commuter-system
-  headline: Long Island Rail Road strike halts North America's busiest commuter system
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6109
-- slug: 2026-05-21-long-island-rail-road-resumes-service-after-deal-ends-strike
-  headline: Long Island Rail Road resumes service after deal ends strike
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6089
-- slug: 2026-05-18-deal-reached-to-end-long-island-rail-road-strike-trains-to-restart-tuesday
-  headline: Deal reached to end Long Island Rail Road strike, trains to restart Tuesday
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6089
-- slug: 2026-05-17-negotiators-scramble-to-end-lirr-strike-ahead-of-monday-morning-rush
-  headline: Negotiators scramble to end LIRR strike ahead of Monday morning rush
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6071
-- slug: 2026-02-08-judge-orders-trump-administration-to-restore-16b-gateway-rail-tunnel-funding
-  headline: Judge orders Trump administration to restore $16B Gateway rail tunnel funding
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6224
-- slug: 2026-05-16-lirr-strike-will-halt-north-america-s-largest-commuter-rail-system
-  headline: LIRR strike will halt North America’s largest commuter rail system
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6011
-- slug: 2026-05-17-negotiators-reach-deal-to-end-long-island-rail-road-strike
-  headline: Negotiators reach deal to end Long Island Rail Road strike
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6002
-- slug: 2026-05-19-deal-reached-to-end-long-island-rail-road-strike-no-fare-hikes
-  headline: Deal reached to end Long Island Rail Road strike, no fare hikes
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5967
+  strength: 0.6507
 ---
-
 ## NJ Transit expects Portal Bridge service back Nov. 15 after 5 weeks of detours
 
 **Subtype:** fact
