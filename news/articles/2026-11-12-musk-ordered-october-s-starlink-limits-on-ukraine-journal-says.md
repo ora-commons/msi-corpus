@@ -1,9 +1,23 @@
 ---
 headline: Musk ordered October's Starlink limits on Ukraine, Journal says
-secondary_headline: Two senior Ukrainian officials unsure who ordered the renewed speed limit
+secondary_headline: Two senior Ukrainian officials unsure who ordered the renewed
+  speed limit
 publish_date: '2026-11-12'
-lede: The Wall Street Journal reported that SpaceX founder Elon Musk ordered last month's restrictions on Starlink and that the decision sparked panic in Kyiv and a political backlash from some U.S. lawmakers, prompting Trump to call Musk and ask him to lift the restrictions. Two senior Ukrainian government officials said it was unclear who had ordered the renewed speed limit now disrupting Ukrainian drone operations; Zelensky said Kyiv was seeking clarification from the U.S. Ukrainian military officials say a protracted disruption to Starshield service could lead to a Russian advance again.
-nut_graf: The Wall Street Journal's account of who ordered last month's restrictions, and two senior Ukrainian government officials' statement that the renewed speed limit's origin is unclear, add detail to a dispute that already cost Ukrainian drone forces 10 days at the same 100 mph limit in October. Ukrainian military officials say a protracted disruption to Starshield service could lead to a Russian advance again, because Moscow will find it easier to move men and ammunition to front-line areas in the absence of relentless Ukrainian strikes.
+lede: The Wall Street Journal reported that SpaceX founder Elon Musk ordered last
+  month's restrictions on Starlink and that the decision sparked panic in Kyiv and
+  a political backlash from some U.S. lawmakers, prompting Trump to call Musk and
+  ask him to lift the restrictions. Two senior Ukrainian government officials said
+  it was unclear who had ordered the renewed speed limit now disrupting Ukrainian
+  drone operations; Zelensky said Kyiv was seeking clarification from the U.S. Ukrainian
+  military officials say a protracted disruption to Starshield service could lead
+  to a Russian advance again.
+nut_graf: The Wall Street Journal's account of who ordered last month's restrictions,
+  and two senior Ukrainian government officials' statement that the renewed speed
+  limit's origin is unclear, add detail to a dispute that already cost Ukrainian drone
+  forces 10 days at the same 100 mph limit in October. Ukrainian military officials
+  say a protracted disruption to Starshield service could lead to a Russian advance
+  again, because Moscow will find it easier to move men and ammunition to front-line
+  areas in the absence of relentless Ukrainian strikes.
 primary_entities:
 - Ukraine
 - Volodymyr Zelensky
@@ -43,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,30 +157,31 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-12-zelenskyy-reports-new-starshield-speed-limits-hampering-ukraine-s-drone-defenses
-  headline: Zelenskyy reports new Starshield speed limits hampering Ukraine's drone defenses
+  headline: Zelenskyy reports new Starshield speed limits hampering Ukraine's drone
+    defenses
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8029
+  strength: 0.8034
 - slug: 2026-10-24-ukraine-reports-starshield-service-operating-normally-after-10-day-restrictions
   headline: Ukraine reports Starshield service operating normally after 10-day restrictions
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8788
+  strength: 0.8791
 - slug: 2026-10-23-ukrainian-officials-report-continued-starshield-failures-above-100-mph
   headline: Ukrainian officials report continued Starshield failures above 100 mph
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8775
+  strength: 0.8777
 - slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
   headline: Ukraine says Starlink speeds are restored after restrictions
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8677
+  strength: 0.867
 - slug: 2026-10-21-starshield-speed-limits-hinder-ukrainian-strike-and-interceptor-drones
   headline: Starshield speed limits hinder Ukrainian strike and interceptor drones
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8716
+  strength: 0.8717
 - slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
   headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
   publish_date: '2026-10-15'
@@ -175,74 +191,13 @@ related_stories:
   headline: U.S. officials say Trump asked Musk to lift Starlink limits in Ukraine
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8624
+  strength: 0.8621
 - slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
   headline: Zelensky Starlink warning led to informal White House investigation
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8676
-- slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
-  headline: Trump credits Musk with restoring Ukraine's Starlink service
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.8514
-- slug: 2026-10-23-trump-administration-denies-requesting-starlink-limits-for-ukraine-s-military
-  headline: Trump administration denies requesting Starlink limits for Ukraine's military
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8435
-- slug: 2026-10-14-musk-redirects-ukraine-starlink-speed-cap-to-us-military
-  headline: Musk redirects Ukraine Starlink speed cap to US military
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8826
-- slug: 2026-10-23-zelensky-says-unexplained-starlink-limits-still-affect-ukraine-s-forces
-  headline: Zelensky says unexplained Starlink limits still affect Ukraine's forces
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8297
-- slug: 2026-10-28-pentagon-inspector-general-declines-to-probe-starlink-limits-for-ukraine
-  headline: Pentagon inspector general declines to probe Starlink limits for Ukraine
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7998
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8496
-- slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
-  headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.8024
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8385
-- slug: 2026-10-21-bipartisan-lawmakers-seek-an-investigation-of-musk-over-reported-starlink-limits
-  headline: Bipartisan lawmakers seek an investigation of Musk over reported Starlink limits
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.8066
-- slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
-  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian hardware
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.8083
-- slug: 2026-10-21-ukraine-s-starshield-service-is-separate-from-the-u-s--owned-constellation
-  headline: Ukraine's Starshield service is separate from the U.S.-owned constellation
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.803
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8259
+  strength: 0.8672
 ---
-
 ## Musk ordered October's Starlink limits on Ukraine, Journal says
 
 **Subtype:** fact

@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-09-15'
   relation: related
   strength: 0.6653
+analyses:
+- '2026-11-12-cambodia-s-tonle-sap-absorbs-stacked-drought-dam-and-war-pressures'
 ---
 ## Record El Niño drought strains Cambodia's Tonle Sap and its floating houses
 
@@ -249,3 +251,8 @@ Yim Nary watches her husband head out to fish before dawn each day, hoping for a
 **Publication date:** 2026-11-12
 **Title:** El Niño adds to pressures on Cambodia’s Tonle Sap and its fishing communities
 **URL:** https://apnews.com/article/asia-nino-drought-cambodia-tonle-mekong-a63fa6862ed6339d7c6571441c326342
+
+---
+
+<!-- analysis-link:2026-11-12-cambodia-s-tonle-sap-absorbs-stacked-drought-dam-and-war-pressures -->
+**Going deeper:** [Read MSI's analysis of Tonle Sap's compound fragility →](/analyses/2026-11-12-cambodia-s-tonle-sap-absorbs-stacked-drought-dam-and-war-pressures)
