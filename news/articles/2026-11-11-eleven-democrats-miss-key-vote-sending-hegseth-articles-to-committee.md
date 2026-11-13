@@ -1,9 +1,18 @@
 ---
 headline: Eleven Democrats miss key vote, sending Hegseth articles to committee
-secondary_headline: Absent Democrats cited traffic, a medical procedure or an early vote close
+secondary_headline: Absent Democrats cited traffic, a medical procedure or an early
+  vote close
 publish_date: '2026-11-11'
-lede: Eleven Democratic lawmakers missed the key procedural House vote Tuesday evening, and House Republicans used the absences to win a 211-204 vote referring eight articles of impeachment against Defense Secretary Pete Hegseth to the Judiciary Committee. The impeachment effort failed by seven votes. The articles, introduced by Republican Thomas Massie, alleged that Hegseth violated congressional authority by waging war in Iran.
-nut_graf: The absences supplied the margin House Republicans needed on the procedural vote, while several missing lawmakers said they continued to support Hegseth's impeachment. The eight articles went to the Judiciary Committee amid competing accounts of whether Speaker Mike Johnson closed the vote early.
+lede: Eleven Democratic lawmakers missed the key procedural House vote Tuesday evening,
+  and House Republicans used the absences to win a 211-204 vote referring eight articles
+  of impeachment against Defense Secretary Pete Hegseth to the Judiciary Committee.
+  The impeachment effort failed by seven votes. The articles, introduced by Republican
+  Thomas Massie, alleged that Hegseth violated congressional authority by waging war
+  in Iran.
+nut_graf: The absences supplied the margin House Republicans needed on the procedural
+  vote, while several missing lawmakers said they continued to support Hegseth's impeachment.
+  The eight articles went to the Judiciary Committee amid competing accounts of whether
+  Speaker Mike Johnson closed the vote early.
 primary_entities:
 - Pete Hegseth
 - Thomas Massie
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +151,44 @@ related_stories:
   headline: House blocks Hegseth impeachment effort in 211-204 vote
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8168
+  strength: 0.8156
 - slug: 2026-11-11-house-votes-to-refer-pete-hegseth-impeachment-articles-to-committee
   headline: House votes to refer Pete Hegseth impeachment articles to committee
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7921
+  strength: 0.7915
 - slug: 2026-11-11-trump-hails-defeat-of-hegseth-impeachment-push-and-calls-massie-a-major-loser
-  headline: Trump hails defeat of Hegseth impeachment push and calls Massie 'a major LOSER'
+  headline: Trump hails defeat of Hegseth impeachment push and calls Massie 'a major
+    LOSER'
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7679
+  strength: 0.7673
 - slug: 2026-11-09-hegseth-faces-four-seat-house-test-as-johnson-warns-on-impeachment
   headline: Hegseth faces four-seat House test as Johnson warns on impeachment
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7786
+  strength: 0.779
 - slug: 2026-11-09-massie-alleges-hegseth-violated-the-constitution-and-ignored-war-powers
   headline: Massie alleges Hegseth violated the Constitution and ignored war powers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7779
+  strength: 0.777
 - slug: 2026-11-11-house-oversight-report-concludes-government-mishandled-epstein-investigations
   headline: House Oversight report concludes government mishandled Epstein investigations
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7467
+  strength: 0.7466
 - slug: 2026-11-09-massie-introduces-eight-articles-of-impeachment-against-hegseth
   headline: Massie introduces eight articles of impeachment against Hegseth
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7601
+  strength: 0.7591
 - slug: 2026-11-10-hegseth-ends-months-long-press-silence-with-25-minute-impeachment-defense
   headline: Hegseth ends months-long press silence with 25-minute impeachment defense
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7502
-- slug: 2026-11-10-pete-hegseth-defends-iran-war-as-lawmakers-consider-his-impeachment
-  headline: Pete Hegseth defends Iran war as lawmakers consider his impeachment
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7473
-- slug: 2026-11-07-hegseth-vows-to-stay-as-democrats-and-some-republicans-seek-his-removal
-  headline: Hegseth vows to stay as Democrats and some Republicans seek his removal
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7484
-- slug: 2026-11-10-pete-hegseth-rejects-massie-s-impeachment-bid-as-a-political-spectacle
-  headline: Pete Hegseth rejects Massie’s impeachment bid as a political spectacle
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7276
-- slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7368
-- slug: 2026-11-10-republican-lawmakers-assess-midterm-losses-and-the-work-ahead
-  headline: Republican lawmakers assess midterm losses and the work ahead
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7179
-- slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
-  headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.751
-- slug: 2026-11-10-republicans-53-47-senate-majority-faces-possible-shift-to-44-seats
-  headline: Republicans' 53-47 Senate majority faces possible shift to 44 seats
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7079
-- slug: 2026-11-10-massie-s-impeachment-resolution-cites-hegseth-s-yemen-and-venezuela-actions
-  headline: Massie's impeachment resolution cites Hegseth's Yemen and Venezuela actions
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7067
-- slug: 2026-11-09-pete-hegseth-will-brief-reporters-on-expected-iran-war-impeachment-resolution
-  headline: Pete Hegseth will brief reporters on expected Iran war impeachment resolution
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.712
-- slug: 2026-11-10-impeachment-articles-cite-survivor-killings-judge-ruling-against-kelly-inquiry
-  headline: Impeachment articles cite survivor killings, judge ruling against Kelly inquiry
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7041
-- slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
-  headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.725
-- slug: 2026-11-08-jeffries-backs-impeaching-hegseth-as-democrats-prepare-to-take-house-control
-  headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7101
+  strength: 0.7494
 ---
-
 ## Eleven Democrats miss key vote, sending Hegseth articles to committee
 
 **Subtype:** fact
