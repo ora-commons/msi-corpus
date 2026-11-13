@@ -1,9 +1,21 @@
 ---
-headline: Trump administration proposal could end SNAP eligibility for 6.3 million people
-secondary_headline: Nearly 1.8 million children would lose SNAP-linked free school meal eligibility
+headline: Trump administration proposal could end SNAP eligibility for 6.3 million
+  people
+secondary_headline: Nearly 1.8 million children would lose SNAP-linked free school
+  meal eligibility
 publish_date: '2026-11-11'
-lede: The Trump administration has proposed a rule that could strip about 6.3 million people of eligibility for the Supplemental Nutrition Assistance Program by fiscal year 2029, according to the U.S. Department of Agriculture. The proposed rule, published Tuesday, would end the automatic SNAP qualification some recipients of federal Temporary Assistance for Needy Families benefits now receive, a change the administration says would close a loophole. SNAP serves about 1 in 10 Americans.
-nut_graf: The proposal is the latest in a series of federal actions narrowing access to the food aid program. About 5.5 million people have already lost SNAP benefits over the past year, and Trump's 2025 tax and policy law is shifting more of the program's cost to states. The Agriculture Department will take public comment on the rule until next month, and the change would not take full effect for about two years if adopted.
+lede: The Trump administration has proposed a rule that could strip about 6.3 million
+  people of eligibility for the Supplemental Nutrition Assistance Program by fiscal
+  year 2029, according to the U.S. Department of Agriculture. The proposed rule, published
+  Tuesday, would end the automatic SNAP qualification some recipients of federal Temporary
+  Assistance for Needy Families benefits now receive, a change the administration
+  says would close a loophole. SNAP serves about 1 in 10 Americans.
+nut_graf: The proposal is the latest in a series of federal actions narrowing access
+  to the food aid program. About 5.5 million people have already lost SNAP benefits
+  over the past year, and Trump's 2025 tax and policy law is shifting more of the
+  program's cost to states. The Agriculture Department will take public comment on
+  the rule until next month, and the change would not take full effect for about two
+  years if adopted.
 primary_entities:
 - Donald Trump
 - U.S. Department of Agriculture
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,32 +165,34 @@ related_stories:
   headline: SNAP enrollment drops 13% after Trump administration work requirements
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7604
+  strength: 0.76
 - slug: 2026-10-23-usda-proposes-requiring-chip-cards-for-snap-benefits-in-all-50-states
   headline: USDA proposes requiring chip cards for SNAP benefits in all 50 states
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7567
+  strength: 0.7582
 - slug: 2026-10-26-usda-proposes-requiring-chip-enabled-snap-cards-and-tap-to-pay-terminals
   headline: USDA proposes requiring chip-enabled SNAP cards and tap-to-pay terminals
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7204
+  strength: 0.7215
 - slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
   headline: SNAP enrollment falls almost 13% as new federal requirements take hold
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7872
+  strength: 0.7867
 - slug: 2026-10-15-state-department-eyes-335-000-campaign-as-afrikaner-refugee-applications-lag
-  headline: State Department eyes $335,000 campaign as Afrikaner refugee applications lag
+  headline: State Department eyes $335,000 campaign as Afrikaner refugee applications
+    lag
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6859
+  strength: 0.686
 - slug: 2026-09-17-trump-administration-proposes-dropping-head-start-priority-for-homeless-children
-  headline: Trump administration proposes dropping Head Start priority for homeless children
+  headline: Trump administration proposes dropping Head Start priority for homeless
+    children
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7259
+  strength: 0.7265
 - slug: 2026-09-19-cdc-reports-us-adults-produce-consumption-rises-with-income
   headline: CDC reports US adults' produce consumption rises with income
   publish_date: '2026-09-19'
@@ -187,69 +202,8 @@ related_stories:
   headline: SNAP enrollment falls more than 13% as Trump bill changes take hold
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.7479
-- slug: 2026-07-25-more-than-1-million-children-lose-snap-benefits-after-trump-bill
-  headline: More than 1 million children lose SNAP benefits after Trump bill
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.7496
-- slug: 2026-08-06-trump-administration-proposes-shifting-head-start-rules-to-states
-  headline: Trump administration proposes shifting Head Start rules to states
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.7199
-- slug: 2026-07-23-trump-administration-ends-landmark-nutrition-program-for-low-income-americans
-  headline: Trump administration ends landmark nutrition program for low-income Americans
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.707
-- slug: 2026-06-23-judge-blocks-snap-restrictions-on-soft-drinks-candy
-  headline: Judge blocks SNAP restrictions on soft drinks, candy
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7317
-- slug: 2026-05-02-fact-check-4-3-million-fewer-snap-recipients-tied-to-new-work-rules
-  headline: 'Fact check: 4.3 million fewer SNAP recipients tied to new work rules'
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.742
-- slug: 2026-07-28-trump-administration-to-end-medicare-drug-plan-subsidy-after-2026
-  headline: Trump administration to end Medicare drug plan subsidy after 2026
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6834
-- slug: 2026-02-16-judge-tentatively-blocks-trump-administration-from-accessing-snap-data
-  headline: Judge tentatively blocks Trump administration from accessing SNAP data
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.7395
-- slug: 2025-12-30-trump-era-work-rules-could-change-snap-medicaid-and-hud-housing-eligibility
-  headline: Trump-era work rules could change SNAP, Medicaid and HUD housing eligibility
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7278
-- slug: 2026-01-01-trump-officials-eye-limits-on-sugary-drinks-and-candy-in-snap-benefits
-  headline: Trump officials eye limits on sugary drinks and candy in SNAP benefits
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.7153
-- slug: 2025-12-29-work-requirements-for-snap-medicaid-and-hud-benefits-a-state-by-state-impact
-  headline: 'Work requirements for SNAP, Medicaid and HUD benefits: a state-by-state impact'
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7055
-- slug: 2026-02-11-us-to-expand-passport-revocations-for-parents-who-owe-child-support
-  headline: US to expand passport revocations for parents who owe child support
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.701
-- slug: 2026-01-03-trump-officials-seek-to-bar-junk-food-from-snap-but-rules-are-hard
-  headline: Trump officials seek to bar junk food from SNAP, but rules are hard
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6948
+  strength: 0.7472
 ---
-
 ## Trump administration proposal could end SNAP eligibility for 6.3 million people
 
 **Subtype:** fact

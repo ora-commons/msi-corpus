@@ -1,9 +1,15 @@
 ---
-headline: Montana House Democrats elect trans/nonbinary Rep. SJ Howell as minority leader
+headline: Montana House Democrats elect trans/nonbinary Rep. SJ Howell as minority
+  leader
 secondary_headline: Zephyr, barred from the floor in 2023, was voted a House whip
 publish_date: '2026-11-11'
-lede: Democrats in the Montana House have elected state Rep. SJ Howell of Missoula as their minority leader. State Rep. Zooey Zephyr announced the result on social media Wednesday and was voted one of three minority whips in the chamber.
-nut_graf: The leadership vote places Montana's first nonbinary legislator and its first openly transgender lawmaker, both elected in 2022, in the chamber's Democratic leadership team. It comes as Republicans dominate the state Legislature and hold all six statewide offices.
+lede: Democrats in the Montana House have elected state Rep. SJ Howell of Missoula
+  as their minority leader. State Rep. Zooey Zephyr announced the result on social
+  media Wednesday and was voted one of three minority whips in the chamber.
+nut_graf: The leadership vote places Montana's first nonbinary legislator and its
+  first openly transgender lawmaker, both elected in 2022, in the chamber's Democratic
+  leadership team. It comes as Republicans dominate the state Legislature and hold
+  all six statewide offices.
 primary_entities:
 - SJ Howell
 - Zooey Zephyr
@@ -43,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +147,8 @@ cross_article_links:
   strength: 0.5463
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
-  headline: Tom Emmer wins House Republican whip race over August Pfluger
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6124
-- slug: 2026-11-10-house-republicans-elect-jim-jordan-as-their-leader-after-midterm-losses
-  headline: House Republicans elect Jim Jordan as their leader after midterm losses
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.5787
-- slug: 2026-11-08-native-women-win-governor-senate-and-tribal-leadership-firsts-in-midterms
-  headline: Native women win governor, Senate and tribal leadership firsts in midterms
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.5798
-- slug: 2026-11-09-democrats-take-georgia-house-control-as-republicans-retain-state-senate
-  headline: Democrats take Georgia House control as Republicans retain state Senate
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.5701
-- slug: 2026-11-05-missouri-voters-approve-amendment-6-curbing-repeal-of-citizen-approved-laws
-  headline: Missouri voters approve Amendment 6, curbing repeal of citizen-approved laws
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5861
-- slug: 2026-11-06-incoming-democratic-senators-decline-to-back-schumer-as-majority-leader
-  headline: Incoming Democratic senators decline to back Schumer as majority leader
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5659
-- slug: 2026-11-06-incoming-senate-class-includes-first-muslim-native-american-and-paralympian
-  headline: Incoming Senate class includes first Muslim, Native American and Paralympian
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5655
-- slug: 2026-11-05-black-voter-turnout-propels-democratic-wins-across-the-south
-  headline: Black voter turnout propels Democratic wins across the South
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5706
-- slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
-  headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5703
-- slug: 2026-11-04-mike-johnson-steps-aside-from-house-republican-leadership-after-midterm-losses
-  headline: Mike Johnson steps aside from House Republican leadership after midterm losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5757
-- slug: 2026-11-03-midterm-candidates-vie-for-historic-firsts-in-governor-and-senate-races
-  headline: Midterm candidates vie for historic firsts in governor and Senate races
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5757
-- slug: 2026-11-03-at-least-five-dsa-endorsed-candidates-win-house-seats
-  headline: At least five DSA-endorsed candidates win House seats
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5748
-- slug: 2026-11-04-el-sayed-and-pappas-make-history-as-haaland-wins-new-mexico-governorship
-  headline: El-Sayed and Pappas make history as Haaland wins New Mexico governorship
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5679
-- slug: 2026-11-04-house-republicans-scheduled-to-pick-new-leader-nov-10-after-johnson-s-departure
-  headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5668
-- slug: 2026-10-02-times-siena-poll-finds-12-point-gender-gap-in-2026-house-vote
-  headline: Times-Siena poll finds 12-point gender gap in 2026 House vote
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5781
-- slug: 2026-08-05-whaley-wins-michigan-statehouse-primary-advances-to-november-general-election
-  headline: Whaley wins Michigan statehouse primary, advances to November general election
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.5911
-- slug: 2026-08-12-tafoya-and-demuth-win-minnesota-republican-primaries
-  headline: Tafoya and Demuth win Minnesota Republican primaries
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5699
-- slug: 2026-03-31-gianforte-signs-montana-bill-defining-sex-as-binary-for-state-law
-  headline: Gianforte signs Montana bill defining sex as binary for state law
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6162
-- slug: 2026-04-17-mejia-wins-new-jersey-11th-district-house-special-election
-  headline: Mejía wins New Jersey House special election, adding to Democratic gains
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5766
-- slug: 2026-02-03-new-jersey-voters-pick-democratic-nominee-in-special-11th-district-primary
-  headline: New Jersey voters pick Democratic nominee in special 11th district primary
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.5833
+related_stories: []
 ---
-
 ## Montana House Democrats elect trans/nonbinary Rep. SJ Howell as minority leader
 
 **Subtype:** fact

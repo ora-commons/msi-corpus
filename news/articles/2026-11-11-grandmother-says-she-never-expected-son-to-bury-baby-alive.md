@@ -2,8 +2,20 @@
 headline: Grandmother says she never expected son to bury baby alive
 secondary_headline: Sheriff says father offered little about the baby's location
 publish_date: '2026-11-11'
-lede: Patricia Comer, the grandmother of 11-month-old Koah Sharpe, told NBC News that the baby's mother had full custody of the boy but allowed her to supervise while Michael Comer watched his son, and that her son had watched the baby before unsupervised without any problems. "Honestly, I'm his mother, and I never expected this from him," Patricia Comer said. Lexington County Sheriff Jay Koon said deputies asked Michael Comer, 25, where his son was and that the father "did not have much to say" about the boy's whereabouts, and Koon estimated the crate as about a two-foot by two-foot dog crate.
-nut_graf: Officials say Michael Comer buried his 11-month-old son alive in a dog crate; the baby was found on Tuesday "buried alive" and "clinging to life" not far from his father's house and is now in hospital, with Koon hopeful of a full recovery. Comer was arrested on a burglary charge Monday evening without the boy, police are still deciding what further charges to bring, and court records show Comer previously pleaded guilty to domestic violence charges.
+lede: Patricia Comer, the grandmother of 11-month-old Koah Sharpe, told NBC News that
+  the baby's mother had full custody of the boy but allowed her to supervise while
+  Michael Comer watched his son, and that her son had watched the baby before unsupervised
+  without any problems. "Honestly, I'm his mother, and I never expected this from
+  him," Patricia Comer said. Lexington County Sheriff Jay Koon said deputies asked
+  Michael Comer, 25, where his son was and that the father "did not have much to say"
+  about the boy's whereabouts, and Koon estimated the crate as about a two-foot by
+  two-foot dog crate.
+nut_graf: Officials say Michael Comer buried his 11-month-old son alive in a dog crate;
+  the baby was found on Tuesday "buried alive" and "clinging to life" not far from
+  his father's house and is now in hospital, with Koon hopeful of a full recovery.
+  Comer was arrested on a burglary charge Monday evening without the boy, police are
+  still deciding what further charges to bring, and court records show Comer previously
+  pleaded guilty to domestic violence charges.
 primary_entities:
 - Koah Sharpe
 - Michael Comer
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +157,14 @@ related_stories:
   headline: Searchers find 11-month-old boy alive in South Carolina
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8301
+  strength: 0.8307
 - slug: 2026-11-11-deputies-find-south-carolina-infant-buried-alive-in-dog-crate-father-arrested
-  headline: South Carolina infant's father pleaded guilty to domestic violence in October
+  headline: South Carolina infant's father pleaded guilty to domestic violence in
+    October
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8066
-- slug: 2026-11-10-dhs-cites-safety-guardianship-concerns-vargas-says-8-year-old-haitian-boy-is-una
-  headline: DHS cites safety, guardianship concerns; Vargas says 8-year-old Haitian boy is unaccounted for
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.5655
-- slug: 2026-11-02-kohen-wiley-s-parents-protest-at-mississippi-attorney-general-s-office
-  headline: Kohen Wiley’s parents protest at Mississippi attorney general’s office
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.572
-- slug: 2026-10-25-arcadia-couple-faces-child-abuse-conspiracy-charges-hearing-cites-26-children
-  headline: Arcadia couple faces child abuse conspiracy charges; hearing cites 26 children
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5741
-- slug: 2026-10-22-wiley-family-attorneys-seek-federal-inquiry-after-fatal-shooting-footage-surface
-  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5861
-- slug: 2026-10-23-mississippi-releases-body-camera-footage-of-fatal-toddler-police-shooting
-  headline: Mississippi releases body-camera footage of fatal toddler police shooting
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5647
-- slug: 2026-10-19-autopsy-indicates-kohen-wiley-shot-from-side-of-car-not-front
-  headline: Autopsy indicates Kohen Wiley shot from side of car, not front
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5783
-- slug: 2026-10-16-coroner-identifies-lake-mead-barrel-homicide-victim-as-edward-lelburian-jackson
-  headline: Coroner identifies Lake Mead barrel homicide victim as Edward Lelburian Jackson
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.5606
-- slug: 2026-09-30-parents-to-face-charges-after-toddler-pulls-loaded-pistol-from-backpack
-  headline: Parents to face charges after toddler pulls loaded pistol from backpack
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5617
-- slug: 2026-09-22-west-s-lawyers-suggested-placing-newborn-in-hospice-court-filing-shows
-  headline: West's lawyers suggested placing newborn in hospice, court filing shows
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5673
-- slug: 2026-09-07-suburban-chicago-mother-charged-with-first-degree-murder-in-toddler-s-death
-  headline: Suburban Chicago mother charged with first-degree murder in toddler's death
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5828
-- slug: 2026-06-26-michigan-parents-charged-with-murder-after-7-year-old-son-dies-weighing-255-poun
-  headline: Michigan parents charged with murder after 7-year-old son dies weighing 255 pounds
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6061
-- slug: 2026-07-06-arizona-toddler-declared-dead-found-alive-in-morgue-hours-later
-  headline: Arizona toddler declared dead found alive in morgue hours later
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5807
-- slug: 2026-07-01-authorities-find-16-ohio-children-confined-to-one-room-for-four-years
-  headline: Authorities find 16 Ohio children confined to one room for four years
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5833
-- slug: 2026-06-25-ex-colorado-coroner-and-brother-arrested-for-mishandling-2-dozen-bodies
-  headline: Ex-Colorado coroner and brother arrested for mishandling 2 dozen bodies
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5603
-- slug: 2026-04-04-second-suspect-arrested-in-brooklyn-stray-bullet-killing-of-baby
-  headline: Second suspect arrested in Brooklyn stray-bullet killing of baby
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5734
-- slug: 2026-04-08-parents-charged-after-toddler-injured-at-hersheypark-zoo-wolf-enclosure
-  headline: Parents charged after toddler injured at Hersheypark zoo wolf enclosure
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5699
-- slug: 2026-03-10-cher-s-son-elijah-allman-court-hearing-canceled-after-new-hampshire-arrest
-  headline: Cher’s son Elijah Allman court hearing canceled after New Hampshire arrest
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5711
-- slug: 2026-03-11-cher-s-son-elijah-allman-s-court-hearing-canceled-after-new-hampshire-arrest
-  headline: Cher’s son Elijah Allman’s court hearing canceled after New Hampshire arrest
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.5679
+  strength: 0.8071
 ---
-
 ## Grandmother says she never expected son to bury baby alive
 
 **Subtype:** fact

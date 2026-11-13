@@ -65,7 +65,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -263,3 +263,10 @@ Rubio and new White House chief of staff Stephen Miller are supportive of mainta
 **Publication date:** 2026-11-11
 **Title:** Vance Considers Direct Talks With Iran Hardliner in Push to End War
 **URL:** https://www.wsj.com/world/middle-east/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war-0c2e3ea4
+
+### src_late_08b32b4ca12fafaf — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Amira McKee
+**Publication date:** 2026-11-11
+**Title:** JD Vance Emerges as Lead Iran Negotiator
+**URL:** https://www.wsj.com/world/middle-east/jd-vance-emerges-as-lead-iran-negotiator-cba55bcb
+**Added after publication:** true

@@ -212,6 +212,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-10-who-the-u-s-boat-strike-campaign-counts-and-whom-it-excludes'
 ---
 ## Impeachment articles cite survivor killings, judge ruling against Kelly inquiry
 
@@ -253,3 +255,8 @@ Bowman recalled the retired general Hal Moore, who served in Vietnam, telling hi
 **Publication date:** 2026-11-10
 **Title:** Hegseth has remained defiant as Congress members deliberate articles of impeachment
 **URL:** https://www.npr.org/2026/11/10/nx-s1-6035792/hegseth-has-remained-defiant-as-congress-members-deliberate-articles-of-impeachment
+
+---
+
+<!-- analysis-link:2026-11-10-who-the-u-s-boat-strike-campaign-counts-and-whom-it-excludes -->
+**Going deeper:** [Read MSI's analysis of the Hegseth impeachment boundary audit →](/analyses/2026-11-10-who-the-u-s-boat-strike-campaign-counts-and-whom-it-excludes)

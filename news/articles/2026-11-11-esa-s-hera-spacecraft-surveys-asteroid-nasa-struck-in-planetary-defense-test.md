@@ -1,9 +1,17 @@
 ---
-headline: ESA's Hera spacecraft surveys asteroid NASA struck in planetary defense test
+headline: ESA's Hera spacecraft surveys asteroid NASA struck in planetary defense
+  test
 secondary_headline: The 2022 Dart impact shortened the moonlet's orbit around Didymos
 publish_date: '2026-11-11'
-lede: The European Space Agency's Hera spacecraft has begun close inspections of the asteroid that NASA rammed four years ago in a planetary defense test. ESA announced Wednesday that Hera is studying the asteroid Didymos and its moonlet Dimorphos from 15 to 18 miles away, with an even closer pass planned next month.
-nut_graf: Hera is the European follow-up to NASA's Double Asteroid Redirection Test, which deliberately slammed into Dimorphos in 2022 to see whether such a defensive move might help save Earth from a killer space rock one day. The strike shortened the moonlet's orbit around Didymos and nudged it onto a slightly different path around the sun, and ESA officials consider the inspection a “crash site investigation.”
+lede: The European Space Agency's Hera spacecraft has begun close inspections of the
+  asteroid that NASA rammed four years ago in a planetary defense test. ESA announced
+  Wednesday that Hera is studying the asteroid Didymos and its moonlet Dimorphos from
+  15 to 18 miles away, with an even closer pass planned next month.
+nut_graf: Hera is the European follow-up to NASA's Double Asteroid Redirection Test,
+  which deliberately slammed into Dimorphos in 2022 to see whether such a defensive
+  move might help save Earth from a killer space rock one day. The strike shortened
+  the moonlet's orbit around Didymos and nudged it onto a slightly different path
+  around the sun, and ESA officials consider the inspection a “crash site investigation.”
 primary_entities:
 - European Space Agency
 - NASA
@@ -37,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,109 +143,8 @@ cross_article_links:
   strength: 0.5715
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-04-nasa-s-swift-telescope-reenters-earth-s-atmosphere-ending-22-year-mission
-  headline: NASA's Swift telescope reenters Earth's atmosphere, ending 22-year mission
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6008
-- slug: 2026-10-31-swift-observatory-forecast-to-crash-to-earth-around-friday-after-failed-rescue
-  headline: Swift Observatory forecast to crash to Earth around Friday after failed rescue
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.5785
-- slug: 2026-08-12-artemis-i-radiation-vest-could-drastically-cut-astronaut-exposure-study-finds
-  headline: Artemis I radiation vest could drastically cut astronaut exposure, study finds
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6163
-- slug: 2026-08-05-stray-spacex-falcon-9-stage-believed-to-have-struck-the-moon
-  headline: Stray SpaceX Falcon 9 stage believed to have struck the moon
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6112
-- slug: 2026-07-31-spacex-rocket-stage-on-course-to-strike-moon-wednesday
-  headline: SpaceX rocket stage on course to strike moon Wednesday
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5924
-- slug: 2026-07-22-robotic-rescue-of-nasa-telescope-highlights-challenge-of-capturing-space-junk
-  headline: Robotic rescue of NASA telescope highlights challenge of capturing space junk
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5932
-- slug: 2026-06-26-large-asteroid-1997-nc1-to-pass-harmlessly-past-earth-saturday
-  headline: Large asteroid 1997 NC1 to pass harmlessly past Earth Saturday
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6046
-- slug: 2026-05-15-nasa-psyche-spacecraft-slingshots-past-mars-en-route-to-rare-metal-asteroid
-  headline: NASA Psyche spacecraft slingshots past Mars en route to rare metal asteroid
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6193
-- slug: 2026-07-13-faa-clears-spacex-starship-for-test-flight-after-mishap-probe
-  headline: FAA clears SpaceX Starship for test flight after mishap probe
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5758
-- slug: 2026-05-15-nasa-s-psyche-spacecraft-uses-a-mars-flyby-for-gravity-boost
-  headline: NASA’s Psyche spacecraft uses a Mars flyby for gravity boost
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6112
-- slug: 2026-07-08-new-horizons-probe-wakes-after-record-hibernation-beyond-pluto
-  headline: New Horizons probe wakes after record hibernation beyond Pluto
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5763
-- slug: 2026-03-05-nasa-says-asteroid-2024-yr4-poses-zero-risk-of-moon-impact-in-2032
-  headline: NASA says asteroid 2024 YR4 poses zero risk of moon impact in 2032
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6144
-- slug: 2026-03-15-nasa-clears-artemis-moon-rocket-for-april-launch-with-four-astronauts
-  headline: NASA clears Artemis moon rocket for April launch with four astronauts
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6009
-- slug: 2026-05-03-eta-aquarid-meteor-shower-2026-bright-moon-may-spoil-the-show
-  headline: 'Eta Aquarid meteor shower 2026: Bright moon may spoil the show'
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5902
-- slug: 2026-05-17-artemis-ii-astronauts-give-high-marks-to-moonship-heat-shield
-  headline: Artemis II astronauts give high marks to moonship heat shield
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5831
-- slug: 2026-04-02-long-beach-firm-exlabs-plans-april-2028-launch-to-rendezvous-with-apophis
-  headline: Long Beach firm ExLabs plans April 2028 launch to rendezvous with Apophis
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5947
-- slug: 2026-04-01-artemis-ii-nasa-s-4-astronauts-fly-past-the-moon-and-splash-down
-  headline: 'Artemis II: NASA’s 4 astronauts fly past the moon and splash down'
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5914
-- slug: 2026-02-25-nasa-rolls-artemis-ii-moon-rocket-back-for-more-repairs-targeting-april
-  headline: NASA rolls Artemis II moon rocket back for more repairs, targeting April
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5937
-- slug: 2026-05-05-astronomers-detect-an-atmosphere-around-a-mini-pluto
-  headline: Astronomers detect an atmosphere around a mini Pluto
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.5774
-- slug: 2026-04-04-artemis-ii-astronauts-share-first-images-as-they-speed-toward-the-moon
-  headline: Artemis II astronauts share first images as they speed toward the moon
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5836
+related_stories: []
 ---
-
 ## ESA's Hera spacecraft surveys asteroid NASA struck in planetary defense test
 
 **Subtype:** fact

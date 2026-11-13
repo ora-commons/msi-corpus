@@ -1,9 +1,22 @@
 ---
 headline: Democrats move to block Trump's battleship funding and War Department renaming
-secondary_headline: Pentagon spending could freeze below $900 billion without a budget deal
+secondary_headline: Pentagon spending could freeze below $900 billion without a budget
+  deal
 publish_date: '2026-11-11'
-lede: Congressional Democrats, fresh off wins in last week's midterm elections, plan to block funding for President Trump's proposed Trump-class battleships and to strike language renaming the Defense Department the Department of War, according to lawmakers. The Navy has said the new warship would be the most expensive in its fleet, and the Congressional Budget Office estimates a $23 billion cost for the first ship. Democrats are also pressing for changes to the administration's Golden Dome missile shield as they gain leverage over the Pentagon's $1.5 trillion budget request.
-nut_graf: The fight will center on the National Defense Authorization Act, which has passed every year since the early 1960s, as House and Senate Armed Services Committee members work to merge their versions before the end of the year. Newly victorious Democrats are using their leverage to demand that Republican negotiators pare back provisions such as the departmental name change, and the outcome will shape how Congress handles a Pentagon budget request the administration has deliberately split into three packages.
+lede: Congressional Democrats, fresh off wins in last week's midterm elections, plan
+  to block funding for President Trump's proposed Trump-class battleships and to strike
+  language renaming the Defense Department the Department of War, according to lawmakers.
+  The Navy has said the new warship would be the most expensive in its fleet, and
+  the Congressional Budget Office estimates a $23 billion cost for the first ship.
+  Democrats are also pressing for changes to the administration's Golden Dome missile
+  shield as they gain leverage over the Pentagon's $1.5 trillion budget request.
+nut_graf: The fight will center on the National Defense Authorization Act, which has
+  passed every year since the early 1960s, as House and Senate Armed Services Committee
+  members work to merge their versions before the end of the year. Newly victorious
+  Democrats are using their leverage to demand that Republican negotiators pare back
+  provisions such as the departmental name change, and the outcome will shape how
+  Congress handles a Pentagon budget request the administration has deliberately split
+  into three packages.
 primary_entities:
 - Trump
 - Hegseth
@@ -57,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,116 +170,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-11-democrats-move-to-block-trump-s-battleship-funding-and-war-department-renaming.png
-  alt: 'Illustration accompanying article: Democrats move to block Trump''s battleship funding and War Department renaming'
+  alt: 'Illustration accompanying article: Democrats move to block Trump''s battleship
+    funding and War Department renaming'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-09-democrats-prepare-oversight-of-trump-s-education-policies
   headline: Democrats prepare oversight of Trump's education policies
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6735
+  strength: 0.6721
 - slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
+  headline: Democrats take control of Congress, seek leverage over Trump’s foreign
+    policy
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6808
+  strength: 0.6794
 - slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
   headline: Democrats prepare agenda on taxes, health care, AI and Social Security
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6774
+  strength: 0.6761
 - slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6737
+  strength: 0.6735
 - slug: 2026-10-28-pentagon-puts-iran-war-cost-at-47-1-billion
   headline: Pentagon puts Iran war cost at $47.1 billion
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6881
+  strength: 0.688
 - slug: 2026-10-12-trump-s-august-steam-catapult-order-traces-to-unidentified-navy-sailor
   headline: Trump's August steam catapult order traces to unidentified Navy sailor
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6803
+  strength: 0.68
 - slug: 2026-09-16-cbo-estimates-golden-dome-space-weapons-could-cost-542-billion
   headline: CBO estimates Golden Dome space weapons could cost $542 billion
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6856
+  strength: 0.6844
 - slug: 2026-08-27-iran-war-costs-force-us-navy-to-tap-payroll-accounts-for-combat-funding
   headline: Iran war costs force US Navy to tap payroll accounts for combat funding
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6767
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6769
-- slug: 2026-08-13-trump-directs-navy-to-restore-steam-catapults-in-future-carriers
-  headline: Trump directs Navy to restore steam catapults in future carriers
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6918
-- slug: 2026-07-22-house-passes-1-15-trillion-defense-bill-renames-pentagon-department-of-war
-  headline: House passes $1.15 trillion defense bill, renames Pentagon 'Department of War'
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7125
-- slug: 2026-06-05-house-panel-votes-to-codify-department-of-war-name-change
-  headline: House panel votes to codify 'Department of War' name change
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7188
-- slug: 2026-06-18-house-and-senate-panels-approve-renaming-pentagon-the-department-of-war
-  headline: House and Senate panels approve renaming Pentagon the 'Department of War'
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7011
-- slug: 2026-07-14-senate-democrats-block-defense-bill-as-iran-fighting-continues
-  headline: Senate Democrats block defense bill as Iran fighting continues
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6742
-- slug: 2026-07-05-trump-s-plan-for-qatar-donated-air-force-one-in-library-faces-hurdles
-  headline: Trump's plan for Qatar-donated Air Force One in library faces hurdles
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6819
-- slug: 2026-05-13-cbo-puts-golden-dome-cost-at-1-2-trillion-exceeding-trump-s-175-billion-estimate
-  headline: CBO puts Golden Dome cost at $1.2 trillion, exceeding Trump's $175 billion estimate
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6959
-- slug: 2026-04-04-trump-proposes-2027-budget-boosts-pentagon-spending-to-1-5t
-  headline: Trump proposes 2027 budget boosts Pentagon spending to $1.5T
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6976
-- slug: 2026-05-13-trump-s-golden-dome-missile-defense-plan-estimated-at-1-2t-over-20-years
-  headline: Trump’s “Golden Dome” missile defense plan estimated at $1.2T over 20 years
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6865
-- slug: 2026-04-21-pentagon-seeks-major-2027-boost-for-drones-air-defenses-used-in-iran-war
-  headline: Pentagon seeks major 2027 boost for drones, air defenses used in Iran war
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6915
-- slug: 2026-05-22-gop-senators-delay-immigration-funding-as-anti-weaponization-fund-raises-doubts
-  headline: GOP senators delay immigration funding as anti-weaponization fund raises doubts
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6727
+  strength: 0.6776
 ---
-
 ## Democrats move to block Trump's battleship funding and War Department renaming
 
 - Congressional Democrats plan to block funding for President Trump's proposed "Trump-class" battleship, one of the prime targets in his $1.5 trillion Pentagon budget request.
