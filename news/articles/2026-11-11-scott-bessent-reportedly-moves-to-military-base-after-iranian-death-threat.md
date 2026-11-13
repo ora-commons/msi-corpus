@@ -1,9 +1,24 @@
 ---
 headline: Scott Bessent reportedly moves to military base after Iranian death threat
-secondary_headline: Democrats demand answers after ICE takes eight-year-old Haitian boy into custody
+secondary_headline: Democrats demand answers after ICE takes eight-year-old Haitian
+  boy into custody
 publish_date: '2026-11-11'
-lede: US Treasury chief Scott Bessent has relocated from his home in the Washington area to a military base after an Iranian threat against his life, the New York Times reported, according to The Guardian's First Thing newsletter published November 11. Bessent has led the US sanctions and economic pressure campaign against Iran, called Operation Economic Outcast, since August. The newsletter also reported that Democratic lawmakers in California are demanding answers from the Trump administration about the safety and whereabouts of an eight-year-old Haitian boy who they say was put in restraints and taken into custody by federal immigration officers at a check-in last week.
-nut_graf: Bessent has led the US sanctions and economic pressure campaign against Iran, called Operation Economic Outcast, since August, and the reported relocation ties the personal security of the Treasury chief to that confrontation. The newsletter's other political developments — House Republicans' block of Thomas Massie's impeachment resolution against Defense Secretary Pete Hegseth and the election of Jim Jordan as House Republican leader — stand alongside legal, public-safety, health and economic news from the US and abroad.
+lede: US Treasury chief Scott Bessent has relocated from his home in the Washington
+  area to a military base after an Iranian threat against his life, the New York Times
+  reported, according to The Guardian's First Thing newsletter published November
+  11. Bessent has led the US sanctions and economic pressure campaign against Iran,
+  called Operation Economic Outcast, since August. The newsletter also reported that
+  Democratic lawmakers in California are demanding answers from the Trump administration
+  about the safety and whereabouts of an eight-year-old Haitian boy who they say was
+  put in restraints and taken into custody by federal immigration officers at a check-in
+  last week.
+nut_graf: Bessent has led the US sanctions and economic pressure campaign against
+  Iran, called Operation Economic Outcast, since August, and the reported relocation
+  ties the personal security of the Treasury chief to that confrontation. The newsletter's
+  other political developments — House Republicans' block of Thomas Massie's impeachment
+  resolution against Defense Secretary Pete Hegseth and the election of Jim Jordan
+  as House Republican leader — stand alongside legal, public-safety, health and economic
+  news from the US and abroad.
 primary_entities:
 - Pete Hegseth
 - Thomas Massie
@@ -57,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,107 +172,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-11-scott-bessent-reportedly-relocates-to-military-base-after-threat-from-iran
-  headline: Scott Bessent reportedly relocates to military base after threat from Iran
+  headline: Scott Bessent reportedly relocates to military base after threat from
+    Iran
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8362
+  strength: 0.8377
 - slug: 2026-11-09-hegseth-faces-four-seat-house-test-as-johnson-warns-on-impeachment
   headline: Hegseth faces four-seat House test as Johnson warns on impeachment
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7507
+  strength: 0.7496
 - slug: 2026-11-10-pete-hegseth-defends-iran-war-as-lawmakers-consider-his-impeachment
   headline: Pete Hegseth defends Iran war as lawmakers consider his impeachment
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7394
+  strength: 0.7391
 - slug: 2026-11-10-massie-s-impeachment-resolution-cites-hegseth-s-yemen-and-venezuela-actions
   headline: Massie's impeachment resolution cites Hegseth's Yemen and Venezuela actions
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7376
+  strength: 0.7368
 - slug: 2026-11-09-massie-alleges-hegseth-violated-the-constitution-and-ignored-war-powers
   headline: Massie alleges Hegseth violated the Constitution and ignored war powers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7235
+  strength: 0.7218
+- slug: 2026-11-11-trump-hails-defeat-of-hegseth-impeachment-push-and-calls-massie-a-major-loser
+  headline: Trump hails defeat of Hegseth impeachment push and calls Massie 'a major
+    LOSER'
+  publish_date: '2026-11-11'
+  relation: related
+  strength: 0.7032
 - slug: 2026-11-10-house-blocks-hegseth-impeachment-effort-in-211-204-vote
   headline: House blocks Hegseth impeachment effort in 211-204 vote
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7117
-- slug: 2026-11-11-trump-hails-defeat-of-hegseth-impeachment-push-and-calls-massie-a-major-loser
-  headline: Trump hails defeat of Hegseth impeachment push and calls Massie 'a major LOSER'
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7046
-- slug: 2026-11-10-republicans-53-47-senate-majority-faces-possible-shift-to-44-seats
-  headline: Republicans' 53-47 Senate majority faces possible shift to 44 seats
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7047
+  strength: 0.7094
 - slug: 2026-11-07-hegseth-s-team-prepares-response-to-possible-house-impeachment-vote
   headline: Hegseth's team prepares response to possible House impeachment vote
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7247
-- slug: 2026-11-11-house-oversight-report-concludes-government-mishandled-epstein-investigations
-  headline: House Oversight report concludes government mishandled Epstein investigations
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6965
-- slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7139
-- slug: 2026-11-08-jeffries-backs-impeaching-hegseth-as-democrats-prepare-to-take-house-control
-  headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7137
-- slug: 2026-11-09-pete-hegseth-will-brief-reporters-on-expected-iran-war-impeachment-resolution
-  headline: Pete Hegseth will brief reporters on expected Iran war impeachment resolution
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6928
-- slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
-  headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7153
-- slug: 2026-11-06-white-house-denies-shakeup-talk-as-trump-defends-hegseth-after-midterm-losses
-  headline: White House denies shakeup talk as Trump defends Hegseth after midterm losses
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6937
-- slug: 2026-10-23-massie-plans-hegseth-impeachment-vote-when-house-returns-nov-9
-  headline: Massie plans Hegseth impeachment vote when House returns Nov. 9
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6956
-- slug: 2026-10-07-bessent-faces-high-staff-turnover-and-unmet-economic-goals-at-treasury
-  headline: Bessent faces high staff turnover and unmet economic goals at Treasury
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7291
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.747
-- slug: 2026-08-30-bessent-announces-operation-economic-outcast-to-cut-iran-from-global-economy
-  headline: Bessent announces 'Operation Economic Outcast' to cut Iran from global economy
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7562
-- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
-  headline: Massie files articles of impeachment against Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7129
+  strength: 0.7243
 ---
-
 ## Scott Bessent reportedly moves to military base after Iranian death threat
 
 **Subtype:** fact

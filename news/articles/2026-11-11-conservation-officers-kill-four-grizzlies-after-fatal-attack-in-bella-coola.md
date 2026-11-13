@@ -2,8 +2,19 @@
 headline: Conservation officers kill four grizzlies after fatal attack in Bella Coola
 secondary_headline: Animal DNA linked the sow and cubs to the two deaths
 publish_date: '2026-11-11'
-lede: Conservation officers in the Canadian province of British Columbia killed four grizzly bears after forensic and animal DNA evidence linked a sow and three cubs to a fatal attack on Jennifer Balcarras, 48, and her daughter Selah Reed, 20, in Bella Coola earlier this month. The British Columbia Conservation Office Service said the bears were destroyed under provincial human-wildlife conflict response guidelines. The agency also said DNA testing ruled out the bears in a 2025 attack on a school group that injured 11 people, two critically.
-nut_graf: The British Columbia Conservation Office Service has identified and killed all four bears linked to the two deaths and set out the provincial guidelines under which they were destroyed. The response also carried continuing consequences in Bella Coola, where Nuxalk Nation Chief Samuel Schooner said the attack had deeply re-triggered concern among community members recovering from the 2025 school-group attack.
+lede: Conservation officers in the Canadian province of British Columbia killed four
+  grizzly bears after forensic and animal DNA evidence linked a sow and three cubs
+  to a fatal attack on Jennifer Balcarras, 48, and her daughter Selah Reed, 20, in
+  Bella Coola earlier this month. The British Columbia Conservation Office Service
+  said the bears were destroyed under provincial human-wildlife conflict response
+  guidelines. The agency also said DNA testing ruled out the bears in a 2025 attack
+  on a school group that injured 11 people, two critically.
+nut_graf: The British Columbia Conservation Office Service has identified and killed
+  all four bears linked to the two deaths and set out the provincial guidelines under
+  which they were destroyed. The response also carried continuing consequences in
+  Bella Coola, where Nuxalk Nation Chief Samuel Schooner said the attack had deeply
+  re-triggered concern among community members recovering from the 2025 school-group
+  attack.
 primary_entities:
 - Canada
 - British Columbia
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +156,19 @@ related_stories:
   headline: Grizzly kills mother and daughter near Bella Coola in British Columbia
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8686
+  strength: 0.8682
 - slug: 2026-11-04-bella-coola-bear-attack-kills-two-as-authorities-search-for-bears
   headline: Bella Coola bear attack kills two as authorities search for bears
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8692
+  strength: 0.8689
 - slug: 2026-11-04-family-says-balcarras-48-and-reed-20-were-reported-missing-after-short-walk
-  headline: Family says Balcarras, 48, and Reed, 20, were reported missing after short walk
+  headline: Family says Balcarras, 48, and Reed, 20, were reported missing after short
+    walk
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8454
-- slug: 2026-09-27-wildlife-agencies-in-at-least-15-states-report-rise-in-bear-encounters
-  headline: Wildlife agencies in at least 15 states report rise in bear encounters
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6131
-- slug: 2026-09-30-two-killed-as-car-strikes-pedestrians-at-canada-reconciliation-event
-  headline: Two killed as car strikes pedestrians at Canada reconciliation event
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5897
-- slug: 2026-09-15-two-wounded-as-colorado-bear-attacks-hit-officials-unprecedented-2026-total
-  headline: Two wounded as Colorado bear attacks hit officials' unprecedented 2026 total
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6006
-- slug: 2026-09-20-cdc-rabies-advisory-follows-beaver-attacks-petting-zoo-exposures-amid-uncertaint
-  headline: CDC rabies advisory follows beaver attacks, petting zoo exposures amid uncertainty
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5766
-- slug: 2026-09-02-family-recalls-new-mexico-man-s-life-after-fatal-bear-attack-inside-home
-  headline: Family recalls New Mexico man's life after fatal bear attack inside home
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5842
-- slug: 2026-08-21-bear-kills-man-on-navajo-nation-in-crystal-new-mexico
-  headline: Bear kills man on Navajo Nation in Crystal, New Mexico
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6077
-- slug: 2026-06-17-black-bear-injures-teen-hiker-on-mount-si-trail-in-washington
-  headline: Black bear injures teen hiker on Mount Si trail in Washington
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6342
-- slug: 2026-05-09-bear-attack-kills-hiker-found-in-glacier-national-park-nps-says
-  headline: Bear attack kills hiker found in Glacier National Park, NPS says
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6167
-- slug: 2026-06-15-alabama-hoa-plan-to-gas-226-canada-geese-draws-protests-legal-questions
-  headline: Alabama HOA plan to gas 226 Canada geese draws protests, legal questions
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5854
-- slug: 2026-01-14-california-halts-search-for-last-two-wolves-in-pack-that-killed-92-cattle
-  headline: California halts search for last two wolves in pack that killed 92 cattle
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.612
-- slug: 2026-01-05-wildlife-officials-end-colorado-mountain-lion-search-after-hiker-killed-on-new-y
-  headline: Wildlife officials end Colorado mountain lion search after hiker killed on New Year's Day
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6109
-- slug: 2026-06-09-hiker-recounts-grizzly-bear-attack-at-glacier-national-park
-  headline: Hiker recounts grizzly bear attack at Glacier National Park
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5785
-- slug: 2026-05-09-bear-attack-kills-hiker-at-glacier-national-park-first-such-fatality-since-1998
-  headline: Bear attack kills hiker at Glacier National Park; first such fatality since 1998
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5826
-- slug: 2026-01-04-suspected-fatal-mountain-lion-attack-in-colorado-follows-earlier-hiker-fight
-  headline: Suspected fatal mountain lion attack in Colorado follows earlier hiker fight
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.5995
-- slug: 2026-01-03-suspected-fatal-mountain-lion-attack-follows-earlier-encounter-on-trail
-  headline: Suspected fatal mountain lion attack follows earlier encounter on trail
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.5964
-- slug: 2026-05-07-judge-oks-alaska-wildlife-agents-killing-bears-from-helicopters-to-protect-carib
-  headline: Judge OKs Alaska wildlife agents killing bears from helicopters to protect caribou
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5783
-- slug: 2026-02-13-remote-tumbler-ridge-community-grieves-after-deadly-school-shooting
-  headline: Remote Tumbler Ridge community grieves after deadly school shooting
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5918
+  strength: 0.8452
 ---
-
 ## Conservation officers kill four grizzlies after fatal attack in Bella Coola
 
 **Subtype:** fact

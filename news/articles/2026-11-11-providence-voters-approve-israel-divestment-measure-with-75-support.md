@@ -1,9 +1,17 @@
 ---
 headline: Providence voters approve Israel divestment measure with 75% support
-secondary_headline: The campaign collected more than 10,000 signatures and deployed nearly 300 volunteers
+secondary_headline: The campaign collected more than 10,000 signatures and deployed
+  nearly 300 volunteers
 publish_date: '2026-11-11'
-lede: Voters in Providence, Rhode Island, approved a ballot measure requiring the city to refrain from investing in foreign countries that profit from “genocide, apartheid, ethnic cleansing and prolonged military occupation.” The measure passed with 75% support, making Providence the second American city to divest from Israel after Somerville, Massachusetts.
-nut_graf: Organizers said Providence’s ballot strategy and canvassing operation could be replicated in other cities. The win also came as Palm Beach County officials declined to reinvest $67.5 million in Israeli bonds, extending local investment debates beyond Rhode Island.
+lede: Voters in Providence, Rhode Island, approved a ballot measure requiring the
+  city to refrain from investing in foreign countries that profit from “genocide,
+  apartheid, ethnic cleansing and prolonged military occupation.” The measure passed
+  with 75% support, making Providence the second American city to divest from Israel
+  after Somerville, Massachusetts.
+nut_graf: Organizers said Providence’s ballot strategy and canvassing operation could
+  be replicated in other cities. The win also came as Palm Beach County officials
+  declined to reinvest $67.5 million in Israeli bonds, extending local investment
+  debates beyond Rhode Island.
 primary_entities:
 - Providence
 - Rhode Island
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,109 +145,8 @@ cross_article_links:
   strength: 0.5753
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-07-candidates-critical-of-israel-win-across-the-2026-midterms
-  headline: Candidates critical of Israel win across the 2026 midterms
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.5921
-- slug: 2026-11-04-pro-palestinian-candidates-prevail-across-2026-midterms-despite-aipac-spending
-  headline: Pro-Palestinian candidates prevail across 2026 midterms despite Aipac spending
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6063
-- slug: 2026-10-25-likud-asks-israeli-election-commission-to-stop-fly-vote
-  headline: Likud asks Israeli election commission to stop Fly&Vote
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5826
-- slug: 2026-10-15-nyc-comptroller-defends-decision-not-to-invest-in-israeli-bonds
-  headline: Levine defends decision to skip Israeli bonds, cites internal analysis
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6138
-- slug: 2026-10-22-israel-s-foreign-ministry-disputes-lander-s-account-of-olive-harvest-trip
-  headline: Israel's Foreign Ministry disputes Lander's account of olive harvest trip
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5723
-- slug: 2026-09-22-carney-announces-71-4m-palestine-pledge-at-un-two-state-meeting
-  headline: Carney announces $71.4M Palestine pledge at UN two-state meeting
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6066
-- slug: 2026-09-30-senate-rejects-west-bank-accountability-resolution-in-47-51-vote
-  headline: Senate rejects West Bank accountability resolution in 47-51 vote
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.579
-- slug: 2026-10-01-mamdani-announces-new-york-s-first-antisemitism-strategy
-  headline: Mamdani announces New York's first antisemitism strategy
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5674
-- slug: 2026-09-29-nyc-mayor-mamdani-announces-7-4-million-antisemitism-strategy
-  headline: NYC Mayor Mamdani announces $7.4 million antisemitism strategy
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5701
-- slug: 2026-09-10-david-morales-wins-providence-mayoral-primary-ousts-incumbent-smiley
-  headline: David Morales wins Providence mayoral primary, ousts incumbent Smiley
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.625
-- slug: 2026-09-24-abbas-addresses-un-by-video-after-us-denies-palestinian-visas-second-year
-  headline: Abbas addresses UN by video after US denies Palestinian visas second year
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5683
-- slug: 2026-09-08-providence-mayoral-primary-tests-rent-control-against-housing-growth
-  headline: Providence mayoral primary tests rent control against housing growth
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6116
-- slug: 2026-09-03-house-sends-israel-boycott-university-bill-to-senate-in-237-169-vote
-  headline: House sends Israel-boycott university bill to Senate in 237-169 vote
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5943
-- slug: 2026-08-10-netanyahu-rejects-sequencing-of-board-of-peace-s-15-point-gaza-plan
-  headline: Netanyahu rejects sequencing of Board of Peace's 15-point Gaza plan
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5974
-- slug: 2026-08-04-hamas-agrees-to-u-s--backed-plan-to-disarm-as-israel-withdraws
-  headline: Hamas agrees to U.S.-backed plan to disarm as Israel withdraws
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.5768
-- slug: 2026-07-20-solomon-urges-democrats-to-reject-leaders-israel-stance
-  headline: Solomon urges Democrats to reject leaders' Israel stance
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5683
-- slug: 2026-07-12-united-democracy-project-spends-11-million-in-michigan-senate-primary
-  headline: United Democracy Project spends $11 million in Michigan Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5697
-- slug: 2026-04-26-palestinians-vote-in-gaza-and-west-bank-in-first-local-elections-in-20-years
-  headline: Palestinians vote in Gaza and West Bank in first local elections in 20+ years
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5962
-- slug: 2026-04-16-senate-rejects-halt-to-israel-arms-sales-as-democratic-support-more-than-doubles
-  headline: Senate rejects halt to Israel arms sales as Democratic support more than doubles
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.578
-- slug: 2026-03-19-pritzker-condemns-aipac-after-pro-israel-group-spent-heavily-in-illinois
-  headline: Pritzker condemns AIPAC after pro-Israel group spent heavily in Illinois
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.5775
+related_stories: []
 ---
-
 ## Providence voters approve Israel divestment measure with 75% support
 
 **Subtype:** fact
