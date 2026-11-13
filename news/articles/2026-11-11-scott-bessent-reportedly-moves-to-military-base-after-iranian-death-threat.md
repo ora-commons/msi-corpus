@@ -213,6 +213,8 @@ related_stories:
   publish_date: '2026-11-07'
   relation: related
   strength: 0.7243
+analyses:
+- '2026-11-11-four-documented-chains-stall-at-decision-gates-whose-criteria-the-guardian-newsl'
 ---
 ## Scott Bessent reportedly moves to military base after Iranian death threat
 
@@ -259,3 +261,8 @@ On Washington's National Mall, a new statue titled The Foot Soldier has been ins
 **Publication date:** 2026-11-11
 **Title:** Pete Hegseth survives effort to impeach him | First Thing
 **URL:** https://www.theguardian.com/us-news/2026/nov/11/first-thing-pete-hegseth-survives-effort-to-impeach-him
+
+---
+
+<!-- analysis-link:2026-11-11-four-documented-chains-stall-at-decision-gates-whose-criteria-the-guardian-newsl -->
+**Going deeper:** [Read MSI's analysis of unstated decision gates in four chains →](/analyses/2026-11-11-four-documented-chains-stall-at-decision-gates-whose-criteria-the-guardian-newsl)
