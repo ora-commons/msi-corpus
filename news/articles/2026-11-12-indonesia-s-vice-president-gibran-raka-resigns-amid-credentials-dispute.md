@@ -162,6 +162,8 @@ related_stories:
   publish_date: '2026-11-10'
   relation: related
   strength: 0.8659
+analyses:
+- '2026-11-12-gibran-s-resignation-hands-prabowo-the-first-move-on-indonesia-s-successor'
 ---
 ## Indonesia's vice president Gibran Raka resigns amid credentials dispute
 
@@ -206,3 +208,8 @@ The academic credentials investigation was apparently not related to investigati
 **Publication date:** 2026-11-12
 **Title:** Indonesia's VP resigns as his eligibility and academic credentials are questioned
 **URL:** https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned
+
+---
+
+<!-- analysis-link:2026-11-12-gibran-s-resignation-hands-prabowo-the-first-move-on-indonesia-s-successor -->
+**Going deeper:** [Read MSI's analysis of Indonesia's vice-presidential succession →](/analyses/2026-11-12-gibran-s-resignation-hands-prabowo-the-first-move-on-indonesia-s-successor)

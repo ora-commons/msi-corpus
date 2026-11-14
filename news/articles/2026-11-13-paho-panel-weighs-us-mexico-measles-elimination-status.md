@@ -2,8 +2,19 @@
 headline: PAHO panel weighs US, Mexico measles elimination status
 secondary_headline: US reports worst measles year since 1991, with eight deaths
 publish_date: '2026-11-13'
-lede: International health experts are meeting this week to determine whether the United States and Mexico have forfeited measles elimination status, with an announcement expected next week. A Pan American Health Organization advisory commission is reviewing genetic evidence to decide whether the same measles virus has been spreading for a year or more in outbreaks that have hit North America since 2024. The United States has recorded more than 5,100 confirmed cases and eight measles-associated deaths this year, its worst year for measles illnesses since 1991.
-nut_graf: The determination would formally mark the return of sustained measles transmission inside U.S. and Mexican borders, 26 years after the United States achieved elimination in 2000. It lands as U.S. childhood vaccination rates fell to about 92% nationally last year, below the 95% level health experts say is needed to stop an infected traveler from sparking an outbreak, and amid criticism from public health specialists of a muted federal response.
+lede: International health experts are meeting this week to determine whether the
+  United States and Mexico have forfeited measles elimination status, with an announcement
+  expected next week. A Pan American Health Organization advisory commission is reviewing
+  genetic evidence to decide whether the same measles virus has been spreading for
+  a year or more in outbreaks that have hit North America since 2024. The United States
+  has recorded more than 5,100 confirmed cases and eight measles-associated deaths
+  this year, its worst year for measles illnesses since 1991.
+nut_graf: The determination would formally mark the return of sustained measles transmission
+  inside U.S. and Mexican borders, 26 years after the United States achieved elimination
+  in 2000. It lands as U.S. childhood vaccination rates fell to about 92% nationally
+  last year, below the 95% level health experts say is needed to stop an infected
+  traveler from sparking an outbreak, and amid criticism from public health specialists
+  of a muted federal response.
 primary_entities:
 - Pan American Health Organization
 - Centers for Disease Control and Prevention
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +155,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-13-paho-panel-weighs-us-mexico-measles-elimination-status.png
-  alt: 'Illustration accompanying article: PAHO panel weighs US, Mexico measles elimination status'
+  alt: 'Illustration accompanying article: PAHO panel weighs US, Mexico measles elimination
+    status'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-11-eight-experts-weigh-u-s-measles-elimination-status-this-week
   headline: Eight experts weigh U.S. measles elimination status this week
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8381
+  strength: 0.8388
 - slug: 2026-11-12-us-measles-deaths-reach-twice-the-2025-total-in-largest-outbreak-since-1991
-  headline: US measles deaths reach twice the 2025 total in largest outbreak since 1991
+  headline: US measles deaths reach twice the 2025 total in largest outbreak since
+    1991
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8082
+  strength: 0.8076
 - slug: 2026-10-30-lancaster-county-becomes-epicenter-of-worst-us-measles-outbreak-in-35-years
-  headline: Lancaster County becomes epicenter of worst US measles outbreak in 35 years
+  headline: Lancaster County becomes epicenter of worst US measles outbreak in 35
+    years
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7202
+  strength: 0.7203
 - slug: 2026-10-24-cdc-adds-178-us-measles-cases-as-death-tallies-diverge
   headline: CDC adds 178 US measles cases as death tallies diverge
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7429
+  strength: 0.7425
 - slug: 2026-10-07-pennsylvania-measles-outbreak-tops-1-000-cases-largest-in-us-since-1991
   headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7795
+  strength: 0.7797
 - slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
   headline: Annual US measles count exceeds 1991 levels as second death confirmed
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7791
+  strength: 0.7775
 - slug: 2026-10-05-pennsylvania-measles-cases-top-1-000-as-state-reports-five-deaths
   headline: Pennsylvania measles cases top 1,000 as state reports five deaths
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.7435
+  strength: 0.7422
 - slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
   headline: Advisory panel to weigh US measles elimination status in November
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.802
-- slug: 2026-10-06-hochul-declares-state-emergency-as-new-york-measles-cases-reach-108
-  headline: Hochul declares state emergency as New York measles cases reach 108
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7184
-- slug: 2026-09-30-pennsylvania-reports-fifth-measles-related-death-of-2026
-  headline: Pennsylvania reports fifth measles-related death of 2026
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7213
-- slug: 2026-09-15-pennsylvania-reports-fourth-measles-death-in-2026-worst-us-year-since-1992
-  headline: Pennsylvania reports fourth measles death in 2026, worst US year since 1992
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7327
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7379
-- slug: 2026-01-20-u-s-measles-elimination-status-at-risk-as-cases-hit-highest-level-since-1991
-  headline: U.S. measles elimination status at risk as cases hit highest level since 1991
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.8698
-- slug: 2026-08-21-who-estimates-nearly-11-million-measles-cases-globally-in-2026
-  headline: WHO estimates nearly 11 million measles cases globally in 2026
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7649
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7297
-- slug: 2026-06-03-measles-surge-in-americas-threatens-world-cup-travel-with-20-000-cases-25-deaths
-  headline: Measles surge in Americas threatens World Cup travel with 20,000 cases, 25 deaths
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7954
-- slug: 2026-07-24-us-measles-tally-passes-2025-record-with-months-still-to-go
-  headline: US measles tally passes 2025 record with months still to go
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7401
-- slug: 2026-02-05-mexico-leads-in-measles-cases-as-paho-urges-urgent-vaccination-drives
-  headline: Mexico leads in measles cases as PAHO urges urgent vaccination drives
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.801
-- slug: 2026-06-13-utah-measles-outbreak-nears-one-year-threatening-us-elimination-status
-  headline: Utah measles outbreak nears one year, threatening US elimination status
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7689
-- slug: 2026-08-02-kennedy-urges-measles-vaccination-as-us-outbreak-reaches-2-371-cases
-  headline: Kennedy urges measles vaccination as US outbreak reaches 2,371 cases
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.725
+  strength: 0.8014
 ---
-
 ## PAHO panel weighs US, Mexico measles elimination status
 
 **Subtype:** fact
