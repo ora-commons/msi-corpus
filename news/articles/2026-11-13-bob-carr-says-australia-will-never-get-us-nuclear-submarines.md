@@ -1,9 +1,17 @@
 ---
 headline: Bob Carr says Australia will never get US nuclear submarines
-secondary_headline: Marles says Aukus 'absolutely happening' as Australia has paid more than $3bn
+secondary_headline: Marles says Aukus 'absolutely happening' as Australia has paid
+  more than $3bn
 publish_date: '2026-11-13'
-lede: Former Labor foreign affairs minister Bob Carr says officials in Canberra and Washington acknowledge that the United States will never build and sell nuclear submarines to Australia, describing the $368bn Aukus agreement as the two countries "living a lie." Carr, a leading critic of the deal, told Guardian Australia's weekly Australian Politics podcast that the agreement signed in 2021 had been reduced to a diplomatic joke.
-nut_graf: Australia has already paid more than $3bn toward Aukus and the first Virginia-class submarine is due to arrive in 2032, while the Albanese government maintains that the agreement is proceeding as intended.
+lede: Former Labor foreign affairs minister Bob Carr says officials in Canberra and
+  Washington acknowledge that the United States will never build and sell nuclear
+  submarines to Australia, describing the $368bn Aukus agreement as the two countries
+  "living a lie." Carr, a leading critic of the deal, told Guardian Australia's weekly
+  Australian Politics podcast that the agreement signed in 2021 had been reduced to
+  a diplomatic joke.
+nut_graf: Australia has already paid more than $3bn toward Aukus and the first Virginia-class
+  submarine is due to arrive in 2032, while the Albanese government maintains that
+  the agreement is proceeding as intended.
 primary_entities:
 - Bob Carr
 - Aukus
@@ -35,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,116 +143,39 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-13-bob-carr-says-australia-will-never-get-us-nuclear-submarines.png
-  alt: 'Illustration accompanying article: Bob Carr says Australia will never get US nuclear submarines'
+  alt: 'Illustration accompanying article: Bob Carr says Australia will never get
+    US nuclear submarines'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-04-public-inquiry-urges-australia-to-scrap-aukus-submarine-agreement
   headline: Public inquiry urges Australia to scrap AUKUS submarine agreement
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7385
+  strength: 0.7377
 - slug: 2026-10-28-retired-admiral-urges-australia-to-expand-submarine-recruiting-for-aukus
   headline: Retired admiral urges Australia to expand submarine recruiting for AUKUS
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6542
-- slug: 2026-11-08-albanese-government-withdraws-four-heritage-defence-sites-from-sale
-  headline: Albanese government withdraws four heritage defence sites from sale
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.5687
-- slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.5752
+  strength: 0.6544
 - slug: 2026-09-18-keating-says-aukus-locks-australia-into-us-china-war-it-would-lose
   headline: Keating says AUKUS locks Australia into US-China war it would lose
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6948
-- slug: 2026-10-16-airbus-chief-warns-uk-risks-losing-european-space-role-to-lockheed-martin
-  headline: Airbus chief warns UK risks losing European space role to Lockheed Martin
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.5716
+  strength: 0.6942
 - slug: 2026-08-10-turnbull-says-aukus-deal-may-deliver-no-submarines-to-australia
   headline: Turnbull says AUKUS deal may deliver no submarines to Australia
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7488
-- slug: 2026-10-12-trump-s-august-steam-catapult-order-traces-to-unidentified-navy-sailor
-  headline: Trump's August steam catapult order traces to unidentified Navy sailor
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5723
-- slug: 2026-10-06-trump-announces-6-6bn-baltimore-shipyard-owned-by-anduril
-  headline: Trump announces $6.6bn Baltimore shipyard owned by Anduril
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.566
-- slug: 2026-09-12-rudd-calls-for-australian-self-reliance-as-us-china-war-risks-rise
-  headline: Rudd calls for Australian self-reliance as US-China war risks rise
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6376
-- slug: 2026-09-26-australian-officials-frame-datacenter-backlash-as-us-import
-  headline: Australian officials frame datacenter backlash as US import
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5827
-- slug: 2026-09-27-u-s-officials-deny-china-weapons-plans-after-ambassador-s-xi-offer
-  headline: U.S. officials deny China weapons plans after ambassador's Xi offer
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.567
-- slug: 2026-09-23-albanese-pledges-60m-more-for-ukraine-at-new-york-meeting-with-zelenskyy
-  headline: Albanese pledges $60m more for Ukraine at New York meeting with Zelenskyy
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5776
-- slug: 2026-09-22-australia-probes-disappearance-of-f-35-parts-diverted-to-hong-kong
-  headline: Australia probes disappearance of F-35 parts diverted to Hong Kong
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5803
-- slug: 2026-09-23-uk-sees-no-immediate-path-to-adapting-chagos-treaty-to-trump-s-objections
-  headline: UK sees no immediate path to adapting Chagos treaty to Trump's objections
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5769
-- slug: 2026-09-22-burnham-meets-trump-in-new-york-for-first-face-to-face-talks
-  headline: Burnham meets Trump in New York for first face-to-face talks
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5682
-- slug: 2026-09-21-albanese-at-un-climate-week-says-cost-of-climate-inaction-cannot-be-avoided
-  headline: Albanese at UN Climate Week says cost of climate inaction cannot be avoided
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5681
-- slug: 2026-09-15-australia-weighs-giving-ai-companies-default-access-to-creators-works
-  headline: Australia weighs giving AI companies default access to creators' works
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5749
-- slug: 2026-09-09-pacific-fusion-to-build-albuquerque-plant-for-nuclear-weapons-testing
-  headline: Pacific Fusion to Build Albuquerque Plant for Nuclear Weapons Testing
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5808
-- slug: 2026-08-17-trump-dismisses-lincoln-conditions-reports-calls-cnn-coverage-fake-news
-  headline: Trump dismisses Lincoln conditions reports, calls CNN coverage fake news
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5877
+  strength: 0.7478
 ---
-
 ## Bob Carr says Australia will never get US nuclear submarines
 
 **Subtype:** fact

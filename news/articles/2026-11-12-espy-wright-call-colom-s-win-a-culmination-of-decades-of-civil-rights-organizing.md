@@ -1,9 +1,22 @@
 ---
 headline: Espy, Wright call Colom's win a culmination of decades of civil rights organizing
-secondary_headline: Espy handed Colom his donor and voter lists, hoping his losses paved the road
+secondary_headline: Espy handed Colom his donor and voter lists, hoping his losses
+  paved the road
 publish_date: '2026-11-12'
-lede: Mike Espy served as an adviser to Scott Colom's Senate campaign this year, handing over his donor and voter lists in the hope that his own two Senate losses "paved the road" for the senator-elect, he said in an interview. For Espy, Flonzie Brown Wright and many other Black Mississippians who were among the first to win elected office in the state, Colom's Wednesday night victory — which will make him the first Black person to represent Mississippi in the U.S. Senate since post-Civil War Reconstruction — is both a personal celebration and the culmination of decades of civil rights organizing.
-nut_graf: Colom's win arrives as Black political pioneers in Mississippi mark how far the state has moved since the Voting Rights Act — and how much they see as still unfinished. Flonzie Brown Wright, who testified before a congressional subcommittee in support of the Voting Rights Act, views the U.S. Supreme Court's Louisiana v. Callais decision as a major setback, and treats Colom's victory as one more step on a long march.
+lede: Mike Espy served as an adviser to Scott Colom's Senate campaign this year, handing
+  over his donor and voter lists in the hope that his own two Senate losses "paved
+  the road" for the senator-elect, he said in an interview. For Espy, Flonzie Brown
+  Wright and many other Black Mississippians who were among the first to win elected
+  office in the state, Colom's Wednesday night victory — which will make him the first
+  Black person to represent Mississippi in the U.S. Senate since post-Civil War Reconstruction
+  — is both a personal celebration and the culmination of decades of civil rights
+  organizing.
+nut_graf: Colom's win arrives as Black political pioneers in Mississippi mark how
+  far the state has moved since the Voting Rights Act — and how much they see as still
+  unfinished. Flonzie Brown Wright, who testified before a congressional subcommittee
+  in support of the Voting Rights Act, views the U.S. Supreme Court's Louisiana v.
+  Callais decision as a major setback, and treats Colom's victory as one more step
+  on a long march.
 primary_entities:
 - Scott Colom
 - Mike Espy
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +154,62 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-seat-first-black-senator-since-reco
-  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator since Reconstruction
+  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator
+    since Reconstruction
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7788
+  strength: 0.7774
 - slug: 2026-11-11-scott-colom-closes-winning-mississippi-senate-campaign-with-medgar-evers-ad
-  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers ad
+  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers
+    ad
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7759
+  strength: 0.7746
 - slug: 2026-11-11-scott-colom-wins-mississippi-senate-race-first-democrat-elected-since-1982
-  headline: Scott Colom wins Mississippi Senate race, first Democrat elected since 1982
+  headline: Scott Colom wins Mississippi Senate race, first Democrat elected since
+    1982
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7751
+  strength: 0.7744
 - slug: 2026-11-12-scott-colom-celebrates-mississippi-senate-win-as-cindy-hyde-smith-concedes
   headline: Scott Colom celebrates Mississippi Senate win as Cindy Hyde-Smith concedes
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7639
+  strength: 0.7629
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-incumbent-hyde-smith
   headline: Democrat Scott Colom wins Mississippi Senate race over incumbent Hyde-Smith
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7686
+  strength: 0.7676
 - slug: 2026-11-12-mississippians-describe-what-colom-s-senate-win-means-for-the-state
   headline: Mississippians describe what Colom's Senate win means for the state
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7592
+  strength: 0.7588
 - slug: 2026-11-11-scott-colom-leads-cindy-hyde-smith-as-mississippi-votes-remain-uncounted
   headline: Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7596
+  strength: 0.7587
 - slug: 2026-11-11-black-voters-backed-colom-by-95-points-voter-poll-found
   headline: Black voters backed Colom by 95 points, Voter Poll found
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7551
-- slug: 2026-11-12-scott-colom-celebrates-mississippi-senate-win-as-first-black-senator-since-1875
-  headline: Scott Colom celebrates Mississippi Senate win as first Black senator since 1875
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7468
-- slug: 2026-11-07-black-mississippians-react-to-scott-colom-s-historic-u-s-senate-bid
-  headline: Black Mississippians react to Scott Colom's historic U.S. Senate bid
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7781
-- slug: 2026-11-12-pundits-wrote-off-colom-s-senate-bid-before-free-tacos-truck-and-homecomings
-  headline: Pundits wrote off Colom's Senate bid before free-tacos truck and homecomings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7377
-- slug: 2026-11-12-mississippi-s-first-two-black-senators-were-chosen-by-state-lawmakers
-  headline: Mississippi's first two Black senators were chosen by state lawmakers
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.725
-- slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
-  headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7715
-- slug: 2026-11-11-colom-says-national-democrats-spent-almost-nothing-in-mississippi
-  headline: Colom says national Democrats spent 'almost nothing' in Mississippi
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7271
-- slug: 2026-11-12-mississippi-s-two-previous-black-senators-served-before-jim-crow-as-republicans
-  headline: Mississippi's two previous Black senators served before Jim Crow as Republicans
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7067
-- slug: 2026-11-12-sen--elect-scott-colom-s-sweatshirts-express-pride-in-mississippi-and-black-amer
-  headline: Sen.-elect Scott Colom's sweatshirts express pride in Mississippi and Black America
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7061
-- slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-cindy-hyde-smith
-  headline: Democrat Scott Colom wins Mississippi Senate race over Cindy Hyde-Smith
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7077
-- slug: 2026-11-12-thompson-says-colom-s-senate-victory-shows-democrats-can-win-mississippi
-  headline: Thompson says Colom's Senate victory shows Democrats can win Mississippi
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6876
-- slug: 2026-11-06-scott-colom-holds-narrow-mississippi-senate-lead-amid-ballot-counting-dispute
-  headline: Scott Colom holds narrow Mississippi Senate lead amid ballot-counting dispute
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7252
-- slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
-  headline: Democrats sweep Congress with Mississippi Senate race still counting
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7029
+  strength: 0.754
 image:
   url: /articles/2026-11-12-espy-wright-call-colom-s-win-a-culmination-of-decades-of-civil-rights-organizing.png
-  alt: "Illustration accompanying article: Espy, Wright call Colom's win a culmination of decades of civil rights organizing"
+  alt: 'Illustration accompanying article: Espy, Wright call Colom''s win a culmination
+    of decades of civil rights organizing'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Espy, Wright call Colom's win a culmination of decades of civil rights organizing
 
 **Subtype:** fact

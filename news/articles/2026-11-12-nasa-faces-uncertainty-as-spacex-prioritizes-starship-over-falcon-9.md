@@ -1,9 +1,18 @@
 ---
 headline: NASA faces uncertainty as SpaceX prioritizes Starship over Falcon 9
-secondary_headline: Boeing's capsule is NASA's fallback but likely costlier, analyst says
+secondary_headline: Boeing's capsule is NASA's fallback but likely costlier, analyst
+  says
 publish_date: '2026-11-12'
-lede: SpaceX is planning a test launch of Starship for Nov. 13, the largest rocket ever built, even as the company moves to retire the Falcon 9 workhorse that carries NASA astronauts to the International Space Station. The Falcon 9 and Dragon capsule remain the only American option for that trip, and it is not yet clear when SpaceX would retire the rocket. NASA has a capsule built by Boeing it could eventually use instead, though an industry analyst expects it to cost much more.
-nut_graf: SpaceX's pivot toward Starship and satellite business leaves NASA — the customer widely credited with saving SpaceX from bankruptcy in 2008 — dependent on a launch system its maker may soon retire, with no comparable American replacement immediately available for crew missions to the space station.
+lede: SpaceX is planning a test launch of Starship for Nov. 13, the largest rocket
+  ever built, even as the company moves to retire the Falcon 9 workhorse that carries
+  NASA astronauts to the International Space Station. The Falcon 9 and Dragon capsule
+  remain the only American option for that trip, and it is not yet clear when SpaceX
+  would retire the rocket. NASA has a capsule built by Boeing it could eventually
+  use instead, though an industry analyst expects it to cost much more.
+nut_graf: SpaceX's pivot toward Starship and satellite business leaves NASA — the
+  customer widely credited with saving SpaceX from bankruptcy in 2008 — dependent
+  on a launch system its maker may soon retire, with no comparable American replacement
+  immediately available for crew missions to the space station.
 primary_entities:
 - SpaceX
 - NASA
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,7 +154,7 @@ related_stories:
   headline: SpaceX, NASA ready Crew-13 for potentially fastest ISS trip
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7371
+  strength: 0.7372
 - slug: 2026-10-02-starship-reaches-orbit-as-spacex-logs-crew-13-and-falcon-launches
   headline: Starship reaches orbit as SpaceX logs Crew-13 and Falcon launches
   publish_date: '2026-10-02'
@@ -154,94 +164,34 @@ related_stories:
   headline: SpaceX launches NASA's Crew-13 to International Space Station
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7225
+  strength: 0.7226
 - slug: 2026-09-22-spacex-ends-falcon-9-rideshare-sales-tightening-launch-supply-through-2028
-  headline: SpaceX ends Falcon 9 rideshare sales, tightening launch supply through 2028
+  headline: SpaceX ends Falcon 9 rideshare sales, tightening launch supply through
+    2028
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7447
+  strength: 0.7443
 - slug: 2026-10-01-spacex-launches-crew-13-to-iss-with-first-black-woman-to-lead-a-crew
   headline: SpaceX launches Crew-13 to ISS with first Black woman to lead a crew
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6708
+  strength: 0.6707
 - slug: 2026-08-28-spacex-begins-months-long-trip-to-return-recovered-starship-to-texas
   headline: SpaceX begins months-long trip to return recovered Starship to Texas
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6953
+  strength: 0.6956
 - slug: 2026-07-16-spacex-is-set-to-launch-13th-starship-test-flight-with-starlink-satellites
   headline: SpaceX is set to launch 13th Starship test flight with Starlink satellites
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7442
+  strength: 0.744
 - slug: 2026-05-23-spacex-launches-biggest-upgraded-starship-on-test-flight-to-moon-plans
   headline: SpaceX launches biggest, upgraded Starship on test flight to moon plans
   publish_date: '2026-05-23'
   relation: related
   strength: 0.7786
-- slug: 2026-07-24-spacex-deploys-starlinks-on-13th-starship-test-flight-after-engine-repairs
-  headline: SpaceX deploys Starlinks on 13th Starship test flight after engine repairs
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7302
-- slug: 2026-05-22-spacex-launches-biggest-starship-yet-on-a-test-flight
-  headline: SpaceX launches biggest Starship yet on a test flight
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.765
-- slug: 2026-08-25-b1067-completes-record-37th-flight-on-spacex-s-100th-falcon-9-launch-of-2026
-  headline: B1067 completes record 37th flight on SpaceX's 100th Falcon 9 launch of 2026
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6698
-- slug: 2026-08-22-spacex-tows-intact-starship-upper-stage-to-christmas-island
-  headline: SpaceX tows intact Starship upper stage to Christmas Island
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6745
-- slug: 2026-05-21-starship-s-redesign-launch-nears-as-spacex-faces-ipo-critical-test
-  headline: Starship’s redesign launch nears as SpaceX faces IPO-critical test
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7599
-- slug: 2026-05-23-spacex-launches-biggest-starship-yet-on-test-flight-aims-at-moon
-  headline: SpaceX launches biggest Starship yet on test flight, aims at moon
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7478
-- slug: 2026-07-13-faa-clears-spacex-starship-for-test-flight-after-mishap-probe
-  headline: FAA clears SpaceX Starship for test flight after mishap probe
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7066
-- slug: 2026-05-22-spacex-scrubs-starship-launch-thursday-will-try-again-friday
-  headline: SpaceX scrubs Starship launch Thursday, will try again Friday
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7297
-- slug: 2026-06-05-rocket-lab-positions-as-leading-alternative-to-spacex-for-space-investors
-  headline: Rocket Lab positions as leading alternative to SpaceX for space investors
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7069
-- slug: 2026-07-02-nasa-oig-report-warns-boeing-starliner-future-uncertain
-  headline: NASA OIG report warns Boeing Starliner future uncertain
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6765
-- slug: 2026-05-21-spacex-reveals-plans-for-what-could-be-the-biggest-ever-public-stock-sale
-  headline: SpaceX reveals plans for what could be the biggest-ever public stock sale
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.685
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6754
 ---
-
 ## NASA faces uncertainty as SpaceX prioritizes Starship over Falcon 9
 
 **Subtype:** fact
