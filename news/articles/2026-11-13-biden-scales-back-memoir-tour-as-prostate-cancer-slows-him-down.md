@@ -2,8 +2,19 @@
 headline: Biden scales back memoir tour as prostate cancer slows him down
 secondary_headline: Memoir argues Biden did not hide his cancer diagnosis
 publish_date: '2026-11-13'
-lede: Former President Joe Biden said his health will force him to scale back the public appearances he had planned to promote "Promise Me, America," a memoir of his four years as president that is set for release Tuesday, as he battles an aggressive form of prostate cancer that has spread to his bones. Biden, 83, disclosed the change in a social-media post Sunday, saying that while the illness hasn't stopped him, it sometimes slows him down. He has undergone radiation therapy and is receiving hormone therapy.
-nut_graf: The announcement puts Biden's health back at the center of national attention — his limited appearances during the fall election campaign season and the now-curtailed book tour have put a spotlight on his health as he deals with an aggressive form of prostate cancer, an issue that shaped the final months of his presidency and his 2024 re-election campaign. The memoir addresses, in print, questions about when his cancer was detected and whether the diagnosis was kept from the public.
+lede: Former President Joe Biden said his health will force him to scale back the
+  public appearances he had planned to promote "Promise Me, America," a memoir of
+  his four years as president that is set for release Tuesday, as he battles an aggressive
+  form of prostate cancer that has spread to his bones. Biden, 83, disclosed the change
+  in a social-media post Sunday, saying that while the illness hasn't stopped him,
+  it sometimes slows him down. He has undergone radiation therapy and is receiving
+  hormone therapy.
+nut_graf: The announcement puts Biden's health back at the center of national attention
+  — his limited appearances during the fall election campaign season and the now-curtailed
+  book tour have put a spotlight on his health as he deals with an aggressive form
+  of prostate cancer, an issue that shaped the final months of his presidency and
+  his 2024 re-election campaign. The memoir addresses, in print, questions about when
+  his cancer was detected and whether the diagnosis was kept from the public.
 primary_entities:
 - Joe Biden
 - Promise Me, America
@@ -36,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,104 +150,45 @@ related_stories:
   headline: Biden memoir excerpt accuses Trump of leading the January 6 attack
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7739
+  strength: 0.7738
 - slug: 2026-11-11-biden-says-he-would-not-have-sought-reelection-if-he-had-known-he-had-cancer
-  headline: Biden says he would not have sought reelection if he had known he had cancer
+  headline: Biden says he would not have sought reelection if he had known he had
+    cancer
   publish_date: '2026-11-11'
   relation: related
   strength: 0.7512
 - slug: 2026-11-09-biden-s-memoir-says-doge-put-hundreds-of-thousands-out-of-work-without-touted-sa
-  headline: Biden's memoir says DOGE put hundreds of thousands out of work without touted savings
+  headline: Biden's memoir says DOGE put hundreds of thousands out of work without
+    touted savings
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7364
+  strength: 0.737
 - slug: 2026-11-09-lauren-bis-calls-biden-the-worst-president-in-american-history
   headline: Lauren Bis calls Biden the worst president in American history
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6886
-- slug: 2026-11-10-trump-s-transition-letter-reveals-private-praise-for-biden
-  headline: Trump's transition letter reveals private praise for Biden
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6459
+  strength: 0.6888
 - slug: 2026-08-08-hunter-biden-says-father-s-cancer-metastasized-to-his-bones
   headline: Hunter Biden says father's cancer metastasized to his bones
   publish_date: '2026-08-08'
   relation: related
-  strength: 0.7574
+  strength: 0.7569
 - slug: 2026-07-15-biden-to-publish-memoir-promise-me-america-after-midterms
   headline: Biden to publish memoir 'Promise Me, America' after midterms
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7821
+  strength: 0.7823
 - slug: 2026-08-15-hunter-biden-conducts-wide-ranging-media-tour-across-podcasts-and-substack
   headline: Hunter Biden conducts wide-ranging media tour across podcasts and Substack
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.7049
+  strength: 0.7044
 - slug: 2026-08-11-hunter-biden-steps-up-media-appearances-from-carlson-to-fuentes
   headline: Hunter Biden steps up media appearances from Carlson to Fuentes
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.7084
-- slug: 2026-09-16-white-house-chief-of-staff-wiles-says-she-is-cancer-free
-  headline: White House chief of staff Wiles says she is cancer-free
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6236
-- slug: 2026-03-11-jill-biden-details-joe-biden-s-2024-reelection-exit-in-upcoming-memoir
-  headline: Jill Biden details Joe Biden’s 2024 reelection exit in upcoming memoir
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.7479
-- slug: 2026-05-27-jill-biden-feared-husband-joe-was-having-a-stroke-during-2024-debate
-  headline: Jill Biden feared husband Joe was having a stroke during 2024 debate
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7121
-- slug: 2026-06-03-jill-biden-says-she-regrets-not-discussing-hunter-biden-s-addiction-while-in-whi
-  headline: Jill Biden says she regrets not discussing Hunter Biden's addiction while in White House
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7073
-- slug: 2026-03-10-jill-biden-opens-up-in-memoir-on-decision-to-end-2024-reelection-bid
-  headline: Jill Biden opens up in memoir on decision to end 2024 reelection bid
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7282
-- slug: 2026-06-02-jill-biden-feared-joe-biden-had-stroke-after-2024-debate-doctors-checked-him-imm
-  headline: Jill Biden feared Joe Biden had stroke after 2024 debate, doctors checked him immediately
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6895
-- slug: 2026-05-29-in-memoir-jill-biden-questions-response-to-joe-biden-s-debate-performance
-  headline: In Memoir, Jill Biden Questions Response to Joe Biden's Debate Performance
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6866
-- slug: 2026-07-28-audio-recordings-show-biden-acknowledging-possession-of-classified-material
-  headline: Audio recordings show Biden acknowledging possession of classified material
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6246
-- slug: 2026-06-13-trump-turns-80-as-white-house-projects-vigor-questions-over-health-persist
-  headline: Trump turns 80 as White House projects vigor, questions over health persist
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6439
-- slug: 2026-06-16-clinton-says-biden-s-re-election-bid-was-a-terrible-mistake-that-cost-democrats-
-  headline: Clinton says Biden's re-election bid was a 'terrible mistake' that cost Democrats the presidency
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6227
-- slug: 2026-05-26-trump-says-everything-checked-out-perfectly-after-walter-reed-exam
-  headline: Trump says 'everything checked out perfectly' after Walter Reed exam
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6328
+  strength: 0.7085
 ---
-
 ## Biden scales back memoir tour as prostate cancer slows him down
 
 - Former President Joe Biden said his health will force him to make fewer public appearances to promote his memoir "Promise Me, America" as he battles prostate cancer.

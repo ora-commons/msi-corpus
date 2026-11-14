@@ -64,7 +64,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Guardian
   outlet_classes:
@@ -243,3 +243,9 @@ The Sunrise Movement first made headlines in 2018 with a sit-in targeting then-H
 **Publication date:** 2026-11-12
 **Title:** Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office
 **URL:** https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc
+
+### src_late_8d6a28580c7d9f6c — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-13
+**Title:** Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live
+**URL:** https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer
+**Added after publication:** true

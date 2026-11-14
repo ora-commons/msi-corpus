@@ -1,9 +1,22 @@
 ---
 headline: Massachusetts opens offshore wind request with Nova Scotia
-secondary_headline: Maine, Connecticut, Vermont and Rhode Island join the New England request
+secondary_headline: Maine, Connecticut, Vermont and Rhode Island join the New England
+  request
 publish_date: '2026-11-12'
-lede: Massachusetts on Thursday issued a 12-page request for information with the Canadian province of Nova Scotia, testing developer interest in building offshore wind projects there and delivering the power into New England, the Healey administration said. Gov. Maura Healey is leading the effort alongside Maine, Connecticut, Vermont and Rhode Island, after the Trump administration blocked Massachusetts from unlocking new offshore wind from its own coasts. Stakeholders have until the end of the year to respond.
-nut_graf: 'The request is a procedural opening move in what would be a long road: financing projects, siting them under Canadian regulation, and carrying electricity across an international border by undersea cable or new power line. It also arrives after a decade-long Quebec-to-New England transmission project, the New England Clean Energy Connect, delivered power into a frigid region but then went dark for 12 days during the coldest winter in 20 years and shut down again in late spring, prompting litigation between Massachusetts utilities and Hydro Quebec.'
+lede: Massachusetts on Thursday issued a 12-page request for information with the
+  Canadian province of Nova Scotia, testing developer interest in building offshore
+  wind projects there and delivering the power into New England, the Healey administration
+  said. Gov. Maura Healey is leading the effort alongside Maine, Connecticut, Vermont
+  and Rhode Island, after the Trump administration blocked Massachusetts from unlocking
+  new offshore wind from its own coasts. Stakeholders have until the end of the year
+  to respond.
+nut_graf: 'The request is a procedural opening move in what would be a long road:
+  financing projects, siting them under Canadian regulation, and carrying electricity
+  across an international border by undersea cable or new power line. It also arrives
+  after a decade-long Quebec-to-New England transmission project, the New England
+  Clean Energy Connect, delivered power into a frigid region but then went dark for
+  12 days during the coldest winter in 20 years and shut down again in late spring,
+  prompting litigation between Massachusetts utilities and Hydro Quebec.'
 primary_entities:
 - Maura Healey
 - Nova Scotia
@@ -40,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,99 +161,39 @@ related_stories:
   headline: Vineyard Wind and Revolution Wind reach full operation
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6509
-- slug: 2026-11-07-reports-trump-administration-weighs-four-underwater-datacenters-off-maine-alaska
-  headline: 'Reports: Trump administration weighs four underwater datacenters off Maine, Alaska'
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6406
+  strength: 0.651
 - slug: 2026-09-22-california-and-new-york-sue-trump-administration-over-offshore-wind-lease-buybac
-  headline: California and New York sue Trump administration over offshore wind lease buybacks
+  headline: California and New York sue Trump administration over offshore wind lease
+    buybacks
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6595
+  strength: 0.6599
 - slug: 2026-08-23-us-unions-organize-to-defend-offshore-wind-jobs-from-trump-policies
   headline: US unions organize to defend offshore wind jobs from Trump policies
   publish_date: '2026-08-23'
   relation: related
-  strength: 0.6567
-- slug: 2026-08-26-trump-administration-approves-wave-energy-test-site-off-oregon-coast
-  headline: Trump administration approves wave energy test site off Oregon coast
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6406
-- slug: 2026-08-19-massachusetts-housing-bills-head-to-conference-committee-amid-222-000-home-goal
-  headline: Massachusetts housing bills head to conference committee amid 222,000-home goal
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6348
+  strength: 0.6562
 - slug: 2026-01-30-federal-judge-allows-massachusetts-offshore-wind-project-to-proceed
   headline: Federal judge allows Massachusetts offshore wind project to proceed
   publish_date: '2026-01-30'
   relation: related
-  strength: 0.7011
+  strength: 0.7014
 - slug: 2026-03-15-offshore-wind-project-begins-sending-power-to-new-england-grid
   headline: Offshore wind project begins sending power to New England grid
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.692
+  strength: 0.6918
 - slug: 2026-03-15-offshore-wind-project-vineyard-wind-completes-first-during-trump-term
   headline: Offshore wind project Vineyard Wind completes, first during Trump term
   publish_date: '2026-03-15'
   relation: related
-  strength: 0.6856
+  strength: 0.6855
 - slug: 2026-04-24-up-close-with-offshore-wind-projects-taking-shape-on-the-u-s-east-coast
   headline: Up close with offshore wind projects taking shape on the U.S. East Coast
   publish_date: '2026-04-24'
   relation: related
   strength: 0.6756
-- slug: 2026-05-15-trump-halts-u-s-offshore-wind-expansion-as-global-industry-adds-record-capacity
-  headline: Trump halts U.S. offshore wind expansion as global industry adds record capacity
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6692
-- slug: 2026-05-15-trump-halts-u-s-offshore-wind-as-global-capacity-grows-numbers-show
-  headline: Trump halts U.S. offshore wind as global capacity grows, numbers show
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.658
-- slug: 2026-01-16-virginia-judge-allows-third-offshore-wind-project-to-resume-amid-court-losses-fo
-  headline: Virginia judge allows third offshore wind project to resume amid court losses for Trump
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.672
-- slug: 2026-04-30-trump-pays-offshore-wind-operators-to-walk-away-democrats-call-it-a-scam
-  headline: Trump pays offshore wind operators to walk away; Democrats call it a scam
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6578
-- slug: 2026-06-02-six-states-sue-trump-administration-over-1bn-deal-to-cancel-new-york-offshore-wi
-  headline: Six states sue Trump administration over $1bn deal to cancel New York offshore wind lease
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6401
-- slug: 2026-06-23-california-sues-trump-administration-over-cancellation-of-offshore-wind-lease
-  headline: California sues Trump administration over cancellation of offshore wind lease
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6273
-- slug: 2026-05-19-new-england-grid-operator-forecasts-9-electricity-demand-growth-over-next-decade
-  headline: New England grid operator forecasts 9% electricity demand growth over next decade
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6325
-- slug: 2026-05-05-california-investigates-trump-administration-deal-to-end-offshore-wind-project
-  headline: California investigates Trump administration deal to end offshore wind project
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6309
-- slug: 2026-05-19-new-england-grid-operator-forecasts-modest-electricity-demand-growth
-  headline: New England grid operator forecasts modest electricity demand growth
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6239
 ---
-
 ## Massachusetts opens offshore wind request with Nova Scotia
 
 **Subtype:** fact

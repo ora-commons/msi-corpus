@@ -2,8 +2,18 @@
 headline: Commentary urges Democrats to repair three weaknesses before 2028
 secondary_headline: Non-college voters chose Republicans 51% to 47%
 publish_date: '2026-11-13'
-lede: A Guardian commentary published November 13, 2026 argues that Democrats' midterm victories mask three weaknesses the party must repair before the 2028 presidential election. Dustin Guastella, a research associate at the Center for Working Class Politics, writes that wins in Ohio, Georgia, Iowa, Maine and Texas show the potential for a majority coalition reaching well beyond traditional liberal strongholds, but that the results also exposed a weak standing among working-class voters, an underdeveloped economic program and an unfinished argument on trade, immigration and cultural issues.
-nut_graf: The commentary matters because Democrats enter the 2028 cycle with big wins in Ohio, Georgia, Iowa, Maine and Texas, while the voters the party needs most still favor Republicans. Guastella's case is that the midterms delivered a protest verdict on Donald Trump's economic management rather than a durable endorsement of Democrats, and that the party has two years to change that.
+lede: A Guardian commentary published November 13, 2026 argues that Democrats' midterm
+  victories mask three weaknesses the party must repair before the 2028 presidential
+  election. Dustin Guastella, a research associate at the Center for Working Class
+  Politics, writes that wins in Ohio, Georgia, Iowa, Maine and Texas show the potential
+  for a majority coalition reaching well beyond traditional liberal strongholds, but
+  that the results also exposed a weak standing among working-class voters, an underdeveloped
+  economic program and an unfinished argument on trade, immigration and cultural issues.
+nut_graf: The commentary matters because Democrats enter the 2028 cycle with big wins
+  in Ohio, Georgia, Iowa, Maine and Texas, while the voters the party needs most still
+  favor Republicans. Guastella's case is that the midterms delivered a protest verdict
+  on Donald Trump's economic management rather than a durable endorsement of Democrats,
+  and that the party has two years to change that.
 primary_entities:
 - Democratic Party
 - Dustin Guastella
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,43 @@ related_stories:
   headline: Midterm wins give Democrats new paths to 270 electoral votes in 2028
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7725
+  strength: 0.7721
 - slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
   headline: Democrats win Congress and a majority of governorships on affordability
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7533
+  strength: 0.7551
 - slug: 2026-11-09-democrats-control-congress-as-business-faces-four-post-election-concerns
   headline: Democrats control Congress as business faces four post-election concerns
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7081
+  strength: 0.708
 - slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
   headline: Democrats lead polls as Trump enters midterms with 32% approval
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.7574
+  strength: 0.7577
 - slug: 2026-11-06-more-than-two-dozen-democrats-consider-2028-runs-former-obama-aide-says
   headline: More than two dozen Democrats consider 2028 runs, former Obama aide says
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.718
+  strength: 0.7189
 - slug: 2026-11-08-inflation-tops-the-agenda-for-trump-and-the-new-democratic-congress
   headline: Inflation tops the agenda for Trump and the new Democratic Congress
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7035
+  strength: 0.7052
 - slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
   headline: Democrats win Senate seats in six states and four governor races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7267
+  strength: 0.7282
 - slug: 2026-11-04-democrats-take-house-and-senate-and-a-panel-urges-a-working-class-agenda
   headline: Democrats take House and Senate, and a panel urges a working-class agenda
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.726
-- slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7005
-- slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
-  headline: Poll finds voters rejecting Republicans more than embracing Democrats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7089
-- slug: 2026-11-05-rural-voters-face-economic-strain-as-republicans-lose-key-midterm-races
-  headline: Rural voters face economic strain as Republicans lose key midterm races
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6999
-- slug: 2026-11-04-democrats-take-both-chambers-trump-faces-three-paths-likely-less-party-control
-  headline: Democrats take both chambers; Trump faces three paths, likely less party control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7058
-- slug: 2026-11-04-democrats-win-house-and-senate-control-in-2026-us-midterms
-  headline: Democrats win House and Senate control in 2026 US midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7045
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7208
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7087
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7019
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7072
-- slug: 2026-10-26-mueller-urges-democrats-to-learn-broader-lessons-from-possible-midterm-win
-  headline: Mueller urges Democrats to learn broader lessons from possible midterm win
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7131
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7062
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7249
+  strength: 0.727
 ---
-
 ## Commentary urges Democrats to repair three weaknesses before 2028
 
 **Subtype:** fact
