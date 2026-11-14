@@ -200,6 +200,8 @@ related_stories:
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7002
+analyses:
+- '2026-11-11-democrats-post-midterm-immigration-push-splits-over-enforcement-first-and-repair'
 ---
 ## Democrats push bipartisan immigration reform after midterm voter backlash
 
@@ -245,3 +247,8 @@ Meanwhile, Representative Henry Cuellar, another Texas border-area Democrat, exp
 **Publication date:** 2026-11-11
 **Title:** Democrats push to rein in Trump on immigration after voter backlash to ICE raids
 **URL:** https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda
+
+---
+
+<!-- analysis-link:2026-11-11-democrats-post-midterm-immigration-push-splits-over-enforcement-first-and-repair -->
+**Going deeper:** [Read MSI's analysis of post-midterm immigration frames →](/analyses/2026-11-11-democrats-post-midterm-immigration-push-splits-over-enforcement-first-and-repair)

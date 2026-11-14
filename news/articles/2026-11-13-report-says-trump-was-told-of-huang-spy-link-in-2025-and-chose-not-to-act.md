@@ -1,9 +1,30 @@
 ---
 headline: Report says Trump was told of Huang spy link in 2025 and chose not to act
-secondary_headline: Timeline traces Megaspeed from 7Road Holdings to Nvidia cloud partner
+secondary_headline: Timeline traces Megaspeed from 7Road Holdings to Nvidia cloud
+  partner
 publish_date: '2026-11-13'
-lede: The New York Times reported in October 2025 that intelligence officials told Donald Trump that Jensen Huang had a relationship with Alice Huang and alleged that she was a Chinese spy, and that Trump chose not to take action — more than a year before Huang stepped down as Nvidia's chief executive. A Guardian timeline of the scandal traces the three years of entanglement behind the resignation — Megaspeed's origins inside the Chinese video game company 7Road Holdings, its sale to a Singaporean shell company weeks after Joe Biden issued an executive order limiting investment in China's AI industry, its designation as an Nvidia cloud partner with preferential access to advanced AI chips, and a May 2026 memo in which Secretary of State Marco Rubio warned that Huang had become close to an alleged Chinese spy. Huang's resignation after 33 years — with chief financial officer Colette Kress serving as interim CEO, the board searching for a successor and shares continuing to plummet — followed affair disclosures that in a matter of days wiped more than $600bn from Nvidia's valuation.
-nut_graf: Nvidia sits at the center of the AI boom and was valued at more than $4tn in 2026, so the collapse of its founder-CEO's position lands on advanced-chip export policy, federal investigations and investor expectations at once. The affair revelations arrived as the Commerce Department investigated whether Megaspeed diverted powerful Nvidia AI chips to Chinese firms in potential violation of export restrictions that the Biden and Trump administrations imposed over national security concerns — and as Trump said at a 9 November press conference that the FBI is investigating Jensen Huang.
+lede: The New York Times reported in October 2025 that intelligence officials told
+  Donald Trump that Jensen Huang had a relationship with Alice Huang and alleged that
+  she was a Chinese spy, and that Trump chose not to take action — more than a year
+  before Huang stepped down as Nvidia's chief executive. A Guardian timeline of the
+  scandal traces the three years of entanglement behind the resignation — Megaspeed's
+  origins inside the Chinese video game company 7Road Holdings, its sale to a Singaporean
+  shell company weeks after Joe Biden issued an executive order limiting investment
+  in China's AI industry, its designation as an Nvidia cloud partner with preferential
+  access to advanced AI chips, and a May 2026 memo in which Secretary of State Marco
+  Rubio warned that Huang had become close to an alleged Chinese spy. Huang's resignation
+  after 33 years — with chief financial officer Colette Kress serving as interim CEO,
+  the board searching for a successor and shares continuing to plummet — followed
+  affair disclosures that in a matter of days wiped more than $600bn from Nvidia's
+  valuation.
+nut_graf: Nvidia sits at the center of the AI boom and was valued at more than $4tn
+  in 2026, so the collapse of its founder-CEO's position lands on advanced-chip export
+  policy, federal investigations and investor expectations at once. The affair revelations
+  arrived as the Commerce Department investigated whether Megaspeed diverted powerful
+  Nvidia AI chips to Chinese firms in potential violation of export restrictions that
+  the Biden and Trump administrations imposed over national security concerns — and
+  as Trump said at a 9 November press conference that the FBI is investigating Jensen
+  Huang.
 primary_entities:
 - Jensen Huang
 - Nvidia
@@ -40,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,9 +164,10 @@ related_stories:
   headline: Megaspeed says its offers to cooperate with US chip probe went unanswered
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8383
+  strength: 0.8389
 - slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
+  headline: Trump reportedly briefed on Huang intelligence findings before scandal
+    broke
   publish_date: '2026-11-12'
   relation: related
   strength: 0.835
@@ -152,94 +175,34 @@ related_stories:
   headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.83
+  strength: 0.8294
 - slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
+  headline: Nvidia's Huang wins looser China chip rules despite national-security
+    warnings
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8246
+  strength: 0.8244
 - slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
   headline: Nvidia investigates reports of spying targeting Jensen Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8351
+  strength: 0.8359
 - slug: 2026-11-09-trump-says-he-learned-of-alice-huang-spy-concerns-not-too-long-ago
   headline: Trump says he learned of Alice Huang spy concerns 'not too long ago'
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8318
+  strength: 0.8333
 - slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
   headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.811
+  strength: 0.8111
 - slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
   headline: Jensen Huang resigns as Nvidia CEO after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8071
-- slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board meets on whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8034
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
-  headline: Nvidia CEO Jensen Huang resigns after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7952
-- slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
-  headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.814
-- slug: 2026-11-12-megaspeed-vows-cooperation-with-u-s-national-security-investigations
-  headline: Megaspeed vows cooperation with U.S. national security investigations
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7921
-- slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
-  headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8123
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8154
-- slug: 2026-11-10-people-familiar-say-justice-department-takes-megaspeed-probe-after-nvidia-outrea
-  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia outreach
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7995
-- slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8087
-- slug: 2026-11-10-investor-sues-nvidia-over-alleged-deception-on-ceo-affair-and-megaspeed
-  headline: Investor sues Nvidia over alleged deception on CEO affair and Megaspeed
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.794
-- slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
-  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7958
-- slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
-  headline: Nvidia board investigates CEO Jensen Huang as shares tumble
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7946
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.787
+  strength: 0.8076
 ---
-
 ## Report says Trump was told of Huang spy link in 2025 and chose not to act
 
 **Subtype:** fact
