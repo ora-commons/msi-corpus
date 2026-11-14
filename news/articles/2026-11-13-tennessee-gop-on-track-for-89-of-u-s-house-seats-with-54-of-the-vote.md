@@ -2,8 +2,17 @@
 headline: Tennessee GOP on track for 89% of U.S. House seats with 54% of the vote
 secondary_headline: Uncalled 4th District race could undo the GOP's net seat gain
 publish_date: '2026-11-13'
-lede: Republicans won about 54% of the vote in Tennessee's nine congressional races but are positioned to hold eight of the nine seats, an analysis of election data by Lookout shows, with a redrawn map enacted in May diluting Democratic votes. In the state House, Republicans took 69 of the 99 districts with 58% of votes cast. One congressional race remains uncalled, with provisional ballots to be counted Nov. 16.
-nut_graf: 'The Tennessee results show how mid-decade redistricting can shape seat totals independently of vote share, and how a strong Democratic wave can still compress margins inside a map drawn to favor one party. The outcome also illustrates the limits of that map: Republicans appear to gain one seat and lose one, producing no net statewide change.'
+lede: Republicans won about 54% of the vote in Tennessee's nine congressional races
+  but are positioned to hold eight of the nine seats, an analysis of election data
+  by Lookout shows, with a redrawn map enacted in May diluting Democratic votes. In
+  the state House, Republicans took 69 of the 99 districts with 58% of votes cast.
+  One congressional race remains uncalled, with provisional ballots to be counted
+  Nov. 16.
+nut_graf: 'The Tennessee results show how mid-decade redistricting can shape seat
+  totals independently of vote share, and how a strong Democratic wave can still compress
+  margins inside a map drawn to favor one party. The outcome also illustrates the
+  limits of that map: Republicans appear to gain one seat and lose one, producing
+  no net statewide change.'
 primary_entities:
 - Tennessee
 - Tennessee General Assembly
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +155,45 @@ related_stories:
   headline: Republican redistricting efforts fail to deliver expected House seat gains
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7742
+  strength: 0.774
 - slug: 2026-11-04-democrats-win-three-seats-in-republican-redrawn-florida-districts
   headline: Democrats win three seats in Republican-redrawn Florida districts
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7085
+  strength: 0.7084
 - slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
+  headline: Midterms put 35 Senate contests, 39 governorships and local offices on
+    the ballot
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7085
+  strength: 0.7088
 - slug: 2026-09-19-democrats-favored-in-house-fight-as-trump-approval-drags-on-gop-candidates
   headline: Democrats favored in House fight as Trump approval drags on GOP candidates
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.7099
+  strength: 0.7105
 - slug: 2026-08-28-forecasters-rate-43-house-races-competitive-for-2026-control
   headline: Forecasters rate 43 House races competitive for 2026 control
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7134
+  strength: 0.7136
 - slug: 2026-08-06-tennessee-primary-tests-map-that-reshapes-memphis-congressional-district
   headline: Tennessee primary tests map that reshapes Memphis congressional district
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.7261
+  strength: 0.726
 - slug: 2026-07-23-federal-judges-allow-tennessee-map-splitting-majority-black-district
   headline: Federal judges allow Tennessee map splitting majority-Black district
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7395
+  strength: 0.739
 - slug: 2026-05-08-tennessee-gop-passes-new-house-map-reshaping-memphis-after-voting-rights-act-rul
-  headline: Tennessee GOP passes new House map reshaping Memphis after Voting Rights Act ruling
+  headline: Tennessee GOP passes new House map reshaping Memphis after Voting Rights
+    Act ruling
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.7812
-- slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7313
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7724
-- slug: 2026-05-10-southern-states-accelerate-mid-decade-redistricting-as-courts-reshape-congressio
-  headline: Southern states accelerate mid-decade redistricting as courts reshape congressional map
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7618
-- slug: 2026-06-02-tennessee-republicans-eliminate-memphis-s-lone-black-majority-congressional-dist
-  headline: Tennessee Republicans eliminate Memphis's lone Black-majority congressional district
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7467
-- slug: 2026-05-10-tennessee-splits-memphis-majority-black-district-after-supreme-court-ruling
-  headline: Tennessee Splits Memphis Majority-Black District After Supreme Court Ruling
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7536
-- slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
-  headline: Southern Republicans press redistricting ahead of midterm elections
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7441
-- slug: 2026-05-10-new-u-s-congressional-map-changes-favor-republicans-in-courts-states
-  headline: New U.S. congressional map changes favor Republicans in courts, states
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7431
-- slug: 2026-05-05-tennessee-gop-targets-memphis-house-seat-as-other-states-move-post-ruling
-  headline: Tennessee GOP targets Memphis House seat as other states move post-ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.7358
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  headline: Trump redistricting push spreads to one-third of states, giving GOP a three-seat edge
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7419
-- slug: 2026-05-10-after-supreme-court-ruling-gop-led-states-rush-to-redraw-congressional-maps
-  headline: After Supreme Court ruling, GOP-led states rush to redraw congressional maps
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7226
-- slug: 2026-05-04-tennessee-gop-targets-memphis-house-district-south-carolina-weighs-changes
-  headline: Tennessee GOP targets Memphis House district; South Carolina weighs changes
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7237
-- slug: 2026-05-08-southern-republicans-press-ahead-with-election-year-redistricting
-  headline: Southern Republicans press ahead with election-year redistricting
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7167
+  strength: 0.7808
 ---
-
 ## Tennessee GOP on track for 89% of U.S. House seats with 54% of the vote
 
 **Subtype:** fact
