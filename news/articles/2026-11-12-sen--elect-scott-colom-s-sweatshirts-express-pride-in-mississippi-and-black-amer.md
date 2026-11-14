@@ -1,9 +1,22 @@
 ---
-headline: Sen.-elect Scott Colom's sweatshirts express pride in Mississippi and Black America
-secondary_headline: The victory makes him Mississippi's first Black senator-elect since Reconstruction
+headline: Sen.-elect Scott Colom's sweatshirts express pride in Mississippi and Black
+  America
+secondary_headline: The victory makes him Mississippi's first Black senator-elect
+  since Reconstruction
 publish_date: '2026-11-12'
-lede: Sen.-elect Scott Colom is a fan of sweatshirts and hoodies — itself a fashion statement from Mississippi's first Black U.S. senator-elect since Reconstruction. The 43-year-old Democrat's attire nearly always carries a message, usually expressing pride in Mississippi and Black America, from the Alcorn State University gear he wore during the extended ballot count to the Richard Pryor hoodie he had on when The Associated Press called the race in his favor.
-nut_graf: Colom stumps for Mississippi as a whole while embracing the state's civil rights history and its Black residents, who make up the largest proportion of the population and electorate of any U.S. state. His wardrobe — from historically Black university logos to a quote from early Mississippi civil rights organizer Bob Moses to his own 'Mississippi matters' merchandise — carried that pride through a campaign that made him the state's first Black U.S. senator-elect since the post-Civil War Reconstruction era.
+lede: Sen.-elect Scott Colom is a fan of sweatshirts and hoodies — itself a fashion
+  statement from Mississippi's first Black U.S. senator-elect since Reconstruction.
+  The 43-year-old Democrat's attire nearly always carries a message, usually expressing
+  pride in Mississippi and Black America, from the Alcorn State University gear he
+  wore during the extended ballot count to the Richard Pryor hoodie he had on when
+  The Associated Press called the race in his favor.
+nut_graf: Colom stumps for Mississippi as a whole while embracing the state's civil
+  rights history and its Black residents, who make up the largest proportion of the
+  population and electorate of any U.S. state. His wardrobe — from historically Black
+  university logos to a quote from early Mississippi civil rights organizer Bob Moses
+  to his own 'Mississippi matters' merchandise — carried that pride through a campaign
+  that made him the state's first Black U.S. senator-elect since the post-Civil War
+  Reconstruction era.
 primary_entities:
 - Scott Colom
 - Mississippi
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +157,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-seat-first-black-senator-since-reco
-  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator since Reconstruction
+  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator
+    since Reconstruction
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.798
+  strength: 0.797
 - slug: 2026-11-12-scott-colom-celebrates-mississippi-senate-win-as-cindy-hyde-smith-concedes
   headline: Scott Colom celebrates Mississippi Senate win as Cindy Hyde-Smith concedes
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7651
+  strength: 0.7649
 - slug: 2026-11-12-pundits-wrote-off-colom-s-senate-bid-before-free-tacos-truck-and-homecomings
   headline: Pundits wrote off Colom's Senate bid before free-tacos truck and homecomings
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7613
+  strength: 0.7608
 - slug: 2026-11-11-scott-colom-wins-mississippi-senate-race-first-democrat-elected-since-1982
-  headline: Scott Colom wins Mississippi Senate race, first Democrat elected since 1982
+  headline: Scott Colom wins Mississippi Senate race, first Democrat elected since
+    1982
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7646
+  strength: 0.764
 - slug: 2026-11-12-scott-colom-celebrates-mississippi-senate-win-as-first-black-senator-since-1875
-  headline: Scott Colom celebrates Mississippi Senate win as first Black senator since 1875
+  headline: Scott Colom celebrates Mississippi Senate win as first Black senator since
+    1875
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7546
+  strength: 0.7536
 - slug: 2026-11-12-mississippians-describe-what-colom-s-senate-win-means-for-the-state
   headline: Mississippians describe what Colom's Senate win means for the state
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7513
+  strength: 0.7502
 - slug: 2026-11-11-scott-colom-leads-cindy-hyde-smith-as-mississippi-votes-remain-uncounted
   headline: Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7538
+  strength: 0.7537
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-incumbent-hyde-smith
   headline: Democrat Scott Colom wins Mississippi Senate race over incumbent Hyde-Smith
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7532
-- slug: 2026-11-07-black-mississippians-react-to-scott-colom-s-historic-u-s-senate-bid
-  headline: Black Mississippians react to Scott Colom's historic U.S. Senate bid
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7768
-- slug: 2026-11-11-scott-colom-closes-winning-mississippi-senate-campaign-with-medgar-evers-ad
-  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers ad
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7495
-- slug: 2026-11-11-black-voters-backed-colom-by-95-points-voter-poll-found
-  headline: Black voters backed Colom by 95 points, Voter Poll found
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7458
-- slug: 2026-11-11-colom-says-national-democrats-spent-almost-nothing-in-mississippi
-  headline: Colom says national Democrats spent 'almost nothing' in Mississippi
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7374
-- slug: 2026-11-12-mississippi-s-two-previous-black-senators-served-before-jim-crow-as-republicans
-  headline: Mississippi's two previous Black senators served before Jim Crow as Republicans
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7289
-- slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-cindy-hyde-smith
-  headline: Democrat Scott Colom wins Mississippi Senate race over Cindy Hyde-Smith
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7136
-- slug: 2026-11-12-thompson-says-colom-s-senate-victory-shows-democrats-can-win-mississippi
-  headline: Thompson says Colom's Senate victory shows Democrats can win Mississippi
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7051
-- slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
-  headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7381
-- slug: 2026-11-06-scott-colom-holds-narrow-mississippi-senate-lead-amid-ballot-counting-dispute
-  headline: Scott Colom holds narrow Mississippi Senate lead amid ballot-counting dispute
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7014
-- slug: 2026-11-05-democrats-sweep-congress-with-mississippi-senate-race-still-counting
-  headline: Democrats sweep Congress with Mississippi Senate race still counting
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6804
-- slug: 2026-11-06-parties-trade-legal-letters-as-mississippi-counts-remaining-senate-ballots
-  headline: Parties trade legal letters as Mississippi counts remaining Senate ballots
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6715
-- slug: 2026-11-05-black-voter-turnout-propels-democratic-wins-across-the-south
-  headline: Black voter turnout propels Democratic wins across the South
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6674
+  strength: 0.7527
 ---
-
 ## Sen.-elect Scott Colom's sweatshirts express pride in Mississippi and Black America
 
 **Subtype:** fact

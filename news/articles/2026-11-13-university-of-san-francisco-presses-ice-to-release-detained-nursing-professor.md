@@ -1,9 +1,23 @@
 ---
 headline: University of San Francisco presses ICE to release detained nursing professor
-secondary_headline: Lawyer says 2013 withholding-of-removal order bars her removal to Nigeria
+secondary_headline: Lawyer says 2013 withholding-of-removal order bars her removal
+  to Nigeria
 publish_date: '2026-11-13'
-lede: The University of San Francisco is pressing for the release of Ann Lawani, a nurse and nursing professor arrested at her Lodi, California, home in September by US Immigration and Customs Enforcement agents, who have since moved her among detention centers in California, Texas, and Louisiana. Dean Eileen Fry-Bowers said Lawani needs to come home as students, colleagues, and local lawmakers mobilize on her behalf and a habeas petition challenging the detention remains pending in federal court.
-nut_graf: The case turns on the scope of a 2013 immigration order. A Department of Homeland Security spokesperson says Lawani, who entered the United States on a visitor's visa in 2007, was issued a final order of removal in August 2013. Her lawyer says the same order granted withholding of removal after an immigration judge found Lawani would more likely than not face persecution in Nigeria, a protection under which Lawani has lived in the United States since 2013. With the habeas petition pending and the two accounts of her status in dispute, her students and colleagues are pressing federal officials for her return.
+lede: The University of San Francisco is pressing for the release of Ann Lawani, a
+  nurse and nursing professor arrested at her Lodi, California, home in September
+  by US Immigration and Customs Enforcement agents, who have since moved her among
+  detention centers in California, Texas, and Louisiana. Dean Eileen Fry-Bowers said
+  Lawani needs to come home as students, colleagues, and local lawmakers mobilize
+  on her behalf and a habeas petition challenging the detention remains pending in
+  federal court.
+nut_graf: The case turns on the scope of a 2013 immigration order. A Department of
+  Homeland Security spokesperson says Lawani, who entered the United States on a visitor's
+  visa in 2007, was issued a final order of removal in August 2013. Her lawyer says
+  the same order granted withholding of removal after an immigration judge found Lawani
+  would more likely than not face persecution in Nigeria, a protection under which
+  Lawani has lived in the United States since 2013. With the habeas petition pending
+  and the two accounts of her status in dispute, her students and colleagues are pressing
+  federal officials for her return.
 primary_entities:
 - Ann Lawani
 - University of San Francisco
@@ -46,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +163,34 @@ related_stories:
   headline: Federal judge rules detained UC Berkeley student must be released
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.695
+  strength: 0.6939
 - slug: 2026-11-05-ice-arrests-uc-berkeley-student-with-pending-asylum-application-at-sfo
   headline: ICE arrests UC Berkeley student with pending asylum application at SFO
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7126
-- slug: 2026-11-08-us-cancels-deportation-flight-of-iranians-bound-for-iran-attorney-says
-  headline: US cancels deportation flight of Iranians bound for Iran, attorney says
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6228
-- slug: 2026-11-02-habeas-releases-do-not-prevent-renewed-ice-detention-for-some-immigrants
-  headline: Habeas releases do not prevent renewed ICE detention for some immigrants
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6383
-- slug: 2026-10-28-four-groups-serving-immigrants-sue-ice-over-detainee-location-policy
-  headline: Four groups serving immigrants sue ICE over detainee location policy
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6235
+  strength: 0.7127
 - slug: 2026-10-05-nurse-thrown-to-ground-by-ice-outside-delaney-hall-files-federal-tort-claim
-  headline: Nurse thrown to ground by ICE outside Delaney Hall files federal tort claim
+  headline: Nurse thrown to ground by ICE outside Delaney Hall files federal tort
+    claim
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6526
-- slug: 2026-09-30-michigan-nurse-charged-with-helping-ice-patient-escape-hospital
-  headline: Michigan nurse charged with helping ICE patient escape hospital
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6446
+  strength: 0.6528
 - slug: 2026-09-21-ice-removes-detainees-with-final-removal-orders-from-online-locator
   headline: ICE removes detainees with final removal orders from online locator
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6617
-- slug: 2026-09-30-investigation-documents-35-country-us-third-country-deportation-network
-  headline: Investigation documents 35-country US third-country deportation network
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6316
+  strength: 0.6608
 - slug: 2026-08-19-iranian-academic-detained-in-texas-over-1979-hostage-ties-describes-conditions
   headline: Iranian academic detained in Texas over 1979 hostage ties describes conditions
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.6754
-- slug: 2026-09-01-ice-detains-76-year-old-permanent-resident-with-stage-4-cancer-during-citizenshi
-  headline: ICE detains 76-year-old permanent resident with stage 4 cancer during citizenship interview
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.635
-- slug: 2026-08-21-ice-arrests-san-diego-coffee-shop-owner-who-holds-valid-work-permit
-  headline: ICE arrests San Diego coffee shop owner who holds valid work permit
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6483
-- slug: 2026-08-04-dhs-cites-visa-overstay-after-ice-detains-maryland-pharmacy-instructor
-  headline: DHS cites visa overstay after ICE detains Maryland pharmacy instructor
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6393
-- slug: 2026-07-24-nun-detained-by-ice-walking-to-mass-speaks-out-for-first-time
-  headline: Nun detained by ICE walking to Mass speaks out for first time
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6425
-- slug: 2026-07-23-nun-detained-by-ice-walking-to-mass-urges-immigrants-be-heard-before-detention
-  headline: Nun detained by ICE walking to Mass urges immigrants be heard before detention
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6364
+  strength: 0.674
 - slug: 2026-02-27-trump-agreed-to-release-columbia-student-detained-by-ice-mamdani-says
   headline: Trump agreed to release Columbia student detained by ICE, Mamdani says
   publish_date: '2026-02-27'
   relation: related
-  strength: 0.6672
-- slug: 2026-01-16-babson-college-freshman-awaits-return-after-mistaken-ice-deportation-to-honduras
-  headline: Babson College freshman awaits return after mistaken ICE deportation to Honduras
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6473
-- slug: 2026-05-19-iranian-family-linked-to-1979-hostage-crisis-seeks-release-from-detention
-  headline: Iranian family linked to 1979 hostage crisis seeks release from detention
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.626
-- slug: 2026-04-23-california-lawmakers-advance-bills-to-protect-patients-in-ice-custody
-  headline: California lawmakers advance bills to protect patients in ICE custody
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6335
-- slug: 2026-02-02-attorneys-families-struggle-to-find-hospitalized-ice-detainees
-  headline: Attorneys, families struggle to find hospitalized ICE detainees
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6435
+  strength: 0.6692
 ---
-
 ## University of San Francisco presses ICE to release detained nursing professor
 
 **Subtype:** fact
