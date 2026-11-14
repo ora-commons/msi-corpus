@@ -2,8 +2,17 @@
 headline: Colleges roll out tuition guarantees to clarify confusing costs
 secondary_headline: Tuition promises mostly signal clarity rather than price cuts
 publish_date: '2026-11-13'
-lede: 'Middlebury College in Vermont announced that students from families earning up to $175,000 can enroll tuition-free, joining a growing group of universities publishing income-based price guarantees. The moves are aimed less at cutting costs than at a problem experts say has soured many Americans on higher education: how hard it is to figure out what college actually costs.'
-nut_graf: Public confusion about college pricing is quantified and widespread — nearly 70% of students and parents find the financial aid process confusing, and more than three-quarters of adults without college degrees cannot estimate the price of a public four-year institution within $5,000. Colleges are responding with income thresholds, price calculators and, in a few cases, actual cuts, as near-record-low confidence in higher education threatens enrollment and revenue.
+lede: 'Middlebury College in Vermont announced that students from families earning
+  up to $175,000 can enroll tuition-free, joining a growing group of universities
+  publishing income-based price guarantees. The moves are aimed less at cutting costs
+  than at a problem experts say has soured many Americans on higher education: how
+  hard it is to figure out what college actually costs.'
+nut_graf: Public confusion about college pricing is quantified and widespread — nearly
+  70% of students and parents find the financial aid process confusing, and more than
+  three-quarters of adults without college degrees cannot estimate the price of a
+  public four-year institution within $5,000. Colleges are responding with income
+  thresholds, price calculators and, in a few cases, actual cuts, as near-record-low
+  confidence in higher education threatens enrollment and revenue.
 primary_entities:
 - Middlebury College
 - Princeton University
@@ -50,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +158,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-06-new-federal-loan-caps-push-students-toward-private-lenders
-  headline: New federal loan caps push students toward private lenders
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.608
-- slug: 2026-10-29-four-michigan-universities-lobby-to-join-community-college-guarantee
-  headline: Four Michigan universities lobby to join Community College Guarantee
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6387
-- slug: 2026-10-22-federal-loan-caps-expand-private-student-lending
-  headline: Federal loan caps expand private student lending
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6214
 - slug: 2026-09-25-private-colleges-cut-tuition-and-drop-loans-to-draw-wary-families
   headline: Private colleges cut tuition and drop loans to draw wary families
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.7101
-- slug: 2026-09-16-federal-data-flags-500-colleges-with-student-loan-nonpayment-at-40-or-higher
-  headline: Federal data flags 500 colleges with student loan nonpayment at 40% or higher
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6442
-- slug: 2026-09-24-education-department-dismantling-has-potentially-increased-inefficiency-staff-te
-  headline: Education Department dismantling has potentially increased inefficiency, staff tell NPR
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6016
-- slug: 2026-09-22-cornell-faculty-report-declares-higher-education-crisis-unprecedented
-  headline: Cornell faculty report declares higher education crisis unprecedented
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6076
-- slug: 2026-08-31-us-universities-face-layered-financial-pressures-beyond-the-demographic-cliff
-  headline: US universities face layered financial pressures beyond the demographic cliff
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6177
-- slug: 2026-08-26-university-of-maine-system-accepts-jobs-for-maine-graduates-credentials
-  headline: University of Maine System accepts Jobs for Maine Graduates credentials
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6073
-- slug: 2026-08-20-wiche-projects-13-decline-in-u-s-college-enrollments-by-2041
-  headline: WICHE projects 13% decline in U.S. college enrollments by 2041
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6167
-- slug: 2026-08-27-u-m-plan-to-keep-letter-grades-off-first-year-transcripts-stirs-debate
-  headline: U-M plan to keep letter grades off first-year transcripts stirs debate
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6033
-- slug: 2026-08-11-university-of-michigan-drops-first-semester-letter-grades-for-freshmen
-  headline: University of Michigan drops first-semester letter grades for freshmen
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6122
+  strength: 0.7093
 - slug: 2026-01-27-yale-waives-all-costs-for-undergraduates-under-100-000-income
   headline: Yale waives all costs for undergraduates under $100,000 income
   publish_date: '2026-01-27'
   relation: related
-  strength: 0.6865
-- slug: 2026-07-28-colleges-rush-to-admit-students-disenrolled-from-howard-university
-  headline: Colleges rush to admit students disenrolled from Howard University
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.618
-- slug: 2026-06-28-new-graduate-loan-limits-take-effect-july-1-as-economists-debate-tuition-impact
-  headline: New graduate loan limits take effect July 1 as economists debate tuition impact
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6447
-- slug: 2026-06-01-student-loan-inquiry-begins-as-third-of-people-say-degree-not-worth-it
-  headline: Student loan inquiry begins as third of people say degree not worth it
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6493
+  strength: 0.686
 - slug: 2026-04-15-dropped-out-colleges-help-students-reenroll-to-finish-degrees
   headline: Dropped out? Colleges help students reenroll to finish degrees
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.6504
-- slug: 2026-04-11-u-m-shifts-funding-from-dei-to-tuition-free-go-blue-guarantee
-  headline: U-M shifts funding from DEI to tuition-free Go Blue Guarantee
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6473
-- slug: 2026-01-27-nevada-regents-approve-9-12-tuition-increase-to-cover-shortfall
-  headline: Nevada regents approve 9-12% tuition increase to cover shortfall
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6473
-- slug: 2026-06-25-new-federal-loan-caps-deter-would-be-physician-assistants-groups-say
-  headline: New federal loan caps deter would-be physician assistants, groups say
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6083
+  strength: 0.6501
 ---
-
 ## Colleges roll out tuition guarantees to clarify confusing costs
 
 **Subtype:** fact
