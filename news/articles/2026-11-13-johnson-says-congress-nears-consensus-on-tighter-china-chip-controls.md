@@ -1,9 +1,16 @@
 ---
 headline: Johnson says Congress nears consensus on tighter China chip controls
-secondary_headline: Republicans reportedly seek to add chip-export limits to defense bill
+secondary_headline: Republicans reportedly seek to add chip-export limits to defense
+  bill
 publish_date: '2026-11-13'
-lede: House Speaker Mike Johnson said on November 13, 2026 that a developing consensus is forming in Congress to limit China's access to advanced AI chips, a push that has strengthened since Nvidia chief executive Jensen Huang stepped down after reports of a romantic relationship with a businesswoman whom US authorities suspect of spying for the Chinese government.
-nut_graf: Nvidia's advanced chips are widely used to develop cutting-edge AI models, making export policy for that hardware a central lever in the US effort to keep its own companies ahead in the race against China.
+lede: House Speaker Mike Johnson said on November 13, 2026 that a developing consensus
+  is forming in Congress to limit China's access to advanced AI chips, a push that
+  has strengthened since Nvidia chief executive Jensen Huang stepped down after reports
+  of a romantic relationship with a businesswoman whom US authorities suspect of spying
+  for the Chinese government.
+nut_graf: Nvidia's advanced chips are widely used to develop cutting-edge AI models,
+  making export policy for that hardware a central lever in the US effort to keep
+  its own companies ahead in the race against China.
 primary_entities:
 - Mike Johnson
 - Nvidia
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,17 +152,20 @@ related_stories:
   relation: related
   strength: 0.8285
 - slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
+  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip
+    controls
   publish_date: '2026-11-09'
   relation: related
   strength: 0.814
 - slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
+  headline: Nvidia's Huang wins looser China chip rules despite national-security
+    warnings
   publish_date: '2026-11-12'
   relation: related
   strength: 0.7928
 - slug: 2026-11-12-warren-and-coons-ask-trump-administration-to-preserve-nvidia-chip-export-records
-  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export records
+  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export
+    records
   publish_date: '2026-11-12'
   relation: related
   strength: 0.7877
@@ -173,82 +184,25 @@ related_stories:
   publish_date: '2026-11-12'
   relation: related
   strength: 0.7719
-- slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
+- slug: 2026-11-13-rival-chipmakers-gain-as-huang-departure-rattles-nvidia
+  headline: Rival chipmakers gain as Huang departure rattles Nvidia
+  publish_date: '2026-11-13'
   relation: related
-  strength: 0.7671
-- slug: 2026-11-11-huang-presses-china-chip-access-while-opposing-new-ai-rules
-  headline: Huang presses China chip access while opposing new AI rules
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7701
-- slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
-  headline: Nvidia inquiry draws top Republican demands for answers
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7833
-- slug: 2026-11-12-megaspeed-vows-cooperation-with-u-s-national-security-investigations
-  headline: Megaspeed vows cooperation with U.S. national security investigations
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7622
-- slug: 2026-11-11-chip-export-restrictions-sought-by-lawmakers-threaten-nvidia-billions-in-revenue
-  headline: Chip-export restrictions sought by lawmakers threaten Nvidia billions in revenue
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7643
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
-  headline: Jensen Huang resigns as Nvidia CEO after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7571
-- slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
-  headline: Nvidia board investigates CEO Jensen Huang as shares tumble
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7693
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
-  headline: Nvidia CEO Jensen Huang resigns after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7475
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7607
-- slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
-  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7641
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7636
-- slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
-  headline: Nvidia investigates reports of spying targeting Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7607
-- slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
-  headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7599
+  strength: 0.7625
 image:
   url: /articles/2026-11-13-johnson-says-congress-nears-consensus-on-tighter-china-chip-controls.png
-  alt: "Illustration accompanying article: Johnson says Congress nears consensus on tighter China chip controls"
+  alt: 'Illustration accompanying article: Johnson says Congress nears consensus on
+    tighter China chip controls'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Johnson says Congress nears consensus on tighter China chip controls
 
 **Subtype:** fact

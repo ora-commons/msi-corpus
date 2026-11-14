@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-10-24'
   relation: related
   strength: 0.6681
+analyses:
+- '2026-11-12-one-exposure-web-binds-vance-s-iran-talks-nvidia-s-board-and-kodiak-s-settlement'
 ---
 ## Kodiak discloses cartel-linked settlement talks as Vance weighs Iran talks
 
@@ -241,3 +243,8 @@ The Nvidia development sat in the same report as background. Nvidia's board is p
 **Publication date:** 2026-11-12
 **Title:** The Morning Risk Report: Nvidia is Preparing to Oust CEO Jensen Huang
 **URL:** https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-nvidia-is-preparing-to-oust-ceo-jensen-huang-324bfbd1
+
+---
+
+<!-- analysis-link:2026-11-12-one-exposure-web-binds-vance-s-iran-talks-nvidia-s-board-and-kodiak-s-settlement -->
+**Going deeper:** [Read MSI's analysis of the Iran-AI exposure web →](/analyses/2026-11-12-one-exposure-web-binds-vance-s-iran-talks-nvidia-s-board-and-kodiak-s-settlement)

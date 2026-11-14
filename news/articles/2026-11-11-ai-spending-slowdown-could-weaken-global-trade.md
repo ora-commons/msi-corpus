@@ -1,9 +1,17 @@
 ---
 headline: AI spending slowdown could weaken global trade
-secondary_headline: Capital Economics warns AI goods account for up to 80% of recent export growth
+secondary_headline: Capital Economics warns AI goods account for up to 80% of recent
+  export growth
 publish_date: '2026-11-11'
-lede: Global growth now relies heavily on U.S. data-center investment, leaving export-dependent economies exposed if artificial-intelligence spending slows, according to an analysis published Nov. 11, 2026. Capital Economics said as much as 80% of recent export growth is concentrated in AI-related goods. HSBC economist Frederic Neumann warned that little could be done to prevent a global recession if the AI boom collapses.
-nut_graf: The risk reaches beyond U.S. technology companies because weaker data-center spending would reduce demand for Asian hardware exports. China, South Korea and other major economies have weak consumption, while overstretched budgets leave governments with limited room for additional spending.
+lede: Global growth now relies heavily on U.S. data-center investment, leaving export-dependent
+  economies exposed if artificial-intelligence spending slows, according to an analysis
+  published Nov. 11, 2026. Capital Economics said as much as 80% of recent export
+  growth is concentrated in AI-related goods. HSBC economist Frederic Neumann warned
+  that little could be done to prevent a global recession if the AI boom collapses.
+nut_graf: The risk reaches beyond U.S. technology companies because weaker data-center
+  spending would reduce demand for Asian hardware exports. China, South Korea and
+  other major economies have weak consumption, while overstretched budgets leave governments
+  with limited room for additional spending.
 primary_entities:
 - United States
 - China
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +157,46 @@ related_stories:
   headline: Asian indexes fall as data-center concerns weigh on chip shares
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7386
+  strength: 0.7382
 - slug: 2026-11-05-ai-related-companies-now-make-up-roughly-half-of-the-s-p-500-npr-editor-says
-  headline: AI-related companies now make up roughly half of the S&P 500, NPR editor says
+  headline: AI-related companies now make up roughly half of the S&P 500, NPR editor
+    says
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7453
+  strength: 0.745
 - slug: 2026-11-05-data-center-slowdown-could-favor-large-ai-firms-with-power-secured
   headline: Data center slowdown could favor large AI firms with power secured
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7419
+  strength: 0.7417
 - slug: 2026-11-06-global-stocks-sink-as-ai-slowdown-fears-follow-democrats-midterm-victory
   headline: Global stocks sink as AI slowdown fears follow Democrats' midterm victory
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7339
+  strength: 0.734
 - slug: 2026-11-06-ai-shares-rebound-after-selloff-erased-more-than-2-trillion-as-data-center-votes
-  headline: AI shares rebound after selloff erased more than $2 trillion as data-center votes unsettle investors
+  headline: AI shares rebound after selloff erased more than $2 trillion as data-center
+    votes unsettle investors
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7338
+  strength: 0.7334
 - slug: 2026-11-06-analysts-weigh-whether-ai-sell-off-is-froth-removal-or-a-bubble-about-to-burst
-  headline: Analysts weigh whether AI sell-off is froth removal or a bubble about to burst
+  headline: Analysts weigh whether AI sell-off is froth removal or a bubble about
+    to burst
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7305
+  strength: 0.7303
 - slug: 2026-11-05-nasdaq-drops-as-much-as-5-amid-ai-spending-and-regulation-fears
   headline: Nasdaq drops as much as 5% amid AI spending and regulation fears
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7288
+  strength: 0.7289
 - slug: 2026-10-27-weak-profits-and-u-s-technology-restrictions-weigh-on-chinese-stocks
   headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7535
-- slug: 2026-10-30-stocks-fall-sharply-as-tech-earnings-renew-concerns-over-ai-spending
-  headline: Stocks fall sharply as tech earnings renew concerns over AI spending
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7131
-- slug: 2026-10-23-ai-stocks-fall-overnight-before-japan-and-south-korea-trade-broadly-flat
-  headline: AI stocks fall overnight before Japan and South Korea trade broadly flat
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7451
-- slug: 2026-10-20-nasdaq-100-falls-5-5-as-imf-cites-ai-investment-bubble-among-top-global-risks
-  headline: Nasdaq 100 falls 5.5% as IMF cites AI investment bubble among top global risks
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7597
-- slug: 2026-10-15-imf-warns-ai-share-price-correction-could-threaten-global-financial-stability
-  headline: IMF warns AI share-price correction could threaten global financial stability
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7689
-- slug: 2026-10-22-ai-stock-selloff-drags-global-indexes-lower-as-brent-reaches-113-17
-  headline: AI stock selloff drags global indexes lower as Brent reaches $113.17
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7331
-- slug: 2026-10-19-dow-ends-lower-as-ai-shares-rebound-and-european-indexes-retreat
-  headline: Dow ends lower as AI shares rebound and European indexes retreat
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7109
-- slug: 2026-10-02-ai-sector-needs-9-of-us-gdp-in-revenue-by-2032-analysis-finds
-  headline: AI sector needs 9% of US GDP in revenue by 2032, analysis finds
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7217
-- slug: 2026-08-28-ai-investment-boom-props-up-global-growth-despite-trade-and-energy-strains
-  headline: AI investment boom props up global growth despite trade and energy strains
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.8065
-- slug: 2026-09-24-us-ai-infrastructure-investment-projected-at-10-3-trillion-from-2025-to-2032
-  headline: US AI infrastructure investment projected at $10.3 trillion from 2025 to 2032
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7281
-- slug: 2026-09-15-wall-street-buys-ai-hyperscalers-despite-executives-slowdown-calls
-  headline: Wall Street buys AI hyperscalers despite executives' slowdown calls
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7379
-- slug: 2026-09-14-ai-stocks-slide-worldwide-after-anthropic-ceo-urges-industry-slowdown
-  headline: AI stocks slide worldwide after Anthropic CEO urges industry slowdown
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7273
-- slug: 2026-07-14-ai-data-center-construction-booms-as-factory-building-slows
-  headline: AI data center construction booms as factory building slows
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.7383
+  strength: 0.753
 ---
-
 ## AI spending slowdown could weaken global trade
 
 **Subtype:** fact

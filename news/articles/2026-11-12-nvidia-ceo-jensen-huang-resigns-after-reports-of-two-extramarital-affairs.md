@@ -200,6 +200,8 @@ related_stories:
   publish_date: '2026-11-09'
   relation: related
   strength: 0.7997
+analyses:
+- '2026-11-12-huang-s-exit-and-united-s-ai-agent-block-move-two-gates-at-once'
 ---
 ## Nvidia CEO Jensen Huang resigns after reports of two extramarital affairs
 
@@ -275,3 +277,8 @@ The newsletter rounded up shorter marketing and brand items:
 **Publication date:** 2026-11-12
 **Title:** Jensen Huang’s Resignation Quiets the AI Boom’s Best PR Asset
 **URL:** https://www.wsj.com/cmo-today/jensen-huangs-resignation-quiets-the-ai-booms-best-pr-asset-090544e4
+
+---
+
+<!-- analysis-link:2026-11-12-huang-s-exit-and-united-s-ai-agent-block-move-two-gates-at-once -->
+**Going deeper:** [Read MSI's analysis of Read MSI's analysis of AI advocacy after Huang's exit →](/analyses/2026-11-12-huang-s-exit-and-united-s-ai-agent-block-move-two-gates-at-once)
