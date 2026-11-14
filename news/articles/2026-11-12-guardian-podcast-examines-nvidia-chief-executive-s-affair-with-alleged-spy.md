@@ -2,8 +2,18 @@
 headline: Guardian podcast examines Nvidia chief executive's affair with alleged spy
 secondary_headline: Shares slide after disclosure of the relationship
 publish_date: '2026-11-12'
-lede: The Guardian's Today in Focus podcast examined on Thursday the affair between Nvidia chief executive Jensen Huang and a woman US intelligence services believe is a Chinese spy. The episode, titled "The (alleged) spy who loved me," was published at 4am Central European Time on Thursday 12 November 2026 and presented by Helen Pidd with the paper's global technology editor, Dan Milmo. The affair emerged on Sunday and has left Nvidia's stock sliding with Huang's position under question, according to the Guardian.
-nut_graf: Nvidia is one of the biggest companies in the world and the creator of the superchips used to power the AI boom, according to the Guardian, which estimates Huang's personal fortune at around $150bn (£112bn). Those stakes place questions about the chief executive's personal conduct at the intersection of corporate leadership, national security and the financial markets.
+lede: The Guardian's Today in Focus podcast examined on Thursday the affair between
+  Nvidia chief executive Jensen Huang and a woman US intelligence services believe
+  is a Chinese spy. The episode, titled "The (alleged) spy who loved me," was published
+  at 4am Central European Time on Thursday 12 November 2026 and presented by Helen
+  Pidd with the paper's global technology editor, Dan Milmo. The affair emerged on
+  Sunday and has left Nvidia's stock sliding with Huang's position under question,
+  according to the Guardian.
+nut_graf: Nvidia is one of the biggest companies in the world and the creator of the
+  superchips used to power the AI boom, according to the Guardian, which estimates
+  Huang's personal fortune at around $150bn (£112bn). Those stakes place questions
+  about the chief executive's personal conduct at the intersection of corporate leadership,
+  national security and the financial markets.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -176,72 +187,12 @@ related_stories:
   relation: related
   strength: 0.7795
 - slug: 2026-11-12-nvidia-shares-sink-7-premarket-as-reports-put-ceo-jensen-huang-s-tenure-at-risk
-  headline: Nvidia shares sink 7% premarket as reports put CEO Jensen Huang's tenure at risk
+  headline: Nvidia shares sink 7% premarket as reports put CEO Jensen Huang's tenure
+    at risk
   publish_date: '2026-11-12'
   relation: related
   strength: 0.7584
-- slug: 2026-11-12-megaspeed-says-its-offers-to-cooperate-with-us-chip-probe-went-unanswered
-  headline: Megaspeed says its offers to cooperate with US chip probe went unanswered
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.757
-- slug: 2026-11-10-investor-sues-nvidia-over-alleged-deception-on-ceo-affair-and-megaspeed
-  headline: Investor sues Nvidia over alleged deception on CEO affair and Megaspeed
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7698
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7689
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
-  headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7547
-- slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.772
-- slug: 2026-11-10-nvidia-shareholder-suit-alleges-failure-to-disclose-national-security-concerns
-  headline: Nvidia shareholder suit alleges failure to disclose national security concerns
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7649
-- slug: 2026-11-12-guardian-column-argues-nvidia-scandal-puts-tech-bosses-above-the-rules
-  headline: Guardian column argues Nvidia scandal puts tech bosses above the rules
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7504
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7679
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7656
-- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7427
-- slug: 2026-11-12-businessman-who-introduced-jensen-huang-to-alice-huang-is-her-husband
-  headline: Businessman who introduced Jensen Huang to Alice Huang is her husband
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7218
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7423
 ---
-
 ## Guardian podcast examines Nvidia chief executive's affair with alleged spy
 
 **Subtype:** fact
