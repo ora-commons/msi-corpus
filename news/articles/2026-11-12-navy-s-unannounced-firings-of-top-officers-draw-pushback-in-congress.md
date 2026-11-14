@@ -62,7 +62,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -142,6 +142,13 @@ Major satellite imagery providers with U.S. contracts have blocked or delayed pu
 **Publication date:** 2026-11-12
 **Title:** Navy's quiet firings see some pushback in Congress
 **URL:** https://apnews.com/article/navy-officers-firings-congress-submarine-doctor-86eef359610d568db86feb4cc9ef2859
+
+### src_late_256d422ec3a4823a — Associated Press, wire, Tier 1, originating
+**Author:** Konstantin Toropin, Associated Press
+**Publication date:** 2026-11-13
+**Title:** Navy has quietly fired some commanders and other officials, drawing congressional pushback
+**URL:** https://www.pbs.org/newshour/politics/navy-has-quietly-fired-some-commanders-and-other-officials-drawing-congressional-pushback
+**Added after publication:** true
 
 ---
 

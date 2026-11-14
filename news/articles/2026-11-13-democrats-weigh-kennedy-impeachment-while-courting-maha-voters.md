@@ -64,7 +64,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -268,3 +268,10 @@ Motta said Democrats' ability to pass those changes will be one of the most impo
 **Publication date:** 2026-11-13
 **Title:** Democrats target RFK Jr. while courting MAHA supporters
 **URL:** https://apnews.com/article/kennedy-impeach-maha-rfk-jr-democrats-congress-1ce376052d40c797cfb9c9137a9fad45
+
+### src_late_290d4cde62b1d3ec — Associated Press, wire, Tier 1, originating
+**Author:** Ali Swenson, Associated Press
+**Publication date:** 2026-11-13
+**Title:** Democrats are weighing impeachment of RFK Jr. while courting his supporters
+**URL:** https://www.pbs.org/newshour/politics/democrats-are-weighing-impeachment-of-rfk-jr-while-courting-his-supporters
+**Added after publication:** true

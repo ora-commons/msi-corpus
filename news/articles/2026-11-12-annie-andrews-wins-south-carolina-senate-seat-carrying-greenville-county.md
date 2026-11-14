@@ -61,7 +61,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -256,3 +256,10 @@ Beasley, the former Republican governor, sees a bigger job ahead. His politics h
 **Publication date:** 2026-11-12
 **Title:** ‘The Ass-Kicking We Needed’: A Loss in GOP Heartland Exposes a Party in Pieces
 **URL:** https://www.wsj.com/politics/elections/republican-election-south-carolina-andrews-948169ec
+
+### src_late_6c65831caa93b49d — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Emma Tucker
+**Publication date:** 2026-11-12
+**Title:** Party Fractures and Voter Anger Topple Republicans in a Conservative Bastion
+**URL:** https://www.wsj.com/articles/party-fractures-and-voter-anger-topple-republicans-in-a-conservative-bastion-d8b0bac1
+**Added after publication:** true
