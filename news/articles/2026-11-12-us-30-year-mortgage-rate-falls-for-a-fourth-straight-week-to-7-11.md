@@ -2,8 +2,17 @@
 headline: US 30-year mortgage rate falls for a fourth straight week to 7.11%
 secondary_headline: Existing-home sales hit slowest annual pace in more than 16 years
 publish_date: '2026-11-12'
-lede: The average U.S. rate on a 30-year fixed mortgage fell for a fourth consecutive week, declining to 7.11% from 7.18% the week before, mortgage buyer Freddie Mac said Thursday. The pullback left the rate at its lowest level since late September and offered a measure of relief to prospective home shoppers who have put off buying because of elevated borrowing costs and prices.
-nut_graf: 'The decline does little to change a housing market that has struggled through most of 2026: the 30-year average remains well above the 6.24% level of a year earlier, sales of previously occupied homes just posted their slowest annual pace in more than 16 years, and persistently high inflation — according to the report — has raised the odds of another Federal Reserve rate increase when the central bank meets in December.'
+lede: The average U.S. rate on a 30-year fixed mortgage fell for a fourth consecutive
+  week, declining to 7.11% from 7.18% the week before, mortgage buyer Freddie Mac
+  said Thursday. The pullback left the rate at its lowest level since late September
+  and offered a measure of relief to prospective home shoppers who have put off buying
+  because of elevated borrowing costs and prices.
+nut_graf: 'The decline does little to change a housing market that has struggled through
+  most of 2026: the 30-year average remains well above the 6.24% level of a year earlier,
+  sales of previously occupied homes just posted their slowest annual pace in more
+  than 16 years, and persistently high inflation — according to the report — has raised
+  the odds of another Federal Reserve rate increase when the central bank meets in
+  December.'
 primary_entities:
 - Freddie Mac
 - Federal Reserve System
@@ -36,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -52,17 +62,21 @@ figures:
   series_id: MORTGAGE30US
   transformation: raw
   as_of: '2026-11-12'
-  caption: Freddie Mac's weekly average for the 30-year fixed-rate mortgage, which fell to 7.11% as of Nov. 12, 2026 — its fourth consecutive weekly decline.
+  caption: Freddie Mac's weekly average for the 30-year fixed-rate mortgage, which
+    fell to 7.11% as of Nov. 12, 2026 — its fourth consecutive weekly decline.
 - source: fred
   series_id: DGS10
   transformation: raw
   as_of: '2026-11-12'
-  caption: The daily 10-year Treasury yield, the benchmark lenders use to price home loans, which has trended lower since early October after reaching its highest level since 2002.
+  caption: The daily 10-year Treasury yield, the benchmark lenders use to price home
+    loans, which has trended lower since early October after reaching its highest
+    level since 2002.
 - source: fred
   series_id: MSPUS
   transformation: raw
   as_of: '2026-11-12'
-  caption: The median sales price of houses sold in the United States, the affordability counterpart to mortgage borrowing costs, recorded at $393,300 as of Nov. 12, 2026.
+  caption: The median sales price of houses sold in the United States, the affordability
+    counterpart to mortgage borrowing costs, recorded at $393,300 as of Nov. 12, 2026.
 figures_aggregate:
   count: 3
   series_ids:
@@ -158,104 +172,45 @@ related_stories:
   headline: U.S. 30-year mortgage rate falls for a third straight week
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.9405
+  strength: 0.9408
 - slug: 2026-10-29-30-year-mortgage-rate-falls-to-7-24-lowest-in-more-than-a-month
   headline: 30-year mortgage rate falls to 7.24%, lowest in more than a month
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.9266
+  strength: 0.9271
 - slug: 2026-11-12-us-existing-home-sales-fall-to-16-year-low-as-mortgage-rates-climb
   headline: US existing home sales fall to 16-year low as mortgage rates climb
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7789
+  strength: 0.7787
 - slug: 2026-11-05-some-borrowers-give-adjustable-rate-mortgages-a-second-look-as-fixed-rates-top-7
-  headline: Some borrowers give adjustable-rate mortgages a second look as fixed rates top 7%
+  headline: Some borrowers give adjustable-rate mortgages a second look as fixed rates
+    top 7%
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7301
+  strength: 0.7308
 - slug: 2026-10-25-u-s-home-sellers-cut-prices-and-offer-concessions-as-buyers-gain-leverage
   headline: U.S. home sellers cut prices and offer concessions as buyers gain leverage
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7228
+  strength: 0.7226
 - slug: 2026-10-01-30-year-mortgage-rate-climbs-to-7-28-on-bond-market-selloff
   headline: 30-year mortgage rate climbs to 7.28% on bond market selloff
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7981
+  strength: 0.7982
 - slug: 2026-08-20-u-s-mortgage-rates-ease-for-a-second-week-but-stay-elevated
   headline: U.S. mortgage rates ease for a second week but stay elevated
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.8944
+  strength: 0.8948
 - slug: 2026-08-13-freddie-mac-reports-30-year-mortgage-rate-at-6-67-first-weekly-decline-in-six-we
-  headline: Freddie Mac reports 30-year mortgage rate at 6.67%, first weekly decline in six weeks
+  headline: Freddie Mac reports 30-year mortgage rate at 6.67%, first weekly decline
+    in six weeks
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.8994
-- slug: 2026-08-27-30-year-mortgage-rate-holds-at-6-65-near-2026-high
-  headline: 30-year mortgage rate holds at 6.65%, near 2026 high
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.8673
-- slug: 2026-09-24-us-30-year-mortgage-rate-tops-7-for-first-time-since-january-2025
-  headline: US 30-year mortgage rate tops 7% for first time since January 2025
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.788
-- slug: 2026-10-07-fed-rate-hike-and-bond-selloff-push-mortgages-car-loans-higher
-  headline: Fed rate hike and bond selloff push mortgages, car loans higher
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7381
-- slug: 2026-09-10-us-existing-home-sales-fall-to-slowest-pace-in-over-a-year
-  headline: US existing home sales fall to slowest pace in over a year
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7824
-- slug: 2026-02-20-average-us-30-year-mortgage-rate-slips-to-6-01-still-near-6-range
-  headline: Average US 30-year mortgage rate slips to 6.01%, still near 6% range
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.9109
-- slug: 2026-07-23-freddie-mac-reports-30-year-mortgage-rate-at-6-58-highest-since-july-2025
-  headline: Freddie Mac reports 30-year mortgage rate at 6.58%, highest since July 2025
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.8418
-- slug: 2026-04-24-mortgage-rates-slip-for-third-week-easing-pressure-on-spring-homebuyers
-  headline: Mortgage rates slip for third week, easing pressure on spring homebuyers
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.8856
-- slug: 2026-02-19-average-us-long-term-mortgage-rate-dips-to-6-01-lowest-in-more-than-3-years
-  headline: Average US long-term mortgage rate dips to 6.01%, lowest in more than 3 years
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.8759
-- slug: 2026-04-29-average-30-year-mortgage-rate-edges-up-to-6-3-as-housing-outlook-softens
-  headline: Average 30-year mortgage rate edges up to 6.3% as housing outlook softens
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.8424
-- slug: 2026-07-16-30-year-mortgage-rate-rises-to-6-55-as-iran-war-pushes-up-bond-yields
-  headline: 30-year mortgage rate rises to 6.55% as Iran war pushes up bond yields
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7989
-- slug: 2026-01-30-us-mortgage-rates-rise-for-second-week-near-3-year-low
-  headline: US mortgage rates rise for second week, near 3-year low
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.8528
-- slug: 2026-05-08-spring-homebuying-season-meets-a-stubborn-6-37-mortgage-rate
-  headline: Spring homebuying season meets a stubborn 6.37% mortgage rate
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.8323
+  strength: 0.8995
 ---
-
 ## US 30-year mortgage rate falls for a fourth straight week to 7.11%
 
 **Subtype:** fact

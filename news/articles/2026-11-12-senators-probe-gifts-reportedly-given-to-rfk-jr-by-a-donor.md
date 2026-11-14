@@ -1,9 +1,20 @@
 ---
 headline: Senators probe gifts reportedly given to RFK Jr. by a donor
-secondary_headline: Samoa testimony inquiry sets Dec. 4 deadline for records from Kennedy's former group
+secondary_headline: Samoa testimony inquiry sets Dec. 4 deadline for records from
+  Kennedy's former group
 publish_date: '2026-11-12'
-lede: Two Democratic senators are opening a separate investigation into hundreds of thousands of dollars worth of gifts reportedly given last year to Health Secretary Robert F. Kennedy Jr. by a donor and former employee. Sens. Ron Wyden of Oregon and Angela Alsobrooks of Maryland announced the gifts inquiry on Wednesday, the same day they said in a letter to Children's Health Defense that they were investigating whether Kennedy lied to Congress about his reason for a 2019 trip to Samoa.
-nut_graf: The gifts inquiry and the Samoa-testimony inquiry are among a vast array of investigations planned into the Trump administration after Democrats regained control of the House and Senate from Republicans in the midterm elections. Kennedy was not under oath during his confirmation hearing, and knowingly giving material false testimony to Congress is a crime that carries a possible prison sentence regardless of whether a person is under oath, though it is rarely prosecuted.
+lede: Two Democratic senators are opening a separate investigation into hundreds of
+  thousands of dollars worth of gifts reportedly given last year to Health Secretary
+  Robert F. Kennedy Jr. by a donor and former employee. Sens. Ron Wyden of Oregon
+  and Angela Alsobrooks of Maryland announced the gifts inquiry on Wednesday, the
+  same day they said in a letter to Children's Health Defense that they were investigating
+  whether Kennedy lied to Congress about his reason for a 2019 trip to Samoa.
+nut_graf: The gifts inquiry and the Samoa-testimony inquiry are among a vast array
+  of investigations planned into the Trump administration after Democrats regained
+  control of the House and Senate from Republicans in the midterm elections. Kennedy
+  was not under oath during his confirmation hearing, and knowingly giving material
+  false testimony to Congress is a crime that carries a possible prison sentence regardless
+  of whether a person is under oath, though it is rarely prosecuted.
 primary_entities:
 - Ron Wyden
 - Angela Alsobrooks
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,47 +161,28 @@ related_stories:
   headline: Wyden opens inquiry into whether RFK Jr lied to Congress over Samoa trip
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8453
+  strength: 0.846
 - slug: 2026-11-11-democratic-senators-probe-rfk-jr-over-yacht-trip-omitted-from-ethics-disclosure
-  headline: Democratic senators probe RFK Jr. over yacht trip omitted from ethics disclosure
+  headline: Democratic senators probe RFK Jr. over yacht trip omitted from ethics
+    disclosure
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7857
-- slug: 2026-11-12-democrats-demand-records-from-trump-s-chief-fundraiser-over-800-million-raised
-  headline: Democrats demand records from Trump's chief fundraiser over $800 million raised
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6448
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6359
-- slug: 2026-10-14-paxton-probes-texas-pediatricians-over-vaccine-incentives-as-measles-spreads
-  headline: Paxton probes Texas pediatricians over vaccine incentives as measles spreads
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6388
+  strength: 0.7858
 - slug: 2026-08-27-obtained-letter-contradicts-kennedy-s-senate-testimony-on-samoa-trip
   headline: Obtained letter contradicts Kennedy's Senate testimony on Samoa trip
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.7755
-- slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
-  headline: Democrats outline investigation priorities if they win Congress
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6399
+  strength: 0.7771
 - slug: 2026-09-24-kennedy-s-filing-reports-4-million-in-book-advances
   headline: Kennedy's filing reports $4 million in book advances
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6722
+  strength: 0.6723
 - slug: 2026-09-23-kennedy-s-filings-show-4m-in-book-advances-donor-gifts-from-de-becker
   headline: Kennedy's filings show $4m in book advances, donor gifts from de Becker
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6616
+  strength: 0.6617
 - slug: 2026-09-18-rfk-jr-discloses-over-250-000-in-gifts-from-security-consultant
   headline: RFK Jr. discloses over $250,000 in gifts from security consultant
   publish_date: '2026-09-18'
@@ -199,54 +192,13 @@ related_stories:
   headline: Curtis asks Senate panel to probe Trump Jr. wedding gift
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6584
-- slug: 2026-09-23-fbi-moved-to-investigate-collins-for-bribery-before-trump-derailed-inquiry
-  headline: FBI moved to investigate Collins for bribery before Trump derailed inquiry
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6414
-- slug: 2026-09-23-fbi-records-contradict-collins-claims-she-was-cleared-in-navatek-probe
-  headline: FBI records contradict Collins' claims she was cleared in Navatek probe
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6394
+  strength: 0.658
 - slug: 2026-06-25-new-emails-contradict-rfk-jr-claim-that-samoa-trip-was-not-about-vaccines
   headline: New emails contradict RFK Jr. claim that Samoa trip was not about vaccines
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.7663
-- slug: 2026-02-08-emails-challenge-rfk-jr-testimony-on-samoa-trip-before-measles-outbreak
-  headline: Emails challenge RFK Jr. testimony on Samoa trip before measles outbreak
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7546
-- slug: 2026-07-28-trump-pushes-rfk-jr-to-probe-alleged-vaccine-autism-link-cut-child-shots
-  headline: Trump pushes RFK Jr. to probe alleged vaccine-autism link, cut child shots
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6528
-- slug: 2026-06-17-parents-turn-to-unproven-stem-cell-autism-treatments-backed-by-rfk-jr
-  headline: Parents turn to unproven stem cell autism treatments backed by RFK Jr.
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6507
-- slug: 2026-04-17-kennedy-clashes-with-democrats-over-vaccines-and-race-at-house-hearing
-  headline: Kennedy clashes with Democrats over vaccines and race at House hearing
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6703
-- slug: 2026-06-25-wyden-accuses-hhs-of-preparing-to-deport-more-than-500-migrant-children
-  headline: Wyden accuses HHS of preparing to deport more than 500 migrant children
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6409
-- slug: 2026-04-21-as-rfk-jr-faced-the-senate-bill-cassidy-balanced-politics-and-science
-  headline: As RFK Jr. faced the Senate, Bill Cassidy balanced politics and science
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6596
+  strength: 0.7673
 ---
-
 ## Senators probe gifts reportedly given to RFK Jr. by a donor
 
 **Subtype:** fact**

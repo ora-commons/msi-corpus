@@ -1,9 +1,19 @@
 ---
-headline: US returns nearly 99% of Venezuelan oil revenue since Maduro ouster, report says
-secondary_headline: KPMG accounting details US vetting of 20 unnamed Venezuelan oil buyers
+headline: US returns nearly 99% of Venezuelan oil revenue since Maduro ouster, report
+  says
+secondary_headline: KPMG accounting details US vetting of 20 unnamed Venezuelan oil
+  buyers
 publish_date: '2026-11-12'
-lede: The Trump administration says it has returned more than $12 billion — almost 99% — of the revenue obtained from sales of Venezuelan oil since it ousted then-President Nicolás Maduro in January. In a report released Thursday by the State Department, the accounting firm KPMG put the revenue from Venezuelan crude, along with minor amounts of gold, minerals and fertilizer, at $12.26 billion, with nearly all of it returned to Venezuela under an energy deal reached with the country's interim authorities.
-nut_graf: The accounting offers a window into the Venezuelan government's finances since the U.S. captured Maduro — bringing him to New York to face drug-trafficking charges — and took effective control of the country's dilapidated oil industry.
+lede: The Trump administration says it has returned more than $12 billion — almost
+  99% — of the revenue obtained from sales of Venezuelan oil since it ousted then-President
+  Nicolás Maduro in January. In a report released Thursday by the State Department,
+  the accounting firm KPMG put the revenue from Venezuelan crude, along with minor
+  amounts of gold, minerals and fertilizer, at $12.26 billion, with nearly all of
+  it returned to Venezuela under an energy deal reached with the country's interim
+  authorities.
+nut_graf: The accounting offers a window into the Venezuelan government's finances
+  since the U.S. captured Maduro — bringing him to New York to face drug-trafficking
+  charges — and took effective control of the country's dilapidated oil industry.
 primary_entities:
 - Nicolás Maduro
 - Donald Trump
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,107 +153,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-09-venezuelan-oil-output-hovers-at-1-million-barrels-a-day-far-below-1990s-levels
-  headline: Venezuelan oil output hovers at 1 million barrels a day, far below 1990s levels
+  headline: Venezuelan oil output hovers at 1 million barrels a day, far below 1990s
+    levels
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7123
+  strength: 0.7131
 - slug: 2026-08-29-trump-announces-historic-us-venezuela-oil-deal-with-55-us-control
   headline: Trump announces 'historic' US-Venezuela oil deal with 55% US control
   publish_date: '2026-08-29'
   relation: related
-  strength: 0.7597
+  strength: 0.7601
 - slug: 2026-09-02-venezuelan-assembly-approves-100-year-nabep-oil-pact-covering-17-fields
   headline: Venezuelan assembly approves 100-year Nabep oil pact covering 17 fields
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7123
+  strength: 0.7125
 - slug: 2026-08-25-venezuela-s-oil-output-hits-1-23-million-barrels-per-day-highest-since-2019
-  headline: Venezuela's oil output hits 1.23 million barrels per day, highest since 2019
+  headline: Venezuela's oil output hits 1.23 million barrels per day, highest since
+    2019
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7251
+  strength: 0.7252
 - slug: 2026-09-02-chevron-signs-7-billion-venezuela-agreements-following-trump-deal
   headline: Chevron signs $7 billion Venezuela agreements following Trump deal
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6986
+  strength: 0.6992
 - slug: 2026-08-28-proposed-u-s-stake-in-17-venezuelan-fields-covers-90-billion-barrels
   headline: Proposed U.S. stake in 17 Venezuelan fields covers 90 billion barrels
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7019
+  strength: 0.7024
 - slug: 2026-01-04-venezuela-oil-revival-faces-decade-long-timeline-and-100-billion-investment-hurd
-  headline: Venezuela oil revival faces decade-long timeline and $100 billion investment hurdle
+  headline: Venezuela oil revival faces decade-long timeline and $100 billion investment
+    hurdle
   publish_date: '2026-01-04'
   relation: related
-  strength: 0.7399
+  strength: 0.7404
 - slug: 2026-01-29-rubio-says-u-s-will-oversee-venezuela-oil-sale-proceeds-under-sanctions
   headline: Rubio says U.S. will oversee Venezuela oil-sale proceeds under sanctions
   publish_date: '2026-01-29'
   relation: related
-  strength: 0.735
-- slug: 2026-07-19-u-s-faces-37-billion-cleanup-after-venezuela-quakes
-  headline: U.S. faces $37 billion cleanup after Venezuela quakes
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6692
-- slug: 2026-01-07-venezuela-s-vast-oil-reserves-draw-us-interest-but-experts-warn-of-major-hurdles
-  headline: Venezuela's vast oil reserves draw US interest, but experts warn of major hurdles
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7264
-- slug: 2026-01-08-trump-calls-on-oil-executives-to-invest-in-venezuela-after-maduro-ouster
-  headline: Trump calls on oil executives to invest in Venezuela after Maduro ouster
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7221
-- slug: 2026-01-10-trump-order-shields-venezuelan-oil-revenue-from-judicial-claims
-  headline: Trump order shields Venezuelan oil revenue from judicial claims
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.7195
-- slug: 2026-01-07-us-seizes-two-more-venezuelan-oil-tankers-as-trump-moves-to-control-global-sales
-  headline: US seizes two more Venezuelan oil tankers as Trump moves to control global sales
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7177
-- slug: 2026-01-22-venezuela-advances-oil-reform-allowing-private-company-investment
-  headline: Venezuela advances oil reform allowing private company investment
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7145
-- slug: 2026-01-09-china-s-venezuela-oil-debt-complicates-trump-s-seizure-strategy
-  headline: China's Venezuela oil debt complicates Trump's seizure strategy
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.7128
-- slug: 2026-03-05-us-and-venezuela-agree-to-restore-diplomatic-relations-after-maduro-s-ouster
-  headline: US and Venezuela agree to restore diplomatic relations after Maduro's ouster
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7065
-- slug: 2026-01-05-energy-stocks-surge-after-trump-announces-plans-to-control-venezuela-s-oil-indus
-  headline: Energy stocks surge after Trump announces plans to control Venezuela's oil industry
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.7094
-- slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
-  headline: Trump vows to 'run' Venezuela after U.S. military operation ousts Maduro
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7073
-- slug: 2026-01-20-us-military-seizes-seventh-venezuelan-oil-tanker
-  headline: US military seizes seventh Venezuelan oil tanker
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.705
-- slug: 2026-01-01-us-sanctions-4-venezuelan-oil-firms-and-4-tankers-in-maduro-crackdown
-  headline: US sanctions 4 Venezuelan oil firms and 4 tankers in Maduro crackdown
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6851
+  strength: 0.7347
 ---
-
 ## US returns nearly 99% of Venezuelan oil revenue since Maduro ouster, report says
 
 **Subtype:** fact

@@ -66,7 +66,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -250,3 +250,10 @@ The unresolved Senate races could still add one or two seats to Democrats' proje
 **Publication date:** 2026-11-10
 **Title:** Midterm races that are still too early to call
 **URL:** https://apnews.com/article/midterm-elections-mississippi-alaska-congress-vote-count-90ce111a971a0f70ba938d27fe69f65d
+
+### src_late_c80921ee9e90fdec — Associated Press, wire, Tier 1, originating
+**Author:** Camille Baker, Associated Press
+**Publication date:** 2026-11-11
+**Title:** More than a dozen key races remain too early to call one week after Election Day
+**URL:** https://www.pbs.org/newshour/politics/more-than-a-dozen-key-races-remain-too-early-to-call-one-week-after-election-day
+**Added after publication:** true
