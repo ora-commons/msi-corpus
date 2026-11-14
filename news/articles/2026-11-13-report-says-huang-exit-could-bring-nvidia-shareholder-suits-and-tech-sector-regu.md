@@ -1,9 +1,20 @@
 ---
-headline: Report says Huang exit could bring Nvidia shareholder suits and tech-sector regulatory pressure
+headline: Report says Huang exit could bring Nvidia shareholder suits and tech-sector
+  regulatory pressure
 secondary_headline: Justice Department probe of Alice Huang draws in Super Micro Computer
 publish_date: '2026-11-13'
-lede: The Wall Street Journal's Risk Journal reported on Friday that Jensen Huang's departure as Nvidia's chief executive is unlikely to mollify Congress or plaintiffs' lawyers and that the company and its board could now face an onslaught of shareholder lawsuits. The episode could also bring broader regulatory pressures to bear on the technology sector in particular, the newsletter reported. Bloomberg separately reported that Super Micro Computer is caught up in a Justice Department probe of Alice Huang, the suspected Chinese intelligence asset with whom Huang had an affair.
-nut_graf: The Journal reported that the departure of the AI chip giant's longtime leader raises questions about corporate governance, national security and U.S.-China relations. The same Friday edition carried further enforcement and risk items, among them Washington's targeting of the crypto exchange MEXC, a European court opinion on Google's AdSense fine and a series of attacks on Black Sea shipping.
+lede: The Wall Street Journal's Risk Journal reported on Friday that Jensen Huang's
+  departure as Nvidia's chief executive is unlikely to mollify Congress or plaintiffs'
+  lawyers and that the company and its board could now face an onslaught of shareholder
+  lawsuits. The episode could also bring broader regulatory pressures to bear on the
+  technology sector in particular, the newsletter reported. Bloomberg separately reported
+  that Super Micro Computer is caught up in a Justice Department probe of Alice Huang,
+  the suspected Chinese intelligence asset with whom Huang had an affair.
+nut_graf: The Journal reported that the departure of the AI chip giant's longtime
+  leader raises questions about corporate governance, national security and U.S.-China
+  relations. The same Friday edition carried further enforcement and risk items, among
+  them Washington's targeting of the crypto exchange MEXC, a European court opinion
+  on Google's AdSense fine and a series of attacks on Black Sea shipping.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,116 +157,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-13-report-says-huang-exit-could-bring-nvidia-shareholder-suits-and-tech-sector-regu.png
-  alt: 'Illustration accompanying article: Report says Huang exit could bring Nvidia shareholder suits and tech-sector regulatory…'
+  alt: 'Illustration accompanying article: Report says Huang exit could bring Nvidia
+    shareholder suits and tech-sector regulatory…'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
+  headline: Nvidia's Huang wins looser China chip rules despite national-security
+    warnings
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.851
+  strength: 0.8504
 - slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
   headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8227
+  strength: 0.8213
 - slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
   headline: Jensen Huang resigns as Nvidia CEO after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8278
+  strength: 0.8264
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
   headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.826
+  strength: 0.825
 - slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
   headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.822
+  strength: 0.8205
 - slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
   headline: Nvidia board meets on whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8219
+  strength: 0.8204
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.845
+  strength: 0.844
 - slug: 2026-11-13-rival-chipmakers-gain-as-huang-departure-rattles-nvidia
   headline: Rival chipmakers gain as Huang departure rattles Nvidia
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8074
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
-  headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8126
-- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8287
-- slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
-  headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8228
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8142
-- slug: 2026-11-12-nvidia-shares-sink-7-premarket-as-reports-put-ceo-jensen-huang-s-tenure-at-risk
-  headline: Nvidia shares sink 7% premarket as reports put CEO Jensen Huang's tenure at risk
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7968
-- slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
-  headline: Nvidia board investigates CEO Jensen Huang as shares tumble
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8159
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
-  headline: Nvidia CEO Jensen Huang resigns after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7924
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8149
-- slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8059
-- slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7851
-- slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
-  headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8053
-- slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
-  headline: Nvidia investigates reports of spying targeting Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8002
+  strength: 0.8067
 ---
-
 ## Report says Huang exit could bring Nvidia shareholder suits and tech-sector regulatory pressure
 
 **Subtype:** fact
