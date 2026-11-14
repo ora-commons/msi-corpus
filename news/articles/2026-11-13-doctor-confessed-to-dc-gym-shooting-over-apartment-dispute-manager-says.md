@@ -2,8 +2,19 @@
 headline: Doctor confessed to DC gym shooting over apartment dispute, manager says
 secondary_headline: Gunman killed building manager, then fired at four from balcony
 publish_date: '2026-11-13'
-lede: A 55-year-old doctor killed one person and injured at least four others in and around a Logan Circle condominium building in north-west Washington on Thursday, then confessed the shootings by phone to one of the building's managers, according to that manager. Police identified the gunman as Matt Lambert, who had been involved in an ongoing legal dispute with the condominium association over water damage and mold in his apartment. He was later found dead in his unit with a self-inflicted gunshot wound.
-nut_graf: The shooting unfolded in a residential building not far from the White House and ended in a death police attributed to a self-inflicted wound, leaving one victim in critical condition as of Thursday. Building manager Charelle Ferguson said Lambert told her by phone he was tired of mold and water damage in his apartment and confessed to the shootings, and court records show Lambert had sued the condo association in 2025 alleging it failed to address water damage, mold and moisture in his unit.
+lede: A 55-year-old doctor killed one person and injured at least four others in and
+  around a Logan Circle condominium building in north-west Washington on Thursday,
+  then confessed the shootings by phone to one of the building's managers, according
+  to that manager. Police identified the gunman as Matt Lambert, who had been involved
+  in an ongoing legal dispute with the condominium association over water damage and
+  mold in his apartment. He was later found dead in his unit with a self-inflicted
+  gunshot wound.
+nut_graf: The shooting unfolded in a residential building not far from the White House
+  and ended in a death police attributed to a self-inflicted wound, leaving one victim
+  in critical condition as of Thursday. Building manager Charelle Ferguson said Lambert
+  told her by phone he was tired of mold and water damage in his apartment and confessed
+  to the shootings, and court records show Lambert had sued the condo association
+  in 2025 alleging it failed to address water damage, mold and moisture in his unit.
 primary_entities:
 - Matt Lambert
 - James Stuart
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +154,13 @@ related_stories:
   headline: Police say gunman fired at officers at least twice; one victim critical
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.747
+  strength: 0.7442
 - slug: 2026-11-12-five-shot-one-fatally-in-washington-s-logan-circle-suspect-kills-himself
   headline: Five shot, one fatally, in Washington's Logan Circle; suspect kills himself
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7402
-- slug: 2026-11-12-five-people-shot-in-logan-circle-suspect-barricaded
-  headline: Five people shot in Washington's Logan Circle; suspect barricaded, police say
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6315
-- slug: 2026-11-12-multiple-people-shot-in-logan-circle-area-of-washington-dc-police-say
-  headline: Multiple people shot in Logan Circle area of Washington DC, police say
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6185
-- slug: 2026-11-12-apartment-building-collapse-kills-at-least-eight-in-brooklyn-s-flatbush
-  headline: Apartment building collapse kills at least eight in Brooklyn's Flatbush
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6099
-- slug: 2026-11-12-police-declare-barricade-after-multiple-people-shot-in-logan-circle
-  headline: Police declare barricade after multiple people shot in Logan Circle
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5906
-- slug: 2026-11-12-brooklyn-collapse-victim-identified-as-ecuadoran-immigrant-and-sole-provider
-  headline: Brooklyn collapse victim identified as Ecuadoran immigrant and sole provider
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5825
-- slug: 2026-11-12-wall-that-fell-onto-construction-site-prompted-brooklyn-emergency-call
-  headline: Wall that fell onto construction site prompted Brooklyn emergency call
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5793
-- slug: 2026-11-12-brooklyn-building-collapse-kills-eight-injures-18-next-to-construction-site
-  headline: Brooklyn building collapse kills eight, injures 18 next to construction site
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5668
-- slug: 2026-09-28-court-records-show-custody-abuse-dispute-preceded-dublin-engineer-s-killing
-  headline: Court records show custody, abuse dispute preceded Dublin engineer's killing
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5657
-- slug: 2026-09-03-shooting-at-minneapolis-apartment-building-kills-three-wounds-five
-  headline: Shooting at Minneapolis apartment building kills three, wounds five
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5651
-- slug: 2026-04-17-dispute-over-temperature-preceded-atlanta-area-attacks-that-killed-two
-  headline: Dispute over temperature preceded Atlanta-area attacks that killed two
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5935
-- slug: 2026-06-18-army-sergeant-found-guilty-of-attempted-murder-in-fort-stewart-shootings
-  headline: Army sergeant found guilty of attempted murder in Fort Stewart shootings
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5689
-- slug: 2026-05-07-man-charged-in-dc-shooting-said-f-k-the-white-house-authorities-say
-  headline: Man charged in DC shooting said “F—k the White House,” authorities say
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5828
-- slug: 2026-05-18-gas-explosion-kills-1-injures-14-in-bronx-apartment-building
-  headline: Gas explosion kills 1, injures 14 in Bronx apartment building
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5771
-- slug: 2026-01-30-man-charged-with-murder-in-bronx-high-rise-gas-explosion
-  headline: Man charged with murder in Bronx high-rise gas explosion
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.5899
-- slug: 2026-05-24-secret-service-kills-gunman-outside-white-house-checkpoint-bystander-wounded
-  headline: Secret Service kills gunman outside White House checkpoint; bystander wounded
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.5688
-- slug: 2026-04-20-third-victim-dies-in-atlanta-area-attacks-navy-veteran-charged
-  headline: Third victim dies in Atlanta-area attacks; Navy veteran charged
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5771
-- slug: 2026-04-28-washington-journalists-report-chaos-after-gunman-tries-to-storm-whca-dinner
-  headline: Washington journalists report chaos after gunman tries to storm WHCA dinner
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5719
-- slug: 2026-02-19-jury-convicts-randy-santos-in-chinatown-killings-rejects-insanity-defense
-  headline: Jury convicts Randy Santos in Chinatown killings, rejects insanity defense
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.5809
+  strength: 0.738
 ---
-
 ## Doctor confessed to DC gym shooting over apartment dispute, manager says
 
 **Subtype:** fact

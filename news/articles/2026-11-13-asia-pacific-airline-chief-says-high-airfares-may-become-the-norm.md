@@ -1,9 +1,21 @@
 ---
 headline: Asia-Pacific airline chief says high airfares may become the norm
-secondary_headline: Jet fuel at $180 a barrel, more than double the level of a year ago
+secondary_headline: Jet fuel at $180 a barrel, more than double the level of a year
+  ago
 publish_date: '2026-11-13'
-lede: High airfares could become a lasting feature rather than a temporary adjustment as airlines in Asia-Pacific contend with sharply higher jet fuel prices and rising operating costs, Wong Hong, director-general of the Association of Asia Pacific Airlines, said Friday in Kuala Lumpur. Wong, whose association groups 18 airlines in the region, said carriers were trying to contain ticket prices while protecting their finances and avoiding increases that could drive passengers away. Major airlines across Asia-Pacific, Europe and North America have raised base fares, hiked fuel surcharges or added extra fees since the Iran war began in late February.
-nut_graf: Fuel makes up a third of airline operating costs, so sustained jet fuel prices near $180 a barrel directly threaten carriers' financial performance and the fares passengers pay. The cost squeeze arrives after five straight months of falling Asia-Pacific passenger traffic, leaving airlines balancing higher expenses against the risk of pricing travelers out of the market.
+lede: High airfares could become a lasting feature rather than a temporary adjustment
+  as airlines in Asia-Pacific contend with sharply higher jet fuel prices and rising
+  operating costs, Wong Hong, director-general of the Association of Asia Pacific
+  Airlines, said Friday in Kuala Lumpur. Wong, whose association groups 18 airlines
+  in the region, said carriers were trying to contain ticket prices while protecting
+  their finances and avoiding increases that could drive passengers away. Major airlines
+  across Asia-Pacific, Europe and North America have raised base fares, hiked fuel
+  surcharges or added extra fees since the Iran war began in late February.
+nut_graf: Fuel makes up a third of airline operating costs, so sustained jet fuel
+  prices near $180 a barrel directly threaten carriers' financial performance and
+  the fares passengers pay. The cost squeeze arrives after five straight months of
+  falling Asia-Pacific passenger traffic, leaving airlines balancing higher expenses
+  against the risk of pricing travelers out of the market.
 primary_entities: []
 primary_themes: []
 topic_tags:
@@ -31,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -50,107 +63,49 @@ cross_article_links: []
 draft: false
 related_stories:
 - slug: 2026-11-02-iata-expects-fuel-to-account-for-nearly-one-third-of-airline-operating-expenses-
-  headline: IATA expects fuel to account for nearly one-third of airline operating expenses this year
+  headline: IATA expects fuel to account for nearly one-third of airline operating
+    expenses this year
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7578
+  strength: 0.76
 - slug: 2026-11-02-ryanair-weighs-pay-freeze-as-fuel-costs-drive-higher-summer-fares
   headline: Ryanair weighs pay freeze as fuel costs drive higher summer fares
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6717
-- slug: 2026-11-02-ryanair-weighs-lower-crew-ratios-and-pay-freezes-as-fuel-bill-rises
-  headline: Ryanair weighs lower crew ratios and pay freezes as fuel bill rises
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6694
+  strength: 0.6731
 - slug: 2026-10-20-latin-american-airlines-face-rising-fuel-costs-and-higher-fares
   headline: Latin American airlines face rising fuel costs and higher fares
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7327
+  strength: 0.7344
 - slug: 2026-10-22-american-airlines-expects-adjusted-fourth-quarter-loss-of-50-cents-to-1-10-a-sha
-  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to $1.10 a share
+  headline: American Airlines expects adjusted fourth-quarter loss of 50 cents to
+    $1.10 a share
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7119
+  strength: 0.7123
 - slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
   headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.697
+  strength: 0.6967
 - slug: 2026-09-12-airfares-jump-23-4-as-diesel-tops-6-a-gallon-core-inflation-rises-2-4
   headline: Airfares jump 23.4% as diesel tops $6 a gallon; core inflation rises 2.4%
   publish_date: '2026-09-12'
   relation: related
-  strength: 0.7051
+  strength: 0.7073
 - slug: 2026-05-22-what-rising-fuel-prices-mean-for-airline-miles-and-travel-rewards-this-summer
-  headline: What rising fuel prices mean for airline miles and travel rewards this summer
+  headline: What rising fuel prices mean for airline miles and travel rewards this
+    summer
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.7548
+  strength: 0.7551
 - slug: 2026-06-12-war-in-iran-drives-jet-fuel-prices-higher-squeezing-african-airlines
   headline: War in Iran drives jet fuel prices higher, squeezing African airlines
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.72
-- slug: 2026-03-15-airfares-are-expected-to-rise-with-jet-fuel-costs-during-the-iran-war
-  headline: Airfares are expected to rise with jet fuel costs during the Iran war
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7432
-- slug: 2026-04-10-travelers-face-higher-costs-as-jet-fuel-volatility-squeezes-airlines
-  headline: Travelers face higher costs as jet fuel volatility squeezes airlines
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7373
-- slug: 2026-05-23-rising-fuel-prices-could-shrink-the-value-of-airline-rewards-this-summer
-  headline: Rising fuel prices could shrink the value of airline rewards this summer
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7238
-- slug: 2026-07-21-alaska-air-posts-76m-loss-as-iran-war-drives-up-jet-fuel-costs
-  headline: Alaska Air posts $76M loss as Iran war drives up jet fuel costs
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6742
-- slug: 2026-06-04-american-airlines-suspends-some-summer-routes-as-jet-fuel-costs-climb
-  headline: American Airlines suspends some summer routes as jet fuel costs climb
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7057
-- slug: 2026-04-18-iran-war-drives-jet-fuel-prices-to-record-highs-raising-summer-airfares
-  headline: Iran war drives jet fuel prices to record highs, raising summer airfares
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.7198
-- slug: 2026-03-18-strong-ticket-sales-help-offset-rising-jet-fuel-costs-us-airlines-say
-  headline: Strong ticket sales help offset rising jet fuel costs, US airlines say
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7238
-- slug: 2026-06-19-iata-sees-airline-profits-halved-to-23b-on-jet-fuel-costs-middle-east-war
-  headline: IATA sees airline profits halved to $23B on jet fuel costs, Middle East war
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6933
-- slug: 2026-06-01-iran-war-and-fuel-costs-threaten-southeast-asia-s-summer-tourism
-  headline: Iran war and fuel costs threaten Southeast Asia's summer tourism
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7002
-- slug: 2026-06-12-global-air-travel-growth-to-slow-to-2-1-in-2026-as-middle-east-war-lifts-fuel-co
-  headline: Global air travel growth to slow to 2.1% in 2026 as Middle East war lifts fuel costs
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6876
-- slug: 2026-04-16-europe-faces-six-week-jet-fuel-supply-cliff-as-iran-war-chokes-hormuz
-  headline: Europe faces six-week jet fuel supply cliff as Iran war chokes Hormuz
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7004
+  strength: 0.7206
 ---
-
 ## Asia-Pacific airline chief says high airfares may become the norm
 
 **Subtype:** fact
