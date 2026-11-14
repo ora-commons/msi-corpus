@@ -60,7 +60,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -238,3 +238,10 @@ If the Democratic-led bill passes, the Senate could pick the bill it favors or t
 **Publication date:** 2026-11-11
 **Title:** House approves bill to boost compensation for many veterans
 **URL:** https://apnews.com/article/veterans-benefits-house-1008ee03a86c196e9f1a66bdd0250b6c
+
+### src_late_35380c80431ce724 — Associated Press, wire, Tier 1, originating
+**Author:** Kevin Freking, Associated Press
+**Publication date:** 2026-11-12
+**Title:** House approves bill to boost compensation for many veterans, with some floor drama
+**URL:** https://www.pbs.org/newshour/politics/house-approves-bill-to-boost-compensation-for-many-veterans-with-some-floor-drama
+**Added after publication:** true
