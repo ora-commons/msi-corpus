@@ -1,9 +1,21 @@
 ---
 headline: Treasury Secretary Bessent relocates to military base over safety concerns
-secondary_headline: Iran steps up targeting of US personnel amid Treasury's sanctions campaign
+secondary_headline: Iran steps up targeting of US personnel amid Treasury's sanctions
+  campaign
 publish_date: '2026-11-11'
-lede: Treasury Secretary Scott Bessent was recently forced to relocate to a military base over concerns for his safety as he executes a massive economic campaign against Iran aimed at severing Tehran's remaining financial ties around the world, The Associated Press reported Wednesday. A person familiar with the matter, speaking on the condition of anonymity to discuss sensitive details, said the relocation was driven in part by media reports that helped identify Bessent's home address. The New York Times had earlier reported the relocation.
-nut_graf: The relocation comes as recent U.S. intelligence shows Iran has stepped up efforts to target American personnel in the Middle East and elsewhere, a development that contributed to the State Department reducing staffing at four U.S. embassies in the region last month. It also lands as the administration presses its financial campaign against Tehran despite President Donald Trump saying this week that the more than 8-month-old Iran war is militarily effectively over.
+lede: Treasury Secretary Scott Bessent was recently forced to relocate to a military
+  base over concerns for his safety as he executes a massive economic campaign against
+  Iran aimed at severing Tehran's remaining financial ties around the world, The Associated
+  Press reported Wednesday. A person familiar with the matter, speaking on the condition
+  of anonymity to discuss sensitive details, said the relocation was driven in part
+  by media reports that helped identify Bessent's home address. The New York Times
+  had earlier reported the relocation.
+nut_graf: The relocation comes as recent U.S. intelligence shows Iran has stepped
+  up efforts to target American personnel in the Middle East and elsewhere, a development
+  that contributed to the State Department reducing staffing at four U.S. embassies
+  in the region last month. It also lands as the administration presses its financial
+  campaign against Tehran despite President Donald Trump saying this week that the
+  more than 8-month-old Iran war is militarily effectively over.
 primary_entities:
 - Scott Bessent
 - U.S. Department of the Treasury
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,107 +159,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-11-scott-bessent-reportedly-relocates-to-military-base-after-threat-from-iran
-  headline: Scott Bessent reportedly relocates to military base after threat from Iran
+  headline: Scott Bessent reportedly relocates to military base after threat from
+    Iran
   publish_date: '2026-11-11'
   relation: related
   strength: 0.9093
 - slug: 2026-11-11-cbs-says-wall-street-journal-photo-of-bessent-home-prompted-his-move-to-base
-  headline: CBS says Wall Street Journal photo of Bessent home prompted his move to base
+  headline: CBS says Wall Street Journal photo of Bessent home prompted his move to
+    base
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8637
+  strength: 0.8632
 - slug: 2026-11-11-iran-threatens-retaliation-beyond-the-middle-east-journal-reports
   headline: Iran threatens retaliation beyond the Middle East, Journal reports
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8479
+  strength: 0.8449
 - slug: 2026-11-11-scott-bessent-reportedly-moves-to-military-base-after-iranian-death-threat
   headline: Scott Bessent reportedly moves to military base after Iranian death threat
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7635
+  strength: 0.763
 - slug: 2026-10-24-state-department-cuts-staff-at-four-embassies-after-iran-threat-memo
   headline: State Department cuts staff at four embassies after Iran threat memo
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7272
+  strength: 0.7281
 - slug: 2026-10-28-u-s-briefs-gulf-states-on-possible-post-midterm-iran-campaign
   headline: U.S. briefs Gulf states on possible post-midterm Iran campaign
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.699
+  strength: 0.7009
 - slug: 2026-10-24-u-s-evacuates-middle-east-personnel-over-suspected-iranian-attack-plots
   headline: U.S. evacuates Middle East personnel over suspected Iranian attack plots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6992
+  strength: 0.7016
 - slug: 2026-10-07-bessent-faces-high-staff-turnover-and-unmet-economic-goals-at-treasury
   headline: Bessent faces high staff turnover and unmet economic goals at Treasury
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.7408
-- slug: 2026-08-30-bessent-announces-operation-economic-outcast-to-cut-iran-from-global-economy
-  headline: Bessent announces 'Operation Economic Outcast' to cut Iran from global economy
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7542
-- slug: 2026-08-29-treasury-secretary-bessent-draws-criticism-over-bond-buybacks-iran-sanctions
-  headline: Treasury Secretary Bessent draws criticism over bond buybacks, Iran sanctions
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.7539
-- slug: 2026-08-28-iranian-commerce-continues-in-dubai-despite-bessent-sanctions-push
-  headline: Iranian commerce continues in Dubai despite Bessent sanctions push
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7545
-- slug: 2026-08-24-bessent-vows-to-sever-all-economic-ties-with-iran-as-war-enters-its-endgame
-  headline: Bessent vows to sever all economic ties with Iran as war 'enters its endgame'
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7508
-- slug: 2026-08-25-treasury-launches-operation-economic-outcast-on-iran-holds-off-on-china
-  headline: Treasury launches 'Operation Economic Outcast' on Iran, holds off on China
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7433
-- slug: 2026-08-28-treasury-targets-egyptian-bank-s-uae-branches-over-iran-financial-ties
-  headline: Treasury targets Egyptian bank's UAE branches over Iran financial ties
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7368
-- slug: 2026-08-27-iranian-banks-in-dubai-remain-open-despite-bessent-closure-call
-  headline: Iranian banks in Dubai remain open despite Bessent closure call
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7387
-- slug: 2026-09-04-treasury-designates-turkish-bank-in-iran-sanctions-push
-  headline: Treasury designates Turkish bank in Iran sanctions push
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.713
-- slug: 2026-08-25-tanker-struck-off-oman-us-rolls-out-operation-economic-outcast-on-iran
-  headline: Tanker struck off Oman; US rolls out 'Operation Economic Outcast' on Iran
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7324
-- slug: 2026-09-09-us-sanctions-27-iranian-airlines-9-people-and-firms-outside-iran
-  headline: US sanctions 27 Iranian airlines, 9 people and firms outside Iran
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6987
-- slug: 2026-08-26-trump-s-iran-sanctions-face-china-caveat-ahead-of-xi-summit
-  headline: Trump's Iran sanctions face China caveat ahead of Xi summit
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7189
-- slug: 2026-08-19-uae-suspends-iran-financial-transactions-under-us-pressure
-  headline: UAE suspends Iran financial transactions under US pressure
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7026
+  strength: 0.7356
 ---
-
 ## Treasury Secretary Bessent relocates to military base over safety concerns
 
 **Subtype:** fact

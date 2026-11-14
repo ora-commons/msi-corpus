@@ -60,7 +60,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -217,3 +217,10 @@ The neighborhood has seen violence before. In early August 2025, a onetime membe
 **Publication date:** 2026-11-12
 **Title:** 5 people shot in DC, including 1 dead at a gym
 **URL:** https://apnews.com/article/dc-shooting-logan-circle-3cee6a4ada875fcc18e932e536c63dcd
+
+### src_late_e0bd0f8ec486c5df — Associated Press, wire, Tier 1, originating
+**Author:** River Zhang, Associated Press, Alanna Durkin Richer, Associated Press
+**Publication date:** 2026-11-12
+**Title:** Suspected gunman shoots 5 people in D.C., killing 1, before dying by suicide
+**URL:** https://www.pbs.org/newshour/nation/suspected-gunman-shoots-5-people-in-d-c-killing-1-before-dying-by-suicide
+**Added after publication:** true

@@ -62,7 +62,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -252,3 +252,10 @@ Hegseth rebuked the impeachment move on Tuesday in his first news conference in 
 **Publication date:** 2026-11-12
 **Title:** Hegseth awards soldier scolded him at Tomb of the Unknown Soldier
 **URL:** https://apnews.com/article/hegseth-tomb-of-unknown-soldier-reprimand-award-cd59fd7ae20c6f80b51f57305fb0a7a0
+
+### src_late_22ff742d35801864 — Associated Press, wire, Tier 1, originating
+**Author:** Konstantin Toropin, Associated Press
+**Publication date:** 2026-11-12
+**Title:** Hegseth presents award to soldier who scolded him and his aides at Tomb of the Unknown Soldier
+**URL:** https://www.pbs.org/newshour/world/hegseth-presents-award-to-soldier-who-scolded-him-and-his-aides-at-tomb-of-the-unknown-soldier
+**Added after publication:** true

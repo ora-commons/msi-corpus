@@ -60,7 +60,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -251,3 +251,10 @@ The warning and the response come as Democrats prepare their oversight agenda fo
 **Publication date:** 2026-11-11
 **Title:** White House confronts Democrats over planned probes, claiming possible 'criminality'
 **URL:** https://apnews.com/article/trump-congress-investigations-12acd4e233792f687b80eb9636aea18d
+
+### src_late_60e55f02018ff4fe — Associated Press, wire, Tier 1, originating
+**Author:** Darlene Superville, Associated Press, Seung Min Kim, Associated Press
+**Publication date:** 2026-11-11
+**Title:** White House sends warning to Democrats about investigating the Trump administration
+**URL:** https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration
+**Added after publication:** true
