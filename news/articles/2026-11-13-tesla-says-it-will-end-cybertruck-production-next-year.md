@@ -2,8 +2,13 @@
 headline: Tesla says it will end Cybertruck production next year
 secondary_headline: Musk forecast 250,000 Cybertruck sales a year; Tesla sold 70,000
 publish_date: '2026-11-13'
-lede: Tesla will wind down production of its Cybertruck next year, an announcement Elon Musk made three days after the midterm elections. Musk said the move was "to make room for increased Cybercab production", referring to Tesla's Robotaxi.
-nut_graf: 'The wind-down closes a product cycle The Guardian treated as the end of an era: a vehicle Musk promoted heavily, delayed for years, and sold far below his own forecast, which The Guardian wrote "became a kind of automotive stand-in for Musk himself amid his political ascent".'
+lede: Tesla will wind down production of its Cybertruck next year, an announcement
+  Elon Musk made three days after the midterm elections. Musk said the move was "to
+  make room for increased Cybercab production", referring to Tesla's Robotaxi.
+nut_graf: 'The wind-down closes a product cycle The Guardian treated as the end of
+  an era: a vehicle Musk promoted heavily, delayed for years, and sold far below his
+  own forecast, which The Guardian wrote "became a kind of automotive stand-in for
+  Musk himself amid his political ascent".'
 primary_entities:
 - Tesla
 - Elon Musk
@@ -36,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +140,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-05-elon-musk-spent-at-least-445-million-backing-republicans-who-lost-congress
-  headline: Elon Musk spent at least $445 million backing Republicans, who lost Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6459
-- slug: 2026-11-04-musk-s-more-than-150-million-texas-senate-effort-appears-to-have-backfired
-  headline: Musk's more than $150 million Texas Senate effort appears to have backfired
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6437
 - slug: 2026-10-22-tesla-posts-28-billion-revenue-musk-says-optimus-could-be-ready-to-ship-by-the-e
-  headline: Tesla posts $28 billion revenue; Musk says Optimus could be ready to ship by the end of next year
+  headline: Tesla posts $28 billion revenue; Musk says Optimus could be ready to ship
+    by the end of next year
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6984
-- slug: 2026-10-27-robert-reich-urges-defunding-of-elon-musk-over-starlink-limits
-  headline: Robert Reich urges defunding of Elon Musk over Starlink limits
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6413
+  strength: 0.6986
 - slug: 2026-10-21-tesla-beats-q3-revenue-forecasts-as-musk-floats-spacex-merger
   headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6584
+  strength: 0.6595
 - slug: 2026-10-02-tesla-third-quarter-sales-fall-2-reversing-first-half-gains
   headline: Tesla third-quarter sales fall 2%, reversing first-half gains
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.7252
-- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
-  headline: Talarico says Musk is backing Paxton at UT Austin rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6308
-- slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
-  headline: Talarico alleges Musk is trying to buy Texas Senate seat
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6424
-- slug: 2026-10-21-spacex-reports-161-revenue-growth-driven-by-starlink-and-ai
-  headline: SpaceX reports 161% revenue growth driven by Starlink and AI
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6275
+  strength: 0.7249
 - slug: 2026-10-07-tesla-s-long-delayed-roadster-set-for-oct-15-debut-in-waco
   headline: Tesla's long-delayed Roadster set for Oct. 15 debut in Waco
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6553
+  strength: 0.6548
 - slug: 2026-10-03-hyundai-s-mu-oz-pitches-car-funded-robotics-path-against-tesla-s-robot-bet
-  headline: Hyundai's Muñoz pitches car-funded robotics path against Tesla's robot bet
+  headline: Hyundai's Muñoz pitches car-funded robotics path against Tesla's robot
+    bet
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6573
+  strength: 0.6568
 - slug: 2026-09-15-nhtsa-orders-tesla-to-confirm-whether-cybercab-has-temporary-manual-controls
   headline: NHTSA orders Tesla to confirm whether Cybercab has temporary manual controls
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6757
+  strength: 0.6743
 - slug: 2026-09-13-tesla-s-us-ev-market-share-climbs-to-52-as-legacy-rivals-retreat
   headline: Tesla's US EV market share climbs to 52% as legacy rivals retreat
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.6723
+  strength: 0.6727
 - slug: 2026-09-03-tesla-deploys-cybercabs-without-steering-wheels-onto-austin-streets
   headline: Tesla deploys Cybercabs without steering wheels onto Austin streets
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6649
-- slug: 2026-09-04-nhtsa-opens-probe-into-tesla-s-cybercab-self-certification
-  headline: NHTSA opens probe into Tesla's Cybercab self-certification
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6438
-- slug: 2026-08-14-musk-plans-100-million-for-gop-midterm-voter-turnout
-  headline: Musk plans $100 million for GOP midterm voter-turnout
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6586
-- slug: 2026-05-09-tesla-recalls-some-cybertrucks-for-wheel-rotor-cracks-camera-outages
-  headline: Tesla recalls some Cybertrucks for wheel-rotor cracks, camera outages
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7065
-- slug: 2026-01-30-tesla-profit-falls-to-lowest-since-pandemic-eyes-robotaxis-and-optimus
-  headline: Tesla profit falls to lowest since pandemic; eyes robotaxis and Optimus
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7157
-- slug: 2026-05-09-tesla-recalls-173-cybertrucks-over-200k-other-vehicles-for-safety-defects
-  headline: Tesla recalls 173 Cybertrucks, over 200K other vehicles for safety defects
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6976
-- slug: 2026-01-03-tesla-loses-top-ev-crown-to-byd-as-musk-tax-break-changes-weigh
-  headline: Tesla loses top EV crown to BYD as Musk, tax break changes weigh
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.7057
+  strength: 0.665
 ---
-
 ## Tesla says it will end Cybertruck production next year
 
 **Subtype:** fact
