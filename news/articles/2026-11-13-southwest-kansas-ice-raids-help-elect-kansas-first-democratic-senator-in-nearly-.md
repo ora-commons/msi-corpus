@@ -1,9 +1,22 @@
 ---
-headline: Southwest Kansas ICE raids help elect Kansas' first Democratic senator in nearly a century
+headline: Southwest Kansas ICE raids help elect Kansas' first Democratic senator in
+  nearly a century
 secondary_headline: Local officials never received a list of those detained in raids
 publish_date: '2026-11-13'
-lede: DODGE CITY, Kan. — Immigration raids in late September across this meatpacking corner of southwestern Kansas turned apathetic residents into voters and swung the region sharply left in the midterm election, helping elect a Democratic U.S. senator from Kansas for the first time in nearly a century. The shift, in a Republican stronghold responsible for about a quarter of the U.S. beef supply, signals the limits of President Donald Trump's deportation agenda. Trump has sent mixed messages about enforcement since Democrats won back control of Congress, suggesting his approach to deportations was too harsh while naming Stephen Miller as his new White House chief of staff.
-nut_graf: Southwestern Kansas sits at the center of the nation's meatpacking economy, and the September raids reached families whose work supplies roughly a quarter of the country's beef. The swing in Dodge City and two neighboring counties shows how enforcement carried out in a dependent rural region reordered voting behavior in deeply Republican territory — a development both parties are recalibrating ahead of the next presidential campaign.
+lede: DODGE CITY, Kan. — Immigration raids in late September across this meatpacking
+  corner of southwestern Kansas turned apathetic residents into voters and swung the
+  region sharply left in the midterm election, helping elect a Democratic U.S. senator
+  from Kansas for the first time in nearly a century. The shift, in a Republican stronghold
+  responsible for about a quarter of the U.S. beef supply, signals the limits of President
+  Donald Trump's deportation agenda. Trump has sent mixed messages about enforcement
+  since Democrats won back control of Congress, suggesting his approach to deportations
+  was too harsh while naming Stephen Miller as his new White House chief of staff.
+nut_graf: Southwestern Kansas sits at the center of the nation's meatpacking economy,
+  and the September raids reached families whose work supplies roughly a quarter of
+  the country's beef. The swing in Dodge City and two neighboring counties shows how
+  enforcement carried out in a dependent rural region reordered voting behavior in
+  deeply Republican territory — a development both parties are recalibrating ahead
+  of the next presidential campaign.
 primary_entities:
 - Dodge City
 - Kansas
@@ -47,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +163,44 @@ related_stories:
   headline: Adam Hamilton gives Kansas Democrats their first Senate win since 1932
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6595
+  strength: 0.6596
 - slug: 2026-11-05-kansas-voters-cross-party-lines-to-elect-democrat-adam-hamilton-to-the-senate
-  headline: Kansas voters cross party lines to elect Democrat Adam Hamilton to the Senate
+  headline: Kansas voters cross party lines to elect Democrat Adam Hamilton to the
+    Senate
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6925
-- slug: 2026-11-11-democrats-push-bipartisan-immigration-reform-after-midterm-voter-backlash
-  headline: Democrats push bipartisan immigration reform after midterm voter backlash
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6455
-- slug: 2026-11-09-texas-voters-shift-to-democrats-as-immigration-ranks-among-top-issues
-  headline: Texas voters shift to Democrats as immigration ranks among top issues
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6473
-- slug: 2026-11-10-donegan-says-vance-s-post-midterm-statement-omitted-corruption
-  headline: Donegan says Vance’s post-midterm statement omitted corruption
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6398
+  strength: 0.6934
 - slug: 2026-11-04-kansas-elects-adam-hamilton-to-the-u-s-senate
   headline: Kansas elects Adam Hamilton to the U.S. Senate
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6762
+  strength: 0.6775
 - slug: 2026-11-07-most-midterm-voters-say-trump-s-immigration-enforcement-has-gone-too-far
   headline: Most midterm voters say Trump's immigration enforcement has gone too far
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6524
+  strength: 0.6519
 - slug: 2026-11-03-adam-hamilton-wins-kansas-senate-seat-first-for-a-democrat-since-1932
   headline: Adam Hamilton wins Kansas Senate seat, first for a Democrat since 1932
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6674
+  strength: 0.668
 - slug: 2026-11-01-trump-rallies-iowa-and-kansas-as-control-of-congress-remains-unsettled
   headline: Trump rallies Iowa and Kansas as control of Congress remains unsettled
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.6783
-- slug: 2026-11-04-marshall-concedes-kansas-senate-race-to-hamilton-saying-i-don-t-have-any-answers
-  headline: Marshall concedes Kansas Senate race to Hamilton, saying 'I don't have any answers'
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6474
+  strength: 0.6785
 - slug: 2026-11-03-record-spending-tops-108-million-in-kansas-senate-contest
   headline: Record spending tops $108 million in Kansas Senate contest
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6492
-- slug: 2026-10-30-hamilton-faces-marshall-as-kansas-democrats-seek-first-senate-win-since-1932
-  headline: Hamilton faces Marshall as Kansas Democrats seek first Senate win since 1932
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6429
+  strength: 0.65
 - slug: 2026-10-20-trump-holds-first-kansas-rally-in-eight-years-to-support-roger-marshall
   headline: Trump holds first Kansas rally in eight years to support Roger Marshall
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6747
-- slug: 2026-10-20-hamilton-courts-republicans-and-independents-in-close-kansas-senate-race
-  headline: Hamilton courts Republicans and independents in close Kansas Senate race
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6616
-- slug: 2026-10-14-democrat-adam-hamilton-leads-sen-roger-marshall-in-kansas-senate-polls
-  headline: Democrat Adam Hamilton leads Sen. Roger Marshall in Kansas Senate polls
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6884
-- slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
-  headline: Immigration enforcement reshapes midterm races as voter disapproval grows
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6757
-- slug: 2026-09-30-senator-jim-justice-urges-trump-to-step-back-from-immigration-enforcement
-  headline: Senator Jim Justice urges Trump to step back from immigration enforcement
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6601
-- slug: 2026-09-20-republican-strategists-warn-of-voter-apathy-in-red-states
-  headline: Republican strategists warn of voter apathy in red states
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6796
-- slug: 2026-09-29-miami-dade-voters-fault-trump-immigration-enforcement-ahead-of-midterms
-  headline: Miami-Dade voters fault Trump immigration enforcement ahead of midterms
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6452
-- slug: 2026-08-25-democrat-adam-hamilton-targets-roger-marshall-in-kansas-senate-race
-  headline: Democrat Adam Hamilton targets Roger Marshall in Kansas Senate race
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6463
+  strength: 0.6759
 ---
-
 ## Southwest Kansas ICE raids help elect Kansas' first Democratic senator in nearly a century
 
 **Subtype:** fact

@@ -1,10 +1,25 @@
 ---
-headline: Republicans return to Washington showing little appetite for break from Trump
+headline: Republicans return to Washington showing little appetite for break from
+  Trump
 secondary_headline: House Republicans choose Jim Jordan while Senate keeps Thune
 slug: 2026-11-13-republicans-return-to-washington-without-break-from-trump
 publish_date: '2026-11-13'
-lede: WASHINGTON — Congressional Republicans returned to Capitol Hill this week for the first time since their sweeping midterm losses, acknowledging the depth of the defeat while showing little appetite for a wholesale break from President Donald Trump. House Republicans elected Rep. Jim Jordan as their next leader, Senate Republicans backed John Thune without so much as a voice vote, and House Republicans overwhelmingly blocked an effort to impeach Defense Secretary Pete Hegseth. Democrats flipped more than 40 Republican-held seats and are on track to hold the most robust majority since the early years of Barack Obama's presidency, and Rep. Richard Hudson and dozens of colleagues will soon clear out their offices. In closed-door meetings the party weighed what went wrong and how to push through as much of its agenda as possible before Democrats assume control of the House and the Senate in January.
-nut_graf: The midterms stripped Republicans of unified government and handed the party an internal argument it has so far resolved without distancing itself from Trump. How that balance settles — moderation in the Senate, combativeness in the House, and continued deference to the president — will shape the final two years of Trump's second term and the party's 2028 prospects.
+lede: WASHINGTON — Congressional Republicans returned to Capitol Hill this week for
+  the first time since their sweeping midterm losses, acknowledging the depth of the
+  defeat while showing little appetite for a wholesale break from President Donald
+  Trump. House Republicans elected Rep. Jim Jordan as their next leader, Senate Republicans
+  backed John Thune without so much as a voice vote, and House Republicans overwhelmingly
+  blocked an effort to impeach Defense Secretary Pete Hegseth. Democrats flipped more
+  than 40 Republican-held seats and are on track to hold the most robust majority
+  since the early years of Barack Obama's presidency, and Rep. Richard Hudson and
+  dozens of colleagues will soon clear out their offices. In closed-door meetings
+  the party weighed what went wrong and how to push through as much of its agenda
+  as possible before Democrats assume control of the House and the Senate in January.
+nut_graf: The midterms stripped Republicans of unified government and handed the party
+  an internal argument it has so far resolved without distancing itself from Trump.
+  How that balance settles — moderation in the Senate, combativeness in the House,
+  and continued deference to the president — will shape the final two years of Trump's
+  second term and the party's 2028 prospects.
 primary_entities:
 - Republican Party
 - Democratic Party
@@ -47,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,116 +162,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-13-republicans-return-to-washington-showing-little-appetite-for-break-from-trump.png
-  alt: 'Illustration accompanying article: Republicans return to Washington showing little appetite for break from Trump'
+  alt: 'Illustration accompanying article: Republicans return to Washington showing
+    little appetite for break from Trump'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-09-congress-returns-hegseth-impeachment-resolution-expected-after-gop-losses
   headline: Congress returns; Hegseth impeachment resolution expected after GOP losses
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8184
+  strength: 0.8182
 - slug: 2026-11-10-republican-lawmakers-assess-midterm-losses-and-the-work-ahead
   headline: Republican lawmakers assess midterm losses and the work ahead
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7816
+  strength: 0.7817
 - slug: 2026-11-10-john-thune-wins-another-term-leading-senate-republicans
   headline: John Thune wins another term leading Senate Republicans
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7746
+  strength: 0.7743
 - slug: 2026-11-10-house-republicans-elect-jim-jordan-as-their-leader-after-midterm-losses
   headline: House Republicans elect Jim Jordan as their leader after midterm losses
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7707
+  strength: 0.7714
 - slug: 2026-11-10-ron-johnson-concedes-john-thune-has-no-opponent-in-senate-gop-leadership
   headline: Ron Johnson concedes John Thune has no opponent in Senate GOP leadership
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7541
+  strength: 0.7532
 - slug: 2026-11-10-republicans-split-over-who-saw-the-midterm-losses-coming
   headline: Republicans split over who saw the midterm losses coming
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7319
+  strength: 0.7324
 - slug: 2026-11-10-republicans-53-47-senate-majority-faces-possible-shift-to-44-seats
   headline: Republicans' 53-47 Senate majority faces possible shift to 44 seats
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7303
-- slug: 2026-11-07-republicans-weigh-next-steps-after-midterm-losses
-  headline: Republicans weigh next steps after midterm losses
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7465
+  strength: 0.7308
 - slug: 2026-11-11-house-votes-to-refer-pete-hegseth-impeachment-articles-to-committee
   headline: House votes to refer Pete Hegseth impeachment articles to committee
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7195
-- slug: 2026-11-09-senate-republicans-set-leadership-vote-as-democrats-weigh-schumer-s-future
-  headline: Senate Republicans set leadership vote as Democrats weigh Schumer's future
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7198
-- slug: 2026-11-10-jim-jordan-wins-house-minority-leadership-after-midterms
-  headline: Jim Jordan wins House minority leadership after midterms
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7123
-- slug: 2026-11-10-jim-jordan-who-probed-biden-and-jack-smith-becomes-top-house-republican
-  headline: Jim Jordan, who probed Biden and Jack Smith, becomes top House Republican
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7117
-- slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
-  headline: Tom Emmer wins House Republican whip race over August Pfluger
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7094
-- slug: 2026-11-11-sanders-and-slotkin-among-senators-seeking-new-democratic-leadership
-  headline: Sanders and Slotkin among senators seeking new Democratic leadership
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7012
-- slug: 2026-11-05-house-could-vote-to-impeach-hegseth-when-lawmakers-return-to-washington
-  headline: House could vote to impeach Hegseth when lawmakers return to Washington
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7261
-- slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
-  headline: Republicans fault Trump after Democrats take House and Senate in midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7209
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.704
-- slug: 2026-11-04-mike-johnson-won-t-seek-reelection-as-house-republicans-top-leader
-  headline: Mike Johnson won't seek reelection as House Republicans' top leader
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7036
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.723
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7062
+  strength: 0.7196
 ---
-
 ## Republicans return to Washington showing little appetite for break from Trump
 
 **Subtype:** fact
