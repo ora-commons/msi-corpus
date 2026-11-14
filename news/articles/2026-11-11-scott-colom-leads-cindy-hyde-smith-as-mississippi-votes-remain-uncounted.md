@@ -31,7 +31,8 @@ primary_themes:
 - Black voter turnout and representation
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- mississippi-senate-race
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -207,6 +208,7 @@ related_stories:
   relation: related
   strength: 0.7561
 ---
+
 ## Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted
 
 **Subtype:** fact

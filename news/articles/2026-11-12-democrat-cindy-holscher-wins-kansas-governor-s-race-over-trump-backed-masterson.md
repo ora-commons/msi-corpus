@@ -55,7 +55,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - NPR
   outlet_classes:
@@ -224,3 +224,10 @@ Masterson called Holscher "the most radical, liberal, socialist Democrat ever" o
 **Publication date:** 2026-11-12
 **Title:** Cindy Holscher wins in Kansas, holding governor's office for Democrats
 **URL:** https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms
+
+### src_late_a641096b78c7e0ff — NPR, public_broadcaster, Tier 1, originating
+**Author:** Larry Kaplow
+**Publication date:** 2026-11-12
+**Title:** Cindy Holscher wins in Kansas, holding governor's office for Democrats
+**URL:** https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson
+**Added after publication:** true
