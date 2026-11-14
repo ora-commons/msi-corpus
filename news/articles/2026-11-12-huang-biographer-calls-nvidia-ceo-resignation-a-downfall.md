@@ -2,8 +2,17 @@
 headline: Huang biographer calls Nvidia CEO resignation a downfall
 secondary_headline: Colette Kress steps in as interim CEO after Huang's 33 years
 publish_date: '2026-11-12'
-lede: Jensen Huang has resigned as chief executive of Nvidia, and Stephen Witt — author of the Huang biography "The Thinking Machine" — told NPR on Nov. 12 that the exit is a shocking downfall for a man who until recently could claim to be one of the most powerful people alive. Witt said the departure looks like a culmination of hubris rather than a planned succession, and that Nvidia now faces the challenge of replacing a chief executive who never cultivated a successor.
-nut_graf: Huang led Nvidia for 33 years and, in Witt's account, never prepared an exit — leaving the company with an interim CFO-CEO and a rare combination of technical and business requirements for a permanent replacement. The resignation removes a figure whom Witt described as uniquely influential with President Trump and connected inside China.
+lede: Jensen Huang has resigned as chief executive of Nvidia, and Stephen Witt — author
+  of the Huang biography "The Thinking Machine" — told NPR on Nov. 12 that the exit
+  is a shocking downfall for a man who until recently could claim to be one of the
+  most powerful people alive. Witt said the departure looks like a culmination of
+  hubris rather than a planned succession, and that Nvidia now faces the challenge
+  of replacing a chief executive who never cultivated a successor.
+nut_graf: Huang led Nvidia for 33 years and, in Witt's account, never prepared an
+  exit — leaving the company with an interim CFO-CEO and a rare combination of technical
+  and business requirements for a permanent replacement. The resignation removes a
+  figure whom Witt described as uniquely influential with President Trump and connected
+  inside China.
 primary_entities:
 - Jensen Huang
 - Nvidia
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +152,44 @@ related_stories:
   headline: Nvidia board meets on whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7984
+  strength: 0.7976
 - slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
   headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7912
+  strength: 0.7909
 - slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
   headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7731
+  strength: 0.7726
 - slug: 2026-11-10-nvidia-has-no-succession-plan-as-huang-s-future-rests-with-its-board
   headline: Nvidia has no succession plan as Huang's future rests with its board
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7856
+  strength: 0.7851
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
   headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7694
+  strength: 0.7689
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7894
+  strength: 0.7887
 - slug: 2026-11-12-nvidia-names-cfo-colette-kress-interim-ceo-after-jensen-huang-resigns
   headline: Nvidia names CFO Colette Kress interim CEO after Jensen Huang resigns
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7573
+  strength: 0.7574
 - slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
+  headline: Trump reportedly briefed on Huang intelligence findings before scandal
+    broke
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7561
-- slug: 2026-11-12-nvidia-begins-search-for-new-ceo-after-jensen-huang-resigns
-  headline: Nvidia begins search for new CEO after Jensen Huang resigns
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7459
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-reports-of-two-extramarital-affairs
-  headline: Nvidia CEO Jensen Huang resigns after reports of two extramarital affairs
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7456
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-cfo-colette-kress-named-interim-chief
-  headline: Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim chief
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7417
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7537
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7378
-- slug: 2026-11-12-nvidia-shares-sink-7-premarket-as-reports-put-ceo-jensen-huang-s-tenure-at-risk
-  headline: Nvidia shares sink 7% premarket as reports put CEO Jensen Huang's tenure at risk
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7354
-- slug: 2026-11-11-nvidia-hires-law-firm-over-jensen-huang-s-reported-affair-with-alleged-chinese-s
-  headline: Nvidia hires law firm over Jensen Huang's reported affair with alleged Chinese spy
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7296
-- slug: 2026-11-09-nvidia-has-no-board-chair-and-designates-a-lead-director-annually
-  headline: Nvidia has no board chair and designates a lead director annually
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7432
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7461
-- slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
-  headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7459
-- slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
-  headline: Nvidia board investigates CEO Jensen Huang as shares tumble
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7384
-- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7247
+  strength: 0.7557
 ---
-
 ## Huang biographer calls Nvidia CEO resignation a downfall
 
 **Subtype:** fact

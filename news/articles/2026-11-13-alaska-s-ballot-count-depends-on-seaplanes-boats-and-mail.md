@@ -1,9 +1,19 @@
 ---
 headline: Alaska's ballot count depends on seaplanes, boats and mail
-secondary_headline: Mail ballots postmarked by election day can arrive up to 10 days late
+secondary_headline: Mail ballots postmarked by election day can arrive up to 10 days
+  late
 publish_date: '2026-11-13'
-lede: 'A week after most US states knew their midterm results, Alaska''s Senate race between incumbent Republican Dan Sullivan and Democratic challenger Mary Peltola remained uncalled, with officials expecting to have counted all eligible ballots by 18 November. The delay traces to geography: America''s largest state is connected primarily by water and air rather than roads, and every ballot, cast in person or by mail, must reach the state capital of Juneau for scanning and counting.'
-nut_graf: Alaska's count illustrates why some US elections take far longer than others to settle. The state is more than six times the size of the UK, mail ballots postmarked by election day can arrive up to 10 days after election day — 15 days for overseas voters — and a ranked-choice system only kicks in after the first-round tally is complete.
+lede: 'A week after most US states knew their midterm results, Alaska''s Senate race
+  between incumbent Republican Dan Sullivan and Democratic challenger Mary Peltola
+  remained uncalled, with officials expecting to have counted all eligible ballots
+  by 18 November. The delay traces to geography: America''s largest state is connected
+  primarily by water and air rather than roads, and every ballot, cast in person or
+  by mail, must reach the state capital of Juneau for scanning and counting.'
+nut_graf: Alaska's count illustrates why some US elections take far longer than others
+  to settle. The state is more than six times the size of the UK, mail ballots postmarked
+  by election day can arrive up to 10 days after election day — 15 days for overseas
+  voters — and a ranked-choice system only kicks in after the first-round tally is
+  complete.
 primary_entities:
 - Alaska
 - Alaska Seaplanes
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,107 +151,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-12-alaska-judge-rules-against-peltola-campaign-s-request-for-rejected-ballot-data
-  headline: Alaska judge rules against Peltola campaign's request for rejected ballot data
+  headline: Alaska judge rules against Peltola campaign's request for rejected ballot
+    data
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7321
+  strength: 0.732
 - slug: 2026-11-10-senate-vote-counts-continue-as-house-and-governor-contests-remain-uncalled
   headline: Senate vote counts continue as House and governor contests remain uncalled
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7394
+  strength: 0.7395
 - slug: 2026-11-05-alaska-s-ballot-count-continues-with-senate-governor-races-too-early-to-call
-  headline: Alaska's ballot count continues with Senate, governor races too early to call
+  headline: Alaska's ballot count continues with Senate, governor races too early
+    to call
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7659
+  strength: 0.7658
 - slug: 2026-11-11-peltola-campaign-asks-judge-for-alaska-absentee-ballot-rejection-data
   headline: Peltola campaign asks judge for Alaska absentee ballot rejection data
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7212
+  strength: 0.7209
 - slug: 2026-11-12-alaska-department-of-law-says-it-was-pleased-with-peltola-ballot-data-ruling
-  headline: Alaska Department of Law says it was pleased with Peltola ballot data ruling
+  headline: Alaska Department of Law says it was pleased with Peltola ballot data
+    ruling
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7086
+  strength: 0.7084
 - slug: 2026-11-05-four-senate-and-governor-races-remain-uncalled-in-alaska-kansas-and-mississippi
   headline: Four Senate and governor races remain uncalled in Alaska, Kansas and Mississippi
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7321
+  strength: 0.7322
 - slug: 2026-11-03-us-midterm-results-may-take-days-or-weeks-to-settle
   headline: US midterm results may take days or weeks to settle
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7053
+  strength: 0.7058
 - slug: 2026-11-04-uncalled-senate-and-governor-races-remain-after-2026-midterms
   headline: Uncalled Senate and governor races remain after 2026 midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6973
-- slug: 2026-11-05-two-senate-races-and-several-house-contests-remain-uncalled-in-2026-midterms
-  headline: Two Senate races and several House contests remain uncalled in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6873
-- slug: 2026-10-30-spoiler-allegations-roil-alaska-s-tight-senate-race
-  headline: Spoiler allegations roil Alaska's tight Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7178
-- slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7163
-- slug: 2026-11-03-peltola-leads-sullivan-in-alaska-senate-primary-amid-heavy-spending
-  headline: Peltola leads Sullivan in Alaska Senate primary amid heavy spending
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6909
-- slug: 2026-10-30-alaska-senate-probe-looms-over-2026-midterm-finish
-  headline: Alaska Senate probe looms over 2026 midterm finish
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6985
-- slug: 2026-10-30-arkansas-voters-decide-senate-governor-and-state-races-in-tuesday-s-election
-  headline: Arkansas voters decide Senate, governor and state races in Tuesday's election
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6948
-- slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
-  headline: Alaska voters decide Senate race shadowed by DOJ probe
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6915
-- slug: 2026-10-29-alaska-republican-governor-calls-for-investigation-into-namesake-filing
-  headline: Alaska Republican governor calls for investigation into namesake filing
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6922
-- slug: 2026-10-30-alaska-and-justice-department-open-criminal-probes-into-second-sullivan-filing
-  headline: Alaska and Justice Department open criminal probes into second Sullivan filing
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6852
-- slug: 2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice
-  headline: Peltola reschedules Alaska Senate campaign events on medical advice
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6989
-- slug: 2026-10-29-justice-department-expands-alaska-election-probe-with-new-subpoenas
-  headline: Justice Department expands Alaska election probe with new subpoenas
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6818
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6984
+  strength: 0.6974
 ---
-
 ## Alaska's ballot count depends on seaplanes, boats and mail
 
 **Subtype:** fact

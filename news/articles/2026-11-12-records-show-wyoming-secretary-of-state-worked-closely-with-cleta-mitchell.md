@@ -2,8 +2,22 @@
 headline: Records show Wyoming secretary of state worked closely with Cleta Mitchell
 secondary_headline: Gray sent testimony to Mitchell the day before House hearing
 publish_date: '2026-11-12'
-lede: Text and email records obtained by the public interest watchdog American Oversight show that Wyoming Secretary of State Chuck Gray worked closely with conservative attorney Cleta Mitchell, who launched the Election Integrity Network in 2021 after helping President Donald Trump's effort to overturn the 2020 election. American Oversight obtained the records through a public records request and shared them with WyoFile. While Mitchell has kept a direct line to Trump, the records show she also worked closely with Gray, recommending him as a witness before the U.S. House Administration Committee, suggesting edits to his congressional testimony, and asking him to press Wyoming's federal delegation and other Republican secretaries of state to support the SAVE Act.
-nut_graf: The records document the working relationship between Mitchell, who helped President Donald Trump's effort to overturn the 2020 election, and the official responsible for running Wyoming's elections — and they surface those ties as Gray leaves office for a U.S. House seat he won earlier this month. American Oversight's executive director says Gray owes Wyoming voters answers about the relationship; Gray says his tenure has been about advancing election integrity legislation.
+lede: Text and email records obtained by the public interest watchdog American Oversight
+  show that Wyoming Secretary of State Chuck Gray worked closely with conservative
+  attorney Cleta Mitchell, who launched the Election Integrity Network in 2021 after
+  helping President Donald Trump's effort to overturn the 2020 election. American
+  Oversight obtained the records through a public records request and shared them
+  with WyoFile. While Mitchell has kept a direct line to Trump, the records show she
+  also worked closely with Gray, recommending him as a witness before the U.S. House
+  Administration Committee, suggesting edits to his congressional testimony, and asking
+  him to press Wyoming's federal delegation and other Republican secretaries of state
+  to support the SAVE Act.
+nut_graf: The records document the working relationship between Mitchell, who helped
+  President Donald Trump's effort to overturn the 2020 election, and the official
+  responsible for running Wyoming's elections — and they surface those ties as Gray
+  leaves office for a U.S. House seat he won earlier this month. American Oversight's
+  executive director says Gray owes Wyoming voters answers about the relationship;
+  Gray says his tenure has been about advancing election integrity legislation.
 primary_entities:
 - Chuck Gray
 - Cleta Mitchell
@@ -43,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,108 +76,23 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories:
-- slug: 2026-11-11-forsyth-county-election-board-rejects-challenge-claiming-four-voters-were-dead
-  headline: Forsyth County election board rejects challenge claiming four voters were dead
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6071
-- slug: 2026-11-07-stephen-miller-s-second-term-purview-spans-trade-universities-and-pentagon-strik
-  headline: Stephen Miller's second-term purview spans trade, universities and Pentagon strikes
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6081
 - slug: 2026-10-30-trump-administration-cuts-election-staff-and-sues-states-for-voter-rolls
   headline: Trump administration cuts election staff and sues states for voter rolls
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6536
-- slug: 2026-11-07-democrats-vow-probes-and-subpoenas-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6035
-- slug: 2026-11-07-bardella-and-cohen-say-miller-s-promotion-points-to-more-unilateral-action
-  headline: Bardella and Cohen say Miller's promotion points to more unilateral action
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6019
-- slug: 2026-11-05-white-house-tells-3-000-conservative-groups-it-is-monitoring-their-statements
-  headline: White House tells 3,000 conservative groups it is monitoring their statements
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6118
-- slug: 2026-11-06-miller-s-elevation-is-clearest-signal-yet-trump-will-double-down-journal-says
-  headline: Miller's elevation is clearest signal yet Trump will double down, Journal says
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6036
-- slug: 2026-11-06-stephen-miller-built-hard-line-immigration-record-and-sweep-of-white-house-power
-  headline: Stephen Miller built hard-line immigration record and sweep of White House power
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6013
-- slug: 2026-11-04-claire-finkelstein-urges-stronger-congressional-oversight-after-midterms
-  headline: Claire Finkelstein urges stronger congressional oversight after midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6072
-- slug: 2026-11-05-trump-accepts-midterm-results-after-election-system-withstands-threats
-  headline: Trump accepts midterm results after election system withstands threats
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5984
-- slug: 2026-11-03-swing-voters-split-over-trump-as-2026-midterms-approach
-  headline: Swing voters split over Trump as 2026 midterms approach
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6039
-- slug: 2026-11-03-propublica-prepares-2026-midterm-coverage-after-doj-lawsuit-dismissal
-  headline: ProPublica prepares 2026 midterm coverage after DOJ lawsuit dismissal
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5992
+  strength: 0.6525
 - slug: 2026-10-06-election-deniers-revive-fraud-claims-before-midterms
   headline: Election deniers revive fraud claims before midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6632
-- slug: 2026-10-19-dhs-appointees-urged-cisa-to-secretly-hack-voting-machine-sources-say
-  headline: DHS appointees urged CISA to secretly hack voting machine, sources say
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6043
-- slug: 2026-10-08-washington-ag-brown-details-24-state-democratic-midterm-election-defense
-  headline: Washington AG Brown details 24-state Democratic midterm election defense
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6067
-- slug: 2026-09-29-smith-defends-trump-prosecutions-at-senate-judiciary-hearing
-  headline: Smith defends Trump prosecutions at Senate Judiciary hearing
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.603
-- slug: 2026-08-28-wyoming-attorney-general-investigates-doj-poll-monitors-flagged-as-aggressive
-  headline: Wyoming attorney general investigates DOJ poll monitors flagged as 'aggressive'
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5996
+  strength: 0.6617
 - slug: 2026-06-11-fund-tied-to-trump-allies-cleta-mitchell-heather-honey-backed-2024-election-doub
-  headline: Fund tied to Trump allies Cleta Mitchell, Heather Honey backed 2024 election doubt ads
+  headline: Fund tied to Trump allies Cleta Mitchell, Heather Honey backed 2024 election
+    doubt ads
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.6606
-- slug: 2026-05-06-wyoming-gop-candidates-split-on-party-plan-to-defy-state-law-on-endorsements
-  headline: Wyoming GOP candidates split on party plan to defy state law on endorsements
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6089
-- slug: 2026-04-06-democratic-backed-chris-taylor-wins-wisconsin-supreme-court-race
-  headline: Democratic-backed Chris Taylor wins Wisconsin Supreme Court race
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6093
+  strength: 0.6583
 ---
-
 ## Records show Wyoming secretary of state worked closely with Cleta Mitchell
 
 **Subtype:** fact

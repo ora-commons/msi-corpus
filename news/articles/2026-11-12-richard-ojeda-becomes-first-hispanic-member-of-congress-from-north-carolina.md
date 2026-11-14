@@ -2,8 +2,19 @@
 headline: Richard Ojeda becomes first Hispanic member of Congress from North Carolina
 secondary_headline: Ojeda unseats NRCC chair Richard Hudson by 6,290 votes
 publish_date: '2026-11-12'
-lede: Democrat Richard Ojeda won North Carolina's 9th Congressional District seat, unseating Republican Rep. Richard Hudson, the chair of the party's campaign arm, by 6,290 votes in unofficial results. Ojeda learned of the victory at his home in Aberdeen, North Carolina, on election night and woke his ailing father to tell him; his father died two days later. Ojeda, 56, a retired Army major and former West Virginia state senator, becomes the first Hispanic member of Congress from North Carolina.
-nut_graf: The victory is one of seven U.S. House seats Democrats appear to have flipped in North Carolina, producing an 11-3 majority in the state's congressional delegation, and it marks the second consecutive midterm election in which a chair of a party's congressional campaign arm lost a reelection bid. Hudson's defeat, in a district President Donald Trump carried three times, drew on national Democratic investment and a 22-month campaign by Ojeda's team.
+lede: Democrat Richard Ojeda won North Carolina's 9th Congressional District seat,
+  unseating Republican Rep. Richard Hudson, the chair of the party's campaign arm,
+  by 6,290 votes in unofficial results. Ojeda learned of the victory at his home in
+  Aberdeen, North Carolina, on election night and woke his ailing father to tell him;
+  his father died two days later. Ojeda, 56, a retired Army major and former West
+  Virginia state senator, becomes the first Hispanic member of Congress from North
+  Carolina.
+nut_graf: The victory is one of seven U.S. House seats Democrats appear to have flipped
+  in North Carolina, producing an 11-3 majority in the state's congressional delegation,
+  and it marks the second consecutive midterm election in which a chair of a party's
+  congressional campaign arm lost a reelection bid. Hudson's defeat, in a district
+  President Donald Trump carried three times, drew on national Democratic investment
+  and a 22-month campaign by Ojeda's team.
 primary_entities:
 - Richard Ojeda
 - Richard Hudson
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -63,104 +75,13 @@ related_stories:
   headline: Democrats win House seats in eight states in the 2026 midterms
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7368
+  strength: 0.7369
 - slug: 2026-11-05-democrats-flip-four-north-carolina-house-seats-in-republican-drawn-districts
   headline: Democrats flip four North Carolina House seats in Republican-drawn districts
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6546
-- slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
-  headline: Tom Emmer wins House Republican whip race over August Pfluger
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6032
-- slug: 2026-11-10-house-republicans-elect-jim-jordan-as-their-leader-after-midterm-losses
-  headline: House Republicans elect Jim Jordan as their leader after midterm losses
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.5983
-- slug: 2026-11-11-jim-jordan-s-record-includes-a-jack-smith-referral-and-ohio-state-scrutiny
-  headline: Jim Jordan's record includes a Jack Smith referral and Ohio State scrutiny
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.5884
-- slug: 2026-11-05-north-carolina-democrats-win-first-state-house-majority-since-2008
-  headline: North Carolina Democrats win first state House majority since 2008
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6253
-- slug: 2026-11-09-medicaid-shaped-randy-villegas-win-over-david-valadao-in-california
-  headline: Medicaid shaped Randy Villegas' win over David Valadao in California
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.588
-- slug: 2026-11-07-underdog-democrats-win-midterm-races-with-little-money-staff-or-party-support
-  headline: Underdog Democrats win midterm races with little money, staff or party support
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.5924
-- slug: 2026-11-05-democrats-sweep-southern-elections-overturning-decades-of-gop-dominance
-  headline: Democrats sweep Southern elections, overturning decades of GOP dominance
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.603
-- slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
-  headline: Democrats win Senate seats in six states and four governor races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6084
-- slug: 2026-11-05-mike-johnson-plans-to-step-down-as-top-house-republican-after-midterms
-  headline: Mike Johnson plans to step down as top House Republican after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5966
-- slug: 2026-11-04-el-sayed-and-pappas-make-history-as-haaland-wins-new-mexico-governorship
-  headline: El-Sayed and Pappas make history as Haaland wins New Mexico governorship
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5944
-- slug: 2026-11-04-roy-cooper-wins-north-carolina-senate-seat-flipping-it-to-democrats
-  headline: Roy Cooper wins North Carolina Senate seat, flipping it to Democrats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5932
-- slug: 2026-11-04-democrats-flip-a-senate-seat-and-a-house-seat-in-early-returns
-  headline: Democrats flip a Senate seat and a House seat in early returns
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5925
-- slug: 2026-10-30-republicans-defend-nebraska-seats-as-midterm-races-tighten
-  headline: Republicans defend Nebraska seats as midterm races tighten
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6183
-- slug: 2026-10-26-redrawn-house-races-put-republican-redistricting-advantage-to-the-test
-  headline: Redrawn House races put Republican redistricting advantage to the test
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5896
-- slug: 2026-10-13-ten-midterm-races-outside-the-spotlight-carry-upset-potential
-  headline: Ten midterm races outside the spotlight carry upset potential
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5979
-- slug: 2026-09-23-gunfluencer-brandon-herrera-leads-gop-bid-for-uvalde-area-house-seat
-  headline: Gunfluencer Brandon Herrera leads GOP bid for Uvalde-area House seat
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6082
-- slug: 2026-08-24-hurricane-helene-recovery-divides-north-carolina-senate-candidates
-  headline: Hurricane Helene recovery divides North Carolina Senate candidates
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.592
-- slug: 2026-08-11-north-carolina-republicans-pick-jennifer-balkcom-to-replace-edwards
-  headline: North Carolina Republicans pick Jennifer Balkcom to replace Edwards
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5911
+  strength: 0.654
 ---
-
 ## Richard Ojeda becomes first Hispanic member of Congress from North Carolina
 
 **Subtype:** fact

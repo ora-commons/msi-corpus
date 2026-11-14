@@ -2,8 +2,18 @@
 headline: Common Wealth paper says UK startups are sold before they can grow big
 secondary_headline: FT calculates 300 companies went to foreign buyers in past decade
 publish_date: '2026-11-12'
-lede: A Guardian editorial published on November 12, 2026 takes up a paper from the thinktank Common Wealth titled "We Aren't the Champions," which argues that the United Kingdom's venture capital model sells technology startups abroad before they can grow into British champions. The Financial Times calculates that 300 companies went to foreign buyers, mostly American, over the past decade, and the editorial contends that investor profits do not amount to an industrial strategy.
-nut_graf: 'The editorial''s endorsement of the paper''s argument lands as the UK debates how to finance growing companies: Rachel Reeves, as chancellor, wanted pension funds to invest in UK assets, while the Common Wealth paper says pumping cash into startups risks inflating eventual sale prices without securing British ownership or control, and the Guardian editorial argues that making the fulfilment of social needs a motor of economic development would give Labour a purpose beyond managing scarcity.'
+lede: A Guardian editorial published on November 12, 2026 takes up a paper from the
+  thinktank Common Wealth titled "We Aren't the Champions," which argues that the
+  United Kingdom's venture capital model sells technology startups abroad before they
+  can grow into British champions. The Financial Times calculates that 300 companies
+  went to foreign buyers, mostly American, over the past decade, and the editorial
+  contends that investor profits do not amount to an industrial strategy.
+nut_graf: 'The editorial''s endorsement of the paper''s argument lands as the UK debates
+  how to finance growing companies: Rachel Reeves, as chancellor, wanted pension funds
+  to invest in UK assets, while the Common Wealth paper says pumping cash into startups
+  risks inflating eventual sale prices without securing British ownership or control,
+  and the Guardian editorial argues that making the fulfilment of social needs a motor
+  of economic development would give Labour a purpose beyond managing scarcity.'
 primary_entities:
 - Common Wealth
 - The Guardian
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +150,8 @@ cross_article_links:
   strength: 0.6073
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-06-cybersecurity-tops-chief-executives-concern-lists-in-europe-and-the-us
-  headline: Cybersecurity tops chief executives' concern lists in Europe and the US
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5859
-- slug: 2026-11-02-uk-select-committee-faults-starmer-government-s-china-strategy
-  headline: UK select committee faults Starmer government’s China strategy
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5812
-- slug: 2026-10-29-tech-companies-face-deepfake-scrutiny-as-midterms-approach
-  headline: Tech companies face deepfake scrutiny as midterms approach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5948
-- slug: 2026-10-25-uk-collecting-societies-urge-smart-fund-levy-to-pay-creators
-  headline: UK collecting societies urge 'Smart Fund' levy to pay creators
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6031
-- slug: 2026-10-22-ai-firms-seek-uk-datacentre-compact-before-opposition-spreads
-  headline: AI firms seek UK datacentre compact before opposition spreads
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6057
-- slug: 2026-10-20-badenoch-says-healey-s-budget-will-be-even-worse-than-reeves-s-two
-  headline: Badenoch says Healey's budget will be even worse than Reeves's two
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5825
-- slug: 2026-10-12-uk-welfare-spending-on-track-to-hit-130-billion-as-claims-surge
-  headline: UK welfare spending on track to hit £130 billion as claims surge
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.577
-- slug: 2026-10-07-lse-chief-dame-julia-hoggett-urges-uk-to-stem-listings-exodus
-  headline: LSE chief Dame Julia Hoggett urges UK to stem listings exodus
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5968
-- slug: 2026-09-25-tech-ceos-and-white-house-split-on-global-ai-governance-at-un
-  headline: Tech CEOs and White House split on global AI governance at UN
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5896
-- slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
-  headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5977
-- slug: 2026-09-18-pew-finds-majority-in-34-of-37-countries-expect-ai-to-reduce-jobs
-  headline: Pew finds majority in 34 of 37 countries expect AI to reduce jobs
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5962
-- slug: 2026-09-19-bbc-channel-4-itv-cut-thousands-of-jobs-amid-us-streaming-competition
-  headline: BBC, Channel 4, ITV cut thousands of jobs amid US streaming competition
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5818
-- slug: 2026-09-14-venture-capital-tightens-for-second-wave-ai-startups
-  headline: Venture capital tightens for second-wave AI startups
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5814
-- slug: 2026-08-12-schneier-sanders-propose-nationalizing-openai-anthropic-if-markets-fail
-  headline: Schneier, Sanders propose nationalizing OpenAI, Anthropic if markets fail
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6326
-- slug: 2026-09-04-private-equity-sits-on-record-backlog-of-unsold-us-portfolio-companies
-  headline: Private equity sits on record backlog of unsold US portfolio companies
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5768
-- slug: 2026-08-10-lse-deputy-ceo-says-capital-is-key-to-reviving-london-s-public-markets
-  headline: LSE deputy CEO says capital is key to reviving London's public markets
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6199
-- slug: 2026-08-11-guardian-editorial-says-ai-money-is-distorting-us-political-debate
-  headline: Guardian editorial says AI money is distorting US political debate
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.5919
-- slug: 2026-08-02-un-opens-global-corporate-tax-talks-with-500-billion-revenue-potential
-  headline: UN opens global corporate tax talks with $500 billion revenue potential
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.5827
-- slug: 2026-06-30-guardian-editorial-argues-uk-defence-plan-deepens-us-reliance
-  headline: Guardian editorial argues UK defence plan deepens US reliance
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6122
-- slug: 2026-06-10-uk-would-have-vetoed-foreign-sale-of-arm-business-secretary-says
-  headline: UK would have vetoed foreign sale of Arm, Business Secretary says
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6047
+related_stories: []
 ---
-
 ## Common Wealth paper says UK startups are sold before they can grow big
 
 **Subtype:** fact

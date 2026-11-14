@@ -2,8 +2,19 @@
 headline: Justice Department authorized to seize $1.2 billion of stolen Binance funds
 secondary_headline: FBI blames North Korea for separate $400 million FaceStealer scheme
 publish_date: '2026-11-12'
-lede: The FBI said Thursday that it had seized more than $1.2 billion of cryptocurrency reported stolen last month from Binance, the world's largest crypto exchange. The Justice Department said it obtained court authorization to seize or restrain that portion of the funds, which are part of roughly $6.3 billion taken in what is regarded as the biggest crypto heist in history. The FBI on the same day blamed North Korea for a separate scheme it said stole $400 million in cryptocurrency over the last 18 months.
-nut_graf: The court authorization covers more than $1.2 billion of the more than $2.7 billion that the U.S. government and private sector have frozen so far, and typically the U.S. government will file a claim of forfeiture with a judge, who will then determine who has a legitimate claim to the recovered funds. The step also extends a string of U.S. attributions tying North Korean hacking groups to theft that officials say funds the regime's weapons program.
+lede: The FBI said Thursday that it had seized more than $1.2 billion of cryptocurrency
+  reported stolen last month from Binance, the world's largest crypto exchange. The
+  Justice Department said it obtained court authorization to seize or restrain that
+  portion of the funds, which are part of roughly $6.3 billion taken in what is regarded
+  as the biggest crypto heist in history. The FBI on the same day blamed North Korea
+  for a separate scheme it said stole $400 million in cryptocurrency over the last
+  18 months.
+nut_graf: The court authorization covers more than $1.2 billion of the more than $2.7
+  billion that the U.S. government and private sector have frozen so far, and typically
+  the U.S. government will file a claim of forfeiture with a judge, who will then
+  determine who has a legitimate claim to the recovered funds. The step also extends
+  a string of U.S. attributions tying North Korean hacking groups to theft that officials
+  say funds the regime's weapons program.
 primary_entities:
 - U.S. Federal Bureau of Investigation
 - Binance
@@ -38,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +152,46 @@ related_stories:
   headline: FBI ties $6.3 billion Binance theft to North Korean hackers
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8781
+  strength: 0.8784
 - slug: 2026-11-01-binance-says-it-has-covered-90-of-6-3bn-stolen-in-hack
   headline: Binance says it has covered 90% of $6.3bn stolen in hack
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8454
+  strength: 0.846
 - slug: 2026-10-30-north-korean-hacking-unit-suspected-in-6-3-billion-binance-theft
-  headline: Binance, accused of profiting off crypto criminals, is allegedly robbed of an estimated $6.3B
+  headline: Binance, accused of profiting off crypto criminals, is allegedly robbed
+    of an estimated $6.3B
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8354
+  strength: 0.8358
 - slug: 2026-10-30-binance-says-6-3b-stolen-in-hack-north-korea-suspected
   headline: Binance says $6.3B stolen in hack, North Korea suspected
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8198
+  strength: 0.8207
 - slug: 2026-11-02-binance-reports-approximately-3-64-billion-in-net-outflow-after-sunday-reopening
-  headline: Binance reports approximately $3.64 billion in net outflow after Sunday reopening
+  headline: Binance reports approximately $3.64 billion in net outflow after Sunday
+    reopening
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.797
+  strength: 0.7975
 - slug: 2026-10-30-experts-say-6-3b-binance-heist-is-largest-known-theft-ever
   headline: Experts say $6.3B Binance heist is largest known theft ever
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8094
+  strength: 0.81
 - slug: 2026-11-03-analytics-firms-say-laundering-of-6-3-billion-stolen-from-binance-has-begun
-  headline: Analytics firms say laundering of $6.3 billion stolen from Binance has begun
+  headline: Analytics firms say laundering of $6.3 billion stolen from Binance has
+    begun
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.77
+  strength: 0.7711
 - slug: 2026-10-30-trm-labs-expects-binance-heist-money-to-fund-north-korean-weapons-proliferation
   headline: TRM Labs expects Binance heist money to fund North Korean weapons proliferation
   publish_date: '2026-10-30'
   relation: related
   strength: 0.7919
-- slug: 2026-11-03-north-korea-rejects-us-accusation-over-6-3bn-binance-hack
-  headline: North Korea rejects US accusation over $6.3bn Binance hack
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7597
-- slug: 2026-10-30-trm-says-binance-attacker-moved-6-36b-most-in-20-minutes
-  headline: TRM says Binance attacker moved $6.36B, most in 20 minutes
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7729
-- slug: 2026-10-30-binance-probes-possible-hack-as-crypto-firms-freeze-2-5bn-in-funds
-  headline: Binance probes possible hack as crypto firms freeze $2.5bn in funds
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7376
-- slug: 2026-11-03-scammers-circulate-fake-150-compensation-schemes-after-the-binance-hack
-  headline: Scammers circulate fake $150 compensation schemes after the Binance hack
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7087
-- slug: 2026-10-29-binance-investigates-potential-security-issue-as-stablecoin-firms-freeze-funds
-  headline: Binance investigates potential security issue as stablecoin firms freeze funds
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7246
-- slug: 2026-10-30-binance-halts-transactions-and-polymarket-pauses-trading-after-hacks
-  headline: Binance halts transactions and Polymarket pauses trading after hacks
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6136
-- slug: 2026-10-23-zheng-zhao-faces-u-s-charge-over-36-9-million-crypto-scam
-  headline: Zheng Zhao faces U.S. charge over $36.9 million crypto scam
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.63
-- slug: 2026-09-15-doj-says-binance-clients-funneled-iran-oil-proceeds-through-crypto-network
-  headline: DOJ says Binance clients funneled Iran oil proceeds through crypto network
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7337
-- slug: 2026-10-13-bank-of-america-hit-with-1-21-billion-in-penalties-from-fincen-occ-and-ofac
-  headline: Bank of America hit with $1.21 billion in penalties from FinCEN, OCC and OFAC
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6197
-- slug: 2026-09-10-hundreds-of-victims-seek-share-of-225-million-seized-in-operation-big-tuna
-  headline: Hundreds of victims seek share of $225 million seized in Operation Big Tuna
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6735
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6286
-- slug: 2026-09-08-malone-lam-pleads-guilty-to-federal-racketeering-charge
-  headline: Malone Lam pleads guilty to federal racketeering charge
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6583
 ---
-
 ## Justice Department authorized to seize $1.2 billion of stolen Binance funds
 
 **Subtype:** fact

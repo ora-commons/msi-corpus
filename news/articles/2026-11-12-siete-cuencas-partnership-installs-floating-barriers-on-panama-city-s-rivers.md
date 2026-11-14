@@ -2,8 +2,17 @@
 headline: Siete Cuencas partnership installs floating barriers on Panama City's rivers
 secondary_headline: Residents report dengue and past floods amid missing services
 publish_date: '2026-11-12'
-lede: A partnership between the local group Marea Verde and the Ocean Cleanup is installing floating barriers on Panama City's seven rivers in an effort to stop 800,000kg of waste from reaching the Pacific Ocean each year. Poor districts on the capital's edge live alongside rotting rubbish and dengue, and in one riverside community in Puente del Rey floods swept through homes until a barrier was installed last year. The Siete Cuencas project has deployed three interceptors so far, and the government has pledged funding after President José Raúl Mulino warned last December that San Miguelito was "experiencing a sanitation crisis that could lead to a health crisis."
-nut_graf: San Miguelito lies less than 6 miles from the skyscrapers of one of Latin America's wealthiest metropolises, yet many of its residents lack waste collection and running water. Panama is one of the most unequal nations on Earth.
+lede: A partnership between the local group Marea Verde and the Ocean Cleanup is installing
+  floating barriers on Panama City's seven rivers in an effort to stop 800,000kg of
+  waste from reaching the Pacific Ocean each year. Poor districts on the capital's
+  edge live alongside rotting rubbish and dengue, and in one riverside community in
+  Puente del Rey floods swept through homes until a barrier was installed last year.
+  The Siete Cuencas project has deployed three interceptors so far, and the government
+  has pledged funding after President José Raúl Mulino warned last December that San
+  Miguelito was "experiencing a sanitation crisis that could lead to a health crisis."
+nut_graf: San Miguelito lies less than 6 miles from the skyscrapers of one of Latin
+  America's wealthiest metropolises, yet many of its residents lack waste collection
+  and running water. Panama is one of the most unequal nations on Earth.
 primary_entities:
 - Panama City
 - San Miguelito
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,109 +147,8 @@ cross_article_links:
   strength: 0.5943
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-06-colorado-man-faces-200-000-in-uninsured-flood-losses-as-evacuees-return-home
-  headline: Colorado man faces $200,000 in uninsured flood losses as evacuees return home
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5861
-- slug: 2026-10-20-drought-and-el-ni-o-strain-the-panama-canal-farms-and-water-supply
-  headline: Drought and El Niño strain the Panama Canal, farms and water supply
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6433
-- slug: 2026-10-28-mapuche-community-requests-protection-from-salmon-farms-in-chile
-  headline: Mapuche community requests protection from salmon farms in Chile
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5857
-- slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
-  headline: Flood warning remains in Four Corners as San Juan River nears crest
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5907
-- slug: 2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup
-  headline: Four Corners region braces for more storms amid flood cleanup
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.5921
-- slug: 2026-10-15-vaca-muerta-residents-report-cancers-stillbirths-near-fracking-wells
-  headline: Vaca Muerta residents report cancers, stillbirths near fracking wells
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6078
-- slug: 2026-09-15-panama-canal-plans-18-daily-traffic-cut-as-el-ni-o-drought-worsens
-  headline: Panama Canal plans 18% daily traffic cut as El Niño drought worsens
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5871
-- slug: 2026-09-08-espino-de-marotta-takes-over-panama-canal-facing-drought-and-us-china-rivalry
-  headline: Espino de Marotta takes over Panama Canal facing drought and US-China rivalry
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5911
-- slug: 2026-07-29-venezuela-earthquake-rubble-raises-risk-of-secondary-health-crisis
-  headline: Venezuela earthquake rubble raises risk of secondary health crisis
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.6108
-- slug: 2026-07-13-pipeline-break-leaves-puerto-ricans-without-water-for-weeks
-  headline: Pipeline break leaves Puerto Ricans without water for weeks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6211
-- slug: 2026-05-14-invasive-plant-threatens-livelihoods-in-colombia-s-largest-coastal-wetland
-  headline: Invasive plant threatens livelihoods in Colombia’s largest coastal wetland
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6452
-- slug: 2026-07-24-researchers-warn-trump-border-wall-plans-threaten-rare-desert-oasis-and-species
-  headline: Researchers warn Trump border wall plans threaten rare desert oasis and species
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.597
-- slug: 2026-07-19-u-s-faces-37-billion-cleanup-after-venezuela-quakes
-  headline: U.S. faces $37 billion cleanup after Venezuela quakes
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5943
-- slug: 2026-07-11-foreign-doctors-fill-healthcare-gap-in-quake-ravaged-venezuela
-  headline: Foreign doctors fill healthcare gap in quake-ravaged Venezuela
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5916
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  headline: Toxic Tijuana River sewage sickens thousands in California
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6236
-- slug: 2026-04-16-health-effects-tied-to-toxic-hydrogen-sulfide-from-tijuana-river-sewage
-  headline: Health effects tied to toxic hydrogen sulfide from Tijuana River sewage
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6002
-- slug: 2026-04-30-colombians-divided-over-fate-of-pablo-escobar-linked-hippos
-  headline: Colombians divided over fate of Pablo Escobar-linked hippos
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5916
-- slug: 2026-02-28-silicon-valley-nonprofit-expands-eviction-prevention-program-nationally
-  headline: Silicon Valley nonprofit expands eviction-prevention program nationally
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.5999
-- slug: 2026-04-09-newcomers-arrive-and-amazon-forests-are-cleared-as-brazil-explores-for-oil
-  headline: Newcomers arrive and Amazon forests are cleared as Brazil explores for oil
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5933
-- slug: 2026-03-11-cuban-youth-seek-help-as-cheap-synthetic-drugs-spread-across-island
-  headline: Cuban youth seek help as cheap synthetic drugs spread across island
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.5934
+related_stories: []
 ---
-
 ## Siete Cuencas partnership installs floating barriers on Panama City's rivers
 
 **Subtype:** fact
