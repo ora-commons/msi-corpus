@@ -100,6 +100,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-12-navy-s-quiet-firings-and-the-four-explanations-still-on-the-table'
 ---
 ## Navy's unannounced firings of top officers draw pushback in Congress
 
@@ -140,3 +142,8 @@ Major satellite imagery providers with U.S. contracts have blocked or delayed pu
 **Publication date:** 2026-11-12
 **Title:** Navy's quiet firings see some pushback in Congress
 **URL:** https://apnews.com/article/navy-officers-firings-congress-submarine-doctor-86eef359610d568db86feb4cc9ef2859
+
+---
+
+<!-- analysis-link:2026-11-12-navy-s-quiet-firings-and-the-four-explanations-still-on-the-table -->
+**Going deeper:** [Read MSI's analysis of Navy's quiet officer removals →](/analyses/2026-11-12-navy-s-quiet-firings-and-the-four-explanations-still-on-the-table)
