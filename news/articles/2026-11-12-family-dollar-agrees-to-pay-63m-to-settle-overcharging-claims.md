@@ -1,9 +1,18 @@
 ---
 headline: Family Dollar agrees to pay $63m to settle overcharging claims
-secondary_headline: Settlement requires $40m redress fund and store price-monitoring program
+secondary_headline: Settlement requires $40m redress fund and store price-monitoring
+  program
 publish_date: '2026-11-12'
-lede: Family Dollar will pay $63 million to settle claims by the Federal Trade Commission and 17 states that it repeatedly charged shoppers more at the register than the prices displayed on its shelves. The enforcement action, announced Thursday by the FTC and state officials, follows a Guardian investigation that documented the discount chain's pricing practices across the country.
-nut_graf: The settlement allocates $40 million to consumer redress, $20 million in customer discounts and more than $3 million to state authorities, and requires Family Dollar to build a program that regularly monitors and verifies prices. The settlement comes amid growing attention to overcharges at dollar-store and convenience-store chains, with the FTC and 20 states having sued Dollar General in October.
+lede: Family Dollar will pay $63 million to settle claims by the Federal Trade Commission
+  and 17 states that it repeatedly charged shoppers more at the register than the
+  prices displayed on its shelves. The enforcement action, announced Thursday by the
+  FTC and state officials, follows a Guardian investigation that documented the discount
+  chain's pricing practices across the country.
+nut_graf: The settlement allocates $40 million to consumer redress, $20 million in
+  customer discounts and more than $3 million to state authorities, and requires Family
+  Dollar to build a program that regularly monitors and verifies prices. The settlement
+  comes amid growing attention to overcharges at dollar-store and convenience-store
+  chains, with the FTC and 20 states having sued Dollar General in October.
 primary_entities:
 - Family Dollar
 - Federal Trade Commission
@@ -37,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,107 +146,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-31-dollar-general-drew-over-29-000-price-complaints-across-48-states-ftc-suit-says
-  headline: Dollar General drew over 29,000 price complaints across 48 states, FTC suit says
+  headline: Dollar General drew over 29,000 price complaints across 48 states, FTC
+    suit says
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.8026
+  strength: 0.804
 - slug: 2026-10-28-congress-members-urge-ftc-to-probe-retailer-price-discrepancies
   headline: Congress members urge FTC to probe retailer price discrepancies
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7875
+  strength: 0.7874
 - slug: 2026-10-26-ftc-cites-more-than-4-300-failed-dollar-general-price-accuracy-inspections
   headline: FTC cites more than 4,300 failed Dollar General price-accuracy inspections
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7951
+  strength: 0.7963
 - slug: 2026-10-26-ftc-and-20-states-sue-dollar-general-over-alleged-register-overcharges
   headline: FTC and 20 states sue Dollar General over alleged register overcharges
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7935
+  strength: 0.7949
 - slug: 2026-10-22-dollar-general-agrees-to-new-york-overcharge-settlement-with-price-safeguards
   headline: Dollar General agrees to New York overcharge settlement with price safeguards
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7886
+  strength: 0.7908
 - slug: 2026-10-29-ftc-and-20-states-sue-dollar-general-over-mislabeled-prices
   headline: FTC and 20 states sue Dollar General over mislabeled prices
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7493
+  strength: 0.749
 - slug: 2026-10-26-consumer-frustration-spans-higher-prices-and-perceived-artificial-intelligence-p
-  headline: Consumer frustration spans higher prices and perceived artificial intelligence pricing
+  headline: Consumer frustration spans higher prices and perceived artificial intelligence
+    pricing
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7411
-- slug: 2026-10-29-ftc-demands-pricing-data-from-airlines-it-cannot-fine
-  headline: FTC demands pricing data from airlines it cannot fine
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6382
-- slug: 2026-10-28-ftc-orders-delta-walmart-and-others-to-disclose-pricing-data-practices
-  headline: FTC orders Delta, Walmart and others to disclose pricing data practices
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6321
-- slug: 2026-10-26-shoppers-question-ai-pricing-amid-company-denials-and-state-restrictions
-  headline: Shoppers question AI pricing amid company denials and state restrictions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6307
+  strength: 0.7415
 - slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
+  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC
+    probe
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.7179
-- slug: 2026-10-14-investigation-links-skincare-overcharge-complaints-to-mazal-group
-  headline: Investigation links skincare overcharge complaints to Mazal Group
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6197
-- slug: 2026-09-24-7-eleven-and-circle-k-routinely-overcharge-shoppers-inspection-records-and-repor
-  headline: 7-Eleven and Circle K routinely overcharge shoppers, inspection records and reporting show
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6865
-- slug: 2026-10-07-mcdonald-s-faces-federal-lawsuit-over-ai-pricing-tool
-  headline: McDonald's faces federal lawsuit over AI pricing tool
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6149
-- slug: 2026-09-22-doordash-to-pay-264-000-drivers-in-131-5m-nyc-settlement
-  headline: DoorDash to pay 264,000 drivers in $131.5M NYC settlement
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6555
-- slug: 2026-08-31-ftc-and-22-states-sue-amazon-alleging-ad-bid-manipulation-overcharged-sellers
-  headline: FTC and 22 states sue Amazon, alleging ad-bid manipulation overcharged sellers
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6807
-- slug: 2026-08-25-deloitte-to-pay-21-5-million-to-settle-doj-fraud-probe-over-dei-practices
-  headline: Deloitte to pay $21.5 million to settle DOJ fraud probe over DEI practices
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6436
-- slug: 2026-08-28-most-tariff-refunds-flow-to-businesses-as-consumer-repayment-lags
-  headline: Most tariff refunds flow to businesses as consumer repayment lags
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6317
-- slug: 2026-08-19-ftc-proposes-policy-on-companies-that-vary-prices-using-shopper-data
-  headline: FTC proposes policy on companies that vary prices using shopper data
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6236
-- slug: 2026-07-28-johnson-johnson-pays-5-5-billion-to-settle-talc-cancer-lawsuits
-  headline: Johnson & Johnson pays $5.5 billion to settle talc cancer lawsuits
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6459
+  strength: 0.7178
 ---
-
 ## Family Dollar agrees to pay $63m to settle overcharging claims
 
 **Subtype:** fact

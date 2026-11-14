@@ -2,8 +2,16 @@
 headline: US measles deaths reach twice the 2025 total in largest outbreak since 1991
 secondary_headline: US could lose measles elimination status this week
 publish_date: '2026-11-12'
-lede: The Centers for Disease Control and Prevention reported six measles-related deaths in the United States in 2026, according to figures published on the agency's website on Thursday, twice the number recorded in 2025. The country is experiencing its largest measles outbreak since 1991, and the United States could lose its measles elimination status this week.
-nut_graf: The federal tally and state-reported deaths diverge in part because the CDC switched how it tracks measles fatalities, a change it described in a note published to the agency's website on 4 September. Losing elimination status would place the United States alongside Canada and several countries in Europe and Asia where measles had previously been eliminated before making a comeback.
+lede: The Centers for Disease Control and Prevention reported six measles-related
+  deaths in the United States in 2026, according to figures published on the agency's
+  website on Thursday, twice the number recorded in 2025. The country is experiencing
+  its largest measles outbreak since 1991, and the United States could lose its measles
+  elimination status this week.
+nut_graf: The federal tally and state-reported deaths diverge in part because the
+  CDC switched how it tracks measles fatalities, a change it described in a note published
+  to the agency's website on 4 September. Losing elimination status would place the
+  United States alongside Canada and several countries in Europe and Asia where measles
+  had previously been eliminated before making a comeback.
 primary_entities:
 - Centers for Disease Control and Prevention
 - Robert F Kennedy Jr
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,7 +152,7 @@ related_stories:
   headline: Eight experts weigh U.S. measles elimination status this week
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.79
+  strength: 0.7904
 - slug: 2026-11-03-robert-f-kennedy-jr-cuts-childhood-immunization-recommendations-by-a-third
   headline: Robert F Kennedy Jr cuts childhood immunization recommendations by a third
   publish_date: '2026-11-03'
@@ -158,14 +167,15 @@ related_stories:
   headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.8471
+  strength: 0.8476
 - slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
   headline: Annual US measles count exceeds 1991 levels as second death confirmed
   publish_date: '2026-09-29'
   relation: related
   strength: 0.8743
 - slug: 2026-10-25-cdc-finds-96-of-2026-measles-patients-were-unvaccinated-or-had-unknown-status
-  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown status
+  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown
+    status
   publish_date: '2026-10-25'
   relation: related
   strength: 0.7619
@@ -173,74 +183,13 @@ related_stories:
   headline: CDC adds a third measles death without identifying the state
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7569
+  strength: 0.7579
 - slug: 2026-10-13-pennsylvania-reports-sixth-measles-death-as-state-cases-top-1-100
   headline: Pennsylvania reports sixth measles death as state cases top 1,100
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7986
-- slug: 2026-10-05-pennsylvania-measles-cases-top-1-000-as-state-reports-five-deaths
-  headline: Pennsylvania measles cases top 1,000 as state reports five deaths
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7997
-- slug: 2026-09-30-pennsylvania-reports-fifth-measles-related-death-of-2026
-  headline: Pennsylvania reports fifth measles-related death of 2026
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.8014
-- slug: 2026-09-15-pennsylvania-reports-fourth-measles-death-in-2026-worst-us-year-since-1992
-  headline: Pennsylvania reports fourth measles death in 2026, worst US year since 1992
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8093
-- slug: 2026-09-26-pennsylvania-measles-outbreak-grows-to-890-cases-across-39-counties
-  headline: Pennsylvania measles outbreak grows to 890 cases across 39 counties
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7697
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7995
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7871
-- slug: 2026-09-19-california-warns-of-measles-exposure-in-six-counties-after-unvaccinated-passenge
-  headline: California warns of measles exposure in six counties after unvaccinated passenger's train travel
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7543
-- slug: 2026-09-13-jefferson-county-reports-first-adult-measles-death-in-pennsylvania-outbreak
-  headline: Jefferson County reports first adult measles death in Pennsylvania outbreak
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7688
-- slug: 2026-09-14-cdc-shifts-measles-death-tracking-method-as-pennsylvania-outbreak-grows
-  headline: CDC shifts measles death-tracking method as Pennsylvania outbreak grows
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.765
-- slug: 2026-07-24-us-measles-tally-passes-2025-record-with-months-still-to-go
-  headline: US measles tally passes 2025 record with months still to go
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.8402
-- slug: 2026-08-31-cdc-excludes-two-pennsylvania-measles-deaths-from-national-count
-  headline: CDC excludes two Pennsylvania measles deaths from national count
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7784
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7854
+  strength: 0.7989
 ---
-
 ## US measles deaths reach twice the 2025 total in largest outbreak since 1991
 
 **Subtype:** fact
