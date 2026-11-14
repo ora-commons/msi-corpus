@@ -1,9 +1,21 @@
 ---
 headline: Michigan vent maker sees orders jump to more than 1,000 units
-secondary_headline: AI data-center liquid cooling drives demand for decades-old vent designs
+secondary_headline: AI data-center liquid cooling drives demand for decades-old vent
+  designs
 publish_date: '2026-11-12'
-lede: 'Armstrong International, a 126-year-old Michigan business, discovered early this year that it had stumbled into the supply chain of a market defined by speed and secrecy: AI data centers, The Wall Street Journal''s David Uberti reported. For decades the company sold a water-bottle-sized air vent to oil refineries and other customers in batches that usually totaled dozens at a time; early this year an order arrived for more than 1,000, then another, and another.'
-nut_graf: Millions of dollars' worth of chips packed into data centers were running so hot that only liquid cooling systems could prevent them from getting fried, and those systems need to expel excess air through vents like the ones Armstrong makes — designs dating to the Nixon administration that cost a few hundred dollars apiece. Separately, intermodal containers and trailers carried on U.S. railroads in the week ended Nov. 7 rose 11% from a year earlier, according to the Association of American Railroads.
+lede: 'Armstrong International, a 126-year-old Michigan business, discovered early
+  this year that it had stumbled into the supply chain of a market defined by speed
+  and secrecy: AI data centers, The Wall Street Journal''s David Uberti reported.
+  For decades the company sold a water-bottle-sized air vent to oil refineries and
+  other customers in batches that usually totaled dozens at a time; early this year
+  an order arrived for more than 1,000, then another, and another.'
+nut_graf: Millions of dollars' worth of chips packed into data centers were running
+  so hot that only liquid cooling systems could prevent them from getting fried, and
+  those systems need to expel excess air through vents like the ones Armstrong makes
+  — designs dating to the Nixon administration that cost a few hundred dollars apiece.
+  Separately, intermodal containers and trailers carried on U.S. railroads in the
+  week ended Nov. 7 rose 11% from a year earlier, according to the Association of
+  American Railroads.
 primary_entities:
 - Armstrong International
 - Kyle Higginbotham
@@ -53,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,108 +164,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-09-studied-hyperscale-data-centers-collectively-used-68-to-99-terawatt-hours-a-year
-  headline: Studied hyperscale data centers collectively used 68 to 99 terawatt hours a year
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6293
-- slug: 2026-11-06-ai-companies-reassess-data-center-plans-after-midterm-wins-for-freeze-candidates
-  headline: AI companies reassess data-center plans after midterm wins for freeze candidates
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6321
-- slug: 2026-11-07-wall-street-rotates-out-of-ai-and-defense-stocks-after-democratic-midterm-sweep
-  headline: Wall Street rotates out of AI and defense stocks after Democratic midterm sweep
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6247
-- slug: 2026-11-05-ai-related-companies-now-make-up-roughly-half-of-the-s-p-500-npr-editor-says
-  headline: AI-related companies now make up roughly half of the S&P 500, NPR editor says
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6279
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6198
 - slug: 2026-10-27-alterra-ios-reports-outdoor-storage-rents-up-more-than-110-since-2020-in-the-top
-  headline: Alterra IOS reports outdoor-storage rents up more than 110% since 2020 in the top eight markets
+  headline: Alterra IOS reports outdoor-storage rents up more than 110% since 2020
+    in the top eight markets
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6658
-- slug: 2026-10-29-chinese-carmakers-pile-into-overseas-markets-as-domestic-sales-plunge
-  headline: Chinese carmakers pile into overseas markets as domestic sales plunge
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6346
-- slug: 2026-10-26-shoppers-question-ai-pricing-amid-company-denials-and-state-restrictions
-  headline: Shoppers question AI pricing amid company denials and state restrictions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6308
-- slug: 2026-10-26-a-few-recycling-ventures-pursue-rare-earth-supply-from-retired-wind-turbines
-  headline: A few recycling ventures pursue rare-earth supply from retired wind turbines
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6209
-- slug: 2026-10-14-inflation-broadens-beyond-energy-as-ai-buildout-lifts-computer-prices
-  headline: Inflation broadens beyond energy as AI buildout lifts computer prices
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6376
-- slug: 2026-10-07-mo-t-hennessy-analog-devices-and-uc-davis-build-ai-sensor-for-champagne-defect
-  headline: Moët Hennessy, Analog Devices and UC Davis build AI sensor for Champagne defect
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6386
-- slug: 2026-10-07-mcdonald-s-faces-federal-lawsuit-over-ai-pricing-tool
-  headline: McDonald's faces federal lawsuit over AI pricing tool
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6348
-- slug: 2026-10-04-wsj-columnist-tests-consumer-ai-agents-finds-1-offer-on-land-listings
-  headline: WSJ columnist tests consumer AI agents, finds $1 offer on land listings
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6219
-- slug: 2026-09-24-trump-administration-readies-memory-chip-tariffs-to-expand-us-production
-  headline: Trump administration readies memory-chip tariffs to expand US production
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6481
-- slug: 2026-09-10-global-port-tracker-forecasts-2-31-million-20-foot-equivalent-import-units
-  headline: Global Port Tracker forecasts 2.31 million 20-foot-equivalent import units
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6246
+  strength: 0.6643
 - slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
   headline: US manufacturers pour hundreds of millions into AI data center buildout
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6631
+  strength: 0.6624
 - slug: 2026-06-29-ai-data-center-power-demand-threatens-steel-industry-operations
   headline: AI data center power demand threatens steel industry operations
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6538
-- slug: 2026-07-14-ai-data-center-construction-booms-as-factory-building-slows
-  headline: AI data center construction booms as factory building slows
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6381
-- slug: 2026-06-19-memory-chip-shortage-driven-by-ai-demand-squeezes-consumer-tech
-  headline: Memory-chip shortage driven by AI demand squeezes consumer tech
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6475
-- slug: 2026-07-11-ai-data-center-construction-threatens-farmland-farmers-and-ranchers-warn
-  headline: AI data center construction threatens farmland, farmers and ranchers warn
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6268
+  strength: 0.6525
 ---
-
 ## Michigan vent maker sees orders jump to more than 1,000 units
 
 **Subtype:** fact**

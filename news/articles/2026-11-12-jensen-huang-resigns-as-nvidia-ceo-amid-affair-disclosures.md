@@ -1,9 +1,19 @@
 ---
 headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
-secondary_headline: Nvidia names CFO Colette Kress interim chief executive and Harvey Jones chair
+secondary_headline: Nvidia names CFO Colette Kress interim chief executive and Harvey
+  Jones chair
 publish_date: '2026-11-12'
-lede: Nvidia chief executive Jensen Huang has resigned, days after confirming an extramarital affair with Alice Huang, a Megaspeed executive whom US officials regarded as a Chinese spy, according to the Guardian's Nils Pratley. Chief financial officer Colette Kress was named interim chief executive, and Nvidia's shares fell 13% before narrowing their loss to 5% within a couple of hours.
-nut_graf: 'The departure comes as congressional scrutiny of Nvidia''s China chip business builds: Democratic senators have asked administration officials to preserve all documents and communications related to the sale of Nvidia''s advanced AI chips to China. Guardian columnist Nils Pratley argued Nvidia is better placed to defend itself in the coming investigations without Huang, whose lobbying clout on export policy he said had evaporated.'
+lede: Nvidia chief executive Jensen Huang has resigned, days after confirming an extramarital
+  affair with Alice Huang, a Megaspeed executive whom US officials regarded as a Chinese
+  spy, according to the Guardian's Nils Pratley. Chief financial officer Colette Kress
+  was named interim chief executive, and Nvidia's shares fell 13% before narrowing
+  their loss to 5% within a couple of hours.
+nut_graf: 'The departure comes as congressional scrutiny of Nvidia''s China chip business
+  builds: Democratic senators have asked administration officials to preserve all
+  documents and communications related to the sale of Nvidia''s advanced AI chips
+  to China. Guardian columnist Nils Pratley argued Nvidia is better placed to defend
+  itself in the coming investigations without Huang, whose lobbying clout on export
+  policy he said had evaporated.'
 primary_entities:
 - Jensen Huang
 - Nvidia
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,7 +167,7 @@ related_stories:
   headline: Nvidia board meets on whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8772
+  strength: 0.8768
 - slug: 2026-11-12-nvidia-names-cfo-colette-kress-interim-ceo-after-jensen-huang-resigns
   headline: Nvidia names CFO Colette Kress interim CEO after Jensen Huang resigns
   publish_date: '2026-11-12'
@@ -166,84 +177,26 @@ related_stories:
   headline: Nvidia investigates reports of spying targeting Jensen Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8606
+  strength: 0.8607
 - slug: 2026-11-12-nvidia-shares-sink-7-premarket-as-reports-put-ceo-jensen-huang-s-tenure-at-risk
-  headline: Nvidia shares sink 7% premarket as reports put CEO Jensen Huang's tenure at risk
+  headline: Nvidia shares sink 7% premarket as reports put CEO Jensen Huang's tenure
+    at risk
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8386
+  strength: 0.8383
 - slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
+  headline: Nvidia's Huang wins looser China chip rules despite national-security
+    warnings
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8317
+  strength: 0.832
 - slug: 2026-11-09-nvidia-shares-fall-about-6-monday-erasing-about-250bn-as-board-opens-inquiry
-  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens inquiry
+  headline: Nvidia shares fall about 6% Monday, erasing about $250bn as board opens
+    inquiry
   publish_date: '2026-11-09'
   relation: related
   strength: 0.8447
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-reports-of-two-extramarital-affairs
-  headline: Nvidia CEO Jensen Huang resigns after reports of two extramarital affairs
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8226
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8499
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8498
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8476
-- slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
-  headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8379
-- slug: 2026-11-10-investor-sues-nvidia-over-alleged-deception-on-ceo-affair-and-megaspeed
-  headline: Investor sues Nvidia over alleged deception on CEO affair and Megaspeed
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8287
-- slug: 2026-11-10-nvidia-shareholder-suit-alleges-failure-to-disclose-national-security-concerns
-  headline: Nvidia shareholder suit alleges failure to disclose national security concerns
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8283
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-cfo-colette-kress-named-interim-chief
-  headline: Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim chief
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8138
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8346
-- slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
-  headline: Nvidia board investigates CEO Jensen Huang as shares tumble
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.834
-- slug: 2026-11-11-nvidia-hires-law-firm-over-jensen-huang-s-reported-affair-with-alleged-chinese-s
-  headline: Nvidia hires law firm over Jensen Huang's reported affair with alleged Chinese spy
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.8194
-- slug: 2026-11-12-megaspeed-vows-cooperation-with-u-s-national-security-investigations
-  headline: Megaspeed vows cooperation with U.S. national security investigations
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.81
 ---
-
 ## Jensen Huang resigns as Nvidia CEO amid affair disclosures
 
 **Subtype:** fact
