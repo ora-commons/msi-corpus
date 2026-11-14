@@ -2,8 +2,18 @@
 headline: Democrats open investigation into Commerce Department's Nvidia export plans
 secondary_headline: Lutnick's clashes with other officials complicate his defense
 publish_date: '2026-11-13'
-lede: Top Democrats on two key congressional panels sent Commerce Secretary Howard Lutnick a letter saying they had started an investigation into the Trump administration's export plans as they relate to Nvidia, less than 12 hours after Jensen Huang was ousted as Nvidia's chief executive. The Wall Street Journal reported the inquiry in its politics newsletter on November 13, describing the dispute as a multibillion-dollar matter touching national security and trade policy.
-nut_graf: 'The investigation lands on a Commerce Department already at the center of the government''s relationship with Nvidia, at a moment when, the Journal reported, the White House cannot afford the Nvidia news cycle to drag on much longer. Lutnick''s standing with other senior officials matters to how the administration responds: the Journal reported that his style has unsettled a number of top officials, raising the question of whether allies will rally behind him if the scrutiny persists.'
+lede: Top Democrats on two key congressional panels sent Commerce Secretary Howard
+  Lutnick a letter saying they had started an investigation into the Trump administration's
+  export plans as they relate to Nvidia, less than 12 hours after Jensen Huang was
+  ousted as Nvidia's chief executive. The Wall Street Journal reported the inquiry
+  in its politics newsletter on November 13, describing the dispute as a multibillion-dollar
+  matter touching national security and trade policy.
+nut_graf: 'The investigation lands on a Commerce Department already at the center
+  of the government''s relationship with Nvidia, at a moment when, the Journal reported,
+  the White House cannot afford the Nvidia news cycle to drag on much longer. Lutnick''s
+  standing with other senior officials matters to how the administration responds:
+  the Journal reported that his style has unsettled a number of top officials, raising
+  the question of whether allies will rally behind him if the scrutiny persists.'
 primary_entities:
 - Howard Lutnick
 - Nvidia
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +154,47 @@ related_stories:
   headline: White House advisers blame Commerce Secretary Lutnick for Nvidia fallout
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8467
+  strength: 0.8472
 - slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
   headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8125
+  strength: 0.8124
 - slug: 2026-11-13-white-house-faces-questions-over-commerce-s-nvidia-chip-oversight
   headline: White House faces questions over Commerce's Nvidia chip oversight
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8056
+  strength: 0.8061
 - slug: 2026-11-12-warren-and-coons-ask-trump-administration-to-preserve-nvidia-chip-export-records
-  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export records
+  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export
+    records
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7904
+  strength: 0.7903
 - slug: 2026-11-13-lawmakers-ask-when-lutnick-learned-of-huang-s-contact-with-suspected-chinese-ass
-  headline: Lawmakers ask when Lutnick learned of Huang's contact with suspected Chinese asset
+  headline: Lawmakers ask when Lutnick learned of Huang's contact with suspected Chinese
+    asset
   publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7827
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
   relation: related
   strength: 0.7825
+- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
+  headline: Nvidia's Huang wins looser China chip rules despite national-security
+    warnings
+  publish_date: '2026-11-12'
+  relation: related
+  strength: 0.7823
 - slug: 2026-11-13-report-says-huang-exit-could-bring-nvidia-shareholder-suits-and-tech-sector-regu
-  headline: Report says Huang exit could bring Nvidia shareholder suits and tech-sector regulatory pressure
+  headline: Report says Huang exit could bring Nvidia shareholder suits and tech-sector
+    regulatory pressure
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7627
+  strength: 0.7621
 - slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
   headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7551
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
-  headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7433
-- slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board meets on whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7425
-- slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
-  headline: Nvidia inquiry draws top Republican demands for answers
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.761
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
-  headline: Jensen Huang resigns as Nvidia CEO after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7393
-- slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7351
-- slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7327
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7449
-- slug: 2026-11-11-nvidia-hires-law-firm-over-jensen-huang-s-reported-affair-with-alleged-chinese-s
-  headline: Nvidia hires law firm over Jensen Huang's reported affair with alleged Chinese spy
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.734
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7533
-- slug: 2026-11-10-people-familiar-say-justice-department-takes-megaspeed-probe-after-nvidia-outrea
-  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia outreach
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7368
-- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7434
-- slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
-  headline: Nvidia board investigates CEO Jensen Huang as shares tumble
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7416
+  strength: 0.755
 ---
-
 ## Democrats open investigation into Commerce Department's Nvidia export plans
 
 **Subtype:** fact
