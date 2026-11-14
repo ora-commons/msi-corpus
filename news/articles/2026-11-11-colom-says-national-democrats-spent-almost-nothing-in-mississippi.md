@@ -137,6 +137,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-11-mississippi-senate-result-exposes-limits-of-ratings-keyed-campaign-funding'
 ---
 ## Colom says national Democrats spent 'almost nothing' in Mississippi
 
@@ -186,3 +188,8 @@ NPR described Colom's victory, in a midterm it called full of stunning upsets fo
 **Title:** Mississippi makes history with Democrat senate win - The Latest
 **URL:** https://www.theguardian.com/news/audio/2026/nov/12/scott-colom-senate-victory-mississippi-the-latest
 **Added after publication:** true
+
+---
+
+<!-- analysis-link:2026-11-11-mississippi-senate-result-exposes-limits-of-ratings-keyed-campaign-funding -->
+**Going deeper:** [Read MSI's analysis of the Mississippi Senate ratings gap →](/analyses/2026-11-11-mississippi-senate-result-exposes-limits-of-ratings-keyed-campaign-funding)
