@@ -1,9 +1,21 @@
 ---
 headline: Murdaugh lawyers ask judge to dismiss indictments, saying investigator lied
-secondary_headline: Prosecutors say they can seek new indictments as soon as next month
+secondary_headline: Prosecutors say they can seek new indictments as soon as next
+  month
 publish_date: '2026-11-13'
-lede: Attorneys for Alex Murdaugh are expected in court Friday to ask a judge to throw out the original murder indictments in the killings of his wife, Maggie, and son, Paul, arguing that the chief investigator in the case lied to the Colleton County grand jury. The request before Judge Debra McCaslin at Friday's pretrial hearing targets State Law Enforcement Division agent David Owen, who told the grand jury the case as prosecutors sought the indictments. Murdaugh is facing a retrial on the murder charges after the South Carolina Supreme Court threw out his convictions and life sentence.
-nut_graf: The dismissal motion is a longshot that could leave the April retrial schedule untouched, because prosecutors can seek a fresh set of grand jury indictments as soon as next month. Its substance is a claim that the chief investigator misrepresented physical-evidence and ammunition findings to the grand jury — the same agent whose handling of an earlier case a judge threw out last year.
+lede: Attorneys for Alex Murdaugh are expected in court Friday to ask a judge to throw
+  out the original murder indictments in the killings of his wife, Maggie, and son,
+  Paul, arguing that the chief investigator in the case lied to the Colleton County
+  grand jury. The request before Judge Debra McCaslin at Friday's pretrial hearing
+  targets State Law Enforcement Division agent David Owen, who told the grand jury
+  the case as prosecutors sought the indictments. Murdaugh is facing a retrial on
+  the murder charges after the South Carolina Supreme Court threw out his convictions
+  and life sentence.
+nut_graf: The dismissal motion is a longshot that could leave the April retrial schedule
+  untouched, because prosecutors can seek a fresh set of grand jury indictments as
+  soon as next month. Its substance is a claim that the chief investigator misrepresented
+  physical-evidence and ammunition findings to the grand jury — the same agent whose
+  handling of an earlier case a judge threw out last year.
 primary_entities:
 - Alex Murdaugh
 - David Owen
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +159,44 @@ related_stories:
   headline: Judge Sullivan schedules Nov. 16 hearing on Clancy retrial motions
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6725
-- slug: 2026-11-01-lindsay-clancy-returns-to-court-as-lawyers-debate-dismissal-and-retrial
-  headline: Lindsay Clancy returns to court as lawyers debate dismissal and retrial
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6466
-- slug: 2026-11-02-judge-admonishes-clancy-attorney-over-holdout-juror-allegations
-  headline: Judge admonishes Clancy attorney over holdout juror allegations
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6235
-- slug: 2026-10-26-judge-blocks-permanent-dismissal-of-rhinewalt-s-manslaughter-case
-  headline: Judge blocks permanent dismissal of Rhinewalt’s manslaughter case
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6302
+  strength: 0.6723
 - slug: 2026-08-14-judge-moves-murdaugh-murder-retrial-from-rural-south-carolina-county
   headline: Judge moves Murdaugh murder retrial from rural South Carolina county
   publish_date: '2026-08-14'
   relation: related
-  strength: 0.7832
-- slug: 2026-09-29-prosecutor-cites-juror-chilling-effect-as-clancy-defense-seeks-trial-notes
-  headline: Prosecutor cites juror 'chilling effect' as Clancy defense seeks trial notes
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6332
+  strength: 0.782
 - slug: 2026-06-29-judge-sets-april-2027-retrial-date-for-alex-murdaugh
   headline: Judge sets April 2027 retrial date for Alex Murdaugh
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.7675
+  strength: 0.7666
 - slug: 2026-09-08-reddington-plans-motion-to-reconsider-clancy-mistrial-later-this-month
   headline: Reddington plans motion to reconsider Clancy mistrial later this month
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6656
+  strength: 0.6651
 - slug: 2026-02-11-alex-murdaugh-seeks-reversal-as-south-carolina-supreme-court-hears-appeal
   headline: Alex Murdaugh seeks reversal as South Carolina Supreme Court hears appeal
   publish_date: '2026-02-11'
   relation: related
-  strength: 0.7917
+  strength: 0.7909
 - slug: 2026-02-10-murdaugh-appeal-continues-as-lawyers-cite-unfair-trial-issues
   headline: Murdaugh appeal continues as lawyers cite unfair trial issues
   publish_date: '2026-02-10'
   relation: related
-  strength: 0.7882
+  strength: 0.7876
 - slug: 2026-05-14-south-carolina-supreme-court-overturns-alex-murdaugh-murder-convictions-orders-n
-  headline: South Carolina Supreme Court overturns Alex Murdaugh murder convictions, orders new trial
+  headline: South Carolina Supreme Court overturns Alex Murdaugh murder convictions,
+    orders new trial
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7719
+  strength: 0.7712
 - slug: 2026-05-19-alex-murdaugh-sues-clerk-whose-conduct-overturned-murder-convictions
   headline: Alex Murdaugh sues clerk whose conduct overturned murder convictions
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.7647
-- slug: 2026-05-14-prosecutors-to-retry-alex-murdaugh-after-supreme-court-overturns-verdict
-  headline: Prosecutors to retry Alex Murdaugh after Supreme Court overturns verdict
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7649
-- slug: 2026-05-14-south-carolina-justices-overturn-alex-murdaugh-murder-convictions-life-sentence
-  headline: South Carolina justices overturn Alex Murdaugh murder convictions, life sentence
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7631
-- slug: 2026-08-06-judge-rejects-murdaugh-bid-for-legal-fees-from-former-clerk
-  headline: Judge rejects Murdaugh bid for legal fees from former clerk
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6981
-- slug: 2026-05-14-south-carolina-supreme-court-overturns-murdaugh-murder-convictions-over-clerk-s-
-  headline: South Carolina Supreme Court overturns Murdaugh murder convictions over clerk’s jury comments
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7504
-- slug: 2026-05-18-alex-murdaugh-sues-former-clerk-becky-hill-after-convictions-overturned
-  headline: Alex Murdaugh sues former clerk Becky Hill after convictions overturned
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7192
-- slug: 2026-05-19-alex-murdaugh-sues-clerk-whose-conduct-led-verdict-to-be-overturned
-  headline: Alex Murdaugh sues clerk whose conduct led verdict to be overturned
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7182
-- slug: 2026-06-18-arizona-prosecutor-dismisses-fake-elector-case-against-giuliani-meadows-vows-new
-  headline: Arizona prosecutor dismisses fake elector case against Giuliani, Meadows — vows new indictment
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6266
-- slug: 2026-04-22-murder-retrial-begins-in-ohio-for-ex-deputy-jason-meade-in-casey-goodson-jr-kill
-  headline: Murder retrial begins in Ohio for ex-deputy Jason Meade in Casey Goodson Jr. killing
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6337
+  strength: 0.7637
 ---
-
 ## Murdaugh lawyers ask judge to dismiss indictments, saying investigator lied
 
 **Subtype:** fact
