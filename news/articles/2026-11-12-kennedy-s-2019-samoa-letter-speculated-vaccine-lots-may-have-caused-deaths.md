@@ -2,8 +2,22 @@
 headline: Kennedy's 2019 Samoa letter speculated vaccine lots may have caused deaths
 secondary_headline: Kennedy's letter did not specifically discuss anti-vaccine activism
 publish_date: '2026-11-12'
-lede: A Jan. 20, 2019, letter that Health Secretary Robert F. Kennedy Jr. sent to Samoa's prime minister ahead of his visit speculated that deaths in the country may have been caused by issues with different vaccine lots, and said his team wanted to evaluate that possibility through a "detailed health informatics assessment." The Associated Press and The Guardian published the letter in August, and it is the basis for an investigation two Democratic senators opened Wednesday into whether Kennedy lied to Congress about why he traveled to Samoa.
-nut_graf: The letter matters because Kennedy repeatedly told senators who held the key to his confirmation that his visit to Samoa before a deadly measles outbreak had "nothing to do with vaccines." The letter did not specifically discuss anti-vaccine activism. The Department of Health and Human Services has maintained that the visit "was unrelated to vaccines" and called claims that Kennedy lied under oath or to Congress "not only false but outright defamatory." Kennedy was not under oath during his confirmation hearing; knowingly giving material false testimony to Congress is a crime that carries a possible prison sentence regardless of whether a person is under oath, though it is rarely prosecuted.
+lede: A Jan. 20, 2019, letter that Health Secretary Robert F. Kennedy Jr. sent to
+  Samoa's prime minister ahead of his visit speculated that deaths in the country
+  may have been caused by issues with different vaccine lots, and said his team wanted
+  to evaluate that possibility through a "detailed health informatics assessment."
+  The Associated Press and The Guardian published the letter in August, and it is
+  the basis for an investigation two Democratic senators opened Wednesday into whether
+  Kennedy lied to Congress about why he traveled to Samoa.
+nut_graf: The letter matters because Kennedy repeatedly told senators who held the
+  key to his confirmation that his visit to Samoa before a deadly measles outbreak
+  had "nothing to do with vaccines." The letter did not specifically discuss anti-vaccine
+  activism. The Department of Health and Human Services has maintained that the visit
+  "was unrelated to vaccines" and called claims that Kennedy lied under oath or to
+  Congress "not only false but outright defamatory." Kennedy was not under oath during
+  his confirmation hearing; knowingly giving material false testimony to Congress
+  is a crime that carries a possible prison sentence regardless of whether a person
+  is under oath, though it is rarely prosecuted.
 primary_entities:
 - Robert F. Kennedy Jr.
 - Ron Wyden
@@ -43,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +160,44 @@ related_stories:
   headline: Wyden opens inquiry into whether RFK Jr lied to Congress over Samoa trip
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8377
+  strength: 0.8382
 - slug: 2026-11-12-senators-probe-gifts-reportedly-given-to-rfk-jr-by-a-donor
   headline: Senators probe gifts reportedly given to RFK Jr. by a donor
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7513
+  strength: 0.7519
 - slug: 2026-11-03-robert-f-kennedy-jr-cuts-childhood-immunization-recommendations-by-a-third
   headline: Robert F Kennedy Jr cuts childhood immunization recommendations by a third
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6804
+  strength: 0.6818
 - slug: 2026-08-27-obtained-letter-contradicts-kennedy-s-senate-testimony-on-samoa-trip
   headline: Obtained letter contradicts Kennedy's Senate testimony on Samoa trip
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.9041
+  strength: 0.9042
 - slug: 2026-10-12-anti-vaccine-group-claims-it-sparked-probes-into-texas-measles-doctors
   headline: Anti-vaccine group claims it sparked probes into Texas measles doctors
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.671
+  strength: 0.6719
 - slug: 2026-06-25-new-emails-contradict-rfk-jr-claim-that-samoa-trip-was-not-about-vaccines
   headline: New emails contradict RFK Jr. claim that Samoa trip was not about vaccines
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.8638
+  strength: 0.8645
 - slug: 2026-02-08-emails-challenge-rfk-jr-testimony-on-samoa-trip-before-measles-outbreak
   headline: Emails challenge RFK Jr. testimony on Samoa trip before measles outbreak
   publish_date: '2026-02-08'
   relation: related
-  strength: 0.8644
+  strength: 0.8649
 - slug: 2026-09-17-kennedy-tells-anti-vaccine-conference-you-have-a-friend-at-the-white-house
-  headline: 'Kennedy tells anti-vaccine conference: ''you have a friend at the White House'''
+  headline: 'Kennedy tells anti-vaccine conference: ''you have a friend at the White
+    House'''
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6962
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6731
-- slug: 2026-09-16-cassidy-ties-pennsylvania-measles-deaths-to-misinformation-and-misguided-policie
-  headline: Cassidy ties Pennsylvania measles deaths to 'misinformation and misguided policies'
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6502
-- slug: 2026-09-11-former-cdc-officials-warn-cdc-response-to-measles-deaths-threatens-trust
-  headline: Former CDC officials warn CDC response to measles deaths threatens trust
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6453
-- slug: 2026-08-28-rfk-jr-suggests-two-pennsylvania-measles-deaths-were-fabricated
-  headline: RFK Jr. suggests two Pennsylvania measles deaths were 'fabricated'
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6676
-- slug: 2026-09-04-coroner-and-cdc-dispute-state-attribution-of-newborn-s-death-to-measles
-  headline: Coroner and CDC dispute state attribution of newborn's death to measles
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6484
-- slug: 2026-08-02-kennedy-urges-measles-vaccination-as-us-outbreak-reaches-2-371-cases
-  headline: Kennedy urges measles vaccination as US outbreak reaches 2,371 cases
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6839
-- slug: 2026-07-28-trump-pushes-rfk-jr-to-probe-alleged-vaccine-autism-link-cut-child-shots
-  headline: Trump pushes RFK Jr. to probe alleged vaccine-autism link, cut child shots
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6654
-- slug: 2026-04-17-kennedy-clashes-with-democrats-over-vaccines-and-race-at-house-hearing
-  headline: Kennedy clashes with Democrats over vaccines and race at House hearing
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.698
-- slug: 2026-06-15-rfk-jr-under-fire-for-letter-pressing-journal-over-retracted-vaccine-study
-  headline: RFK Jr. under fire for letter pressing journal over retracted vaccine study
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6738
-- slug: 2026-04-22-rfk-jr-deflects-blame-on-vaccines-as-hhs-budget-cuts-draw-scrutiny
-  headline: RFK Jr. deflects blame on vaccines as HHS budget cuts draw scrutiny
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.692
-- slug: 2026-04-23-cassidy-weighs-rfk-jr-vaccine-rollback-amid-louisiana-reelection-fight
-  headline: Cassidy weighs RFK Jr. vaccine rollback amid Louisiana reelection fight
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6852
-- slug: 2026-04-21-as-rfk-jr-faced-the-senate-bill-cassidy-balanced-politics-and-science
-  headline: As RFK Jr. faced the Senate, Bill Cassidy balanced politics and science
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.685
+  strength: 0.6973
 ---
-
 ## Kennedy's 2019 Samoa letter speculated vaccine lots may have caused deaths
 
 **Subtype:** fact

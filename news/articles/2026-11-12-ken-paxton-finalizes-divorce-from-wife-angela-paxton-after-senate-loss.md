@@ -2,8 +2,16 @@
 headline: Ken Paxton finalizes divorce from wife Angela Paxton after Senate loss
 secondary_headline: Divorce finalized days after Paxton's double-digit Senate defeat
 publish_date: '2026-11-12'
-lede: Texas Attorney General Ken Paxton has finalized his divorce from his wife, Angela Paxton, a state senator, one of his lawyers said Thursday. The divorce was finalized nearly a week after Paxton, a Republican, lost his U.S. Senate race by double digits to Democrat James Talarico. Angela Paxton had cited allegations of adultery when she sought to end their 38-year marriage, filing after her husband launched his Senate run.
-nut_graf: The divorce closes a 38-year marriage that had held together through a decade of legal and political turmoil for Ken Paxton, and it lands days after his Senate defeat ended his bid to succeed long-serving Republican Sen. John Cornyn. Terms of the divorce will remain private.
+lede: Texas Attorney General Ken Paxton has finalized his divorce from his wife, Angela
+  Paxton, a state senator, one of his lawyers said Thursday. The divorce was finalized
+  nearly a week after Paxton, a Republican, lost his U.S. Senate race by double digits
+  to Democrat James Talarico. Angela Paxton had cited allegations of adultery when
+  she sought to end their 38-year marriage, filing after her husband launched his
+  Senate run.
+nut_graf: The divorce closes a 38-year marriage that had held together through a decade
+  of legal and political turmoil for Ken Paxton, and it lands days after his Senate
+  defeat ended his bid to succeed long-serving Republican Sen. John Cornyn. Terms
+  of the divorce will remain private.
 primary_entities:
 - Ken Paxton
 - Angela Paxton
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,27 +153,28 @@ related_stories:
   headline: Paxton's legal history and Musk's money shape pivotal Texas Senate race
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7469
+  strength: 0.7474
 - slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
   headline: James Talarico defeats Ken Paxton in Texas Senate race
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6968
+  strength: 0.6975
 - slug: 2026-10-15-leaked-audio-captures-paxton-criticizing-own-party-as-texas-senate-race-tightens
-  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race tightens
+  headline: Leaked audio captures Paxton criticizing own party as Texas Senate race
+    tightens
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7448
+  strength: 0.7452
 - slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
   headline: Talarico and Paxton enter final stretch of Texas Senate race
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6939
+  strength: 0.6945
 - slug: 2026-10-19-ken-paxton-s-anti-abortion-legal-playbook-extends-beyond-texas
   headline: Ken Paxton's anti-abortion legal playbook extends beyond Texas
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7078
+  strength: 0.7088
 - slug: 2026-10-05-paxton-tells-donors-washington-forces-control-his-senate-campaign
   headline: Paxton tells donors Washington forces control his Senate campaign
   publish_date: '2026-10-05'
@@ -174,74 +184,14 @@ related_stories:
   headline: Records show two indicted Americans at Dubai party with Paxton
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6913
+  strength: 0.6917
 - slug: 2026-09-30-guardian-opinion-column-links-paxton-scandals-to-christian-right-s-texas-network
-  headline: Guardian opinion column links Paxton scandals to Christian right's Texas network
+  headline: Guardian opinion column links Paxton scandals to Christian right's Texas
+    network
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6908
-- slug: 2026-09-13-republican-aligned-group-plans-50-million-boost-for-paxton-s-senate-bid
-  headline: Republican-aligned group plans $50 million boost for Paxton's Senate bid
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7046
-- slug: 2026-08-31-talarico-leads-paxton-42-to-39-in-university-of-texas-senate-poll
-  headline: Talarico leads Paxton 42% to 39% in University of Texas Senate poll
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6845
-- slug: 2026-05-26-texas-attorney-general-ken-paxton-ousts-sen-john-cornyn-in-gop-runoff
-  headline: Texas Attorney General Ken Paxton ousts Sen. John Cornyn in GOP runoff
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.755
-- slug: 2026-07-27-paxton-faces-talarico-in-texas-senate-race-after-defeating-prior-challengers
-  headline: Paxton faces Talarico in Texas Senate race after defeating prior challengers
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7093
-- slug: 2026-05-27-paxton-defeats-cornyn-in-texas-gop-senate-runoff-after-trump-endorses-challenger
-  headline: Paxton defeats Cornyn in Texas GOP Senate runoff after Trump endorses challenger
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7139
-- slug: 2026-05-26-cornyn-tried-to-avoid-trump-s-wrath-but-lost-texas-senate-primary-to-paxton
-  headline: Cornyn tried to avoid Trump's wrath but lost Texas Senate primary to Paxton
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7117
-- slug: 2026-06-19-texas-senate-race-turns-into-a-battle-over-who-is-more-of-a-man
-  headline: Texas Senate Race Turns Into a Battle Over Who Is More of a Man
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6932
-- slug: 2026-05-22-paxton-spotlights-trump-s-endorsement-in-texas-senate-runoff-vs-cornyn
-  headline: Paxton spotlights Trump’s endorsement in Texas Senate runoff vs. Cornyn
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6956
-- slug: 2026-05-21-paxton-touts-trump-endorsement-in-final-push-before-texas-senate-runoff
-  headline: Paxton touts Trump endorsement in final push before Texas Senate runoff
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.693
-- slug: 2026-05-19-trump-endorses-ken-paxton-over-john-cornyn-in-texas-gop-senate-runoff
-  headline: Trump endorses Ken Paxton over John Cornyn in Texas GOP Senate runoff
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6899
-- slug: 2026-05-20-trump-endorses-ken-paxton-over-john-cornyn-in-texas-senate-runoff
-  headline: Trump endorses Ken Paxton over John Cornyn in Texas Senate runoff
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6883
-- slug: 2026-05-25-cornyn-paxton-face-off-in-texas-gop-senate-runoff-as-trump-endorses-challenger
-  headline: Cornyn, Paxton face off in Texas GOP Senate runoff as Trump endorses challenger
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6854
+  strength: 0.6915
 ---
-
 ## Ken Paxton finalizes divorce from wife Angela Paxton after Senate loss
 
 **Subtype:** fact

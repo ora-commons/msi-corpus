@@ -1,9 +1,18 @@
 ---
 headline: Ecuadorian journalist Tomás Beltrán shot dead amid press freedom concerns
-secondary_headline: Almeida says six journalist killings in Ecuador last year remain unpunished
+secondary_headline: Almeida says six journalist killings in Ecuador last year remain
+  unpunished
 publish_date: '2026-11-11'
-lede: Ecuadorian journalist Tomás Beltrán was shot dead Sunday night while moving his car into a garage. Police and the public prosecutor’s office had said little about the case, and it was unclear whether the killing was linked to Beltrán’s work. Press-freedom groups cited his death as the latest example of deteriorating conditions for journalists in Ecuador.
-nut_graf: The case remains unresolved because police and prosecutors have not linked the killing to Beltrán’s work. Reporters Without Borders and Fundación Periodistas Sin Cadenas described threats, protection efforts, exile and self-censorship, while President Daniel Noboa’s government expanded the armed forces’ role in anti-gang measures and faced reports that it pressured media outlets.
+lede: Ecuadorian journalist Tomás Beltrán was shot dead Sunday night while moving
+  his car into a garage. Police and the public prosecutor’s office had said little
+  about the case, and it was unclear whether the killing was linked to Beltrán’s work.
+  Press-freedom groups cited his death as the latest example of deteriorating conditions
+  for journalists in Ecuador.
+nut_graf: The case remains unresolved because police and prosecutors have not linked
+  the killing to Beltrán’s work. Reporters Without Borders and Fundación Periodistas
+  Sin Cadenas described threats, protection efforts, exile and self-censorship, while
+  President Daniel Noboa’s government expanded the armed forces’ role in anti-gang
+  measures and faced reports that it pressured media outlets.
 primary_entities:
 - Tomás Beltrán
 - Ecuador
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +152,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-09-jimenez-alleges-an-ice-officer-shot-him-after-he-warned-agents-near-a-bus-stop
-  headline: Jimenez alleges an ICE officer shot him after he warned agents near a bus stop
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.5927
-- slug: 2026-10-29-ecuador-extradites-three-drug-suspects-to-face-u-s-charges
-  headline: Ecuador extradites three drug suspects to face U.S. charges
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6081
 - slug: 2026-09-21-three-journalists-describe-arrests-and-deportation-by-ice
   headline: Three journalists describe arrests and deportation by ICE
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6602
-- slug: 2026-09-28-berkeley-report-says-icc-grounds-exist-to-examine-amlo-era-abuses
-  headline: Berkeley report says ICC grounds exist to examine AMLO-era abuses
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6219
-- slug: 2026-09-28-ecuador-s-fishermen-drawn-into-cocaine-trade-as-u-s-sinks-boats
-  headline: Ecuador's fishermen drawn into cocaine trade as U.S. sinks boats
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6041
-- slug: 2026-09-23-dhs-calls-austin-ice-shooting-coverage-false-narratives-blames-media
-  headline: DHS calls Austin ICE shooting coverage 'false narratives,' blames media
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6154
-- slug: 2026-09-21-doj-brings-rare-charge-against-ice-agent-for-lying-about-minnesota-shooting
-  headline: DOJ brings rare charge against ICE agent for lying about Minnesota shooting
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6079
-- slug: 2026-09-26-us-forces-destroy-ecuadorian-fishing-boats-in-joint-pacific-operations
-  headline: US forces destroy Ecuadorian fishing boats in joint Pacific operations
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5912
-- slug: 2026-09-22-independent-immigrant-newsrooms-reach-readers-via-whatsapp-sms
-  headline: Independent immigrant newsrooms reach readers via WhatsApp, SMS
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6017
-- slug: 2026-09-16-nicaraguan-journalist-galeano-held-at-krome-court-date-october-2
-  headline: Nicaraguan journalist Galeano held at Krome, court date October 2
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6191
-- slug: 2026-09-25-u-s-troops-join-ecuadorian-police-in-direct-drug-raids
-  headline: U.S. troops join Ecuadorian police in direct drug raids
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5917
-- slug: 2026-09-16-global-witness-documents-124-killings-of-land-defenders-in-2025
-  headline: Global Witness documents 124 killings of land defenders in 2025
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6085
-- slug: 2026-08-31-barrientos-ecuador-crime-operations-degrade-gangs-not-state-authority
-  headline: 'Barrientos: Ecuador crime operations degrade gangs, not state authority'
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6135
-- slug: 2026-08-21-u-s-ecuador-conduct-joint-operations-against-drug-cartels-in-esmeraldas
-  headline: U.S., Ecuador conduct joint operations against drug cartels in Esmeraldas
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5983
-- slug: 2026-07-19-guardian-columnist-calls-for-ice-prosecutions-after-fatal-shootings
-  headline: Guardian columnist calls for ICE prosecutions after fatal shootings
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6023
-- slug: 2026-07-14-garcia-ice-acting-director-promised-body-cameras-after-houston-shooting
-  headline: 'Garcia: ICE acting director promised body cameras after Houston shooting'
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5968
-- slug: 2026-03-19-ecuador-linked-suspect-in-villavicencio-killing-arrested-in-mexico-sent-to-colom
-  headline: Ecuador-linked suspect in Villavicencio killing arrested in Mexico, sent to Colombia
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6264
-- slug: 2026-03-19-ecuador-and-colombia-exchange-claims-over-cross-border-strikes-bomb
-  headline: Ecuador and Colombia exchange claims over cross-border strikes, bomb
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.62
-- slug: 2026-03-20-ice-releases-tennessee-spanish-language-reporter-on-bond
-  headline: ICE releases Tennessee Spanish-language reporter on bond
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6161
-- slug: 2026-02-07-man-allegedly-tied-to-andr-s-escobar-killing-shot-dead-in-mexico
-  headline: Man allegedly tied to Andrés Escobar killing shot dead in Mexico
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6076
+  strength: 0.6601
 ---
-
 ## Ecuadorian journalist Tomás Beltrán shot dead amid press freedom concerns
 
 **Subtype:** fact
