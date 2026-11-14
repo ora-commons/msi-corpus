@@ -2,8 +2,20 @@
 headline: Waste Connections seeks decades more life for Seneca Meadows landfill
 secondary_headline: New York weighs expansion as state's landfill space runs short
 publish_date: '2026-11-13'
-lede: The operator of New York's largest active landfill has proposed extending its life for several more decades, seeking to add 47 acres of newly lined disposal cells and raise the trash heap another 70 feet at a site already as tall as the Statue of Liberty. Waste Connections, the Texas-based company that runs the Seneca Meadows landfill in the Finger Lakes region, has filed the expansion plan as New York state authorities decide whether to grant it. Residents of the neighboring towns of Seneca Falls and Waterloo had hoped the landfill would close when its permit expired last year.
-nut_graf: 'The proposal lands as New York confronts shrinking capacity for its own waste: landfills serving the region are filling up and are expected to be completely full within the next 16 to 25 years, according to the Guardian''s account of the situation. Seneca Meadows already receives around 6,000 tons of trash a day, and the site has become the largest single source of methane in the state, making the expansion question both a local quality-of-life dispute and a climate one.'
+lede: The operator of New York's largest active landfill has proposed extending its
+  life for several more decades, seeking to add 47 acres of newly lined disposal cells
+  and raise the trash heap another 70 feet at a site already as tall as the Statue
+  of Liberty. Waste Connections, the Texas-based company that runs the Seneca Meadows
+  landfill in the Finger Lakes region, has filed the expansion plan as New York state
+  authorities decide whether to grant it. Residents of the neighboring towns of Seneca
+  Falls and Waterloo had hoped the landfill would close when its permit expired last
+  year.
+nut_graf: 'The proposal lands as New York confronts shrinking capacity for its own
+  waste: landfills serving the region are filling up and are expected to be completely
+  full within the next 16 to 25 years, according to the Guardian''s account of the
+  situation. Seneca Meadows already receives around 6,000 tons of trash a day, and
+  the site has become the largest single source of methane in the state, making the
+  expansion question both a local quality-of-life dispute and a climate one.'
 primary_entities:
 - Seneca Meadows landfill
 - Waste Connections
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +151,8 @@ cross_article_links:
   strength: 0.5806
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-08-federal-records-identify-almost-200-proposed-or-in-the-works-pipeline-projects
-  headline: Federal records identify almost 200 proposed or in-the-works pipeline projects
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.5977
-- slug: 2026-10-27-minnpost-samples-show-high-lead-levels-at-st-paul-s-largest-homeless-encampment
-  headline: MinnPost samples show high lead levels at St. Paul's largest homeless encampment
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6252
-- slug: 2026-11-04-vermont-s-lake-champlain-cleanup-reaches-35-of-goal-as-algae-blooms-persist
-  headline: Vermont's Lake Champlain cleanup reaches 35% of goal as algae blooms persist
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.576
-- slug: 2026-10-28-environmental-defense-fund-calls-methane-rule-rollback-a-free-pass
-  headline: Environmental Defense Fund calls methane rule rollback a 'free pass'
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5957
-- slug: 2026-10-27-epa-methane-proposal-would-end-leak-identification-program-expand-gas-flaring
-  headline: EPA methane proposal would end leak-identification program, expand gas flaring
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5748
-- slug: 2026-10-15-eu-funded-9-million-pipeon-aims-to-detect-sewer-pipe-problems
-  headline: EU-funded $9 million PIPEON aims to detect sewer pipe problems
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5753
-- slug: 2026-09-19-wm-pilots-remote-controlled-bulldozer-at-arizona-landfill
-  headline: WM pilots remote-controlled bulldozer at Arizona landfill
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5791
-- slug: 2026-09-08-us-datacenters-draw-wastewater-enforcement-across-multiple-states
-  headline: US datacenters draw wastewater enforcement across multiple states
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5954
-- slug: 2026-08-14-new-york-city-weighs-modernization-of-500-million-trash-system
-  headline: New York City weighs modernization of $500 million trash system
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5982
-- slug: 2026-07-27-waste-picker-earns-12-a-day-at-indonesia-s-largest-landfill
-  headline: Waste picker earns $12 a day at Indonesia's largest landfill
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6092
-- slug: 2026-08-12-energy-fuels-to-more-than-double-white-mesa-mill-output-as-tribe-demands-shutdow
-  headline: Energy Fuels to more than double White Mesa Mill output as tribe demands shutdown
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5859
-- slug: 2026-07-10-columbia-falls-aluminum-co-agrees-to-57-6m-epa-cleanup-plan
-  headline: Columbia Falls Aluminum Co. agrees to $57.6M EPA cleanup plan
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.58
-- slug: 2026-06-24-expert-explains-how-to-fix-america-s-100-000-ton-nuclear-waste-crisis
-  headline: Expert Explains How to Fix America's 100,000-Ton Nuclear Waste Crisis
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.582
-- slug: 2026-06-06-new-york-city-struggles-to-curb-dog-waste-as-complaints-rise
-  headline: New York City struggles to curb dog waste as complaints rise
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5852
-- slug: 2026-06-04-louisiana-democrat-demands-transparency-on-proposed-ice-family-detention-center
-  headline: Louisiana Democrat demands transparency on proposed ICE family detention center
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.586
-- slug: 2026-01-23-sewage-pipe-rupture-sends-40-million-gallons-daily-into-potomac
-  headline: Sewage pipe rupture sends 40 million gallons daily into Potomac
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.602
-- slug: 2026-04-26-boston-area-groups-urge-end-to-sewage-discharges-in-waterways
-  headline: Boston-area groups urge end to sewage discharges in waterways
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5898
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  headline: Toxic Tijuana River sewage sickens thousands in California
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5789
-- slug: 2026-05-14-huge-drills-begin-work-on-new-hudson-river-train-tunnel-for-nyc-region
-  headline: Huge drills begin work on new Hudson River train tunnel for NYC-region
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5798
-- slug: 2026-04-22-doj-files-complaint-vs-washington-over-potomac-raw-sewage-spill
-  headline: DOJ files complaint vs Washington over Potomac raw sewage spill
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5858
+related_stories: []
 ---
-
 ## Waste Connections seeks decades more life for Seneca Meadows landfill
 
 **Subtype:** fact
