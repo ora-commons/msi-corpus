@@ -199,6 +199,8 @@ related_stories:
   publish_date: '2026-11-07'
   relation: related
   strength: 0.6749
+analyses:
+- '2026-11-12-kerry-s-cop31-verdict-and-white-house-absence-frame-rival-payoff-claims'
 ---
 ## John Kerry calls Trump the 'biggest loser' on climate as US skips Cop31 talks
 
@@ -239,3 +241,8 @@ Kerry acknowledged the slow pace of progress and said politicians should talk di
 **Publication date:** 2026-11-12
 **Title:** Trump the ‘biggest loser’ for scrapping climate action, John Kerry says at Cop31
 **URL:** https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31
+
+---
+
+<!-- analysis-link:2026-11-12-kerry-s-cop31-verdict-and-white-house-absence-frame-rival-payoff-claims -->
+**Going deeper:** [Read MSI's analysis of Cop31 absence and competing climate frames →](/analyses/2026-11-12-kerry-s-cop31-verdict-and-white-house-absence-frame-rival-payoff-claims)

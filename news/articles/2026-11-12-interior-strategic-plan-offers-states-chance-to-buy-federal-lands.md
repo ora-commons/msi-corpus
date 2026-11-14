@@ -1,9 +1,23 @@
 ---
 headline: Interior strategic plan offers states chance to buy federal lands
-secondary_headline: Conservation groups say plan revives a selloff push from Trump's first term
+secondary_headline: Conservation groups say plan revives a selloff push from Trump's
+  first term
 publish_date: '2026-11-12'
-lede: The U.S. Interior Department released a four-year strategic plan Tuesday that, for the first time, formally states the Trump administration's intention to sell federal lands by offering states, localities and tribes the opportunity to purchase them. The 28-page plan drew immediate criticism from public lands advocates in New Mexico and across the country, who called it another effort by President Donald Trump's administration to initiate mass selloffs of public lands to private interests. Interior Department officials did not respond to Source NM's emailed request for further comment.
-nut_graf: The plan's land-sale language is the first formal announcement of a selloff intention by the administration, and it arrives a week after midterm elections that gave Democrats sizable majorities in both chambers of Congress. Conservationists say congressional opposition and public pressure will determine whether the sales move forward; waves of protests early in Trump's first term contributed to lawmakers excising a similar proposal from the "One Big Beautiful Bill Act" Trump signed last July.
+lede: The U.S. Interior Department released a four-year strategic plan Tuesday that,
+  for the first time, formally states the Trump administration's intention to sell
+  federal lands by offering states, localities and tribes the opportunity to purchase
+  them. The 28-page plan drew immediate criticism from public lands advocates in New
+  Mexico and across the country, who called it another effort by President Donald
+  Trump's administration to initiate mass selloffs of public lands to private interests.
+  Interior Department officials did not respond to Source NM's emailed request for
+  further comment.
+nut_graf: The plan's land-sale language is the first formal announcement of a selloff
+  intention by the administration, and it arrives a week after midterm elections that
+  gave Democrats sizable majorities in both chambers of Congress. Conservationists
+  say congressional opposition and public pressure will determine whether the sales
+  move forward; waves of protests early in Trump's first term contributed to lawmakers
+  excising a similar proposal from the "One Big Beautiful Bill Act" Trump signed last
+  July.
 primary_entities:
 - U.S. Interior Department
 - Doug Burgum
@@ -41,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,103 +159,45 @@ related_stories:
   publish_date: '2026-11-11'
   relation: related
   strength: 0.8471
-- slug: 2026-11-08-trump-administration-seeks-to-rescind-roadless-rule
-  headline: Trump administration seeks to rescind Roadless Rule
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6301
-- slug: 2026-10-06-interior-department-attorney-resigns-alleges-assault-on-rule-of-law
-  headline: Interior Department attorney resigns, alleges 'assault on rule of law'
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6395
-- slug: 2026-09-22-california-and-new-york-sue-trump-administration-over-offshore-wind-lease-buybac
-  headline: California and New York sue Trump administration over offshore wind lease buybacks
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6232
 - slug: 2026-08-28-report-trump-administration-explores-yosemite-land-exchange-with-developer
   headline: 'Report: Trump administration explores Yosemite land exchange with developer'
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6762
+  strength: 0.6765
 - slug: 2026-09-05-trump-executive-order-directs-interior-to-weigh-gray-wolf-de-listing
   headline: Trump executive order directs Interior to weigh gray wolf de-listing
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6587
+  strength: 0.6586
 - slug: 2026-08-26-trump-administration-formally-proposes-rescinding-2001-roadless-rule
   headline: Trump administration formally proposes rescinding 2001 Roadless Rule
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6741
-- slug: 2026-08-18-forest-service-files-proposal-to-scrap-roadless-rule-on-national-forests
-  headline: Forest Service files proposal to scrap roadless rule on national forests
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6448
-- slug: 2026-08-24-colorado-river-plan-could-cut-nevada-s-allocation-by-up-to-71-percent
-  headline: Colorado River plan could cut Nevada's allocation by up to 71 percent
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6313
-- slug: 2026-08-26-trump-announces-90-day-tariff-cut-on-imported-ground-beef
-  headline: Trump announces 90-day tariff cut on imported ground beef
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6232
+  strength: 0.6747
 - slug: 2026-06-29-interior-department-proposes-cutting-cleanup-fees-and-public-input-on-drilling
-  headline: Interior Department proposes cutting cleanup fees and public input on drilling
+  headline: Interior Department proposes cutting cleanup fees and public input on
+    drilling
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6886
+  strength: 0.6893
 - slug: 2026-05-12-interior-department-cancels-conservation-rule-on-public-lands
   headline: Interior Department cancels conservation rule on public lands
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.6967
+  strength: 0.6973
 - slug: 2026-05-12-interior-department-cancels-conservation-rule-on-public-lands-a-key-biden-era-po
-  headline: Interior Department cancels conservation rule on public lands, a key Biden-era policy
+  headline: Interior Department cancels conservation rule on public lands, a key Biden-era
+    policy
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.6882
+  strength: 0.6886
 - slug: 2026-05-10-trump-administration-orders-sweeping-rollback-of-hunting-restrictions-on-public-
-  headline: Trump administration orders sweeping rollback of hunting restrictions on public lands
+  headline: Trump administration orders sweeping rollback of hunting restrictions
+    on public lands
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.6881
-- slug: 2026-06-15-trump-rescinds-nixon-era-limits-on-off-road-vehicles-on-public-lands
-  headline: Trump rescinds Nixon-era limits on off-road vehicles on public lands
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6707
-- slug: 2026-05-10-trump-administration-lifts-hunting-restrictions-in-national-parks-and-refuges
-  headline: Trump administration lifts hunting restrictions in national parks and refuges
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6687
-- slug: 2026-06-05-trump-administration-moves-to-rescind-roadless-rule-protecting-58-million-acres-
-  headline: Trump administration moves to rescind Roadless Rule protecting 58 million acres of national forests
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6537
-- slug: 2026-05-24-trump-administration-expected-to-repeal-roadless-rule-opening-forests-to-logging
-  headline: Trump administration expected to repeal Roadless Rule, opening forests to logging
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6567
-- slug: 2026-06-15-border-wall-land-seizures-threaten-texas-families-in-big-bend
-  headline: Border wall land seizures threaten Texas families in Big Bend
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6385
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6359
+  strength: 0.6882
 ---
-
 ## Interior strategic plan offers states chance to buy federal lands
 
 **Subtype:** fact

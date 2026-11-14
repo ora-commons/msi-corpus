@@ -2,8 +2,14 @@
 headline: Trump keeps defending Huang and Hegseth, Guardian podcast says
 secondary_headline: Freedland asks Glasser about Trump's judgment of prominent men
 publish_date: '2026-11-13'
-lede: The Guardian published a Politics Weekly America podcast episode on Nov. 13, 2026 examining why Donald Trump keeps defending high-profile men who are facing intense scrutiny, including Nvidia chief executive Jensen Huang and Secretary of Defence Pete Hegseth.
-nut_graf: The episode turns on a recurring question of the second Trump term — how the president judges prominent men who come under pressure — and puts it to Susan Glasser of the New Yorker. Its subject matter connects the political fallout around Trump's associates to the scrutiny now surrounding Nvidia's chief executive.
+lede: The Guardian published a Politics Weekly America podcast episode on Nov. 13,
+  2026 examining why Donald Trump keeps defending high-profile men who are facing
+  intense scrutiny, including Nvidia chief executive Jensen Huang and Secretary of
+  Defence Pete Hegseth.
+nut_graf: The episode turns on a recurring question of the second Trump term — how
+  the president judges prominent men who come under pressure — and puts it to Susan
+  Glasser of the New Yorker. Its subject matter connects the political fallout around
+  Trump's associates to the scrutiny now surrounding Nvidia's chief executive.
 primary_entities:
 - Donald Trump
 - Jensen Huang
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -64,104 +71,48 @@ related_stories:
   headline: Nvidia inquiry draws top Republican demands for answers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7791
+  strength: 0.7769
 - slug: 2026-11-12-guardian-podcast-examines-nvidia-chief-executive-s-affair-with-alleged-spy
-  headline: Guardian podcast examines Nvidia chief executive's affair with alleged spy
+  headline: Guardian podcast examines Nvidia chief executive's affair with alleged
+    spy
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7041
+  strength: 0.7013
 - slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
   headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.699
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6961
+  strength: 0.6978
 - slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
   headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
   publish_date: '2026-11-13'
   relation: related
   strength: 0.6875
+- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
+  headline: Nvidia's Huang wins looser China chip rules despite national-security
+    warnings
+  publish_date: '2026-11-12'
+  relation: related
+  strength: 0.6942
 - slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
+  headline: Trump reportedly briefed on Huang intelligence findings before scandal
+    broke
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6944
+  strength: 0.6931
 - slug: 2026-11-13-report-says-trump-was-told-of-huang-spy-link-in-2025-and-chose-not-to-act
-  headline: Report says Trump was told of Huang spy link in 2025 and chose not to act
+  headline: Report says Trump was told of Huang spy link in 2025 and chose not to
+    act
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.683
+  strength: 0.6826
 - slug: 2026-11-11-chip-export-restrictions-sought-by-lawmakers-threaten-nvidia-billions-in-revenue
-  headline: Chip-export restrictions sought by lawmakers threaten Nvidia billions in revenue
+  headline: Chip-export restrictions sought by lawmakers threaten Nvidia billions
+    in revenue
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6952
-- slug: 2026-11-13-johnson-says-congress-nears-consensus-on-tighter-china-chip-controls
-  headline: Johnson says Congress nears consensus on tighter China chip controls
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6791
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6983
-- slug: 2026-11-12-guardian-column-argues-nvidia-scandal-puts-tech-bosses-above-the-rules
-  headline: Guardian column argues Nvidia scandal puts tech bosses above the rules
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.682
-- slug: 2026-11-11-huang-presses-china-chip-access-while-opposing-new-ai-rules
-  headline: Huang presses China chip access while opposing new AI rules
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.688
-- slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board meets on whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6792
-- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6985
-- slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
-  headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7043
-- slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
-  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6958
-- slug: 2026-11-12-warren-and-coons-ask-trump-administration-to-preserve-nvidia-chip-export-records
-  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export records
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6751
-- slug: 2026-11-12-huang-biographer-calls-nvidia-ceo-resignation-a-downfall
-  headline: Huang biographer calls Nvidia CEO resignation a downfall
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6731
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6924
-- slug: 2026-11-11-nvidia-hires-law-firm-over-jensen-huang-s-reported-affair-with-alleged-chinese-s
-  headline: Nvidia hires law firm over Jensen Huang's reported affair with alleged Chinese spy
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6718
+  strength: 0.6955
 ---
-
 ## Trump keeps defending Huang and Hegseth, Guardian podcast says
 
 **Subtype:** fact
