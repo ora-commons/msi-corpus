@@ -1,9 +1,19 @@
 ---
 headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
-secondary_headline: Colette Kress becomes interim Nvidia chief executive after Huang resigns
+secondary_headline: Colette Kress becomes interim Nvidia chief executive after Huang
+  resigns
 publish_date: '2026-11-13'
-lede: Jensen Huang, who resigned as Nvidia's chief executive on Thursday, and US commerce secretary Howard Lutnick are expected to testify before Congress in the coming weeks as fallout from Huang's reported affair with an alleged Chinese spy reverberates across Washington. The resignation and the scandal surrounding it have prompted bipartisan concern about national security and calls for a tougher stance against Beijing.
-nut_graf: Nvidia's advanced AI chips are central to the US effort to keep China from building superior AI systems, so a scandal reaching the company's former chief executive has moved the debate over chip export controls from the margins to the centre of congressional attention. Lawmakers in both parties are now pressing for testimony, classified briefings and new limits on chip sales to China.
+lede: Jensen Huang, who resigned as Nvidia's chief executive on Thursday, and US commerce
+  secretary Howard Lutnick are expected to testify before Congress in the coming weeks
+  as fallout from Huang's reported affair with an alleged Chinese spy reverberates
+  across Washington. The resignation and the scandal surrounding it have prompted
+  bipartisan concern about national security and calls for a tougher stance against
+  Beijing.
+nut_graf: Nvidia's advanced AI chips are central to the US effort to keep China from
+  building superior AI systems, so a scandal reaching the company's former chief executive
+  has moved the debate over chip export controls from the margins to the centre of
+  congressional attention. Lawmakers in both parties are now pressing for testimony,
+  classified briefings and new limits on chip sales to China.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +155,45 @@ related_stories:
   headline: Jensen Huang resigns as Nvidia CEO after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8687
+  strength: 0.8688
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
   headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8581
+  strength: 0.8576
 - slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
   headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8494
+  strength: 0.8492
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
   headline: Nvidia CEO Jensen Huang resigns after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8484
+  strength: 0.8486
 - slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
   headline: Nvidia board meets on whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8435
+  strength: 0.8436
 - slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
+  headline: Trump reportedly briefed on Huang intelligence findings before scandal
+    broke
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8328
+  strength: 0.832
 - slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
+  headline: Nvidia's Huang wins looser China chip rules despite national-security
+    warnings
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8317
+  strength: 0.8318
 - slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
   headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.852
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8359
-- slug: 2026-11-12-white-house-advisers-blame-commerce-secretary-lutnick-for-nvidia-fallout
-  headline: White House advisers blame Commerce Secretary Lutnick for Nvidia fallout
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8198
-- slug: 2026-11-13-johnson-says-congress-nears-consensus-on-tighter-china-chip-controls
-  headline: Johnson says Congress nears consensus on tighter China chip controls
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8122
-- slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8155
-- slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
-  headline: Nvidia board investigates CEO Jensen Huang as shares tumble
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.834
-- slug: 2026-11-12-warren-and-coons-ask-trump-administration-to-preserve-nvidia-chip-export-records
-  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export records
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8129
-- slug: 2026-11-13-rival-chipmakers-gain-as-huang-departure-rattles-nvidia
-  headline: Rival chipmakers gain as Huang departure rattles Nvidia
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8055
-- slug: 2026-11-12-nvidia-names-cfo-colette-kress-interim-ceo-after-jensen-huang-resigns
-  headline: Nvidia names CFO Colette Kress interim CEO after Jensen Huang resigns
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8102
-- slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
-  headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8198
-- slug: 2026-11-11-nvidia-hires-law-firm-over-jensen-huang-s-reported-affair-with-alleged-chinese-s
-  headline: Nvidia hires law firm over Jensen Huang's reported affair with alleged Chinese spy
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.8051
-- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8178
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8233
+  strength: 0.8506
 ---
-
 ## Jensen Huang and Lutnick to face Congress over Nvidia security fears
 
 **Subtype:** fact

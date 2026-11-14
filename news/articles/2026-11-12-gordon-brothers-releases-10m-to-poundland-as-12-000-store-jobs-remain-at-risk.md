@@ -184,6 +184,8 @@ related_stories:
   publish_date: '2026-10-30'
   relation: related
   strength: 0.7831
+analyses:
+- '2026-11-12-gordon-brothers-holds-poundland-s-cash-and-first-claim-in-administration'
 ---
 ## Gordon Brothers releases £10m to Poundland as 12,000 store jobs remain at risk
 
@@ -231,3 +233,8 @@ For now, Jim and his colleagues are serving customers and waiting another two we
 **Publication date:** 2026-11-12
 **Title:** Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour
+
+---
+
+<!-- analysis-link:2026-11-12-gordon-brothers-holds-poundland-s-cash-and-first-claim-in-administration -->
+**Going deeper:** [Read MSI's analysis of Poundland's funding cascade and reform →](/analyses/2026-11-12-gordon-brothers-holds-poundland-s-cash-and-first-claim-in-administration)
