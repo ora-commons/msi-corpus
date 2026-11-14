@@ -56,7 +56,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -255,3 +255,10 @@ Matthews said he planned to issue a written ruling within a day of Tuesday's hea
 **Publication date:** 2026-11-11
 **Title:** Judge weighs lawsuit over absentee ballot data in Alaska Senate race
 **URL:** https://apnews.com/article/alaska-senate-peltola-absentee-ballots-sullivan-dc7110f40b7c466a3beaafd1034e11eb
+
+### src_late_37a8d8833e7c4b33 — Associated Press, wire, Tier 1, originating
+**Author:** Becky Bohrer, Associated Press
+**Publication date:** 2026-11-11
+**Title:** Judge weighs lawsuit brought by Peltola campaign over absentee ballots in Alaska's Senate race
+**URL:** https://www.pbs.org/newshour/politics/judge-weighs-lawsuit-brought-by-peltola-campaign-over-absentee-ballots-in-alaskas-us-senate-race
+**Added after publication:** true
