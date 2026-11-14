@@ -2,8 +2,17 @@
 headline: Federal voter-fraud probes of California counties continue after election
 secondary_headline: Court rulings curb the administration's voter-roll drive
 publish_date: '2026-11-13'
-lede: The Trump administration's search for noncitizen voting did not end with Election Day. The Justice Department has dropped its lawsuit against California over ballots cast by voters whose citizenship was unverified, but grand jury subpoenas sent to several California counties in the days before Nov. 3 remain outstanding, and Attorney General Todd Blanche said Thursday that election-integrity investigations will continue.
-nut_graf: The dispute is a test of how far the federal government can go in pressing states over voter rolls after a string of court losses. Two federal judges in Washington, D.C., have already ruled against core parts of the administration's program, a federal judge's planned accuracy proceeding will not occur now that the lawsuit is dropped, and data experts say the federal list of 20,000 "likely" noncitizens in California contains substantial errors.
+lede: The Trump administration's search for noncitizen voting did not end with Election
+  Day. The Justice Department has dropped its lawsuit against California over ballots
+  cast by voters whose citizenship was unverified, but grand jury subpoenas sent to
+  several California counties in the days before Nov. 3 remain outstanding, and Attorney
+  General Todd Blanche said Thursday that election-integrity investigations will continue.
+nut_graf: The dispute is a test of how far the federal government can go in pressing
+  states over voter rolls after a string of court losses. Two federal judges in Washington,
+  D.C., have already ruled against core parts of the administration's program, a federal
+  judge's planned accuracy proceeding will not occur now that the lawsuit is dropped,
+  and data experts say the federal list of 20,000 "likely" noncitizens in California
+  contains substantial errors.
 primary_entities:
 - Trump administration
 - Department of Justice
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,116 +154,63 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-13-federal-voter-fraud-probes-of-california-counties-continue-after-election.png
-  alt: 'Illustration accompanying article: Federal voter-fraud probes of California counties continue after election'
+  alt: 'Illustration accompanying article: Federal voter-fraud probes of California
+    counties continue after election'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-03-justice-department-argues-20-000-disputed-california-ballots-could-dilute-votes
-  headline: Justice Department argues 20,000 disputed California ballots could dilute votes
+  headline: Justice Department argues 20,000 disputed California ballots could dilute
+    votes
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8006
+  strength: 0.8018
 - slug: 2026-10-24-california-registrars-face-48-hour-doj-deadline-over-suspected-noncitizen-ballot
-  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen ballots
+  headline: California registrars face 48-hour DOJ deadline over suspected noncitizen
+    ballots
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8542
+  strength: 0.8548
 - slug: 2026-10-30-judge-orders-trump-administration-to-turn-over-disputed-california-voter-list
-  headline: Judge orders Trump administration to turn over disputed California voter list
+  headline: Judge orders Trump administration to turn over disputed California voter
+    list
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8205
+  strength: 0.8217
 - slug: 2026-10-29-justice-department-appeals-ruling-on-california-s-disputed-ballots
   headline: Justice Department appeals ruling on California's disputed ballots
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8099
+  strength: 0.8109
 - slug: 2026-11-03-early-voting-advances-as-trump-administration-pressures-state-elections
   headline: Early voting advances as Trump administration pressures state elections
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7787
+  strength: 0.7788
 - slug: 2026-10-31-federal-judge-bars-doj-from-pressuring-election-workers-on-ballots
   headline: Federal judge bars DOJ from pressuring election workers on ballots
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7919
+  strength: 0.7932
 - slug: 2026-10-26-monthslong-california-voter-roll-dispute-precedes-doj-emergency-request
   headline: Monthslong California voter-roll dispute precedes DOJ emergency request
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8129
+  strength: 0.8142
 - slug: 2026-11-02-supreme-court-rejects-bid-to-segregate-and-not-count-disputed-california-ballots
-  headline: Supreme Court rejects bid to segregate and not count disputed California ballots
+  headline: Supreme Court rejects bid to segregate and not count disputed California
+    ballots
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7732
-- slug: 2026-11-01-justice-department-defends-california-voter-list-suggests-contempt-inquiry
-  headline: Justice Department defends California voter list, suggests contempt inquiry
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7775
-- slug: 2026-10-25-california-leaders-challenge-federal-review-of-suspected-noncitizen-ballots
-  headline: California leaders challenge federal review of suspected noncitizen ballots
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.8151
-- slug: 2026-10-29-federal-judge-rejects-doj-bid-to-segregate-california-ballots-over-citizenship
-  headline: Federal judge rejects DOJ bid to segregate California ballots over citizenship
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7886
-- slug: 2026-10-31-ucla-analysis-finds-42-of-doj-flagged-california-voter-names-missing-from-rolls
-  headline: UCLA analysis finds 42% of DOJ-flagged California voter names missing from rolls
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.7768
-- slug: 2026-10-26-justice-department-asks-washington-to-hold-ballots-from-suspected-noncitizens
-  headline: Justice Department asks Washington to hold ballots from suspected noncitizens
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8038
-- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
-  headline: Justice Department asks Washington to set aside ballots from suspected noncitizens
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7829
-- slug: 2026-10-26-ninth-circuit-denies-doj-request-to-block-disputed-mail-ballots-in-california
-  headline: Ninth Circuit denies DOJ request to block disputed mail ballots in California
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7867
-- slug: 2026-10-26-california-ballot-dispute-reaches-9th-circuit
-  headline: California ballot dispute reaches 9th Circuit
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7832
-- slug: 2026-10-28-federal-judge-says-doj-lost-all-26-voter-cases-cut-nevada-claim-to-185
-  headline: Federal judge says DOJ lost all 26 voter cases, cut Nevada claim to 185
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.771
-- slug: 2026-10-24-california-election-officials-question-doj-voter-list-keep-counting
-  headline: California election officials question DOJ voter list, keep counting
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7889
-- slug: 2026-10-26-9th-circuit-declines-expedited-ruling-in-doj-california-ballot-case
-  headline: 9th Circuit declines expedited ruling in DOJ California ballot case
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7723
-- slug: 2026-10-22-federal-judge-orders-pause-to-noncitizen-voting-probes-in-nine-states
-  headline: Federal judge orders pause to noncitizen-voting probes in nine states
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7871
+  strength: 0.7747
 ---
-
 ## Federal voter-fraud probes of California counties continue after election
 
 **Subtype:** fact
