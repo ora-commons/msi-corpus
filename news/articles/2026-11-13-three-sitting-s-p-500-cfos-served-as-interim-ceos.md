@@ -1,9 +1,22 @@
 ---
 headline: Three sitting S&P 500 CFOs served as interim CEOs
-secondary_headline: 'Equilar data: all three finance chiefs returned to their prior roles'
+secondary_headline: 'Equilar data: all three finance chiefs returned to their prior
+  roles'
 publish_date: '2026-11-13'
-lede: Three sitting finance chiefs at S&P 500 companies — Intel's David Zinsner, Lululemon's Meghan Frank and PayPal's Jamie Miller — have served as interim chief executives at their own companies and returned to their prior roles once a successor was hired, according to Equilar, a data provider, The Wall Street Journal reported. The pattern now extends to Nvidia, where finance chief Colette Kress took the reins Thursday as interim chief executive after the resignation of Jensen Huang. Peter Crist, chairman of executive-recruitment firm Crist Kolder Associates, said many public companies with no immediate successor "would view the CFO as an automatic interim, particularly in a crisis situation."
-nut_graf: 'The elevation of Nvidia''s finance chief highlights a key part of the CFO role at big companies: serving as a temporary chief executive in an emergency, the Journal reported. Kress joined Nvidia in 2013 after senior finance roles at Cisco, Microsoft and Texas Instruments, and Nvidia''s board has begun searching for a new chief executive.'
+lede: Three sitting finance chiefs at S&P 500 companies — Intel's David Zinsner, Lululemon's
+  Meghan Frank and PayPal's Jamie Miller — have served as interim chief executives
+  at their own companies and returned to their prior roles once a successor was hired,
+  according to Equilar, a data provider, The Wall Street Journal reported. The pattern
+  now extends to Nvidia, where finance chief Colette Kress took the reins Thursday
+  as interim chief executive after the resignation of Jensen Huang. Peter Crist, chairman
+  of executive-recruitment firm Crist Kolder Associates, said many public companies
+  with no immediate successor "would view the CFO as an automatic interim, particularly
+  in a crisis situation."
+nut_graf: 'The elevation of Nvidia''s finance chief highlights a key part of the CFO
+  role at big companies: serving as a temporary chief executive in an emergency, the
+  Journal reported. Kress joined Nvidia in 2013 after senior finance roles at Cisco,
+  Microsoft and Texas Instruments, and Nvidia''s board has begun searching for a new
+  chief executive.'
 primary_entities:
 - Colette Kress
 - Nvidia
@@ -40,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +156,43 @@ related_stories:
   headline: Nvidia names CFO Colette Kress interim CEO after Jensen Huang resigns
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7731
+  strength: 0.773
 - slug: 2026-11-12-nvidia-begins-search-for-new-ceo-after-jensen-huang-resigns
   headline: Nvidia begins search for new CEO after Jensen Huang resigns
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7627
+  strength: 0.7614
 - slug: 2026-11-13-huang-privately-called-kress-a-deer-in-the-headlights-as-she-takes-over
   headline: Huang privately called Kress 'a deer in the headlights' as she takes over
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7393
+  strength: 0.7384
 - slug: 2026-11-13-rival-chipmakers-gain-as-huang-departure-rattles-nvidia
   headline: Rival chipmakers gain as Huang departure rattles Nvidia
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7217
+  strength: 0.7216
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-cfo-colette-kress-named-interim-chief
   headline: Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim chief
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.719
+  strength: 0.7175
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
   headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7058
+  strength: 0.705
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
   headline: Nvidia CEO Jensen Huang resigns after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7013
+  strength: 0.7007
 - slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
   headline: Jensen Huang resigns as Nvidia CEO after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.697
-- slug: 2026-11-13-lawmakers-ask-when-lutnick-learned-of-huang-s-contact-with-suspected-chinese-ass
-  headline: Lawmakers ask when Lutnick learned of Huang's contact with suspected Chinese asset
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6849
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
-  headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6888
-- slug: 2026-11-13-asian-shares-mixed-after-jensen-huang-resigns-as-nvidia-chief
-  headline: Asian shares mixed after Jensen Huang resigns as Nvidia chief
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6719
-- slug: 2026-11-12-huang-biographer-calls-nvidia-ceo-resignation-a-downfall
-  headline: Huang biographer calls Nvidia CEO resignation a downfall
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6619
-- slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
-  headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6532
-- slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6522
-- slug: 2026-11-11-nvidia-hires-law-firm-over-jensen-huang-s-reported-affair-with-alleged-chinese-s
-  headline: Nvidia hires law firm over Jensen Huang's reported affair with alleged Chinese spy
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6484
-- slug: 2026-11-13-report-says-huang-exit-could-bring-nvidia-shareholder-suits-and-tech-sector-regu
-  headline: Report says Huang exit could bring Nvidia shareholder suits and tech-sector regulatory pressure
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6333
-- slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board meets on whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6375
-- slug: 2026-11-10-nvidia-has-no-succession-plan-as-huang-s-future-rests-with-its-board
-  headline: Nvidia has no succession plan as Huang's future rests with its board
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6511
-- slug: 2026-11-11-corporate-boards-adapt-governance-as-ai-changes-strategy-and-risk
-  headline: Corporate boards adapt governance as AI changes strategy and risk
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.632
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6483
+  strength: 0.6973
 ---
-
 ## Three sitting S&P 500 CFOs served as interim CEOs
 
 **Subtype:** fact**
