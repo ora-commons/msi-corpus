@@ -65,7 +65,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -202,3 +202,10 @@ Leah Foley, the U.S. attorney for Massachusetts, said in an interview with The A
 **Publication date:** 2026-11-13
 **Title:** Justice Department faces new scrutiny in a Democratic Congress
 **URL:** https://apnews.com/article/justice-department-congress-fbi-trump-e121c4420d0010b9ba7e8003407d304a
+
+### src_late_7074016612d8d757 — Associated Press, wire, Tier 1, originating
+**Author:** Eric Tucker, Associated Press, Alanna Durkin Richer, Associated Press
+**Publication date:** 2026-11-13
+**Title:** Trump's Justice Department faces a new era of scrutiny under a Democratic-led Congress
+**URL:** https://www.pbs.org/newshour/politics/trumps-justice-department-faces-a-new-era-of-scrutiny-under-a-democratic-led-congress
+**Added after publication:** true

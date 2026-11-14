@@ -1,9 +1,18 @@
 ---
-headline: Kushner says Russia agrees to include Europe in talks as Ukraine fires almost 1,200 drones
-secondary_headline: Zelenskyy says Starshield speed limits cap Ukrainian drones at 161 kph
+headline: Kushner says Russia agrees to include Europe in talks as Ukraine fires almost
+  1,200 drones
+secondary_headline: Zelenskyy says Starshield speed limits cap Ukrainian drones at
+  161 kph
 publish_date: '2026-11-13'
-lede: Ukraine fired almost 1,200 drones at Russian targets overnight in one of its biggest aerial attacks since Moscow's invasion nearly five years ago. Russia's Defense Ministry said air defenses downed 1,198 Ukrainian long-range drones between late Thursday and early Friday, and strikes on three Russian regions killed seven people, including a 12-year-old, and wounded 17, local officials said.
-nut_graf: The inclusion of wider European security arrangements in the U.S.-led negotiations — a change long sought by Moscow — has alarmed European leaders and, the AP reported, placed a question mark over NATO's future role. Kaja Kallas, the EU's top diplomat, said Europe must insist on a ceasefire before the talks go further.
+lede: Ukraine fired almost 1,200 drones at Russian targets overnight in one of its
+  biggest aerial attacks since Moscow's invasion nearly five years ago. Russia's Defense
+  Ministry said air defenses downed 1,198 Ukrainian long-range drones between late
+  Thursday and early Friday, and strikes on three Russian regions killed seven people,
+  including a 12-year-old, and wounded 17, local officials said.
+nut_graf: The inclusion of wider European security arrangements in the U.S.-led negotiations
+  — a change long sought by Moscow — has alarmed European leaders and, the AP reported,
+  placed a question mark over NATO's future role. Kaja Kallas, the EU's top diplomat,
+  said Europe must insist on a ceasefire before the talks go further.
 primary_entities:
 - Volodymyr Zelenskyy
 - Vladimir Putin
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,24 +158,29 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-13-kushner-says-russia-agrees-to-include-europe-in-talks-as-ukraine-fires-almost-1-.png
-  alt: 'Illustration accompanying article: Kushner says Russia agrees to include Europe in talks as Ukraine fires almost 1,200 drones'
+  alt: 'Illustration accompanying article: Kushner says Russia agrees to include Europe
+    in talks as Ukraine fires almost 1,200 drones'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-10-russia-and-ukraine-trade-overnight-drone-strikes-as-abu-dhabi-talks-open
   headline: Russia and Ukraine trade overnight drone strikes as Abu Dhabi talks open
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8412
+  strength: 0.8414
 - slug: 2026-11-12-us-envoys-meet-putin-in-kremlin-after-abu-dhabi-talks-yield-prisoner-swap-deal
-  headline: US envoys meet Putin in Kremlin after Abu Dhabi talks yield prisoner swap deal
+  headline: US envoys meet Putin in Kremlin after Abu Dhabi talks yield prisoner swap
+    deal
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7937
+  strength: 0.7935
 - slug: 2026-11-12-two-hour-kremlin-meeting-precedes-us-envoys-dublin-session-with-zelenskyy
   headline: Two-hour Kremlin meeting precedes US envoys' Dublin session with Zelenskyy
   publish_date: '2026-11-12'
@@ -175,89 +190,28 @@ related_stories:
   headline: EU leaders decline to nominate a single negotiator for Ukraine talks
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7746
+  strength: 0.775
 - slug: 2026-10-15-ukraine-strikes-russian-oil-refinery-after-zelenskyy-says-truce-is-over
   headline: Ukraine strikes Russian oil refinery after Zelenskyy says truce is over
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7661
+  strength: 0.7654
 - slug: 2026-09-15-russia-fires-200-drones-at-ukraine-hours-after-trump-energy-truce-claim
   headline: Russia fires 200 drones at Ukraine hours after Trump energy truce claim
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7871
+  strength: 0.7869
 - slug: 2026-09-13-russian-drone-strikes-kyiv-warsaw-passenger-train-near-polish-border
   headline: Russian drone strikes Kyiv-Warsaw passenger train near Polish border
   publish_date: '2026-09-13'
   relation: related
-  strength: 0.7688
+  strength: 0.769
 - slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
   headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.8451
-- slug: 2026-05-14-russia-fires-800-drones-at-ukraine-in-massive-daytime-attack-killing-six
-  headline: Russia fires 800 drones at Ukraine in massive daytime attack, killing six
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.8175
-- slug: 2026-05-16-ukrainian-drones-strike-russia-killing-4-and-wounding-a-dozen-officials-say
-  headline: Ukrainian drones strike Russia, killing 4 and wounding a dozen, officials say
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7895
-- slug: 2026-03-27-iran-war-deflects-attention-as-emboldened-russia-begins-spring-offensive
-  headline: Iran war deflects attention as emboldened Russia begins spring offensive
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7998
-- slug: 2026-05-16-ukraine-drones-kill-4-wound-12-in-one-of-largest-strikes-on-moscow-area
-  headline: Ukraine drones kill 4, wound 12 in one of largest strikes on Moscow area
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7793
-- slug: 2026-02-13-russia-launches-barrage-of-missiles-and-drones-in-ukraine-as-talks-stall
-  headline: Russia launches barrage of missiles and drones in Ukraine as talks stall
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7955
-- slug: 2026-05-15-russia-flattens-kyiv-apartment-block-in-third-straight-day-of-mass-strikes-killi
-  headline: Russia flattens Kyiv apartment block in third straight day of mass strikes, killing 9
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7786
-- slug: 2026-05-06-russian-strikes-kill-22-in-ukraine-before-temporary-ceasefire-takes-effect
-  headline: Russian strikes kill 22 in Ukraine before temporary ceasefire takes effect
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7776
-- slug: 2026-06-02-russia-kills-18-in-third-massive-kyiv-attack-in-three-weeks-as-front-stalls
-  headline: Russia kills 18 in third massive Kyiv attack in three weeks as front stalls
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.7672
-- slug: 2026-05-08-ukraine-launches-major-drone-attack-on-russia-ahead-of-victory-day-parade
-  headline: Ukraine launches major drone attack on Russia ahead of Victory Day parade
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7767
-- slug: 2026-05-15-russia-launches-third-straight-day-of-drone-and-missile-attacks-on-ukraine
-  headline: Russia launches third straight day of drone and missile attacks on Ukraine
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7744
-- slug: 2026-02-04-russia-launches-major-drone-and-missile-attack-on-ukraine-overnight
-  headline: Russia launches major drone and missile attack on Ukraine overnight
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.783
-- slug: 2026-02-16-ukrainian-drones-ignite-fires-at-russia-port-before-geneva-peace-talks
-  headline: Ukrainian drones ignite fires at Russia port before Geneva peace talks
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.78
+  strength: 0.8456
 ---
-
 ## Kushner says Russia agrees to include Europe in talks as Ukraine fires almost 1,200 drones
 
 **Subtype:** fact
