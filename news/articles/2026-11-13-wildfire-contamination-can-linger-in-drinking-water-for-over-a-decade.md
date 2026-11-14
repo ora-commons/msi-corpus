@@ -54,7 +54,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -260,3 +260,10 @@ Romero said the town has been working on other sources of water: "We've been doi
 **Publication date:** 2026-11-13
 **Title:** Wildfires can contaminate drinking water in streams and rivers for over a decade
 **URL:** https://apnews.com/article/wildfires-drinking-water-contamination-7b99f1b2657c4b9d6ac3d6e07dcf8cbc
+
+### src_late_9a0a5c6482c3f15a — Associated Press, wire, Tier 1, originating
+**Author:** Martha Bellisle, Associated Press
+**Publication date:** 2026-11-13
+**Title:** Bigger and more-frequent wildfires threaten water supplies across the U.S.
+**URL:** https://www.pbs.org/newshour/nation/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-u-s
+**Added after publication:** true
