@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-04-24'
   relation: related
   strength: 0.6756
+analyses:
+- '2026-11-12-five-state-request-sets-who-shapes-canadian-offshore-wind-answers'
 ---
 ## Massachusetts opens offshore wind request with Nova Scotia
 
@@ -242,3 +244,8 @@ The request follows the memorandum of understanding that Healey and Houston sign
 **Publication date:** 2026-11-12
 **Title:** Healey takes next step in bid to get in on Canadian offshore wind
 **URL:** https://www.newsfromthestates.com/article/healey-takes-next-step-bid-get-canadian-offshore-wind
+
+---
+
+<!-- analysis-link:2026-11-12-five-state-request-sets-who-shapes-canadian-offshore-wind-answers -->
+**Going deeper:** [Read MSI's analysis of the Nova Scotia offshore wind request →](/analyses/2026-11-12-five-state-request-sets-who-shapes-canadian-offshore-wind-answers)
