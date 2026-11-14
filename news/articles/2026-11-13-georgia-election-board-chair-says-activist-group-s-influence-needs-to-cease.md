@@ -1,9 +1,23 @@
 ---
 headline: Georgia election board chair says activist group's influence 'needs to cease'
-secondary_headline: Recordings show current and former Georgia board members worked with Mitchell's network
+secondary_headline: Recordings show current and former Georgia board members worked
+  with Mitchell's network
 publish_date: '2026-11-13'
-lede: Members of Georgia's State Election Board and much of its professional staff coordinated with the Election Integrity Network, an activist group led by conservative attorney Cleta Mitchell, in the run-up to last week's midterms, according to ProPublica. Recordings of private calls and events reviewed by ProPublica show current and former board members working with the network and allied organizations on shared priorities. Board Chair John Fervier said the network's "undue influence" over the board "needs to cease," and he has called a special meeting for Friday, in part to discuss personnel matters.
-nut_graf: The board sets the swing state's election rules, oversees the conduct of its election officials and investigates allegations of fraud. Experts said the network's close ties to the board and its staff have given it extraordinary influence over how elections are run in Georgia, including the board's help getting counties to remove voters from their rolls based on information from ELLY, a voter-roll tool the network's allies promote. The ties carry added weight after Democrats wrested control of all statewide offices and the state House in last week's election.
+lede: Members of Georgia's State Election Board and much of its professional staff
+  coordinated with the Election Integrity Network, an activist group led by conservative
+  attorney Cleta Mitchell, in the run-up to last week's midterms, according to ProPublica.
+  Recordings of private calls and events reviewed by ProPublica show current and former
+  board members working with the network and allied organizations on shared priorities.
+  Board Chair John Fervier said the network's "undue influence" over the board "needs
+  to cease," and he has called a special meeting for Friday, in part to discuss personnel
+  matters.
+nut_graf: The board sets the swing state's election rules, oversees the conduct of
+  its election officials and investigates allegations of fraud. Experts said the network's
+  close ties to the board and its staff have given it extraordinary influence over
+  how elections are run in Georgia, including the board's help getting counties to
+  remove voters from their rolls based on information from ELLY, a voter-roll tool
+  the network's allies promote. The ties carry added weight after Democrats wrested
+  control of all statewide offices and the state House in last week's election.
 primary_entities:
 - Georgia State Election Board
 - Election Integrity Network
@@ -38,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,10 +152,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-11-forsyth-county-election-board-rejects-challenge-claiming-four-voters-were-dead
-  headline: Forsyth County election board rejects challenge claiming four voters were dead
+  headline: Forsyth County election board rejects challenge claiming four voters were
+    dead
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6965
+  strength: 0.6964
 - slug: 2026-11-12-records-show-wyoming-secretary-of-state-worked-closely-with-cleta-mitchell
   headline: Records show Wyoming secretary of state worked closely with Cleta Mitchell
   publish_date: '2026-11-12'
@@ -150,94 +166,13 @@ related_stories:
   headline: Princeton researcher shows AI can link Georgia voters to their ballots
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6997
-- slug: 2026-10-15-georgia-swing-voters-regret-2024-trump-vote-eye-democratic-midterms
-  headline: Georgia swing voters regret 2024 Trump vote, eye Democratic midterms
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6356
+  strength: 0.6995
 - slug: 2026-10-06-election-deniers-revive-fraud-claims-before-midterms
   headline: Election deniers revive fraud claims before midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6612
-- slug: 2026-09-21-trump-gop-candidates-persist-with-2020-election-claims-as-voters-urge-moving-on
-  headline: Trump, GOP candidates persist with 2020 election claims as voters urge moving on
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.62
-- slug: 2026-06-14-georgia-lawmakers-seek-fix-for-banned-vote-counting-method-in-special-session
-  headline: Georgia lawmakers seek fix for banned vote-counting method in special session
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6336
-- slug: 2026-02-05-legal-fight-escalates-in-georgia-over-fbi-held-2020-election-records
-  headline: Legal fight escalates in Georgia over FBI-held 2020 election records
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6476
-- slug: 2026-05-14-georgia-governor-signs-law-removing-party-labels-from-atlanta-area-elections
-  headline: Georgia governor signs law removing party labels from Atlanta-area elections
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6298
-- slug: 2026-06-22-georgia-lawmakers-battle-over-hand-count-mandate-in-special-session
-  headline: Georgia lawmakers battle over hand-count mandate in special session
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6111
-- slug: 2026-04-04-outrage-over-ai-data-centers-could-aid-georgia-democrats-in-2026
-  headline: Outrage over AI data centers could aid Georgia Democrats in 2026
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6378
-- slug: 2026-06-16-judge-in-georgia-election-records-case-recuses-herself
-  headline: Judge in Georgia election records case recuses herself
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6095
-- slug: 2026-05-14-kemp-signs-georgia-bill-making-most-atlanta-area-elections-nonpartisan
-  headline: Kemp signs Georgia bill making most Atlanta-area elections nonpartisan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.624
-- slug: 2026-04-04-georgia-lawmakers-end-session-without-voting-machine-plan-for-2026
-  headline: Georgia lawmakers end session without voting-machine plan for 2026
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6283
-- slug: 2026-05-06-justice-department-seeks-names-of-2020-fulton-county-election-workers
-  headline: Justice Department seeks names of 2020 Fulton County election workers
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6209
-- slug: 2026-01-06-georgia-sets-march-10-special-election-for-greene-s-former-seat
-  headline: Georgia sets March 10 special election for Greene's former seat
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6313
-- slug: 2026-01-30-fbi-seizes-georgia-ballots-reinforcing-trump-s-2020-election-grievance
-  headline: FBI seizes Georgia ballots, reinforcing Trump’s 2020 election grievance
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6288
-- slug: 2026-03-29-georgia-gop-pushes-nonpartisan-elections-for-key-atlanta-county-offices
-  headline: Georgia GOP pushes nonpartisan elections for key Atlanta county offices
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6184
-- slug: 2026-03-27-spanberger-orders-virginia-back-into-eric-as-voting-roll-changes-tighten
-  headline: Spanberger orders Virginia back into ERIC as voting-roll changes tighten
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6183
-- slug: 2026-01-08-fulton-county-commissioner-dana-barrett-enters-georgia-secretary-of-state-race
-  headline: Fulton County commissioner Dana Barrett enters Georgia secretary of state race
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6205
+  strength: 0.6606
 ---
-
 ## Georgia election board chair says activist group's influence 'needs to cease'
 
 **Subtype:** fact
