@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.7484
+analyses:
+- '2026-11-13-sanders-recasts-senate-leadership-race-as-a-funding-model-choice'
 ---
 ## Sanders frames Senate Democratic leadership race as a fight over party's future
 
@@ -246,3 +248,8 @@ On foreign policy, Sanders wrote that "the wars in Vietnam, Iraq and the current
 **Publication date:** 2026-11-13
 **Title:** What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader
+
+---
+
+<!-- analysis-link:2026-11-13-sanders-recasts-senate-leadership-race-as-a-funding-model-choice -->
+**Going deeper:** [Read MSI's analysis of Schumer and Van Hollen leadership contest →](/analyses/2026-11-13-sanders-recasts-senate-leadership-race-as-a-funding-model-choice)

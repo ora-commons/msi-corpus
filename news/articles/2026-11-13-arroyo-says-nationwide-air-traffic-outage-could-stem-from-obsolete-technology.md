@@ -116,6 +116,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.7013
+analyses:
+- '2026-11-13-officials-trace-nationwide-grounding-to-a-shared-communications-layer'
 ---
 ## Arroyo says nationwide air traffic outage could stem from obsolete technology
 
@@ -157,3 +159,8 @@ Associated Press journalist Mead Gruver contributed to this report from Fort Col
 **Publication date:** 2026-11-13
 **Title:** FAA suspende vuelos en todo EEUU debido a problemas de comunicación del control de tráfico aéreo
 **URL:** https://apnews.com/article/eeuu-vuelos-aeropuertos-suspendidos-15cd6e70aa3fa65488184acaa1a72ad2
+
+---
+
+<!-- analysis-link:2026-11-13-officials-trace-nationwide-grounding-to-a-shared-communications-layer -->
+**Going deeper:** [Read MSI's analysis of the nationwide air traffic outage →](/analyses/2026-11-13-officials-trace-nationwide-grounding-to-a-shared-communications-layer)

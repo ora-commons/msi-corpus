@@ -1,12 +1,22 @@
 ---
 headline: India sets 900-gigawatt clean power goal for 2035, approves grid upgrades
-secondary_headline: Over 16 months, India curtailed enough solar generation for about 10 million homes
+secondary_headline: Over 16 months, India curtailed enough solar generation for about
+  10 million homes
 publish_date: '2026-11-14'
-lede: 'With the United Nations climate talks underway, India has set a goal of installing enough clean power to supply more than 1 billion homes by 2035 and has approved nearly $20 billion in power grid upgrades to ease bottlenecks that prevent some solar and wind energy from reaching consumers.
+lede: 'With the United Nations climate talks underway, India has set a goal of installing
+  enough clean power to supply more than 1 billion homes by 2035 and has approved
+  nearly $20 billion in power grid upgrades to ease bottlenecks that prevent some
+  solar and wind energy from reaching consumers.
 
 
-  India, the world''s most populous country and one of the biggest carbon polluters, is also among the fastest to expand clean power. Accelerating the shift away from fossil fuels is a key goal of this year''s climate talks, known as COP31, in Turkey.'
-nut_graf: Meeting India's 2035 clean-power target requires more than building power plants, because their electricity must reach consumers through transmission infrastructure that remains inadequate. India is also one of the biggest carbon polluters, and coal still generated about 71% of its electricity in 2025, at a time when accelerating the shift away from fossil fuels is a key goal of this year's climate talks in Turkey.
+  India, the world''s most populous country and one of the biggest carbon polluters,
+  is also among the fastest to expand clean power. Accelerating the shift away from
+  fossil fuels is a key goal of this year''s climate talks, known as COP31, in Turkey.'
+nut_graf: Meeting India's 2035 clean-power target requires more than building power
+  plants, because their electricity must reach consumers through transmission infrastructure
+  that remains inadequate. India is also one of the biggest carbon polluters, and
+  coal still generated about 71% of its electricity in 2025, at a time when accelerating
+  the shift away from fossil fuels is a key goal of this year's climate talks in Turkey.
 primary_entities:
 - India
 - Nikit Abhyankar
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +156,44 @@ related_stories:
   headline: Outdated power grids threaten renewable energy expansion
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7453
+  strength: 0.7436
 - slug: 2026-11-10-five-countries-back-plan-to-double-homes-with-rooftop-solar-by-2030
   headline: Five countries back plan to double homes with rooftop solar by 2030
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7285
+  strength: 0.7283
 - slug: 2026-11-12-turkey-rallies-world-leaders-behind-goal-to-electrify-35-of-energy-use-by-2035
-  headline: Turkey rallies world leaders behind goal to electrify 35% of energy use by 2035
+  headline: Turkey rallies world leaders behind goal to electrify 35% of energy use
+    by 2035
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7117
+  strength: 0.7113
 - slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
   headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7369
+  strength: 0.7361
 - slug: 2026-11-11-erdogan-urges-countries-to-adopt-zero-waste-goals-at-cop31
   headline: Erdogan urges countries to adopt zero-waste goals at COP31
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6927
+  strength: 0.6914
 - slug: 2026-11-10-china-s-clean-tech-exports-surpassed-220-billion-in-2025
   headline: China's clean-tech exports surpassed $220 billion in 2025
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6986
+  strength: 0.6959
 - slug: 2026-11-13-guterres-urges-drastic-emissions-cuts-at-final-climate-summit
   headline: Guterres urges drastic emissions cuts at final climate summit
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6672
+  strength: 0.666
 - slug: 2026-11-09-kurum-s-action-agenda-centers-on-electrification
   headline: Kurum's Action Agenda centers on electrification
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6922
-- slug: 2026-11-11-world-leaders-begin-cop31-talks-in-turkey-seeking-concrete-climate-action
-  headline: World leaders begin COP31 talks in Turkey seeking concrete climate action
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.665
-- slug: 2026-11-11-ai-datacentre-developers-plan-on-site-gas-fired-plants-totalling-181gw
-  headline: AI datacentre developers plan on-site gas-fired plants totalling 181GW
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6631
-- slug: 2026-11-06-un-climate-talks-open-in-turkey-with-fossil-fuel-transition-as-key-issue
-  headline: UN climate talks open in Turkey with fossil fuel transition as key issue
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6821
-- slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
-  headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6706
-- slug: 2026-10-29-china-s-clean-tech-exports-likely-to-avert-450-million-metric-tons-of-co2-a-year
-  headline: China's clean tech exports likely to avert 450 million metric tons of CO2 a year
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6678
-- slug: 2026-09-02-india-curtailed-nearly-11-twh-of-solar-power-over-15-months
-  headline: India Curtailed Nearly 11 TWh of Solar Power Over 15 Months
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.7362
-- slug: 2026-08-12-india-s-small-steelmakers-could-cut-power-bills-by-about-a-third-with-renewables
-  headline: India's small steelmakers could cut power bills by about a third with renewables
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6595
-- slug: 2026-02-05-report-says-china-commissioned-record-coal-power-capacity-in-2025
-  headline: Report says China commissioned record coal power capacity in 2025
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6872
-- slug: 2026-02-08-china-keeps-building-coal-power-despite-solar-and-wind-boom
-  headline: China keeps building coal power despite solar and wind boom
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.687
-- slug: 2026-06-21-germany-debates-slowing-coal-phase-out-as-gas-prices-surge
-  headline: Germany debates slowing coal phase-out as gas prices surge
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.649
-- slug: 2026-05-15-canada-to-double-electric-grid-by-2050-under-new-clean-energy-plan-carney-says
-  headline: Canada to double electric grid by 2050 under new clean-energy plan, Carney says
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6623
-- slug: 2026-05-15-carney-unveils-plan-to-double-canada-s-electric-grid-by-2050
-  headline: Carney unveils plan to double Canada's electric grid by 2050
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6568
+  strength: 0.6909
 ---
-
 ## India sets 900-gigawatt clean power goal for 2035, approves grid upgrades
 
 **Subtype:** fact
