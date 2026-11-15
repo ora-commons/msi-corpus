@@ -58,7 +58,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -237,3 +237,10 @@ Cooper reported from Phoenix.
 **Publication date:** 2026-11-13
 **Title:** 'TrumpCare' and commemorative plaques &mdash; how Democrats are pitching deal-making with the president
 **URL:** https://www.pbs.org/newshour/politics/trumpcare-and-commemorative-plaques-how-democrats-are-pitching-deal-making-with-the-president
+
+### src_late_3e6dd6992b30b07b — Associated Press, wire, Tier 1, originating
+**Author:** Jonathan J. Cooper
+**Publication date:** 2026-11-13
+**Title:** How Democrats are pitching deal-making with President Trump
+**URL:** https://apnews.com/article/democrats-trump-elsayed-talarico-2c851a15cb5e27a0ff4d60ef990aef3e
+**Added after publication:** true
