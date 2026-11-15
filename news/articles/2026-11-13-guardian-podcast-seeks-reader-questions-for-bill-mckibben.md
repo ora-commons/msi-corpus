@@ -2,8 +2,17 @@
 headline: Guardian podcast seeks reader questions for Bill McKibben
 secondary_headline: Reader questions close November 20 before McKibben appearance
 publish_date: '2026-11-13'
-lede: The Guardian on November 13 invited readers to submit questions for author and environmentalist Bill McKibben, who is scheduled to appear on the Guardian podcast Stateside with Kai and Carter. Questions can be submitted through a form on the Guardian's website or by email to statesidepod@theguardian.com until 20 November. Kai Wright, the podcast's host, will speak with McKibben about climate crisis and politics.
-nut_graf: The listener call lands as Democrats prepare to control the House and Senate in the new year, leaving open how far climate policy will rank among the incoming congressional majority's priorities. McKibben has argued in his most recent book that the science and the markets now supply the tools to address the crisis, and that politics is what remains to catch up.
+lede: The Guardian on November 13 invited readers to submit questions for author and
+  environmentalist Bill McKibben, who is scheduled to appear on the Guardian podcast
+  Stateside with Kai and Carter. Questions can be submitted through a form on the
+  Guardian's website or by email to statesidepod@theguardian.com until 20 November.
+  Kai Wright, the podcast's host, will speak with McKibben about climate crisis and
+  politics.
+nut_graf: The listener call lands as Democrats prepare to control the House and Senate
+  in the new year, leaving open how far climate policy will rank among the incoming
+  congressional majority's priorities. McKibben has argued in his most recent book
+  that the science and the markets now supply the tools to address the crisis, and
+  that politics is what remains to catch up.
 primary_entities:
 - The Guardian
 - Bill McKibben
@@ -36,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +144,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-08-some-democrats-promise-more-clean-energy-major-energy-or-climate-changes-need-re
-  headline: Some Democrats promise more clean energy; major energy or climate changes need Republican votes
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6248
-- slug: 2026-11-05-guardian-us-editor-says-midterm-voters-delivered-a-check-on-trump-s-power
-  headline: Guardian US editor says midterm voters delivered a check on Trump's power
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6395
-- slug: 2026-11-05-democrats-link-climate-policy-to-affordability-in-2026-midterm-wins
-  headline: Democrats link climate policy to affordability in 2026 midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6364
-- slug: 2026-11-04-readers-urge-democrats-to-turn-midterm-gains-into-substantive-change
-  headline: Readers urge Democrats to turn midterm gains into substantive change
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6238
-- slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
-  headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6108
-- slug: 2026-11-04-democrats-win-house-and-senate-control-in-2026-us-midterms
-  headline: Democrats win House and Senate control in 2026 US midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6232
-- slug: 2026-11-05-senate-nears-vote-on-bipartisan-energy-permitting-overhaul
-  headline: Senate nears vote on bipartisan energy permitting overhaul
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6139
-- slug: 2026-11-04-democrats-regain-senate-control-after-wins-in-at-least-six-states
-  headline: Democrats regain Senate control after wins in at least six states
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6187
-- slug: 2026-10-27-the-guardian-seeks-us-voter-priorities-for-nov-3-midterms
-  headline: The Guardian seeks US voter priorities for Nov. 3 midterms
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6448
-- slug: 2026-10-30-midterms-test-democrats-strategy-tying-climate-to-affordability
-  headline: Midterms test Democrats' strategy tying climate to affordability
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6157
 - slug: 2026-10-14-guardian-to-host-reader-q-a-on-us-economy-and-midterms
   headline: Guardian to host reader Q&A on US economy and midterms
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6898
-- slug: 2026-10-27-the-guardian-asks-gen-z-voters-what-will-guide-their-2026-midterms
-  headline: The Guardian asks Gen Z voters what will guide their 2026 midterms
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.618
-- slug: 2026-10-16-most-midterm-candidates-skip-climate-as-voters-demand-action
-  headline: Most midterm candidates skip climate as voters demand action
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6474
-- slug: 2026-10-21-extreme-weather-survivors-seek-federal-disaster-response-reforms
-  headline: Extreme weather survivors seek federal disaster-response reforms
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6138
+  strength: 0.6891
 - slug: 2026-09-15-guardian-to-host-live-q-a-on-democratic-unity-ahead-of-midterms
   headline: Guardian to host live Q&A on Democratic unity ahead of midterms
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.7087
+  strength: 0.7083
 - slug: 2026-09-24-guardian-hosts-live-q-a-on-midterm-campaign-spending
   headline: Guardian hosts live Q&A on midterm campaign spending
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6797
-- slug: 2026-10-09-guardian-midterm-panel-shows-voters-split-on-economy-and-iran
-  headline: Guardian midterm panel shows voters split on economy and Iran
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6267
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6277
-- slug: 2026-09-24-czin-previews-trump-xi-meeting-for-guardian-casting-xi-as-a-jack-in-the-box
-  headline: Czin previews Trump-Xi meeting for Guardian, casting Xi as a 'jack-in-the-box'
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6267
-- slug: 2026-09-18-guardian-podcast-examines-trump-s-ai-stance-as-executives-seek-guardrails
-  headline: Guardian podcast examines Trump's AI stance as executives seek guardrails
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6301
+  strength: 0.6791
 ---
-
 ## Guardian podcast seeks reader questions for Bill McKibben
 
 **Subtype:** fact

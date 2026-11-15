@@ -213,6 +213,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-13-democrats-run-kennedy-oversight-and-maha-coalition-as-parallel-tracks'
 ---
 ## Democrats weigh Kennedy impeachment while courting MAHA voters
 
@@ -275,3 +277,8 @@ Motta said Democrats' ability to pass those changes will be one of the most impo
 **Title:** Democrats are weighing impeachment of RFK Jr. while courting his supporters
 **URL:** https://www.pbs.org/newshour/politics/democrats-are-weighing-impeachment-of-rfk-jr-while-courting-his-supporters
 **Added after publication:** true
+
+---
+
+<!-- analysis-link:2026-11-13-democrats-run-kennedy-oversight-and-maha-coalition-as-parallel-tracks -->
+**Going deeper:** [Read MSI's analysis of Kennedy oversight and MAHA coalition →](/analyses/2026-11-13-democrats-run-kennedy-oversight-and-maha-coalition-as-parallel-tracks)
