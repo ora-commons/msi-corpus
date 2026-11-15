@@ -64,10 +64,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -254,3 +256,9 @@ Soto works at a family-owned grocery and strung a garland of flags from around t
 **Publication date:** 2026-11-13
 **Title:** Backlash against ICE arrests helped flip southwest Kansas vote
 **URL:** https://apnews.com/article/immigration-midterms-kansas-senate-deportation-dodge-city-29579d3e5baa94587f1fe46082c6faa7
+
+### src_late_75be7778de201057 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-14
+**Title:** How ICE raids in Kansas meatpacking country sparked fury – and turned voters against Trump
+**URL:** https://www.theguardian.com/us-news/2026/nov/14/kansas-ice-meatpacking-raids-trump-midterms
+**Added after publication:** true

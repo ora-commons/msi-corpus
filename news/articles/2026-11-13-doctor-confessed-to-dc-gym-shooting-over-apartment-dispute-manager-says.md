@@ -160,6 +160,8 @@ related_stories:
   publish_date: '2026-11-12'
   relation: related
   strength: 0.738
+analyses:
+- '2026-11-13-housing-grievances-travel-two-channels-without-a-documented-intervention'
 ---
 ## Doctor confessed to DC gym shooting over apartment dispute, manager says
 
@@ -198,3 +200,8 @@ On Thursday evening, residents gathered at a vigil in the neighborhood, lighting
 **Publication date:** 2026-11-13
 **Title:** Doctor named as DC gym shooting suspect confessed, detailing dispute over living conditions, home manager says
 **URL:** https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession
+
+---
+
+<!-- analysis-link:2026-11-13-housing-grievances-travel-two-channels-without-a-documented-intervention -->
+**Going deeper:** [Read MSI's analysis of the Logan Circle escalation chain →](/analyses/2026-11-13-housing-grievances-travel-two-channels-without-a-documented-intervention)

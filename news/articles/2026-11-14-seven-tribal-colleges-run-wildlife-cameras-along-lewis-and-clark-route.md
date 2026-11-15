@@ -1,9 +1,20 @@
 ---
 headline: Seven tribal colleges run wildlife cameras along Lewis and Clark route
-secondary_headline: Sitting Bull College students, interns included, installed 16 trail cameras
+secondary_headline: Sitting Bull College students, interns included, installed 16
+  trail cameras
 publish_date: '2026-11-14'
-lede: Seven tribal colleges are running trail cameras, managing data and interpreting ecological change along the historic Lewis and Clark route as part of a Smithsonian National Zoo and Conservation Biology Institute re-survey that activated more than 50 research partners in 15 states in spring 2026, The Guardian reported on Nov. 14. Students from Sitting Bull College installed 16 cameras across the 2.3m-acre Standing Rock Sioux reservation, which spans North and South Dakota.
-nut_graf: The re-survey extends Snapshot USA, a nationwide wildlife-monitoring project that Smithsonian ecologist Bill McShea helped launch in 2019, into parts of the country where its mammal data has gaps, including the Great Plains. It also brings tribal colleges into a re-survey along the Lewis and Clark route, after the many Native contributions to the original expedition were downplayed or unacknowledged, and the completed data will be free for land managers and scientists.
+lede: Seven tribal colleges are running trail cameras, managing data and interpreting
+  ecological change along the historic Lewis and Clark route as part of a Smithsonian
+  National Zoo and Conservation Biology Institute re-survey that activated more than
+  50 research partners in 15 states in spring 2026, The Guardian reported on Nov.
+  14. Students from Sitting Bull College installed 16 cameras across the 2.3m-acre
+  Standing Rock Sioux reservation, which spans North and South Dakota.
+nut_graf: The re-survey extends Snapshot USA, a nationwide wildlife-monitoring project
+  that Smithsonian ecologist Bill McShea helped launch in 2019, into parts of the
+  country where its mammal data has gaps, including the Great Plains. It also brings
+  tribal colleges into a re-survey along the Lewis and Clark route, after the many
+  Native contributions to the original expedition were downplayed or unacknowledged,
+  and the completed data will be free for land managers and scientists.
 primary_entities:
 - Sitting Bull College
 - Smithsonian National Zoo and Conservation Biology Institute
@@ -38,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +148,29 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-03-researchers-use-radio-tags-to-study-monarch-stopovers
-  headline: Researchers use radio tags to study monarch stopovers
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6106
-- slug: 2026-10-22-trump-signs-law-establishing-chiricahua-as-64th-u-s-national-park
-  headline: Trump signs law establishing Chiricahua as 64th U.S. national park
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5891
-- slug: 2026-09-27-wildlife-agencies-in-at-least-15-states-report-rise-in-bear-encounters
-  headline: Wildlife agencies in at least 15 states report rise in bear encounters
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6138
-- slug: 2026-09-24-amazon-ia-launches-ai-powered-biodiversity-monitoring-across-amazon-basin
-  headline: Amazon.ia launches AI-powered biodiversity monitoring across Amazon basin
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5874
-- slug: 2026-09-11-researchers-identify-first-known-adult-t-rex-footprint-trackway-in-north-dakota
-  headline: Researchers identify first known adult T. rex footprint trackway in North Dakota
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6055
-- slug: 2026-09-10-canada-supplied-juvenile-eagles-for-us-bald-eagle-restoration
-  headline: Canada supplied juvenile eagles for US bald eagle restoration
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6022
 - slug: 2026-05-21-study-finds-wildlife-coexistence-on-busy-jackson-hole-trails
   headline: Study finds wildlife coexistence on busy Jackson Hole trails
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.701
+  strength: 0.7013
 - slug: 2026-05-23-study-finds-coexistence-between-jackson-hole-recreation-and-wildlife
   headline: Study finds coexistence between Jackson Hole recreation and wildlife
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.698
+  strength: 0.6979
 - slug: 2026-05-22-study-finds-coexistence-on-jackson-hole-trails-not-a-wildlife-sacrifice-zone
-  headline: Study finds coexistence on Jackson Hole trails, not a wildlife sacrifice zone
+  headline: Study finds coexistence on Jackson Hole trails, not a wildlife sacrifice
+    zone
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.6974
+  strength: 0.6975
 - slug: 2026-05-21-study-finds-coexistence-between-recreators-and-wildlife-around-jackson-wyo
-  headline: Study finds coexistence between recreators and wildlife around Jackson, Wyo.
+  headline: Study finds coexistence between recreators and wildlife around Jackson,
+    Wyo.
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6976
-- slug: 2026-08-21-blm-captures-about-1-000-wild-mustangs-in-western-colorado
-  headline: BLM captures about 1,000 wild mustangs in western Colorado
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5954
-- slug: 2026-08-13-connecticut-launches-first-bear-population-survey-in-more-than-a-decade
-  headline: Connecticut launches first bear population survey in more than a decade
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.599
-- slug: 2026-07-23-california-bill-proposes-study-of-grizzly-bear-reintroduction
-  headline: California bill proposes study of grizzly bear reintroduction
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6064
-- slug: 2026-06-05-trump-administration-moves-to-rescind-roadless-rule-protecting-58-million-acres-
-  headline: Trump administration moves to rescind Roadless Rule protecting 58 million acres of national forests
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6009
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5847
-- slug: 2026-02-02-grizzly-bears-on-alaska-s-north-slope-document-their-lives-with-collar-cams
-  headline: Grizzly bears on Alaska’s North Slope document their lives with collar cams
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.612
-- slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
-  headline: Gray whales shift into San Francisco Bay; new detection system warns ships
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5824
-- slug: 2026-01-05-habitat-for-endangered-whooping-cranes-guarded-in-new-texas-sanctuary
-  headline: Habitat for endangered whooping cranes guarded in new Texas sanctuary
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6098
-- slug: 2026-04-29-isle-royale-wolf-numbers-rebound-but-moose-decline-in-new-survey
-  headline: Isle Royale wolf numbers rebound but moose decline in new survey
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5949
-- slug: 2026-05-21-federal-officials-approve-dakota-access-oil-pipeline-easement-in-north-dakota
-  headline: Federal officials approve Dakota Access oil pipeline easement in North Dakota
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5866
+  strength: 0.6978
 ---
-
 ## Seven tribal colleges run wildlife cameras along Lewis and Clark route
 
 **Subtype:** fact
