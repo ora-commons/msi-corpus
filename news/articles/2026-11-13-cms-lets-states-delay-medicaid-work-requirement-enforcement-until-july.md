@@ -61,7 +61,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -256,3 +256,10 @@ Among both groups, it is not clear how many people did not provide information b
 **Publication date:** 2026-11-13
 **Title:** States get more time to enforce Medicaid work requirements
 **URL:** https://apnews.com/article/medicaid-work-requirements-states-delay-680a36383fbcb2c615408a34ad41785a
+
+### src_late_7a242c5af9551624 — Associated Press, wire, Tier 1, originating
+**Author:** Geoff Mulvihill, Associated Press, Fatima Hussein, Associated Press
+**Publication date:** 2026-11-14
+**Title:** U.S. gives states another 6 months before they have to remove people from Medicaid for not working
+**URL:** https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working
+**Added after publication:** true
