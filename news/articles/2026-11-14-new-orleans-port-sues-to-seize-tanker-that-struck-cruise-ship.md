@@ -57,7 +57,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -231,3 +231,10 @@ The tanker specializes in carrying large quantities of asphalt and bitumen, a se
 **Publication date:** 2026-11-14
 **Title:** New Orleans lawsuit aims for control of tanker that crashed into cruise ship
 **URL:** https://apnews.com/article/new-orleans-cruise-ship-tanker-crash-0c1cbee9c9b3f3103d84b8bb17b5073f
+
+### src_late_d2f94a1e0fe397f0 — Associated Press, wire, Tier 1, originating
+**Author:** Jeffrey Collins, Associated Press
+**Publication date:** 2026-11-14
+**Title:** New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River
+**URL:** https://www.pbs.org/newshour/nation/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river
+**Added after publication:** true

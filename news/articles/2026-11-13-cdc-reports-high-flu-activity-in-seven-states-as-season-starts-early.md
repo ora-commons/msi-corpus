@@ -55,7 +55,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -231,3 +231,10 @@ Last winter's flu season surged in late December and infections were especially 
 **Publication date:** 2026-11-13
 **Title:** US flu season intensifies as CDC reports high activity in 7 states
 **URL:** https://apnews.com/article/flu-season-influenza-vaccine-615b4eecba876dca82c5dd16fdb29984
+
+### src_late_eee1b70b8c0b82c2 — Associated Press, wire, Tier 1, originating
+**Author:** Mike Stobbe, Associated Press
+**Publication date:** 2026-11-14
+**Title:** The U.S. flu season is off to a very early start. It's hitting the South and West now
+**URL:** https://www.pbs.org/newshour/health/the-u-s-flu-season-is-off-to-a-very-early-start-its-hitting-the-south-and-west-now
+**Added after publication:** true
