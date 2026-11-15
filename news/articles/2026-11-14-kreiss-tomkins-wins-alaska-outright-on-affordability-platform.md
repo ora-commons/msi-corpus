@@ -2,8 +2,20 @@
 headline: Kreiss-Tomkins wins Alaska outright on affordability platform
 secondary_headline: Democrats take governorship majority, first since 2010
 publish_date: '2026-11-14'
-lede: Jonathan Kreiss-Tomkins won Alaska's governor's seat outright, taking more than 50% of first-choice votes and avoiding additional rounds of counting after a campaign centered on affordability, full funding for public education and corporate income taxes for all oil and gas producers. The former Alaska state legislator, 37 and widely known as JKT, argued that Alaska had become "broken" under outgoing Republican governor Mike Dunleavy during his eight years in office, with the deterioration of the state's ferry system among his criticisms. The Associated Press called the race on Friday, 10 days after polls closed on 3 November, making Kreiss-Tomkins the first Democrat elected governor of Alaska since 1998.
-nut_graf: The Alaska result hands Democrats a majority of US governorships for the first time since 2010, alongside midterm gains of eight US Senate seats and more than two dozen House seats that gave the party a strong majority in Congress for the latter half of Trump's second presidency. Gina Hinojosa became the first Democrat elected governor of Texas in 35 years and the state's first Hispanic governor.
+lede: Jonathan Kreiss-Tomkins won Alaska's governor's seat outright, taking more than
+  50% of first-choice votes and avoiding additional rounds of counting after a campaign
+  centered on affordability, full funding for public education and corporate income
+  taxes for all oil and gas producers. The former Alaska state legislator, 37 and
+  widely known as JKT, argued that Alaska had become "broken" under outgoing Republican
+  governor Mike Dunleavy during his eight years in office, with the deterioration
+  of the state's ferry system among his criticisms. The Associated Press called the
+  race on Friday, 10 days after polls closed on 3 November, making Kreiss-Tomkins
+  the first Democrat elected governor of Alaska since 1998.
+nut_graf: The Alaska result hands Democrats a majority of US governorships for the
+  first time since 2010, alongside midterm gains of eight US Senate seats and more
+  than two dozen House seats that gave the party a strong majority in Congress for
+  the latter half of Trump's second presidency. Gina Hinojosa became the first Democrat
+  elected governor of Texas in 35 years and the state's first Hispanic governor.
 primary_entities:
 - Jonathan Kreiss-Tomkins
 - Alaska
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,116 +154,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-14-kreiss-tomkins-wins-alaska-outright-on-affordability-platform.png
-  alt: 'Illustration accompanying article: Kreiss-Tomkins wins Alaska outright on affordability platform'
+  alt: 'Illustration accompanying article: Kreiss-Tomkins wins Alaska outright on
+    affordability platform'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-14-democrat-kreiss-tomkins-wins-alaska-governor-s-race-ap-says
   headline: Democrat Kreiss-Tomkins wins Alaska governor's race, AP says
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8588
+  strength: 0.8589
 - slug: 2026-11-14-murkowski-endorsed-kreiss-tomkins-a-week-before-alaska-s-vote
   headline: Murkowski endorsed Kreiss-Tomkins a week before Alaska's vote
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.818
+  strength: 0.8187
 - slug: 2026-11-14-alaska-senate-race-with-two-dan-sullivans-likely-moves-to-ranked-choice
   headline: Alaska Senate race with two Dan Sullivans likely moves to ranked choice
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.6956
+  strength: 0.696
 - slug: 2026-11-05-alaska-s-ballot-count-continues-with-senate-governor-races-too-early-to-call
-  headline: Alaska's ballot count continues with Senate, governor races too early to call
+  headline: Alaska's ballot count continues with Senate, governor races too early
+    to call
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7329
+  strength: 0.7332
 - slug: 2026-11-12-adam-hamilton-gives-kansas-democrats-their-first-senate-win-since-1932
   headline: Adam Hamilton gives Kansas Democrats their first Senate win since 1932
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6616
+  strength: 0.6632
 - slug: 2026-11-04-hinojosa-pitches-1-500-refund-amid-abbott-s-180-million-campaign-spending
   headline: Hinojosa pitches $1,500 refund amid Abbott's $180 million campaign spending
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6939
+  strength: 0.6941
 - slug: 2026-11-04-democrats-win-key-governor-races-with-historic-firsts
   headline: Democrats win key governor races with historic firsts
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6891
+  strength: 0.6901
 - slug: 2026-11-04-under-30-and-hispanic-texas-senate-voters-back-talarico
   headline: Under-30 and Hispanic Texas Senate voters back Talarico
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6864
-- slug: 2026-11-04-hinojosa-s-texas-win-followed-a-long-shot-affordability-campaign
-  headline: Hinojosa's Texas win followed a long-shot affordability campaign
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6862
-- slug: 2026-11-06-democrats-sweep-every-texas-statewide-office-and-take-control-of-the-statehouse
-  headline: Democrats sweep every Texas statewide office and take control of the statehouse
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6732
-- slug: 2026-11-04-keisha-lance-bottoms-wins-georgia-governor-race-in-historic-upset
-  headline: Keisha Lance Bottoms wins Georgia governor race in historic upset
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6819
-- slug: 2026-11-07-texas-democrats-wins-echo-state-s-1890s-populist-movement-commentator-says
-  headline: Texas Democrats' wins echo state's 1890s populist movement, commentator says
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6625
-- slug: 2026-11-03-gina-hinojosa-defeats-greg-abbott-in-texas-governor-race
-  headline: Gina Hinojosa defeats Greg Abbott in Texas governor race
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6842
-- slug: 2026-11-05-democrats-sweep-southern-elections-overturning-decades-of-gop-dominance
-  headline: Democrats sweep Southern elections, overturning decades of GOP dominance
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6715
-- slug: 2026-10-02-kreiss-tomkins-campaigns-for-alaska-governor-in-ranked-choice-race
-  headline: Kreiss-Tomkins campaigns for Alaska governor in ranked-choice race
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8293
-- slug: 2026-11-03-keisha-lance-bottoms-wins-georgia-governor-race
-  headline: Keisha Lance Bottoms wins Georgia governor race
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6685
-- slug: 2026-11-03-keisha-lance-bottoms-and-rick-jackson-contest-georgia-governor-race
-  headline: Keisha Lance Bottoms and Rick Jackson contest Georgia governor race
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6647
-- slug: 2026-10-30-spoiler-allegations-roil-alaska-s-tight-senate-race
-  headline: Spoiler allegations roil Alaska's tight Senate race
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6693
-- slug: 2026-10-29-gov-dunleavy-orders-investigation-into-alleged-election-scheme
-  headline: Gov. Dunleavy orders investigation into alleged election scheme
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6606
-- slug: 2026-10-25-arkansas-democrats-push-affordability-message-in-final-midterm-stretch
-  headline: Arkansas Democrats push affordability message in final midterm stretch
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6725
+  strength: 0.6875
 ---
-
 ## Kreiss-Tomkins wins Alaska outright on affordability platform
 
 **Subtype:** fact

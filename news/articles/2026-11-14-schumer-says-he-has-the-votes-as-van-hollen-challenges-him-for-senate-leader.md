@@ -1,9 +1,24 @@
 ---
 headline: Schumer says he has the votes as Van Hollen challenges him for Senate leader
-secondary_headline: House impeachment vote against Hegseth fails with 11 Democrats absent
+secondary_headline: House impeachment vote against Hegseth fails with 11 Democrats
+  absent
 publish_date: '2026-11-14'
-lede: Maryland Sen. Chris Van Hollen is challenging New York Sen. Chuck Schumer for Senate Democratic leader, arguing that the midterm surge powered by younger and independent voters requires organizing the chamber differently. Schumer says he has vote commitments from most of the 29 Democrats he needs, with allies predicting 40 or more, ahead of a secret-ballot election. The leadership fight, a failed House impeachment vote against Defense Secretary Pete Hegseth and Jensen Huang's resignation as Nvidia CEO amid administration finger-pointing over China chip sales shaped the week in U.S. politics, as NPR senior contributor Ron Elving laid out on the network's weekly politics segment.
-nut_graf: 'The jockeying reflects a reordered Washington: Democrats won majorities in both chambers in the midterms, but Republicans still control the House and Senate until the new Congress convenes Jan. 3. Elving said impeachment drives against Hegseth — which he tied to Iran, Hegseth''s wholesale demotion of generals and admirals and his efforts to instill his notion of warrior culture throughout the armed forces — and against Health Secretary Robert F. Kennedy Jr., plus investigations into the Nvidia chip-sales episode, will move to the foreground once Democrats hold the gavels.'
+lede: Maryland Sen. Chris Van Hollen is challenging New York Sen. Chuck Schumer for
+  Senate Democratic leader, arguing that the midterm surge powered by younger and
+  independent voters requires organizing the chamber differently. Schumer says he
+  has vote commitments from most of the 29 Democrats he needs, with allies predicting
+  40 or more, ahead of a secret-ballot election. The leadership fight, a failed House
+  impeachment vote against Defense Secretary Pete Hegseth and Jensen Huang's resignation
+  as Nvidia CEO amid administration finger-pointing over China chip sales shaped the
+  week in U.S. politics, as NPR senior contributor Ron Elving laid out on the network's
+  weekly politics segment.
+nut_graf: 'The jockeying reflects a reordered Washington: Democrats won majorities
+  in both chambers in the midterms, but Republicans still control the House and Senate
+  until the new Congress convenes Jan. 3. Elving said impeachment drives against Hegseth
+  — which he tied to Iran, Hegseth''s wholesale demotion of generals and admirals
+  and his efforts to instill his notion of warrior culture throughout the armed forces
+  — and against Health Secretary Robert F. Kennedy Jr., plus investigations into the
+  Nvidia chip-sales episode, will move to the foreground once Democrats hold the gavels.'
 primary_entities:
 - Chuck Schumer
 - Chris Van Hollen
@@ -44,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +159,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-14-schumer-says-he-has-the-votes-as-van-hollen-challenges-him-for-senate-leader.png
-  alt: 'Illustration accompanying article: Schumer says he has the votes as Van Hollen challenges him for Senate leader'
+  alt: 'Illustration accompanying article: Schumer says he has the votes as Van Hollen
+    challenges him for Senate leader'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-majority-leader
   headline: Van Hollen challenges Schumer for Senate majority leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8379
+  strength: 0.838
 - slug: 2026-11-13-schumer-presses-100-day-agenda-as-van-hollen-challenges-him-for-leader-post
-  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader post
+  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader
+    post
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8238
+  strength: 0.8244
 - slug: 2026-11-12-van-hollen-challenges-schumer-to-lead-senate-democrats
   headline: Van Hollen challenges Schumer to lead Senate Democrats
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.827
+  strength: 0.8276
 - slug: 2026-11-13-van-hollen-drops-white-house-bid-challenges-schumer-for-senate-leader
   headline: Van Hollen drops White House bid, challenges Schumer for Senate leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8192
+  strength: 0.8196
 - slug: 2026-11-13-schumer-and-van-hollen-split-senate-democratic-endorsements
   headline: Schumer and Van Hollen split Senate Democratic endorsements
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8086
+  strength: 0.8096
 - slug: 2026-11-13-schumer-faces-first-contested-democratic-leader-election-in-decades
   headline: Schumer faces first contested Democratic leader election in decades
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7914
+  strength: 0.7926
 - slug: 2026-11-13-slotkin-joins-sanders-in-calling-for-new-democratic-leadership
   headline: Slotkin joins Sanders in calling for new Democratic leadership
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7888
+  strength: 0.7889
 - slug: 2026-11-13-schumer-s-relationship-with-the-party-base-has-not-recovered
   headline: Schumer's relationship with the party base has not recovered
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7831
-- slug: 2026-11-13-van-hollen-brings-record-of-opposing-trump-cuts-to-senate-leadership-bid
-  headline: Van Hollen brings record of opposing Trump cuts to Senate leadership bid
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7793
-- slug: 2026-11-13-van-hollen-says-ending-corruption-requires-organizing-senate-differently
-  headline: Van Hollen says ending corruption requires organizing Senate differently
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7753
-- slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-democratic-leadership
-  headline: Van Hollen challenges Schumer for Senate Democratic leadership
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7744
-- slug: 2026-11-10-van-hollen-says-senate-democratic-leadership-race-should-not-be-coronation
-  headline: Van Hollen says Senate Democratic leadership race 'should not be coronation'
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7871
-- slug: 2026-11-09-senate-republicans-set-leadership-vote-as-democrats-weigh-schumer-s-future
-  headline: Senate Republicans set leadership vote as Democrats weigh Schumer's future
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.777
-- slug: 2026-11-14-democrats-head-into-new-congress-denying-a-moderate-progressive-rift
-  headline: Democrats head into new Congress denying a moderate-progressive rift
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7415
-- slug: 2026-11-13-sanders-frames-senate-democratic-leadership-race-as-a-fight-over-party-s-future
-  headline: Sanders frames Senate Democratic leadership race as a fight over party's future
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7424
-- slug: 2026-11-10-democrats-hold-nearly-50-point-lead-among-voters-under-30
-  headline: Democrats hold nearly 50-point lead among voters under 30
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7591
-- slug: 2026-11-13-lawmakers-ask-when-lutnick-learned-of-huang-s-contact-with-suspected-chinese-ass
-  headline: Lawmakers ask when Lutnick learned of Huang's contact with suspected Chinese asset
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7369
-- slug: 2026-11-10-sanders-opposes-schumer-s-reelection-bid-as-senate-democrats-weigh-a-new-leader
-  headline: Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new leader
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7571
-- slug: 2026-11-11-chip-export-restrictions-sought-by-lawmakers-threaten-nvidia-billions-in-revenue
-  headline: Chip-export restrictions sought by lawmakers threaten Nvidia billions in revenue
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7479
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7806
+  strength: 0.785
 ---
-
 ## Schumer says he has the votes as Van Hollen challenges him for Senate leader
 
 **Subtype:** fact
