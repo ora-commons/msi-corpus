@@ -2,8 +2,17 @@
 headline: Small businesses push back against influencer freebie demands
 secondary_headline: CCTV footage contradicted a cat cafe's fabricated TikTok review
 publish_date: '2026-11-14'
-lede: Small-business owners in the United States and Britain are posting surveillance footage and public call-outs as they push back against influencer freebie requests and reviews the footage contradicts, according to The Guardian. The account opens with Nicole Flanagin, who pulled time-stamped CCTV at her Brews and Mews cat cafe in Lenoir, North Carolina, after a local influencer with more than 170,000 followers described a mother and child coldly turned away; the footage showed an exchange of less than 40 seconds before she and her child left quietly.
-nut_graf: 'Why it matters: Forbes values the influencer economy at $250bn and projects it will almost double by 2027, while small independents operating on knife-edge margins say unfulfilled shout-outs and free product fall hardest on the businesses least able to absorb the loss.'
+lede: Small-business owners in the United States and Britain are posting surveillance
+  footage and public call-outs as they push back against influencer freebie requests
+  and reviews the footage contradicts, according to The Guardian. The account opens
+  with Nicole Flanagin, who pulled time-stamped CCTV at her Brews and Mews cat cafe
+  in Lenoir, North Carolina, after a local influencer with more than 170,000 followers
+  described a mother and child coldly turned away; the footage showed an exchange
+  of less than 40 seconds before she and her child left quietly.
+nut_graf: 'Why it matters: Forbes values the influencer economy at $250bn and projects
+  it will almost double by 2027, while small independents operating on knife-edge
+  margins say unfulfilled shout-outs and free product fall hardest on the businesses
+  least able to absorb the loss.'
 primary_entities: []
 primary_themes: []
 topic_tags:
@@ -30,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -127,109 +137,8 @@ cross_article_links:
   strength: 0.5744
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-05-google-meta-and-tiktok-sue-california-over-law-curbing-addictive-features-for-ki
-  headline: Google, Meta and TikTok sue California over law curbing addictive features for kids
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5922
-- slug: 2026-10-31-home-security-camera-owners-report-captures-they-cannot-explain
-  headline: Home security camera owners report captures they cannot explain
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.5886
-- slug: 2026-10-26-shoppers-question-ai-pricing-amid-company-denials-and-state-restrictions
-  headline: Shoppers question AI pricing amid company denials and state restrictions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5882
-- slug: 2026-10-12-reckitt-posts-12-quarters-of-double-digit-growth-in-china-via-social-commerce
-  headline: Reckitt posts 12 quarters of double-digit growth in China via social commerce
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6126
-- slug: 2026-10-04-wsj-columnist-tests-consumer-ai-agents-finds-1-offer-on-land-listings
-  headline: WSJ columnist tests consumer AI agents, finds $1 offer on land listings
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.5992
-- slug: 2026-09-18-watt-offers-former-brewdog-investors-free-shares-drawing-ico-data-complaints
-  headline: Watt offers former BrewDog investors free shares, drawing ICO data complaints
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6041
-- slug: 2026-09-16-snap-ceo-says-company-would-be-willing-to-implement-teen-time-limits-after-meta-
-  headline: Snap CEO says company would be willing to implement teen time limits after Meta settlement
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6056
-- slug: 2026-08-28-meta-announces-18bn-settlement-with-new-teen-limits-on-instagram-facebook
-  headline: Meta announces $18bn settlement with new teen limits on Instagram, Facebook
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6187
-- slug: 2026-09-02-wake-county-to-take-400-000-mug-shots-offline-this-month
-  headline: Wake County to take 400,000 mug shots offline this month
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5899
-- slug: 2026-07-27-target-little-spoon-pay-creators-with-500-followers-for-posts
-  headline: Target, Little Spoon pay creators with 500 followers for posts
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6126
-- slug: 2026-07-10-meta-appeals-verdict-that-found-platforms-harmed-young-user
-  headline: Meta appeals verdict that found platforms harmed young user
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5869
-- slug: 2026-01-18-anti-doomscrolling-influencers-challenge-social-media-overuse
-  headline: Anti-doomscrolling influencers challenge social media overuse
-  publish_date: '2026-01-18'
-  relation: related
-  strength: 0.632
-- slug: 2026-05-10-pew-half-of-under-50s-get-health-advice-from-social-media-few-influencers-are-cr
-  headline: 'Pew: Half of Under-50s Get Health Advice From Social Media; Few Influencers Are Credentialed'
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6133
-- slug: 2026-06-11-canada-proposes-social-media-ban-for-children-under-16
-  headline: Canada proposes social media ban for children under 16
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5981
-- slug: 2026-06-20-parent-and-child-share-screen-addiction-in-uk-social-media-ban-debate
-  headline: Parent and child share screen addiction in UK social media ban debate
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.5912
-- slug: 2026-06-11-key-social-media-lawsuits-could-reshape-platform-operations-as-trials-approach
-  headline: Key social media lawsuits could reshape platform operations as trials approach
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5922
-- slug: 2026-06-11-cracker-barrel-ceo-saves-job-by-scrapping-revamp-returning-to-roots
-  headline: Cracker Barrel CEO saves job by scrapping revamp, returning to roots
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5906
-- slug: 2026-03-13-closing-arguments-begin-in-landmark-social-media-trial-set-in-los-angeles
-  headline: Closing arguments begin in landmark social media trial set in Los Angeles
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.607
-- slug: 2026-05-16-senate-calls-tech-ceos-to-testify-on-social-media-risks-to-children
-  headline: Senate calls tech CEOs to testify on social media risks to children
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5913
-- slug: 2026-01-06-craigslist-child-actor-ad-was-a-prank-not-proof-of-minnesota-day-care-fraud
-  headline: Craigslist child-actor ad was a prank, not proof of Minnesota day care fraud
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6055
+related_stories: []
 ---
-
 ## Small businesses push back against influencer freebie demands
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Retail sales, Fed minutes and sentiment data land this week
 secondary_headline: Economists expect October retail sales growth to ease to 0.2%
 publish_date: '2026-11-14'
-lede: New data on retail sales will headline U.S. economic updates this week, alongside details from the most recent Federal Reserve meeting and a new read on consumer sentiment, according to the Associated Press. Economists expect retail sales to rise 0.2% in October, easing back from 0.8% in September and 1.3% in August, even as spending at gas stations surges on higher fuel costs. Inflation remains hot, and the Federal Reserve is expected to raise rates again at its December meeting.
-nut_graf: 'The week''s reports will test whether U.S. households and the Federal Reserve are converging on the same problem: prices that have stayed stubbornly above 3% against a 2% target, a labor market that is solid but unspectacular, and a holiday shopping season that begins with shoppers already pulling back. The data arrive weeks after midterm elections in which Democrats swept Congress and cost of living was the top issue for many voters.'
+lede: New data on retail sales will headline U.S. economic updates this week, alongside
+  details from the most recent Federal Reserve meeting and a new read on consumer
+  sentiment, according to the Associated Press. Economists expect retail sales to
+  rise 0.2% in October, easing back from 0.8% in September and 1.3% in August, even
+  as spending at gas stations surges on higher fuel costs. Inflation remains hot,
+  and the Federal Reserve is expected to raise rates again at its December meeting.
+nut_graf: 'The week''s reports will test whether U.S. households and the Federal Reserve
+  are converging on the same problem: prices that have stayed stubbornly above 3%
+  against a 2% target, a labor market that is solid but unspectacular, and a holiday
+  shopping season that begins with shoppers already pulling back. The data arrive
+  weeks after midterm elections in which Democrats swept Congress and cost of living
+  was the top issue for many voters.'
 primary_entities:
 - Federal Reserve System
 - University of Michigan
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,17 +68,22 @@ figures:
   series_id: RSAFS
   transformation: yoy_pct
   as_of: '2026-11-14'
-  caption: Advance retail sales grew 6.3% in the year through November 2026, according to FRED data as of Nov. 14. The year-over-year pace sits alongside the monthly slowdown economists expect for October.
+  caption: Advance retail sales grew 6.3% in the year through November 2026, according
+    to FRED data as of Nov. 14. The year-over-year pace sits alongside the monthly
+    slowdown economists expect for October.
 - source: fred
   series_id: UMCSENT
   transformation: raw
   as_of: '2026-11-14'
-  caption: The University of Michigan consumer sentiment index stood at 48.1 as of Nov. 14, 2026, per FRED. The index has remained depressed as households absorb higher costs for gas, goods and services.
+  caption: The University of Michigan consumer sentiment index stood at 48.1 as of
+    Nov. 14, 2026, per FRED. The index has remained depressed as households absorb
+    higher costs for gas, goods and services.
 - source: fred
   series_id: UNRATE
   transformation: raw
   as_of: '2026-11-14'
-  caption: The U.S. unemployment rate held at 4.1% as of November 2026, per FRED. The rate has stayed low even as monthly job gains have moderated.
+  caption: The U.S. unemployment rate held at 4.1% as of November 2026, per FRED.
+    The rate has stayed low even as monthly job gains have moderated.
 figures_aggregate:
   count: 3
   series_ids:
@@ -163,113 +179,60 @@ related_stories:
   headline: Federal Reserve officials weigh faster hikes as inflation broadens
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7889
+  strength: 0.7879
 - slug: 2026-11-07-economists-project-october-cpi-at-3-9-as-housing-data-and-jobless-claims-arrive
-  headline: Economists project October CPI at 3.9% as housing data and jobless claims arrive
+  headline: Economists project October CPI at 3.9% as housing data and jobless claims
+    arrive
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7707
+  strength: 0.7687
 - slug: 2026-11-10-aaa-s-average-gasoline-price-falls-to-4-22-as-bls-reports-0-4-monthly-cpi-rise
-  headline: AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly CPI rise
+  headline: AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly
+    CPI rise
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7298
+  strength: 0.728
 - slug: 2026-10-24-fed-rate-decision-and-economic-data-arrive-next-week
   headline: Fed rate decision and economic data arrive next week
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.791
+  strength: 0.789
 - slug: 2026-10-28-september-inflation-accelerates-on-energy-price-spike
   headline: September inflation accelerates on energy-price spike
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7693
+  strength: 0.7678
 - slug: 2026-10-31-jobs-data-surveys-and-earnings-reports-fill-the-calendar-around-election-day
-  headline: Jobs data, surveys and earnings reports fill the calendar around Election Day
+  headline: Jobs data, surveys and earnings reports fill the calendar around Election
+    Day
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7469
+  strength: 0.7443
 - slug: 2026-10-27-us-consumer-confidence-index-rises-7-5-points-to-91-7-in-october
   headline: US consumer confidence index rises 7.5 points to 91.7 in October
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7574
+  strength: 0.7564
 - slug: 2026-10-28-september-cpi-gains-3-7-annually-after-0-3-monthly-gains-in-august-september
-  headline: September CPI gains 3.7% annually after 0.3% monthly gains in August, September
+  headline: September CPI gains 3.7% annually after 0.3% monthly gains in August,
+    September
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7449
-- slug: 2026-10-29-inflation-gauge-closely-monitored-by-fed-accelerates-to-3-6-in-september
-  headline: Inflation gauge closely monitored by Fed accelerates to 3.6% in September
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7273
-- slug: 2026-10-29-iowa-resale-store-manager-says-gas-food-and-utility-bills-outpace-wages
-  headline: Iowa resale store manager says gas, food and utility bills outpace wages
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7263
-- slug: 2026-10-28-federal-reserve-leaves-benchmark-rate-unchanged-as-inflation-accelerates
-  headline: Federal Reserve leaves benchmark rate unchanged as inflation accelerates
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7293
-- slug: 2026-09-30-softer-august-pce-reading-lifts-wall-street-trims-october-rate-hike-odds
-  headline: Softer August PCE reading lifts Wall Street, trims October rate-hike odds
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7288
-- slug: 2026-09-16-u-s-retail-sales-rise-1-2-in-august-reversing-july-decline
-  headline: U.S. retail sales rise 1.2% in August, reversing July decline
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7322
-- slug: 2026-08-22-wall-street-awaits-consumer-confidence-and-pce-inflation-reports-next-week
-  headline: Wall Street awaits consumer confidence and PCE inflation reports next week
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7639
-- slug: 2026-08-15-home-depot-target-lowe-s-walmart-report-earnings-alongside-fed-minutes
-  headline: Home Depot, Target, Lowe's, Walmart report earnings alongside Fed minutes
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.7659
-- slug: 2026-08-22-fed-officials-signal-rate-hike-if-inflation-doesn-t-subside
-  headline: Fed officials signal rate hike if inflation doesn't subside
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7291
-- slug: 2026-08-08-us-economic-reports-put-inflation-and-sales-data-on-wall-street-s-calendar
-  headline: US economic reports put inflation and sales data on Wall Street’s calendar
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7365
-- slug: 2026-07-16-june-retail-sales-rise-0-2-after-revised-may-gain-of-1
-  headline: June retail sales rise 0.2% after revised May gain of 1%
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7417
-- slug: 2026-06-17-us-retail-sales-rose-0-9-in-may-beating-expectations
-  headline: US retail sales rose 0.9% in May, beating expectations
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.76
-- slug: 2026-01-14-november-retail-sales-rise-0-6-as-holiday-spending-tops-expectations
-  headline: November retail sales rise 0.6% as holiday spending tops expectations
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7892
+  strength: 0.7441
 image:
   url: /articles/2026-11-14-retail-sales-fed-minutes-and-sentiment-data-land-this-week.png
-  alt: "Illustration accompanying article: Retail sales, Fed minutes and sentiment data land this week"
+  alt: 'Illustration accompanying article: Retail sales, Fed minutes and sentiment
+    data land this week'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Retail sales, Fed minutes and sentiment data land this week
 
 **Subtype:** fact

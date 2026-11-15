@@ -63,7 +63,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -243,3 +243,10 @@ Kreiss-Tomkins's victory makes him the first Democrat elected Alaska governor si
 **Publication date:** 2026-11-14
 **Title:** Democrat elected Alaska governor for first time since 1998
 **URL:** https://apnews.com/article/alaska-governor-democrat-midterms-c7e7176b233d5078e5c297da639e4471
+
+### src_late_6e579c486b431a22 — Associated Press, wire, Tier 1, originating
+**Author:** Becky Bohrer, Associated Press
+**Publication date:** 2026-11-14
+**Title:** Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska
+**URL:** https://www.pbs.org/newshour/politics/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska
+**Added after publication:** true

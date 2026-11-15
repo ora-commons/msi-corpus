@@ -47,7 +47,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -223,3 +223,10 @@ The major political parties and campaigns have sometimes put pressure on candida
 **Publication date:** 2026-11-14
 **Title:** Alaska voters reject effort to repeal ranked choice voting
 **URL:** https://apnews.com/article/alaska-election-ranked-choice-voting-32b316025d884692edc60c8915f31cc5
+
+### src_late_0cc8ed0f537a3e83 — Associated Press, wire, Tier 1, originating
+**Author:** Becky Bohrer, Associated Press
+**Publication date:** 2026-11-14
+**Title:** Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system
+**URL:** https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system
+**Added after publication:** true
