@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-05-25'
   relation: related
   strength: 0.6645
+analyses:
+- '2026-11-12-how-the-logan-circle-shooting-account-hangs-together-on-one-hedged-police-hypoth'
 ---
 ## Police say gunman fired at officers at least twice; one victim critical
 
@@ -235,3 +237,8 @@ Another witness, who was not named, told the Washington Sun she heard "an enormo
 **Publication date:** 2026-11-12
 **Title:** Washington DC shooting leaves one dead and four injured as suspect dies after standoff
 **URL:** https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo
+
+---
+
+<!-- analysis-link:2026-11-12-how-the-logan-circle-shooting-account-hangs-together-on-one-hedged-police-hypoth -->
+**Going deeper:** [Read MSI's analysis of the Logan Circle shooting account →](/analyses/2026-11-12-how-the-logan-circle-shooting-account-hangs-together-on-one-hedged-police-hypoth)

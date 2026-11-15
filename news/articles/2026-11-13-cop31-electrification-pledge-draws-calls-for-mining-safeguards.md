@@ -1,9 +1,21 @@
 ---
 headline: COP31 electrification pledge draws calls for mining safeguards
-secondary_headline: Human rights allegations tied to transition mineral mining rose 73% in 2025
+secondary_headline: Human rights allegations tied to transition mineral mining rose
+  73% in 2025
 publish_date: '2026-11-13'
-lede: The president of the U.N. climate talks asked global leaders, delegates and climate activists to pledge clean public transport, energy-efficient buildings and affordable energy as part of a global electrification plan laid out at COP31, but environmental and human rights organizations cautioned that without strong safeguards the mining boom for the minerals and metals needed to deliver it could have serious environmental and human rights impacts worldwide.
-nut_graf: The "35-by-35" pledge aims to increase the use of electricity from 21% to 35% by 2035, and the infrastructure it requires depends on minerals and metals whose extraction rights groups say is already causing documented harm. Environmental activists note the pledge does not require that electricity come from renewable sources, and rights experts note that the summit's official negotiations and main talking points contain no explicit language on critical minerals and mining, leaving, they say, the door open for mining abuses to spread.
+lede: The president of the U.N. climate talks asked global leaders, delegates and
+  climate activists to pledge clean public transport, energy-efficient buildings and
+  affordable energy as part of a global electrification plan laid out at COP31, but
+  environmental and human rights organizations cautioned that without strong safeguards
+  the mining boom for the minerals and metals needed to deliver it could have serious
+  environmental and human rights impacts worldwide.
+nut_graf: The "35-by-35" pledge aims to increase the use of electricity from 21% to
+  35% by 2035, and the infrastructure it requires depends on minerals and metals whose
+  extraction rights groups say is already causing documented harm. Environmental activists
+  note the pledge does not require that electricity come from renewable sources, and
+  rights experts note that the summit's official negotiations and main talking points
+  contain no explicit language on critical minerals and mining, leaving, they say,
+  the door open for mining abuses to spread.
 primary_entities:
 - COP31
 - Turkey
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +160,44 @@ related_stories:
   headline: Erdogan urges countries to adopt zero-waste goals at COP31
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7845
+  strength: 0.7851
 - slug: 2026-11-13-guterres-urges-drastic-emissions-cuts-at-final-climate-summit
   headline: Guterres urges drastic emissions cuts at final climate summit
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7569
+  strength: 0.7576
 - slug: 2026-11-09-kurum-s-action-agenda-centers-on-electrification
   headline: Kurum's Action Agenda centers on electrification
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7828
+  strength: 0.7823
 - slug: 2026-11-11-world-leaders-begin-cop31-talks-in-turkey-seeking-concrete-climate-action
   headline: World leaders begin COP31 talks in Turkey seeking concrete climate action
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7513
+  strength: 0.7516
 - slug: 2026-11-14-india-sets-900-gigawatt-clean-power-goal-for-2035-approves-grid-upgrades
   headline: India sets 900-gigawatt clean power goal for 2035, approves grid upgrades
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7356
+  strength: 0.7354
 - slug: 2026-11-06-un-climate-talks-open-in-turkey-with-fossil-fuel-transition-as-key-issue
   headline: UN climate talks open in Turkey with fossil fuel transition as key issue
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7811
+  strength: 0.7817
 - slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
   headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.766
+  strength: 0.7654
 - slug: 2026-11-12-turkey-rallies-world-leaders-behind-goal-to-electrify-35-of-energy-use-by-2035
-  headline: Turkey rallies world leaders behind goal to electrify 35% of energy use by 2035
+  headline: Turkey rallies world leaders behind goal to electrify 35% of energy use
+    by 2035
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7248
-- slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
-  headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7598
-- slug: 2026-11-10-brazil-to-launch-fossil-fuel-transition-roadmap-at-cop31
-  headline: Brazil to launch fossil fuel transition roadmap at COP31
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7096
-- slug: 2026-11-12-uk-names-first-climate-security-envoy-as-pm-warns-climate-consensus-has-gone
-  headline: UK names first climate security envoy as PM warns climate consensus has gone
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6943
-- slug: 2026-11-10-five-countries-back-plan-to-double-homes-with-rooftop-solar-by-2030
-  headline: Five countries back plan to double homes with rooftop solar by 2030
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7065
-- slug: 2026-11-13-un-study-puts-best-case-warming-at-1-7-to-1-8-degrees
-  headline: UN study puts best-case warming at 1.7 to 1.8 degrees
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6802
-- slug: 2026-11-11-erdogan-calls-gaza-war-an-ecocide-at-cop31-asks-israel-for-more-aid-access
-  headline: Erdogan calls Gaza war an ecocide at COP31, asks Israel for more aid access
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6909
-- slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7128
-- slug: 2026-11-10-china-s-clean-tech-exports-surpassed-220-billion-in-2025
-  headline: China's clean-tech exports surpassed $220 billion in 2025
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6813
-- slug: 2026-11-07-guterres-prepares-final-climate-message-as-cop31-s-nov-9-opening-nears
-  headline: Guterres prepares final climate message as COP31's Nov. 9 opening nears
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6971
-- slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
-  headline: U.N. report finds U.S. emissions rose while global total held steady
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6819
-- slug: 2026-10-09-at-fiji-pre-summit-kurum-calls-climate-crisis-the-security-issue
-  headline: At Fiji pre-summit, Kurum calls climate crisis 'the security issue'
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7243
-- slug: 2026-04-26-colombia-hosts-global-summit-to-tackle-fossil-fuel-reliance
-  headline: Colombia hosts global summit to tackle fossil fuel reliance
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6862
+  strength: 0.724
 ---
-
 ## COP31 electrification pledge draws calls for mining safeguards
 
 

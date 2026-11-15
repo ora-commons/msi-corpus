@@ -2,8 +2,22 @@
 headline: Shaffer traces Colom's win to poverty, unpopular president, change
 secondary_headline: Half a million votes reflected a broad Black and white coalition
 publish_date: '2026-11-12'
-lede: Donald Shaffer, director of African American Studies at Mississippi State University, said Scott Colom's win in Mississippi's U.S. Senate race was "sort of a perfect storm" of "a increasingly unpopular president," "some desire for change" and economic strain — about 19% of Mississippians, he believed, live "right at the poverty level or just below." Shaffer told NPR's All Things Considered that Colom's campaign captured roughly half a million votes in total, the mark of a broad Black and white coalition. Colom will become Mississippi's first Black U.S. senator since Reconstruction, an interval of about 150 years.
-nut_graf: The result lands in a state that has voted reliably Republican for decades, and Donald Shaffer, director of African American Studies at Mississippi State University, said it reflects an increasingly unpopular president, economic strain and a biracial coalition that national Democratic Party leaders had not expected to materialize. Shaffer said he believed it was not until 1986 that Mike Espy became the first Black elected official to Congress from Mississippi, from the 2nd Congressional District — it took at least that long after the end of Reconstruction to see Black political participation at the federal level.
+lede: Donald Shaffer, director of African American Studies at Mississippi State University,
+  said Scott Colom's win in Mississippi's U.S. Senate race was "sort of a perfect
+  storm" of "a increasingly unpopular president," "some desire for change" and economic
+  strain — about 19% of Mississippians, he believed, live "right at the poverty level
+  or just below." Shaffer told NPR's All Things Considered that Colom's campaign captured
+  roughly half a million votes in total, the mark of a broad Black and white coalition.
+  Colom will become Mississippi's first Black U.S. senator since Reconstruction, an
+  interval of about 150 years.
+nut_graf: The result lands in a state that has voted reliably Republican for decades,
+  and Donald Shaffer, director of African American Studies at Mississippi State University,
+  said it reflects an increasingly unpopular president, economic strain and a biracial
+  coalition that national Democratic Party leaders had not expected to materialize.
+  Shaffer said he believed it was not until 1986 that Mike Espy became the first Black
+  elected official to Congress from Mississippi, from the 2nd Congressional District
+  — it took at least that long after the end of Reconstruction to see Black political
+  participation at the federal level.
 primary_entities:
 - Scott Colom
 - Donald Shaffer
@@ -45,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,22 +162,24 @@ related_stories:
   headline: Colom says national Democrats spent 'almost nothing' in Mississippi
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.819
+  strength: 0.8194
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-seat-first-black-senator-since-reco
-  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator since Reconstruction
+  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator
+    since Reconstruction
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.813
+  strength: 0.8134
 - slug: 2026-11-11-scott-colom-wins-mississippi-senate-race-first-democrat-elected-since-1982
-  headline: Scott Colom wins Mississippi Senate race, first Democrat elected since 1982
+  headline: Scott Colom wins Mississippi Senate race, first Democrat elected since
+    1982
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8105
+  strength: 0.8107
 - slug: 2026-11-13-colom-s-senate-win-draws-celebration-across-racial-lines
   headline: Colom's Senate win draws celebration across racial lines
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8015
+  strength: 0.8019
 - slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-incumbent-hyde-smith
   headline: Democrat Scott Colom wins Mississippi Senate race over incumbent Hyde-Smith
   publish_date: '2026-11-11'
@@ -172,79 +189,18 @@ related_stories:
   headline: Scott Colom celebrates Mississippi Senate win as Cindy Hyde-Smith concedes
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7862
+  strength: 0.7864
 - slug: 2026-11-11-black-voters-backed-colom-by-95-points-voter-poll-found
   headline: Black voters backed Colom by 95 points, Voter Poll found
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7914
+  strength: 0.7915
 - slug: 2026-11-12-mississippians-describe-what-colom-s-senate-win-means-for-the-state
   headline: Mississippians describe what Colom's Senate win means for the state
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7771
-- slug: 2026-11-12-sen--elect-scott-colom-s-sweatshirts-express-pride-in-mississippi-and-black-amer
-  headline: Sen.-elect Scott Colom's sweatshirts express pride in Mississippi and Black America
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7741
-- slug: 2026-11-11-scott-colom-closes-winning-mississippi-senate-campaign-with-medgar-evers-ad
-  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers ad
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7808
-- slug: 2026-11-13-colom-outworked-hyde-smith-and-flipped-seven-mississippi-counties
-  headline: Colom outworked Hyde-Smith and flipped seven Mississippi counties
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7726
-- slug: 2026-11-11-scott-colom-leads-cindy-hyde-smith-as-mississippi-votes-remain-uncounted
-  headline: Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7788
-- slug: 2026-11-12-thompson-says-colom-s-senate-victory-shows-democrats-can-win-mississippi
-  headline: Thompson says Colom's Senate victory shows Democrats can win Mississippi
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7713
-- slug: 2026-11-07-black-mississippians-react-to-scott-colom-s-historic-u-s-senate-bid
-  headline: Black Mississippians react to Scott Colom's historic U.S. Senate bid
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.791
-- slug: 2026-11-12-espy-wright-call-colom-s-win-a-culmination-of-decades-of-civil-rights-organizing
-  headline: Espy, Wright call Colom's win a culmination of decades of civil rights organizing
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7562
-- slug: 2026-11-12-pundits-wrote-off-colom-s-senate-bid-before-free-tacos-truck-and-homecomings
-  headline: Pundits wrote off Colom's Senate bid before free-tacos truck and homecomings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7547
-- slug: 2026-11-12-mississippi-s-two-previous-black-senators-served-before-jim-crow-as-republicans
-  headline: Mississippi's two previous Black senators served before Jim Crow as Republicans
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7514
-- slug: 2026-11-13-dozens-celebrate-colom-s-win-at-naacp-watch-party-in-jackson
-  headline: Dozens celebrate Colom's win at NAACP watch party in Jackson
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7487
-- slug: 2026-11-12-scott-colom-celebrates-mississippi-senate-win-as-first-black-senator-since-1875
-  headline: Scott Colom celebrates Mississippi Senate win as first Black senator since 1875
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7433
-- slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
-  headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7896
+  strength: 0.7773
 ---
-
 ## Shaffer traces Colom's win to poverty, unpopular president, change
 
 **Subtype:** fact
