@@ -1,9 +1,19 @@
 ---
 headline: Massachusetts sheriffs seek $241 million for jail repairs
-secondary_headline: Bristol County seeks $27 million to close 148-year-old Ash Street Jail
+secondary_headline: Bristol County seeks $27 million to close 148-year-old Ash Street
+  Jail
 publish_date: '2026-11-13'
-lede: Massachusetts county sheriffs have asked the state for about $241 million to repair and renovate their jails, far more than the $125 million to $150 million the state expects to make available through its capital funding program. Bristol County Sheriff Paul Heroux is seeking $27 million so he can close the 148-year-old Ash Street Jail in New Bedford and consolidate operations at the Dartmouth House of Correction. Applications closed in January through the Division of Capital Asset Management and Maintenance, and funding decisions remain pending 10 months later.
-nut_graf: The contest is the first of its kind in Massachusetts, and it lands amid new legislative limits on sheriffs' hiring and spending. The outcome will determine whether Ash Street Jail stays open, and whether 20 local police departments — including New Bedford's — keep a regional lockup for arrestees held until arraignment.
+lede: Massachusetts county sheriffs have asked the state for about $241 million to
+  repair and renovate their jails, far more than the $125 million to $150 million
+  the state expects to make available through its capital funding program. Bristol
+  County Sheriff Paul Heroux is seeking $27 million so he can close the 148-year-old
+  Ash Street Jail in New Bedford and consolidate operations at the Dartmouth House
+  of Correction. Applications closed in January through the Division of Capital Asset
+  Management and Maintenance, and funding decisions remain pending 10 months later.
+nut_graf: The contest is the first of its kind in Massachusetts, and it lands amid
+  new legislative limits on sheriffs' hiring and spending. The outcome will determine
+  whether Ash Street Jail stays open, and whether 20 local police departments — including
+  New Bedford's — keep a regional lockup for arrestees held until arraignment.
 primary_entities:
 - Paul Heroux
 - Ash Street Jail
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +150,8 @@ cross_article_links:
   strength: 0.5685
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-09-25-tennessee-plans-360m-for-new-youth-prisons-as-arrests-fall
-  headline: Tennessee plans $360M for new youth prisons as arrests fall
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6153
-- slug: 2026-09-17-memphis-prevention-programs-struggle-to-meet-teen-demand-after-federal-cuts
-  headline: Memphis prevention programs struggle to meet teen demand after federal cuts
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5762
-- slug: 2026-08-19-massachusetts-housing-bills-head-to-conference-committee-amid-222-000-home-goal
-  headline: Massachusetts housing bills head to conference committee amid 222,000-home goal
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5982
-- slug: 2026-04-16-massachusetts-5m-immigrant-legal-aid-program-at-capacity-as-removal-cases-top-12
-  headline: Massachusetts $5M immigrant legal aid program at capacity as removal cases top 126,000
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6214
-- slug: 2026-04-15-judge-extends-pause-on-maryland-warehouse-immigrant-detention-conversion
-  headline: Judge extends pause on Maryland warehouse immigrant detention conversion
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.617
-- slug: 2026-04-16-mississippi-auditor-demands-7-4m-from-private-prison-operator-over-staffing-fail
-  headline: Mississippi auditor demands $7.4M from private prison operator over staffing failures
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6127
-- slug: 2026-06-24-massachusetts-supreme-court-strikes-down-rent-control-ballot-measure
-  headline: Massachusetts Supreme Court Strikes Down Rent-Control Ballot Measure
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5839
-- slug: 2026-04-10-protesters-derail-maryland-plans-for-ice-warehouse-detention-facility
-  headline: Protesters derail Maryland plans for ICE warehouse detention facility
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6073
-- slug: 2026-04-10-us-communities-push-back-on-plans-for-immigration-detention-centers
-  headline: US communities push back on plans for immigration detention centers
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6068
-- slug: 2026-06-09-salt-lake-city-sues-to-block-dhs-warehouse-for-detaining-up-to-10-000-immigrants
-  headline: Salt Lake City sues to block DHS warehouse for detaining up to 10,000 immigrants
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5858
-- slug: 2026-04-09-us-communities-push-back-on-plans-to-convert-warehouses-into-detention-centers
-  headline: US communities push back on plans to convert warehouses into detention centers
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5969
-- slug: 2026-04-08-us-communities-push-back-on-plans-to-convert-warehouses-into-detention-centers
-  headline: US communities push back on plans to convert warehouses into detention centers
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5966
-- slug: 2026-04-11-us-communities-push-back-on-plans-to-convert-warehouses-into-detention-centers
-  headline: US communities push back on plans to convert warehouses into detention centers
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5925
-- slug: 2026-05-13-michigan-s-35m-loan-call-threatens-key-autonomous-vehicle-test-center
-  headline: Michigan's $35M loan call threatens key autonomous vehicle test center
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5839
-- slug: 2026-04-15-massachusetts-income-tax-cut-ballot-question-divides-business-groups-and-lawmake
-  headline: Massachusetts income tax cut ballot question divides business groups and lawmakers
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5885
-- slug: 2026-05-13-michigan-demands-repayment-of-35m-loan-to-auto-mobility-center
-  headline: Michigan demands repayment of $35M loan to auto mobility center
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5807
-- slug: 2026-02-05-democrats-threaten-to-block-dhs-funding-unless-ice-changes
-  headline: Democrats threaten to block DHS funding unless ICE changes
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.5893
-- slug: 2026-01-12-massachusetts-enacts-assisted-living-safety-reforms-after-fire-killed-10
-  headline: Massachusetts enacts assisted living safety reforms after fire killed 10
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.5901
-- slug: 2026-04-17-abbott-threatens-200-million-in-funding-cuts-to-texas-cities-over-ice-policies
-  headline: Abbott threatens $200 million in funding cuts to Texas cities over ICE policies
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5798
-- slug: 2026-01-16-california-tightens-homelessness-funding-strings-as-annual-pool-drops-to-500m
-  headline: California tightens homelessness funding strings as annual pool drops to $500M
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.5896
+related_stories: []
 ---
-
 ## Massachusetts sheriffs seek $241 million for jail repairs
 
 - Massachusetts county sheriffs have requested about $241 million in state funding to repair and renovate their jails, far more than the $125 million to $150 million the state expects to allocate.
