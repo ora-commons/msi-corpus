@@ -1,9 +1,19 @@
 ---
 headline: Tau protein blood test shows early hint at diagnosing CTE
-secondary_headline: Study tested stored blood from 11 people classified as having CTE
+secondary_headline: Study tested stored blood from 11 people classified as having
+  CTE
 publish_date: '2026-11-14'
-lede: Researchers at Washington University in St. Louis reported that a tau protein fragment found at high levels in blood may help flag advanced chronic traumatic encephalopathy, the brain disease linked to repeated head blows in football players and others. The finding, published late Friday by the medical journal JAMA, could not reliably identify early-stage CTE, and an outside expert called it preliminary. The study is based on blood stored from 11 people classified as having CTE.
-nut_graf: CTE can currently be confirmed only by examining the brain after death, leaving doctors to judge symptoms such as mood swings and memory loss that overlap with other diseases. A blood-based marker that could distinguish CTE from those lookalike conditions would change how the disease is diagnosed in living patients, but this study is far too small to establish whether the connection is real.
+lede: Researchers at Washington University in St. Louis reported that a tau protein
+  fragment found at high levels in blood may help flag advanced chronic traumatic
+  encephalopathy, the brain disease linked to repeated head blows in football players
+  and others. The finding, published late Friday by the medical journal JAMA, could
+  not reliably identify early-stage CTE, and an outside expert called it preliminary.
+  The study is based on blood stored from 11 people classified as having CTE.
+nut_graf: CTE can currently be confirmed only by examining the brain after death,
+  leaving doctors to judge symptoms such as mood swings and memory loss that overlap
+  with other diseases. A blood-based marker that could distinguish CTE from those
+  lookalike conditions would change how the disease is diagnosed in living patients,
+  but this study is far too small to establish whether the connection is real.
 primary_entities:
 - Washington University in St. Louis
 - Chihiro Sato
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +148,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-12-ai-model-predicts-ptsd-risk-from-er-patients-own-words
-  headline: AI model predicts PTSD risk from ER patients' own words
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5923
-- slug: 2026-11-01-american-stroke-association-lists-six-be-fast-stroke-warning-signs
-  headline: American Stroke Association lists six BE FAST stroke warning signs
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6247
-- slug: 2026-11-03-study-links-louisiana-pollution-hotspots-to-higher-infant-heart-defect-odds
-  headline: Study links Louisiana pollution hotspots to higher infant heart defect odds
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5649
-- slug: 2026-10-28-study-finds-7-million-exposed-to-high-lead-levels-in-los-angeles-fire-smoke
-  headline: Study finds 7 million exposed to high lead levels in Los Angeles fire smoke
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5578
-- slug: 2026-09-20-rethink-finds-record-premature-mortality-among-severely-mentally-ill-in-england
-  headline: Rethink finds record premature mortality among severely mentally ill in England
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5717
-- slug: 2026-09-19-frog-egg-tests-find-what-researchers-describe-as-earliest-betel-nut-use
-  headline: Frog egg tests find what researchers describe as earliest betel nut use
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5715
-- slug: 2026-09-18-study-23-million-younger-veterans-carry-pfas-13-24-higher-than-non-veterans
-  headline: 'Study: 23 million younger veterans carry PFAS 13%–24% higher than non-veterans'
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5699
 - slug: 2026-07-15-p-tau217-blood-test-may-flag-alzheimer-s-risk-in-healthy-older-adults
   headline: P-tau217 blood test may flag Alzheimer's risk in healthy older adults
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6777
-- slug: 2026-09-17-university-of-pittsburgh-alzheimer-s-study-forced-to-shut-down-90-days-after-nih
-  headline: University of Pittsburgh Alzheimer's study forced to shut down 90 days after NIH grant cancellation
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5563
+  strength: 0.6768
 - slug: 2026-07-14-biogen-drug-targets-tau-protein-in-early-alzheimer-s-study-shows
   headline: Biogen drug targets tau protein in early Alzheimer's, study shows
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6575
-- slug: 2026-08-25-tbi-act-lapses-and-cdc-team-tracking-brain-injuries-is-fired
-  headline: TBI Act lapses and CDC team tracking brain injuries is fired
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5556
-- slug: 2026-07-16-army-fields-handheld-blood-test-that-detects-brain-injuries-in-15-minutes
-  headline: Army fields handheld blood test that detects brain injuries in 15 minutes
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6017
-- slug: 2026-08-06-study-links-navigation-heavy-work-to-lower-alzheimer-s-death-risk
-  headline: Study links navigation-heavy work to lower Alzheimer's death risk
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5732
-- slug: 2026-08-06-patients-use-ai-to-interpret-medical-tests-despite-doctors-concerns
-  headline: Patients use AI to interpret medical tests despite doctors' concerns
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.5675
-- slug: 2026-03-15-brain-exercises-may-help-lower-dementia-risk-experts-say
-  headline: Brain exercises may help lower dementia risk, experts say
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6113
-- slug: 2026-06-17-ai-tool-flagged-blood-clot-before-diagnosis-author-says
-  headline: AI tool flagged blood clot before diagnosis, author says
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5749
-- slug: 2026-06-23-disputed-criminal-brain-science-put-man-on-death-row-critics-say
-  headline: Disputed 'criminal brain' science put man on death row, critics say
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5636
-- slug: 2026-06-26-study-finds-immune-system-still-responding-to-toxic-chemicals-in-east-palestine-
-  headline: Study finds immune system still responding to toxic chemicals in East Palestine residents
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5607
-- slug: 2026-02-12-could-gene-editing-offer-a-one-time-fix-for-artery-clogging-cholesterol
-  headline: Could gene editing offer a one-time fix for artery-clogging cholesterol?
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.586
-- slug: 2026-01-03-trump-says-ct-scan-not-mri-was-done-at-october-walter-reed-visit
-  headline: Trump says CT scan, not MRI, was done at October Walter Reed visit
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.5819
+  strength: 0.6551
 ---
-
 ## Tau protein blood test shows early hint at diagnosing CTE
 
 **Subtype:** fact**

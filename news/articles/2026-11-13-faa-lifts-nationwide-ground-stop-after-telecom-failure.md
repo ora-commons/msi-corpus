@@ -1,9 +1,22 @@
 ---
 headline: FAA lifts nationwide ground stop after telecom failure
-secondary_headline: Duffy points to outdated air traffic control equipment, offering few specifics
+secondary_headline: Duffy points to outdated air traffic control equipment, offering
+  few specifics
 publish_date: '2026-11-13'
-lede: The Federal Aviation Administration took an extraordinary step on Friday, November 13, 2026, by issuing a nationwide ground stop that kept any plane from taking off at any airport in the United States, grounding thousands of planes and stranding millions of passengers; the agency cited a telecommunications failure for the halt and lifted the stop later the same day. Transportation Secretary Sean Duffy told reporters the airspace had reopened, but cautioned that clearing the backlog of canceled and delayed flights would take time, and that determining the cause would take longer still.
-nut_graf: 'The Federal Aviation Administration rarely halts departures nationwide: NPR transportation correspondent Joel Rose said Friday''s ground stop was only the second since September 11, 2001, and that it appears to be the longest since then. With airlines canceling thousands of flights and planes and crews out of position, Rose said the U.S. aviation system would take days, optimistically, to return to normal, while investigators had not established what failed.'
+lede: The Federal Aviation Administration took an extraordinary step on Friday, November
+  13, 2026, by issuing a nationwide ground stop that kept any plane from taking off
+  at any airport in the United States, grounding thousands of planes and stranding
+  millions of passengers; the agency cited a telecommunications failure for the halt
+  and lifted the stop later the same day. Transportation Secretary Sean Duffy told
+  reporters the airspace had reopened, but cautioned that clearing the backlog of
+  canceled and delayed flights would take time, and that determining the cause would
+  take longer still.
+nut_graf: 'The Federal Aviation Administration rarely halts departures nationwide:
+  NPR transportation correspondent Joel Rose said Friday''s ground stop was only the
+  second since September 11, 2001, and that it appears to be the longest since then.
+  With airlines canceling thousands of flights and planes and crews out of position,
+  Rose said the U.S. aviation system would take days, optimistically, to return to
+  normal, while investigators had not established what failed.'
 primary_entities:
 - Federal Aviation Administration
 - Sean Duffy
@@ -40,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +156,45 @@ related_stories:
   headline: FAA lifts its longest nationwide ground stop since 9/11
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8943
+  strength: 0.8934
 - slug: 2026-11-13-faa-grounds-all-us-departures-delaying-or-canceling-nearly-7-000-flights
   headline: FAA grounds all US departures, delaying or canceling nearly 7,000 flights
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8685
+  strength: 0.8669
 - slug: 2026-11-13-faa-grounds-all-flights-nationwide-over-control-center-communications-issue
-  headline: FAA grounds all flights nationwide over control-center communications issue
+  headline: FAA grounds all flights nationwide over control-center communications
+    issue
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8636
+  strength: 0.8625
 - slug: 2026-11-13-faa-halts-departing-flights-nationwide-after-communications-issue
   headline: FAA halts departing flights nationwide after communications issue
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8536
+  strength: 0.8529
 - slug: 2026-11-13-faa-to-manage-international-flights-case-by-case-during-nationwide-ground-stop
-  headline: FAA to manage international flights case by case during nationwide ground stop
+  headline: FAA to manage international flights case by case during nationwide ground
+    stop
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8435
+  strength: 0.8423
 - slug: 2026-11-13-arroyo-says-nationwide-air-traffic-outage-could-stem-from-obsolete-technology
   headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8304
+  strength: 0.831
 - slug: 2026-11-13-dhs-secretary-says-no-threat-to-u-s-as-faa-grounds-all-flights
   headline: DHS secretary says no threat to U.S. as FAA grounds all flights
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8205
+  strength: 0.8206
 - slug: 2026-11-13-faa-halts-all-departing-flights-nationwide-over-telecom-outage
   headline: FAA halts all departing flights nationwide over telecom outage
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8018
-- slug: 2026-11-13-white-house-lobbies-congress-for-30-billion-to-finish-air-traffic-overhaul
-  headline: White House lobbies Congress for $30 billion to finish air traffic overhaul
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7978
-- slug: 2026-11-13-mullin-says-no-indication-faa-ground-stop-was-a-threat-to-us
-  headline: Mullin says no indication FAA ground stop was a threat to US
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7913
-- slug: 2026-11-13-faa-nationwide-ground-stop-halts-departures-at-t-f-green
-  headline: FAA nationwide ground stop halts departures at T.F. Green
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7766
-- slug: 2026-09-21-nj-transit-says-its-crew-cut-the-fiber-line-that-grounded-northeast-flights
-  headline: NJ Transit says its crew cut the fiber line that grounded Northeast flights
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7256
-- slug: 2026-09-21-faa-halts-flights-at-three-airports-as-gao-cites-hacking-vulnerabilities
-  headline: FAA halts flights at three airports as GAO cites hacking vulnerabilities
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7129
-- slug: 2026-09-28-faa-chief-delays-737-max-10-certification-over-pilot-workload-software-glitch
-  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software glitch
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6756
-- slug: 2026-09-21-faa-launches-875m-ai-system-to-manage-u-s-airspace
-  headline: FAA launches $875M AI system to manage U.S. airspace
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6735
-- slug: 2026-03-10-faa-briefly-grounds-all-jetblue-flights-after-system-outage-lifts-stop-in-40-min
-  headline: FAA briefly grounds all JetBlue flights after system outage, lifts stop in 40 minutes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7891
-- slug: 2026-03-15-chemical-smell-halts-flights-at-four-washington-area-airports-for-over-an-hour
-  headline: Chemical smell halts flights at four Washington-area airports for over an hour
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7073
-- slug: 2026-03-18-more-flight-cancellations-delays-due-to-us-storms
-  headline: More flight cancellations, delays due to US storms
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7068
-- slug: 2026-05-03-spirit-airlines-says-it-is-going-out-of-business-after-34-years
-  headline: Spirit Airlines says it is going out of business after 34 years
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.683
-- slug: 2026-04-17-faa-orders-300-daily-flight-cuts-at-o-hare-to-curb-summer-delays
-  headline: FAA orders 300 daily flight cuts at O'Hare to curb summer delays
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6855
+  strength: 0.8009
 ---
-
 ## FAA lifts nationwide ground stop after telecom failure
 
 **Subtype:** fact

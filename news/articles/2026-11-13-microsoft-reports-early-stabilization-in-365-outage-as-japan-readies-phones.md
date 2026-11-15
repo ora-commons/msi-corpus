@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.7631
+analyses:
+- '2026-11-13-microsoft-s-365-failure-exposes-a-dependency-structure-that-governs-the-next-out'
 ---
 ## Microsoft reports early stabilization in 365 outage as Japan readies phones
 
@@ -249,3 +251,8 @@ OpenAI and Anthropic reported separately that they had trouble connecting with M
 **Publication date:** 2026-11-13
 **Title:** Microsoft trata de restaurar sus servicios tras falla global que afecta a empresas y gobiernos
 **URL:** https://apnews.com/article/microsoft-falla-outlook-mail-365-status-b9aafb388f98551bc6b6085114abf814
+
+---
+
+<!-- analysis-link:2026-11-13-microsoft-s-365-failure-exposes-a-dependency-structure-that-governs-the-next-out -->
+**Going deeper:** [Read MSI's analysis of the Microsoft 365 outage's repeatable structure →](/analyses/2026-11-13-microsoft-s-365-failure-exposes-a-dependency-structure-that-governs-the-next-out)

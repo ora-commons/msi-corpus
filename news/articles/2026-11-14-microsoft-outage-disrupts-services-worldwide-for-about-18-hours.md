@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-11-12'
   relation: related
   strength: 0.7321
+analyses:
+- '2026-11-14-microsoft-servers-sit-upstream-of-hospitals-courts-and-payrolls-worldwide'
 ---
 ## Microsoft outage disrupts services worldwide for about 18 hours
 
@@ -226,3 +228,8 @@ When stock market trading opened on Wall Street, shares in Microsoft dipped slig
 **Publication date:** 2026-11-14
 **Title:** Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia
 **URL:** https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia
+
+---
+
+<!-- analysis-link:2026-11-14-microsoft-servers-sit-upstream-of-hospitals-courts-and-payrolls-worldwide -->
+**Going deeper:** [Read MSI's analysis of single-provider dependency behind the Microsoft outage →](/analyses/2026-11-14-microsoft-servers-sit-upstream-of-hospitals-courts-and-payrolls-worldwide)
