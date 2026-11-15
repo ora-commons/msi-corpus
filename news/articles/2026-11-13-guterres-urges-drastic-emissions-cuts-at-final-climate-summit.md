@@ -2,8 +2,18 @@
 headline: Guterres urges drastic emissions cuts at final climate summit
 secondary_headline: COP31 electrification goal splits delegates on fossil fuel use
 publish_date: '2026-11-13'
-lede: U.N. Secretary-General António Guterres said Friday that the world must immediately and drastically cut fossil fuel emissions to avert the most catastrophic effects of climate change, using his final climate summit to urge leaders to "follow the science" and face hard facts. Guterres spoke as world leaders gathered in Antalya, Turkey, for the annual U.N. climate talks, where negotiators are seeking consensus on concrete actions and on funding for the countries most at risk.
-nut_graf: 'The summit arrives with an independent assessment showing that progress on slowing global warming has essentially stalled for five years, making the Paris Agreement''s 1.5-degree Celsius target certain to be overshot. Two disputes dominate the talks: whether a new electrification pledge must require clean energy, and whether wealthier nations will fund adaptation for the poorer countries that contributed least to the crisis.'
+lede: U.N. Secretary-General António Guterres said Friday that the world must immediately
+  and drastically cut fossil fuel emissions to avert the most catastrophic effects
+  of climate change, using his final climate summit to urge leaders to "follow the
+  science" and face hard facts. Guterres spoke as world leaders gathered in Antalya,
+  Turkey, for the annual U.N. climate talks, where negotiators are seeking consensus
+  on concrete actions and on funding for the countries most at risk.
+nut_graf: 'The summit arrives with an independent assessment showing that progress
+  on slowing global warming has essentially stalled for five years, making the Paris
+  Agreement''s 1.5-degree Celsius target certain to be overshot. Two disputes dominate
+  the talks: whether a new electrification pledge must require clean energy, and whether
+  wealthier nations will fund adaptation for the poorer countries that contributed
+  least to the crisis.'
 primary_entities:
 - António Guterres
 - United Nations
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +155,44 @@ related_stories:
   headline: Guterres prepares final climate message as COP31's Nov. 9 opening nears
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8787
+  strength: 0.879
 - slug: 2026-11-11-world-leaders-begin-cop31-talks-in-turkey-seeking-concrete-climate-action
   headline: World leaders begin COP31 talks in Turkey seeking concrete climate action
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7957
-- slug: 2026-11-06-un-climate-talks-open-in-turkey-with-fossil-fuel-transition-as-key-issue
-  headline: UN climate talks open in Turkey with fossil fuel transition as key issue
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.8068
+  strength: 0.7972
 - slug: 2026-11-11-erdogan-urges-countries-to-adopt-zero-waste-goals-at-cop31
   headline: Erdogan urges countries to adopt zero-waste goals at COP31
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7729
+  strength: 0.7753
+- slug: 2026-11-06-un-climate-talks-open-in-turkey-with-fossil-fuel-transition-as-key-issue
+  headline: UN climate talks open in Turkey with fossil fuel transition as key issue
+  publish_date: '2026-11-06'
+  relation: related
+  strength: 0.8085
 - slug: 2026-11-09-kurum-s-action-agenda-centers-on-electrification
   headline: Kurum's Action Agenda centers on electrification
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7771
+  strength: 0.7785
 - slug: 2026-11-12-global-climate-action-has-stalled-for-five-years-report-finds
   headline: Global climate action has stalled for five years, report finds
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7462
+  strength: 0.7473
 - slug: 2026-11-12-john-kerry-calls-trump-the-biggest-loser-on-climate-as-us-skips-cop31-talks
-  headline: John Kerry calls Trump the 'biggest loser' on climate as US skips Cop31 talks
+  headline: John Kerry calls Trump the 'biggest loser' on climate as US skips Cop31
+    talks
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7323
+  strength: 0.7322
 - slug: 2026-11-13-un-study-puts-best-case-warming-at-1-7-to-1-8-degrees
   headline: UN study puts best-case warming at 1.7 to 1.8 degrees
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7206
-- slug: 2026-11-11-erdogan-calls-gaza-war-an-ecocide-at-cop31-asks-israel-for-more-aid-access
-  headline: Erdogan calls Gaza war an ecocide at COP31, asks Israel for more aid access
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7257
-- slug: 2026-11-10-greta-thunberg-calls-for-structural-changes-to-global-systems-at-cop31
-  headline: Greta Thunberg calls for structural changes to global systems at COP31
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7309
-- slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
-  headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7562
-- slug: 2026-11-12-turkey-rallies-world-leaders-behind-goal-to-electrify-35-of-energy-use-by-2035
-  headline: Turkey rallies world leaders behind goal to electrify 35% of energy use by 2035
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7021
-- slug: 2026-11-12-uk-names-first-climate-security-envoy-as-pm-warns-climate-consensus-has-gone
-  headline: UK names first climate security envoy as PM warns climate consensus has gone
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6969
-- slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7135
-- slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
-  headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7121
-- slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
-  headline: U.N. report finds U.S. emissions rose while global total held steady
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7508
-- slug: 2026-10-09-at-fiji-pre-summit-kurum-calls-climate-crisis-the-security-issue
-  headline: At Fiji pre-summit, Kurum calls climate crisis 'the security issue'
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7397
-- slug: 2026-09-22-guterres-opens-un-general-assembly-warning-of-widening-fault-lines
-  headline: Guterres opens UN General Assembly warning of 'widening fault lines'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7059
-- slug: 2026-09-21-world-leaders-at-climate-week-link-fossil-fuels-to-wars-and-economic-risk
-  headline: World leaders at Climate Week link fossil fuels to wars and economic risk
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7005
-- slug: 2026-04-29-high-level-talks-begin-on-shifting-from-fossil-fuels-in-colombia
-  headline: High-level talks begin on shifting from fossil fuels in Colombia
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7314
+  strength: 0.7237
 ---
-
 ## Guterres urges drastic emissions cuts at final climate summit
 
 **Subtype:** fact

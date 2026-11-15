@@ -2,8 +2,17 @@
 headline: Vance's 21-hour Iran talks in Pakistan produce no deal
 secondary_headline: Trump says he is fine with Vance blaming Iran war for losses
 publish_date: '2026-11-13'
-lede: Vice President JD Vance's talks in Pakistan, held under the April assignment President Trump gave him to be the United States' lead negotiator to end the war with Iran, produced no agreement, NPR reported. Trump said earlier this week that he was fine with Vance's social-media post after the midterm elections saying the war with Iran was one of the biggest reasons Republicans lost control of Congress. Trump first asked Vance to take up combating fraud in March, when he launched a fraud task force, NPR reported.
-nut_graf: NPR reported that the refocus pulls Vance out of the Iran negotiations that were a boost to his limited foreign policy portfolio, at a time when Vance is widely considered to be running for president in 2028 and could be politically harmed by being closely tied to an unpopular war.
+lede: Vice President JD Vance's talks in Pakistan, held under the April assignment
+  President Trump gave him to be the United States' lead negotiator to end the war
+  with Iran, produced no agreement, NPR reported. Trump said earlier this week that
+  he was fine with Vance's social-media post after the midterm elections saying the
+  war with Iran was one of the biggest reasons Republicans lost control of Congress.
+  Trump first asked Vance to take up combating fraud in March, when he launched a
+  fraud task force, NPR reported.
+nut_graf: NPR reported that the refocus pulls Vance out of the Iran negotiations that
+  were a boost to his limited foreign policy portfolio, at a time when Vance is widely
+  considered to be running for president in 2028 and could be politically harmed by
+  being closely tied to an unpopular war.
 primary_entities:
 - Donald Trump
 - JD Vance
@@ -37,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,107 +146,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-12-trump-directs-vance-away-from-iran-war-to-what-he-calls-crime-corruption-in-demo
-  headline: Trump directs Vance away from Iran war to what he calls crime, corruption in Democratic-led states
+  headline: Trump directs Vance away from Iran war to what he calls crime, corruption
+    in Democratic-led states
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.807
+  strength: 0.8082
 - slug: 2026-11-12-trump-says-u-s-doesn-u0027t-need-iran-deal-tells-vance-to-probe-democratic-citie
-  headline: Trump says U.S. doesn\u0027t need Iran deal, tells Vance to probe Democratic cities
+  headline: Trump says U.S. doesn\u0027t need Iran deal, tells Vance to probe Democratic
+    cities
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.784
+  strength: 0.7852
 - slug: 2026-11-11-vance-weighs-direct-iran-talks-as-trump-empowers-him-to-negotiate
   headline: Vance weighs direct Iran talks as Trump empowers him to negotiate
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.782
+  strength: 0.7835
 - slug: 2026-11-12-us-maintains-blockade-of-iranian-ports-as-war-settles-into-stalemate
   headline: US maintains blockade of Iranian ports as war settles into stalemate
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7603
+  strength: 0.7613
 - slug: 2026-11-05-vance-blames-iran-war-for-republican-midterm-losses-trump-largely-agrees
   headline: Vance blames Iran war for Republican midterm losses; Trump largely agrees
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.767
+  strength: 0.768
 - slug: 2026-11-04-vance-distances-himself-from-trump-s-iran-war-defense-after-gop-losses
   headline: Vance distances himself from Trump’s Iran war defense after GOP losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7699
+  strength: 0.771
 - slug: 2026-11-04-jd-vance-blames-iran-war-for-republican-midterm-losses
   headline: JD Vance blames Iran war for Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7607
+  strength: 0.7616
 - slug: 2026-11-04-vance-says-iran-war-was-the-reason-republicans-lost-midterms
   headline: Vance says Iran war was the reason Republicans lost midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7438
-- slug: 2026-11-04-trump-defiende-la-guerra-contra-ir-n-y-elogia-el-mensaje-de-vance-tras-las-derro
-  headline: Trump defiende la guerra contra Irán y elogia el mensaje de Vance tras las derrotas republicanas
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7224
-- slug: 2026-11-06-mediators-push-iran-peace-talks-on-hormuz-and-nuclear-program-after-midterms
-  headline: Mediators push Iran peace talks on Hormuz and nuclear program after midterms
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7071
-- slug: 2026-10-28-vance-sends-letter-to-iranian-security-chief-to-restart-peace-talks
-  headline: Vance sends letter to Iranian security chief to restart peace talks
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7555
-- slug: 2026-11-04-mike-johnson-won-t-seek-reelection-as-house-republicans-top-leader
-  headline: Mike Johnson won't seek reelection as House Republicans' top leader
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7077
-- slug: 2026-09-27-vance-works-to-rebuild-fractured-trump-coalition-ahead-of-midterms
-  headline: Vance works to rebuild fractured Trump coalition ahead of midterms
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7286
-- slug: 2026-09-14-vance-says-iran-fight-is-not-a-war-trump-has-called-it-one
-  headline: Vance says Iran fight is not a war; Trump has called it one
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7227
-- slug: 2026-06-25-vance-takes-lead-on-iran-deal-as-trump-signals-fall-guy-role
-  headline: Vance takes lead on Iran deal as Trump signals fall guy role
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7766
-- slug: 2026-06-18-vance-says-iran-deal-is-us-win-no-matter-what-happens-next
-  headline: Vance says Iran deal is US win no matter what happens next
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7538
-- slug: 2026-06-17-vance-works-to-sell-iran-deal-amid-conservative-skepticism
-  headline: Vance works to sell Iran deal amid conservative skepticism
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7502
-- slug: 2026-04-11-vance-warns-iran-not-to-play-the-us-as-talks-aim-to-end-war
-  headline: Vance warns Iran not to “play” the US as talks aim to end war
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7688
-- slug: 2026-06-09-vance-says-us-very-close-to-iran-peace-deal-hours-before-new-strikes
-  headline: Vance says US ‘very close’ to Iran peace deal hours before new strikes
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7452
-- slug: 2026-04-12-us-and-iran-end-direct-negotiations-on-war-s-fragile-ceasefire
-  headline: US and Iran end direct negotiations on war’s fragile ceasefire
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.7638
+  strength: 0.7442
 ---
-
 ## Vance's 21-hour Iran talks in Pakistan produce no deal
 
 **Subtype:** fact
