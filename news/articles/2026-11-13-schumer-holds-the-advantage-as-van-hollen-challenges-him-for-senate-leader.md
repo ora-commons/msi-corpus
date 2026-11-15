@@ -1,9 +1,19 @@
 ---
 headline: Schumer holds the advantage as Van Hollen challenges him for Senate leader
-secondary_headline: Schumer lacks a publicly pledged majority ahead of December leadership vote
+secondary_headline: Schumer lacks a publicly pledged majority ahead of December leadership
+  vote
 publish_date: '2026-11-13'
-lede: Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for leadership of the Senate Democrats, mounting what PBS NewsHour calls the first serious challenge to Schumer's hold on the post. Van Hollen told the program he spoke with Schumer before launching his bid and framed the race as a choice for the caucus after voters 'chose change.' Senate Democrats, who won back the majority last week, will settle the contest in their December leadership election.
-nut_graf: The December vote will decide who leads a Senate majority Democrats won back only last week, and it tests how far the caucus will shift after an election that Van Hollen says produced a demand for new leaders. PBS NewsHour congressional correspondent Lisa Desjardins called the challenge real but said the math favors Schumer, the party's Senate leader since 2017.
+lede: Maryland Sen. Chris Van Hollen is challenging Chuck Schumer for leadership of
+  the Senate Democrats, mounting what PBS NewsHour calls the first serious challenge
+  to Schumer's hold on the post. Van Hollen told the program he spoke with Schumer
+  before launching his bid and framed the race as a choice for the caucus after voters
+  'chose change.' Senate Democrats, who won back the majority last week, will settle
+  the contest in their December leadership election.
+nut_graf: The December vote will decide who leads a Senate majority Democrats won
+  back only last week, and it tests how far the caucus will shift after an election
+  that Van Hollen says produced a demand for new leaders. PBS NewsHour congressional
+  correspondent Lisa Desjardins called the challenge real but said the math favors
+  Schumer, the party's Senate leader since 2017.
 primary_entities:
 - Chuck Schumer
 - Chris Van Hollen
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +151,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-13-schumer-holds-the-advantage-as-van-hollen-challenges-him-for-senate-leader.png
-  alt: 'Illustration accompanying article: Schumer holds the advantage as Van Hollen challenges him for Senate leader'
+  alt: 'Illustration accompanying article: Schumer holds the advantage as Van Hollen
+    challenges him for Senate leader'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-12-van-hollen-challenges-schumer-to-lead-senate-democrats
   headline: Van Hollen challenges Schumer to lead Senate Democrats
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8815
+  strength: 0.8825
 - slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-majority-leader
   headline: Van Hollen challenges Schumer for Senate majority leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8725
+  strength: 0.873
 - slug: 2026-11-13-van-hollen-drops-white-house-bid-challenges-schumer-for-senate-leader
   headline: Van Hollen drops White House bid, challenges Schumer for Senate leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8638
+  strength: 0.865
 - slug: 2026-11-13-schumer-faces-first-contested-democratic-leader-election-in-decades
   headline: Schumer faces first contested Democratic leader election in decades
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8525
+  strength: 0.8537
 - slug: 2026-11-13-schumer-presses-100-day-agenda-as-van-hollen-challenges-him-for-leader-post
-  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader post
+  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader
+    post
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8447
+  strength: 0.846
 - slug: 2026-11-13-schumer-and-van-hollen-split-senate-democratic-endorsements
   headline: Schumer and Van Hollen split Senate Democratic endorsements
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8366
+  strength: 0.8396
 - slug: 2026-11-13-slotkin-joins-sanders-in-calling-for-new-democratic-leadership
   headline: Slotkin joins Sanders in calling for new Democratic leadership
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.812
+  strength: 0.8132
 - slug: 2026-11-13-van-hollen-says-ending-corruption-requires-organizing-senate-differently
   headline: Van Hollen says ending corruption requires organizing Senate differently
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8092
-- slug: 2026-11-10-van-hollen-says-senate-democratic-leadership-race-should-not-be-coronation
-  headline: Van Hollen says Senate Democratic leadership race 'should not be coronation'
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8188
-- slug: 2026-11-13-van-hollen-brings-record-of-opposing-trump-cuts-to-senate-leadership-bid
-  headline: Van Hollen brings record of opposing Trump cuts to Senate leadership bid
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7963
-- slug: 2026-11-13-schumer-s-relationship-with-the-party-base-has-not-recovered
-  headline: Schumer's relationship with the party base has not recovered
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7954
-- slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-democratic-leadership
-  headline: Van Hollen challenges Schumer for Senate Democratic leadership
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.788
-- slug: 2026-11-13-sanders-frames-senate-democratic-leadership-race-as-a-fight-over-party-s-future
-  headline: Sanders frames Senate Democratic leadership race as a fight over party's future
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7839
-- slug: 2026-11-14-schumer-says-he-has-the-votes-as-van-hollen-challenges-him-for-senate-leader
-  headline: Schumer says he has the votes as Van Hollen challenges him for Senate leader
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7785
-- slug: 2026-11-10-sanders-opposes-schumer-s-reelection-bid-as-senate-democrats-weigh-a-new-leader
-  headline: Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new leader
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7757
-- slug: 2026-11-14-democrats-head-into-new-congress-denying-a-moderate-progressive-rift
-  headline: Democrats head into new Congress denying a moderate-progressive rift
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7451
-- slug: 2026-11-09-senate-republicans-set-leadership-vote-as-democrats-weigh-schumer-s-future
-  headline: Senate Republicans set leadership vote as Democrats weigh Schumer's future
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7712
-- slug: 2026-11-13-van-hollen-pledges-hearings-on-foreign-aid-cuts-if-democrats-lead-senate
-  headline: Van Hollen pledges hearings on foreign aid cuts if Democrats lead Senate
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7354
-- slug: 2026-11-06-incoming-democratic-senators-decline-to-back-schumer-as-majority-leader
-  headline: Incoming Democratic senators decline to back Schumer as majority leader
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7798
-- slug: 2026-11-14-mike-johnson-says-midterm-losses-prompted-his-house-leadership-exit
-  headline: Mike Johnson says midterm losses prompted his House leadership exit
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7237
+  strength: 0.8111
 ---
-
 ## Schumer holds the advantage as Van Hollen challenges him for Senate leader
 
 **Subtype:** fact
