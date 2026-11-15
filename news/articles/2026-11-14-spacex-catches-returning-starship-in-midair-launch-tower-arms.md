@@ -62,7 +62,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -252,3 +252,10 @@ NASA is targeting as soon as 2028 for Artemis IV, humanity's first moon landing 
 **Publication date:** 2026-11-14
 **Title:** SpaceX’s Starship returns from orbit and is captured by launch pad arms
 **URL:** https://apnews.com/article/spacex-elon-musk-starship-rocket-df394c1b5a0f85e11194f9ff7db9ee6b
+
+### src_late_6068a48e390673e7 — Associated Press, wire, Tier 1, originating
+**Author:** Marcia Dunn, Associated Press
+**Publication date:** 2026-11-14
+**Title:** SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first
+**URL:** https://www.pbs.org/newshour/science/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first
+**Added after publication:** true

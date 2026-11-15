@@ -59,7 +59,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -246,3 +246,10 @@ Michael Singh, managing director at the Washington Institute for Near East Polic
 **Publication date:** 2026-11-14
 **Title:** Trump’s shifting Iran rhetoric leaves Mideast in limbo
 **URL:** https://apnews.com/article/trump-iran-talks-strikes-limbo-02378df1ec3073d2c0f8f162e697d181
+
+### src_late_be56ed35dc2b3049 — Associated Press, wire, Tier 1, originating
+**Author:** Aamer Madhani, Associated Press, Matthew Lee, Associated Press, Ben Finley, Associated Press
+**Publication date:** 2026-11-14
+**Title:** With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead
+**URL:** https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead
+**Added after publication:** true
