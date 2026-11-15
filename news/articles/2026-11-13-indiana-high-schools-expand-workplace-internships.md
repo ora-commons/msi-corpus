@@ -2,8 +2,18 @@
 headline: Indiana high schools expand workplace internships
 secondary_headline: New diploma seals require 75 to 650 hours of work experience
 publish_date: '2026-11-13'
-lede: Indiana's revised high school graduation requirements, approved in 2024 and taking effect with the class of 2029, ask students to plan for life after graduation — college, public service or employment. Schools with existing student employment programs, from private schools like Providence Cristo Rey to large public districts like Warren Central, could provide a roadmap for what students can expect in years to come, but how students get to work and how their schools pay for it remain open questions.
-nut_graf: The state's new diploma "seals" attach concrete incentives — direct admission to union apprenticeships, automatic acceptance at Indiana's public universities, and $2,495 in school funding per qualifying student — to work experience that was previously optional. In a few years, it is likely that more Indianapolis students will get work experience.
+lede: Indiana's revised high school graduation requirements, approved in 2024 and
+  taking effect with the class of 2029, ask students to plan for life after graduation
+  — college, public service or employment. Schools with existing student employment
+  programs, from private schools like Providence Cristo Rey to large public districts
+  like Warren Central, could provide a roadmap for what students can expect in years
+  to come, but how students get to work and how their schools pay for it remain open
+  questions.
+nut_graf: The state's new diploma "seals" attach concrete incentives — direct admission
+  to union apprenticeships, automatic acceptance at Indiana's public universities,
+  and $2,495 in school funding per qualifying student — to work experience that was
+  previously optional. In a few years, it is likely that more Indianapolis students
+  will get work experience.
 primary_entities:
 - Indiana
 - Indianapolis
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +152,28 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-ap-business-with-personal-finance-debuts-at-more-than-1-500-us-high-schools
-  headline: AP Business with Personal Finance debuts at more than 1,500 US high schools
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5913
 - slug: 2026-08-27-dhs-tightens-internship-rules-for-international-college-students
   headline: DHS tightens internship rules for international college students
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.6738
-- slug: 2026-09-25-private-colleges-cut-tuition-and-drop-loans-to-draw-wary-families
-  headline: Private colleges cut tuition and drop loans to draw wary families
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5893
+  strength: 0.6741
 - slug: 2026-08-26-university-of-maine-system-accepts-jobs-for-maine-graduates-credentials
   headline: University of Maine System accepts Jobs for Maine Graduates credentials
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6602
-- slug: 2026-09-22-cornell-faculty-report-declares-higher-education-crisis-unprecedented
-  headline: Cornell faculty report declares higher education crisis unprecedented
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5889
-- slug: 2026-08-31-workforce-pell-expands-federal-aid-to-short-term-job-training
-  headline: Workforce Pell expands federal aid to short-term job training
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6266
-- slug: 2026-08-31-us-universities-face-layered-financial-pressures-beyond-the-demographic-cliff
-  headline: US universities face layered financial pressures beyond the demographic cliff
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5946
-- slug: 2026-08-24-26-us-states-now-offer-three-year-bachelor-s-degrees-rand-reports
-  headline: 26 US states now offer three-year bachelor's degrees, RAND reports
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6067
+  strength: 0.6613
 - slug: 2026-06-30-eleven-states-approve-workforce-pell-frameworks-as-july-1-launch-begins
   headline: Eleven states approve Workforce Pell frameworks as July 1 launch begins
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6604
-- slug: 2026-08-26-indiana-law-caps-hospital-prices-at-2-6-times-medicare-rates
-  headline: Indiana law caps hospital prices at 2.6 times Medicare rates
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5873
+  strength: 0.661
 - slug: 2026-05-13-cal-state-trustees-approve-three-year-bachelor-s-degrees-as-enrollment-declines-
-  headline: Cal State trustees approve three-year bachelor's degrees as enrollment declines persist
+  headline: Cal State trustees approve three-year bachelor's degrees as enrollment
+    declines persist
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.653
-- slug: 2026-05-13-cal-state-may-allow-shortened-bachelor-s-degrees-taking-as-little-as-3-years
-  headline: Cal State may allow shortened bachelor’s degrees taking as little as 3 years
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6444
-- slug: 2026-04-14-michigan-lawmakers-and-groups-debate-overhauling-high-school-graduation-rules
-  headline: Michigan lawmakers and groups debate overhauling high school graduation rules
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6423
-- slug: 2026-07-10-top-colleges-drop-supplemental-essays-as-ai-erodes-admissions-signals
-  headline: Top colleges drop supplemental essays as AI erodes admissions signals
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5837
-- slug: 2026-04-27-nebraska-to-start-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to start Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6113
-- slug: 2026-04-15-dropped-out-colleges-help-students-reenroll-to-finish-degrees
-  headline: Dropped out? Colleges help students reenroll to finish degrees
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6101
-- slug: 2026-04-28-nebraska-to-enforce-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to enforce Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5979
-- slug: 2026-06-02-university-of-california-professors-urge-reinstating-sat-as-math-readiness-decli
-  headline: University of California professors urge reinstating SAT as math readiness declines
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5839
-- slug: 2026-01-30-hawaii-lawmaker-bill-seeks-independent-review-of-school-closures
-  headline: Hawaii lawmaker bill seeks independent review of school closures
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6079
-- slug: 2026-05-21-harvard-faculty-votes-to-limit-a-grades-for-undergraduates-starting-in-2027
-  headline: Harvard faculty votes to limit A grades for undergraduates starting in 2027
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5833
+  strength: 0.6534
 ---
-
 ## Indiana high schools expand workplace internships
 
 **Subtype:** fact
