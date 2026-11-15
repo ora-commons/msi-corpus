@@ -205,6 +205,8 @@ related_stories:
   publish_date: '2026-11-10'
   relation: related
   strength: 0.7078
+analyses:
+- '2026-11-12-us-shuttle-diplomacy-staffs-one-of-ten-third-side-roles-in-ukraine-talks'
 ---
 ## Two-hour Kremlin meeting precedes US envoys' Dublin session with Zelenskyy
 
@@ -251,3 +253,8 @@ Susie Blann and Samya Kullab in Kyiv, Ukraine, Jill Lawless in Dublin, Lorne Coo
 **Publication date:** 2026-11-12
 **Title:** U.S. envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy
 **URL:** https://www.pbs.org/newshour/world/u-s-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-head-for-dublin-to-see-zelenskyy
+
+---
+
+<!-- analysis-link:2026-11-12-us-shuttle-diplomacy-staffs-one-of-ten-third-side-roles-in-ukraine-talks -->
+**Going deeper:** [Read MSI's analysis of third-side roles in Ukraine diplomacy →](/analyses/2026-11-12-us-shuttle-diplomacy-staffs-one-of-ten-third-side-roles-in-ukraine-talks)

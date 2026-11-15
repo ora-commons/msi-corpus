@@ -1,9 +1,21 @@
 ---
 headline: Democrats weigh midterm sweep and old divisions at Denver conference
-secondary_headline: Pennsylvania governor urges party to 'swing for 370' electoral votes
+secondary_headline: Pennsylvania governor urges party to 'swing for 370' electoral
+  votes
 publish_date: '2026-11-14'
-lede: 'Democrats spent two days at a Denver conference planned as a post-midterms strategy session, arriving instead to celebrate what the party considers a dream election: wins in virtually every contested race, flipped U.S. Senate seats in Mississippi and South Carolina, a blue Texas and big majorities in Congress. At the What''s Next conference, attendees floated talk of supermajorities while some warned that voters had turned to the party out of frustration over high prices, the Iran war and concerns about government corruption, not out of renewed affection.'
-nut_graf: The gathering captured a party adjusting to an unfamiliar position. After an election in which Democrats won big majorities in Congress and expanded their competitive map, the conference produced no clear recipe for the affordability and economic dismay that, some warned, had driven voters to the party rather than renewed affection for it — and old fights over leadership and ideology resurfaced alongside the celebration.
+lede: 'Democrats spent two days at a Denver conference planned as a post-midterms
+  strategy session, arriving instead to celebrate what the party considers a dream
+  election: wins in virtually every contested race, flipped U.S. Senate seats in Mississippi
+  and South Carolina, a blue Texas and big majorities in Congress. At the What''s
+  Next conference, attendees floated talk of supermajorities while some warned that
+  voters had turned to the party out of frustration over high prices, the Iran war
+  and concerns about government corruption, not out of renewed affection.'
+nut_graf: The gathering captured a party adjusting to an unfamiliar position. After
+  an election in which Democrats won big majorities in Congress and expanded their
+  competitive map, the conference produced no clear recipe for the affordability and
+  economic dismay that, some warned, had driven voters to the party rather than renewed
+  affection for it — and old fights over leadership and ideology resurfaced alongside
+  the celebration.
 primary_entities:
 - U.S. Democratic Party
 - Denver
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +159,45 @@ related_stories:
   headline: Democrats gather in Denver to plot course after midterm wins
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8338
+  strength: 0.8341
 - slug: 2026-11-09-democrats-prepare-affordability-agenda-after-the-midterm-win
   headline: Democrats prepare affordability agenda after the midterm win
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.729
+  strength: 0.7279
 - slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
+  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief
+    of staff
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7317
+  strength: 0.7309
 - slug: 2026-11-13-organizers-plan-post-election-pressure-campaign-on-new-democratic-majorities
   headline: Organizers plan post-election pressure campaign on new Democratic majorities
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6928
+  strength: 0.6927
 - slug: 2026-11-10-republicans-split-over-who-saw-the-midterm-losses-coming
   headline: Republicans split over who saw the midterm losses coming
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7097
+  strength: 0.7094
 - slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
+  headline: Schumer expects re-election as Senate Democrats' leader after midterm
+    wins
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7398
+  strength: 0.7391
 - slug: 2026-11-09-democrats-put-grocery-price-proposals-on-their-post-election-agenda
   headline: Democrats put grocery-price proposals on their post-election agenda
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7076
+  strength: 0.7068
 - slug: 2026-11-05-democrats-largest-majority-in-decades-leaves-party-s-future-fight-unresolved
   headline: Democrats' largest majority in decades leaves party's future fight unresolved
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7144
-- slug: 2026-11-07-midterm-wins-give-democrats-new-paths-to-270-electoral-votes-in-2028
-  headline: Midterm wins give Democrats new paths to 270 electoral votes in 2028
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6992
-- slug: 2026-11-07-democrats-flip-a-dozen-legislative-chambers-and-take-full-control-in-six-states
-  headline: Democrats flip a dozen legislative chambers and take full control in six states
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6949
-- slug: 2026-11-04-democrats-set-post-election-priorities-on-affordability-and-accountability
-  headline: Democrats set post-election priorities on affordability and accountability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7117
-- slug: 2026-11-05-democrats-flip-senate-seats-in-the-south-reshaping-the-2028-contest
-  headline: Democrats flip Senate seats in the South, reshaping the 2028 contest
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7012
-- slug: 2026-11-04-democrats-win-senate-seats-in-six-states-and-four-governor-races
-  headline: Democrats win Senate seats in six states and four governor races
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7059
-- slug: 2026-11-04-democrats-midterm-gains-open-the-2028-race-as-republicans-absorb-broad-losses
-  headline: Democrats' midterm gains open the 2028 race as Republicans absorb broad losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7021
-- slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
-  headline: Democrats gain control of Congress as 2026 voter shifts emerge
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6955
-- slug: 2026-11-05-mike-johnson-plans-to-step-down-as-top-house-republican-after-midterms
-  headline: Mike Johnson plans to step down as top House Republican after midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6953
-- slug: 2026-11-05-democrats-gain-hundreds-of-state-legislative-seats-in-2026-midterms
-  headline: Democrats gain hundreds of state legislative seats in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.691
-- slug: 2026-11-04-democrats-flip-state-legislatures-and-pick-up-four-governorships-in-2026-midterm
-  headline: Democrats flip state legislatures and pick up four governorships in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6945
-- slug: 2026-11-04-democrats-retake-congress-dnc-chairman-says-mandate-is-about-affordability
-  headline: Democrats retake Congress; DNC chairman says mandate is about affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6922
-- slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
-  headline: Democrats win Congress and a majority of governorships on affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.69
+  strength: 0.7139
 ---
-
 ## Democrats weigh midterm sweep and old divisions at Denver conference
 
 **Subtype:** fact
