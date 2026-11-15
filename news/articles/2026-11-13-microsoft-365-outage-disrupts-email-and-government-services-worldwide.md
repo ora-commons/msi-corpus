@@ -172,6 +172,8 @@ related_stories:
   publish_date: '2026-10-20'
   relation: related
   strength: 0.6693
+analyses:
+- '2026-11-13-microsoft-365-outage-losses-fall-on-dependents-without-a-second-channel'
 ---
 ## Microsoft 365 outage disrupts email and government services worldwide
 
@@ -219,3 +221,8 @@ OpenAI and Anthropic each reported that they were facing problems connecting wit
 **Publication date:** 2026-11-13
 **Title:** Microsoft outage hits companies and governments from Asia to the US
 **URL:** https://apnews.com/article/microsoft-outage-outlook-email-365-status-down-d92547a821930290db2964388016979a
+
+---
+
+<!-- analysis-link:2026-11-13-microsoft-365-outage-losses-fall-on-dependents-without-a-second-channel -->
+**Going deeper:** [Read MSI's analysis of Microsoft outage and single-vendor concentration →](/analyses/2026-11-13-microsoft-365-outage-losses-fall-on-dependents-without-a-second-channel)

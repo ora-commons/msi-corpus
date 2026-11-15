@@ -73,7 +73,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - News From The States
   outlet_classes:
@@ -274,6 +274,13 @@ The reporting was produced by News From The States in collaboration with ProPubl
 **Publication date:** 2026-11-13
 **Title:** Offshore wind offered a ‘limitless’ future for CT. Trump scuttled the plan
 **URL:** https://www.newsfromthestates.com/article/offshore-wind-offered-limitless-future-ct-trump-scuttled-plan
+
+### src_late_0b50411acb467e3b — News From The States, nonprofit, Tier 1, originating
+**Author:** John Moritz
+**Publication date:** 2026-11-14
+**Title:** Offshore wind offered a ‘limitless’ future for CT. Trump scuttled the plan.
+**URL:** https://www.newsfromthestates.com/article/offshore-wind-offered-limitless-future-ct-trump-scuttled-plan-0
+**Added after publication:** true
 
 ---
 

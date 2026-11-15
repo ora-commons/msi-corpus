@@ -1,9 +1,20 @@
 ---
-headline: Microsoft says configuration update overloaded servers; recovery began 11:20 GMT
-secondary_headline: Bank of England, NHS and Sagawa Express among those reporting issues
+headline: Microsoft says configuration update overloaded servers; recovery began 11:20
+  GMT
+secondary_headline: Bank of England, NHS and Sagawa Express among those reporting
+  issues
 publish_date: '2026-11-13'
-lede: Microsoft indicated a configuration update had left some servers overloaded and taken offline, touching off a global Microsoft 365 outage that began about 6pm GMT on Thursday, with significant recovery beginning at 11:20 GMT on Friday, according to data shared by the research firm Infoblox. Microsoft has said the incident was not a cyber-attack but a configuration error, and Professor Steven Murdoch of University College London said the cause would take weeks to discover.
-nut_graf: The outage affected businesses, government agencies and Microsoft's own employees worldwide — including the Bank of England, the NHS, Sagawa Express, a Maine court and cities in Colorado and Florida — while UK politicians and experts said it underscored reliance on a few US tech companies and some governments consider alternatives to US software.
+lede: Microsoft indicated a configuration update had left some servers overloaded
+  and taken offline, touching off a global Microsoft 365 outage that began about 6pm
+  GMT on Thursday, with significant recovery beginning at 11:20 GMT on Friday, according
+  to data shared by the research firm Infoblox. Microsoft has said the incident was
+  not a cyber-attack but a configuration error, and Professor Steven Murdoch of University
+  College London said the cause would take weeks to discover.
+nut_graf: The outage affected businesses, government agencies and Microsoft's own
+  employees worldwide — including the Bank of England, the NHS, Sagawa Express, a
+  Maine court and cities in Colorado and Florida — while UK politicians and experts
+  said it underscored reliance on a few US tech companies and some governments consider
+  alternatives to US software.
 primary_entities:
 - Microsoft
 - University College London
@@ -38,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,9 +152,10 @@ related_stories:
   headline: Microsoft says outage over; Manchester trial halted, delays at pharmacies
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.84
+  strength: 0.8407
 - slug: 2026-11-13-microsoft-outage-lasts-more-than-22-hours-as-issues-reported-in-more-than-70-cou
-  headline: Microsoft outage lasts more than 22 hours as issues reported in more than 70 countries
+  headline: Microsoft outage lasts more than 22 hours as issues reported in more than
+    70 countries
   publish_date: '2026-11-13'
   relation: related
   strength: 0.8227
@@ -150,94 +163,33 @@ related_stories:
   headline: Microsoft outage disrupts services worldwide for about 18 hours
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8184
+  strength: 0.8189
 - slug: 2026-11-12-microsoft-says-all-affected-servers-restarted-after-connectivity-errors
   headline: Microsoft says all affected servers restarted after connectivity errors
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8136
+  strength: 0.8143
 - slug: 2026-11-13-microsoft-reports-early-stabilization-in-365-outage-as-japan-readies-phones
   headline: Microsoft reports early stabilization in 365 outage as Japan readies phones
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7871
+  strength: 0.7873
 - slug: 2026-11-13-microsoft-outage-disrupts-us-governments-schools-and-businesses
   headline: Microsoft outage disrupts US governments, schools and businesses
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7835
+  strength: 0.7844
 - slug: 2026-11-13-microsoft-365-outage-disrupts-email-and-government-services-worldwide
   headline: Microsoft 365 outage disrupts email and government services worldwide
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7831
+  strength: 0.7833
 - slug: 2026-11-13-microsoft-shares-fall-about-1-as-outage-disrupts-maersk-euronext-house
   headline: Microsoft shares fall about 1% as outage disrupts Maersk, Euronext, House
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7775
-- slug: 2026-11-12-microsoft-outage-disrupts-outlook-email-for-nearly-130-000-users
-  headline: Microsoft outage disrupts Outlook email for nearly 130,000 users
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7814
-- slug: 2026-11-13-brands-who-and-workers-react-as-microsoft-365-blackout-runs-into-friday
-  headline: Brands, WHO and workers react as Microsoft 365 blackout runs into Friday
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7587
-- slug: 2026-11-13-microsoft-says-global-outage-showing-early-signs-of-stabilisation
-  headline: Microsoft says global outage showing early signs of stabilisation
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7554
-- slug: 2026-11-12-microsoft-outlook-outage-leaves-millions-without-email-access
-  headline: Microsoft Outlook outage leaves millions without email access
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7539
-- slug: 2026-11-14-faa-lifts-its-longest-nationwide-ground-stop-since-9-11
-  headline: FAA lifts its longest nationwide ground stop since 9/11
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6735
-- slug: 2026-11-13-faa-lifts-nationwide-ground-stop-after-telecom-failure
-  headline: FAA lifts nationwide ground stop after telecom failure
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6553
-- slug: 2026-11-13-arroyo-says-nationwide-air-traffic-outage-could-stem-from-obsolete-technology
-  headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6533
-- slug: 2026-11-14-airlines-cancel-thousands-of-flights-after-longest-us-ground-stop-in-25-years
-  headline: Airlines cancel thousands of flights after longest US ground stop in 25 years
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6532
-- slug: 2026-10-20-google-london-datacentre-outage-disrupts-uk-banks-courts
-  headline: Google London datacentre outage disrupts UK banks, courts
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.7274
-- slug: 2026-10-26-microsoft-buyout-reportedly-excludes-employees-in-certain-divisions-including-cy
-  headline: Microsoft buyout reportedly excludes employees in certain divisions, including cybersecurity
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6301
-- slug: 2026-10-22-millions-of-exploit-attempts-target-php-flaw-as-governments-patch-systems
-  headline: Millions of exploit attempts target PHP flaw as governments patch systems
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6348
-- slug: 2026-09-18-uk-police-assessment-flags-microsoft-cloud-data-as-vulnerable-to-compromise
-  headline: UK police assessment flags Microsoft cloud data as vulnerable to compromise
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.665
+  strength: 0.7781
 ---
-
 ## Microsoft says configuration update overloaded servers; recovery began 11:20 GMT
 
 **Subtype:** fact
