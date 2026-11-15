@@ -56,7 +56,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -241,3 +241,10 @@ The Associated Press, which supplied this report, said its climate and environme
 **Publication date:** 2026-11-13
 **Title:** UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe
 **URL:** https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe
+
+### src_late_7caca44aec4a5a5f — Associated Press, wire, Tier 1, originating
+**Author:** Suzan Fraser
+**Publication date:** 2026-11-13
+**Title:** UN chief urges 'immediate and drastic' action to curb climate change, help vulnerable nations
+**URL:** https://apnews.com/article/climate-cop31-un-turkey-9c3945f36e4445dd4427f490c40e4bf3
+**Added after publication:** true

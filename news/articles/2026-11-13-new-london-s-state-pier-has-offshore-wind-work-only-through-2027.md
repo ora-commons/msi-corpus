@@ -210,6 +210,8 @@ related_stories:
   publish_date: '2026-05-15'
   relation: related
   strength: 0.7127
+analyses:
+- '2026-11-13-state-pier-s-wind-pipeline-runs-dry-after-2027'
 ---
 ## New London's State Pier has offshore wind work only through 2027
 
@@ -272,3 +274,8 @@ The reporting was produced by News From The States in collaboration with ProPubl
 **Publication date:** 2026-11-13
 **Title:** Offshore wind offered a ‘limitless’ future for CT. Trump scuttled the plan
 **URL:** https://www.newsfromthestates.com/article/offshore-wind-offered-limitless-future-ct-trump-scuttled-plan
+
+---
+
+<!-- analysis-link:2026-11-13-state-pier-s-wind-pipeline-runs-dry-after-2027 -->
+**Going deeper:** [Read MSI's analysis of State Pier's post-2027 tenant search →](/analyses/2026-11-13-state-pier-s-wind-pipeline-runs-dry-after-2027)
