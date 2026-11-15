@@ -1,9 +1,19 @@
 ---
 headline: Mississippi organizers built turnout years before Colom's Senate win
-secondary_headline: The April Callais decision drew thousands to a Mississippi Fights Back rally
+secondary_headline: The April Callais decision drew thousands to a Mississippi Fights
+  Back rally
 publish_date: '2026-11-15'
-lede: A loose coalition of about a dozen, mostly Black-led nonprofits or initiatives in Mississippi rallied residents after the April Louisiana v Callais supreme court decision and was part of the organizing behind Democrat Scott Colom's historic midterm Senate upset, The Guardian reported. Almost 1 million Mississippians voted in the midterm election, numbers that rival turnout during presidential elections, after two decades of state turnout below the national average.
-nut_graf: The Guardian described the groups behind Mississippi senator-elect Scott Colom's victory as ones that "didn't have a lot of money, but had collective power and post-Callais anger." The outlet's account ties Colom's win to coalition organizing that predated the Callais decision by years, a midterm turnout surge, and post-election ballot work by almost two dozen organizations.
+lede: A loose coalition of about a dozen, mostly Black-led nonprofits or initiatives
+  in Mississippi rallied residents after the April Louisiana v Callais supreme court
+  decision and was part of the organizing behind Democrat Scott Colom's historic midterm
+  Senate upset, The Guardian reported. Almost 1 million Mississippians voted in the
+  midterm election, numbers that rival turnout during presidential elections, after
+  two decades of state turnout below the national average.
+nut_graf: The Guardian described the groups behind Mississippi senator-elect Scott
+  Colom's victory as ones that "didn't have a lot of money, but had collective power
+  and post-Callais anger." The outlet's account ties Colom's win to coalition organizing
+  that predated the Callais decision by years, a midterm turnout surge, and post-election
+  ballot work by almost two dozen organizations.
 primary_entities:
 - Scott Colom
 - Mississippi
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,116 +156,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-15-mississippi-organizers-built-turnout-years-before-colom-s-senate-win.png
-  alt: 'Illustration accompanying article: Mississippi organizers built turnout years before Colom''s Senate win'
+  alt: 'Illustration accompanying article: Mississippi organizers built turnout years
+    before Colom''s Senate win'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-13-dozens-celebrate-colom-s-win-at-naacp-watch-party-in-jackson
   headline: Dozens celebrate Colom's win at NAACP watch party in Jackson
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7402
+  strength: 0.7401
 - slug: 2026-11-11-scott-colom-leads-cindy-hyde-smith-as-mississippi-votes-remain-uncounted
   headline: Scott Colom leads Cindy Hyde-Smith as Mississippi votes remain uncounted
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7423
+  strength: 0.7427
 - slug: 2026-11-12-shaffer-traces-colom-s-win-to-poverty-unpopular-president-change
   headline: Shaffer traces Colom's win to poverty, unpopular president, change
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7328
+  strength: 0.7354
 - slug: 2026-11-13-colom-s-senate-win-draws-celebration-across-racial-lines
   headline: Colom's Senate win draws celebration across racial lines
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7251
-- slug: 2026-11-11-scott-colom-closes-winning-mississippi-senate-campaign-with-medgar-evers-ad
-  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers ad
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7321
-- slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-seat-first-black-senator-since-reco
-  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator since Reconstruction
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7287
+  strength: 0.7271
 - slug: 2026-11-12-scott-colom-celebrates-mississippi-senate-win-as-first-black-senator-since-1875
-  headline: Scott Colom celebrates Mississippi Senate win as first Black senator since 1875
+  headline: Scott Colom celebrates Mississippi Senate win as first Black senator since
+    1875
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7204
+  strength: 0.7268
+- slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-seat-first-black-senator-since-reco
+  headline: Democrat Scott Colom wins Mississippi Senate seat, first Black senator
+    since Reconstruction
+  publish_date: '2026-11-11'
+  relation: related
+  strength: 0.7322
+- slug: 2026-11-11-scott-colom-closes-winning-mississippi-senate-campaign-with-medgar-evers-ad
+  headline: Scott Colom closes winning Mississippi Senate campaign with Medgar Evers
+    ad
+  publish_date: '2026-11-11'
+  relation: related
+  strength: 0.7302
 - slug: 2026-11-07-black-mississippians-react-to-scott-colom-s-historic-u-s-senate-bid
   headline: Black Mississippians react to Scott Colom's historic U.S. Senate bid
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.751
-- slug: 2026-11-11-democrat-scott-colom-wins-mississippi-senate-race-over-incumbent-hyde-smith
-  headline: Democrat Scott Colom wins Mississippi Senate race over incumbent Hyde-Smith
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7244
-- slug: 2026-11-11-black-voters-backed-colom-by-95-points-voter-poll-found
-  headline: Black voters backed Colom by 95 points, Voter Poll found
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7232
-- slug: 2026-11-11-scott-colom-wins-mississippi-senate-race-first-democrat-elected-since-1982
-  headline: Scott Colom wins Mississippi Senate race, first Democrat elected since 1982
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.721
-- slug: 2026-11-12-scott-colom-celebrates-mississippi-senate-win-as-cindy-hyde-smith-concedes
-  headline: Scott Colom celebrates Mississippi Senate win as Cindy Hyde-Smith concedes
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.713
-- slug: 2026-11-11-colom-says-national-democrats-spent-almost-nothing-in-mississippi
-  headline: Colom says national Democrats spent 'almost nothing' in Mississippi
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7123
-- slug: 2026-11-13-colom-outworked-hyde-smith-and-flipped-seven-mississippi-counties
-  headline: Colom outworked Hyde-Smith and flipped seven Mississippi counties
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6986
-- slug: 2026-11-12-mississippians-describe-what-colom-s-senate-win-means-for-the-state
-  headline: Mississippians describe what Colom's Senate win means for the state
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.703
-- slug: 2026-11-12-pundits-wrote-off-colom-s-senate-bid-before-free-tacos-truck-and-homecomings
-  headline: Pundits wrote off Colom's Senate bid before free-tacos truck and homecomings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6997
-- slug: 2026-11-06-parties-trade-legal-letters-as-mississippi-counts-remaining-senate-ballots
-  headline: Parties trade legal letters as Mississippi counts remaining Senate ballots
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7253
-- slug: 2026-11-05-scott-colom-leads-cindy-hyde-smith-in-tight-mississippi-senate-race
-  headline: Scott Colom leads Cindy Hyde-Smith in tight Mississippi Senate race
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7307
-- slug: 2026-11-07-black-voters-help-democrats-flip-or-hold-seats-in-alabama-texas-and-florida
-  headline: Black voters help Democrats flip or hold seats in Alabama, Texas and Florida
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7123
-- slug: 2026-10-27-harris-rallies-colom-as-mississippi-senate-race-enters-a-high-spending-final-pus
-  headline: Harris rallies Colom as Mississippi Senate race enters a high-spending final push
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.719
+  strength: 0.7527
 ---
-
 ## Mississippi organizers built turnout years before Colom's Senate win
 
 **Subtype:** fact

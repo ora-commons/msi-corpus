@@ -2,8 +2,15 @@
 headline: Marks says Huang's affair can cost the whole family business
 secondary_headline: Marks says owner's children are watched as closely as their parents
 publish_date: '2026-11-15'
-lede: The Guardian columnist Gene Marks wrote on November 15, 2026 that the fallout from former Nvidia CEO Jensen Huang's affair is the latest reminder of the shared toll paid when patriarchs cheat. Marks argued that the cost lands on employees, shareholders and relatives who work in the same business, and that the impact is worse when the business is smaller.
-nut_graf: Almost a third of the 34 million small businesses in the United States are family owned, Marks wrote, which is why he treated a chief executive's private conduct as an organizational problem as well as an ethical one — for the children who work beside the owner and the employees who watch them.
+lede: The Guardian columnist Gene Marks wrote on November 15, 2026 that the fallout
+  from former Nvidia CEO Jensen Huang's affair is the latest reminder of the shared
+  toll paid when patriarchs cheat. Marks argued that the cost lands on employees,
+  shareholders and relatives who work in the same business, and that the impact is
+  worse when the business is smaller.
+nut_graf: Almost a third of the 34 million small businesses in the United States are
+  family owned, Marks wrote, which is why he treated a chief executive's private conduct
+  as an organizational problem as well as an ethical one — for the children who work
+  beside the owner and the employees who watch them.
 primary_entities:
 - Gene Marks
 - Jensen Huang
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +148,43 @@ related_stories:
   headline: Jensen Huang resigns as Nvidia CEO after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7467
+  strength: 0.7462
 - slug: 2026-11-15-huang-case-exposes-human-error-as-tech-s-biggest-espionage-risk
   headline: Huang case exposes human error as tech's biggest espionage risk
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.722
+  strength: 0.7205
 - slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
   headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.736
+  strength: 0.7352
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
   headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7328
+  strength: 0.7319
 - slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
   headline: Nvidia board meets on whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.732
+  strength: 0.7311
 - slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
   headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7278
+  strength: 0.7265
 - slug: 2026-11-13-jensen-huang-resigns-from-nvidia-after-board-ousts-him
   headline: Jensen Huang resigns from Nvidia after board ousts him
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.72
+  strength: 0.7189
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
   headline: Nvidia CEO Jensen Huang resigns after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7146
-- slug: 2026-11-12-guardian-column-argues-nvidia-scandal-puts-tech-bosses-above-the-rules
-  headline: Guardian column argues Nvidia scandal puts tech bosses above the rules
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7139
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7272
-- slug: 2026-11-11-nvidia-hires-law-firm-over-jensen-huang-s-reported-affair-with-alleged-chinese-s
-  headline: Nvidia hires law firm over Jensen Huang's reported affair with alleged Chinese spy
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7194
-- slug: 2026-11-12-huang-biographer-calls-nvidia-ceo-resignation-a-downfall
-  headline: Huang biographer calls Nvidia CEO resignation a downfall
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7088
-- slug: 2026-11-10-nvidia-shareholder-suit-alleges-failure-to-disclose-national-security-concerns
-  headline: Nvidia shareholder suit alleges failure to disclose national security concerns
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7219
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7346
-- slug: 2026-11-13-report-says-huang-exit-could-bring-nvidia-shareholder-suits-and-tech-sector-regu
-  headline: Report says Huang exit could bring Nvidia shareholder suits and tech-sector regulatory pressure
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6977
-- slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
-  headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6957
-- slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7013
-- slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
-  headline: Nvidia investigates reports of spying targeting Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7203
-- slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
-  headline: Nvidia board investigates CEO Jensen Huang as shares tumble
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7196
-- slug: 2026-11-12-nvidia-shares-sink-7-premarket-as-reports-put-ceo-jensen-huang-s-tenure-at-risk
-  headline: Nvidia shares sink 7% premarket as reports put CEO Jensen Huang's tenure at risk
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6961
+  strength: 0.7135
 ---
-
 ## Marks says Huang's affair can cost the whole family business
 
 **Subtype:** fact
