@@ -1,9 +1,24 @@
 ---
-headline: Airlines cancel thousands of flights after longest US ground stop in 25 years
-secondary_headline: New technology overloading legacy equipment caused communications gaps, officials say
+headline: Airlines cancel thousands of flights after longest US ground stop in 25
+  years
+secondary_headline: New technology overloading legacy equipment caused communications
+  gaps, officials say
 publish_date: '2026-11-14'
-lede: More than 2,000 flights were canceled Saturday as airlines across the United States worked to dig out from the longest nationwide ground stop in 25 years, stranding passengers and forcing professional and college sports teams to scramble for alternate transportation. Trump administration officials said new technology being added to the nation's air traffic control system overloaded antiquated equipment, causing "intermittent" communications and radar gaps that led to a flight shutdown of more than four hours. The stop was lifted around 8:15 p.m. ET, after which a limited number of domestic flights departed, and officials said the system is likely to be operating normally in time to handle the Thanksgiving travel rush.
-nut_graf: The shutdown, which lasted more than four hours, was the first nationwide ground stop since January 2023 and only the second since the Sept. 11, 2001, attacks, placing a spotlight on aging air traffic control equipment even as the Trump administration seeks $30 billion more to complete an upgrade already begun with $12.5 billion approved by Congress. Transportation Secretary Sean Duffy said further disruptions should be expected while the overhaul continues.
+lede: More than 2,000 flights were canceled Saturday as airlines across the United
+  States worked to dig out from the longest nationwide ground stop in 25 years, stranding
+  passengers and forcing professional and college sports teams to scramble for alternate
+  transportation. Trump administration officials said new technology being added to
+  the nation's air traffic control system overloaded antiquated equipment, causing
+  "intermittent" communications and radar gaps that led to a flight shutdown of more
+  than four hours. The stop was lifted around 8:15 p.m. ET, after which a limited
+  number of domestic flights departed, and officials said the system is likely to
+  be operating normally in time to handle the Thanksgiving travel rush.
+nut_graf: The shutdown, which lasted more than four hours, was the first nationwide
+  ground stop since January 2023 and only the second since the Sept. 11, 2001, attacks,
+  placing a spotlight on aging air traffic control equipment even as the Trump administration
+  seeks $30 billion more to complete an upgrade already begun with $12.5 billion approved
+  by Congress. Transportation Secretary Sean Duffy said further disruptions should
+  be expected while the overhaul continues.
 primary_entities:
 - Federal Aviation Administration
 - Sean Duffy
@@ -40,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,7 +158,7 @@ related_stories:
   headline: FAA lifts its longest nationwide ground stop since 9/11
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8528
+  strength: 0.8526
 - slug: 2026-11-13-faa-lifts-nationwide-ground-stop-after-telecom-failure
   headline: FAA lifts nationwide ground stop after telecom failure
   publish_date: '2026-11-13'
@@ -152,94 +168,35 @@ related_stories:
   headline: FAA grounds all US departures, delaying or canceling nearly 7,000 flights
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8195
+  strength: 0.8174
 - slug: 2026-11-13-arroyo-says-nationwide-air-traffic-outage-could-stem-from-obsolete-technology
   headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8101
+  strength: 0.8099
 - slug: 2026-11-13-white-house-lobbies-congress-for-30-billion-to-finish-air-traffic-overhaul
   headline: White House lobbies Congress for $30 billion to finish air traffic overhaul
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7982
+  strength: 0.7952
 - slug: 2026-11-13-faa-grounds-all-flights-nationwide-over-control-center-communications-issue
-  headline: FAA grounds all flights nationwide over control-center communications issue
+  headline: FAA grounds all flights nationwide over control-center communications
+    issue
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7816
+  strength: 0.7794
 - slug: 2026-11-13-faa-to-manage-international-flights-case-by-case-during-nationwide-ground-stop
-  headline: FAA to manage international flights case by case during nationwide ground stop
+  headline: FAA to manage international flights case by case during nationwide ground
+    stop
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7779
+  strength: 0.7771
 - slug: 2026-11-13-faa-nationwide-ground-stop-halts-departures-at-t-f-green
   headline: FAA nationwide ground stop halts departures at T.F. Green
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.757
-- slug: 2026-11-13-faa-halts-departing-flights-nationwide-after-communications-issue
-  headline: FAA halts departing flights nationwide after communications issue
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7561
-- slug: 2026-11-13-dhs-secretary-says-no-threat-to-u-s-as-faa-grounds-all-flights
-  headline: DHS secretary says no threat to U.S. as FAA grounds all flights
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7439
-- slug: 2026-11-13-faa-halts-all-departing-flights-nationwide-over-telecom-outage
-  headline: FAA halts all departing flights nationwide over telecom outage
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7383
-- slug: 2026-11-13-mullin-says-no-indication-faa-ground-stop-was-a-threat-to-us
-  headline: Mullin says no indication FAA ground stop was a threat to US
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7326
-- slug: 2026-03-15-storms-add-to-thousands-of-canceled-u-s-flights-during-shutdown
-  headline: Storms add to thousands of canceled U.S. flights during shutdown
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.759
-- slug: 2026-03-18-more-flight-cancellations-delays-due-to-us-storms
-  headline: More flight cancellations, delays due to US storms
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7572
-- slug: 2026-03-10-faa-briefly-grounds-all-jetblue-flights-after-system-outage-lifts-stop-in-40-min
-  headline: FAA briefly grounds all JetBlue flights after system outage, lifts stop in 40 minutes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7472
-- slug: 2026-01-25-winter-storm-cancels-11-400-flights-across-u-s
-  headline: Winter storm cancels 11,400 flights across U.S.
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7378
-- slug: 2026-01-26-winter-storm-cancels-11-400-flights-across-us
-  headline: Winter storm cancels 11,400 flights across US
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.7254
-- slug: 2026-03-10-long-airport-security-lines-highlight-problems-during-dhs-shutdown
-  headline: Long airport security lines highlight problems during DHS shutdown
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7057
-- slug: 2026-03-09-dhs-shutdown-stretches-airport-security-lines-to-hours-during-spring-break
-  headline: DHS shutdown stretches airport security lines to hours during spring break
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.705
-- slug: 2026-01-25-winter-storm-cancels-13-000-flights-threatens-half-of-us
-  headline: Winter storm cancels 13,000 flights, threatens half of US
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.7076
+  strength: 0.7567
 ---
-
 ## Airlines cancel thousands of flights after longest US ground stop in 25 years
 
 **Subtype:** fact

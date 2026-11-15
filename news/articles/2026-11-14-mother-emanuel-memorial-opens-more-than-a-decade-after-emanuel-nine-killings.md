@@ -1,9 +1,21 @@
 ---
 headline: Mother Emanuel memorial opens more than a decade after Emanuel Nine killings
-secondary_headline: Foundation raised about $25 million for the memorial, garden and other costs
+secondary_headline: Foundation raised about $25 million for the memorial, garden and
+  other costs
 publish_date: '2026-11-14'
-lede: A long-planned marble memorial to the nine Black churchgoers killed at Mother Emanuel AME Church in Charleston, South Carolina, is set to open to the public Saturday in a courtyard by the church's front door, more than a decade after an avowed white supremacist killed them in 2015. The memorial is anchored by a Fountain of Grace, with water flowing from a shallow basin etched with the names of the six women and three men slain. Relatives of the dead and the church's pastor said they hope the space becomes a place of remembrance, reflection and, for some, a starting point for advocacy against hate.
-nut_graf: 'The memorial gives the Emanuel Nine''s families a permanent public site at the South''s oldest African Methodist Episcopal Church, established in 1818 and built by free and enslaved people. The opening comes as the families'' push for hate-crimes legislation in South Carolina has not succeeded: a bill named for the Rev. Clementa Pinckney, a state senator among the nine, failed to pass.'
+lede: A long-planned marble memorial to the nine Black churchgoers killed at Mother
+  Emanuel AME Church in Charleston, South Carolina, is set to open to the public Saturday
+  in a courtyard by the church's front door, more than a decade after an avowed white
+  supremacist killed them in 2015. The memorial is anchored by a Fountain of Grace,
+  with water flowing from a shallow basin etched with the names of the six women and
+  three men slain. Relatives of the dead and the church's pastor said they hope the
+  space becomes a place of remembrance, reflection and, for some, a starting point
+  for advocacy against hate.
+nut_graf: 'The memorial gives the Emanuel Nine''s families a permanent public site
+  at the South''s oldest African Methodist Episcopal Church, established in 1818 and
+  built by free and enslaved people. The opening comes as the families'' push for
+  hate-crimes legislation in South Carolina has not succeeded: a bill named for the
+  Rev. Clementa Pinckney, a state senator among the nine, failed to pass.'
 primary_entities:
 - Mother Emanuel AME Church
 - Charleston
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,109 +154,8 @@ cross_article_links:
   strength: 0.5827
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-11-white-house-unveils-website-for-gold-and-gray-granite-arch-near-arlington
-  headline: White House unveils website for gold and gray granite arch near Arlington
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.5798
-- slug: 2026-10-10-chicago-archdiocese-dedicates-first-us-archdiocesan-memorial-for-suicide-victims
-  headline: Chicago archdiocese dedicates first US archdiocesan memorial for suicide victims
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5678
-- slug: 2026-10-03-mariann-budde-to-resign-as-episcopal-bishop-of-washington-dc
-  headline: Mariann Budde to resign as Episcopal bishop of Washington DC
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5682
-- slug: 2026-09-10-visitors-gather-at-ground-zero-memorial-ahead-of-9-11-s-25th-anniversary
-  headline: Visitors gather at Ground Zero memorial ahead of 9/11's 25th anniversary
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5685
-- slug: 2026-05-10-shreveport-community-mourns-8-children-killed-in-mass-shooting-at-funeral
-  headline: Shreveport community mourns 8 children killed in mass shooting at funeral
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6303
-- slug: 2026-07-21-lindsey-graham-lies-in-state-at-capitol-trump-expected-at-memorial
-  headline: Lindsey Graham lies in state at Capitol, Trump expected at memorial
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5709
-- slug: 2026-05-15-black-divers-honor-ancestors-at-underwater-memorial-to-sunken-slave-ship
-  headline: Black divers honor ancestors at underwater memorial to sunken slave ship
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6045
-- slug: 2026-06-19-new-montgomery-square-monument-turns-rosa-parks-booking-number-into-memorial
-  headline: New Montgomery Square monument turns Rosa Parks booking number into memorial
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5866
-- slug: 2026-05-15-black-divers-honor-history-at-florida-site-of-sunken-slave-ship
-  headline: Black divers honor history at Florida site of sunken slave ship
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5997
-- slug: 2026-05-10-funeral-held-for-8-children-killed-in-louisiana-mass-shooting
-  headline: Funeral held for 8 children killed in Louisiana mass shooting
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6005
-- slug: 2026-04-12-church-where-mlk-gave-final-speech-in-memphis-to-get-1-2m-renovation
-  headline: Church where MLK gave final speech in Memphis to get $1.2M renovation
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6037
-- slug: 2026-06-19-obama-presidential-center-opens-its-doors-on-juneteenth
-  headline: Obama Presidential Center opens its doors on Juneteenth
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5705
-- slug: 2026-02-26-cross-country-services-for-jesse-jackson-start-in-chicago
-  headline: Cross-country services for Jesse Jackson start in Chicago
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5954
-- slug: 2026-04-13-mlk-s-mason-temple-in-memphis-to-get-1-2m-federal-renovation
-  headline: MLK’s Mason Temple in Memphis to get $1.2M federal renovation
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.5848
-- slug: 2026-02-25-cross-country-services-for-rev-jesse-jackson-begin-in-chicago
-  headline: Cross-country services for Rev. Jesse Jackson begin in Chicago
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5908
-- slug: 2026-02-28-civil-rights-marker-unveiled-at-historic-durkeeville-church-in-jacksonville
-  headline: Civil rights marker unveiled at historic Durkeeville church in Jacksonville
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.5855
-- slug: 2026-03-08-thousands-mark-bloody-sunday-s-61st-anniversary-as-voting-rights-act-faces-supre
-  headline: Thousands mark Bloody Sunday's 61st anniversary as Voting Rights Act faces Supreme Court test
-  publish_date: '2026-03-08'
-  relation: related
-  strength: 0.5791
-- slug: 2025-12-09-nicaraguans-in-miami-sing-to-virgin-mary-despite-crackdowns-at-home-and-in-us
-  headline: Nicaraguans in Miami sing to Virgin Mary despite crackdowns at home and in US
-  publish_date: '2025-12-09'
-  relation: related
-  strength: 0.5829
-- slug: 2026-04-15-mississippi-museums-for-america-at-250-emphasize-full-unwhitewashed-history
-  headline: Mississippi museums for America at 250 emphasize full, unwhitewashed history
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5671
-- slug: 2026-03-02-jesse-jackson-lies-in-state-at-south-carolina-capitol-after-death
-  headline: Jesse Jackson lies in state at South Carolina Capitol after death
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.5735
+related_stories: []
 ---
-
 ## Mother Emanuel memorial opens more than a decade after Emanuel Nine killings
 
 **Subtype:** fact

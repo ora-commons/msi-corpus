@@ -2,8 +2,20 @@
 headline: Pope Leo XIV to visit Zaña, Peru's hub of Afro-Peruvian culture
 secondary_headline: Susana Baca serenades Pope Leo XIV upon his arrival in Peru
 publish_date: '2026-11-14'
-lede: Pope Leo XIV is expected to highlight Peru's African-descended community on Saturday when he visits Zaña, a historic town in northern Peru that UNESCO recognized in 2017 as a "site of memory of slavery and African cultural heritage." Afro-Peruvian singer Susana Baca serenaded the pope upon his arrival in Peru, and Leo will lead a prayer meeting at the sanctuary of St. Turibius of Mogrovejo, where he often visited to pray while he was bishop of nearby Chiclayo. In his first encyclical, "Magnificent Humanity," Leo apologized for the role of past popes in legitimizing slavery and failing to condemn it for centuries.
-nut_graf: Peru's 2017 national census counted 1,311 people residing in Zaña who identify as Afro-Peruvian and 78,639 in the entire Lambayeque region, and Peru's government says the town's UNESCO recognition is the first of its kind granted to a Peruvian Afro-descendant community or comparable communities along South America's Pacific Coast. Black people now are a small fraction of Peru's 35 million people and have struggled to advance in the more than 170 years since emancipation.
+lede: Pope Leo XIV is expected to highlight Peru's African-descended community on
+  Saturday when he visits Zaña, a historic town in northern Peru that UNESCO recognized
+  in 2017 as a "site of memory of slavery and African cultural heritage." Afro-Peruvian
+  singer Susana Baca serenaded the pope upon his arrival in Peru, and Leo will lead
+  a prayer meeting at the sanctuary of St. Turibius of Mogrovejo, where he often visited
+  to pray while he was bishop of nearby Chiclayo. In his first encyclical, "Magnificent
+  Humanity," Leo apologized for the role of past popes in legitimizing slavery and
+  failing to condemn it for centuries.
+nut_graf: Peru's 2017 national census counted 1,311 people residing in Zaña who identify
+  as Afro-Peruvian and 78,639 in the entire Lambayeque region, and Peru's government
+  says the town's UNESCO recognition is the first of its kind granted to a Peruvian
+  Afro-descendant community or comparable communities along South America's Pacific
+  Coast. Black people now are a small fraction of Peru's 35 million people and have
+  struggled to advance in the more than 170 years since emancipation.
 primary_entities:
 - Pope Leo XIV
 - Susana Baca
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +158,43 @@ related_stories:
   headline: Pope Leo XIV denounces machismo, violence against women on Peru homecoming
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7425
+  strength: 0.7432
 - slug: 2026-11-11-pope-leo-xiv-returns-to-peru-for-final-leg-of-south-american-tour
   headline: Pope Leo XIV returns to Peru for final leg of South American tour
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7482
+  strength: 0.7483
 - slug: 2026-11-13-pope-leo-xiv-returns-to-former-diocese-of-chiclayo-in-peru
   headline: Pope Leo XIV returns to former diocese of Chiclayo in Peru
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6903
+  strength: 0.6881
 - slug: 2026-11-11-pope-leo-xiv-plans-devoto-prison-visit-and-mass-before-peru-return
   headline: Pope Leo XIV plans Devoto Prison visit and Mass before Peru return
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6855
+  strength: 0.6831
 - slug: 2026-11-09-pope-leo-xiv-urges-church-community-and-state-to-work-together-in-uruguay
   headline: Pope Leo XIV urges church, community and state to work together in Uruguay
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6724
-- slug: 2026-11-13-chiclayo-residents-recall-father-robert-prevost-s-charity-and-pandemic-outreach
-  headline: Chiclayo residents recall Father Robert Prevost's charity and pandemic outreach
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6348
+  strength: 0.6732
 - slug: 2026-11-09-pope-leo-tells-milei-the-economy-should-serve-people
   headline: Pope Leo tells Milei the economy should serve people
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6603
-- slug: 2026-11-09-five-survivors-meet-leo-xiv-at-the-catholic-university-of-argentina
-  headline: Five survivors meet Leo XIV at the Catholic University of Argentina
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.648
-- slug: 2026-11-09-pope-leo-xiv-visits-argentine-care-home-urges-protection-of-the-vulnerable
-  headline: Pope Leo XIV visits Argentine care home, urges protection of the vulnerable
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.637
-- slug: 2026-10-27-leo-xiv-plans-several-meetings-with-clergy-abuse-survivors-in-latin-america
-  headline: Leo XIV plans several meetings with clergy abuse survivors in Latin America
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6822
+  strength: 0.6595
 - slug: 2026-10-29-abuse-survivors-press-pope-leo-xiv-for-defrockings-on-argentina-visit
   headline: Abuse survivors press Pope Leo XIV for defrockings on Argentina visit
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6714
-- slug: 2026-09-28-pope-leo-xiv-plans-first-major-south-american-journey-in-uruguay
-  headline: Pope Leo XIV plans first major South American journey in Uruguay
-  publish_date: '2026-09-28'
+  strength: 0.671
+- slug: 2026-10-27-leo-xiv-plans-several-meetings-with-clergy-abuse-survivors-in-latin-america
+  headline: Leo XIV plans several meetings with clergy abuse survivors in Latin America
+  publish_date: '2026-10-27'
   relation: related
-  strength: 0.677
-- slug: 2026-06-08-pope-leo-xiv-calls-for-moral-renewal-in-historic-spanish-parliament-address
-  headline: Pope Leo XIV calls for moral renewal in historic Spanish parliament address
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.662
-- slug: 2026-05-24-pope-leo-xiv-apologizes-for-vatican-role-in-legitimizing-historical-slavery
-  headline: Pope Leo XIV apologizes for Vatican role in legitimizing historical slavery
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6621
-- slug: 2026-05-25-pope-leo-xiv-apologizes-for-vatican-s-role-in-legitimizing-slavery
-  headline: Pope Leo XIV apologizes for Vatican’s role in legitimizing slavery
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.656
-- slug: 2026-04-23-pope-leo-xiv-tells-inmates-in-equatorial-guinea-you-are-not-alone
-  headline: Pope Leo XIV tells inmates in Equatorial Guinea “you are not alone”
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6517
-- slug: 2026-01-08-pope-leo-xiv-plans-spain-trip-with-stops-in-madrid-barcelona-canary-islands
-  headline: Pope Leo XIV plans Spain trip with stops in Madrid, Barcelona, Canary Islands
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.663
-- slug: 2026-04-10-pope-leo-xiv-finishes-africa-trip-urging-peace-and-tackling-corruption
-  headline: Pope Leo XIV finishes Africa trip, urging peace and tackling corruption
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6529
-- slug: 2026-05-27-pope-leo-xiv-issues-historic-apology-for-holy-see-s-role-in-legitimizing-slavery
-  headline: Pope Leo XIV issues historic apology for Holy See's role in legitimizing slavery
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6394
-- slug: 2026-04-21-pope-leo-xiv-tells-equatorial-guinea-inmates-you-are-not-alone-on-prison-visit
-  headline: Pope Leo XIV tells Equatorial Guinea inmates “You are not alone” on prison visit
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6494
+  strength: 0.6814
 ---
-
 ## Pope Leo XIV to visit Zaña, Peru's hub of Afro-Peruvian culture
 
 **Subtype:** fact

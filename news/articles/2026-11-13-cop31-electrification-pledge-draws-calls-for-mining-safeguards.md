@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-11-12'
   relation: related
   strength: 0.724
+analyses:
+- '2026-11-13-cop31-electrification-target-leaves-mining-safeguards-outside-negotiation-text'
 ---
 ## COP31 electrification pledge draws calls for mining safeguards
 
@@ -244,3 +246,8 @@ The Associated Press said its climate and environmental coverage receives financ
 **Publication date:** 2026-11-13
 **Title:** COP31 climate summit: global electrification push sparks mining safeguards debate
 **URL:** https://apnews.com/article/cop31-summit-mining-electrification-human-rights-environment-40a6e8a12b8b83f6d2cd5dab600c2f8d
+
+---
+
+<!-- analysis-link:2026-11-13-cop31-electrification-target-leaves-mining-safeguards-outside-negotiation-text -->
+**Going deeper:** [Read MSI's analysis of the 35-by-35 pledge's mining safeguards gap →](/analyses/2026-11-13-cop31-electrification-target-leaves-mining-safeguards-outside-negotiation-text)
