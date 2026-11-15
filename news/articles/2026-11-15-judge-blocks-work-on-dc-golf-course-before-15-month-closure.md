@@ -1,9 +1,19 @@
 ---
 headline: Judge blocks work on DC golf course before 15-month closure
-secondary_headline: Trump says Washington area residents will get 50% discount on rates
+secondary_headline: Trump says Washington area residents will get 50% discount on
+  rates
 publish_date: '2026-11-15'
-lede: A federal judge on Saturday ordered a temporary stop to any work at East Potomac Golf Links, the historic public course along the Potomac River roughly 2 miles from the White House, blocking for now President Donald Trump's push to redevelop it into a championship-level venue. U.S. District Judge Ana Reyes issued the temporary restraining order before the course was due to close Sunday for 15 months, hours before Trump had said work would begin.
-nut_graf: The order is the latest in a series of rulings issued just as construction was expected to begin on Trump's Washington projects, which also include a memorial arch and a White House ballroom. It lands amid an escalating dispute between the judge and the Justice Department, which has asked Reyes to step aside and faces a court inquiry into whether officials misled her during the case.
+lede: A federal judge on Saturday ordered a temporary stop to any work at East Potomac
+  Golf Links, the historic public course along the Potomac River roughly 2 miles from
+  the White House, blocking for now President Donald Trump's push to redevelop it
+  into a championship-level venue. U.S. District Judge Ana Reyes issued the temporary
+  restraining order before the course was due to close Sunday for 15 months, hours
+  before Trump had said work would begin.
+nut_graf: The order is the latest in a series of rulings issued just as construction
+  was expected to begin on Trump's Washington projects, which also include a memorial
+  arch and a White House ballroom. It lands amid an escalating dispute between the
+  judge and the Justice Department, which has asked Reyes to step aside and faces
+  a court inquiry into whether officials misled her during the case.
 primary_entities:
 - Ana Reyes
 - Donald Trump
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,113 +154,60 @@ related_stories:
   headline: Judge Reyes weighs order to keep East Potomac Park open past Sunday
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8369
+  strength: 0.836
 - slug: 2026-10-30-federal-judge-opens-inquiry-into-potential-misconduct-in-trump-golf-course-case
-  headline: Federal judge opens inquiry into potential misconduct in Trump golf course case
+  headline: Federal judge opens inquiry into potential misconduct in Trump golf course
+    case
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8335
+  strength: 0.832
 - slug: 2026-10-27-federal-judge-extends-east-potomac-injunction-with-10-day-notice-rule
   headline: Federal judge extends East Potomac injunction with 10-day notice rule
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8403
+  strength: 0.8398
 - slug: 2026-11-07-reyes-plans-to-appoint-jessie-liu-as-special-master-in-east-potomac-case
   headline: Reyes plans to appoint Jessie Liu as special master in East Potomac case
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7717
+  strength: 0.7707
 - slug: 2026-11-06-judge-temporarily-blocks-trump-s-250-foot-arch-construction-near-arlington-cemet
-  headline: Judge temporarily blocks Trump's 250-foot arch construction near Arlington Cemetery
+  headline: Judge temporarily blocks Trump's 250-foot arch construction near Arlington
+    Cemetery
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6925
+  strength: 0.6923
 - slug: 2026-10-22-plaintiffs-ask-judge-to-halt-construction-of-trump-s-triumphal-arch-in-d-c
-  headline: Plaintiffs ask judge to halt construction of Trump's triumphal arch in D.C.
+  headline: Plaintiffs ask judge to halt construction of Trump's triumphal arch in
+    D.C.
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6636
+  strength: 0.6638
 - slug: 2026-09-05-trump-wants-to-turn-dc-s-east-potomac-course-into-world-class-golf-venue
   headline: Trump wants to turn DC's East Potomac course into world-class golf venue
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.7649
+  strength: 0.7628
 - slug: 2026-05-05-judge-tells-trump-officials-not-to-cut-trees-at-historic-washington-golf-course
-  headline: Judge tells Trump officials not to cut trees at historic Washington golf course
+  headline: Judge tells Trump officials not to cut trees at historic Washington golf
+    course
   publish_date: '2026-05-05'
   relation: related
-  strength: 0.8447
-- slug: 2026-02-16-lawsuit-seeks-to-block-trump-overhaul-of-historic-east-potomac-golf-course
-  headline: Lawsuit seeks to block Trump overhaul of historic East Potomac golf course
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.7881
-- slug: 2026-05-06-east-wing-debris-at-dc-golf-course-tested-positive-for-toxic-metals-report
-  headline: 'East Wing debris at DC golf course tested positive for toxic metals: report'
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7299
-- slug: 2026-01-03-trump-administration-terminates-leases-for-washington-s-three-public-golf-course
-  headline: Trump administration terminates leases for Washington’s three public golf courses
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.741
-- slug: 2026-01-01-trump-administration-ends-leases-for-dc-s-three-public-golf-courses
-  headline: Trump administration ends leases for DC’s three public golf courses
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.7177
-- slug: 2026-05-16-trump-announces-sculpture-garden-honoring-250-american-heroes-along-national-mal
-  headline: Trump announces sculpture garden honoring 250 American heroes along National Mall
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6768
-- slug: 2026-06-20-trump-s-dc-renovation-blitz-closes-landmarks-frustrates-visitors
-  headline: Trump's DC renovation blitz closes landmarks, frustrates visitors
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.659
-- slug: 2026-05-16-trump-to-build-national-garden-of-american-heroes-near-national-mall
-  headline: Trump to build National Garden of American Heroes near National Mall
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6728
-- slug: 2026-05-10-trump-presses-washington-renovation-blitz-as-iran-economic-pressures-mount
-  headline: Trump presses Washington renovation blitz as Iran, economic pressures mount
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6739
-- slug: 2026-04-06-trump-administration-asks-appeals-court-to-pause-white-house-ballroom-halt
-  headline: Trump administration asks appeals court to pause White House ballroom halt
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6795
-- slug: 2026-06-14-trump-administration-tells-court-white-house-ballroom-is-too-far-along-to-stop
-  headline: Trump administration tells court White House ballroom is too far along to stop
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6546
-- slug: 2026-04-16-federal-judge-blocks-above-ground-white-house-ballroom-construction-allows-bunke
-  headline: Federal judge blocks above-ground White House ballroom construction, allows bunker work
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6743
-- slug: 2026-05-10-trump-s-reflecting-pool-and-golf-course-plans-highlight-power-play-in-dc
-  headline: Trump’s Reflecting Pool and golf-course plans highlight power play in DC
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6593
+  strength: 0.8444
 image:
   url: /articles/2026-11-15-judge-blocks-work-on-dc-golf-course-before-15-month-closure.png
-  alt: "Illustration accompanying article: Judge blocks work on DC golf course before 15-month closure"
+  alt: 'Illustration accompanying article: Judge blocks work on DC golf course before
+    15-month closure'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Judge blocks work on DC golf course before 15-month closure
 
 **Subtype:** fact
