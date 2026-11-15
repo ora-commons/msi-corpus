@@ -1,9 +1,19 @@
 ---
 headline: Mamdani secures 90-day delay with Trump on SNAP store rules
-secondary_headline: New USDA stocking rules would have bound retailers from November 4
+secondary_headline: New USDA stocking rules would have bound retailers from November
+  4
 publish_date: '2026-11-13'
-lede: New York City mayor Zohran Mamdani said he reached an agreement with Donald Trump and agriculture secretary Brooke Rollins on Friday, November 13, 2026, securing a 90-day delay on new federal stocking rules for the Supplemental Nutrition Assistance Program. The extension gives bodegas, convenience stores and small grocers that accept SNAP benefits more time to comply with guidelines that would otherwise have taken effect on November 4.
-nut_graf: The dispute turns on how much stock a small corner store must carry to keep accepting food assistance benefits. With the Food Research and Action Center estimating that bodegas, convenience stores and small grocery stores make up roughly 70% of SNAP retailers, Mamdani argued that a compressed compliance deadline threatened both benefits recipients and the small stores they depend on.
+lede: New York City mayor Zohran Mamdani said he reached an agreement with Donald
+  Trump and agriculture secretary Brooke Rollins on Friday, November 13, 2026, securing
+  a 90-day delay on new federal stocking rules for the Supplemental Nutrition Assistance
+  Program. The extension gives bodegas, convenience stores and small grocers that
+  accept SNAP benefits more time to comply with guidelines that would otherwise have
+  taken effect on November 4.
+nut_graf: The dispute turns on how much stock a small corner store must carry to keep
+  accepting food assistance benefits. With the Food Research and Action Center estimating
+  that bodegas, convenience stores and small grocery stores make up roughly 70% of
+  SNAP retailers, Mamdani argued that a compressed compliance deadline threatened
+  both benefits recipients and the small stores they depend on.
 primary_entities:
 - Zohran Mamdani
 - Donald Trump
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,107 +149,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-11-trump-administration-proposal-could-end-snap-eligibility-for-6-3-million-people
-  headline: Trump administration proposal could end SNAP eligibility for 6.3 million people
+  headline: Trump administration proposal could end SNAP eligibility for 6.3 million
+    people
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6854
+  strength: 0.6826
 - slug: 2026-11-12-more-than-1-2-million-children-have-lost-snap-benefits-since-last-july
   headline: More than 1.2 million children have lost SNAP benefits since last July
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6623
+  strength: 0.6604
 - slug: 2026-10-26-mamdani-s-nyc-encampment-policy-draws-criticism-from-residents-and-businesses
   headline: Mamdani’s NYC encampment policy draws criticism from residents and businesses
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6936
+  strength: 0.6966
 - slug: 2026-10-25-snap-enrollment-drops-13-after-trump-administration-work-requirements
   headline: SNAP enrollment drops 13% after Trump administration work requirements
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.6816
+  strength: 0.6799
 - slug: 2026-10-23-usda-proposes-requiring-chip-cards-for-snap-benefits-in-all-50-states
   headline: USDA proposes requiring chip cards for SNAP benefits in all 50 states
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6885
+  strength: 0.6859
 - slug: 2026-10-26-usda-proposes-requiring-chip-enabled-snap-cards-and-tap-to-pay-terminals
   headline: USDA proposes requiring chip-enabled SNAP cards and tap-to-pay terminals
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6527
+  strength: 0.6505
 - slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
   headline: SNAP enrollment falls almost 13% as new federal requirements take hold
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.678
+  strength: 0.6747
 - slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
   headline: NYC and coalition of cities sue over Trump immigration benefits rule
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6801
-- slug: 2026-08-24-business-coalition-sues-mamdani-over-city-grocery-plan
-  headline: Business coalition sues Mamdani over city grocery plan
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6921
-- slug: 2026-08-25-mamdani-backs-nyc-bill-requiring-amazon-to-hire-delivery-couriers
-  headline: Mamdani backs NYC bill requiring Amazon to hire delivery couriers
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6495
-- slug: 2026-07-25-mamdani-cuts-red-tape-for-nyc-small-businesses-with-50-reforms
-  headline: Mamdani cuts red tape for NYC small businesses with 50 reforms
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6894
-- slug: 2026-07-27-mamdani-details-30-price-cut-at-planned-city-owned-grocery-stores
-  headline: Mamdani details 30% price cut at planned city-owned grocery stores
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6633
-- slug: 2026-01-04-trump-officials-consider-banning-junk-food-from-snap-lawmakers-face-barriers
-  headline: Trump officials consider banning “junk food” from SNAP, lawmakers face barriers
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6969
-- slug: 2026-06-23-judge-blocks-snap-restrictions-on-soft-drinks-candy
-  headline: Judge blocks SNAP restrictions on soft drinks, candy
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6577
-- slug: 2026-01-03-trump-officials-seek-to-bar-junk-food-from-snap-but-rules-are-hard
-  headline: Trump officials seek to bar junk food from SNAP, but rules are hard
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6934
-- slug: 2026-04-13-mayor-zohran-mamdani-marks-100-days-with-grocery-trash-and-bus-plans
-  headline: Mayor Zohran Mamdani marks 100 days with grocery, trash and bus plans
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6805
-- slug: 2026-05-02-fact-check-4-3-million-fewer-snap-recipients-tied-to-new-work-rules
-  headline: 'Fact check: 4.3 million fewer SNAP recipients tied to new work rules'
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6686
-- slug: 2026-02-16-judge-tentatively-blocks-trump-administration-from-accessing-snap-data
-  headline: Judge tentatively blocks Trump administration from accessing SNAP data
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6773
-- slug: 2026-01-05-snap-bans-on-soda-candy-and-some-foods-start-jan-1-in-five-states
-  headline: SNAP bans on soda, candy and some foods start Jan. 1 in five states
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6782
-- slug: 2026-01-03-snap-bans-soda-and-candy-in-5-states-starting-jan-1
-  headline: SNAP bans soda and candy in 5 states starting Jan. 1
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6769
+  strength: 0.6822
 ---
-
 ## Mamdani secures 90-day delay with Trump on SNAP store rules
 
 **Subtype:** fact**

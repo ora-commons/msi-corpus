@@ -2,8 +2,18 @@
 headline: Van Hollen drops White House bid, challenges Schumer for Senate leader
 secondary_headline: Senate Democrats to vote on leader Dec. 1 by secret ballot
 publish_date: '2026-11-13'
-lede: Maryland Sen. Chris Van Hollen said Friday he is no longer considering a run for the White House and will focus instead on his challenge to Senate Democratic Leader Chuck Schumer for the caucus's top job. Van Hollen announced the challenge a day earlier, telling a "What's Next" conference in Denver that Democrats should pursue an aggressive agenda and "go toe to toe" with President Donald Trump. The leadership contest will be decided Dec. 1 behind closed doors in the Capitol on a secret ballot.
-nut_graf: The Dec. 1 vote is the first contested race for Senate Democratic leader in decades, and it arrives as the caucus prepares to take power with large new majorities in both chambers. Schumer argues the midterm wins endorse his leadership; Van Hollen and his backers say the scale of those wins is a call for change. Only a simple majority is required to win.
+lede: Maryland Sen. Chris Van Hollen said Friday he is no longer considering a run
+  for the White House and will focus instead on his challenge to Senate Democratic
+  Leader Chuck Schumer for the caucus's top job. Van Hollen announced the challenge
+  a day earlier, telling a "What's Next" conference in Denver that Democrats should
+  pursue an aggressive agenda and "go toe to toe" with President Donald Trump. The
+  leadership contest will be decided Dec. 1 behind closed doors in the Capitol on
+  a secret ballot.
+nut_graf: The Dec. 1 vote is the first contested race for Senate Democratic leader
+  in decades, and it arrives as the caucus prepares to take power with large new majorities
+  in both chambers. Schumer argues the midterm wins endorse his leadership; Van Hollen
+  and his backers say the scale of those wins is a call for change. Only a simple
+  majority is required to win.
 primary_entities:
 - Chris Van Hollen
 - Chuck Schumer
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,44 @@ related_stories:
   headline: Schumer faces first contested Democratic leader election in decades
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8864
+  strength: 0.8877
 - slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-majority-leader
   headline: Van Hollen challenges Schumer for Senate majority leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8838
+  strength: 0.8839
 - slug: 2026-11-12-van-hollen-challenges-schumer-to-lead-senate-democrats
   headline: Van Hollen challenges Schumer to lead Senate Democrats
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8735
+  strength: 0.8732
 - slug: 2026-11-13-schumer-presses-100-day-agenda-as-van-hollen-challenges-him-for-leader-post
-  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader post
+  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader
+    post
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8473
+  strength: 0.8478
 - slug: 2026-11-13-schumer-and-van-hollen-split-senate-democratic-endorsements
   headline: Schumer and Van Hollen split Senate Democratic endorsements
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8228
+  strength: 0.8237
 - slug: 2026-11-13-van-hollen-brings-record-of-opposing-trump-cuts-to-senate-leadership-bid
   headline: Van Hollen brings record of opposing Trump cuts to Senate leadership bid
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8198
+  strength: 0.82
 - slug: 2026-11-10-van-hollen-says-senate-democratic-leadership-race-should-not-be-coronation
   headline: Van Hollen says Senate Democratic leadership race 'should not be coronation'
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.829
+  strength: 0.8292
 - slug: 2026-11-09-senate-republicans-set-leadership-vote-as-democrats-weigh-schumer-s-future
   headline: Senate Republicans set leadership vote as Democrats weigh Schumer's future
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.795
-- slug: 2026-11-13-van-hollen-pledges-hearings-on-foreign-aid-cuts-if-democrats-lead-senate
-  headline: Van Hollen pledges hearings on foreign aid cuts if Democrats lead Senate
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7654
-- slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-democratic-leadership
-  headline: Van Hollen challenges Schumer for Senate Democratic leadership
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7509
-- slug: 2026-11-10-sanders-opposes-schumer-s-reelection-bid-as-senate-democrats-weigh-a-new-leader
-  headline: Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new leader
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7691
-- slug: 2026-11-10-ron-johnson-concedes-john-thune-has-no-opponent-in-senate-gop-leadership
-  headline: Ron Johnson concedes John Thune has no opponent in Senate GOP leadership
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7344
-- slug: 2026-11-05-schumer-vows-democrats-will-not-confirm-a-right-winger-to-the-supreme-court
-  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme Court
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7574
-- slug: 2026-11-06-incoming-democratic-senators-decline-to-back-schumer-as-majority-leader
-  headline: Incoming Democratic senators decline to back Schumer as majority leader
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7368
-- slug: 2026-11-11-sanders-and-slotkin-among-senators-seeking-new-democratic-leadership
-  headline: Sanders and Slotkin among senators seeking new Democratic leadership
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7001
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7382
-- slug: 2026-11-10-john-thune-wins-another-term-leading-senate-republicans
-  headline: John Thune wins another term leading Senate Republicans
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6704
-- slug: 2026-11-04-schumer-says-days-of-trump-s-supplicant-senate-are-over-vows-to-cut-costs
-  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut costs
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.707
-- slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
-  headline: Tom Emmer wins House Republican whip race over August Pfluger
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6611
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6631
+  strength: 0.7958
 ---
-
 ## Van Hollen drops White House bid, challenges Schumer for Senate leader
 
 **Subtype:** fact

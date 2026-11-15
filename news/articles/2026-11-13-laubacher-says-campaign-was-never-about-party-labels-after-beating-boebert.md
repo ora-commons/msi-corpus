@@ -1,9 +1,23 @@
 ---
 headline: Laubacher says campaign was never about party labels after beating Boebert
-secondary_headline: Retired Navy rear admiral Laubacher wins conservative Colorado district
+secondary_headline: Retired Navy rear admiral Laubacher wins conservative Colorado
+  district
 publish_date: '2026-11-13'
-lede: 'Democrat Eileen Laubacher defeated Republican Rep. Lauren Boebert in Colorado''s fourth congressional district by less than 1%, according to the Associated Press, ending Boebert''s three terms in Congress. Suzan DelBene, chair of the Democratic Congressional Campaign Committee, congratulated Laubacher with a one-line verdict: "Lauren Boebert''s sideshow is over." Laubacher said in a statement that "This campaign was never about party labels. It was about putting people first."'
-nut_graf: 'The defeat ends the congressional career of a gun-rights advocate, born-again Christian and one-time QAnon fan whose three terms in Congress included repeated controversies. Boebert also broke with Donald Trump at points: she was one of the most vocal members of Congress calling for release of the Epstein files, even after the White House tried to persuade her to remove her name from a discharge petition. Trump has called Boebert a "carpetbagger" and "dumb". The president''s first veto of his second term was for a bill sponsored by Boebert that would have funded a drinking water project in district four, and the bill had passed the House and Senate unanimously. The result hands Democrats one of the state''s most conservative seats.'
+lede: 'Democrat Eileen Laubacher defeated Republican Rep. Lauren Boebert in Colorado''s
+  fourth congressional district by less than 1%, according to the Associated Press,
+  ending Boebert''s three terms in Congress. Suzan DelBene, chair of the Democratic
+  Congressional Campaign Committee, congratulated Laubacher with a one-line verdict:
+  "Lauren Boebert''s sideshow is over." Laubacher said in a statement that "This campaign
+  was never about party labels. It was about putting people first."'
+nut_graf: 'The defeat ends the congressional career of a gun-rights advocate, born-again
+  Christian and one-time QAnon fan whose three terms in Congress included repeated
+  controversies. Boebert also broke with Donald Trump at points: she was one of the
+  most vocal members of Congress calling for release of the Epstein files, even after
+  the White House tried to persuade her to remove her name from a discharge petition.
+  Trump has called Boebert a "carpetbagger" and "dumb". The president''s first veto
+  of his second term was for a bill sponsored by Boebert that would have funded a
+  drinking water project in district four, and the bill had passed the House and Senate
+  unanimously. The result hands Democrats one of the state''s most conservative seats.'
 primary_entities:
 - Lauren Boebert
 - Eileen Laubacher
@@ -40,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,113 +157,31 @@ related_stories:
   headline: Boebert will not return to Congress after Laubacher wins Colorado's 4th
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8368
+  strength: 0.837
 - slug: 2026-11-13-boebert-leaves-congress-after-epstein-clash-with-trump
   headline: Boebert leaves Congress after Epstein clash with Trump
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7942
+  strength: 0.7934
 - slug: 2026-11-13-boebert-says-we-collectively-failed-after-widespread-midterm-losses
   headline: Boebert says 'We collectively failed' after widespread midterm losses
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7829
-- slug: 2026-11-12-paul-lepage-wins-maine-s-2nd-district-lone-house-flip-without-redistricting
-  headline: Paul LePage wins Maine's 2nd District, lone House flip without redistricting
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5968
-- slug: 2026-11-07-underdog-democrats-win-midterm-races-with-little-money-staff-or-party-support
-  headline: Underdog Democrats win midterm races with little money, staff or party support
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6035
-- slug: 2026-11-04-schumer-says-days-of-trump-s-supplicant-senate-are-over-vows-to-cut-costs
-  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut costs
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6084
-- slug: 2026-11-05-democrats-will-hold-more-business-degrees-than-republicans-in-the-next-congress
-  headline: Democrats will hold more business degrees than Republicans in the next Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5906
-- slug: 2026-11-04-hinojosa-pitches-1-500-refund-amid-abbott-s-180-million-campaign-spending
-  headline: Hinojosa pitches $1,500 refund amid Abbott's $180 million campaign spending
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5926
-- slug: 2026-10-27-campaign-finance-records-show-cloobeck-gave-swalwell-s-campaigns-more-than-23-00
-  headline: Campaign finance records show Cloobeck gave Swalwell’s campaigns more than $23,000
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5955
-- slug: 2026-10-12-klobuchar-pitches-moderation-and-fraud-cleanup-in-minnesota-governor-bid
-  headline: Klobuchar pitches moderation and fraud cleanup in Minnesota governor bid
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5934
-- slug: 2026-10-07-carpetbagger-claims-and-valor-allegations-test-nevada-s-2nd-district-house-race
-  headline: Carpetbagger claims and valor allegations test Nevada's 2nd District House race
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6133
-- slug: 2026-10-12-marine-veteran-mendoza-challenges-ciscomani-in-arizona-6th-district-race
-  headline: Marine veteran Mendoza challenges Ciscomani in Arizona 6th District race
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5911
-- slug: 2026-09-21-boebert-rejects-ethics-complaint-alleging-sexual-relationships-with-staffers
-  headline: Boebert rejects ethics complaint alleging sexual relationships with staffers
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6447
-- slug: 2026-09-29-election-lawyer-lays-out-senate-democratic-options-against-house-challenges
-  headline: Election lawyer lays out Senate Democratic options against House challenges
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5947
-- slug: 2026-09-24-leaked-audio-shows-osborn-calling-border-wall-a-symbol-of-racism
-  headline: Leaked audio shows Osborn calling border wall 'a symbol of racism'
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6021
-- slug: 2026-09-20-dsa-backed-candidates-unseat-four-house-democrats-as-primary-season-ends
-  headline: DSA-backed candidates unseat four House Democrats as primary season ends
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5906
-- slug: 2026-09-17-salazar-ad-tells-trump-immigration-enforcement-has-gone-too-far
-  headline: Salazar ad tells Trump immigration enforcement has 'gone too far'
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5914
-- slug: 2026-08-20-aisha-wahab-secures-california-house-seat
-  headline: Aisha Wahab secures California House seat
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6049
-- slug: 2026-08-03-crowded-gop-primary-in-washington-s-4th-district-signals-party-s-direction
-  headline: Crowded GOP primary in Washington's 4th District signals party's direction
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.5921
-- slug: 2026-06-24-admiral-fired-in-hegseth-purge-wins-democratic-primary-in-south-carolina
-  headline: Admiral fired in Hegseth purge wins Democratic primary in South Carolina
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6192
+  strength: 0.783
 image:
   url: /articles/2026-11-13-laubacher-says-campaign-was-never-about-party-labels-after-beating-boebert.png
-  alt: "Illustration accompanying article: Laubacher says campaign was never about party labels after beating Boebert"
+  alt: 'Illustration accompanying article: Laubacher says campaign was never about
+    party labels after beating Boebert'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Laubacher says campaign was never about party labels after beating Boebert
 
 **Subtype:** fact

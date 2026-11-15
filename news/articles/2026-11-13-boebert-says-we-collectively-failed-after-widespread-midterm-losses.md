@@ -57,7 +57,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -202,3 +202,10 @@ Once in Congress, Boebert refused to pass through metal detectors at the U.S. Ca
 **Publication date:** 2026-11-13
 **Title:** Boebert of Colorado loses House seat to Democrat Eileen Laubacher
 **URL:** https://apnews.com/article/lauren-boebert-colorado-house-laubacher-3fdd6112a72340a4b6691537a9db3409
+
+### src_late_a136221a2d477c85 — Associated Press, wire, Tier 1, originating
+**Author:** Nicholas Riccardi, Associated Press
+**Publication date:** 2026-11-13
+**Title:** GOP Rep. Lauren Boebert of Colorado loses U.S. House seat to Democrat Eileen Laubacher
+**URL:** https://www.pbs.org/newshour/politics/gop-rep-lauren-boebert-of-colorado-loses-u-s-house-seat-to-democrat-eileen-laubacher
+**Added after publication:** true
