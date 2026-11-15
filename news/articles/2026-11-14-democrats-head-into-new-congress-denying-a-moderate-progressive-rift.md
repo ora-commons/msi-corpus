@@ -2,8 +2,16 @@
 headline: Democrats head into new Congress denying a moderate-progressive rift
 secondary_headline: Incoming Democrats rally around affordability and accountability
 publish_date: '2026-11-14'
-lede: Democrats elected in the November midterms are heading into the new Congress disputing the idea that their class of newcomers is split between moderates and progressives, saying the campaigns they ran converged on economic populism and accountability. Before taking the oath of office, lawmakers will also decide whether to keep the party's existing leaders, with Senator Chris Van Hollen challenging Chuck Schumer for the Senate's top Democratic post.
-nut_graf: The incoming Democratic class enters Washington with a shared agenda built around affordability and oversight of the Trump administration, but its members must still choose party leaders and then confront institutional barriers and a president with a veto pen that could block the changes voters demanded.
+lede: Democrats elected in the November midterms are heading into the new Congress
+  disputing the idea that their class of newcomers is split between moderates and
+  progressives, saying the campaigns they ran converged on economic populism and accountability.
+  Before taking the oath of office, lawmakers will also decide whether to keep the
+  party's existing leaders, with Senator Chris Van Hollen challenging Chuck Schumer
+  for the Senate's top Democratic post.
+nut_graf: The incoming Democratic class enters Washington with a shared agenda built
+  around affordability and oversight of the Trump administration, but its members
+  must still choose party leaders and then confront institutional barriers and a president
+  with a veto pen that could block the changes voters demanded.
 primary_entities:
 - Democratic Party
 - Chuck Schumer
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,113 +149,56 @@ related_stories:
   headline: Van Hollen says ending corruption requires organizing Senate differently
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7915
+  strength: 0.7918
 - slug: 2026-11-10-van-hollen-says-senate-democratic-leadership-race-should-not-be-coronation
   headline: Van Hollen says Senate Democratic leadership race 'should not be coronation'
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7993
+  strength: 0.7992
 - slug: 2026-11-12-van-hollen-challenges-schumer-to-lead-senate-democrats
   headline: Van Hollen challenges Schumer to lead Senate Democrats
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7839
+  strength: 0.7843
 - slug: 2026-11-13-schumer-faces-first-contested-democratic-leader-election-in-decades
   headline: Schumer faces first contested Democratic leader election in decades
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7716
+  strength: 0.7712
 - slug: 2026-11-13-van-hollen-drops-white-house-bid-challenges-schumer-for-senate-leader
   headline: Van Hollen drops White House bid, challenges Schumer for Senate leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7694
+  strength: 0.769
 - slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-majority-leader
   headline: Van Hollen challenges Schumer for Senate majority leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7675
+  strength: 0.7673
 - slug: 2026-11-13-schumer-and-van-hollen-split-senate-democratic-endorsements
   headline: Schumer and Van Hollen split Senate Democratic endorsements
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7651
+  strength: 0.7647
 - slug: 2026-11-13-schumer-s-relationship-with-the-party-base-has-not-recovered
   headline: Schumer's relationship with the party base has not recovered
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7502
-- slug: 2026-11-13-schumer-presses-100-day-agenda-as-van-hollen-challenges-him-for-leader-post
-  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader post
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7488
-- slug: 2026-11-12-democrats-gather-in-denver-to-plot-course-after-midterm-wins
-  headline: Democrats gather in Denver to plot course after midterm wins
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7476
-- slug: 2026-11-12-freshman-democrats-open-orientation-focused-on-costs-and-investigations
-  headline: Freshman Democrats open orientation focused on costs and investigations
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7473
-- slug: 2026-11-13-slotkin-joins-sanders-in-calling-for-new-democratic-leadership
-  headline: Slotkin joins Sanders in calling for new Democratic leadership
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7373
-- slug: 2026-11-13-sanders-frames-senate-democratic-leadership-race-as-a-fight-over-party-s-future
-  headline: Sanders frames Senate Democratic leadership race as a fight over party's future
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7355
-- slug: 2026-11-14-democrats-weigh-midterm-sweep-and-old-divisions-at-denver-conference
-  headline: Democrats weigh midterm sweep and old divisions at Denver conference
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7283
-- slug: 2026-11-10-sanders-opposes-schumer-s-reelection-bid-as-senate-democrats-weigh-a-new-leader
-  headline: Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new leader
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7428
-- slug: 2026-11-09-democrats-prepare-affordability-agenda-after-the-midterm-win
-  headline: Democrats prepare affordability agenda after the midterm win
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7339
-- slug: 2026-11-08-jeffries-faces-divided-democrats-atop-largest-house-majority-since-obama-s-first
-  headline: Jeffries faces divided Democrats atop largest House majority since Obama's first year
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7328
-- slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7227
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7339
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7268
+  strength: 0.7495
 image:
   url: /articles/2026-11-14-democrats-head-into-new-congress-denying-a-moderate-progressive-rift.png
-  alt: "Illustration accompanying article: Democrats head into new Congress denying a moderate-progressive rift"
+  alt: 'Illustration accompanying article: Democrats head into new Congress denying
+    a moderate-progressive rift'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Democrats head into new Congress denying a moderate-progressive rift
 
 **Subtype:** fact
