@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-05-17'
   relation: related
   strength: 0.6693
+analyses:
+- '2026-11-13-two-clocks-separate-wildfire-contamination-from-water-crisis-response'
 ---
 ## Wildfire contamination can linger in drinking water for over a decade
 
@@ -267,3 +269,8 @@ Romero said the town has been working on other sources of water: "We've been doi
 **Title:** Bigger and more-frequent wildfires threaten water supplies across the U.S.
 **URL:** https://www.pbs.org/newshour/nation/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-u-s
 **Added after publication:** true
+
+---
+
+<!-- analysis-link:2026-11-13-two-clocks-separate-wildfire-contamination-from-water-crisis-response -->
+**Going deeper:** [Read MSI's analysis of wildfire water contamination clocks →](/analyses/2026-11-13-two-clocks-separate-wildfire-contamination-from-water-crisis-response)
