@@ -1,9 +1,21 @@
 ---
 headline: Family Dollar says it will work with FTC to meet settlement requirements
-secondary_headline: Spokeswoman Janella Escobar says chain focused on pricing accuracy, customer trust
+secondary_headline: Spokeswoman Janella Escobar says chain focused on pricing accuracy,
+  customer trust
 publish_date: '2026-11-13'
-lede: Family Dollar said Friday it will work with the Federal Trade Commission and state agencies to meet the requirements of a proposed $63 million settlement over allegations that it charged customers more at the register than the prices displayed on its shelves, website and mobile app, and provide clear information to customers about how the settlement could impact them. The Federal Trade Commission and 17 states filed federal charges against the company Thursday and announced the proposed settlement the same day; a judge must still approve it.
-nut_graf: Family Dollar is privately owned and based in Chesapeake, Virginia, with more than 8,000 U.S. discount stores, and it reported $13 billion in revenue in its most recent fiscal year, according to a company statement. The proposed settlement would create a $40 million consumer redress fund, a $20 million customer discount program, a $3 million payment to the states involved in the case and an independently assessed, annually certified pricing accuracy program.
+lede: Family Dollar said Friday it will work with the Federal Trade Commission and
+  state agencies to meet the requirements of a proposed $63 million settlement over
+  allegations that it charged customers more at the register than the prices displayed
+  on its shelves, website and mobile app, and provide clear information to customers
+  about how the settlement could impact them. The Federal Trade Commission and 17
+  states filed federal charges against the company Thursday and announced the proposed
+  settlement the same day; a judge must still approve it.
+nut_graf: Family Dollar is privately owned and based in Chesapeake, Virginia, with
+  more than 8,000 U.S. discount stores, and it reported $13 billion in revenue in
+  its most recent fiscal year, according to a company statement. The proposed settlement
+  would create a $40 million consumer redress fund, a $20 million customer discount
+  program, a $3 million payment to the states involved in the case and an independently
+  assessed, annually certified pricing accuracy program.
 primary_entities:
 - Family Dollar
 - Federal Trade Commission
@@ -40,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +155,45 @@ related_stories:
   headline: Family Dollar order requires independent annual pricing certification
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8751
+  strength: 0.8742
 - slug: 2026-11-12-family-dollar-agrees-to-pay-63m-to-settle-overcharging-claims
   headline: Family Dollar agrees to pay $63m to settle overcharging claims
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8455
+  strength: 0.8444
 - slug: 2026-10-31-dollar-general-drew-over-29-000-price-complaints-across-48-states-ftc-suit-says
-  headline: Dollar General drew over 29,000 price complaints across 48 states, FTC suit says
+  headline: Dollar General drew over 29,000 price complaints across 48 states, FTC
+    suit says
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7497
+  strength: 0.7481
 - slug: 2026-10-29-ftc-and-20-states-sue-dollar-general-over-mislabeled-prices
   headline: FTC and 20 states sue Dollar General over mislabeled prices
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7105
+  strength: 0.709
 - slug: 2026-10-26-ftc-and-20-states-sue-dollar-general-over-alleged-register-overcharges
   headline: FTC and 20 states sue Dollar General over alleged register overcharges
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7243
+  strength: 0.7233
 - slug: 2026-10-26-ftc-cites-more-than-4-300-failed-dollar-general-price-accuracy-inspections
   headline: FTC cites more than 4,300 failed Dollar General price-accuracy inspections
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.7187
+  strength: 0.717
 - slug: 2026-10-28-congress-members-urge-ftc-to-probe-retailer-price-discrepancies
   headline: Congress members urge FTC to probe retailer price discrepancies
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6983
+  strength: 0.6971
 - slug: 2026-10-26-consumer-frustration-spans-higher-prices-and-perceived-artificial-intelligence-p
-  headline: Consumer frustration spans higher prices and perceived artificial intelligence pricing
+  headline: Consumer frustration spans higher prices and perceived artificial intelligence
+    pricing
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6947
-- slug: 2026-10-22-dollar-general-agrees-to-new-york-overcharge-settlement-with-price-safeguards
-  headline: Dollar General agrees to New York overcharge settlement with price safeguards
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7083
-- slug: 2026-10-28-ftc-orders-delta-walmart-and-others-to-disclose-pricing-data-practices
-  headline: FTC orders Delta, Walmart and others to disclose pricing data practices
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6506
-- slug: 2026-10-29-ftc-demands-pricing-data-from-airlines-it-cannot-fine
-  headline: FTC demands pricing data from airlines it cannot fine
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6415
-- slug: 2026-10-26-shoppers-question-ai-pricing-amid-company-denials-and-state-restrictions
-  headline: Shoppers question AI pricing amid company denials and state restrictions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6326
-- slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6545
-- slug: 2026-10-07-mcdonald-s-faces-federal-lawsuit-over-ai-pricing-tool
-  headline: McDonald's faces federal lawsuit over AI pricing tool
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6248
-- slug: 2026-09-22-doordash-to-pay-264-000-drivers-in-131-5m-nyc-settlement
-  headline: DoorDash to pay 264,000 drivers in $131.5M NYC settlement
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6289
-- slug: 2026-08-19-ftc-proposes-policy-on-companies-that-vary-prices-using-shopper-data
-  headline: FTC proposes policy on companies that vary prices using shopper data
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6489
-- slug: 2026-08-25-deloitte-to-pay-21-5-million-to-settle-doj-fraud-probe-over-dei-practices
-  headline: Deloitte to pay $21.5 million to settle DOJ fraud probe over DEI practices
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6367
-- slug: 2026-08-22-paramount-california-to-begin-settlement-talks-on-81b-warner-merger
-  headline: Paramount, California to begin settlement talks on $81B Warner merger
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6331
-- slug: 2026-08-24-ftc-settlement-with-zillow-redfin-unwinds-100-million-agreement
-  headline: FTC settlement with Zillow, Redfin unwinds $100 million agreement
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6276
-- slug: 2026-07-28-johnson-johnson-pays-5-5-billion-to-settle-talc-cancer-lawsuits
-  headline: Johnson & Johnson pays $5.5 billion to settle talc cancer lawsuits
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6234
+  strength: 0.6935
 ---
-
 ## Family Dollar says it will work with FTC to meet settlement requirements
 
 **Subtype:** fact

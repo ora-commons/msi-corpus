@@ -2,8 +2,17 @@
 headline: FAA halts departing flights nationwide after communications issue
 secondary_headline: Planes in the air allowed to continue to their destinations
 publish_date: '2026-11-13'
-lede: The Federal Aviation Administration halted departing flights across the United States after a communications issue affected multiple air route traffic-control centers, the agency said. Transportation Secretary Sean Duffy announced the problem on X and said FAA technicians were investigating. Planes already in the air were cleared to continue to their destinations, while inbound international flights were being managed on a case-by-case basis.
-nut_graf: A nationwide halt on departures is one of the FAA's most far-reaching emergency measures, and this one marks the second time in recent years the agency has stopped all outgoing flights across the country. The disruption landed as the cause of the communications failure remained under investigation and the scope of the ground stop was still being worked out.
+lede: The Federal Aviation Administration halted departing flights across the United
+  States after a communications issue affected multiple air route traffic-control
+  centers, the agency said. Transportation Secretary Sean Duffy announced the problem
+  on X and said FAA technicians were investigating. Planes already in the air were
+  cleared to continue to their destinations, while inbound international flights were
+  being managed on a case-by-case basis.
+nut_graf: A nationwide halt on departures is one of the FAA's most far-reaching emergency
+  measures, and this one marks the second time in recent years the agency has stopped
+  all outgoing flights across the country. The disruption landed as the cause of the
+  communications failure remained under investigation and the scope of the ground
+  stop was still being worked out.
 primary_entities:
 - FAA
 - Sean Duffy
@@ -37,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,12 +151,14 @@ related_stories:
   relation: related
   strength: 0.8938
 - slug: 2026-11-13-faa-to-manage-international-flights-case-by-case-during-nationwide-ground-stop
-  headline: FAA to manage international flights case by case during nationwide ground stop
+  headline: FAA to manage international flights case by case during nationwide ground
+    stop
   publish_date: '2026-11-13'
   relation: related
   strength: 0.8937
 - slug: 2026-11-13-faa-grounds-all-flights-nationwide-over-control-center-communications-issue
-  headline: FAA grounds all flights nationwide over control-center communications issue
+  headline: FAA grounds all flights nationwide over control-center communications
+    issue
   publish_date: '2026-11-13'
   relation: related
   strength: 0.8867
@@ -161,7 +173,8 @@ related_stories:
   relation: related
   strength: 0.714
 - slug: 2026-09-28-faa-chief-delays-737-max-10-certification-over-pilot-workload-software-glitch
-  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software glitch
+  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software
+    glitch
   publish_date: '2026-09-28'
   relation: related
   strength: 0.6789
@@ -171,72 +184,12 @@ related_stories:
   relation: related
   strength: 0.6719
 - slug: 2026-08-12-faa-plans-antenna-relocations-new-procedures-after-marine-one-incident-at-reagan
-  headline: FAA plans antenna relocations, new procedures after Marine One incident at Reagan
+  headline: FAA plans antenna relocations, new procedures after Marine One incident
+    at Reagan
   publish_date: '2026-08-12'
   relation: related
   strength: 0.6633
-- slug: 2026-03-10-faa-briefly-grounds-all-jetblue-flights-after-system-outage-lifts-stop-in-40-min
-  headline: FAA briefly grounds all JetBlue flights after system outage, lifts stop in 40 minutes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7305
-- slug: 2026-03-15-chemical-smell-halts-flights-at-four-washington-area-airports-for-over-an-hour
-  headline: Chemical smell halts flights at four Washington-area airports for over an hour
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7292
-- slug: 2026-06-21-delta-plane-aborts-landing-after-300ft-near-miss-with-american-jet-at-boston-log
-  headline: Delta plane aborts landing after 300ft near miss with American jet at Boston Logan
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6753
-- slug: 2026-04-10-faa-investigates-close-call-at-lax-after-frontier-pilot-slammed-brakes
-  headline: FAA investigates close call at LAX after Frontier pilot slammed brakes
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6923
-- slug: 2026-03-18-more-flight-cancellations-delays-due-to-us-storms
-  headline: More flight cancellations, delays due to US storms
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6945
-- slug: 2026-03-29-dc-area-airports-briefly-halt-flights-after-chemical-smell-at-tracon
-  headline: DC-area airports briefly halt flights after chemical smell at TRACON
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6915
-- slug: 2026-04-09-faa-investigates-frontier-close-call-at-lax-after-brakes-to-avoid-collision
-  headline: FAA investigates Frontier close call at LAX after brakes to avoid collision
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6873
-- slug: 2026-05-03-spirit-airlines-says-it-is-going-out-of-business-after-34-years
-  headline: Spirit Airlines says it is going out of business after 34 years
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6779
-- slug: 2026-04-17-faa-orders-300-daily-flight-cuts-at-o-hare-to-curb-summer-delays
-  headline: FAA orders 300 daily flight cuts at O'Hare to curb summer delays
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6784
-- slug: 2026-02-21-audit-finds-flaws-in-faa-oversight-of-united-airlines-maintenance
-  headline: Audit finds flaws in FAA oversight of United Airlines maintenance
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.683
-- slug: 2026-02-12-faa-closes-el-paso-airspace-after-cbp-uses-anti-drone-laser
-  headline: FAA closes El Paso airspace after CBP uses anti-drone laser
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6782
-- slug: 2026-03-15-storms-add-to-thousands-of-canceled-u-s-flights-during-shutdown
-  headline: Storms add to thousands of canceled U.S. flights during shutdown
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6724
 ---
-
 ## FAA halts departing flights nationwide after communications issue
 
 **Subtype:** fact
