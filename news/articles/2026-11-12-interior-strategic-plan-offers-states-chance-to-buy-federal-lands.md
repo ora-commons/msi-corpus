@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-05-10'
   relation: related
   strength: 0.6882
+analyses:
+- '2026-11-12-interior-plan-sets-two-independent-forces-that-decide-federal-land-sales'
 ---
 ## Interior strategic plan offers states chance to buy federal lands
 
@@ -234,3 +236,8 @@ Veneklasen also looked beyond elected officials. In addition to congressional De
 **Publication date:** 2026-11-12
 **Title:** ‘Here we go again’: New Mexico conservationists decry US Interior public land selloff plan
 **URL:** https://www.newsfromthestates.com/article/here-we-go-again-new-mexico-conservationists-decry-us-interior-public-land-selloff-plan
+
+---
+
+<!-- analysis-link:2026-11-12-interior-plan-sets-two-independent-forces-that-decide-federal-land-sales -->
+**Going deeper:** [Read MSI's analysis of the Interior land-sale plan →](/analyses/2026-11-12-interior-plan-sets-two-independent-forces-that-decide-federal-land-sales)
