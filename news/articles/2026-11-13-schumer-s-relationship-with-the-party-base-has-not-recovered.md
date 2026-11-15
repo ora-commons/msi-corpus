@@ -2,8 +2,22 @@
 headline: Schumer's relationship with the party base has not recovered
 secondary_headline: Van Hollen and Schumer differ on Israel in their Senate records
 publish_date: '2026-11-13'
-lede: 'Chuck Schumer''s relationship with the party base — including some Democratic lawmakers — has yet to recover since he advanced a Republican-backed spending measure in March 2025, and another wave of calls for him to step down arrived later that year when some Senate Democrats ended a record-long government shutdown without Republicans meeting any of their demands on healthcare. The Democratic caucus will decide the leadership contest at a behind-closed-doors meeting on 1 December, where Chris Van Hollen, 67, who announced his bid Thursday, called himself an "underdog" and Schumer, 75, said he has the votes to keep the job. The two senators'' records on Israel also differ: Van Hollen voted against providing bulldozers and bombs to Israel, while Schumer''s criticism of Israel has been comparatively muted.'
-nut_graf: The vote will determine how Democrats use their newly expanded Senate majority — including whether to cooperate with or obstruct the 53 Republicans in the majority and how aggressively to press divisive questions such as US aid to Israel. Schumer's standing with the party base has not recovered since March 2025, when he advanced a GOP-backed spending measure over the objections of House Democrats and activist groups, prompting Indivisible's Ezra Levin to call on him to step aside.
+lede: 'Chuck Schumer''s relationship with the party base — including some Democratic
+  lawmakers — has yet to recover since he advanced a Republican-backed spending measure
+  in March 2025, and another wave of calls for him to step down arrived later that
+  year when some Senate Democrats ended a record-long government shutdown without
+  Republicans meeting any of their demands on healthcare. The Democratic caucus will
+  decide the leadership contest at a behind-closed-doors meeting on 1 December, where
+  Chris Van Hollen, 67, who announced his bid Thursday, called himself an "underdog"
+  and Schumer, 75, said he has the votes to keep the job. The two senators'' records
+  on Israel also differ: Van Hollen voted against providing bulldozers and bombs to
+  Israel, while Schumer''s criticism of Israel has been comparatively muted.'
+nut_graf: The vote will determine how Democrats use their newly expanded Senate majority
+  — including whether to cooperate with or obstruct the 53 Republicans in the majority
+  and how aggressively to press divisive questions such as US aid to Israel. Schumer's
+  standing with the party base has not recovered since March 2025, when he advanced
+  a GOP-backed spending measure over the objections of House Democrats and activist
+  groups, prompting Indivisible's Ezra Levin to call on him to step aside.
 primary_entities:
 - Chris Van Hollen
 - Chuck Schumer
@@ -37,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,29 +151,34 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-13-schumer-s-relationship-with-the-party-base-has-not-recovered.png
-  alt: 'Illustration accompanying article: Schumer''s relationship with the party base has not recovered'
+  alt: 'Illustration accompanying article: Schumer''s relationship with the party
+    base has not recovered'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-13-van-hollen-drops-white-house-bid-challenges-schumer-for-senate-leader
   headline: Van Hollen drops White House bid, challenges Schumer for Senate leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8398
+  strength: 0.8399
 - slug: 2026-11-13-schumer-presses-100-day-agenda-as-van-hollen-challenges-him-for-leader-post
-  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader post
+  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader
+    post
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8289
+  strength: 0.8286
 - slug: 2026-11-13-schumer-faces-first-contested-democratic-leader-election-in-decades
   headline: Schumer faces first contested Democratic leader election in decades
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8117
+  strength: 0.8122
 - slug: 2026-11-13-schumer-and-van-hollen-split-senate-democratic-endorsements
   headline: Schumer and Van Hollen split Senate Democratic endorsements
   publish_date: '2026-11-13'
@@ -168,84 +188,23 @@ related_stories:
   headline: Van Hollen challenges Schumer for Senate majority leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7989
+  strength: 0.799
 - slug: 2026-11-12-van-hollen-challenges-schumer-to-lead-senate-democrats
   headline: Van Hollen challenges Schumer to lead Senate Democrats
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8051
+  strength: 0.8053
 - slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-democratic-leadership
   headline: Van Hollen challenges Schumer for Senate Democratic leadership
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7922
+  strength: 0.792
 - slug: 2026-11-13-van-hollen-pledges-hearings-on-foreign-aid-cuts-if-democrats-lead-senate
   headline: Van Hollen pledges hearings on foreign aid cuts if Democrats lead Senate
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7616
-- slug: 2026-11-13-van-hollen-brings-record-of-opposing-trump-cuts-to-senate-leadership-bid
-  headline: Van Hollen brings record of opposing Trump cuts to Senate leadership bid
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7552
-- slug: 2026-11-10-van-hollen-says-senate-democratic-leadership-race-should-not-be-coronation
-  headline: Van Hollen says Senate Democratic leadership race 'should not be coronation'
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7474
-- slug: 2026-11-13-sanders-frames-senate-democratic-leadership-race-as-a-fight-over-party-s-future
-  headline: Sanders frames Senate Democratic leadership race as a fight over party's future
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7196
-- slug: 2026-11-09-senate-republicans-set-leadership-vote-as-democrats-weigh-schumer-s-future
-  headline: Senate Republicans set leadership vote as Democrats weigh Schumer's future
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7299
-- slug: 2026-11-10-sanders-opposes-schumer-s-reelection-bid-as-senate-democrats-weigh-a-new-leader
-  headline: Sanders opposes Schumer's reelection bid as Senate Democrats weigh a new leader
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7183
-- slug: 2026-11-05-schumer-vows-democrats-will-not-confirm-a-right-winger-to-the-supreme-court
-  headline: Schumer vows Democrats will not confirm a 'right-winger' to the Supreme Court
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7398
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7372
-- slug: 2026-11-06-incoming-democratic-senators-decline-to-back-schumer-as-majority-leader
-  headline: Incoming Democratic senators decline to back Schumer as majority leader
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.714
-- slug: 2026-11-10-ron-johnson-concedes-john-thune-has-no-opponent-in-senate-gop-leadership
-  headline: Ron Johnson concedes John Thune has no opponent in Senate GOP leadership
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.674
-- slug: 2026-11-04-schumer-says-days-of-trump-s-supplicant-senate-are-over-vows-to-cut-costs
-  headline: Schumer says days of Trump's 'supplicant Senate' are over, vows to cut costs
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6906
-- slug: 2026-11-06-midterm-election-results-and-trump-s-aid-cutoff-test-the-u-s--israel-alliance
-  headline: Midterm election results and Trump's aid cutoff test the U.S.-Israel alliance
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6727
-- slug: 2026-11-06-schumer-says-democrats-will-block-any-rightwinger-trump-puts-forward-for-the-sup
-  headline: Schumer says Democrats will block any rightwinger Trump puts forward for the Supreme Court
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6689
+  strength: 0.7618
 ---
-
 ## Schumer's relationship with the party base has not recovered
 
 **Subtype:** fact
