@@ -190,6 +190,8 @@ related_stories:
   publish_date: '2026-11-08'
   relation: related
   strength: 0.7471
+analyses:
+- '2026-11-14-the-public-record-leaves-five-competing-accounts-of-the-failed-hegseth-impeachme'
 ---
 ## Eleven absent Democrats sink House vote on Hegseth impeachment
 
@@ -235,3 +237,8 @@ The Ipsos poll showed that Democrats have big leads on which party has a better 
 **Publication date:** 2026-11-14
 **Title:** Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?
 **URL:** https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test
+
+---
+
+<!-- analysis-link:2026-11-14-the-public-record-leaves-five-competing-accounts-of-the-failed-hegseth-impeachme -->
+**Going deeper:** [Read MSI's analysis of the failed Hegseth impeachment vote →](/analyses/2026-11-14-the-public-record-leaves-five-competing-accounts-of-the-failed-hegseth-impeachme)
