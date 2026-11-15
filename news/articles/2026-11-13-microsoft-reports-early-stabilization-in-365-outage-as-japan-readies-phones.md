@@ -1,9 +1,18 @@
 ---
 headline: Microsoft reports early stabilization in 365 outage as Japan readies phones
-secondary_headline: Governments from Singapore to Japan report email and computer disruptions
+secondary_headline: Governments from Singapore to Japan report email and computer
+  disruptions
 publish_date: '2026-11-13'
-lede: Microsoft said Friday it was seeing initial stabilization and improvements in capacity as recovery measures continued on a Microsoft 365 failure that had already lasted several hours and disrupted users, companies and some government operations from Asia to the United States. Japan's government said it had put alternative communication tools such as telephones in place after the disruption hit the executive branch's computer infrastructure.
-nut_graf: Microsoft says more than 430 million people use its Microsoft 365 applications, so a multi-hour failure rippled outward into airlines, banks, courts and government email systems across Asia-Pacific — and into AI platforms that connect to Microsoft's tools.
+lede: Microsoft said Friday it was seeing initial stabilization and improvements in
+  capacity as recovery measures continued on a Microsoft 365 failure that had already
+  lasted several hours and disrupted users, companies and some government operations
+  from Asia to the United States. Japan's government said it had put alternative communication
+  tools such as telephones in place after the disruption hit the executive branch's
+  computer infrastructure.
+nut_graf: Microsoft says more than 430 million people use its Microsoft 365 applications,
+  so a multi-hour failure rippled outward into airlines, banks, courts and government
+  email systems across Asia-Pacific — and into AI platforms that connect to Microsoft's
+  tools.
 primary_entities:
 - Microsoft
 - Microsoft 365
@@ -53,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,32 +165,33 @@ related_stories:
   headline: Microsoft 365 outage disrupts email and government services worldwide
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8555
+  strength: 0.8546
 - slug: 2026-11-13-microsoft-outage-lasts-more-than-22-hours-as-issues-reported-in-more-than-70-cou
-  headline: Microsoft outage lasts more than 22 hours as issues reported in more than 70 countries
+  headline: Microsoft outage lasts more than 22 hours as issues reported in more than
+    70 countries
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.82
+  strength: 0.8212
 - slug: 2026-11-12-microsoft-outlook-outage-leaves-millions-without-email-access
   headline: Microsoft Outlook outage leaves millions without email access
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8263
+  strength: 0.8253
 - slug: 2026-11-12-microsoft-outage-disrupts-outlook-email-for-nearly-130-000-users
   headline: Microsoft outage disrupts Outlook email for nearly 130,000 users
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8228
+  strength: 0.8227
 - slug: 2026-11-13-microsoft-shares-fall-about-1-as-outage-disrupts-maersk-euronext-house
   headline: Microsoft shares fall about 1% as outage disrupts Maersk, Euronext, House
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.794
+  strength: 0.7921
 - slug: 2026-11-14-microsoft-outage-disrupts-services-worldwide-for-about-18-hours
   headline: Microsoft outage disrupts services worldwide for about 18 hours
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7893
+  strength: 0.7897
 - slug: 2026-11-12-microsoft-says-all-affected-servers-restarted-after-connectivity-errors
   headline: Microsoft says all affected servers restarted after connectivity errors
   publish_date: '2026-11-12'
@@ -190,69 +201,8 @@ related_stories:
   headline: Brands, WHO and workers react as Microsoft 365 blackout runs into Friday
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7628
-- slug: 2026-11-13-microsoft-outage-disrupts-us-governments-schools-and-businesses
-  headline: Microsoft outage disrupts US governments, schools and businesses
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7626
-- slug: 2026-11-13-microsoft-says-global-outage-showing-early-signs-of-stabilisation
-  headline: Microsoft says global outage showing early signs of stabilisation
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7408
-- slug: 2026-11-13-arroyo-says-nationwide-air-traffic-outage-could-stem-from-obsolete-technology
-  headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6526
-- slug: 2026-11-14-faa-lifts-its-longest-nationwide-ground-stop-since-9-11
-  headline: FAA lifts its longest nationwide ground stop since 9/11
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6217
-- slug: 2026-11-02-gmo-apologizes-after-cyberattacks-breach-its-cloud-service
-  headline: GMO apologizes after cyberattacks breach its cloud service
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6137
-- slug: 2026-10-26-microsoft-opens-voluntary-exit-offers-as-ai-related-capital-spending-surges
-  headline: Microsoft opens voluntary exit offers as AI-related capital spending surges
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6491
-- slug: 2026-10-26-microsoft-s-april-buyout-program-reportedly-drew-more-than-30-acceptance
-  headline: Microsoft's April buyout program reportedly drew more than 30% acceptance
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.638
-- slug: 2026-10-28-microsoft-surface-ultra-and-apple-macbook-push-ai-computing-on-device
-  headline: Microsoft Surface Ultra and Apple Macbook push AI computing on-device
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6212
-- slug: 2026-10-26-microsoft-buyout-reportedly-excludes-employees-in-certain-divisions-including-cy
-  headline: Microsoft buyout reportedly excludes employees in certain divisions, including cybersecurity
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6288
-- slug: 2026-10-26-ai-data-center-investment-likely-tops-700-billion-as-costs-rise
-  headline: AI data-center investment likely tops $700 billion as costs rise
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6204
-- slug: 2026-10-20-google-london-datacentre-outage-disrupts-uk-banks-courts
-  headline: Google London datacentre outage disrupts UK banks, courts
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.636
-- slug: 2026-10-08-microsoft-disputes-vance-s-claim-company-replaced-us-workers-with-h-1b-holders
-  headline: Microsoft disputes Vance's claim company replaced US workers with H-1B holders
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6128
+  strength: 0.7631
 ---
-
 ## Microsoft reports early stabilization in 365 outage as Japan readies phones
 
 **Subtype:** fact

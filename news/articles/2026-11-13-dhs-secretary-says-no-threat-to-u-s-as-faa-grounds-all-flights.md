@@ -1,9 +1,18 @@
 ---
 headline: DHS secretary says no threat to U.S. as FAA grounds all flights
-secondary_headline: Officials cite a telecom outage and give no timeline for restoring flights
+secondary_headline: Officials cite a telecom outage and give no timeline for restoring
+  flights
 publish_date: '2026-11-13'
-lede: The FAA issued a total ground stop across the country on Friday, stranding travelers in airports and sitting on runways, after Transportation Secretary Sean Duffy made the call. Very few details were given at the time about why Duffy made the decision; the stoppage was attributed to communication difficulties. Speaking just outside the White House shortly afterward, Department of Homeland Security Secretary Markwayne Mullin said officials see no threat to the United States and believe the situation boils down to a telecommunications issue.
-nut_graf: The ground stop halted air travel nationwide with no timeline for restoration, while Mullin said officials are not ruling anything out — leaving travelers, airlines and the flights still in the air without clear guidance on what happens next.
+lede: The FAA issued a total ground stop across the country on Friday, stranding travelers
+  in airports and sitting on runways, after Transportation Secretary Sean Duffy made
+  the call. Very few details were given at the time about why Duffy made the decision;
+  the stoppage was attributed to communication difficulties. Speaking just outside
+  the White House shortly afterward, Department of Homeland Security Secretary Markwayne
+  Mullin said officials see no threat to the United States and believe the situation
+  boils down to a telecommunications issue.
+nut_graf: The ground stop halted air travel nationwide with no timeline for restoration,
+  while Mullin said officials are not ruling anything out — leaving travelers, airlines
+  and the flights still in the air without clear guidance on what happens next.
 primary_entities:
 - Markwayne Mullin
 - FAA
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,17 +151,18 @@ related_stories:
   headline: Mullin says no indication FAA ground stop was a threat to US
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.879
+  strength: 0.8788
 - slug: 2026-11-13-faa-grounds-all-flights-nationwide-over-control-center-communications-issue
-  headline: FAA grounds all flights nationwide over control-center communications issue
+  headline: FAA grounds all flights nationwide over control-center communications
+    issue
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8251
+  strength: 0.8246
 - slug: 2026-11-13-faa-grounds-all-us-departures-delaying-or-canceling-nearly-7-000-flights
   headline: FAA grounds all US departures, delaying or canceling nearly 7,000 flights
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8144
+  strength: 0.8138
 - slug: 2026-11-13-faa-halts-departing-flights-nationwide-after-communications-issue
   headline: FAA halts departing flights nationwide after communications issue
   publish_date: '2026-11-13'
@@ -166,79 +177,19 @@ related_stories:
   headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7656
+  strength: 0.7659
 - slug: 2026-11-13-faa-to-manage-international-flights-case-by-case-during-nationwide-ground-stop
-  headline: FAA to manage international flights case by case during nationwide ground stop
+  headline: FAA to manage international flights case by case during nationwide ground
+    stop
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7633
+  strength: 0.7629
 - slug: 2026-11-13-faa-halts-all-departing-flights-nationwide-over-telecom-outage
   headline: FAA halts all departing flights nationwide over telecom outage
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7512
-- slug: 2026-11-13-white-house-lobbies-congress-for-30-billion-to-finish-air-traffic-overhaul
-  headline: White House lobbies Congress for $30 billion to finish air traffic overhaul
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7214
-- slug: 2026-11-13-faa-nationwide-ground-stop-halts-departures-at-t-f-green
-  headline: FAA nationwide ground stop halts departures at T.F. Green
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7197
-- slug: 2026-09-21-faa-halts-flights-at-three-airports-as-gao-cites-hacking-vulnerabilities
-  headline: FAA halts flights at three airports as GAO cites hacking vulnerabilities
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6856
-- slug: 2026-03-15-chemical-smell-halts-flights-at-four-washington-area-airports-for-over-an-hour
-  headline: Chemical smell halts flights at four Washington-area airports for over an hour
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7133
-- slug: 2026-05-25-travel-industry-condemns-mullin-idea-to-withhold-customs-at-sanctuary-airports
-  headline: Travel industry condemns Mullin idea to withhold customs at sanctuary airports
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6932
-- slug: 2026-05-23-travel-industry-condemns-mullin-plan-to-pull-customs-officers-from-sanctuary-air
-  headline: Travel industry condemns Mullin plan to pull customs officers from sanctuary airports
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6922
-- slug: 2026-05-03-spirit-airlines-says-it-is-going-out-of-business-after-34-years
-  headline: Spirit Airlines says it is going out of business after 34 years
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6603
-- slug: 2026-03-10-faa-briefly-grounds-all-jetblue-flights-after-system-outage-lifts-stop-in-40-min
-  headline: FAA briefly grounds all JetBlue flights after system outage, lifts stop in 40 minutes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6649
-- slug: 2026-03-18-more-flight-cancellations-delays-due-to-us-storms
-  headline: More flight cancellations, delays due to US storms
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6629
-- slug: 2026-02-16-what-to-know-about-tsa-screening-and-airport-lines-during-dhs-shutdown
-  headline: What to know about TSA screening and airport lines during DHS shutdown
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6643
-- slug: 2026-03-06-americans-stranded-in-middle-east-find-little-u-s-help-as-war-disrupts-regional-
-  headline: Americans stranded in Middle East find little U.S. help as war disrupts regional flights
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6604
-- slug: 2026-03-15-storms-add-to-thousands-of-canceled-u-s-flights-during-shutdown
-  headline: Storms add to thousands of canceled U.S. flights during shutdown
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6558
+  strength: 0.752
 ---
-
 ## DHS secretary says no threat to U.S. as FAA grounds all flights
 
 **Subtype:** fact
