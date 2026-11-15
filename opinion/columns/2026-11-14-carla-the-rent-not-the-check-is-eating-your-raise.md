@@ -1,7 +1,8 @@
 ---
 headline: The Rent, Not the Check, Is Eating Your Raise
 publish_date: '2026-11-14'
-lede: Inflation isn't squeezing American paychecks because somebody mailed out a check a few years ago.
+lede: Inflation isn't squeezing American paychecks because somebody mailed out a check
+  a few years ago.
 pen_name: carla-marks
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: carla-marks-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-rent-not-the-check-is-eating-your-raise.png
+  alt: 'Editorial cartoon by Hector Rentier: The Rent, Not the Check, Is Eating Your
+    Raise'
+  caption: He read the shelter line. Then he prescribed a tighter Fed.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-14T23:18:54-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy cross-hatch wood-engraving in the Nast tradition.
+    Center frame: a fully individuated editorial-board figure — a composed, well-dressed
+    man in his fifties, face fully rendered a'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-14-hector-paired-with-2026-11-14-carla-the-rent-not-the-check-is-eating-your-raise
 ---
+
+![Editorial cartoon by Hector Rentier: The Rent, Not the Check, Is Eating Your Raise](/cartoons/the-rent-not-the-check-is-eating-your-raise.png)
+*He read the shelter line. Then he prescribed a tighter Fed.*
 
 Inflation isn't squeezing American paychecks because somebody mailed out a check a few years ago. It's squeezing them because about a third of last month's price increase is shelter — and the rent goes up whether or not anyone printed a dollar. The Wall Street Journal editorial board's [A Short Lesson in Why Republicans Lost](https://www.wsj.com/opinion/economy-cpi-inflation-republicans-wages-donald-trump-kevin-warsh-ae0a07a2?mod=rss_opinion) reads October's CPI, notes that prices are still outrunning wages, and prescribes the cure: get inflation down to 2% by handing the job to Federal Reserve Chair Kevin Warsh, fix the supply side with deregulation and permitting reform, and steer clear of "damaging gimmicks" — its name for credit-card interest-rate caps and transfer payments, the Biden strategy it blames for 2024.
 

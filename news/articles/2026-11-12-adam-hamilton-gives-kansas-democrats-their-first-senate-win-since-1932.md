@@ -62,7 +62,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -263,3 +263,10 @@ Holscher captured more than 60% of Johnson County's vote, offsetting Masterson's
 **Publication date:** 2026-11-12
 **Title:** Democratic state Sen. Holscher narrowly wins Kansas governor's race
 **URL:** https://apnews.com/article/kansas-governor-midterm-election-cindy-holscher-c9bb46dfd593fa7182a6bc93722ce552
+
+### src_late_66d87e0f06d09b34 — Associated Press, wire, Tier 1, originating
+**Author:** John Hanna, Associated Press
+**Publication date:** 2026-11-12
+**Title:** Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories
+**URL:** https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories
+**Added after publication:** true
