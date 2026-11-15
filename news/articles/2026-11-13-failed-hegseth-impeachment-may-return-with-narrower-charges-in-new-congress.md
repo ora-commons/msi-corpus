@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-11-09'
   relation: related
   strength: 0.773
+analyses:
+- '2026-11-13-finkelstein-traces-hegseth-impeachment-defeat-to-charge-content'
 ---
 ## Failed Hegseth impeachment may return with narrower charges in new Congress
 
@@ -234,3 +236,8 @@ Finkelstein is the Algernon Biddle professor of law and professor of philosophy 
 **Publication date:** 2026-11-13
 **Title:** Democrats fumbled the Hegseth impeachment. That could be a blessing in disguise | Claire Finkelstein
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/13/democrats-hegseth-impeachment
+
+---
+
+<!-- analysis-link:2026-11-13-finkelstein-traces-hegseth-impeachment-defeat-to-charge-content -->
+**Going deeper:** [Read MSI's analysis of refocused Hegseth impeachment strategy →](/analyses/2026-11-13-finkelstein-traces-hegseth-impeachment-defeat-to-charge-content)

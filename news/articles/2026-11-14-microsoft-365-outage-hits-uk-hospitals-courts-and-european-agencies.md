@@ -2,8 +2,22 @@
 headline: Microsoft 365 outage hits UK hospitals, courts and European agencies
 secondary_headline: One union reported a serious impact on UK ambulance services
 publish_date: '2026-11-14'
-lede: Hospital staff across the UK resorted to paper records, juries in some cases were sent home early or prisoners were not sent to court, and staff at Minshull Street crown court in Manchester scrambled to locate a fax machine, after a global outage interrupted Microsoft 365 services in an episode that began on Thursday and affected governments, courts, healthcare services, businesses, airlines and banks. In the UK, where NHS England has a five-year deal to use Microsoft 365, one union reported that ambulance services had suffered a "serious impact"; government agencies in the Netherlands, Belgium and France reported problems as well. Microsoft said on Saturday morning it had restored service to the remaining impacted customers and regions, and said on Friday the outage was "not related to cyber" or artificial intelligence agents.
-nut_graf: The Guardian described the outage as one of the worst IT failures in years, and the outage has fuelled concerns in the UK about an overreliance on a small number of tech companies. Microsoft said approximately 430 million people use its Microsoft 365 apps, and Microsoft said in January it had more than 450 million paid commercial subscriptions to its 365 services.
+lede: Hospital staff across the UK resorted to paper records, juries in some cases
+  were sent home early or prisoners were not sent to court, and staff at Minshull
+  Street crown court in Manchester scrambled to locate a fax machine, after a global
+  outage interrupted Microsoft 365 services in an episode that began on Thursday and
+  affected governments, courts, healthcare services, businesses, airlines and banks.
+  In the UK, where NHS England has a five-year deal to use Microsoft 365, one union
+  reported that ambulance services had suffered a "serious impact"; government agencies
+  in the Netherlands, Belgium and France reported problems as well. Microsoft said
+  on Saturday morning it had restored service to the remaining impacted customers
+  and regions, and said on Friday the outage was "not related to cyber" or artificial
+  intelligence agents.
+nut_graf: The Guardian described the outage as one of the worst IT failures in years,
+  and the outage has fuelled concerns in the UK about an overreliance on a small number
+  of tech companies. Microsoft said approximately 430 million people use its Microsoft
+  365 apps, and Microsoft said in January it had more than 450 million paid commercial
+  subscriptions to its 365 services.
 primary_entities:
 - Microsoft
 - NHS England
@@ -37,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,27 +154,29 @@ related_stories:
   headline: Microsoft says outage over; Manchester trial halted, delays at pharmacies
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8219
+  strength: 0.8216
 - slug: 2026-11-13-microsoft-365-outage-disrupts-email-and-government-services-worldwide
   headline: Microsoft 365 outage disrupts email and government services worldwide
   publish_date: '2026-11-13'
   relation: related
   strength: 0.8
 - slug: 2026-11-13-microsoft-outage-lasts-more-than-22-hours-as-issues-reported-in-more-than-70-cou
-  headline: Microsoft outage lasts more than 22 hours as issues reported in more than 70 countries
+  headline: Microsoft outage lasts more than 22 hours as issues reported in more than
+    70 countries
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7999
+  strength: 0.7998
 - slug: 2026-11-14-microsoft-outage-disrupts-services-worldwide-for-about-18-hours
   headline: Microsoft outage disrupts services worldwide for about 18 hours
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7842
+  strength: 0.7843
 - slug: 2026-11-13-microsoft-says-configuration-update-overloaded-servers-recovery-began-11-20-gmt
-  headline: Microsoft says configuration update overloaded servers; recovery began 11:20 GMT
+  headline: Microsoft says configuration update overloaded servers; recovery began
+    11:20 GMT
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.786
+  strength: 0.7855
 - slug: 2026-11-13-microsoft-shares-fall-about-1-as-outage-disrupts-maersk-euronext-house
   headline: Microsoft shares fall about 1% as outage disrupts Maersk, Euronext, House
   publish_date: '2026-11-13'
@@ -169,74 +186,13 @@ related_stories:
   headline: Microsoft reports early stabilization in 365 outage as Japan readies phones
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.771
+  strength: 0.7711
 - slug: 2026-11-12-microsoft-outlook-outage-leaves-millions-without-email-access
   headline: Microsoft Outlook outage leaves millions without email access
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7569
-- slug: 2026-11-13-brands-who-and-workers-react-as-microsoft-365-blackout-runs-into-friday
-  headline: Brands, WHO and workers react as Microsoft 365 blackout runs into Friday
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7402
-- slug: 2026-11-12-microsoft-outage-disrupts-outlook-email-for-nearly-130-000-users
-  headline: Microsoft outage disrupts Outlook email for nearly 130,000 users
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7341
-- slug: 2026-11-13-microsoft-outage-disrupts-us-governments-schools-and-businesses
-  headline: Microsoft outage disrupts US governments, schools and businesses
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7118
-- slug: 2026-11-13-microsoft-says-global-outage-showing-early-signs-of-stabilisation
-  headline: Microsoft says global outage showing early signs of stabilisation
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7049
-- slug: 2026-11-12-microsoft-says-all-affected-servers-restarted-after-connectivity-errors
-  headline: Microsoft says all affected servers restarted after connectivity errors
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6876
-- slug: 2026-11-14-faa-lifts-its-longest-nationwide-ground-stop-since-9-11
-  headline: FAA lifts its longest nationwide ground stop since 9/11
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.5972
-- slug: 2026-10-20-google-london-datacentre-outage-disrupts-uk-banks-courts
-  headline: Google London datacentre outage disrupts UK banks, courts
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.716
-- slug: 2026-11-06-hoax-bomb-threats-disrupt-at-least-25-european-flights-as-fridge-hacks-hit-seven
-  headline: Hoax bomb threats disrupt at least 25 European flights as fridge hacks hit seven countries
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6133
-- slug: 2026-10-26-microsoft-buyout-reportedly-excludes-employees-in-certain-divisions-including-cy
-  headline: Microsoft buyout reportedly excludes employees in certain divisions, including cybersecurity
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6086
-- slug: 2026-09-18-uk-police-assessment-flags-microsoft-cloud-data-as-vulnerable-to-compromise
-  headline: UK police assessment flags Microsoft cloud data as vulnerable to compromise
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6788
-- slug: 2026-09-10-uk-air-traffic-shutdown-disrupts-many-thousands-of-passengers
-  headline: UK air traffic shutdown disrupts many thousands of passengers
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.603
-- slug: 2026-08-07-power-outage-leaves-rail-passengers-facing-further-disruption-in-england
-  headline: Power outage leaves rail passengers facing further disruption in England
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6092
+  strength: 0.7568
 ---
-
 ## Microsoft 365 outage hits UK hospitals, courts and European agencies
 
 **Subtype:** fact
