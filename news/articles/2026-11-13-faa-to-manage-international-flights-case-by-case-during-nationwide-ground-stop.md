@@ -1,9 +1,25 @@
 ---
-headline: FAA to manage international flights case by case during nationwide ground stop
-secondary_headline: Prior FAA halt in 2023 lasted two hours and contributed to more than 1,000 cancellations
+headline: FAA to manage international flights case by case during nationwide ground
+  stop
+secondary_headline: Prior FAA halt in 2023 lasted two hours and contributed to more
+  than 1,000 cancellations
 publish_date: '2026-11-13'
-lede: The Federal Aviation Administration said international flights would be managed on a case-by-case basis Friday as it halted departures nationwide over a disruption to air-traffic control communications, citing extraordinary circumstances and safety concerns. An alert on the FAA's status page said, "Due to extraordinary circumstances and for reasons of safety. Attention all aircraft operators, by order of the Federal Aviation Administration command center all airports are ground stopped." The halt is the second time in recent years the FAA has taken the extraordinary step, after a 2023 stop ordered amid an outage of the Notice to Airmen system that lasted two hours and contributed to more than 1,000 flight cancellations.
-nut_graf: A nationwide ground stop is an extraordinary step for the FAA, and the order halted departures at airports across the country while FAA technicians investigate a communications disruption. The agency has now taken the step twice in recent years — in 2023, when a stop ordered amid an outage of the Notice to Airmen system lasted two hours and contributed to more than 1,000 cancellations, and on Friday. Separately, a contractor's accidental cut of a fiber communications line in New Jersey halted flights at New York-area airports earlier this year.
+lede: The Federal Aviation Administration said international flights would be managed
+  on a case-by-case basis Friday as it halted departures nationwide over a disruption
+  to air-traffic control communications, citing extraordinary circumstances and safety
+  concerns. An alert on the FAA's status page said, "Due to extraordinary circumstances
+  and for reasons of safety. Attention all aircraft operators, by order of the Federal
+  Aviation Administration command center all airports are ground stopped." The halt
+  is the second time in recent years the FAA has taken the extraordinary step, after
+  a 2023 stop ordered amid an outage of the Notice to Airmen system that lasted two
+  hours and contributed to more than 1,000 flight cancellations.
+nut_graf: A nationwide ground stop is an extraordinary step for the FAA, and the order
+  halted departures at airports across the country while FAA technicians investigate
+  a communications disruption. The agency has now taken the step twice in recent years
+  — in 2023, when a stop ordered amid an outage of the Notice to Airmen system lasted
+  two hours and contributed to more than 1,000 cancellations, and on Friday. Separately,
+  a contractor's accidental cut of a fiber communications line in New Jersey halted
+  flights at New York-area airports earlier this year.
 primary_entities:
 - Federal Aviation Administration
 - Sean Duffy
@@ -35,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,104 +154,45 @@ related_stories:
   headline: FAA grounds all US departures, delaying or canceling nearly 7,000 flights
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8793
+  strength: 0.8791
 - slug: 2026-11-13-faa-grounds-all-flights-nationwide-over-control-center-communications-issue
-  headline: FAA grounds all flights nationwide over control-center communications issue
+  headline: FAA grounds all flights nationwide over control-center communications
+    issue
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8701
+  strength: 0.8702
 - slug: 2026-11-13-white-house-lobbies-congress-for-30-billion-to-finish-air-traffic-overhaul
   headline: White House lobbies Congress for $30 billion to finish air traffic overhaul
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7633
+  strength: 0.7615
 - slug: 2026-09-21-faa-halts-flights-at-three-airports-as-gao-cites-hacking-vulnerabilities
   headline: FAA halts flights at three airports as GAO cites hacking vulnerabilities
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.74
+  strength: 0.7389
 - slug: 2026-09-21-nj-transit-says-its-crew-cut-the-fiber-line-that-grounded-northeast-flights
   headline: NJ Transit says its crew cut the fiber line that grounded Northeast flights
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7228
+  strength: 0.7214
 - slug: 2026-09-28-faa-chief-delays-737-max-10-certification-over-pilot-workload-software-glitch
-  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software glitch
+  headline: FAA chief delays 737 MAX 10 certification over pilot-workload software
+    glitch
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6852
+  strength: 0.6859
 - slug: 2026-09-21-fiber-cable-cut-in-new-jersey-cancels-more-than-400-flights-nationwide
   headline: Fiber cable cut in New Jersey cancels more than 400 flights nationwide
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.7009
+  strength: 0.6983
 - slug: 2026-09-21-faa-launches-875m-ai-system-to-manage-u-s-airspace
   headline: FAA launches $875M AI system to manage U.S. airspace
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6884
-- slug: 2026-08-27-faa-moves-to-fire-two-controllers-who-left-early-before-laguardia-crash
-  headline: FAA moves to fire two controllers who left early before LaGuardia crash
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6895
-- slug: 2026-03-10-faa-briefly-grounds-all-jetblue-flights-after-system-outage-lifts-stop-in-40-min
-  headline: FAA briefly grounds all JetBlue flights after system outage, lifts stop in 40 minutes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7634
-- slug: 2026-04-17-faa-orders-300-daily-flight-cuts-at-o-hare-to-curb-summer-delays
-  headline: FAA orders 300 daily flight cuts at O'Hare to curb summer delays
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7207
-- slug: 2026-04-09-faa-investigates-frontier-close-call-at-lax-after-brakes-to-avoid-collision
-  headline: FAA investigates Frontier close call at LAX after brakes to avoid collision
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.7189
-- slug: 2026-03-15-chemical-smell-halts-flights-at-four-washington-area-airports-for-over-an-hour
-  headline: Chemical smell halts flights at four Washington-area airports for over an hour
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7227
-- slug: 2026-06-21-delta-plane-aborts-landing-after-300ft-near-miss-with-american-jet-at-boston-log
-  headline: Delta plane aborts landing after 300ft near miss with American jet at Boston Logan
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6919
-- slug: 2026-03-15-storms-add-to-thousands-of-canceled-u-s-flights-during-shutdown
-  headline: Storms add to thousands of canceled U.S. flights during shutdown
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7218
-- slug: 2026-04-10-faa-investigates-close-call-at-lax-after-frontier-pilot-slammed-brakes
-  headline: FAA investigates close call at LAX after Frontier pilot slammed brakes
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7171
-- slug: 2026-03-18-more-flight-cancellations-delays-due-to-us-storms
-  headline: More flight cancellations, delays due to US storms
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.718
-- slug: 2026-03-29-dc-area-airports-briefly-halt-flights-after-chemical-smell-at-tracon
-  headline: DC-area airports briefly halt flights after chemical smell at TRACON
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6973
-- slug: 2026-02-21-audit-finds-flaws-in-faa-oversight-of-united-airlines-maintenance
-  headline: Audit finds flaws in FAA oversight of United Airlines maintenance
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6973
-- slug: 2026-04-01-faa-cuts-sfo-arrivals-from-54-to-36-an-hour-as-delays-loom
-  headline: FAA cuts SFO arrivals from 54 to 36 an hour as delays loom
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6916
+  strength: 0.6878
 ---
-
 ## FAA to manage international flights case by case during nationwide ground stop
 
 **Subtype:** fact
