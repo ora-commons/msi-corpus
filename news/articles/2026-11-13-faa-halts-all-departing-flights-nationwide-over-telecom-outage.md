@@ -1,9 +1,20 @@
 ---
 headline: FAA halts all departing flights nationwide over telecom outage
-secondary_headline: Ground stop reached T.F. Green and Boston Logan after order shortly before 4 p.m.
+secondary_headline: Ground stop reached T.F. Green and Boston Logan after order shortly
+  before 4 p.m.
 publish_date: '2026-11-13'
-lede: The Federal Aviation Administration halted all departing flights at airports across the United States on Friday, Nov. 13, 2026, after a telecommunications outage disrupted communication with Air Route Traffic Control Centers. All departures stopped at Rhode Island T.F. Green International Airport, and Boston's Logan Airport was affected as well. The length of the ground stop and the number of delayed flights were not immediately clear.
-nut_graf: A nationwide ground stop is a rare FAA order, and with FAA technicians still investigating, the duration of the halt and the scope of the resulting delays remained unknown. Bill Fischer of the Rhode Island Airport Corporation said travelers at T.F. Green should contact their airlines for information on specific impacts and delays regarding their flights, and the Massachusetts Port Authority said Boston's Logan Airport was also affected by the ground stop.
+lede: The Federal Aviation Administration halted all departing flights at airports
+  across the United States on Friday, Nov. 13, 2026, after a telecommunications outage
+  disrupted communication with Air Route Traffic Control Centers. All departures stopped
+  at Rhode Island T.F. Green International Airport, and Boston's Logan Airport was
+  affected as well. The length of the ground stop and the number of delayed flights
+  were not immediately clear.
+nut_graf: A nationwide ground stop is a rare FAA order, and with FAA technicians still
+  investigating, the duration of the halt and the scope of the resulting delays remained
+  unknown. Bill Fischer of the Rhode Island Airport Corporation said travelers at
+  T.F. Green should contact their airlines for information on specific impacts and
+  delays regarding their flights, and the Massachusetts Port Authority said Boston's
+  Logan Airport was also affected by the ground stop.
 primary_entities:
 - Federal Aviation Administration
 - T.F. Green International Airport
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +154,45 @@ related_stories:
   headline: FAA halts departing flights nationwide after communications issue
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8249
+  strength: 0.8239
 - slug: 2026-11-13-faa-to-manage-international-flights-case-by-case-during-nationwide-ground-stop
-  headline: FAA to manage international flights case by case during nationwide ground stop
+  headline: FAA to manage international flights case by case during nationwide ground
+    stop
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8186
+  strength: 0.8177
 - slug: 2026-11-13-faa-grounds-all-us-departures-delaying-or-canceling-nearly-7-000-flights
   headline: FAA grounds all US departures, delaying or canceling nearly 7,000 flights
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8087
+  strength: 0.8077
 - slug: 2026-11-13-faa-grounds-all-flights-nationwide-over-control-center-communications-issue
-  headline: FAA grounds all flights nationwide over control-center communications issue
+  headline: FAA grounds all flights nationwide over control-center communications
+    issue
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7993
+  strength: 0.7984
 - slug: 2026-11-13-mullin-says-no-indication-faa-ground-stop-was-a-threat-to-us
   headline: Mullin says no indication FAA ground stop was a threat to US
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7452
+  strength: 0.7442
 - slug: 2026-11-13-white-house-lobbies-congress-for-30-billion-to-finish-air-traffic-overhaul
   headline: White House lobbies Congress for $30 billion to finish air traffic overhaul
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7052
+  strength: 0.7045
 - slug: 2026-09-21-faa-halts-flights-at-three-airports-as-gao-cites-hacking-vulnerabilities
   headline: FAA halts flights at three airports as GAO cites hacking vulnerabilities
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.73
+  strength: 0.729
 - slug: 2026-09-21-nj-transit-says-its-crew-cut-the-fiber-line-that-grounded-northeast-flights
   headline: NJ Transit says its crew cut the fiber line that grounded Northeast flights
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.669
-- slug: 2026-03-10-faa-briefly-grounds-all-jetblue-flights-after-system-outage-lifts-stop-in-40-min
-  headline: FAA briefly grounds all JetBlue flights after system outage, lifts stop in 40 minutes
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7511
-- slug: 2026-06-21-delta-plane-aborts-landing-after-300ft-near-miss-with-american-jet-at-boston-log
-  headline: Delta plane aborts landing after 300ft near miss with American jet at Boston Logan
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.7032
-- slug: 2026-03-29-dc-area-airports-briefly-halt-flights-after-chemical-smell-at-tracon
-  headline: DC-area airports briefly halt flights after chemical smell at TRACON
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7285
-- slug: 2026-03-15-chemical-smell-halts-flights-at-four-washington-area-airports-for-over-an-hour
-  headline: Chemical smell halts flights at four Washington-area airports for over an hour
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7246
-- slug: 2026-03-18-more-flight-cancellations-delays-due-to-us-storms
-  headline: More flight cancellations, delays due to US storms
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7002
-- slug: 2026-03-15-storms-add-to-thousands-of-canceled-u-s-flights-during-shutdown
-  headline: Storms add to thousands of canceled U.S. flights during shutdown
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6939
-- slug: 2026-02-16-what-to-know-about-tsa-screening-and-airport-lines-during-dhs-shutdown
-  headline: What to know about TSA screening and airport lines during DHS shutdown
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6861
-- slug: 2026-03-09-dhs-shutdown-stretches-airport-security-lines-to-hours-during-spring-break
-  headline: DHS shutdown stretches airport security lines to hours during spring break
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6773
-- slug: 2026-03-19-how-to-check-airport-security-wait-times-as-tsa-goes-unpaid
-  headline: How to check airport security wait times as TSA goes unpaid
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6685
-- slug: 2026-04-10-faa-investigates-close-call-at-lax-after-frontier-pilot-slammed-brakes
-  headline: FAA investigates close call at LAX after Frontier pilot slammed brakes
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6629
-- slug: 2026-04-09-faa-investigates-frontier-close-call-at-lax-after-brakes-to-avoid-collision
-  headline: FAA investigates Frontier close call at LAX after brakes to avoid collision
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6626
-- slug: 2026-01-26-winter-storm-cancels-11-400-flights-across-us
-  headline: Winter storm cancels 11,400 flights across US
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6704
+  strength: 0.6686
 ---
-
 ## FAA halts all departing flights nationwide over telecom outage
 
 **Subtype:** fact

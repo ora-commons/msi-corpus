@@ -2,8 +2,17 @@
 headline: Cruise ship tips onto side after tanker collision in New Orleans
 secondary_headline: Coast Guard says a loss of steering may have caused the crash
 publish_date: '2026-11-13'
-lede: A cruise ship docked in New Orleans was struck by a cargo vessel on Friday and ended up lying on its side in the Mississippi River, but all roughly 130 people aboard were rescued and no one remained unaccounted for. Some 32 people from the American Heritage were hospitalized with non-critical injuries after the paddlewheeler was hit by the tanker Atlantic Asphalt. Officials at a news conference called the outcome a "miracle on the Mississippi."
-nut_graf: The collision closed the Mississippi River for a search effort and left investigators still working out what happened. The American Heritage, operated by American Cruise Lines, was finishing an eight-day cruise to river destinations in Louisiana and Mississippi, and passengers began disembarking from the paddlewheeler as it started listing before tipping on to its side, Mayor Helena Moreno said.
+lede: A cruise ship docked in New Orleans was struck by a cargo vessel on Friday and
+  ended up lying on its side in the Mississippi River, but all roughly 130 people
+  aboard were rescued and no one remained unaccounted for. Some 32 people from the
+  American Heritage were hospitalized with non-critical injuries after the paddlewheeler
+  was hit by the tanker Atlantic Asphalt. Officials at a news conference called the
+  outcome a "miracle on the Mississippi."
+nut_graf: The collision closed the Mississippi River for a search effort and left
+  investigators still working out what happened. The American Heritage, operated by
+  American Cruise Lines, was finishing an eight-day cruise to river destinations in
+  Louisiana and Mississippi, and passengers began disembarking from the paddlewheeler
+  as it started listing before tipping on to its side, Mayor Helena Moreno said.
 primary_entities:
 - New Orleans
 - American Heritage
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,12 +153,12 @@ related_stories:
   headline: New Orleans EMS says all agencies are responding to river cruise rescue
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8552
+  strength: 0.8548
 - slug: 2026-11-13-rescue-efforts-underway-after-tanker-hits-docked-cruise-ship-in-new-orleans
   headline: Rescue efforts underway after tanker hits docked cruise ship in New Orleans
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.85
+  strength: 0.8496
 - slug: 2026-11-13-american-cruise-lines-evacuates-guests-and-crew-after-tanker-strike
   headline: American Cruise Lines evacuates guests and crew after tanker strike
   publish_date: '2026-11-13'
@@ -158,89 +168,8 @@ related_stories:
   headline: Tanker collides with New Orleans cruise liner carrying more than 130 people
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8236
-- slug: 2026-11-10-sightseeing-helicopter-makes-an-emergency-landing-at-new-jersey-cargo-port
-  headline: Sightseeing helicopter makes an emergency landing at New Jersey cargo port
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6414
-- slug: 2026-08-09-boat-operator-arrested-after-fatal-capsizing-near-statue-of-liberty
-  headline: Boat operator arrested after fatal capsizing near Statue of Liberty
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6325
-- slug: 2026-06-18-louisiana-shuttle-driver-rescues-three-tourists-from-rip-current
-  headline: Louisiana shuttle driver rescues three tourists from rip current
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6199
-- slug: 2026-02-01-coast-guard-suspends-search-for-7-after-fishing-boat-sinks-off-mass
-  headline: Coast Guard suspends search for 7 after fishing boat sinks off Mass.
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.6456
-- slug: 2026-04-28-search-suspended-for-crew-of-mariana-cargo-ship-overturned-in-typhoon
-  headline: Search suspended for crew of Mariana cargo ship overturned in typhoon
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6317
-- slug: 2026-05-10-11-injured-after-charter-boat-explosion-in-biscayne-bay-near-miami
-  headline: 11 injured after charter boat explosion in Biscayne Bay near Miami
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6244
-- slug: 2026-05-10-last-hondius-cruise-passengers-leave-for-quarantine-after-hantavirus-cases
-  headline: Last Hondius cruise passengers leave for quarantine after hantavirus cases
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6194
-- slug: 2026-03-04-small-plane-makes-emergency-landing-in-hudson-river-2-escape
-  headline: Small plane makes emergency landing in Hudson River; 2 escape
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.632
-- slug: 2026-05-10-11-taken-to-hospitals-after-boat-explosion-near-miami
-  headline: 11 taken to hospitals after boat explosion near Miami
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6179
-- slug: 2026-04-20-six-crew-members-missing-from-cargo-ship-overturned-near-saipan-during-typhoon
-  headline: Six crew members missing from cargo ship overturned near Saipan during typhoon
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6218
-- slug: 2026-04-17-coast-guard-searches-for-6-missing-near-guam-following-typhoon
-  headline: Coast Guard searches for 6 missing near Guam following typhoon
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6213
-- slug: 2026-03-05-fishing-vessel-capsizes-off-cape-cod-one-crew-member-rescued-one-missing
-  headline: Fishing vessel capsizes off Cape Cod; one crew member rescued, one missing
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6253
-- slug: 2026-05-14-rescuers-recount-effort-to-retrieve-11-survivors-from-life-raft-off-florida
-  headline: Rescuers recount effort to retrieve 11 survivors from life raft off Florida
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6085
-- slug: 2026-04-07-cruise-ship-runs-aground-in-fiji-30-passengers-evacuate-safely
-  headline: Cruise ship runs aground in Fiji; 30 passengers evacuate safely
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6162
-- slug: 2026-03-06-fishing-vessel-yankee-rose-sinks-off-cape-cod-killing-two
-  headline: Fishing vessel Yankee Rose sinks off Cape Cod, killing two
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6199
-- slug: 2026-05-09-spain-readies-evacuations-for-hantavirus-cruise-ship-arriving-in-tenerife
-  headline: Spain readies evacuations for hantavirus cruise ship arriving in Tenerife
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6071
+  strength: 0.8232
 ---
-
 ## Cruise ship tips onto side after tanker collision in New Orleans
 
 **Subtype:** fact

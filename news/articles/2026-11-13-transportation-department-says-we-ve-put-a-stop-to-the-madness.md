@@ -1,9 +1,26 @@
 ---
 headline: Transportation Department says "We've put a stop to the madness"
-secondary_headline: The department said trucking licenses should not outlast a foreign driver's legal presence
+secondary_headline: The department said trucking licenses should not outlast a foreign
+  driver's legal presence
 publish_date: '2026-11-13'
-lede: The U.S. Transportation Department said in a statement Friday that it makes no sense for states to let trucking licenses for foreign drivers stretch years beyond when they are legally in the U.S. "We've put a stop to the madness to keep the driving public safe," the statement said. The statement came the same day a three-judge panel of the 2nd U.S. Circuit Court of Appeals in Manhattan concluded in a written decision that the Federal Motor Carrier Safety Administration, an arm of the Transportation Department, acted in a manner that was "arbitrary, capricious, or contrary to law" when it penalized New York. The appeals court said the department wrongly withheld nearly $74 million in highway money from New York state after the state refused to revoke nearly 33,000 questionable commercial driver's licenses for immigrants when an audit revealed problems last year.
-nut_graf: A three-judge panel found that the Federal Motor Carrier Safety Administration acted in a manner that was "arbitrary, capricious, or contrary to law" when it penalized New York over nearly 33,000 commercial driver's licenses the state refused to revoke. After the department's English-language enforcement and the audits in every state, about 26,000 drivers have been pulled off the road for failing to demonstrate English proficiency, and the department said 30,000 commercial licenses were canceled because they were issued illegally.
+lede: The U.S. Transportation Department said in a statement Friday that it makes
+  no sense for states to let trucking licenses for foreign drivers stretch years beyond
+  when they are legally in the U.S. "We've put a stop to the madness to keep the driving
+  public safe," the statement said. The statement came the same day a three-judge
+  panel of the 2nd U.S. Circuit Court of Appeals in Manhattan concluded in a written
+  decision that the Federal Motor Carrier Safety Administration, an arm of the Transportation
+  Department, acted in a manner that was "arbitrary, capricious, or contrary to law"
+  when it penalized New York. The appeals court said the department wrongly withheld
+  nearly $74 million in highway money from New York state after the state refused
+  to revoke nearly 33,000 questionable commercial driver's licenses for immigrants
+  when an audit revealed problems last year.
+nut_graf: A three-judge panel found that the Federal Motor Carrier Safety Administration
+  acted in a manner that was "arbitrary, capricious, or contrary to law" when it penalized
+  New York over nearly 33,000 commercial driver's licenses the state refused to revoke.
+  After the department's English-language enforcement and the audits in every state,
+  about 26,000 drivers have been pulled off the road for failing to demonstrate English
+  proficiency, and the department said 30,000 commercial licenses were canceled because
+  they were issued illegally.
 primary_entities:
 - 2nd U.S. Circuit Court of Appeals
 - U.S. Transportation Department
@@ -40,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,30 +157,16 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-13-appeals-court-finds-us-wrongly-penalized-new-york-over-immigrant-driver-licenses
-  headline: Appeals court finds US wrongly penalized New York over immigrant driver licenses
+  headline: Appeals court finds US wrongly penalized New York over immigrant driver
+    licenses
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8457
+  strength: 0.8459
 - slug: 2026-09-01-trump-administration-escalates-immigration-enforcement-against-truck-drivers
   headline: Trump administration escalates immigration enforcement against truck drivers
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.7204
-- slug: 2026-09-21-appeals-court-rules-third-country-deportation-policy-unlawful
-  headline: Appeals court rules third-country deportation policy unlawful
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6298
-- slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6422
-- slug: 2026-09-15-judge-blocks-trump-visa-duration-caps-for-foreign-students-journalists
-  headline: Judge blocks Trump visa duration caps for foreign students, journalists
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6272
+  strength: 0.7206
 - slug: 2026-04-16-new-york-to-lose-73-5m-in-federal-funds-over-unrevoked-immigrant-cdls
   headline: New York to lose $73.5M in federal funds over unrevoked immigrant CDLs
   publish_date: '2026-04-16'
@@ -172,83 +176,43 @@ related_stories:
   headline: New York sues to keep $73.5M in federal highway funds tied to CDLs
   publish_date: '2026-04-25'
   relation: related
-  strength: 0.7558
-- slug: 2026-08-26-state-department-pauses-immigrant-visas-prepares-200-000-revocations
-  headline: State Department pauses immigrant visas, prepares 200,000 revocations
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6375
+  strength: 0.7563
 - slug: 2026-01-08-north-carolina-faces-50m-funding-loss-over-flawed-immigrant-trucker-licenses
   headline: North Carolina faces $50M funding loss over flawed immigrant trucker licenses
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.7253
-- slug: 2026-08-11-visa-revocations-top-175-000-under-trump-administration
-  headline: Visa revocations top 175,000 under Trump administration
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6373
+  strength: 0.7248
 - slug: 2026-07-24-trump-administration-promotes-veteran-cdl-pathways-to-offset-immigrant-driver-lo
-  headline: Trump administration promotes veteran CDL pathways to offset immigrant driver losses
+  headline: Trump administration promotes veteran CDL pathways to offset immigrant
+    driver losses
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6527
-- slug: 2026-08-06-airline-workers-decline-to-help-ice-agents-as-airport-arrests-rise
-  headline: Airline workers decline to help ICE agents as airport arrests rise
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6364
+  strength: 0.6528
 - slug: 2026-02-19-transportation-department-orders-closure-of-over-550-cdl-driving-schools
   headline: Transportation Department orders closure of over 550 CDL driving schools
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.7104
+  strength: 0.7109
 - slug: 2026-01-07-california-loses-160m-in-federal-funds-over-delay-in-revoking-immigrant-trucking
-  headline: California loses $160M in federal funds over delay in revoking immigrant trucking licenses
+  headline: California loses $160M in federal funds over delay in revoking immigrant
+    trucking licenses
   publish_date: '2026-01-07'
   relation: related
-  strength: 0.7079
-- slug: 2026-02-21-us-commercial-driver-s-license-tests-must-be-taken-in-english
-  headline: US commercial driver’s license tests must be taken in English
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6976
-- slug: 2025-12-31-california-delays-revoking-17-000-commercial-drivers-licenses-until-march
-  headline: California delays revoking 17,000 commercial drivers’ licenses until March
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6973
-- slug: 2025-12-31-california-delays-revocation-of-17-000-commercial-licenses-after-migrant-lawsuit
-  headline: California delays revocation of 17,000 commercial licenses after migrant lawsuit
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6958
-- slug: 2026-07-10-police-struggle-to-ticket-autonomous-taxis-as-robotaxi-fleets-grow
-  headline: Police struggle to ticket autonomous taxis as robotaxi fleets grow
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6386
-- slug: 2026-07-10-supreme-court-rules-trump-may-end-tps-for-haitians-syrians-affecting-1-3-million
-  headline: Supreme Court rules Trump may end TPS for Haitians, Syrians, affecting 1.3 million
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6309
-- slug: 2025-12-30-california-delays-revoking-17-000-commercial-driver-licenses-until-march
-  headline: California delays revoking 17,000 commercial driver licenses until March
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.669
+  strength: 0.7077
 image:
   url: /articles/2026-11-13-transportation-department-says-we-ve-put-a-stop-to-the-madness.png
-  alt: "Illustration accompanying article: Transportation Department says \"We've put a stop to the madness\""
+  alt: 'Illustration accompanying article: Transportation Department says "We''ve
+    put a stop to the madness"'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Transportation Department says "We've put a stop to the madness"
 
 **Subtype:** fact

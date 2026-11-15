@@ -2,8 +2,18 @@
 headline: Starship lifts off from Texas as planned booster return to tower is aborted
 secondary_headline: Flight 15 expected to orbit Earth about 14 times over 22 hours
 publish_date: '2026-11-13'
-lede: SpaceX's Starship megarocket blasted off from Texas on Friday afternoon, November 13, 2026, as the aerospace company sought to make history with a double catch of its reusable rocket. Starship Flight 15 is expected to orbit the Earth about 14 times over the course of 22 hours, before the company catches the rocket at its launchpad at Starbase, in south Texas. SpaceX had planned for both components to return to its tower, but the booster, named Super Heavy, was aborted and splashed down in the sea, and the cause of that diversion remains unknown.
-nut_graf: Flight 15 is the latest in a flurry of SpaceX test flights in recent years as chief executive Elon Musk pushes his vision of taking humans into space. The double catch SpaceX sought would return both rocket components to the Starbase tower rather than discard them after flight, and the Super Heavy booster's diversion to the sea leaves the cause unknown.
+lede: SpaceX's Starship megarocket blasted off from Texas on Friday afternoon, November
+  13, 2026, as the aerospace company sought to make history with a double catch of
+  its reusable rocket. Starship Flight 15 is expected to orbit the Earth about 14
+  times over the course of 22 hours, before the company catches the rocket at its
+  launchpad at Starbase, in south Texas. SpaceX had planned for both components to
+  return to its tower, but the booster, named Super Heavy, was aborted and splashed
+  down in the sea, and the cause of that diversion remains unknown.
+nut_graf: Flight 15 is the latest in a flurry of SpaceX test flights in recent years
+  as chief executive Elon Musk pushes his vision of taking humans into space. The
+  double catch SpaceX sought would return both rocket components to the Starbase tower
+  rather than discard them after flight, and the Super Heavy booster's diversion to
+  the sea leaves the cause unknown.
 primary_entities:
 - SpaceX
 - Starship
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,6 +148,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-13-starship-reaches-orbit-after-booster-malfunction-forces-pad-catch-abort
+  headline: Starship reaches orbit after booster malfunction forces pad-catch abort
+  publish_date: '2026-11-13'
+  relation: related
+  strength: 0.8487
 - slug: 2026-11-13-spacex-sets-friday-starship-launch-for-1645-local-time-75-minute-window
   headline: SpaceX sets Friday Starship launch for 1645 local time, 75-minute window
   publish_date: '2026-11-13'
@@ -172,73 +188,7 @@ related_stories:
   publish_date: '2026-08-28'
   relation: related
   strength: 0.7643
-- slug: 2026-10-01-spacex-launches-nasa-s-crew-13-to-international-space-station
-  headline: SpaceX launches NASA's Crew-13 to International Space Station
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6693
-- slug: 2026-10-01-spacex-nasa-ready-crew-13-for-potentially-fastest-iss-trip
-  headline: SpaceX, NASA ready Crew-13 for potentially fastest ISS trip
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6572
-- slug: 2026-07-24-spacex-deploys-starlinks-on-13th-starship-test-flight-after-engine-repairs
-  headline: SpaceX deploys Starlinks on 13th Starship test flight after engine repairs
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7955
-- slug: 2026-10-01-spacex-launches-crew-13-to-iss-with-first-black-woman-to-lead-a-crew
-  headline: SpaceX launches Crew-13 to ISS with first Black woman to lead a crew
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6489
-- slug: 2026-07-16-spacex-is-set-to-launch-13th-starship-test-flight-with-starlink-satellites
-  headline: SpaceX is set to launch 13th Starship test flight with Starlink satellites
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7991
-- slug: 2026-09-26-spacex-launches-ussf-385-mission-for-u-s-space-force-from-vandenberg
-  headline: SpaceX launches USSF-385 mission for U.S. Space Force from Vandenberg
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6473
-- slug: 2026-09-22-spacex-ends-falcon-9-rideshare-sales-tightening-launch-supply-through-2028
-  headline: SpaceX ends Falcon 9 rideshare sales, tightening launch supply through 2028
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6553
-- slug: 2026-05-22-spacex-launches-biggest-starship-yet-on-a-test-flight
-  headline: SpaceX launches biggest Starship yet on a test flight
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7863
-- slug: 2026-08-22-spacex-tows-intact-starship-upper-stage-to-christmas-island
-  headline: SpaceX tows intact Starship upper stage to Christmas Island
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6992
-- slug: 2026-09-04-katalyst-spacecraft-approaches-nasa-s-swift-telescope-but-cannot-complete-rescue
-  headline: Katalyst spacecraft approaches NASA's Swift telescope but cannot complete rescue
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.654
-- slug: 2026-08-25-b1067-completes-record-37th-flight-on-spacex-s-100th-falcon-9-launch-of-2026
-  headline: B1067 completes record 37th flight on SpaceX's 100th Falcon 9 launch of 2026
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6744
-- slug: 2026-05-23-spacex-launches-biggest-upgraded-starship-on-test-flight-to-moon-plans
-  headline: SpaceX launches biggest, upgraded Starship on test flight to moon plans
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7601
-- slug: 2026-05-22-spacex-scrubs-starship-launch-thursday-will-try-again-friday
-  headline: SpaceX scrubs Starship launch Thursday, will try again Friday
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7536
 ---
-
 ## Starship lifts off from Texas as planned booster return to tower is aborted
 
 **Subtype:** fact
