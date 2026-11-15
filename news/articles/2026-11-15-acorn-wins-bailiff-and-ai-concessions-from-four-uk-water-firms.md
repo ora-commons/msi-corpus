@@ -2,8 +2,17 @@
 headline: Acorn wins bailiff and AI concessions from four UK water firms
 secondary_headline: Bristol members disrupted a council meeting after talks stalled
 publish_date: '2026-11-15'
-lede: Acorn, a UK community union that organises members to take direct action over household bills, has forced four major water companies into negotiations over bailiffs and debt collection, won a policy change from TSB, and led its Bristol branch to disrupt a full council meeting, The Guardian reported on Sunday. The campaign activity arrives as Andy Burnham's government offers a £100 payment toward energy bills for 20 million households and the prime minister, Andy Burnham, says his first budget did not go far enough.
-nut_graf: The concessions mark a test of whether organised collective action can achieve what politicians say they cannot. Andy Burnham's government has offered a £100 payment to help 20 million households with soaring energy bills, and the prime minister has since said his first budget did not go far enough.
+lede: Acorn, a UK community union that organises members to take direct action over
+  household bills, has forced four major water companies into negotiations over bailiffs
+  and debt collection, won a policy change from TSB, and led its Bristol branch to
+  disrupt a full council meeting, The Guardian reported on Sunday. The campaign activity
+  arrives as Andy Burnham's government offers a £100 payment toward energy bills for
+  20 million households and the prime minister, Andy Burnham, says his first budget
+  did not go far enough.
+nut_graf: The concessions mark a test of whether organised collective action can achieve
+  what politicians say they cannot. Andy Burnham's government has offered a £100 payment
+  to help 20 million households with soaring energy bills, and the prime minister
+  has since said his first budget did not go far enough.
 primary_entities:
 - Acorn
 - Bristol
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,108 +75,12 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories:
-- slug: 2026-10-28-readers-seek-cost-of-living-relief-ahead-of-burnham-s-first-budget
-  headline: Readers seek cost-of-living relief ahead of Burnham's first budget
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6312
-- slug: 2026-10-26-andrea-egan-urges-burnham-to-put-public-investment-in-his-budget
-  headline: Andrea Egan urges Burnham to put public investment in his budget
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6406
-- slug: 2026-10-27-john-healey-prepares-uk-budget-expected-to-have-smaller-tax-and-spending-changes
-  headline: John Healey prepares UK Budget expected to have smaller tax and spending changes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6264
-- slug: 2026-10-27-john-healey-prepares-his-first-budget-amid-war-driven-economic-pressure
-  headline: John Healey prepares his first budget amid war-driven economic pressure
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6219
-- slug: 2026-10-22-ai-firms-seek-uk-datacentre-compact-before-opposition-spreads
-  headline: AI firms seek UK datacentre compact before opposition spreads
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6406
-- slug: 2026-10-23-angela-eagle-to-make-first-government-intervention-in-water-price-review
-  headline: Angela Eagle to make first government intervention in water price review
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6345
-- slug: 2026-10-27-chris-packham-urges-uk-chancellor-to-cut-24bn-carbon-capture-plan
-  headline: Chris Packham urges UK chancellor to cut £24bn carbon capture plan
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.613
-- slug: 2026-10-20-a-bus-driver-and-a-writer-doubt-burnham-noise-fines-will-change-behaviour
-  headline: A bus driver and a writer doubt Burnham noise fines will change behaviour
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.621
-- slug: 2026-10-15-tuc-finds-uk-households-paid-13-961-extra-on-bills-since-2021
-  headline: TUC finds UK households paid £13,961 extra on bills since 2021
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6183
 - slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6507
-- slug: 2026-10-09-watson-says-palantir-would-work-with-reform-uk-on-immigration
-  headline: Watson says Palantir would work with Reform UK on immigration
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6094
-- slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
-  headline: Burnham backs universal English social care reform
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6387
-- slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
-  headline: Burnham to outline social care and public control plans at Labour conference
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6315
-- slug: 2026-09-22-three-women-in-their-20s-describe-life-without-bank-of-mum-and-dad
-  headline: Three women in their 20s describe life without 'Bank of Mum and Dad
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6304
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6085
-- slug: 2026-09-18-cross-party-mps-urge-ministers-to-break-off-thames-water-hedge-fund-talks
-  headline: Cross-party MPs urge ministers to break off Thames Water hedge fund talks
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6333
-- slug: 2026-09-13-rayner-says-uk-unlikely-to-meet-1-5-million-homes-target
-  headline: Rayner says UK unlikely to meet 1.5 million homes target
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6078
-- slug: 2026-08-24-thames-water-creditors-propose-new-board-to-head-off-nationalisation
-  headline: Thames Water creditors propose new board to head off nationalisation
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6286
-- slug: 2026-08-07-uk-unions-urge-burnham-to-revoke-us-access-to-raf-bases-over-iran-war
-  headline: UK unions urge Burnham to revoke US access to RAF bases over Iran war
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6325
-- slug: 2026-08-19-uk-inflation-rises-in-july-on-gas-costs-burnham-cites-relief-steps
-  headline: UK inflation rises in July on gas costs; Burnham cites relief steps
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.612
+  strength: 0.6506
 ---
-
 ## Acorn wins bailiff and AI concessions from four UK water firms
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Pope Leo XIV heads to Andes and Amazon on Peru visit
 secondary_headline: Illegal mining and abuse cases loom over Amazon stop
 publish_date: '2026-11-15'
-lede: Pope Leo XIV travels across Peru on Sunday, Nov. 15, 2026, visiting Indigenous communities in the Andes city of Cusco, the former capital of the Inca empire, and the Amazonian city of Pucallpa on the penultimate day of a trip to the country he has called his adopted homeland. The itinerary puts illegal mining, deforestation and threats to Indigenous communities at the center of the visit, as Leo is expected to echo Pope Francis in linking care for the most vulnerable with care for creation.
-nut_graf: The Peru visit gives Leo XIV a platform on the region's illegal gold trade, which is devastating forests and polluting rivers, and on violence against Indigenous peoples, including those living in isolation. Church leaders say the pope's stops in Cusco and Pucallpa are designed to draw attention to communities they describe as among the poorest and least heard in Latin America; the Rev. Peter Hughes called Indigenous peoples "the most important collective representing the truly poor."
+lede: Pope Leo XIV travels across Peru on Sunday, Nov. 15, 2026, visiting Indigenous
+  communities in the Andes city of Cusco, the former capital of the Inca empire, and
+  the Amazonian city of Pucallpa on the penultimate day of a trip to the country he
+  has called his adopted homeland. The itinerary puts illegal mining, deforestation
+  and threats to Indigenous communities at the center of the visit, as Leo is expected
+  to echo Pope Francis in linking care for the most vulnerable with care for creation.
+nut_graf: The Peru visit gives Leo XIV a platform on the region's illegal gold trade,
+  which is devastating forests and polluting rivers, and on violence against Indigenous
+  peoples, including those living in isolation. Church leaders say the pope's stops
+  in Cusco and Pucallpa are designed to draw attention to communities they describe
+  as among the poorest and least heard in Latin America; the Rev. Peter Hughes called
+  Indigenous peoples "the most important collective representing the truly poor."
 primary_entities:
 - Pope Leo XIV
 - Peru
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -68,17 +79,17 @@ related_stories:
   headline: Pope Leo XIV returns to Peru for final leg of South American tour
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7894
+  strength: 0.79
 - slug: 2026-11-14-pope-leo-xiv-prays-for-end-to-violence-as-peru-crime-surges
   headline: Pope Leo XIV prays for end to violence as Peru crime surges
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7271
+  strength: 0.7275
 - slug: 2026-11-14-pope-leo-xiv-to-visit-za-a-peru-s-hub-of-afro-peruvian-culture
   headline: Pope Leo XIV to visit Zaña, Peru's hub of Afro-Peruvian culture
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7181
+  strength: 0.7184
 - slug: 2026-11-12-pope-leo-xiv-denounces-machismo-violence-against-women-peru-homecoming
   headline: Pope Leo XIV denounces machismo, violence against women on Peru homecoming
   publish_date: '2026-11-12'
@@ -88,84 +99,23 @@ related_stories:
   headline: Pope Leo XIV returns to former diocese of Chiclayo in Peru
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6947
+  strength: 0.6955
 - slug: 2026-11-11-pope-leo-xiv-plans-devoto-prison-visit-and-mass-before-peru-return
   headline: Pope Leo XIV plans Devoto Prison visit and Mass before Peru return
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7063
+  strength: 0.7066
 - slug: 2026-11-15-pope-leo-makes-the-argentine-homecoming-francis-never-attempted
   headline: Pope Leo makes the Argentine homecoming Francis never attempted
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.6524
+  strength: 0.6537
 - slug: 2026-11-09-pope-leo-xiv-visits-argentine-care-home-urges-protection-of-the-vulnerable
   headline: Pope Leo XIV visits Argentine care home, urges protection of the vulnerable
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6636
-- slug: 2026-10-27-leo-xiv-plans-several-meetings-with-clergy-abuse-survivors-in-latin-america
-  headline: Leo XIV plans several meetings with clergy abuse survivors in Latin America
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7303
-- slug: 2026-11-09-groups-say-peru-commission-revisits-2016-study-for-mashco-piro-reserve-expansion
-  headline: Groups say Peru commission revisits 2016 study for Mashco Piro reserve expansion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6447
-- slug: 2026-11-09-pope-leo-tells-milei-the-economy-should-serve-people
-  headline: Pope Leo tells Milei the economy should serve people
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6395
-- slug: 2026-11-09-five-survivors-meet-leo-xiv-at-the-catholic-university-of-argentina
-  headline: Five survivors meet Leo XIV at the Catholic University of Argentina
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6394
-- slug: 2026-10-29-abuse-survivors-press-pope-leo-xiv-for-defrockings-on-argentina-visit
-  headline: Abuse survivors press Pope Leo XIV for defrockings on Argentina visit
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6495
-- slug: 2026-09-28-pope-leo-xiv-plans-first-major-south-american-journey-in-uruguay
-  headline: Pope Leo XIV plans first major South American journey in Uruguay
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6566
-- slug: 2026-07-23-andean-court-admits-unprecedented-case-against-peru-over-illegal-mining
-  headline: Andean Court admits unprecedented case against Peru over illegal mining
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6372
-- slug: 2026-01-08-pope-leo-xiv-plans-spain-trip-with-stops-in-madrid-barcelona-canary-islands
-  headline: Pope Leo XIV plans Spain trip with stops in Madrid, Barcelona, Canary Islands
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.692
-- slug: 2026-02-02-pope-leo-xiv-invited-to-peru-as-2026-travel-plans-unfold
-  headline: Pope Leo XIV invited to Peru as 2026 travel plans unfold
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6882
-- slug: 2026-04-10-pope-leo-xiv-finishes-africa-trip-urging-peace-and-tackling-corruption
-  headline: Pope Leo XIV finishes Africa trip, urging peace and tackling corruption
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6804
-- slug: 2026-05-16-pope-leo-xiv-to-visit-france-sept-25-28-stop-at-unesco-headquarters
-  headline: Pope Leo XIV to visit France Sept. 25-28, stop at UNESCO headquarters
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6484
-- slug: 2026-05-16-pope-leo-xiv-to-visit-france-in-september-with-stop-at-unesco
-  headline: Pope Leo XIV to visit France in September with stop at UNESCO
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.647
+  strength: 0.6651
 ---
-
 ## Pope Leo XIV heads to Andes and Amazon on Peru visit
 
 **Subtype:** fact
