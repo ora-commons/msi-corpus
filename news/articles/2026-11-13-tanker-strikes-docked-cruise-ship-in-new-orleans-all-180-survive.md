@@ -2,8 +2,15 @@
 headline: Tanker strikes docked cruise ship in New Orleans, all 180 survive
 secondary_headline: Coast Guard says tanker appeared to lose steering before collision
 publish_date: '2026-11-13'
-lede: A tanker that apparently lost control of its steering struck a docked river cruise ship in New Orleans on Friday with 180 people aboard, and everyone survived after a major rescue operation pulled passengers and crew from the Mississippi River as water began entering the vessel and it started to capsize.
-nut_graf: The collision of the tanker Atlantic Asphalt with the American Heritage ended with no deaths, authorities reported, and New Orleans Mayor Helena Moreno said no one was unaccounted for. The National Transportation Safety Board planned to investigate but could not reach the city immediately because all flights nationwide were suspended over air traffic control communication problems.
+lede: A tanker that apparently lost control of its steering struck a docked river
+  cruise ship in New Orleans on Friday with 180 people aboard, and everyone survived
+  after a major rescue operation pulled passengers and crew from the Mississippi River
+  as water began entering the vessel and it started to capsize.
+nut_graf: The collision of the tanker Atlantic Asphalt with the American Heritage
+  ended with no deaths, authorities reported, and New Orleans Mayor Helena Moreno
+  said no one was unaccounted for. The National Transportation Safety Board planned
+  to investigate but could not reach the city immediately because all flights nationwide
+  were suspended over air traffic control communication problems.
 primary_entities:
 - New Orleans
 - Helena Moreno
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,17 +149,17 @@ related_stories:
   headline: Cruise ship tips onto side after tanker collision in New Orleans
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8748
+  strength: 0.8752
 - slug: 2026-11-13-rescue-efforts-underway-after-tanker-hits-docked-cruise-ship-in-new-orleans
   headline: Rescue efforts underway after tanker hits docked cruise ship in New Orleans
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8735
+  strength: 0.8743
 - slug: 2026-11-14-new-orleans-port-sues-to-seize-tanker-that-struck-cruise-ship
   headline: New Orleans port sues to seize tanker that struck cruise ship
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8467
+  strength: 0.8472
 - slug: 2026-11-13-new-orleans-ems-says-all-agencies-are-responding-to-river-cruise-rescue
   headline: New Orleans EMS says all agencies are responding to river cruise rescue
   publish_date: '2026-11-13'
@@ -161,84 +169,23 @@ related_stories:
   headline: Tanker collides with New Orleans cruise liner carrying more than 130 people
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8244
+  strength: 0.825
 - slug: 2026-11-13-american-cruise-lines-evacuates-guests-and-crew-after-tanker-strike
   headline: American Cruise Lines evacuates guests and crew after tanker strike
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8191
+  strength: 0.8184
 - slug: 2026-11-14-new-orleans-port-names-thome-in-collision-suit-company-says-crew-safe
   headline: New Orleans port names Thome in collision suit; company says crew safe
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.786
-- slug: 2026-11-10-sightseeing-helicopter-makes-an-emergency-landing-at-new-jersey-cargo-port
-  headline: Sightseeing helicopter makes an emergency landing at New Jersey cargo port
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.5997
-- slug: 2026-08-18-new-orleans-teenager-dies-in-fall-from-abandoned-plaza-tower
-  headline: New Orleans teenager dies in fall from abandoned Plaza Tower
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6283
-- slug: 2026-08-09-boat-operator-arrested-after-fatal-capsizing-near-statue-of-liberty
-  headline: Boat operator arrested after fatal capsizing near Statue of Liberty
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6336
-- slug: 2026-08-21-possible-tornado-hits-atlantic-beach-nassau-county-declares-emergency
-  headline: Possible tornado hits Atlantic Beach; Nassau County declares emergency
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6046
+  strength: 0.7868
 - slug: 2026-04-28-search-suspended-for-crew-of-mariana-cargo-ship-overturned-in-typhoon
   headline: Search suspended for crew of Mariana cargo ship overturned in typhoon
   publish_date: '2026-04-28'
   relation: related
-  strength: 0.6523
-- slug: 2026-04-20-six-crew-members-missing-from-cargo-ship-overturned-near-saipan-during-typhoon
-  headline: Six crew members missing from cargo ship overturned near Saipan during typhoon
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6403
-- slug: 2026-02-01-coast-guard-suspends-search-for-7-after-fishing-boat-sinks-off-mass
-  headline: Coast Guard suspends search for 7 after fishing boat sinks off Mass.
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.6431
-- slug: 2026-03-05-fishing-vessel-capsizes-off-cape-cod-one-crew-member-rescued-one-missing
-  headline: Fishing vessel capsizes off Cape Cod; one crew member rescued, one missing
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6357
-- slug: 2026-04-18-coast-guard-finds-overturned-vessel-in-search-for-ship-missing-near-saipan
-  headline: Coast Guard finds overturned vessel in search for ship missing near Saipan
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.625
-- slug: 2026-04-17-coast-guard-searches-for-6-missing-near-guam-following-typhoon
-  headline: Coast Guard searches for 6 missing near Guam following typhoon
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6159
-- slug: 2026-03-06-fishing-vessel-yankee-rose-sinks-off-cape-cod-killing-two
-  headline: Fishing vessel Yankee Rose sinks off Cape Cod, killing two
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.6175
-- slug: 2026-05-23-investigation-underway-after-new-york-city-shipyard-blast-injures-30-firefighter
-  headline: Investigation underway after New York City shipyard blast injures 30+ firefighters
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6001
-- slug: 2026-02-19-authorities-deploy-tech-to-locate-wreck-of-fishing-boat-near-gloucester
-  headline: Authorities deploy tech to locate wreck of fishing boat near Gloucester
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6169
+  strength: 0.653
 ---
-
 ## Tanker strikes docked cruise ship in New Orleans, all 180 survive
 
 **Subtype:** fact
