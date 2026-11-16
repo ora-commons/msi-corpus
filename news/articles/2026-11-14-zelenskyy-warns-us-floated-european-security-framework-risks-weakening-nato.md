@@ -205,6 +205,8 @@ related_stories:
   publish_date: '2026-10-10'
   relation: related
   strength: 0.7415
+analyses:
+- '2026-11-14-zelenskyy-s-sequence-claim-anchors-a-four-frame-contest-over-european-security'
 ---
 ## Zelenskyy warns US-floated European security framework risks weakening NATO
 
@@ -273,3 +275,8 @@ He said the restrictions prevented Ukrainian forces from intercepting Russian je
 **Publication date:** 2026-11-14
 **Title:** Zelenskyy says a new European security framework floated by U.S. could benefit Putin
 **URL:** https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin
+
+---
+
+<!-- analysis-link:2026-11-14-zelenskyy-s-sequence-claim-anchors-a-four-frame-contest-over-european-security -->
+**Going deeper:** [Read MSI's analysis of Zelenskyy's European security framework warning →](/analyses/2026-11-14-zelenskyy-s-sequence-claim-anchors-a-four-frame-contest-over-european-security)
