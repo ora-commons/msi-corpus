@@ -1,9 +1,21 @@
 ---
-headline: Former Oakland mayor Sheng Thao stands trial over alleged recycling bribery scheme
+headline: Former Oakland mayor Sheng Thao stands trial over alleged recycling bribery
+  scheme
 secondary_headline: Thao faces six federal counts and up to 20 years if convicted
 publish_date: '2026-11-15'
-lede: Former Oakland mayor Sheng Thao and three co-defendants are on trial in federal court over an alleged pay-to-play bribery scheme tied to the city's recycling contractor, with proceedings in their fifth week and expected to conclude later this month. FBI agents raided Thao's home and three other locations in June 2024, and she was indicted on federal corruption charges two months after voters recalled her; she faces six counts and could receive up to 20 years in prison if found guilty. All four defendants have pleaded not guilty.
-nut_graf: The trial closes the final chapter of a political rise that ran from a refugee-family upbringing and the overcoming of domestic violence and homelessness to Thao becoming the first person of Hmong descent to run a major US city, drawing glowing media profiles along the way, and it lands on a city government already strained by recurring budget deficits, staffing shortages and deferred maintenance — frustrations that Oaklanders channeled into a charter reform measure passed on 3 November.
+lede: Former Oakland mayor Sheng Thao and three co-defendants are on trial in federal
+  court over an alleged pay-to-play bribery scheme tied to the city's recycling contractor,
+  with proceedings in their fifth week and expected to conclude later this month.
+  FBI agents raided Thao's home and three other locations in June 2024, and she was
+  indicted on federal corruption charges two months after voters recalled her; she
+  faces six counts and could receive up to 20 years in prison if found guilty. All
+  four defendants have pleaded not guilty.
+nut_graf: The trial closes the final chapter of a political rise that ran from a refugee-family
+  upbringing and the overcoming of domestic violence and homelessness to Thao becoming
+  the first person of Hmong descent to run a major US city, drawing glowing media
+  profiles along the way, and it lands on a city government already strained by recurring
+  budget deficits, staffing shortages and deferred maintenance — frustrations that
+  Oaklanders channeled into a charter reform measure passed on 3 November.
 primary_entities:
 - Sheng Thao
 - Oakland
@@ -42,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +152,8 @@ cross_article_links:
   strength: 0.5964
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-13-records-show-two-indicted-americans-at-dubai-party-with-paxton
-  headline: Records show two indicted Americans at Dubai party with Paxton
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.604
-- slug: 2026-09-30-judge-ends-23-year-federal-oversight-of-oakland-police
-  headline: Judge ends 23-year federal oversight of Oakland police
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.623
-- slug: 2026-09-29-haaland-centers-addiction-recovery-in-new-mexico-governor-bid
-  headline: Haaland centers addiction recovery in New Mexico governor bid
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6204
-- slug: 2026-09-16-trayon-white-s-bribery-trial-opens-with-cash-handoff-video
-  headline: Trayon White's bribery trial opens with cash-handoff video
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.619
-- slug: 2026-05-30-former-arcadia-mayor-pleads-guilty-to-acting-as-illegal-chinese-agent
-  headline: Former Arcadia mayor pleads guilty to acting as illegal Chinese agent
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6434
-- slug: 2026-07-22-seoul-mayor-fined-6-600-for-illegal-polls-faces-removal
-  headline: Seoul mayor fined $6,600 for illegal polls, faces removal
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6069
-- slug: 2026-05-13-arcadia-mayor-eileen-wang-resigns-to-plead-guilty-in-china-agent-case
-  headline: Arcadia mayor Eileen Wang resigns, to plead guilty in China-agent case
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6443
-- slug: 2026-05-30-oakland-police-on-track-to-exit-federal-oversight-by-september
-  headline: Oakland police on track to exit federal oversight by September
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.6379
-- slug: 2026-07-07-former-jackson-mayor-pleads-guilty-to-bribery-wire-fraud-money-laundering
-  headline: Former Jackson mayor pleads guilty to bribery, wire fraud, money laundering
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.615
-- slug: 2026-06-17-seoul-mayor-oh-se-hoon-faces-18-month-prison-term-over-illegal-political-funds
-  headline: Seoul Mayor Oh Se-hoon faces 18-month prison term over illegal political funds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6226
-- slug: 2026-07-09-ex-epoch-times-cfo-pleads-guilty-to-money-laundering-conspiracy
-  headline: Ex-Epoch Times CFO pleads guilty to money laundering conspiracy
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6057
-- slug: 2026-06-15-trump-uses-wartime-powers-to-push-75m-oakland-coal-terminal
-  headline: Trump uses wartime powers to push $75M Oakland coal terminal
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6189
-- slug: 2026-05-13-arcadia-california-mayor-resigns-will-plead-guilty-to-acting-as-chinese-agent
-  headline: Arcadia, California mayor resigns, will plead guilty to acting as Chinese agent
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6249
-- slug: 2026-06-17-xi-jinping-s-corruption-purge-hits-record-as-offenses-widen-to-political-loyalty
-  headline: Xi Jinping's corruption purge hits record as offenses widen to political loyalty
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6077
-- slug: 2026-06-24-former-nyc-chief-of-staff-frank-carone-indicted-in-bribery-scheme
-  headline: Former NYC chief of staff Frank Carone indicted in bribery scheme
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6024
-- slug: 2026-05-15-ex-aide-in-california-dems-scheme-pleads-guilty-becerra-faces-scrutiny
-  headline: Ex-aide in California Dems scheme pleads guilty; Becerra faces scrutiny
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6148
-- slug: 2026-05-07-oakland-council-fines-couple-915-135-after-illegal-cutting-of-38-trees
-  headline: Oakland council fines couple $915,135 after illegal cutting of 38 trees
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.606
-- slug: 2026-05-07-tennessee-rep-ogles-will-get-phone-back-from-justice-department
-  headline: Tennessee Rep. Ogles will get phone back from Justice Department
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6037
-- slug: 2026-05-06-oakland-council-fines-couple-915-135-for-illegally-cutting-38-protected-trees
-  headline: Oakland council fines couple $915,135 for illegally cutting 38 protected trees
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6032
-- slug: 2026-03-18-jurors-to-decide-whether-ex-firstenergy-leaders-paid-4-3m-bribe
-  headline: Jurors to decide whether ex-FirstEnergy leaders paid $4.3M bribe
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6119
+related_stories: []
 ---
-
 ## Former Oakland mayor Sheng Thao stands trial over alleged recycling bribery scheme
 
 **Subtype:** fact
