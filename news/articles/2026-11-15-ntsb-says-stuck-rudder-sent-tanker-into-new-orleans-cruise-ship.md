@@ -56,7 +56,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -227,3 +227,10 @@ Hours after the crash, the Board of Commissioners of the Port of New Orleans fil
 **Publication date:** 2026-11-15
 **Title:** Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans
 **URL:** https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans
+
+### src_late_82e55768308a7635 — Associated Press, wire, Tier 1, originating
+**Author:** John Hanna
+**Publication date:** 2026-11-15
+**Title:** Officials: Tanker's steering failed before crashing into cruise ship
+**URL:** https://apnews.com/article/new-orleans-cruise-ship-tanker-crash-91f78337d4c4617beb6c207c45e7233a
+**Added after publication:** true
