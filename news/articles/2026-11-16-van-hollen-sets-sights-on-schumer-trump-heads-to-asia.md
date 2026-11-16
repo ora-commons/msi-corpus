@@ -2,8 +2,16 @@
 headline: Van Hollen sets sights on Schumer; Trump heads to Asia
 secondary_headline: Sanders and incoming senators back Van Hollen, McDaniel says
 publish_date: '2026-11-16'
-lede: Sen. Chris Van Hollen of Maryland is seeking to unseat longtime Senate leader Chuck Schumer as Democrats prepare to take control of Congress in January. President Donald Trump is traveling to the Philippines and China in a trip that includes a trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin.
-nut_graf: The Senate contest comes as Democrats prepare for substantial congressional majorities, with secret-ballot uncertainty leaving the leadership outcome unsettled. The Asia trip follows Nvidia CEO Jensen Huang's resignation, and NPR's Mara Liasson said tariffs and the war in Iran were widely unpopular and seen as reasons the president's party lost the midterms. The ground-stop funding dispute also remains unresolved.
+lede: Sen. Chris Van Hollen of Maryland is seeking to unseat longtime Senate leader
+  Chuck Schumer as Democrats prepare to take control of Congress in January. President
+  Donald Trump is traveling to the Philippines and China in a trip that includes a
+  trilateral summit with Chinese President Xi Jinping and Russian President Vladimir
+  Putin.
+nut_graf: The Senate contest comes as Democrats prepare for substantial congressional
+  majorities, with secret-ballot uncertainty leaving the leadership outcome unsettled.
+  The Asia trip follows Nvidia CEO Jensen Huang's resignation, and NPR's Mara Liasson
+  said tariffs and the war in Iran were widely unpopular and seen as reasons the president's
+  party lost the midterms. The ground-stop funding dispute also remains unresolved.
 primary_entities:
 - Chris Van Hollen
 - Chuck Schumer
@@ -75,7 +83,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -177,34 +186,36 @@ related_stories:
   headline: Trump turns to Asia for Xi-Putin nuclear talks after midterm losses
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7891
+  strength: 0.7892
 - slug: 2026-11-14-schumer-says-he-has-the-votes-as-van-hollen-challenges-him-for-senate-leader
-  headline: Schumer says he has the votes as Van Hollen challenges him for Senate leader
+  headline: Schumer says he has the votes as Van Hollen challenges him for Senate
+    leader
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7892
+  strength: 0.7889
 - slug: 2026-11-13-van-hollen-drops-white-house-bid-challenges-schumer-for-senate-leader
   headline: Van Hollen drops White House bid, challenges Schumer for Senate leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7876
+  strength: 0.788
 - slug: 2026-11-13-van-hollen-brings-record-of-opposing-trump-cuts-to-senate-leadership-bid
   headline: Van Hollen brings record of opposing Trump cuts to Senate leadership bid
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7783
+  strength: 0.7785
 - slug: 2026-11-16-treasury-secretary-scott-bessent-calls-for-nvidia-compliance-review
   headline: Treasury Secretary Scott Bessent calls for Nvidia compliance review
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7541
+  strength: 0.7536
 - slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-majority-leader
   headline: Van Hollen challenges Schumer for Senate majority leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7608
+  strength: 0.7612
 - slug: 2026-11-13-schumer-presses-100-day-agenda-as-van-hollen-challenges-him-for-leader-post
-  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader post
+  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader
+    post
   publish_date: '2026-11-13'
   relation: related
   strength: 0.756
@@ -212,78 +223,21 @@ related_stories:
   headline: Van Hollen challenges Schumer to lead Senate Democrats
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7544
-- slug: 2026-11-10-trump-heads-to-apec-with-china-trade-commitments-unresolved
-  headline: Trump heads to APEC with China trade commitments unresolved
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7637
-- slug: 2026-11-13-schumer-and-van-hollen-split-senate-democratic-endorsements
-  headline: Schumer and Van Hollen split Senate Democratic endorsements
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7347
-- slug: 2026-11-16-edgard-kagan-says-china-resists-trilateral-nuclear-talks
-  headline: Edgard Kagan says China resists trilateral nuclear talks
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7125
-- slug: 2026-11-13-slotkin-joins-sanders-in-calling-for-new-democratic-leadership
-  headline: Slotkin joins Sanders in calling for new Democratic leadership
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7333
-- slug: 2026-11-13-schumer-s-relationship-with-the-party-base-has-not-recovered
-  headline: Schumer's relationship with the party base has not recovered
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7328
-- slug: 2026-11-13-lawmakers-ask-when-lutnick-learned-of-huang-s-contact-with-suspected-chinese-ass
-  headline: Lawmakers ask when Lutnick learned of Huang's contact with suspected Chinese asset
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.731
-- slug: 2026-11-13-schumer-faces-first-contested-democratic-leader-election-in-decades
-  headline: Schumer faces first contested Democratic leader election in decades
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7284
-- slug: 2026-11-13-van-hollen-pledges-hearings-on-foreign-aid-cuts-if-democrats-lead-senate
-  headline: Van Hollen pledges hearings on foreign aid cuts if Democrats lead Senate
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.728
-- slug: 2026-11-13-van-hollen-says-ending-corruption-requires-organizing-senate-differently
-  headline: Van Hollen says ending corruption requires organizing Senate differently
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7199
-- slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-democratic-leadership
-  headline: Van Hollen challenges Schumer for Senate Democratic leadership
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7184
-- slug: 2026-11-13-schumer-holds-the-advantage-as-van-hollen-challenges-him-for-senate-leader
-  headline: Schumer holds the advantage as Van Hollen challenges him for Senate leader
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7175
-- slug: 2026-11-13-brooks-and-marcus-raise-questions-on-nvidia-and-the-gop-s-midterm-losses
-  headline: Brooks and Marcus raise questions on Nvidia and the GOP's midterm losses
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7085
+  strength: 0.7548
 image:
   url: /articles/2026-11-16-van-hollen-sets-sights-on-schumer-trump-heads-to-asia.png
-  alt: "Illustration accompanying article: Van Hollen sets sights on Schumer; Trump heads to Asia"
+  alt: 'Illustration accompanying article: Van Hollen sets sights on Schumer; Trump
+    heads to Asia'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Van Hollen sets sights on Schumer; Trump heads to Asia
 
 **Subtype:** fact

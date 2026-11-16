@@ -2,8 +2,15 @@
 headline: North Atlantic right whale population falls 2% to 382 animals
 secondary_headline: Only 73 reproductive females remain in the species
 publish_date: '2026-11-16'
-lede: The North Atlantic right whale population fell about 2% over the past year to 382 animals, according to an annual estimate released Monday by a consortium of scientists — a reversal of the recent slow but steady climb, worrying scientists who fear one of the world's rarest whales could still be at risk of extinction.
-nut_graf: The estimate matters because the species' recovery depends on sustained births and protections across its range. With just 73 reproductive females, and with a warming ocean pushing the whales into areas not shielded from ship strikes and fishing-gear entanglements, Heather Pettis has warned that failing to protect the whales throughout their range could bring another "tremendous decline."
+lede: The North Atlantic right whale population fell about 2% over the past year to
+  382 animals, according to an annual estimate released Monday by a consortium of
+  scientists — a reversal of the recent slow but steady climb, worrying scientists
+  who fear one of the world's rarest whales could still be at risk of extinction.
+nut_graf: The estimate matters because the species' recovery depends on sustained
+  births and protections across its range. With just 73 reproductive females, and
+  with a warming ocean pushing the whales into areas not shielded from ship strikes
+  and fishing-gear entanglements, Heather Pettis has warned that failing to protect
+  the whales throughout their range could bring another "tremendous decline."
 primary_entities:
 - North Atlantic right whale
 - Heather Pettis
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,116 +147,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-16-north-atlantic-right-whale-population-falls-2-to-382-animals.png
-  alt: 'Illustration accompanying article: North Atlantic right whale population falls 2% to 382 animals'
+  alt: 'Illustration accompanying article: North Atlantic right whale population falls
+    2% to 382 animals'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-06-unseen-baby-right-whale-found-off-quebec-lifts-birthing-season-count-to-24
-  headline: Unseen baby right whale found off Quebec lifts birthing season count to 24
+  headline: Unseen baby right whale found off Quebec lifts birthing season count to
+    24
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7246
-- slug: 2026-10-30-striped-bass-decline-spurs-east-coast-anglers-to-seek-tougher-limits
-  headline: Striped bass decline spurs East Coast anglers to seek tougher limits
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6248
+  strength: 0.7244
 - slug: 2026-01-05-north-atlantic-right-whales-record-15-calves-this-winter-but-extinction-threat-p
-  headline: North Atlantic right whales record 15 calves this winter, but extinction threat persists
+  headline: North Atlantic right whales record 15 calves this winter, but extinction
+    threat persists
   publish_date: '2026-01-05'
   relation: related
-  strength: 0.8123
-- slug: 2026-09-23-palmyra-atoll-s-near-pristine-reefs-offer-coral-restoration-lessons
-  headline: Palmyra Atoll's near-pristine reefs offer coral restoration lessons
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6292
-- slug: 2026-09-23-noaa-documents-first-olive-ridley-sea-turtle-nestings-on-california-coast
-  headline: NOAA documents first olive ridley sea turtle nestings on California coast
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.627
-- slug: 2026-09-25-trump-order-directs-agencies-to-prioritize-recreational-fishing
-  headline: Trump order directs agencies to prioritize recreational fishing
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6209
+  strength: 0.8107
 - slug: 2026-07-22-house-panel-votes-to-delay-right-whale-protections-to-2035
   headline: House panel votes to delay right whale protections to 2035
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7063
-- slug: 2026-09-14-noaa-documents-nine-new-deep-sea-sponge-species-off-alaska
-  headline: NOAA documents nine new deep-sea sponge species off Alaska
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6129
+  strength: 0.7055
 - slug: 2026-02-16-us-ocean-agency-plans-changes-to-right-whale-ship-speed-rule
   headline: US ocean agency plans changes to right whale ship speed rule
   publish_date: '2026-02-16'
   relation: related
-  strength: 0.7158
+  strength: 0.7154
 - slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
   headline: Gray whales shift into San Francisco Bay; new detection system warns ships
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.6888
-- slug: 2026-08-15-volunteer-network-rescues-hundreds-of-cold-stunned-turtles-on-cape-cod
-  headline: Volunteer network rescues hundreds of cold-stunned turtles on Cape Cod
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6187
+  strength: 0.6901
 - slug: 2026-05-05-trump-supports-delaying-endangered-right-whale-protections-to-2035
   headline: Trump supports delaying endangered right whale protections to 2035
   publish_date: '2026-05-05'
   relation: related
-  strength: 0.6915
+  strength: 0.6903
 - slug: 2026-06-20-shark-encounters-rise-along-east-coast-as-populations-rebound
   headline: Shark encounters rise along East Coast as populations rebound
   publish_date: '2026-06-20'
   relation: related
-  strength: 0.6702
-- slug: 2026-07-26-humpback-whale-supergroup-of-nearly-300-spotted-off-south-africa
-  headline: Humpback whale supergroup of nearly 300 spotted off South Africa
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6152
+  strength: 0.6696
 - slug: 2026-03-30-stranded-humpback-whale-in-germany-s-baltic-sea-weakens-as-return-hopes-fade
-  headline: Stranded humpback whale in Germany’s Baltic Sea weakens as return hopes fade
+  headline: Stranded humpback whale in Germany’s Baltic Sea weakens as return hopes
+    fade
   publish_date: '2026-03-30'
   relation: related
-  strength: 0.6592
-- slug: 2026-04-07-juvenile-gray-whale-dies-in-willapa-river-hunger-suspected
-  headline: Juvenile gray whale dies in Willapa River; hunger suspected
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6415
-- slug: 2026-05-16-wyoming-halves-wolf-hunt-quota-after-distemper-slashes-yellowstone-region-packs
-  headline: Wyoming halves wolf hunt quota after distemper slashes Yellowstone region packs
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6285
-- slug: 2026-02-28-study-finds-north-american-bird-populations-keep-dropping
-  headline: Study finds North American bird populations keep dropping
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6418
-- slug: 2026-05-16-global-warming-reduces-oxygen-in-rivers-worldwide-threatening-fish-and-creating-
-  headline: Global warming reduces oxygen in rivers worldwide, threatening fish and creating dead zones
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.622
-- slug: 2026-03-10-green-bay-s-whitefish-refuge-anchors-great-lakes-fishery-as-stocks-show-strain
-  headline: Green Bay's whitefish refuge anchors Great Lakes fishery as stocks show strain
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6312
+  strength: 0.6582
 ---
-
 ## North Atlantic right whale population falls 2% to 382 animals
 
 **Subtype:** fact

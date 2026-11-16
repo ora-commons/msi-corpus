@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.7483
+analyses:
+- '2026-11-15-duffy-s-funding-ask-rests-on-a-diagnosis-congress-has-not-received'
 ---
 ## Duffy takes case to five TV networks after making the grounding call
 
@@ -239,3 +241,8 @@ The Journal's reporting appeared in the November 16, 2026, print edition as "Tra
 **Publication date:** 2026-11-15
 **Title:** Sean Duffy Made the Call to Shut Down Flights. Now He’s Making His Case.
 **URL:** https://www.wsj.com/business/airlines/sean-duffy-made-the-call-to-shut-down-flights-now-hes-making-his-case-1210b9c2
+
+---
+
+<!-- analysis-link:2026-11-15-duffy-s-funding-ask-rests-on-a-diagnosis-congress-has-not-received -->
+**Going deeper:** [Read MSI's analysis of the year-end aviation funding ask →](/analyses/2026-11-15-duffy-s-funding-ask-rests-on-a-diagnosis-congress-has-not-received)

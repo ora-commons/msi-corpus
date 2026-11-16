@@ -2,8 +2,20 @@
 headline: Trump talks cooperation in ‘60 Minutes’ as Democrats weigh probes
 secondary_headline: Peltola leads Sullivan as Alaska Senate race remains uncalled
 publish_date: '2026-11-16'
-lede: 'In a “60 Minutes” interview the Sunday after the midterm elections, President Trump talked about working with Democrats on things such as immigration, according to Damian Paletta’s report in The Wall Street Journal. Paletta wrote that the cooperation talk sits beside other data points: Stephen Miller has shown signs of digging in, and Democrats have not been lockstep on how to deal with the White House. Democrats are talking about focusing on the “costs,” but many in their ranks want investigations into the White House, Trump’s allies and corporate America.'
-nut_graf: 'Paletta’s newsletter maps the post-midterm terrain in Washington: a president talking about working with Democrats on some issues, a White House chief of staff showing signs of digging in, and a Democratic rank and file split between a focus on “costs” and investigations — with a set of Democrats to watch, an uncalled Alaska Senate race, a contested $50 billion aviation funding demand, and an anxious moment for both the Philippines’ relationship with China and the U.S.’s ahead of Trump’s Manila visit.'
+lede: 'In a “60 Minutes” interview the Sunday after the midterm elections, President
+  Trump talked about working with Democrats on things such as immigration, according
+  to Damian Paletta’s report in The Wall Street Journal. Paletta wrote that the cooperation
+  talk sits beside other data points: Stephen Miller has shown signs of digging in,
+  and Democrats have not been lockstep on how to deal with the White House. Democrats
+  are talking about focusing on the “costs,” but many in their ranks want investigations
+  into the White House, Trump’s allies and corporate America.'
+nut_graf: 'Paletta’s newsletter maps the post-midterm terrain in Washington: a president
+  talking about working with Democrats on some issues, a White House chief of staff
+  showing signs of digging in, and a Democratic rank and file split between a focus
+  on “costs” and investigations — with a set of Democrats to watch, an uncalled Alaska
+  Senate race, a contested $50 billion aviation funding demand, and an anxious moment
+  for both the Philippines’ relationship with China and the U.S.’s ahead of Trump’s
+  Manila visit.'
 primary_entities:
 - Donald Trump
 - Elizabeth Warren
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,113 +162,56 @@ related_stories:
   headline: Texas U.S. attorney warns Democratic lawmakers of legal consequences
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6997
+  strength: 0.701
 - slug: 2026-11-09-trump-opens-to-an-immigration-deal-after-republican-midterm-losses
   headline: Trump opens to an immigration deal after Republican midterm losses
   publish_date: '2026-11-09'
   relation: related
   strength: 0.7287
+- slug: 2026-11-15-trump-turns-to-asia-for-xi-putin-nuclear-talks-after-midterm-losses
+  headline: Trump turns to Asia for Xi-Putin nuclear talks after midterm losses
+  publish_date: '2026-11-15'
+  relation: related
+  strength: 0.6849
 - slug: 2026-11-08-trump-says-midterm-result-showed-widespread-rejection-of-his-party
   headline: Trump says midterm result showed widespread rejection of his party
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7266
+  strength: 0.7272
 - slug: 2026-11-09-mullin-rules-out-amnesty-as-trump-says-he-could-work-with-democrats
   headline: Mullin rules out amnesty as Trump says he could work with Democrats
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7043
+  strength: 0.7042
 - slug: 2026-11-08-trump-says-he-could-work-with-democrats-on-immigration-and-taxes
   headline: Trump says he could work with Democrats on immigration and taxes
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7088
+  strength: 0.7077
 - slug: 2026-11-11-democrats-push-bipartisan-immigration-reform-after-midterm-voter-backlash
   headline: Democrats push bipartisan immigration reform after midterm voter backlash
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6862
+  strength: 0.6869
 - slug: 2026-11-09-trump-names-immigration-architect-stephen-miller-as-chief-of-staff
   headline: Trump names immigration architect Stephen Miller as chief of staff
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6976
-- slug: 2026-11-09-trump-opens-to-immigration-deal-as-jeffries-backs-hegseth-impeachment-effort
-  headline: Trump opens to immigration deal as Jeffries backs Hegseth impeachment effort
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6976
-- slug: 2026-11-05-about-half-of-voters-called-corruption-crucial-as-democrats-name-probe-targets
-  headline: About half of voters called corruption crucial as Democrats name probe targets
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.714
-- slug: 2026-11-04-democrats-take-both-chambers-trump-faces-three-paths-likely-less-party-control
-  headline: Democrats take both chambers; Trump faces three paths, likely less party control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7188
-- slug: 2026-11-07-democrats-vow-probes-and-subpoenas-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats vow probes and subpoenas as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6959
-- slug: 2026-11-08-trump-calls-democrats-already-issued-investigative-requests-extortion-on-social-
-  headline: Trump calls Democrats’ already-issued investigative requests extortion on social media
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6846
-- slug: 2026-11-06-stephen-miller-called-man-killed-by-immigration-agents-a-domestic-terrorist
-  headline: Stephen Miller called man killed by immigration agents a 'domestic terrorist'
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.693
-- slug: 2026-11-06-incoming-democratic-senators-talarico-and-hamilton-call-for-cooler-politics
-  headline: Incoming Democratic senators Talarico and Hamilton call for cooler politics
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6867
-- slug: 2026-11-06-miami-u-s-attorney-resigns-amid-expected-doj-departures-after-midterms
-  headline: Miami U.S. attorney resigns amid expected DOJ departures after midterms
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6847
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6858
-- slug: 2026-11-03-trump-pairs-5-000-pledge-with-national-mall-closing-argument
-  headline: Trump pairs $5,000 pledge with National Mall closing argument
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6843
-- slug: 2026-10-30-alaska-senate-probe-looms-over-2026-midterm-finish
-  headline: Alaska Senate probe looms over 2026 midterm finish
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6988
-- slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6976
-- slug: 2026-10-27-wsj-politics-newsletter-flags-senate-balance-trump-rallies-and-data-center-votes
-  headline: WSJ Politics newsletter flags Senate balance, Trump rallies and data-center votes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6934
+  strength: 0.6979
 image:
   url: /articles/2026-11-16-trump-talks-cooperation-in-60-minutes-as-democrats-weigh-probes.png
-  alt: "Illustration accompanying article: Trump talks cooperation in ‘60 Minutes’ as Democrats weigh probes"
+  alt: 'Illustration accompanying article: Trump talks cooperation in ‘60 Minutes’
+    as Democrats weigh probes'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Trump talks cooperation in ‘60 Minutes’ as Democrats weigh probes
 
 **Subtype:** fact
