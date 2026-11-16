@@ -2,8 +2,17 @@
 headline: Cat found alive and reunited with teen owner after Brooklyn collapse
 secondary_headline: Isaac survived four days without food or water under a sink
 publish_date: '2026-11-15'
-lede: A cat missing since last week's deadly Brooklyn building collapse was found alive and reunited with his 13-year-old owner on Sunday, New York City officials said. Zariah Coleman and her mother told The New York Times that workers found Isaac in a cabinet under the kitchen sink of Zariah's apartment after hearing a soft meow, ending a four-day search that began when Wednesday's collapse killed eight people, injured 18 others and forced the evacuation of several nearby buildings.
-nut_graf: The reunion offered a small measure of good news in Brooklyn, where the collapse tore off the side of Zariah's building and left a hole where her bedroom wall had been. The search for Isaac drew in the Mayor's Office of Animal Welfare, the city's Buildings Department and the veterinary nonprofit Flatbush Cats, and Mayor Zohran Mamdani publicly thanked them after the cat was recovered.
+lede: A cat missing since last week's deadly Brooklyn building collapse was found
+  alive and reunited with his 13-year-old owner on Sunday, New York City officials
+  said. Zariah Coleman and her mother told The New York Times that workers found Isaac
+  in a cabinet under the kitchen sink of Zariah's apartment after hearing a soft meow,
+  ending a four-day search that began when Wednesday's collapse killed eight people,
+  injured 18 others and forced the evacuation of several nearby buildings.
+nut_graf: The reunion offered a small measure of good news in Brooklyn, where the
+  collapse tore off the side of Zariah's building and left a hole where her bedroom
+  wall had been. The search for Isaac drew in the Mayor's Office of Animal Welfare,
+  the city's Buildings Department and the veterinary nonprofit Flatbush Cats, and
+  Mayor Zohran Mamdani publicly thanked them after the cat was recovered.
 primary_entities:
 - Zariah Coleman
 - Isaac
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,13 +150,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-15-cat-found-alive-and-reunited-with-teen-owner-after-brooklyn-collapse.png
-  alt: 'Illustration accompanying article: Cat found alive and reunited with teen owner after Brooklyn collapse'
+  alt: 'Illustration accompanying article: Cat found alive and reunited with teen
+    owner after Brooklyn collapse'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-13-search-ends-at-brooklyn-collapse-site-as-officials-name-eight-victims
   headline: Search ends at Brooklyn collapse site as officials name eight victims
@@ -174,7 +188,8 @@ related_stories:
   relation: related
   strength: 0.6729
 - slug: 2026-11-11-brooklyn-building-collapse-kills-at-least-2-leaves-others-trapped-in-rubble
-  headline: Brooklyn building collapse kills at least 2, leaves others trapped in rubble
+  headline: Brooklyn building collapse kills at least 2, leaves others trapped in
+    rubble
   publish_date: '2026-11-11'
   relation: related
   strength: 0.6791
@@ -188,68 +203,7 @@ related_stories:
   publish_date: '2026-11-12'
   relation: related
   strength: 0.6668
-- slug: 2026-11-12-brooklyn-building-collapse-kills-eight-injures-18-next-to-construction-site
-  headline: Brooklyn building collapse kills eight, injures 18 next to construction site
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6659
-- slug: 2026-11-11-brooklyn-building-collapse-kills-1-leaves-at-least-4-in-critical-condition
-  headline: Brooklyn building collapse kills 1, leaves at least 4 in critical condition
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6652
-- slug: 2026-11-12-brooklyn-building-collapse-kills-at-least-two-injures-more-than-17
-  headline: Brooklyn building collapse kills at least two, injures more than 17
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6581
-- slug: 2026-11-12-wall-that-fell-onto-construction-site-prompted-brooklyn-emergency-call
-  headline: Wall that fell onto construction site prompted Brooklyn emergency call
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6317
-- slug: 2026-11-13-officials-call-for-more-building-inspectors-after-brooklyn-collapse
-  headline: Officials call for more building inspectors after Brooklyn collapse
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6042
-- slug: 2026-11-13-photographer-captures-rescue-of-pregnant-woman-from-brooklyn-rubble
-  headline: Photographer captures rescue of pregnant woman from Brooklyn rubble
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.5912
-- slug: 2026-11-12-south-carolina-father-charged-after-infant-found-buried-alive
-  headline: South Carolina father charged with attempted murder after infant found buried alive
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5805
-- slug: 2026-11-11-grandmother-says-she-never-expected-son-to-bury-baby-alive
-  headline: Grandmother says she never expected son to bury baby alive
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.5741
-- slug: 2026-10-30-roof-removed-from-manhattan-water-tower-that-housed-first-barn-owl-nest
-  headline: Roof removed from Manhattan water tower that housed first barn owl nest
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5794
-- slug: 2026-10-02-divers-recover-body-of-missing-patient-in-catalina-medevac-crash-toll-at-3
-  headline: Divers recover body of missing patient in Catalina medevac crash, toll at 3
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5783
-- slug: 2026-09-16-war-damaged-gaza-building-collapses-killing-at-least-21-people
-  headline: War-damaged Gaza building collapses, killing at least 21 people
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6047
-- slug: 2026-04-09-1-killed-2-presumed-dead-after-parking-garage-stairwell-roof-collapses
-  headline: 1 killed, 2 presumed dead after parking garage stairwell roof collapses
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6103
 ---
-
 ## Cat found alive and reunited with teen owner after Brooklyn collapse
 
 **Subtype:** fact

@@ -58,12 +58,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - Associated Press
   - The Guardian
   outlet_classes:
   - national_daily
-  highest_reliability_tier: 2
+  - wire
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures_aggregate:
@@ -238,3 +240,9 @@ Carney said Saturday that he had spoken at length with Trump and senior U.S. off
 **Publication date:** 2026-11-16
 **Title:** Canada could work with Chinese automakers if US trade talks fail, says Carney
 **URL:** https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks
+
+### src_late_6c4cdb604db08a5e — Associated Press, wire, Tier 1, originating
+**Publication date:** 2026-11-16
+**Title:** Carney says Canada could turn to Chinese automakers if Trump trade talks fail
+**URL:** https://apnews.com/article/canada-carney-trump-china-trade-autos-cbb2d3f90eed95925ffa4cb9a4b25239
+**Added after publication:** true
