@@ -179,6 +179,8 @@ related_stories:
   publish_date: '2026-10-14'
   relation: related
   strength: 0.6656
+analyses:
+- '2026-11-15-executive-privacy-spending-outruns-the-evidence-behind-the-risk'
 ---
 ## Executives hire matchmakers to keep private lives out of sight
 
@@ -222,3 +224,8 @@ The burden has left some executives, particularly a new class of AI founders, si
 **Publication date:** 2026-11-15
 **Title:** How Executives Keep Their Private Lives Out of the Public Eye
 **URL:** https://www.wsj.com/lifestyle/careers/ceo-dating-matchmakers-1765af5f
+
+---
+
+<!-- analysis-link:2026-11-15-executive-privacy-spending-outruns-the-evidence-behind-the-risk -->
+**Going deeper:** [Read MSI's analysis of executive privacy spending and risk →](/analyses/2026-11-15-executive-privacy-spending-outruns-the-evidence-behind-the-risk)
