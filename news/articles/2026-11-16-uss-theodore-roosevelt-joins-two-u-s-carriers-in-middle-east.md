@@ -1,9 +1,16 @@
 ---
 headline: USS Theodore Roosevelt joins two U.S. carriers in Middle East
-secondary_headline: Ford and Lincoln set modern-day records for deployment length and time at sea
+secondary_headline: Ford and Lincoln set modern-day records for deployment length
+  and time at sea
 publish_date: '2026-11-16'
-lede: The aircraft carrier USS Theodore Roosevelt has arrived in the Middle East, The Wall Street Journal reported on Nov. 16, 2026, joining USS George Washington and USS George H.W. Bush. The arrival gives the U.S. three aircraft carriers in the region for the second time this year as the war with Iran continues.
-nut_graf: The Roosevelt's arrival puts three U.S. carriers in the Middle East in a fleet where five of the Navy's 11 aircraft carriers have already deployed to support the war, and where two of those carriers have set modern-day records for deployment length and time at sea without a port call.
+lede: The aircraft carrier USS Theodore Roosevelt has arrived in the Middle East,
+  The Wall Street Journal reported on Nov. 16, 2026, joining USS George Washington
+  and USS George H.W. Bush. The arrival gives the U.S. three aircraft carriers in
+  the region for the second time this year as the war with Iran continues.
+nut_graf: The Roosevelt's arrival puts three U.S. carriers in the Middle East in a
+  fleet where five of the Navy's 11 aircraft carriers have already deployed to support
+  the war, and where two of those carriers have set modern-day records for deployment
+  length and time at sea without a port call.
 primary_entities:
 - USS Theodore Roosevelt
 - USS George Washington
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +148,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-16-uss-theodore-roosevelt-joins-two-u-s-carriers-in-middle-east.png
-  alt: 'Illustration accompanying article: USS Theodore Roosevelt joins two U.S. carriers in Middle East'
+  alt: 'Illustration accompanying article: USS Theodore Roosevelt joins two U.S. carriers
+    in Middle East'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-16-third-u-s-aircraft-carrier-arrives-in-middle-east-as-iran-war-continues
   headline: Third U.S. aircraft carrier arrives in Middle East as Iran war continues
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8344
+  strength: 0.8355
 - slug: 2026-10-30-open-ended-hormuz-mission-strains-u-s-navy-crews-and-aircraft
   headline: Open-ended Hormuz mission strains U.S. Navy crews and aircraft
   publish_date: '2026-10-30'
   relation: related
   strength: 0.6996
 - slug: 2026-10-24-uss-george-washington-replenishes-in-arabian-sea-as-iran-strikes-stay-undecided
-  headline: USS George Washington replenishes in Arabian Sea as Iran strikes stay undecided
+  headline: USS George Washington replenishes in Arabian Sea as Iran strikes stay
+    undecided
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7059
+  strength: 0.704
 - slug: 2026-10-01-pentagon-sends-third-aircraft-carrier-and-up-to-10-000-troops-to-middle-east
-  headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle East
+  headline: Pentagon sends third aircraft carrier and up to 10,000 troops to Middle
+    East
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7873
+  strength: 0.7884
 - slug: 2026-10-04-u-s-carrier-amphibious-group-heading-toward-middle-east
   headline: U.S. carrier, amphibious group heading toward Middle East
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7236
+  strength: 0.7254
 - slug: 2026-10-07-hegseth-awards-uss-lincoln-presidential-unit-citation-after-record-deployment
   headline: Hegseth awards USS Lincoln presidential unit citation after record deployment
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6813
+  strength: 0.6826
 - slug: 2026-10-02-us-treasury-sanctions-iran-s-auto-rail-sectors-and-russia-linked-network
   headline: US Treasury sanctions Iran's auto, rail sectors and Russia-linked network
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6859
+  strength: 0.6865
 - slug: 2026-08-20-uss-george-washington-arrives-in-middle-east-ending-lincoln-s-record-deployment
-  headline: USS George Washington arrives in Middle East, ending Lincoln's record deployment
+  headline: USS George Washington arrives in Middle East, ending Lincoln's record
+    deployment
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.7835
-- slug: 2026-08-15-uss-george-washington-heads-to-middle-east-as-lincoln-deployment-continues
-  headline: USS George Washington heads to Middle East as Lincoln deployment continues
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.7241
-- slug: 2026-09-03-pentagon-keeps-50-000-troops-in-mideast-as-trump-weighs-declaring-war-over
-  headline: Pentagon keeps 50,000 troops in Mideast as Trump weighs declaring war over
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6891
-- slug: 2026-08-14-uss-george-washington-transits-malacca-as-lincoln-passes-260-days
-  headline: USS George Washington transits Malacca as Lincoln passes 260 days
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.7233
-- slug: 2026-04-01-more-u-s-troops-head-to-the-middle-east-as-trump-seeks-iran-talks
-  headline: More U.S. troops head to the Middle East as Trump seeks Iran talks
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7855
-- slug: 2026-08-28-u-s--iran-war-reshapes-hormuz-traffic-energy-markets-and-alliances
-  headline: U.S.-Iran war reshapes Hormuz traffic, energy markets and alliances
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6816
-- slug: 2026-08-24-persian-gulf-loadings-diverge-from-u-s-hormuz-claims
-  headline: Persian Gulf loadings diverge from U.S. Hormuz claims
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6811
-- slug: 2026-08-15-senate-democrats-seek-answers-from-hegseth-on-conditions-aboard-lincoln
-  headline: Senate Democrats seek answers from Hegseth on conditions aboard Lincoln
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6885
-- slug: 2026-04-30-ford-carrier-set-to-end-record-long-deployment-after-iran-war-missions
-  headline: Ford carrier set to end record-long deployment after Iran war missions
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.749
-- slug: 2026-01-26-uss-abraham-lincoln-arrives-in-middle-east-as-trump-weighs-iran-action
-  headline: USS Abraham Lincoln arrives in Middle East as Trump weighs Iran action
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.7609
-- slug: 2026-07-20-qatar-proposes-10-day-ceasefire-as-us-iran-strikes-continue
-  headline: Qatar proposes 10-day ceasefire as US-Iran strikes continue
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6842
-- slug: 2026-04-16-us-military-expands-iran-blockade-worldwide-targeting-ships-carrying-oil-metals-
-  headline: US military expands Iran blockade worldwide, targeting ships carrying oil, metals, arms
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7052
-- slug: 2026-02-27-us-military-assembles-biggest-middle-east-force-in-decades-experts-warn
-  headline: US military assembles biggest Middle East force in decades, experts warn
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7108
+  strength: 0.7839
 ---
-
 ## USS Theodore Roosevelt joins two U.S. carriers in Middle East
 
 **Subtype:** fact
