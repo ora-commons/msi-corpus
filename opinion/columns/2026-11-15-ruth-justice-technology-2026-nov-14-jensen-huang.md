@@ -1,7 +1,10 @@
 ---
 headline: The Memo Arrived in Spring. The List Stayed Blank.
 publish_date: '2026-11-15'
-lede: The firm run by the woman United States officials suspect of spying for China is still not on the list of companies that pose a national security concern — and the government already wrote down that the chief executive of a four-trillion-dollar company was seeing her.
+lede: The firm run by the woman United States officials suspect of spying for China
+  is still not on the list of companies that pose a national security concern — and
+  the government already wrote down that the chief executive of a four-trillion-dollar
+  company was seeing her.
 pen_name: ruth-justice
 primary_entities:
 - Jensen Huang
@@ -34,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -55,7 +59,28 @@ cross_article_links:
   strength: 0.8157
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-memo-arrived-in-spring-the-list-stayed-blank.png
+  alt: 'Editorial cartoon by Hector Rentier: The Memo Arrived in Spring. The List
+    Stayed Blank.'
+  caption: Nobody forgot to fill it in.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-15T22:06:01-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Single 1:1 panel, heavy cross-hatch wood-engraving in the Nast tradition.
+    A composed, fully individuated federal official in a plain suit sits at a government
+    desk just off center, eyes deliberately d
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-15-hector-paired-with-2026-11-15-ruth-justice-technology-2026-nov-14-jensen-huang
 ---
+
+![Editorial cartoon by Hector Rentier: The Memo Arrived in Spring. The List Stayed Blank.](/cartoons/the-memo-arrived-in-spring-the-list-stayed-blank.png)
+*Nobody forgot to fill it in.*
 
 The firm run by the woman United States officials suspect of spying for China is still not on the list of companies that pose a national security concern — and the government already wrote down that the chief executive of a four-trillion-dollar company was seeing her. Jensen Huang resigned Thursday from Nvidia after 33 years, telling his employees he had been unfaithful to his wife of 41 years; reports of two additional affairs, both with Nvidia employees, came out with him. [Nvidia named an interim chief](/articles/2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo/), the Nasdaq fell 4 percent, and hundreds of billions of dollars in market value left with the week.
 

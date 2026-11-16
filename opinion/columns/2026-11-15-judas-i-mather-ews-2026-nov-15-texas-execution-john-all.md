@@ -1,7 +1,10 @@
 ---
 headline: The Sword Keeps the Account, and the Man the Ledger Held
 publish_date: '2026-11-15'
-lede: 'The Guardian entered Thursday''s business in the register the sovereign keeps: Texas executed John Allen Rubio by lethal injection at the state prison in Huntsville, and Oklahoma executed James Pavatt the same day for the 2001 murder of Rob Andrew, shot as he arrived to collect his two young children before Thanksgiving.'
+lede: 'The Guardian entered Thursday''s business in the register the sovereign keeps:
+  Texas executed John Allen Rubio by lethal injection at the state prison in Huntsville,
+  and Oklahoma executed James Pavatt the same day for the 2001 murder of Rob Andrew,
+  shot as he arrived to collect his two young children before Thanksgiving.'
 pen_name: judas-i-mather
 primary_entities:
 - John Allen Rubio
@@ -38,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: judas-i-mather-2026-07
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +64,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-sword-keeps-the-account-and-the-man-the-ledger-held.png
+  alt: 'Editorial cartoon by Hector Rentier: The Sword Keeps the Account, and the
+    Man the Ledger Held'
+  caption: The book does not consult the man it is keeping.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-15T22:03:41-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy cross-hatch wood-engraving, pure black masses
+    against carved whites. Center frame: the sovereign''s clerk — an older man in
+    a plain suit, fully individuated and calm — seated at'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-15-hector-paired-with-2026-11-15-judas-i-mather-ews-2026-nov-15-texas-execution-john-all
 ---
+
+![Editorial cartoon by Hector Rentier: The Sword Keeps the Account, and the Man the Ledger Held](/cartoons/the-sword-keeps-the-account-and-the-man-the-ledger-held.png)
+*The book does not consult the man it is keeping.*
 
 The Guardian entered Thursday's business in the register the sovereign keeps: Texas executed John Allen Rubio by lethal injection at the state prison in Huntsville, and Oklahoma executed James Pavatt the same day for the 2001 murder of Rob Andrew, shot as he arrived to collect his two young children before Thanksgiving. The two dates had been posted a week earlier, [as this site recorded them](/articles/2026-11-12-oklahoma-and-texas-set-executions-of-pavatt-and-rubio-for-thursday/).
 

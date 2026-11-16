@@ -1,7 +1,8 @@
 ---
 headline: The FAA Is a Classic Public Good Starved by Politics
 publish_date: '2026-11-15'
-lede: And you thought flying in America couldn't get worse — Congress has been working on it.
+lede: And you thought flying in America couldn't get worse — Congress has been working
+  on it.
 pen_name: editorial-board
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: editorial-board-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-faa-is-a-classic-public-good-starved-by-politics.png
+  alt: 'Editorial cartoon by Hector Rentier: The FAA Is a Classic Public Good Starved
+    by Politics'
+  caption: The skies were never the problem. The starving was.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-15T22:08:13-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy cross-hatch wood-engraving. Primary frame: a
+    senior congressional appropriator — a fully individuated man in a dark suit —
+    seated behind a heavy desk labeled APPROPRIATIONS COM'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-15-hector-paired-with-2026-11-15-eb-the-faa-is-a-classic-public-good-starved-by-politics
 ---
+
+![Editorial cartoon by Hector Rentier: The FAA Is a Classic Public Good Starved by Politics](/cartoons/the-faa-is-a-classic-public-good-starved-by-politics.png)
+*The skies were never the problem. The starving was.*
 
 And you thought flying in America couldn't get worse — Congress has been working on it. Then on Friday more than 12,000 flights were canceled after the Federal Aviation Administration ordered an extraordinary nationwide ground stop that lasted more than four hours. Was there a terrorist threat? Cyber-attack? No, the cause appears to have been the ordinary failure of a system its own government has declined to modernize for a quarter-century.
 
