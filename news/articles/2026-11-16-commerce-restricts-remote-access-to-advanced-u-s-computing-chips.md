@@ -44,7 +44,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -226,3 +226,10 @@ Last year, Rep. Michael Lawler, a New York Republican, introduced a bill to broa
 **Publication date:** 2026-11-16
 **Title:** Trump administration moves to block China from indirect access to American AI tech
 **URL:** https://www.pbs.org/newshour/science/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-tech
+
+### src_late_1324deacf54b1939 — Associated Press, wire, Tier 1, originating
+**Author:** Didi Tang
+**Publication date:** 2026-11-16
+**Title:** Trump administration moves to restrict China from indirect access to AI technology
+**URL:** https://apnews.com/article/nvidia-export-controls-chips-china-remote-access-60f868d3bb430b85a8657b27d421096e
+**Added after publication:** true
