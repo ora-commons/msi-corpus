@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-11-12'
   relation: related
   strength: 0.7187
+analyses:
+- '2026-11-15-guardian-s-cop31-editorial-counts-elections-as-climate-outcomes-against-a-2-7c-p'
 ---
 ## UN climate process gains breathing space at Cop31 amid rising risks
 
@@ -228,3 +230,8 @@ The editorial closed on public opinion, writing that a large majority of the glo
 **Publication date:** 2026-11-15
 **Title:** The Guardian view on Cop31: the green transition must not be derailed | Editorial
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-cop31-the-green-transition-must-not-be-derailed
+
+---
+
+<!-- analysis-link:2026-11-15-guardian-s-cop31-editorial-counts-elections-as-climate-outcomes-against-a-2-7c-p -->
+**Going deeper:** [Read MSI's analysis of the Guardian's Cop31 editorial framing →](/analyses/2026-11-15-guardian-s-cop31-editorial-counts-elections-as-climate-outcomes-against-a-2-7c-p)

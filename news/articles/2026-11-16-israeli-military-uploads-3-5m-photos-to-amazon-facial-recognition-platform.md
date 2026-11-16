@@ -2,8 +2,21 @@
 headline: Israeli military uploads 3.5m photos to Amazon facial recognition platform
 secondary_headline: AWS says it lacks visibility into customer workloads in its cloud
 publish_date: '2026-11-16'
-lede: The Israeli military uploaded 3.5 million photographs to Amazon's cloud platform in order to use the US company's facial recognition technology to analyse images of Palestinians, The Guardian reported on 16 November, citing leaked documents. The images were moved into an Amazon datacentre near Tel Aviv by a department commonly known as Rolling Stone, which sits within a military software unit, and documents suggest Amazon's cloud technology was used at times during 2024 to support temporary checkpoints in Gaza.
-nut_graf: The reporting, based on leaked documents and interviews with military sources, describes how Amazon's cloud computing business became infrastructure for the Israeli military's collection and processing of Palestinians' personal data, under a 2021 contract that bars the provider from restricting or suspending Israeli government and military use even if Israel breaches the companies' terms of service. Amazon Web Services says it has no "visibility" into customer workloads, and the Israel Defence Forces said it does not intend to comment on engagements or services related to operational needs.
+lede: The Israeli military uploaded 3.5 million photographs to Amazon's cloud platform
+  in order to use the US company's facial recognition technology to analyse images
+  of Palestinians, The Guardian reported on 16 November, citing leaked documents.
+  The images were moved into an Amazon datacentre near Tel Aviv by a department commonly
+  known as Rolling Stone, which sits within a military software unit, and documents
+  suggest Amazon's cloud technology was used at times during 2024 to support temporary
+  checkpoints in Gaza.
+nut_graf: The reporting, based on leaked documents and interviews with military sources,
+  describes how Amazon's cloud computing business became infrastructure for the Israeli
+  military's collection and processing of Palestinians' personal data, under a 2021
+  contract that bars the provider from restricting or suspending Israeli government
+  and military use even if Israel breaches the companies' terms of service. Amazon
+  Web Services says it has no "visibility" into customer workloads, and the Israel
+  Defence Forces said it does not intend to comment on engagements or services related
+  to operational needs.
 primary_entities:
 - Israeli military
 - Amazon Web Services
@@ -36,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,108 +148,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-31-satellite-analysis-finds-274-damaged-structures-at-us-bases-in-iran-war
-  headline: Satellite analysis finds 274 damaged structures at US bases in Iran war
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6217
-- slug: 2026-10-31-satellite-images-show-iran-shifted-strikes-to-buildings-where-us-troops-slept
-  headline: Satellite images show Iran shifted strikes to buildings where US troops slept
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6174
-- slug: 2026-10-11-hackers-turn-civilian-webcams-into-wartime-surveillance-tools
-  headline: Hackers turn civilian webcams into wartime surveillance tools
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6492
-- slug: 2026-10-10-anas-baba-photographs-year-of-gaza-ceasefire-continued-israeli-strikes
-  headline: Anas Baba photographs year of Gaza ceasefire, continued Israeli strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6239
-- slug: 2026-09-25-microsoft-activists-call-for-ban-on-ai-in-military-targeting-autonomous-weapons-
-  headline: Microsoft activists call for ban on AI in military targeting, autonomous weapons, surveillance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6408
-- slug: 2026-10-02-roth-says-ai-already-targeting-in-gaza-criticizes-geneva-weapons-talks
-  headline: Roth says AI already targeting in Gaza, criticizes Geneva weapons talks
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6162
-- slug: 2026-09-26-five-gazans-show-how-the-blockade-reshapes-daily-life
-  headline: Five Gazans show how the blockade reshapes daily life
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6248
-- slug: 2026-09-18-uk-police-assessment-flags-microsoft-cloud-data-as-vulnerable-to-compromise
-  headline: UK police assessment flags Microsoft cloud data as vulnerable to compromise
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6224
-- slug: 2026-09-16-trump-administration-plans-2-8b-package-of-2-000-pound-bombs-to-israel
-  headline: Trump administration plans $2.8B package of 2,000-pound bombs to Israel
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6225
-- slug: 2026-09-09-pentagon-ai-chief-tells-summit-us-is-working-with-allies-to-avoid-past-mistakes
-  headline: Pentagon AI chief tells summit US is working with allies to avoid past mistakes
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6218
-- slug: 2026-08-04-hamas-agrees-to-u-s--backed-plan-to-disarm-as-israel-withdraws
-  headline: Hamas agrees to U.S.-backed plan to disarm as Israel withdraws
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.623
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6257
 - slug: 2026-03-04-strikes-on-amazon-data-centers-spotlight-physical-risk-for-cloud-services
   headline: Strikes on Amazon data centers spotlight physical risk for cloud services
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.6587
-- slug: 2026-05-15-bombs-blackouts-and-bank-restrictions-fail-to-stop-gaza-s-digital-workers
-  headline: Bombs, blackouts and bank restrictions fail to stop Gaza’s digital workers
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6448
-- slug: 2026-05-15-gaza-s-remote-work-economy-survives-war-blackouts-and-bank-restrictions
-  headline: Gaza’s remote work economy survives war, blackouts and bank restrictions
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6376
-- slug: 2026-03-13-israel-drops-charges-against-soldiers-accused-in-palestinian-detainee-abuse
-  headline: Israel drops charges against soldiers accused in Palestinian detainee abuse
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6465
-- slug: 2026-02-04-women-returning-to-gaza-say-israeli-troops-bound-and-interrogated-them
-  headline: Women returning to Gaza say Israeli troops bound and interrogated them
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.643
-- slug: 2026-03-24-israel-used-hacked-iranian-street-cameras-in-killing-of-khamenei-ap-reports
-  headline: Israel used hacked Iranian street cameras in killing of Khamenei, AP reports
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6306
-- slug: 2026-05-01-media-leaders-ask-israel-to-lift-ban-on-independent-gaza-reporting
-  headline: Media leaders ask Israel to lift ban on independent Gaza reporting
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6204
-- slug: 2026-01-29-what-to-know-about-gaza-s-rafah-crossing-which-could-open-within-days
-  headline: What to know about Gaza’s Rafah crossing, which could open within days
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6325
+  strength: 0.6578
 ---
-
 ## Israeli military uploads 3.5m photos to Amazon facial recognition platform
 
 **Subtype:** fact
