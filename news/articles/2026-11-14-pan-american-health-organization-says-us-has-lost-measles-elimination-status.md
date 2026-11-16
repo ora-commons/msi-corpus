@@ -2,8 +2,19 @@
 headline: Pan American Health Organization says US has lost measles elimination status
 secondary_headline: Thirteen measles-associated deaths reported across states
 publish_date: '2026-11-14'
-lede: The United States has lost its status as a country where measles is eliminated, a public health achievement secured a quarter century ago. Researchers with direct knowledge of the deliberations told KFF Health News that the Pan American Health Organization, an international group that oversees health in the Americas and works with the World Health Organization, concluded this week that measles has reestablished regular transmission in the country. PAHO had planned a public announcement on Nov. 17.
-nut_graf: Measles elimination means sporadic outbreaks end within a year, a standard the United States no longer meets as outbreaks expand in several states. Regaining the status requires the current outbreaks to end and future outbreaks to stop spreading within a year, according to Paul Rota, a microbiologist and former CDC official. With two doses of the vaccine preventing about 97% of infections, health authorities say the resurgence is preventable when almost everyone in a community is fully vaccinated.
+lede: The United States has lost its status as a country where measles is eliminated,
+  a public health achievement secured a quarter century ago. Researchers with direct
+  knowledge of the deliberations told KFF Health News that the Pan American Health
+  Organization, an international group that oversees health in the Americas and works
+  with the World Health Organization, concluded this week that measles has reestablished
+  regular transmission in the country. PAHO had planned a public announcement on Nov.
+  17.
+nut_graf: Measles elimination means sporadic outbreaks end within a year, a standard
+  the United States no longer meets as outbreaks expand in several states. Regaining
+  the status requires the current outbreaks to end and future outbreaks to stop spreading
+  within a year, according to Paul Rota, a microbiologist and former CDC official.
+  With two doses of the vaccine preventing about 97% of infections, health authorities
+  say the resurgence is preventable when almost everyone in a community is fully vaccinated.
 primary_entities:
 - Pan American Health Organization
 - Centers for Disease Control and Prevention
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,7 +155,7 @@ related_stories:
   headline: Pan American Health Organization revokes U.S. measles elimination status
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.885
+  strength: 0.8843
 - slug: 2026-11-13-us-measles-cases-push-nation-toward-losing-elimination-status
   headline: US measles cases push nation toward losing elimination status
   publish_date: '2026-11-13'
@@ -153,94 +165,35 @@ related_stories:
   headline: PAHO panel weighs US, Mexico measles elimination status
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.856
+  strength: 0.8554
 - slug: 2026-11-12-us-measles-deaths-reach-twice-the-2025-total-in-largest-outbreak-since-1991
-  headline: US measles deaths reach twice the 2025 total in largest outbreak since 1991
+  headline: US measles deaths reach twice the 2025 total in largest outbreak since
+    1991
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8115
+  strength: 0.8096
 - slug: 2026-11-11-eight-experts-weigh-u-s-measles-elimination-status-this-week
   headline: Eight experts weigh U.S. measles elimination status this week
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8112
-- slug: 2026-11-03-robert-f-kennedy-jr-cuts-childhood-immunization-recommendations-by-a-third
-  headline: Robert F Kennedy Jr cuts childhood immunization recommendations by a third
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7371
+  strength: 0.8103
 - slug: 2026-10-24-cdc-adds-178-us-measles-cases-as-death-tallies-diverge
   headline: CDC adds 178 US measles cases as death tallies diverge
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7683
+  strength: 0.7663
 - slug: 2026-10-25-cdc-finds-96-of-2026-measles-patients-were-unvaccinated-or-had-unknown-status
-  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown status
+  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown
+    status
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7386
+  strength: 0.7379
 - slug: 2026-10-07-pennsylvania-measles-outbreak-tops-1-000-cases-largest-in-us-since-1991
   headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.8126
-- slug: 2026-10-05-pennsylvania-measles-cases-top-1-000-as-state-reports-five-deaths
-  headline: Pennsylvania measles cases top 1,000 as state reports five deaths
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.7727
-- slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
-  headline: Annual US measles count exceeds 1991 levels as second death confirmed
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7735
-- slug: 2026-09-30-pennsylvania-reports-fifth-measles-related-death-of-2026
-  headline: Pennsylvania reports fifth measles-related death of 2026
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7509
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7793
-- slug: 2026-09-15-pennsylvania-reports-fourth-measles-death-in-2026-worst-us-year-since-1992
-  headline: Pennsylvania reports fourth measles death in 2026, worst US year since 1992
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7467
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7439
-- slug: 2026-08-21-who-estimates-nearly-11-million-measles-cases-globally-in-2026
-  headline: WHO estimates nearly 11 million measles cases globally in 2026
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7729
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7565
-- slug: 2026-01-20-u-s-measles-elimination-status-at-risk-as-cases-hit-highest-level-since-1991
-  headline: U.S. measles elimination status at risk as cases hit highest level since 1991
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.8323
-- slug: 2026-06-13-utah-measles-outbreak-nears-one-year-threatening-us-elimination-status
-  headline: Utah measles outbreak nears one year, threatening US elimination status
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7831
-- slug: 2026-08-02-kennedy-urges-measles-vaccination-as-us-outbreak-reaches-2-371-cases
-  headline: Kennedy urges measles vaccination as US outbreak reaches 2,371 cases
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.739
+  strength: 0.8108
 ---
-
 ## Pan American Health Organization says US has lost measles elimination status
 
 **Subtype:** fact
