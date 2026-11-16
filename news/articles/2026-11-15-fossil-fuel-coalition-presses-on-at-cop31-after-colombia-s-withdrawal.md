@@ -67,7 +67,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -263,3 +263,10 @@ The Associated Press' climate and environmental coverage receives financial supp
 **Publication date:** 2026-11-15
 **Title:** Fossil fuel transition coalition looks to Tuvalu after Colombia's withdrawal
 **URL:** https://apnews.com/article/cop31-fossil-fuels-colombia-ireland-tuvalu-coal-09c81f8bc4afd44fb6a4c5a804b74cab
+
+### src_late_e5afa0921d47386b — Associated Press, wire, Tier 1, originating
+**Author:** Steven Grattan, Associated Press
+**Publication date:** 2026-11-16
+**Title:** Coalition to move away from fossil fuels presses ahead without Colombia, its original champion
+**URL:** https://www.pbs.org/newshour/world/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion
+**Added after publication:** true
