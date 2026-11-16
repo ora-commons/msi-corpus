@@ -2,8 +2,19 @@
 headline: China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
 secondary_headline: Mao Ning urges deeper exchanges on peace and stability
 publish_date: '2026-11-16'
-lede: 'China''s Foreign Ministry spokesperson Mao Ning said Monday that the planned three-way nuclear talks among President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin would be of "groundbreaking significance." Speaking at a regular briefing in Beijing, Mao said China aimed to have in-depth exchanges about safeguarding world peace and promoting stability. She added: "Under the current circumstances, the three countries shoulder an important responsibility to work together in addressing global challenges."'
-nut_graf: The first-ever three-way meeting would bring Trump, Xi and Putin together on nuclear weapons, with Russia's war in Ukraine outside the stated agenda. Mao's comments came as Trump prepared for an Asia itinerary that also included the Asia-Pacific Economic Cooperation summit in Shenzhen and a planned trade deal with Thailand, while questions about Nvidia export controls and the U.S. war with Iran remained part of the trip's context.
+lede: 'China''s Foreign Ministry spokesperson Mao Ning said Monday that the planned
+  three-way nuclear talks among President Donald Trump, Chinese President Xi Jinping
+  and Russian President Vladimir Putin would be of "groundbreaking significance."
+  Speaking at a regular briefing in Beijing, Mao said China aimed to have in-depth
+  exchanges about safeguarding world peace and promoting stability. She added: "Under
+  the current circumstances, the three countries shoulder an important responsibility
+  to work together in addressing global challenges."'
+nut_graf: The first-ever three-way meeting would bring Trump, Xi and Putin together
+  on nuclear weapons, with Russia's war in Ukraine outside the stated agenda. Mao's
+  comments came as Trump prepared for an Asia itinerary that also included the Asia-Pacific
+  Economic Cooperation summit in Shenzhen and a planned trade deal with Thailand,
+  while questions about Nvidia export controls and the U.S. war with Iran remained
+  part of the trip's context.
 primary_entities:
 - Mao Ning
 - Donald Trump
@@ -51,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,34 +162,38 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-16-china-calls-planned-trump-xi-putin-nuclear-talks-groundbreaking.png
-  alt: 'Illustration accompanying article: China calls planned Trump-Xi-Putin nuclear talks ''groundbreaking'''
+  alt: 'Illustration accompanying article: China calls planned Trump-Xi-Putin nuclear
+    talks ''groundbreaking'''
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-16-china-confirms-trump-xi-and-putin-will-meet-thursday-in-shenzhen
   headline: China confirms Trump, Xi and Putin will meet Thursday in Shenzhen
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8117
+  strength: 0.8112
 - slug: 2026-11-14-white-house-announces-trump-summit-with-xi-and-putin-in-shenzhen
   headline: White House announces Trump summit with Xi and Putin in Shenzhen
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7896
+  strength: 0.7891
 - slug: 2026-11-16-china-signals-nuclear-reduction-talks-hinge-on-parity-with-us-and-russia
   headline: China signals nuclear reduction talks hinge on parity with US and Russia
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7716
+  strength: 0.7721
 - slug: 2026-11-15-trump-turns-to-asia-for-xi-putin-nuclear-talks-after-midterm-losses
   headline: Trump turns to Asia for Xi-Putin nuclear talks after midterm losses
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7607
+  strength: 0.7612
 - slug: 2026-11-16-edgard-kagan-says-china-resists-trilateral-nuclear-talks
   headline: Edgard Kagan says China resists trilateral nuclear talks
   publish_date: '2026-11-16'
@@ -187,79 +203,18 @@ related_stories:
   headline: China hosts Apec summit as Trump, Xi and Putin set for three-way meeting
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7187
+  strength: 0.7194
 - slug: 2026-11-09-u-s-and-china-dispute-format-for-proposed-trump-xi-putin-summit
   headline: U.S. and China dispute format for proposed Trump-Xi-Putin summit
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7546
+  strength: 0.7547
 - slug: 2026-11-15-asean-leaders-open-manila-summit-as-trump-prepares-to-join-regional-talks
   headline: ASEAN leaders open Manila summit as Trump prepares to join regional talks
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7094
-- slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
-  headline: Trump open to joining Putin and Xi for denuclearization summit
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7586
-- slug: 2026-10-24-putin-proposes-trump-xi-summit-in-china
-  headline: Putin proposes Trump-Xi summit in China
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7275
-- slug: 2026-10-27-china-has-not-issued-an-invitation-for-a-proposed-trump-xi-putin-summit
-  headline: China has not issued an invitation for a proposed Trump-Xi-Putin summit
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7098
-- slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
-  headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.7243
-- slug: 2026-09-25-trump-and-xi-hold-talks-in-washington-on-tariffs-taiwan-and-ai
-  headline: Trump and Xi hold talks in Washington on tariffs, Taiwan, and AI
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7224
-- slug: 2026-09-23-mutual-distrust-killed-chinese-rare-earths-truce-offer-before-trump-xi-summit
-  headline: Mutual distrust killed Chinese rare-earths truce offer before Trump-Xi summit
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7212
-- slug: 2026-09-24-xi-says-us-china-should-be-partners-rather-than-rivals-as-state-visit-begins
-  headline: Xi says US-China 'should be partners rather than rivals' as state visit begins
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7112
-- slug: 2026-05-13-what-to-know-about-trump-xi-summit-in-beijing
-  headline: What to know about Trump-Xi summit in Beijing
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7466
-- slug: 2026-05-16-trump-s-china-trip-highlights-taiwan-focus-talk-of-strategic-stability
-  headline: Trump’s China trip highlights Taiwan focus, talk of “strategic stability”
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7276
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7278
-- slug: 2026-05-13-trump-aims-to-stabilize-trade-in-beijing-summit-with-xi
-  headline: Trump aims to stabilize trade in Beijing summit with Xi
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7281
-- slug: 2026-05-14-trump-arrives-in-beijing-for-high-stakes-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for high-stakes talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.727
+  strength: 0.7106
 ---
-
 ## China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
 
 **Subtype:** fact
