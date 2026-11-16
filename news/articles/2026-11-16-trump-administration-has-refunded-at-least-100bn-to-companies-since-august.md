@@ -2,8 +2,18 @@
 headline: Trump administration has refunded at least $100bn to companies since August
 secondary_headline: Some companies sued the US government for refunds after ruling
 publish_date: '2026-11-16'
-lede: The Trump administration has refunded at least $100bn to companies since August, about 60% of roughly $131bn in tariffs, after the Supreme Court ruled President Donald Trump's "Liberation Day" tariffs illegal. Some companies immediately sued the US government for refunds after the ruling, though Trump signaled that he would "remember" which companies requested reimbursements and praised companies for holding off.
-nut_graf: The refunds follow a Supreme Court ruling that Trump's "Liberation Day" tariffs were illegal, and they arrive after consumers absorbed a share of those tariffs through higher prices. How the refunds are used matters because companies that raised prices citing tariffs are now deciding whether to pass the reimbursements back to the customers who paid them, while firms that ask for their money back may face political consequences.
+lede: The Trump administration has refunded at least $100bn to companies since August,
+  about 60% of roughly $131bn in tariffs, after the Supreme Court ruled President
+  Donald Trump's "Liberation Day" tariffs illegal. Some companies immediately sued
+  the US government for refunds after the ruling, though Trump signaled that he would
+  "remember" which companies requested reimbursements and praised companies for holding
+  off.
+nut_graf: The refunds follow a Supreme Court ruling that Trump's "Liberation Day"
+  tariffs were illegal, and they arrive after consumers absorbed a share of those
+  tariffs through higher prices. How the refunds are used matters because companies
+  that raised prices citing tariffs are now deciding whether to pass the reimbursements
+  back to the customers who paid them, while firms that ask for their money back may
+  face political consequences.
 primary_entities:
 - Trump administration
 - Supreme Court
@@ -44,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,113 +157,57 @@ related_stories:
   headline: At least nine companies have disclosed using tariff refunds for bonuses
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8403
+  strength: 0.8425
 - slug: 2026-10-09-brands-direct-tariff-refunds-toward-holiday-marketing
   headline: Brands direct tariff refunds toward holiday marketing
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7338
+  strength: 0.7341
 - slug: 2026-10-14-us-businesses-absorb-nearly-90-of-tariff-costs-new-york-fed-finds
   headline: US businesses absorb nearly 90% of tariff costs, New York Fed finds
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7058
+  strength: 0.7076
 - slug: 2026-08-28-most-tariff-refunds-flow-to-businesses-as-consumer-repayment-lags
   headline: Most tariff refunds flow to businesses as consumer repayment lags
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7956
+  strength: 0.7976
 - slug: 2026-08-13-over-40-s-p-500-firms-report-9-6-billion-in-tariff-refunds
   headline: Over 40 S&P 500 firms report $9.6 billion in tariff refunds
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.7661
+  strength: 0.7684
 - slug: 2026-09-10-trump-promises-500-obamacare-refunds-to-nearly-1-million-enrollees
   headline: Trump promises $500 Obamacare refunds to nearly 1 million enrollees
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7085
+  strength: 0.709
 - slug: 2026-08-04-twenty-five-states-sue-trump-administration-over-forced-labor-tariffs
   headline: Twenty-five states sue Trump administration over forced-labor tariffs
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.7464
+  strength: 0.7486
 - slug: 2026-06-01-trump-administration-appeals-federal-order-allowing-all-importers-to-seek-tariff
-  headline: Trump administration appeals federal order allowing all importers to seek tariff refunds
+  headline: Trump administration appeals federal order allowing all importers to seek
+    tariff refunds
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.7811
-- slug: 2026-02-21-after-supreme-court-voids-trump-tariffs-133-billion-refund-puzzle-looms
-  headline: After Supreme Court voids Trump tariffs, $133 billion refund puzzle looms
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.7808
-- slug: 2026-04-19-refund-system-opens-for-tariffs-trump-imposed-without-authority
-  headline: Refund system opens for tariffs Trump imposed without authority
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.7678
-- slug: 2026-07-27-trump-imposes-50-tariff-on-canada-new-tariffs-on-80-nations
-  headline: Trump imposes 50% tariff on Canada, new tariffs on 80 nations
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7109
-- slug: 2026-06-14-for-us-small-businesses-trump-s-tariffs-become-a-non-issue-consultant-says
-  headline: For US small businesses, Trump's tariffs become a non-issue, consultant says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.727
-- slug: 2026-03-04-federal-judge-rules-importers-entitled-to-refunds-for-struck-down-trump-tariffs
-  headline: Federal judge rules importers entitled to refunds for struck-down Trump tariffs
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7521
-- slug: 2026-02-27-fedex-pledges-to-return-tariff-refunds-to-shippers-and-customers
-  headline: FedEx pledges to return tariff refunds to shippers and customers
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.748
-- slug: 2026-03-04-federal-court-rejects-trump-bid-to-slow-tariff-refunds
-  headline: Federal court rejects Trump bid to slow tariff refunds
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7407
-- slug: 2026-02-25-senate-democrats-unveil-bill-to-require-refunds-of-trump-tariff-revenue
-  headline: Senate Democrats unveil bill to require refunds of Trump tariff revenue
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7392
-- slug: 2026-04-29-gm-expects-500-million-refund-from-trump-tariffs-struck-down-by-supreme-court
-  headline: GM expects $500 million refund from Trump tariffs struck down by Supreme Court
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7238
-- slug: 2026-02-21-businesses-brace-for-uncertain-trade-policy-after-supreme-court-tariff-ruling
-  headline: Businesses brace for uncertain trade policy after Supreme Court tariff ruling
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.7301
-- slug: 2026-06-03-us-imposes-10-12-5-tariffs-on-60-nations-over-forced-labor-concerns
-  headline: US imposes 10-12.5% tariffs on 60 nations over forced labor concerns
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7057
-- slug: 2026-02-23-supreme-court-tariff-ruling-leaves-trade-policy-uncertainty-for-businesses
-  headline: Supreme Court tariff ruling leaves trade policy uncertainty for businesses
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.7219
+  strength: 0.7831
 image:
   url: /articles/2026-11-16-trump-administration-has-refunded-at-least-100bn-to-companies-since-august.png
-  alt: "Illustration accompanying article: Trump administration has refunded at least $100bn to companies since August"
+  alt: 'Illustration accompanying article: Trump administration has refunded at least
+    $100bn to companies since August'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Trump administration has refunded at least $100bn to companies since August
 
 **Subtype:** fact

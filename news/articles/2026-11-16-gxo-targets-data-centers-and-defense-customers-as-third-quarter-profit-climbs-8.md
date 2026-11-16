@@ -1,9 +1,21 @@
 ---
-headline: GXO targets data centers and defense customers as third-quarter profit climbs 8%
-secondary_headline: GXO says quarterly organic revenue grew at fastest rate in three years
+headline: GXO targets data centers and defense customers as third-quarter profit climbs
+  8%
+secondary_headline: GXO says quarterly organic revenue grew at fastest rate in three
+  years
 publish_date: '2026-11-16'
-lede: GXO Logistics is turning to data centers, aerospace companies and defense manufacturers to speed up growth and secure higher margins, Chief Executive Patrick Kelleher said. The contract-logistics provider — the third-largest global warehousing-services provider by square footage, according to research group Armstrong & Associates — handles warehousing for consumer brands such as Hasbro, Apple and Nike. It reported third-quarter profit of $65 million, up 8% year over year, and organic revenue growth of 6.4%, a rate GXO said was the fastest in three years.
-nut_graf: GXO describes the supply chains in its target sectors as more complex and higher-margin than those in e-commerce and consumer products. The strategy arrives as Kelleher, who joined GXO last year from DHL Supply Chain, tries to accelerate growth after several years of postpandemic whiplash in the warehousing business, with labor costs making up two-thirds of GXO's expenses.
+lede: GXO Logistics is turning to data centers, aerospace companies and defense manufacturers
+  to speed up growth and secure higher margins, Chief Executive Patrick Kelleher said.
+  The contract-logistics provider — the third-largest global warehousing-services
+  provider by square footage, according to research group Armstrong & Associates —
+  handles warehousing for consumer brands such as Hasbro, Apple and Nike. It reported
+  third-quarter profit of $65 million, up 8% year over year, and organic revenue growth
+  of 6.4%, a rate GXO said was the fastest in three years.
+nut_graf: GXO describes the supply chains in its target sectors as more complex and
+  higher-margin than those in e-commerce and consumer products. The strategy arrives
+  as Kelleher, who joined GXO last year from DHL Supply Chain, tries to accelerate
+  growth after several years of postpandemic whiplash in the warehousing business,
+  with labor costs making up two-thirds of GXO's expenses.
 primary_entities:
 - GXO Logistics
 - Patrick Kelleher
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,109 +154,8 @@ cross_article_links:
   strength: 0.6116
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-30-exxon-chevron-third-quarter-profits-soar-as-drone-strikes-curb-fuel-supply
-  headline: Exxon, Chevron third-quarter profits soar as drone strikes curb fuel supply
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6094
-- slug: 2026-10-29-luxexperience-pivots-to-super-rich-shoppers-as-some-luxury-sellers-face-cooling-
-  headline: LuxExperience pivots to super-rich shoppers as some luxury sellers face cooling demand
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6029
-- slug: 2026-10-29-l3harris-raises-full-year-guidance-on-record-53-2-billion-backlog
-  headline: L3Harris raises full-year guidance on record $53.2 billion backlog
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6009
-- slug: 2026-10-20-ge-aerospace-raises-outlook-as-third-quarter-profit-and-revenue-beat-estimates
-  headline: GE Aerospace raises outlook as third-quarter profit and revenue beat estimates
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6398
-- slug: 2026-10-22-nokia-s-network-infrastructure-sales-rise-17-on-ai-data-center-demand
-  headline: Nokia's network infrastructure sales rise 17% on AI data-center demand
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6119
-- slug: 2026-10-22-tesla-posts-28-billion-revenue-musk-says-optimus-could-be-ready-to-ship-by-the-e
-  headline: Tesla posts $28 billion revenue; Musk says Optimus could be ready to ship by the end of next year
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5985
-- slug: 2026-10-21-tesla-beats-q3-revenue-forecasts-as-musk-floats-spacex-merger
-  headline: Tesla beats Q3 revenue forecasts as Musk floats SpaceX merger
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6016
-- slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
-  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet additions
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6011
-- slug: 2026-10-20-strong-profit-reports-lift-u-s-stocks-as-oil-prices-ease
-  headline: Strong profit reports lift U.S. stocks as oil prices ease
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6052
-- slug: 2026-10-06-c-h-robinson-to-buy-rxo-in-5-8-billion-freight-broker-deal
-  headline: C.H. Robinson to buy RXO in $5.8 billion freight-broker deal
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6458
-- slug: 2026-10-09-wto-raises-2026-goods-trade-growth-forecast-to-3-9-on-ai-boom
-  headline: WTO raises 2026 goods-trade growth forecast to 3.9% on AI boom
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6227
-- slug: 2026-09-14-on-holding-holds-prices-as-wholesale-growth-slows-to-4-8
-  headline: On Holding holds prices as wholesale growth slows to 4.8%
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6172
-- slug: 2026-08-31-s-p-500-per-share-earnings-rise-53-in-q2-as-consumer-spending-and-tariff-refunds
-  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff refunds lift profits
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.612
-- slug: 2026-08-07-apollo-easyjet-takeover-may-increase-airline-competition
-  headline: Apollo easyJet takeover may increase airline competition
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6162
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6315
-- slug: 2026-08-10-hims-hers-lifts-annual-forecast-as-quarterly-costs-drive-loss
-  headline: Hims & Hers lifts annual forecast as quarterly costs drive loss
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5995
-- slug: 2026-07-09-fast-retailing-raises-forecast-after-39-profit-jump-in-third-quarter
-  headline: Fast Retailing raises forecast after 39% profit jump in third quarter
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6113
-- slug: 2026-07-15-u-s-warehouse-construction-rebounds-as-developers-restart-projects
-  headline: U.S. warehouse construction rebounds as developers restart projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6047
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5987
-- slug: 2026-07-14-ericsson-forecasts-q3-margin-decline-as-network-sales-drop-4
-  headline: Ericsson forecasts Q3 margin decline as network sales drop 4%
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6015
+related_stories: []
 ---
-
 ## GXO targets data centers and defense customers as third-quarter profit climbs 8%
 
 **Subtype:** fact
