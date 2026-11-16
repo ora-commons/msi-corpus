@@ -2,8 +2,17 @@
 headline: Immigration courts expedite hearings as 94% of asylum cases denied in June
 secondary_headline: 279 judges left the immigration bench over a two-year period
 publish_date: '2026-11-16'
-lede: Federal immigration courts across the United States are pulling hearing dates forward on short notice, sending cases to judges far from where migrants live, and moving them to conclusion faster, immigration attorneys say. Asylum cases were denied at a 94% rate in June, according to the Transactional Records Access Clearinghouse, while 279 immigration judges — 38% of the bench — resigned or were fired between October 2024 and the end of September 2026. The government refers to the immigration judge role as "deportation judges" in some of its recruitment literature.
-nut_graf: The pace of immigration-court proceedings bears directly on whether applicants can obtain counsel and assemble an asylum record, and the loss of 279 judges — 38% of the bench — over two years has coincided with expedited dockets, remote adjudication of children's cases, and a June denial rate of 94%, attorneys said.
+lede: Federal immigration courts across the United States are pulling hearing dates
+  forward on short notice, sending cases to judges far from where migrants live, and
+  moving them to conclusion faster, immigration attorneys say. Asylum cases were denied
+  at a 94% rate in June, according to the Transactional Records Access Clearinghouse,
+  while 279 immigration judges — 38% of the bench — resigned or were fired between
+  October 2024 and the end of September 2026. The government refers to the immigration
+  judge role as "deportation judges" in some of its recruitment literature.
+nut_graf: The pace of immigration-court proceedings bears directly on whether applicants
+  can obtain counsel and assemble an asylum record, and the loss of 279 judges — 38%
+  of the bench — over two years has coincided with expedited dockets, remote adjudication
+  of children's cases, and a June denial rate of 94%, attorneys said.
 primary_entities:
 - United States
 - Transactional Records Access Clearinghouse
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,104 +75,44 @@ related_stories:
   headline: Supreme Court expects to decide asylum ban case by end of June
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6886
+  strength: 0.6873
 - slug: 2026-11-05-secret-u-s--iran-talks-on-deportations-continued-during-the-war
   headline: Secret U.S.-Iran talks on deportations continued during the war
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6867
-- slug: 2026-10-01-justices-to-decide-legality-of-indefinite-immigrant-detention-under-1996-law
-  headline: Justices to decide legality of indefinite immigrant detention under 1996 law
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.674
-- slug: 2026-09-18-trump-administration-funnels-most-unaccompanied-children-to-texas-courts
-  headline: Trump administration funnels most unaccompanied children to Texas courts
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7038
+  strength: 0.6863
 - slug: 2026-09-21-ice-removes-detainees-with-final-removal-orders-from-online-locator
   headline: ICE removes detainees with final removal orders from online locator
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6939
+  strength: 0.6969
+- slug: 2026-09-18-trump-administration-funnels-most-unaccompanied-children-to-texas-courts
+  headline: Trump administration funnels most unaccompanied children to Texas courts
+  publish_date: '2026-09-18'
+  relation: related
+  strength: 0.7018
 - slug: 2026-09-02-trump-mega-master-hearings-bring-100-case-dockets-to-miami-immigration-court
-  headline: Trump "mega master" hearings bring 100-case dockets to Miami immigration court
+  headline: Trump "mega master" hearings bring 100-case dockets to Miami immigration
+    court
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.7382
-- slug: 2026-09-21-appeals-court-rules-third-country-deportation-policy-unlawful
-  headline: Appeals court rules third-country deportation policy unlawful
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6782
+  strength: 0.7388
 - slug: 2026-09-17-40-of-pediatricians-see-families-avoiding-care-over-immigration-concerns
   headline: 40% of pediatricians see families avoiding care over immigration concerns
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6877
+  strength: 0.6881
+- slug: 2026-09-21-appeals-court-rules-third-country-deportation-policy-unlawful
+  headline: Appeals court rules third-country deportation policy unlawful
+  publish_date: '2026-09-21'
+  relation: related
+  strength: 0.6768
 - slug: 2026-09-04-immigration-hearings-relocated-to-undisclosed-buildings-attorneys-say
   headline: Immigration hearings relocated to undisclosed buildings, attorneys say
   publish_date: '2026-09-04'
   relation: related
-  strength: 0.7172
-- slug: 2026-08-09-none-of-57-immigrants-on-sacramento-immigration-court-docket-has-a-lawyer
-  headline: None of 57 immigrants on Sacramento immigration court docket has a lawyer
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6993
-- slug: 2026-06-10-san-francisco-immigration-court-shuts-down-disrupting-100-000-cases
-  headline: San Francisco immigration court shuts down, disrupting 100,000 cases
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7435
-- slug: 2026-05-07-justice-department-targets-slow-immigration-judges-to-clear-immigration-backlog
-  headline: Justice Department targets slow immigration judges to clear immigration backlog
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.7424
-- slug: 2026-05-06-doj-targets-slow-immigration-judges-as-trump-pushes-to-cut-backlog
-  headline: DOJ targets slow immigration judges as Trump pushes to cut backlog
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.7387
-- slug: 2026-05-22-ex-judges-warn-federal-pressure-is-eroding-immigration-court-independence
-  headline: Ex-judges warn federal pressure is eroding immigration court independence
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7259
-- slug: 2026-05-22-turmoil-shuts-san-francisco-immigration-court-leaving-asylum-cases-in-limbo
-  headline: Turmoil shuts San Francisco immigration court, leaving asylum cases in limbo
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7178
-- slug: 2026-05-23-san-francisco-immigration-court-closes-as-judges-are-fired-retired-or-resign
-  headline: San Francisco immigration court closes as judges are fired, retired or resign
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7081
-- slug: 2026-07-06-trump-administration-immigration-changes-reach-spouses-of-u-s-citizens-lawyers-s
-  headline: Trump administration immigration changes reach spouses of U.S. citizens, lawyers say
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.675
-- slug: 2026-05-22-ex-judges-warn-federal-micromanaging-is-destabilizing-massachusetts-immigration-
-  headline: Ex-judges warn federal “micromanaging” is destabilizing Massachusetts immigration courts
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6975
-- slug: 2026-05-10-backlog-leaves-detainees-waiting-19-months-for-their-day-in-honolulu-court
-  headline: Backlog leaves detainees waiting 19 months for their day in Honolulu court
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7013
-- slug: 2026-06-23-appeals-court-allows-trump-to-fast-track-deportations-nationwide
-  headline: Appeals court allows Trump to fast-track deportations nationwide
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6776
+  strength: 0.7183
 ---
-
 ## Immigration courts expedite hearings as 94% of asylum cases denied in June
 
 **Subtype:** fact
