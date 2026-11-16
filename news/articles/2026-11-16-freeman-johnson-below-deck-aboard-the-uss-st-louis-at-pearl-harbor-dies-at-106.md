@@ -43,7 +43,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -188,3 +188,10 @@ For all the attention to Pearl Harbor, the gruff Johnson, who was known for his 
 **Publication date:** 2026-11-16
 **Title:** Freeman Johnson, the oldest of the dwindling number of Pearl Harbor survivors, dies at 106
 **URL:** https://www.pbs.org/newshour/nation/freeman-johnson-the-oldest-of-the-dwindling-number-of-pearl-harbor-survivors-dies-at-106
+
+### src_late_8a1c48c6f6f915d2 — Associated Press, wire, Tier 1, originating
+**Author:** Michael Casey
+**Publication date:** 2026-11-16
+**Title:** Freeman Johnson, the oldest of the few Pearl Harbor survivors, dies at 106
+**URL:** https://apnews.com/article/freeman-johnson-dies-pearl-harbor-survivor-4b54100cfdfefc2506fa5e9a50cc1a47
+**Added after publication:** true

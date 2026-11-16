@@ -60,11 +60,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - Associated Press
   - PBS News
   outlet_classes:
   - public_broadcaster
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -262,3 +264,10 @@ U.S. Central Command, which oversees military operations in the Middle East, sai
 **Publication date:** 2026-11-16
 **Title:** Third U.S. aircraft carrier in Middle East as Trump keeps options open in Iran war
 **URL:** https://www.pbs.org/newshour/world/third-u-s-aircraft-carrier-in-middle-east-as-trump-keeps-options-open-in-iran-war
+
+### src_late_8abddfd1d2827ecc — Associated Press, wire, Tier 1, originating
+**Author:** Ben Finley
+**Publication date:** 2026-11-16
+**Title:** Third US aircraft carrier arrives in the Middle East
+**URL:** https://apnews.com/article/us-iran-war-aircraft-carrier-middle-east-9858fc82c61c7a1d159e7bba72afe99a
+**Added after publication:** true
