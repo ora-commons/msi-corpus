@@ -80,6 +80,8 @@ related_stories:
   publish_date: '2026-09-29'
   relation: related
   strength: 0.6506
+analyses:
+- '2026-11-15-acorn-concessions-vary-in-binding-strength-across-four-water-firms'
 ---
 ## Acorn wins bailiff and AI concessions from four UK water firms
 
@@ -126,3 +128,8 @@ The Guardian said it contacted Yorkshire Water, Severn Trent, United Utilities, 
 **Publication date:** 2026-11-15
 **Title:** ‘Nobody else is going to save us’: the direct action group taking on the UK’s banks, bailiffs and water firms
 **URL:** https://www.theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms
+
+---
+
+<!-- analysis-link:2026-11-15-acorn-concessions-vary-in-binding-strength-across-four-water-firms -->
+**Going deeper:** [Read MSI's analysis of Acorn's water-firm concessions →](/analyses/2026-11-15-acorn-concessions-vary-in-binding-strength-across-four-water-firms)
