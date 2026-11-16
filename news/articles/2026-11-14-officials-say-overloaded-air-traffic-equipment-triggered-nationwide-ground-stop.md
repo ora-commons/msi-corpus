@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.8134
+analyses:
+- '2026-11-14-officials-trace-ground-stop-to-seam-where-fiber-work-met-legacy-equipment'
 ---
 ## Officials say overloaded air traffic equipment triggered nationwide ground stop
 
@@ -253,3 +255,8 @@ Michael McCormick, a former airspace manager with the FAA, said it could take da
 **Publication date:** 2026-11-14
 **Title:** Why a communications failure can ground flights across America
 **URL:** https://apnews.com/article/ground-stop-air-traffic-control-0a71f6d3b52f9087105ebea7c527bdd7
+
+---
+
+<!-- analysis-link:2026-11-14-officials-trace-ground-stop-to-seam-where-fiber-work-met-legacy-equipment -->
+**Going deeper:** [Read MSI's analysis of Friday's nationwide ground stop →](/analyses/2026-11-14-officials-trace-ground-stop-to-seam-where-fiber-work-met-legacy-equipment)

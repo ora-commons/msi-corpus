@@ -198,6 +198,8 @@ related_stories:
   publish_date: '2026-11-08'
   relation: related
   strength: 0.7054
+analyses:
+- '2026-11-15-route-choice-not-ideology-organizes-democrats-pay-for-divide'
 ---
 ## Democrats debate tax increases to cover multitrillion-dollar agenda
 
@@ -258,3 +260,8 @@ Beyond that, a strict focus on making individual bills budget-neutral can miss t
 **Publication date:** 2026-11-15
 **Title:** Democrats Torn Over Floating New Taxes to Cover Multitrillion-Dollar Agenda
 **URL:** https://www.wsj.com/politics/democrats-torn-over-floating-new-taxes-to-cover-multitrillion-dollar-agenda-0d3293fa
+
+---
+
+<!-- analysis-link:2026-11-15-route-choice-not-ideology-organizes-democrats-pay-for-divide -->
+**Going deeper:** [Read MSI's analysis of Democrats' pay-for divide and route choice →](/analyses/2026-11-15-route-choice-not-ideology-organizes-democrats-pay-for-divide)

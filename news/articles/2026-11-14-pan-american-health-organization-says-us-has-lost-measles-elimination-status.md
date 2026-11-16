@@ -56,10 +56,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - NPR
+  - News From The States
   outlet_classes:
+  - nonprofit
   - public_broadcaster
   highest_reliability_tier: 1
   has_originating: true
@@ -283,3 +285,10 @@ Paul Rota, a microbiologist and former CDC official, said regaining elimination 
 **Publication date:** 2026-11-14
 **Title:** US has lost measles elimination status, global health authorities say
 **URL:** https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho
+
+### src_late_5d86c43f9123833a — News From The States, nonprofit, Tier 1, originating
+**Author:** Amy Maxmen
+**Publication date:** 2026-11-16
+**Title:** US Has Lost Measles Elimination Status, Global Health Authorities Say
+**URL:** https://www.newsfromthestates.com/article/us-has-lost-measles-elimination-status-global-health-authorities-say
+**Added after publication:** true
