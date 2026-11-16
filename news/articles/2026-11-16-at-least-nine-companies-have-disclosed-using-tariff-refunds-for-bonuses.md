@@ -2,8 +2,21 @@
 headline: At least nine companies have disclosed using tariff refunds for bonuses
 secondary_headline: Consumers largely left out of roughly $170 billion refund pool
 publish_date: '2026-11-16'
-lede: At least nine publicly traded companies have disclosed that they are using refunds from the tariffs the Supreme Court struck down for bonuses rather than to repay consumers who generally covered much of the tariff costs through higher prices, according to a ProPublica analysis of thousands of securities filings and earnings calls published Nov. 16, 2026. Stanley Black & Decker, which raised prices repeatedly last year while citing the tariffs, is getting at least $298 million refunded. The Trump administration has not publicly detailed which companies are receiving the roughly $170 billion in refunds and has denied ProPublica's requests for that information.
-nut_graf: The refunds follow the Supreme Court's ruling earlier this year that Trump needed congressional approval for his sweeping tariffs, and only the direct payers of the duties — the "importers of record" — may apply. Businesses and consumers who took a hit downstream are not eligible. Neither the administration nor Congress has placed constraints on how companies spend the money, so the distribution of roughly $170 billion turns on corporate discretion, disclosure and a series of consumer lawsuits.
+lede: At least nine publicly traded companies have disclosed that they are using refunds
+  from the tariffs the Supreme Court struck down for bonuses rather than to repay
+  consumers who generally covered much of the tariff costs through higher prices,
+  according to a ProPublica analysis of thousands of securities filings and earnings
+  calls published Nov. 16, 2026. Stanley Black & Decker, which raised prices repeatedly
+  last year while citing the tariffs, is getting at least $298 million refunded. The
+  Trump administration has not publicly detailed which companies are receiving the
+  roughly $170 billion in refunds and has denied ProPublica's requests for that information.
+nut_graf: The refunds follow the Supreme Court's ruling earlier this year that Trump
+  needed congressional approval for his sweeping tariffs, and only the direct payers
+  of the duties — the "importers of record" — may apply. Businesses and consumers
+  who took a hit downstream are not eligible. Neither the administration nor Congress
+  has placed constraints on how companies spend the money, so the distribution of
+  roughly $170 billion turns on corporate discretion, disclosure and a series of consumer
+  lawsuits.
 primary_entities:
 - ProPublica
 - Stanley Black & Decker
@@ -52,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,108 +164,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-29-trump-administration-promises-tariff-relief-to-automakers-investing-in-u-s
-  headline: Trump administration promises tariff relief to automakers investing in U.S.
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6704
 - slug: 2026-10-23-u-s-importers-not-foreign-countries-pay-trump-s-canada-tariffs
   headline: U.S. importers, not foreign countries, pay Trump's Canada tariffs
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6865
+  strength: 0.6864
 - slug: 2026-10-09-brands-direct-tariff-refunds-toward-holiday-marketing
   headline: Brands direct tariff refunds toward holiday marketing
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7286
+  strength: 0.729
 - slug: 2026-10-05-walmart-apple-receive-billions-in-tariff-refunds-as-small-shippers-wait
   headline: Walmart, Apple receive billions in tariff refunds as small shippers wait
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6886
+  strength: 0.6887
 - slug: 2026-08-28-most-tariff-refunds-flow-to-businesses-as-consumer-repayment-lags
   headline: Most tariff refunds flow to businesses as consumer repayment lags
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7785
+  strength: 0.7797
 - slug: 2026-08-13-over-40-s-p-500-firms-report-9-6-billion-in-tariff-refunds
   headline: Over 40 S&P 500 firms report $9.6 billion in tariff refunds
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.7725
+  strength: 0.7728
 - slug: 2026-06-01-trump-administration-appeals-federal-order-allowing-all-importers-to-seek-tariff
-  headline: Trump administration appeals federal order allowing all importers to seek tariff refunds
+  headline: Trump administration appeals federal order allowing all importers to seek
+    tariff refunds
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.719
+  strength: 0.7192
 - slug: 2026-06-14-for-us-small-businesses-trump-s-tariffs-become-a-non-issue-consultant-says
-  headline: For US small businesses, Trump's tariffs become a non-issue, consultant says
+  headline: For US small businesses, Trump's tariffs become a non-issue, consultant
+    says
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.6966
+  strength: 0.6957
 - slug: 2026-02-21-after-supreme-court-voids-trump-tariffs-133-billion-refund-puzzle-looms
   headline: After Supreme Court voids Trump tariffs, $133 billion refund puzzle looms
   publish_date: '2026-02-21'
   relation: related
-  strength: 0.7221
-- slug: 2026-04-19-refund-system-opens-for-tariffs-trump-imposed-without-authority
-  headline: Refund system opens for tariffs Trump imposed without authority
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.71
-- slug: 2026-04-10-tax-refunds-rise-24-as-trump-administration-cites-new-deductions
-  headline: Tax refunds rise 24% as Trump administration cites new deductions
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7044
-- slug: 2026-04-29-gm-expects-500-million-refund-from-trump-tariffs-struck-down-by-supreme-court
-  headline: GM expects $500 million refund from Trump tariffs struck down by Supreme Court
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6995
-- slug: 2026-04-15-53-million-filers-claimed-trump-tax-breaks-average-refund-rose-11-treasury-says
-  headline: 53 million filers claimed Trump tax breaks; average refund rose 11%, Treasury says
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7024
-- slug: 2026-02-27-fedex-pledges-to-return-tariff-refunds-to-shippers-and-customers
-  headline: FedEx pledges to return tariff refunds to shippers and customers
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7029
-- slug: 2026-02-19-tariffs-paid-by-midsize-u-s-firms-tripled-last-year-jpmorgan-study-says
-  headline: Tariffs paid by midsize U.S. firms tripled last year, JPMorgan study says
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6957
-- slug: 2026-03-04-federal-court-rejects-trump-bid-to-slow-tariff-refunds
-  headline: Federal court rejects Trump bid to slow tariff refunds
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6928
-- slug: 2026-02-23-supreme-court-tariff-ruling-leaves-trade-policy-uncertainty-for-businesses
-  headline: Supreme Court tariff ruling leaves trade policy uncertainty for businesses
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6936
-- slug: 2026-02-21-businesses-brace-for-uncertain-trade-policy-after-supreme-court-tariff-ruling
-  headline: Businesses brace for uncertain trade policy after Supreme Court tariff ruling
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6914
-- slug: 2026-05-21-walmart-to-use-tariff-refunds-for-price-cuts-as-shoppers-weigh-gas-costs
-  headline: Walmart to use tariff refunds for price cuts as shoppers weigh gas costs
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6732
-- slug: 2026-02-20-tariffs-paid-by-midsize-u-s-companies-tripled-last-year-a-new-study-shows
-  headline: Tariffs paid by midsize U.S. companies tripled last year, a new study shows
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6895
+  strength: 0.7219
 ---
-
 ## At least nine companies have disclosed using tariff refunds for bonuses
 
 **Subtype:** fact
