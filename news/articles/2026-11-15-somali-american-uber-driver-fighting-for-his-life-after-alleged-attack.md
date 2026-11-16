@@ -2,8 +2,16 @@
 headline: Somali-American Uber driver fighting for his life after alleged attack
 secondary_headline: Hopkins police took a male suspect into custody early Saturday
 publish_date: '2026-11-15'
-lede: A Somali-American Uber driver is hospitalized and fighting for his life after a passenger allegedly choked him from behind, seized control of his vehicle and used it to assault him early Saturday in Hopkins, a suburb south-west of Minneapolis. Mohamed Yusuf's family says the attack "appears to be a hate crime," and Hopkins police say they took an adult male suspect into custody nearby.
-nut_graf: The alleged assault is being investigated by Hopkins police, and it lands amid heated political rhetoric about Somali Americans in Minnesota. Family members, a state senator, a ride-share labor union and the Council on American-Islamic Relations' Minnesota chapter are all publicly responding to the attack, while Uber says it has banned the rider from its platform.
+lede: A Somali-American Uber driver is hospitalized and fighting for his life after
+  a passenger allegedly choked him from behind, seized control of his vehicle and
+  used it to assault him early Saturday in Hopkins, a suburb south-west of Minneapolis.
+  Mohamed Yusuf's family says the attack "appears to be a hate crime," and Hopkins
+  police say they took an adult male suspect into custody nearby.
+nut_graf: The alleged assault is being investigated by Hopkins police, and it lands
+  amid heated political rhetoric about Somali Americans in Minnesota. Family members,
+  a state senator, a ride-share labor union and the Council on American-Islamic Relations'
+  Minnesota chapter are all publicly responding to the attack, while Uber says it
+  has banned the rider from its platform.
 primary_entities:
 - Mohamed Yusuf
 - Hopkins
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +148,8 @@ cross_article_links:
   strength: 0.5925
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-24-ebro-ahmed-stops-runaway-school-bus-after-driver-s-medical-emergency
-  headline: Ebro Ahmed stops runaway school bus after driver's medical emergency
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.625
-- slug: 2026-10-28-trump-attacks-el-sayed-and-omar-as-his-midterm-rally-blitz-continues
-  headline: Trump attacks El-Sayed and Omar as his midterm rally blitz continues
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5918
-- slug: 2026-10-12-partisan-clash-erupts-over-omar-home-search-ahead-of-midterms
-  headline: Partisan clash erupts over Omar home search ahead of midterms
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6164
-- slug: 2026-10-12-homan-disclosed-omar-as-dhs-investigation-target-on-fox-before-home-search
-  headline: Homan disclosed Omar as DHS investigation target on Fox before home search
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6022
-- slug: 2026-10-15-federal-agents-search-omar-s-washington-home-in-federal-probe
-  headline: Federal agents search Omar's Washington home in federal probe
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5895
-- slug: 2026-10-12-federal-agents-search-rep-ilhan-omar-s-washington-home-in-criminal-probe
-  headline: Federal agents search Rep. Ilhan Omar's Washington home in criminal probe
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5914
-- slug: 2026-09-18-suspect-charged-with-attempted-murder-in-stabbing-of-sikh-truck-driver-in-wyomin
-  headline: Suspect charged with attempted murder in stabbing of Sikh truck driver in Wyoming
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6244
-- slug: 2026-09-26-omar-denies-brother-marriage-allegation-as-dhs-chief-cites-federal-probe
-  headline: Omar denies brother-marriage allegation as DHS chief cites federal probe
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.601
-- slug: 2026-09-18-uber-arbitration-documents-name-luna-moore-identify-73-freeway
-  headline: Uber arbitration documents name Luna Moore, identify 73 freeway
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5972
-- slug: 2026-08-15-man-faces-hate-crime-charges-after-disrupting-manhattan-synagogue-service
-  headline: Man faces hate crime charges after disrupting Manhattan synagogue service
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5956
-- slug: 2026-07-23-nypd-investigating-upper-west-side-stabbings-as-possible-hate-crime
-  headline: NYPD investigating Upper West Side stabbings as possible hate crime
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6022
-- slug: 2026-06-04-violence-erupts-in-somalia-s-capital-over-president-s-extended-term
-  headline: Violence erupts in Somalia’s capital over president’s extended term
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6045
-- slug: 2025-12-30-federal-officers-expand-minnesota-probe-after-allegations-at-somali-run-day-care
-  headline: Federal officers expand Minnesota probe after allegations at Somali-run day cares
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6212
-- slug: 2025-12-29-federal-investigation-surge-in-minnesota-targets-alleged-somali-run-child-fraud
-  headline: Federal investigation surge in Minnesota targets alleged Somali-run child fraud
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6126
-- slug: 2025-12-31-federal-investigations-in-minnesota-focus-on-alleged-day-care-fraud-linked-to-so
-  headline: Federal investigations in Minnesota focus on alleged day care fraud linked to Somali residents
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6059
-- slug: 2025-12-29-homeland-security-says-it-is-investigating-fraud-in-minneapolis
-  headline: Homeland Security says it is investigating fraud in Minneapolis
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.601
-- slug: 2026-01-16-disabled-u-s-citizen-dragged-from-car-by-ice-agents-in-minneapolis-hospitalized
-  headline: Disabled U.S. citizen dragged from car by ICE agents in Minneapolis, hospitalized
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6002
-- slug: 2026-01-18-ice-enforcement-empties-minneapolis-somali-businesses-as-fear-spreads
-  headline: ICE enforcement empties Minneapolis Somali businesses as fear spreads
-  publish_date: '2026-01-18'
-  relation: related
-  strength: 0.5993
-- slug: 2026-01-29-suspect-in-ilhan-omar-spray-attack-made-pro-trump-posts
-  headline: Suspect in Ilhan Omar spray attack made pro-Trump posts
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.5958
-- slug: 2026-01-31-newsom-files-civil-rights-complaint-against-dr-oz-in-trump-feud
-  headline: Newsom files civil rights complaint against Dr. Oz in Trump feud
-  publish_date: '2026-01-31'
-  relation: related
-  strength: 0.5938
+related_stories: []
 ---
-
 ## Somali-American Uber driver fighting for his life after alleged attack
 
 **Subtype:** fact

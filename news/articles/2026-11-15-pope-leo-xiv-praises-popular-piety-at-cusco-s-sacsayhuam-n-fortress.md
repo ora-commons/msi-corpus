@@ -2,8 +2,20 @@
 headline: Pope Leo XIV praises popular piety at Cusco's Sacsayhuamán fortress
 secondary_headline: Pope Leo XIV shows no fatigue as trip becomes longest of pontificate
 publish_date: '2026-11-15'
-lede: Pope Leo XIV praised the traditional expression of popular piety — including processions and religious festivals — as effective ways of forging community and transmitting the faith, speaking on Sunday, Nov. 15, 2026, from the grounds of Cusco's historic Incan fortress, Sacsayhuamán. Huge crowds lined the Andean city's cobblestoned streets and packed its central Plaza de Armas on the penultimate day of Leo's 12-day trip to South America, during which he also led the Angelus prayer outside Cusco Cathedral. The visit to Cusco, 3,400 meters above sea level, tested the stamina of the 71-year-old pope as he continues recovering from lung cancer surgery.
-nut_graf: On the penultimate day of his visit to his adopted homeland, Leo emphasized Catholic teaching that links care for the most vulnerable with care for God's creation, channeling Pope Francis — continuing the Catholic teaching on care for the vulnerable and care for creation that his predecessor, Pope Francis, emphasized. The stop in Pucallpa brings the pope face to face with illegal gold mining that devastates forests, pollutes rivers and encroaches on Indigenous territories.
+lede: Pope Leo XIV praised the traditional expression of popular piety — including
+  processions and religious festivals — as effective ways of forging community and
+  transmitting the faith, speaking on Sunday, Nov. 15, 2026, from the grounds of Cusco's
+  historic Incan fortress, Sacsayhuamán. Huge crowds lined the Andean city's cobblestoned
+  streets and packed its central Plaza de Armas on the penultimate day of Leo's 12-day
+  trip to South America, during which he also led the Angelus prayer outside Cusco
+  Cathedral. The visit to Cusco, 3,400 meters above sea level, tested the stamina
+  of the 71-year-old pope as he continues recovering from lung cancer surgery.
+nut_graf: On the penultimate day of his visit to his adopted homeland, Leo emphasized
+  Catholic teaching that links care for the most vulnerable with care for God's creation,
+  channeling Pope Francis — continuing the Catholic teaching on care for the vulnerable
+  and care for creation that his predecessor, Pope Francis, emphasized. The stop in
+  Pucallpa brings the pope face to face with illegal gold mining that devastates forests,
+  pollutes rivers and encroaches on Indigenous territories.
 primary_entities:
 - Pope Leo XIV
 - Peru
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,113 +156,57 @@ related_stories:
   headline: Pope Leo XIV heads to Andes and Amazon on Peru visit
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7499
+  strength: 0.7497
 - slug: 2026-11-13-pope-leo-xiv-returns-to-former-diocese-of-chiclayo-in-peru
   headline: Pope Leo XIV returns to former diocese of Chiclayo in Peru
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7033
+  strength: 0.7025
 - slug: 2026-11-11-pope-leo-xiv-returns-to-peru-for-final-leg-of-south-american-tour
   headline: Pope Leo XIV returns to Peru for final leg of South American tour
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7047
+  strength: 0.7033
 - slug: 2026-11-14-pope-leo-xiv-prays-for-end-to-violence-as-peru-crime-surges
   headline: Pope Leo XIV prays for end to violence as Peru crime surges
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.671
+  strength: 0.6699
 - slug: 2026-11-13-chiclayo-residents-recall-father-robert-prevost-s-charity-and-pandemic-outreach
-  headline: Chiclayo residents recall Father Robert Prevost's charity and pandemic outreach
+  headline: Chiclayo residents recall Father Robert Prevost's charity and pandemic
+    outreach
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6631
-- slug: 2026-11-15-pope-leo-makes-the-argentine-homecoming-francis-never-attempted
-  headline: Pope Leo makes the Argentine homecoming Francis never attempted
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6482
+  strength: 0.6624
 - slug: 2026-11-14-pope-leo-xiv-to-visit-za-a-peru-s-hub-of-afro-peruvian-culture
   headline: Pope Leo XIV to visit Zaña, Peru's hub of Afro-Peruvian culture
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.6514
+  strength: 0.6504
 - slug: 2026-11-12-pope-leo-xiv-denounces-machismo-violence-against-women-peru-homecoming
   headline: Pope Leo XIV denounces machismo, violence against women on Peru homecoming
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6648
+  strength: 0.6634
 - slug: 2026-11-11-pope-leo-xiv-plans-devoto-prison-visit-and-mass-before-peru-return
   headline: Pope Leo XIV plans Devoto Prison visit and Mass before Peru return
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6712
-- slug: 2026-11-09-pope-leo-xiv-visits-argentine-care-home-urges-protection-of-the-vulnerable
-  headline: Pope Leo XIV visits Argentine care home, urges protection of the vulnerable
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6577
-- slug: 2026-11-09-pope-leo-xiv-urges-church-community-and-state-to-work-together-in-uruguay
-  headline: Pope Leo XIV urges church, community and state to work together in Uruguay
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.654
-- slug: 2026-11-09-pope-leo-tells-milei-the-economy-should-serve-people
-  headline: Pope Leo tells Milei the economy should serve people
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6396
-- slug: 2026-11-06-pope-leo-xiv-says-he-is-proud-to-be-an-american-after-midterm-vote
-  headline: Pope Leo XIV says he is 'proud to be an American' after midterm vote
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6408
-- slug: 2026-10-27-leo-xiv-plans-several-meetings-with-clergy-abuse-survivors-in-latin-america
-  headline: Leo XIV plans several meetings with clergy abuse survivors in Latin America
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6619
-- slug: 2026-10-23-pope-leo-xiv-skips-assisi-peace-gathering-after-lung-cancer-surgery
-  headline: Pope Leo XIV skips Assisi peace gathering after lung cancer surgery
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6432
-- slug: 2026-09-28-pope-leo-xiv-plans-first-major-south-american-journey-in-uruguay
-  headline: Pope Leo XIV plans first major South American journey in Uruguay
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6711
-- slug: 2026-09-26-pope-leo-tells-paris-crowd-faith-not-material-things-brings-happiness
-  headline: Pope Leo tells Paris crowd faith, not material things, brings happiness
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6504
-- slug: 2026-08-22-pope-leo-xiv-hails-san-marino-as-model-of-freedom-and-civic-responsibility
-  headline: Pope Leo XIV hails San Marino as model of freedom and civic responsibility
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6503
-- slug: 2026-04-21-pope-leo-recalls-francis-s-legacy-of-mercy-and-solidarity-on-anniversary
-  headline: Pope Leo recalls Francis’s legacy of mercy and solidarity on anniversary
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6829
-- slug: 2026-04-04-pope-leo-xiv-carries-cross-for-full-way-of-the-cross-at-colosseum
-  headline: Pope Leo XIV carries cross for full Way of the Cross at Colosseum
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6634
+  strength: 0.6695
 image:
   url: /articles/2026-11-15-pope-leo-xiv-praises-popular-piety-at-cusco-s-sacsayhuam-n-fortress.png
-  alt: "Illustration accompanying article: Pope Leo XIV praises popular piety at Cusco's Sacsayhuamán fortress"
+  alt: 'Illustration accompanying article: Pope Leo XIV praises popular piety at Cusco''s
+    Sacsayhuamán fortress'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Pope Leo XIV praises popular piety at Cusco's Sacsayhuamán fortress
 
 **Subtype:** fact
