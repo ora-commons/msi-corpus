@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-10-27'
   relation: related
   strength: 0.7235
+analyses:
+- '2026-11-16-asia-s-chip-equipment-selloff-traces-back-to-nvidia-leadership-turmoil'
 ---
 ## Advantest and Lasertec slide as U.S. chip-maker selloff spreads to Asia
 
@@ -238,3 +240,8 @@ Front-month West Texas Intermediate crude oil futures fell 0.4% to $88.20 a barr
 **Publication date:** 2026-11-16
 **Title:** Asian Equities Fall as U.S. Chip-Maker Share Selloff Spills Over
 **URL:** https://www.wsj.com/finance/stocks/asian-equities-fall-as-u-s-chip-maker-share-selloff-spills-over-f6edc8d5
+
+---
+
+<!-- analysis-link:2026-11-16-asia-s-chip-equipment-selloff-traces-back-to-nvidia-leadership-turmoil -->
+**Going deeper:** [Read MSI's analysis of Asia's chip-equipment selloff →](/analyses/2026-11-16-asia-s-chip-equipment-selloff-traces-back-to-nvidia-leadership-turmoil)
