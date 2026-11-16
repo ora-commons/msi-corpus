@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-09-29'
   relation: related
   strength: 0.7261
+analyses:
+- '2026-11-16-carney-s-china-fallback-redistributes-bargaining-weight-before-shenzhen-talks'
 ---
 ## Carney says Canada could turn to Chinese automakers if US talks fail
 
@@ -246,3 +248,8 @@ Carney said Saturday that he had spoken at length with Trump and senior U.S. off
 **Title:** Carney says Canada could turn to Chinese automakers if Trump trade talks fail
 **URL:** https://apnews.com/article/canada-carney-trump-china-trade-autos-cbb2d3f90eed95925ffa4cb9a4b25239
 **Added after publication:** true
+
+---
+
+<!-- analysis-link:2026-11-16-carney-s-china-fallback-redistributes-bargaining-weight-before-shenzhen-talks -->
+**Going deeper:** [Read MSI's analysis of Carney's China auto fallback →](/analyses/2026-11-16-carney-s-china-fallback-redistributes-bargaining-weight-before-shenzhen-talks)
