@@ -60,11 +60,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 3
   outlets:
   - Associated Press
   - PBS News
+  - The Guardian
   outlet_classes:
+  - national_daily
   - public_broadcaster
   - wire
   highest_reliability_tier: 1
@@ -270,4 +272,10 @@ U.S. Central Command, which oversees military operations in the Middle East, sai
 **Publication date:** 2026-11-16
 **Title:** Third US aircraft carrier arrives in the Middle East
 **URL:** https://apnews.com/article/us-iran-war-aircraft-carrier-middle-east-9858fc82c61c7a1d159e7bba72afe99a
+**Added after publication:** true
+
+### src_late_ca89adf20e18c0d6 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-16
+**Title:** Third US aircraft carrier brings thousands more troops to Middle East
+**URL:** https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military
 **Added after publication:** true
