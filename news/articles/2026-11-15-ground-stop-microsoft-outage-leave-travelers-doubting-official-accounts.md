@@ -61,7 +61,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -248,3 +248,10 @@ Associated Press journalists Elliot Spagat in San Diego, Ali Swenson in Chicago,
 **Publication date:** 2026-11-15
 **Title:** Grounded jets, Microsoft outage, AI chaos make some wonder
 **URL:** https://apnews.com/article/flights-grounded-microsoft-ai-chaos-ea5f7a1f95a38f65dd57e58cfc17672b
+
+### src_late_5b125ce7a359791c — Associated Press, wire, Tier 1, originating
+**Author:** Tim Sullivan, Associated Press
+**Publication date:** 2026-11-15
+**Title:** Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder
+**URL:** https://www.pbs.org/newshour/nation/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder
+**Added after publication:** true
