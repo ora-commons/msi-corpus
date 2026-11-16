@@ -55,7 +55,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -220,3 +220,10 @@ China's push for technological self-reliance may have contributed to a reluctanc
 **Publication date:** 2026-11-14
 **Title:** The Nvidia scandal is heightening America's AI rivalry with China
 **URL:** https://apnews.com/article/nvidia-trump-xi-huang-ai-rivalry-aba7f92a1ec2f0f9e4b4da206d640d61
+
+### src_late_86509ffe28beb39a — Associated Press, wire, Tier 1, originating
+**Author:** Chan Ho-him, Associated Press
+**Publication date:** 2026-11-16
+**Title:** The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit
+**URL:** https://www.pbs.org/newshour/world/the-nvidia-scandal-is-heightening-americas-ai-rivalry-with-china-ahead-of-trumps-visit
+**Added after publication:** true

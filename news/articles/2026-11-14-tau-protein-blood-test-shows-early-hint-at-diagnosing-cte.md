@@ -53,7 +53,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -189,3 +189,10 @@ The findings were published late Friday by the medical journal JAMA and presente
 **Publication date:** 2026-11-14
 **Title:** Small study finds a hint that an Alzheimer’s protein may help diagnose CTE
 **URL:** https://apnews.com/article/cte-brain-injury-tau-protein-football-2fd428988e71c07af65c1aa564164c74
+
+### src_late_6883ba6bed0dd80e — Associated Press, wire, Tier 1, originating
+**Author:** Lauran Neergaard, Associated Press
+**Publication date:** 2026-11-16
+**Title:** Preliminary study finds a clue in the quest to help diagnose CTE in the living
+**URL:** https://www.pbs.org/newshour/science/preliminary-study-finds-a-clue-in-the-quest-to-help-diagnose-cte-in-the-living
+**Added after publication:** true
