@@ -214,6 +214,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-16-faa-s-smart-clearing-statements-leave-guardrail-questions-open'
 ---
 ## Officials say FAA's new AI system did not cause ground stop
 
@@ -257,3 +259,8 @@ In an October interview with NPR, ASI co-founder and CEO Phillip Buckendorf said
 **Publication date:** 2026-11-16
 **Title:** Officials say airline ground stop not linked to new FAA AI system
 **URL:** https://apnews.com/article/faa-smart-ai-outage-08af345749c81fd8364299cd75275fa6
+
+---
+
+<!-- analysis-link:2026-11-16-faa-s-smart-clearing-statements-leave-guardrail-questions-open -->
+**Going deeper:** [Read MSI's analysis of FAA SMART rollout and open questions →](/analyses/2026-11-16-faa-s-smart-clearing-statements-leave-guardrail-questions-open)

@@ -2,8 +2,17 @@
 headline: Nearly half of Alaska's breeding shorebird species are declining
 secondary_headline: Pectoral sandpipers fly more than 17,000 miles a year
 publish_date: '2026-11-16'
-lede: Researchers who have tracked shorebird returns to northern Alaska for 24 years say almost half of the 41 shorebird species that breed in Alaska are declining, and warmer temperatures are throwing off the timing the birds depend on to feed their chicks. Pectoral sandpipers, which breed on Arctic tundra near Utqiaġvik, fly more than 17,000 miles a year between Alaska and Argentina without soaring or coasting on the wind.
-nut_graf: More than 12 million shorebirds migrate to Alaska each year to breed, and scientists say their long, visible journeys make them an early warning signal for environmental change across the planet. Habitat loss, drought and shifting insect emergence all feed the declines, and researcher Nathan Senner said extinction remains a possibility for many species if the declines continue.
+lede: Researchers who have tracked shorebird returns to northern Alaska for 24 years
+  say almost half of the 41 shorebird species that breed in Alaska are declining,
+  and warmer temperatures are throwing off the timing the birds depend on to feed
+  their chicks. Pectoral sandpipers, which breed on Arctic tundra near Utqiaġvik,
+  fly more than 17,000 miles a year between Alaska and Argentina without soaring or
+  coasting on the wind.
+nut_graf: More than 12 million shorebirds migrate to Alaska each year to breed, and
+  scientists say their long, visible journeys make them an early warning signal for
+  environmental change across the planet. Habitat loss, drought and shifting insect
+  emergence all feed the declines, and researcher Nathan Senner said extinction remains
+  a possibility for many species if the declines continue.
 primary_entities:
 - Rick Lanctot
 - Nathan Senner
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,117 +151,30 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-03-researchers-use-radio-tags-to-study-monarch-stopovers
-  headline: Researchers use radio tags to study monarch stopovers
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6111
-- slug: 2026-10-30-striped-bass-decline-threatens-east-coast-fishing-tradition
-  headline: Striped bass decline threatens East Coast fishing tradition
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6243
-- slug: 2026-10-30-striped-bass-decline-spurs-east-coast-anglers-to-seek-tougher-limits
-  headline: Striped bass decline spurs East Coast anglers to seek tougher limits
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6068
-- slug: 2026-09-15-researchers-document-antarctic-krill-at-deep-sea-hydrothermal-vents
-  headline: Researchers document Antarctic krill at deep-sea hydrothermal vents
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6129
-- slug: 2026-09-14-noaa-documents-nine-new-deep-sea-sponge-species-off-alaska
-  headline: NOAA documents nine new deep-sea sponge species off Alaska
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5917
-- slug: 2026-08-25-toolik-researchers-study-how-warming-reshapes-alaska-s-tundra-plants
-  headline: Toolik researchers study how warming reshapes Alaska's tundra plants
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6281
-- slug: 2026-08-26-maine-puffin-watching-cruises-sell-out-as-restored-colonies-draw-thousands
-  headline: Maine puffin-watching cruises sell out as restored colonies draw thousands
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5985
-- slug: 2026-07-01-scientists-fear-el-ni-o-will-worsen-california-seabird-die-off
-  headline: Scientists fear El Niño will worsen California seabird die-off
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6452
 - slug: 2026-01-30-galapagos-waved-albatross-spotted-off-california-researchers-puzzled
   headline: Galapagos waved albatross spotted off California, researchers puzzled
   publish_date: '2026-01-30'
   relation: related
-  strength: 0.6751
-- slug: 2026-07-20-biologists-band-american-oystercatcher-chicks-on-rhode-island-beach
-  headline: Biologists band American oystercatcher chicks on Rhode Island beach
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.605
-- slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
-  headline: Gray whales shift into San Francisco Bay; new detection system warns ships
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.629
+  strength: 0.6759
 - slug: 2026-02-28-study-finds-north-american-bird-populations-keep-dropping
   headline: Study finds North American bird populations keep dropping
   publish_date: '2026-02-28'
   relation: related
-  strength: 0.6503
-- slug: 2026-06-20-shark-encounters-rise-along-east-coast-as-populations-rebound
-  headline: Shark encounters rise along East Coast as populations rebound
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6109
-- slug: 2026-04-26-alaska-native-village-seeks-community-led-polar-bear-tourism-comeback
-  headline: Alaska Native village seeks community-led polar bear tourism comeback
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6275
-- slug: 2026-07-12-illegal-cattle-trafficking-drives-screwworm-s-rapid-northward-spread-experts-war
-  headline: Illegal cattle trafficking drives screwworm's rapid northward spread, experts warn
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5876
-- slug: 2026-03-19-warming-winters-make-hunting-ice-riskier-in-alaska-and-beyond
-  headline: Warming winters make hunting ice riskier in Alaska and beyond
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6311
-- slug: 2026-01-20-antarctic-penguins-breeding-earlier-as-climate-warms-threatening-extinction
-  headline: Antarctic penguins breeding earlier as climate warms, threatening extinction
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6342
-- slug: 2026-06-09-federal-inspectors-intercept-trafficked-wildlife-in-alaska
-  headline: Federal inspectors intercept trafficked wildlife in Alaska
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5974
-- slug: 2026-05-22-california-turns-to-ai-to-reduce-whale-ship-collisions-as-deaths-rise
-  headline: California turns to AI to reduce whale-ship collisions as deaths rise
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5946
-- slug: 2026-05-23-california-launches-ai-whale-spotting-to-reduce-ship-strikes-amid-heat-wave
-  headline: California launches AI whale spotting to reduce ship strikes amid heat wave
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5899
+  strength: 0.6514
 image:
   url: /articles/2026-11-16-nearly-half-of-alaska-s-breeding-shorebird-species-are-declining.png
-  alt: "Illustration accompanying article: Nearly half of Alaska's breeding shorebird species are declining"
+  alt: 'Illustration accompanying article: Nearly half of Alaska''s breeding shorebird
+    species are declining'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Nearly half of Alaska's breeding shorebird species are declining
 
 **Subtype:** fact

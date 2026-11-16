@@ -125,6 +125,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7338
+analyses:
+- '2026-11-15-centrist-democrats-convert-trump-district-wins-into-agenda-leverage'
 ---
 ## Centrist Democrats emerge as decisive force in new Congress
 
@@ -189,3 +191,8 @@ Adam Frisch, a two-time Colorado congressional candidate now working with the ce
 **Publication date:** 2026-11-15
 **Title:** The Centrist Forces Working to Tame the Far Left on Capitol Hill
 **URL:** https://www.wsj.com/politics/elections/the-centrist-forces-working-to-tame-the-far-left-on-capitol-hill-0f89edd3
+
+---
+
+<!-- analysis-link:2026-11-15-centrist-democrats-convert-trump-district-wins-into-agenda-leverage -->
+**Going deeper:** [Read MSI's analysis of the centrist bloc's new leverage →](/analyses/2026-11-15-centrist-democrats-convert-trump-district-wins-into-agenda-leverage)
