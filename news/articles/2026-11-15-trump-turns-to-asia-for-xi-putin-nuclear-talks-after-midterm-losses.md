@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-09-11'
   relation: related
   strength: 0.7399
+analyses:
+- '2026-11-15-weakened-leverage-and-a-smaller-chinese-arsenal-steer-trump-s-nuclear-summit-tow'
 ---
 ## Trump turns to Asia for Xi-Putin nuclear talks after midterm losses
 
@@ -250,3 +252,8 @@ The sheer number of issues hanging over Trump threatens to overshadow matters im
 **Publication date:** 2026-11-15
 **Title:** Trump seeks momentum in Asia after midterm election setbacks
 **URL:** https://apnews.com/article/trump-asia-midterm-elections-xi-30ac0f6937301f36904808f278b79b1e
+
+---
+
+<!-- analysis-link:2026-11-15-weakened-leverage-and-a-smaller-chinese-arsenal-steer-trump-s-nuclear-summit-tow -->
+**Going deeper:** [Read MSI's analysis of Trump's Asia nuclear summit architecture →](/analyses/2026-11-15-weakened-leverage-and-a-smaller-chinese-arsenal-steer-trump-s-nuclear-summit-tow)
