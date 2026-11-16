@@ -1,9 +1,17 @@
 ---
 headline: Wainwright base fire death toll reaches five; 24 still in hospital
-secondary_headline: Grenade launcher likely sparked the October fire at Wainwright base
+secondary_headline: Grenade launcher likely sparked the October fire at Wainwright
+  base
 publish_date: '2026-11-15'
-lede: A fifth Canadian soldier has died from injuries suffered when a grass fire swept through a military training area last month. Pte William Douglas Dal Bianco, who had been receiving medical care in Ontario, died on Friday, nearly four weeks after the fire spread through Canadian Forces Base Wainwright in Alberta on 17 October.
-nut_graf: The death raises the toll from the Wainwright fire to five. Prime Minister Mark Carney described it as "one of the worst tragedies for the forces on Canadian soil in peacetime". Twenty-four military personnel remain hospitalized, and an investigation has pointed to a grenade launcher fired on the base's grenade range as the likely spark.
+lede: A fifth Canadian soldier has died from injuries suffered when a grass fire swept
+  through a military training area last month. Pte William Douglas Dal Bianco, who
+  had been receiving medical care in Ontario, died on Friday, nearly four weeks after
+  the fire spread through Canadian Forces Base Wainwright in Alberta on 17 October.
+nut_graf: The death raises the toll from the Wainwright fire to five. Prime Minister
+  Mark Carney described it as "one of the worst tragedies for the forces on Canadian
+  soil in peacetime". Twenty-four military personnel remain hospitalized, and an investigation
+  has pointed to a grenade launcher fired on the base's grenade range as the likely
+  spark.
 primary_entities:
 - Pte William Douglas Dal Bianco
 - Canadian Armed Forces
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +151,19 @@ related_stories:
   headline: Fire at Canadian Forces Base Wainwright kills four, injures dozens
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.8586
+  strength: 0.8589
 - slug: 2026-10-18-fire-at-canadian-forces-base-wainwright-kills-at-least-4-seriously-injures-dozen
-  headline: Fire at Canadian Forces Base Wainwright kills at least 4, seriously injures dozens
+  headline: Fire at Canadian Forces Base Wainwright kills at least 4, seriously injures
+    dozens
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.8454
+  strength: 0.845
 - slug: 2026-10-19-bbc-confirms-four-soldiers-killed-in-wainwright-fire
   headline: BBC confirms four soldiers killed in Wainwright fire
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7827
-- slug: 2026-11-05-crews-reportedly-found-two-floors-engulfed-in-brooklyn-fire
-  headline: Crews reportedly found two floors engulfed in Brooklyn fire
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5807
-- slug: 2026-11-03-rescuers-search-destroyed-aid-facility-and-shelter-in-komyushuvakha
-  headline: Rescuers search destroyed aid facility and shelter in Komyushuvakha
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5699
-- slug: 2026-10-10-russian-attacks-kill-at-least-19-across-ukraine-overnight
-  headline: Russian attacks kill at least 19 across Ukraine overnight
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5541
-- slug: 2026-09-21-at-least-14-us-wildfire-responders-have-died-this-year
-  headline: At least 14 US wildfire responders have died this year
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5538
-- slug: 2026-09-11-russian-strikes-kill-five-in-pavlohrad-ukrainian-officials-say
-  headline: Russian strikes kill five in Pavlohrad, Ukrainian officials say
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5623
-- slug: 2026-07-30-warren-ryan-press-pentagon-for-answers-on-delayed-care-of-troops-wounded-in-kuwa
-  headline: Warren, Ryan press Pentagon for answers on delayed care of troops wounded in Kuwait strike
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6249
-- slug: 2026-09-03-vance-says-things-happen-after-us-strike-kills-four-at-iran-wedding
-  headline: Vance says 'things happen' after US strike kills four at Iran wedding
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5549
-- slug: 2026-07-26-pentagon-adds-140-wounded-to-iran-war-database-new-casualty-category
-  headline: Pentagon adds 140 wounded to Iran war database, new casualty category
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.5608
-- slug: 2026-07-25-fourth-firefighter-dies-from-injuries-in-colorado-utah-wildfire-burnover
-  headline: Fourth firefighter dies from injuries in Colorado-Utah wildfire burnover
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5612
-- slug: 2026-07-15-wildfire-surrounds-freight-train-in-ontario-crew-reported-encased-in-flames
-  headline: Wildfire surrounds freight train in Ontario, crew reported 'encased' in flames
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5653
-- slug: 2026-07-13-firefighting-pilot-dies-when-aircraft-crashes-into-colorado-reservoir
-  headline: Firefighting pilot dies when aircraft crashes into Colorado reservoir
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5599
-- slug: 2026-07-17-canada-battles-nearly-900-wildfires-as-trump-threatens-tariffs-over-smoke
-  headline: Canada battles nearly 900 wildfires as Trump threatens tariffs over smoke
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5516
-- slug: 2026-03-10-kentucky-soldier-becomes-7th-us-service-member-to-die-in-iran-war
-  headline: Kentucky soldier becomes 7th US service member to die in Iran war
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.594
-- slug: 2026-06-11-toronto-officer-killed-in-raid-tied-to-us-consulate-shooting
-  headline: Toronto officer killed in raid tied to US consulate shooting
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5673
-- slug: 2026-04-20-planned-fight-escalates-into-deadly-shooting-at-n-c-park
-  headline: Planned fight escalates into deadly shooting at N.C. park
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5735
-- slug: 2026-05-26-maine-lumber-mill-explosion-kills-firefighter-injures-12-fire-started-at-silo-ba
-  headline: Maine lumber mill explosion kills firefighter, injures 12; fire started at silo base
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5575
-- slug: 2026-05-16-death-toll-rises-to-24-after-russian-missile-hits-kyiv-apartment-building
-  headline: Death toll rises to 24 after Russian missile hits Kyiv apartment building
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5609
+  strength: 0.7826
 ---
-
 ## Wainwright base fire death toll reaches five; 24 still in hospital
 
 **Subtype:** fact

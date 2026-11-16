@@ -1,9 +1,17 @@
 ---
 headline: Zelensky says Starshield speed limits still blunt Ukraine's defenses
-secondary_headline: Ukraine's winter energy protection depends on lifting restrictions, Zelensky says
+secondary_headline: Ukraine's winter energy protection depends on lifting restrictions,
+  Zelensky says
 publish_date: '2026-11-15'
-lede: President Volodymyr Zelensky said on Sunday that a crucial US satellite internet service provided to Ukraine still runs too slowly, limiting the country's ability to intercept Russian missiles and drones. "We are counting on these restrictions being lifted. The protection of lives and Ukraine's energy infrastructure ahead of winter directly depends on this," Zelensky said.
-nut_graf: The dispute over Starshield speed limits has run for weeks and has drawn conflicting public accounts from Elon Musk and President Donald Trump about who controls the service. Zelensky's warning comes as Russia strikes Ukrainian energy and railway infrastructure and as Ukraine faces a shortage of US-made Patriot interceptors.
+lede: President Volodymyr Zelensky said on Sunday that a crucial US satellite internet
+  service provided to Ukraine still runs too slowly, limiting the country's ability
+  to intercept Russian missiles and drones. "We are counting on these restrictions
+  being lifted. The protection of lives and Ukraine's energy infrastructure ahead
+  of winter directly depends on this," Zelensky said.
+nut_graf: The dispute over Starshield speed limits has run for weeks and has drawn
+  conflicting public accounts from Elon Musk and President Donald Trump about who
+  controls the service. Zelensky's warning comes as Russia strikes Ukrainian energy
+  and railway infrastructure and as Ukraine faces a shortage of US-made Patriot interceptors.
 primary_entities:
 - Volodymyr Zelensky
 - Elon Musk
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +151,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-15-zelensky-says-starshield-speed-limits-still-blunt-ukraine-s-defenses.png
-  alt: 'Illustration accompanying article: Zelensky says Starshield speed limits still blunt Ukraine''s defenses'
+  alt: 'Illustration accompanying article: Zelensky says Starshield speed limits still
+    blunt Ukraine''s defenses'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-12-zelenskyy-reports-new-starshield-speed-limits-hampering-ukraine-s-drone-defenses
-  headline: Zelenskyy reports new Starshield speed limits hampering Ukraine's drone defenses
+  headline: Zelenskyy reports new Starshield speed limits hampering Ukraine's drone
+    defenses
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8771
+  strength: 0.878
 - slug: 2026-11-12-musk-ordered-october-s-starlink-limits-on-ukraine-journal-says
   headline: Musk ordered October's Starlink limits on Ukraine, Journal says
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8349
+  strength: 0.8351
 - slug: 2026-10-24-ukraine-reports-starshield-service-operating-normally-after-10-day-restrictions
   headline: Ukraine reports Starshield service operating normally after 10-day restrictions
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8689
+  strength: 0.8698
 - slug: 2026-10-23-ukrainian-officials-report-continued-starshield-failures-above-100-mph
   headline: Ukrainian officials report continued Starshield failures above 100 mph
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8598
+  strength: 0.8608
 - slug: 2026-10-23-zelensky-says-unexplained-starlink-limits-still-affect-ukraine-s-forces
   headline: Zelensky says unexplained Starlink limits still affect Ukraine's forces
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8583
+  strength: 0.8587
 - slug: 2026-10-24-ukraine-says-starlink-speeds-are-restored-after-restrictions
   headline: Ukraine says Starlink speeds are restored after restrictions
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8511
+  strength: 0.852
 - slug: 2026-10-21-starshield-speed-limits-hinder-ukrainian-strike-and-interceptor-drones
   headline: Starshield speed limits hinder Ukrainian strike and interceptor drones
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.8518
+  strength: 0.852
 - slug: 2026-10-23-trump-administration-denies-requesting-starlink-limits-for-ukraine-s-military
   headline: Trump administration denies requesting Starlink limits for Ukraine's military
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8278
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.8529
-- slug: 2026-10-28-putin-praises-musk-as-russia-develops-military-communications-system
-  headline: Putin praises Musk as Russia develops military communications system
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.792
-- slug: 2026-10-22-trump-credits-musk-with-restoring-ukraine-s-starlink-service
-  headline: Trump credits Musk with restoring Ukraine's Starlink service
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.8136
-- slug: 2026-10-20-zelensky-starlink-warning-led-to-informal-white-house-investigation
-  headline: Zelensky Starlink warning led to informal White House investigation
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.8218
-- slug: 2026-10-15-musk-says-u-s-military-not-spacex-sets-ukraine-satellite-limits
-  headline: Musk says U.S. military, not SpaceX, sets Ukraine satellite limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8429
-- slug: 2026-10-28-pentagon-inspector-general-declines-to-probe-starlink-limits-for-ukraine
-  headline: Pentagon inspector general declines to probe Starlink limits for Ukraine
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7744
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8397
-- slug: 2026-10-21-ukraine-s-starshield-service-is-separate-from-the-u-s--owned-constellation
-  headline: Ukraine's Starshield service is separate from the U.S.-owned constellation
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.8071
-- slug: 2026-10-15-ukraine-regains-starlink-military-access-after-one-day-disruption
-  headline: Ukraine regains Starlink military access after one-day disruption
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8241
-- slug: 2026-10-14-musk-redirects-ukraine-starlink-speed-cap-to-us-military
-  headline: Musk redirects Ukraine Starlink speed cap to US military
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8274
-- slug: 2026-10-24-russia-agrees-to-trilateral-meeting-as-u-s-renews-ukraine-peace-push
-  headline: Russia agrees to trilateral meeting as U.S. renews Ukraine peace push
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7788
-- slug: 2026-10-15-ukrainian-officials-suspect-trump-ordered-starlink-access-restrictions
-  headline: Ukrainian officials suspect Trump ordered Starlink access restrictions
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8151
+  strength: 0.8283
 ---
-
 ## Zelensky says Starshield speed limits still blunt Ukraine's defenses
 
 **Subtype:** fact
