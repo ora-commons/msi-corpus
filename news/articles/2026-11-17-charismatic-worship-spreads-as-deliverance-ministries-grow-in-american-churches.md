@@ -1,9 +1,20 @@
 ---
 headline: Charismatic worship spreads as deliverance ministries grow in American churches
-secondary_headline: Lorenzo Sewell called the Democratic platform demonic at a May rally
+secondary_headline: Lorenzo Sewell called the Democratic platform demonic at a May
+  rally
 publish_date: '2026-11-17'
-lede: Deliverance ministries that combine emphatic worship, claims of healing and prayers to expel demons have gained visibility in American evangelicalism, while a 2023 Public Religion Research Institute study found that 56% of Christian respondents attended services that included charismatic practices. In a Columbia, Tennessee, parking lot, Freedom Collective Ministries leader James Thayer led a late-summer 2026 event where participants prayed over illness and what they described as demonic influence.
-nut_graf: The shift is difficult to quantify because deliverance ministries lack a central governing body, and estimates of their number vary widely. Still, the 2023 study, interviews with religious scholars and The Guardian's observations document the spread of practices that are both intensely personal and visible in public religious and political life.
+lede: Deliverance ministries that combine emphatic worship, claims of healing and
+  prayers to expel demons have gained visibility in American evangelicalism, while
+  a 2023 Public Religion Research Institute study found that 56% of Christian respondents
+  attended services that included charismatic practices. In a Columbia, Tennessee,
+  parking lot, Freedom Collective Ministries leader James Thayer led a late-summer
+  2026 event where participants prayed over illness and what they described as demonic
+  influence.
+nut_graf: The shift is difficult to quantify because deliverance ministries lack a
+  central governing body, and estimates of their number vary widely. Still, the 2023
+  study, interviews with religious scholars and The Guardian's observations document
+  the spread of practices that are both intensely personal and visible in public religious
+  and political life.
 primary_entities:
 - James Thayer
 - Freedom Collective Ministries
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,109 +157,8 @@ cross_article_links:
   strength: 0.5894
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-08-preliminary-exit-polls-show-democrats-gained-protestant-and-roman-catholic-suppo
-  headline: Preliminary exit polls show Democrats gained Protestant and Roman Catholic support versus 2024
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6228
-- slug: 2026-11-12-democrats-poised-for-first-texas-education-board-majority-in-over-30-years
-  headline: Democrats poised for first Texas education board majority in over 30 years
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.584
-- slug: 2026-11-04-democratic-candidates-used-religious-language-and-listening-to-reach-voters
-  headline: Democratic candidates used religious language and listening to reach voters
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6299
-- slug: 2026-11-06-clergy-candidates-help-democrats-flip-congress-boosting-the-religious-left
-  headline: Clergy candidates help Democrats flip Congress, boosting the religious left
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6087
-- slug: 2026-11-05-mckibben-says-progressive-christianity-won-in-the-2026-midterms
-  headline: McKibben says progressive Christianity won in the 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5861
-- slug: 2026-10-11-dallas-pastor-frederick-douglass-haynes-iii-runs-for-crockett-s-open-seat
-  headline: Dallas pastor Frederick Douglass Haynes III runs for Crockett's open seat
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5926
-- slug: 2026-09-27-democratic-clergy-and-seminary-students-run-for-congress-on-christian-faith
-  headline: Democratic clergy and seminary students run for Congress on Christian faith
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6261
-- slug: 2026-05-17-prayer-event-rededicate-250-draws-evangelicals-to-national-mall
-  headline: Prayer event “Rededicate 250” draws evangelicals to National Mall
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6433
-- slug: 2026-05-17-thousands-gather-on-national-mall-for-america-themed-prayer-rally
-  headline: Thousands gather on National Mall for America-themed prayer rally
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6316
-- slug: 2026-05-17-prayer-rally-on-national-mall-draws-thousands-to-rededicate-america-to-god
-  headline: Prayer rally on National Mall draws thousands to 'rededicate' America to God
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6208
-- slug: 2025-12-21-christian-influencers-fill-a-religious-void-for-young-adults-online
-  headline: Christian influencers fill a religious void for young adults online
-  publish_date: '2025-12-21'
-  relation: related
-  strength: 0.6378
-- slug: 2026-05-17-trump-administration-officials-join-christian-prayer-service-on-national-mall
-  headline: Trump administration officials join Christian prayer service on National Mall
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6139
-- slug: 2026-05-08-worship-attendance-at-churches-rises-in-2025-after-decades-of-decline
-  headline: Worship attendance at churches rises in 2025 after decades of decline
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6116
-- slug: 2026-05-15-trump-administration-to-join-rededicate-250-prayer-event-on-national-mall
-  headline: Trump administration to join “Rededicate 250” prayer event on National Mall
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6008
-- slug: 2026-03-21-cadre-of-us-clergy-vie-for-political-office-as-democrats
-  headline: Cadre of US clergy vie for political office as Democrats
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6119
-- slug: 2026-05-15-trump-administration-joins-prayer-gathering-denounced-as-christian-nationalism
-  headline: Trump administration joins prayer gathering denounced as Christian nationalism
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6
-- slug: 2026-03-26-amid-border-changes-priest-keeps-ministering-to-migrants-and-deportees
-  headline: Amid border changes, priest keeps ministering to migrants and deportees
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6108
-- slug: 2026-03-25-jesuit-priest-continues-to-minister-to-migrants-and-deportees-as-border-crossing
-  headline: Jesuit priest continues to minister to migrants and deportees as border crossings plunge
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6101
-- slug: 2026-03-27-hegseth-holds-pentagon-christian-worship-service-amid-iran-war
-  headline: Hegseth holds Pentagon Christian worship service amid Iran war
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6096
-- slug: 2026-03-14-at-a-booming-atlanta-church-young-adults-line-up-to-worship
-  headline: At a booming Atlanta church, young adults line up to worship
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6093
+related_stories: []
 ---
-
 ## Charismatic worship spreads as deliverance ministries grow in American churches
 
 **Subtype:** fact

@@ -1,9 +1,19 @@
 ---
 headline: Alice Huang’s husband is linked to a Chinese state-backed data-center network
-secondary_headline: Nvidia earnings are set to test investor confidence after Jensen Huang’s exit
+secondary_headline: Nvidia earnings are set to test investor confidence after Jensen
+  Huang’s exit
 publish_date: '2026-11-17'
-lede: The Wall Street Journal’s Nov. 17 newsletter reported that Alice Huang was married to an executive building a Chinese state-backed data-center network while she cultivated a personal relationship with ousted Nvidia CEO Jensen Huang. The report appeared in advance of Nvidia’s scheduled earnings release, which the Journal called the chipmaker’s first major test of investor confidence after Jensen Huang’s scandal-marred exit.
-nut_graf: The Wall Street Journal placed Alice Huang’s relationship with Jensen Huang and her husband’s role in a Chinese state-backed data-center network within a broader pre-earnings examination of Nvidia. Its related coverage also addressed the workplace culture Jensen Huang fostered, an internal warning about retaining talent and the financial gains of Nvidia’s board.
+lede: The Wall Street Journal’s Nov. 17 newsletter reported that Alice Huang was married
+  to an executive building a Chinese state-backed data-center network while she cultivated
+  a personal relationship with ousted Nvidia CEO Jensen Huang. The report appeared
+  in advance of Nvidia’s scheduled earnings release, which the Journal called the
+  chipmaker’s first major test of investor confidence after Jensen Huang’s scandal-marred
+  exit.
+nut_graf: The Wall Street Journal placed Alice Huang’s relationship with Jensen Huang
+  and her husband’s role in a Chinese state-backed data-center network within a broader
+  pre-earnings examination of Nvidia. Its related coverage also addressed the workplace
+  culture Jensen Huang fostered, an internal warning about retaining talent and the
+  financial gains of Nvidia’s board.
 primary_entities:
 - Alice Huang
 - Jensen Huang
@@ -52,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,104 +165,44 @@ related_stories:
   headline: Jensen Huang resigns as Nvidia CEO after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8087
+  strength: 0.809
 - slug: 2026-11-12-businessman-who-introduced-jensen-huang-to-alice-huang-is-her-husband
   headline: Businessman who introduced Jensen Huang to Alice Huang is her husband
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.807
+  strength: 0.8073
 - slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
   headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7994
+  strength: 0.7998
 - slug: 2026-11-13-report-says-huang-exit-could-bring-nvidia-shareholder-suits-and-tech-sector-regu
-  headline: Report says Huang exit could bring Nvidia shareholder suits and tech-sector regulatory pressure
+  headline: Report says Huang exit could bring Nvidia shareholder suits and tech-sector
+    regulatory pressure
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7844
+  strength: 0.7843
 - slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
   headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8141
+  strength: 0.8136
 - slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
   headline: Nvidia board meets on whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7856
+  strength: 0.7859
 - slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
   headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8042
+  strength: 0.8045
 - slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
   headline: Nvidia investigates reports of spying targeting Jensen Huang
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.804
-- slug: 2026-11-14-wsj-says-huang-s-downfall-is-a-sign-of-a-seismic-power-shift
-  headline: WSJ says Huang's downfall is a sign of a seismic power shift
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7697
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8028
-- slug: 2026-11-13-jensen-huang-resigns-from-nvidia-after-board-ousts-him
-  headline: Jensen Huang resigns from Nvidia after board ousts him
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7703
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7763
-- slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7734
-- slug: 2026-11-14-trump-s-closeness-to-huang-draws-scrutiny-over-intelligence-concerns
-  headline: Trump's closeness to Huang draws scrutiny over intelligence concerns
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7599
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
-  headline: Nvidia CEO Jensen Huang resigns after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7704
-- slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
-  headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7638
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
-  headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7682
-- slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7621
-- slug: 2026-11-12-nvidia-shares-sink-7-premarket-as-reports-put-ceo-jensen-huang-s-tenure-at-risk
-  headline: Nvidia shares sink 7% premarket as reports put CEO Jensen Huang's tenure at risk
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.761
-- slug: 2026-11-11-nvidia-hires-law-firm-over-jensen-huang-s-reported-affair-with-alleged-chinese-s
-  headline: Nvidia hires law firm over Jensen Huang's reported affair with alleged Chinese spy
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7643
+  strength: 0.8042
 ---
-
 ## Alice Huang’s husband is linked to a Chinese state-backed data-center network
 
 **Subtype:** fact

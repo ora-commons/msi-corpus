@@ -1,9 +1,20 @@
 ---
 headline: Democrats gain oversight power over ICE after midterm wins
-secondary_headline: Congress could theoretically restrict ICE funding and detention centers, but barriers remain
+secondary_headline: Congress could theoretically restrict ICE funding and detention
+  centers, but barriers remain
 publish_date: '2026-11-17'
-lede: Democrats who won strong House and Senate majorities in the 2026 midterms also won new governorships and are preparing to examine the Trump administration’s immigration enforcement. The Guardian said the election brought power in some unexpected places, and that Trump’s deportation campaign and ICE raids were among the key issues that cost Republicans support. Oversight is one of their clearest unilateral tools, while legislative changes remain constrained by Republican opposition, the Senate filibuster and President Donald Trump’s veto power.
-nut_graf: The midterms gave Democrats a stronger position from which to scrutinize ICE conduct, but they did not guarantee a legislative reset. Oversight can proceed largely through unilateral committee powers, while changes to enforcement, detention, immigration status and agency funding must clear institutional barriers and divisions within both parties.
+lede: Democrats who won strong House and Senate majorities in the 2026 midterms also
+  won new governorships and are preparing to examine the Trump administration’s immigration
+  enforcement. The Guardian said the election brought power in some unexpected places,
+  and that Trump’s deportation campaign and ICE raids were among the key issues that
+  cost Republicans support. Oversight is one of their clearest unilateral tools, while
+  legislative changes remain constrained by Republican opposition, the Senate filibuster
+  and President Donald Trump’s veto power.
+nut_graf: The midterms gave Democrats a stronger position from which to scrutinize
+  ICE conduct, but they did not guarantee a legislative reset. Oversight can proceed
+  largely through unilateral committee powers, while changes to enforcement, detention,
+  immigration status and agency funding must clear institutional barriers and divisions
+  within both parties.
 primary_entities:
 - ICE
 - Donald Trump
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +157,45 @@ related_stories:
   headline: Most midterm voters say Trump's immigration enforcement has gone too far
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.8096
+  strength: 0.8106
 - slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
   headline: Democrats prepare broad oversight agenda after winning Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8027
+  strength: 0.8033
 - slug: 2026-11-11-democrats-push-bipartisan-immigration-reform-after-midterm-voter-backlash
   headline: Democrats push bipartisan immigration reform after midterm voter backlash
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7488
+  strength: 0.7501
 - slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
   headline: Democratic leaders weigh oversight and legislation after 2026 midterms
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7604
+  strength: 0.7622
 - slug: 2026-11-09-texas-voters-shift-to-democrats-as-immigration-ranks-among-top-issues
   headline: Texas voters shift to Democrats as immigration ranks among top issues
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7507
+  strength: 0.7511
 - slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
+  headline: Democrats take control of Congress, seek leverage over Trump’s foreign
+    policy
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7681
+  strength: 0.7698
 - slug: 2026-11-07-congressional-democrats-prepare-investigations-into-immigration-agent-killings
-  headline: Congressional Democrats prepare investigations into immigration agent killings
+  headline: Congressional Democrats prepare investigations into immigration agent
+    killings
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.7383
+  strength: 0.7389
 - slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
   headline: Democrats take Congress, gaining leverage over probes and appointments
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7479
-- slug: 2026-11-04-claire-finkelstein-urges-stronger-congressional-oversight-after-midterms
-  headline: Claire Finkelstein urges stronger congressional oversight after midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7419
-- slug: 2026-11-04-democrats-win-congress-as-trump-retains-broad-presidential-powers
-  headline: Democrats win Congress as Trump retains broad presidential powers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7358
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7398
-- slug: 2026-11-04-democrats-win-house-and-senate-control-in-2026-us-midterms
-  headline: Democrats win House and Senate control in 2026 US midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7336
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7366
-- slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.729
-- slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
-  headline: Democrats prepare agenda on taxes, health care, AI and Social Security
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7246
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7297
-- slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7225
-- slug: 2026-11-04-democratic-congress-leaves-trump-foreign-policy-largely-intact
-  headline: Democratic Congress leaves Trump foreign policy largely intact
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7213
-- slug: 2026-10-28-people-familiar-with-talks-staffers-have-begun-assembling-list-of-possible-probe
-  headline: 'People familiar with talks: staffers have begun assembling list of possible probes and witnesses'
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7477
-- slug: 2026-08-15-dnc-adopts-competing-resolutions-on-ice-s-future-at-summer-meeting
-  headline: DNC adopts competing resolutions on ICE's future at summer meeting
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.7293
+  strength: 0.7481
 ---
-
 ## Democrats gain oversight power over ICE after midterm wins
 
 - The Guardian reported that Democratic-led congressional committees are preparing ICE oversight through subpoenas, public hearings and detention-facility visits.

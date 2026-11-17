@@ -220,6 +220,8 @@ related_stories:
   publish_date: '2026-09-16'
   relation: related
   strength: 0.7093
+analyses:
+- '2026-11-16-fragmented-ai-governance-tracks-leave-openai-testing-suit-s-causal-question-unre'
 ---
 ## OpenAI suit, Trump trip and Kalshi expansion feature in news roundup
 
@@ -269,3 +271,8 @@ Nvidia's board of directors is not considering reinstating Jensen Huang as CEO d
 **Publication date:** 2026-11-16
 **Title:** Commerce Department Rule Aims to Further Limit Chip Shipments to China
 **URL:** https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33
+
+---
+
+<!-- analysis-link:2026-11-16-fragmented-ai-governance-tracks-leave-openai-testing-suit-s-causal-question-unre -->
+**Going deeper:** [Read MSI's analysis of OpenAI suit and AI governance tracks →](/analyses/2026-11-16-fragmented-ai-governance-tracks-leave-openai-testing-suit-s-causal-question-unre)
