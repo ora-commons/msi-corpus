@@ -2,8 +2,13 @@
 headline: Pope Leo says lung cancer surgery has not changed his agenda
 secondary_headline: Leo calls for canonical rules to address spiritual abuse
 publish_date: '2026-11-17'
-lede: Pope Leo XIV said Monday aboard the papal plane returning to Rome from Peru that his recovery from lung cancer surgery has not altered his agenda, outlook or sense of mortality. He projected a long pontificate focused on unity and healing within the Catholic Church after a 12-day trip through three South American countries.
-nut_graf: 'His comments outlined his immediate priorities while recovering: unity and healing, no present change on ordaining married men or the old Latin Mass, and a need for canonical rules governing spiritual abuse.'
+lede: Pope Leo XIV said Monday aboard the papal plane returning to Rome from Peru
+  that his recovery from lung cancer surgery has not altered his agenda, outlook or
+  sense of mortality. He projected a long pontificate focused on unity and healing
+  within the Catholic Church after a 12-day trip through three South American countries.
+nut_graf: 'His comments outlined his immediate priorities while recovering: unity
+  and healing, no present change on ordaining married men or the old Latin Mass, and
+  a need for canonical rules governing spiritual abuse.'
 primary_entities:
 - Pope Leo XIV
 - Catholic Church
@@ -40,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,7 +148,7 @@ related_stories:
   headline: Pope Leo XIV says he is 'proud to be an American' after midterm vote
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8085
+  strength: 0.8084
 - slug: 2026-11-16-pope-leo-xiv-ends-peru-visit-after-12-day-south-american-tour
   headline: Pope Leo XIV ends Peru visit after 12-day South American tour
   publish_date: '2026-11-16'
@@ -152,94 +158,33 @@ related_stories:
   headline: Pope Leo keeps November trip; Gallagher calls diagnosis “a bit of a game-changer”
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7929
+  strength: 0.7925
 - slug: 2026-10-27-leo-xiv-plans-several-meetings-with-clergy-abuse-survivors-in-latin-america
   headline: Leo XIV plans several meetings with clergy abuse survivors in Latin America
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7798
+  strength: 0.7796
 - slug: 2026-10-23-pope-leo-xiv-skips-assisi-peace-gathering-after-lung-cancer-surgery
   headline: Pope Leo XIV skips Assisi peace gathering after lung cancer surgery
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7937
+  strength: 0.7945
 - slug: 2026-10-14-pope-leo-xiv-returns-to-room-after-lung-cancer-surgery-vatican-says
   headline: Pope Leo XIV returns to room after lung cancer surgery, Vatican says
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8086
+  strength: 0.8092
 - slug: 2026-10-30-pope-leo-xiv-casts-mail-in-ballot-first-pope-to-vote-in-us-election
   headline: Pope Leo XIV casts mail-in ballot, first pope to vote in US election
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7071
+  strength: 0.7074
 - slug: 2026-10-14-doctors-say-pope-leo-s-lung-cancer-prognosis-is-very-good-after-surgery
   headline: Doctors say Pope Leo's lung cancer prognosis is 'very good' after surgery
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.7625
-- slug: 2026-10-13-vatican-announces-pope-leo-xiv-diagnosed-with-lung-cancer
-  headline: Vatican announces Pope Leo XIV diagnosed with lung cancer
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7588
-- slug: 2026-10-11-pope-leo-xiv-to-undergo-surgery-to-remove-lung-nodule
-  headline: Pope Leo XIV to undergo surgery to remove lung nodule
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7392
-- slug: 2026-10-14-louis-prevost-being-treated-for-multiple-myeloma-in-florida-wife-says
-  headline: Louis Prevost being treated for multiple myeloma in Florida, wife says
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6934
-- slug: 2026-05-09-taking-stock-of-pope-leo-xiv-s-first-year-and-looming-vatican-tests
-  headline: Taking stock of Pope Leo XIV's first year and looming Vatican tests
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.729
-- slug: 2026-05-08-pope-leo-xiv-marks-first-year-s-to-do-list-appointments-latin-mass-ai
-  headline: Pope Leo XIV marks first year’s to-do list—appointments, Latin Mass, AI
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7198
-- slug: 2026-05-07-pope-leo-xiv-takes-longer-view-one-year-in-facing-latin-mass-and-germany
-  headline: Pope Leo XIV takes longer-view one year in, facing Latin Mass and Germany
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.7137
-- slug: 2026-01-30-pope-leo-xiv-urges-vatican-doctrine-office-to-uphold-truth-and-justice-in-abuse-
-  headline: Pope Leo XIV urges Vatican doctrine office to uphold truth and justice in abuse cases
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7237
-- slug: 2026-05-10-pope-leo-signals-openness-but-limits-on-lgbtq-ministry-vatican-report-features-g
-  headline: Pope Leo signals openness but limits on LGBTQ+ ministry, Vatican report features gay testimony
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.7074
-- slug: 2026-06-08-pope-leo-xiv-calls-for-moral-renewal-in-historic-spanish-parliament-address
-  headline: Pope Leo XIV calls for moral renewal in historic Spanish parliament address
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.696
-- slug: 2026-05-07-pope-leo-calls-for-end-to-fratricidal-hatred-during-pompeii-trip
-  headline: Pope Leo calls for end to fratricidal hatred during Pompeii trip
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.706
-- slug: 2026-04-26-pope-leo-xiv-urges-u-s-and-iran-to-return-to-peace-talks
-  headline: Pope Leo XIV urges U.S. and Iran to return to peace talks
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7028
-- slug: 2026-05-10-pope-leo-xiv-marks-first-year-as-pastor-not-drama-after-trump-sparring
-  headline: Pope Leo XIV marks first year as pastor, not drama, after Trump sparring
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6974
+  strength: 0.7626
 ---
-
 ## Pope Leo says lung cancer surgery has not changed his agenda
 
 **Subtype:** fact

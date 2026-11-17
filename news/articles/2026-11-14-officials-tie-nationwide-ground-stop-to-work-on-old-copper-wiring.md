@@ -101,6 +101,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.8391
+analyses:
+- '2026-11-14-copper-to-fiber-cutover-precedes-faa-ground-stop-with-cause-still-unresolved'
 ---
 ## Officials tie nationwide ground stop to work on old copper wiring
 
@@ -153,3 +155,8 @@ McCormick and other aviation experts said the FAA is now transitioning to what i
 **Publication date:** 2026-11-14
 **Title:** Why a problem on the ground can affect flights thousands of miles away among other issues
 **URL:** https://www.pbs.org/newshour/nation/why-a-problem-on-the-ground-can-affect-flights-thousands-of-miles-away-among-other-issues
+
+---
+
+<!-- analysis-link:2026-11-14-copper-to-fiber-cutover-precedes-faa-ground-stop-with-cause-still-unresolved -->
+**Going deeper:** [Read MSI's analysis of the FAA copper-to-fiber transition →](/analyses/2026-11-14-copper-to-fiber-cutover-precedes-faa-ground-stop-with-cause-still-unresolved)

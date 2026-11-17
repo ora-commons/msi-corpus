@@ -205,6 +205,8 @@ related_stories:
   publish_date: '2026-11-14'
   relation: related
   strength: 0.6723
+analyses:
+- '2026-11-17-cultural-moderation-opens-room-for-an-unpriced-democratic-economic-bargain'
 ---
 ## Moderate Democrats offer a mixed economic agenda after midterm wins
 
@@ -254,3 +256,8 @@ The newsletter also revisited a proposal from a research group led by former Bid
 **Publication date:** 2026-11-17
 **Title:** Just How Moderate Are ‘Moderate’ Democrats?
 **URL:** https://www.wsj.com/politics/policy/just-how-moderate-are-moderate-democrats-9e64ebf9
+
+---
+
+<!-- analysis-link:2026-11-17-cultural-moderation-opens-room-for-an-unpriced-democratic-economic-bargain -->
+**Going deeper:** [Read MSI's analysis of the moderate Democratic economic bargain →](/analyses/2026-11-17-cultural-moderation-opens-room-for-an-unpriced-democratic-economic-bargain)
