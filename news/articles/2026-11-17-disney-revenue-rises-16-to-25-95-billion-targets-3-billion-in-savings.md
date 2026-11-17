@@ -1,9 +1,20 @@
 ---
 headline: Disney revenue rises 16% to $25.95 billion, targets $3 billion in savings
-secondary_headline: 'Streaming revenue climbs 19% as "Avengers: Doomsday" and the Super Bowl approach'
+secondary_headline: 'Streaming revenue climbs 19% as "Avengers: Doomsday" and the
+  Super Bowl approach'
 publish_date: '2026-11-17'
-lede: The Walt Disney Co. reported fiscal fourth-quarter results on Tuesday that beat Wall Street expectations, with streaming services and theme parks driving revenue growth. Revenue rose 16% to $25.95 billion, above the $25.2 billion Wall Street expected, and adjusted earnings of $1.77 per share topped the $1.67 that analysts surveyed by FactSet were calling for. Disney also said it is seeking $3 billion in cost savings by fiscal 2029, including layoffs the company enacted throughout the year.
-nut_graf: Disney's quarter concentrated revenue growth in streaming and theme parks while the company absorbed a continuing drop in international visitors to its domestic parks. The $3 billion savings target, announced Tuesday, comes alongside continued double-digit earnings-per-share growth the company expects in fiscal 2027, with most of those earnings expected in the first half of the year.
+lede: The Walt Disney Co. reported fiscal fourth-quarter results on Tuesday that beat
+  Wall Street expectations, with streaming services and theme parks driving revenue
+  growth. Revenue rose 16% to $25.95 billion, above the $25.2 billion Wall Street
+  expected, and adjusted earnings of $1.77 per share topped the $1.67 that analysts
+  surveyed by FactSet were calling for. Disney also said it is seeking $3 billion
+  in cost savings by fiscal 2029, including layoffs the company enacted throughout
+  the year.
+nut_graf: Disney's quarter concentrated revenue growth in streaming and theme parks
+  while the company absorbed a continuing drop in international visitors to its domestic
+  parks. The $3 billion savings target, announced Tuesday, comes alongside continued
+  double-digit earnings-per-share growth the company expects in fiscal 2027, with
+  most of those earnings expected in the first half of the year.
 primary_entities:
 - The Walt Disney Co.
 - Josh D'Amaro
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,17 +159,17 @@ related_stories:
   headline: McDonald’s global same-store sales top analyst forecasts in third quarter
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6576
+  strength: 0.6574
 - slug: 2026-10-29-amazon-misses-q3-targets-offers-cautious-holiday-quarter-outlook
   headline: Amazon misses Q3 targets, offers cautious holiday-quarter outlook
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6817
+  strength: 0.6814
 - slug: 2026-09-20-disney-parks-lift-attendance-3-as-rivals-lose-summer-visitors
   headline: Disney parks lift attendance 3% as rivals lose summer visitors
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.798
+  strength: 0.7978
 - slug: 2026-10-14-netflix-projects-51-billion-to-51-4-billion-in-2026-revenue
   headline: Netflix projects $51 billion to $51.4 billion in 2026 revenue
   publish_date: '2026-10-14'
@@ -167,84 +179,24 @@ related_stories:
   headline: PepsiCo beats quarterly estimates, trims full-year earnings outlook
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6725
+  strength: 0.6719
 - slug: 2026-09-29-carnival-q3-earnings-top-estimates-as-2027-bookings-hit-record-levels
   headline: Carnival Q3 earnings top estimates as 2027 bookings hit record levels
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6852
+  strength: 0.6847
 - slug: 2026-08-05-disney-s-u-s-park-income-climbs-27-while-international-parks-decline
   headline: Disney's U.S. park income climbs 27% while international parks decline
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.7974
+  strength: 0.7969
 - slug: 2026-05-06-disney-results-beat-forecasts-as-streaming-and-u-s-parks-offset-weaker-tourism
-  headline: Disney results beat forecasts as streaming and U.S. parks offset weaker tourism
+  headline: Disney results beat forecasts as streaming and U.S. parks offset weaker
+    tourism
   publish_date: '2026-05-06'
   relation: related
   strength: 0.839
-- slug: 2026-05-07-disney-offsets-fewer-overseas-visitors-with-streaming-and-strong-theme-park-spen
-  headline: Disney offsets fewer overseas visitors with streaming and strong theme-park spending
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.8375
-- slug: 2026-05-05-disney-profits-jump-as-streaming-and-u-s-parks-offset-weaker-overseas-travel
-  headline: Disney profits jump as streaming and U.S. parks offset weaker overseas travel
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.8202
-- slug: 2026-02-03-disney-first-quarter-profit-beats-estimates-as-zootopia-2-avatar-drive-results
-  headline: Disney first-quarter profit beats estimates as Zootopia 2, Avatar drive results
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.8016
-- slug: 2026-08-25-intuit-forecasts-slower-fiscal-2027-growth-shares-drop-14
-  headline: Intuit forecasts slower fiscal 2027 growth, shares drop 14%
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6526
-- slug: 2026-08-07-wendy-s-withdraws-outlook-cuts-dividend-as-u-s-sales-drop-7
-  headline: Wendy's withdraws outlook, cuts dividend as U.S. sales drop 7%
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.669
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6703
-- slug: 2026-07-16-netflix-profit-rises-9-percent-q2-shares-fall
-  headline: Netflix profit rises 9% in Q2 but shares fall on weaker forecast
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6678
-- slug: 2026-07-24-lamb-weston-beats-q4-estimates-on-north-america-volume-growth
-  headline: Lamb Weston beats Q4 estimates on North America volume growth
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6565
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6569
-- slug: 2026-02-05-amazon-forecasts-near-term-sales-as-it-plans-big-capital-spending-surge
-  headline: Amazon forecasts near-term sales as it plans big capital spending surge
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7012
-- slug: 2026-01-20-netflix-earnings-beat-estimates-but-subscriber-growth-plummets
-  headline: Netflix earnings beat estimates but subscriber growth plummets
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6994
-- slug: 2026-06-02-dollar-general-profit-jumps-13-as-low-cost-shoppers-fuel-sales-beat
-  headline: Dollar General profit jumps 13% as low-cost shoppers fuel sales beat
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.658
 ---
-
 ## Disney revenue rises 16% to $25.95 billion, targets $3 billion in savings
 
 **Subtype:** fact

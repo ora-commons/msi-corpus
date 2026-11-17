@@ -1,9 +1,19 @@
 ---
 headline: Quad leaders plan joint military exercises and broader regional cooperation
-secondary_headline: A 2027 Quad business forum will seek economic growth across the Indo-Pacific
+secondary_headline: A 2027 Quad business forum will seek economic growth across the
+  Indo-Pacific
 publish_date: '2026-11-17'
-lede: U.S. President Donald Trump and Australian Prime Minister Anthony Albanese met Indian Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi in Manila late Tuesday, where Trump and Albanese heralded plans for new joint Quad military exercises. The leaders discussed AI, critical minerals, infrastructure and maritime security, and planned a new business forum for 2027. The Guardian said the planned exercises would involve maritime patrol aircraft, while Trump and Albanese promised the grouping with India and Japan would guarantee “peace through strength.”
-nut_graf: The meeting set military exercises alongside economic, technology and maritime-security cooperation as the Quad’s leaders prepared for separate engagements with Chinese President Xi Jinping. The Guardian reported that officials privately believed the meeting itself showed the group was progressing.
+lede: U.S. President Donald Trump and Australian Prime Minister Anthony Albanese met
+  Indian Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi in
+  Manila late Tuesday, where Trump and Albanese heralded plans for new joint Quad
+  military exercises. The leaders discussed AI, critical minerals, infrastructure
+  and maritime security, and planned a new business forum for 2027. The Guardian said
+  the planned exercises would involve maritime patrol aircraft, while Trump and Albanese
+  promised the grouping with India and Japan would guarantee “peace through strength.”
+nut_graf: The meeting set military exercises alongside economic, technology and maritime-security
+  cooperation as the Quad’s leaders prepared for separate engagements with Chinese
+  President Xi Jinping. The Guardian reported that officials privately believed the
+  meeting itself showed the group was progressing.
 primary_entities:
 - Anthony Albanese
 - Donald Trump
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +153,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-17-quad-leaders-plan-joint-military-exercises-and-broader-regional-cooperation.png
-  alt: 'Illustration accompanying article: Quad leaders plan joint military exercises and broader regional cooperation'
+  alt: 'Illustration accompanying article: Quad leaders plan joint military exercises
+    and broader regional cooperation'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-16-albanese-plans-to-press-trump-on-wars-and-indo-pacific-engagement
   headline: Albanese plans to press Trump on wars and Indo-Pacific engagement
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.836
+  strength: 0.8352
 - slug: 2026-11-17-asean-leaders-work-on-china-non-aggression-pact-trump-may-meet-imelda-marcos
-  headline: ASEAN leaders work on China non-aggression pact; Trump may meet Imelda Marcos
+  headline: ASEAN leaders work on China non-aggression pact; Trump may meet Imelda
+    Marcos
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7238
-- slug: 2026-11-15-albanese-welcomes-trump-xi-putin-summit-as-european-leaders-urge-caution
-  headline: Albanese welcomes Trump-Xi-Putin summit as European leaders urge caution
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7142
+  strength: 0.725
 - slug: 2026-11-17-trump-begins-asia-tour-in-manila-with-trade-and-security-agenda
   headline: Trump begins Asia tour in Manila with trade and security agenda
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6976
+  strength: 0.6999
+- slug: 2026-11-15-albanese-welcomes-trump-xi-putin-summit-as-european-leaders-urge-caution
+  headline: Albanese welcomes Trump-Xi-Putin summit as European leaders urge caution
+  publish_date: '2026-11-15'
+  relation: related
+  strength: 0.7136
 - slug: 2026-11-17-trump-is-in-manila-as-nvidia-s-board-faces-calls-for-huang-s-return
   headline: Trump is in Manila as Nvidia's board faces calls for Huang's return
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6762
+  strength: 0.6771
 - slug: 2026-11-15-asean-leaders-open-manila-summit-as-trump-prepares-to-join-regional-talks
   headline: ASEAN leaders open Manila summit as Trump prepares to join regional talks
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.6852
+  strength: 0.686
 - slug: 2026-11-15-trump-turns-to-asia-for-xi-putin-nuclear-talks-after-midterm-losses
   headline: Trump turns to Asia for Xi-Putin nuclear talks after midterm losses
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.6825
+  strength: 0.6844
 - slug: 2026-11-16-china-confirms-trump-xi-and-putin-will-meet-thursday-in-shenzhen
   headline: China confirms Trump, Xi and Putin will meet Thursday in Shenzhen
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6625
-- slug: 2026-11-17-trump-weighs-china-engagement-against-security-concerns-before-xi-meeting
-  headline: Trump weighs China engagement against security concerns before Xi meeting
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6534
-- slug: 2026-11-16-china-calls-planned-trump-xi-putin-nuclear-talks-groundbreaking
-  headline: China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6528
-- slug: 2026-09-25-trump-and-xi-hold-talks-in-washington-on-tariffs-taiwan-and-ai
-  headline: Trump and Xi hold talks in Washington on tariffs, Taiwan, and AI
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6745
-- slug: 2026-09-23-trump-hosts-xi-at-white-house-for-state-visit-on-trade-and-ai
-  headline: Trump hosts Xi at White House for state visit on trade and AI
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6692
-- slug: 2026-09-25-trump-and-xi-conclude-washington-summit-without-ai-accord
-  headline: Trump and Xi conclude Washington summit without AI accord
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6564
-- slug: 2026-09-24-xi-proposes-terms-to-avoid-us-china-conflict-at-white-house-summit-with-trump
-  headline: Xi proposes terms to avoid US-China conflict at White House summit with Trump
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.657
-- slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
-  headline: Trump, Xi set to discuss AI as both reject slowdown
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6598
-- slug: 2026-09-23-albanese-pledges-60m-more-for-ukraine-at-new-york-meeting-with-zelenskyy
-  headline: Albanese pledges $60m more for Ukraine at New York meeting with Zelenskyy
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6542
-- slug: 2026-09-22-trump-xi-summit-set-for-sept-24-with-trade-taiwan-ai-on-agenda
-  headline: Trump, Xi summit set for Sept. 24 with trade, Taiwan, AI on agenda
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6548
-- slug: 2026-08-01-record-30-nations-join-rimpac-as-pacific-allies-expand-naval-cooperation
-  headline: Record 30 nations join RIMPAC as Pacific allies expand naval cooperation
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6668
-- slug: 2026-01-03-trump-invites-japan-s-takaichi-to-us-as-regional-tensions-with-china-mount
-  headline: Trump invites Japan's Takaichi to US as regional tensions with China mount
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6997
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6574
+  strength: 0.6648
 ---
-
 ## Quad leaders plan joint military exercises and broader regional cooperation
 
 **Subtype:** fact
