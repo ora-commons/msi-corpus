@@ -2,8 +2,20 @@
 headline: U.S. measles cases top 5,400 so far this year, largely driven by Pennsylvania
 secondary_headline: More than 10% of infected people were hospitalized over two years
 publish_date: '2026-11-17'
-lede: More than 5,400 confirmed measles cases have been reported in the United States so far this year, driven largely by an outbreak in Pennsylvania. The total is already double the 2025 tally and makes this the worst year for measles illnesses since 1991. Over the last two years, the country has recorded more than 7,000 cases and 11 deaths, with more than 10% of infected people hospitalized. Earlier outbreaks sickened more than 760 people in Texas, about 100 in New Mexico and nearly 1,000 in South Carolina, while a summer 2025 outbreak spread through extremely rural border towns in Arizona and Utah.
-nut_graf: The two-year toll has made vaccination coverage and federal preparedness central to the U.S. response. The Associated Press reported that fewer parents were vaccinating their children while federal leaders sowed doubt and confusion about vaccination, and it said the Pan American Health Organization's announcement signaled an erosion of public health preparedness. Experts said a 95% community vaccination rate is needed to prevent outbreaks.
+lede: More than 5,400 confirmed measles cases have been reported in the United States
+  so far this year, driven largely by an outbreak in Pennsylvania. The total is already
+  double the 2025 tally and makes this the worst year for measles illnesses since
+  1991. Over the last two years, the country has recorded more than 7,000 cases and
+  11 deaths, with more than 10% of infected people hospitalized. Earlier outbreaks
+  sickened more than 760 people in Texas, about 100 in New Mexico and nearly 1,000
+  in South Carolina, while a summer 2025 outbreak spread through extremely rural border
+  towns in Arizona and Utah.
+nut_graf: The two-year toll has made vaccination coverage and federal preparedness
+  central to the U.S. response. The Associated Press reported that fewer parents were
+  vaccinating their children while federal leaders sowed doubt and confusion about
+  vaccination, and it said the Pan American Health Organization's announcement signaled
+  an erosion of public health preparedness. Experts said a 95% community vaccination
+  rate is needed to prevent outbreaks.
 primary_entities:
 - Pennsylvania
 - Texas
@@ -55,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,107 +167,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-12-us-measles-deaths-reach-twice-the-2025-total-in-largest-outbreak-since-1991
-  headline: US measles deaths reach twice the 2025 total in largest outbreak since 1991
+  headline: US measles deaths reach twice the 2025 total in largest outbreak since
+    1991
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8598
+  strength: 0.86
 - slug: 2026-11-13-us-measles-cases-push-nation-toward-losing-elimination-status
   headline: US measles cases push nation toward losing elimination status
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8408
+  strength: 0.8425
+- slug: 2026-11-14-pan-american-health-organization-says-us-has-lost-measles-elimination-status
+  headline: Pan American Health Organization says US has lost measles elimination
+    status
+  publish_date: '2026-11-14'
+  relation: related
+  strength: 0.8074
 - slug: 2026-11-13-paho-panel-weighs-us-mexico-measles-elimination-status
   headline: PAHO panel weighs US, Mexico measles elimination status
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8117
-- slug: 2026-11-14-pan-american-health-organization-says-us-has-lost-measles-elimination-status
-  headline: Pan American Health Organization says US has lost measles elimination status
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.8042
+  strength: 0.814
 - slug: 2026-11-14-pan-american-health-organization-revokes-u-s-measles-elimination-status
   headline: Pan American Health Organization revokes U.S. measles elimination status
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7948
+  strength: 0.7978
 - slug: 2026-11-16-preliminary-cdc-figures-show-13-congenital-measles-cases-among-newborns
   headline: Preliminary CDC figures show 13 congenital measles cases among newborns
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7774
+  strength: 0.7784
 - slug: 2026-10-25-cdc-finds-96-of-2026-measles-patients-were-unvaccinated-or-had-unknown-status
-  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown status
+  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown
+    status
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.8195
+  strength: 0.8203
 - slug: 2026-10-24-cdc-adds-178-us-measles-cases-as-death-tallies-diverge
   headline: CDC adds 178 US measles cases as death tallies diverge
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.8161
-- slug: 2026-10-07-pennsylvania-measles-outbreak-tops-1-000-cases-largest-in-us-since-1991
-  headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.8758
-- slug: 2026-10-13-pennsylvania-reports-sixth-measles-death-as-state-cases-top-1-100
-  headline: Pennsylvania reports sixth measles death as state cases top 1,100
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.8035
-- slug: 2026-10-05-pennsylvania-measles-cases-top-1-000-as-state-reports-five-deaths
-  headline: Pennsylvania measles cases top 1,000 as state reports five deaths
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.8272
-- slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
-  headline: Annual US measles count exceeds 1991 levels as second death confirmed
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.829
-- slug: 2026-09-26-pennsylvania-measles-outbreak-grows-to-890-cases-across-39-counties
-  headline: Pennsylvania measles outbreak grows to 890 cases across 39 counties
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.8141
-- slug: 2026-09-30-pennsylvania-reports-fifth-measles-related-death-of-2026
-  headline: Pennsylvania reports fifth measles-related death of 2026
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.8012
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.8307
-- slug: 2026-09-15-pennsylvania-reports-fourth-measles-death-in-2026-worst-us-year-since-1992
-  headline: Pennsylvania reports fourth measles death in 2026, worst US year since 1992
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8111
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.811
-- slug: 2026-07-24-us-measles-tally-passes-2025-record-with-months-still-to-go
-  headline: US measles tally passes 2025 record with months still to go
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.8512
-- slug: 2026-08-21-who-estimates-nearly-11-million-measles-cases-globally-in-2026
-  headline: WHO estimates nearly 11 million measles cases globally in 2026
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7741
-- slug: 2026-06-10-us-measles-cases-top-2-000-as-outbreak-approaches-worst-in-decades
-  headline: US measles cases top 2,000 as outbreak approaches worst in decades
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.8171
+  strength: 0.8179
 ---
-
 ## U.S. measles cases top 5,400 so far this year, largely driven by Pennsylvania
 
 **Subtype:** fact

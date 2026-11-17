@@ -2,8 +2,22 @@
 headline: Card balances hit $1.17 trillion as inflation-adjusted spending is negative
 secondary_headline: Target offers more than 8,000 gifts as retailers push affordability
 publish_date: '2026-11-17'
-lede: Outstanding credit card balances hit $1.17 trillion as of last month, up 5.1% from a year earlier, according to TransUnion's Charles Wise, whose data cover 178.5 million consumers holding an active credit card. Navy Federal Credit Union chief economist Heather Long said that after adjusting for higher prices, consumer spending in October was "negative," and she wrote that "October retail sales were tepid. Budgets are tight for many households."
-nut_graf: Heather Long, chief economist at Navy Federal Credit Union, said that after adjusting for higher prices, consumer spending was "negative," while the Commerce Department's October report showed the control group used to calculate economic growth up 0.6% even as motor vehicle and parts dealers fell 1.6%. Retailers are preparing for the unofficial start of the holiday shopping period over the Thanksgiving weekend, and Target, Kohl's and Walmart are driving an affordability message, with Target offering more than 8,000 new gifts, most priced at $20 or less, and Kohl's increasing the number of gift sets across merchandise types. TransUnion's Charles Wise said serious delinquency rates held steady, a sign that "consumers remain disciplined borrowers heading into the holidays."
+lede: Outstanding credit card balances hit $1.17 trillion as of last month, up 5.1%
+  from a year earlier, according to TransUnion's Charles Wise, whose data cover 178.5
+  million consumers holding an active credit card. Navy Federal Credit Union chief
+  economist Heather Long said that after adjusting for higher prices, consumer spending
+  in October was "negative," and she wrote that "October retail sales were tepid.
+  Budgets are tight for many households."
+nut_graf: Heather Long, chief economist at Navy Federal Credit Union, said that after
+  adjusting for higher prices, consumer spending was "negative," while the Commerce
+  Department's October report showed the control group used to calculate economic
+  growth up 0.6% even as motor vehicle and parts dealers fell 1.6%. Retailers are
+  preparing for the unofficial start of the holiday shopping period over the Thanksgiving
+  weekend, and Target, Kohl's and Walmart are driving an affordability message, with
+  Target offering more than 8,000 new gifts, most priced at $20 or less, and Kohl's
+  increasing the number of gift sets across merchandise types. TransUnion's Charles
+  Wise said serious delinquency rates held steady, a sign that "consumers remain disciplined
+  borrowers heading into the holidays."
 primary_entities:
 - United States
 - Commerce Department
@@ -45,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,12 +76,16 @@ figures:
   series_id: RSAFS
   transformation: yoy_pct
   as_of: '2026-11-17'
-  caption: FRED's advance retail sales series, which includes retail and food services, shows a 6.82% year-over-year value as of Nov. 17, 2026. It provides a broader comparison with the Commerce Department's October monthly figures.
+  caption: FRED's advance retail sales series, which includes retail and food services,
+    shows a 6.82% year-over-year value as of Nov. 17, 2026. It provides a broader
+    comparison with the Commerce Department's October monthly figures.
 - source: fred
   series_id: CPIAUCSL
   transformation: yoy_pct
   as_of: '2026-11-17'
-  caption: FRED's all-urban Consumer Price Index shows a 3.72% year-over-year value as of Nov. 17, 2026. It provides broader inflation context for the report's 0.4% monthly CPI increase.
+  caption: FRED's all-urban Consumer Price Index shows a 3.72% year-over-year value
+    as of Nov. 17, 2026. It provides broader inflation context for the report's 0.4%
+    monthly CPI increase.
 figures_aggregate:
   count: 2
   series_ids:
@@ -161,104 +180,45 @@ related_stories:
   headline: U.S. retail sales growth slows to 0.2% in October
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6867
+  strength: 0.6861
 - slug: 2026-11-14-retail-sales-fed-minutes-and-sentiment-data-land-this-week
   headline: Retail sales, Fed minutes and sentiment data land this week
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.6793
+  strength: 0.6782
 - slug: 2026-11-10-u-s-consumer-prices-rise-four-tenths-of-a-percent-in-october
   headline: U.S. consumer prices rise four-tenths of a percent in October
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6904
+  strength: 0.6895
 - slug: 2026-11-11-federal-reserve-officials-weigh-faster-hikes-as-inflation-broadens
   headline: Federal Reserve officials weigh faster hikes as inflation broadens
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6796
+  strength: 0.6784
 - slug: 2026-11-10-aaa-s-average-gasoline-price-falls-to-4-22-as-bls-reports-0-4-monthly-cpi-rise
-  headline: AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly CPI rise
+  headline: AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly
+    CPI rise
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6707
+  strength: 0.6696
 - slug: 2026-11-07-economists-project-october-cpi-at-3-9-as-housing-data-and-jobless-claims-arrive
-  headline: Economists project October CPI at 3.9% as housing data and jobless claims arrive
+  headline: Economists project October CPI at 3.9% as housing data and jobless claims
+    arrive
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6738
+  strength: 0.6731
 - slug: 2026-10-27-us-consumer-confidence-index-rises-7-5-points-to-91-7-in-october
   headline: US consumer confidence index rises 7.5 points to 91.7 in October
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7084
+  strength: 0.7077
 - slug: 2026-10-29-us-economy-grows-3-4-in-third-quarter-on-ai-and-consumer-spending
   headline: US economy grows 3.4% in third quarter on AI and consumer spending
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6623
-- slug: 2026-10-29-iowa-resale-store-manager-says-gas-food-and-utility-bills-outpace-wages
-  headline: Iowa resale store manager says gas, food and utility bills outpace wages
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6615
-- slug: 2026-10-15-tuc-finds-uk-households-paid-13-961-extra-on-bills-since-2021
-  headline: TUC finds UK households paid £13,961 extra on bills since 2021
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.676
-- slug: 2026-10-14-september-inflation-3-7-percent-household-strain
-  headline: US inflation climbs above forecasts to 3.7% as Americans detail strain
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.668
-- slug: 2026-10-14-us-businesses-absorb-nearly-90-of-tariff-costs-new-york-fed-finds
-  headline: US businesses absorb nearly 90% of tariff costs, New York Fed finds
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6647
-- slug: 2026-09-16-u-s-retail-sales-rise-1-2-in-august-reversing-july-decline
-  headline: U.S. retail sales rise 1.2% in August, reversing July decline
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.693
-- slug: 2026-08-12-us-consumers-take-out-record-211-billion-in-auto-loans-fed-report-shows
-  headline: US consumers take out record $211 billion in auto loans, Fed report shows
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.722
-- slug: 2026-06-13-u-s-credit-card-delinquency-nears-2008-peak-amid-lighter-debt-burden
-  headline: U.S. credit card delinquency nears 2008 peak amid lighter debt burden
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.7073
-- slug: 2026-01-14-november-retail-sales-rise-0-6-as-holiday-spending-tops-expectations
-  headline: November retail sales rise 0.6% as holiday spending tops expectations
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7261
-- slug: 2026-01-12-inflation-cools-in-december-but-stays-above-fed-target-food-prices-rise
-  headline: Inflation cools in December but stays above Fed target; food prices rise
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.7089
-- slug: 2026-06-18-average-family-to-spend-800-on-cooling-this-summer-energy-group-says
-  headline: Average family to spend $800 on cooling this summer, energy group says
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6699
-- slug: 2026-01-10-trump-calls-for-10-credit-card-interest-rate-cap-banks-push-back
-  headline: Trump calls for 10% credit card interest rate cap; banks push back
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.694
-- slug: 2026-02-11-december-retail-sales-flat-in-us-underscoring-shaky-consumer-demand
-  headline: December retail sales flat in US, underscoring shaky consumer demand
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6899
+  strength: 0.6616
 ---
-
 ## Card balances hit $1.17 trillion as inflation-adjusted spending is negative
 
 **Subtype:** fact

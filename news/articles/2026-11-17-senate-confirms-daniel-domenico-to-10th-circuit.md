@@ -2,8 +2,15 @@
 headline: Senate confirms Daniel Domenico to 10th Circuit
 secondary_headline: Tymkovich’s move to senior judge status created the vacancy
 publish_date: '2026-11-17'
-lede: The U.S. Senate confirmed Daniel Domenico to the 10th Circuit Court of Appeals on Monday in a 51-46 vote, making him the third Trump appointee on the Denver-based panel of 12 judges. Colorado senators Michael Bennet and John Hickenlooper, both Democrats, voted against the confirmation. Domenico serves as a judge on the U.S. District Court of Colorado and briefly served as its chief judge this year.
-nut_graf: The confirmation adds a third Trump appointee to the Denver-based appeals court, which reviews district-court decisions from multiple states and portions of Yellowstone National Park. Trump will also nominate a replacement for Domenico on the U.S. District Court of Colorado.
+lede: The U.S. Senate confirmed Daniel Domenico to the 10th Circuit Court of Appeals
+  on Monday in a 51-46 vote, making him the third Trump appointee on the Denver-based
+  panel of 12 judges. Colorado senators Michael Bennet and John Hickenlooper, both
+  Democrats, voted against the confirmation. Domenico serves as a judge on the U.S.
+  District Court of Colorado and briefly served as its chief judge this year.
+nut_graf: The confirmation adds a third Trump appointee to the Denver-based appeals
+  court, which reviews district-court decisions from multiple states and portions
+  of Yellowstone National Park. Trump will also nominate a replacement for Domenico
+  on the U.S. District Court of Colorado.
 primary_entities:
 - Daniel Domenico
 - U.S. Senate
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +148,8 @@ cross_article_links:
   strength: 0.6017
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-11-republican-senators-stall-trump-judicial-nominees-in-the-majority-s-final-weeks
-  headline: Republican senators stall Trump judicial nominees in the majority's final weeks
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6346
-- slug: 2026-11-13-justice-department-prepares-for-oversight-fight-with-new-democratic-congress
-  headline: Justice Department prepares for oversight fight with new Democratic Congress
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6071
-- slug: 2026-11-11-justice-department-asks-judge-to-dismiss-steve-bannon-s-contempt-conviction
-  headline: Justice Department asks judge to dismiss Steve Bannon's contempt conviction
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6055
-- slug: 2026-11-05-democratic-senate-majority-clouds-trump-s-path-to-a-fourth-supreme-court-justice
-  headline: Democratic Senate majority clouds Trump's path to a fourth Supreme Court justice
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.62
-- slug: 2026-11-06-white-house-says-trump-will-never-let-democrats-pack-the-supreme-court
-  headline: White House says Trump will never let Democrats pack the Supreme Court
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6038
-- slug: 2026-11-06-us-attorney-leading-grand-conspiracy-probe-into-trump-rivals-resigns
-  headline: US attorney leading 'grand conspiracy' probe into Trump rivals resigns
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5979
-- slug: 2026-11-06-schumer-says-democrats-will-block-any-rightwinger-trump-puts-forward-for-the-sup
-  headline: Schumer says Democrats will block any rightwinger Trump puts forward for the Supreme Court
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5957
-- slug: 2026-10-29-trump-directs-justice-department-to-challenge-possible-alaska-senate-result
-  headline: Trump directs Justice Department to challenge possible Alaska Senate result
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6216
-- slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
-  headline: Alaska voters decide Senate race shadowed by DOJ probe
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.606
-- slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
-  headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6071
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5996
-- slug: 2026-09-27-federal-judge-refers-philadelphia-da-krasner-to-doj-for-investigation
-  headline: Federal judge refers Philadelphia DA Krasner to DOJ for investigation
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6054
-- slug: 2026-09-29-election-lawyer-lays-out-senate-democratic-options-against-house-challenges
-  headline: Election lawyer lays out Senate Democratic options against House challenges
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5939
-- slug: 2026-09-25-jackson-warns-emergency-docket-risks-end-run-around-standard-review
-  headline: Jackson warns emergency docket risks 'end-run around standard review'
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5939
-- slug: 2026-09-21-missouri-supreme-court-summons-hoskins-to-contempt-hearing-on-redistricting
-  headline: Missouri Supreme Court summons Hoskins to contempt hearing on redistricting
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6014
-- slug: 2026-08-08-senate-confirms-todd-blanche-as-attorney-general-in-50-49-vote
-  headline: Senate confirms Todd Blanche as attorney general in 50-49 vote
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6014
-- slug: 2026-05-04-appeals-judges-question-trump-s-long-term-interim-top-prosecutor-setup
-  headline: Appeals judges question Trump’s long-term interim top prosecutor setup
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6252
-- slug: 2026-05-05-federal-appeals-judges-question-trump-s-extended-prosecutor-appointments
-  headline: Federal appeals judges question Trump’s extended prosecutor appointments
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.608
-- slug: 2026-03-09-judge-disqualifies-doj-officials-in-new-jersey-u-s-attorney-case
-  headline: Judge disqualifies DOJ officials in New Jersey U.S. attorney case
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6083
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  headline: Trump redistricting push spreads to one-third of states, giving GOP a three-seat edge
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6088
+related_stories: []
 ---
-
 ## Senate confirms Daniel Domenico to 10th Circuit
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: Biden details tensions with Zelenskyy over U.S. support for Ukraine in memoir
-secondary_headline: Zelenskyy continued peace talks while seeking to limit concessions to Russia
+secondary_headline: Zelenskyy continued peace talks while seeking to limit concessions
+  to Russia
 publish_date: '2026-11-17'
-lede: Joe Biden said in his new memoir that Volodymyr Zelenskyy was “difficult to work with,” could be “moody and stubborn” in private conversations and was not as grateful for U.S. support as Biden had expected. The former president also said Zelenskyy had “tested our patience on many occasions” by demanding more armaments and money, while maintaining that he refused to abandon Ukraine and praising the Ukrainian leader’s fortitude.
-nut_graf: Biden’s memoir presents his account of strains within the wartime U.S.-Ukrainian alliance, including his defense of U.S. weapons purchases. Zelenskyy was still leading Ukraine’s fight against Russia and pursuing peace negotiations, and had not immediately responded to the book.
+lede: Joe Biden said in his new memoir that Volodymyr Zelenskyy was “difficult to
+  work with,” could be “moody and stubborn” in private conversations and was not as
+  grateful for U.S. support as Biden had expected. The former president also said
+  Zelenskyy had “tested our patience on many occasions” by demanding more armaments
+  and money, while maintaining that he refused to abandon Ukraine and praising the
+  Ukrainian leader’s fortitude.
+nut_graf: Biden’s memoir presents his account of strains within the wartime U.S.-Ukrainian
+  alliance, including his defense of U.S. weapons purchases. Zelenskyy was still leading
+  Ukraine’s fight against Russia and pursuing peace negotiations, and had not immediately
+  responded to the book.
 primary_entities:
 - Joe Biden
 - Volodymyr Zelenskyy
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +148,37 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-22-tisdall-compares-trump-s-ukraine-policy-with-chamberlain-s-1938-munich-strategy
-  headline: Tisdall compares Trump's Ukraine policy with Chamberlain's 1938 Munich strategy
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6461
 - slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
   headline: Zelenskyy says Ukraine still sees US as partner despite warnings
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6593
-- slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
-  headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6276
-- slug: 2026-10-21-eu-leaders-seek-ukraine-funding-plan-before-key-elections
-  headline: EU leaders seek Ukraine funding plan before key elections
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6212
-- slug: 2026-10-14-burnham-pledges-further-and-faster-ukraine-aid-in-zelensky-meeting
-  headline: Burnham pledges 'further and faster' Ukraine aid in Zelensky meeting
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6373
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6338
-- slug: 2026-10-13-zelenskyy-flags-intelligence-gap-after-unwarned-kyiv-missile-strike
-  headline: Zelenskyy flags intelligence gap after unwarned Kyiv missile strike
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6252
-- slug: 2026-10-11-britain-backs-zelenskyy-after-trump-urges-ukraine-to-replace-him
-  headline: Britain backs Zelenskyy after Trump urges Ukraine to replace him
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6227
+  strength: 0.6588
 - slug: 2026-09-23-zelensky-says-putin-needs-more-us-pressure-to-curb-attacks
   headline: Zelensky says Putin needs more US pressure to curb attacks
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6617
-- slug: 2026-09-23-zelensky-tells-un-general-assembly-russia-s-war-could-spread
-  headline: Zelensky tells UN General Assembly Russia's war could spread
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6329
+  strength: 0.6607
 - slug: 2026-06-05-volodymyr-zelensky-invites-vladimir-putin-to-face-to-face-peace-talks
   headline: Volodymyr Zelensky invites Vladimir Putin to face-to-face peace talks
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.6684
+  strength: 0.6673
 - slug: 2026-06-09-zelenskyy-says-he-told-trump-that-putin-is-playing-games-with-washington
   headline: Zelenskyy says he told Trump that Putin is 'playing games' with Washington
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.664
-- slug: 2026-08-01-trump-and-zelenskyy-relations-thaw-as-ukraine-offers-help-in-iran-war
-  headline: Trump and Zelenskyy relations thaw as Ukraine offers help in Iran war
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.62
-- slug: 2026-06-20-bessent-urged-trump-to-cancel-zelenskyy-meeting-book-alleges
-  headline: Bessent urged Trump to cancel Zelenskyy meeting, book alleges
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6457
+  strength: 0.6638
 - slug: 2026-02-25-zelenskyy-marks-4th-year-of-russia-invasion-as-he-rejects-broken-claim
   headline: Zelenskyy marks 4th year of Russia invasion as he rejects ‘broken’ claim
   publish_date: '2026-02-25'
   relation: related
-  strength: 0.6615
+  strength: 0.6595
 - slug: 2026-03-14-zelenskyy-ready-for-peace-talks-but-says-us-and-russia-must-act
   headline: Zelenskyy ready for peace talks but says US and Russia must act
   publish_date: '2026-03-14'
   relation: related
-  strength: 0.6565
-- slug: 2026-03-29-rubio-denies-us-pressed-ukraine-to-cede-donbas-for-security-guarantees
-  headline: Rubio denies US pressed Ukraine to cede Donbas for security guarantees
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6454
-- slug: 2026-02-13-zelenskyy-questions-allies-on-ukraine-security-guarantees-after-munich-remarks
-  headline: Zelenskyy questions allies on Ukraine security guarantees after Munich remarks
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.649
-- slug: 2026-01-25-zelenskyy-says-us-security-agreement-for-ukraine-is-ready-to-sign
-  headline: Zelenskyy says US security agreement for Ukraine is ready to sign
-  publish_date: '2026-01-25'
-  relation: related
-  strength: 0.641
-- slug: 2026-05-09-moscow-and-kyiv-accuse-each-other-of-violating-us-brokered-truce
-  headline: Moscow and Kyiv accuse each other of violating US-brokered truce
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6181
+  strength: 0.6556
 ---
-
 ## Biden details tensions with Zelenskyy over U.S. support for Ukraine in memoir
 
 **Subtype:** fact
