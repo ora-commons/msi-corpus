@@ -71,7 +71,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -258,3 +258,10 @@ Associated Press writers Joey Cappelletti and Kevin Freking in Washington, Meg K
 **Publication date:** 2026-11-17
 **Title:** Van Hollen's bid to replace Schumer puts pressure on Democrats to take sides
 **URL:** https://www.pbs.org/newshour/politics/van-hollens-bid-to-replace-schumer-puts-pressure-on-democrats-to-take-sides
+
+### src_late_d31f5a4d7d705007 — Associated Press, wire, Tier 1, originating
+**Author:** Mary Clare Jalonick
+**Publication date:** 2026-11-17
+**Title:** Van Hollen bid to replace Schumer pressures Democrats to take sides
+**URL:** https://apnews.com/article/senate-democrats-van-hollen-schumer-5cc345ebec174e39debd10ded01a32b0
+**Added after publication:** true
