@@ -2,8 +2,16 @@
 headline: Connecticut delays Medicaid work-rule coverage losses through June 30, 2027
 secondary_headline: Federal rules still take effect Jan. 1 despite the six-month reprieve
 publish_date: '2026-11-17'
-lede: Connecticut Gov. Ned Lamont and state Department of Social Services Commissioner Andrea Barton Reeves said Monday that the state will use a federal hold harmless period to prevent otherwise eligible HUSKY D members from losing Medicaid coverage if they fail new work requirements. The six-month period extends through and including June 30, 2027, although the requirements themselves take effect Jan. 1.
-nut_graf: The reprieve gives Connecticut time to prepare its systems but does not postpone the Jan. 1 start of the work requirement or repeal it. Members who do not meet the requirement or qualify for an exemption could face coverage loss after the reprieve, while several Democrats won their midterm races after campaigning to reverse some Medicaid changes permanently.
+lede: Connecticut Gov. Ned Lamont and state Department of Social Services Commissioner
+  Andrea Barton Reeves said Monday that the state will use a federal hold harmless
+  period to prevent otherwise eligible HUSKY D members from losing Medicaid coverage
+  if they fail new work requirements. The six-month period extends through and including
+  June 30, 2027, although the requirements themselves take effect Jan. 1.
+nut_graf: The reprieve gives Connecticut time to prepare its systems but does not
+  postpone the Jan. 1 start of the work requirement or repeal it. Members who do not
+  meet the requirement or qualify for an exemption could face coverage loss after
+  the reprieve, while several Democrats won their midterm races after campaigning
+  to reverse some Medicaid changes permanently.
 primary_entities:
 - Connecticut
 - HUSKY D
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,117 +150,61 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-17-kentucky-medicaid-work-requirements-remain-set-for-jan-1
+  headline: Kentucky Medicaid work requirements remain set for Jan. 1
+  publish_date: '2026-11-17'
+  relation: related
+  strength: 0.7891
 - slug: 2026-11-13-cms-creates-optional-hold-harmless-period-for-medicaid-work-rule
   headline: CMS creates optional hold harmless period for Medicaid work rule
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.808
+  strength: 0.8082
 - slug: 2026-11-13-cms-lets-states-delay-medicaid-work-requirement-enforcement-until-july
   headline: CMS lets states delay Medicaid work requirement enforcement until July
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7835
+  strength: 0.7836
 - slug: 2026-11-17-ohio-prepares-for-medicaid-work-rules-as-federal-law-phases-in
   headline: Ohio prepares for Medicaid work rules as federal law phases in
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7066
+  strength: 0.7071
 - slug: 2026-11-13-states-lack-guidance-on-medicaid-work-rule-exemptions-for-native-americans
   headline: States lack guidance on Medicaid work-rule exemptions for Native Americans
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6944
+  strength: 0.6949
 - slug: 2026-11-09-nebraska-medicaid-work-rules-bring-denials-amid-dispute-over-patient-s-coverage
-  headline: Nebraska Medicaid work rules bring denials amid dispute over patient's coverage
+  headline: Nebraska Medicaid work rules bring denials amid dispute over patient's
+    coverage
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6784
+  strength: 0.6782
 - slug: 2026-10-29-judge-blocks-stricter-medicaid-exemption-rule-for-chronically-ill
   headline: Judge blocks stricter Medicaid exemption rule for chronically ill
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7186
+  strength: 0.7192
 - slug: 2026-10-29-ama-president-calls-medicaid-frailty-ruling-a-victory-for-patients
   headline: AMA president calls Medicaid frailty ruling 'a victory for patients'
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6716
-- slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7264
-- slug: 2026-06-01-trump-administration-imposes-80-hour-monthly-work-requirement-for-medicaid
-  headline: Trump administration imposes 80-hour monthly work requirement for Medicaid
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7496
-- slug: 2026-08-04-federal-medicaid-work-rule-excludes-homelessness-as-automatic-exemption
-  headline: Federal Medicaid work rule excludes homelessness as automatic exemption
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6624
-- slug: 2026-01-08-connecticut-weighs-enrollment-extension-as-aca-subsidy-lapse-spikes-premiums
-  headline: Connecticut weighs enrollment extension as ACA subsidy lapse spikes premiums
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.7267
-- slug: 2026-07-22-budget-law-stalls-bipartisan-pre-release-medicaid-effort
-  headline: Budget law stalls bipartisan pre-release Medicaid effort
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6563
-- slug: 2026-04-27-nebraska-to-start-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to start Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6899
-- slug: 2026-04-28-nebraska-to-enforce-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to enforce Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6842
-- slug: 2026-03-05-trump-medicaid-work-mandate-could-disrupt-care-for-homeless-californians
-  headline: Trump Medicaid work mandate could disrupt care for homeless Californians
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6897
-- slug: 2025-12-29-work-requirements-for-snap-medicaid-and-hud-benefits-a-state-by-state-impact
-  headline: 'Work requirements for SNAP, Medicaid and HUD benefits: a state-by-state impact'
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6818
-- slug: 2026-03-15-unbelievably-cruel-advocates-decry-lamont-bid-to-end-connecticut-home-care
-  headline: '‘Unbelievably cruel’: Advocates decry Lamont bid to end Connecticut home care'
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.667
-- slug: 2026-03-02-medicaid-work-mandates-force-states-to-spend-millions-on-new-technology
-  headline: Medicaid work mandates force states to spend millions on new technology
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6637
-- slug: 2026-01-06-connecticut-comptroller-urges-realistic-medicaid-budgets-as-federal-cuts-loom
-  headline: Connecticut comptroller urges realistic Medicaid budgets as federal cuts loom
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6643
-- slug: 2025-12-30-trump-era-work-rules-could-change-snap-medicaid-and-hud-housing-eligibility
-  headline: Trump-era work rules could change SNAP, Medicaid and HUD housing eligibility
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6579
+  strength: 0.6721
 image:
   url: /articles/2026-11-17-connecticut-delays-medicaid-work-rule-coverage-losses-through-june-30-2027.png
-  alt: "Illustration accompanying article: Connecticut delays Medicaid work-rule coverage losses through June 30, 2027"
+  alt: 'Illustration accompanying article: Connecticut delays Medicaid work-rule coverage
+    losses through June 30, 2027'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Connecticut delays Medicaid work-rule coverage losses through June 30, 2027
 
 **Subtype:** fact

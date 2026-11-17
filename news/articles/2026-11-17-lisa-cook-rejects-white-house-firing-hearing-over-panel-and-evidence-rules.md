@@ -2,8 +2,15 @@
 headline: Lisa Cook rejects White House firing hearing over panel and evidence rules
 secondary_headline: Scharf had warned the hearing could proceed without Cook
 publish_date: '2026-11-17'
-lede: Federal Reserve governor Lisa Cook will not participate in a White House hearing on whether to fire her unless the administration changes the panel and how evidence is shared, her lawyer said in a Monday letter. Her lawyer, Abbe Lowell, said Cook would be prepared to appear before an unbiased panel using fair procedures. The hearing is scheduled for Dec. 14.
-nut_graf: The disagreement centers on whether the White House hearing can satisfy the Supreme Court's procedural requirements while giving Cook a fair opportunity to respond. Cook remains a Federal Reserve governor as her removal case proceeds before U.S. District Judge Jia Cobb.
+lede: Federal Reserve governor Lisa Cook will not participate in a White House hearing
+  on whether to fire her unless the administration changes the panel and how evidence
+  is shared, her lawyer said in a Monday letter. Her lawyer, Abbe Lowell, said Cook
+  would be prepared to appear before an unbiased panel using fair procedures. The
+  hearing is scheduled for Dec. 14.
+nut_graf: The disagreement centers on whether the White House hearing can satisfy
+  the Supreme Court's procedural requirements while giving Cook a fair opportunity
+  to respond. Cook remains a Federal Reserve governor as her removal case proceeds
+  before U.S. District Judge Jia Cobb.
 primary_entities:
 - Lisa Cook
 - Abbe Lowell
@@ -47,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,113 +153,58 @@ related_stories:
   headline: Trump forms committee to investigate Fed governor Cook
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7891
+  strength: 0.7907
+- slug: 2026-08-27-lisa-cook-s-attorneys-tell-white-house-trump-has-no-legal-basis-to-fire-her
+  headline: Lisa Cook's attorneys tell White House Trump has no legal basis to fire
+    her
+  publish_date: '2026-08-27'
+  relation: related
+  strength: 0.794
 - slug: 2026-08-07-trump-sends-cook-new-removal-notice-despite-supreme-court-ruling
   headline: Trump sends Cook new removal notice despite Supreme Court ruling
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.8236
-- slug: 2026-08-27-lisa-cook-s-attorneys-tell-white-house-trump-has-no-legal-basis-to-fire-her
-  headline: Lisa Cook's attorneys tell White House Trump has no legal basis to fire her
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7923
+  strength: 0.8247
 - slug: 2026-01-19-powell-to-attend-supreme-court-argument-in-fed-governor-cook-firing-case
   headline: Powell to attend Supreme Court argument in Fed governor Cook firing case
   publish_date: '2026-01-19'
   relation: related
-  strength: 0.8013
+  strength: 0.802
 - slug: 2026-06-29-supreme-court-blocks-trump-s-removal-of-fed-governor-cook
   headline: Supreme Court blocks Trump's removal of Fed governor Cook
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.7614
+  strength: 0.7627
 - slug: 2026-01-21-supreme-court-skeptical-of-trump-bid-to-remove-fed-governor-cook
   headline: Supreme Court skeptical of Trump bid to remove Fed Governor Cook
   publish_date: '2026-01-21'
   relation: related
-  strength: 0.7924
+  strength: 0.7935
 - slug: 2026-01-20-supreme-court-weighs-trump-s-effort-to-oust-fed-governor-cook
   headline: Supreme Court weighs Trump's effort to oust Fed governor Cook
   publish_date: '2026-01-20'
   relation: related
-  strength: 0.782
+  strength: 0.7836
 - slug: 2026-06-18-fed-gov-lisa-cook-faced-1-3m-in-legal-and-security-fees-after-trump-firing-attem
-  headline: Fed Gov. Lisa Cook faced $1.3M in legal and security fees after Trump firing attempt
+  headline: Fed Gov. Lisa Cook faced $1.3M in legal and security fees after Trump
+    firing attempt
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.7459
-- slug: 2026-06-29-supreme-court-expands-presidential-firing-power-blocks-cook-ouster-upholds-mail-
-  headline: Supreme Court expands presidential firing power, blocks Cook ouster, upholds mail ballots
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6811
-- slug: 2026-06-01-powell-warns-political-interference-could-permanently-destroy-trust-in-the-fed
-  headline: Powell warns political interference could permanently destroy trust in the Fed
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.677
-- slug: 2026-04-30-powell-to-remain-on-fed-board-after-chair-term-ends-blocking-trump-pick
-  headline: Powell to remain on Fed board after chair term ends, blocking Trump pick
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6809
-- slug: 2026-06-29-supreme-court-gives-trump-power-to-fire-agency-leaders
-  headline: Supreme Court gives Trump power to fire agency leaders
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6539
-- slug: 2026-04-16-prosecutors-turned-away-at-fed-as-trump-threatens-to-fire-powell
-  headline: Prosecutors turned away at Fed as Trump threatens to fire Powell
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6828
-- slug: 2026-04-29-fed-transition-powell-signals-next-steps-as-warsh-confirmation-looms
-  headline: 'Fed transition: Powell signals next steps as Warsh confirmation looms'
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6766
-- slug: 2026-01-29-fed-holds-rates-steady-as-powell-cites-improved-economy-tariff-inflation
-  headline: Fed holds rates steady as Powell cites improved economy, tariff inflation
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6856
-- slug: 2026-01-23-supreme-court-shields-federal-reserve-while-expanding-trump-s-agency-firing-powe
-  headline: Supreme Court shields Federal Reserve while expanding Trump's agency firing power
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6821
-- slug: 2026-05-02-trump-pick-kevin-warsh-faces-a-fed-reshaped-by-powell-s-stay
-  headline: Trump pick Kevin Warsh faces a Fed reshaped by Powell’s stay
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6618
-- slug: 2026-04-22-trump-s-fed-nominee-kevin-warsh-vows-to-curb-inflation-despite-rate-cut-push
-  headline: Trump’s Fed nominee Kevin Warsh vows to curb inflation despite rate-cut push
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6612
-- slug: 2026-03-20-powell-says-he-will-remain-federal-reserve-chair-if-warsh-isn-t-confirmed
-  headline: Powell says he will remain Federal Reserve chair if Warsh isn’t confirmed
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6665
-- slug: 2026-04-16-sen-warren-demands-fuller-warsh-disclosure-ahead-of-fed-chair-hearing
-  headline: Sen. Warren demands fuller Warsh disclosure ahead of Fed chair hearing
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6607
+  strength: 0.7466
 image:
   url: /articles/2026-11-17-lisa-cook-rejects-white-house-firing-hearing-over-panel-and-evidence-rules.png
-  alt: "Illustration accompanying article: Lisa Cook rejects White House firing hearing over panel and evidence rules"
+  alt: 'Illustration accompanying article: Lisa Cook rejects White House firing hearing
+    over panel and evidence rules'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Lisa Cook rejects White House firing hearing over panel and evidence rules
 
 **Subtype:** fact

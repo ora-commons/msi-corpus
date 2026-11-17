@@ -1,9 +1,18 @@
 ---
 headline: HUD finalizes public housing eligibility rule amid tenant opposition
-secondary_headline: 2025 analysis estimated nearly 80,000 people could be displaced nationwide
+secondary_headline: 2025 analysis estimated nearly 80,000 people could be displaced
+  nationwide
 publish_date: '2026-11-17'
-lede: The US Department of Housing and Urban Development has finalized a rule requiring every member of a household in federally funded public housing to be a US citizen or a noncitizen eligible for HUD assistance, with implementation scheduled for Dec. 14. The Massachusetts Union of Public Housing Tenants said it was reviewing the rule and exploring ways with allies to stop it.
-nut_graf: The final rule reverses a 1995 practice that allowed mixed-status households to remain in federally funded housing when subsidies were prorated only for eligible members. Massachusetts advocates say the change could displace families, while HUD says subsidies relinquished by mixed-status households would go to fully eligible applicants on waiting lists.
+lede: The US Department of Housing and Urban Development has finalized a rule requiring
+  every member of a household in federally funded public housing to be a US citizen
+  or a noncitizen eligible for HUD assistance, with implementation scheduled for Dec.
+  14. The Massachusetts Union of Public Housing Tenants said it was reviewing the
+  rule and exploring ways with allies to stop it.
+nut_graf: The final rule reverses a 1995 practice that allowed mixed-status households
+  to remain in federally funded housing when subsidies were prorated only for eligible
+  members. Massachusetts advocates say the change could displace families, while HUD
+  says subsidies relinquished by mixed-status households would go to fully eligible
+  applicants on waiting lists.
 primary_entities:
 - US Department of Housing and Urban Development
 - Massachusetts Union of Public Housing Tenants
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +154,47 @@ related_stories:
   headline: US homelessness falls more than 6% in 2025, largest drop in over a decade
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.654
+  strength: 0.6539
 - slug: 2026-02-20-hud-proposes-rule-to-require-citizenship-or-eligible-status-in-public-housing
-  headline: HUD proposes rule to require citizenship or eligible status in public housing
+  headline: HUD proposes rule to require citizenship or eligible status in public
+    housing
   publish_date: '2026-02-20'
   relation: related
-  strength: 0.8424
+  strength: 0.8423
 - slug: 2026-09-10-census-proposal-would-exclude-refugees-and-asylum-seekers
   headline: Census proposal would exclude refugees and asylum seekers
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6663
+  strength: 0.6667
 - slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
+  headline: States sue to block public charge rule, citing billions in lost federal
+    funds
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6544
-- slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
-  headline: NYC and coalition of cities sue over Trump immigration benefits rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6459
-- slug: 2026-09-10-2030-census-proposal-seeks-input-on-immigrants-with-temporary-status
-  headline: 2030 census proposal seeks input on immigrants with temporary status
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6435
-- slug: 2026-09-09-trump-officials-propose-major-2030-census-overhaul-excluding-noncitizens
-  headline: Trump officials propose major 2030 census overhaul excluding noncitizens
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6387
+  strength: 0.6545
 - slug: 2026-08-19-massachusetts-housing-bills-head-to-conference-committee-amid-222-000-home-goal
-  headline: Massachusetts housing bills head to conference committee amid 222,000-home goal
+  headline: Massachusetts housing bills head to conference committee amid 222,000-home
+    goal
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.6555
+  strength: 0.6558
 - slug: 2026-08-07-federal-judge-blocks-hud-s-homelessness-funding-shift
   headline: Federal judge blocks HUD's homelessness funding shift
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6685
+  strength: 0.6681
 - slug: 2026-08-04-federal-medicaid-work-rule-excludes-homelessness-as-automatic-exemption
   headline: Federal Medicaid work rule excludes homelessness as automatic exemption
   publish_date: '2026-08-04'
   relation: related
-  strength: 0.6544
+  strength: 0.6537
 - slug: 2026-05-14-bungled-housing-message-in-texas-sparked-exodus-amid-trump-immigration-rule
-  headline: Bungled housing message in Texas sparked exodus amid Trump immigration rule
+  headline: Bungled housing message in Texas sparked exodus amid Trump immigration
+    rule
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6968
-- slug: 2026-06-30-1996-law-at-center-of-doj-tuition-suits-against-mass-r-i
-  headline: 1996 law at center of DOJ tuition suits against Mass., R.I.
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6541
-- slug: 2026-04-01-judge-rules-trump-administration-s-homeless-funding-changes-unlawful
-  headline: Judge rules Trump administration's homeless funding changes unlawful
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6834
-- slug: 2026-07-06-trump-administration-immigration-changes-reach-spouses-of-u-s-citizens-lawyers-s
-  headline: Trump administration immigration changes reach spouses of U.S. citizens, lawyers say
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6425
-- slug: 2026-05-15-texas-town-s-housing-authority-bungled-immigrant-eviction-message
-  headline: Texas town’s housing authority bungled immigrant-eviction message
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6681
-- slug: 2026-06-24-massachusetts-supreme-court-strikes-down-rent-control-ballot-measure
-  headline: Massachusetts Supreme Court Strikes Down Rent-Control Ballot Measure
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6407
-- slug: 2026-05-22-trump-administration-mandates-green-card-applicants-leave-u-s-to-apply-abroad
-  headline: Trump administration mandates green card applicants leave U.S. to apply abroad
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6529
-- slug: 2026-05-22-trump-administration-requires-green-card-applicants-to-apply-from-abroad
-  headline: Trump administration requires green card applicants to apply from abroad
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6466
-- slug: 2026-05-27-uscis-requires-green-card-applicants-to-leave-u-s-apply-abroad
-  headline: USCIS requires green card applicants to leave U.S., apply abroad
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6434
-- slug: 2026-05-23-trump-s-green-card-change-would-send-some-applicants-abroad-to-apply
-  headline: Trump’s green-card change would send some applicants abroad to apply
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6435
+  strength: 0.6966
 ---
-
 ## HUD finalizes public housing eligibility rule amid tenant opposition
 
 **Subtype:** fact

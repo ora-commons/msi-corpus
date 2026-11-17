@@ -1,9 +1,19 @@
 ---
 headline: Chloe Moffat's parents launch policy for employers after Treasury inquest
-secondary_headline: Treasury memorial garden planned; civil service changes meeting rules
+secondary_headline: Treasury memorial garden planned; civil service changes meeting
+  rules
 publish_date: '2026-11-17'
-lede: The parents of Chloe Moffat, a Treasury employee who took her own life the day after a disciplinary meeting, have launched a workplace policy asking human-resources departments to reduce and improve disciplinary processes. The framework calls for psychological safety, clearer notice and support for workers, especially when complaints are anonymous or unverified. The civil service has added procedural safeguards, and the Treasury plans to plant a memorial garden for Moffat at its Horse Guards Road offices.
-nut_graf: The initiative broadens the issue from one Treasury case to employer practice generally, with the Moffats asking organizations across the country to help develop and adopt the framework. It comes as the civil service changes disciplinary procedures after a coroner found that the Treasury materially contributed to Moffat's death.
+lede: The parents of Chloe Moffat, a Treasury employee who took her own life the day
+  after a disciplinary meeting, have launched a workplace policy asking human-resources
+  departments to reduce and improve disciplinary processes. The framework calls for
+  psychological safety, clearer notice and support for workers, especially when complaints
+  are anonymous or unverified. The civil service has added procedural safeguards,
+  and the Treasury plans to plant a memorial garden for Moffat at its Horse Guards
+  Road offices.
+nut_graf: The initiative broadens the issue from one Treasury case to employer practice
+  generally, with the Moffats asking organizations across the country to help develop
+  and adopt the framework. It comes as the civil service changes disciplinary procedures
+  after a coroner found that the Treasury materially contributed to Moffat's death.
 primary_entities:
 - Chloe Moffat
 - Anne Moffat
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +156,19 @@ related_stories:
   headline: UK Treasury accepts it contributed to employee Chloe Moffat's death
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8516
+  strength: 0.8519
 - slug: 2026-10-15-chloe-moffat-s-parents-to-press-treasury-on-individual-accountability
   headline: Chloe Moffat's parents to press Treasury on individual accountability
   publish_date: '2026-10-15'
   relation: related
   strength: 0.887
 - slug: 2026-08-26-coroner-finds-treasury-meeting-materially-contributed-to-civil-servant-s-death
-  headline: Coroner finds Treasury meeting materially contributed to civil servant's death
+  headline: Coroner finds Treasury meeting materially contributed to civil servant's
+    death
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.8394
-- slug: 2026-10-24-house-working-group-considers-new-harassment-reporting-safeguards
-  headline: House working group considers new harassment-reporting safeguards
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5791
-- slug: 2026-10-23-jane-doe-s-lawyer-says-she-fears-for-her-safety-as-cornell-civil-case-advances
-  headline: Jane Doe's lawyer says she fears for her safety as Cornell civil case advances
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5755
-- slug: 2026-10-09-uk-coastguard-chief-faces-resignation-calls-after-regulator-finds-90-pay-claim-u
-  headline: UK coastguard chief faces resignation calls after regulator finds 90% pay claim unverified
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.57
-- slug: 2026-10-05-nurse-thrown-to-ground-by-ice-outside-delaney-hall-files-federal-tort-claim
-  headline: Nurse thrown to ground by ICE outside Delaney Hall files federal tort claim
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5724
-- slug: 2026-09-09-jackson-police-investigating-tasia-fortune-hanging-as-potential-homicide
-  headline: Jackson police investigating Tasia Fortune hanging as potential homicide
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5771
-- slug: 2026-08-25-education-department-probes-two-districts-over-race-in-discipline
-  headline: Education Department probes two districts over race in discipline
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5796
-- slug: 2026-07-09-education-department-holds-private-call-with-disability-advocates-on-special-ed-
-  headline: Education Department holds private call with disability advocates on special ed move
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5822
-- slug: 2026-06-24-wa-police-to-review-response-to-virginia-giuffre-domestic-violence-dispute
-  headline: WA police to review response to Virginia Giuffre domestic violence dispute
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.579
-- slug: 2026-06-30-hhs-reorganizes-civil-rights-office-around-religious-conscience-protections
-  headline: HHS reorganizes civil rights office around religious conscience protections
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5721
-- slug: 2026-06-19-law-students-petition-supreme-court-to-extend-workplace-protections-to-federal-c
-  headline: Law students petition Supreme Court to extend workplace protections to federal court employees
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5708
-- slug: 2026-05-02-connecticut-house-approves-bill-creating-new-child-welfare-oversight
-  headline: Connecticut House approves bill creating new child welfare oversight
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5848
-- slug: 2026-06-05-treasury-asks-banks-casinos-to-flag-illegal-immigrant-labor-schemes
-  headline: Treasury asks banks, casinos to flag illegal immigrant labor schemes
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5727
-- slug: 2026-06-11-amanda-sloat-describes-father-s-teachings-on-death-in-personal-essay
-  headline: Amanda Sloat describes father's teachings on death in personal essay
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5697
-- slug: 2026-01-09-treasury-secretary-bessent-orders-minnesota-scrutiny-of-somalia-linked-money-flo
-  headline: Treasury Secretary Bessent orders Minnesota scrutiny of Somalia-linked money flows
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.5972
-- slug: 2026-06-01-eeoc-proposes-ending-workforce-demographic-tracking-and-rescinding-affirmative-a
-  headline: EEOC proposes ending workforce demographic tracking and rescinding affirmative action guidelines
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5706
-- slug: 2026-01-10-treasury-secretary-bessent-announces-minnesota-crackdown-on-fraud-and-remittance
-  headline: Treasury Secretary Bessent announces Minnesota crackdown on fraud and remittances
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.5894
-- slug: 2026-05-03-fema-tells-court-it-s-offering-jobs-back-to-core-staff-let-go
-  headline: FEMA tells court it’s offering jobs back to CORE staff let go
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.574
+  strength: 0.8391
 ---
-
 ## Chloe Moffat's parents launch policy for employers after Treasury inquest
 
 **Subtype:** fact
