@@ -1,9 +1,17 @@
 ---
 headline: JetBlue flight lands safely after severe turbulence injures five in Florida
-secondary_headline: At Terminal 3, Broward Sheriff Fire Rescue personnel identified people reporting injuries
+secondary_headline: At Terminal 3, Broward Sheriff Fire Rescue personnel identified
+  people reporting injuries
 publish_date: '2026-11-17'
-lede: Five people were injured when severe turbulence struck a JetBlue flight arriving from Puerto Rico during its landing at Fort Lauderdale-Hollywood International Airport on Tuesday morning, according to The Guardian. Broward Sheriff Fire Rescue said the aircraft landed safely at approximately 6:58 a.m. and proceeded to Terminal 3. The Guardian reported that some injured people required hospitalization.
-nut_graf: Experts cited by The Guardian believe turbulence is likely to get worse as the climate crisis plays out. The Guardian also cited a University of Reading analysis of atmospheric data from 1979 to 2020, but did not identify clear-air turbulence as the cause of the JetBlue incident.
+lede: Five people were injured when severe turbulence struck a JetBlue flight arriving
+  from Puerto Rico during its landing at Fort Lauderdale-Hollywood International Airport
+  on Tuesday morning, according to The Guardian. Broward Sheriff Fire Rescue said
+  the aircraft landed safely at approximately 6:58 a.m. and proceeded to Terminal
+  3. The Guardian reported that some injured people required hospitalization.
+nut_graf: Experts cited by The Guardian believe turbulence is likely to get worse
+  as the climate crisis plays out. The Guardian also cited a University of Reading
+  analysis of atmospheric data from 1979 to 2020, but did not identify clear-air turbulence
+  as the cause of the JetBlue incident.
 primary_entities:
 - JetBlue
 - Fort Lauderdale-Hollywood International Airport
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,66 +147,16 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-15-ntsb-says-stuck-rudder-sent-tanker-into-new-orleans-cruise-ship
-  headline: NTSB says stuck rudder sent tanker into New Orleans cruise ship
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6377
-- slug: 2026-11-15-two-planes-collide-on-miami-taxiway-injuring-two
-  headline: Two planes collide on Miami taxiway, injuring two
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6216
-- slug: 2026-11-10-ntsb-evaluates-recovered-cockpit-recorder-after-florida-learjet-crash
-  headline: NTSB evaluates recovered cockpit recorder after Florida Learjet crash
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6235
 - slug: 2026-11-03-ntsb-says-tail-pieces-show-florida-learjet-broke-apart-before-impact
   headline: NTSB says tail pieces show Florida Learjet broke apart before impact
   publish_date: '2026-11-03'
   relation: related
   strength: 0.6557
-- slug: 2026-11-08-small-plane-hits-pickup-during-emergency-landing-on-fort-myers-road-no-one-hurt
-  headline: Small plane hits pickup during emergency landing on Fort Myers road, no one hurt
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6225
 - slug: 2026-10-09-avianca-turbulence-injures-at-least-eight-forces-miami-emergency-landing
   headline: Avianca turbulence injures at least eight, forces Miami emergency landing
   publish_date: '2026-10-09'
   relation: related
   strength: 0.7637
-- slug: 2026-11-03-ntsb-focuses-on-weather-and-flight-decisions-after-deadly-florida-learjet-crash
-  headline: NTSB focuses on weather and flight decisions after deadly Florida Learjet crash
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6374
-- slug: 2026-11-02-flight-data-shows-jet-plunged-at-up-to-30-000-feet-per-minute-in-greenacres
-  headline: Flight data shows jet plunged at up to 30,000 feet per minute in Greenacres
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6335
-- slug: 2026-11-01-business-jet-crashes-in-palm-beach-county-killing-all-nine-aboard
-  headline: Business jet crashes in Palm Beach County, killing all nine aboard
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6267
-- slug: 2026-11-02-anthony-blackmon-says-debris-hit-his-house-after-south-florida-jet-crash
-  headline: Anthony Blackmon says debris hit his house after South Florida jet crash
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6201
-- slug: 2026-10-03-officials-believe-air-ambulance-rapidly-descended-7-500-feet-off-nantucket
-  headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6206
-- slug: 2026-09-07-small-plane-crashes-near-titusville-airport-ntsb-says
-  headline: Small plane crashes near Titusville airport, NTSB says
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.627
 - slug: 2026-08-04-cold-front-turbulence-diverts-more-than-20-flights-from-denver
   headline: Cold front turbulence diverts more than 20 flights from Denver
   publish_date: '2026-08-04'
@@ -208,38 +167,7 @@ related_stories:
   publish_date: '2026-06-29'
   relation: related
   strength: 0.6762
-- slug: 2026-06-04-ntsb-united-jet-was-too-slow-and-too-low-before-newark-landing-accident
-  headline: 'NTSB: United jet was too slow and too low before Newark landing accident'
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6293
-- slug: 2026-05-05-united-plane-avoids-catastrophe-after-hitting-truck-light-pole-in-newark
-  headline: United plane avoids catastrophe after hitting truck, light pole in Newark
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.639
-- slug: 2026-05-09-frontier-flight-hits-pedestrian-on-denver-runway-ntsb-opens-evacuation-investiga
-  headline: Frontier flight hits pedestrian on Denver runway; NTSB opens evacuation investigation
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6345
-- slug: 2026-03-25-ntsb-says-laguardia-controller-cleared-fire-truck-12-seconds-before-crash
-  headline: NTSB says LaGuardia controller cleared fire truck 12 seconds before crash
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6389
-- slug: 2026-03-24-laguardia-runway-crash-closes-airport-after-air-canada-collision
-  headline: LaGuardia runway crash closes airport after Air Canada collision
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6382
-- slug: 2026-05-09-ntsb-examining-evacuation-after-frontier-plane-hit-pedestrian-at-denver-runway
-  headline: NTSB examining evacuation after Frontier plane hit pedestrian at Denver runway
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6286
 ---
-
 ## JetBlue flight lands safely after severe turbulence injures five in Florida
 
 **Subtype:** fact
