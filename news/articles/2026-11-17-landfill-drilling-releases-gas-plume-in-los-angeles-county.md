@@ -1,9 +1,16 @@
 ---
 headline: Landfill drilling releases gas plume in Los Angeles County
-secondary_headline: Six people taken to hospital with minor injuries after the gas release
+secondary_headline: Six people taken to hospital with minor injuries after the gas
+  release
 publish_date: '2026-11-17'
-lede: Crews drilling at the Chiquita Canyon Landfill in Castaic caused gas and decomposing garbage to escape on Monday, producing a large plume in Los Angeles County. Six people were taken to the hospital with minor injuries, according to Jonathan Torres, a spokesman for the county’s fire department.
-nut_graf: Santa Clarita warned the public to avoid the landfill area and told some nearby residents to prepare to evacuate. Fire department spokesman Aaron Katon said officials monitored the air and found no hazard to anyone in the community, while Gavin Newsom’s office said it was monitoring the situation.
+lede: Crews drilling at the Chiquita Canyon Landfill in Castaic caused gas and decomposing
+  garbage to escape on Monday, producing a large plume in Los Angeles County. Six
+  people were taken to the hospital with minor injuries, according to Jonathan Torres,
+  a spokesman for the county’s fire department.
+nut_graf: Santa Clarita warned the public to avoid the landfill area and told some
+  nearby residents to prepare to evacuate. Fire department spokesman Aaron Katon said
+  officials monitored the air and found no hazard to anyone in the community, while
+  Gavin Newsom’s office said it was monitoring the situation.
 primary_entities:
 - Los Angeles County
 - Chiquita Canyon Landfill
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,33 +148,14 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
-  headline: Flood warning remains in Four Corners as San Juan River nears crest
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6083
-- slug: 2026-10-21-toledo-orders-more-than-900-residents-out-after-m-c-tank-terminal-explosion
-  headline: Toledo orders more than 900 residents out after M.C. Tank Terminal explosion
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6225
-- slug: 2026-09-08-la-habra-authorities-contain-chemical-tank-leak-substance-unknown
-  headline: La Habra authorities contain chemical tank leak, substance unknown
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6083
-- slug: 2026-08-30-bright-angel-creek-flash-flood-forces-dozens-to-evacuate-grand-canyon
-  headline: Bright Angel Creek flash flood forces dozens to evacuate Grand Canyon
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6132
 - slug: 2026-05-23-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
   headline: 40,000 ordered to evacuate in Southern California after chemical leak
   publish_date: '2026-05-23'
   relation: related
   strength: 0.6684
 - slug: 2026-05-25-crack-found-on-damaged-southern-california-chemical-tank-as-evacuation-continues
-  headline: Crack found on damaged Southern California chemical tank as evacuation continues
+  headline: Crack found on damaged Southern California chemical tank as evacuation
+    continues
   publish_date: '2026-05-25'
   relation: related
   strength: 0.6657
@@ -190,58 +179,7 @@ related_stories:
   publish_date: '2026-05-24'
   relation: related
   strength: 0.6504
-- slug: 2026-05-23-chemical-tank-heat-scare-prompts-evacuations-for-40-000-in-parts-of-orange-count
-  headline: Chemical tank heat scare prompts evacuations for 40,000 in parts of Orange County
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6499
-- slug: 2026-05-26-southern-calif-officials-lift-final-evacuation-orders-near-damaged-chemical-tank
-  headline: Southern Calif. officials lift final evacuation orders near damaged chemical tank
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6473
-- slug: 2026-05-23-crack-found-on-southern-california-chemical-tank-may-reduce-explosion-risk-but-e
-  headline: Crack found on Southern California chemical tank may reduce explosion risk, but evacuations hold
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6465
-- slug: 2026-05-24-evacuation-orders-lifted-for-many-near-damaged-southern-california-chemical-tank
-  headline: Evacuation orders lifted for many near damaged Southern California chemical tank
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6459
-- slug: 2026-05-23-evacuations-near-overheated-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near overheated chemical tank extend into holiday weekend
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6448
-- slug: 2026-05-24-partial-evacuation-lift-allows-34-000-california-residents-to-return-home
-  headline: Partial evacuation lift allows 34,000 California residents to return home
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6438
-- slug: 2026-06-10-fbi-searches-garden-grove-aerospace-facility-after-chemical-tank-crisis
-  headline: FBI searches Garden Grove aerospace facility after chemical tank crisis
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6356
-- slug: 2026-05-24-cracked-chemical-tank-triggers-evacuation-at-gkn-aerospace-in-california
-  headline: Cracked chemical tank triggers evacuation at GKN Aerospace in California
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6427
-- slug: 2026-05-25-evacuation-lifted-for-most-after-methyl-methacrylate-tank-crack-in-garden-grove
-  headline: Evacuation lifted for most after methyl methacrylate tank crack in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6403
-- slug: 2026-05-25-officials-lift-evacuation-orders-for-some-residents-near-damaged-chemical-tank-i
-  headline: Officials lift evacuation orders for some residents near damaged chemical tank in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6317
 ---
-
 ## Landfill drilling releases gas plume in Los Angeles County
 
 **Subtype:** fact

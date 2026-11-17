@@ -1,9 +1,17 @@
 ---
 headline: Asian stocks fall as U.S. tightens chip shipment rules
-secondary_headline: UOB estimates rule erased $960 billion in U.S. technology market capitalization
+secondary_headline: UOB estimates rule erased $960 billion in U.S. technology market
+  capitalization
 publish_date: '2026-11-17'
-lede: Asian stocks fell Tuesday morning after the U.S. Commerce Department placed Malaysia, Thailand, Indonesia, Singapore and Brazil under export restrictions requiring licenses for chip shipments. The rule targets remote access by Chinese clients to data-center capacity in those countries, may grant exceptions to U.S. technology firms and intensified investor concerns about the artificial-intelligence boom.
-nut_graf: UOB analysts said the rule effectively closed a Southeast Asian loophole in licensing for advanced AI chip shipments to China routed through five intermediary countries. Chip-linked shares fell in Japan and South Korea, while crude futures also declined as improving supply prospects offset Middle East tensions.
+lede: Asian stocks fell Tuesday morning after the U.S. Commerce Department placed
+  Malaysia, Thailand, Indonesia, Singapore and Brazil under export restrictions requiring
+  licenses for chip shipments. The rule targets remote access by Chinese clients to
+  data-center capacity in those countries, may grant exceptions to U.S. technology
+  firms and intensified investor concerns about the artificial-intelligence boom.
+nut_graf: UOB analysts said the rule effectively closed a Southeast Asian loophole
+  in licensing for advanced AI chip shipments to China routed through five intermediary
+  countries. Chip-linked shares fell in Japan and South Korea, while crude futures
+  also declined as improving supply prospects offset Middle East tensions.
 primary_entities:
 - U.S. Commerce Department
 - Bureau of Industry and Security
@@ -47,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +158,45 @@ related_stories:
   headline: Commerce restricts remote access to advanced U.S. computing chips
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7359
+  strength: 0.7353
 - slug: 2026-11-16-commerce-proposes-license-rule-for-chip-exports-to-five-countries
   headline: Commerce proposes license rule for chip exports to five countries
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7332
+  strength: 0.733
 - slug: 2026-11-16-treasury-and-national-security-council-direct-new-chip-rule-announced-by-commerc
-  headline: Treasury and National Security Council direct new chip rule announced by Commerce
+  headline: Treasury and National Security Council direct new chip rule announced
+    by Commerce
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7232
+  strength: 0.7229
 - slug: 2026-11-16-commerce-closes-remote-chip-loophole-as-lutnick-faces-smuggling-questions
   headline: Commerce closes remote chip loophole as Lutnick faces smuggling questions
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7108
+  strength: 0.7107
 - slug: 2026-11-17-asian-stocks-fall-as-ai-pressure-weighs-on-nvidia-ahead-of-earnings
   headline: Asian stocks fall as AI pressure weighs on Nvidia ahead of earnings
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6858
+  strength: 0.6859
 - slug: 2026-11-16-trump-administration-shifts-stance-on-foreign-access-to-ai-chips
   headline: Trump administration shifts stance on foreign access to AI chips
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6782
+  strength: 0.6773
 - slug: 2026-11-16-advantest-and-lasertec-slide-as-u-s-chip-maker-selloff-spreads-to-asia
   headline: Advantest and Lasertec slide as U.S. chip-maker selloff spreads to Asia
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6747
+  strength: 0.6748
 - slug: 2026-11-16-kospi-nikkei-and-taiex-slide-as-chip-led-selloff-extends-into-another-week
-  headline: Kospi, Nikkei and Taiex slide as chip-led selloff extends into another week
+  headline: Kospi, Nikkei and Taiex slide as chip-led selloff extends into another
+    week
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6724
-- slug: 2026-11-10-asian-indexes-fall-as-data-center-concerns-weigh-on-chip-shares
-  headline: Asian indexes fall as data-center concerns weigh on chip shares
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6823
-- slug: 2026-11-15-nvidia-chips-reach-china-through-a-growing-southeast-asia-data-center-route
-  headline: Nvidia chips reach China through a growing Southeast Asia data center route
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6466
-- slug: 2026-11-14-former-nsc-official-says-lutnick-did-not-enforce-chip-export-rules
-  headline: Former NSC official says Lutnick did not enforce chip export rules
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6382
-- slug: 2026-11-10-oil-prices-decline-as-asian-stocks-rise-after-wall-street-gains
-  headline: Oil prices decline as Asian stocks rise after Wall Street gains
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6609
-- slug: 2026-11-11-ai-spending-slowdown-could-weaken-global-trade
-  headline: AI spending slowdown could weaken global trade
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6389
-- slug: 2026-11-06-taiwan-activates-market-stabilization-fund-amid-global-selloff-in-ai-stocks
-  headline: Taiwan activates market stabilization fund amid global selloff in AI stocks
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.641
-- slug: 2026-10-27-weak-profits-and-u-s-technology-restrictions-weigh-on-chinese-stocks
-  headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6591
-- slug: 2026-09-14-european-chip-stocks-slide-on-ai-slowdown-calls-from-leaders
-  headline: European chip stocks slide on AI slowdown calls from leaders
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6614
-- slug: 2026-09-14-ai-linked-stocks-slide-after-anthropic-ceo-urges-industry-to-slow-development
-  headline: AI-linked stocks slide after Anthropic CEO urges industry to slow development
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6535
-- slug: 2026-09-14-ai-stocks-slide-worldwide-after-anthropic-ceo-urges-industry-slowdown
-  headline: AI stocks slide worldwide after Anthropic CEO urges industry slowdown
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6427
-- slug: 2026-08-19-kospi-leads-asian-shares-lower-as-ai-stocks-extend-decline
-  headline: Kospi leads Asian shares lower as AI stocks extend decline
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6453
-- slug: 2026-07-17-asian-shares-slide-as-ai-stock-selloff-hits-nikkei-taiwan-markets
-  headline: Asian shares slide as AI stock selloff hits Nikkei, Taiwan markets
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6851
+  strength: 0.6728
 ---
-
 ## Asian stocks fall as U.S. tightens chip shipment rules
 
 **Subtype:** fact
