@@ -53,7 +53,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -234,3 +234,10 @@ One of Leo’s most meaningful visits was to the sanctuary of Mogrovejo in the c
 **Publication date:** 2026-11-16
 **Title:** Pope bids 'hasta luego' to Peru as he wraps up marathon South America trip
 **URL:** https://www.pbs.org/newshour/world/pope-bids-hasta-luego-to-peru-as-he-wraps-up-marathon-south-america-trip
+
+### src_late_aa2d6d595c250772 — Associated Press, wire, Tier 1, originating
+**Author:** Nicole Winfield
+**Publication date:** 2026-11-16
+**Title:** El papa dice "hasta luego" a Perú, su segunda patria, al cerrar maratónica gira sudamericana
+**URL:** https://apnews.com/article/peru-papa-leon-5178a03098ec6f7197e4d0e2deaf2c38
+**Added after publication:** true
