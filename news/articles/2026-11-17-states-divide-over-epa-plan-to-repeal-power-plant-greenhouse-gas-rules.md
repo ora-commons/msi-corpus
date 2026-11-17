@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-09-14'
   relation: related
   strength: 0.7768
+analyses:
+- '2026-11-17-epa-power-plant-rescission-hinges-on-contested-authority-ruling-and-untested-aff'
 ---
 ## States divide over EPA plan to repeal power plant greenhouse gas rules
 
@@ -237,3 +239,8 @@ The proposal remains contingent on finalization and judicial review. If EPA fina
 **Publication date:** 2026-11-17
 **Title:** States split over EPA’s proposal to drop greenhouse gas rules for power plants
 **URL:** https://www.newsfromthestates.com/article/states-split-over-epas-proposal-drop-greenhouse-gas-rules-power-plants
+
+---
+
+<!-- analysis-link:2026-11-17-epa-power-plant-rescission-hinges-on-contested-authority-ruling-and-untested-aff -->
+**Going deeper:** [Read MSI's analysis of EPA power plant greenhouse gas rescission →](/analyses/2026-11-17-epa-power-plant-rescission-hinges-on-contested-authority-ruling-and-untested-aff)
