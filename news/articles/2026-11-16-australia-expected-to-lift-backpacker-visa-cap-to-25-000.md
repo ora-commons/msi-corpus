@@ -1,9 +1,18 @@
 ---
 headline: Australia expected to lift backpacker visa cap to 25,000
-secondary_headline: Regional work stay for second-year backpackers may rise to four months
+secondary_headline: Regional work stay for second-year backpackers may rise to four
+  months
 publish_date: '2026-11-16'
-lede: The Albanese government is expected to announce on Tuesday that it will raise the cap on third-year working holiday visas to 25,000 places, reversing much of a September plan by Home Affairs Minister Tony Burke to cut the number to 5,000. Burke was due to hold a press conference in Cairns on Tuesday morning to detail the revised plan, which also boosts regional work requirements and delays the start of a new ballot system for backpackers seeking a second or third year in Australia.
-nut_graf: The expected revision follows months of consultation with industry, regional and agricultural groups that warned of worker shortages under the September proposal. Regional economies that rely on backpacker labour pushed the government to soften a cap that would have cut third-year places from about 31,000 to 5,000.
+lede: The Albanese government is expected to announce on Tuesday that it will raise
+  the cap on third-year working holiday visas to 25,000 places, reversing much of
+  a September plan by Home Affairs Minister Tony Burke to cut the number to 5,000.
+  Burke was due to hold a press conference in Cairns on Tuesday morning to detail
+  the revised plan, which also boosts regional work requirements and delays the start
+  of a new ballot system for backpackers seeking a second or third year in Australia.
+nut_graf: The expected revision follows months of consultation with industry, regional
+  and agricultural groups that warned of worker shortages under the September proposal.
+  Regional economies that rely on backpacker labour pushed the government to soften
+  a cap that would have cut third-year places from about 31,000 to 5,000.
 primary_entities:
 - Tony Burke
 - Anthony Albanese
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,108 +146,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-11-keeping-the-triple-lock-would-force-state-pension-age-above-70-bell-says
-  headline: Keeping the triple lock would force state pension age above 70, Bell says
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.588
-- slug: 2026-11-08-albanese-government-withdraws-four-heritage-defence-sites-from-sale
-  headline: Albanese government withdraws four heritage defence sites from sale
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6031
-- slug: 2026-11-09-tuc-chief-urges-uk-to-expand-youth-employment-support
-  headline: TUC chief urges UK to expand youth employment support
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.5866
-- slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.5935
-- slug: 2026-11-06-burnham-to-require-employers-to-publish-salaries-on-job-adverts
-  headline: Burnham to require employers to publish salaries on job adverts
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5921
-- slug: 2026-11-02-uk-government-plans-10-year-standard-for-permanent-settlement
-  headline: UK government plans 10-year standard for permanent settlement
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5995
-- slug: 2026-11-04-uk-plan-leaves-some-refugees-waiting-up-to-30-years-unhcr-says
-  headline: UK plan leaves some refugees waiting up to 30 years, UNHCR says
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.5867
-- slug: 2026-11-03-reserve-bank-of-australia-raises-cash-rate-to-4-85
-  headline: Reserve Bank of Australia raises cash rate to 4.85%
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5917
 - slug: 2026-09-16-burke-to-outline-labor-migration-plan-restricting-student-family-visas
   headline: Burke to outline Labor migration plan restricting student family visas
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7675
-- slug: 2026-10-22-chalmers-flags-weaker-growth-higher-unemployment-in-december-budget-update
-  headline: Chalmers flags weaker growth, higher unemployment in December budget update
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6399
-- slug: 2026-10-14-greens-coalition-block-australian-bill-cutting-over-65s-health-rebate
-  headline: Greens, Coalition block Australian bill cutting over-65s health rebate
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6269
+  strength: 0.7684
 - slug: 2026-09-18-australia-to-reopen-visa-overstayer-detention-greens-liken-it-to-trump
   headline: Australia to reopen visa overstayer detention, Greens liken it to Trump
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.7119
-- slug: 2026-10-15-state-department-eyes-335-000-campaign-as-afrikaner-refugee-applications-lag
-  headline: State Department eyes $335,000 campaign as Afrikaner refugee applications lag
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5884
+  strength: 0.7129
 - slug: 2026-09-17-burke-defends-timing-of-labor-immigration-plan-blames-coalition
   headline: Burke defends timing of Labor immigration plan, blames Coalition
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6608
-- slug: 2026-09-26-australia-deregisters-diploma-as-colleges-rush-students-in-before-october-5
-  headline: Australia deregisters diploma as colleges rush students in before October 5
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5994
-- slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
-  headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.5838
-- slug: 2026-09-20-australian-life-expectancy-forecast-to-reach-89-for-women-by-2066
-  headline: Australian life expectancy forecast to reach 89 for women by 2066
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6073
-- slug: 2026-09-11-australian-government-shelves-promised-packaging-laws-citing-cost-of-living
-  headline: Australian government shelves promised packaging laws, citing cost of living
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6231
-- slug: 2026-09-23-u-s-embassy-asks-australia-to-clarify-social-media-law-definitions
-  headline: U.S. embassy asks Australia to clarify social media law definitions
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5915
-- slug: 2026-09-15-australia-weighs-giving-ai-companies-default-access-to-creators-works
-  headline: Australia weighs giving AI companies default access to creators' works
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5945
+  strength: 0.6619
 ---
-
 ## Australia expected to lift backpacker visa cap to 25,000
 
 **Subtype:** fact

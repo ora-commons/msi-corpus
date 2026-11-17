@@ -2,8 +2,16 @@
 headline: Chase says software bug may have disrupted transactions at major US banks
 secondary_headline: Chase says outage temporary, not systemic or cyber-related
 publish_date: '2026-11-16'
-lede: Thousands of customers at major US banks reported trouble accessing services on Monday, November 16, 2026, with Chase Bank saying a "software bug" in its hardware systems may have been behind the glitch. Chase, the largest banking institution in the US, said the issue was "temporary" and not "systemic" or "cyber-related," and problems appeared to be easing for many customers by early Monday evening.
-nut_graf: The disruption hit at a moment when US systems have already absorbed a string of unrelated technical failures, including a massive Microsoft outage and a network failure that grounded all US flights last week. Bank access touches payments, small-business transactions and everyday account management for Chase's more than 86 million customers alone, so even a temporary slowdown carries wide reach.
+lede: Thousands of customers at major US banks reported trouble accessing services
+  on Monday, November 16, 2026, with Chase Bank saying a "software bug" in its hardware
+  systems may have been behind the glitch. Chase, the largest banking institution
+  in the US, said the issue was "temporary" and not "systemic" or "cyber-related,"
+  and problems appeared to be easing for many customers by early Monday evening.
+nut_graf: The disruption hit at a moment when US systems have already absorbed a string
+  of unrelated technical failures, including a massive Microsoft outage and a network
+  failure that grounded all US flights last week. Bank access touches payments, small-business
+  transactions and everyday account management for Chase's more than 86 million customers
+  alone, so even a temporary slowdown carries wide reach.
 primary_entities:
 - Chase Bank
 - JPMorgan Chase
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -161,88 +170,28 @@ related_stories:
   publish_date: '2026-11-16'
   relation: related
   strength: 0.6737
-- slug: 2026-11-16-microsoft-traces-global-outage-to-latent-bug-from-july
-  headline: Microsoft traces global outage to latent bug from July
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6464
 - slug: 2026-11-14-microsoft-outage-disrupts-services-worldwide-for-about-18-hours
   headline: Microsoft outage disrupts services worldwide for about 18 hours
   publish_date: '2026-11-14'
   relation: related
   strength: 0.6523
 - slug: 2026-11-13-microsoft-says-configuration-update-overloaded-servers-recovery-began-11-20-gmt
-  headline: Microsoft says configuration update overloaded servers; recovery began 11:20 GMT
+  headline: Microsoft says configuration update overloaded servers; recovery began
+    11:20 GMT
   publish_date: '2026-11-13'
   relation: related
   strength: 0.659
-- slug: 2026-11-14-microsoft-says-outage-over-manchester-trial-halted-delays-at-pharmacies
-  headline: Microsoft says outage over; Manchester trial halted, delays at pharmacies
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.645
 - slug: 2026-11-12-microsoft-says-all-affected-servers-restarted-after-connectivity-errors
   headline: Microsoft says all affected servers restarted after connectivity errors
   publish_date: '2026-11-12'
   relation: related
   strength: 0.6541
-- slug: 2026-11-15-ground-stop-microsoft-outage-leave-travelers-doubting-official-accounts
-  headline: Ground stop, Microsoft outage leave travelers doubting official accounts
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6286
-- slug: 2026-11-12-microsoft-outage-disrupts-outlook-email-for-nearly-130-000-users
-  headline: Microsoft outage disrupts Outlook email for nearly 130,000 users
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6487
-- slug: 2026-11-14-u-s-flight-cancellations-reach-more-than-4-100-after-ground-stop
-  headline: U.S. flight cancellations reach more than 4,100 after ground stop
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6266
-- slug: 2026-11-13-microsoft-outage-lasts-more-than-22-hours-as-issues-reported-in-more-than-70-cou
-  headline: Microsoft outage lasts more than 22 hours as issues reported in more than 70 countries
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6334
-- slug: 2026-11-13-microsoft-outage-disrupts-us-governments-schools-and-businesses
-  headline: Microsoft outage disrupts US governments, schools and businesses
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6257
-- slug: 2026-11-13-microsoft-365-outage-disrupts-email-and-government-services-worldwide
-  headline: Microsoft 365 outage disrupts email and government services worldwide
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6249
-- slug: 2026-11-13-microsoft-reports-early-stabilization-in-365-outage-as-japan-readies-phones
-  headline: Microsoft reports early stabilization in 365 outage as Japan readies phones
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6234
-- slug: 2026-11-02-binance-reports-approximately-3-64-billion-in-net-outflow-after-sunday-reopening
-  headline: Binance reports approximately $3.64 billion in net outflow after Sunday reopening
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6259
 - slug: 2026-10-20-google-london-datacentre-outage-disrupts-uk-banks-courts
   headline: Google London datacentre outage disrupts UK banks, courts
   publish_date: '2026-10-20'
   relation: related
   strength: 0.6671
-- slug: 2026-10-22-millions-of-exploit-attempts-target-php-flaw-as-governments-patch-systems
-  headline: Millions of exploit attempts target PHP flaw as governments patch systems
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6272
-- slug: 2026-10-14-us-treasury-fines-bank-of-america-1-21-billion-for-compliance-failures
-  headline: US Treasury fines Bank of America $1.21 billion for compliance failures
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6251
 ---
-
 ## Chase says software bug may have disrupted transactions at major US banks
 
 **Subtype:** fact
