@@ -1,9 +1,27 @@
 ---
 headline: Trump is in Manila as Nvidia's board faces calls for Huang's return
-secondary_headline: New Mexico's childcare program reaches half of children age 5 and under
+secondary_headline: New Mexico's childcare program reaches half of children age 5
+  and under
 publish_date: '2026-11-17'
-lede: President Trump is in Manila for the ASEAN summit, where he is to meet allies before traveling to Shenzhen, China, for a joint summit with Chinese leader Xi Jinping and Russian President Vladimir Putin. In the United States, a technology issue with United Airlines delayed departing flights Monday evening as air travel returned to normal after the Federal Aviation Administration ordered a nationwide ground stop Friday. The morning's other developments included calls from some technology leaders for Nvidia's board to reinstate CEO Jensen Huang after his resignation, a March 2027 retrial set in the deaths of Lindsay Clancy's three children, and New Mexico data showing that only 50% of some 67,000 children age 5 and under are enrolled in the state's free universal childcare program.
-nut_graf: 'The briefing spans systems where decisions have already been tested or are about to be: an air traffic control system where a nationwide stop occurred during upgrade work in Arkansas, a first joint summit of three leaders whose agenda drew concern in Europe and Ukraine, Nvidia facing calls from some technology leaders after Jensen Huang''s resignation, and a free New Mexico childcare program enrolling only half of some 67,000 children age 5 and under. Each item carries an open question as well — whether another ground stop could follow, what the summit may produce for Ukraine, who will lead Nvidia, and how New Mexico will handle the program''s budget and capacity.'
+lede: President Trump is in Manila for the ASEAN summit, where he is to meet allies
+  before traveling to Shenzhen, China, for a joint summit with Chinese leader Xi Jinping
+  and Russian President Vladimir Putin. In the United States, a technology issue with
+  United Airlines delayed departing flights Monday evening as air travel returned
+  to normal after the Federal Aviation Administration ordered a nationwide ground
+  stop Friday. The morning's other developments included calls from some technology
+  leaders for Nvidia's board to reinstate CEO Jensen Huang after his resignation,
+  a March 2027 retrial set in the deaths of Lindsay Clancy's three children, and New
+  Mexico data showing that only 50% of some 67,000 children age 5 and under are enrolled
+  in the state's free universal childcare program.
+nut_graf: 'The briefing spans systems where decisions have already been tested or
+  are about to be: an air traffic control system where a nationwide stop occurred
+  during upgrade work in Arkansas, a first joint summit of three leaders whose agenda
+  drew concern in Europe and Ukraine, Nvidia facing calls from some technology leaders
+  after Jensen Huang''s resignation, and a free New Mexico childcare program enrolling
+  only half of some 67,000 children age 5 and under. Each item carries an open question
+  as well — whether another ground stop could follow, what the summit may produce
+  for Ukraine, who will lead Nvidia, and how New Mexico will handle the program''s
+  budget and capacity.'
 primary_entities:
 - Federal Aviation Administration
 - United Airlines
@@ -51,7 +69,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,116 +169,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-17-trump-is-in-manila-as-nvidia-s-board-faces-calls-for-huang-s-return.png
-  alt: 'Illustration accompanying article: Trump is in Manila as Nvidia''s board faces calls for Huang''s return'
+  alt: 'Illustration accompanying article: Trump is in Manila as Nvidia''s board faces
+    calls for Huang''s return'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-17-trump-begins-asia-tour-in-manila-with-trade-and-security-agenda
   headline: Trump begins Asia tour in Manila with trade and security agenda
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.783
+  strength: 0.7835
 - slug: 2026-11-17-asean-leaders-work-on-china-non-aggression-pact-trump-may-meet-imelda-marcos
-  headline: ASEAN leaders work on China non-aggression pact; Trump may meet Imelda Marcos
+  headline: ASEAN leaders work on China non-aggression pact; Trump may meet Imelda
+    Marcos
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7702
+  strength: 0.7705
 - slug: 2026-11-16-treasury-secretary-scott-bessent-calls-for-nvidia-compliance-review
   headline: Treasury Secretary Scott Bessent calls for Nvidia compliance review
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7766
+  strength: 0.776
 - slug: 2026-11-15-trump-turns-to-asia-for-xi-putin-nuclear-talks-after-midterm-losses
   headline: Trump turns to Asia for Xi-Putin nuclear talks after midterm losses
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7723
+  strength: 0.7726
 - slug: 2026-11-16-trump-heads-to-asia-as-courts-rule-banks-report-outages-and-stocks-fall
   headline: Trump heads to Asia as courts rule, banks report outages and stocks fall
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7612
+  strength: 0.7607
 - slug: 2026-11-17-trump-weighs-china-engagement-against-security-concerns-before-xi-meeting
   headline: Trump weighs China engagement against security concerns before Xi meeting
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7501
+  strength: 0.7495
 - slug: 2026-11-16-china-calls-planned-trump-xi-putin-nuclear-talks-groundbreaking
   headline: China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7502
+  strength: 0.7498
 - slug: 2026-11-17-faa-says-it-will-rethink-aging-system-upgrades-after-nationwide-ground-stop
-  headline: FAA says it will rethink aging-system upgrades after nationwide ground stop
+  headline: FAA says it will rethink aging-system upgrades after nationwide ground
+    stop
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.741
-- slug: 2026-11-15-asean-leaders-open-manila-summit-as-trump-prepares-to-join-regional-talks
-  headline: ASEAN leaders open Manila summit as Trump prepares to join regional talks
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.746
-- slug: 2026-11-16-jensen-huang-s-resignation-complicates-xi-s-summit-diplomacy
-  headline: Jensen Huang’s resignation complicates Xi’s summit diplomacy
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7316
-- slug: 2026-11-16-van-hollen-sets-sights-on-schumer-trump-heads-to-asia
-  headline: Van Hollen sets sights on Schumer; Trump heads to Asia
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7269
-- slug: 2026-11-15-china-hosts-apec-summit-as-trump-xi-and-putin-set-for-three-way-meeting
-  headline: China hosts Apec summit as Trump, Xi and Putin set for three-way meeting
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7243
-- slug: 2026-11-17-nvidia-oversight-panel-has-three-directors-and-will-work-with-outside-experts
-  headline: Nvidia oversight panel has three directors and will work with outside experts
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7077
-- slug: 2026-11-14-trump-s-closeness-to-huang-draws-scrutiny-over-intelligence-concerns
-  headline: Trump's closeness to Huang draws scrutiny over intelligence concerns
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7039
-- slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7135
-- slug: 2026-11-08-trump-praises-nvidia-ceo-jensen-huang-as-rubio-declines-to-comment
-  headline: Trump praises Nvidia CEO Jensen Huang as Rubio declines to comment
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7341
-- slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
-  headline: Nvidia inquiry draws top Republican demands for answers
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.707
-- slug: 2026-09-22-trump-set-to-address-un-general-assembly-ahead-of-china-trade-talks
-  headline: Trump set to address UN General Assembly ahead of China trade talks
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7203
-- slug: 2026-09-22-trump-xi-set-to-discuss-ai-as-both-reject-slowdown
-  headline: Trump, Xi set to discuss AI as both reject slowdown
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7167
-- slug: 2026-09-22-trump-prepares-un-address-as-approval-sits-below-40
-  headline: Trump prepares UN address as approval sits below 40%
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7091
+  strength: 0.7404
 ---
-
 ## Trump is in Manila as Nvidia's board faces calls for Huang's return
 
 **Subtype:** fact

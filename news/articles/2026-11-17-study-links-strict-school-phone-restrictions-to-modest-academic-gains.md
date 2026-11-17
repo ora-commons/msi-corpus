@@ -2,8 +2,18 @@
 headline: Study links strict school phone restrictions to modest academic gains
 secondary_headline: A May study found close to zero effect on test scores
 publish_date: '2026-11-17'
-lede: A national study led by Harvard’s Center for Education Policy Research found that strict restrictions requiring students to lock phones away for the full school day were associated with small academic gains. The analysis covered math and reading test data from 3.3 million students at 4,600 U.S. schools and estimated the improvement was worth about one or two additional weeks of instruction per school year. A separate National Bureau of Economic Research study published in May found close to zero overall effect on test scores, leaving the broader policy question unsettled.
-nut_graf: The findings add evidence as cellphone restrictions expand, but they do not establish that bell-to-bell bans will reverse broad learning losses. Researchers cited uneven enforcement, possible distraction from laptops and other devices, and phone use outside school as unresolved factors, while describing the observed academic effects as modest.
+lede: A national study led by Harvard’s Center for Education Policy Research found
+  that strict restrictions requiring students to lock phones away for the full school
+  day were associated with small academic gains. The analysis covered math and reading
+  test data from 3.3 million students at 4,600 U.S. schools and estimated the improvement
+  was worth about one or two additional weeks of instruction per school year. A separate
+  National Bureau of Economic Research study published in May found close to zero
+  overall effect on test scores, leaving the broader policy question unsettled.
+nut_graf: The findings add evidence as cellphone restrictions expand, but they do
+  not establish that bell-to-bell bans will reverse broad learning losses. Researchers
+  cited uneven enforcement, possible distraction from laptops and other devices, and
+  phone use outside school as unresolved factors, while describing the observed academic
+  effects as modest.
 primary_entities:
 - Harvard’s Center for Education Policy Research
 - Thomas Kane
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,103 +154,43 @@ related_stories:
   publish_date: '2026-08-29'
   relation: related
   strength: 0.8411
-- slug: 2026-10-27-silicon-valley-parents-press-public-schools-to-limit-classroom-technology
-  headline: Silicon Valley parents press public schools to limit classroom technology
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6435
-- slug: 2026-10-07-federal-data-show-black-students-lose-over-four-times-as-many-school-days-to-sus
-  headline: Federal data show Black students lose over four times as many school days to suspension
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6409
 - slug: 2026-05-06-largest-study-finds-mixed-results-for-bell-to-bell-school-phone-bans
   headline: Largest study finds mixed results for bell-to-bell school phone bans
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.838
+  strength: 0.8373
 - slug: 2026-08-13-teens-build-tech-free-alternatives-as-school-phone-bans-spread
   headline: Teens build tech-free alternatives as school phone bans spread
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.7186
-- slug: 2026-09-14-nyc-council-members-call-for-ban-on-student-youtube-use-in-schools
-  headline: NYC Council members call for ban on student YouTube use in schools
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6109
+  strength: 0.7183
 - slug: 2026-01-30-mississippi-lawmakers-advance-bills-to-restrict-cellphone-use-in-schools
   headline: Mississippi lawmakers advance bills to restrict cellphone use in schools
   publish_date: '2026-01-30'
   relation: related
-  strength: 0.7086
-- slug: 2026-06-09-sweden-to-ban-mobile-phones-in-schools-as-part-of-global-screen-reversal
-  headline: Sweden to ban mobile phones in schools as part of global screen reversal
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6769
+  strength: 0.7088
 - slug: 2026-06-04-school-screen-bans-risk-isolating-millions-of-students-with-disabilities
   headline: School screen bans risk isolating millions of students with disabilities
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6789
+  strength: 0.679
 - slug: 2026-03-10-connecticut-lawmakers-weigh-statewide-bell-to-bell-cellphone-bans-in-schools
   headline: Connecticut lawmakers weigh statewide bell-to-bell cellphone bans in schools
   publish_date: '2026-03-10'
   relation: related
-  strength: 0.699
+  strength: 0.6992
+- slug: 2026-06-09-sweden-to-ban-mobile-phones-in-schools-as-part-of-global-screen-reversal
+  headline: Sweden to ban mobile phones in schools as part of global screen reversal
+  publish_date: '2026-06-09'
+  relation: related
+  strength: 0.6763
 - slug: 2026-05-14-u-s-students-in-reading-recession-as-test-scores-slide-but-phonics-reforms-offer
-  headline: U.S. students in 'reading recession' as test scores slide, but phonics reforms offer hope
+  headline: U.S. students in 'reading recession' as test scores slide, but phonics
+    reforms offer hope
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6806
-- slug: 2026-08-14-michigan-schools-use-restraint-and-seclusion-thousands-of-times-a-year
-  headline: Michigan schools use restraint and seclusion thousands of times a year
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6009
-- slug: 2026-08-14-afghan-boys-describe-eroded-education-under-taliban-rule
-  headline: Afghan boys describe eroded education under Taliban rule
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5996
-- slug: 2026-07-20-parents-push-state-lawmakers-to-restore-recess-as-school-playtime-shrinks
-  headline: Parents push state lawmakers to restore recess as school playtime shrinks
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6237
-- slug: 2026-05-14-reading-test-scores-declined-but-some-schools-improved-with-phonics
-  headline: Reading test scores declined, but some schools improved with phonics
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6616
-- slug: 2026-07-23-shootings-increase-near-vacant-chicago-schools-after-mass-closures-study-finds
-  headline: Shootings increase near vacant Chicago schools after mass closures, study finds
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6139
-- slug: 2026-07-01-tennessee-schools-rank-among-top-improvers-in-math-reading-scores
-  headline: Tennessee schools rank among top improvers in math, reading scores
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6195
-- slug: 2026-05-10-first-new-recess-guidance-in-13-years-protect-play-pediatricians-say
-  headline: 'First new recess guidance in 13 years: protect play, pediatricians say'
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6262
-- slug: 2026-05-26-nationwide-backlash-against-school-issued-devices-grows-as-los-angeles-leads-cra
-  headline: Nationwide backlash against school-issued devices grows as Los Angeles leads crackdown
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6121
-- slug: 2026-05-20-harvard-faculty-votes-to-limit-undergrads-a-grades-to-curb-inflation
-  headline: Harvard faculty votes to limit undergrads’ A grades to curb inflation
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6107
+  strength: 0.6805
 ---
-
 ## Study links strict school phone restrictions to modest academic gains
 
 **Subtype:** fact

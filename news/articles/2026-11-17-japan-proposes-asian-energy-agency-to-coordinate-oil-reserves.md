@@ -2,8 +2,16 @@
 headline: Japan proposes Asian energy agency to coordinate oil reserves
 secondary_headline: Task force would develop rules for sharing national oil stockpiles
 publish_date: '2026-11-17'
-lede: Japanese Prime Minister Sanae Takaichi proposed Tuesday creating an Asian energy agency and an oil security task force to help countries respond to oil crises, including shocks from the Iran war. She presented the plan at a meeting on the sidelines of the annual Association of Southeast Asian Nations summit in Manila, the Philippine capital.
-nut_graf: The proposal calls for rules governing emergency oil releases, sharing from national stockpiles and joint Southeast Asian reserves as shipping through the Strait of Hormuz is disrupted by the Iran war. Takaichi also said idled Japanese storage tanks could support the reserves, while price increases and supply disruption have accelerated regional use of rooftop solar and electric vehicles.
+lede: Japanese Prime Minister Sanae Takaichi proposed Tuesday creating an Asian energy
+  agency and an oil security task force to help countries respond to oil crises, including
+  shocks from the Iran war. She presented the plan at a meeting on the sidelines of
+  the annual Association of Southeast Asian Nations summit in Manila, the Philippine
+  capital.
+nut_graf: The proposal calls for rules governing emergency oil releases, sharing from
+  national stockpiles and joint Southeast Asian reserves as shipping through the Strait
+  of Hormuz is disrupted by the Iran war. Takaichi also said idled Japanese storage
+  tanks could support the reserves, while price increases and supply disruption have
+  accelerated regional use of rooftop solar and electric vehicles.
 primary_entities:
 - Sanae Takaichi
 - Japan
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +151,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-09-23-takaichi-calls-on-un-to-remove-enemy-state-charter-references
-  headline: Takaichi calls on UN to remove 'enemy state' charter references
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6482
 - slug: 2026-06-18-japan-signals-possible-self-defense-force-deployment-to-strait-of-hormuz
   headline: Japan signals possible Self-Defense Force deployment to Strait of Hormuz
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.7305
+  strength: 0.7311
 - slug: 2026-08-07-takaichi-declines-to-commit-non-nuclear-principles-survive-security-review
   headline: Takaichi declines to commit non-nuclear principles survive security review
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6563
+  strength: 0.6576
 - slug: 2026-04-28-japan-s-takaichi-inaugurates-panel-to-review-security-and-defense-strategy
   headline: Japan’s Takaichi inaugurates panel to review security and defense strategy
   publish_date: '2026-04-28'
   relation: related
-  strength: 0.7189
+  strength: 0.7188
 - slug: 2026-03-05-japan-and-canada-sign-deal-to-expand-defense-energy-cooperation
   headline: Japan and Canada sign deal to expand defense, energy cooperation
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.7163
+  strength: 0.7177
 - slug: 2026-03-20-japan-s-takaichi-seeks-reaffirmed-trump-alliance-amid-strait-of-hormuz-push
-  headline: Japan’s Takaichi seeks reaffirmed Trump alliance amid Strait of Hormuz push
+  headline: Japan’s Takaichi seeks reaffirmed Trump alliance amid Strait of Hormuz
+    push
   publish_date: '2026-03-20'
   relation: related
-  strength: 0.6945
+  strength: 0.6953
+- slug: 2026-04-02-macron-and-japan-s-takaichi-call-for-middle-east-ceasefire-deepen-defense-ties
+  headline: Macron and Japan’s Takaichi call for Middle East ceasefire, deepen defense
+    ties
+  publish_date: '2026-04-02'
+  relation: related
+  strength: 0.684
 - slug: 2026-03-18-iran-war-escalates-energy-triage-as-asian-european-reserves-tighten
   headline: Iran war escalates energy triage as Asian, European reserves tighten
   publish_date: '2026-03-18'
   relation: related
-  strength: 0.6854
-- slug: 2026-04-02-macron-and-japan-s-takaichi-call-for-middle-east-ceasefire-deepen-defense-ties
-  headline: Macron and Japan’s Takaichi call for Middle East ceasefire, deepen defense ties
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6822
+  strength: 0.6845
 - slug: 2026-03-20-asia-rattled-as-iran-war-disrupts-oil-and-gas-supplies-through-hormuz
   headline: Asia rattled as Iran war disrupts oil and gas supplies through Hormuz
   publish_date: '2026-03-20'
   relation: related
-  strength: 0.6781
-- slug: 2026-03-12-iea-to-release-400-million-barrels-of-emergency-oil-to-calm-prices
-  headline: IEA to release 400 million barrels of emergency oil to calm prices
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6752
-- slug: 2026-06-16-iea-iran-war-a-stark-wake-up-call-for-southeast-asia-energy-security
-  headline: 'IEA: Iran war a ''stark wake-up call'' for Southeast Asia energy security'
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6474
-- slug: 2026-02-18-takaichi-reelected-as-japan-prime-minister-courts-trump-ahead-of-washington-trip
-  headline: Takaichi reelected as Japan prime minister; courts Trump ahead of Washington trip
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.6723
-- slug: 2026-06-05-japan-pm-says-yen-defense-depends-on-economic-strength-not-intervention
-  headline: Japan PM Says Yen Defense Depends on Economic Strength, Not Intervention
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6427
-- slug: 2026-01-03-trump-invites-japan-s-takaichi-to-us-as-regional-tensions-with-china-mount
-  headline: Trump invites Japan's Takaichi to US as regional tensions with China mount
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6635
-- slug: 2026-02-07-japan-s-takaichi-leverages-popularity-to-seek-ldp-win-in-snap-vote
-  headline: Japan’s Takaichi leverages popularity to seek LDP win in snap vote
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6615
-- slug: 2026-06-11-japan-nuclear-restart-revives-waste-storage-fears
-  headline: Japan nuclear restart revives waste storage fears
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6292
-- slug: 2026-03-09-iea-releases-record-400-million-barrels-as-iran-war-chokes-hormuz-oil-flow
-  headline: IEA releases record 400 million barrels as Iran war chokes Hormuz oil flow
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6501
-- slug: 2026-04-22-asian-shares-mixed-as-oil-eases-on-hopes-for-u-s--iran-talks
-  headline: Asian shares mixed as oil eases on hopes for U.S.-Iran talks
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6426
-- slug: 2026-02-08-takaichi-s-party-wins-japan-lower-house-supermajority-in-snap-election
-  headline: Takaichi’s party wins Japan lower-house supermajority in snap election
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6476
-- slug: 2026-05-10-asia-braces-for-a-second-wave-of-energy-shocks-as-iran-war-drags-on
-  headline: Asia braces for a second wave of energy shocks as Iran war drags on
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6303
+  strength: 0.6782
 ---
-
 ## Japan proposes Asian energy agency to coordinate oil reserves
 
 **Subtype:** fact
