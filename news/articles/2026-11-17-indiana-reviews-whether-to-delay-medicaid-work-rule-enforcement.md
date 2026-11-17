@@ -2,8 +2,16 @@
 headline: Indiana reviews whether to delay Medicaid work-rule enforcement
 secondary_headline: Federal guidance offers states an optional six-month transition
 publish_date: '2026-11-17'
-lede: The Indiana Family and Social Services Administration is reviewing updated federal guidance that lets states delay enforcement of Medicaid expansion work requirements taking effect in January. Agency spokesperson Marcus Barlow said the agency is evaluating the optional six-month transition, its statutory authority and state requirements, but has not decided whether Indiana will use it.
-nut_graf: Indiana's Healthy Indiana Plan rules would require adults ages 19 to 64 to document at least 80 hours of work, volunteering or school each month unless they meet an exception or a monthly income threshold. A grace period could shield otherwise eligible beneficiaries from coverage disruptions while states update their systems, leaving enforcement unresolved until Indiana acts.
+lede: The Indiana Family and Social Services Administration is reviewing updated federal
+  guidance that lets states delay enforcement of Medicaid expansion work requirements
+  taking effect in January. Agency spokesperson Marcus Barlow said the agency is evaluating
+  the optional six-month transition, its statutory authority and state requirements,
+  but has not decided whether Indiana will use it.
+nut_graf: Indiana's Healthy Indiana Plan rules would require adults ages 19 to 64
+  to document at least 80 hours of work, volunteering or school each month unless
+  they meet an exception or a monthly income threshold. A grace period could shield
+  otherwise eligible beneficiaries from coverage disruptions while states update their
+  systems, leaving enforcement unresolved until Indiana acts.
 primary_entities:
 - Indiana Family and Social Services Administration
 - Centers for Medicare & Medicaid Services
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +150,45 @@ related_stories:
   headline: Kentucky Medicaid work requirements remain set for Jan. 1
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7704
+  strength: 0.7698
 - slug: 2026-11-13-cms-creates-optional-hold-harmless-period-for-medicaid-work-rule
   headline: CMS creates optional hold harmless period for Medicaid work rule
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7895
+  strength: 0.7889
 - slug: 2026-11-13-cms-lets-states-delay-medicaid-work-requirement-enforcement-until-july
   headline: CMS lets states delay Medicaid work requirement enforcement until July
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7851
+  strength: 0.7838
 - slug: 2026-11-17-ohio-prepares-for-medicaid-work-rules-as-federal-law-phases-in
   headline: Ohio prepares for Medicaid work rules as federal law phases in
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7427
+  strength: 0.7428
 - slug: 2026-11-17-connecticut-delays-medicaid-work-rule-coverage-losses-through-june-30-2027
-  headline: Connecticut delays Medicaid work-rule coverage losses through June 30, 2027
+  headline: Connecticut delays Medicaid work-rule coverage losses through June 30,
+    2027
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7223
+  strength: 0.7206
 - slug: 2026-11-13-states-lack-guidance-on-medicaid-work-rule-exemptions-for-native-americans
   headline: States lack guidance on Medicaid work-rule exemptions for Native Americans
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6862
+  strength: 0.6854
 - slug: 2026-11-09-nebraska-medicaid-work-rules-bring-denials-amid-dispute-over-patient-s-coverage
-  headline: Nebraska Medicaid work rules bring denials amid dispute over patient's coverage
+  headline: Nebraska Medicaid work rules bring denials amid dispute over patient's
+    coverage
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6857
+  strength: 0.6852
 - slug: 2026-11-13-indiana-high-schools-expand-workplace-internships
   headline: Indiana high schools expand workplace internships
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6526
-- slug: 2026-10-29-judge-blocks-stricter-medicaid-exemption-rule-for-chronically-ill
-  headline: Judge blocks stricter Medicaid exemption rule for chronically ill
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7269
-- slug: 2026-10-29-ama-president-calls-medicaid-frailty-ruling-a-victory-for-patients
-  headline: AMA president calls Medicaid frailty ruling 'a victory for patients'
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7034
-- slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6605
-- slug: 2026-06-01-trump-administration-imposes-80-hour-monthly-work-requirement-for-medicaid
-  headline: Trump administration imposes 80-hour monthly work requirement for Medicaid
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7635
-- slug: 2026-08-04-federal-medicaid-work-rule-excludes-homelessness-as-automatic-exemption
-  headline: Federal Medicaid work rule excludes homelessness as automatic exemption
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.7069
-- slug: 2026-04-27-nebraska-to-start-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to start Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.7497
-- slug: 2026-04-28-nebraska-to-enforce-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to enforce Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.7444
-- slug: 2025-12-29-work-requirements-for-snap-medicaid-and-hud-benefits-a-state-by-state-impact
-  headline: 'Work requirements for SNAP, Medicaid and HUD benefits: a state-by-state impact'
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7149
-- slug: 2026-03-05-trump-medicaid-work-mandate-could-disrupt-care-for-homeless-californians
-  headline: Trump Medicaid work mandate could disrupt care for homeless Californians
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7061
-- slug: 2026-03-02-medicaid-work-mandates-force-states-to-spend-millions-on-new-technology
-  headline: Medicaid work mandates force states to spend millions on new technology
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7008
-- slug: 2025-12-30-trump-era-work-rules-could-change-snap-medicaid-and-hud-housing-eligibility
-  headline: Trump-era work rules could change SNAP, Medicaid and HUD housing eligibility
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7041
-- slug: 2026-01-08-states-weigh-medicaid-snap-and-taxes-after-trump-s-sweeping-law
-  headline: States weigh Medicaid, SNAP and taxes after Trump’s sweeping law
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6928
+  strength: 0.6516
 ---
-
 ## Indiana reviews whether to delay Medicaid work-rule enforcement
 
 **Subtype:** fact

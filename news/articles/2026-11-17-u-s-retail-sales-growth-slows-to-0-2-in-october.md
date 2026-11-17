@@ -2,8 +2,14 @@
 headline: U.S. retail sales growth slows to 0.2% in October
 secondary_headline: Gas-station sales rose 1.5% as average gasoline prices fell 12%
 publish_date: '2026-11-17'
-lede: U.S. retail sales rose 0.2% in October, down from a revised 0.8% gain in September, according to a Commerce Department report released Tuesday. The Associated Press linked the slower spending growth to economic uncertainty and high prices that had made more Americans cautious with their money.
-nut_graf: 'The October figures show uneven consumer behavior: sales excluding gas stations rose 0.1%, online retailers gained while furniture and clothing stores declined, and the average regular gasoline price fell from the previous month but remained above year-earlier levels.'
+lede: U.S. retail sales rose 0.2% in October, down from a revised 0.8% gain in September,
+  according to a Commerce Department report released Tuesday. The Associated Press
+  linked the slower spending growth to economic uncertainty and high prices that had
+  made more Americans cautious with their money.
+nut_graf: 'The October figures show uneven consumer behavior: sales excluding gas
+  stations rose 0.1%, online retailers gained while furniture and clothing stores
+  declined, and the average regular gasoline price fell from the previous month but
+  remained above year-earlier levels.'
 primary_entities:
 - U.S. Department of Commerce
 - AAA
@@ -37,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,7 +153,8 @@ related_stories:
   relation: related
   strength: 0.7245
 - slug: 2026-11-10-aaa-s-average-gasoline-price-falls-to-4-22-as-bls-reports-0-4-monthly-cpi-rise
-  headline: AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly CPI rise
+  headline: AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly
+    CPI rise
   publish_date: '2026-11-10'
   relation: related
   strength: 0.7089
@@ -175,77 +183,20 @@ related_stories:
   publish_date: '2026-09-16'
   relation: related
   strength: 0.7752
-- slug: 2026-07-16-june-retail-sales-rise-0-2-after-revised-may-gain-of-1
-  headline: June retail sales rise 0.2% after revised May gain of 1%
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.8462
-- slug: 2026-08-14-us-retail-sales-fall-0-6-in-july-as-tax-refund-boost-fades
-  headline: US retail sales fall 0.6% in July as tax-refund boost fades
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.7864
-- slug: 2026-09-30-softer-august-pce-reading-lifts-wall-street-trims-october-rate-hike-odds
-  headline: Softer August PCE reading lifts Wall Street, trims October rate-hike odds
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6789
-- slug: 2026-06-17-us-retail-sales-rose-0-9-in-may-beating-expectations
-  headline: US retail sales rose 0.9% in May, beating expectations
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.7817
-- slug: 2026-01-14-november-retail-sales-rise-0-6-as-holiday-spending-tops-expectations
-  headline: November retail sales rise 0.6% as holiday spending tops expectations
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.806
-- slug: 2026-08-21-canadian-retail-sales-rise-0-6-in-june-as-early-july-tally-shows-decline
-  headline: Canadian retail sales rise 0.6% in June as early July tally shows decline
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7084
-- slug: 2026-08-26-us-economy-grows-1-5-in-q2-as-import-surge-offsets-consumer-spending
-  headline: US economy grows 1.5% in Q2 as import surge offsets consumer spending
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6951
-- slug: 2026-05-15-april-retail-sales-slow-to-0-5-as-gas-prices-from-iran-war-squeeze-budgets
-  headline: April retail sales slow to 0.5% as gas prices from Iran war squeeze budgets
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7821
-- slug: 2026-03-06-january-retail-sales-fall-0-2-as-consumers-pull-back-amid-tariff-uncertainty
-  headline: January retail sales fall 0.2% as consumers pull back amid tariff uncertainty
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.781
-- slug: 2026-05-15-shoppers-cut-back-in-april-as-iran-war-gas-prices-squeeze-budgets
-  headline: Shoppers cut back in April as Iran-war gas prices squeeze budgets
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7597
-- slug: 2026-07-30-us-economy-slows-to-1-5-annual-growth-in-second-quarter
-  headline: US economy slows to 1.5% annual growth in second quarter
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6997
-- slug: 2026-02-11-december-retail-sales-flat-in-us-underscoring-shaky-consumer-demand
-  headline: December retail sales flat in US, underscoring shaky consumer demand
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7567
 image:
   url: /articles/2026-11-17-u-s-retail-sales-growth-slows-to-0-2-in-october.png
-  alt: "Illustration accompanying article: U.S. retail sales growth slows to 0.2% in October"
+  alt: 'Illustration accompanying article: U.S. retail sales growth slows to 0.2%
+    in October'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## U.S. retail sales growth slows to 0.2% in October
 
 **Subtype:** fact

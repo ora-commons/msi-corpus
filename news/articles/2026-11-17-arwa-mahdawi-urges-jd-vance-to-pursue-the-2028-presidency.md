@@ -2,8 +2,13 @@
 headline: Arwa Mahdawi urges JD Vance to pursue the 2028 presidency
 secondary_headline: Axios says Vance remains undecided on a 2028 presidential bid
 publish_date: '2026-11-17'
-lede: Arwa Mahdawi urged JD Vance to run for president in 2028, arguing that Republican midterm losses should not end his political ambitions. In a Nov. 17 opinion column in The Guardian, Mahdawi told the vice president not to shelve his bid.
-nut_graf: The recommendation came as CNN and Axios described Vance as weighing whether to enter the race. CNN's cited source said Vance could make a later comeback if conditions made success impossible, while Mahdawi argued that Republican midterm losses had weakened his position and urged him to run now.
+lede: Arwa Mahdawi urged JD Vance to run for president in 2028, arguing that Republican
+  midterm losses should not end his political ambitions. In a Nov. 17 opinion column
+  in The Guardian, Mahdawi told the vice president not to shelve his bid.
+nut_graf: The recommendation came as CNN and Axios described Vance as weighing whether
+  to enter the race. CNN's cited source said Vance could make a later comeback if
+  conditions made success impossible, while Mahdawi argued that Republican midterm
+  losses had weakened his position and urged him to run now.
 primary_entities:
 - Arwa Mahdawi
 - JD Vance
@@ -47,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +155,45 @@ related_stories:
   headline: Trump sidelines Vance from Iran war after vice president's public critique
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7085
+  strength: 0.7077
 - slug: 2026-11-05-vance-blames-iran-war-for-republican-midterm-losses-trump-largely-agrees
   headline: Vance blames Iran war for Republican midterm losses; Trump largely agrees
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7662
+  strength: 0.7652
 - slug: 2026-11-12-trump-directs-vance-away-from-iran-war-to-what-he-calls-crime-corruption-in-demo
-  headline: Trump directs Vance away from Iran war to what he calls crime, corruption in Democratic-led states
+  headline: Trump directs Vance away from Iran war to what he calls crime, corruption
+    in Democratic-led states
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7065
+  strength: 0.7053
 - slug: 2026-11-04-vance-distances-himself-from-trump-s-iran-war-defense-after-gop-losses
   headline: Vance distances himself from Trump’s Iran war defense after GOP losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7462
+  strength: 0.7458
 - slug: 2026-11-11-vance-weighs-direct-iran-talks-as-trump-empowers-him-to-negotiate
   headline: Vance weighs direct Iran talks as Trump empowers him to negotiate
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6951
+  strength: 0.6944
 - slug: 2026-11-04-vance-says-iran-war-was-the-reason-republicans-lost-midterms
   headline: Vance says Iran war was the reason Republicans lost midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7279
+  strength: 0.7267
 - slug: 2026-11-04-jd-vance-blames-iran-war-for-republican-midterm-losses
   headline: JD Vance blames Iran war for Republican midterm losses
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7228
+  strength: 0.722
 - slug: 2026-11-05-gingrich-says-vance-s-luster-has-dimmed-as-some-republicans-look-to-take-him-dow
-  headline: Gingrich says Vance's luster has dimmed as some Republicans look to take him down
+  headline: Gingrich says Vance's luster has dimmed as some Republicans look to take
+    him down
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6937
-- slug: 2026-10-24-vance-stumps-for-republicans-as-questions-grow-about-a-2028-white-house-bid
-  headline: Vance stumps for Republicans as questions grow about a 2028 White House bid
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7333
-- slug: 2026-10-28-vance-sends-letter-to-iranian-security-chief-to-restart-peace-talks
-  headline: Vance sends letter to Iranian security chief to restart peace talks
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7055
-- slug: 2026-10-16-guardian-politics-weekly-examines-whether-vance-courts-midterms-or-2028-voters
-  headline: Guardian Politics Weekly examines whether Vance courts midterms or 2028 voters
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7457
-- slug: 2026-09-27-vance-works-to-rebuild-fractured-trump-coalition-ahead-of-midterms
-  headline: Vance works to rebuild fractured Trump coalition ahead of midterms
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.7425
-- slug: 2026-09-11-vance-delivers-prime-time-speech-on-gop-convention-s-second-night
-  headline: Vance delivers prime-time speech on GOP convention's second night
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.716
-- slug: 2026-09-11-vance-leads-2028-gop-primary-field-at-43-percent-in-new-poll
-  headline: Vance leads 2028 GOP primary field at 43 percent in new poll
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.712
-- slug: 2026-09-11-vance-s-dallas-convention-likely-to-solidify-2028-frontrunner-status
-  headline: Vance's Dallas convention likely to solidify 2028 frontrunner status
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.696
-- slug: 2026-09-01-vance-says-he-d-have-doubted-trump-successor-if-2024-attempt-had-succeeded
-  headline: Vance says he'd have doubted Trump successor if 2024 attempt had succeeded
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.692
-- slug: 2026-06-14-vance-says-he-will-discuss-2028-run-with-family-after-midterms
-  headline: Vance says he will discuss 2028 run with family after midterms
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.7555
-- slug: 2026-06-25-vance-takes-lead-on-iran-deal-as-trump-signals-fall-guy-role
-  headline: Vance takes lead on Iran deal as Trump signals fall guy role
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7229
-- slug: 2026-06-23-vance-promotes-new-memoir-as-administration-negotiates-iran-deal
-  headline: Vance promotes new memoir as administration negotiates Iran deal
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7103
-- slug: 2026-06-09-vance-says-us-very-close-to-iran-peace-deal-hours-before-new-strikes
-  headline: Vance says US ‘very close’ to Iran peace deal hours before new strikes
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6922
+  strength: 0.6919
 ---
-
 ## Arwa Mahdawi urges JD Vance to pursue the 2028 presidency
 
 **Subtype:** fact
