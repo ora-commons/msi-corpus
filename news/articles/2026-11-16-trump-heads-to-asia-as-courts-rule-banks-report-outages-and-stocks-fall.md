@@ -2,8 +2,18 @@
 headline: Trump heads to Asia as courts rule, banks report outages and stocks fall
 secondary_headline: The summit agenda covers the Iran war, denuclearization and Ukraine
 publish_date: '2026-11-16'
-lede: President Donald Trump left the White House on Nov. 16 for an Asia trip that includes regional meetings in the Philippines and a trilateral summit in Shenzhen on Thursday with Chinese President Xi Jinping and Russian President Vladimir Putin. Trump said the leaders would discuss the Iran war and denuclearization, and he planned to raise Russia’s war in Ukraine. His departure came as the U.S. Supreme Court ruled on firearms and university research funding, customers reported difficulty accessing accounts online at some of the country’s largest banks and technology stocks led a market decline.
-nut_graf: Trump’s Asia trip brings three national leaders together over the Iran war, denuclearization and the war in Ukraine. The PBS News roundup also documents court rulings, banking disruptions, a market decline, entertainment developments and the history of Pearl Harbor.
+lede: President Donald Trump left the White House on Nov. 16 for an Asia trip that
+  includes regional meetings in the Philippines and a trilateral summit in Shenzhen
+  on Thursday with Chinese President Xi Jinping and Russian President Vladimir Putin.
+  Trump said the leaders would discuss the Iran war and denuclearization, and he planned
+  to raise Russia’s war in Ukraine. His departure came as the U.S. Supreme Court ruled
+  on firearms and university research funding, customers reported difficulty accessing
+  accounts online at some of the country’s largest banks and technology stocks led
+  a market decline.
+nut_graf: Trump’s Asia trip brings three national leaders together over the Iran war,
+  denuclearization and the war in Ukraine. The PBS News roundup also documents court
+  rulings, banking disruptions, a market decline, entertainment developments and the
+  history of Pearl Harbor.
 primary_entities:
 - Donald Trump
 - Xi Jinping
@@ -51,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -67,17 +78,20 @@ figures:
   series_id: DJIA
   transformation: raw
   as_of: '2026-11-16'
-  caption: FRED's raw Nov. 16, 2026 reading for the Dow Jones Industrial Average. The dated index level provides context for the session's reported decline.
+  caption: FRED's raw Nov. 16, 2026 reading for the Dow Jones Industrial Average.
+    The dated index level provides context for the session's reported decline.
 - source: fred
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-11-16'
-  caption: FRED's raw Nov. 16, 2026 reading for the NASDAQ Composite Index. The dated level accompanies the reported technology-led selloff.
+  caption: FRED's raw Nov. 16, 2026 reading for the NASDAQ Composite Index. The dated
+    level accompanies the reported technology-led selloff.
 - source: fred
   series_id: SP500
   transformation: raw
   as_of: '2026-11-16'
-  caption: FRED's raw Nov. 16, 2026 reading for the S&P 500 Index. The level provides a dated reference for its third consecutive session decline.
+  caption: FRED's raw Nov. 16, 2026 reading for the S&P 500 Index. The level provides
+    a dated reference for its third consecutive session decline.
 figures_aggregate:
   count: 3
   series_ids:
@@ -173,104 +187,43 @@ related_stories:
   headline: Trump turns to Asia for Xi-Putin nuclear talks after midterm losses
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.819
+  strength: 0.8183
 - slug: 2026-11-14-white-house-announces-trump-summit-with-xi-and-putin-in-shenzhen
   headline: White House announces Trump summit with Xi and Putin in Shenzhen
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.778
+  strength: 0.7772
 - slug: 2026-11-16-china-calls-planned-trump-xi-putin-nuclear-talks-groundbreaking
   headline: China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7545
+  strength: 0.7544
 - slug: 2026-11-16-china-confirms-trump-xi-and-putin-will-meet-thursday-in-shenzhen
   headline: China confirms Trump, Xi and Putin will meet Thursday in Shenzhen
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7526
+  strength: 0.7515
 - slug: 2026-11-16-edgard-kagan-says-china-resists-trilateral-nuclear-talks
   headline: Edgard Kagan says China resists trilateral nuclear talks
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7497
+  strength: 0.7499
 - slug: 2026-11-16-china-signals-nuclear-reduction-talks-hinge-on-parity-with-us-and-russia
   headline: China signals nuclear reduction talks hinge on parity with US and Russia
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7447
+  strength: 0.7445
 - slug: 2026-11-15-asean-leaders-open-manila-summit-as-trump-prepares-to-join-regional-talks
   headline: ASEAN leaders open Manila summit as Trump prepares to join regional talks
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7372
+  strength: 0.7364
 - slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
   headline: Trump open to joining Putin and Xi for denuclearization summit
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7837
-- slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
-  headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.7482
-- slug: 2026-09-23-trump-hosts-xi-at-white-house-for-state-visit-on-trade-and-ai
-  headline: Trump hosts Xi at White House for state visit on trade and AI
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7577
-- slug: 2026-09-25-trump-and-xi-hold-talks-in-washington-on-tariffs-taiwan-and-ai
-  headline: Trump and Xi hold talks in Washington on tariffs, Taiwan, and AI
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.735
-- slug: 2026-09-22-trump-tells-un-he-has-made-peace-renews-threats-against-iran
-  headline: Trump tells UN he has 'made peace,' renews threats against Iran
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7369
-- slug: 2026-05-13-trump-and-xi-seek-to-stabilize-trade-ties-at-beijing-summit
-  headline: Trump and Xi seek to stabilize trade ties at Beijing summit
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7679
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-and-taiwan-arms-sales
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, and Taiwan arms sales
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7653
-- slug: 2026-05-16-trump-leaves-beijing-with-taiwan-arms-sale-in-doubt-as-xi-hails-new-strategic-fr
-  headline: Trump leaves Beijing with Taiwan arms sale in doubt as Xi hails new strategic framework
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7643
-- slug: 2026-05-14-trump-arrives-in-beijing-for-high-stakes-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for high-stakes talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7619
-- slug: 2026-05-16-trump-says-he-will-decide-on-taiwan-arms-package-after-xi-concerns
-  headline: Trump says he will decide on Taiwan arms package after Xi concerns
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7524
-- slug: 2026-05-13-trump-aims-to-stabilize-trade-in-beijing-summit-with-xi
-  headline: Trump aims to stabilize trade in Beijing summit with Xi
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7446
-- slug: 2026-05-16-trump-s-china-trip-highlights-taiwan-focus-talk-of-strategic-stability
-  headline: Trump’s China trip highlights Taiwan focus, talk of “strategic stability”
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7429
-- slug: 2026-05-09-trump-heads-to-beijing-for-state-visit-as-iran-war-trade-tensions-loom
-  headline: Trump heads to Beijing for state visit as Iran war, trade tensions loom
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7415
+  strength: 0.7834
 ---
-
 ## Trump heads to Asia as courts rule, banks report outages and stocks fall
 
 **Subtype:** fact
