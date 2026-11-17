@@ -2,8 +2,13 @@
 headline: Three people die in Grand Canyon plane crash
 secondary_headline: Night-vision search locates wreckage in Grand Canyon's North Rim
 publish_date: '2026-11-17'
-lede: Three people died in a plane crash in Grand Canyon National Park in Arizona, the National Park Service said Monday. Search crews found the wreckage and a debris field in the North Rim's Basin area at about 10:15 a.m. Monday.
-nut_graf: An aerial search by the Arizona Department of Public Safety used night vision and forward-looking infrared technology to locate the aircraft in Grand Canyon's North Rim. The National Transportation Safety Board will investigate the cause, and the National Park Service has withheld the victims' identities.
+lede: Three people died in a plane crash in Grand Canyon National Park in Arizona,
+  the National Park Service said Monday. Search crews found the wreckage and a debris
+  field in the North Rim's Basin area at about 10:15 a.m. Monday.
+nut_graf: An aerial search by the Arizona Department of Public Safety used night vision
+  and forward-looking infrared technology to locate the aircraft in Grand Canyon's
+  North Rim. The National Transportation Safety Board will investigate the cause,
+  and the National Park Service has withheld the victims' identities.
 primary_entities:
 - Grand Canyon National Park
 - National Park Service
@@ -43,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,13 +147,9 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-04-helicopter-crash-in-biscayne-bay-kills-one-and-seriously-injures-two
-  headline: Helicopter crash in Biscayne Bay kills one and seriously injures two
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6284
 - slug: 2026-10-30-ntsb-investigates-why-two-helicopters-collided-near-mcminnville-killing-three
-  headline: NTSB investigates why two helicopters collided near McMinnville, killing three
+  headline: NTSB investigates why two helicopters collided near McMinnville, killing
+    three
   publish_date: '2026-10-30'
   relation: related
   strength: 0.6543
@@ -161,26 +163,6 @@ related_stories:
   publish_date: '2026-09-16'
   relation: related
   strength: 0.6918
-- slug: 2026-08-30-bright-angel-creek-flash-flood-forces-dozens-to-evacuate-grand-canyon
-  headline: Bright Angel Creek flash flood forces dozens to evacuate Grand Canyon
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6448
-- slug: 2026-08-31-grand-canyon-flash-flood-kills-one-destroys-water-pipeline
-  headline: Grand Canyon flash flood kills one, destroys water pipeline
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6342
-- slug: 2026-08-31-flash-flood-at-grand-canyon-s-phantom-ranch-kills-two-leaves-15-missing
-  headline: Flash flood at Grand Canyon's Phantom Ranch kills two, leaves 15 missing
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6315
-- slug: 2026-08-21-two-pilots-six-passengers-board-plane-before-it-crashes-near-cape-newenham
-  headline: Two pilots, six passengers board plane before it crashes near Cape Newenham
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6351
 - slug: 2026-04-08-2-killed-in-fiery-small-plane-crash-at-airport-in-marana-arizona
   headline: 2 killed in fiery small-plane crash at airport in Marana, Arizona
   publish_date: '2026-04-08'
@@ -196,62 +178,20 @@ related_stories:
   publish_date: '2026-04-09'
   relation: related
   strength: 0.6696
-- slug: 2026-06-20-grand-canyon-on-extreme-heat-watch-after-three-hikers-die-in-a-week
-  headline: Grand Canyon on extreme heat watch after three hikers die in a week
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6353
-- slug: 2026-05-18-new-mexico-wildfire-sparked-by-medical-plane-crash-spurs-evacuations
-  headline: New Mexico wildfire sparked by medical plane crash spurs evacuations
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6452
-- slug: 2026-06-21-three-killed-in-small-plane-crash-in-bowie-maryland
-  headline: Three killed in small plane crash in Bowie, Maryland
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6293
-- slug: 2026-04-26-plane-crash-near-minneapolis-kills-north-dakota-lawmaker-and-pilot
-  headline: Plane crash near Minneapolis kills North Dakota lawmaker and pilot
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6424
-- slug: 2026-04-27-plane-crash-near-minneapolis-kills-north-dakota-lawmaker-pilot
-  headline: Plane crash near Minneapolis kills North Dakota lawmaker, pilot
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6413
-- slug: 2026-05-19-new-mexico-wildfire-grows-after-fatal-medical-plane-crash-near-ruidoso
-  headline: New Mexico wildfire grows after fatal medical plane crash near Ruidoso
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6346
-- slug: 2026-02-20-6-women-killed-in-california-avalanche-were-among-8-close-friends
-  headline: 6 women killed in California avalanche were among 8 close friends
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6469
-- slug: 2026-02-14-4-dead-after-small-plane-crash-near-steamboat-springs-colorado
-  headline: 4 dead after small plane crash near Steamboat Springs, Colorado
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6408
-- slug: 2026-01-26-six-die-as-business-jet-crashes-during-maine-takeoff-in-snowstorm
-  headline: Six die as business jet crashes during Maine takeoff in snowstorm
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6397
 image:
   url: /articles/2026-11-17-three-people-die-in-grand-canyon-plane-crash.png
-  alt: "Illustration accompanying article: Three people die in Grand Canyon plane crash"
+  alt: 'Illustration accompanying article: Three people die in Grand Canyon plane
+    crash'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Three people die in Grand Canyon plane crash
 
 **Subtype:** fact
