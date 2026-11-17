@@ -33,7 +33,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,7 +55,29 @@ cross_article_links:
   strength: 0.807
   confidence: high
 draft: false
+image:
+  url: /cartoons/trump-promised-cheaper-energy-maine-is-paying-six-dollars-a.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump promised cheaper energy. Maine
+    is paying six dollars a gallon.'
+  caption: Trump's Moscow deal produced nothing. Maine's six-dollar gallon still came
+    due.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-16T23:19:04-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1 single panel in dense black-and-white wood engraving, heavy
+    cross-hatch, strong outlines, and one restrained sepia (#6B4226) accent on the
+    price printed on a delivery ticket. Donald Trump o
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-16-hector-paired-with-2026-11-16-prudence-wonk-business-2026-nov-16-heating-oil-price-i
 ---
+
+![Editorial cartoon by Hector Rentier: Trump promised cheaper energy. Maine is paying six dollars a gallon.](/cartoons/trump-promised-cheaper-energy-maine-is-paying-six-dollars-a.png)
+*Trump's Moscow deal produced nothing. Maine's six-dollar gallon still came due.*
 
 Trump is billing America's coldest households for a failed Moscow diesel deal.
 

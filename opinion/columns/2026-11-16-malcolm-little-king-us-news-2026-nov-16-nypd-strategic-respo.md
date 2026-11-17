@@ -32,7 +32,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,7 +54,28 @@ cross_article_links:
   strength: 0.8504
   confidence: high
 draft: false
+image:
+  url: /cartoons/new-york-built-the-strategic-response-group-to-police.png
+  alt: 'Editorial cartoon by Hector Rentier: New York Built the Strategic Response
+    Group to Police Protest, Not Terror'
+  caption: He offered two choices. The third door was already open.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-16T23:11:03-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square, single-panel Nast-style wood engraving with dense cross-hatch,
+    heavy black contours, carved white highlights, and exactly one restrained sepia
+    accent (#6B4226) on the third-door placard. Cente
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-16-hector-paired-with-2026-11-16-malcolm-little-king-us-news-2026-nov-16-nypd-strategic-respo
 ---
+
+![Editorial cartoon by Hector Rentier: New York Built the Strategic Response Group to Police Protest, Not Terror](/cartoons/new-york-built-the-strategic-response-group-to-police.png)
+*He offered two choices. The third door was already open.*
 
 New York built the Strategic Response Group to police protest, not terror. The proof stood in the street on June 13, 2026, outside Game 5 of the NBA Finals, where the Knicks and the San Antonio Spurs were playing basketball and the city posted standing riot police to guard the occasion — riot police under a scoreboard, before a crowd that had come to watch a game, the least threatening crowd a free city ever gathers. A unit founded in 2015 with counter-terrorism as its stated purpose ended its public life guarding a sporting event. That photograph is the unit's honest mission statement. Everything else was paperwork.
 

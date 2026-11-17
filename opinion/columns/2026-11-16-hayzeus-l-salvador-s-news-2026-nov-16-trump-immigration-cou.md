@@ -37,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,7 +59,28 @@ cross_article_links:
   strength: 1.0
   confidence: high
 draft: false
+image:
+  url: /cartoons/donald-trump-is-crushing-asylum-families-in-courts-built-to.png
+  alt: 'Editorial cartoon by Hector Rentier: Donald Trump Is Crushing Asylum Families
+    in Courts Built to Deny Them'
+  caption: The government proposed deciding the case without a hearing.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-16T23:13:13-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Render a square, single-panel editorial cartoon in dense black wood-engraving
+    cross-hatch, with pure black masses, carved white highlights, and exactly one
+    restrained sepia accent (#6B4226) on the cal
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-16-hector-paired-with-2026-11-16-hayzeus-l-salvador-s-news-2026-nov-16-trump-immigration-cou
 ---
+
+![Editorial cartoon by Hector Rentier: Donald Trump Is Crushing Asylum Families in Courts Built to Deny Them](/cartoons/donald-trump-is-crushing-asylum-families-in-courts-built-to.png)
+*The government proposed deciding the case without a hearing.*
 
 Donald Trump is crushing asylum families in courts built to deny them. Four days. That is all the notice the New Orleans immigration court gave an attorney to get a family of six ready to defend their asylum case — work the lawyers themselves put at fifty to seventy-five hours. The court had already moved that family's hearing up from July 2028, calling it a "priority case" that had to be finished by the end of November, without explaining why. Then it swapped their judge for one in Cleveland, without their permission, and set a virtual hearing for Monday. The government's own attorney, arguing for deportation, acknowledged the circumstances were strange. Then he proposed "pretermitting" the asylum application — court jargon for denying the claim and deporting six people without ever holding a full evidentiary hearing. A verdict without a trial. Say it plainly: you are asking a judge to remove six people from this country without hearing their case. That is not a backlog problem. That is a decision. That is cruelty by design, and my tradition does not have a softer word for it — *pecado social*, sin built into the machinery of a state.
 
