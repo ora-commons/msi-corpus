@@ -1,9 +1,18 @@
 ---
-headline: Electric tug enters Coast Guard sea trials ahead of Port of Los Angeles delivery
+headline: Electric tug enters Coast Guard sea trials ahead of Port of Los Angeles
+  delivery
 secondary_headline: Arc projects 50% to 60% lower operating costs for electric tugs
 publish_date: '2026-11-17'
-lede: Tugboats that maneuver containerships through America’s busiest ports are set to become the next pieces of the freight industry to go electric. California-based Curtin Maritime and Los Angeles marine-technology startup Arc are developing eight battery-powered tugboats, the first of which is undergoing U.S. Coast Guard sea trials ahead of planned delivery later this month. The 80-foot vessel is set to become the first fully electric tug operating at the Port of Los Angeles.
-nut_graf: The pitch to tugboat operators is primarily about cutting costs rather than emissions. Arc co-founder Ryan Cook says electric tugs could have operating costs 50% to 60% below conventional vessels, while Port of Los Angeles Executive Director Gene Seroka says the boats still need testing in real-world heavy-duty circumstances.
+lede: Tugboats that maneuver containerships through America’s busiest ports are set
+  to become the next pieces of the freight industry to go electric. California-based
+  Curtin Maritime and Los Angeles marine-technology startup Arc are developing eight
+  battery-powered tugboats, the first of which is undergoing U.S. Coast Guard sea
+  trials ahead of planned delivery later this month. The 80-foot vessel is set to
+  become the first fully electric tug operating at the Port of Los Angeles.
+nut_graf: The pitch to tugboat operators is primarily about cutting costs rather than
+  emissions. Arc co-founder Ryan Cook says electric tugs could have operating costs
+  50% to 60% below conventional vessels, while Port of Los Angeles Executive Director
+  Gene Seroka says the boats still need testing in real-world heavy-duty circumstances.
 primary_entities:
 - Curtin Maritime
 - Arc
@@ -50,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,108 +158,24 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-16-four-remain-hospitalized-after-tanker-struck-cruise-ship-in-new-orleans
-  headline: Four remain hospitalized after tanker struck cruise ship in New Orleans
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6021
-- slug: 2026-11-12-turkey-rallies-world-leaders-behind-goal-to-electrify-35-of-energy-use-by-2035
-  headline: Turkey rallies world leaders behind goal to electrify 35% of energy use by 2035
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5913
-- slug: 2026-11-11-unmanned-vessels-take-on-mine-hunting-work-in-the-strait-of-hormuz
-  headline: Unmanned vessels take on mine-hunting work in the Strait of Hormuz
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.5964
 - slug: 2026-10-22-federal-agencies-advance-plans-for-floating-reactors-and-nuclear-cargo-ships
-  headline: Federal agencies advance plans for floating reactors and nuclear cargo ships
+  headline: Federal agencies advance plans for floating reactors and nuclear cargo
+    ships
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6742
-- slug: 2026-10-28-watchmen-union-local-authorizes-strike-at-southern-california-ports
-  headline: Watchmen union local authorizes strike at Southern California ports
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6396
+  strength: 0.6741
 - slug: 2026-10-08-southern-california-ports-consider-60-per-trip-subsidy-for-zero-emission-trucks
-  headline: Southern California ports consider $60-per-trip subsidy for zero-emission trucks
+  headline: Southern California ports consider $60-per-trip subsidy for zero-emission
+    trucks
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6981
-- slug: 2026-10-23-archer-begins-electric-vtol-air-taxi-rollout-in-three-texas-markets
-  headline: Archer begins electric VTOL air-taxi rollout in three Texas markets
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6061
-- slug: 2026-10-19-aurora-targets-200-autonomous-trucks-in-texas-by-year-end
-  headline: Aurora targets 200 autonomous trucks in Texas by year-end
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.5962
-- slug: 2026-09-29-us-sodium-ion-battery-startups-race-to-challenge-china-s-manufacturing-lead
-  headline: US sodium-ion battery startups race to challenge China's manufacturing lead
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6416
-- slug: 2026-10-08-ftc-usda-open-joint-inquiry-into-farm-equipment-market-competition
-  headline: FTC, USDA open joint inquiry into farm equipment market competition
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6096
-- slug: 2026-09-26-diesel-hits-us-record-as-freight-rates-climb-to-highest-since-2022
-  headline: Diesel hits US record as freight rates climb to highest since 2022
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.5973
-- slug: 2026-09-25-parallax-raises-117m-for-3d-printed-data-center-turbines
-  headline: Parallax raises $117M for 3D-printed data-center turbines
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5958
-- slug: 2026-09-16-us-investigates-cyberattacks-on-energy-tankers-in-strait-of-gibraltar
-  headline: US investigates cyberattacks on energy tankers in Strait of Gibraltar
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6008
-- slug: 2026-09-06-hyundai-ford-and-stellantis-plan-us-extended-range-evs
-  headline: Hyundai, Ford and Stellantis plan US extended-range EVs
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6023
-- slug: 2026-09-02-ford-targets-100-000-first-year-sales-for-new-30-000-fathom-electric-truck
-  headline: Ford targets 100,000 first-year sales for new $30,000 Fathom electric truck
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5994
+  strength: 0.6975
 - slug: 2026-07-23-port-of-long-beach-signs-agreement-to-explore-on-site-nuclear-power
   headline: Port of Long Beach signs agreement to explore on-site nuclear power
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6573
-- slug: 2026-08-07-port-of-los-angeles-peak-shipping-season-extends-as-retailers-keep-importing
-  headline: Port of Los Angeles peak shipping season extends as retailers keep importing
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6166
-- slug: 2026-08-19-california-adopts-tire-efficiency-rules-projects-1-billion-in-annual-savings
-  headline: California adopts tire efficiency rules, projects $1 billion in annual savings
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.5923
-- slug: 2026-08-15-us-manufacturers-pour-hundreds-of-millions-into-ai-data-center-buildout
-  headline: US manufacturers pour hundreds of millions into AI data center buildout
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.5911
-- slug: 2026-08-10-lotte-global-logistics-triples-us-battery-storage-transport-volume
-  headline: Lotte Global Logistics triples US battery storage transport volume
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5917
+  strength: 0.6575
 ---
-
 ## Electric tug enters Coast Guard sea trials ahead of Port of Los Angeles delivery
 
 **Subtype:** fact

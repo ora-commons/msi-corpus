@@ -57,7 +57,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -243,3 +243,10 @@ As of Tuesday, the FAA had not established why the routers malfunctioned. Its im
 **Publication date:** 2026-11-17
 **Title:** FAA stops installation of routers it linked to national ground stop
 **URL:** https://www.pbs.org/newshour/nation/faa-stops-installation-of-routers-it-linked-to-national-ground-stop
+
+### src_late_f1d0630dcebfac4c — Associated Press, wire, Tier 1, originating
+**Author:** Josh Funk
+**Publication date:** 2026-11-17
+**Title:** FAA pauses router work linked to air travel stoppage
+**URL:** https://apnews.com/article/nationwide-ground-stop-trump-air-travel-faa-a638c9651f1fabe8f95d20353779ee5b
+**Added after publication:** true

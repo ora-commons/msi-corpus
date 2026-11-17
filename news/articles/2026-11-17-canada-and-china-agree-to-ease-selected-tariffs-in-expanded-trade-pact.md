@@ -2,8 +2,17 @@
 headline: Canada and China agree to ease selected tariffs in expanded trade pact
 secondary_headline: Carney targets doubling non-U.S. exports by 2035
 publish_date: '2026-11-17'
-lede: Canada and China agreed to ease selected mutual tariffs after Prime Minister Mark Carney met with President Xi Jinping in Shenzhen. China will roll back tariffs on $280 million worth of Canadian pork and seafood exports, while Canada will offer relief on some Chinese steel and aluminum products where Canadian supply is insufficient or unavailable. The deal expands a January pact as Carney pursues his goal of doubling Canada’s non-U.S. exports by 2035.
-nut_graf: The expanded agreement covers only a small portion of the $88 billion in merchandise trade between Canada and China. It is part of Carney’s effort to diversify Canada’s export relationships as the government seeks relief from U.S. tariffs as high as 50% on autos, steel and aluminum. U.S.-Canada trade talks fell apart in August, though Carney said this month that negotiations have restarted.
+lede: Canada and China agreed to ease selected mutual tariffs after Prime Minister
+  Mark Carney met with President Xi Jinping in Shenzhen. China will roll back tariffs
+  on $280 million worth of Canadian pork and seafood exports, while Canada will offer
+  relief on some Chinese steel and aluminum products where Canadian supply is insufficient
+  or unavailable. The deal expands a January pact as Carney pursues his goal of doubling
+  Canada’s non-U.S. exports by 2035.
+nut_graf: The expanded agreement covers only a small portion of the $88 billion in
+  merchandise trade between Canada and China. It is part of Carney’s effort to diversify
+  Canada’s export relationships as the government seeks relief from U.S. tariffs as
+  high as 50% on autos, steel and aluminum. U.S.-Canada trade talks fell apart in
+  August, though Carney said this month that negotiations have restarted.
 primary_entities:
 - Canada
 - China
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +150,43 @@ related_stories:
   headline: Carney says Canada could turn to Chinese automakers if US talks fail
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7883
+  strength: 0.7882
 - slug: 2026-11-17-carney-says-he-and-xi-agreed-to-further-tariff-cuts
   headline: Carney says he and Xi agreed to further tariff cuts
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7764
+  strength: 0.7776
 - slug: 2026-11-03-carney-says-u-s--canada-talks-made-progress-after-august-collapse
   headline: Carney says U.S.-Canada talks made progress after August collapse
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7632
+  strength: 0.7631
 - slug: 2026-11-10-china-expands-ev-chip-and-chemical-exports-amid-weak-domestic-demand
   headline: China expands EV, chip and chemical exports amid weak domestic demand
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7137
+  strength: 0.7154
 - slug: 2026-11-04-u-s-midterm-results-lift-canadian-hopes-for-tariff-relief
   headline: U.S. midterm results lift Canadian hopes for tariff relief
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7106
+  strength: 0.7103
 - slug: 2026-09-26-u-s-and-china-agree-to-cut-tariffs-on-30-billion-of-less-sensitive-trade
   headline: U.S. and China agree to cut tariffs on $30 billion of less sensitive trade
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7377
+  strength: 0.7371
 - slug: 2026-09-28-u-s-and-china-announce-60-billion-in-mutual-tariff-reductions
   headline: U.S. and China announce $60 billion in mutual tariff reductions
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.7232
+  strength: 0.7234
 - slug: 2026-09-28-canada-pushes-to-double-lng-exports-and-build-pacific-oil-pipeline
   headline: Canada pushes to double LNG exports and build Pacific oil pipeline
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.714
-- slug: 2026-09-23-carney-says-canada-open-to-us-trade-deal-but-won-t-compromise-sovereignty
-  headline: Carney says Canada open to US trade deal but won't compromise sovereignty
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7132
-- slug: 2026-09-11-carney-to-host-toronto-investment-summit-seeking-c-1-trillion
-  headline: Carney to host Toronto investment summit seeking C$1 trillion
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7113
-- slug: 2026-09-03-carney-says-any-us-trade-pact-must-include-tariff-level-assurances
-  headline: Carney says any US trade pact must include tariff-level assurances
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7235
-- slug: 2026-08-22-carney-orders-dollar-for-dollar-counter-tariffs-as-us-canada-talks-collapse
-  headline: Carney orders dollar-for-dollar counter-tariffs as US-Canada talks collapse
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7339
-- slug: 2026-01-17-canada-cuts-chinese-ev-tariffs-wins-canola-access-in-deal-that-risks-us-trade-pa
-  headline: Canada cuts Chinese EV tariffs, wins canola access in deal that risks US trade pact
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.8237
-- slug: 2026-07-23-carney-s-concessions-to-trump-fail-to-halt-50-tariff-on-canadian-goods
-  headline: Carney's concessions to Trump fail to halt 50% tariff on Canadian goods
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7561
-- slug: 2026-08-26-carney-announces-20bn-retaliation-as-us-tariffs-on-canada-take-effect
-  headline: Carney announces $20bn retaliation as US tariffs on Canada take effect
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7092
-- slug: 2026-08-26-carney-ends-us-canada-trade-talks-pledges-diversification
-  headline: Carney ends US-Canada trade talks, pledges diversification
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7083
-- slug: 2026-05-17-china-to-boost-trade-for-us-agricultural-products-including-beef-and-poultry
-  headline: China to boost trade for US agricultural products including beef and poultry
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.7322
-- slug: 2026-05-14-trump-and-xi-meet-in-beijing-to-stabilize-us-china-trade-after-tariff-war
-  headline: Trump and Xi meet in Beijing to stabilize US-China trade after tariff war
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7277
-- slug: 2026-01-30-mark-carney-stands-firm-on-davos-speech-plans-new-canada-trade-deals
-  headline: Mark Carney stands firm on Davos speech, plans new Canada trade deals
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7432
-- slug: 2026-04-19-carney-says-canada-must-reduce-u-s-economic-ties-over-trump-tariffs
-  headline: Carney says Canada must reduce U.S. economic ties over Trump tariffs
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.7317
+  strength: 0.7136
 ---
-
 ## Canada and China agree to ease selected tariffs in expanded trade pact
 
 **Subtype:** fact
