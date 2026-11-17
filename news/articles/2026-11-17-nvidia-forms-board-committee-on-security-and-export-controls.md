@@ -1,9 +1,18 @@
 ---
 headline: Nvidia forms board committee on security and export controls
-secondary_headline: Proposed chip restrictions would cover Malaysia, Thailand, Indonesia, Singapore and Brazil
+secondary_headline: Proposed chip restrictions would cover Malaysia, Thailand, Indonesia,
+  Singapore and Brazil
 publish_date: '2026-11-17'
-lede: Nvidia said Tuesday that it formed a board committee to oversee national security, export controls and global-trade risks after founder Jensen Huang resigned the previous week. The National Security and Export Control Oversight Committee will be chaired by director Suzanne Nora Johnson, and it will meet at least quarterly. The move comes as the Commerce Department has proposed tighter restrictions on chip shipments to additional countries.
-nut_graf: The new structure gives Nvidia a recurring board-level forum for export-control compliance and global-trade risk as the Commerce Department has proposed tighter chip-shipping rules. Its formation also follows founder Jensen Huang's resignation, which left Colette Kress as interim chief executive.
+lede: Nvidia said Tuesday that it formed a board committee to oversee national security,
+  export controls and global-trade risks after founder Jensen Huang resigned the previous
+  week. The National Security and Export Control Oversight Committee will be chaired
+  by director Suzanne Nora Johnson, and it will meet at least quarterly. The move
+  comes as the Commerce Department has proposed tighter restrictions on chip shipments
+  to additional countries.
+nut_graf: The new structure gives Nvidia a recurring board-level forum for export-control
+  compliance and global-trade risk as the Commerce Department has proposed tighter
+  chip-shipping rules. Its formation also follows founder Jensen Huang's resignation,
+  which left Colette Kress as interim chief executive.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +152,46 @@ related_stories:
   headline: Nvidia board won't consider Huang's return as CEO, source says
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7958
+  strength: 0.798
 - slug: 2026-11-16-nvidia-s-china-chip-workarounds-appear-close-to-closing-after-huang-s-exit
-  headline: Nvidia's China chip workarounds appear close to closing after Huang's exit
+  headline: Nvidia's China chip workarounds appear close to closing after Huang's
+    exit
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7927
+  strength: 0.7928
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
   headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8032
+  strength: 0.8054
 - slug: 2026-11-16-treasury-and-national-security-council-direct-new-chip-rule-announced-by-commerc
-  headline: Treasury and National Security Council direct new chip rule announced by Commerce
+  headline: Treasury and National Security Council direct new chip rule announced
+    by Commerce
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7693
+  strength: 0.7699
 - slug: 2026-11-12-nvidia-begins-search-for-new-ceo-after-jensen-huang-resigns
   headline: Nvidia begins search for new CEO after Jensen Huang resigns
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.795
+  strength: 0.7958
 - slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
   headline: Nvidia board meets on whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7867
+  strength: 0.7887
 - slug: 2026-11-14-congress-seizes-on-nvidia-scandal-to-press-for-tighter-china-chip-export-curbs
-  headline: Congress seizes on Nvidia scandal to press for tighter China chip export curbs
+  headline: Congress seizes on Nvidia scandal to press for tighter China chip export
+    curbs
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7708
-- slug: 2026-11-16-commerce-proposes-license-rule-for-chip-exports-to-five-countries
-  headline: Commerce proposes license rule for chip exports to five countries
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7537
+  strength: 0.7725
 - slug: 2026-11-15-bessent-urges-nvidia-to-hire-outside-ceo-and-answer-export-questions
   headline: Bessent urges Nvidia to hire outside CEO and answer export questions
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7591
-- slug: 2026-11-15-nvidia-chips-reach-china-through-a-growing-southeast-asia-data-center-route
-  headline: Nvidia chips reach China through a growing Southeast Asia data center route
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7587
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
-  headline: Nvidia CEO Jensen Huang resigns after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.778
-- slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
-  headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7698
-- slug: 2026-11-13-nvidia-chairman-voices-full-confidence-in-kress-as-shares-slide
-  headline: Nvidia chairman voices 'full confidence' in Kress as shares slide
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7686
-- slug: 2026-11-13-rival-chipmakers-gain-as-huang-departure-rattles-nvidia
-  headline: Rival chipmakers gain as Huang departure rattles Nvidia
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7682
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
-  headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7744
-- slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7715
-- slug: 2026-11-12-nvidia-names-cfo-colette-kress-interim-ceo-after-jensen-huang-resigns
-  headline: Nvidia names CFO Colette Kress interim CEO after Jensen Huang resigns
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7704
-- slug: 2026-11-13-johnson-says-congress-nears-consensus-on-tighter-china-chip-controls
-  headline: Johnson says Congress nears consensus on tighter China chip controls
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7602
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
-  headline: Jensen Huang resigns as Nvidia CEO after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7613
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7857
+  strength: 0.7615
 ---
-
 ## Nvidia forms board committee on security and export controls
 
 **Subtype:** fact

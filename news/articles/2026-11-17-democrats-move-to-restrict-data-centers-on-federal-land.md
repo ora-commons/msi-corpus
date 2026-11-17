@@ -1,9 +1,16 @@
 ---
 headline: Democrats move to restrict data centers on federal land
-secondary_headline: Interior Department strategy includes sales, exchanges and land transfers
+secondary_headline: Interior Department strategy includes sales, exchanges and land
+  transfers
 publish_date: '2026-11-17'
-lede: A dozen Democratic members of Congress are calling for limits or bans on data-center construction on public lands. The moves follow ProPublica reporting that Interior Secretary Doug Burgum, who leads the White House’s artificial intelligence push, has tens of millions of dollars invested in AI companies.
-nut_graf: The proposals coincide with a broad federal permitting overhaul and an Interior Department strategy that includes land sales, exchanges and transfers. They also bring political financial disclosures and natural-resources oversight into the same debate as Democrats prepare to lead the relevant congressional committees in January.
+lede: A dozen Democratic members of Congress are calling for limits or bans on data-center
+  construction on public lands. The moves follow ProPublica reporting that Interior
+  Secretary Doug Burgum, who leads the White House’s artificial intelligence push,
+  has tens of millions of dollars invested in AI companies.
+nut_graf: The proposals coincide with a broad federal permitting overhaul and an Interior
+  Department strategy that includes land sales, exchanges and transfers. They also
+  bring political financial disclosures and natural-resources oversight into the same
+  debate as Democrats prepare to lead the relevant congressional committees in January.
 primary_entities:
 - Congress
 - Doug Burgum
@@ -45,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +155,44 @@ related_stories:
   headline: Democratic lawmakers set AI regulation as top priority
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7285
+  strength: 0.7282
 - slug: 2026-11-11-texas-ohio-and-georgia-data-center-plans-face-a-policy-test-after-midterms
   headline: Texas, Ohio and Georgia data-center plans face a policy test after midterms
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7096
+  strength: 0.7092
 - slug: 2026-11-06-sanders-and-newly-elected-democrats-call-for-data-center-moratoriums
   headline: Sanders and newly elected Democrats call for data center moratoriums
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7225
+  strength: 0.7224
 - slug: 2026-11-05-voters-back-data-center-limits-complicating-ai-expansion
   headline: Voters back data center limits, complicating AI expansion
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7247
+  strength: 0.7244
 - slug: 2026-11-06-data-center-skeptics-win-across-us-midterms-as-tougher-state-rules-loom
   headline: Data center skeptics win across US midterms as tougher state rules loom
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7172
+  strength: 0.7171
 - slug: 2026-11-06-ai-companies-reassess-data-center-plans-after-midterm-wins-for-freeze-candidates
-  headline: AI companies reassess data-center plans after midterm wins for freeze candidates
+  headline: AI companies reassess data-center plans after midterm wins for freeze
+    candidates
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7164
+  strength: 0.7162
 - slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
   headline: Democratic gains shift U.S. technology policy outlook
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7268
+  strength: 0.7264
 - slug: 2026-11-04-democrats-wins-could-bring-stricter-ai-and-data-center-rules
   headline: Democrats’ wins could bring stricter AI and data-center rules
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7028
-- slug: 2026-11-05-ai-related-companies-now-make-up-roughly-half-of-the-s-p-500-npr-editor-says
-  headline: AI-related companies now make up roughly half of the S&P 500, NPR editor says
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.692
-- slug: 2026-10-26-candidates-in-four-states-seek-tighter-data-center-approval-rules
-  headline: Candidates in four states seek tighter data-center approval rules
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7002
-- slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
-  headline: Data center backlash forces bipartisan repositioning ahead of US midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7018
-- slug: 2026-09-26-democratic-2028-hopefuls-stake-out-ai-positions-from-guardrails-to-moratorium
-  headline: Democratic 2028 hopefuls stake out AI positions from guardrails to moratorium
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.7243
-- slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7028
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7012
-- slug: 2026-09-03-bannon-joins-sanders-ocasio-cortez-in-opposing-new-data-centers
-  headline: Bannon joins Sanders, Ocasio-Cortez in opposing new data centers
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6928
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.7026
-- slug: 2026-07-11-ai-data-center-construction-threatens-farmland-farmers-and-ranchers-warn
-  headline: AI data center construction threatens farmland, farmers and ranchers warn
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.7383
-- slug: 2026-07-15-democratic-voters-turn-against-party-leaders-over-data-center-projects
-  headline: Democratic voters turn against party leaders over data center projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7153
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.693
-- slug: 2026-07-16-power-companies-use-eminent-domain-to-seize-land-for-data-center-transmission-li
-  headline: Power companies use eminent domain to seize land for data center transmission lines
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.697
+  strength: 0.7023
 ---
-
 ## Democrats move to restrict data centers on federal land
 
 **Subtype:** fact

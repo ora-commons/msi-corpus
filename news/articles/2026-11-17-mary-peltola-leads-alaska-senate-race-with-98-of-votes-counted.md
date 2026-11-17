@@ -2,8 +2,16 @@
 headline: Mary Peltola leads Alaska Senate race with 98% of votes counted
 secondary_headline: Second-choice data weakens voter-confusion claims in the count
 publish_date: '2026-11-17'
-lede: Mary Peltola remained ahead in Alaska’s U.S. Senate race on Tuesday, with 98% of the vote counted nearly two weeks after the Nov. 3 election. BBC Verify found that Peltola’s lead would stand even if Republican incumbent Dan S. Sullivan and Daniel J. Sullivan Jr. received a combined vote.
-nut_graf: The Senate contest was the last Senate seat without a winner after the midterm elections, and U.S. media had not forecast a winner. The dispute centered on claims that having two candidates named Dan Sullivan could have confused voters and on an alleged campaign effort to recruit “spoiler” candidates. Peltola denied knowledge of the alleged “scheme,” Daniel J. Sullivan Jr. denied links with her campaign, and BBC News had not independently verified the recruitment reporting.
+lede: Mary Peltola remained ahead in Alaska’s U.S. Senate race on Tuesday, with 98%
+  of the vote counted nearly two weeks after the Nov. 3 election. BBC Verify found
+  that Peltola’s lead would stand even if Republican incumbent Dan S. Sullivan and
+  Daniel J. Sullivan Jr. received a combined vote.
+nut_graf: The Senate contest was the last Senate seat without a winner after the midterm
+  elections, and U.S. media had not forecast a winner. The dispute centered on claims
+  that having two candidates named Dan Sullivan could have confused voters and on
+  an alleged campaign effort to recruit “spoiler” candidates. Peltola denied knowledge
+  of the alleged “scheme,” Daniel J. Sullivan Jr. denied links with her campaign,
+  and BBC News had not independently verified the recruitment reporting.
 primary_entities:
 - Mary Peltola
 - Dan S. Sullivan
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,107 +149,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
+  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe
+    escalates
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8597
+  strength: 0.8595
 - slug: 2026-10-28-mary-peltola-s-campaign-denies-role-in-recruiting-dan-sullivan-namesake
   headline: Mary Peltola's campaign denies role in recruiting Dan Sullivan namesake
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.8567
+  strength: 0.8561
 - slug: 2026-11-03-peltola-leads-sullivan-in-alaska-senate-primary-amid-heavy-spending
   headline: Peltola leads Sullivan in Alaska Senate primary amid heavy spending
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.8191
+  strength: 0.8195
 - slug: 2026-11-01-voting-rights-experts-call-alaska-election-intervention-unprecedented
   headline: Voting-rights experts call Alaska election intervention unprecedented
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.8294
+  strength: 0.8291
 - slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
   headline: Alaska voters decide Senate race shadowed by DOJ probe
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8343
+  strength: 0.8336
 - slug: 2026-11-05-alaska-s-ballot-count-continues-with-senate-governor-races-too-early-to-call
-  headline: Alaska's ballot count continues with Senate, governor races too early to call
+  headline: Alaska's ballot count continues with Senate, governor races too early
+    to call
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7933
+  strength: 0.7934
 - slug: 2026-10-30-spoiler-allegations-roil-alaska-s-tight-senate-race
   headline: Spoiler allegations roil Alaska's tight Senate race
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8235
+  strength: 0.8236
 - slug: 2026-10-28-peltola-campaign-discussed-recruiting-second-dan-sullivan-report-says
   headline: Peltola campaign discussed recruiting second Dan Sullivan, report says
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.832
-- slug: 2026-10-30-u-s-attorney-confirms-criminal-probe-into-alaska-senate-ballot-namesake-scheme
-  headline: U.S. attorney confirms criminal probe into Alaska Senate ballot-namesake scheme
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.8202
-- slug: 2026-10-31-justice-department-asks-judge-to-segregate-ballots-ranking-second-sullivan
-  headline: Justice Department asks judge to segregate ballots ranking second Sullivan
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.8114
-- slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
-  headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.8101
-- slug: 2026-10-29-gov-dunleavy-orders-investigation-into-alleged-election-scheme
-  headline: Gov. Dunleavy orders investigation into alleged election scheme
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.8048
-- slug: 2026-10-29-murkowski-condemns-peltola-campaign-while-opposing-doj-lawsuit
-  headline: Murkowski condemns Peltola campaign while opposing DOJ lawsuit
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.8019
-- slug: 2026-10-30-alaska-and-justice-department-open-criminal-probes-into-second-sullivan-filing
-  headline: Alaska and Justice Department open criminal probes into second Sullivan filing
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7915
-- slug: 2026-10-26-peltola-reschedules-alaska-senate-campaign-events-on-medical-advice
-  headline: Peltola reschedules Alaska Senate campaign events on medical advice
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.81
-- slug: 2026-10-29-justice-department-reportedly-issues-subpoenas-in-alaska-namesake-probe
-  headline: Justice Department reportedly issues subpoenas in Alaska namesake probe
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7936
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8219
-- slug: 2026-10-29-peltola-campaign-denied-encouraging-sullivan-namesake-may-report-says
-  headline: Peltola campaign denied encouraging Sullivan namesake, May report says
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7914
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8113
-- slug: 2026-10-14-trump-urges-alaskans-to-back-real-dan-sullivan-over-namesake-rival
-  headline: Trump urges Alaskans to back 'real' Dan Sullivan over namesake rival
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.8018
+  strength: 0.8318
 ---
-
 ## Mary Peltola leads Alaska Senate race with 98% of votes counted
 
 **Subtype:** fact

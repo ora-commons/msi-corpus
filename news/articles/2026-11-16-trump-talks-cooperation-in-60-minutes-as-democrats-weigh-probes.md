@@ -211,6 +211,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-16-cooperation-talk-and-an-arrow-shot-test-a-two-track-bargaining-strategy'
 ---
 ## Trump talks cooperation in ‘60 Minutes’ as Democrats weigh probes
 
@@ -246,3 +248,8 @@ Trump heads to the Philippines at a crucial time. The president’s visit comes 
 **Publication date:** 2026-11-16
 **Title:** The White House vs. Congress War Is On. And It’s Ugly.
 **URL:** https://www.wsj.com/arts-culture/books/the-white-house-vs-congress-war-is-on-and-its-ugly-c21068bc
+
+---
+
+<!-- analysis-link:2026-11-16-cooperation-talk-and-an-arrow-shot-test-a-two-track-bargaining-strategy -->
+**Going deeper:** [Read MSI's analysis of the post-midterm two-track standoff →](/analyses/2026-11-16-cooperation-talk-and-an-arrow-shot-test-a-two-track-bargaining-strategy)

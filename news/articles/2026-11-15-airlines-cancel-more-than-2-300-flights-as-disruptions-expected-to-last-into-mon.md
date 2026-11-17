@@ -193,6 +193,8 @@ related_stories:
   publish_date: '2026-11-14'
   relation: related
   strength: 0.804
+analyses:
+- '2026-11-15-ground-stop-leaves-us-aviation-with-two-constraints-network-recovery-and-unresol'
 ---
 ## Airlines cancel more than 2,300 flights as disruptions expected to last into Monday
 
@@ -242,3 +244,8 @@ Nick Daniels, president of the National Air Traffic Controllers Association, tol
 **Publication date:** 2026-11-15
 **Title:** Flight disruptions expected to last into Monday
 **URL:** https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday
+
+---
+
+<!-- analysis-link:2026-11-15-ground-stop-leaves-us-aviation-with-two-constraints-network-recovery-and-unresol -->
+**Going deeper:** [Read MSI's analysis of the ground stop's twin constraints →](/analyses/2026-11-15-ground-stop-leaves-us-aviation-with-two-constraints-network-recovery-and-unresol)
