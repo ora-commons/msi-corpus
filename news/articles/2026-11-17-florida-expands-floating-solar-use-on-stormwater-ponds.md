@@ -2,8 +2,15 @@
 headline: Florida expands floating solar use on stormwater ponds
 secondary_headline: Solar costs fell as scientists study how panels alter pond ecosystems
 publish_date: '2026-11-17'
-lede: Floating solar arrays are being installed on some of Florida’s stormwater ponds as utilities and developers seek renewable electricity without taking up scarce land. The Orlando Utilities Commission launched a 2-megawatt Conway Road array with more than 3,400 panels in November 2025, while scientists continue to study how covering pond surfaces affects aquatic ecosystems.
-nut_graf: The approach can place generation on water infrastructure controlled by utilities and municipalities, but the technology still carries an upfront premium and unresolved ecological effects. Wider adoption depends on costs, grid access, pond conditions and research into how much surface coverage ecosystems can tolerate.
+lede: Floating solar arrays are being installed on some of Florida’s stormwater ponds
+  as utilities and developers seek renewable electricity without taking up scarce
+  land. The Orlando Utilities Commission launched a 2-megawatt Conway Road array with
+  more than 3,400 panels in November 2025, while scientists continue to study how
+  covering pond surfaces affects aquatic ecosystems.
+nut_graf: The approach can place generation on water infrastructure controlled by
+  utilities and municipalities, but the technology still carries an upfront premium
+  and unresolved ecological effects. Wider adoption depends on costs, grid access,
+  pond conditions and research into how much surface coverage ecosystems can tolerate.
 primary_entities:
 - Florida
 - Orlando Utilities Commission
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +149,18 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-16-harvard-study-ties-403-us-data-centers-to-28-3-million-tons-of-co2
-  headline: Harvard study ties 403 US data centers to 28.3 million tons of CO2
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6297
-- slug: 2026-11-16-us-hyperscale-datacenters-emit-25-7m-tons-of-co2-study-finds
-  headline: US hyperscale datacenters emit 25.7m tons of CO2, study finds
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6174
-- slug: 2026-11-13-offshore-wind-slowdown-empties-new-england-piers-and-idles-workers
-  headline: Offshore wind slowdown empties New England piers and idles workers
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6172
-- slug: 2026-11-09-studied-hyperscale-data-centers-collectively-used-68-to-99-terawatt-hours-a-year
-  headline: Studied hyperscale data centers collectively used 68 to 99 terawatt hours a year
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6162
-- slug: 2026-08-12-project-tango-datacenter-faces-palm-beach-county-opposition-over-algae
-  headline: Project Tango datacenter faces Palm Beach County opposition over algae
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6358
-- slug: 2026-08-10-florida-wildlife-agencies-announce-coastal-corridor-to-protect-marine-life
-  headline: Florida wildlife agencies announce coastal corridor to protect marine life
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.6227
-- slug: 2026-08-09-cuba-adds-solar-capacity-with-china-s-help-as-blackouts-persist
-  headline: Cuba adds solar capacity with China's help as blackouts persist
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6225
 - slug: 2026-06-05-more-us-states-legalize-plug-in-balcony-solar-as-energy-bills-climb
   headline: More US states legalize plug-in 'balcony' solar as energy bills climb
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.6665
+  strength: 0.6703
 - slug: 2026-05-27-cities-swap-asphalt-parking-lots-for-porous-panels-and-plants-to-beat-heat-and-f
-  headline: Cities swap asphalt parking lots for porous panels and plants to beat heat and flooding
+  headline: Cities swap asphalt parking lots for porous panels and plants to beat
+    heat and flooding
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.6547
-- slug: 2026-07-20-donalds-unveils-bill-to-require-ai-data-centers-to-self-fund-power-and-water
-  headline: Donalds unveils bill to require AI data centers to self-fund power and water
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6157
-- slug: 2026-07-10-trump-administration-pays-2-7bn-to-cancel-offshore-wind-leases-spends-1-1bn-on-c
-  headline: Trump administration pays $2.7bn to cancel offshore wind leases, spends $1.1bn on coal
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6132
-- slug: 2026-06-26-next-generation-geothermal-energy-gains-bipartisan-us-support-but-costs-remain-h
-  headline: Next-generation geothermal energy gains bipartisan US support, but costs remain high
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6195
-- slug: 2026-06-11-solar-supplies-more-us-electricity-than-coal-for-first-time
-  headline: Solar supplies more US electricity than coal for first time
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6273
-- slug: 2026-01-22-trump-administration-cancels-solar-projects-in-puerto-rico-as-grid-falters
-  headline: Trump administration cancels solar projects in Puerto Rico as grid falters
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6514
-- slug: 2026-03-25-connecticut-lawmakers-consider-lifting-limits-on-plug-in-solar-panels
-  headline: Connecticut lawmakers consider lifting limits on plug-in solar panels
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6395
-- slug: 2026-04-23-colorado-river-managers-plan-extra-releases-to-keep-lake-powell-hydropower
-  headline: Colorado River managers plan extra releases to keep Lake Powell hydropower
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6309
-- slug: 2026-04-22-colorado-river-releases-aim-to-keep-lake-powell-generating-electricity
-  headline: Colorado River releases aim to keep Lake Powell generating electricity
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6292
-- slug: 2026-01-15-deep-sea-desalination-startup-claims-40-energy-cut-using-natural-ocean-pressure
-  headline: Deep-sea desalination startup claims 40% energy cut using natural ocean pressure
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6328
-- slug: 2026-05-23-cities-test-permeable-paving-and-other-alternatives-to-beat-heat-and-runoff
-  headline: Cities test permeable paving and other alternatives to beat heat and runoff
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6133
-- slug: 2026-05-22-cities-adopt-cooler-more-permeable-parking-lots-as-heat-worsens
-  headline: Cities adopt cooler, more permeable parking lots as heat worsens
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6126
+  strength: 0.6563
 ---
-
 ## Florida expands floating solar use on stormwater ponds
 
 **Subtype:** fact

@@ -2,8 +2,18 @@
 headline: Rio Tinto commits $250 million to Panguna mine cleanup
 secondary_headline: Communities will shape remediation work funded by the commitment
 publish_date: '2026-11-17'
-lede: Rio Tinto has agreed to voluntarily contribute US$250 million (A$370 million) toward remediation of the abandoned Panguna gold and copper mine on Bougainville, an island in Papua New Guinea. The commitment followed years of consultation with landowners and government and is intended to support practical cleanup work, but it will not fully remediate the site. Bougainville community leader Theonila Roka Matbob said the fund offers a chance to address environmental problems dating to the mine’s operation.
-nut_graf: The commitment advances cleanup at a mine whose 1989 shutdown followed protests over environmental damage and unequal profit-sharing and preceded a decade-long conflict on Bougainville. Rio Tinto said residents will help set priorities, while Panguna community leader Theonila Roka Matbob called for safe drinking water, bridges and other infrastructure as immediate needs.
+lede: Rio Tinto has agreed to voluntarily contribute US$250 million (A$370 million)
+  toward remediation of the abandoned Panguna gold and copper mine on Bougainville,
+  an island in Papua New Guinea. The commitment followed years of consultation with
+  landowners and government and is intended to support practical cleanup work, but
+  it will not fully remediate the site. Bougainville community leader Theonila Roka
+  Matbob said the fund offers a chance to address environmental problems dating to
+  the mine’s operation.
+nut_graf: The commitment advances cleanup at a mine whose 1989 shutdown followed protests
+  over environmental damage and unequal profit-sharing and preceded a decade-long
+  conflict on Bougainville. Rio Tinto said residents will help set priorities, while
+  Panguna community leader Theonila Roka Matbob called for safe drinking water, bridges
+  and other infrastructure as immediate needs.
 primary_entities:
 - Rio Tinto
 - Panguna mine
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +154,8 @@ cross_article_links:
   strength: 0.5502
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-12-siete-cuencas-partnership-installs-floating-barriers-on-panama-city-s-rivers
-  headline: Siete Cuencas partnership installs floating barriers on Panama City's rivers
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6021
-- slug: 2026-11-05-kenya-reviews-five-proposals-for-rare-earth-and-niobium-mining-at-mrima-hill
-  headline: Kenya reviews five proposals for rare earth and niobium mining at Mrima Hill
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5636
-- slug: 2026-11-02-chinese-miners-transform-bolivia-s-mayaya-as-residents-report-pollution
-  headline: Chinese miners transform Bolivia’s Mayaya as residents report pollution
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5624
-- slug: 2026-10-27-minnpost-samples-show-high-lead-levels-at-st-paul-s-largest-homeless-encampment
-  headline: MinnPost samples show high lead levels at St. Paul's largest homeless encampment
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5613
-- slug: 2026-10-21-brazil-s-top-court-pauses-belo-sun-s-volta-grande-installation-license
-  headline: Brazil's Supreme Court provisionally suspends Belo Sun's Volta Grande license
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.575
-- slug: 2026-10-21-new-mexico-rebuilds-ruidoso-downs-culverts-as-upriver-repairs-stall
-  headline: New Mexico rebuilds Ruidoso Downs culverts as upriver repairs stall
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5549
-- slug: 2026-09-08-mexico-s-supreme-court-rules-ammonia-plant-authorization-bypassed-required-indig
-  headline: Mexico's Supreme Court rules ammonia plant authorization bypassed required Indigenous consultation
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5685
-- slug: 2026-08-12-project-tango-datacenter-faces-palm-beach-county-opposition-over-algae
-  headline: Project Tango datacenter faces Palm Beach County opposition over algae
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5774
-- slug: 2026-08-12-energy-fuels-to-more-than-double-white-mesa-mill-output-as-tribe-demands-shutdow
-  headline: Energy Fuels to more than double White Mesa Mill output as tribe demands shutdown
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5712
-- slug: 2026-07-19-u-s-faces-37-billion-cleanup-after-venezuela-quakes
-  headline: U.S. faces $37 billion cleanup after Venezuela quakes
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5683
-- slug: 2026-07-15-tamarack-nickel-mine-enters-public-comment-phase-as-mille-lacs-band-objects
-  headline: Tamarack nickel mine enters public comment phase as Mille Lacs Band objects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5675
-- slug: 2026-06-18-gold-exploration-approved-near-lone-pine-pitting-miners-against-tribes-and-envir
-  headline: Gold exploration approved near Lone Pine, pitting miners against tribes and environmentalists
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.584
-- slug: 2026-04-30-trump-lifts-mining-ban-near-boundary-waters-enabling-permits-for-twin-metals
-  headline: Trump lifts mining ban near Boundary Waters, enabling permits for Twin Metals
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5885
-- slug: 2026-04-16-senate-passes-resolution-to-lift-mining-ban-near-boundary-waters
-  headline: Senate passes resolution to lift mining ban near Boundary Waters
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5911
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5675
-- slug: 2026-04-28-congo-launches-paramilitary-mining-guard-backed-by-u-s-and-uae-funding
-  headline: Congo launches paramilitary mining guard backed by U.S. and UAE funding
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5702
-- slug: 2026-05-11-southeast-alaskans-weigh-in-on-draft-tongass-plan-shaping-timber-mining
-  headline: Southeast Alaskans weigh in on draft Tongass plan shaping timber, mining
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5637
-- slug: 2026-05-31-rising-lake-turkana-waters-displace-communities-and-threaten-kenya-s-el-molo
-  headline: Rising Lake Turkana waters displace communities and threaten Kenya's El Molo
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5555
-- slug: 2026-02-06-shutdown-of-koko-biofuel-company-forces-kenyans-back-to-charcoal-and-costly-gas
-  headline: Shutdown of Koko biofuel company forces Kenyans back to charcoal and costly gas
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.5737
-- slug: 2026-01-08-aging-sewers-threaten-health-in-poor-communities-as-trump-aid-is-cut
-  headline: Aging sewers threaten health in poor communities as Trump aid is cut
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.5696
+related_stories: []
 ---
-
 ## Rio Tinto commits $250 million to Panguna mine cleanup
 
 **Subtype:** fact

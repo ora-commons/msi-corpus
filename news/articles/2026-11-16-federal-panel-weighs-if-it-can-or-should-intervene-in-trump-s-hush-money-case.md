@@ -57,7 +57,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -242,3 +242,10 @@ The case remains unresolved in both courts. The 2nd Circuit has not decided whet
 **Publication date:** 2026-11-16
 **Title:** Trump appeals to state and federal courts to erase hush money criminal conviction
 **URL:** https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction
+
+### src_late_8b20696011336700 — Associated Press, wire, Tier 1, originating
+**Author:** Michael R. Sisak
+**Publication date:** 2026-11-16
+**Title:** Trump appeals hush money conviction in state and federal courts
+**URL:** https://apnews.com/article/trump-hush-money-appeals-federal-state-8c124363137d6a3aeee0f32245e90669
+**Added after publication:** true

@@ -2,8 +2,16 @@
 headline: California officials honor Dolores Huerta at Capitol memorial
 secondary_headline: Rivas calls Huerta the mother of the Latino civil rights movement
 publish_date: '2026-11-16'
-lede: California officials honored labor, civil rights and feminist leader Dolores Huerta at a Monday memorial ceremony in the state Capitol rotunda in Sacramento. Huerta, 96, died of cancer at her home in Bakersfield, California, last month. Gov.-elect Xavier Becerra, Assembly Speaker Robert Rivas, Senate President pro tempore Monique Limón and former U.S. House Speaker Nancy Pelosi attended the invitation-only ceremony, which later opened to the public.
-nut_graf: The ceremony centered Huerta’s labor organizing and advocacy for workers, women and voters, with tributes from current and former officeholders. A casket procession preceded the invitation-only Capitol program, which opened to the public afterward.
+lede: California officials honored labor, civil rights and feminist leader Dolores
+  Huerta at a Monday memorial ceremony in the state Capitol rotunda in Sacramento.
+  Huerta, 96, died of cancer at her home in Bakersfield, California, last month. Gov.-elect
+  Xavier Becerra, Assembly Speaker Robert Rivas, Senate President pro tempore Monique
+  Limón and former U.S. House Speaker Nancy Pelosi attended the invitation-only ceremony,
+  which later opened to the public.
+nut_graf: The ceremony centered Huerta’s labor organizing and advocacy for workers,
+  women and voters, with tributes from current and former officeholders. A casket
+  procession preceded the invitation-only Capitol program, which opened to the public
+  afterward.
 primary_entities:
 - Dolores Huerta
 - California
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +155,43 @@ related_stories:
   headline: California officials honor Dolores Huerta at capitol memorial
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.9517
+  strength: 0.9512
 - slug: 2026-10-29-students-colleagues-recall-huerta-s-ability-to-connect-with-anyone
   headline: Students, colleagues recall Huerta's ability to connect with anyone
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7865
+  strength: 0.7847
 - slug: 2026-10-28-labor-leaders-and-lawmakers-honor-dolores-huerta-after-her-death
   headline: Labor leaders and lawmakers honor Dolores Huerta after her death
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7888
+  strength: 0.7885
 - slug: 2026-10-28-dolores-huerta-s-allies-pledge-continued-organizing-after-her-death
   headline: Dolores Huerta’s allies pledge continued organizing after her death
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7654
+  strength: 0.765
 - slug: 2026-10-28-huerta-s-1972-retort-answers-arizona-s-no-se-puede-with-s-se-puede
   headline: Huerta's 1972 retort answers Arizona's no se puede with Sí, se puede
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.761
+  strength: 0.7598
 - slug: 2026-10-28-new-york-times-interviews-show-huerta-said-chavez-raped-her-in-1966
   headline: New York Times interviews show Huerta said Chavez raped her in 1966
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7602
+  strength: 0.7597
 - slug: 2026-10-28-documentary-captures-huerta-s-own-definition-of-her-legacy
   headline: Documentary captures Huerta's own definition of her legacy
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7575
+  strength: 0.757
 - slug: 2026-10-28-united-farm-workers-vows-to-continue-huerta-s-fight
   headline: United Farm Workers vows to continue Huerta's fight
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.753
-- slug: 2026-10-28-dolores-huerta-ufw-co-founder-dies-at-96
-  headline: Dolores Huerta, UFW co-founder, dies at 96
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.735
-- slug: 2026-11-04-california-elects-xavier-becerra-as-its-first-latino-governor-since-1875
-  headline: California elects Xavier Becerra as its first Latino governor since 1875
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6033
-- slug: 2026-11-03-california-governor-race-turns-on-affordability-and-political-experience
-  headline: California governor race turns on affordability and political experience
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5763
-- slug: 2026-03-20-dolores-huerta-s-decades-old-chavez-abuse-disclosure-prompts-calls-to-rebrand-le
-  headline: Dolores Huerta’s decades-old Chavez abuse disclosure prompts calls to rebrand legacy
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7521
-- slug: 2026-03-19-latino-leaders-weigh-c-sar-chavez-abuse-allegations-and-calls-to-rebrand
-  headline: Latino leaders weigh César Chavez abuse allegations and calls to rebrand
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.7119
-- slug: 2026-03-19-c-sar-chavez-dolores-huerta-legacy-examined-as-allegations-prompt-cancellations
-  headline: César Chavez, Dolores Huerta legacy examined as allegations prompt cancellations
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.7059
-- slug: 2026-03-20-california-lawmakers-seek-rename-of-c-sar-chavez-day-after-abuse-allegations
-  headline: California lawmakers seek rename of César Chavez Day after abuse allegations
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6725
-- slug: 2026-03-27-c-sar-chavez-day-events-canceled-or-renamed-amid-sexual-abuse-allegations
-  headline: César Chavez Day events canceled or renamed amid sexual abuse allegations
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6641
-- slug: 2026-03-30-nationwide-efforts-underway-to-rebrand-c-sar-chavez-day-after-abuse-allegations
-  headline: Nationwide efforts underway to rebrand César Chavez Day after abuse allegations
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.6346
-- slug: 2026-03-21-c-sar-chavez-memorial-sites-face-renaming-after-sexual-abuse-allegations
-  headline: César Chavez memorial sites face renaming after sexual abuse allegations
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6209
-- slug: 2026-03-19-states-rethink-c-sar-chavez-day-amid-allegations-of-abuse
-  headline: States rethink César Chavez Day amid allegations of abuse
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6165
-- slug: 2026-03-26-california-renames-c-sar-chavez-day-as-farmworkers-day-after-abuse-allegations
-  headline: California renames César Chavez Day as Farmworkers Day after abuse allegations
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.611
+  strength: 0.7524
 ---
-
 ## California officials honor Dolores Huerta at Capitol memorial
 
 **Subtype:** fact
