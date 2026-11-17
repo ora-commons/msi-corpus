@@ -2,8 +2,15 @@
 headline: Pope Leo XIV says Peru rosary strike showed profound faith
 secondary_headline: An estimated 1.5 million people flooded a Lima air base for Mass
 publish_date: '2026-11-17'
-lede: Pope Leo XIV was struck in the eye by a rosary during a Monday popemobile ride through an estimated 1.5 million people at a Lima air base before his final Mass in Peru. He grimaced, touched his eye and continued. Aboard the papal plane en route home, Leo said he had forgiven the person and called the act a sign of profound faith.
-nut_graf: Pope Leo XIV interpreted the rosary strike as an expression of faith and offered forgiveness, while his bodyguards described thrown objects as a major security concern. His comments came while he was returning home after his final Mass in Peru, a country where he lived for two decades and holds citizenship.
+lede: Pope Leo XIV was struck in the eye by a rosary during a Monday popemobile ride
+  through an estimated 1.5 million people at a Lima air base before his final Mass
+  in Peru. He grimaced, touched his eye and continued. Aboard the papal plane en route
+  home, Leo said he had forgiven the person and called the act a sign of profound
+  faith.
+nut_graf: Pope Leo XIV interpreted the rosary strike as an expression of faith and
+  offered forgiveness, while his bodyguards described thrown objects as a major security
+  concern. His comments came while he was returning home after his final Mass in Peru,
+  a country where he lived for two decades and holds citizenship.
 primary_entities:
 - Pope Leo XIV
 - Peru
@@ -35,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -173,68 +181,7 @@ related_stories:
   publish_date: '2026-11-15'
   relation: related
   strength: 0.6585
-- slug: 2026-11-11-pope-leo-xiv-plans-devoto-prison-visit-and-mass-before-peru-return
-  headline: Pope Leo XIV plans Devoto Prison visit and Mass before Peru return
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6729
-- slug: 2026-11-14-pope-leo-xiv-to-visit-za-a-peru-s-hub-of-afro-peruvian-culture
-  headline: Pope Leo XIV to visit Zaña, Peru's hub of Afro-Peruvian culture
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6404
-- slug: 2026-11-09-pope-leo-tells-milei-the-economy-should-serve-people
-  headline: Pope Leo tells Milei the economy should serve people
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6575
-- slug: 2026-11-09-pope-leo-xiv-visits-argentine-care-home-urges-protection-of-the-vulnerable
-  headline: Pope Leo XIV visits Argentine care home, urges protection of the vulnerable
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6454
-- slug: 2026-11-06-pope-leo-xiv-says-he-is-proud-to-be-an-american-after-midterm-vote
-  headline: Pope Leo XIV says he is 'proud to be an American' after midterm vote
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6512
-- slug: 2026-10-27-leo-xiv-plans-several-meetings-with-clergy-abuse-survivors-in-latin-america
-  headline: Leo XIV plans several meetings with clergy abuse survivors in Latin America
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6673
-- slug: 2026-09-26-pope-leo-tells-paris-crowd-faith-not-material-things-brings-happiness
-  headline: Pope Leo tells Paris crowd faith, not material things, brings happiness
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6685
-- slug: 2026-04-21-pope-leo-recalls-francis-s-legacy-of-mercy-and-solidarity-on-anniversary
-  headline: Pope Leo recalls Francis’s legacy of mercy and solidarity on anniversary
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6978
-- slug: 2026-04-04-pope-leo-xiv-carries-cross-for-full-way-of-the-cross-at-colosseum
-  headline: Pope Leo XIV carries cross for full Way of the Cross at Colosseum
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6787
-- slug: 2026-04-03-pope-leo-xiv-washes-priests-feet-for-holy-thursday-restoring-rite
-  headline: Pope Leo XIV washes priests’ feet for Holy Thursday, restoring rite
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.677
-- slug: 2026-05-08-pope-leo-xiv-prays-for-end-to-fratricidal-hatred-on-pompeii-anniversary
-  headline: Pope Leo XIV prays for end to fratricidal hatred on Pompeii anniversary
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6635
-- slug: 2026-03-30-pope-leo-xiv-denounces-war-justification-at-palm-sunday-mass
-  headline: Pope Leo XIV denounces war justification at Palm Sunday Mass
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.6693
 ---
-
 ## Pope Leo XIV says Peru rosary strike showed profound faith
 
 **Subtype:** fact

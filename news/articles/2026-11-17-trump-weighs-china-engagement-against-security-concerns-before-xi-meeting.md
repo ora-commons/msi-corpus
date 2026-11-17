@@ -220,6 +220,8 @@ related_stories:
   publish_date: '2026-09-23'
   relation: related
   strength: 0.7526
+analyses:
+- '2026-11-17-trump-s-xi-agreement-push-faces-three-differently-timed-tests-before-january'
 ---
 ## Trump weighs China engagement against security concerns before Xi meeting
 
@@ -267,3 +269,8 @@ As Trump departed for Asia on Monday morning, he addressed concerns that his rel
 **Publication date:** 2026-11-17
 **Title:** Trump’s Advisers Are at War Over China Ahead of Xi Summit
 **URL:** https://www.wsj.com/world/china/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-90995398
+
+---
+
+<!-- analysis-link:2026-11-17-trump-s-xi-agreement-push-faces-three-differently-timed-tests-before-january -->
+**Going deeper:** [Read MSI's analysis of Trump-Xi summit implementation fragility →](/analyses/2026-11-17-trump-s-xi-agreement-push-faces-three-differently-timed-tests-before-january)

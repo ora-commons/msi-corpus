@@ -2,8 +2,18 @@
 headline: Canadian police arrest 12 suspects in alleged luxury-car theft network
 secondary_headline: Police recovered 96 vehicles worth $4.5m bound for export
 publish_date: '2026-11-17'
-lede: Canadian police have arrested 12 suspects, including eight Nigerians, in an investigation into an alleged car-theft syndicate accused of stealing luxury vehicles and shipping them to West Africa. Peel Regional Police in Ontario said officers recovered 96 high-value vehicles concealed in shipping containers, valued at $4.5m (£3.4m) and destined for export via Canadian ports. The suspects face 231 charges, and police said some could face deportation after their criminal proceedings conclude.
-nut_graf: Investigators linked the alleged network to loading sites, container movements and transportation of vehicles with altered identification numbers, according to police. Canadian authorities describe organised vehicle theft as a growing threat connected to wider criminal networks, while the trafficking of vehicles from North America and Europe to African countries has been a long-standing concern for law-enforcement agencies.
+lede: Canadian police have arrested 12 suspects, including eight Nigerians, in an
+  investigation into an alleged car-theft syndicate accused of stealing luxury vehicles
+  and shipping them to West Africa. Peel Regional Police in Ontario said officers
+  recovered 96 high-value vehicles concealed in shipping containers, valued at $4.5m
+  (£3.4m) and destined for export via Canadian ports. The suspects face 231 charges,
+  and police said some could face deportation after their criminal proceedings conclude.
+nut_graf: Investigators linked the alleged network to loading sites, container movements
+  and transportation of vehicles with altered identification numbers, according to
+  police. Canadian authorities describe organised vehicle theft as a growing threat
+  connected to wider criminal networks, while the trafficking of vehicles from North
+  America and Europe to African countries has been a long-standing concern for law-enforcement
+  agencies.
 primary_entities:
 - Peel Regional Police
 - Nick Milinovich
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +151,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-05-u-s-charges-mexican-judge-over-alleged-bribery-in-drug-case
-  headline: U.S. charges Mexican judge over alleged bribery in drug case
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5745
-- slug: 2026-10-13-latin-american-criminal-networks-expand-across-12-european-countries
-  headline: Latin American criminal networks expand across 12 European countries
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6163
 - slug: 2026-09-12-six-nigerian-fraud-suspects-arrive-in-us-after-cape-town-extradition
   headline: Six Nigerian fraud suspects arrive in US after Cape Town extradition
   publish_date: '2026-09-12'
   relation: related
-  strength: 0.6694
-- slug: 2026-09-24-canadian-prosecutors-drop-charges-against-two-in-2023-toronto-gold-heist
-  headline: Canadian prosecutors drop charges against two in 2023 Toronto gold heist
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5942
-- slug: 2026-09-11-south-africa-to-extradite-six-nigerians-to-us-over-alleged-romance-scams
-  headline: South Africa to extradite six Nigerians to US over alleged romance scams
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6169
+  strength: 0.668
 - slug: 2026-04-22-6-charged-in-plot-to-steal-and-resell-cars-in-dc-ship-to-ghana
   headline: 6 charged in plot to steal and resell cars in DC, ship to Ghana
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.6936
-- slug: 2026-08-28-nypd-seizes-580-pounds-of-cocaine-in-largest-nyc-seizure-in-20-years
-  headline: NYPD seizes 580 pounds of cocaine in largest NYC seizure in 20 years
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5832
-- slug: 2026-08-27-federal-authorities-indict-81-alleged-los-baja-deo-members-in-puerto-rico
-  headline: Federal authorities indict 81 alleged Los Baja Deo members in Puerto Rico
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5824
-- slug: 2026-08-24-taiwan-charges-nine-in-alleged-ai-server-shipments-to-china
-  headline: Taiwan prosecutors charge nine in alleged AI server shipments to China
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.5873
+  strength: 0.6955
 - slug: 2026-04-23-6-charged-in-alleged-scheme-to-steal-and-resell-dc-area-cars-prosecutors-say
-  headline: 6 charged in alleged scheme to steal and resell DC-area cars, prosecutors say
+  headline: 6 charged in alleged scheme to steal and resell DC-area cars, prosecutors
+    say
   publish_date: '2026-04-23'
   relation: related
-  strength: 0.6664
-- slug: 2026-06-04-eight-indicted-for-stealing-5m-in-cheese-beef-cigarettes
-  headline: Eight indicted for stealing $5M in cheese, beef, cigarettes
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6181
-- slug: 2026-07-02-doj-charges-tren-de-aragua-and-united-cartels-members-in-separate-indictments
-  headline: DOJ charges Tren de Aragua and United Cartels members in separate indictments
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.582
-- slug: 2026-07-07-federal-prosecutors-charge-37-defendants-in-india-based-organized-crime-probe
-  headline: Federal prosecutors charge 37 defendants in India-based organized crime probe
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5756
-- slug: 2026-06-02-four-charged-as-us-mexico-drug-tunnel-discovered-beneath-san-diego-store
-  headline: Four charged as US-Mexico drug tunnel discovered beneath San Diego store
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5939
-- slug: 2026-06-24-12-charged-in-drone-contraband-conspiracy-targeting-federal-prisons
-  headline: 12 charged in drone contraband conspiracy targeting federal prisons
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5781
-- slug: 2026-06-09-former-air-canada-pilot-accused-of-flying-with-forged-license-for-17-years
-  headline: Former Air Canada pilot accused of flying with forged license for 17 years
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5835
-- slug: 2026-06-07-bbc-investigation-reveals-uk-high-street-shops-as-fronts-for-organized-crime
-  headline: BBC investigation reveals UK High Street shops as fronts for organized crime
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.579
-- slug: 2026-04-24-federal-authorities-arrest-mexican-mafia-members-in-california-sweep
-  headline: Federal authorities arrest Mexican Mafia members in California sweep
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5901
-- slug: 2026-04-24-redada-federal-arresta-a-decenas-de-integrantes-de-la-mafia-mexicana
-  headline: Redada federal arresta a decenas de integrantes de la Mafia Mexicana
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5847
-- slug: 2026-03-04-colombian-police-capture-121-people-in-kidnapping-and-extortion-crackdown
-  headline: Colombian police capture 121 people in kidnapping and extortion crackdown
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5921
+  strength: 0.6682
 ---
-
 ## Canadian police arrest 12 suspects in alleged luxury-car theft network
 
 **Subtype:** fact
