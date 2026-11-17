@@ -2,8 +2,17 @@
 headline: Anthropic may price IPO above $80 after unusually large orders
 secondary_headline: Hedge funds placed bids as venture backers plan more investment
 publish_date: '2026-11-17'
-lede: The Wall Street Journal reported that Anthropic could price its initial public offering above $80 a share, above the planned $70-to-$78 range, according to people familiar with the matter. The Claude chatbot maker is expected to finalize its share price Wednesday ahead of a planned Thursday listing on the Nasdaq under the ticker ANT. Advisers have discussed figures that would value Anthropic at around $1.5 trillion or $1.6 trillion, compared with roughly $1.33 trillion at the initial range.
-nut_graf: The final terms will establish Anthropic's opening public-market valuation and complete an offering that combines a large share sale, a private placement and allocations for individual investors. At the initial range, Anthropic planned to sell around $61 billion of shares plus a $26 billion private placement, and the company has said it would sell up to 20% of the offering to individual investors.
+lede: The Wall Street Journal reported that Anthropic could price its initial public
+  offering above $80 a share, above the planned $70-to-$78 range, according to people
+  familiar with the matter. The Claude chatbot maker is expected to finalize its share
+  price Wednesday ahead of a planned Thursday listing on the Nasdaq under the ticker
+  ANT. Advisers have discussed figures that would value Anthropic at around $1.5 trillion
+  or $1.6 trillion, compared with roughly $1.33 trillion at the initial range.
+nut_graf: The final terms will establish Anthropic's opening public-market valuation
+  and complete an offering that combines a large share sale, a private placement and
+  allocations for individual investors. At the initial range, Anthropic planned to
+  sell around $61 billion of shares plus a $26 billion private placement, and the
+  company has said it would sell up to 20% of the offering to individual investors.
 primary_entities:
 - Anthropic
 - Nvidia
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,35 +151,37 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-10-anthropic-sets-ipo-terms-at-up-to-1-4-trillion-below-reported-2-trillion-goal
-  headline: Anthropic sets IPO terms at up to $1.4 trillion, below reported $2 trillion goal
+  headline: Anthropic sets IPO terms at up to $1.4 trillion, below reported $2 trillion
+    goal
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8792
+  strength: 0.8791
 - slug: 2026-11-10-anthropic-sets-70-to-78-share-price-for-up-to-64bn-nasdaq-ipo
   headline: Anthropic sets $70 to $78 share price for up to $64bn Nasdaq IPO
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8703
+  strength: 0.8705
 - slug: 2026-11-10-google-and-nvidia-each-buy-10-billion-of-anthropic-stock
   headline: Google and Nvidia each buy $10 billion of Anthropic stock
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.774
+  strength: 0.7738
 - slug: 2026-11-10-anthropic-s-ipo-tests-the-market-for-ai-investment
   headline: Anthropic's IPO tests the market for AI investment
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7686
+  strength: 0.769
 - slug: 2026-11-16-anthropic-s-ipo-puts-its-public-benefit-pledge-under-scrutiny
   headline: Anthropic's IPO puts its public benefit pledge under scrutiny
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7247
+  strength: 0.7244
 - slug: 2026-11-08-investors-say-anthropics-planned-ipo-valuation-will-likely-fall
-  headline: Three major investors planning to participate in Anthropic's IPO say its valuation will likely fall
+  headline: Three major investors planning to participate in Anthropic's IPO say its
+    valuation will likely fall
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7657
+  strength: 0.7662
 - slug: 2026-11-02-anthropic-adds-quarterly-results-to-its-updated-ipo-filing
   headline: Anthropic adds quarterly results to its updated IPO filing
   publish_date: '2026-11-02'
@@ -179,69 +191,8 @@ related_stories:
   headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8214
-- slug: 2026-10-26-anthropic-files-for-ipo-with-16-286bn-revenue-and-80bn-loss
-  headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8156
-- slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
-  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time charge
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8017
-- slug: 2026-10-28-sen-warren-presses-anthropic-for-answers-on-existential-risks-before-its-ipo
-  headline: Sen. Warren presses Anthropic for answers on existential risks before its IPO
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7545
-- slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
-  headline: Anthropic begins IPO process, outlining potential AI benefits and risks
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7473
-- slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
-  headline: Anthropic says AI research could outpace model safeguards
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7429
-- slug: 2026-10-26-anthropic-reports-321-4bn-in-data-center-leasing-costs-so-far-this-year
-  headline: Anthropic reports $321.4bn in data-center leasing costs so far this year
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7315
-- slug: 2026-10-27-anthropic-excludes-about-72-billion-in-liability-valuation-losses-from-adjusted-
-  headline: Anthropic excludes about $72 billion in liability valuation losses from adjusted profit
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7247
-- slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
-  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its IPO filing
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7177
-- slug: 2026-10-15-anthropic-revenue-jumps-45-to-16-8bn-ahead-of-expected-share-sale
-  headline: Anthropic revenue jumps 45% to $16.8bn ahead of expected share sale
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.7524
-- slug: 2026-09-18-anthropic-shifts-planned-ipo-from-october-to-november
-  headline: Anthropic shifts planned IPO from October to November
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7611
-- slug: 2026-08-25-anthropic-may-present-total-addressable-market-above-30-trillion
-  headline: Anthropic may present total addressable market above $30 trillion
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7681
-- slug: 2026-08-11-anthropic-pitches-prospective-investors-ahead-of-planned-ipo
-  headline: Anthropic pitches prospective investors ahead of planned IPO
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7809
+  strength: 0.8215
 ---
-
 ## Anthropic may price IPO above $80 after unusually large orders
 
 **Subtype:** fact
