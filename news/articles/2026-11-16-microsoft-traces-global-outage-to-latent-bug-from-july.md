@@ -186,6 +186,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.75
+analyses:
+- '2026-11-16-microsoft-outage-explanation-holds-at-medium-confidence-on-operator-sourced-comp'
 ---
 ## Microsoft traces global outage to latent bug from July
 
@@ -222,3 +224,8 @@ Analysts say Microsoft's global outage highlights the need for companies to exam
 **Publication date:** 2026-11-16
 **Title:** Microsoft identifies months-old bug as root cause of global outage
 **URL:** https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause
+
+---
+
+<!-- analysis-link:2026-11-16-microsoft-outage-explanation-holds-at-medium-confidence-on-operator-sourced-comp -->
+**Going deeper:** [Read MSI's analysis of Microsoft's outage causal account →](/analyses/2026-11-16-microsoft-outage-explanation-holds-at-medium-confidence-on-operator-sourced-comp)
