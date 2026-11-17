@@ -1,9 +1,17 @@
 ---
 headline: Kang Wei's proposed data-center investments in China exceed $9 billion
-secondary_headline: Chinese records do not establish that Megaspeed's chips reached Kang Wei's centers
+secondary_headline: Chinese records do not establish that Megaspeed's chips reached
+  Kang Wei's centers
 publish_date: '2026-11-17'
-lede: The Wall Street Journal reported that Kang Wei built a network of Chinese government-backed data centers with proposed investments topping $9 billion from 2021 to 2024. His wife, Alice Huang, cultivated a romantic relationship with then-Nvidia CEO Jensen Huang to secure advanced-computing chips for Megaspeed. U.S. authorities are investigating whether export controls on Nvidia's most powerful chips were violated, and Jensen Huang has since resigned from Nvidia.
-nut_graf: The reporting documents state-backed Chinese computing capacity and U.S. scrutiny of chip access, but it does not establish that Beijing directed Megaspeed's procurement or that Nvidia chips reached data centers linked to Kang Wei.
+lede: The Wall Street Journal reported that Kang Wei built a network of Chinese government-backed
+  data centers with proposed investments topping $9 billion from 2021 to 2024. His
+  wife, Alice Huang, cultivated a romantic relationship with then-Nvidia CEO Jensen
+  Huang to secure advanced-computing chips for Megaspeed. U.S. authorities are investigating
+  whether export controls on Nvidia's most powerful chips were violated, and Jensen
+  Huang has since resigned from Nvidia.
+nut_graf: The reporting documents state-backed Chinese computing capacity and U.S.
+  scrutiny of chip access, but it does not establish that Beijing directed Megaspeed's
+  procurement or that Nvidia chips reached data centers linked to Kang Wei.
 primary_entities:
 - Kang Wei
 - Alice Huang
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +156,46 @@ related_stories:
   headline: Businessman who introduced Jensen Huang to Alice Huang is her husband
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7746
+  strength: 0.7753
 - slug: 2026-11-15-nvidia-chips-reach-china-through-a-growing-southeast-asia-data-center-route
-  headline: Nvidia chips reach China through a growing Southeast Asia data center route
+  headline: Nvidia chips reach China through a growing Southeast Asia data center
+    route
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7388
+  strength: 0.7397
 - slug: 2026-11-12-megaspeed-vows-cooperation-with-u-s-national-security-investigations
   headline: Megaspeed vows cooperation with U.S. national security investigations
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7298
+  strength: 0.73
 - slug: 2026-11-15-megaspeed-says-suspected-china-spy-left-its-executive-role-last-year
   headline: Megaspeed says suspected China spy left its executive role last year
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7083
+  strength: 0.7086
 - slug: 2026-11-16-nvidia-s-china-chip-workarounds-appear-close-to-closing-after-huang-s-exit
-  headline: Nvidia's China chip workarounds appear close to closing after Huang's exit
+  headline: Nvidia's China chip workarounds appear close to closing after Huang's
+    exit
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6994
+  strength: 0.6992
 - slug: 2026-11-13-report-says-trump-was-told-of-huang-spy-link-in-2025-and-chose-not-to-act
-  headline: Report says Trump was told of Huang spy link in 2025 and chose not to act
+  headline: Report says Trump was told of Huang spy link in 2025 and chose not to
+    act
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7189
+  strength: 0.7195
 - slug: 2026-11-13-megaspeed-s-listed-offices-yield-few-traces-of-the-company
   headline: Megaspeed's listed offices yield few traces of the company
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7143
+  strength: 0.7156
 - slug: 2026-11-13-singapore-s-chip-hub-faces-questions-as-megaspeed-probe-continues
   headline: Singapore's chip hub faces questions as Megaspeed probe continues
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7113
-- slug: 2026-11-14-trump-s-closeness-to-huang-draws-scrutiny-over-intelligence-concerns
-  headline: Trump's closeness to Huang draws scrutiny over intelligence concerns
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7032
-- slug: 2026-11-14-congress-seizes-on-nvidia-scandal-to-press-for-tighter-china-chip-export-curbs
-  headline: Congress seizes on Nvidia scandal to press for tighter China chip export curbs
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7027
-- slug: 2026-11-09-nvidia-investigates-reports-of-spying-targeting-jensen-huang
-  headline: Nvidia investigates reports of spying targeting Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7306
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
-  headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7101
-- slug: 2026-11-09-u-s-justice-department-probes-megaspeed-over-nvidia-chip-diversion
-  headline: U.S. Justice Department probes Megaspeed over suspected Nvidia chip diversion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7284
-- slug: 2026-11-13-white-house-faces-questions-over-commerce-s-nvidia-chip-oversight
-  headline: White House faces questions over Commerce's Nvidia chip oversight
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7017
-- slug: 2026-11-12-megaspeed-says-its-offers-to-cooperate-with-us-chip-probe-went-unanswered
-  headline: Megaspeed says its offers to cooperate with US chip probe went unanswered
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7033
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6997
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.724
-- slug: 2026-11-08-megaspeed-bought-more-than-4-8-billion-in-nvidia-chips-over-the-past-two-years-t
-  headline: Megaspeed bought more than $4.8 billion in Nvidia chips over the past two years, Times reported
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7223
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
-  headline: Jensen Huang resigns as Nvidia CEO after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6967
-- slug: 2026-11-10-people-familiar-say-justice-department-takes-megaspeed-probe-after-nvidia-outrea
-  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia outreach
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7075
+  strength: 0.7122
 ---
-
 ## Kang Wei's proposed data-center investments in China exceed $9 billion
 
 **Subtype:** fact

@@ -61,7 +61,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -231,3 +231,10 @@ Prosecutors argued that Clancy planned the killings and understood what she was 
 **Publication date:** 2026-11-16
 **Title:** Judge sets March retrial date for Lindsay Clancy in deaths of her 3 children
 **URL:** https://www.pbs.org/newshour/nation/judge-sets-march-retrial-date-for-lindsay-clancy-in-deaths-of-her-3-children
+
+### src_late_ff39b4e72aa6d63c — Associated Press, wire, Tier 1, originating
+**Author:** Michael Casey
+**Publication date:** 2026-11-16
+**Title:** Lindsay Clancy retrial in deaths of her 3 children set for March
+**URL:** https://apnews.com/article/lindsay-clancy-postpartum-murder-retrial-e6e05bfda5a375eec0bb17dcaf7c4dee
+**Added after publication:** true
