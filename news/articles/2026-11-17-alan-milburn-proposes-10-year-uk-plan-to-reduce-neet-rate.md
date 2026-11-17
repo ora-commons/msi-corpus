@@ -1,9 +1,18 @@
 ---
 headline: Alan Milburn proposes 10-year UK plan to reduce Neet rate
-secondary_headline: Annual investment would reach £5.8bn by 2036-37, offset by savings and tax receipts
+secondary_headline: Annual investment would reach £5.8bn by 2036-37, offset by savings
+  and tax receipts
 publish_date: '2026-11-17'
-lede: Former minister Alan Milburn recommended a 10-year overhaul of UK policy for young people who are not in education, employment or training in a report published on November 17, 2026. The report, which spans more than 278 pages, calls for a new youth opportunity service, hiring incentives, earlier health support and an opportunity guarantee for people aged 18 to 24. It projects an initial £500 million of investment in 2027-28 and annual investment of about £5.8bn by 2036-37.
-nut_graf: Milburn's report ties a high Neet rate to barriers spanning education, employment, health and welfare, then pairs new support with expectations of participation. Its recommendations are proposals from a former minister, not enacted measures, and the fiscal plan requires initial investment before projected savings and tax receipts.
+lede: Former minister Alan Milburn recommended a 10-year overhaul of UK policy for
+  young people who are not in education, employment or training in a report published
+  on November 17, 2026. The report, which spans more than 278 pages, calls for a new
+  youth opportunity service, hiring incentives, earlier health support and an opportunity
+  guarantee for people aged 18 to 24. It projects an initial £500 million of investment
+  in 2027-28 and annual investment of about £5.8bn by 2036-37.
+nut_graf: Milburn's report ties a high Neet rate to barriers spanning education, employment,
+  health and welfare, then pairs new support with expectations of participation. Its
+  recommendations are proposals from a former minister, not enacted measures, and
+  the fiscal plan requires initial investment before projected savings and tax receipts.
 primary_entities:
 - Alan Milburn
 - Burnham
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +155,35 @@ related_stories:
   headline: Milburn review to call Neet numbers an economic and moral crisis
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8195
+  strength: 0.8192
 - slug: 2026-11-09-tuc-chief-urges-uk-to-expand-youth-employment-support
   headline: TUC chief urges UK to expand youth employment support
   publish_date: '2026-11-09'
   relation: related
   strength: 0.7482
-- slug: 2026-11-15-almost-one-in-five-uk-young-women-face-digital-finance-abuse-report-finds
-  headline: Almost one in five UK young women face digital finance abuse, report finds
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6116
-- slug: 2026-11-11-keeping-the-triple-lock-would-force-state-pension-age-above-70-bell-says
-  headline: Keeping the triple lock would force state pension age above 70, Bell says
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6134
-- slug: 2026-11-06-burnham-to-require-employers-to-publish-salaries-on-job-adverts
-  headline: Burnham to require employers to publish salaries on job adverts
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6061
-- slug: 2026-11-03-british-social-attitudes-survey-reports-record-low-job-satisfaction
-  headline: British Social Attitudes survey reports record-low job satisfaction
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.617
-- slug: 2026-10-24-uk-basic-state-pension-trails-wealthy-countries-oecd-analysis-shows
-  headline: UK basic state pension trails wealthy countries, OECD analysis shows
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6453
-- slug: 2026-10-27-john-healey-prepares-his-first-budget-amid-war-driven-economic-pressure
-  headline: John Healey prepares his first budget amid war-driven economic pressure
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6227
-- slug: 2026-10-27-john-healey-prepares-uk-budget-expected-to-have-smaller-tax-and-spending-changes
-  headline: John Healey prepares UK Budget expected to have smaller tax and spending changes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6176
-- slug: 2026-10-26-andrea-egan-urges-burnham-to-put-public-investment-in-his-budget
-  headline: Andrea Egan urges Burnham to put public investment in his budget
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6132
 - slug: 2026-08-07-milburn-studies-dublin-apprenticeships-as-uk-youth-neet-rate-climbs
   headline: Milburn studies Dublin apprenticeships as UK youth Neet rate climbs
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.8202
+  strength: 0.8199
 - slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6709
-- slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
-  headline: Burnham backs universal English social care reform
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6318
-- slug: 2026-09-23-reform-linked-founder-calls-state-pension-essentially-a-ponzi-scheme
-  headline: Reform-linked founder calls state pension 'essentially a Ponzi scheme'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6375
-- slug: 2026-09-22-three-women-in-their-20s-describe-life-without-bank-of-mum-and-dad
-  headline: Three women in their 20s describe life without 'Bank of Mum and Dad
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6292
-- slug: 2026-09-20-rethink-finds-record-premature-mortality-among-severely-mentally-ill-in-england
-  headline: Rethink finds record premature mortality among severely mentally ill in England
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6108
-- slug: 2026-09-17-nato-chief-rutte-says-uk-needs-credible-path-to-2035-defence-target
-  headline: NATO chief Rutte says UK needs 'credible path' to 2035 defence target
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.614
+  strength: 0.6695
 - slug: 2026-06-07-dutch-no-dead-ends-education-model-yields-lowest-youth-neet-rates-in-europe
-  headline: Dutch 'no dead ends' education model yields lowest youth Neet rates in Europe
+  headline: Dutch 'no dead ends' education model yields lowest youth Neet rates in
+    Europe
   publish_date: '2026-06-07'
   relation: related
-  strength: 0.7363
-- slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
-  headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
-  publish_date: '2026-09-09'
+  strength: 0.7379
+- slug: 2026-05-31-former-u-k-health-secretary-suggests-employer-national-insurance-cut-and-north-s
+  headline: Former U.K. health secretary suggests employer National Insurance cut
+    and North Sea drilling
+  publish_date: '2026-05-31'
   relation: related
-  strength: 0.6228
-- slug: 2026-08-15-reform-uk-proposes-50bn-welfare-overhaul-targeting-disability-payments
-  headline: Reform UK proposes £50bn welfare overhaul targeting disability payments
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6409
+  strength: 0.6875
 ---
-
 ## Alan Milburn proposes 10-year UK plan to reduce Neet rate
 
 **Subtype:** fact

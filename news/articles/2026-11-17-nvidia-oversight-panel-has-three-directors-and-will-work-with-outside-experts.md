@@ -2,8 +2,20 @@
 headline: Nvidia oversight panel has three directors and will work with outside experts
 secondary_headline: Trump called Nvidia's oversight panel a good idea
 publish_date: '2026-11-17'
-lede: Nvidia said Tuesday that its National Security and Export Control Oversight Committee has three members from the company's board of directors and will work with independent third-party experts. The panel will meet at least once every quarter and oversee national security policies and export-control compliance. Its work with outside experts will include overseeing efforts to enhance Nvidia's existing national security and global trade compliance team.
-nut_graf: The committee was announced after revelations that former Nvidia CEO Jensen Huang had an extramarital affair with an alleged spy for China. Huang was forced to resign last week after scrutiny of his relationship with a Chinese businesswoman who used to lead Singapore-based cloud computing company Megaspeed International, which is suspected of diverting advanced Nvidia chips to China in violation of U.S. export controls. Nvidia's advanced chips are in high demand because they are essential for cloud computing and data centers that underpin the artificial intelligence boom, but they face restrictions on their sale to China.
+lede: Nvidia said Tuesday that its National Security and Export Control Oversight
+  Committee has three members from the company's board of directors and will work
+  with independent third-party experts. The panel will meet at least once every quarter
+  and oversee national security policies and export-control compliance. Its work with
+  outside experts will include overseeing efforts to enhance Nvidia's existing national
+  security and global trade compliance team.
+nut_graf: The committee was announced after revelations that former Nvidia CEO Jensen
+  Huang had an extramarital affair with an alleged spy for China. Huang was forced
+  to resign last week after scrutiny of his relationship with a Chinese businesswoman
+  who used to lead Singapore-based cloud computing company Megaspeed International,
+  which is suspected of diverting advanced Nvidia chips to China in violation of U.S.
+  export controls. Nvidia's advanced chips are in high demand because they are essential
+  for cloud computing and data centers that underpin the artificial intelligence boom,
+  but they face restrictions on their sale to China.
 primary_entities:
 - Nvidia
 - National Security and Export Control Oversight Committee
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +156,45 @@ related_stories:
   headline: Nvidia forms board committee on security and export controls
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8603
+  strength: 0.8581
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
   headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8464
+  strength: 0.8435
 - slug: 2026-11-14-congress-seizes-on-nvidia-scandal-to-press-for-tighter-china-chip-export-curbs
-  headline: Congress seizes on Nvidia scandal to press for tighter China chip export curbs
+  headline: Congress seizes on Nvidia scandal to press for tighter China chip export
+    curbs
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8293
+  strength: 0.8295
 - slug: 2026-11-15-bessent-urges-nvidia-to-hire-outside-ceo-and-answer-export-questions
   headline: Bessent urges Nvidia to hire outside CEO and answer export questions
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.8065
+  strength: 0.8041
 - slug: 2026-11-15-megaspeed-says-suspected-china-spy-left-its-executive-role-last-year
   headline: Megaspeed says suspected China spy left its executive role last year
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.8035
+  strength: 0.8019
 - slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
   headline: Nvidia board meets on whether to oust CEO Jensen Huang
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8233
+  strength: 0.8195
 - slug: 2026-11-16-nvidia-board-won-t-consider-huang-s-return-as-ceo-source-says
   headline: Nvidia board won't consider Huang's return as CEO, source says
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7955
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
-  headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8192
+  strength: 0.7921
 - slug: 2026-11-16-treasury-and-national-security-council-direct-new-chip-rule-announced-by-commerc
-  headline: Treasury and National Security Council direct new chip rule announced by Commerce
+  headline: Treasury and National Security Council direct new chip rule announced
+    by Commerce
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7912
-- slug: 2026-11-16-nvidia-s-china-chip-workarounds-appear-close-to-closing-after-huang-s-exit
-  headline: Nvidia's China chip workarounds appear close to closing after Huang's exit
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7897
-- slug: 2026-11-15-nvidia-chips-reach-china-through-a-growing-southeast-asia-data-center-route
-  headline: Nvidia chips reach China through a growing Southeast Asia data center route
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7957
-- slug: 2026-11-12-megaspeed-vows-cooperation-with-u-s-national-security-investigations
-  headline: Megaspeed vows cooperation with U.S. national security investigations
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8139
-- slug: 2026-11-09-nvidia-board-investigates-ceo-jensen-huang-as-shares-tumble
-  headline: Nvidia board investigates CEO Jensen Huang as shares tumble
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8306
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8358
-- slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
-  headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8026
-- slug: 2026-11-09-raymond-james-says-nvidia-spy-allegations-could-prompt-tighter-china-chip-contro
-  headline: Raymond James says Nvidia spy allegations could prompt tighter China chip controls
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8261
-- slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8064
-- slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8039
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8024
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
-  headline: Nvidia CEO Jensen Huang resigns after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7973
+  strength: 0.7913
 ---
-
 ## Nvidia oversight panel has three directors and will work with outside experts
 
 **Subtype:** fact
