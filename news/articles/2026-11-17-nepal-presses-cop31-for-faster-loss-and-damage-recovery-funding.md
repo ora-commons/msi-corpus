@@ -207,6 +207,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-17-nepal-flood-aid-stalls-between-capital-scarcity-and-approval-gates-at-u-n-loss-a'
 ---
 ## Nepal presses COP31 for faster loss-and-damage recovery funding
 
@@ -253,3 +255,8 @@ For survivors in Nepal, the gap between what has been offered and what is needed
 **Publication date:** 2026-11-17
 **Title:** Nepal flood survivors wait as COP31 mountain nations demand action on stalled loss and damage fund
 **URL:** https://apnews.com/article/nepal-loss-damage-fund-flood-cop31-climate-change-77a91aafbd547b5bcc881f1e16a28e9e
+
+---
+
+<!-- analysis-link:2026-11-17-nepal-flood-aid-stalls-between-capital-scarcity-and-approval-gates-at-u-n-loss-a -->
+**Going deeper:** [Read MSI's analysis of Nepal's stalled loss-and-damage funding →](/analyses/2026-11-17-nepal-flood-aid-stalls-between-capital-scarcity-and-approval-gates-at-u-n-loss-a)
