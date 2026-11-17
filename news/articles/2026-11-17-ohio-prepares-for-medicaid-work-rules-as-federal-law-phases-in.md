@@ -2,8 +2,18 @@
 headline: Ohio prepares for Medicaid work rules as federal law phases in
 secondary_headline: Six-month renewals, SNAP costs and school tax credits also change
 publish_date: '2026-11-17'
-lede: Ohio will begin enforcing a federal Medicaid work requirement on January 1, requiring adults ages 19 to 64 in the state’s expansion population to document 80 hours of work or volunteering each month to maintain coverage. The requirement is one part of the One Big Beautiful Bill Act, which President Trump signed into law on July 4, 2025, and whose provisions are scheduled to phase in through 2035. Other changes include six-month Medicaid renewals, the loss of premium tax credits and Medicare for some legally present immigrants, and a larger federal tax credit for donations to private school scholarship organizations.
-nut_graf: For roughly 700,000 Ohioans in the Medicaid expansion population, the January rules set new work-verification and renewal requirements. Other provisions shift a portion of SNAP costs to states, end some health coverage for legally present immigrants and expand a federal tax credit for private school scholarship donations.
+lede: Ohio will begin enforcing a federal Medicaid work requirement on January 1,
+  requiring adults ages 19 to 64 in the state’s expansion population to document 80
+  hours of work or volunteering each month to maintain coverage. The requirement is
+  one part of the One Big Beautiful Bill Act, which President Trump signed into law
+  on July 4, 2025, and whose provisions are scheduled to phase in through 2035. Other
+  changes include six-month Medicaid renewals, the loss of premium tax credits and
+  Medicare for some legally present immigrants, and a larger federal tax credit for
+  donations to private school scholarship organizations.
+nut_graf: For roughly 700,000 Ohioans in the Medicaid expansion population, the January
+  rules set new work-verification and renewal requirements. Other provisions shift
+  a portion of SNAP costs to states, end some health coverage for legally present
+  immigrants and expand a federal tax credit for private school scholarship donations.
 primary_entities:
 - President Trump
 - Ohio
@@ -50,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,116 +160,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-17-ohio-prepares-for-medicaid-work-rules-as-federal-law-phases-in.png
-  alt: 'Illustration accompanying article: Ohio prepares for Medicaid work rules as federal law phases in'
+  alt: 'Illustration accompanying article: Ohio prepares for Medicaid work rules as
+    federal law phases in'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-13-cms-creates-optional-hold-harmless-period-for-medicaid-work-rule
   headline: CMS creates optional hold harmless period for Medicaid work rule
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7533
+  strength: 0.7535
 - slug: 2026-11-13-cms-lets-states-delay-medicaid-work-requirement-enforcement-until-july
   headline: CMS lets states delay Medicaid work requirement enforcement until July
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7473
+  strength: 0.7472
 - slug: 2026-11-13-states-lack-guidance-on-medicaid-work-rule-exemptions-for-native-americans
   headline: States lack guidance on Medicaid work-rule exemptions for Native Americans
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7233
+  strength: 0.7235
 - slug: 2026-11-09-nebraska-medicaid-work-rules-bring-denials-amid-dispute-over-patient-s-coverage
-  headline: Nebraska Medicaid work rules bring denials amid dispute over patient's coverage
+  headline: Nebraska Medicaid work rules bring denials amid dispute over patient's
+    coverage
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7262
+  strength: 0.7263
 - slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
+  headline: Twenty million Medicaid enrollees face new work requirements starting
+    January 1
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8156
+  strength: 0.8162
 - slug: 2026-10-29-judge-blocks-stricter-medicaid-exemption-rule-for-chronically-ill
   headline: Judge blocks stricter Medicaid exemption rule for chronically ill
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7292
+  strength: 0.7294
 - slug: 2026-10-25-snap-enrollment-drops-13-after-trump-administration-work-requirements
   headline: SNAP enrollment drops 13% after Trump administration work requirements
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.707
+  strength: 0.7076
 - slug: 2026-10-22-kff-finds-family-health-insurance-premiums-average-28-000
   headline: KFF finds family health insurance premiums average $28,000
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6556
-- slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
-  headline: SNAP enrollment falls almost 13% as new federal requirements take hold
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6626
-- slug: 2026-10-01-refugees-with-disabilities-lose-medicaid-as-h-r-1-takes-effect
-  headline: Refugees with disabilities lose Medicaid as H.R. 1 takes effect
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.67
-- slug: 2026-09-26-medicaid-meal-programs-show-health-savings-as-states-weigh-funding-cuts
-  headline: Medicaid meal programs show health savings as states weigh funding cuts
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6609
-- slug: 2026-06-01-trump-administration-imposes-80-hour-monthly-work-requirement-for-medicaid
-  headline: Trump administration imposes 80-hour monthly work requirement for Medicaid
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7926
-- slug: 2026-08-04-federal-medicaid-work-rule-excludes-homelessness-as-automatic-exemption
-  headline: Federal Medicaid work rule excludes homelessness as automatic exemption
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6994
-- slug: 2026-03-02-medicaid-work-mandates-force-states-to-spend-millions-on-new-technology
-  headline: Medicaid work mandates force states to spend millions on new technology
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.759
-- slug: 2026-07-22-budget-law-stalls-bipartisan-pre-release-medicaid-effort
-  headline: Budget law stalls bipartisan pre-release Medicaid effort
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7
-- slug: 2026-07-01-hr-1-ends-new-york-s-essential-plan-cutting-coverage-for-nearly-500-000
-  headline: HR 1 ends New York's Essential Plan, cutting coverage for nearly 500,000
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6965
-- slug: 2025-12-29-work-requirements-for-snap-medicaid-and-hud-benefits-a-state-by-state-impact
-  headline: 'Work requirements for SNAP, Medicaid and HUD benefits: a state-by-state impact'
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7344
-- slug: 2026-04-27-nebraska-to-start-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to start Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.7105
-- slug: 2026-04-28-nebraska-to-enforce-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to enforce Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.708
-- slug: 2025-12-30-trump-era-work-rules-could-change-snap-medicaid-and-hud-housing-eligibility
-  headline: Trump-era work rules could change SNAP, Medicaid and HUD housing eligibility
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7193
+  strength: 0.6563
 ---
-
 ## Ohio prepares for Medicaid work rules as federal law phases in
 
 **Subtype:** fact

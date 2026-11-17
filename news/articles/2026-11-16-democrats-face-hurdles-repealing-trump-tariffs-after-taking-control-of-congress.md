@@ -208,6 +208,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-16-conditional-canada-vote-offers-democrats-a-veto-test-before-broad-tariff-repeal'
 ---
 ## Democrats face hurdles repealing Trump tariffs after taking control of Congress
 
@@ -255,3 +257,8 @@ White House spokesman Matthew Middleton said Trump remains committed to the admi
 **Publication date:** 2026-11-16
 **Title:** Trump's tariffs will be tough to repeal despite Democrats' landslide win
 **URL:** https://apnews.com/article/trump-tariffs-democratic-congress-canada-veto-588eba3bcb688301cbcef3847c79db9b
+
+---
+
+<!-- analysis-link:2026-11-16-conditional-canada-vote-offers-democrats-a-veto-test-before-broad-tariff-repeal -->
+**Going deeper:** [Read MSI's analysis of Democrats' tariff veto arithmetic →](/analyses/2026-11-16-conditional-canada-vote-offers-democrats-a-veto-test-before-broad-tariff-repeal)
