@@ -1,9 +1,21 @@
 ---
-headline: The Asylum’s low-budget ‘Odyssey’ draws viewers during Nolan’s theatrical run
-secondary_headline: A six-day West Virginia shoot produced a film tracked near $1 million
+headline: The Asylum’s low-budget ‘Odyssey’ draws viewers during Nolan’s theatrical
+  run
+secondary_headline: A six-day West Virginia shoot produced a film tracked near $1
+  million
 publish_date: '2026-11-17'
-lede: The Asylum’s “The Odyssey” was shot in six days in West Virginia for 0.1% of the $250 million budget of Christopher Nolan’s film, and the low-budget title drew a home-video audience while Nolan’s “The Odyssey” remained in theaters until Nov. 17. It was available on digital platforms for around $5 and is on track to make close to $1 million, including rental fees and distributor revenue, partner David Rimawi said. The Asylum is a Burbank studio that has built a decades-old business around quick, low-margin films modeled on major releases.
-nut_graf: The Asylum’s model depends on distributors requesting or approving each concept, with production budgets set slightly below expected earnings. The studio produces up to three movies a month and about 30 a year, using speed and low costs to operate on slim margins in a home-video market shaped by DVDs, basic cable and ad-supported streaming.
+lede: The Asylum’s “The Odyssey” was shot in six days in West Virginia for 0.1% of
+  the $250 million budget of Christopher Nolan’s film, and the low-budget title drew
+  a home-video audience while Nolan’s “The Odyssey” remained in theaters until Nov.
+  17. It was available on digital platforms for around $5 and is on track to make
+  close to $1 million, including rental fees and distributor revenue, partner David
+  Rimawi said. The Asylum is a Burbank studio that has built a decades-old business
+  around quick, low-margin films modeled on major releases.
+nut_graf: The Asylum’s model depends on distributors requesting or approving each
+  concept, with production budgets set slightly below expected earnings. The studio
+  produces up to three movies a month and about 30 a year, using speed and low costs
+  to operate on slim margins in a home-video market shaped by DVDs, basic cable and
+  ad-supported streaming.
 primary_entities:
 - The Asylum
 - Christopher Nolan
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,109 +155,8 @@ cross_article_links:
   strength: 0.5182
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-16-four-remain-hospitalized-after-tanker-struck-cruise-ship-in-new-orleans
-  headline: Four remain hospitalized after tanker struck cruise ship in New Orleans
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.5275
-- slug: 2026-10-31-soaring-fuel-costs-force-mv-odyssey-residents-ashore-in-cambodia
-  headline: Soaring fuel costs force MV Odyssey residents ashore in Cambodia
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6004
-- slug: 2026-10-28-couple-who-sold-maui-firm-to-live-at-sea-now-face-voyage-s-end
-  headline: Couple who sold Maui firm to live at sea now face voyage's end
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5742
-- slug: 2026-10-29-airbnb-pledges-500-million-to-expand-free-emergency-housing
-  headline: Airbnb pledges $500 million to expand free emergency housing
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.5184
-- slug: 2026-10-12-tom-cruise-s-digger-projected-to-lose-245m-after-steep-box-office-slide
-  headline: Tom Cruise's 'Digger' projected to lose $245m after steep box-office slide
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5694
-- slug: 2026-09-22-paramount-warner-debt-of-nearly-80-billion-called-staggering-by-analyst
-  headline: Paramount-Warner debt of nearly $80 billion called 'staggering' by analyst
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5458
-- slug: 2026-09-20-disney-parks-lift-attendance-3-as-rivals-lose-summer-visitors
-  headline: Disney parks lift attendance 3% as rivals lose summer visitors
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5285
-- slug: 2026-09-22-paramount-settles-state-antitrust-suit-clearing-path-for-81b-warner-merger
-  headline: Paramount settles state antitrust suit, clearing path for $81B Warner merger
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5213
-- slug: 2026-09-01-dyson-launches-499-ai-powered-camerajet-its-first-oral-care-product
-  headline: Dyson launches $499 AI-powered CameraJet, its first oral-care product
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.5284
-- slug: 2026-08-21-blm-captures-about-1-000-wild-mustangs-in-western-colorado
-  headline: BLM captures about 1,000 wild mustangs in western Colorado
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.5179
-- slug: 2026-07-24-west-virginia-s-ascend-wv-retains-96-of-remote-work-participants
-  headline: West Virginia's Ascend WV retains 96% of remote work participants
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5455
-- slug: 2026-06-23-rory-kennedy-s-new-film-freefall-revisits-boeing-after-whistleblower-s-death
-  headline: Rory Kennedy’s new film ‘Freefall’ revisits Boeing after whistleblower’s death
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5575
-- slug: 2026-05-04-denis-leary-turns-civilians-into-firefighters-for-a-day-to-raise-grants
-  headline: Denis Leary turns civilians into “firefighters for a day” to raise grants
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.5555
-- slug: 2026-01-10-vr-headsets-bring-virtual-travel-job-prep-to-california-prison-inmates
-  headline: VR headsets bring virtual travel, job prep to California prison inmates
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.5659
-- slug: 2026-05-07-disney-offsets-fewer-overseas-visitors-with-streaming-and-strong-theme-park-spen
-  headline: Disney offsets fewer overseas visitors with streaming and strong theme-park spending
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5503
-- slug: 2026-05-17-onion-bids-to-take-over-infowars-as-jones-fights-liquidation-in-court
-  headline: Onion bids to take over Infowars as Jones fights liquidation in court
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5341
-- slug: 2026-06-19-las-vegas-shifts-from-budget-destination-to-luxury-market-as-visitor-demographic
-  headline: Las Vegas shifts from budget destination to luxury market as visitor demographic changes
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5154
-- slug: 2026-05-06-disney-results-beat-forecasts-as-streaming-and-u-s-parks-offset-weaker-tourism
-  headline: Disney results beat forecasts as streaming and U.S. parks offset weaker tourism
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5307
-- slug: 2026-05-05-denis-leary-s-firefighter-for-a-day-event-raises-money-for-fire-departments
-  headline: Denis Leary’s “Firefighter for a Day” event raises money for fire departments
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.529
-- slug: 2026-01-01-disney-world-worker-injured-stopping-runaway-boulder-at-indiana-jones-stunt-show
-  headline: Disney World worker injured stopping runaway boulder at Indiana Jones stunt show
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.5425
+related_stories: []
 ---
-
 ## The Asylum’s low-budget ‘Odyssey’ draws viewers during Nolan’s theatrical run
 
 **Subtype:** fact

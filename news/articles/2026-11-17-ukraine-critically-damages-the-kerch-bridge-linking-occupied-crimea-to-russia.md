@@ -1,9 +1,18 @@
 ---
 headline: Ukraine critically damages the Kerch bridge linking occupied Crimea to Russia
-secondary_headline: Photos suggest a 227-metre road arch span fell into the Kerch strait
+secondary_headline: Photos suggest a 227-metre road arch span fell into the Kerch
+  strait
 publish_date: '2026-11-17'
-lede: Ukraine critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, Ukrainian officials said, describing the strike as a symbolic blow to the Kremlin. Sergey Aksyonov, the Kremlin-appointed governor of Crimea, confirmed that the bridge was no longer usable, and photos suggest that a 227-metre road arch span has fallen into the Kerch strait.
-nut_graf: The overnight strike followed an attack on Monday that targeted an arch across the bridge's central section, and Aksyonov's confirmation that the crossing is unusable suggests the damage outlasts Monday's temporary closure. Ukraine has declared the bridge illegal and has repeatedly attempted to destroy it; the crossing was built eight years ago after Vladimir Putin's 2014 annexation of Crimea.
+lede: Ukraine critically damaged the Kerch bridge linking occupied Crimea with Russia
+  in an overnight missile attack, Ukrainian officials said, describing the strike
+  as a symbolic blow to the Kremlin. Sergey Aksyonov, the Kremlin-appointed governor
+  of Crimea, confirmed that the bridge was no longer usable, and photos suggest that
+  a 227-metre road arch span has fallen into the Kerch strait.
+nut_graf: The overnight strike followed an attack on Monday that targeted an arch
+  across the bridge's central section, and Aksyonov's confirmation that the crossing
+  is unusable suggests the damage outlasts Monday's temporary closure. Ukraine has
+  declared the bridge illegal and has repeatedly attempted to destroy it; the crossing
+  was built eight years ago after Vladimir Putin's 2014 annexation of Crimea.
 primary_entities:
 - Ukraine
 - Russia
@@ -57,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,104 +169,44 @@ related_stories:
   headline: Russian strike on Chornomorsk injures six, damages energy infrastructure
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7142
+  strength: 0.7147
 - slug: 2026-11-10-russia-and-ukraine-trade-overnight-drone-strikes-as-abu-dhabi-talks-open
   headline: Russia and Ukraine trade overnight drone strikes as Abu Dhabi talks open
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6934
+  strength: 0.693
 - slug: 2026-10-22-russian-strikes-kill-at-least-four-after-trump-says-war-may-be-closer-to-ending
-  headline: Russian strikes kill at least four after Trump says war may be closer to ending
+  headline: Russian strikes kill at least four after Trump says war may be closer
+    to ending
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7022
+  strength: 0.7023
 - slug: 2026-10-18-ukrainian-drones-hit-st-petersburg-oil-terminal-as-energy-ceasefire-collapses
   headline: Ukrainian drones hit St. Petersburg oil terminal as energy ceasefire collapses
   publish_date: '2026-10-18'
   relation: related
-  strength: 0.6923
+  strength: 0.6937
 - slug: 2026-10-15-ukraine-strikes-russian-oil-refinery-after-zelenskyy-says-truce-is-over
   headline: Ukraine strikes Russian oil refinery after Zelenskyy says truce is over
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7037
+  strength: 0.7046
 - slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
   headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7007
+  strength: 0.7016
 - slug: 2026-10-04-russia-strikes-kyiv-s-north-bridge-as-german-chancellor-merz-visits
   headline: Russia strikes Kyiv's North Bridge as German Chancellor Merz visits
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.7312
+  strength: 0.7309
 - slug: 2026-10-12-russia-strikes-ukrainian-energy-hours-after-trump-declares-ceasefire
   headline: Russia strikes Ukrainian energy hours after Trump declares ceasefire
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6935
-- slug: 2026-09-08-russia-strikes-kyiv-after-u-s-peace-envoys-leave-killing-at-least-2
-  headline: Russia strikes Kyiv after U.S. peace envoys leave, killing at least 2
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6929
-- slug: 2026-07-27-ukrainian-drones-strike-iranian-military-supply-line-to-russia-in-caspian-sea
-  headline: Ukrainian drones strike Iranian military supply line to Russia in Caspian Sea
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6994
-- slug: 2026-05-09-moscow-and-kyiv-accuse-each-other-of-violating-us-brokered-truce
-  headline: Moscow and Kyiv accuse each other of violating US-brokered truce
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7237
-- slug: 2026-06-03-ukrainian-drones-set-st-petersburg-oil-terminal-ablaze-ahead-of-putin-economic-f
-  headline: Ukrainian drones set St. Petersburg oil terminal ablaze ahead of Putin economic forum
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7136
-- slug: 2026-07-02-russian-strikes-on-kyiv-kill-at-least-13-wound-dozens
-  headline: Russian strikes on Kyiv kill at least 13, wound dozens
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6941
-- slug: 2026-05-09-russia-and-ukraine-accuse-each-other-of-violating-us-brokered-truce
-  headline: Russia and Ukraine accuse each other of violating US-brokered truce
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7194
-- slug: 2026-05-15-russia-launches-third-straight-day-of-drone-and-missile-attacks-on-ukraine
-  headline: Russia launches third straight day of drone and missile attacks on Ukraine
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.703
-- slug: 2026-05-16-russian-missile-strike-on-kyiv-apartment-building-kills-24-as-zelenskyy-leads-mo
-  headline: Russian missile strike on Kyiv apartment building kills 24 as Zelenskyy leads mourning
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7013
-- slug: 2026-05-14-russia-fires-at-least-800-drones-at-ukraine-as-putin-trump-talk-peace
-  headline: Russia fires at least 800 drones at Ukraine as Putin, Trump talk peace
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7018
-- slug: 2026-05-04-ukraine-launches-strikes-on-russian-oil-infrastructure-and-shadow-fleet
-  headline: Ukraine launches strikes on Russian oil infrastructure and shadow fleet
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7041
-- slug: 2026-02-04-russia-launches-major-drone-and-missile-attack-on-ukraine-overnight
-  headline: Russia launches major drone and missile attack on Ukraine overnight
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.7159
-- slug: 2026-05-06-russian-strikes-kill-22-in-ukraine-before-temporary-ceasefire-takes-effect
-  headline: Russian strikes kill 22 in Ukraine before temporary ceasefire takes effect
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6974
+  strength: 0.6945
 ---
-
 ## Ukraine critically damages the Kerch bridge linking occupied Crimea to Russia
 
 **Subtype:** fact

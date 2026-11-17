@@ -215,6 +215,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.8154
+analyses:
+- '2026-11-16-faa-s-disruption-funding-loop-predicts-more-money-without-fewer-interruptions'
 ---
 ## Nationwide grounding intensifies scrutiny of FAA's aging system
 
@@ -262,3 +264,8 @@ Rick Castaldo, who spent decades at the FAA as an electrical engineer, said he d
 **Publication date:** 2026-11-16
 **Title:** FAA dealt with isolated problems for years before nationwide grounding
 **URL:** https://apnews.com/article/faa-ground-stop-air-traffic-control-023aa7d681da357310274f750da7ad4e
+
+---
+
+<!-- analysis-link:2026-11-16-faa-s-disruption-funding-loop-predicts-more-money-without-fewer-interruptions -->
+**Going deeper:** [Read MSI's analysis of the FAA disruption-funding loop →](/analyses/2026-11-16-faa-s-disruption-funding-loop-predicts-more-money-without-fewer-interruptions)

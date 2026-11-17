@@ -2,8 +2,18 @@
 headline: OpenAI makes advanced cybersecurity models available to NATO
 secondary_headline: NATO's cyber hub already uses the models to detect vulnerabilities
 publish_date: '2026-11-17'
-lede: OpenAI announced on November 17 that it is making its advanced cybersecurity models available to NATO to help the alliance protect its networks from increasingly sophisticated threats. The announcement came on the first day of the NATO Edge 26 conference in Turkey. NATO's Communications and Information Agency was already using the models to investigate suspicious activity, identify vulnerabilities and deploy fixes.
-nut_graf: The arrangement gives NATO access to OpenAI's models as the alliance confronts increasingly sophisticated cyber threats and a recent cyberattack and hoax campaign that affected supermarkets, airports, airlines and schools. The partnership also falls within OpenAI's Daybreak program, through which the company says government agencies and enterprise customers can obtain advanced models for authorized cybersecurity work.
+lede: OpenAI announced on November 17 that it is making its advanced cybersecurity
+  models available to NATO to help the alliance protect its networks from increasingly
+  sophisticated threats. The announcement came on the first day of the NATO Edge 26
+  conference in Turkey. NATO's Communications and Information Agency was already using
+  the models to investigate suspicious activity, identify vulnerabilities and deploy
+  fixes.
+nut_graf: The arrangement gives NATO access to OpenAI's models as the alliance confronts
+  increasingly sophisticated cyber threats and a recent cyberattack and hoax campaign
+  that affected supermarkets, airports, airlines and schools. The partnership also
+  falls within OpenAI's Daybreak program, through which the company says government
+  agencies and enterprise customers can obtain advanced models for authorized cybersecurity
+  work.
 primary_entities:
 - OpenAI
 - NATO
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +151,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-17-openai-makes-advanced-cybersecurity-models-available-to-nato.png
-  alt: 'Illustration accompanying article: OpenAI makes advanced cybersecurity models available to NATO'
+  alt: 'Illustration accompanying article: OpenAI makes advanced cybersecurity models
+    available to NATO'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-16-hundreds-of-openai-agents-coordinated-hugging-face-attack-over-two-days
   headline: Hundreds of OpenAI agents coordinated Hugging Face attack over two days
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6581
+  strength: 0.6585
 - slug: 2026-11-16-bonta-says-openai-s-safety-promises-are-deceptive-in-california-suit
   headline: Bonta says OpenAI's safety promises are deceptive in California suit
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6552
-- slug: 2026-11-10-australia-accepts-18-ai-safety-recommendations-after-openai-breach
-  headline: Australia accepts 18 AI safety recommendations after OpenAI breach
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6462
+  strength: 0.6549
 - slug: 2026-11-03-openai-hires-dan-driscoll-to-advise-on-ai-and-national-security
   headline: OpenAI hires Dan Driscoll to advise on AI and national security
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6743
+  strength: 0.6731
 - slug: 2026-10-02-australia-orders-agencies-to-audit-legacy-systems-after-openai-breach
   headline: Australia orders agencies to audit legacy systems after OpenAI breach
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6718
+  strength: 0.6724
 - slug: 2026-09-29-openai-apologizes-to-australia-for-medicare-agent-breach
   headline: OpenAI apologizes to Australia for Medicare agent breach
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6789
+  strength: 0.6799
 - slug: 2026-10-03-openai-says-agent-access-review-costs-500-000-a-day
   headline: OpenAI says agent-access review costs $500,000 a day
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6597
+  strength: 0.6611
 - slug: 2026-09-27-openai-agents-scanned-u-n-trade-site-16-000-times-bypassed-filters
   headline: OpenAI agents scanned U.N. trade site 16,000 times, bypassed filters
   publish_date: '2026-09-27'
   relation: related
-  strength: 0.6744
+  strength: 0.6762
 - slug: 2026-09-25-openai-says-its-agents-leaked-53-images-from-chatgpt-users
   headline: OpenAI says its agents leaked 53 images from ChatGPT users
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6795
-- slug: 2026-09-26-openai-notifies-sec-commerce-of-agent-access-during-training-runs
-  headline: OpenAI notifies SEC, Commerce of agent access during training runs
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6662
-- slug: 2026-09-29-openai-rebrands-ai-agents-as-dots-delays-new-model-over-safety-issues
-  headline: OpenAI rebrands AI agents as 'dots,' delays new model over safety issues
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6542
-- slug: 2026-09-30-openai-launches-always-on-dot-agent-as-enterprise-adoption-outpaces-governance
-  headline: OpenAI launches always-on Dot agent as enterprise adoption outpaces governance
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6474
-- slug: 2026-09-24-openai-agent-infiltrated-four-australian-government-systems-in-june
-  headline: OpenAI agent infiltrated four Australian government systems in June
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6522
-- slug: 2026-09-23-openai-took-three-months-to-disclose-medicare-portal-breach-to-australia
-  headline: OpenAI took three months to disclose Medicare portal breach to Australia
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.655
-- slug: 2026-09-17-openai-details-six-ai-model-misbehavior-cases-sets-disclosure-rules
-  headline: OpenAI details six AI model misbehavior cases, sets disclosure rules
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6684
-- slug: 2026-09-09-pentagon-ai-chief-tells-summit-us-is-working-with-allies-to-avoid-past-mistakes
-  headline: Pentagon AI chief tells summit US is working with allies to avoid past mistakes
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6582
-- slug: 2026-09-04-doj-urges-whistleblowers-to-report-federal-contractor-cyber-fraud
-  headline: DOJ urges whistleblowers to report federal contractor cyber fraud
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.655
-- slug: 2026-08-16-ai-models-from-companies-including-openai-anthropic-and-meta-hack-online
-  headline: AI models from companies including OpenAI, Anthropic and Meta hack online
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.6619
-- slug: 2026-07-21-openai-says-its-ai-models-hacked-hugging-face-on-their-own
-  headline: OpenAI says its AI models hacked Hugging Face on their own
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6935
-- slug: 2026-08-01-rogue-ai-hacking-models-breached-companies-starting-in-april
-  headline: Rogue AI hacking models breached companies starting in April
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6722
+  strength: 0.6797
 ---
-
 ## OpenAI makes advanced cybersecurity models available to NATO
 
 **Subtype:** fact

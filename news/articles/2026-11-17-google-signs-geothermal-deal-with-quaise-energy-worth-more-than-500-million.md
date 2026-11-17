@@ -2,8 +2,13 @@
 headline: Google signs geothermal deal with Quaise Energy worth more than $500 million
 secondary_headline: The Oregon project would tap rock above 572 degrees Fahrenheit
 publish_date: '2026-11-17'
-lede: Google has signed a deal valued at more than $500 million to secure 50 megawatts from a geothermal project Quaise Energy is developing in central Oregon, according to The Wall Street Journal. The electricity will support Google’s existing data-center operations in the state, and purchases could begin as early as 2030.
-nut_graf: The agreement gives Quaise Energy a major customer while adding a prospective power source for Google’s data centers. Quaise’s technology remains unproven at commercial scale, and the earliest possible purchase date is 2030.
+lede: Google has signed a deal valued at more than $500 million to secure 50 megawatts
+  from a geothermal project Quaise Energy is developing in central Oregon, according
+  to The Wall Street Journal. The electricity will support Google’s existing data-center
+  operations in the state, and purchases could begin as early as 2030.
+nut_graf: The agreement gives Quaise Energy a major customer while adding a prospective
+  power source for Google’s data centers. Quaise’s technology remains unproven at
+  commercial scale, and the earliest possible purchase date is 2030.
 primary_entities:
 - Google
 - Quaise Energy
@@ -39,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,117 +143,41 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-16-harvard-study-ties-403-us-data-centers-to-28-3-million-tons-of-co2
-  headline: Harvard study ties 403 US data centers to 28.3 million tons of CO2
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.5983
-- slug: 2026-11-11-ai-datacentre-developers-plan-on-site-gas-fired-plants-totalling-181gw
-  headline: AI datacentre developers plan on-site gas-fired plants totalling 181GW
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.5921
-- slug: 2026-11-07-reports-trump-administration-weighs-four-underwater-datacenters-off-maine-alaska
-  headline: 'Reports: Trump administration weighs four underwater datacenters off Maine, Alaska'
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6019
-- slug: 2026-10-14-bloom-energy-fuel-cells-to-power-aep-s-wyoming-project-for-google
-  headline: Bloom Energy fuel cells to power AEP's Wyoming project for Google
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6315
 - slug: 2026-10-06-google-constellation-agree-to-20-year-nuclear-power-deal
   headline: Google, Constellation agree to 20-year nuclear power deal
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6544
+  strength: 0.6549
 - slug: 2026-09-01-fervo-energy-signs-deal-to-sell-400-megawatts-of-geothermal-power-to-google
   headline: Fervo Energy signs deal to sell 400 megawatts of geothermal power to Google.
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.7207
-- slug: 2026-10-09-epic-systems-stores-data-center-heat-in-6-100-underground-wells
-  headline: Epic Systems stores data center heat in 6,100 underground wells
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6111
-- slug: 2026-10-01-google-launches-satellite-to-test-ai-chips-in-space
-  headline: Google launches satellite to test AI chips in space
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6301
-- slug: 2026-09-09-fortum-shares-rise-on-google-nuclear-power-deal
-  headline: Fortum shares rise on Google nuclear power deal
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6252
-- slug: 2026-09-09-google-announces-15-1-billion-ai-infrastructure-investment-in-finland
-  headline: Google announces $15.1 billion AI infrastructure investment in Finland
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6229
+  strength: 0.7219
 - slug: 2026-06-26-next-generation-geothermal-energy-gains-bipartisan-us-support-but-costs-remain-h
-  headline: Next-generation geothermal energy gains bipartisan US support, but costs remain high
+  headline: Next-generation geothermal energy gains bipartisan US support, but costs
+    remain high
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6926
+  strength: 0.693
 - slug: 2026-07-30-google-guarantees-15-billion-loan-for-anthropic-s-texas-data-center
   headline: Google guarantees $15 billion loan for Anthropic's Texas data center
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.6521
-- slug: 2026-08-13-spacex-plans-natural-gas-plant-to-power-texas-ai-chip-facility
-  headline: SpaceX plans natural gas plant to power Texas AI chip facility
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5972
-- slug: 2026-08-17-openai-signs-10-gigawatt-ohio-data-center-lease-with-nvidia-backed-sb-energy
-  headline: OpenAI signs 10-gigawatt Ohio data-center lease with Nvidia-backed SB Energy
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5903
-- slug: 2026-08-07-little-rock-adopts-data-center-limits-as-arkansas-projects-draw-opposition
-  headline: Little Rock adopts data center limits as Arkansas projects draw opposition
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5874
-- slug: 2026-06-24-amazon-and-google-lead-ai-power-race-but-strategies-diverge
-  headline: Amazon and Google Lead AI Power Race, but Strategies Diverge
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6011
-- slug: 2026-07-10-qcells-wins-epc-contract-for-massive-arizona-solar-storage-complex
-  headline: Qcells wins EPC contract for massive Arizona solar-storage complex
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5878
-- slug: 2026-07-03-ai-data-centers-consume-as-much-as-12-times-more-water-indirectly-than-directly-
-  headline: AI data centers consume as much as 12 times more water indirectly than directly, lab finds
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5877
-- slug: 2026-01-09-meta-secures-nuclear-power-deals-with-terrapower-oklo-and-vistra-for-ohio-ai-dat
-  headline: Meta secures nuclear power deals with TerraPower, Oklo and Vistra for Ohio AI data center
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6255
-- slug: 2026-06-22-chevron-to-sell-power-to-microsoft-for-2-7-gigawatt-west-texas-ai-data-center
-  headline: Chevron to sell power to Microsoft for 2.7-gigawatt West Texas AI data center
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5893
+  strength: 0.6523
 image:
   url: /articles/2026-11-17-google-signs-geothermal-deal-with-quaise-energy-worth-more-than-500-million.png
-  alt: "Illustration accompanying article: Google signs geothermal deal with Quaise Energy worth more than $500 million"
+  alt: 'Illustration accompanying article: Google signs geothermal deal with Quaise
+    Energy worth more than $500 million'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Google signs geothermal deal with Quaise Energy worth more than $500 million
 
 **Subtype:** fact
