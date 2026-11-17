@@ -61,7 +61,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -229,3 +229,10 @@ Timothy Ingalsbee, executive director of the nonprofit Firefighters United for S
 **Publication date:** 2026-11-14
 **Title:** Investigation reveals factors behind helitack firefighters' deaths in Colorado
 **URL:** https://apnews.com/article/wildfire-firefighter-deaths-investigation-32cc1cac4a798ca5963ed439a21cda22
+
+### src_late_a5f2cf3489b259f5 — Associated Press, wire, Tier 1, originating
+**Author:** Martha Bellisle, Associated Press
+**Publication date:** 2026-11-16
+**Title:** Understaffing and unexpected fire behavior led to firefighter deaths, investigation finds
+**URL:** https://www.pbs.org/newshour/nation/understaffing-and-unexpected-fire-behavior-led-to-firefighter-deaths-investigation-finds
+**Added after publication:** true

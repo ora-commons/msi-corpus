@@ -1,9 +1,22 @@
 ---
 headline: Texas maternal death rate falls as mental health becomes leading cause
-secondary_headline: Black mothers die at 2.4 times the rate of non-Hispanic white women
+secondary_headline: Black mothers die at 2.4 times the rate of non-Hispanic white
+  women
 publish_date: '2026-11-16'
-lede: The rate of women dying from pregnancy or childbirth in Texas has dropped to pre-pandemic levels, and mental health has replaced infection as the leading cause of pregnancy-related deaths, according to a biennial report from the state's maternal mortality committee released Friday. Black mothers continue to die at higher rates than other groups, and deaths in which violence such as suicide or homicide was a factor quadrupled between the two years the report studied. The report, which state officials were supposed to release Sept. 1 but delayed until after the midterm elections, offers the first comprehensive look at maternal mortality since Texas banned nearly all abortions in 2021.
-nut_graf: The report matters because it is the state's first comprehensive look at maternal mortality since Texas banned nearly all abortions in 2021, and because it arrives as Texas lawmakers file bills for a legislative session that begins in January. The findings pair an improving overall ratio with persistent racial disparities, high death rates among women on Medicaid, and a sharp rise in deaths involving violence.
+lede: The rate of women dying from pregnancy or childbirth in Texas has dropped to
+  pre-pandemic levels, and mental health has replaced infection as the leading cause
+  of pregnancy-related deaths, according to a biennial report from the state's maternal
+  mortality committee released Friday. Black mothers continue to die at higher rates
+  than other groups, and deaths in which violence such as suicide or homicide was
+  a factor quadrupled between the two years the report studied. The report, which
+  state officials were supposed to release Sept. 1 but delayed until after the midterm
+  elections, offers the first comprehensive look at maternal mortality since Texas
+  banned nearly all abortions in 2021.
+nut_graf: The report matters because it is the state's first comprehensive look at
+  maternal mortality since Texas banned nearly all abortions in 2021, and because
+  it arrives as Texas lawmakers file bills for a legislative session that begins in
+  January. The findings pair an improving overall ratio with persistent racial disparities,
+  high death rates among women on Medicaid, and a sharp rise in deaths involving violence.
 primary_entities:
 - Texas
 - Texas Maternal Mortality and Morbidity Review Committee
@@ -42,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +154,27 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-03-study-links-louisiana-pollution-hotspots-to-higher-infant-heart-defect-odds
-  headline: Study links Louisiana pollution hotspots to higher infant heart defect odds
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.626
-- slug: 2026-10-29-early-ballots-pass-43-million-as-us-midterms-approach
-  headline: Early ballots pass 43 million as US midterms approach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6457
-- slug: 2026-10-19-ken-paxton-s-anti-abortion-legal-playbook-extends-beyond-texas
-  headline: Ken Paxton's anti-abortion legal playbook extends beyond Texas
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6221
-- slug: 2026-09-16-family-sues-texas-ag-paxton-over-pregnant-woman-s-death-after-denied-abortion
-  headline: Family sues Texas AG Paxton over pregnant woman's death after denied abortion
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6456
-- slug: 2026-09-23-cdc-youth-survey-finds-improved-teen-mental-health-realigns-report-focus
-  headline: CDC youth survey finds improved teen mental health, realigns report focus
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6212
-- slug: 2026-09-20-rethink-finds-record-premature-mortality-among-severely-mentally-ill-in-england
-  headline: Rethink finds record premature mortality among severely mentally ill in England
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6281
-- slug: 2026-09-19-us-familicides-reach-at-least-17-in-2026-up-from-six-in-2025
-  headline: US familicides reach at least 17 in 2026, up from six in 2025
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6298
-- slug: 2026-09-03-us-domestic-violence-killings-rise-while-overall-homicides-fall
-  headline: US domestic violence killings rise while overall homicides fall
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6363
 - slug: 2026-02-02-texas-to-expand-data-on-pregnant-inmates-after-scrutiny-of-jail-harms
   headline: Texas to expand data on pregnant inmates after scrutiny of jail harms
   publish_date: '2026-02-02'
   relation: related
-  strength: 0.7158
+  strength: 0.7155
 - slug: 2026-07-09-us-murder-rate-fell-to-record-low-in-2025-criminologist-says
   headline: US murder rate fell to record low in 2025, criminologist says
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.6602
+  strength: 0.6594
 - slug: 2026-02-19-us-prenatal-care-declines-especially-for-black-mothers
   headline: US prenatal care declines, especially for Black mothers
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.6818
-- slug: 2026-07-23-texas-crime-rate-hits-lowest-mark-in-years-mcallen-sees-40-year-low
-  headline: Texas crime rate hits lowest mark in years, McAllen sees 40-year low
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6219
+  strength: 0.6808
 - slug: 2026-05-13-texas-public-schools-see-first-non-pandemic-enrollment-drop-in-decades
   headline: Texas public schools see first non-pandemic enrollment drop in decades
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6614
-- slug: 2026-06-29-road-pollution-linked-to-41-800-premature-u-s-deaths-in-2024-study-finds
-  headline: Road pollution linked to 41,800 premature U.S. deaths in 2024, study finds
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6275
-- slug: 2026-05-13-texas-public-schools-lose-76-000-students-hispanic-students-account-for-81-of-de
-  headline: Texas public schools lose 76,000 students; Hispanic students account for 81% of decline
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6486
-- slug: 2026-04-01-things-to-know-if-you-re-thinking-of-pregnancy-later-in-life
-  headline: Things to know if you’re thinking of pregnancy later in life
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6493
-- slug: 2026-05-15-conservative-states-focus-on-banning-abortion-pills-and-restricting-access-via-p
-  headline: Conservative states focus on banning abortion pills and restricting access via providers
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6343
-- slug: 2026-06-07-texas-death-row-case-of-taylor-parker-revived-by-netflix-documentary
-  headline: Texas death row case of Taylor Parker revived by Netflix documentary
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6244
-- slug: 2026-01-22-texas-leads-nation-in-supplying-new-residents-to-nine-states
-  headline: Texas leads nation in supplying new residents to nine states
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6487
-- slug: 2026-05-14-us-overdose-deaths-declined-in-2025-cdc-data-show
-  headline: US overdose deaths declined in 2025, CDC data show
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6249
+  strength: 0.6619
 ---
-
 ## Texas maternal death rate falls as mental health becomes leading cause
 
 **Subtype:** fact
