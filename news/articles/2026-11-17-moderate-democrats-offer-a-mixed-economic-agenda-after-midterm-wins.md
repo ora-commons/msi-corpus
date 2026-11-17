@@ -1,9 +1,23 @@
 ---
 headline: Moderate Democrats offer a mixed economic agenda after midterm wins
-secondary_headline: Denver summit featured natural gas and Medicare buy-ins; Gallego sought labor policies
+secondary_headline: Denver summit featured natural gas and Medicare buy-ins; Gallego
+  sought labor policies
 publish_date: '2026-11-17'
-lede: At the Denver summit of Majority Democrats last week, Massachusetts Rep. Jake Auchincloss urged Democrats to embrace natural gas and nuclear power while rejecting rent control and exclusionary zoning, and Texas senator-elect James Talarico called for universal health care through a Medicare buy-in open to anyone. Separately, Arizona Sen. Ruben Gallego, described by Greg Ip as a progressive turned moderate, wants sectoral wage bargaining, double pay for overtime and a New Deal-style public jobs program. Ip used the gathering to examine what the “moderate” label means after arguing that moderates delivered Democrats’ midterm majorities.
-nut_graf: Greg Ip wrote that moderates, having delivered Democrats’ midterm majorities, believe they — not the progressive acolytes of Sens. Bernie Sanders and Elizabeth Warren — ought to set the party’s agenda. Majority Democrats is an umbrella group that promotes centrist candidates. Ip characterized immigration, climate and culture as the clearest areas of moderation, while the reported economic positions ranged from opposition to rent control to support for Medicare buy-ins, labor bargaining and a New Deal-style public jobs program.
+lede: At the Denver summit of Majority Democrats last week, Massachusetts Rep. Jake
+  Auchincloss urged Democrats to embrace natural gas and nuclear power while rejecting
+  rent control and exclusionary zoning, and Texas senator-elect James Talarico called
+  for universal health care through a Medicare buy-in open to anyone. Separately,
+  Arizona Sen. Ruben Gallego, described by Greg Ip as a progressive turned moderate,
+  wants sectoral wage bargaining, double pay for overtime and a New Deal-style public
+  jobs program. Ip used the gathering to examine what the “moderate” label means after
+  arguing that moderates delivered Democrats’ midterm majorities.
+nut_graf: Greg Ip wrote that moderates, having delivered Democrats’ midterm majorities,
+  believe they — not the progressive acolytes of Sens. Bernie Sanders and Elizabeth
+  Warren — ought to set the party’s agenda. Majority Democrats is an umbrella group
+  that promotes centrist candidates. Ip characterized immigration, climate and culture
+  as the clearest areas of moderation, while the reported economic positions ranged
+  from opposition to rent control to support for Medicare buy-ins, labor bargaining
+  and a New Deal-style public jobs program.
 primary_entities:
 - The Wall Street Journal
 - The Washington Post
@@ -52,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,104 +169,43 @@ related_stories:
   headline: Centrist Democrats emerge as decisive force in new Congress
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7003
+  strength: 0.6999
 - slug: 2026-11-14-democrats-weigh-midterm-sweep-and-old-divisions-at-denver-conference
   headline: Democrats weigh midterm sweep and old divisions at Denver conference
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7059
+  strength: 0.7057
 - slug: 2026-11-14-democrats-celebrate-midterm-sweep-at-denver-conference
   headline: Democrats celebrate midterm sweep at Denver conference
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.6874
+  strength: 0.6869
 - slug: 2026-11-17-texas-gop-announces-review-after-democrats-sweep-all-statewide-offices
   headline: Texas GOP announces review after Democrats sweep all statewide offices
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6636
+  strength: 0.6632
 - slug: 2026-11-12-democrats-gather-in-denver-to-plot-course-after-midterm-wins
   headline: Democrats gather in Denver to plot course after midterm wins
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6897
+  strength: 0.6899
 - slug: 2026-11-05-democratic-winners-point-to-moderates-gaining-ground-in-the-incoming-congress
   headline: Democratic winners point to moderates gaining ground in the incoming Congress
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7304
+  strength: 0.7297
 - slug: 2026-11-14-democrats-head-into-new-congress-denying-a-moderate-progressive-rift
   headline: Democrats head into new Congress denying a moderate-progressive rift
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.6733
+  strength: 0.6727
 - slug: 2026-11-14-democrats-chart-post-midterm-agenda-amid-debate-over-working-with-trump
   headline: Democrats chart post-midterm agenda amid debate over working with Trump
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.6726
-- slug: 2026-11-09-democrats-prepare-affordability-agenda-after-the-midterm-win
-  headline: Democrats prepare affordability agenda after the midterm win
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6984
-- slug: 2026-11-09-democrats-put-grocery-price-proposals-on-their-post-election-agenda
-  headline: Democrats put grocery-price proposals on their post-election agenda
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6776
-- slug: 2026-11-11-democrats-push-bipartisan-immigration-reform-after-midterm-voter-backlash
-  headline: Democrats push bipartisan immigration reform after midterm voter backlash
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6603
-- slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6727
-- slug: 2026-11-05-democrats-link-climate-policy-to-affordability-in-2026-midterm-wins
-  headline: Democrats link climate policy to affordability in 2026 midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6717
-- slug: 2026-11-04-democrats-retake-congress-dnc-chairman-says-mandate-is-about-affordability
-  headline: Democrats retake Congress; DNC chairman says mandate is about affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6741
-- slug: 2026-11-05-democrats-largest-majority-in-decades-leaves-party-s-future-fight-unresolved
-  headline: Democrats' largest majority in decades leaves party's future fight unresolved
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6627
-- slug: 2026-11-04-readers-urge-democrats-to-turn-midterm-gains-into-substantive-change
-  headline: Readers urge Democrats to turn midterm gains into substantive change
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6671
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6721
-- slug: 2026-11-04-democrats-set-post-election-priorities-on-affordability-and-accountability
-  headline: Democrats set post-election priorities on affordability and accountability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6624
-- slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
-  headline: Democrats win Congress and a majority of governorships on affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.662
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6611
+  strength: 0.6723
 ---
-
 ## Moderate Democrats offer a mixed economic agenda after midterm wins
 
 **Subtype:** fact

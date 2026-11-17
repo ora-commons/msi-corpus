@@ -2,8 +2,21 @@
 headline: States divide over EPA plan to repeal power plant greenhouse gas rules
 secondary_headline: Medical groups warn the proposal could harm vulnerable populations
 publish_date: '2026-11-17'
-lede: The Trump administration's U.S. Environmental Protection Agency has proposed rescinding its 2015 findings that it may regulate power plant greenhouse gas emissions under the Clean Air Act. If finalized and upheld by courts, the proposal would repeal the remaining regulations for fossil-fuel-fired electric generating units. Attorneys general from 22 mostly Democratic-leaning states plus Washington, D.C., and local officials support EPA's authority, while attorneys general from West Virginia and 24 other largely Republican-leaning states argue that federal regulation should be curtailed; more than 70 medical and public health organizations also opposed the proposal.
-nut_graf: The proposal would remove the remaining federal greenhouse gas regulations for fossil-fuel-fired electric generating units if finalized and upheld. It follows a final EPA rule that took effect Monday and partially repealed 2024 emissions standards and requirements for state plans. A comment period that closed earlier this month generated more than 165,000 comments, while states and public-health and environmental groups have filed legal challenges to EPA's rollbacks.
+lede: The Trump administration's U.S. Environmental Protection Agency has proposed
+  rescinding its 2015 findings that it may regulate power plant greenhouse gas emissions
+  under the Clean Air Act. If finalized and upheld by courts, the proposal would repeal
+  the remaining regulations for fossil-fuel-fired electric generating units. Attorneys
+  general from 22 mostly Democratic-leaning states plus Washington, D.C., and local
+  officials support EPA's authority, while attorneys general from West Virginia and
+  24 other largely Republican-leaning states argue that federal regulation should
+  be curtailed; more than 70 medical and public health organizations also opposed
+  the proposal.
+nut_graf: The proposal would remove the remaining federal greenhouse gas regulations
+  for fossil-fuel-fired electric generating units if finalized and upheld. It follows
+  a final EPA rule that took effect Monday and partially repealed 2024 emissions standards
+  and requirements for state plans. A comment period that closed earlier this month
+  generated more than 165,000 comments, while states and public-health and environmental
+  groups have filed legal challenges to EPA's rollbacks.
 primary_entities:
 - U.S. Environmental Protection Agency
 - National Academies of Science, Engineering, and Medicine
@@ -44,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +160,44 @@ related_stories:
   headline: Industry, environmentalists split over EPA methane rollback costs
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7727
+  strength: 0.7728
 - slug: 2026-10-28-epa-moves-to-revise-biden-era-methane-rules-for-oil-and-gas
   headline: EPA moves to revise Biden-era methane rules for oil and gas
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.76
-- slug: 2026-10-27-epa-methane-proposal-would-end-leak-identification-program-expand-gas-flaring
-  headline: EPA methane proposal would end leak-identification program, expand gas flaring
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7294
+  strength: 0.7601
 - slug: 2026-10-01-new-york-led-coalition-of-21-states-sues-epa-over-power-plant-rule-repeal
   headline: New York-led coalition of 21 states sues EPA over power plant rule repeal
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.7911
+  strength: 0.7915
 - slug: 2026-09-14-epa-moves-to-repeal-all-greenhouse-gas-standards-for-power-plants
   headline: EPA moves to repeal all greenhouse gas standards for power plants
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.8107
+  strength: 0.8114
 - slug: 2026-09-14-epa-scraps-biden-era-greenhouse-gas-rules-for-power-plants
   headline: EPA scraps Biden-era greenhouse gas rules for power plants
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.8029
+  strength: 0.8034
 - slug: 2026-09-16-epa-repeals-power-plant-emission-limits-despite-its-own-cost-analysis
   headline: EPA repeals power plant emission limits despite its own cost analysis
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.7924
+  strength: 0.7933
 - slug: 2026-09-14-epa-reportedly-poised-to-scrap-power-plant-emission-rules-at-houston-g20
   headline: EPA reportedly poised to scrap power-plant emission rules at Houston G20
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7939
+  strength: 0.7944
 - slug: 2026-09-14-zeldin-calls-climate-rules-war-on-coal-at-g20-as-epa-ends-power-plant-limits
-  headline: Zeldin calls climate rules 'war on coal' at G20 as EPA ends power-plant limits
+  headline: Zeldin calls climate rules 'war on coal' at G20 as EPA ends power-plant
+    limits
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7764
-- slug: 2026-08-25-epa-proposes-making-air-pollution-disclosure-voluntary-for-datacenter-permits
-  headline: EPA proposes making air-pollution disclosure voluntary for datacenter permits
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7809
-- slug: 2026-05-15-epa-proposes-rollback-of-coal-plant-wastewater-limits-citing-ai-driven-energy-de
-  headline: EPA proposes rollback of coal plant wastewater limits, citing AI-driven energy demand
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7842
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7777
-- slug: 2026-03-21-states-and-cities-sue-epa-over-repeal-of-endangerment-climate-finding
-  headline: States and cities sue EPA over repeal of endangerment climate finding
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7772
-- slug: 2026-02-13-trump-epa-revokes-2009-endangerment-finding-underpinning-clean-air-act-rules
-  headline: Trump EPA revokes 2009 endangerment finding underpinning Clean Air Act rules
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7688
-- slug: 2026-02-13-epa-revokes-2009-endangerment-finding-reshaping-us-climate-rules
-  headline: EPA revokes 2009 endangerment finding, reshaping US climate rules
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7679
-- slug: 2026-01-28-epa-proposes-easing-air-pollution-rule-on-interstate-emissions
-  headline: EPA proposes easing air pollution rule on interstate emissions
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.7672
-- slug: 2026-02-19-groups-sue-epa-over-rescinding-2009-endangerment-finding-underpinning-climate-ru
-  headline: Groups sue EPA over rescinding 2009 endangerment finding underpinning climate rules
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7636
-- slug: 2026-02-11-trump-epa-set-to-rescind-2009-endangerment-finding-underpinning-climate-rules
-  headline: Trump EPA set to rescind 2009 endangerment finding underpinning climate rules
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7634
-- slug: 2026-01-21-epa-eases-pollution-rules-under-trump-texas-air-quality-at-risk
-  headline: EPA eases pollution rules under Trump; Texas air quality at risk
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.7629
-- slug: 2026-04-11-epa-proposes-weakening-rules-for-toxic-coal-ash-groundwater-protections
-  headline: EPA proposes weakening rules for toxic coal ash groundwater protections
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7545
+  strength: 0.7768
 ---
-
 ## States divide over EPA plan to repeal power plant greenhouse gas rules
 
 **Subtype:** fact
