@@ -223,6 +223,8 @@ related_stories:
   publish_date: '2026-10-19'
   relation: related
   strength: 0.7834
+analyses:
+- '2026-11-16-trump-s-shenzhen-summit-agenda-bundles-four-diplomatic-tracks-without-reported-v'
 ---
 ## Trump heads to Asia as courts rule, banks report outages and stocks fall
 
@@ -267,3 +269,8 @@ Freeman Johnson, the oldest known survivor of the Japanese attack on Pearl Harbo
 **Publication date:** 2026-11-16
 **Title:** News Wrap: Trump departs for trip to Asia, meetings with Xi and Putin
 **URL:** https://www.pbs.org/newshour/show/news-wrap-trump-departs-for-trip-to-asia-meetings-with-xi-and-putin
+
+---
+
+<!-- analysis-link:2026-11-16-trump-s-shenzhen-summit-agenda-bundles-four-diplomatic-tracks-without-reported-v -->
+**Going deeper:** [Read MSI's analysis of Trump's Shenzhen summit decision architecture →](/analyses/2026-11-16-trump-s-shenzhen-summit-agenda-bundles-four-diplomatic-tracks-without-reported-v)
