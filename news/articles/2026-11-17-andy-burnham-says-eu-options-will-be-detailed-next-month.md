@@ -2,8 +2,19 @@
 headline: Andy Burnham says EU options will be detailed next month
 secondary_headline: Friday Brussels talks cover food, youth visas and carbon trading
 publish_date: '2026-11-17'
-lede: Andy Burnham said he will set out next month his options for reshaping the UK's long-term relationship with the EU. However, it is understood he will not indicate any preference at this stage about which of the long-term options he could back in future. Burnham will travel to a Brussels meeting with the EU on Friday, where both sides hope to unveil agreements on food, youth visas and re-linking British industry to the EU's carbon trading regime.
-nut_graf: Burnham said the options and his assessment of them would inform decisions in the next Parliament, leaving the UK's long-term relationship with the EU unresolved. Boris Johnson called it "madness" to escalate the Brexit issue as a political priority and suggested Burnham would be wasting his premiership by reopening arguments about Brexit. Nigel Farage objected to Burnham "turning his back" on Makerfield constituents and to tying the UK back to single-market rules overseen by the European Court of Justice.
+lede: Andy Burnham said he will set out next month his options for reshaping the UK's
+  long-term relationship with the EU. However, it is understood he will not indicate
+  any preference at this stage about which of the long-term options he could back
+  in future. Burnham will travel to a Brussels meeting with the EU on Friday, where
+  both sides hope to unveil agreements on food, youth visas and re-linking British
+  industry to the EU's carbon trading regime.
+nut_graf: Burnham said the options and his assessment of them would inform decisions
+  in the next Parliament, leaving the UK's long-term relationship with the EU unresolved.
+  Boris Johnson called it "madness" to escalate the Brexit issue as a political priority
+  and suggested Burnham would be wasting his premiership by reopening arguments about
+  Brexit. Nigel Farage objected to Burnham "turning his back" on Makerfield constituents
+  and to tying the UK back to single-market rules overseen by the European Court of
+  Justice.
 primary_entities:
 - Andy Burnham
 - UK
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,107 +151,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-09-22-burnham-to-raise-made-in-europe-concerns-in-first-meeting-with-von-der-leyen
-  headline: Burnham to raise 'Made in Europe' concerns in first meeting with von der Leyen
+  headline: Burnham to raise 'Made in Europe' concerns in first meeting with von der
+    Leyen
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.8063
+  strength: 0.8057
 - slug: 2026-10-26-andrea-egan-urges-burnham-to-put-public-investment-in-his-budget
   headline: Andrea Egan urges Burnham to put public investment in his budget
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6748
+  strength: 0.6749
 - slug: 2026-09-22-eu-envoy-doors-are-open-for-uk-to-deepen-cooperation
   headline: 'EU envoy: ''doors are open'' for UK to deepen cooperation'
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7754
+  strength: 0.7758
 - slug: 2026-10-14-burnham-pledges-further-and-faster-ukraine-aid-in-zelensky-meeting
   headline: Burnham pledges 'further and faster' Ukraine aid in Zelensky meeting
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.683
+  strength: 0.6829
 - slug: 2026-10-14-burnham-accelerates-uk-anti-drone-missile-deliveries-to-ukraine
   headline: Burnham accelerates UK anti-drone missile deliveries to Ukraine
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6783
+  strength: 0.6787
 - slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
   headline: Burnham to outline social care and public control plans at Labour conference
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7264
+  strength: 0.7278
 - slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
   headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.7182
+  strength: 0.7195
 - slug: 2026-09-24-france-leads-eu-push-to-exclude-uk-from-made-in-europe-law
   headline: France leads EU push to exclude UK from 'Made in Europe' law
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7149
-- slug: 2026-09-16-burnham-and-trump-to-meet-at-un-general-assembly-next-week
-  headline: Burnham and Trump to meet at UN General Assembly next week
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7316
-- slug: 2026-09-20-burnham-meets-trump-at-un-planning-firmer-approach-than-starmer-s
-  headline: Burnham meets Trump at UN, planning firmer approach than Starmer's
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7169
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6944
-- slug: 2026-10-01-farage-opens-reform-s-general-election-campaign-in-doncaster
-  headline: Farage opens Reform's general election campaign in Doncaster
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6807
-- slug: 2026-09-27-burnham-backs-universal-english-social-care-reform
-  headline: Burnham backs universal English social care reform
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6753
-- slug: 2026-09-22-burnham-declines-to-retract-past-trump-criticisms-ahead-of-un-meeting
-  headline: Burnham declines to retract past Trump criticisms ahead of UN meeting
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6818
-- slug: 2026-09-23-burnham-weighs-uk-position-between-us-china-and-eu-spheres-of-influence
-  headline: Burnham weighs UK position between US, China and EU 'spheres of influence'
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6716
-- slug: 2026-09-20-uk-minister-says-trump-s-war-with-iran-will-complicate-next-month-s-budget
-  headline: UK minister says Trump's war with Iran will complicate next month's budget
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6713
-- slug: 2026-09-09-burnham-at-pmqs-rebuffs-conservative-plan-to-cut-welfare-for-defence
-  headline: Burnham at PMQs rebuffs Conservative plan to cut welfare for defence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6835
-- slug: 2026-07-31-survey-finds-63-of-britons-prioritise-eu-over-us-relationship
-  headline: Survey finds 63% of Britons prioritise EU over US relationship
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.7063
-- slug: 2026-08-09-cost-of-living-tops-voters-concerns-as-burnham-plans-uk-tour
-  headline: Cost of living tops voters' concerns as Burnham plans UK tour
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6914
-- slug: 2026-07-12-world-leaders-size-up-uk-pm-in-waiting-andy-burnham
-  headline: World leaders size up UK PM-in-waiting Andy Burnham
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.7208
+  strength: 0.7141
 ---
-
 ## Andy Burnham says EU options will be detailed next month
 
 **Subtype:** fact

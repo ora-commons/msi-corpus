@@ -2,8 +2,17 @@
 headline: Ground stop leaves travelers scrambling for costly alternatives
 secondary_headline: Federal guidance values passenger delay time at about $66 an hour
 publish_date: '2026-11-17'
-lede: A four-hour nationwide ground stop disrupted flights for as many as a million travelers on Friday, leaving some passengers with costly ground transportation, replacement lodging and uncertainty about reimbursement. As travelers described lost time and stress, the disruption also intensified questions about official explanations and the systems behind air travel.
-nut_graf: The ground stop imposed costs beyond canceled tickets and fares, including ground transportation, replacement lodging, child care and time that could have gone to work or leisure. International Air Transport Association data put delay costs at about $10.9 billion from 2015 through 2025, while federal guidance and a Federal Reserve Bank of Richmond estimate assigned dollar values to passengers’ lost time.
+lede: A four-hour nationwide ground stop disrupted flights for as many as a million
+  travelers on Friday, leaving some passengers with costly ground transportation,
+  replacement lodging and uncertainty about reimbursement. As travelers described
+  lost time and stress, the disruption also intensified questions about official explanations
+  and the systems behind air travel.
+nut_graf: The ground stop imposed costs beyond canceled tickets and fares, including
+  ground transportation, replacement lodging, child care and time that could have
+  gone to work or leisure. International Air Transport Association data put delay
+  costs at about $10.9 billion from 2015 through 2025, while federal guidance and
+  a Federal Reserve Bank of Richmond estimate assigned dollar values to passengers’
+  lost time.
 primary_entities:
 - International Air Transport Association
 - Federal Aviation Administration
@@ -51,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +163,46 @@ related_stories:
   headline: FAA ground stop drives nearly 20,000 flight cancellations
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7515
+  strength: 0.7518
 - slug: 2026-11-15-faa-says-air-traffic-system-stable-after-ground-stop-lasting-more-than-four-hour
-  headline: FAA says air traffic system stable after ground stop lasting more than four hours
+  headline: FAA says air traffic system stable after ground stop lasting more than
+    four hours
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7499
+  strength: 0.75
 - slug: 2026-11-14-u-s-flight-cancellations-reach-more-than-4-100-after-ground-stop
   headline: U.S. flight cancellations reach more than 4,100 after ground stop
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7549
+  strength: 0.7544
 - slug: 2026-11-14-airlines-cancel-thousands-of-flights-after-longest-us-ground-stop-in-25-years
-  headline: Airlines cancel thousands of flights after longest US ground stop in 25 years
+  headline: Airlines cancel thousands of flights after longest US ground stop in 25
+    years
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7525
+  strength: 0.7526
 - slug: 2026-11-15-ground-stop-microsoft-outage-leave-travelers-doubting-official-accounts
   headline: Ground stop, Microsoft outage leave travelers doubting official accounts
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7385
+  strength: 0.7384
 - slug: 2026-11-15-airlines-cancel-more-than-2-300-flights-as-disruptions-expected-to-last-into-mon
-  headline: Airlines cancel more than 2,300 flights as disruptions expected to last into Monday
+  headline: Airlines cancel more than 2,300 flights as disruptions expected to last
+    into Monday
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7154
+  strength: 0.715
 - slug: 2026-11-13-faa-lifts-nationwide-ground-stop-after-telecom-failure
   headline: FAA lifts nationwide ground stop after telecom failure
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7216
+  strength: 0.7214
 - slug: 2026-11-14-flights-resume-after-longest-u-s-ground-stop-in-25-years
   headline: Flights resume after longest U.S. ground stop in 25 years
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7102
-- slug: 2026-11-14-faa-lifts-its-longest-nationwide-ground-stop-since-9-11
-  headline: FAA lifts its longest nationwide ground stop since 9/11
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7032
-- slug: 2026-11-15-static-and-lost-tracon-frequencies-precede-friday-s-nationwide-ground-stop
-  headline: Static and lost Tracon frequencies precede Friday's nationwide ground stop
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6944
-- slug: 2026-11-16-duffy-says-router-in-arkansas-flooded-network-root-cause-unresolved
-  headline: Duffy says router in Arkansas flooded network; root cause unresolved
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6865
-- slug: 2026-11-16-532-flights-affected-at-reagan-national-dulles-richmond-and-norfolk-in-eight-hou
-  headline: 532 flights affected at Reagan National, Dulles, Richmond and Norfolk in eight-hour ground stop
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6844
-- slug: 2026-11-13-faa-grounds-all-us-departures-delaying-or-canceling-nearly-7-000-flights
-  headline: FAA grounds all US departures, delaying or canceling nearly 7,000 flights
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7024
-- slug: 2026-11-14-officials-tie-nationwide-ground-stop-to-work-on-old-copper-wiring
-  headline: Officials tie nationwide ground stop to work on old copper wiring
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6824
-- slug: 2026-11-13-faa-to-manage-international-flights-case-by-case-during-nationwide-ground-stop
-  headline: FAA to manage international flights case by case during nationwide ground stop
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6851
-- slug: 2026-11-14-officials-say-overloaded-air-traffic-equipment-triggered-nationwide-ground-stop
-  headline: Officials say overloaded air traffic equipment triggered nationwide ground stop
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6781
-- slug: 2026-11-13-faa-nationwide-ground-stop-halts-departures-at-t-f-green
-  headline: FAA nationwide ground stop halts departures at T.F. Green
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6844
-- slug: 2026-11-13-arroyo-says-nationwide-air-traffic-outage-could-stem-from-obsolete-technology
-  headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6779
-- slug: 2026-09-10-uk-air-traffic-shutdown-disrupts-many-thousands-of-passengers
-  headline: UK air traffic shutdown disrupts many thousands of passengers
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7008
-- slug: 2026-03-15-storms-add-to-thousands-of-canceled-u-s-flights-during-shutdown
-  headline: Storms add to thousands of canceled U.S. flights during shutdown
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.7018
+  strength: 0.7103
 ---
-
 ## Ground stop leaves travelers scrambling for costly alternatives
 
 **Subtype:** fact
