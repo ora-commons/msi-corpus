@@ -2,8 +2,15 @@
 headline: Oil prices fall as rising supply and U.S. inventories pressure the market
 secondary_headline: Saudi output reportedly reaches 10.5 million barrels per day
 publish_date: '2026-11-18'
-lede: Oil prices fell in early European trading on Nov. 18 as expectations of an oversupplied market and bearish U.S. inventory data outweighed continued tanker attacks in the Middle East. Brent crude fell 1.9% to $91.38 a barrel, and WTI futures declined 2.6% to $83.80.
-nut_graf: The market was weighing a loosening oil balance against continued exposure to disruption in the Middle East. Analysts at ING said recovering supply, resilient Russian exports and building U.S. inventories pointed to a more comfortable market, while they continued to identify the Strait of Hormuz as an important upside risk for oil prices.
+lede: Oil prices fell in early European trading on Nov. 18 as expectations of an oversupplied
+  market and bearish U.S. inventory data outweighed continued tanker attacks in the
+  Middle East. Brent crude fell 1.9% to $91.38 a barrel, and WTI futures declined
+  2.6% to $83.80.
+nut_graf: The market was weighing a loosening oil balance against continued exposure
+  to disruption in the Middle East. Analysts at ING said recovering supply, resilient
+  Russian exports and building U.S. inventories pointed to a more comfortable market,
+  while they continued to identify the Strait of Hormuz as an important upside risk
+  for oil prices.
 primary_entities:
 - ING
 - FxPro
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,10 +150,11 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-18-oil-prices-fall-as-surplus-expectations-outweigh-middle-east-shipping-threats
-  headline: Oil prices fall as surplus expectations outweigh Middle East shipping threats
+  headline: Oil prices fall as surplus expectations outweigh Middle East shipping
+    threats
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8718
+  strength: 0.8713
 - slug: 2026-11-17-oil-futures-decline-as-gulf-exports-recover
   headline: Oil futures decline as Gulf exports recover
   publish_date: '2026-11-17'
@@ -155,94 +164,34 @@ related_stories:
   headline: Oil rises as traders weigh Middle East supply risks and U.S.-Iran diplomacy
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7994
+  strength: 0.7991
 - slug: 2026-11-02-oil-prices-fall-as-renewed-u-s--iran-diplomacy-eases-supply-fears
   headline: Oil prices fall as renewed U.S.-Iran diplomacy eases supply fears
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8143
+  strength: 0.8138
 - slug: 2026-10-26-brent-crude-and-west-texas-intermediate-retreat-as-recent-hormuz-flows-recover
-  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows recover
+  headline: Brent crude and West Texas Intermediate retreat as recent Hormuz flows
+    recover
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.8024
+  strength: 0.802
 - slug: 2026-10-29-oil-prices-fall-as-vance-letter-renews-u-s--iran-outreach
   headline: Oil prices fall as Vance letter renews U.S.-Iran outreach
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7869
+  strength: 0.7857
 - slug: 2026-10-20-oil-prices-climb-as-middle-east-supply-risks-offset-gulf-exports
   headline: Oil prices climb as Middle East supply risks offset Gulf exports
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.8066
+  strength: 0.8058
 - slug: 2026-10-22-oil-rises-as-u-s-prepares-iran-strike-options-and-conflict-concerns-return
   headline: Oil rises as U.S. prepares Iran strike options and conflict concerns return
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7933
-- slug: 2026-10-13-oil-prices-fall-middle-east-risks-russian-diesel
-  headline: Brent slides 0.9% as Strait of Hormuz oil flows run 38% below prewar baseline
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.8282
-- slug: 2026-10-15-brent-wti-slide-as-iea-says-gulf-crude-shipments-exceed-75-of-prewar-levels
-  headline: Brent, WTI slide as IEA says Gulf crude shipments exceed 75% of prewar levels
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.8054
-- slug: 2026-10-19-brent-falls-1-8-as-trump-waives-russia-sanctions
-  headline: Brent falls 1.8% as Trump waives Russia sanctions
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7849
-- slug: 2026-10-02-oil-prices-fall-on-renewed-hormuz-risks-and-larger-us-military-buildup
-  headline: Oil prices fall on renewed Hormuz risks and larger US military buildup
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8408
-- slug: 2026-10-06-oil-prices-fall-as-middle-east-exports-recover-shipping-attacks-resume
-  headline: Oil prices fall as Middle East exports recover, shipping attacks resume
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7953
-- slug: 2026-09-25-oil-prices-fall-as-us-iran-diplomacy-hopes-offset-saudi-attack-threats
-  headline: Oil prices fall as US-Iran diplomacy hopes offset Saudi attack threats
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.8295
-- slug: 2026-09-16-oil-futures-slip-ahead-of-fed-decision-as-saudi-pipeline-repairs-extend
-  headline: Oil futures slip ahead of Fed decision as Saudi pipeline repairs extend
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.8162
-- slug: 2026-09-24-oil-prices-fall-saudi-pipeline-restart-iran-talks
-  headline: Oil prices fall as Saudi pipeline restarts and U.S.-Iran contacts continue
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7876
-- slug: 2026-09-17-brent-crude-falls-as-fed-lifts-rates-for-first-time-since-2023
-  headline: Brent crude falls as Fed lifts rates for first time since 2023
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7969
-- slug: 2026-09-15-oil-rises-as-saudi-pipeline-outage-and-houthi-gains-pressure-middle-east-supply
-  headline: Oil rises as Saudi pipeline outage and Houthi gains pressure Middle East supply
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7921
-- slug: 2026-09-14-oil-rises-as-saudi-pipeline-attack-and-houthi-gains-squeeze-exports
-  headline: Oil rises as Saudi pipeline attack and Houthi gains squeeze exports
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7843
-- slug: 2026-09-10-saudi-output-falls-23-as-opec-cuts-oil-demand-growth-forecast
-  headline: Saudi output falls 23% as OPEC cuts oil-demand growth forecast
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.7818
+  strength: 0.7934
 ---
-
 ## Oil prices fall as rising supply and U.S. inventories pressure the market
 
 **Subtype:** fact
