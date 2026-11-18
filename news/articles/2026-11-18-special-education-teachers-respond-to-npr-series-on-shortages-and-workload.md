@@ -1,9 +1,19 @@
 ---
 headline: Special education teachers respond to NPR series on shortages and workload
-secondary_headline: Educators describe IEP caseloads, staffing pressures and student progress
+secondary_headline: Educators describe IEP caseloads, staffing pressures and student
+  progress
 publish_date: '2026-11-18'
-lede: Special education teachers from Florida, California, South Carolina, Virginia and Utah responded to NPR’s reporting on educator shortages and workload. Their messages described student progress while detailing staffing gaps, legally required individualized education programs, long hours, burnout and physical or emotional strain. NPR’s education team plans to follow about a dozen special educators across the country during the school year and visit some in their classrooms.
-nut_graf: The audience responses place recruitment and retention challenges alongside daily work that can bring measurable student gains but also carries legal documentation, case management and emotional strain. Teachers cited support from colleagues and families, along with former students’ later outcomes, as significant parts of their work.
+lede: Special education teachers from Florida, California, South Carolina, Virginia
+  and Utah responded to NPR’s reporting on educator shortages and workload. Their
+  messages described student progress while detailing staffing gaps, legally required
+  individualized education programs, long hours, burnout and physical or emotional
+  strain. NPR’s education team plans to follow about a dozen special educators across
+  the country during the school year and visit some in their classrooms.
+nut_graf: The audience responses place recruitment and retention challenges alongside
+  daily work that can bring measurable student gains but also carries legal documentation,
+  case management and emotional strain. Teachers cited support from colleagues and
+  families, along with former students’ later outcomes, as significant parts of their
+  work.
 primary_entities:
 - NPR
 - United States
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +149,29 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-18-public-school-budgets-tighten-as-enrollment-falls-and-teacher-counts-rise
-  headline: Public school budgets tighten as enrollment falls and teacher counts rise
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6185
-- slug: 2026-10-07-federal-data-show-black-students-lose-over-four-times-as-many-school-days-to-sus
-  headline: Federal data show Black students lose over four times as many school days to suspension
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6229
 - slug: 2026-09-24-education-department-dismantling-has-potentially-increased-inefficiency-staff-te
-  headline: Education Department dismantling has potentially increased inefficiency, staff tell NPR
+  headline: Education Department dismantling has potentially increased inefficiency,
+    staff tell NPR
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6581
-- slug: 2026-09-25-nces-staffing-cut-to-12-as-us-reading-and-math-scores-hit-25-year-low
-  headline: NCES staffing cut to 12 as US reading and math scores hit 25-year low
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6343
-- slug: 2026-09-09-kelly-rogers-resigns-as-head-of-federal-special-education-office
-  headline: Kelly Rogers resigns as head of federal special education office
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6376
-- slug: 2026-09-08-teachers-gather-at-flight-93-memorial-to-plan-9-11-lessons
-  headline: Teachers gather at Flight 93 memorial to plan 9/11 lessons
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6316
+  strength: 0.656
 - slug: 2026-05-20-overworked-special-education-teachers-turn-to-ai-to-write-ieps
   headline: Overworked special education teachers turn to AI to write IEPs
   publish_date: '2026-05-20'
   relation: related
-  strength: 0.7099
+  strength: 0.7089
 - slug: 2026-05-21-education-dept-hires-for-student-aid-after-firing-thousands
   headline: Education Dept hires for student aid after firing thousands
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6643
-- slug: 2026-07-09-education-department-holds-private-call-with-disability-advocates-on-special-ed-
-  headline: Education Department holds private call with disability advocates on special ed move
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6332
-- slug: 2026-06-05-poll-most-teachers-say-ai-s-impact-on-schools-will-eclipse-the-internet
-  headline: 'Poll: Most teachers say AI''s impact on schools will eclipse the internet'
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6502
-- slug: 2026-06-19-law-students-petition-supreme-court-to-extend-workplace-protections-to-federal-c
-  headline: Law students petition Supreme Court to extend workplace protections to federal court employees
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6323
-- slug: 2026-05-10-california-s-first-teacher-apprenticeship-program-aims-to-cut-vacancies
-  headline: California’s first teacher apprenticeship program aims to cut vacancies
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6401
-- slug: 2026-02-12-san-francisco-parents-scramble-as-teachers-strike-leaves-50-000-students-out
-  headline: San Francisco parents scramble as teachers strike leaves 50,000 students out
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6493
+  strength: 0.663
 - slug: 2026-01-15-connecticut-special-ed-report-flags-staffing-gaps-dispute-flaws-despite-federal-
-  headline: Connecticut special ed report flags staffing gaps, dispute flaws despite federal compliance
+  headline: Connecticut special ed report flags staffing gaps, dispute flaws despite
+    federal compliance
   publish_date: '2026-01-15'
   relation: related
-  strength: 0.6507
-- slug: 2026-02-11-san-francisco-teachers-strike-shuts-schools-affecting-50-000-students
-  headline: San Francisco Teachers Strike Shuts Schools, Affecting 50,000 Students
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6483
-- slug: 2026-06-04-school-screen-bans-risk-isolating-millions-of-students-with-disabilities
-  headline: School screen bans risk isolating millions of students with disabilities
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.625
-- slug: 2026-01-24-five-michigan-universities-collaborate-on-teacher-shortage
-  headline: Five Michigan universities collaborate on teacher shortage
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.6482
-- slug: 2026-02-10-san-francisco-parents-juggle-work-and-kids-amid-teachers-strike
-  headline: San Francisco parents juggle work and kids amid teachers strike
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6464
-- slug: 2026-02-13-hawaii-lawmakers-debate-letting-unlicensed-teachers-work-longer
-  headline: Hawaii lawmakers debate letting unlicensed teachers work longer
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6374
-- slug: 2026-04-18-trump-s-dyslexia-remarks-stir-anguish-among-people-with-learning-disability
-  headline: Trump's dyslexia remarks stir anguish among people with learning disability
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6242
+  strength: 0.6505
 ---
-
 ## Special education teachers respond to NPR series on shortages and workload
 
 **Subtype:** fact

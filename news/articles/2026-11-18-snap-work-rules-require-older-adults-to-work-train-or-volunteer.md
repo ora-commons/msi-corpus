@@ -2,8 +2,16 @@
 headline: SNAP work rules require older adults to work, train or volunteer
 secondary_headline: Mission of Love reports rising need as benefit requirements expand
 publish_date: '2026-11-18'
-lede: Lisa Reese retired at 62 to care for relatives in Maryland, but a federal work requirement ties her $63 in monthly SNAP food aid to 80 hours of work, training or volunteering each month. Changes signed by President Trump last year expanded the rules to adults ages 55 to 64. Reese now volunteers at a local charity while she and her daughter seek a way to replace the benefits before Medicaid’s rules take effect next year.
-nut_graf: Reese’s case places the expanded requirements in the context of retirement, caregiving and health limitations. Maryland has eased enrollment and connected benefit cutoffs to job assistance, but local case workers and a nonprofit operator say recipients still face administrative hurdles and a difficult labor market.
+lede: Lisa Reese retired at 62 to care for relatives in Maryland, but a federal work
+  requirement ties her $63 in monthly SNAP food aid to 80 hours of work, training
+  or volunteering each month. Changes signed by President Trump last year expanded
+  the rules to adults ages 55 to 64. Reese now volunteers at a local charity while
+  she and her daughter seek a way to replace the benefits before Medicaid’s rules
+  take effect next year.
+nut_graf: Reese’s case places the expanded requirements in the context of retirement,
+  caregiving and health limitations. Maryland has eased enrollment and connected benefit
+  cutoffs to job assistance, but local case workers and a nonprofit operator say recipients
+  still face administrative hurdles and a difficult labor market.
 primary_entities:
 - Lisa Reese
 - SNAP
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +156,44 @@ related_stories:
   headline: Ohio prepares for Medicaid work rules as federal law phases in
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6845
+  strength: 0.6853
 - slug: 2026-11-17-indiana-reviews-whether-to-delay-medicaid-work-rule-enforcement
   headline: Indiana reviews whether to delay Medicaid work-rule enforcement
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6618
-- slug: 2026-11-13-cms-lets-states-delay-medicaid-work-requirement-enforcement-until-july
-  headline: CMS lets states delay Medicaid work requirement enforcement until July
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6467
-- slug: 2026-11-13-cms-creates-optional-hold-harmless-period-for-medicaid-work-rule
-  headline: CMS creates optional hold harmless period for Medicaid work rule
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6463
-- slug: 2026-11-11-trump-administration-proposal-could-end-snap-eligibility-for-6-3-million-people
-  headline: Trump administration proposal could end SNAP eligibility for 6.3 million people
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6473
+  strength: 0.6632
 - slug: 2026-10-25-snap-enrollment-drops-13-after-trump-administration-work-requirements
   headline: SNAP enrollment drops 13% after Trump administration work requirements
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.7271
-- slug: 2026-11-09-nebraska-medicaid-work-rules-bring-denials-amid-dispute-over-patient-s-coverage
-  headline: Nebraska Medicaid work rules bring denials amid dispute over patient's coverage
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6375
-- slug: 2026-10-29-judge-blocks-stricter-medicaid-exemption-rule-for-chronically-ill
-  headline: Judge blocks stricter Medicaid exemption rule for chronically ill
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6406
+  strength: 0.7269
 - slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
   headline: SNAP enrollment falls almost 13% as new federal requirements take hold
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6906
-- slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.641
+  strength: 0.6904
 - slug: 2026-09-24-senior-poverty-rate-rises-for-fifth-straight-year-aarp-foundation-finds
   headline: Senior poverty rate rises for fifth straight year, AARP Foundation finds
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6592
+  strength: 0.6595
 - slug: 2026-09-19-cdc-reports-us-adults-produce-consumption-rises-with-income
   headline: CDC reports US adults' produce consumption rises with income
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.6569
+  strength: 0.657
 - slug: 2026-08-21-snap-enrollment-falls-more-than-13-as-trump-bill-changes-take-hold
   headline: SNAP enrollment falls more than 13% as Trump bill changes take hold
   publish_date: '2026-08-21'
   relation: related
-  strength: 0.6625
+  strength: 0.6621
 - slug: 2025-12-29-work-requirements-for-snap-medicaid-and-hud-benefits-a-state-by-state-impact
-  headline: 'Work requirements for SNAP, Medicaid and HUD benefits: a state-by-state impact'
+  headline: 'Work requirements for SNAP, Medicaid and HUD benefits: a state-by-state
+    impact'
   publish_date: '2025-12-29'
   relation: related
-  strength: 0.7483
-- slug: 2025-12-30-trump-era-work-rules-could-change-snap-medicaid-and-hud-housing-eligibility
-  headline: Trump-era work rules could change SNAP, Medicaid and HUD housing eligibility
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7474
-- slug: 2026-08-04-federal-medicaid-work-rule-excludes-homelessness-as-automatic-exemption
-  headline: Federal Medicaid work rule excludes homelessness as automatic exemption
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6548
-- slug: 2026-06-01-trump-administration-imposes-80-hour-monthly-work-requirement-for-medicaid
-  headline: Trump administration imposes 80-hour monthly work requirement for Medicaid
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6936
-- slug: 2026-05-02-fact-check-4-3-million-fewer-snap-recipients-tied-to-new-work-rules
-  headline: 'Fact check: 4.3 million fewer SNAP recipients tied to new work rules'
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.685
-- slug: 2026-01-08-states-weigh-medicaid-snap-and-taxes-after-trump-s-sweeping-law
-  headline: States weigh Medicaid, SNAP and taxes after Trump’s sweeping law
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6861
-- slug: 2026-02-19-paid-leave-for-caregivers-gains-momentum-as-us-population-ages
-  headline: Paid leave for caregivers gains momentum as US population ages
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6627
+  strength: 0.7489
 ---
-
 ## SNAP work rules require older adults to work, train or volunteer
 
 **Subtype:** fact

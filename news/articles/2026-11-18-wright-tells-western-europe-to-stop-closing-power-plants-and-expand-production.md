@@ -2,8 +2,14 @@
 headline: Wright tells Western Europe to stop closing power plants and expand production
 secondary_headline: 'Wright: Poland is a gateway for American LNG into the region'
 publish_date: '2026-11-18'
-lede: U.S. Energy Secretary Chris Wright urged Western European countries on Wednesday to stop closing power plants in pursuit of lower carbon emissions and instead expand energy production. Speaking in Warsaw, Wright called the shift fundamental to the continent’s economic and national security.
-nut_graf: The appeal came as Europe weaned itself off Russian gas, liquefied natural gas agreements gained prominence in recent years and nuclear energy rose on the agenda this year, at a Warsaw conference focused on improving U.S. energy cooperation with Central, Eastern and southeastern Europe.
+lede: U.S. Energy Secretary Chris Wright urged Western European countries on Wednesday
+  to stop closing power plants in pursuit of lower carbon emissions and instead expand
+  energy production. Speaking in Warsaw, Wright called the shift fundamental to the
+  continent’s economic and national security.
+nut_graf: The appeal came as Europe weaned itself off Russian gas, liquefied natural
+  gas agreements gained prominence in recent years and nuclear energy rose on the
+  agenda this year, at a Warsaw conference focused on improving U.S. energy cooperation
+  with Central, Eastern and southeastern Europe.
 primary_entities:
 - Chris Wright
 - Milosz Motyka
@@ -45,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +150,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-13-cop31-electrification-pledge-draws-calls-for-mining-safeguards
-  headline: COP31 electrification pledge draws calls for mining safeguards
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6406
-- slug: 2026-11-13-guterres-urges-drastic-emissions-cuts-at-final-climate-summit
-  headline: Guterres urges drastic emissions cuts at final climate summit
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6372
-- slug: 2026-11-14-zelenskyy-warns-us-floated-european-security-framework-risks-weakening-nato
-  headline: Zelenskyy warns US-floated European security framework risks weakening NATO
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6184
-- slug: 2026-11-10-china-s-clean-tech-exports-surpassed-220-billion-in-2025
-  headline: China's clean-tech exports surpassed $220 billion in 2025
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6436
-- slug: 2026-11-12-turkey-rallies-world-leaders-behind-goal-to-electrify-35-of-energy-use-by-2035
-  headline: Turkey rallies world leaders behind goal to electrify 35% of energy use by 2035
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.625
-- slug: 2026-11-09-outdated-power-grids-threaten-renewable-energy-expansion
-  headline: Outdated power grids threaten renewable energy expansion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6418
-- slug: 2026-11-09-kurum-s-action-agenda-centers-on-electrification
-  headline: Kurum's Action Agenda centers on electrification
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6298
-- slug: 2026-11-09-studied-hyperscale-data-centers-collectively-used-68-to-99-terawatt-hours-a-year
-  headline: Studied hyperscale data centers collectively used 68 to 99 terawatt hours a year
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6176
 - slug: 2026-11-02-united-states-links-russian-gas-plan-via-ukraine-to-energy-ceasefire
   headline: United States links Russian gas plan via Ukraine to energy ceasefire
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.658
-- slug: 2026-11-06-un-climate-talks-open-in-turkey-with-fossil-fuel-transition-as-key-issue
-  headline: UN climate talks open in Turkey with fossil fuel transition as key issue
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6327
-- slug: 2026-10-12-zelenskyy-threatens-retaliation-as-russian-strikes-hit-ukraine-power-grid
-  headline: Zelenskyy threatens retaliation as Russian strikes hit Ukraine power grid
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6197
-- slug: 2026-09-21-world-leaders-at-climate-week-link-fossil-fuels-to-wars-and-economic-risk
-  headline: World leaders at Climate Week link fossil fuels to wars and economic risk
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6423
-- slug: 2026-09-23-wright-outlines-voluntary-diesel-export-restrictions-over-ban
-  headline: Wright outlines voluntary diesel export restrictions over ban
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6307
-- slug: 2026-09-18-latvia-s-president-warns-nato-falling-behind-ukraine-drone-warfare
-  headline: Latvia's president warns NATO falling behind Ukraine drone warfare
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6179
-- slug: 2026-08-24-eu-uk-and-canada-pare-back-climate-goals-amid-energy-costs
-  headline: EU, UK and Canada pare back climate goals amid energy costs
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6407
+  strength: 0.6561
 - slug: 2026-07-28-western-powers-launch-at-least-24-projects-to-reshore-explosives-production
   headline: Western powers launch at least 24 projects to reshore explosives production
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.674
-- slug: 2026-07-07-nato-allies-race-to-replace-withdrawn-u-s-military-capabilities
-  headline: NATO allies race to replace withdrawn U.S. military capabilities
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6363
-- slug: 2026-06-21-germany-debates-slowing-coal-phase-out-as-gas-prices-surge
-  headline: Germany debates slowing coal phase-out as gas prices surge
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6315
-- slug: 2026-05-18-poland-withdraws-from-antipersonnel-mine-ban-to-defend-against-russia
-  headline: Poland withdraws from antipersonnel mine ban to defend against Russia
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6406
+  strength: 0.6716
 - slug: 2026-02-11-us-energy-secretary-visits-venezuela-to-assess-oil-overhaul-signals-shifting-san
-  headline: US energy secretary visits Venezuela to assess oil overhaul, signals shifting sanctions
+  headline: US energy secretary visits Venezuela to assess oil overhaul, signals shifting
+    sanctions
   publish_date: '2026-02-11'
   relation: related
-  strength: 0.6555
+  strength: 0.656
 ---
-
 ## Wright tells Western Europe to stop closing power plants and expand production
 
 **Subtype:** fact
