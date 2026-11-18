@@ -59,10 +59,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -199,3 +201,9 @@ Shannon Airport is an international gateway in western Ireland and a hub for Ame
 **Publication date:** 2026-11-17
 **Title:** US charges Irish man with destroying an American military plane at Shannon Airport
 **URL:** https://apnews.com/article/us-military-ireland-plane-destroyed-c130-2604e884805eabccacf30104fcf74e40
+
+### src_late_62d4f8b8b1364b64 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-18
+**Title:** Man accused of destroying US military plane at Shannon airport in Ireland
+**URL:** https://www.theguardian.com/us-news/2026/nov/18/man-accused-of-destroying-us-military-plane-at-shannon-airport-in-ireland
+**Added after publication:** true

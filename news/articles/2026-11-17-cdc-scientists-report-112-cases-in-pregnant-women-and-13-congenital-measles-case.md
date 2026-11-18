@@ -1,9 +1,20 @@
 ---
-headline: CDC scientists report 112 cases in pregnant women and 13 congenital measles cases
-secondary_headline: Eight live births were preterm, and eight newborns needed neonatal intensive care
+headline: CDC scientists report 112 cases in pregnant women and 13 congenital measles
+  cases
+secondary_headline: Eight live births were preterm, and eight newborns needed neonatal
+  intensive care
 publish_date: '2026-11-17'
-lede: Scientists with the federal Centers for Disease Control and Prevention documented 112 confirmed measles cases among pregnant women in the United States and 13 congenital cases from Jan. 1, 2025, through Sept. 28, 2026, in a public-health alert published Monday in NEJM Evidence. Among pregnancy cases with reported outcomes, 19 women had live births and two lost their pregnancies, the alert said. Six of the 13 newborns with congenital measles developed measles-related symptoms, including one infant with symptoms associated with a life-threatening brain-swelling condition.
-nut_graf: The alert urged health systems and clinicians to prepare for pregnant women and infants with measles, particularly in communities with high shares of unvaccinated people. Eight of the live births were preterm and eight newborns were admitted to a neonatal intensive care unit, the alert said.
+lede: Scientists with the federal Centers for Disease Control and Prevention documented
+  112 confirmed measles cases among pregnant women in the United States and 13 congenital
+  cases from Jan. 1, 2025, through Sept. 28, 2026, in a public-health alert published
+  Monday in NEJM Evidence. Among pregnancy cases with reported outcomes, 19 women
+  had live births and two lost their pregnancies, the alert said. Six of the 13 newborns
+  with congenital measles developed measles-related symptoms, including one infant
+  with symptoms associated with a life-threatening brain-swelling condition.
+nut_graf: The alert urged health systems and clinicians to prepare for pregnant women
+  and infants with measles, particularly in communities with high shares of unvaccinated
+  people. Eight of the live births were preterm and eight newborns were admitted to
+  a neonatal intensive care unit, the alert said.
 primary_entities:
 - Centers for Disease Control and Prevention
 - NEJM Evidence
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +161,45 @@ related_stories:
   headline: Preliminary CDC figures show 13 congenital measles cases among newborns
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8455
+  strength: 0.8464
 - slug: 2026-11-17-some-experts-say-no-kennedy-or-cdc-measles-briefing-is-scheduled
   headline: Some experts say no Kennedy or CDC measles briefing is scheduled
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7243
+  strength: 0.726
 - slug: 2026-11-17-u-s-measles-cases-top-5-400-so-far-this-year-largely-driven-by-pennsylvania
   headline: U.S. measles cases top 5,400 so far this year, largely driven by Pennsylvania
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7124
+  strength: 0.7131
 - slug: 2026-11-12-us-measles-deaths-reach-twice-the-2025-total-in-largest-outbreak-since-1991
-  headline: US measles deaths reach twice the 2025 total in largest outbreak since 1991
+  headline: US measles deaths reach twice the 2025 total in largest outbreak since
+    1991
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6985
+  strength: 0.6986
 - slug: 2026-11-14-pan-american-health-organization-says-us-has-lost-measles-elimination-status
-  headline: Pan American Health Organization says US has lost measles elimination status
+  headline: Pan American Health Organization says US has lost measles elimination
+    status
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.6793
+  strength: 0.6808
 - slug: 2026-11-13-us-measles-cases-push-nation-toward-losing-elimination-status
   headline: US measles cases push nation toward losing elimination status
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6854
+  strength: 0.6857
 - slug: 2026-11-13-paho-panel-weighs-us-mexico-measles-elimination-status
   headline: PAHO panel weighs US, Mexico measles elimination status
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6754
+  strength: 0.6768
 - slug: 2026-10-24-cdc-adds-178-us-measles-cases-as-death-tallies-diverge
   headline: CDC adds 178 US measles cases as death tallies diverge
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.7501
-- slug: 2026-11-03-robert-f-kennedy-jr-cuts-childhood-immunization-recommendations-by-a-third
-  headline: Robert F Kennedy Jr cuts childhood immunization recommendations by a third
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6838
-- slug: 2026-10-25-cdc-finds-96-of-2026-measles-patients-were-unvaccinated-or-had-unknown-status
-  headline: CDC finds 96% of 2026 measles patients were unvaccinated or had unknown status
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.7166
-- slug: 2026-10-22-cdc-adds-a-third-measles-death-without-identifying-the-state
-  headline: CDC adds a third measles death without identifying the state
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6796
-- slug: 2026-10-13-pennsylvania-reports-sixth-measles-death-as-state-cases-top-1-100
-  headline: Pennsylvania reports sixth measles death as state cases top 1,100
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7034
-- slug: 2026-09-22-cdc-dashboard-still-excludes-four-pennsylvania-measles-deaths
-  headline: CDC dashboard still excludes four Pennsylvania measles deaths
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7318
-- slug: 2026-10-07-pennsylvania-measles-outbreak-tops-1-000-cases-largest-in-us-since-1991
-  headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6752
-- slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
-  headline: Annual US measles count exceeds 1991 levels as second death confirmed
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6991
-- slug: 2026-09-13-jefferson-county-reports-first-adult-measles-death-in-pennsylvania-outbreak
-  headline: Jefferson County reports first adult measles death in Pennsylvania outbreak
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7231
-- slug: 2026-09-13-u-s-measles-cases-reach-3-924-highest-in-three-decades
-  headline: U.S. measles cases reach 3,924, highest in three decades
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7155
-- slug: 2026-08-31-cdc-excludes-two-pennsylvania-measles-deaths-from-national-count
-  headline: CDC excludes two Pennsylvania measles deaths from national count
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6819
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6849
-- slug: 2026-07-24-us-measles-tally-passes-2025-record-with-months-still-to-go
-  headline: US measles tally passes 2025 record with months still to go
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7144
+  strength: 0.7491
 ---
-
 ## CDC scientists report 112 cases in pregnant women and 13 congenital measles cases
 
 **Subtype:** fact
