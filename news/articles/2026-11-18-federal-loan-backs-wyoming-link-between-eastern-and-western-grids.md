@@ -2,8 +2,14 @@
 headline: Federal loan backs Wyoming link between eastern and western grids
 secondary_headline: Project targets a 2030 construction start after regulatory approvals
 publish_date: '2026-11-18'
-lede: The U.S. Department of Energy announced Tuesday that it is backing Grid United’s $4 billion Wyoming Intertie with a conditional $2.8 billion loan. The planned 106-mile high-voltage project would connect the eastern and western electric grids, with construction expected to begin in 2030.
-nut_graf: The intertie could give grid operators more flexibility as electricity demand rises and operators respond to outages or extreme weather. The projected consumer savings remain estimates, and Grid United still needs land rights and approval from county, state and federal bodies before construction.
+lede: The U.S. Department of Energy announced Tuesday that it is backing Grid United’s
+  $4 billion Wyoming Intertie with a conditional $2.8 billion loan. The planned 106-mile
+  high-voltage project would connect the eastern and western electric grids, with
+  construction expected to begin in 2030.
+nut_graf: The intertie could give grid operators more flexibility as electricity demand
+  rises and operators respond to outages or extreme weather. The projected consumer
+  savings remain estimates, and Grid United still needs land rights and approval from
+  county, state and federal bodies before construction.
 primary_entities:
 - U.S. Department of Energy
 - Grid United
@@ -44,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +153,30 @@ related_stories:
   headline: Wyoming regulators investigate Rocky Mountain Power over large power requests
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6592
-- slug: 2026-11-09-outdated-power-grids-threaten-renewable-energy-expansion
-  headline: Outdated power grids threaten renewable energy expansion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6176
-- slug: 2026-11-02-property-owners-challenge-utility-plans-amid-data-center-demand-growth
-  headline: Property owners challenge utility plans amid data-center demand growth
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6131
+  strength: 0.6589
 - slug: 2026-10-21-dte-energy-seeks-approval-for-two-gas-plants-amid-michigan-datacenter-growth
-  headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter growth
+  headline: DTE Energy seeks approval for two gas plants amid Michigan datacenter
+    growth
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6579
-- slug: 2026-09-02-energy-department-authorizes-pjm-to-direct-backup-generation
-  headline: Energy Department authorizes PJM to direct backup generation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6343
-- slug: 2026-09-08-duane-arnold-restart-advances-on-1-9-billion-doe-loan
-  headline: Duane Arnold restart advances on $1.9 billion DOE loan
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6166
+  strength: 0.6581
 - slug: 2026-06-23-u-s-offers-17-5-billion-in-low-interest-loans-to-revive-nuclear-reactor-construc
-  headline: U.S. Offers $17.5 Billion in Low-Interest Loans to Revive Nuclear Reactor Construction
+  headline: U.S. Offers $17.5 Billion in Low-Interest Loans to Revive Nuclear Reactor
+    Construction
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6626
+  strength: 0.662
 - slug: 2026-02-26-feds-announce-26-5b-loan-for-georgia-and-alabama-utilities
   headline: Feds announce $26.5B loan for Georgia and Alabama utilities
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.6879
-- slug: 2026-04-15-hawaiian-electric-flood-zone-issue-clouds-waiau-power-project-loan-plans
-  headline: Hawaiian Electric flood-zone issue clouds Waiau power project loan plans
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6493
-- slug: 2026-07-02-record-58-5-gw-of-new-power-added-but-grid-faces-five-alarm-fire
-  headline: Record 58.5 GW of new power added, but grid faces 'five-alarm fire'
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6137
-- slug: 2026-05-19-new-england-grid-operator-forecasts-9-electricity-demand-growth-over-next-decade
-  headline: New England grid operator forecasts 9% electricity demand growth over next decade
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.634
+  strength: 0.6896
 - slug: 2026-01-16-trump-and-governors-press-pjm-on-ai-era-power-shortages-and-bill-spikes
   headline: Trump and governors press PJM on AI-era power shortages and bill spikes
   publish_date: '2026-01-16'
   relation: related
-  strength: 0.6504
-- slug: 2026-04-14-wyoming-s-rocky-mountain-power-says-no-new-wind-or-solar-planned-through-2045
-  headline: Wyoming’s Rocky Mountain Power says no new wind or solar planned through 2045
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6356
-- slug: 2026-06-09-wyoming-s-data-center-boom-fuels-backlash-over-man-camp-housing-for-5-600-worker
-  headline: Wyoming’s data-center boom fuels backlash over ‘man camp’ housing for 5,600 workers
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6174
-- slug: 2026-05-19-new-england-grid-operator-forecasts-modest-electricity-demand-growth
-  headline: New England grid operator forecasts modest electricity demand growth
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6211
-- slug: 2026-01-29-hundreds-of-miles-of-new-transmission-lines-planned-in-michigan
-  headline: Hundreds of miles of new transmission lines planned in Michigan
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6306
-- slug: 2026-05-21-pennsylvania-can-move-ahead-with-700m-broadband-expansion-after-federal-wage-dis
-  headline: Pennsylvania can move ahead with $700M broadband expansion after federal wage-dispute reversal
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.609
-- slug: 2026-03-08-ai-data-centers-drive-high-voltage-transmission-expansion-as-landowners-fight-ba
-  headline: AI data centers drive high-voltage transmission expansion as landowners fight back
-  publish_date: '2026-03-08'
-  relation: related
-  strength: 0.6153
-- slug: 2026-04-17-wyoming-communities-ask-for-time-as-federal-nuclear-push-meets-waste-storage-deb
-  headline: Wyoming communities ask for time as federal nuclear push meets waste storage debate
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6073
-- slug: 2026-04-04-regulators-seek-public-input-for-massive-montana-wyoming-oil-pipeline-proposal
-  headline: Regulators seek public input for massive Montana-Wyoming oil pipeline proposal
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.608
+  strength: 0.6505
 ---
-
 ## Federal loan backs Wyoming link between eastern and western grids
 
 **Subtype:** fact

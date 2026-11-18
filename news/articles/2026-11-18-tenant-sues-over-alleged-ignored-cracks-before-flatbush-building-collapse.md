@@ -2,8 +2,15 @@
 headline: Tenant sues over alleged ignored cracks before Flatbush building collapse
 secondary_headline: Records show 98 housing violations dating to 1972
 publish_date: '2026-11-18'
-lede: A Brooklyn apartment building on Flatbush Avenue collapsed into an active neighboring construction site on November 11, killing eight people, including two children, and injuring several others. Dengane Omari Jack, 48, sued his landlord and multiple construction companies, alleging that he reported visible cracks before the collapse and that his concerns were dismissed. Investigators have not established the cause.
-nut_graf: The lawsuit places the landlord's and construction companies' response to pre-collapse warnings and neighboring excavation before a court as authorities investigate both the building and adjacent work. The allegations remain unresolved, while city records show 98 housing violations dating to 1972.
+lede: A Brooklyn apartment building on Flatbush Avenue collapsed into an active neighboring
+  construction site on November 11, killing eight people, including two children,
+  and injuring several others. Dengane Omari Jack, 48, sued his landlord and multiple
+  construction companies, alleging that he reported visible cracks before the collapse
+  and that his concerns were dismissed. Investigators have not established the cause.
+nut_graf: The lawsuit places the landlord's and construction companies' response to
+  pre-collapse warnings and neighboring excavation before a court as authorities investigate
+  both the building and adjacent work. The allegations remain unresolved, while city
+  records show 98 housing violations dating to 1972.
 primary_entities:
 - Dengane Omari Jack
 - Flatbush Avenue
@@ -45,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,113 +155,57 @@ related_stories:
   headline: Rescue crews search Brooklyn collapse rubble as death toll rises to eight
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7906
+  strength: 0.7896
 - slug: 2026-11-12-apartment-building-collapse-kills-at-least-eight-in-brooklyn-s-flatbush
   headline: Apartment building collapse kills at least eight in Brooklyn's Flatbush
   publish_date: '2026-11-12'
   relation: related
   strength: 0.7891
 - slug: 2026-11-12-brooklyn-building-collapse-kills-eight-injures-18-next-to-construction-site
-  headline: Brooklyn building collapse kills eight, injures 18 next to construction site
+  headline: Brooklyn building collapse kills eight, injures 18 next to construction
+    site
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.778
+  strength: 0.7768
 - slug: 2026-11-13-eight-die-in-brooklyn-building-collapse-as-city-widens-probe
   headline: Eight die in Brooklyn building collapse as city widens probe
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7627
+  strength: 0.7615
 - slug: 2026-11-13-officials-call-for-more-building-inspectors-after-brooklyn-collapse
   headline: Officials call for more building inspectors after Brooklyn collapse
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7523
+  strength: 0.7515
 - slug: 2026-11-13-search-ends-at-brooklyn-collapse-site-as-officials-name-eight-victims
   headline: Search ends at Brooklyn collapse site as officials name eight victims
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7437
+  strength: 0.7428
 - slug: 2026-11-12-flatbush-neighbours-describe-fear-and-grief-after-brooklyn-building-collapse
   headline: Flatbush neighbours describe fear and grief after Brooklyn building collapse
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.749
+  strength: 0.7484
 - slug: 2026-11-12-brooklyn-building-collapse-kills-at-least-two-injures-more-than-17
   headline: Brooklyn building collapse kills at least two, injures more than 17
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7299
-- slug: 2026-11-12-wall-that-fell-onto-construction-site-prompted-brooklyn-emergency-call
-  headline: Wall that fell onto construction site prompted Brooklyn emergency call
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7258
-- slug: 2026-11-11-brooklyn-building-collapse-kills-at-least-2-leaves-others-trapped-in-rubble
-  headline: Brooklyn building collapse kills at least 2, leaves others trapped in rubble
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7319
-- slug: 2026-11-11-brooklyn-building-collapse-kills-1-leaves-at-least-4-in-critical-condition
-  headline: Brooklyn building collapse kills 1, leaves at least 4 in critical condition
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7266
-- slug: 2026-11-12-brooklyn-collapse-victim-identified-as-ecuadoran-immigrant-and-sole-provider
-  headline: Brooklyn collapse victim identified as Ecuadoran immigrant and sole provider
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6854
-- slug: 2026-11-12-rescuers-dig-for-survivors-after-brooklyn-building-collapse-kills-five
-  headline: Rescuers dig for survivors after Brooklyn building collapse kills five
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6591
-- slug: 2026-11-15-cat-found-alive-and-reunited-with-teen-owner-after-brooklyn-collapse
-  headline: Cat found alive and reunited with teen owner after Brooklyn collapse
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.615
-- slug: 2026-11-05-crews-reportedly-found-two-floors-engulfed-in-brooklyn-fire
-  headline: Crews reportedly found two floors engulfed in Brooklyn fire
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6006
-- slug: 2026-09-26-athens-apartment-collapse-kills-six-after-morning-explosion
-  headline: Athens apartment collapse kills six after morning explosion
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6327
-- slug: 2026-09-16-war-damaged-gaza-building-collapses-killing-at-least-21-people
-  headline: War-damaged Gaza building collapses, killing at least 21 people
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6466
-- slug: 2026-07-11-nyc-watchdog-opens-inquiry-into-buckling-midtown-high-rise
-  headline: NYC watchdog opens inquiry into buckling Midtown high-rise
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6136
-- slug: 2026-05-18-gas-explosion-kills-1-injures-14-in-bronx-apartment-building
-  headline: Gas explosion kills 1, injures 14 in Bronx apartment building
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6143
-- slug: 2026-03-15-nairobi-building-collapses-during-planned-demolition-officials-say
-  headline: Nairobi building collapses during planned demolition, officials say
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6208
+  strength: 0.7296
 image:
   url: /articles/2026-11-18-tenant-sues-over-alleged-ignored-cracks-before-flatbush-building-collapse.png
-  alt: "Illustration accompanying article: Tenant sues over alleged ignored cracks before Flatbush building collapse"
+  alt: 'Illustration accompanying article: Tenant sues over alleged ignored cracks
+    before Flatbush building collapse'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Tenant sues over alleged ignored cracks before Flatbush building collapse
 
 **Subtype:** fact
