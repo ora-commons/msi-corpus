@@ -1,9 +1,20 @@
 ---
-headline: Democratic lawmakers seek records over Lutnick’s role in Nvidia and family ties
+headline: Democratic lawmakers seek records over Lutnick’s role in Nvidia and family
+  ties
 secondary_headline: Cantor Fitzgerald denies influencing US export-control decisions
 publish_date: '2026-11-18'
-lede: Three Democratic lawmakers on key congressional committees put questions to Commerce Secretary Howard Lutnick on Tuesday and requested documents from his family’s investment firm, Cantor Fitzgerald, about Nvidia-related government decisions. The lawmakers said Cantor held Nvidia shares worth hundreds of millions of dollars while Lutnick helped make decisions affecting the company’s ability to operate. Cantor Fitzgerald disputed the allegations and said its holdings arose primarily from client equity swaps.
-nut_graf: The congressional inquiry places Lutnick’s family finances and Commerce Department decisions on advanced-chip exports under scrutiny. The lawmakers say they want the records to determine whether client ties affected policy, and both Lutnick and Nvidia CEO Jensen Huang are scheduled to testify before Congress next month.
+lede: Three Democratic lawmakers on key congressional committees put questions to
+  Commerce Secretary Howard Lutnick on Tuesday and requested documents from his family’s
+  investment firm, Cantor Fitzgerald, about Nvidia-related government decisions. The
+  lawmakers said Cantor held Nvidia shares worth hundreds of millions of dollars while
+  Lutnick helped make decisions affecting the company’s ability to operate. Cantor
+  Fitzgerald disputed the allegations and said its holdings arose primarily from client
+  equity swaps.
+nut_graf: The congressional inquiry places Lutnick’s family finances and Commerce
+  Department decisions on advanced-chip exports under scrutiny. The lawmakers say
+  they want the records to determine whether client ties affected policy, and both
+  Lutnick and Nvidia CEO Jensen Huang are scheduled to testify before Congress next
+  month.
 primary_entities:
 - Nvidia
 - Howard Lutnick
@@ -43,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,107 +154,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-13-democrats-open-investigation-into-commerce-department-s-nvidia-export-plans
-  headline: Democrats open investigation into Commerce Department's Nvidia export plans
+  headline: Democrats open investigation into Commerce Department's Nvidia export
+    plans
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7773
+  strength: 0.7765
 - slug: 2026-11-12-white-house-advisers-blame-commerce-secretary-lutnick-for-nvidia-fallout
   headline: White House advisers blame Commerce Secretary Lutnick for Nvidia fallout
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7691
+  strength: 0.7683
 - slug: 2026-11-13-lawmakers-ask-when-lutnick-learned-of-huang-s-contact-with-suspected-chinese-ass
-  headline: Lawmakers ask when Lutnick learned of Huang's contact with suspected Chinese asset
+  headline: Lawmakers ask when Lutnick learned of Huang's contact with suspected Chinese
+    asset
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7565
+  strength: 0.7562
 - slug: 2026-11-12-warren-and-coons-ask-trump-administration-to-preserve-nvidia-chip-export-records
-  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export records
+  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export
+    records
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7589
+  strength: 0.7587
 - slug: 2026-11-13-white-house-faces-questions-over-commerce-s-nvidia-chip-oversight
   headline: White House faces questions over Commerce's Nvidia chip oversight
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7367
+  strength: 0.7364
 - slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
   headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7351
+  strength: 0.7341
 - slug: 2026-11-13-treasury-secretary-faults-commerce-over-nvidia-chip-exports-to-china
   headline: Treasury secretary faults Commerce over Nvidia chip exports to China
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7227
+  strength: 0.722
 - slug: 2026-11-13-treasury-secretary-faults-commerce-department-over-nvidia-chip-controls
   headline: Treasury secretary faults Commerce Department over Nvidia chip controls
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7124
-- slug: 2026-11-17-us-moves-to-tighten-chip-rules-after-megaspeed-facilitated-about-12bn-in-sales-v
-  headline: US moves to tighten chip rules after Megaspeed facilitated about $12bn in sales violating controls
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6845
-- slug: 2026-11-14-former-nsc-official-says-lutnick-did-not-enforce-chip-export-rules
-  headline: Former NSC official says Lutnick did not enforce chip export rules
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7046
-- slug: 2026-11-14-congress-seizes-on-nvidia-scandal-to-press-for-tighter-china-chip-export-curbs
-  headline: Congress seizes on Nvidia scandal to press for tighter China chip export curbs
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6999
-- slug: 2026-11-16-commerce-proposes-license-rule-for-chip-exports-to-five-countries
-  headline: Commerce proposes license rule for chip exports to five countries
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6705
-- slug: 2026-11-13-bessent-says-agencies-wanted-megaspeed-on-export-control-list-for-months
-  headline: Bessent says agencies wanted Megaspeed on export-control list for months
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6848
-- slug: 2026-11-13-johnson-says-congress-nears-consensus-on-tighter-china-chip-controls
-  headline: Johnson says Congress nears consensus on tighter China chip controls
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6703
-- slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
-  headline: Nvidia inquiry draws top Republican demands for answers
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6937
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6714
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6952
-- slug: 2026-11-11-nvidia-hires-law-firm-over-jensen-huang-s-reported-affair-with-alleged-chinese-s
-  headline: Nvidia hires law firm over Jensen Huang's reported affair with alleged Chinese spy
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6748
-- slug: 2026-11-10-people-familiar-say-justice-department-takes-megaspeed-probe-after-nvidia-outrea
-  headline: People familiar say Justice Department takes Megaspeed probe after Nvidia outreach
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6811
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6774
+  strength: 0.7117
 ---
-
 ## Democratic lawmakers seek records over Lutnick’s role in Nvidia and family ties
 
 **Subtype:** fact

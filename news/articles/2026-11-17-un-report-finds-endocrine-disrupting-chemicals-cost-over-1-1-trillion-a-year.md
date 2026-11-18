@@ -178,6 +178,8 @@ related_stories:
   publish_date: '2026-01-05'
   relation: related
   strength: 0.6571
+analyses:
+- '2026-11-17-un-report-sharpens-global-plastics-treaty-debate-over-converting-evidence-into-c'
 ---
 ## UN report finds endocrine-disrupting chemicals cost over $1.1 trillion a year
 
@@ -228,3 +230,8 @@ Bethanie Carney Almroth, the U.N. Special Rapporteur on toxics and human rights 
 **Publication date:** 2026-11-17
 **Title:** UN report: Chemicals in many everyday items pose a growing threat
 **URL:** https://apnews.com/article/endocrine-disrupting-chemicals-plastics-health-7833c2bd2881fe7ec5793fefbde327ee
+
+---
+
+<!-- analysis-link:2026-11-17-un-report-sharpens-global-plastics-treaty-debate-over-converting-evidence-into-c -->
+**Going deeper:** [Read MSI's analysis of endocrine chemicals and the plastics treaty →](/analyses/2026-11-17-un-report-sharpens-global-plastics-treaty-debate-over-converting-evidence-into-c)

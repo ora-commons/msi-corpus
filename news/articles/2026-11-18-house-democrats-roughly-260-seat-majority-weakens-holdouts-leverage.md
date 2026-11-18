@@ -1,9 +1,21 @@
 ---
 headline: House Democrats' roughly 260-seat majority weakens holdouts' leverage
-secondary_headline: Seven incoming freshmen cite policy progress as conversations continue
+secondary_headline: Seven incoming freshmen cite policy progress as conversations
+  continue
 publish_date: '2026-11-18'
-lede: The Wall Street Journal reported that House Democrats are set to hold about 260 seats next year, the party’s largest majority since the 1990s, leaving blocs including the socialists with less leverage within the House. It would take defections of more than 40 House Democrats to block Hakeem Jeffries in the early-January full House vote for speaker. Seven of the 11 House Democrats who opposed Jeffries in Wednesday’s closed-door nomination were incoming House freshmen; they said there had been “meaningful progress” on several policy issues, including Medicare for All, while the “conversations are ongoing.”
-nut_graf: Jeffries has made high costs his main focus, outlining plans to move quickly on legislation to reverse cuts to Medicaid and Supplemental Nutrition Assistance Program benefits and extend enhanced Affordable Care Act tax credits that lapsed last year. The wide Democratic margin gives him a better chance of avoiding intraparty standoffs, while the seven freshmen said their policy conversations were ongoing.
+lede: The Wall Street Journal reported that House Democrats are set to hold about
+  260 seats next year, the party’s largest majority since the 1990s, leaving blocs
+  including the socialists with less leverage within the House. It would take defections
+  of more than 40 House Democrats to block Hakeem Jeffries in the early-January full
+  House vote for speaker. Seven of the 11 House Democrats who opposed Jeffries in
+  Wednesday’s closed-door nomination were incoming House freshmen; they said there
+  had been “meaningful progress” on several policy issues, including Medicare for
+  All, while the “conversations are ongoing.”
+nut_graf: Jeffries has made high costs his main focus, outlining plans to move quickly
+  on legislation to reverse cuts to Medicaid and Supplemental Nutrition Assistance
+  Program benefits and extend enhanced Affordable Care Act tax credits that lapsed
+  last year. The wide Democratic margin gives him a better chance of avoiding intraparty
+  standoffs, while the seven freshmen said their policy conversations were ongoing.
 primary_entities:
 - Hakeem Jeffries
 - Jim Clyburn
@@ -39,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,19 +154,20 @@ related_stories:
   headline: House Democrats nominate Hakeem Jeffries for speaker in 251-11 vote
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8284
+  strength: 0.8291
 - slug: 2026-11-18-hakeem-jeffries-faces-left-wing-holdouts-before-speaker-vote
   headline: Hakeem Jeffries faces left-wing holdouts before Speaker vote
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8234
+  strength: 0.8239
 - slug: 2026-11-18-hakeem-jeffries-wins-house-democratic-nomination-for-speaker
   headline: Hakeem Jeffries wins House Democratic nomination for speaker
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8148
+  strength: 0.8152
 - slug: 2026-11-08-jeffries-faces-divided-democrats-atop-largest-house-majority-since-obama-s-first
-  headline: Jeffries faces divided Democrats atop largest House majority since Obama's first year
+  headline: Jeffries faces divided Democrats atop largest House majority since Obama's
+    first year
   publish_date: '2026-11-08'
   relation: related
   strength: 0.8448
@@ -161,84 +175,24 @@ related_stories:
   headline: Hakeem Jeffries seeks recorded House Democratic vote on speaker
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7689
+  strength: 0.7696
 - slug: 2026-11-17-house-democrats-prepare-closed-door-vote-for-jeffries-clark-and-aguilar
   headline: House Democrats prepare closed-door vote for Jeffries, Clark and Aguilar
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7526
+  strength: 0.7528
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7804
+  strength: 0.7811
 - slug: 2026-11-14-democrats-head-into-new-congress-denying-a-moderate-progressive-rift
   headline: Democrats head into new Congress denying a moderate-progressive rift
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7152
-- slug: 2026-11-04-hakeem-jeffries-expected-to-win-historic-house-speakership
-  headline: Hakeem Jeffries expected to win historic House speakership
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.77
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7586
-- slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
-  headline: Tom Emmer wins House Republican whip race over August Pfluger
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7194
-- slug: 2026-11-09-democrats-prepare-affordability-agenda-after-the-midterm-win
-  headline: Democrats prepare affordability agenda after the midterm win
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7236
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7496
-- slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
-  headline: Democratic leaders weigh oversight and legislation after 2026 midterms
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7238
-- slug: 2026-11-09-casar-says-caucus-will-push-bills-on-wages-housing-costs-and-child-care
-  headline: Casar says caucus will push bills on wages, housing costs and child care
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.714
-- slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
-  headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7204
-- slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
-  headline: Democrats poised for House control as midterm election results begin
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7311
-- slug: 2026-11-04-house-republicans-scheduled-to-pick-new-leader-nov-10-after-johnson-s-departure
-  headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7188
-- slug: 2026-11-04-democrats-flip-a-senate-seat-and-a-house-seat-in-early-returns
-  headline: Democrats flip a Senate seat and a House seat in early returns
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7093
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7932
+  strength: 0.7154
 ---
-
 ## House Democrats' roughly 260-seat majority weakens holdouts' leverage
 
 **Subtype:** fact
