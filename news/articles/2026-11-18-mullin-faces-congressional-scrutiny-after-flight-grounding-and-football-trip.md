@@ -1,9 +1,18 @@
 ---
-headline: Mullin faces congressional scrutiny after flight grounding and football trip
+headline: Mullin faces congressional scrutiny after flight grounding and football
+  trip
 secondary_headline: Jay Clayton's late addition could ease pressure at Wednesday hearing
 publish_date: '2026-11-18'
-lede: Homeland Security Secretary Markwayne Mullin will testify before Congress on Wednesday alongside Director of National Intelligence Jay Clayton about threats facing the United States, after his explanation of a flight-grounding disruption and a Texas college-football trip drew scrutiny. Transportation Secretary Sean Duffy said the root cause of the flight problem remained under investigation.
-nut_graf: The testimony gives lawmakers a forum to examine the government's explanation for Friday's grounding while the cause remains under investigation. Mullin also faces questions about his trip to the Texas game as travelers continued to deal with the disruption and conspiracy theories about a string of glitches circulated on social media.
+lede: Homeland Security Secretary Markwayne Mullin will testify before Congress on
+  Wednesday alongside Director of National Intelligence Jay Clayton about threats
+  facing the United States, after his explanation of a flight-grounding disruption
+  and a Texas college-football trip drew scrutiny. Transportation Secretary Sean Duffy
+  said the root cause of the flight problem remained under investigation.
+nut_graf: The testimony gives lawmakers a forum to examine the government's explanation
+  for Friday's grounding while the cause remains under investigation. Mullin also
+  faces questions about his trip to the Texas game as travelers continued to deal
+  with the disruption and conspiracy theories about a string of glitches circulated
+  on social media.
 primary_entities:
 - Markwayne Mullin
 - Jay Clayton
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +152,45 @@ related_stories:
   headline: Duffy and Mullin draw criticism over FAA ground-stop explanation
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7795
+  strength: 0.7807
 - slug: 2026-11-13-mullin-says-no-indication-faa-ground-stop-was-a-threat-to-us
   headline: Mullin says no indication FAA ground stop was a threat to US
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7862
+  strength: 0.7855
 - slug: 2026-11-13-dhs-secretary-says-no-threat-to-u-s-as-faa-grounds-all-flights
   headline: DHS secretary says no threat to U.S. as FAA grounds all flights
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7767
+  strength: 0.7786
 - slug: 2026-11-15-duffy-takes-case-to-five-tv-networks-after-making-the-grounding-call
   headline: Duffy takes case to five TV networks after making the grounding call
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7261
+  strength: 0.7293
 - slug: 2026-11-14-u-s-flight-cancellations-reach-more-than-4-100-after-ground-stop
   headline: U.S. flight cancellations reach more than 4,100 after ground stop
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7072
+  strength: 0.7078
 - slug: 2026-11-14-airlines-cancel-thousands-of-flights-after-longest-us-ground-stop-in-25-years
-  headline: Airlines cancel thousands of flights after longest US ground stop in 25 years
+  headline: Airlines cancel thousands of flights after longest US ground stop in 25
+    years
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7036
+  strength: 0.7032
 - slug: 2026-11-15-ground-stop-microsoft-outage-leave-travelers-doubting-official-accounts
   headline: Ground stop, Microsoft outage leave travelers doubting official accounts
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.6945
-- slug: 2026-11-17-trump-faces-pressure-to-explain-wave-of-service-outages
-  headline: Trump faces pressure to explain wave of service outages
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6798
+  strength: 0.6946
 - slug: 2026-11-14-duffy-demands-50-billion-for-faa-after-disruption-grounds-thousands-of-flights
-  headline: Duffy demands $50 billion for FAA after disruption grounds thousands of flights
+  headline: Duffy demands $50 billion for FAA after disruption grounds thousands of
+    flights
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.6985
-- slug: 2026-11-15-duffy-seeks-50-billion-for-faa-upgrades-after-nationwide-ground-stop
-  headline: Duffy seeks $50 billion for FAA upgrades after nationwide ground stop
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6915
-- slug: 2026-11-15-airlines-cancel-more-than-2-300-flights-as-disruptions-expected-to-last-into-mon
-  headline: Airlines cancel more than 2,300 flights as disruptions expected to last into Monday
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6881
-- slug: 2026-11-13-faa-lifts-nationwide-ground-stop-after-telecom-failure
-  headline: FAA lifts nationwide ground stop after telecom failure
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6982
-- slug: 2026-11-16-duffy-says-router-in-arkansas-flooded-network-root-cause-unresolved
-  headline: Duffy says router in Arkansas flooded network; root cause unresolved
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6745
-- slug: 2026-11-13-arroyo-says-nationwide-air-traffic-outage-could-stem-from-obsolete-technology
-  headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6933
-- slug: 2026-11-16-trump-blames-congress-for-aviation-funding-democrats-cite-unspent-billions
-  headline: Trump blames Congress for aviation funding; Democrats cite unspent billions
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6728
-- slug: 2026-11-16-trump-blames-old-air-traffic-equipment-and-biden-for-friday-grounding
-  headline: Trump blames old air traffic equipment and Biden for Friday grounding
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6707
-- slug: 2026-11-13-faa-grounds-all-flights-nationwide-over-control-center-communications-issue
-  headline: FAA grounds all flights nationwide over control-center communications issue
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6894
-- slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
-  headline: Trump grows frustrated with Homeland Security Secretary Mullin
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.698
-- slug: 2026-05-23-travel-industry-condemns-mullin-plan-to-pull-customs-officers-from-sanctuary-air
-  headline: Travel industry condemns Mullin plan to pull customs officers from sanctuary airports
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7006
-- slug: 2026-03-24-mullin-confirmed-as-homeland-security-secretary-amid-tsa-funding-impasse
-  headline: Mullin Confirmed as Homeland Security Secretary Amid TSA Funding Impasse
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7137
+  strength: 0.701
 ---
-
 ## Mullin faces congressional scrutiny after flight grounding and football trip
 
 **Subtype:** fact

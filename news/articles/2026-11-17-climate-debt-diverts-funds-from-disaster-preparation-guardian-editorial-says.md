@@ -188,6 +188,8 @@ related_stories:
   publish_date: '2026-09-16'
   relation: related
   strength: 0.6757
+analyses:
+- '2026-11-17-debt-service-constrains-nepal-as-cop31-weighs-collective-climate-bargaining'
 ---
 ## Climate debt diverts funds from disaster preparation, Guardian editorial says
 
@@ -229,3 +231,8 @@ The Guardian connected those proposals to the half-century-old push by developin
 **Publication date:** 2026-11-17
 **Title:** The Guardian view on climate debt: a vicious cycle the world must break at Cop31 | Editorial
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-climate-debt-a-vicious-cycle-the-world-must-break-at-cop31
+
+---
+
+<!-- analysis-link:2026-11-17-debt-service-constrains-nepal-as-cop31-weighs-collective-climate-bargaining -->
+**Going deeper:** [Read MSI's analysis of climate debt and COP31 bargaining →](/analyses/2026-11-17-debt-service-constrains-nepal-as-cop31-weighs-collective-climate-bargaining)

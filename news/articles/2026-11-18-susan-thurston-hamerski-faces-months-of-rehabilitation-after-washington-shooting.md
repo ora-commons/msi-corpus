@@ -1,9 +1,17 @@
 ---
-headline: Susan Thurston Hamerski faces months of rehabilitation after Washington shooting
+headline: Susan Thurston Hamerski faces months of rehabilitation after Washington
+  shooting
 secondary_headline: Fundraiser tops $210,000 for Hamerski’s medical expenses
 publish_date: '2026-11-18'
-lede: Susan Thurston Hamerski is recovering after a gunman shot her in the face during the 12 November mass shooting at a Washington DC condominium building in Logan Circle. According to her friends and family, the gunman killed one person, injured five others and evidently died by suicide. Hamerski survived after being brought to a hospital in critical condition.
-nut_graf: The shooting has placed months of rehabilitation and medical costs on Hamerski and her family while she remains a public advocate for federal gun control. Her family said the procedures require months of rehabilitative therapy, and a campaign supporting her expenses had raised more than $210,000 as of Tuesday.
+lede: Susan Thurston Hamerski is recovering after a gunman shot her in the face during
+  the 12 November mass shooting at a Washington DC condominium building in Logan Circle.
+  According to her friends and family, the gunman killed one person, injured five
+  others and evidently died by suicide. Hamerski survived after being brought to a
+  hospital in critical condition.
+nut_graf: The shooting has placed months of rehabilitation and medical costs on Hamerski
+  and her family while she remains a public advocate for federal gun control. Her
+  family said the procedures require months of rehabilitative therapy, and a campaign
+  supporting her expenses had raised more than $210,000 as of Tuesday.
 primary_entities:
 - Susan Thurston Hamerski
 - Moms Demand Action for Gun Sense in America
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,118 +150,21 @@ cross_article_links:
   strength: 0.5643
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-12-police-say-gunman-fired-at-officers-at-least-twice-one-victim-critical
-  headline: Police say gunman fired at officers at least twice; one victim critical
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6409
-- slug: 2026-11-12-five-shot-one-fatally-in-washington-s-logan-circle-suspect-kills-himself
-  headline: Five shot, one fatally, in Washington's Logan Circle; suspect kills himself
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6262
-- slug: 2026-11-12-five-people-shot-in-logan-circle-suspect-barricaded
-  headline: Five people shot in Washington's Logan Circle; suspect barricaded, police say
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6116
-- slug: 2026-11-13-doctor-confessed-to-dc-gym-shooting-over-apartment-dispute-manager-says
-  headline: Doctor confessed to DC gym shooting over apartment dispute, manager says
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6048
-- slug: 2026-11-12-multiple-people-shot-in-logan-circle-area-of-washington-dc-police-say
-  headline: Multiple people shot in Logan Circle area of Washington DC, police say
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5877
-- slug: 2026-11-06-murphy-leaves-hospital-after-stroke-will-miss-several-weeks-of-senate-votes
-  headline: Murphy leaves hospital after stroke, will miss several weeks of Senate votes
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5754
-- slug: 2026-10-29-relatives-of-sandy-hook-victims-ask-supreme-court-to-preserve-rifle-bans
-  headline: Relatives of Sandy Hook victims ask Supreme Court to preserve rifle bans
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6014
-- slug: 2026-11-01-halloween-weekend-shootings-across-u-s-kill-at-least-six-injure-dozens
-  headline: Halloween weekend shootings across U.S. kill at least six, injure dozens
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.5771
-- slug: 2026-10-04-two-dead-in-georgia-block-party-shooting-12-year-old-girl-killed-in-baltimore
-  headline: Two dead in Georgia block-party shooting; 12-year-old girl killed in Baltimore
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.582
-- slug: 2026-10-04-two-killed-35-injured-in-georgia-block-party-mass-shooting
-  headline: Two killed, 35 injured in Georgia block-party mass shooting
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.5784
-- slug: 2026-09-21-house-democrats-propose-restitution-fund-for-epstein-survivors
-  headline: House Democrats propose restitution fund for Epstein survivors
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.5884
-- slug: 2026-09-17-memphis-prevention-programs-struggle-to-meet-teen-demand-after-federal-cuts
-  headline: Memphis prevention programs struggle to meet teen demand after federal cuts
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5757
-- slug: 2026-09-11-us-marks-9-11-anniversary-adds-silence-for-illness-victims
-  headline: US marks 9/11 anniversary, adds silence for illness victims
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5853
-- slug: 2026-08-30-trenton-shooting-kills-2-wounds-8-at-large-street-gathering
-  headline: Trenton shooting kills 2, wounds 8 at large street gathering
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5769
-- slug: 2026-08-27-minneapolis-releases-documents-from-2025-annunciation-church-shooting
-  headline: Minneapolis releases documents from 2025 Annunciation church shooting
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.5824
-- slug: 2026-06-20-at-least-12-shot-in-chicago-juneteenth-mass-shooting-police-say
-  headline: At least 12 shot in Chicago Juneteenth mass shooting, police say
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.5899
-- slug: 2026-01-08-giffords-returns-to-house-floor-15-years-after-tucson-assassination-attempt
-  headline: Giffords returns to House floor 15 years after Tucson assassination attempt
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.62
-- slug: 2026-07-05-coney-island-gunfire-on-west-31st-street-wounds-at-least-eight-including-four-ch
-  headline: Coney Island gunfire on West 31st Street wounds at least eight including four children, NYPD says
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.5763
-- slug: 2026-05-25-bystander-in-serious-condition-after-shooting-outside-white-house
-  headline: Bystander in serious condition after shooting outside White House
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5959
-- slug: 2026-06-21-at-least-seven-killed-in-chicago-shootings-as-trump-renews-military-call
-  headline: At least seven killed in Chicago shootings as Trump renews military call
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.5736
+related_stories: []
 image:
   url: /articles/2026-11-18-susan-thurston-hamerski-faces-months-of-rehabilitation-after-washington-shooting.png
-  alt: "Illustration accompanying article: Susan Thurston Hamerski faces months of rehabilitation after Washington shooting"
+  alt: 'Illustration accompanying article: Susan Thurston Hamerski faces months of
+    rehabilitation after Washington shooting'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Susan Thurston Hamerski faces months of rehabilitation after Washington shooting
 
 **Subtype:** fact

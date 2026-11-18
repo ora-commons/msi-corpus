@@ -1,9 +1,20 @@
 ---
 headline: Nvidia’s cloud backlog reaches $2.5 trillion with TSMC support
-secondary_headline: Rubin chips generated $20 billion in revenue during their first quarter of production shipments
+secondary_headline: Rubin chips generated $20 billion in revenue during their first
+  quarter of production shipments
 publish_date: '2026-11-18'
-lede: Nvidia said its backlog of sales to cloud-computing companies alone reached $2.5 trillion, up from $2 trillion three months earlier, as interim chief executive Colette Kress began leading the company. During Tuesday’s analyst call, Kress said TSMC leaders were in Nvidia’s offices that week and “fully engaged in helping us.” She also said Rubin-based chips generated $20 billion in revenue during their first quarter of production shipments.
-nut_graf: The $2.5 trillion cloud-computing sales backlog, $20 billion from Rubin’s initial production shipments and gross margins above 70% show the scale of Nvidia’s business under Kress. Her stated priorities include shareholder returns, supplier assistance and more selective credit support, while an SEC investigation, a new export-licensing requirement and expected shareholder lawsuits and congressional inquiries form the challenges she faces.
+lede: Nvidia said its backlog of sales to cloud-computing companies alone reached
+  $2.5 trillion, up from $2 trillion three months earlier, as interim chief executive
+  Colette Kress began leading the company. During Tuesday’s analyst call, Kress said
+  TSMC leaders were in Nvidia’s offices that week and “fully engaged in helping us.”
+  She also said Rubin-based chips generated $20 billion in revenue during their first
+  quarter of production shipments.
+nut_graf: The $2.5 trillion cloud-computing sales backlog, $20 billion from Rubin’s
+  initial production shipments and gross margins above 70% show the scale of Nvidia’s
+  business under Kress. Her stated priorities include shareholder returns, supplier
+  assistance and more selective credit support, while an SEC investigation, a new
+  export-licensing requirement and expected shareholder lawsuits and congressional
+  inquiries form the challenges she faces.
 primary_entities:
 - Nvidia
 - Colette Kress
@@ -49,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +163,45 @@ related_stories:
   headline: Nvidia posts record results as board rules out Jensen Huang’s return
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8105
+  strength: 0.8123
 - slug: 2026-11-17-nvidia-beats-estimates-and-raises-guidance-after-jensen-huang-s-resignation
   headline: Nvidia beats estimates and raises guidance after Jensen Huang’s resignation
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8017
+  strength: 0.8027
 - slug: 2026-11-16-nvidia-s-china-chip-workarounds-appear-close-to-closing-after-huang-s-exit
-  headline: Nvidia's China chip workarounds appear close to closing after Huang's exit
+  headline: Nvidia's China chip workarounds appear close to closing after Huang's
+    exit
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7767
+  strength: 0.7787
 - slug: 2026-11-17-colette-kress-faces-first-nvidia-earnings-call-after-huang-s-ouster
   headline: Colette Kress faces first Nvidia earnings call after Huang’s ouster
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7646
+  strength: 0.7653
 - slug: 2026-11-17-colette-kress-says-nvidia-growth-remains-on-track-after-huang-s-exit
   headline: Colette Kress says Nvidia growth remains on track after Huang's exit
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.758
+  strength: 0.7582
 - slug: 2026-11-17-nvidia-s-ai-supercomputers-make-about-20-billion-in-its-fastest-launch
   headline: Nvidia's AI supercomputers make about $20 billion in its fastest launch
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7401
+  strength: 0.7412
 - slug: 2026-11-16-nvidia-board-won-t-consider-huang-s-return-as-ceo-source-says
   headline: Nvidia board won't consider Huang's return as CEO, source says
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7424
+  strength: 0.7431
 - slug: 2026-11-17-us-moves-to-tighten-chip-rules-after-megaspeed-facilitated-about-12bn-in-sales-v
-  headline: US moves to tighten chip rules after Megaspeed facilitated about $12bn in sales violating controls
+  headline: US moves to tighten chip rules after Megaspeed facilitated about $12bn
+    in sales violating controls
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7304
-- slug: 2026-11-18-goldman-sachs-expects-ai-investment-to-exceed-1-trillion-in-2026
-  headline: Goldman Sachs expects AI investment to exceed $1 trillion in 2026
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7124
-- slug: 2026-11-12-nvidia-begins-search-for-new-ceo-after-jensen-huang-resigns
-  headline: Nvidia begins search for new CEO after Jensen Huang resigns
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7531
-- slug: 2026-11-13-nvidia-chairman-voices-full-confidence-in-kress-as-shares-slide
-  headline: Nvidia chairman voices 'full confidence' in Kress as shares slide
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7425
-- slug: 2026-11-17-nvidia-forms-board-committee-on-security-and-export-controls
-  headline: Nvidia forms board committee on security and export controls
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7117
-- slug: 2026-11-13-rival-chipmakers-gain-as-huang-departure-rattles-nvidia
-  headline: Rival chipmakers gain as Huang departure rattles Nvidia
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7365
-- slug: 2026-11-16-more-than-158-000-signatories-call-for-nvidia-to-reinstate-huang
-  headline: More than 158,000 signatories call for Nvidia to reinstate Huang
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7156
-- slug: 2026-11-13-huang-privately-called-kress-a-deer-in-the-headlights-as-she-takes-over
-  headline: Huang privately called Kress 'a deer in the headlights' as she takes over
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7292
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-cfo-colette-kress-named-interim-chief
-  headline: Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim chief
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7321
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
-  headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7276
-- slug: 2026-11-12-nvidia-names-cfo-colette-kress-interim-ceo-after-jensen-huang-resigns
-  headline: Nvidia names CFO Colette Kress interim CEO after Jensen Huang resigns
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7257
-- slug: 2026-11-12-trump-recommends-tim-cook-for-nvidia-ceo-drawing-criticism-from-jeffries
-  headline: Trump recommends Tim Cook for Nvidia CEO, drawing criticism from Jeffries
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7244
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
-  headline: Jensen Huang resigns as Nvidia CEO after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7169
+  strength: 0.7319
 ---
-
 ## Nvidia’s cloud backlog reaches $2.5 trillion with TSMC support
 
 **Subtype:** fact
