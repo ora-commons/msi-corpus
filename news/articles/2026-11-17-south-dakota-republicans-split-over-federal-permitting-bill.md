@@ -2,8 +2,18 @@
 headline: South Dakota Republicans split over federal permitting bill
 secondary_headline: Letter raises concerns over tribal sovereignty and state permitting
 publish_date: '2026-11-17'
-lede: Fifty South Dakota lawmakers and lawmakers-elect urged Republican U.S. senators John Thune and Mike Rounds on Monday to oppose the Bipartisan American Affordability and Jobs Act. The proposal would streamline federal reviews for power plants, transmission lines and pipelines and require data centers to cover electrical infrastructure costs. The dispute has split Republican state lawmakers, while Rounds and Thune voted differently on a procedural advance; the bill passed 73-25 and awaits a final Senate vote.
-nut_graf: The letter urged Republican U.S. Sens. John Thune and Mike Rounds to oppose the bill, citing environmental protections, tribal sovereignty and local control; separately, South Dakota Public Utilities Commission Chair Chris Nelson raised concerns about state permitting authority and federal eminent-domain power as the bill awaits a final Senate vote.
+lede: Fifty South Dakota lawmakers and lawmakers-elect urged Republican U.S. senators
+  John Thune and Mike Rounds on Monday to oppose the Bipartisan American Affordability
+  and Jobs Act. The proposal would streamline federal reviews for power plants, transmission
+  lines and pipelines and require data centers to cover electrical infrastructure
+  costs. The dispute has split Republican state lawmakers, while Rounds and Thune
+  voted differently on a procedural advance; the bill passed 73-25 and awaits a final
+  Senate vote.
+nut_graf: The letter urged Republican U.S. Sens. John Thune and Mike Rounds to oppose
+  the bill, citing environmental protections, tribal sovereignty and local control;
+  separately, South Dakota Public Utilities Commission Chair Chris Nelson raised concerns
+  about state permitting authority and federal eminent-domain power as the bill awaits
+  a final Senate vote.
 primary_entities:
 - South Dakota
 - John Thune
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +154,44 @@ related_stories:
   headline: Senate advances permitting reform amendment toward final vote
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7428
+  strength: 0.7432
 - slug: 2026-11-17-tribal-leaders-challenge-senate-permitting-bill-over-public-land-protections
   headline: Tribal leaders challenge Senate permitting bill over public-land protections
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7017
+  strength: 0.7024
 - slug: 2026-11-16-al-gore-urges-lawmakers-to-rethink-baaja-permitting-bill
   headline: Al Gore urges lawmakers to rethink Baaja permitting bill
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6707
+  strength: 0.6712
 - slug: 2026-11-05-senate-nears-vote-on-bipartisan-energy-permitting-overhaul
   headline: Senate nears vote on bipartisan energy permitting overhaul
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7375
+  strength: 0.7387
 - slug: 2026-11-10-senate-takes-up-infrastructure-permitting-overhaul
   headline: Senate takes up infrastructure permitting overhaul
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.698
+  strength: 0.699
 - slug: 2026-11-09-senate-prepares-procedural-vote-on-bipartisan-energy-permitting-bill
   headline: Senate prepares procedural vote on bipartisan energy permitting bill
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6845
-- slug: 2026-11-13-senate-advances-permitting-overhaul-to-speed-federal-project-approvals
-  headline: Senate advances permitting overhaul to speed federal project approvals
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6344
+  strength: 0.6853
 - slug: 2026-11-09-baaja-would-narrow-nepa-review-and-tribal-consultation-as-emissions-models-diver
-  headline: Baaja would narrow NEPA review and tribal consultation as emissions models diverge
+  headline: Baaja would narrow NEPA review and tribal consultation as emissions models
+    diverge
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6543
-- slug: 2026-11-09-permitting-deal-could-ease-energy-prices-through-added-supply
-  headline: Permitting deal could ease energy prices through added supply
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6331
+  strength: 0.6551
 - slug: 2026-10-20-former-trump-biden-and-obama-officials-push-permitting-reform
   headline: Former Trump, Biden and Obama officials push permitting reform
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7108
-- slug: 2026-09-30-bipartisan-senators-introduce-bill-to-speed-federal-energy-permitting
-  headline: Bipartisan senators introduce bill to speed federal energy permitting
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7662
-- slug: 2026-10-26-candidates-in-four-states-seek-tighter-data-center-approval-rules
-  headline: Candidates in four states seek tighter data-center approval rules
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6386
-- slug: 2026-10-26-some-thune-allies-fear-blame-if-republicans-lose-their-53-47-senate-majority
-  headline: Some Thune allies fear blame if Republicans lose their 53-47 Senate majority
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6311
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.625
-- slug: 2026-09-27-advocates-allege-datacenter-developers-split-emissions-to-avoid-epa-review
-  headline: Advocates allege datacenter developers split emissions to avoid EPA review
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6627
-- slug: 2026-10-07-bipartisan-house-pair-seeks-pledges-to-accept-midterm-results
-  headline: Bipartisan House pair seeks pledges to accept midterm results
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6261
-- slug: 2026-09-30-gop-s-last-ditch-affordability-push-falls-short-as-polls-signal-chamber-jeopardy
-  headline: GOP's last-ditch affordability push falls short as polls signal chamber jeopardy
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.627
-- slug: 2026-05-08-southern-republicans-press-ahead-with-election-year-redistricting
-  headline: Southern Republicans press ahead with election-year redistricting
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6381
-- slug: 2026-05-20-south-carolina-house-passes-gop-leaning-congressional-map-after-midnight
-  headline: South Carolina House passes GOP-leaning congressional map after midnight
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.63
-- slug: 2026-05-19-south-carolina-house-approves-gop-leaning-congressional-map-senate-next
-  headline: South Carolina House approves GOP-leaning congressional map, Senate next
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6283
+  strength: 0.7111
 ---
-
 ## South Dakota Republicans split over federal permitting bill
 
 **Subtype:** fact
