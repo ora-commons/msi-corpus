@@ -1,9 +1,20 @@
 ---
 headline: Duffy and Mullin draw criticism over FAA ground-stop explanation
-secondary_headline: Duffy seeks $50 billion for FAA upgrades; Mullin defends Louisiana flight
+secondary_headline: Duffy seeks $50 billion for FAA upgrades; Mullin defends Louisiana
+  flight
 publish_date: '2026-11-18'
-lede: Democratic lawmakers and some prominent conservatives criticized Transportation Secretary Sean Duffy and Homeland Security Secretary Markwayne Mullin’s attempts to explain the abrupt and unusual nationwide ground stop that delayed flights across the country. Former Department of Homeland Security official Brian Harrell said the official answers were insufficient. Separately, Duffy sought $50 billion at the Capitol to update FAA technology, while Mullin defended a government-plane trip to a Louisiana college-football game one day after the ground stop.
-nut_graf: The political dispute centers on the explanations offered for the FAA ground stop and the administration’s response to separate outages affecting communications, financial transactions, airline operations and government systems. The disagreement unfolded alongside a $50 billion technology request, scrutiny of Mullin’s travel and viral claims that the disruptions were coordinated cyberattacks.
+lede: Democratic lawmakers and some prominent conservatives criticized Transportation
+  Secretary Sean Duffy and Homeland Security Secretary Markwayne Mullin’s attempts
+  to explain the abrupt and unusual nationwide ground stop that delayed flights across
+  the country. Former Department of Homeland Security official Brian Harrell said
+  the official answers were insufficient. Separately, Duffy sought $50 billion at
+  the Capitol to update FAA technology, while Mullin defended a government-plane trip
+  to a Louisiana college-football game one day after the ground stop.
+nut_graf: The political dispute centers on the explanations offered for the FAA ground
+  stop and the administration’s response to separate outages affecting communications,
+  financial transactions, airline operations and government systems. The disagreement
+  unfolded alongside a $50 billion technology request, scrutiny of Mullin’s travel
+  and viral claims that the disruptions were coordinated cyberattacks.
 primary_entities:
 - Sean Duffy
 - Markwayne Mullin
@@ -53,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +167,43 @@ related_stories:
   headline: Duffy seeks $50 billion for FAA upgrades after nationwide ground stop
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.8076
+  strength: 0.8079
 - slug: 2026-11-13-dhs-secretary-says-no-threat-to-u-s-as-faa-grounds-all-flights
   headline: DHS secretary says no threat to U.S. as FAA grounds all flights
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8061
-- slug: 2026-11-13-mullin-says-no-indication-faa-ground-stop-was-a-threat-to-us
-  headline: Mullin says no indication FAA ground stop was a threat to US
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8042
+  strength: 0.8074
 - slug: 2026-11-15-trump-ties-air-traffic-control-funding-request-to-weekend-ground-stop
   headline: Trump ties air traffic control funding request to weekend ground stop
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7904
+  strength: 0.7925
+- slug: 2026-11-13-mullin-says-no-indication-faa-ground-stop-was-a-threat-to-us
+  headline: Mullin says no indication FAA ground stop was a threat to US
+  publish_date: '2026-11-13'
+  relation: related
+  strength: 0.8047
 - slug: 2026-11-16-nationwide-grounding-intensifies-scrutiny-of-faa-s-aging-system
   headline: Nationwide grounding intensifies scrutiny of FAA's aging system
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.78
+  strength: 0.7818
 - slug: 2026-11-15-duffy-takes-case-to-five-tv-networks-after-making-the-grounding-call
   headline: Duffy takes case to five TV networks after making the grounding call
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7865
-- slug: 2026-11-17-jack-reed-questions-faa-contractor-oversight-as-duffy-seeks-50-billion
-  headline: Jack Reed questions FAA contractor oversight as Duffy seeks $50 billion
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7706
+  strength: 0.7876
 - slug: 2026-11-16-trump-blames-congress-for-aviation-funding-democrats-cite-unspent-billions
   headline: Trump blames Congress for aviation funding; Democrats cite unspent billions
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7757
-- slug: 2026-11-14-duffy-demands-50-billion-for-faa-after-disruption-grounds-thousands-of-flights
-  headline: Duffy demands $50 billion for FAA after disruption grounds thousands of flights
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7848
-- slug: 2026-11-14-airlines-cancel-thousands-of-flights-after-longest-us-ground-stop-in-25-years
-  headline: Airlines cancel thousands of flights after longest US ground stop in 25 years
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7771
-- slug: 2026-11-13-faa-lifts-nationwide-ground-stop-after-telecom-failure
-  headline: FAA lifts nationwide ground stop after telecom failure
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7787
-- slug: 2026-11-17-trump-administration-seeks-50-billion-for-air-traffic-control-overhaul
-  headline: Trump administration seeks $50 billion for air traffic control overhaul
+  strength: 0.7778
+- slug: 2026-11-17-jack-reed-questions-faa-contractor-oversight-as-duffy-seeks-50-billion
+  headline: Jack Reed questions FAA contractor oversight as Duffy seeks $50 billion
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7492
-- slug: 2026-11-14-u-s-flight-cancellations-reach-more-than-4-100-after-ground-stop
-  headline: U.S. flight cancellations reach more than 4,100 after ground stop
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7582
-- slug: 2026-11-16-duffy-says-router-in-arkansas-flooded-network-root-cause-unresolved
-  headline: Duffy says router in Arkansas flooded network; root cause unresolved
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7413
-- slug: 2026-11-16-trump-blames-old-air-traffic-equipment-and-biden-for-friday-grounding
-  headline: Trump blames old air traffic equipment and Biden for Friday grounding
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7374
-- slug: 2026-11-14-officials-say-overloaded-air-traffic-equipment-triggered-nationwide-ground-stop
-  headline: Officials say overloaded air traffic equipment triggered nationwide ground stop
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7509
-- slug: 2026-11-16-congress-has-funded-faa-modernization-at-14-4-billion-above-budget-requests
-  headline: Congress has funded FAA modernization at $14.4 billion, above budget requests
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7359
-- slug: 2026-11-14-officials-tie-nationwide-ground-stop-to-work-on-old-copper-wiring
-  headline: Officials tie nationwide ground stop to work on old copper wiring
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7472
-- slug: 2026-11-13-white-house-lobbies-congress-for-30-billion-to-finish-air-traffic-overhaul
-  headline: White House lobbies Congress for $30 billion to finish air traffic overhaul
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7519
-- slug: 2026-11-14-faa-lifts-its-longest-nationwide-ground-stop-since-9-11
-  headline: FAA lifts its longest nationwide ground stop since 9/11
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7421
+  strength: 0.7689
 ---
-
 ## Duffy and Mullin draw criticism over FAA ground-stop explanation
 
 **Subtype:** fact

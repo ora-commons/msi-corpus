@@ -1,9 +1,16 @@
 ---
 headline: White House ends Overton’s bid to lead FDA
-secondary_headline: Cassidy remained undecided before a scheduled Senate committee vote
+secondary_headline: Cassidy remained undecided before a scheduled Senate committee
+  vote
 publish_date: '2026-11-18'
-lede: The White House withdrew Heidi Overton’s nomination to lead the Food and Drug Administration, a White House official told The Guardian. The move came a day before a Senate health committee vote after Overton faced bipartisan questions about whether she would break from Trump on vaccine policy.
-nut_graf: Overton needed the votes of all 12 Republicans on the Senate health, education, labor and pensions committee to win confirmation, while Republican Sen. Bill Cassidy remained undecided before the scheduled vote. Republicans were racing to confirm Trump’s current nominees before Senate Democrats take power in January.
+lede: The White House withdrew Heidi Overton’s nomination to lead the Food and Drug
+  Administration, a White House official told The Guardian. The move came a day before
+  a Senate health committee vote after Overton faced bipartisan questions about whether
+  she would break from Trump on vaccine policy.
+nut_graf: Overton needed the votes of all 12 Republicans on the Senate health, education,
+  labor and pensions committee to win confirmation, while Republican Sen. Bill Cassidy
+  remained undecided before the scheduled vote. Republicans were racing to confirm
+  Trump’s current nominees before Senate Democrats take power in January.
 primary_entities:
 - United States
 - White House
@@ -48,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,113 +158,56 @@ related_stories:
   headline: White House weighs withdrawing Overton’s FDA nomination
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8546
+  strength: 0.8543
 - slug: 2026-10-28-hhs-policy-directs-fda-to-limit-enforcement-on-specialty-peptide-pharmacies
   headline: HHS policy directs FDA to limit enforcement on specialty peptide pharmacies
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.66
+  strength: 0.6586
 - slug: 2026-10-28-most-fda-scientists-reportedly-oppose-hhs-plan-to-ease-peptide-access
   headline: Most FDA scientists reportedly oppose HHS plan to ease peptide access
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6587
+  strength: 0.6574
 - slug: 2026-08-19-trump-selects-overton-to-lead-fda
   headline: Trump selects Overton to lead FDA
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.8356
+  strength: 0.8355
 - slug: 2026-09-24-overton-calls-mmr-vaccine-safe-and-effective-at-fda-confirmation-hearing
   headline: Overton calls MMR vaccine 'safe and effective' at FDA confirmation hearing
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7131
+  strength: 0.7127
 - slug: 2026-08-28-trump-picks-overton-to-lead-fda-amid-record-foodborne-outbreaks
   headline: Trump picks Overton to lead FDA amid record foodborne outbreaks
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7574
-- slug: 2026-09-29-white-house-resistance-stalls-kennedy-s-ultraprocessed-food-push
-  headline: White House resistance stalls Kennedy's ultraprocessed food push
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6502
-- slug: 2026-09-28-us-blocks-un-pandemic-preparedness-declaration-from-consensus-adoption
-  headline: US blocks UN pandemic preparedness declaration from consensus adoption
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.642
+  strength: 0.7575
 - slug: 2026-09-08-fda-names-permanent-directors-for-drug-vaccine-tobacco-centers
   headline: FDA names permanent directors for drug, vaccine, tobacco centers
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6578
+  strength: 0.6582
 - slug: 2026-05-13-marty-makary-is-out-as-trump-s-fda-chief-acting-role-goes-to-kyle-diamantas
   headline: Marty Makary is out as Trump’s FDA chief; acting role goes to Kyle Diamantas
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.6943
-- slug: 2026-07-23-senate-health-committee-delays-vote-on-cdc-nominee-erica-schwartz
-  headline: Senate health committee delays vote on CDC nominee Erica Schwartz
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6509
-- slug: 2026-07-28-trump-pushes-rfk-jr-to-probe-alleged-vaccine-autism-link-cut-child-shots
-  headline: Trump pushes RFK Jr. to probe alleged vaccine-autism link, cut child shots
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.644
-- slug: 2026-05-16-fda-removes-tracy-beth-hoeg-as-acting-drug-center-director
-  headline: FDA removes Tracy Beth Hoeg as acting drug center director
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6887
-- slug: 2026-05-16-fda-fires-acting-drug-center-director-amid-broader-shake-up
-  headline: FDA Fires Acting Drug Center Director Amid Broader Shake-Up
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6782
-- slug: 2026-05-14-makary-s-fda-resignation-widens-leadership-gap-at-hhs
-  headline: Makary’s FDA resignation widens leadership gap at HHS
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6693
-- slug: 2026-05-14-fda-commissioner-makary-resigns-widening-leadership-void-across-nation-s-health-
-  headline: FDA Commissioner Makary resigns, widening leadership void across nation's health agencies
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6629
-- slug: 2026-05-13-fda-commissioner-marty-makary-resigns-under-pressure-from-pharma-anti-abortion-v
-  headline: FDA Commissioner Marty Makary resigns under pressure from pharma, anti-abortion, vaping allies
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6561
-- slug: 2026-04-15-fda-to-weigh-easing-limits-on-unproven-peptides-favored-by-rfk-jr
-  headline: FDA to weigh easing limits on unproven peptides favored by RFK Jr.
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6613
-- slug: 2026-05-02-fda-nominee-marty-makary-faces-questions-on-abortion-pill-safety
-  headline: FDA nominee Marty Makary faces questions on abortion pill safety
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6556
-- slug: 2026-04-22-as-rfk-jr-faced-the-senate-sen-cassidy-weighed-vaccines-and-politics
-  headline: As RFK Jr. faced the Senate, Sen. Cassidy weighed vaccines and politics
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6542
+  strength: 0.6937
 image:
   url: /articles/2026-11-18-white-house-ends-overton-s-bid-to-lead-fda.png
-  alt: "Illustration accompanying article: White House ends Overton’s bid to lead FDA"
+  alt: 'Illustration accompanying article: White House ends Overton’s bid to lead
+    FDA'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## White House ends Overton’s bid to lead FDA
 
 **Subtype:** fact

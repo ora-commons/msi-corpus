@@ -1,9 +1,22 @@
 ---
-headline: Biden memoir 'Promise Me, America' debuts as stage 4 cancer limits his book tour
-secondary_headline: 'Ricchetti: midterms were ''a referendum in many ways'' on Trump''s first two years'
+headline: Biden memoir 'Promise Me, America' debuts as stage 4 cancer limits his book
+  tour
+secondary_headline: 'Ricchetti: midterms were ''a referendum in many ways'' on Trump''s
+  first two years'
 publish_date: '2026-11-17'
-lede: Joe Biden released “Promise Me, America,” a memoir of his White House years and his decision to seek reelection in 2024, on Nov. 17, 2026. Former counselor Steve Ricchetti said Biden is scaling back the traditional book tour because stage 4 cancer, diagnosed last May and since moved into his bones, causes pain and discomfort and affects his energy level, and Biden still takes heavy doses of medication to help manage the cancer. The memoir revisits the COVID pandemic, the Jan. 6 attack on the Capitol, major legislation and Biden's defense of his choice to run again.
-nut_graf: The memoir offers Biden's own account of his presidency and the campaign decision that ended his 2024 bid, while Ricchetti said stage 4 cancer limits the book tour he can undertake. Its release also gives Ricchetti a forum to defend Biden's choices and argue for bipartisan work on affordability after the midterms, which he said were, as it was, “a referendum in many ways” on Donald Trump's first two years in office.
+lede: Joe Biden released “Promise Me, America,” a memoir of his White House years
+  and his decision to seek reelection in 2024, on Nov. 17, 2026. Former counselor
+  Steve Ricchetti said Biden is scaling back the traditional book tour because stage
+  4 cancer, diagnosed last May and since moved into his bones, causes pain and discomfort
+  and affects his energy level, and Biden still takes heavy doses of medication to
+  help manage the cancer. The memoir revisits the COVID pandemic, the Jan. 6 attack
+  on the Capitol, major legislation and Biden's defense of his choice to run again.
+nut_graf: The memoir offers Biden's own account of his presidency and the campaign
+  decision that ended his 2024 bid, while Ricchetti said stage 4 cancer limits the
+  book tour he can undertake. Its release also gives Ricchetti a forum to defend Biden's
+  choices and argue for bipartisan work on affordability after the midterms, which
+  he said were, as it was, “a referendum in many ways” on Donald Trump's first two
+  years in office.
 primary_entities:
 - Joe Biden
 - Steve Ricchetti
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +157,45 @@ related_stories:
   headline: Biden scales back memoir tour as prostate cancer slows him down
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.845
+  strength: 0.8454
 - slug: 2026-11-13-in-new-memoir-biden-stands-by-his-2024-run-and-the-afghanistan-withdrawal
   headline: In new memoir, Biden stands by his 2024 run and the Afghanistan withdrawal
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8197
+  strength: 0.8205
 - slug: 2026-11-09-biden-memoir-excerpt-accuses-trump-of-leading-the-january-6-attack
   headline: Biden memoir excerpt accuses Trump of leading the January 6 attack
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7992
+  strength: 0.7996
 - slug: 2026-11-09-biden-s-memoir-says-doge-put-hundreds-of-thousands-out-of-work-without-touted-sa
-  headline: Biden's memoir says DOGE put hundreds of thousands out of work without touted savings
+  headline: Biden's memoir says DOGE put hundreds of thousands out of work without
+    touted savings
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.769
+  strength: 0.7693
 - slug: 2026-11-11-biden-says-he-would-not-have-sought-reelection-if-he-had-known-he-had-cancer
-  headline: Biden says he would not have sought reelection if he had known he had cancer
+  headline: Biden says he would not have sought reelection if he had known he had
+    cancer
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7335
+  strength: 0.7341
 - slug: 2026-11-09-lauren-bis-calls-biden-the-worst-president-in-american-history
   headline: Lauren Bis calls Biden the worst president in American history
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.714
+  strength: 0.7151
 - slug: 2026-11-10-trump-s-transition-letter-reveals-private-praise-for-biden
   headline: Trump's transition letter reveals private praise for Biden
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7018
+  strength: 0.7024
 - slug: 2026-07-15-biden-to-publish-memoir-promise-me-america-after-midterms
   headline: Biden to publish memoir 'Promise Me, America' after midterms
   publish_date: '2026-07-15'
   relation: related
   strength: 0.8459
-- slug: 2026-03-11-jill-biden-details-joe-biden-s-2024-reelection-exit-in-upcoming-memoir
-  headline: Jill Biden details Joe Biden’s 2024 reelection exit in upcoming memoir
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.7638
-- slug: 2026-03-10-jill-biden-opens-up-in-memoir-on-decision-to-end-2024-reelection-bid
-  headline: Jill Biden opens up in memoir on decision to end 2024 reelection bid
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.7532
-- slug: 2026-05-27-jill-biden-feared-husband-joe-was-having-a-stroke-during-2024-debate
-  headline: Jill Biden feared husband Joe was having a stroke during 2024 debate
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7072
-- slug: 2026-08-08-hunter-biden-says-father-s-cancer-metastasized-to-his-bones
-  headline: Hunter Biden says father's cancer metastasized to his bones
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6498
-- slug: 2026-08-11-hunter-biden-steps-up-media-appearances-from-carlson-to-fuentes
-  headline: Hunter Biden steps up media appearances from Carlson to Fuentes
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6415
-- slug: 2026-08-15-hunter-biden-conducts-wide-ranging-media-tour-across-podcasts-and-substack
-  headline: Hunter Biden conducts wide-ranging media tour across podcasts and Substack
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6296
-- slug: 2026-05-29-in-memoir-jill-biden-questions-response-to-joe-biden-s-debate-performance
-  headline: In Memoir, Jill Biden Questions Response to Joe Biden's Debate Performance
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6911
-- slug: 2026-06-03-jill-biden-says-she-regrets-not-discussing-hunter-biden-s-addiction-while-in-whi
-  headline: Jill Biden says she regrets not discussing Hunter Biden's addiction while in White House
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6872
-- slug: 2026-06-02-jill-biden-feared-joe-biden-had-stroke-after-2024-debate-doctors-checked-him-imm
-  headline: Jill Biden feared Joe Biden had stroke after 2024 debate, doctors checked him immediately
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6687
-- slug: 2026-06-16-clinton-says-biden-s-re-election-bid-was-a-terrible-mistake-that-cost-democrats-
-  headline: Clinton says Biden's re-election bid was a 'terrible mistake' that cost Democrats the presidency
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6551
-- slug: 2026-07-28-audio-recordings-show-biden-acknowledging-possession-of-classified-material
-  headline: Audio recordings show Biden acknowledging possession of classified material
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6147
-- slug: 2026-06-03-jilly-i-had-no-choice-jill-biden-recounts-pressure-on-joe-to-exit-2024-race
-  headline: 'Jilly, I had no choice": Jill Biden recounts pressure on Joe to exit 2024 race'
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.652
 ---
-
 ## Biden memoir 'Promise Me, America' debuts as stage 4 cancer limits his book tour
 
 **Subtype:** fact
