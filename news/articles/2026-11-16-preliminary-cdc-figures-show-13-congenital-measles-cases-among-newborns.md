@@ -55,7 +55,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -252,3 +252,10 @@ The American Academy of Pediatrics has begun sharing guidance on congenital meas
 **Publication date:** 2026-11-16
 **Title:** Doctors are raising concerns about babies born with measles
 **URL:** https://apnews.com/article/measles-newborns-congenital-cdc-mmr-vaccine-a58272bce83828699dbb4d2eba4e27a1
+
+### src_late_86bd0149f7c78282 — Associated Press, wire, Tier 1, originating
+**Author:** Laura Ungar, Associated Press
+**Publication date:** 2026-11-17
+**Title:** Doctors are raising concerns about U.S. babies born with measles
+**URL:** https://www.pbs.org/newshour/health/doctors-are-raising-concerns-about-u-s-babies-born-with-measles
+**Added after publication:** true

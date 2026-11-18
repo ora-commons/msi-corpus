@@ -1,9 +1,19 @@
 ---
 headline: Huawei racketeering trial enters final phase in Brooklyn
-secondary_headline: Prosecutors and defense offer sharply different accounts of Huawei’s conduct
+secondary_headline: Prosecutors and defense offer sharply different accounts of Huawei’s
+  conduct
 publish_date: '2026-11-17'
-lede: The racketeering conspiracy trial of Huawei Technologies approached its end Tuesday in Brooklyn federal court after a two-month-long trial. Assistant U.S. Attorney Meredith Arfa told jurors that the Chinese telecommunications giant helped Iran spy on its citizens and stole from U.S. companies, while defense attorney Brian Heberlig accused prosecutors of building the case from a false premise. The jury was expected to begin deliberations Wednesday.
-nut_graf: The competing closing arguments frame the case as a dispute over whether Huawei directed illegal activity or was wrongly cast as a criminal enterprise. The U.S. criminal charges were announced in early 2019 and have since been expanded, while Huawei remains barred from selling equipment to U.S. carriers over security concerns and blacklisted by Canada and Britain.
+lede: The racketeering conspiracy trial of Huawei Technologies approached its end
+  Tuesday in Brooklyn federal court after a two-month-long trial. Assistant U.S. Attorney
+  Meredith Arfa told jurors that the Chinese telecommunications giant helped Iran
+  spy on its citizens and stole from U.S. companies, while defense attorney Brian
+  Heberlig accused prosecutors of building the case from a false premise. The jury
+  was expected to begin deliberations Wednesday.
+nut_graf: The competing closing arguments frame the case as a dispute over whether
+  Huawei directed illegal activity or was wrongly cast as a criminal enterprise. The
+  U.S. criminal charges were announced in early 2019 and have since been expanded,
+  while Huawei remains barred from selling equipment to U.S. carriers over security
+  concerns and blacklisted by Canada and Britain.
 primary_entities:
 - Huawei Technologies
 - Brian Heberlig
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,107 +153,29 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-14-officials-describe-chinese-spy-campaign-targeting-technology-ai-and-jensen-huang
-  headline: Officials describe Chinese spy campaign targeting technology, AI and Jensen Huang
+  headline: Officials describe Chinese spy campaign targeting technology, AI and Jensen
+    Huang
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.6659
-- slug: 2026-11-15-huang-case-exposes-human-error-as-tech-s-biggest-espionage-risk
-  headline: Huang case exposes human error as tech's biggest espionage risk
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6205
+  strength: 0.6651
 - slug: 2026-09-10-huawei-racketeering-trial-opens-in-brooklyn-with-criminal-enterprise-claim
-  headline: Huawei racketeering trial opens in Brooklyn with 'criminal enterprise' claim
+  headline: Huawei racketeering trial opens in Brooklyn with 'criminal enterprise'
+    claim
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.8691
-- slug: 2026-11-11-huang-presses-china-chip-access-while-opposing-new-ai-rules
-  headline: Huang presses China chip access while opposing new AI rules
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.615
-- slug: 2026-11-06-experts-warn-ai-will-hand-hackers-a-lopsided-advantage-over-defenders
-  headline: Experts warn AI will hand hackers a lopsided advantage over defenders
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6295
+  strength: 0.8676
 - slug: 2026-09-08-huawei-technologies-criminal-racketeering-trial-opens-jury-selection-in-new-york
-  headline: Huawei Technologies criminal racketeering trial opens jury selection in New York
+  headline: Huawei Technologies criminal racketeering trial opens jury selection in
+    New York
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.8393
-- slug: 2026-10-20-state-department-invokes-2022-ip-law-to-blacklist-five-china-based-entities
-  headline: State Department invokes 2022 IP law to blacklist five China-based entities
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6115
+  strength: 0.8374
 - slug: 2026-09-17-huawei-announces-two-new-ai-chips-next-year-to-rival-nvidia
   headline: Huawei announces two new AI chips next year to rival Nvidia
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6607
-- slug: 2026-09-09-u-s-agencies-accuse-six-chinese-ai-firms-of-industrial-scale-distillation
-  headline: U.S. agencies accuse six Chinese AI firms of industrial-scale distillation
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6292
-- slug: 2026-09-10-duffy-publicly-criticizes-ford-s-business-with-chinese-automotive-firms
-  headline: Duffy publicly criticizes Ford's business with Chinese automotive firms
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6189
-- slug: 2026-09-04-doj-urges-whistleblowers-to-report-federal-contractor-cyber-fraud
-  headline: DOJ urges whistleblowers to report federal contractor cyber fraud
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6298
-- slug: 2026-08-24-taiwan-charges-nine-in-alleged-ai-server-shipments-to-china
-  headline: Taiwan prosecutors charge nine in alleged AI server shipments to China
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6347
-- slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
-  headline: China warns AI users they are ‘traitors’ if they resist domestic chips
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6455
-- slug: 2026-07-15-federal-trial-opens-for-israeli-investigator-accused-of-hacking-climate-activist
-  headline: Federal trial opens for Israeli investigator accused of hacking climate activists
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6383
-- slug: 2026-07-21-trump-accuses-china-of-voter-file-hack-as-both-sides-keep-summit-plans
-  headline: Trump accuses China of voter file hack as both sides keep summit plans
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6119
-- slug: 2026-05-07-man-accused-of-running-chinese-spy-outpost-in-nyc-goes-on-trial
-  headline: Man accused of running Chinese spy outpost in NYC goes on trial
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6498
-- slug: 2026-06-02-huawei-s-own-paper-shows-chip-gap-persists-despite-tau-law-claim-analysts-say
-  headline: Huawei’s own paper shows chip gap persists despite Tau Law claim, analysts say
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6397
-- slug: 2026-05-05-beijing-hunts-exiled-official-overseas-using-u-s-surveillance-tech-ap-finds
-  headline: Beijing hunts exiled official overseas using U.S. surveillance tech, AP finds
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6351
-- slug: 2026-06-18-bosch-pays-36m-fine-doj-declines-prosecution-in-huawei-export-case
-  headline: Bosch pays $36M fine, DOJ declines prosecution in Huawei export case
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6164
-- slug: 2026-06-10-taiwan-considers-tighter-export-controls-on-ai-chips-bound-for-china
-  headline: Taiwan considers tighter export controls on AI chips bound for China
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6167
+  strength: 0.6602
 ---
-
 ## Huawei racketeering trial enters final phase in Brooklyn
 
 **Subtype:** fact

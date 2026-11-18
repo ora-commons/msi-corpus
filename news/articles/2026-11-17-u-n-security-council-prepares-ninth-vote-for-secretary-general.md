@@ -2,8 +2,16 @@
 headline: U.N. Security Council prepares ninth vote for secretary-general
 secondary_headline: Grynspan leads secret tallies as permanent members maintain opposition
 publish_date: '2026-11-17'
-lede: The U.N. Security Council will hold its ninth vote Thursday to choose a successor to Secretary-General António Guterres, who retires Dec. 31 after a decade in the post. The Wall Street Journal reported that eight candidates remain, with Costa Rica’s Rebeca Grynspan Mayufis and the U.A.E.’s Lana Nusseibeh drawing the most attention.
-nut_graf: The Wall Street Journal reported that the succession follows wars started by Russia and the U.S. and budget cuts under two Trump administrations that have weakened the U.N.’s standing. Candidates pledge to assert the organization’s role more aggressively in major issues involving the big powers, though they have no illusions that the lost funding will return.
+lede: The U.N. Security Council will hold its ninth vote Thursday to choose a successor
+  to Secretary-General António Guterres, who retires Dec. 31 after a decade in the
+  post. The Wall Street Journal reported that eight candidates remain, with Costa
+  Rica’s Rebeca Grynspan Mayufis and the U.A.E.’s Lana Nusseibeh drawing the most
+  attention.
+nut_graf: The Wall Street Journal reported that the succession follows wars started
+  by Russia and the U.S. and budget cuts under two Trump administrations that have
+  weakened the U.N.’s standing. Candidates pledge to assert the organization’s role
+  more aggressively in major issues involving the big powers, though they have no
+  illusions that the lost funding will return.
 primary_entities:
 - United Nations
 - United Nations Security Council
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +154,24 @@ related_stories:
   headline: United Arab Emirates nominates Lana Zaki Nusseibeh for U.N. secretary-general
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7725
-- slug: 2026-11-07-guterres-prepares-final-climate-message-as-cop31-s-nov-9-opening-nears
-  headline: Guterres prepares final climate message as COP31's Nov. 9 opening nears
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6169
-- slug: 2026-11-13-lawmakers-ask-when-lutnick-learned-of-huang-s-contact-with-suspected-chinese-ass
-  headline: Lawmakers ask when Lutnick learned of Huang's contact with suspected Chinese asset
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.5617
-- slug: 2026-10-30-former-officials-urge-great-power-backing-for-next-un-chief
-  headline: Former officials urge great-power backing for next UN chief
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.563
+  strength: 0.7735
 - slug: 2026-09-20-chile-s-bachelet-withdraws-from-un-secretary-general-race
   headline: Chile's Bachelet withdraws from UN secretary general race
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7088
+  strength: 0.7086
 - slug: 2026-09-20-next-un-secretary-general-faces-gaza-genocide-accusation-climate-crisis-ai-threa
-  headline: Next UN secretary-general faces Gaza genocide accusation, climate crisis, AI threats
+  headline: Next UN secretary-general faces Gaza genocide accusation, climate crisis,
+    AI threats
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6997
+  strength: 0.7003
 - slug: 2026-09-22-world-leaders-at-un-general-assembly-call-for-security-council-reform
   headline: World leaders at UN General Assembly call for Security Council reform
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6866
-- slug: 2026-09-21-abbas-to-address-un-general-assembly-by-video-after-visa-denial
-  headline: Abbas to address UN General Assembly by video after visa denial
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6352
-- slug: 2026-09-21-trump-to-address-un-general-assembly-as-iran-s-president-set-to-speak-next-day
-  headline: Trump to address UN General Assembly as Iran's president set to speak next day
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6326
-- slug: 2026-09-22-guterres-opens-un-general-assembly-warning-of-widening-fault-lines
-  headline: Guterres opens UN General Assembly warning of 'widening fault lines'
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6141
-- slug: 2026-09-24-netanyahu-to-address-un-general-assembly-thursday-as-protests-and-sanctions-push
-  headline: Netanyahu to address UN General Assembly Thursday as protests and sanctions push converge
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.5925
-- slug: 2026-09-22-trump-prepares-un-address-as-approval-sits-below-40
-  headline: Trump prepares UN address as approval sits below 40%
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5909
-- slug: 2026-09-20-albanese-launches-australia-s-un-security-council-bid
-  headline: Albanese launches Australia's UN Security Council bid
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.5897
-- slug: 2026-09-22-britain-commits-to-abstaining-from-un-veto-in-mass-atrocity-cases
-  headline: Britain commits to abstaining from UN veto in mass atrocity cases
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5745
-- slug: 2026-09-23-venezuela-s-rodr-guez-pledges-elections-in-un-speech-sets-no-date
-  headline: Venezuela's Rodríguez pledges elections in UN speech, sets no date
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5709
-- slug: 2026-09-17-un-to-vote-thursday-on-abbas-video-address-after-us-visa-denial
-  headline: UN to vote Thursday on Abbas video address after US visa denial
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5821
-- slug: 2026-09-23-zelenskyy-set-to-address-un-general-assembly-after-trump-meeting
-  headline: Zelenskyy set to address UN General Assembly after Trump meeting
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5627
-- slug: 2026-02-28-melania-trump-to-preside-over-un-security-council-meeting-for-march
-  headline: Melania Trump to preside over UN Security Council meeting for March
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6228
-- slug: 2026-01-15-guterres-opens-final-year-at-un-by-condemning-law-violations-ultra-wealthy-influ
-  headline: Guterres opens final year at UN by condemning law violations, ultra-wealthy influence
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6214
-- slug: 2026-01-30-trump-s-board-of-peace-plan-draws-support-for-un-plus-skepticism
-  headline: Trump’s Board of Peace plan draws support for UN, plus skepticism
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.5956
+  strength: 0.6872
 ---
-
 ## U.N. Security Council prepares ninth vote for secretary-general
 
 **Subtype:** fact

@@ -1,9 +1,17 @@
 ---
 headline: German defense minister Pistorius rebukes Colby over strikes inside Russia
-secondary_headline: Colby says attacks may harden Russian public resolve and encourage Kremlin escalation
+secondary_headline: Colby says attacks may harden Russian public resolve and encourage
+  Kremlin escalation
 publish_date: '2026-11-17'
-lede: German Defense Minister Boris Pistorius rebuked U.S. Under Secretary for Defense Elbridge Colby at NATO headquarters in Brussels on Tuesday, calling Colby’s criticism of Ukrainian strikes inside Russia “stupid.” The disagreement centered on attacks deep inside Russia, their possible effect on Russian public resolve and the Kremlin’s willingness to escalate.
-nut_graf: The dispute exposed a trans-Atlantic divide over how to pressure Moscow as Washington pushed to broker an end to the war. It followed two days of U.S.-mediated talks in Abu Dhabi that ended without a breakthrough, while Ukraine and Russia increased strikes.
+lede: German Defense Minister Boris Pistorius rebuked U.S. Under Secretary for Defense
+  Elbridge Colby at NATO headquarters in Brussels on Tuesday, calling Colby’s criticism
+  of Ukrainian strikes inside Russia “stupid.” The disagreement centered on attacks
+  deep inside Russia, their possible effect on Russian public resolve and the Kremlin’s
+  willingness to escalate.
+nut_graf: The dispute exposed a trans-Atlantic divide over how to pressure Moscow
+  as Washington pushed to broker an end to the war. It followed two days of U.S.-mediated
+  talks in Abu Dhabi that ended without a breakthrough, while Ukraine and Russia increased
+  strikes.
 primary_entities:
 - Boris Pistorius
 - Elbridge Colby
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,113 +155,59 @@ related_stories:
   headline: Ukraine strikes Kerch bridge with cruise missiles and rocket drones
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.677
+  strength: 0.6772
 - slug: 2026-11-13-kushner-says-russia-agrees-to-include-europe-in-talks-as-ukraine-fires-almost-1-
-  headline: Kushner says Russia agrees to include Europe in talks as Ukraine fires almost 1,200 drones
+  headline: Kushner says Russia agrees to include Europe in talks as Ukraine fires
+    almost 1,200 drones
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6976
+  strength: 0.6983
 - slug: 2026-11-12-us-envoys-meet-putin-in-kremlin-after-abu-dhabi-talks-yield-prisoner-swap-deal
-  headline: US envoys meet Putin in Kremlin after Abu Dhabi talks yield prisoner swap deal
+  headline: US envoys meet Putin in Kremlin after Abu Dhabi talks yield prisoner swap
+    deal
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7002
+  strength: 0.7011
 - slug: 2026-11-14-zelenskyy-warns-us-floated-european-security-framework-risks-weakening-nato
-  headline: Zelenskyy warns US-floated European security framework risks weakening NATO
+  headline: Zelenskyy warns US-floated European security framework risks weakening
+    NATO
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.6839
+  strength: 0.6844
 - slug: 2026-11-10-u-s-links-european-security-overhaul-to-ukraine-ceasefire-talks
   headline: U.S. links European security overhaul to Ukraine ceasefire talks
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6894
+  strength: 0.6911
 - slug: 2026-11-10-russia-and-ukraine-trade-overnight-drone-strikes-as-abu-dhabi-talks-open
   headline: Russia and Ukraine trade overnight drone strikes as Abu Dhabi talks open
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6872
+  strength: 0.6885
 - slug: 2026-11-10-us-opens-abu-dhabi-talks-on-ending-the-russia-ukraine-war
   headline: US opens Abu Dhabi talks on ending the Russia-Ukraine war
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6811
+  strength: 0.683
 - slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
   headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6885
-- slug: 2026-10-13-zelenskyy-flags-intelligence-gap-after-unwarned-kyiv-missile-strike
-  headline: Zelenskyy flags intelligence gap after unwarned Kyiv missile strike
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6827
-- slug: 2026-10-12-zelenskyy-threatens-retaliation-as-russian-strikes-hit-ukraine-power-grid
-  headline: Zelenskyy threatens retaliation as Russian strikes hit Ukraine power grid
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6781
-- slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
-  headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6758
-- slug: 2026-10-01-russia-strikes-kyiv-odesa-energy-sites-in-heaviest-combined-attack-in-months
-  headline: Russia strikes Kyiv, Odesa energy sites in heaviest combined attack in months
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6849
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6898
-- slug: 2026-09-01-germany-blames-russia-for-leipzig-drone-plot-vows-retaliation
-  headline: Germany blames Russia for Leipzig drone plot, vows retaliation
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6886
-- slug: 2026-09-08-us-urges-europe-to-keep-backing-ukraine-as-uk-pledges-100m-for-air-defences
-  headline: US urges Europe to keep backing Ukraine as UK pledges £100m for air defences
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6737
-- slug: 2026-09-02-europe-presses-russia-with-sanctions-ukraine-aid-after-leipzig-drone-plot
-  headline: Europe presses Russia with sanctions, Ukraine aid after Leipzig drone plot
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6816
-- slug: 2026-08-05-russia-kills-17-in-kyiv-with-missiles-and-drones-ukraine-says
-  headline: Russia kills 17 in Kyiv with missiles and drones, Ukraine says
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6881
-- slug: 2026-05-09-moscow-and-kyiv-accuse-each-other-of-violating-us-brokered-truce
-  headline: Moscow and Kyiv accuse each other of violating US-brokered truce
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.7009
-- slug: 2026-05-09-russia-and-ukraine-accuse-each-other-of-violating-us-brokered-truce
-  headline: Russia and Ukraine accuse each other of violating US-brokered truce
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6816
-- slug: 2026-05-04-ukraine-launches-strikes-on-russian-oil-infrastructure-and-shadow-fleet
-  headline: Ukraine launches strikes on Russian oil infrastructure and shadow fleet
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6724
+  strength: 0.6896
 image:
   url: /articles/2026-11-17-german-defense-minister-pistorius-rebukes-colby-over-strikes-inside-russia.png
-  alt: "Illustration accompanying article: German defense minister Pistorius rebukes Colby over strikes inside Russia"
+  alt: 'Illustration accompanying article: German defense minister Pistorius rebukes
+    Colby over strikes inside Russia'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## German defense minister Pistorius rebukes Colby over strikes inside Russia
 
 **Subtype:** fact

@@ -2,8 +2,16 @@
 headline: St Kitts and Nevis plans to wind down citizenship-by-investment program
 secondary_headline: EU pressure puts Schengen access and government revenue at risk
 publish_date: '2026-11-17'
-lede: Prime Minister Terrance Drew said Friday that St Kitts and Nevis would wind down its citizenship-by-investment program after the European Union threatened to end visa-free access to the Schengen area. Nevis Premier Mark Brantley opposed the move, saying the country had little choice and warning that the program had supported the economy and access to water, education, healthcare and other services.
-nut_graf: The 42-year program has brought billions of dollars into St Kitts and Nevis and accounted for the largest share of government revenue in some years. Drew said the government would seek to make the change through economic growth in tourism, yachting, digital and creative industries while developing clean geothermal energy; raising taxes is not part of the plan.
+lede: Prime Minister Terrance Drew said Friday that St Kitts and Nevis would wind
+  down its citizenship-by-investment program after the European Union threatened to
+  end visa-free access to the Schengen area. Nevis Premier Mark Brantley opposed the
+  move, saying the country had little choice and warning that the program had supported
+  the economy and access to water, education, healthcare and other services.
+nut_graf: The 42-year program has brought billions of dollars into St Kitts and Nevis
+  and accounted for the largest share of government revenue in some years. Drew said
+  the government would seek to make the change through economic growth in tourism,
+  yachting, digital and creative industries while developing clean geothermal energy;
+  raising taxes is not part of the plan.
 primary_entities:
 - St Kitts and Nevis
 - Nevis
@@ -47,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,109 +153,8 @@ cross_article_links:
   strength: 0.5855
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-17-alan-milburn-proposes-10-year-uk-plan-to-reduce-neet-rate
-  headline: Alan Milburn proposes 10-year UK plan to reduce Neet rate
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.582
-- slug: 2026-11-16-o-dowd-says-treasury-figures-put-ni-funding-below-need-level-for-next-two-years
-  headline: O'Dowd says Treasury figures put NI funding below need level for next two years
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.5837
-- slug: 2026-11-05-carney-s-second-budget-adds-c-142-billion-in-spending-on-sovereignty-and-housing
-  headline: Carney's second budget adds C$142 billion in spending on sovereignty and housing
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5903
-- slug: 2026-10-30-canada-and-eu-sign-agreements-set-deadline-to-define-associate-membership
-  headline: Canada and EU sign agreements, set deadline to define associate membership
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5903
-- slug: 2026-10-07-guernsey-deputies-challenge-p-r-s-two-budget-2027-approach
-  headline: Guernsey deputies challenge P&R's two-budget 2027 approach
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5813
-- slug: 2026-09-28-canada-pushes-to-double-lng-exports-and-build-pacific-oil-pipeline
-  headline: Canada pushes to double LNG exports and build Pacific oil pipeline
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5838
-- slug: 2026-09-16-canada-pursues-visa-free-eu-access-under-broader-strategic-partnership
-  headline: Canada pursues visa-free EU access under broader strategic partnership
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6056
-- slug: 2026-09-17-carney-welcomes-eu-proposal-for-canada-associate-membership
-  headline: Carney welcomes EU proposal for Canada associate membership
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5943
-- slug: 2026-09-17-carney-pitches-eu-partnership-as-sovereignty-defense-at-european-parliament
-  headline: Carney pitches EU partnership as sovereignty defense at European Parliament
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5929
-- slug: 2026-09-15-uk-weighs-joining-canada-led-defence-bank
-  headline: UK weighs joining Canada-led defence bank
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5885
-- slug: 2026-09-15-carney-courts-global-investors-at-toronto-summit
-  headline: Carney courts global investors at Toronto summit
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5861
-- slug: 2026-09-15-carney-tells-toronto-summit-canada-will-pursue-unique-eu-alliance
-  headline: Carney tells Toronto summit Canada will pursue 'unique' EU alliance
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.581
-- slug: 2026-09-17-germany-asks-eu-to-reconsider-canada-associate-member-label
-  headline: Germany asks EU to reconsider Canada 'associate member' label
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5757
-- slug: 2026-08-07-milburn-studies-dublin-apprenticeships-as-uk-youth-neet-rate-climbs
-  headline: Milburn studies Dublin apprenticeships as UK youth Neet rate climbs
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5806
-- slug: 2026-06-18-argentina-plans-citizenship-by-investment-program-for-foreign-investors
-  headline: Argentina plans citizenship-by-investment program for foreign investors
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6167
-- slug: 2026-05-31-former-u-k-health-secretary-suggests-employer-national-insurance-cut-and-north-s
-  headline: Former U.K. health secretary suggests employer National Insurance cut and North Sea drilling
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6147
-- slug: 2026-06-27-canada-slips-into-technical-recession-as-carney-urges-patience
-  headline: Canada slips into technical recession as Carney urges patience
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.5988
-- slug: 2026-07-15-administration-developing-100-000-bond-for-green-card-applicants
-  headline: Administration developing $100,000 bond for green-card applicants
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5766
-- slug: 2026-02-24-caribbean-leaders-confront-u-s-over-military-strikes-and-cuba-policy
-  headline: Caribbean leaders confront U.S. over military strikes and Cuba policy
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.6127
-- slug: 2026-06-06-foreign-businesses-abandon-cuba-as-economy-collapses-under-us-sanctions
-  headline: Foreign Businesses Abandon Cuba as Economy Collapses Under US Sanctions
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5859
+related_stories: []
 ---
-
 ## St Kitts and Nevis plans to wind down citizenship-by-investment program
 
 **Subtype:** fact
