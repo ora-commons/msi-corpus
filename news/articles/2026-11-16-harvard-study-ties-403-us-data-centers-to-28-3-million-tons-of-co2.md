@@ -60,7 +60,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -262,3 +262,10 @@ Gregor Henze, a University of Colorado Boulder professor, called the pairing "a 
 **Publication date:** 2026-11-16
 **Title:** Emissions of largest US data centers exceed Denmark, study says
 **URL:** https://apnews.com/article/cop31-climate-data-centers-ai-pollution-a1b338e7f781976f89260d172a7c65e2
+
+### src_late_249d730a89084453 — Associated Press, wire, Tier 1, originating
+**Author:** Seth Borenstein, Associated Press, Jennifer McDermott, Associated Press
+**Publication date:** 2026-11-17
+**Title:** 400 largest U.S. data centers produced more carbon dioxide in a year than Denmark, study finds
+**URL:** https://www.pbs.org/newshour/nation/400-largest-u-s-data-centers-produced-more-carbon-dioxide-in-a-year-than-denmark-study-finds
+**Added after publication:** true
