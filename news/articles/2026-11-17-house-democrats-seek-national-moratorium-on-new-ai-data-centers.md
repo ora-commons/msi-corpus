@@ -1,9 +1,17 @@
 ---
 headline: House Democrats seek national moratorium on new AI data centers
-secondary_headline: Senate advances separate permitting overhaul as environmental groups oppose
+secondary_headline: Senate advances separate permitting overhaul as environmental
+  groups oppose
 publish_date: '2026-11-17'
-lede: Leading and incoming House Democrats called Tuesday for a national moratorium on new artificial intelligence data centers, citing their effects on energy costs and the environment. At the same time, a bipartisan Senate bill advanced 70-27 on Monday to overhaul federal permitting for energy projects, including data centers.
-nut_graf: The House effort would halt new development until Congress enacted legislation safeguarding the public from the dangers of artificial intelligence. The Senate measure instead addresses permitting and energy costs, and has drawn opposition from Food & Water Watch and other environmental groups that argue it would accelerate data-center construction and the power plants and pipelines serving new facilities.
+lede: Leading and incoming House Democrats called Tuesday for a national moratorium
+  on new artificial intelligence data centers, citing their effects on energy costs
+  and the environment. At the same time, a bipartisan Senate bill advanced 70-27 on
+  Monday to overhaul federal permitting for energy projects, including data centers.
+nut_graf: The House effort would halt new development until Congress enacted legislation
+  safeguarding the public from the dangers of artificial intelligence. The Senate
+  measure instead addresses permitting and energy costs, and has drawn opposition
+  from Food & Water Watch and other environmental groups that argue it would accelerate
+  data-center construction and the power plants and pipelines serving new facilities.
 primary_entities:
 - Bernie Sanders
 - Alexandria Ocasio-Cortez
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +156,43 @@ related_stories:
   headline: Democrats move to restrict data centers on federal land
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7683
+  strength: 0.7689
 - slug: 2026-11-16-democratic-lawmakers-set-ai-regulation-as-top-priority
   headline: Democratic lawmakers set AI regulation as top priority
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7506
+  strength: 0.7507
 - slug: 2026-11-06-sanders-and-newly-elected-democrats-call-for-data-center-moratoriums
   headline: Sanders and newly elected Democrats call for data center moratoriums
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8121
+  strength: 0.8128
 - slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
   headline: Democratic gains shift U.S. technology policy outlook
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7502
+  strength: 0.7506
 - slug: 2026-11-09-senate-prepares-procedural-vote-on-bipartisan-energy-permitting-bill
   headline: Senate prepares procedural vote on bipartisan energy permitting bill
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.719
+  strength: 0.7197
 - slug: 2026-11-06-data-center-skeptics-win-across-us-midterms-as-tougher-state-rules-loom
   headline: Data center skeptics win across US midterms as tougher state rules loom
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7179
+  strength: 0.7185
 - slug: 2026-09-26-democratic-2028-hopefuls-stake-out-ai-positions-from-guardrails-to-moratorium
   headline: Democratic 2028 hopefuls stake out AI positions from guardrails to moratorium
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.7668
+  strength: 0.7669
 - slug: 2026-09-15-trump-dismisses-ai-safety-warnings-as-congress-stalls-legislation
   headline: Trump dismisses AI safety warnings as Congress stalls legislation
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.741
-- slug: 2026-09-13-house-democrats-demand-no-recess-until-ai-safeguards-move
-  headline: House Democrats demand no recess until AI safeguards move
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7429
-- slug: 2026-09-11-bipartisan-lawmakers-push-new-ai-oversight-proposals-after-researcher-warning
-  headline: Bipartisan lawmakers push new AI oversight proposals after researcher warning
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.7375
-- slug: 2026-09-13-obama-presses-jeffries-on-sweeping-ai-safety-framework
-  headline: Obama presses Jeffries on sweeping AI safety framework
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7223
-- slug: 2026-03-26-progressives-introduce-ai-data-center-moratorium-bill-ahead-of-safeguards
-  headline: Progressives introduce AI data center moratorium bill ahead of safeguards
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.8384
-- slug: 2026-08-08-candidates-in-three-states-respond-to-voter-concerns-over-data-centers
-  headline: Candidates in three states respond to voter concerns over data centers
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.7346
-- slug: 2026-03-25-progressives-push-bill-imposing-ai-data-center-moratorium-nationwide
-  headline: Progressives push bill imposing AI data center moratorium nationwide
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7993
-- slug: 2026-04-15-maine-legislature-approves-nation-s-first-statewide-data-center-moratorium-bill
-  headline: Maine legislature approves nation's first statewide data center moratorium bill
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7727
-- slug: 2026-06-10-seattle-enacts-year-long-ban-on-new-ai-datacenters
-  headline: Seattle enacts year-long ban on new AI datacenters
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.754
-- slug: 2026-07-15-democratic-voters-turn-against-party-leaders-over-data-center-projects
-  headline: Democratic voters turn against party leaders over data center projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7292
-- slug: 2026-07-20-donalds-unveils-bill-to-require-ai-data-centers-to-self-fund-power-and-water
-  headline: Donalds unveils bill to require AI data centers to self-fund power and water
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7198
-- slug: 2026-07-11-ai-data-center-construction-threatens-farmland-farmers-and-ranchers-warn
-  headline: AI data center construction threatens farmland, farmers and ranchers warn
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.7222
-- slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.7229
+  strength: 0.7409
 ---
-
 ## House Democrats seek national moratorium on new AI data centers
 
 **Subtype:** fact

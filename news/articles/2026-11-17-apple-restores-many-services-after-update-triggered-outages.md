@@ -56,7 +56,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -231,3 +231,10 @@ At the latest updates, Marriott had resolved its sign-in problem and Chase said 
 **Publication date:** 2026-11-17
 **Title:** Apple outage follows Microsoft, banking technology disruptions
 **URL:** https://apnews.com/article/apple-marriott-technology-outages-ff097d2a0bec767baf38a1bd8eff5829
+
+### src_late_ed166e4e986d8fe4 — Associated Press, wire, Tier 1, originating
+**Author:** Matt Ott, Associated Press
+**Publication date:** 2026-11-17
+**Title:** Apple joins the list of recent tech breakdowns after an update goes awry
+**URL:** https://www.pbs.org/newshour/nation/apple-joins-the-list-of-recent-tech-breakdowns-after-an-update-goes-awry
+**Added after publication:** true
