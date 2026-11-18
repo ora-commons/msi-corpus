@@ -2,8 +2,14 @@
 headline: Hakeem Jeffries wins House Democratic nomination for speaker
 secondary_headline: The choice would place a Black lawmaker in the top House post
 publish_date: '2026-11-18'
-lede: House Democrats nominated Hakeem Jeffries on Wednesday, November 18, 2026, to serve as speaker of the House when the new Congress begins next year. The New York congressman was selected by a recorded vote at a closed caucus with no rival candidate, putting the 56-year-old minority leader in line to become the first Black lawmaker to serve as House speaker.
-nut_graf: The nomination puts Jeffries in line to lead a House majority that plans efforts to check President Donald Trump's powers, while leaving disputes among some Democrats over Medicare for All and aid to Israel unresolved.
+lede: House Democrats nominated Hakeem Jeffries on Wednesday, November 18, 2026, to
+  serve as speaker of the House when the new Congress begins next year. The New York
+  congressman was selected by a recorded vote at a closed caucus with no rival candidate,
+  putting the 56-year-old minority leader in line to become the first Black lawmaker
+  to serve as House speaker.
+nut_graf: The nomination puts Jeffries in line to lead a House majority that plans
+  efforts to check President Donald Trump's powers, while leaving disputes among some
+  Democrats over Medicare for All and aid to Israel unresolved.
 primary_entities:
 - Hakeem Jeffries
 - House Democrats
@@ -45,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,113 +154,57 @@ related_stories:
   headline: House Democrats nominate Hakeem Jeffries for speaker in 251-11 vote
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8871
+  strength: 0.8879
 - slug: 2026-11-18-hakeem-jeffries-seeks-recorded-house-democratic-vote-on-speaker
   headline: Hakeem Jeffries seeks recorded House Democratic vote on speaker
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8542
+  strength: 0.8545
 - slug: 2026-11-17-house-democrats-prepare-closed-door-vote-for-jeffries-clark-and-aguilar
   headline: House Democrats prepare closed-door vote for Jeffries, Clark and Aguilar
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7907
+  strength: 0.7916
 - slug: 2026-11-04-hakeem-jeffries-expected-to-win-historic-house-speakership
   headline: Hakeem Jeffries expected to win historic House speakership
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8679
+  strength: 0.8692
 - slug: 2026-11-08-jeffries-faces-divided-democrats-atop-largest-house-majority-since-obama-s-first
-  headline: Jeffries faces divided Democrats atop largest House majority since Obama's first year
+  headline: Jeffries faces divided Democrats atop largest House majority since Obama's
+    first year
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8431
+  strength: 0.8427
 - slug: 2026-11-04-jeffries-criminal-justice-house-speaker-path
   headline: Jeffries's criminal justice reform work shapes his House speakership path
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7909
+  strength: 0.7911
 - slug: 2026-11-14-eleven-absent-democrats-sink-house-vote-on-hegseth-impeachment
   headline: Eleven absent Democrats sink House vote on Hegseth impeachment
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7247
+  strength: 0.7246
 - slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
   headline: Hakeem Jeffries outlines affordability agenda for incoming House control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7845
-- slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
-  headline: Tom Emmer wins House Republican whip race over August Pfluger
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7303
-- slug: 2026-11-08-jeffries-backs-impeaching-hegseth-as-democrats-prepare-to-take-house-control
-  headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.741
-- slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
-  headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7492
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7578
-- slug: 2026-11-09-trump-opens-to-immigration-deal-as-jeffries-backs-hegseth-impeachment-effort
-  headline: Trump opens to immigration deal as Jeffries backs Hegseth impeachment effort
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7281
-- slug: 2026-11-13-democrats-pitch-trump-deals-on-health-care-and-legacy-plaques
-  headline: Democrats pitch Trump deals on health care and legacy plaques
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7011
-- slug: 2026-11-04-house-republicans-scheduled-to-pick-new-leader-nov-10-after-johnson-s-departure
-  headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7512
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7485
-- slug: 2026-11-09-democrats-prepare-affordability-agenda-after-the-midterm-win
-  headline: Democrats prepare affordability agenda after the midterm win
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.714
-- slug: 2026-11-09-casar-says-caucus-will-push-bills-on-wages-housing-costs-and-child-care
-  headline: Casar says caucus will push bills on wages, housing costs and child care
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7024
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8118
-- slug: 2026-11-03-at-least-five-dsa-endorsed-candidates-win-house-seats
-  headline: At least five DSA-endorsed candidates win House seats
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6901
+  strength: 0.7843
 image:
   url: /articles/2026-11-18-hakeem-jeffries-wins-house-democratic-nomination-for-speaker.png
-  alt: "Illustration accompanying article: Hakeem Jeffries wins House Democratic nomination for speaker"
+  alt: 'Illustration accompanying article: Hakeem Jeffries wins House Democratic nomination
+    for speaker'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Hakeem Jeffries wins House Democratic nomination for speaker
 
 **Subtype:** fact

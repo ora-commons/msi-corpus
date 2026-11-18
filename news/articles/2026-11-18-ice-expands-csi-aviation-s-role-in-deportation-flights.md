@@ -1,9 +1,16 @@
 ---
 headline: ICE expands CSI Aviation’s role in deportation flights
-secondary_headline: Federal records show CSI taking manifest duties as flight-tracking limits expand
+secondary_headline: Federal records show CSI taking manifest duties as flight-tracking
+  limits expand
 publish_date: '2026-11-18'
-lede: Federal contracting records show that Immigration and Customs Enforcement expanded private contractor CSI Aviation’s role in deportation flights, agreeing to pay up to $305.7 million for new staffing work without competitive bidding. ICE also signed an order worth up to $1.28 billion on 31 October to keep CSI running charter flights for another year and assigned CSI staff to compile passenger lists.
-nut_graf: The changes move manifest preparation to a private contractor and may make ICE aircraft less visible on commercial tracking sites, raising questions about public oversight of detention and removal operations.
+lede: Federal contracting records show that Immigration and Customs Enforcement expanded
+  private contractor CSI Aviation’s role in deportation flights, agreeing to pay up
+  to $305.7 million for new staffing work without competitive bidding. ICE also signed
+  an order worth up to $1.28 billion on 31 October to keep CSI running charter flights
+  for another year and assigned CSI staff to compile passenger lists.
+nut_graf: The changes move manifest preparation to a private contractor and may make
+  ICE aircraft less visible on commercial tracking sites, raising questions about
+  public oversight of detention and removal operations.
 primary_entities:
 - Immigration and Customs Enforcement
 - CSI Aviation
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,22 +151,22 @@ related_stories:
   headline: Local officers working with ICE have doubled in eight months
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6828
+  strength: 0.6834
 - slug: 2026-10-28-four-groups-serving-immigrants-sue-ice-over-detainee-location-policy
   headline: Four groups serving immigrants sue ICE over detainee location policy
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6746
+  strength: 0.6749
 - slug: 2026-10-30-democrats-demand-ice-explain-missing-miscarriage-data-for-pregnant-detainees
   headline: Democrats demand ICE explain missing miscarriage data for pregnant detainees
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6562
+  strength: 0.6569
 - slug: 2026-10-13-two-northeast-ohio-airports-serve-as-ice-deportation-flight-hubs
   headline: Two northeast Ohio airports serve as ICE deportation flight hubs
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6869
+  strength: 0.6872
 - slug: 2026-09-21-ice-removes-detainees-with-final-removal-orders-from-online-locator
   headline: ICE removes detainees with final removal orders from online locator
   publish_date: '2026-09-21'
@@ -178,69 +186,8 @@ related_stories:
   headline: ICE has no miscarriage data since October 2025, documents show
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.657
-- slug: 2026-08-17-ice-plan-would-cover-up-to-500-000-in-liability-for-deputized-local-officers
-  headline: ICE plan would cover up to $500,000 in liability for deputized local officers
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6589
-- slug: 2026-08-06-southwest-blocks-ice-attempt-to-board-dallas-flight-without-judicial-warrant
-  headline: Southwest blocks ICE attempt to board Dallas flight without judicial warrant
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.674
-- slug: 2026-08-06-airline-workers-decline-to-help-ice-agents-as-airport-arrests-rise
-  headline: Airline workers decline to help ICE agents as airport arrests rise
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.667
-- slug: 2026-06-24-ice-surveillance-tech-spending-hits-record-513m-report-finds
-  headline: ICE surveillance tech spending hits record $513M, report finds
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6686
-- slug: 2026-03-24-can-ice-ease-long-lines-at-airports-as-dhs-funding-impasse-drags-on
-  headline: Can ICE ease long lines at airports as DHS funding impasse drags on?
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.686
-- slug: 2026-03-24-ice-officers-appear-at-tsa-checkpoints-during-partial-dhs-shutdown
-  headline: ICE officers appear at TSA checkpoints during partial DHS shutdown
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6852
-- slug: 2026-06-13-trump-signs-70b-immigration-enforcement-bill-into-law
-  headline: Trump signs $70B immigration enforcement bill into law
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.655
-- slug: 2026-02-12-ice-agent-arrests-raise-questions-on-misconduct-risk-and-oversight
-  headline: ICE agent arrests raise questions on misconduct risk and oversight
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.681
-- slug: 2026-02-11-ap-review-highlights-crimes-charged-against-ice-personnel-since-2020
-  headline: Crimes charged against ICE personnel since 2020
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6776
-- slug: 2026-01-20-trump-s-tax-and-spending-cuts-bill-pays-for-ice-expansion
-  headline: Trump’s tax and spending cuts bill pays for ICE expansion
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6729
-- slug: 2026-02-10-ap-review-finds-misconduct-charges-against-ice-employees-and-contractors
-  headline: Misconduct charges against ICE employees and contractors
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6708
-- slug: 2026-03-23-trump-threatens-ice-role-at-airports-starting-monday-amid-dhs-funding-fight
-  headline: Trump threatens ICE role at airports starting Monday amid DHS funding fight
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6662
+  strength: 0.6578
 ---
-
 ## ICE expands CSI Aviation’s role in deportation flights
 
 **Subtype:** fact

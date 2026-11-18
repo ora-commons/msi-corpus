@@ -2,8 +2,15 @@
 headline: House Democrats nominate Hakeem Jeffries for speaker in 251-11 vote
 secondary_headline: A January 3 floor vote would make Jeffries the first Black speaker
 publish_date: '2026-11-18'
-lede: House Democrats on Wednesday nominated House Minority Leader Rep. Hakeem Jeffries of New York to serve as speaker of the House when the party takes control in the new Congress, winning a closed-door vote 251 to 11 with the New York Democrat running uncontested. Jeffries still needs a simple majority of members in a floor vote on January 3 to claim the post.
-nut_graf: The nomination formalizes the Democrats' choice of the incoming speaker for a Congress in which the party is poised to control at least 257 seats, and it lands as divides inside the party may prove more pronounced in the Senate, where Minority Leader Chuck Schumer faces a challenge from Chris Van Hollen.
+lede: House Democrats on Wednesday nominated House Minority Leader Rep. Hakeem Jeffries
+  of New York to serve as speaker of the House when the party takes control in the
+  new Congress, winning a closed-door vote 251 to 11 with the New York Democrat running
+  uncontested. Jeffries still needs a simple majority of members in a floor vote on
+  January 3 to claim the post.
+nut_graf: The nomination formalizes the Democrats' choice of the incoming speaker
+  for a Congress in which the party is poised to control at least 257 seats, and it
+  lands as divides inside the party may prove more pronounced in the Senate, where
+  Minority Leader Chuck Schumer faces a challenge from Chris Van Hollen.
 primary_entities:
 - Hakeem Jeffries
 - House of Representatives
@@ -37,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,108 +143,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-18-hakeem-jeffries-wins-house-democratic-nomination-for-speaker
+  headline: Hakeem Jeffries wins House Democratic nomination for speaker
+  publish_date: '2026-11-18'
+  relation: related
+  strength: 0.892
 - slug: 2026-11-18-hakeem-jeffries-seeks-recorded-house-democratic-vote-on-speaker
   headline: Hakeem Jeffries seeks recorded House Democratic vote on speaker
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8438
+  strength: 0.8431
 - slug: 2026-11-17-house-democrats-prepare-closed-door-vote-for-jeffries-clark-and-aguilar
   headline: House Democrats prepare closed-door vote for Jeffries, Clark and Aguilar
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8113
+  strength: 0.8112
 - slug: 2026-11-08-jeffries-faces-divided-democrats-atop-largest-house-majority-since-obama-s-first
-  headline: Jeffries faces divided Democrats atop largest House majority since Obama's first year
+  headline: Jeffries faces divided Democrats atop largest House majority since Obama's
+    first year
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.8284
+  strength: 0.8262
 - slug: 2026-11-04-hakeem-jeffries-expected-to-win-historic-house-speakership
   headline: Hakeem Jeffries expected to win historic House speakership
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8448
+  strength: 0.8436
 - slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
   headline: Hakeem Jeffries outlines affordability agenda for incoming House control
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7906
+  strength: 0.7902
 - slug: 2026-11-14-democrats-head-into-new-congress-denying-a-moderate-progressive-rift
   headline: Democrats head into new Congress denying a moderate-progressive rift
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7272
+  strength: 0.7273
 - slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
   headline: Tom Emmer wins House Republican whip race over August Pfluger
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7486
-- slug: 2026-11-06-jeffries-says-hegseth-has-got-to-go-but-declines-to-endorse-impeachment
-  headline: Jeffries says Hegseth has got to go but declines to endorse impeachment
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7726
-- slug: 2026-11-14-eleven-absent-democrats-sink-house-vote-on-hegseth-impeachment
-  headline: Eleven absent Democrats sink House vote on Hegseth impeachment
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7177
-- slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-majority-leader
-  headline: Van Hollen challenges Schumer for Senate majority leader
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7173
-- slug: 2026-11-13-schumer-faces-first-contested-democratic-leader-election-in-decades
-  headline: Schumer faces first contested Democratic leader election in decades
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7085
-- slug: 2026-11-04-house-republicans-scheduled-to-pick-new-leader-nov-10-after-johnson-s-departure
-  headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7609
-- slug: 2026-11-08-jeffries-backs-impeaching-hegseth-as-democrats-prepare-to-take-house-control
-  headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7366
-- slug: 2026-11-09-trump-opens-to-immigration-deal-as-jeffries-backs-hegseth-impeachment-effort
-  headline: Trump opens to immigration deal as Jeffries backs Hegseth impeachment effort
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7301
-- slug: 2026-11-04-jeffries-criminal-justice-house-speaker-path
-  headline: Jeffries's criminal justice reform work shapes his House speakership path
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7574
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.756
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7451
-- slug: 2026-11-04-mike-johnson-steps-aside-from-house-republican-leadership-after-midterm-losses
-  headline: Mike Johnson steps aside from House Republican leadership after midterm losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7133
-- slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
-  headline: Democrats poised for House control as midterm election results begin
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7072
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8018
+  strength: 0.7481
 ---
-
 ## House Democrats nominate Hakeem Jeffries for speaker in 251-11 vote
 
 **Subtype:** fact
