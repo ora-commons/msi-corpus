@@ -1,9 +1,20 @@
 ---
 headline: Small island coalition presses COP31 for action and climate finance
-secondary_headline: Alliance seeks $500 million for resiliency, $200 million for early warnings
+secondary_headline: Alliance seeks $500 million for resiliency, $200 million for early
+  warnings
 publish_date: '2026-11-18'
-lede: COP31 is in its second and final week in Antalya, Turkey, where 39 small island states are pressing for more climate action and financing as climate-induced disasters, geopolitical shocks and an intensifying El Niño make life in the world’s smallest countries more precarious. The Alliance of Small Island States wants the talks to deliver $500 million for climate resiliency programs and $200 million for natural disaster early-warning systems.
-nut_graf: 'The alliance’s demands put the limits of COP31’s voluntary process in focus: many agreements are nonbinding, countries have not agreed how to transition away from fossil fuels, and the United Nations has announced that the world is unlikely to reach its 1.5-degree Celsius ambition. For small island states, the stakes include marine resources, erosion, flooding, disaster recovery and the cost of adaptation now.'
+lede: COP31 is in its second and final week in Antalya, Turkey, where 39 small island
+  states are pressing for more climate action and financing as climate-induced disasters,
+  geopolitical shocks and an intensifying El Niño make life in the world’s smallest
+  countries more precarious. The Alliance of Small Island States wants the talks to
+  deliver $500 million for climate resiliency programs and $200 million for natural
+  disaster early-warning systems.
+nut_graf: 'The alliance’s demands put the limits of COP31’s voluntary process in focus:
+  many agreements are nonbinding, countries have not agreed how to transition away
+  from fossil fuels, and the United Nations has announced that the world is unlikely
+  to reach its 1.5-degree Celsius ambition. For small island states, the stakes include
+  marine resources, erosion, flooding, disaster recovery and the cost of adaptation
+  now.'
 primary_entities:
 - Alliance of Small Island States
 - COP31
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,22 +160,22 @@ related_stories:
   headline: Guterres urges drastic emissions cuts at final climate summit
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7653
+  strength: 0.7651
 - slug: 2026-11-12-global-climate-action-has-stalled-for-five-years-report-finds
   headline: Global climate action has stalled for five years, report finds
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7464
+  strength: 0.7463
 - slug: 2026-11-17-nepal-presses-cop31-for-faster-loss-and-damage-recovery-funding
   headline: Nepal presses COP31 for faster loss-and-damage recovery funding
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7064
+  strength: 0.7076
 - slug: 2026-11-11-world-leaders-begin-cop31-talks-in-turkey-seeking-concrete-climate-action
   headline: World leaders begin COP31 talks in Turkey seeking concrete climate action
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7379
+  strength: 0.7375
 - slug: 2026-11-15-fossil-fuel-coalition-presses-on-at-cop31-after-colombia-s-withdrawal
   headline: Fossil fuel coalition presses on at COP31 after Colombia's withdrawal
   publish_date: '2026-11-15'
@@ -178,74 +190,14 @@ related_stories:
   headline: UN climate talks open in Turkey with fossil fuel transition as key issue
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7526
+  strength: 0.7525
 - slug: 2026-11-17-climate-debt-diverts-funds-from-disaster-preparation-guardian-editorial-says
-  headline: Climate debt diverts funds from disaster preparation, Guardian editorial says
+  headline: Climate debt diverts funds from disaster preparation, Guardian editorial
+    says
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6688
-- slug: 2026-11-09-kurum-s-action-agenda-centers-on-electrification
-  headline: Kurum's Action Agenda centers on electrification
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7197
-- slug: 2026-11-15-un-climate-process-gains-breathing-space-at-cop31-amid-rising-risks
-  headline: UN climate process gains breathing space at Cop31 amid rising risks
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6787
-- slug: 2026-11-16-harvard-study-ties-403-us-data-centers-to-28-3-million-tons-of-co2
-  headline: Harvard study ties 403 US data centers to 28.3 million tons of CO2
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6649
-- slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
-  headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7254
-- slug: 2026-11-13-cop31-electrification-pledge-draws-calls-for-mining-safeguards
-  headline: COP31 electrification pledge draws calls for mining safeguards
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6819
-- slug: 2026-11-11-erdogan-urges-countries-to-adopt-zero-waste-goals-at-cop31
-  headline: Erdogan urges countries to adopt zero-waste goals at COP31
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6867
-- slug: 2026-11-07-guterres-prepares-final-climate-message-as-cop31-s-nov-9-opening-nears
-  headline: Guterres prepares final climate message as COP31's Nov. 9 opening nears
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6962
-- slug: 2026-11-10-five-countries-back-plan-to-double-homes-with-rooftop-solar-by-2030
-  headline: Five countries back plan to double homes with rooftop solar by 2030
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6775
-- slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6874
-- slug: 2026-11-12-turkey-rallies-world-leaders-behind-goal-to-electrify-35-of-energy-use-by-2035
-  headline: Turkey rallies world leaders behind goal to electrify 35% of energy use by 2035
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6531
-- slug: 2026-11-11-erdogan-calls-gaza-war-an-ecocide-at-cop31-asks-israel-for-more-aid-access
-  headline: Erdogan calls Gaza war an ecocide at COP31, asks Israel for more aid access
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6589
-- slug: 2026-10-09-at-fiji-pre-summit-kurum-calls-climate-crisis-the-security-issue
-  headline: At Fiji pre-summit, Kurum calls climate crisis 'the security issue'
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7409
+  strength: 0.6689
 ---
-
 ## Small island coalition presses COP31 for action and climate finance
 
 **Subtype:** fact

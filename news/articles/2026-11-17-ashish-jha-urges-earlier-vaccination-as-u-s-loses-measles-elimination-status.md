@@ -2,8 +2,16 @@
 headline: Ashish Jha urges earlier vaccination as U.S. loses measles elimination status
 secondary_headline: Jha says some children and adults may need an extra dose
 publish_date: '2026-11-17'
-lede: Dr. Ashish Jha told NPR on November 17, 2026, that the United States has lost its measles elimination status, warning that children remain vulnerable before their first measles shot. Speaking with host Scott Detrow, Jha urged parents to seek an earlier dose during local outbreaks and called for stronger federal and community action.
-nut_graf: Jha said most parents still vaccinate their children but that enough are not to leave the country in its current predicament. He cited pandemic disruptions in access to doctors and the anti-vaccine movement's use of COVID-19 vaccines as contributing factors, and called for earlier doses, outreach to worried parents, congressional accountability and broader public-health action.
+lede: Dr. Ashish Jha told NPR on November 17, 2026, that the United States has lost
+  its measles elimination status, warning that children remain vulnerable before their
+  first measles shot. Speaking with host Scott Detrow, Jha urged parents to seek an
+  earlier dose during local outbreaks and called for stronger federal and community
+  action.
+nut_graf: Jha said most parents still vaccinate their children but that enough are
+  not to leave the country in its current predicament. He cited pandemic disruptions
+  in access to doctors and the anti-vaccine movement's use of COVID-19 vaccines as
+  contributing factors, and called for earlier doses, outreach to worried parents,
+  congressional accountability and broader public-health action.
 primary_entities:
 - Ashish Jha
 - Scott Detrow
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,108 +147,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-17-nearly-150-health-groups-urge-stronger-federal-action-on-measles
+  headline: Nearly 150 health groups urge stronger federal action on measles
+  publish_date: '2026-11-17'
+  relation: related
+  strength: 0.7906
 - slug: 2026-11-17-health-secretary-kennedy-defends-vaccine-overhaul-as-measles-cases-surge
   headline: Health Secretary Kennedy defends vaccine overhaul as measles cases surge
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7767
+  strength: 0.7764
 - slug: 2026-11-14-pan-american-health-organization-says-us-has-lost-measles-elimination-status
-  headline: Pan American Health Organization says US has lost measles elimination status
+  headline: Pan American Health Organization says US has lost measles elimination
+    status
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7829
+  strength: 0.783
 - slug: 2026-11-17-paho-ends-measles-elimination-status-in-us-mexico-and-bolivia
   headline: PAHO ends measles elimination status in US, Mexico and Bolivia
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7543
+  strength: 0.7542
 - slug: 2026-11-17-u-s-measles-cases-top-5-400-so-far-this-year-largely-driven-by-pennsylvania
   headline: U.S. measles cases top 5,400 so far this year, largely driven by Pennsylvania
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7534
+  strength: 0.753
 - slug: 2026-11-17-us-measles-status-loss-brings-certificate-requests-and-possible-21-day-quarantin
-  headline: US measles status loss brings certificate requests and possible 21-day quarantines
+  headline: US measles status loss brings certificate requests and possible 21-day
+    quarantines
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7438
+  strength: 0.7431
 - slug: 2026-11-17-some-experts-say-no-kennedy-or-cdc-measles-briefing-is-scheduled
   headline: Some experts say no Kennedy or CDC measles briefing is scheduled
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7427
+  strength: 0.7425
 - slug: 2026-11-13-paho-panel-weighs-us-mexico-measles-elimination-status
   headline: PAHO panel weighs US, Mexico measles elimination status
   publish_date: '2026-11-13'
   relation: related
   strength: 0.7568
-- slug: 2026-11-13-us-measles-cases-push-nation-toward-losing-elimination-status
-  headline: US measles cases push nation toward losing elimination status
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7557
-- slug: 2026-11-14-pan-american-health-organization-revokes-u-s-measles-elimination-status
-  headline: Pan American Health Organization revokes U.S. measles elimination status
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7367
-- slug: 2026-11-17-united-states-expected-to-lose-measles-elimination-status
-  headline: United States expected to lose measles elimination status
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7129
-- slug: 2026-11-17-cdc-scientists-report-112-cases-in-pregnant-women-and-13-congenital-measles-case
-  headline: CDC scientists report 112 cases in pregnant women and 13 congenital measles cases
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7074
-- slug: 2026-11-11-eight-experts-weigh-u-s-measles-elimination-status-this-week
-  headline: Eight experts weigh U.S. measles elimination status this week
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7402
-- slug: 2026-11-12-us-measles-deaths-reach-twice-the-2025-total-in-largest-outbreak-since-1991
-  headline: US measles deaths reach twice the 2025 total in largest outbreak since 1991
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7149
-- slug: 2026-11-03-robert-f-kennedy-jr-cuts-childhood-immunization-recommendations-by-a-third
-  headline: Robert F Kennedy Jr cuts childhood immunization recommendations by a third
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7402
-- slug: 2026-10-30-us-parents-move-up-second-mmr-dose-as-measles-cases-accelerate
-  headline: US parents move up second MMR dose as measles cases accelerate
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7153
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7485
-- slug: 2026-09-17-kennedy-tells-anti-vaccine-conference-you-have-a-friend-at-the-white-house
-  headline: 'Kennedy tells anti-vaccine conference: ''you have a friend at the White House'''
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7313
-- slug: 2026-09-17-local-officials-mount-vaccine-push-as-us-measles-deaths-rise
-  headline: Local officials mount vaccine push as US measles deaths rise
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.721
-- slug: 2026-08-02-kennedy-urges-measles-vaccination-as-us-outbreak-reaches-2-371-cases
-  headline: Kennedy urges measles vaccination as US outbreak reaches 2,371 cases
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.7987
-- slug: 2026-02-07-top-health-official-urges-us-public-to-get-the-measles-vaccine
-  headline: Top health official urges US public to get the measles vaccine
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.7692
 ---
-
 ## Ashish Jha urges earlier vaccination as U.S. loses measles elimination status
 
 **Subtype:** fact
