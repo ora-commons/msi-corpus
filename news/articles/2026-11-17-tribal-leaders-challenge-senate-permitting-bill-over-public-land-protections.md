@@ -223,6 +223,8 @@ related_stories:
   publish_date: '2026-11-07'
   relation: related
   strength: 0.6658
+analyses:
+- '2026-11-17-senate-permitting-bill-tests-speed-against-institutional-authority'
 ---
 ## Tribal leaders challenge Senate permitting bill over public-land protections
 
@@ -268,3 +270,8 @@ Although the measure would cut back permitting regulations for federal developme
 **Publication date:** 2026-11-17
 **Title:** Cantwell, tribal leaders denounce sweeping permitting reform bill in US Senate
 **URL:** https://www.newsfromthestates.com/article/cantwell-tribal-leaders-denounce-sweeping-permitting-reform-bill-us-senate
+
+---
+
+<!-- analysis-link:2026-11-17-senate-permitting-bill-tests-speed-against-institutional-authority -->
+**Going deeper:** [Read MSI's analysis of the Senate permitting bill →](/analyses/2026-11-17-senate-permitting-bill-tests-speed-against-institutional-authority)
