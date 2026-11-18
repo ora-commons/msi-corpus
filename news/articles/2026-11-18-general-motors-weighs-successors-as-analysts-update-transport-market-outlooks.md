@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-10-12'
   relation: related
   strength: 0.6644
+analyses:
+- '2026-11-18-broker-forecasts-hinge-on-dated-triggers-and-unpublished-sensitivities'
 ---
 ## General Motors weighs successors as analysts update transport market outlooks
 
@@ -250,3 +252,8 @@ RBC lowered its FY 2027 EPS forecast by 2% because of higher upfront costs in th
 **Publication date:** 2026-11-18
 **Title:** Auto & Transport Roundup: Market Talk
 **URL:** https://www.wsj.com/business/auto-transport-roundup-market-talk-106eebc0
+
+---
+
+<!-- analysis-link:2026-11-18-broker-forecasts-hinge-on-dated-triggers-and-unpublished-sensitivities -->
+**Going deeper:** [Read MSI's analysis of dated transport market triggers →](/analyses/2026-11-18-broker-forecasts-hinge-on-dated-triggers-and-unpublished-sensitivities)
