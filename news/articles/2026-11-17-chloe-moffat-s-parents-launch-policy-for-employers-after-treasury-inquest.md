@@ -168,6 +168,8 @@ related_stories:
   publish_date: '2026-08-26'
   relation: related
   strength: 0.8391
+analyses:
+- '2026-11-17-chloe-s-policy-shifts-scrutiny-to-the-point-before-discipline-begins'
 ---
 ## Chloe Moffat's parents launch policy for employers after Treasury inquest
 
@@ -213,3 +215,8 @@ A Treasury spokesperson said: “The Treasury’s deepest sympathies continue to
 **Publication date:** 2026-11-17
 **Title:** ‘Chloe’s policy’ aims to prevent repeat of case of Treasury worker who took her own life
 **URL:** https://www.theguardian.com/politics/2026/nov/17/chloe-moffat-policy-parents-treasury-worker-employers
+
+---
+
+<!-- analysis-link:2026-11-17-chloe-s-policy-shifts-scrutiny-to-the-point-before-discipline-begins -->
+**Going deeper:** [Read MSI's analysis of pre-disciplinary policy safeguards →](/analyses/2026-11-17-chloe-s-policy-shifts-scrutiny-to-the-point-before-discipline-begins)

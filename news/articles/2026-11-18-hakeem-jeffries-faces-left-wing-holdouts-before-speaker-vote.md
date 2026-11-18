@@ -2,8 +2,17 @@
 headline: Hakeem Jeffries faces left-wing holdouts before Speaker vote
 secondary_headline: The Speaker stands after the vice president in presidential succession
 publish_date: '2026-11-18'
-lede: BBC News reported that Hakeem Jeffries faced a handful of holdouts from the Democratic Party's left wing despite overwhelming support ahead of the full House's 3 January Speaker election. The Speaker stands in the line of succession to the presidency after the vice president, and BBC News reported that Jeffries' election to the powerful position was widely expected. As of Wednesday, Democrats would hold at least 257 House seats next year, with 7 races still uncalled.
-nut_graf: If elected on 3 January, Jeffries would enter the presidential line of succession after the vice president. As of Wednesday, Democrats would hold at least 257 House seats next year, with 7 races still uncalled, and the party would hold a majority when the next term began. Democrats' Wednesday nomination put Jeffries on the path to become the first Black lawmaker to lead the chamber if elected.
+lede: BBC News reported that Hakeem Jeffries faced a handful of holdouts from the
+  Democratic Party's left wing despite overwhelming support ahead of the full House's
+  3 January Speaker election. The Speaker stands in the line of succession to the
+  presidency after the vice president, and BBC News reported that Jeffries' election
+  to the powerful position was widely expected. As of Wednesday, Democrats would hold
+  at least 257 House seats next year, with 7 races still uncalled.
+nut_graf: If elected on 3 January, Jeffries would enter the presidential line of succession
+  after the vice president. As of Wednesday, Democrats would hold at least 257 House
+  seats next year, with 7 races still uncalled, and the party would hold a majority
+  when the next term began. Democrats' Wednesday nomination put Jeffries on the path
+  to become the first Black lawmaker to lead the chamber if elected.
 primary_entities:
 - Hakeem Jeffries
 - Democrats
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -162,7 +172,8 @@ related_stories:
   relation: related
   strength: 0.8347
 - slug: 2026-11-08-jeffries-faces-divided-democrats-atop-largest-house-majority-since-obama-s-first
-  headline: Jeffries faces divided Democrats atop largest House majority since Obama's first year
+  headline: Jeffries faces divided Democrats atop largest House majority since Obama's
+    first year
   publish_date: '2026-11-08'
   relation: related
   strength: 0.8017
@@ -176,77 +187,20 @@ related_stories:
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7501
-- slug: 2026-11-14-eleven-absent-democrats-sink-house-vote-on-hegseth-impeachment
-  headline: Eleven absent Democrats sink House vote on Hegseth impeachment
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6953
-- slug: 2026-11-04-jeffries-criminal-justice-house-speaker-path
-  headline: Jeffries's criminal justice reform work shapes his House speakership path
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7544
-- slug: 2026-11-08-jeffries-backs-impeaching-hegseth-as-democrats-prepare-to-take-house-control
-  headline: Jeffries backs impeaching Hegseth as Democrats prepare to take House control
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7197
-- slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
-  headline: Tom Emmer wins House Republican whip race over August Pfluger
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.706
-- slug: 2026-11-04-house-republicans-scheduled-to-pick-new-leader-nov-10-after-johnson-s-departure
-  headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7399
-- slug: 2026-11-14-mahdawi-argues-democrats-weaponize-identity-politics-against-progressives
-  headline: Mahdawi argues Democrats weaponize identity politics against progressives
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6774
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7372
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.733
-- slug: 2026-11-09-trump-opens-to-immigration-deal-as-jeffries-backs-hegseth-impeachment-effort
-  headline: Trump opens to immigration deal as Jeffries backs Hegseth impeachment effort
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7014
-- slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
-  headline: Democrats poised for House control as midterm election results begin
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6928
-- slug: 2026-11-04-mike-johnson-steps-aside-from-house-republican-leadership-after-midterm-losses
-  headline: Mike Johnson steps aside from House Republican leadership after midterm losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6855
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7774
 image:
   url: /articles/2026-11-18-hakeem-jeffries-faces-left-wing-holdouts-before-speaker-vote.png
-  alt: "Illustration accompanying article: Hakeem Jeffries faces left-wing holdouts before Speaker vote"
+  alt: 'Illustration accompanying article: Hakeem Jeffries faces left-wing holdouts
+    before Speaker vote'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Hakeem Jeffries faces left-wing holdouts before Speaker vote
 
 **Subtype:** fact

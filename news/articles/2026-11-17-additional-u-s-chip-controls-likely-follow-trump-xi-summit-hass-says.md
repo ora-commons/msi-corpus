@@ -214,6 +214,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.7992
+analyses:
+- '2026-11-17-trump-xi-summit-likely-precedes-tighter-u-s-chip-controls'
 ---
 ## Additional U.S. chip controls likely follow Trump-Xi summit, Hass says
 
@@ -257,3 +259,8 @@ Separately, The Wall Street Journal reported that former Harvard professor Liu J
 **Publication date:** 2026-11-17
 **Title:** Why Neither Trump Nor Xi Is Likely to Raise Nvidia at Their Summit
 **URL:** https://www.wsj.com/world/china/why-neither-trump-nor-xi-is-likely-to-raise-nvidia-at-their-summit-5b93bc1a
+
+---
+
+<!-- analysis-link:2026-11-17-trump-xi-summit-likely-precedes-tighter-u-s-chip-controls -->
+**Going deeper:** [Read MSI's analysis of post-summit U.S. chip-control trajectory →](/analyses/2026-11-17-trump-xi-summit-likely-precedes-tighter-u-s-chip-controls)

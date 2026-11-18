@@ -1,9 +1,19 @@
 ---
 headline: Robert Garcia orders Trump allies to preserve records for oversight probes
-secondary_headline: Twelve letters outline probes into family finances, DHS contracts and Epstein files
+secondary_headline: Twelve letters outline probes into family finances, DHS contracts
+  and Epstein files
 publish_date: '2026-11-18'
-lede: Incoming House Oversight Committee chair Robert Garcia sent 12 letters on Wednesday to relatives and allies of Donald Trump, directing them to preserve records ahead of investigations he plans to open when he takes control of the committee and gains subpoena power in January. Recipients included Donald Trump Jr, Eric Trump, Jared Kushner, Vice President JD Vance, Attorney General Todd Blanche and Susie Wiles, Trump's former White House chief of staff.
-nut_graf: The letters define the investigations Garcia plans to pursue when the committee takes control, covering family finances, Department of Homeland Security contracting and the Epstein files. They also set up a confrontation with a White House that has added 15 lawyers to counsel's office and told executive agencies to seek approval before testifying on Capitol Hill.
+lede: Incoming House Oversight Committee chair Robert Garcia sent 12 letters on Wednesday
+  to relatives and allies of Donald Trump, directing them to preserve records ahead
+  of investigations he plans to open when he takes control of the committee and gains
+  subpoena power in January. Recipients included Donald Trump Jr, Eric Trump, Jared
+  Kushner, Vice President JD Vance, Attorney General Todd Blanche and Susie Wiles,
+  Trump's former White House chief of staff.
+nut_graf: The letters define the investigations Garcia plans to pursue when the committee
+  takes control, covering family finances, Department of Homeland Security contracting
+  and the Epstein files. They also set up a confrontation with a White House that
+  has added 15 lawyers to counsel's office and told executive agencies to seek approval
+  before testifying on Capitol Hill.
 primary_entities:
 - Robert Garcia
 - Donald Trump
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +162,44 @@ related_stories:
   headline: Garcia asks 13 Trump allies to preserve records for January probes
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.9003
+  strength: 0.9007
 - slug: 2026-11-18-robert-garcia-sends-preservation-letters-to-trump-family-and-officials
   headline: Robert Garcia sends preservation letters to Trump family and officials
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8735
+  strength: 0.873
 - slug: 2026-11-11-white-house-counsel-warns-democratic-probes-could-cross-into-criminality
   headline: White House counsel warns Democratic probes could cross into criminality
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.768
+  strength: 0.7683
 - slug: 2026-11-12-garcia-says-democrats-will-pursue-trump-probes-despite-white-house-warning
   headline: Garcia says Democrats will pursue Trump probes despite White House warning
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7571
-- slug: 2026-11-11-white-house-counsel-warns-garcia-that-trump-probes-may-cross-into-criminality
-  headline: White House counsel warns Garcia that Trump probes may cross into criminality
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7478
+  strength: 0.7556
 - slug: 2026-11-10-house-republicans-urge-doj-to-expand-epstein-investigation
   headline: House Republicans urge DOJ to expand Epstein investigation
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7524
+  strength: 0.754
+- slug: 2026-11-11-white-house-counsel-warns-garcia-that-trump-probes-may-cross-into-criminality
+  headline: White House counsel warns Garcia that Trump probes may cross into criminality
+  publish_date: '2026-11-11'
+  relation: related
+  strength: 0.7465
 - slug: 2026-11-16-us-attorney-warns-warren-to-preserve-records-tied-to-trump-investigations
   headline: US attorney warns Warren to preserve records tied to Trump investigations
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7039
+  strength: 0.7043
 - slug: 2026-11-10-house-panel-says-facts-don-t-suggest-trump-was-implicated-in-epstein-s-crimes
-  headline: House panel says facts don't suggest Trump was implicated in Epstein's crimes
+  headline: House panel says facts don't suggest Trump was implicated in Epstein's
+    crimes
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.738
-- slug: 2026-11-10-house-oversight-report-faults-doj-over-mishandling-epstein-records
-  headline: House Oversight report faults DOJ over mishandling Epstein records
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.721
-- slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7522
-- slug: 2026-11-11-lawmakers-force-house-vote-on-bill-letting-survivors-sue-doj-over-epstein-files
-  headline: Lawmakers force House vote on bill letting survivors sue DOJ over Epstein files
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7084
-- slug: 2026-11-11-white-house-counsel-warns-garcia-that-investigation-threats-may-be-criminal
-  headline: Scharf letter warns unlawful subpoenas may warrant investigation on their own
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7057
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7423
-- slug: 2026-11-10-epstein-survivor-says-house-report-gives-her-hope-urges-doj-to-keep-investigatin
-  headline: Epstein survivor says House report gives her hope, urges DOJ to keep investigating
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7064
-- slug: 2026-11-04-democrats-ask-trump-officials-to-preserve-records-after-election-victories
-  headline: Democrats ask Trump officials to preserve records after election victories
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7382
-- slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
-  headline: House Judiciary Democrats ask Blanche to probe Epstein network
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7137
-- slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
-  headline: Democrats outline investigation priorities if they win Congress
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.7126
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7357
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7325
-- slug: 2025-12-31-justice-department-reviews-5-2-million-epstein-files-misses-deadline
-  headline: Justice Department reviews 5.2 million Epstein files, misses deadline
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.7281
+  strength: 0.7374
 ---
-
 ## Robert Garcia orders Trump allies to preserve records for oversight probes
 
 **Subtype:** fact
