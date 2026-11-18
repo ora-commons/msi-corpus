@@ -1,9 +1,21 @@
 ---
 headline: Norm Coleman faces scrutiny over Pentagon role and defense clients
-secondary_headline: Lobbying disclosures show continued defense work after Coleman's board appointment
+secondary_headline: Lobbying disclosures show continued defense work after Coleman's
+  board appointment
 publish_date: '2026-11-18'
-lede: Norm Coleman, the former Republican senator and informal guide to Defense Secretary Pete Hegseth, faces potential conflict-of-interest questions over his simultaneous service on the Pentagon's Defense Policy Board, lobbying for Saudi Arabia and advising Kinetica. The Guardian reported on November 18, 2026, that Coleman's roles place him near defense policy while representing clients with direct stakes in Pentagon decisions. The report said the overlapping work is not illegal, while critics challenged the arrangement's ethics.
-nut_graf: The Defense Policy Board advises on force structure, modernization, regional defense policy and other security issues, while Coleman's private work includes Saudi Arabia and Israeli weapons company Kinetica. The arrangement matters because Coleman's board role can bear on defense procurement while his clients have direct interests in Pentagon decisions. Legal permissibility does not resolve the separate question of whether government advisers owe undivided loyalty.
+lede: Norm Coleman, the former Republican senator and informal guide to Defense Secretary
+  Pete Hegseth, faces potential conflict-of-interest questions over his simultaneous
+  service on the Pentagon's Defense Policy Board, lobbying for Saudi Arabia and advising
+  Kinetica. The Guardian reported on November 18, 2026, that Coleman's roles place
+  him near defense policy while representing clients with direct stakes in Pentagon
+  decisions. The report said the overlapping work is not illegal, while critics challenged
+  the arrangement's ethics.
+nut_graf: The Defense Policy Board advises on force structure, modernization, regional
+  defense policy and other security issues, while Coleman's private work includes
+  Saudi Arabia and Israeli weapons company Kinetica. The arrangement matters because
+  Coleman's board role can bear on defense procurement while his clients have direct
+  interests in Pentagon decisions. Legal permissibility does not resolve the separate
+  question of whether government advisers owe undivided loyalty.
 primary_entities:
 - Norm Coleman
 - Pete Hegseth
@@ -39,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,14 +154,15 @@ related_stories:
   headline: Pete Hegseth defends Iran war as lawmakers consider his impeachment
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6843
+  strength: 0.6848
 - slug: 2026-11-10-massie-s-impeachment-resolution-cites-hegseth-s-yemen-and-venezuela-actions
   headline: Massie's impeachment resolution cites Hegseth's Yemen and Venezuela actions
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6735
+  strength: 0.6739
 - slug: 2026-11-08-republican-close-says-pete-hegseth-should-take-responsibility-for-iran-war
-  headline: Republican close says Pete Hegseth should take responsibility for Iran war
+  headline: Republican close says Pete Hegseth should take responsibility for Iran
+    war
   publish_date: '2026-11-08'
   relation: related
   strength: 0.6797
@@ -156,89 +170,28 @@ related_stories:
   headline: Hegseth faces four-seat House test as Johnson warns on impeachment
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.669
+  strength: 0.6695
 - slug: 2026-11-07-hegseth-s-team-prepares-response-to-possible-house-impeachment-vote
   headline: Hegseth's team prepares response to possible House impeachment vote
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6753
+  strength: 0.6757
 - slug: 2026-11-09-nvidia-inquiry-draws-top-republican-demands-for-answers
   headline: Nvidia inquiry draws top Republican demands for answers
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6602
-- slug: 2026-11-11-trump-helped-whip-votes-against-hegseth-impeachment-resolution
-  headline: Trump helped whip votes against Hegseth impeachment resolution
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6476
-- slug: 2026-11-10-republicans-53-47-senate-majority-faces-possible-shift-to-44-seats
-  headline: Republicans' 53-47 Senate majority faces possible shift to 44 seats
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6492
-- slug: 2026-11-10-house-blocks-hegseth-impeachment-effort-in-211-204-vote
-  headline: House blocks Hegseth impeachment effort in 211-204 vote
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6475
-- slug: 2026-11-10-hegseth-ends-months-long-press-silence-with-25-minute-impeachment-defense
-  headline: Hegseth ends months-long press silence with 25-minute impeachment defense
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6466
-- slug: 2026-11-10-trump-weighs-keeping-or-firing-hegseth-as-impeachment-votes-begin
-  headline: Trump weighs keeping or firing Hegseth as impeachment votes begin
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6419
-- slug: 2026-11-09-massie-introduces-eight-articles-of-impeachment-against-hegseth
-  headline: Massie introduces eight articles of impeachment against Hegseth
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6472
-- slug: 2026-11-10-impeachment-articles-cite-survivor-killings-judge-ruling-against-kelly-inquiry
-  headline: Impeachment articles cite survivor killings, judge ruling against Kelly inquiry
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6403
+  strength: 0.6592
 - slug: 2026-11-05-hegseth-faces-republican-scrutiny-over-iran-war-after-midterm-losses
   headline: Hegseth faces Republican scrutiny over Iran war after midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6673
+  strength: 0.6676
 - slug: 2026-10-29-hegseth-fires-joint-chiefs-strategy-chief-in-leak-probe
   headline: Hegseth fires Joint Chiefs strategy chief in leak probe
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.653
-- slug: 2026-09-19-pentagon-defends-hegseth-s-record-as-senate-panel-opposes-army-pick
-  headline: Pentagon defends Hegseth's record as Senate panel opposes Army pick
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6756
-- slug: 2026-09-15-massie-moves-to-impeach-hegseth-over-iran-war
-  headline: Massie moves to impeach Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6712
-- slug: 2026-09-15-massie-files-articles-of-impeachment-against-hegseth-over-iran-war
-  headline: Massie files articles of impeachment against Hegseth over Iran war
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6459
-- slug: 2026-08-31-pentagon-says-hegseth-regularly-receives-formal-military-objections-on-iran
-  headline: Pentagon says Hegseth regularly receives formal military objections on Iran
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6428
-- slug: 2026-07-13-pentagon-justice-department-form-joint-taskforce-to-investigate-press-leaks
-  headline: Pentagon, Justice Department form joint taskforce to investigate press leaks
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6412
+  strength: 0.6523
 ---
-
 ## Norm Coleman faces scrutiny over Pentagon role and defense clients
 
 **Subtype:** fact

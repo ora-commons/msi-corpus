@@ -1,9 +1,17 @@
 ---
 headline: Mullin to face House hearing on cyber outages, Louisiana trip and immigration
-secondary_headline: Likely questions cover CISA leadership vacancy, air traffic funding and deportation practices
+secondary_headline: Likely questions cover CISA leadership vacancy, air traffic funding
+  and deportation practices
 publish_date: '2026-11-18'
-lede: Markwayne Mullin will appear before the House Homeland Security Committee on Wednesday for a hearing expected to examine a nationwide flight grounding, recent cyber and technology outages, and immigration enforcement. Lawmakers are also likely to question Mullin’s Louisiana trip and the Cybersecurity and Infrastructure Security Agency’s lack of a Senate-confirmed leader, according to the Associated Press.
-nut_graf: The hearing brings together congressional scrutiny of the nationwide flight grounding, cybersecurity and federal agency leadership, and immigration enforcement. Mullin’s Saturday flight to Louisiana also drew scrutiny while thousands of flights remained canceled, according to the Associated Press.
+lede: Markwayne Mullin will appear before the House Homeland Security Committee on
+  Wednesday for a hearing expected to examine a nationwide flight grounding, recent
+  cyber and technology outages, and immigration enforcement. Lawmakers are also likely
+  to question Mullin’s Louisiana trip and the Cybersecurity and Infrastructure Security
+  Agency’s lack of a Senate-confirmed leader, according to the Associated Press.
+nut_graf: The hearing brings together congressional scrutiny of the nationwide flight
+  grounding, cybersecurity and federal agency leadership, and immigration enforcement.
+  Mullin’s Saturday flight to Louisiana also drew scrutiny while thousands of flights
+  remained canceled, according to the Associated Press.
 primary_entities:
 - Markwayne Mullin
 - U.S. Department of Homeland Security
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,116 +153,60 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-18-mullin-faces-congressional-scrutiny-after-flight-grounding-and-football-trip
-  headline: Mullin faces congressional scrutiny after flight grounding and football trip
+  headline: Mullin faces congressional scrutiny after flight grounding and football
+    trip
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8229
+  strength: 0.8224
 - slug: 2026-11-18-duffy-and-mullin-draw-criticism-over-faa-ground-stop-explanation
   headline: Duffy and Mullin draw criticism over FAA ground-stop explanation
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7438
+  strength: 0.7439
 - slug: 2026-11-13-mullin-says-no-indication-faa-ground-stop-was-a-threat-to-us
   headline: Mullin says no indication FAA ground stop was a threat to US
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7767
+  strength: 0.7752
 - slug: 2026-11-17-trump-faces-pressure-to-explain-wave-of-service-outages
   headline: Trump faces pressure to explain wave of service outages
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7103
+  strength: 0.7106
 - slug: 2026-11-13-dhs-secretary-says-no-threat-to-u-s-as-faa-grounds-all-flights
   headline: DHS secretary says no threat to U.S. as FAA grounds all flights
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7276
+  strength: 0.7266
 - slug: 2026-11-17-tech-outages-prompt-scrutiny-of-u-s-digital-vulnerabilities
   headline: Tech outages prompt scrutiny of U.S. digital vulnerabilities
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6984
+  strength: 0.699
 - slug: 2026-11-15-ground-stop-microsoft-outage-leave-travelers-doubting-official-accounts
   headline: Ground stop, Microsoft outage leave travelers doubting official accounts
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.6871
-- slug: 2026-11-17-u-s-officials-say-nsa-s-classified-network-is-temporarily-down
-  headline: U.S. officials say NSA's classified network is temporarily down
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6617
+  strength: 0.6851
 - slug: 2026-11-15-duffy-seeks-50-billion-for-faa-upgrades-after-nationwide-ground-stop
   headline: Duffy seeks $50 billion for FAA upgrades after nationwide ground stop
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.6728
-- slug: 2026-11-14-u-s-flight-cancellations-reach-more-than-4-100-after-ground-stop
-  headline: U.S. flight cancellations reach more than 4,100 after ground stop
-  publish_date: '2026-11-14'
-  relation: related
   strength: 0.6726
-- slug: 2026-11-14-airlines-cancel-thousands-of-flights-after-longest-us-ground-stop-in-25-years
-  headline: Airlines cancel thousands of flights after longest US ground stop in 25 years
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6679
-- slug: 2026-11-13-arroyo-says-nationwide-air-traffic-outage-could-stem-from-obsolete-technology
-  headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6689
-- slug: 2026-11-13-faa-lifts-nationwide-ground-stop-after-telecom-failure
-  headline: FAA lifts nationwide ground stop after telecom failure
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6658
-- slug: 2026-08-08-trump-grows-frustrated-with-homeland-security-secretary-mullin
-  headline: Trump grows frustrated with Homeland Security Secretary Mullin
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.6972
-- slug: 2026-03-24-mullin-confirmed-as-homeland-security-secretary-amid-tsa-funding-impasse
-  headline: Mullin Confirmed as Homeland Security Secretary Amid TSA Funding Impasse
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7152
-- slug: 2026-03-16-trump-s-dhs-pick-mullin-poised-to-inherit-a-department-beset-by-challenges
-  headline: Trump’s DHS pick Mullin poised to inherit a department beset by challenges
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.7157
-- slug: 2026-03-19-mullin-faces-senate-pushback-over-his-dhs-nomination
-  headline: Mullin faces Senate pushback over his DHS nomination
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6952
-- slug: 2026-03-15-trump-mass-deportations-at-crossroads-with-dhs-shake-up
-  headline: Trump mass deportations at crossroads with DHS shake-up
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6929
-- slug: 2026-03-25-senators-consider-deal-to-fund-homeland-security-but-not-ice-enforcement
-  headline: Senators consider deal to fund Homeland Security but not ICE enforcement
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6892
-- slug: 2026-03-19-lawmakers-struggle-to-end-homeland-security-funding-lapse
-  headline: Lawmakers struggle to end Homeland Security funding lapse
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6855
 image:
   url: /articles/2026-11-18-mullin-to-face-house-hearing-on-cyber-outages-louisiana-trip-and-immigration.png
-  alt: "Illustration accompanying article: Mullin to face House hearing on cyber outages, Louisiana trip and immigration"
+  alt: 'Illustration accompanying article: Mullin to face House hearing on cyber outages,
+    Louisiana trip and immigration'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Mullin to face House hearing on cyber outages, Louisiana trip and immigration
 
 **Subtype:** fact

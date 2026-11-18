@@ -2,8 +2,15 @@
 headline: General Motors weighs successors as analysts update transport market outlooks
 secondary_headline: HSBC expects 2% China passenger-car growth in 2027
 publish_date: '2026-11-18'
-lede: General Motors is working with an executive search firm to identify possible outside candidates to succeed Chief Executive Mary Barra and is also considering internal candidates, according to people familiar with the matter. The Wall Street Journal reported the process on Nov. 18. Barra has led GM since 2014, making her its second-longest-tenured chief executive.
-nut_graf: 'The roundup pairs General Motors'' succession process with mixed 2027 market forecasts: HSBC sees modest Chinese car growth, Barclays links further Strait of Hormuz disruption to pressure on Qatar''s finances, and UBS sees near-term airline benefits from lower fuel costs.'
+lede: General Motors is working with an executive search firm to identify possible
+  outside candidates to succeed Chief Executive Mary Barra and is also considering
+  internal candidates, according to people familiar with the matter. The Wall Street
+  Journal reported the process on Nov. 18. Barra has led GM since 2014, making her
+  its second-longest-tenured chief executive.
+nut_graf: 'The roundup pairs General Motors'' succession process with mixed 2027 market
+  forecasts: HSBC sees modest Chinese car growth, Barclays links further Strait of
+  Hormuz disruption to pressure on Qatar''s finances, and UBS sees near-term airline
+  benefits from lower fuel costs.'
 primary_entities:
 - General Motors
 - Mary Barra
@@ -55,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,104 +165,44 @@ related_stories:
   headline: Automakers plan more U.S. production as China vehicle sales fall
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6618
+  strength: 0.6623
 - slug: 2026-10-26-volvo-swings-to-a-deep-loss-as-china-profitability-and-volumes-decline
   headline: Volvo swings to a deep loss as China profitability and volumes decline
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.683
+  strength: 0.6831
 - slug: 2026-10-21-record-copper-and-elevated-steel-costs-add-pressure-to-gm-s-full-year-outlook
-  headline: Record copper and elevated steel costs add pressure to GM's full-year outlook
+  headline: Record copper and elevated steel costs add pressure to GM's full-year
+    outlook
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6919
+  strength: 0.6921
 - slug: 2026-10-21-transport-firms-adjust-plans-as-fuel-costs-and-demand-shift
   headline: Transport firms adjust plans as fuel costs and demand shift
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6639
+  strength: 0.664
 - slug: 2026-10-22-american-airlines-slows-capacity-growth-as-jet-fuel-costs-pressure-carriers
   headline: American Airlines slows capacity growth as jet fuel costs pressure carriers
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.658
+  strength: 0.6584
 - slug: 2026-10-21-gm-officials-hope-to-halve-vehicle-development-time-with-ai-and-new-software
   headline: GM officials hope to halve vehicle development time with AI and new software
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6504
+  strength: 0.6509
 - slug: 2026-10-15-chinese-automakers-target-overseas-markets-as-us-and-eu-tighten-access
   headline: Chinese automakers target overseas markets as US and EU tighten access
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6552
+  strength: 0.6556
 - slug: 2026-10-12-analysts-say-eu-hybrid-quota-limits-china-s-europe-push-only-at-the-margin
   headline: Analysts say EU hybrid quota limits China's Europe push only at the margin
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.665
-- slug: 2026-10-13-volkswagen-rises-as-analysts-praise-cost-cuts-stellantis-slips-on-2cv
-  headline: Volkswagen rises as analysts praise cost-cuts; Stellantis slips on 2CV
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6537
-- slug: 2026-10-06-c-h-robinson-to-buy-rxo-in-5-8-billion-freight-broker-deal
-  headline: C.H. Robinson to buy RXO in $5.8 billion freight-broker deal
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6499
-- slug: 2026-10-01-gm-sales-fall-5-5-in-q3-as-u-s-buyers-choose-sedans-small-suvs
-  headline: GM sales fall 5.5% in Q3 as U.S. buyers choose sedans, small SUVs
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6489
-- slug: 2026-09-21-oil-extends-slide-to-fourth-session-on-saudi-pipeline-repairs-iran-hopes
-  headline: Oil extends slide to fourth session on Saudi pipeline repairs, Iran hopes
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6569
-- slug: 2026-08-21-gm-s-century-long-us-sales-lead-over-toyota-shrinks-to-100-000-vehicles
-  headline: GM's century-long US sales lead over Toyota shrinks to 100,000 vehicles
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7189
-- slug: 2026-09-08-ubs-lifts-brent-forecast-to-95-as-middle-east-supply-risk-persists
-  headline: UBS lifts Brent forecast to $95 as Middle East supply risk persists
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6769
-- slug: 2026-09-14-morgan-stanley-weighs-vw-plan-oil-climbs-on-middle-east-tensions
-  headline: Morgan Stanley weighs VW plan; oil climbs on Middle East tensions
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6573
-- slug: 2026-09-15-daiwa-projects-21-decline-in-china-auto-sales-for-2026
-  headline: Daiwa projects 21% decline in China auto sales for 2026
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6489
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.727
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7176
-- slug: 2026-08-31-tanker-rates-hit-record-as-hormuz-traffic-falls-80-since-war-began
-  headline: Tanker rates hit record as Hormuz traffic falls 80% since war began
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6607
-- slug: 2026-08-17-analysts-cut-jetblue-raise-maersk-and-hapag-lloyd-as-iran-oil-risk-returns
-  headline: Analysts cut JetBlue, raise Maersk and Hapag-Lloyd as Iran oil risk returns
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6667
+  strength: 0.6644
 ---
-
 ## General Motors weighs successors as analysts update transport market outlooks
 
 **Subtype:** fact

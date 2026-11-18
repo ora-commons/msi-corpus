@@ -206,6 +206,8 @@ related_stories:
   publish_date: '2026-11-16'
   relation: related
   strength: 0.6648
+analyses:
+- '2026-11-17-quad-leaders-pair-exercises-with-business-forum-as-separate-china-talks-approach'
 ---
 ## Quad leaders plan joint military exercises and broader regional cooperation
 
@@ -252,3 +254,8 @@ Earlier, at the East Asia Summit, Albanese called for regional partners to work 
 **Publication date:** 2026-11-17
 **Title:** ‘Peace through strength’: Albanese and Trump hail progress on Quad alliance
 **URL:** https://www.theguardian.com/us-news/2026/nov/17/peace-through-strength-albanese-and-trump-hail-progress-on-quad-alliance
+
+---
+
+<!-- analysis-link:2026-11-17-quad-leaders-pair-exercises-with-business-forum-as-separate-china-talks-approach -->
+**Going deeper:** [Read MSI's analysis of the Quad’s dual-track strategy →](/analyses/2026-11-17-quad-leaders-pair-exercises-with-business-forum-as-separate-china-talks-approach)

@@ -1,9 +1,22 @@
 ---
 headline: Schumer declares Senate unity amid NSA outage and $50bn safety request
-secondary_headline: FDA nominee withdrawn as Alaska inquiries continue and BBC deposition delayed
+secondary_headline: FDA nominee withdrawn as Alaska inquiries continue and BBC deposition
+  delayed
 publish_date: '2026-11-18'
-lede: Senate Democratic leader Chuck Schumer said “We are all united together” as Democrats prepared to take the Senate majority in the new year, despite several caucus members pledging support for Chris Van Hollen. He had described Mary Peltola’s Alaska victory as “a gift to Alaska, the Senate, and all of America.” The Guardian’s live report also documented an NSA Net outage, criminal and civil inquiries announced by Alaska’s top federal prosecutor over an alleged ballot scheme, the White House’s withdrawal of Heidi Overton’s Food and Drug Administration nomination and Transportation Secretary Sean Duffy’s request for $50bn in additional air-safety funding.
-nut_graf: The developments concern the incoming Senate majority and its unresolved leadership contest, a government technology outage, the withdrawal of a federal health nominee, an air-safety funding request and several legal or procedural matters in progress. Alaska’s top federal prosecutor said criminal and civil inquiries were under way over an alleged ballot scheme, while the state governor separately planned a criminal investigation.
+lede: Senate Democratic leader Chuck Schumer said “We are all united together” as
+  Democrats prepared to take the Senate majority in the new year, despite several
+  caucus members pledging support for Chris Van Hollen. He had described Mary Peltola’s
+  Alaska victory as “a gift to Alaska, the Senate, and all of America.” The Guardian’s
+  live report also documented an NSA Net outage, criminal and civil inquiries announced
+  by Alaska’s top federal prosecutor over an alleged ballot scheme, the White House’s
+  withdrawal of Heidi Overton’s Food and Drug Administration nomination and Transportation
+  Secretary Sean Duffy’s request for $50bn in additional air-safety funding.
+nut_graf: The developments concern the incoming Senate majority and its unresolved
+  leadership contest, a government technology outage, the withdrawal of a federal
+  health nominee, an air-safety funding request and several legal or procedural matters
+  in progress. Alaska’s top federal prosecutor said criminal and civil inquiries were
+  under way over an alleged ballot scheme, while the state governor separately planned
+  a criminal investigation.
 primary_entities:
 - Chuck Schumer
 - Chris Van Hollen
@@ -57,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,104 +173,45 @@ related_stories:
   headline: Progressive groups back Van Hollen in Senate Democratic leadership challenge
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7817
+  strength: 0.7816
 - slug: 2026-11-17-alaska-senate-race-may-be-resolved-tomorrow-if-officials-run-ranked-choice-count
-  headline: Alaska Senate race may be resolved tomorrow if officials run ranked-choice count
+  headline: Alaska Senate race may be resolved tomorrow if officials run ranked-choice
+    count
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.767
+  strength: 0.7667
 - slug: 2026-11-17-van-hollen-challenges-schumer-for-next-year-s-senate-majority-leader
   headline: Van Hollen challenges Schumer for next year's Senate majority leader
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7524
+  strength: 0.7531
 - slug: 2026-11-18-mary-peltola-says-status-quo-in-dc-is-not-working-for-alaska-after-senate-win
-  headline: Mary Peltola says 'status quo in DC is not working for Alaska' after Senate win
+  headline: Mary Peltola says 'status quo in DC is not working for Alaska' after Senate
+    win
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.743
+  strength: 0.7426
 - slug: 2026-11-18-alaska-senate-race-spending-exceeds-140-million-amid-namesake-worries
   headline: Alaska Senate race spending exceeds $140 million amid namesake worries
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7397
+  strength: 0.7391
 - slug: 2026-11-17-mary-peltola-wins-alaska-senate-race-against-republican-dan-sullivan
   headline: Mary Peltola wins Alaska Senate race against Republican Dan Sullivan
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7443
+  strength: 0.7436
 - slug: 2026-11-18-mary-peltola-passes-50-threshold-in-alaska-s-u-s-senate-race
   headline: Mary Peltola passes 50% threshold in Alaska's U.S. Senate race
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7345
+  strength: 0.7347
 - slug: 2026-11-17-mary-peltola-leads-alaska-senate-race-with-98-of-votes-counted
   headline: Mary Peltola leads Alaska Senate race with 98% of votes counted
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7356
-- slug: 2026-11-17-mary-peltola-wins-alaska-s-u-s-senate-race-on-first-choice-majority
-  headline: Mary Peltola wins Alaska's U.S. Senate race on first-choice majority
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7335
-- slug: 2026-11-17-el-sayed-and-flanagan-back-van-hollen-for-senate-democratic-leader
-  headline: El-Sayed and Flanagan back Van Hollen for Senate Democratic leader
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7327
-- slug: 2026-11-18-alaska-elects-kreiss-tomkins-governor-democrats-flip-nine-senate-seats
-  headline: Alaska elects Kreiss-Tomkins governor; Democrats flip nine Senate seats
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7241
-- slug: 2026-11-18-peltola-s-alaska-victory-delivers-democrats-a-ninth-senate-seat
-  headline: Peltola's Alaska victory delivers Democrats a ninth Senate seat
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.724
-- slug: 2026-11-12-van-hollen-challenges-schumer-to-lead-senate-democrats
-  headline: Van Hollen challenges Schumer to lead Senate Democrats
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.747
-- slug: 2026-11-13-schumer-presses-100-day-agenda-as-van-hollen-challenges-him-for-leader-post
-  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader post
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7269
-- slug: 2026-11-14-schumer-says-he-has-the-votes-as-van-hollen-challenges-him-for-senate-leader
-  headline: Schumer says he has the votes as Van Hollen challenges him for Senate leader
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7192
-- slug: 2026-11-13-schumer-s-relationship-with-the-party-base-has-not-recovered
-  headline: Schumer's relationship with the party base has not recovered
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7197
-- slug: 2026-11-13-schumer-holds-the-advantage-as-van-hollen-challenges-him-for-senate-leader
-  headline: Schumer holds the advantage as Van Hollen challenges him for Senate leader
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7166
-- slug: 2026-11-13-schumer-and-van-hollen-split-senate-democratic-endorsements
-  headline: Schumer and Van Hollen split Senate Democratic endorsements
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7156
-- slug: 2026-11-13-slotkin-joins-sanders-in-calling-for-new-democratic-leadership
-  headline: Slotkin joins Sanders in calling for new Democratic leadership
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7135
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7515
+  strength: 0.7357
 ---
-
 ## Schumer declares Senate unity amid NSA outage and $50bn safety request
 
 **Subtype:** fact

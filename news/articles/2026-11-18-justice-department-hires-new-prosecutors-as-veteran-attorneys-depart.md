@@ -2,8 +2,18 @@
 headline: Justice Department hires new prosecutors as veteran attorneys depart
 secondary_headline: More than 50 hires had fewer than three years of legal experience
 publish_date: '2026-11-18'
-lede: The U.S. Justice Department has begun recruiting recent law school graduates and other attorneys with less than three years of experience as experienced federal prosecutors departed, according to a ProPublica analysis published Nov. 18, 2026. ProPublica found that by the end of January 2026, the department had lost more than 1,300 assistant U.S. attorneys and replaced about 470; its court-data analysis found immigration charges rose almost 50% nationwide while drug prosecutions fell about 10% in the first 18 months of President Donald Trump's second term.
-nut_graf: The hiring shift followed the loss of more than 1,300 assistant U.S. attorneys and a change in court workloads toward immigration cases. Legal experts said departing prosecutors were most likely to handle complex cases such as money laundering, organized crime and drug trafficking, and court dockets showed the same pattern, while the Justice Department did not answer ProPublica's detailed questions.
+lede: The U.S. Justice Department has begun recruiting recent law school graduates
+  and other attorneys with less than three years of experience as experienced federal
+  prosecutors departed, according to a ProPublica analysis published Nov. 18, 2026.
+  ProPublica found that by the end of January 2026, the department had lost more than
+  1,300 assistant U.S. attorneys and replaced about 470; its court-data analysis found
+  immigration charges rose almost 50% nationwide while drug prosecutions fell about
+  10% in the first 18 months of President Donald Trump's second term.
+nut_graf: The hiring shift followed the loss of more than 1,300 assistant U.S. attorneys
+  and a change in court workloads toward immigration cases. Legal experts said departing
+  prosecutors were most likely to handle complex cases such as money laundering, organized
+  crime and drug trafficking, and court dockets showed the same pattern, while the
+  Justice Department did not answer ProPublica's detailed questions.
 primary_entities:
 - U.S. Department of Justice
 - ProPublica
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,40 +153,31 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-09-investigation-shows-pennsylvania-judges-overlook-defective-post-conviction-work
-  headline: Investigation shows Pennsylvania judges overlook defective post-conviction work
+  headline: Investigation shows Pennsylvania judges overlook defective post-conviction
+    work
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6611
+  strength: 0.6603
 - slug: 2026-11-02-house-democrats-seek-dhs-data-on-detained-u-s-citizens
   headline: House Democrats seek DHS data on detained U.S. citizens
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6636
+  strength: 0.6639
 - slug: 2026-10-30-trump-administration-cuts-election-staff-and-sues-states-for-voter-rolls
   headline: Trump administration cuts election staff and sues states for voter rolls
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.672
+  strength: 0.6739
 - slug: 2026-10-29-propublica-tallies-500-cases-of-u-s-citizens-detained-by-agents
   headline: ProPublica tallies 500+ cases of U.S. citizens detained by agents
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6667
-- slug: 2026-11-03-propublica-prepares-2026-midterm-coverage-after-doj-lawsuit-dismissal
-  headline: ProPublica prepares 2026 midterm coverage after DOJ lawsuit dismissal
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6387
-- slug: 2026-10-21-doj-fraud-chief-directs-prosecutors-to-weigh-tax-charges-in-every-case
-  headline: DOJ fraud chief directs prosecutors to weigh tax charges in every case
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6461
+  strength: 0.6684
 - slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
   headline: Trump officials scramble to retain counsel ahead of February investigations
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6538
+  strength: 0.6555
 - slug: 2026-10-13-justice-department-threatens-antitrust-probe-of-american-bar-association
   headline: Justice Department threatens antitrust probe of American Bar Association
   publish_date: '2026-10-13'
@@ -185,64 +187,13 @@ related_stories:
   headline: ProPublica documents over 500 U.S. citizens detained by immigration agents
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6582
-- slug: 2026-10-10-lead-lawyer-and-senior-counsel-quit-doj-s-so-called-grand-conspiracy-probe
-  headline: Lead lawyer and senior counsel quit DOJ's so-called grand-conspiracy probe
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6362
-- slug: 2026-10-09-justice-department-charges-60-in-pre-midterm-noncitizen-voting-surge
-  headline: Justice Department charges 60+ in pre-midterm noncitizen voting surge
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6391
-- slug: 2026-08-11-visa-revocations-top-175-000-under-trump-administration
-  headline: Visa revocations top 175,000 under Trump administration
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6386
-- slug: 2026-07-23-justice-department-to-seek-fewer-records-and-set-five-week-timeline-for-merger-r
-  headline: Justice Department to seek fewer records and set five-week timeline for merger reviews
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6422
+  strength: 0.6593
 - slug: 2026-04-19-fbi-and-justice-department-ease-hiring-standards-as-staffing-crisis-deepens
   headline: FBI and Justice Department ease hiring standards as staffing crisis deepens
   publish_date: '2026-04-19'
   relation: related
-  strength: 0.6837
-- slug: 2026-01-18-doj-firings-hollow-out-career-staff-as-more-than-6-400-employees-depart
-  headline: DOJ firings hollow out career staff as more than 6,400 employees depart
-  publish_date: '2026-01-18'
-  relation: related
-  strength: 0.6921
-- slug: 2026-05-07-justice-department-targets-slow-immigration-judges-to-clear-immigration-backlog
-  headline: Justice Department targets slow immigration judges to clear immigration backlog
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6618
-- slug: 2026-05-06-doj-targets-slow-immigration-judges-as-trump-pushes-to-cut-backlog
-  headline: DOJ targets slow immigration judges as Trump pushes to cut backlog
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6523
-- slug: 2026-04-16-ap-investigation-highlights-issues-in-backgrounds-of-some-new-ice-hires
-  headline: Issues in backgrounds of some new ICE hires
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6455
-- slug: 2026-02-20-defendants-catch-a-break-from-exodus-of-prosecutors-in-minnesota
-  headline: Defendants catch a break from exodus of prosecutors in Minnesota
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6517
-- slug: 2026-04-17-ap-investigation-raises-concerns-about-backgrounds-of-some-new-ice-hires
-  headline: Concerns about backgrounds of some new ICE hires
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6441
+  strength: 0.6839
 ---
-
 ## Justice Department hires new prosecutors as veteran attorneys depart
 
 **Subtype:** fact
