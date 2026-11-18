@@ -1,9 +1,16 @@
 ---
 headline: Responders recount New Orleans river rescue after tanker collision
-secondary_headline: Madison Stone crew rescued 27 people as firefighters searched the water
+secondary_headline: Madison Stone crew rescued 27 people as firefighters searched
+  the water
 publish_date: '2026-11-17'
-lede: The Guardian reported days after the Atlantic Asphalt tanker struck the American Heritage river cruise boat in the Mississippi River that more than 100 people were pulled from the water. The American Heritage capsized and began to sink in New Orleans after the Friday collision, which injured more than 30 people.
-nut_graf: Interviews with the Madison Stone crew, New Orleans firefighters and harbor police detail how passengers left the sinking vessel and how rescuers reached people aboard it. The Guardian reported that more than 100 people were pulled from the river after a collision that injured more than 30.
+lede: The Guardian reported days after the Atlantic Asphalt tanker struck the American
+  Heritage river cruise boat in the Mississippi River that more than 100 people were
+  pulled from the water. The American Heritage capsized and began to sink in New Orleans
+  after the Friday collision, which injured more than 30 people.
+nut_graf: Interviews with the Madison Stone crew, New Orleans firefighters and harbor
+  police detail how passengers left the sinking vessel and how rescuers reached people
+  aboard it. The Guardian reported that more than 100 people were pulled from the
+  river after a collision that injured more than 30.
 primary_entities:
 - American Heritage
 - Atlantic Asphalt
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +150,43 @@ related_stories:
   headline: Rescue efforts underway after tanker hits docked cruise ship in New Orleans
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8428
+  strength: 0.8442
 - slug: 2026-11-13-new-orleans-ems-says-all-agencies-are-responding-to-river-cruise-rescue
   headline: New Orleans EMS says all agencies are responding to river cruise rescue
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8236
+  strength: 0.8247
 - slug: 2026-11-13-tanker-strikes-docked-cruise-ship-in-new-orleans-all-180-survive
   headline: Tanker strikes docked cruise ship in New Orleans, all 180 survive
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8218
+  strength: 0.8228
 - slug: 2026-11-13-cruise-ship-tips-onto-side-after-tanker-collision-in-new-orleans
   headline: Cruise ship tips onto side after tanker collision in New Orleans
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8207
+  strength: 0.822
 - slug: 2026-11-13-tanker-collides-with-new-orleans-cruise-liner-carrying-more-than-130-people
   headline: Tanker collides with New Orleans cruise liner carrying more than 130 people
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8034
+  strength: 0.8056
 - slug: 2026-11-14-new-orleans-port-sues-to-seize-tanker-that-struck-cruise-ship
   headline: New Orleans port sues to seize tanker that struck cruise ship
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7872
+  strength: 0.7882
 - slug: 2026-11-13-american-cruise-lines-evacuates-guests-and-crew-after-tanker-strike
   headline: American Cruise Lines evacuates guests and crew after tanker strike
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7928
+  strength: 0.7939
 - slug: 2026-11-15-ntsb-says-voyage-data-recorder-shows-tanker-was-upbound-toward-east-bank
   headline: NTSB says voyage data recorder shows tanker was upbound toward east bank
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.767
-- slug: 2026-11-15-father-recounts-crew-member-s-leap-into-mississippi-after-tanker-strike
-  headline: Father recounts crew member's leap into Mississippi after tanker strike
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.766
-- slug: 2026-11-15-ntsb-says-stuck-rudder-sent-tanker-into-new-orleans-cruise-ship
-  headline: NTSB says stuck rudder sent tanker into New Orleans cruise ship
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7634
-- slug: 2026-11-16-four-remain-hospitalized-after-tanker-struck-cruise-ship-in-new-orleans
-  headline: Four remain hospitalized after tanker struck cruise ship in New Orleans
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.737
-- slug: 2026-11-14-new-orleans-port-names-thome-in-collision-suit-company-says-crew-safe
-  headline: New Orleans port names Thome in collision suit; company says crew safe
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.737
-- slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
-  headline: Flood warning remains in Four Corners as San Juan River nears crest
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6242
-- slug: 2026-08-09-boat-operator-arrested-after-fatal-capsizing-near-statue-of-liberty
-  headline: Boat operator arrested after fatal capsizing near Statue of Liberty
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6263
-- slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
-  headline: Helicopters airlift 200 campers as Missouri flood kills 1
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.646
-- slug: 2026-07-11-helicopters-rescue-200-from-missouri-summer-camp-as-floods-sweep-southeast
-  headline: Helicopters rescue 200 from Missouri summer camp as floods sweep southeast
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6442
-- slug: 2026-07-05-hard-landing-snaps-wing-strut-in-east-river-seaplane-faa-says
-  headline: Hard landing snaps wing strut in East River seaplane, FAA says
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.639
-- slug: 2026-07-14-pontoon-boat-carrying-memorial-service-group-sinks-near-alcatraz-1-dead-3-missin
-  headline: Pontoon boat carrying memorial service group sinks near Alcatraz; 1 dead, 3 missing
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6252
-- slug: 2026-06-18-louisiana-shuttle-driver-rescues-three-tourists-from-rip-current
-  headline: Louisiana shuttle driver rescues three tourists from rip current
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6343
-- slug: 2026-02-01-coast-guard-suspends-search-for-7-after-fishing-boat-sinks-off-mass
-  headline: Coast Guard suspends search for 7 after fishing boat sinks off Mass.
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.6529
+  strength: 0.7677
 ---
-
 ## Responders recount New Orleans river rescue after tanker collision
 
 **Subtype:** fact

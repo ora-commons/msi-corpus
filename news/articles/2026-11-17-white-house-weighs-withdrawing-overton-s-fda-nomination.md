@@ -1,9 +1,21 @@
 ---
 headline: White House weighs withdrawing Overton’s FDA nomination
-secondary_headline: Robert F. Kennedy Jr. sought Marshall as an alternative during FDA leadership uncertainty
+secondary_headline: Robert F. Kennedy Jr. sought Marshall as an alternative during
+  FDA leadership uncertainty
 publish_date: '2026-11-17'
-lede: The Trump administration has considered withdrawing Dr. Heidi Overton’s nomination to lead the Food and Drug Administration over concerns that she lacks Senate support, according to people familiar with the matter. Overton is scheduled for a Wednesday vote by a Senate health committee, where several Republican lawmakers have raised concerns about her positions on vaccines, vapes and abortion policy. White House officials are weighing whether to let the nomination fail in committee or mount a strong effort to support it, the people said.
-nut_graf: The uncertainty comes as the FDA is being led on an acting basis by lawyer Kyle Diamantas. People familiar with the matter said Diamantas is expected to leave by the end of the year and that officials are considering Dr. Sara Brenner as a temporary replacement if he leaves before Overton or another nominee is confirmed. Brenner is a senior counselor at the Department of Health and Human Services who works on public-health issues including Ebola and pandemic preparedness.
+lede: The Trump administration has considered withdrawing Dr. Heidi Overton’s nomination
+  to lead the Food and Drug Administration over concerns that she lacks Senate support,
+  according to people familiar with the matter. Overton is scheduled for a Wednesday
+  vote by a Senate health committee, where several Republican lawmakers have raised
+  concerns about her positions on vaccines, vapes and abortion policy. White House
+  officials are weighing whether to let the nomination fail in committee or mount
+  a strong effort to support it, the people said.
+nut_graf: The uncertainty comes as the FDA is being led on an acting basis by lawyer
+  Kyle Diamantas. People familiar with the matter said Diamantas is expected to leave
+  by the end of the year and that officials are considering Dr. Sara Brenner as a
+  temporary replacement if he leaves before Overton or another nominee is confirmed.
+  Brenner is a senior counselor at the Department of Health and Human Services who
+  works on public-health issues including Ebola and pandemic preparedness.
 primary_entities:
 - Dr. Heidi Overton
 - Food and Drug Administration
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +161,44 @@ related_stories:
   headline: Former Trump aides escalate feud after Republican midterm losses
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6704
+  strength: 0.6735
 - slug: 2026-08-19-trump-selects-overton-to-lead-fda
   headline: Trump selects Overton to lead FDA
   publish_date: '2026-08-19'
   relation: related
-  strength: 0.8448
+  strength: 0.8454
 - slug: 2026-09-24-overton-calls-mmr-vaccine-safe-and-effective-at-fda-confirmation-hearing
   headline: Overton calls MMR vaccine 'safe and effective' at FDA confirmation hearing
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7353
+  strength: 0.7381
 - slug: 2026-08-28-trump-picks-overton-to-lead-fda-amid-record-foodborne-outbreaks
   headline: Trump picks Overton to lead FDA amid record foodborne outbreaks
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7751
+  strength: 0.7759
 - slug: 2026-09-16-senate-panel-weighs-trump-s-third-surgeon-general-pick-two-hhs-nominees
   headline: Senate panel weighs Trump's third surgeon general pick, two HHS nominees
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6964
+  strength: 0.6996
 - slug: 2026-05-14-fda-commissioner-makary-resigns-widening-leadership-void-across-nation-s-health-
-  headline: FDA Commissioner Makary resigns, widening leadership void across nation's health agencies
+  headline: FDA Commissioner Makary resigns, widening leadership void across nation's
+    health agencies
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.745
+  strength: 0.7456
 - slug: 2026-05-13-marty-makary-is-out-as-trump-s-fda-chief-acting-role-goes-to-kyle-diamantas
   headline: Marty Makary is out as Trump’s FDA chief; acting role goes to Kyle Diamantas
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.7321
+  strength: 0.7308
 - slug: 2026-05-14-makary-s-fda-resignation-widens-leadership-gap-at-hhs
   headline: Makary’s FDA resignation widens leadership gap at HHS
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7231
-- slug: 2026-07-23-senate-health-committee-delays-vote-on-cdc-nominee-erica-schwartz
-  headline: Senate health committee delays vote on CDC nominee Erica Schwartz
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6718
-- slug: 2026-07-28-trump-pushes-rfk-jr-to-probe-alleged-vaccine-autism-link-cut-child-shots
-  headline: Trump pushes RFK Jr. to probe alleged vaccine-autism link, cut child shots
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6613
-- slug: 2026-07-15-schwartz-faces-senate-as-trump-s-third-cdc-director-nominee
-  headline: Schwartz faces Senate as Trump’s third CDC director nominee
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6606
-- slug: 2026-05-02-fda-nominee-marty-makary-faces-questions-on-abortion-pill-safety
-  headline: FDA nominee Marty Makary faces questions on abortion pill safety
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.691
-- slug: 2026-04-23-cassidy-weighs-rfk-jr-vaccine-rollback-amid-louisiana-reelection-fight
-  headline: Cassidy weighs RFK Jr. vaccine rollback amid Louisiana reelection fight
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6867
-- slug: 2026-05-13-fda-commissioner-marty-makary-resigns-under-pressure-from-pharma-anti-abortion-v
-  headline: FDA Commissioner Marty Makary resigns under pressure from pharma, anti-abortion, vaping allies
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6766
-- slug: 2026-06-02-doctors-mount-midterm-challenge-to-trump-health-policies
-  headline: Doctors mount midterm challenge to Trump health policies
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.668
-- slug: 2026-01-15-fda-fast-track-voucher-drug-reviews-spark-legality-staff-concerns
-  headline: FDA fast-track voucher drug reviews spark legality, staff concerns
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6881
-- slug: 2026-04-22-as-rfk-jr-faced-the-senate-sen-cassidy-weighed-vaccines-and-politics
-  headline: As RFK Jr. faced the Senate, Sen. Cassidy weighed vaccines and politics
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6769
-- slug: 2026-04-21-as-rfk-jr-faced-the-senate-bill-cassidy-balanced-politics-and-science
-  headline: As RFK Jr. faced the Senate, Bill Cassidy balanced politics and science
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6752
-- slug: 2026-05-16-fda-fires-acting-drug-center-director-amid-broader-shake-up
-  headline: FDA Fires Acting Drug Center Director Amid Broader Shake-Up
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6684
-- slug: 2026-05-16-fda-removes-tracy-beth-hoeg-as-acting-drug-center-director
-  headline: FDA removes Tracy Beth Hoeg as acting drug center director
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6683
+  strength: 0.7239
 ---
-
 ## White House weighs withdrawing Overton’s FDA nomination
 
 **Subtype:** fact
