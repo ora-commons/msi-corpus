@@ -164,6 +164,8 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 related_stories: []
+analyses:
+- '2026-11-18-japan-weighs-fresh-us-potato-access-against-a-plant-health-threshold'
 ---
 ## Japan weighs lifting US potato import ban after Trump pressure
 
@@ -212,3 +214,8 @@ The proposal remained short of a decision. Takebe said scientific and technical 
 **Publication date:** 2026-11-18
 **Title:** A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point
 **URL:** https://www.theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes
+
+---
+
+<!-- analysis-link:2026-11-18-japan-weighs-fresh-us-potato-access-against-a-plant-health-threshold -->
+**Going deeper:** [Read MSI's analysis of Japan's conditional potato-import decision →](/analyses/2026-11-18-japan-weighs-fresh-us-potato-access-against-a-plant-health-threshold)

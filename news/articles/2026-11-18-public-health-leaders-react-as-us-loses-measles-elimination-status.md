@@ -2,8 +2,18 @@
 headline: Public health leaders react as US loses measles elimination status
 secondary_headline: Federal response draws criticism amid 5,400-plus measles cases
 publish_date: '2026-11-18'
-lede: Public health leaders expressed grief and alarm after the Pan American Health Organization declared measles resurgent in the United States, Bolivia and Mexico on Tuesday, ending a 26-year US record of measles elimination. State health authorities reported more than 5,400 cases and 10 measles-associated deaths in the worst US measles outbreak since 1991. The designation carries no penalties or travel restrictions, but experts called on the United States to begin work on a multi-year PAHO action plan to stop transmission and increase vaccination.
-nut_graf: The loss of status heightened calls for Health Secretary Robert F Kennedy Jr. to resign, while doctors and public health leaders asked for stronger federal action and restored public trust. Kennedy said HHS would keep recommending MMR vaccination and work to regain the designation. The status change came after 12 months of continuous transmission and amid pockets of low vaccination.
+lede: Public health leaders expressed grief and alarm after the Pan American Health
+  Organization declared measles resurgent in the United States, Bolivia and Mexico
+  on Tuesday, ending a 26-year US record of measles elimination. State health authorities
+  reported more than 5,400 cases and 10 measles-associated deaths in the worst US
+  measles outbreak since 1991. The designation carries no penalties or travel restrictions,
+  but experts called on the United States to begin work on a multi-year PAHO action
+  plan to stop transmission and increase vaccination.
+nut_graf: The loss of status heightened calls for Health Secretary Robert F Kennedy
+  Jr. to resign, while doctors and public health leaders asked for stronger federal
+  action and restored public trust. Kennedy said HHS would keep recommending MMR vaccination
+  and work to regain the designation. The status change came after 12 months of continuous
+  transmission and amid pockets of low vaccination.
 primary_entities:
 - Pan American Health Organization
 - United States
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +159,45 @@ related_stories:
   headline: PAHO ends measles elimination status in US, Mexico and Bolivia
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8826
+  strength: 0.8816
 - slug: 2026-11-17-health-secretary-kennedy-defends-vaccine-overhaul-as-measles-cases-surge
   headline: Health Secretary Kennedy defends vaccine overhaul as measles cases surge
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8405
+  strength: 0.8396
 - slug: 2026-11-13-paho-panel-weighs-us-mexico-measles-elimination-status
   headline: PAHO panel weighs US, Mexico measles elimination status
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8592
+  strength: 0.8585
 - slug: 2026-11-17-nearly-150-health-groups-urge-stronger-federal-action-on-measles
   headline: Nearly 150 health groups urge stronger federal action on measles
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8249
+  strength: 0.8241
 - slug: 2026-11-14-pan-american-health-organization-revokes-u-s-measles-elimination-status
   headline: Pan American Health Organization revokes U.S. measles elimination status
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8385
+  strength: 0.8378
 - slug: 2026-11-17-u-s-measles-cases-top-5-400-so-far-this-year-largely-driven-by-pennsylvania
   headline: U.S. measles cases top 5,400 so far this year, largely driven by Pennsylvania
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8176
+  strength: 0.8169
 - slug: 2026-11-17-us-measles-status-loss-brings-certificate-requests-and-possible-21-day-quarantin
-  headline: US measles status loss brings certificate requests and possible 21-day quarantines
+  headline: US measles status loss brings certificate requests and possible 21-day
+    quarantines
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8175
+  strength: 0.8165
 - slug: 2026-11-14-pan-american-health-organization-says-us-has-lost-measles-elimination-status
-  headline: Pan American Health Organization says US has lost measles elimination status
+  headline: Pan American Health Organization says US has lost measles elimination
+    status
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8369
-- slug: 2026-11-17-some-experts-say-no-kennedy-or-cdc-measles-briefing-is-scheduled
-  headline: Some experts say no Kennedy or CDC measles briefing is scheduled
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.804
-- slug: 2026-11-17-united-states-expected-to-lose-measles-elimination-status
-  headline: United States expected to lose measles elimination status
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7943
-- slug: 2026-11-17-ashish-jha-urges-earlier-vaccination-as-u-s-loses-measles-elimination-status
-  headline: Ashish Jha urges earlier vaccination as U.S. loses measles elimination status
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7834
-- slug: 2026-11-13-us-measles-cases-push-nation-toward-losing-elimination-status
-  headline: US measles cases push nation toward losing elimination status
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.807
-- slug: 2026-11-11-eight-experts-weigh-u-s-measles-elimination-status-this-week
-  headline: Eight experts weigh U.S. measles elimination status this week
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7993
-- slug: 2026-11-17-cdc-scientists-report-112-cases-in-pregnant-women-and-13-congenital-measles-case
-  headline: CDC scientists report 112 cases in pregnant women and 13 congenital measles cases
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7445
-- slug: 2026-11-12-us-measles-deaths-reach-twice-the-2025-total-in-largest-outbreak-since-1991
-  headline: US measles deaths reach twice the 2025 total in largest outbreak since 1991
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.777
-- slug: 2026-11-03-robert-f-kennedy-jr-cuts-childhood-immunization-recommendations-by-a-third
-  headline: Robert F Kennedy Jr cuts childhood immunization recommendations by a third
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7708
-- slug: 2026-10-07-pennsylvania-measles-outbreak-tops-1-000-cases-largest-in-us-since-1991
-  headline: Pennsylvania measles outbreak tops 1,000 cases, largest in US since 1991
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7423
-- slug: 2026-09-29-annual-us-measles-count-exceeds-1991-levels-as-second-death-confirmed
-  headline: Annual US measles count exceeds 1991 levels as second death confirmed
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7471
-- slug: 2026-09-15-advisory-panel-to-weigh-us-measles-elimination-status-in-november
-  headline: Advisory panel to weigh US measles elimination status in November
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7846
-- slug: 2026-08-02-kennedy-urges-measles-vaccination-as-us-outbreak-reaches-2-371-cases
-  headline: Kennedy urges measles vaccination as US outbreak reaches 2,371 cases
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.7683
+  strength: 0.8362
 ---
-
 ## Public health leaders react as US loses measles elimination status
 
 **Subtype:** fact

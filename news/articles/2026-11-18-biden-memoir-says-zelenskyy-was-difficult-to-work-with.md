@@ -1,9 +1,23 @@
 ---
 headline: Biden memoir says Zelenskyy was difficult to work with
-secondary_headline: Guardian reports Vance and Duffy tried to link flight stoppage to transgender issues
+secondary_headline: Guardian reports Vance and Duffy tried to link flight stoppage
+  to transgender issues
 publish_date: '2026-11-18'
-lede: Joe Biden said in a new memoir that Volodymyr Zelenskyy was “difficult to work with,” “moody and stubborn in our private conversations,” and “not as grateful as I expected” for U.S. diplomatic support and military aid. The Guardian's First Thing newsletter also reported that Secretary of State Marco Rubio said there was “zero evidence” or reason to believe the isolated or individual technology failures involved nefarious actors, cyber hackers, criminals, another nation state or a malign actor of any kind. The Guardian reported that, in separate interviews, Vice President JD Vance and Transportation Secretary Sean Duffy tried to connect Friday's flight stoppage with transgender issues.
-nut_graf: The Guardian's First Thing newsletter paired Biden's account of relations with Zelenskyy with official and attributed claims about recent technology failures. It also reported Nvidia's post-ousting earnings, an alleged aircraft attack at an Irish airport, rare contact with the Awá group in Brazil, criminal justice decisions and developments affecting public health, government oversight and environmental disclosure.
+lede: Joe Biden said in a new memoir that Volodymyr Zelenskyy was “difficult to work
+  with,” “moody and stubborn in our private conversations,” and “not as grateful as
+  I expected” for U.S. diplomatic support and military aid. The Guardian's First Thing
+  newsletter also reported that Secretary of State Marco Rubio said there was “zero
+  evidence” or reason to believe the isolated or individual technology failures involved
+  nefarious actors, cyber hackers, criminals, another nation state or a malign actor
+  of any kind. The Guardian reported that, in separate interviews, Vice President
+  JD Vance and Transportation Secretary Sean Duffy tried to connect Friday's flight
+  stoppage with transgender issues.
+nut_graf: The Guardian's First Thing newsletter paired Biden's account of relations
+  with Zelenskyy with official and attributed claims about recent technology failures.
+  It also reported Nvidia's post-ousting earnings, an alleged aircraft attack at an
+  Irish airport, rare contact with the Awá group in Brazil, criminal justice decisions
+  and developments affecting public health, government oversight and environmental
+  disclosure.
 primary_entities:
 - Joe Biden
 - Volodymyr Zelenskyy
@@ -57,7 +71,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,116 +171,51 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-18-biden-memoir-says-zelenskyy-was-difficult-to-work-with.png
-  alt: 'Illustration accompanying article: Biden memoir says Zelenskyy was difficult to work with'
+  alt: 'Illustration accompanying article: Biden memoir says Zelenskyy was difficult
+    to work with'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-17-biden-details-tensions-with-zelenskyy-over-u-s-support-for-ukraine-in-memoir
-  headline: Biden details tensions with Zelenskyy over U.S. support for Ukraine in memoir
+  headline: Biden details tensions with Zelenskyy over U.S. support for Ukraine in
+    memoir
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7568
-- slug: 2026-11-17-nsa-says-mission-critical-capabilities-remain-fully-operational-after-nsanet-inc
-  headline: NSA says mission-critical capabilities remain fully operational after NSANet incident
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6409
+  strength: 0.7566
 - slug: 2026-11-12-zelenskyy-reports-new-starshield-speed-limits-hampering-ukraine-s-drone-defenses
-  headline: Zelenskyy reports new Starshield speed limits hampering Ukraine's drone defenses
+  headline: Zelenskyy reports new Starshield speed limits hampering Ukraine's drone
+    defenses
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6688
-- slug: 2026-11-16-treasury-secretary-scott-bessent-calls-for-nvidia-compliance-review
-  headline: Treasury Secretary Scott Bessent calls for Nvidia compliance review
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6313
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-reports-of-two-extramarital-affairs
-  headline: Nvidia CEO Jensen Huang resigns after reports of two extramarital affairs
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6495
-- slug: 2026-11-15-zelensky-says-starshield-speed-limits-still-blunt-ukraine-s-defenses
-  headline: Zelensky says Starshield speed limits still blunt Ukraine's defenses
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6268
-- slug: 2026-11-12-us-envoys-meet-putin-in-kremlin-after-abu-dhabi-talks-yield-prisoner-swap-deal
-  headline: US envoys meet Putin in Kremlin after Abu Dhabi talks yield prisoner swap deal
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6309
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6411
+  strength: 0.6683
 - slug: 2026-10-20-zelenskyy-says-ukraine-is-receiving-ballistic-missile-warnings-again
   headline: Zelenskyy says Ukraine is receiving ballistic-missile warnings again
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.674
+  strength: 0.6742
 - slug: 2026-10-21-after-rubio-call-zelenskyy-says-missile-warnings-have-resumed
   headline: After Rubio call, Zelenskyy says missile warnings have resumed
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.6612
-- slug: 2026-10-21-zelenskyy-says-he-again-seeks-direct-talks-with-putin-after-norway-meeting
-  headline: Zelenskyy says he again seeks direct talks with Putin after Norway meeting
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6359
-- slug: 2026-10-16-zelenskyy-says-starlink-limits-persist-as-he-seeks-more-eu-funding
-  headline: Zelenskyy says Starlink limits persist as he seeks more EU funding
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6442
-- slug: 2026-10-14-zelenskyy-says-russian-strikes-show-ostentatious-disrespect-toward-us
-  headline: Zelenskyy says Russian strikes show 'ostentatious disrespect' toward US
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6472
-- slug: 2026-10-14-zelenskyy-says-he-feels-betrayed-by-trump-after-starlink-speed-restriction
-  headline: Zelenskyy says he feels betrayed by Trump after Starlink speed restriction
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6452
-- slug: 2026-10-13-zelenskyy-flags-intelligence-gap-after-unwarned-kyiv-missile-strike
-  headline: Zelenskyy flags intelligence gap after unwarned Kyiv missile strike
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6465
-- slug: 2026-10-15-trump-s-energy-ceasefire-collapses-as-russia-and-ukraine-resume-strikes
-  headline: Trump's energy ceasefire collapses as Russia and Ukraine resume strikes
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6304
-- slug: 2026-10-11-zelenskyy-says-energy-ceasefire-is-news-to-me-and-demands-reciprocal-terms
-  headline: Zelenskyy says energy ceasefire is 'news to me' and demands reciprocal terms
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.6387
+  strength: 0.6605
 - slug: 2026-09-23-zelensky-says-putin-needs-more-us-pressure-to-curb-attacks
   headline: Zelensky says Putin needs more US pressure to curb attacks
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.6853
+  strength: 0.6855
 - slug: 2026-06-09-zelenskyy-says-he-told-trump-that-putin-is-playing-games-with-washington
   headline: Zelenskyy says he told Trump that Putin is 'playing games' with Washington
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.6854
-- slug: 2026-05-11-ukraine-anti-graft-agencies-name-ex-zelenskyy-chief-of-staff-suspect-in-10-5m-la
-  headline: Ukraine anti-graft agencies name ex-Zelenskyy chief of staff suspect in $10.5M laundering probe
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6346
+  strength: 0.6853
 ---
-
 ## Biden memoir says Zelenskyy was difficult to work with
 
 **Subtype:** fact

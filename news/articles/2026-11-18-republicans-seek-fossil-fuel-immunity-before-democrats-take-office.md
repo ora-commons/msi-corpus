@@ -1,9 +1,18 @@
 ---
 headline: Republicans seek fossil fuel immunity before Democrats take office
-secondary_headline: Bill targets climate lawsuits, superfund laws and source attribution science
+secondary_headline: Bill targets climate lawsuits, superfund laws and source attribution
+  science
 publish_date: '2026-11-18'
-lede: Republican lawmakers are trying to advance the Stop Climate Shakedowns bill before newly elected Democrats are sworn in, a measure that would shield fossil fuel companies from climate lawsuits and state liability laws. The proposal stalled in the House Judiciary Committee in September, but Kathy Mulvey of the Union of Concerned Scientists expects its proponents to see the lame-duck session as a real opportunity.
-nut_graf: The dispute centers on whether Congress should bar state courts and legislatures from holding fossil fuel companies liable for climate-related damage. That would affect lawsuits filed by 11 states, two tribal governments and dozens of municipalities, as well as climate superfund laws in New York and Vermont.
+lede: Republican lawmakers are trying to advance the Stop Climate Shakedowns bill
+  before newly elected Democrats are sworn in, a measure that would shield fossil
+  fuel companies from climate lawsuits and state liability laws. The proposal stalled
+  in the House Judiciary Committee in September, but Kathy Mulvey of the Union of
+  Concerned Scientists expects its proponents to see the lame-duck session as a real
+  opportunity.
+nut_graf: The dispute centers on whether Congress should bar state courts and legislatures
+  from holding fossil fuel companies liable for climate-related damage. That would
+  affect lawsuits filed by 11 states, two tribal governments and dozens of municipalities,
+  as well as climate superfund laws in New York and Vermont.
 primary_entities:
 - Stop Climate Shakedowns bill
 - Ted Cruz
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,47 +157,33 @@ related_stories:
   headline: States divide over EPA plan to repeal power plant greenhouse gas rules
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6609
+  strength: 0.6604
 - slug: 2026-11-17-tribal-leaders-challenge-senate-permitting-bill-over-public-land-protections
   headline: Tribal leaders challenge Senate permitting bill over public-land protections
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6574
+  strength: 0.657
 - slug: 2026-11-08-some-democrats-promise-more-clean-energy-major-energy-or-climate-changes-need-re
-  headline: Some Democrats promise more clean energy; major energy or climate changes need Republican votes
+  headline: Some Democrats promise more clean energy; major energy or climate changes
+    need Republican votes
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7134
-- slug: 2026-11-17-south-dakota-republicans-split-over-federal-permitting-bill
-  headline: South Dakota Republicans split over federal permitting bill
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6436
-- slug: 2026-11-16-appeals-court-keeps-california-s-direct-emissions-reporting-in-place
-  headline: Appeals court keeps California's direct emissions reporting in place
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6433
+  strength: 0.7132
 - slug: 2026-11-09-senate-prepares-procedural-vote-on-bipartisan-energy-permitting-bill
   headline: Senate prepares procedural vote on bipartisan energy permitting bill
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6857
-- slug: 2026-11-16-al-gore-urges-lawmakers-to-rethink-baaja-permitting-bill
-  headline: Al Gore urges lawmakers to rethink Baaja permitting bill
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6379
+  strength: 0.6856
 - slug: 2026-11-10-senate-takes-up-infrastructure-permitting-overhaul
   headline: Senate takes up infrastructure permitting overhaul
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6718
+  strength: 0.6715
 - slug: 2026-11-05-senate-nears-vote-on-bipartisan-energy-permitting-overhaul
   headline: Senate nears vote on bipartisan energy permitting overhaul
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6902
+  strength: 0.6901
 - slug: 2026-11-08-republicans-weigh-debt-limit-option-as-senate-pursues-judicial-confirmations
   headline: Republicans weigh debt-limit option as Senate pursues judicial confirmations
   publish_date: '2026-11-08'
@@ -197,54 +193,8 @@ related_stories:
   headline: Midterms test Democrats' strategy tying climate to affordability
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6523
-- slug: 2026-10-20-former-trump-biden-and-obama-officials-push-permitting-reform
-  headline: Former Trump, Biden and Obama officials push permitting reform
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6905
-- slug: 2026-10-16-most-midterm-candidates-skip-climate-as-voters-demand-action
-  headline: Most midterm candidates skip climate as voters demand action
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6623
-- slug: 2026-10-05-justices-press-oil-companies-on-bid-to-dismiss-state-climate-lawsuits
-  headline: Justices press oil companies on bid to dismiss state climate lawsuits
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6835
-- slug: 2026-10-01-supreme-court-to-hear-boulder-climate-case-as-states-expand-epa-lawsuits
-  headline: Supreme Court to hear Boulder climate case as states expand EPA lawsuits
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6627
-- slug: 2026-09-30-bipartisan-senators-introduce-bill-to-speed-federal-energy-permitting
-  headline: Bipartisan senators introduce bill to speed federal energy permitting
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6651
-- slug: 2026-10-01-new-york-led-coalition-of-21-states-sues-epa-over-power-plant-rule-repeal
-  headline: New York-led coalition of 21 states sues EPA over power plant rule repeal
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6463
-- slug: 2026-09-14-epa-reportedly-poised-to-scrap-power-plant-emission-rules-at-houston-g20
-  headline: EPA reportedly poised to scrap power-plant emission rules at Houston G20
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6517
-- slug: 2026-09-01-federal-judge-strikes-new-york-s-75-billion-climate-damages-law
-  headline: Federal judge strikes New York's $75 billion climate damages law
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6556
-- slug: 2026-08-01-activists-urge-democrats-to-embrace-climate-messaging-during-recess
-  headline: Activists urge Democrats to embrace climate messaging during recess
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.6755
+  strength: 0.6521
 ---
-
 ## Republicans seek fossil fuel immunity before Democrats take office
 
 **Subtype:** fact
