@@ -1,9 +1,18 @@
 ---
-headline: Merchant receives more than 27 years for alleged Iran-linked assassination plot
+headline: Merchant receives more than 27 years for alleged Iran-linked assassination
+  plot
 secondary_headline: Prosecutors' life request denied as Merchant plans to appeal
 publish_date: '2026-11-17'
-lede: Asif Merchant was sentenced to a little more than 27 years in prison on Tuesday after his conviction for murder for hire and attempted terrorism arising from an alleged plot to assassinate senior U.S. officials. U.S. District Judge Eric Komitee rejected prosecutors' request for life in prison, while trial testimony identified Donald Trump, Joe Biden and Nikki Haley as possible targets.
-nut_graf: The sentence follows a trial in which Merchant admitted trying to get a U.S. politician killed but said he was only playing along with a Revolutionary Guard intelligence operative's instructions to protect relatives in Iran. Komitee said he believed Merchant had some concern for his family but was also highly motivated to do harm to the country.
+lede: Asif Merchant was sentenced to a little more than 27 years in prison on Tuesday
+  after his conviction for murder for hire and attempted terrorism arising from an
+  alleged plot to assassinate senior U.S. officials. U.S. District Judge Eric Komitee
+  rejected prosecutors' request for life in prison, while trial testimony identified
+  Donald Trump, Joe Biden and Nikki Haley as possible targets.
+nut_graf: The sentence follows a trial in which Merchant admitted trying to get a
+  U.S. politician killed but said he was only playing along with a Revolutionary Guard
+  intelligence operative's instructions to protect relatives in Iran. Komitee said
+  he believed Merchant had some concern for his family but was also highly motivated
+  to do harm to the country.
 primary_entities:
 - Asif Merchant
 - Eric Komitee
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,108 +150,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-11-federal-judge-sentences-mercurio-to-18-years-for-islamic-state-material-support
-  headline: Federal judge sentences Mercurio to 18 years for Islamic State material support
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6147
-- slug: 2026-11-11-iranian-officials-say-us-weighing-new-strikes-or-tighter-sanctions-on-iran
-  headline: Iranian officials say US weighing new strikes or tighter sanctions on Iran
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6044
-- slug: 2026-11-07-state-department-offers-up-to-20-million-for-tips-on-iran-s-nuclear-program
-  headline: State Department offers up to $20 million for tips on Iran's nuclear program
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6132
-- slug: 2026-11-05-us-held-secret-talks-with-iran-on-deporting-iranians-amid-war-records-show
-  headline: US held secret talks with Iran on deporting Iranians amid war, records show
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6043
 - slug: 2026-03-06-pakistani-man-convicted-in-iran-backed-plot-to-kill-trump-biden-and-haley
   headline: Pakistani man convicted in Iran-backed plot to kill Trump, Biden and Haley
   publish_date: '2026-03-06'
   relation: related
-  strength: 0.8724
+  strength: 0.8721
 - slug: 2026-03-04-pakistani-man-on-trial-says-iran-plot-s-possible-targets-included-trump-biden
-  headline: Pakistani man on trial says Iran plot’s possible targets included Trump, Biden
+  headline: Pakistani man on trial says Iran plot’s possible targets included Trump,
+    Biden
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.8257
-- slug: 2026-10-08-judge-rejects-bid-to-dismiss-torture-lawsuit-against-alleged-savak-official
-  headline: Judge rejects bid to dismiss torture lawsuit against alleged Savak official
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6073
+  strength: 0.8255
 - slug: 2026-03-05-pakistani-man-on-trial-says-iranian-linked-plot-targeted-trump-and-biden
   headline: Pakistani man on trial says Iranian-linked plot targeted Trump and Biden
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.812
+  strength: 0.8114
 - slug: 2026-03-04-trial-seeks-to-tie-iranian-paramilitary-to-alleged-assassination-plot
   headline: Trial seeks to tie Iranian paramilitary to alleged assassination plot
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.7956
-- slug: 2026-09-26-us-rebuffs-iran-s-seven-day-ceasefire-as-trump-eyes-post-midterm-strikes
-  headline: US rebuffs Iran's seven-day ceasefire as Trump eyes post-midterm strikes
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6162
+  strength: 0.7957
 - slug: 2026-02-25-pakistani-man-goes-on-trial-in-plot-to-kill-us-politician-possibly-trump
   headline: Pakistani man goes on trial in plot to kill US politician, possibly Trump
   publish_date: '2026-02-25'
   relation: related
-  strength: 0.7615
+  strength: 0.7614
 - slug: 2026-02-26-pakistani-man-goes-on-trial-in-new-york-over-plot-to-kill-trump
   headline: Pakistani man goes on trial in New York over plot to kill Trump
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.7518
-- slug: 2026-09-09-advisers-weigh-yearslong-iran-war-as-trump-predicts-post-midterm-end
-  headline: Advisers weigh yearslong Iran war as Trump predicts post-midterm end
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6155
+  strength: 0.7515
 - slug: 2026-08-12-catering-truck-decoy-hides-trump-from-apparent-iran-missile-threat
   headline: Catering-truck decoy hides Trump from apparent Iran missile threat
   publish_date: '2026-08-12'
   relation: related
-  strength: 0.6585
-- slug: 2026-08-25-six-months-into-iran-war-trump-shifts-to-economic-pressure-campaign
-  headline: Six months into Iran war, Trump shifts to economic pressure campaign
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6082
-- slug: 2026-06-22-iran-steps-up-executions-of-dissidents-as-nuclear-talks-begin
-  headline: Iran Steps Up Executions of Dissidents as Nuclear Talks Begin
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6337
-- slug: 2026-05-27-federal-judge-sentences-man-to-10-years-in-plot-to-kill-iranian-american-writer
-  headline: Federal judge sentences man to 10 years in plot to kill Iranian American writer
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.64
+  strength: 0.6596
 - slug: 2026-01-29-federal-judge-sentences-man-to-15-years-for-plot-to-kill-alinejad
   headline: Federal judge sentences man to 15 years for plot to kill Alinejad
   publish_date: '2026-01-29'
   relation: related
-  strength: 0.6581
-- slug: 2026-05-03-trump-reviewing-new-iranian-proposal-to-end-war-skeptical-it-will-work
-  headline: Trump reviewing new Iranian proposal to end war, skeptical it will work
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6239
-- slug: 2026-03-07-six-americans-held-in-iran-face-danger-as-war-escalates-families-say
-  headline: Six Americans held in Iran face danger as war escalates, families say
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6202
+  strength: 0.659
 ---
-
 ## Merchant receives more than 27 years for alleged Iran-linked assassination plot
 
 **Subtype:** fact

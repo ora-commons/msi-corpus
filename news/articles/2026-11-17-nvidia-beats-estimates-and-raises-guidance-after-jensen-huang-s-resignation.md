@@ -2,8 +2,17 @@
 headline: Nvidia beats estimates and raises guidance after Jensen Huang’s resignation
 secondary_headline: SEC investigates Nvidia amid export-control and succession questions
 publish_date: '2026-11-17'
-lede: Nvidia reported record revenue of $115.8 billion for the quarter ended Oct. 25, more than double the year-earlier result and 6.3% above the $108.9 billion forecast from analysts polled by FactSet. Interim CEO Colette Kress raised the company’s fiscal 2028 revenue-growth forecast from 70% to 75% and guided to $130 billion in revenue for the current quarter. The results came Tuesday as the chipmaker continued under Kress following CEO Jensen Huang’s resignation.
-nut_graf: Nvidia’s stronger results did not resolve the company’s leadership, legal and regulatory uncertainties. The board’s statement that it was not considering Huang’s return, an SEC investigation, federal scrutiny of Asian chip sales and a 30% monthly decline in Nvidia’s stock left questions about strategy and execution alongside the company’s record sales.
+lede: Nvidia reported record revenue of $115.8 billion for the quarter ended Oct.
+  25, more than double the year-earlier result and 6.3% above the $108.9 billion forecast
+  from analysts polled by FactSet. Interim CEO Colette Kress raised the company’s
+  fiscal 2028 revenue-growth forecast from 70% to 75% and guided to $130 billion in
+  revenue for the current quarter. The results came Tuesday as the chipmaker continued
+  under Kress following CEO Jensen Huang’s resignation.
+nut_graf: Nvidia’s stronger results did not resolve the company’s leadership, legal
+  and regulatory uncertainties. The board’s statement that it was not considering
+  Huang’s return, an SEC investigation, federal scrutiny of Asian chip sales and a
+  30% monthly decline in Nvidia’s stock left questions about strategy and execution
+  alongside the company’s record sales.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +153,44 @@ related_stories:
   headline: Colette Kress says Nvidia growth remains on track after Huang's exit
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.849
+  strength: 0.8496
 - slug: 2026-11-16-nvidia-s-china-chip-workarounds-appear-close-to-closing-after-huang-s-exit
-  headline: Nvidia's China chip workarounds appear close to closing after Huang's exit
+  headline: Nvidia's China chip workarounds appear close to closing after Huang's
+    exit
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8146
+  strength: 0.8143
+- slug: 2026-11-17-colette-kress-faces-first-nvidia-earnings-call-after-huang-s-ouster
+  headline: Colette Kress faces first Nvidia earnings call after Huang’s ouster
+  publish_date: '2026-11-17'
+  relation: related
+  strength: 0.8071
 - slug: 2026-11-12-nvidia-begins-search-for-new-ceo-after-jensen-huang-resigns
   headline: Nvidia begins search for new CEO after Jensen Huang resigns
   publish_date: '2026-11-12'
   relation: related
   strength: 0.84
-- slug: 2026-11-17-colette-kress-faces-first-nvidia-earnings-call-after-huang-s-ouster
-  headline: Colette Kress faces first Nvidia earnings call after Huang’s ouster
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8045
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-cfo-colette-kress-named-interim-chief
   headline: Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim chief
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8238
+  strength: 0.8231
 - slug: 2026-11-16-nvidia-board-won-t-consider-huang-s-return-as-ceo-source-says
   headline: Nvidia board won't consider Huang's return as CEO, source says
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7855
+  strength: 0.7864
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
   headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8006
+  strength: 0.8021
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
   headline: Nvidia CEO Jensen Huang resigns after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8001
-- slug: 2026-11-13-rival-chipmakers-gain-as-huang-departure-rattles-nvidia
-  headline: Rival chipmakers gain as Huang departure rattles Nvidia
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7922
-- slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7892
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
-  headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7889
-- slug: 2026-11-12-nvidia-shares-sink-7-premarket-as-reports-put-ceo-jensen-huang-s-tenure-at-risk
-  headline: Nvidia shares sink 7% premarket as reports put CEO Jensen Huang's tenure at risk
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7853
-- slug: 2026-11-12-nvidia-names-cfo-colette-kress-interim-ceo-after-jensen-huang-resigns
-  headline: Nvidia names CFO Colette Kress interim CEO after Jensen Huang resigns
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7853
-- slug: 2026-11-13-nvidia-chairman-voices-full-confidence-in-kress-as-shares-slide
-  headline: Nvidia chairman voices 'full confidence' in Kress as shares slide
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7755
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
-  headline: Jensen Huang resigns as Nvidia CEO after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7793
-- slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board meets on whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.776
-- slug: 2026-11-09-nvidia-shares-fall-5-premarket-after-company-probes-reports-about-jensen-huang
-  headline: Nvidia shares fall 5% premarket after company probes reports about Jensen Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7592
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7597
-- slug: 2026-08-26-nvidia-quarterly-revenue-more-than-doubles-to-96-billion-on-ai-chip-demand
-  headline: Nvidia quarterly revenue more than doubles to $96 billion on AI chip demand
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7778
-- slug: 2026-08-24-nvidia-s-upcoming-earnings-report-puts-ai-trade-to-the-test
-  headline: Nvidia's upcoming earnings report puts AI trade to the test
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.7593
+  strength: 0.8003
 ---
-
 ## Nvidia beats estimates and raises guidance after Jensen Huang’s resignation
 
 **Subtype:** fact

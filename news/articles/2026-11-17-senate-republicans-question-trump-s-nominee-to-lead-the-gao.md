@@ -2,8 +2,16 @@
 headline: Senate Republicans question Trump’s nominee to lead the GAO
 secondary_headline: Hoyer says the nomination bypassed required bipartisan consultation
 publish_date: '2026-11-17'
-lede: Senate Republicans Thom Tillis, Susan Collins and John Curtis have raised concerns about President Trump’s nomination of Eric Ueland to lead the Government Accountability Office, according to The Wall Street Journal. A committee hearing is scheduled for Thursday as the 53-47 Republican majority seeks to advance Ueland’s nomination for a 15-year term before Republicans lose control of the majority in January.
-nut_graf: The dispute centers on whether a longtime Republican aide and current White House budget official is suitable for an independent oversight role and whether the nomination followed the required bipartisan consultation process. The 15-year post audits federal spending, and the consequences for oversight will extend beyond the immediate confirmation fight.
+lede: Senate Republicans Thom Tillis, Susan Collins and John Curtis have raised concerns
+  about President Trump’s nomination of Eric Ueland to lead the Government Accountability
+  Office, according to The Wall Street Journal. A committee hearing is scheduled for
+  Thursday as the 53-47 Republican majority seeks to advance Ueland’s nomination for
+  a 15-year term before Republicans lose control of the majority in January.
+nut_graf: The dispute centers on whether a longtime Republican aide and current White
+  House budget official is suitable for an independent oversight role and whether
+  the nomination followed the required bipartisan consultation process. The 15-year
+  post audits federal spending, and the consequences for oversight will extend beyond
+  the immediate confirmation fight.
 primary_entities:
 - Eric Ueland
 - Government Accountability Office
@@ -45,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +152,52 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-17-senate-weighs-nominees-to-revive-the-federal-election-commission
-  headline: Senate weighs nominees to revive the Federal Election Commission
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.649
 - slug: 2026-11-11-republican-senators-stall-trump-judicial-nominees-in-the-majority-s-final-weeks
-  headline: Republican senators stall Trump judicial nominees in the majority's final weeks
+  headline: Republican senators stall Trump judicial nominees in the majority's final
+    weeks
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6812
-- slug: 2026-11-15-rnc-members-move-to-depose-trump-backed-chairman-joe-gruters
-  headline: RNC members move to depose Trump-backed chairman Joe Gruters
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6453
+  strength: 0.6817
 - slug: 2026-11-10-republicans-53-47-senate-majority-faces-possible-shift-to-44-seats
   headline: Republicans' 53-47 Senate majority faces possible shift to 44 seats
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.656
-- slug: 2026-11-08-republicans-weigh-debt-limit-option-as-senate-pursues-judicial-confirmations
-  headline: Republicans weigh debt-limit option as Senate pursues judicial confirmations
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6467
-- slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.645
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6415
-- slug: 2026-11-02-election-administration-disputes-draw-scrutiny-ahead-of-the-2026-midterms
-  headline: Election administration disputes draw scrutiny ahead of the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6455
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6391
-- slug: 2026-10-26-some-thune-allies-fear-blame-if-republicans-lose-their-53-47-senate-majority
-  headline: Some Thune allies fear blame if Republicans lose their 53-47 Senate majority
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6496
-- slug: 2026-09-27-tillis-calls-trump-paxton-endorsement-an-unforced-error-in-texas-senate-race
-  headline: Tillis calls Trump Paxton endorsement an 'unforced error' in Texas Senate race
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6452
+  strength: 0.6558
 - slug: 2026-08-14-democrats-cite-court-ruling-rising-costs-in-seeking-gao-ballroom-review
   headline: Democrats cite court ruling, rising costs in seeking GAO ballroom review
   publish_date: '2026-08-14'
   relation: related
   strength: 0.6512
 - slug: 2026-07-30-trump-says-he-may-temporarily-withdraw-blanche-nomination-over-senate-gop-stando
-  headline: Trump says he may temporarily withdraw Blanche nomination over Senate GOP standoff
+  headline: Trump says he may temporarily withdraw Blanche nomination over Senate
+    GOP standoff
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.6696
+  strength: 0.6699
 - slug: senate-sets-july-hearings-for-ag-nominee-blanche-as-gop-holdouts-seek-assurances
-  headline: Senate sets July hearings for AG nominee Blanche as GOP holdouts seek assurances
+  headline: Senate sets July hearings for AG nominee Blanche as GOP holdouts seek
+    assurances
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.6725
-- slug: 2026-05-21-republicans-weigh-dropping-1b-white-house-security-plan-tied-to-trump-ballroom
-  headline: Republicans weigh dropping $1B White House security plan tied to Trump ballroom
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6545
+  strength: 0.6736
 - slug: 2026-03-04-trump-formally-nominates-warsh-as-fed-chair-gop-senator-vows-to-block-confirmati
-  headline: Trump formally nominates Warsh as Fed chair; GOP senator vows to block confirmation
+  headline: Trump formally nominates Warsh as Fed chair; GOP senator vows to block
+    confirmation
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.6699
+  strength: 0.6711
+- slug: 2026-05-21-republicans-weigh-dropping-1b-white-house-security-plan-tied-to-trump-ballroom
+  headline: Republicans weigh dropping $1B White House security plan tied to Trump
+    ballroom
+  publish_date: '2026-05-21'
+  relation: related
+  strength: 0.6553
 - slug: 2026-02-13-gop-sen-tillis-weighs-compromise-to-let-warsh-face-fed-chair-hearings
   headline: GOP Sen. Tillis weighs compromise to let Warsh face Fed chair hearings
   publish_date: '2026-02-13'
   relation: related
-  strength: 0.6712
-- slug: 2026-05-13-gop-senators-question-1b-white-house-security-plan-including-ballroom
-  headline: GOP senators question $1B White House security plan including ballroom
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.649
-- slug: 2026-01-17-tillis-breaks-with-trump-s-advisers-not-trump-in-his-final-senate-year
-  headline: Tillis breaks with Trump's advisers, not Trump, in his final Senate year
-  publish_date: '2026-01-17'
-  relation: related
-  strength: 0.6647
-- slug: 2026-06-05-trump-calls-on-acting-intelligence-chief-pulte-to-fire-workers-shrink-agency
-  headline: Trump calls on acting intelligence chief Pulte to fire workers, shrink agency
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6395
+  strength: 0.6722
 ---
-
 ## Senate Republicans question Trump’s nominee to lead the GAO
 
 **Subtype:** fact
