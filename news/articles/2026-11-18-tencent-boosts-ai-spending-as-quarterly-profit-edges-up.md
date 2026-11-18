@@ -2,8 +2,15 @@
 headline: Tencent boosts AI spending as quarterly profit edges up
 secondary_headline: Nomura says U.S. chip controls may constrain Tencent’s AI expansion
 publish_date: '2026-11-18'
-lede: Tencent Holdings reported third-quarter net profit of 63.61 billion yuan ($9.54 billion), up 0.8%, as capital expenditure surged more than sixfold to 81.43 billion yuan. Revenue rose 8% to 207.34 billion yuan, below expectations, while the Shenzhen-based videogame and social-media company stepped up chip procurement to advance foundational models and AI agent applications.
-nut_graf: Tencent’s third-quarter results paired sharply higher capital spending with slower revenue growth and a 6% decline in adjusted net profit. The company reported progress on foundational models and agents, while Nomura analysts said tighter U.S. chip export controls could constrain further infrastructure investment.
+lede: Tencent Holdings reported third-quarter net profit of 63.61 billion yuan ($9.54
+  billion), up 0.8%, as capital expenditure surged more than sixfold to 81.43 billion
+  yuan. Revenue rose 8% to 207.34 billion yuan, below expectations, while the Shenzhen-based
+  videogame and social-media company stepped up chip procurement to advance foundational
+  models and AI agent applications.
+nut_graf: Tencent’s third-quarter results paired sharply higher capital spending with
+  slower revenue growth and a 6% decline in adjusted net profit. The company reported
+  progress on foundational models and agents, while Nomura analysts said tighter U.S.
+  chip export controls could constrain further infrastructure investment.
 primary_entities:
 - Tencent
 - Weixin
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +151,44 @@ related_stories:
   headline: Nvidia beats estimates and raises guidance after Jensen Huang’s resignation
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6642
+  strength: 0.6644
 - slug: 2026-11-11-ai-spending-slowdown-could-weaken-global-trade
   headline: AI spending slowdown could weaken global trade
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6614
+  strength: 0.6607
 - slug: 2026-11-03-tech-earnings-spotlight-ai-spending-privacy-and-enterprise-control
   headline: Tech earnings spotlight AI spending, privacy and enterprise control
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6997
+  strength: 0.6994
 - slug: 2026-11-03-amd-tops-sales-forecasts-as-data-center-revenue-nearly-doubles
   headline: AMD tops sales forecasts as data-center revenue nearly doubles
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6877
+  strength: 0.6887
 - slug: 2026-11-04-arm-holdings-posts-27-revenue-growth-on-ai-demand
   headline: Arm Holdings posts 27% revenue growth on AI demand
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6714
+  strength: 0.6711
 - slug: 2026-11-02-stonex-projects-ai-infrastructure-free-cash-losses-exceed-309-billion-in-2027
-  headline: StoneX projects AI infrastructure free-cash losses exceed $309 billion in 2027
+  headline: StoneX projects AI infrastructure free-cash losses exceed $309 billion
+    in 2027
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6607
+  strength: 0.6615
 - slug: 2026-10-27-weak-profits-and-u-s-technology-restrictions-weigh-on-chinese-stocks
   headline: Weak profits and U.S. technology restrictions weigh on Chinese stocks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6901
+  strength: 0.6903
 - slug: 2026-10-28-google-cloud-revenue-jumps-103-as-tpu-chip-sales-challenge-nvidia
   headline: Google Cloud revenue jumps 103% as TPU chip sales challenge Nvidia
   publish_date: '2026-10-28'
   relation: related
   strength: 0.6626
-- slug: 2026-08-31-tech-analyst-notes-span-tencent-ai-release-fed-capex-comments
-  headline: Tech analyst notes span Tencent AI release, Fed capex comments
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7357
-- slug: 2026-08-20-alibaba-ai-cloud-revenue-grows-45-to-48-4-billion-yuan
-  headline: Alibaba AI cloud revenue grows 45% to 48.4 billion yuan
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6969
-- slug: 2026-09-01-mediatek-nvidia-partnership-draws-analyst-upgrades-amid-custom-ai-chip-push
-  headline: MediaTek-Nvidia partnership draws analyst upgrades amid custom AI chip push
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6728
-- slug: 2026-07-16-tsmc-posts-fifth-straight-record-profit-on-surging-ai-demand
-  headline: TSMC posts fifth straight record profit on surging AI demand
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7334
-- slug: 2026-05-14-alibaba-says-ai-and-cloud-revenue-jumped-38-as-profit-fell-sharply
-  headline: Alibaba says AI and cloud revenue jumped 38% as profit fell sharply
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7601
-- slug: 2026-08-24-alibaba-to-raise-10-2-billion-in-share-placement-for-ai-investment
-  headline: Alibaba to raise $10.2 billion in share placement for AI investment
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6734
-- slug: 2026-08-03-citi-analysts-say-taiwan-tech-earnings-confirm-early-stage-ai-expansion-with-ben
-  headline: Citi analysts say Taiwan tech earnings confirm early-stage AI expansion, with benefits broadening
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6964
-- slug: 2026-05-14-alibaba-ai-cloud-revenue-climbs-38-but-heavy-investment-drags-profit-to-loss
-  headline: Alibaba AI, cloud revenue climbs 38%, but heavy investment drags profit to loss
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7369
-- slug: 2026-07-21-chinese-ai-developers-rush-to-capital-markets-as-u-s-chip-restrictions-loom
-  headline: Chinese AI developers rush to capital markets as U.S. chip restrictions loom
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6905
-- slug: 2026-07-24-china-warns-ai-users-they-are-traitors-if-they-resist-domestic-chips
-  headline: China warns AI users they are ‘traitors’ if they resist domestic chips
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6743
-- slug: 2026-07-24-intel-raises-capex-outlook-to-20-billion-nokia-ai-orders-surge-to-2-8-billion-eu
-  headline: Intel raises capex outlook to $20 billion; Nokia AI orders surge to 2.8 billion euros
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6604
-- slug: 2026-07-07-huawei-tencent-microsoft-lead-tech-roundup-as-analyst-notes
-  headline: Huawei, Tencent, Microsoft lead tech roundup as analyst notes
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6724
 ---
-
 ## Tencent boosts AI spending as quarterly profit edges up
 
 **Subtype:** fact

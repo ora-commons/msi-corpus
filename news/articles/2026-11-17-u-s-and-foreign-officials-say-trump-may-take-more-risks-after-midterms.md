@@ -213,6 +213,8 @@ related_stories:
   publish_date: '2026-11-09'
   relation: related
   strength: 0.7238
+analyses:
+- '2026-11-17-midterm-losses-open-a-pre-january-window-for-u-s-foreign-policy'
 ---
 ## U.S. and foreign officials say Trump may take more risks after midterms
 
@@ -260,3 +262,8 @@ The Trump administration's efforts to recruit Southeast Asian countries to join 
 **Publication date:** 2026-11-17
 **Title:** Trump Returns to World Stage After Midterm Setback
 **URL:** https://www.wsj.com/world/trump-returns-to-world-stage-after-midterm-setback-65a1c88b
+
+---
+
+<!-- analysis-link:2026-11-17-midterm-losses-open-a-pre-january-window-for-u-s-foreign-policy -->
+**Going deeper:** [Read MSI's analysis of Trump's post-midterm foreign-policy window →](/analyses/2026-11-17-midterm-losses-open-a-pre-january-window-for-u-s-foreign-policy)

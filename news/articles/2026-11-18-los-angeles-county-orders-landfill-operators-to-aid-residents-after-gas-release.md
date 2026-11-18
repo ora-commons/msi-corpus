@@ -1,9 +1,23 @@
 ---
-headline: Los Angeles County orders landfill operators to aid residents after gas release
-secondary_headline: Drilling crews encountered a gas pocket about 150 feet below Chiquita Canyon
+headline: Los Angeles County orders landfill operators to aid residents after gas
+  release
+secondary_headline: Drilling crews encountered a gas pocket about 150 feet below Chiquita
+  Canyon
 publish_date: '2026-11-18'
-lede: Los Angeles County public health officials ordered the companies operating the Chiquita Canyon landfill, including Texas-based Waste Connections, to provide nearby residents with temporary hotel stays, filtered-air refuge centers, transportation assistance and air purifiers after a gas release sent decomposing debris and smoke above the site. Los Angeles County Fire Department Capt. Aaron Katon said crews drilling a new well encountered a gas pocket about 150 feet below ground and said the plume posed no hazard to anyone in the community. Santa Clarita officials told residents to prepare to evacuate if instructed, while emphasizing that the warning was not an evacuation order.
-nut_graf: The county's assistance order follows advisories to nearby residents and comes as the landfill's owners and operators face a state lawsuit alleging they mismanaged toxic waste. The immediate response addresses housing, transportation and air filtration, while County Supervisor Kathryn Barger demanded a full account of what happened, why the gas release occurred and what safeguards failed.
+lede: Los Angeles County public health officials ordered the companies operating the
+  Chiquita Canyon landfill, including Texas-based Waste Connections, to provide nearby
+  residents with temporary hotel stays, filtered-air refuge centers, transportation
+  assistance and air purifiers after a gas release sent decomposing debris and smoke
+  above the site. Los Angeles County Fire Department Capt. Aaron Katon said crews
+  drilling a new well encountered a gas pocket about 150 feet below ground and said
+  the plume posed no hazard to anyone in the community. Santa Clarita officials told
+  residents to prepare to evacuate if instructed, while emphasizing that the warning
+  was not an evacuation order.
+nut_graf: The county's assistance order follows advisories to nearby residents and
+  comes as the landfill's owners and operators face a state lawsuit alleging they
+  mismanaged toxic waste. The immediate response addresses housing, transportation
+  and air filtration, while County Supervisor Kathryn Barger demanded a full account
+  of what happened, why the gas release occurred and what safeguards failed.
 primary_entities:
 - Chiquita Canyon landfill
 - Waste Connections
@@ -42,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,27 +159,22 @@ related_stories:
   headline: Landfill drilling releases gas plume in Los Angeles County
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8514
+  strength: 0.8507
 - slug: 2026-11-01-mandatory-evacuations-follow-flash-flooding-in-the-southwest
   headline: Mandatory evacuations follow flash flooding in the Southwest
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.664
+  strength: 0.665
 - slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
   headline: Flood warning remains in Four Corners as San Juan River nears crest
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6561
+  strength: 0.6583
 - slug: 2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards
   headline: New Mexico crews search evacuated neighborhoods for flood hazards
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.655
-- slug: 2026-10-21-toledo-orders-more-than-900-residents-out-after-m-c-tank-terminal-explosion
-  headline: Toledo orders more than 900 residents out after M.C. Tank Terminal explosion
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6475
+  strength: 0.6573
 - slug: 2026-05-23-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
   headline: 40,000 ordered to evacuate in Southern California after chemical leak
   publish_date: '2026-05-23'
@@ -174,74 +184,20 @@ related_stories:
   headline: 40,000 ordered to evacuate in Southern California after chemical leak
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.7065
+  strength: 0.7067
 - slug: 2026-05-26-southern-calif-officials-lift-final-evacuation-orders-near-damaged-chemical-tank
-  headline: Southern Calif. officials lift final evacuation orders near damaged chemical tank
+  headline: Southern Calif. officials lift final evacuation orders near damaged chemical
+    tank
   publish_date: '2026-05-26'
   relation: related
   strength: 0.6985
 - slug: 2026-05-24-evacuation-orders-lifted-for-many-near-damaged-southern-california-chemical-tank
-  headline: Evacuation orders lifted for many near damaged Southern California chemical tank
+  headline: Evacuation orders lifted for many near damaged Southern California chemical
+    tank
   publish_date: '2026-05-24'
   relation: related
-  strength: 0.6924
-- slug: 2026-06-18-los-angeles-warehouse-fire-ammonia-leak-prompt-shelter-in-place-order
-  headline: Los Angeles warehouse fire, ammonia leak prompt shelter-in-place order
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.676
-- slug: 2026-05-22-40-000-under-evacuation-orders-after-chemical-tank-leak-in-garden-grove
-  headline: 40,000 under evacuation orders after chemical tank leak in Garden Grove
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6877
-- slug: 2026-05-25-officials-lift-evacuation-orders-for-some-residents-near-damaged-chemical-tank-i
-  headline: Officials lift evacuation orders for some residents near damaged chemical tank in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6861
-- slug: 2026-05-25-crack-found-on-damaged-southern-california-chemical-tank-as-evacuation-continues
-  headline: Crack found on damaged Southern California chemical tank as evacuation continues
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6857
-- slug: 2026-05-25-evacuations-near-damaged-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near damaged chemical tank extend into holiday weekend
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6796
-- slug: 2026-05-23-evacuations-near-overheated-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near overheated chemical tank extend into holiday weekend
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6784
-- slug: 2026-05-24-california-chemical-plant-evacuation-orders-lift-as-explosion-risk-fades
-  headline: California chemical plant evacuation orders lift as explosion risk fades
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6738
-- slug: 2026-06-10-fbi-searches-garden-grove-aerospace-facility-after-chemical-tank-crisis
-  headline: FBI searches Garden Grove aerospace facility after chemical tank crisis
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6666
-- slug: 2026-05-23-chemical-tank-heat-scare-prompts-evacuations-for-40-000-in-parts-of-orange-count
-  headline: Chemical tank heat scare prompts evacuations for 40,000 in parts of Orange County
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.672
-- slug: 2026-05-25-evacuation-lifted-for-most-after-methyl-methacrylate-tank-crack-in-garden-grove
-  headline: Evacuation lifted for most after methyl methacrylate tank crack in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6682
-- slug: 2026-05-24-cracked-chemical-tank-triggers-evacuation-at-gkn-aerospace-in-california
-  headline: Cracked chemical tank triggers evacuation at GKN Aerospace in California
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.668
+  strength: 0.6927
 ---
-
 ## Los Angeles County orders landfill operators to aid residents after gas release
 
 **Subtype:** fact
