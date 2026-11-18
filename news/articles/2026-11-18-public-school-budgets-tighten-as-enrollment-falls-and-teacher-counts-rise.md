@@ -2,8 +2,20 @@
 headline: Public school budgets tighten as enrollment falls and teacher counts rise
 secondary_headline: Seattle closure plan draws resistance after two earlier reversals
 publish_date: '2026-11-18'
-lede: Seattle Public Schools is facing renewed opposition to a proposal to shutter nearly a dozen campuses after an audit recommendation and a 2024 closure plan were set aside. The proposal comes as U.S. public school enrollment has fallen by more than 1.4 million students since the pandemic, according to Stanford University researchers Thomas Dee and Jaymes Pyne. Seattle's enrollment has fallen roughly 8% since 2019 to below 49,000 students.
-nut_graf: The decisions come as more than $190 billion in one-time federal pandemic aid has been exhausted and districts confront structural deficits. Seattle school board member Liza Rankin has noted that employee pay and benefits account for roughly 80% of a district's budget, while research from Arkansas, California, Chicago and elsewhere suggests school closures offer only modest, temporary savings. Districts have leaned on reserves and administrative cuts, and Jason Willis of WestEd warned that tapping reserves could buy only more planning time without resolving San Francisco's structural problems.
+lede: Seattle Public Schools is facing renewed opposition to a proposal to shutter
+  nearly a dozen campuses after an audit recommendation and a 2024 closure plan were
+  set aside. The proposal comes as U.S. public school enrollment has fallen by more
+  than 1.4 million students since the pandemic, according to Stanford University researchers
+  Thomas Dee and Jaymes Pyne. Seattle's enrollment has fallen roughly 8% since 2019
+  to below 49,000 students.
+nut_graf: The decisions come as more than $190 billion in one-time federal pandemic
+  aid has been exhausted and districts confront structural deficits. Seattle school
+  board member Liza Rankin has noted that employee pay and benefits account for roughly
+  80% of a district's budget, while research from Arkansas, California, Chicago and
+  elsewhere suggests school closures offer only modest, temporary savings. Districts
+  have leaned on reserves and administrative cuts, and Jason Willis of WestEd warned
+  that tapping reserves could buy only more planning time without resolving San Francisco's
+  structural problems.
 primary_entities:
 - Seattle Public Schools
 - Thomas Dee
@@ -46,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +161,45 @@ related_stories:
   headline: U.S. school closures reach highest count since the pandemic
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7797
+  strength: 0.7796
 - slug: 2026-11-16-post-midterm-oversight-may-halt-new-policies-for-international-students
   headline: Post-midterm oversight may halt new policies for international students
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6734
+  strength: 0.6737
 - slug: 2026-11-16-international-student-enrollment-at-us-universities-falls-9
   headline: International student enrollment at US universities falls 9%
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6644
+  strength: 0.665
 - slug: 2026-11-06-ice-deportations-accelerate-enrollment-declines-at-us-public-schools
   headline: ICE deportations accelerate enrollment declines at US public schools
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7216
+  strength: 0.7212
 - slug: 2026-10-28-falling-u-s-k-12-enrollment-prompts-public-school-staff-and-program-cuts
   headline: Falling U.S. K-12 enrollment prompts public-school staff and program cuts
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7232
-- slug: 2026-10-27-silicon-valley-parents-press-public-schools-to-limit-classroom-technology
-  headline: Silicon Valley parents press public schools to limit classroom technology
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.653
+  strength: 0.7216
 - slug: 2026-10-07-federal-data-show-black-students-lose-over-four-times-as-many-school-days-to-sus
-  headline: Federal data show Black students lose over four times as many school days to suspension
+  headline: Federal data show Black students lose over four times as many school days
+    to suspension
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6625
+  strength: 0.6616
 - slug: 2026-09-25-nces-staffing-cut-to-12-as-us-reading-and-math-scores-hit-25-year-low
   headline: NCES staffing cut to 12 as US reading and math scores hit 25-year low
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6572
+  strength: 0.6571
 - slug: 2026-09-24-education-department-dismantling-has-potentially-increased-inefficiency-staff-te
-  headline: Education Department dismantling has potentially increased inefficiency, staff tell NPR
+  headline: Education Department dismantling has potentially increased inefficiency,
+    staff tell NPR
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6595
-- slug: 2026-09-01-seattle-and-d-c-child-populations-grew-10-from-2015-to-2024
-  headline: Seattle and D.C. child populations grew 10% from 2015 to 2024
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6839
-- slug: 2026-08-31-us-universities-face-layered-financial-pressures-beyond-the-demographic-cliff
-  headline: US universities face layered financial pressures beyond the demographic cliff
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6773
-- slug: 2026-08-20-wiche-projects-13-decline-in-u-s-college-enrollments-by-2041
-  headline: WICHE projects 13% decline in U.S. college enrollments by 2041
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6573
-- slug: 2026-05-13-texas-public-schools-see-first-non-pandemic-enrollment-drop-in-decades
-  headline: Texas public schools see first non-pandemic enrollment drop in decades
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7222
-- slug: 2026-05-13-texas-public-schools-lose-76-000-students-hispanic-students-account-for-81-of-de
-  headline: Texas public schools lose 76,000 students; Hispanic students account for 81% of decline
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7218
-- slug: 2026-02-03-nevada-districts-face-school-budget-shortfalls-after-funding-surge
-  headline: Nevada districts face school budget shortfalls after funding surge
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6957
-- slug: 2026-04-26-san-diego-trims-arts-funding-as-california-cities-face-budget-deficits
-  headline: San Diego trims arts funding as California cities face budget deficits
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6808
-- slug: 2026-02-11-san-francisco-teachers-strike-shuts-schools-affecting-50-000-students
-  headline: San Francisco Teachers Strike Shuts Schools, Affecting 50,000 Students
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6799
-- slug: 2026-02-28-wave-of-california-teacher-strikes-is-no-coincidence-union-says
-  headline: Wave of California teacher strikes “is no coincidence,” union says
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6718
-- slug: 2026-02-10-san-francisco-teachers-go-on-strike-for-first-time-in-decades
-  headline: San Francisco teachers go on strike for first time in decades
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6719
-- slug: 2026-02-10-san-francisco-parents-juggle-work-and-kids-amid-teachers-strike
-  headline: San Francisco parents juggle work and kids amid teachers strike
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6691
+  strength: 0.6593
 ---
-
 ## Public school budgets tighten as enrollment falls and teacher counts rise
 
 **Subtype:** fact

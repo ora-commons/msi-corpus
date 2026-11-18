@@ -1,9 +1,22 @@
 ---
 headline: Prosecutors say Pakistani Merchant made 15 Iran trips for intelligence training
-secondary_headline: US media report jury deliberated less than two hours in Merchant trial
+secondary_headline: US media report jury deliberated less than two hours in Merchant
+  trial
 publish_date: '2026-11-18'
-lede: Prosecutors said Asif Merchant traveled to Iran 15 times, received training from Iranian intelligence officers and flew to the United States in April 2024 to carry out the plot to assassinate President Donald Trump and other officials. Merchant is a Pakistani man with ties to Iran's government. US media reported that a jury deliberated for less than two hours before returning its March guilty verdict. New York federal judge Eric Ross Komitee sentenced Merchant on Tuesday to 330 months, or 27 years and six months, in prison.
-nut_graf: The prosecutors' account describes 15 trips to Iran for intelligence training before Merchant's April 2024 flight to the United States. Prosecutors also said he made an initial $5,000 payment to undercover FBI agents. Merchant said he was acting under the direction of Iran's Islamic Revolutionary Guard Corps to avenge the 2020 US assassination of Qasem Soleimani, while Attorney General Todd Blanche said the Justice Department would not tolerate foreign terrorist plots against US leaders.
+lede: Prosecutors said Asif Merchant traveled to Iran 15 times, received training
+  from Iranian intelligence officers and flew to the United States in April 2024 to
+  carry out the plot to assassinate President Donald Trump and other officials. Merchant
+  is a Pakistani man with ties to Iran's government. US media reported that a jury
+  deliberated for less than two hours before returning its March guilty verdict. New
+  York federal judge Eric Ross Komitee sentenced Merchant on Tuesday to 330 months,
+  or 27 years and six months, in prison.
+nut_graf: The prosecutors' account describes 15 trips to Iran for intelligence training
+  before Merchant's April 2024 flight to the United States. Prosecutors also said
+  he made an initial $5,000 payment to undercover FBI agents. Merchant said he was
+  acting under the direction of Iran's Islamic Revolutionary Guard Corps to avenge
+  the 2020 US assassination of Qasem Soleimani, while Attorney General Todd Blanche
+  said the Justice Department would not tolerate foreign terrorist plots against US
+  leaders.
 primary_entities:
 - Asif Merchant
 - Donald Trump
@@ -54,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +170,46 @@ related_stories:
   headline: Court finds Asif Merchant sought retribution over Suleimani's death
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8244
+  strength: 0.8224
 - slug: 2026-11-17-merchant-receives-more-than-27-years-for-alleged-iran-linked-assassination-plot
-  headline: Merchant receives more than 27 years for alleged Iran-linked assassination plot
+  headline: Merchant receives more than 27 years for alleged Iran-linked assassination
+    plot
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8167
-- slug: 2026-11-13-jail-calls-and-hearing-place-handler-ali-behind-fairford-van-drivers
-  headline: Jail calls and hearing place handler Ali behind Fairford van drivers
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.626
+  strength: 0.8086
 - slug: 2026-11-05-us-held-secret-talks-with-iran-on-deporting-iranians-amid-war-records-show
-  headline: US held secret talks with Iran on deporting Iranians amid war, records show
+  headline: US held secret talks with Iran on deporting Iranians amid war, records
+    show
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6697
-- slug: 2026-11-07-state-department-offers-up-to-20-million-for-tips-on-iran-s-nuclear-program
-  headline: State Department offers up to $20 million for tips on Iran's nuclear program
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6455
-- slug: 2026-11-08-us-cancels-deportation-flight-of-iranians-bound-for-iran-attorney-says
-  headline: US cancels deportation flight of Iranians bound for Iran, attorney says
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6288
-- slug: 2026-11-05-secret-u-s--iran-talks-on-deportations-continued-during-the-war
-  headline: Secret U.S.-Iran talks on deportations continued during the war
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6267
+  strength: 0.6656
 - slug: 2026-03-06-pakistani-man-convicted-in-iran-backed-plot-to-kill-trump-biden-and-haley
   headline: Pakistani man convicted in Iran-backed plot to kill Trump, Biden and Haley
   publish_date: '2026-03-06'
   relation: related
-  strength: 0.8205
+  strength: 0.8117
 - slug: 2026-03-04-trial-seeks-to-tie-iranian-paramilitary-to-alleged-assassination-plot
   headline: Trial seeks to tie Iranian paramilitary to alleged assassination plot
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.7986
+  strength: 0.793
 - slug: 2026-03-05-pakistani-man-on-trial-says-iranian-linked-plot-targeted-trump-and-biden
   headline: Pakistani man on trial says Iranian-linked plot targeted Trump and Biden
   publish_date: '2026-03-05'
   relation: related
-  strength: 0.7951
+  strength: 0.7898
 - slug: 2026-03-04-pakistani-man-on-trial-says-iran-plot-s-possible-targets-included-trump-biden
-  headline: Pakistani man on trial says Iran plot’s possible targets included Trump, Biden
+  headline: Pakistani man on trial says Iran plot’s possible targets included Trump,
+    Biden
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.7948
-- slug: 2026-09-17-sharifullah-receives-20-year-federal-term-for-iskp-support
-  headline: Sharifullah receives 20-year federal term for ISKP support
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6312
+  strength: 0.7888
 - slug: 2026-08-12-catering-truck-decoy-hides-trump-from-apparent-iran-missile-threat
   headline: Catering-truck decoy hides Trump from apparent Iran missile threat
   publish_date: '2026-08-12'
   relation: related
-  strength: 0.6977
-- slug: 2026-02-25-pakistani-man-goes-on-trial-in-plot-to-kill-us-politician-possibly-trump
-  headline: Pakistani man goes on trial in plot to kill US politician, possibly Trump
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7675
-- slug: 2026-09-09-advisers-weigh-yearslong-iran-war-as-trump-predicts-post-midterm-end
-  headline: Advisers weigh yearslong Iran war as Trump predicts post-midterm end
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6258
-- slug: 2026-02-26-pakistani-man-goes-on-trial-in-new-york-over-plot-to-kill-trump
-  headline: Pakistani man goes on trial in New York over plot to kill Trump
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7538
-- slug: 2026-08-25-six-months-into-iran-war-trump-shifts-to-economic-pressure-campaign
-  headline: Six months into Iran war, Trump shifts to economic pressure campaign
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.65
-- slug: 2026-06-22-iran-steps-up-executions-of-dissidents-as-nuclear-talks-begin
-  headline: Iran Steps Up Executions of Dissidents as Nuclear Talks Begin
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6545
-- slug: 2026-05-27-federal-judge-sentences-man-to-10-years-in-plot-to-kill-iranian-american-writer
-  headline: Federal judge sentences man to 10 years in plot to kill Iranian American writer
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6485
-- slug: 2026-05-03-trump-reviewing-new-iranian-proposal-to-end-war-skeptical-it-will-work
-  headline: Trump reviewing new Iranian proposal to end war, skeptical it will work
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.648
+  strength: 0.6943
 ---
-
 ## Prosecutors say Pakistani Merchant made 15 Iran trips for intelligence training
 
 **Subtype:** fact
