@@ -1,9 +1,20 @@
 ---
 headline: Tech outages prompt scrutiny of U.S. digital vulnerabilities
-secondary_headline: Investigators weigh coincidence, shared technology and external intrusion
+secondary_headline: Investigators weigh coincidence, shared technology and external
+  intrusion
 publish_date: '2026-11-17'
-lede: A string of major technology failures over one week disrupted services used by millions of Americans, including Microsoft services, nationwide air travel, United Airlines and online banking. The NSA said its own internal systems were affected by an outage that day; the outage happened as part of routine maintenance and did not affect security operations. Eric O'Neill said no evidence currently links the incidents.
-nut_graf: The disruptions created immediate operational and customer-access problems, but the unresolved issue is whether separate internal failures, shared cloud or networking technology, or an external intrusion explain the sequence. O'Neill said investigators are going to examine the internal-failure, shared-technology and external-intrusion possibilities diligently, and said the coincidence was too strong to dismiss some external factor.
+lede: A string of major technology failures over one week disrupted services used
+  by millions of Americans, including Microsoft services, nationwide air travel, United
+  Airlines and online banking. The NSA said its own internal systems were affected
+  by an outage that day; the outage happened as part of routine maintenance and did
+  not affect security operations. Eric O'Neill said no evidence currently links the
+  incidents.
+nut_graf: The disruptions created immediate operational and customer-access problems,
+  but the unresolved issue is whether separate internal failures, shared cloud or
+  networking technology, or an external intrusion explain the sequence. O'Neill said
+  investigators are going to examine the internal-failure, shared-technology and external-intrusion
+  possibilities diligently, and said the coincidence was too strong to dismiss some
+  external factor.
 primary_entities:
 - National Security Agency
 - Microsoft
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +158,43 @@ related_stories:
   headline: Trump faces pressure to explain wave of service outages
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7876
+  strength: 0.7874
 - slug: 2026-11-17-u-s-officials-say-nsa-s-classified-network-is-temporarily-down
   headline: U.S. officials say NSA's classified network is temporarily down
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7705
+  strength: 0.7716
 - slug: 2026-11-16-united-pilots-union-memo-details-airline-s-web-based-outage
   headline: United pilots' union memo details airline's web-based outage
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7595
+  strength: 0.759
 - slug: 2026-11-15-ground-stop-microsoft-outage-leave-travelers-doubting-official-accounts
   headline: Ground stop, Microsoft outage leave travelers doubting official accounts
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7616
+  strength: 0.7609
 - slug: 2026-11-17-apple-restores-many-services-after-update-triggered-outages
   headline: Apple restores many services after update-triggered outages
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7281
+  strength: 0.7284
 - slug: 2026-11-16-united-airlines-says-systemwide-outage-delaying-its-departures
   headline: United Airlines says systemwide outage delaying its departures
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7293
+  strength: 0.7286
 - slug: 2026-11-14-microsoft-outage-disrupts-services-worldwide-for-about-18-hours
   headline: Microsoft outage disrupts services worldwide for about 18 hours
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7383
+  strength: 0.7368
 - slug: 2026-11-16-chase-clarifies-cross-bank-impact-and-expects-resolution-by-day-s-end
   headline: Chase clarifies cross-bank impact and expects resolution by day's end
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.72
-- slug: 2026-11-13-microsoft-outage-lasts-more-than-22-hours-as-issues-reported-in-more-than-70-cou
-  headline: Microsoft outage lasts more than 22 hours as issues reported in more than 70 countries
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7401
-- slug: 2026-11-16-microsoft-traces-global-outage-to-latent-bug-from-july
-  headline: Microsoft traces global outage to latent bug from July
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7156
-- slug: 2026-11-13-microsoft-365-outage-disrupts-email-and-government-services-worldwide
-  headline: Microsoft 365 outage disrupts email and government services worldwide
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7361
-- slug: 2026-11-17-nsanet-outage-leaves-cause-and-full-restoration-unclear
-  headline: NSANet outage leaves cause and full restoration unclear
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7052
-- slug: 2026-11-13-arroyo-says-nationwide-air-traffic-outage-could-stem-from-obsolete-technology
-  headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7311
-- slug: 2026-11-13-mullin-says-no-indication-faa-ground-stop-was-a-threat-to-us
-  headline: Mullin says no indication FAA ground stop was a threat to US
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7289
-- slug: 2026-11-13-microsoft-says-configuration-update-overloaded-servers-recovery-began-11-20-gmt
-  headline: Microsoft says configuration update overloaded servers; recovery began 11:20 GMT
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.727
-- slug: 2026-11-14-microsoft-says-outage-over-manchester-trial-halted-delays-at-pharmacies
-  headline: Microsoft says outage over; Manchester trial halted, delays at pharmacies
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7183
-- slug: 2026-11-12-microsoft-outage-disrupts-outlook-email-for-nearly-130-000-users
-  headline: Microsoft outage disrupts Outlook email for nearly 130,000 users
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7283
-- slug: 2026-11-16-chase-attributes-online-banking-disruption-to-technical-bug
-  headline: Chase attributes online banking disruption to technical bug
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7007
-- slug: 2026-11-13-microsoft-outage-disrupts-us-governments-schools-and-businesses
-  headline: Microsoft outage disrupts US governments, schools and businesses
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.721
-- slug: 2026-11-13-microsoft-says-global-outage-showing-early-signs-of-stabilisation
-  headline: Microsoft says global outage showing early signs of stabilisation
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7191
+  strength: 0.7195
 ---
-
 ## Tech outages prompt scrutiny of U.S. digital vulnerabilities
 
 **Subtype:** fact

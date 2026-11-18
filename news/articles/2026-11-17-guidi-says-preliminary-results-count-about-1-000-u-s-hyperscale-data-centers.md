@@ -2,8 +2,17 @@
 headline: Guidi says preliminary results count about 1,000 U.S. hyperscale data centers
 secondary_headline: Actual emissions could exceed the Harvard study's estimate
 publish_date: '2026-11-17'
-lede: Harvard University postdoctoral research fellow Gianluca Guidi said preliminary results from newer studies count around 1,000 hyperscale data centers in the United States, more than double the 403 facilities in his study. In a PBS News report published November 17, 2026, Guidi confirmed that actual emissions could be much higher than the study's estimate as the buildout continues. PBS also reported that Virginia, Iowa, Oregon and Ohio account for half of the electricity used by data centers.
-nut_graf: Guidi said the 403 facilities represented only a fraction of the data-center industry, and preliminary results now put the hyperscale count near 1,000. Virginia, Iowa, Oregon and Ohio account for half of data-center electricity use, and Guidi said communities bearing the environmental costs may not receive the expansion's benefits.
+lede: Harvard University postdoctoral research fellow Gianluca Guidi said preliminary
+  results from newer studies count around 1,000 hyperscale data centers in the United
+  States, more than double the 403 facilities in his study. In a PBS News report published
+  November 17, 2026, Guidi confirmed that actual emissions could be much higher than
+  the study's estimate as the buildout continues. PBS also reported that Virginia,
+  Iowa, Oregon and Ohio account for half of the electricity used by data centers.
+nut_graf: Guidi said the 403 facilities represented only a fraction of the data-center
+  industry, and preliminary results now put the hyperscale count near 1,000. Virginia,
+  Iowa, Oregon and Ohio account for half of data-center electricity use, and Guidi
+  said communities bearing the environmental costs may not receive the expansion's
+  benefits.
 primary_entities:
 - Gianluca Guidi
 - Harvard University
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +158,45 @@ related_stories:
   headline: US hyperscale datacenters emit 25.7m tons of CO2, study finds
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7806
+  strength: 0.7798
 - slug: 2026-11-16-harvard-study-ties-403-us-data-centers-to-28-3-million-tons-of-co2
   headline: Harvard study ties 403 US data centers to 28.3 million tons of CO2
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7499
+  strength: 0.7502
 - slug: 2026-11-09-studied-hyperscale-data-centers-collectively-used-68-to-99-terawatt-hours-a-year
-  headline: Studied hyperscale data centers collectively used 68 to 99 terawatt hours a year
+  headline: Studied hyperscale data centers collectively used 68 to 99 terawatt hours
+    a year
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7542
+  strength: 0.753
 - slug: 2026-11-11-ai-datacentre-developers-plan-on-site-gas-fired-plants-totalling-181gw
   headline: AI datacentre developers plan on-site gas-fired plants totalling 181GW
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7058
+  strength: 0.7049
+- slug: 2026-11-11-texas-ohio-and-georgia-data-center-plans-face-a-policy-test-after-midterms
+  headline: Texas, Ohio and Georgia data-center plans face a policy test after midterms
+  publish_date: '2026-11-11'
+  relation: related
+  strength: 0.6588
 - slug: 2026-11-06-data-center-skeptics-win-across-us-midterms-as-tougher-state-rules-loom
   headline: Data center skeptics win across US midterms as tougher state rules loom
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6711
-- slug: 2026-11-07-reports-trump-administration-weighs-four-underwater-datacenters-off-maine-alaska
-  headline: 'Reports: Trump administration weighs four underwater datacenters off Maine, Alaska'
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6596
+  strength: 0.6698
 - slug: 2026-11-02-property-owners-challenge-utility-plans-amid-data-center-demand-growth
   headline: Property owners challenge utility plans amid data-center demand growth
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6611
-- slug: 2026-10-28-mckay-and-eubanks-call-for-grassroots-opposition-to-ai-data-centers
-  headline: McKay and Eubanks call for grassroots opposition to AI data centers
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6597
+  strength: 0.6602
 - slug: 2026-10-14-two-border-data-centers-could-emit-10-million-tons-of-greenhouse-gases-annually
-  headline: Two border data centers could emit 10 million tons of greenhouse gases annually
+  headline: Two border data centers could emit 10 million tons of greenhouse gases
+    annually
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6675
-- slug: 2026-10-09-epic-systems-stores-data-center-heat-in-6-100-underground-wells
-  headline: Epic Systems stores data center heat in 6,100 underground wells
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6869
-- slug: 2026-09-24-us-ai-infrastructure-investment-projected-at-10-3-trillion-from-2025-to-2032
-  headline: US AI infrastructure investment projected at $10.3 trillion from 2025 to 2032
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6702
-- slug: 2026-09-19-data-center-jobs-pay-42-premium-as-workers-face-public-pushback-on-construction
-  headline: Data center jobs pay 42% premium as workers face public pushback on construction
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6616
-- slug: 2026-08-25-us-gas-fired-power-buildout-outpaces-china-amid-ai-datacenter-buildout
-  headline: US gas-fired power buildout outpaces China amid AI datacenter buildout
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6939
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.666
-- slug: 2026-07-24-ai-data-center-demand-drives-u-s-power-plant-costs-up-10
-  headline: AI data center demand drives U.S. power plant costs up 10%
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.703
-- slug: 2026-07-03-ai-data-centers-consume-as-much-as-12-times-more-water-indirectly-than-directly-
-  headline: AI data centers consume as much as 12 times more water indirectly than directly, lab finds
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6961
-- slug: 2026-06-03-un-report-ai-data-centers-electricity-use-rivals-entire-countries
-  headline: 'UN report: AI data centers'' electricity use rivals entire countries'
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7126
-- slug: 2026-06-23-nearly-80-of-datacenters-vulnerable-to-climate-hazards-study-finds
-  headline: Nearly 80% of datacenters vulnerable to climate hazards, study finds
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7019
-- slug: 2026-07-11-ai-data-center-construction-threatens-farmland-farmers-and-ranchers-warn
-  headline: AI data center construction threatens farmland, farmers and ranchers warn
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6696
-- slug: 2026-06-19-datacenters-drive-us-clean-energy-growth-while-still-threatening-climate
-  headline: Datacenters drive US clean energy growth while still threatening climate
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6836
+  strength: 0.6672
 ---
-
 ## Guidi says preliminary results count about 1,000 U.S. hyperscale data centers
 
 **Subtype:** fact
