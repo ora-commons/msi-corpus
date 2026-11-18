@@ -2,8 +2,17 @@
 headline: Possible US sanctions hang over Myanmar's genocide case at the ICJ
 secondary_headline: A Myanmar judgment could shape the ICJ's later assessment of Israel
 publish_date: '2026-11-18'
-lede: The International Court of Justice is expected to rule Thursday on whether Myanmar's government committed genocide against the Rohingya, as fears grow that the US could sanction the court's judges if Myanmar is found responsible. The Guardian reported that the judgment could have consequences beyond Myanmar because it may clarify how genocidal intent is proven and shape a later ICJ decision involving Israel and Gaza.
-nut_graf: The ruling could do more than determine responsibility for violence against the Rohingya. It may clarify how intent is proven under the genocide convention and influence the ICJ's later treatment of Israel and Gaza. The reported concern about penalties for ICJ judges arose alongside US warnings to the court and US sanctions on ICC judges.
+lede: The International Court of Justice is expected to rule Thursday on whether Myanmar's
+  government committed genocide against the Rohingya, as fears grow that the US could
+  sanction the court's judges if Myanmar is found responsible. The Guardian reported
+  that the judgment could have consequences beyond Myanmar because it may clarify
+  how genocidal intent is proven and shape a later ICJ decision involving Israel and
+  Gaza.
+nut_graf: The ruling could do more than determine responsibility for violence against
+  the Rohingya. It may clarify how intent is proven under the genocide convention
+  and influence the ICJ's later treatment of Israel and Gaza. The reported concern
+  about penalties for ICJ judges arose alongside US warnings to the court and US sanctions
+  on ICC judges.
 primary_entities:
 - International Court of Justice
 - International Criminal Court
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,116 +156,31 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-18-possible-us-sanctions-hang-over-myanmar-s-genocide-case-at-the-icj.png
-  alt: 'Illustration accompanying article: Possible US sanctions hang over Myanmar''s genocide case at the ICJ'
+  alt: 'Illustration accompanying article: Possible US sanctions hang over Myanmar''s
+    genocide case at the ICJ'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-10-24-icc-deputy-prosecutor-reports-staff-banking-problems-amid-us-sanctions
-  headline: ICC deputy prosecutor reports staff banking problems amid US sanctions
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6283
-- slug: 2026-10-14-judge-blocks-us-sanctions-on-groups-aiding-icc-gaza-probe
-  headline: Judge blocks US sanctions on groups aiding ICC Gaza probe
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6443
-- slug: 2026-10-09-us-imposes-institution-wide-sanctions-on-international-criminal-court
-  headline: US imposes institution-wide sanctions on International Criminal Court
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.636
-- slug: 2026-10-09-us-imposes-financial-sanctions-on-international-criminal-court
-  headline: US imposes financial sanctions on International Criminal Court
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6196
 - slug: 2026-09-20-us-preparing-institution-wide-icc-sanctions-with-six-to-seven-month-grace-period
-  headline: US preparing institution-wide ICC sanctions with six-to-seven-month grace period
+  headline: US preparing institution-wide ICC sanctions with six-to-seven-month grace
+    period
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6783
-- slug: 2026-10-10-nobel-laureate-pillay-calls-us-sanctions-on-icc-unheard-of-unacceptable
-  headline: Nobel laureate Pillay calls US sanctions on ICC 'unheard of, unacceptable'
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6121
-- slug: 2026-09-25-hague-group-convenes-40-states-at-un-to-defend-international-legal-order
-  headline: Hague Group convenes 40 states at UN to defend international legal order
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6232
-- slug: 2026-09-25-japan-condemns-icc-head-sanctioning-as-dutch-premier-says-hands-off-icc
-  headline: Japan condemns ICC head sanctioning as Dutch premier says 'hands off ICC'
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6127
-- slug: 2026-09-20-next-un-secretary-general-faces-gaza-genocide-accusation-climate-crisis-ai-threa
-  headline: Next UN secretary-general faces Gaza genocide accusation, climate crisis, AI threats
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6068
-- slug: 2026-09-17-un-to-vote-thursday-on-abbas-video-address-after-us-visa-denial
-  headline: UN to vote Thursday on Abbas video address after US visa denial
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6081
-- slug: 2026-08-30-us-sanctions-icc-officials-after-warrants-for-putin-and-netanyahu
-  headline: US sanctions ICC officials after warrants for Putin and Netanyahu
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6417
-- slug: 2026-08-18-rubio-sanctions-icc-president-and-senior-trial-lawyer
-  headline: Rubio sanctions ICC president and senior trial lawyer
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6366
-- slug: 2026-08-21-us-sanctions-icc-president-and-trial-lawyer-raising-total-to-13
-  headline: US sanctions ICC president and trial lawyer, raising total to 13
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6314
+  strength: 0.6779
 - slug: 2026-03-13-us-to-intervene-in-gaza-genocide-case-at-world-court-says-allegations-false
-  headline: US to intervene in Gaza genocide case at World Court, says allegations false
+  headline: US to intervene in Gaza genocide case at World Court, says allegations
+    false
   publish_date: '2026-03-13'
   relation: related
   strength: 0.7177
-- slug: 2026-08-11-four-rights-groups-sue-trump-administration-over-icc-sanctions
-  headline: Four rights groups sue Trump administration over ICC sanctions
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6313
-- slug: 2026-07-24-ex-icc-prosecutor-says-trump-fears-prosecution-after-leaving-office
-  headline: Ex-ICC prosecutor says Trump fears prosecution after leaving office
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6367
-- slug: 2026-07-16-500-rohingya-feared-dead-after-two-ships-sink-off-myanmar
-  headline: 500 Rohingya feared dead after two ships sink off Myanmar
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6266
-- slug: 2026-06-18-icc-sets-july-24-vote-on-removing-chief-prosecutor-karim-khan
-  headline: ICC sets July 24 vote on removing chief prosecutor Karim Khan
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6449
-- slug: 2026-07-18-mandani-reviews-options-to-arrest-netanyahu-during-un-visit
-  headline: Mandani reviews options to arrest Netanyahu during UN visit
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6107
-- slug: 2026-07-15-house-resolution-counters-trump-administration-pledge-to-dismantle-icc
-  headline: House resolution counters Trump administration pledge to dismantle ICC
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6103
 ---
-
 ## Possible US sanctions hang over Myanmar's genocide case at the ICJ
 
 **Subtype:** fact

@@ -1,9 +1,22 @@
 ---
 headline: Rafael Behr argues Shenzhen summit of Trump, Xi and Putin sidelines Europe
-secondary_headline: Trump has said the talks will cover denuclearisation, Iran, trade and Ukraine
+secondary_headline: Trump has said the talks will cover denuclearisation, Iran, trade
+  and Ukraine
 publish_date: '2026-11-18'
-lede: A three-way summit of Donald Trump, Xi Jinping and Vladimir Putin is due to take place in Shenzhen on Thursday, and Rafael Behr, a Guardian columnist, argues that the format gives Russia the trappings of parity with the world's two genuine superpowers while European democracies remain outside the room. Behr writes that the meeting is a win for Russia regardless of whether anything of substance is agreed, and that it carries a warning to Europe about the choice between closer continental cooperation and flight into fantasies of national sovereignty and historical grandeur.
-nut_graf: 'The argument touches two contested questions: whether European governments can convert a shared claim of involvement in any Ukraine peace process into a coordinated position, and whether Britain''s renewed pro-European turn can hold as the Eurosceptic reaction regroups. Behr''s account rests on agenda statements from the Chinese foreign ministry and on remarks by one of Trump''s envoys, Jared Kushner, and Russia''s chief negotiator, Vladimir Medinsky, made after a round of peace talks in Abu Dhabi last week.'
+lede: A three-way summit of Donald Trump, Xi Jinping and Vladimir Putin is due to
+  take place in Shenzhen on Thursday, and Rafael Behr, a Guardian columnist, argues
+  that the format gives Russia the trappings of parity with the world's two genuine
+  superpowers while European democracies remain outside the room. Behr writes that
+  the meeting is a win for Russia regardless of whether anything of substance is agreed,
+  and that it carries a warning to Europe about the choice between closer continental
+  cooperation and flight into fantasies of national sovereignty and historical grandeur.
+nut_graf: 'The argument touches two contested questions: whether European governments
+  can convert a shared claim of involvement in any Ukraine peace process into a coordinated
+  position, and whether Britain''s renewed pro-European turn can hold as the Eurosceptic
+  reaction regroups. Behr''s account rests on agenda statements from the Chinese foreign
+  ministry and on remarks by one of Trump''s envoys, Jared Kushner, and Russia''s
+  chief negotiator, Vladimir Medinsky, made after a round of peace talks in Abu Dhabi
+  last week.'
 primary_entities:
 - Rafael Behr
 - The Guardian
@@ -53,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +169,43 @@ related_stories:
   headline: Trump, Putin and Xi are set for Shenzhen summit with competing aims
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8162
+  strength: 0.8158
 - slug: 2026-11-16-china-confirms-trump-xi-and-putin-will-meet-thursday-in-shenzhen
   headline: China confirms Trump, Xi and Putin will meet Thursday in Shenzhen
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8178
+  strength: 0.8179
 - slug: 2026-11-16-china-signals-nuclear-reduction-talks-hinge-on-parity-with-us-and-russia
   headline: China signals nuclear reduction talks hinge on parity with US and Russia
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7669
+  strength: 0.7673
 - slug: 2026-11-14-white-house-announces-trump-summit-with-xi-and-putin-in-shenzhen
   headline: White House announces Trump summit with Xi and Putin in Shenzhen
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7705
+  strength: 0.7708
 - slug: 2026-11-16-china-calls-planned-trump-xi-putin-nuclear-talks-groundbreaking
   headline: China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7251
-- slug: 2026-11-16-jensen-huang-s-resignation-complicates-xi-s-summit-diplomacy
-  headline: Jensen Huang’s resignation complicates Xi’s summit diplomacy
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7197
+  strength: 0.7254
 - slug: 2026-11-15-china-hosts-apec-summit-as-trump-xi-and-putin-set-for-three-way-meeting
   headline: China hosts Apec summit as Trump, Xi and Putin set for three-way meeting
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7263
-- slug: 2026-11-17-u-s-and-foreign-officials-say-trump-may-take-more-risks-after-midterms
-  headline: U.S. and foreign officials say Trump may take more risks after midterms
-  publish_date: '2026-11-17'
+  strength: 0.7258
+- slug: 2026-11-16-jensen-huang-s-resignation-complicates-xi-s-summit-diplomacy
+  headline: Jensen Huang’s resignation complicates Xi’s summit diplomacy
+  publish_date: '2026-11-16'
   relation: related
-  strength: 0.697
+  strength: 0.7179
 - slug: 2026-11-16-edgard-kagan-says-china-resists-trilateral-nuclear-talks
   headline: Edgard Kagan says China resists trilateral nuclear talks
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7027
-- slug: 2026-11-15-trump-turns-to-asia-for-xi-putin-nuclear-talks-after-midterm-losses
-  headline: Trump turns to Asia for Xi-Putin nuclear talks after midterm losses
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6999
-- slug: 2026-11-15-albanese-welcomes-trump-xi-putin-summit-as-european-leaders-urge-caution
-  headline: Albanese welcomes Trump-Xi-Putin summit as European leaders urge caution
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6986
-- slug: 2026-11-10-trump-heads-to-apec-with-china-trade-commitments-unresolved
-  headline: Trump heads to APEC with China trade commitments unresolved
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7169
-- slug: 2026-11-09-u-s-and-china-dispute-format-for-proposed-trump-xi-putin-summit
-  headline: U.S. and China dispute format for proposed Trump-Xi-Putin summit
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7224
-- slug: 2026-11-08-kremlin-counts-on-trump-for-ukraine-peace-efforts-as-beijing-stays-measured
-  headline: Kremlin counts on Trump for Ukraine peace efforts as Beijing stays measured
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7227
-- slug: 2026-10-27-china-has-not-issued-an-invitation-for-a-proposed-trump-xi-putin-summit
-  headline: China has not issued an invitation for a proposed Trump-Xi-Putin summit
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.726
-- slug: 2026-10-24-putin-proposes-trump-xi-summit-in-china
-  headline: Putin proposes Trump-Xi summit in China
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7404
-- slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
-  headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.7438
-- slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
-  headline: Trump open to joining Putin and Xi for denuclearization summit
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7353
-- slug: 2026-09-23-china-s-ambassador-lists-four-red-lines-for-trump-xi-meeting
-  headline: China's ambassador lists four red lines for Trump-Xi meeting
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7001
-- slug: 2026-09-22-trump-xi-summit-set-for-sept-24-with-trade-taiwan-ai-on-agenda
-  headline: Trump, Xi summit set for Sept. 24 with trade, Taiwan, AI on agenda
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7026
+  strength: 0.7037
 ---
-
 ## Rafael Behr argues Shenzhen summit of Trump, Xi and Putin sidelines Europe
 
 **Subtype:** fact
