@@ -1,8 +1,18 @@
 ---
 headline: Three senators fault Apple, Google and Meta over 'nudify' apps and ads
 publish_date: '2026-11-18'
-lede: Three US senators sent letters Wednesday to the chief executives of Apple, Google and Meta, saying the platforms' safeguards against so-called nudification apps are insufficient and that Meta continues to profit from advertising for them. Ron Wyden of Oregon, Ed Markey and Ben Luján said apps that generate nonconsensual sexual imagery remain on the Apple and Google app stores or are promoted in ads on Facebook and Instagram despite company policies that prohibit them.
-nut_graf: The letters press Apple and Google on enforcement of their policies against nudification apps and press Meta on ads containing apparent child sexual abuse material. The senators asked Meta chief executive Mark Zuckerberg how ads containing apparent child sexual abuse material passed the company's review systems, and Wyden said Congress would need to act if the companies do not do a better job of cracking down on apps expressly designed and marketed to create harm.
+lede: Three US senators sent letters Wednesday to the chief executives of Apple, Google
+  and Meta, saying the platforms' safeguards against so-called nudification apps are
+  insufficient and that Meta continues to profit from advertising for them. Ron Wyden
+  of Oregon, Ed Markey and Ben Luján said apps that generate nonconsensual sexual
+  imagery remain on the Apple and Google app stores or are promoted in ads on Facebook
+  and Instagram despite company policies that prohibit them.
+nut_graf: The letters press Apple and Google on enforcement of their policies against
+  nudification apps and press Meta on ads containing apparent child sexual abuse material.
+  The senators asked Meta chief executive Mark Zuckerberg how ads containing apparent
+  child sexual abuse material passed the company's review systems, and Wyden said
+  Congress would need to act if the companies do not do a better job of cracking down
+  on apps expressly designed and marketed to create harm.
 primary_entities:
 - Ron Wyden
 - Ed Markey
@@ -47,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,12 +157,14 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-05-google-meta-and-tiktok-sue-california-over-law-curbing-addictive-features-for-ki
-  headline: Google, Meta and TikTok sue California over law curbing addictive features for kids
+  headline: Google, Meta and TikTok sue California over law curbing addictive features
+    for kids
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6896
+  strength: 0.6903
 - slug: 2026-10-19-test-accounts-posing-as-13-year-olds-download-135-nudify-apps-report-finds
-  headline: Test accounts posing as 13-year-olds download 135 nudify apps, report finds
+  headline: Test accounts posing as 13-year-olds download 135 nudify apps, report
+    finds
   publish_date: '2026-10-19'
   relation: related
   strength: 0.7249
@@ -159,94 +172,34 @@ related_stories:
   headline: Meta announces $18bn settlement with new teen limits on Instagram, Facebook
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.7004
+  strength: 0.701
 - slug: 2026-08-26-meta-agrees-to-16-7-billion-settlement-with-us-states-over-youth-mental-health
-  headline: Meta agrees to $16.7 billion settlement with US states over youth mental health
+  headline: Meta agrees to $16.7 billion settlement with US states over youth mental
+    health
   publish_date: '2026-08-26'
   relation: related
-  strength: 0.6866
+  strength: 0.6882
 - slug: 2026-08-20-meta-opens-defense-in-california-youth-mental-health-trial
   headline: Meta opens defense in California youth mental health trial
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.6769
+  strength: 0.6778
 - slug: 2026-08-07-new-mexico-judge-orders-meta-to-pay-942-million-over-harms-to-kids
   headline: New Mexico judge orders Meta to pay $942 million over harms to kids
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.694
+  strength: 0.6958
 - slug: 2026-08-11-ninth-circuit-rules-thousands-of-social-media-lawsuits-can-proceed
   headline: Ninth Circuit rules thousands of social media lawsuits can proceed
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6848
+  strength: 0.6846
 - slug: 2026-06-14-ai-nudify-apps-fuel-epidemic-of-deepfake-bullying-among-teens
   headline: AI nudify apps fuel epidemic of deepfake bullying among teens
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.7125
-- slug: 2026-07-10-meta-appeals-verdict-that-found-platforms-harmed-young-user
-  headline: Meta appeals verdict that found platforms harmed young user
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6898
-- slug: 2026-05-04-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
-  headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7028
-- slug: 2026-03-27-jury-finds-meta-and-youtube-liable-in-landmark-child-safety-cases
-  headline: Jury finds Meta and YouTube liable in landmark child-safety cases
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7098
-- slug: 2026-05-16-senate-calls-tech-ceos-to-testify-on-social-media-risks-to-children
-  headline: Senate calls tech CEOs to testify on social media risks to children
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6944
-- slug: 2026-06-11-key-social-media-lawsuits-could-reshape-platform-operations-as-trials-approach
-  headline: Key social media lawsuits could reshape platform operations as trials approach
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6835
-- slug: 2026-05-16-tech-ceos-to-face-senate-again-on-children-s-safety-on-social-media
-  headline: Tech CEOs to face Senate again on children’s safety on social media
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6911
-- slug: 2026-05-03-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
-  headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6938
-- slug: 2026-04-29-eu-says-meta-is-failing-to-keep-under-13-users-off-facebook-and-instagram
-  headline: EU says Meta is failing to keep under-13 users off Facebook and Instagram
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6832
-- slug: 2026-03-27-verdicts-against-meta-and-youtube-raise-questions-about-child-safety-online
-  headline: Verdicts against Meta and YouTube raise questions about child safety online
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6872
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6826
-- slug: 2026-02-02-meta-faces-new-mexico-trial-over-alleged-harm-to-children
-  headline: Meta faces New Mexico trial over alleged harm to children
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6866
-- slug: 2026-03-26-social-media-firms-await-more-legal-decisions-after-meta-child-safety-verdict
-  headline: Social media firms await more legal decisions after Meta child-safety verdict
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6783
+  strength: 0.7134
 ---
-
 ## Three senators fault Apple, Google and Meta over 'nudify' apps and ads
 
 **Subtype:** fact
