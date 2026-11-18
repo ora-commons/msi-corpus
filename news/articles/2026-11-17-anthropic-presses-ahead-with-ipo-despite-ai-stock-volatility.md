@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-11-02'
   relation: related
   strength: 0.7778
+analyses:
+- '2026-11-17-anthropic-chases-ipo-capital-as-financing-valuation-and-policy-risks-converge'
 ---
 ## Anthropic presses ahead with IPO despite AI stock volatility
 
@@ -240,3 +242,8 @@ For Anthropic, a successful sale would supply substantial capital as the company
 **Publication date:** 2026-11-17
 **Title:** Anthropic bets investors dumping tech stocks will still buy into its IPO
 **URL:** https://apnews.com/article/anthropic-ipo-ai-artificial-intelligence-investors-81233fa35ec35e98455862541a9c1723
+
+---
+
+<!-- analysis-link:2026-11-17-anthropic-chases-ipo-capital-as-financing-valuation-and-policy-risks-converge -->
+**Going deeper:** [Read MSI's analysis of Anthropic’s IPO capital and risk →](/analyses/2026-11-17-anthropic-chases-ipo-capital-as-financing-valuation-and-policy-risks-converge)

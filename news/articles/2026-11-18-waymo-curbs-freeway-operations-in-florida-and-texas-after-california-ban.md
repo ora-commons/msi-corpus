@@ -1,9 +1,17 @@
 ---
 headline: Waymo curbs freeway operations in Florida and Texas after California ban
-secondary_headline: California surface-street service continues as Waymo works to restore freeway access
+secondary_headline: California surface-street service continues as Waymo works to
+  restore freeway access
 publish_date: '2026-11-18'
-lede: Waymo temporarily restricted freeway operations across its other U.S. markets, including Florida and Texas, after California's Department of Motor Vehicles banned the company from testing and operating on all freeways in the state. The ban followed incidents including three Waymo robotaxis entering an active construction zone on U.S. Route 101.
-nut_graf: Waymo's California surface-street service continues, but the company has curtailed freeway activity in other markets while it works with state officials and faces a separate National Highway Traffic Safety Administration inquiry into reports that its vehicles passed stopped school buses.
+lede: Waymo temporarily restricted freeway operations across its other U.S. markets,
+  including Florida and Texas, after California's Department of Motor Vehicles banned
+  the company from testing and operating on all freeways in the state. The ban followed
+  incidents including three Waymo robotaxis entering an active construction zone on
+  U.S. Route 101.
+nut_graf: Waymo's California surface-street service continues, but the company has
+  curtailed freeway activity in other markets while it works with state officials
+  and faces a separate National Highway Traffic Safety Administration inquiry into
+  reports that its vehicles passed stopped school buses.
 primary_entities:
 - Waymo
 - California Department of Motor Vehicles
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +152,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-17-california-dmv-bars-waymo-from-operating-driverless-vehicles-on-state-freeways
-  headline: California DMV bars Waymo from operating driverless vehicles on state freeways
+  headline: California DMV bars Waymo from operating driverless vehicles on state
+    freeways
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8377
+  strength: 0.8369
 - slug: 2026-11-17-waymo-runs-the-largest-us-self-driving-fleet-and-is-barred-from-california-freew
-  headline: Waymo runs the largest US self-driving fleet and is barred from California freeways
+  headline: Waymo runs the largest US self-driving fleet and is barred from California
+    freeways
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.832
+  strength: 0.8322
 - slug: 2026-11-09-nhtsa-probes-waymo-over-taxis-passing-school-buses-with-red-lights-or-stop-signs
-  headline: NHTSA probes Waymo over taxis passing school buses with red lights or stop signs
+  headline: NHTSA probes Waymo over taxis passing school buses with red lights or
+    stop signs
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7344
-- slug: 2026-11-17-home-office-revokes-approval-after-speed-camera-activation-faults
-  headline: Home Office revokes approval after speed camera activation faults
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6004
-- slug: 2026-10-27-california-cities-debate-police-drone-rules-amid-privacy-disputes
-  headline: California cities debate police drone rules amid privacy disputes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6032
-- slug: 2026-09-18-texas-halts-new-flock-camera-permits-along-state-roads
-  headline: Texas halts new Flock camera permits along state roads
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6331
-- slug: 2026-09-15-nhtsa-orders-tesla-to-confirm-whether-cybercab-has-temporary-manual-controls
-  headline: NHTSA orders Tesla to confirm whether Cybercab has temporary manual controls
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.636
+  strength: 0.7361
 - slug: 2026-07-27-waymo-robotaxis-rack-up-9-325-in-austin-parking-fines
   headline: Waymo robotaxis rack up $9,325 in Austin parking fines
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7177
+  strength: 0.7184
 - slug: 2026-07-10-police-struggle-to-ticket-autonomous-taxis-as-robotaxi-fleets-grow
   headline: Police struggle to ticket autonomous taxis as robotaxi fleets grow
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7244
+  strength: 0.7245
 - slug: 2026-08-23-amazon-s-zoox-launches-paid-robotaxi-service-in-las-vegas-and-san-francisco
   headline: Amazon's Zoox launches paid robotaxi service in Las Vegas and San Francisco
   publish_date: '2026-08-23'
   relation: related
-  strength: 0.6714
+  strength: 0.6717
 - slug: 2026-07-09-nhtsa-orders-av-companies-to-address-robotaxi-interference-with-first-responders
-  headline: NHTSA orders AV companies to address robotaxi interference with first responders
+  headline: NHTSA orders AV companies to address robotaxi interference with first
+    responders
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.6719
-- slug: 2026-09-03-uber-and-wayve-launch-london-s-first-robotaxi-service-with-safety-drivers
-  headline: Uber and Wayve launch London's first robotaxi service with safety drivers
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.5979
+  strength: 0.6732
 - slug: 2026-02-26-waymo-expands-robotaxi-service-to-four-more-texas-and-florida-cities
   headline: Waymo expands robotaxi service to four more Texas and Florida cities
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.7091
-- slug: 2026-02-25-waymo-expands-robotaxi-service-to-dallas-houston-san-antonio-and-orlando
-  headline: Waymo expands robotaxi service to Dallas, Houston, San Antonio and Orlando
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7046
-- slug: 2026-02-03-waymo-raises-16-billion-at-126-billion-valuation-to-expand-robotaxi-rollout
-  headline: Waymo raises $16 billion at $126 billion valuation to expand robotaxi rollout
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6623
-- slug: 2026-07-02-nhtsa-closes-four-year-tesla-phantom-braking-probe-covering-416-000-vehicles
-  headline: NHTSA closes four-year Tesla phantom braking probe covering 416,000 vehicles
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6043
-- slug: 2026-02-22-london-black-cab-drivers-skeptical-as-robotaxi-firms-prepare-spring-trials
-  headline: London black cab drivers skeptical as robotaxi firms prepare spring trials
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.638
-- slug: 2026-02-23-london-robotaxi-trials-set-to-begin-as-black-cab-drivers-question-the-pitch
-  headline: London robotaxi trials set to begin as black-cab drivers question the pitch
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6322
-- slug: 2026-02-04-loophole-leaves-many-california-trucking-schools-unlicensed-report-says
-  headline: Loophole leaves many California trucking schools unlicensed, report says
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.6303
-- slug: 2025-12-31-california-delays-revocation-of-17-000-commercial-licenses-after-migrant-lawsuit
-  headline: California delays revocation of 17,000 commercial licenses after migrant lawsuit
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6228
+  strength: 0.7096
 ---
-
 ## Waymo curbs freeway operations in Florida and Texas after California ban
 
 **Subtype:** fact
