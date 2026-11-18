@@ -1,9 +1,22 @@
 ---
 headline: Sanders lays out four-year Medicare for All transition
-secondary_headline: Proposal expands dental, vision and hearing coverage before universal eligibility
+secondary_headline: Proposal expands dental, vision and hearing coverage before universal
+  eligibility
 publish_date: '2026-11-18'
-lede: Bernie Sanders has prepared a four-year transition to Medicare for All that would lower Medicare eligibility to 55 in the first year and extend coverage to everyone in the fourth, as the Vermont independent prepares to become chairman of the Senate Health, Education, Labor and Pensions Committee in January. Sanders also proposed raising the federal minimum wage from $7.25 to $20 an hour and imposing new restrictions on artificial intelligence.
-nut_graf: The agenda puts Democrats’ control of Congress to an early test over how far they will go on universal health care, labor policy and artificial intelligence. Sanders’ prior proposals would finance the program through payroll contributions, including a combination of employer and household premiums, higher taxes on the rich and new taxes on Wall Street and large firms. The costs of lowering Medicare eligibility are likely to produce debate as the national deficit stands at $2 trillion, or 6.2% of gross domestic product, and any legislation Congress passes during the next two years would require President Donald Trump’s signature.
+lede: Bernie Sanders has prepared a four-year transition to Medicare for All that
+  would lower Medicare eligibility to 55 in the first year and extend coverage to
+  everyone in the fourth, as the Vermont independent prepares to become chairman of
+  the Senate Health, Education, Labor and Pensions Committee in January. Sanders also
+  proposed raising the federal minimum wage from $7.25 to $20 an hour and imposing
+  new restrictions on artificial intelligence.
+nut_graf: The agenda puts Democrats’ control of Congress to an early test over how
+  far they will go on universal health care, labor policy and artificial intelligence.
+  Sanders’ prior proposals would finance the program through payroll contributions,
+  including a combination of employer and household premiums, higher taxes on the
+  rich and new taxes on Wall Street and large firms. The costs of lowering Medicare
+  eligibility are likely to produce debate as the national deficit stands at $2 trillion,
+  or 6.2% of gross domestic product, and any legislation Congress passes during the
+  next two years would require President Donald Trump’s signature.
 primary_entities:
 - Bernie Sanders
 - U.S. Democratic Party
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,107 +158,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-17-states-with-democratic-control-advance-affordability-plans-amid-federal-cuts
-  headline: States with Democratic control advance affordability plans amid federal cuts
+  headline: States with Democratic control advance affordability plans amid federal
+    cuts
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6892
+  strength: 0.6886
 - slug: 2026-11-17-el-sayed-and-flanagan-back-van-hollen-for-senate-democratic-leader
   headline: El-Sayed and Flanagan back Van Hollen for Senate Democratic leader
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6577
+  strength: 0.6579
 - slug: 2026-11-13-sanders-frames-senate-democratic-leadership-race-as-a-fight-over-party-s-future
-  headline: Sanders frames Senate Democratic leadership race as a fight over party's future
+  headline: Sanders frames Senate Democratic leadership race as a fight over party's
+    future
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6754
+  strength: 0.6755
 - slug: 2026-11-11-democrats-face-rising-costs-for-post-election-social-programs
   headline: Democrats face rising costs for post-election social programs
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6743
+  strength: 0.6732
 - slug: 2026-11-09-democrats-prepare-affordability-agenda-after-the-midterm-win
   headline: Democrats prepare affordability agenda after the midterm win
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6761
+  strength: 0.6759
 - slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
   headline: Democrats prepare agenda on taxes, health care, AI and Social Security
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6917
+  strength: 0.6915
 - slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
+  headline: House Democrats promise a 100-day cost agenda and prepare oversight of
+    Trump
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6547
+  strength: 0.6542
 - slug: 2026-10-31-healthcare-costs-strain-older-americans-finances-ahead-of-midterm-elections
   headline: Healthcare costs strain older Americans' finances ahead of midterm elections
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6657
-- slug: 2026-10-26-el-sayed-rallies-rural-michigan-on-medicare-for-all
-  headline: El-Sayed rallies rural Michigan on Medicare for All
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6739
-- slug: 2026-10-13-democratic-senate-candidates-split-on-medicare-for-all-ahead-of-midterms
-  headline: Democratic Senate candidates split on Medicare for All ahead of midterms
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7106
-- slug: 2026-10-22-five-social-security-proposals-to-narrow-the-29-3-trillion-gap
-  headline: Five Social Security proposals to narrow the $29.3 trillion gap
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6708
-- slug: 2026-10-04-el-sayed-rallies-1-500-nurses-behind-medicare-for-all-in-san-francisco
-  headline: El-Sayed rallies 1,500 nurses behind Medicare for All in San Francisco
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.7217
-- slug: 2026-10-07-kff-poll-finds-medicare-for-all-support-at-decade-high
-  headline: KFF poll finds Medicare for All support at decade high
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7002
-- slug: 2026-09-20-sanders-proposes-32-hour-workweek-with-overtime-mandate
-  headline: Sanders proposes 32-hour workweek with overtime mandate
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7097
-- slug: 2026-08-30-congress-weighs-bipartisan-social-security-fixes-ahead-of-2032-deadline
-  headline: Congress weighs bipartisan Social Security fixes ahead of 2032 deadline
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6622
-- slug: 2026-08-23-becerra-faces-projected-doubling-of-uninsured-californians-by-2030
-  headline: Becerra faces projected doubling of uninsured Californians by 2030
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.6702
-- slug: 2026-08-09-el-sayed-maintains-medicare-for-all-support-in-michigan-senate-race
-  headline: El-Sayed maintains Medicare for All support in Michigan Senate race
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6841
-- slug: 2026-07-22-progressive-democrats-hold-medicare-for-all-hearing-as-uninsured-ranks-grow
-  headline: Progressive Democrats hold Medicare for All hearing as uninsured ranks grow
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7048
-- slug: 2026-06-17-sanders-proposes-7t-sovereign-wealth-fund-from-ai-stock-tax
-  headline: Sanders proposes $7T sovereign wealth fund from AI stock tax
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6856
-- slug: 2026-06-01-trump-administration-imposes-80-hour-monthly-work-requirement-for-medicaid
-  headline: Trump administration imposes 80-hour monthly work requirement for Medicaid
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6729
+  strength: 0.6649
 ---
-
 ## Sanders lays out four-year Medicare for All transition
 
 **Subtype:** fact

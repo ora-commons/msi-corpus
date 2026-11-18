@@ -201,6 +201,8 @@ related_stories:
   publish_date: '2026-11-17'
   relation: related
   strength: 0.7319
+analyses:
+- '2026-11-18-nvidia-s-2-5-trillion-backlog-makes-demand-composition-the-central-cash-conversi'
 ---
 ## Nvidia’s cloud backlog reaches $2.5 trillion with TSMC support
 
@@ -250,3 +252,8 @@ The Wall Street Journal said Huang’s departure would reverberate for some time
 **Publication date:** 2026-11-18
 **Title:** Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind
 **URL:** https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856
+
+---
+
+<!-- analysis-link:2026-11-18-nvidia-s-2-5-trillion-backlog-makes-demand-composition-the-central-cash-conversi -->
+**Going deeper:** [Read MSI's analysis of Nvidia’s backlog demand quality →](/analyses/2026-11-18-nvidia-s-2-5-trillion-backlog-makes-demand-composition-the-central-cash-conversi)

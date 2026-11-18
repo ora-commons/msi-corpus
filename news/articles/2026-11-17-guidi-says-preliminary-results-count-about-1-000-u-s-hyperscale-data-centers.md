@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-10-14'
   relation: related
   strength: 0.6672
+analyses:
+- '2026-11-17-data-center-buildout-concentrates-local-costs-as-evidence-and-participation-lag'
 ---
 ## Guidi says preliminary results count about 1,000 U.S. hyperscale data centers
 
@@ -235,3 +237,8 @@ By the time of the interview, the report was several months old and the study's 
 **Publication date:** 2026-11-17
 **Title:** Study reveals energy demands and emissions of America's data centers
 **URL:** https://www.pbs.org/newshour/show/study-reveals-energy-demands-and-emissions-of-americas-data-centers
+
+---
+
+<!-- analysis-link:2026-11-17-data-center-buildout-concentrates-local-costs-as-evidence-and-participation-lag -->
+**Going deeper:** [Read MSI's analysis of hyperscale data centers and shared costs →](/analyses/2026-11-17-data-center-buildout-concentrates-local-costs-as-evidence-and-participation-lag)
