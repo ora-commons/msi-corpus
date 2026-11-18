@@ -38,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +60,29 @@ cross_article_links:
   strength: 0.9307
   confidence: high
 draft: false
+image:
+  url: /cartoons/megaspeed-had-nvidia-priority-its-chips-reached-china.png
+  alt: 'Editorial cartoon by Hector Rentier: Megaspeed Had Nvidia Priority. Its Chips
+    Reached China.'
+  caption: Priority access is not export permission. The record must still prove the
+    rest.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-17T22:05:51-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1, single-panel Nast-style wood engraving with heavy cross-hatch.
+    At center, a generic corporate allocation manager—clearly an ordinary human, not
+    a portrait or composite of any real person—s
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-17-hector-paired-with-2026-11-17-stewart-letterkenski-usband-built-a-data-center-empire-backed
 ---
+
+![Editorial cartoon by Hector Rentier: Megaspeed Had Nvidia Priority. Its Chips Reached China.](/cartoons/megaspeed-had-nvidia-priority-its-chips-reached-china.png)
+*Priority access is not export permission. The record must still prove the rest.*
 
 Megaspeed held Nvidia priority while its chips reached China. *The Wall Street Journal* reported that at least some Nvidia chips obtained by Megaspeed were shipped to China and that Alice Huang cultivated a romantic relationship with Jensen Huang, then Nvidia’s chief executive, in an effort to secure advanced-computing chips for Megaspeed. Kang Wei, the [businessman who introduced Jensen Huang to Alice Huang](/articles/2026-11-12-businessman-who-introduced-jensen-huang-to-alice-huang-is-her-husband/), had known Huang from their videogame-industry days and told people who knew the couple that he had introduced them. They were photographed together at a Singapore restaurant in late 2023 and at Taipei’s Computex conference the following year. The Journal characterised their work as two tracks aimed at the same goal: advancing China’s artificial-intelligence capabilities ahead of those of the United States.
 

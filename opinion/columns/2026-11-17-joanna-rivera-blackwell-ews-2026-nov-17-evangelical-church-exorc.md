@@ -42,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -63,7 +64,28 @@ cross_article_links:
   strength: 1.0
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-white-house-endorsed-calling-the-democratic-platform.png
+  alt: 'Editorial cartoon by Hector Rentier: The White House Endorsed Calling the
+    Democratic Platform Demonic'
+  caption: State imprimatur turned political disagreement into spiritual condemnation.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-17T22:03:44-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Square 1:1 single-panel editorial engraving in the Nast tradition: dense
+    black cross-hatching, strong outline hierarchy, carved white highlights, and no
+    widescreen elements. At center, a generic, unna'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-17-hector-paired-with-2026-11-17-joanna-rivera-blackwell-ews-2026-nov-17-evangelical-church-exorc
 ---
+
+![Editorial cartoon by Hector Rentier: The White House Endorsed Calling the Democratic Platform Demonic](/cartoons/the-white-house-endorsed-calling-the-democratic-platform.png)
+*State imprimatur turned political disagreement into spiritual condemnation.*
 
 The White House endorsed calling the Democratic platform demonic.
 

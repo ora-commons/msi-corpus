@@ -1,9 +1,27 @@
 ---
 headline: Harvard study links strict school cellphone bans to modest learning gains
-secondary_headline: Hormuz tanker attack, carrier presence and Nvidia earnings round out global news
+secondary_headline: Hormuz tanker attack, carrier presence and Nvidia earnings round
+  out global news
 publish_date: '2026-11-17'
-lede: PBS News reported in its November 17 news wrap that a Harvard University-led study found strict cellphone restrictions in some U.S. schools were associated with modest academic gains, including the equivalent of one to two weeks of learning each year. The first nationwide assessment of its kind analyzed math and reading results from more than three million students at some 4,600 schools. The wrap also reported a tanker attack in the Strait of Hormuz, a U.S. carrier deployment, a Ukrainian strike on the Kerch Bridge, Russian attacks on Kyiv, Nvidia's nearly $116 billion quarterly revenue and a mass red-crab migration on Christmas Island. Before Nvidia's after-hours results, the Dow fell nearly 850 points and the S&P 500 posted its lowest close since July.
-nut_graf: The other reports covered a tanker fire in the Strait of Hormuz, Bahrain's interception of Iranian drones, the USS Theodore Roosevelt's presence in the region, Hung Cao's testimony about the USS Lincoln, the Kerch Bridge strike and Russian attacks on Kyiv, Nvidia's earnings and a weak market close, and the Christmas Island crab migration. In public-health background, the Pan American Health Organization said the United States was no longer measles-free and expects the United States, Mexico and Bolivia to submit plans in the coming weeks on how each country will try to stop measles transmission for at least a year; PBS News described the elimination status as largely symbolic.
+lede: PBS News reported in its November 17 news wrap that a Harvard University-led
+  study found strict cellphone restrictions in some U.S. schools were associated with
+  modest academic gains, including the equivalent of one to two weeks of learning
+  each year. The first nationwide assessment of its kind analyzed math and reading
+  results from more than three million students at some 4,600 schools. The wrap also
+  reported a tanker attack in the Strait of Hormuz, a U.S. carrier deployment, a Ukrainian
+  strike on the Kerch Bridge, Russian attacks on Kyiv, Nvidia's nearly $116 billion
+  quarterly revenue and a mass red-crab migration on Christmas Island. Before Nvidia's
+  after-hours results, the Dow fell nearly 850 points and the S&P 500 posted its lowest
+  close since July.
+nut_graf: The other reports covered a tanker fire in the Strait of Hormuz, Bahrain's
+  interception of Iranian drones, the USS Theodore Roosevelt's presence in the region,
+  Hung Cao's testimony about the USS Lincoln, the Kerch Bridge strike and Russian
+  attacks on Kyiv, Nvidia's earnings and a weak market close, and the Christmas Island
+  crab migration. In public-health background, the Pan American Health Organization
+  said the United States was no longer measles-free and expects the United States,
+  Mexico and Bolivia to submit plans in the coming weeks on how each country will
+  try to stop measles transmission for at least a year; PBS News described the elimination
+  status as largely symbolic.
 primary_entities:
 - PBS News
 - Harvard University
@@ -62,7 +80,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -78,17 +97,20 @@ figures:
   series_id: DJIA
   transformation: raw
   as_of: '2026-11-17'
-  caption: FRED's raw Dow Jones Industrial Average series stood at 51,608.17 on November 17, 2026. PBS News reported that the index fell nearly 850 points that day.
+  caption: FRED's raw Dow Jones Industrial Average series stood at 51,608.17 on November
+    17, 2026. PBS News reported that the index fell nearly 850 points that day.
 - source: fred
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-11-17'
-  caption: FRED's raw NASDAQ Composite series stood at 24,509.76 on November 17, 2026. PBS News reported a decline of almost three-quarters of 1%.
+  caption: FRED's raw NASDAQ Composite series stood at 24,509.76 on November 17, 2026.
+    PBS News reported a decline of almost three-quarters of 1%.
 - source: fred
   series_id: SP500
   transformation: raw
   as_of: '2026-11-17'
-  caption: FRED's raw S&P 500 series stood at 7,416.59 on November 17, 2026. PBS News identified the index's close as the lowest since July.
+  caption: FRED's raw S&P 500 series stood at 7,416.59 on November 17, 2026. PBS News
+    identified the index's close as the lowest since July.
 figures_aggregate:
   count: 3
   series_ids:
@@ -184,104 +206,46 @@ related_stories:
   headline: IMF says Gulf Arab states are in recession from Iran war
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6727
+  strength: 0.6737
 - slug: 2026-11-13-iran-fires-two-drones-at-bahrain-radar-facility-in-first-known-attack-since-sept
-  headline: Iran fires two drones at Bahrain radar facility in first known attack since September
+  headline: Iran fires two drones at Bahrain radar facility in first known attack
+    since September
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6719
+  strength: 0.6718
 - slug: 2026-11-13-report-says-huang-exit-could-bring-nvidia-shareholder-suits-and-tech-sector-regu
-  headline: Report says Huang exit could bring Nvidia shareholder suits and tech-sector regulatory pressure
+  headline: Report says Huang exit could bring Nvidia shareholder suits and tech-sector
+    regulatory pressure
   publish_date: '2026-11-13'
   relation: related
   strength: 0.6592
-- slug: 2026-11-10-nvidia-inquiry-precedes-nov-9-market-value-decline-of-roughly-200-billion
-  headline: Nvidia inquiry precedes Nov. 9 market-value decline of roughly $200 billion
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6471
 - slug: 2026-11-04-iran-deploys-drones-grenades-and-mines-against-hormuz-shipping
   headline: Iran deploys drones, grenades and mines against Hormuz shipping
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6708
-- slug: 2026-10-30-open-ended-hormuz-mission-strains-u-s-navy-crews-and-aircraft
-  headline: Open-ended Hormuz mission strains U.S. Navy crews and aircraft
-  publish_date: '2026-10-30'
+  strength: 0.6715
+- slug: 2026-11-03-iran-presses-trump-for-negotiations-ahead-of-the-midterms
+  headline: Iran presses Trump for negotiations ahead of the midterms
+  publish_date: '2026-11-03'
   relation: related
-  strength: 0.6467
+  strength: 0.6596
+- slug: 2026-10-20-musk-reportedly-ordered-a-slowdown-of-starlink-connections-for-ukrainian-hardwar
+  headline: Musk reportedly ordered a slowdown of Starlink connections for Ukrainian
+    hardware
+  publish_date: '2026-10-20'
+  relation: related
+  strength: 0.6611
+- slug: 2026-10-21-five-wall-street-journal-briefs-cover-autism-therapy-ipos-ai-and-friendship
+  headline: Five Wall Street Journal briefs cover autism therapy, IPOs, AI and friendship
+  publish_date: '2026-10-21'
+  relation: related
+  strength: 0.6507
 - slug: 2026-10-14-gfs-pride-sinks-near-strait-of-hormuz-as-ukmto-logs-five-incidents
   headline: GFS Pride sinks near Strait of Hormuz as UKMTO logs five incidents
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.6712
-- slug: 2026-10-16-record-high-ship-attacks-near-strait-of-hormuz-slow-oil-shipments
-  headline: Record-high ship attacks near Strait of Hormuz slow oil shipments
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6625
-- slug: 2026-08-28-u-s--iran-war-reshapes-hormuz-traffic-energy-markets-and-alliances
-  headline: U.S.-Iran war reshapes Hormuz traffic, energy markets and alliances
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6797
-- slug: 2026-09-02-u-s-strikes-iran-tehran-launches-missiles-at-jordan-drones-at-bahrain
-  headline: U.S. strikes Iran; Tehran launches missiles at Jordan, drones at Bahrain
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.66
-- slug: 2026-08-31-trump-threatens-escalation-after-u-s-iran-exchange-strikes-in-hormuz-jordan
-  headline: Trump threatens escalation after U.S., Iran exchange strikes in Hormuz, Jordan
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6519
-- slug: 2026-07-26-maritime-challenges-spread-beyond-strait-of-hormuz-to-key-global-waterways
-  headline: Maritime challenges spread beyond Strait of Hormuz to key global waterways
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6498
-- slug: 2026-07-16-securing-strait-of-hormuz-would-require-thousands-of-u-s-troops-experts-say
-  headline: Securing Strait of Hormuz would require thousands of U.S. troops, experts say
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6565
-- slug: 2026-07-18-hormuz-attacks-kill-3-seafarers-as-iran-uses-cruise-missiles
-  headline: Hormuz attacks kill 3 seafarers as Iran uses cruise missiles
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6523
-- slug: 2026-07-13-us-deploys-sea-drones-in-combat-strikes-on-iran-for-first-time
-  headline: US deploys sea drones in combat strikes on Iran for first time
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6548
-- slug: 2026-07-17-irgc-says-it-struck-us-command-center-in-syria-as-hormuz-attacks-continue
-  headline: IRGC says it struck US command center in Syria as Hormuz attacks continue
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6467
-- slug: 2026-06-17-global-economy-weathered-hormuz-closure-with-limited-damage-analysis-finds
-  headline: Global economy weathered Hormuz closure with limited damage, analysis finds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6627
-- slug: 2026-06-26-iran-strikes-inflicted-400m-damage-on-u-s-navy-base-in-bahrain
-  headline: Iran strikes inflicted $400M damage on U.S. Navy base in Bahrain
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6562
-- slug: 2026-04-24-trump-orders-u-s-navy-to-shoot-and-kill-iranian-small-boats-in-hormuz
-  headline: Trump orders U.S. Navy to “shoot and kill” Iranian small boats in Hormuz
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6629
-- slug: 2026-06-06-u-s-military-shoots-down-iranian-drones-missiles-strikes-gulf-radar-sites
-  headline: U.S. military shoots down Iranian drones, missiles; strikes Gulf radar sites
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6475
+  strength: 0.6719
 ---
-
 ## Harvard study links strict school cellphone bans to modest learning gains
 
 **Subtype:** fact
