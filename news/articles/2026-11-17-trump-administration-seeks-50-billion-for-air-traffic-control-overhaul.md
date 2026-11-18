@@ -1,9 +1,20 @@
 ---
 headline: Trump administration seeks $50 billion for air traffic control overhaul
-secondary_headline: Republican lawmakers trust Duffy but question federal funding for upgrades
+secondary_headline: Republican lawmakers trust Duffy but question federal funding
+  for upgrades
 publish_date: '2026-11-17'
-lede: The Trump administration is seeking $50 billion from Congress to modernize the nation's air traffic control system after last week's nationwide ground stop. The proposal allocates $20 billion for new terminals and upgrades at some airports, $10 billion for towers and computing needs, and $10 billion for five air route traffic centers; Republican lawmakers who met with Secretary Sean Duffy said they trust him, though one said airlines should pay and another said federal money should not improve airports.
-nut_graf: Congressional approval is needed for the administration's proposal, which arrived as lawmakers prepared to leave for the year-end break. The debate centers on the modernization plan's cost and funding, while the lame-duck session also faces a December 10 government-funding deadline, a defense authorization bill and a reconciliation bill on Republicans' wish list.
+lede: The Trump administration is seeking $50 billion from Congress to modernize the
+  nation's air traffic control system after last week's nationwide ground stop. The
+  proposal allocates $20 billion for new terminals and upgrades at some airports,
+  $10 billion for towers and computing needs, and $10 billion for five air route traffic
+  centers; Republican lawmakers who met with Secretary Sean Duffy said they trust
+  him, though one said airlines should pay and another said federal money should not
+  improve airports.
+nut_graf: Congressional approval is needed for the administration's proposal, which
+  arrived as lawmakers prepared to leave for the year-end break. The debate centers
+  on the modernization plan's cost and funding, while the lame-duck session also faces
+  a December 10 government-funding deadline, a defense authorization bill and a reconciliation
+  bill on Republicans' wish list.
 primary_entities:
 - Trump administration
 - United States
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,104 +160,45 @@ related_stories:
   headline: Trump administration raises aviation funding request to $50.1 billion
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8296
+  strength: 0.8299
 - slug: 2026-11-15-trump-ties-air-traffic-control-funding-request-to-weekend-ground-stop
   headline: Trump ties air traffic control funding request to weekend ground stop
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.8434
+  strength: 0.8438
 - slug: 2026-11-16-trump-blames-congress-for-aviation-funding-democrats-cite-unspent-billions
   headline: Trump blames Congress for aviation funding; Democrats cite unspent billions
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7966
+  strength: 0.7968
 - slug: 2026-11-16-congress-has-funded-faa-modernization-at-14-4-billion-above-budget-requests
   headline: Congress has funded FAA modernization at $14.4 billion, above budget requests
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7939
+  strength: 0.7935
 - slug: 2026-11-13-white-house-lobbies-congress-for-30-billion-to-finish-air-traffic-overhaul
   headline: White House lobbies Congress for $30 billion to finish air traffic overhaul
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8122
+  strength: 0.8128
 - slug: 2026-11-14-duffy-demands-50-billion-for-faa-after-disruption-grounds-thousands-of-flights
-  headline: Duffy demands $50 billion for FAA after disruption grounds thousands of flights
+  headline: Duffy demands $50 billion for FAA after disruption grounds thousands of
+    flights
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8027
+  strength: 0.8029
 - slug: 2026-11-15-duffy-seeks-50-billion-for-faa-upgrades-after-nationwide-ground-stop
   headline: Duffy seeks $50 billion for FAA upgrades after nationwide ground stop
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.794
+  strength: 0.7944
 - slug: 2026-11-15-airlines-cancel-more-than-2-300-flights-as-disruptions-expected-to-last-into-mon
-  headline: Airlines cancel more than 2,300 flights as disruptions expected to last into Monday
+  headline: Airlines cancel more than 2,300 flights as disruptions expected to last
+    into Monday
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7849
-- slug: 2026-11-15-duffy-takes-case-to-five-tv-networks-after-making-the-grounding-call
-  headline: Duffy takes case to five TV networks after making the grounding call
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7798
-- slug: 2026-11-14-airlines-cancel-thousands-of-flights-after-longest-us-ground-stop-in-25-years
-  headline: Airlines cancel thousands of flights after longest US ground stop in 25 years
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7787
-- slug: 2026-11-17-faa-pauses-new-juniper-router-installations-after-nationwide-ground-stop
-  headline: FAA pauses new Juniper router installations after nationwide ground stop
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.757
-- slug: 2026-11-16-trump-blames-old-air-traffic-equipment-and-biden-for-friday-grounding
-  headline: Trump blames old air traffic equipment and Biden for Friday grounding
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7636
-- slug: 2026-11-17-jack-reed-questions-faa-contractor-oversight-as-duffy-seeks-50-billion
-  headline: Jack Reed questions FAA contractor oversight as Duffy seeks $50 billion
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7565
-- slug: 2026-11-16-nationwide-grounding-intensifies-scrutiny-of-faa-s-aging-system
-  headline: Nationwide grounding intensifies scrutiny of FAA's aging system
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7588
-- slug: 2026-11-16-duffy-says-router-in-arkansas-flooded-network-root-cause-unresolved
-  headline: Duffy says router in Arkansas flooded network; root cause unresolved
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7519
-- slug: 2026-11-14-officials-tie-nationwide-ground-stop-to-work-on-old-copper-wiring
-  headline: Officials tie nationwide ground stop to work on old copper wiring
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7557
-- slug: 2026-11-14-officials-say-overloaded-air-traffic-equipment-triggered-nationwide-ground-stop
-  headline: Officials say overloaded air traffic equipment triggered nationwide ground stop
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7508
-- slug: 2026-11-16-532-flights-affected-at-reagan-national-dulles-richmond-and-norfolk-in-eight-hou
-  headline: 532 flights affected at Reagan National, Dulles, Richmond and Norfolk in eight-hour ground stop
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7259
-- slug: 2026-11-14-u-s-flight-cancellations-reach-more-than-4-100-after-ground-stop
-  headline: U.S. flight cancellations reach more than 4,100 after ground stop
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7397
-- slug: 2026-11-14-l3harris-says-it-had-completed-over-70-of-upgrade-work-before-the-shutdown
-  headline: L3Harris says it had completed over 70% of upgrade work before the shutdown
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.727
+  strength: 0.7855
 ---
-
 ## Trump administration seeks $50 billion for air traffic control overhaul
 
 **Subtype:** fact
