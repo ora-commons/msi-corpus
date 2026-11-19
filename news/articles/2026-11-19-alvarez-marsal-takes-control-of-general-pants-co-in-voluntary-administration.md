@@ -2,8 +2,14 @@
 headline: Alvarez & Marsal takes control of General Pants Co in voluntary administration
 secondary_headline: All 35 stores will remain open while administrators assess a sale
 publish_date: '2026-11-19'
-lede: General Pants Co, an Australian youth fashion chain, entered voluntary administration late Wednesday, placing nearly 500 jobs at risk. Alvarez & Marsal took control of the retailer and nine related businesses, saying all 35 stores and the online store would remain open while administrators assessed a possible sale or restructuring.
-nut_graf: The administration places nearly 500 jobs at risk even as all 35 stores and the online store remain open and employees would be paid for work during the process. General Pants Co's move comes as Australian retailers face softer discretionary spending, rising operating costs and competition from online-only retailers.
+lede: General Pants Co, an Australian youth fashion chain, entered voluntary administration
+  late Wednesday, placing nearly 500 jobs at risk. Alvarez & Marsal took control of
+  the retailer and nine related businesses, saying all 35 stores and the online store
+  would remain open while administrators assessed a possible sale or restructuring.
+nut_graf: The administration places nearly 500 jobs at risk even as all 35 stores
+  and the online store remain open and employees would be paid for work during the
+  process. General Pants Co's move comes as Australian retailers face softer discretionary
+  spending, rising operating costs and competition from online-only retailers.
 primary_entities:
 - General Pants Co
 - Alvarez & Marsal
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,109 +146,8 @@ cross_article_links:
   strength: 0.5522
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-12-gordon-brothers-releases-10m-to-poundland-as-12-000-store-jobs-remain-at-risk
-  headline: Gordon Brothers releases £10m to Poundland as 12,000 store jobs remain at risk
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5972
-- slug: 2026-11-16-uk-government-backs-new-laws-to-protect-in-person-banking
-  headline: UK government backs new laws to protect in-person banking
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.5656
-- slug: 2026-11-15-poundland-s-us-owner-releases-21m-to-restock-600-shops
-  headline: Poundland's US owner releases £21m to restock 600 shops
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.5585
-- slug: 2026-11-12-poundland-wins-two-more-weeks-of-creditor-protection-as-owner-weighs-three-bids
-  headline: Poundland wins two more weeks of creditor protection as owner weighs three bids
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5726
-- slug: 2026-11-09-gordon-brothers-limits-poundland-cash-leaving-600-shops-short-of-stock
-  headline: Gordon Brothers limits Poundland cash, leaving 600 shops short of stock
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.5823
-- slug: 2026-11-04-poundland-suppliers-urge-owner-to-explore-alternatives-to-break-up
-  headline: Poundland suppliers urge owner to explore alternatives to break-up
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6018
-- slug: 2026-11-03-uk-government-pressures-gordon-brothers-over-poundland-rescue-bids
-  headline: UK government pressures Gordon Brothers over Poundland rescue bids
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.5989
-- slug: 2026-11-10-carney-rejects-stellantis-sale-of-brampton-plant-to-roshel
-  headline: Carney rejects Stellantis sale of Brampton plant to Roshel
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.5542
-- slug: 2026-10-30-poundland-files-notice-to-appoint-administrators-as-owner-rejects-rescue-bid
-  headline: Poundland files notice to appoint administrators as owner rejects rescue bid
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6086
-- slug: 2026-11-05-xyra-offers-partial-debt-payment-in-bid-to-rescue-poundland
-  headline: Xyra offers partial debt payment in bid to rescue Poundland
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5554
-- slug: 2026-10-06-fca-apologized-to-andriesz-for-misleading-him-on-whistleblower-protection
-  headline: FCA apologized to Andriesz for misleading him on whistleblower protection
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5389
-- slug: 2026-10-05-australian-greens-pitch-25-1bn-public-supermarket-plan
-  headline: Australian Greens pitch $25.1bn public-supermarket plan
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.5407
-- slug: 2026-09-17-mastercard-plans-to-roll-out-agentic-payment-option-with-alchemy
-  headline: Mastercard plans to roll out agentic payment option with Alchemy
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5683
-- slug: 2026-09-18-white-plains-autozone-workers-seek-first-retail-store-union-vote
-  headline: White Plains AutoZone workers seek first retail store union vote
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.5493
-- slug: 2026-09-11-aritzia-mcdonald-s-add-staff-as-chains-reverse-self-service-push
-  headline: Aritzia, McDonald's add staff as chains reverse self-service push
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.545
-- slug: 2026-09-05-jaguar-land-rover-opens-voluntary-redundancy-programme-for-uk-staff
-  headline: Jaguar Land Rover opens voluntary redundancy programme for UK staff
-  publish_date: '2026-09-05'
-  relation: related
-  strength: 0.539
-- slug: 2026-08-14-unifor-says-stellantis-is-considering-selling-brampton-plant
-  headline: Unifor says Stellantis is considering selling Brampton plant
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5521
-- slug: 2026-07-23-taco-bell-rushes-to-contain-cyclospora-after-july-14-alert
-  headline: Taco Bell rushes to contain Cyclospora after July 14 alert
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5473
-- slug: 2026-06-08-pepsico-runs-35-driverless-trucks-on-arizona-roads-in-first-large-scale-consumer
-  headline: PepsiCo runs 35 driverless trucks on Arizona roads in first large-scale consumer-goods deployment
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5693
-- slug: 2026-05-22-shein-to-buy-everlane-as-struggling-retailer-seeks-financial-stability
-  headline: Shein to buy Everlane as struggling retailer seeks financial stability
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5396
+related_stories: []
 ---
-
 ## Alvarez & Marsal takes control of General Pants Co in voluntary administration
 
 **Subtype:** fact

@@ -58,7 +58,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - NPR
   outlet_classes:
@@ -222,3 +222,10 @@ Voters in the district say those candidates must now actually deliver for workin
 **Publication date:** 2026-11-16
 **Title:** Democratic strategists think Montana House race could hold the secret to future wins
 **URL:** https://www.npr.org/2026/11/16/nx-s1-6032798/democratic-strategists-think-montana-house-race-could-hold-the-secret-to-future-wins
+
+### src_late_60304d1fde76a077 — NPR, public_broadcaster, Tier 1, originating
+**Author:** Kirk Siegler
+**Publication date:** 2026-11-18
+**Title:** Democratic strategists think Montana House race could hold the secret to future wins
+**URL:** https://www.npr.org/2026/11/18/nx-s1-6032798-e1/democratic-strategists-think-montana-house-race-could-hold-the-secret-to-future-wins
+**Added after publication:** true

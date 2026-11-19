@@ -229,7 +229,7 @@ Risk Journal reported that the United States sanctioned a Chinese artificial-int
 
 ## Financial enforcement
 
-The Morning Risk Report said suspicious financial activity potentially linked to fraud against federal student-aid programs, according to the Treasury Department's Financial Crimes Enforcement Network.
+The Morning Risk Report cited the Treasury Department's Financial Crimes Enforcement Network on the amount of suspicious financial activity potentially linked to fraud against federal student-aid programs.
 
 ## West African gold investment
 

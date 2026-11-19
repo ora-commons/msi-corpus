@@ -20,26 +20,12 @@ nut_graf: The disclosure supplies previously unreported detail on TikTok's inter
 primary_entities:
 - TikTok
 - Federal Trade Commission
-- Centers for Disease Control and Prevention
-- Pleasant Company
-- American Girl
-- Fiona Davis
-- American College of Obstetricians and Gynecologists
-- Victoria
-- Department of Justice
-- California
 primary_themes:
 - Child safety
 - Technology accountability
-- Cold-and-flu preparedness
-- Consumer health
-- American Girl history
-- Menopause treatment
-- Consumer spending
-- Election administration
 topic_tags:
-- health
-- politics
+- social media
+- law
 storyline_nexus: []
 storyline_continuity:
   decision: none
@@ -224,9 +210,6 @@ image:
 - TikTok employees repeatedly raised concerns with leadership about the app's risks to children, including sexual exploitation and exposure to suicide content, according to previously unreported court records.
 - TikTok staff told management that minors were engaging with sexual content from which TikTok profited, the records show.
 - TikTok avoided conducting age surveys because it feared having to share the results with the Federal Trade Commission.
-- The Centers for Disease Control and Prevention says the U.S. cold-and-flu season starts in October 2026 and lasts through May, while cooler temperatures and drier air can increase vulnerability to the common cold, flu, RSV and COVID-19.
-- The American College of Obstetricians and Gynecologists updated menopause treatment guidelines for the first time since 2014 and now recommends hormone replacement therapy alongside other treatments to alleviate symptoms.
-- Fiona Davis was asked to write the adult historical-fiction novel Samantha: The Next Chapter for Pleasant Company's 40th anniversary, featuring 25-year-old Samantha Parkington.
 
 ## TikTok skipped age surveys fearing disclosure to the Federal Trade Commission
 
@@ -235,36 +218,6 @@ Previously unreported court records show TikTok employees repeatedly raised conc
 Depositions filed in March 2026 provide new insight into TikTok's child-safety practices since the app's surge in popularity in 2018. Staff alerted management that minors were engaging with sexual content from which TikTok profited, and employees identified loopholes that allowed users under 18 to bypass age restrictions and block parental oversight of their app activity.
 
 The records also show TikTok avoided conducting age surveys because it feared it would have to share the results with the Federal Trade Commission.
-
-The newsletter's top political story concerned Justice Department charges against 28 green card holders in California for allegedly illegally registering to vote or voting in U.S. elections. NPR described the move as a significant escalation in the Trump administration's feud with California over its voting system as the midterm elections approach. The Justice Department also filed an emergency request seeking to prevent California from processing ballots returned by people on voter rolls the federal government says are "likely noncitizens."
-
-California sought clarification on the federal government's conclusions about who was on the list but had not received any. Last week, the Justice Department sued California and Los Angeles County after local officials refused to investigate allegations made by the administration about noncitizen voting. The Justice Department wants California to segregate ballots cast by people on the list and delay counting them until investigations are complete.
-
-Miles Parks told Up First that election law experts doubt the Justice Department will succeed, citing its past attempts to change state voting processes. He said it would be surprising to see a shift just two weeks before the election with ballots already distributed. Research reviewed by NPR shows that, in many cases, legal permanent residents register to vote because of a misunderstanding of the rules. Experts told Parks they were concerned that federal law enforcement might use accusations to confiscate ballots during counting, and many local voting officials are preparing by keeping county attorneys on speed dial.
-
-With Election Day two weeks away, Democrats and Republicans are deciding which races to prioritize. President Trump is campaigning this week in key perennial purple states including Georgia, North Carolina, Kansas, Iowa and Florida.
-
-NPR's Stephen Fowler told Up First that Trump's Kansas rally and North Carolina trip are not where the Republican Party leader's attention should be. Fowler said Kansas has not elected a Democratic senator in nearly a century, and many Republican groups have ceased advertising in North Carolina, viewing the Senate race as a lost cause. Republicans are prioritizing efforts to save their Senate majority over saving the House majority, while Democrats are capitalizing on opportunities in conservative areas, according to Fowler. In Georgia, with a million voters already casting ballots, Fowler said he sees an increase in Black voter turnout in the state and across the South.
-
-The Centers for Disease Control and Prevention says the U.S. cold-and-flu season starts in October 2026 and lasts through May. Cooler temperatures and drier air can increase vulnerability to illnesses like the common cold, flu, RSV and COVID-19. The guidance recommends assembling a cold-and-flu prep kit now and identifies the supplies experts say to keep at home.
-
-Over-the-counter medications are among the recommended options, but people should always follow the recommended dosage to avoid risks or side effects. Ibuprofen or naproxen can relieve headaches, body aches and sore throats by reducing inflammation, while acetaminophen can lower body temperature.
-
-Honey acts as an anti-inflammatory and soothes the throat, making it useful for young children who cannot take cough medicine. It should not be given to children under 12 months because of the risk of botulism. A thermometer is described as a must-have for checking temperature, and a rectal option is preferred for children 3 and under. A saline spray or nose rinse can keep mucous membranes moist and help relieve cold symptoms by loosening thick mucus.
-
-Pleasant Rowland launched Pleasant Company in 1986 with three dolls — Samantha, Molly and Kirsten — creating an empire known as American Girl. To celebrate its 40th anniversary, author Fiona Davis was asked to write a historical-fiction book for adults titled *Samantha: The Next Chapter*, featuring Samantha Parkington, who has turned 25.
-
-The story picks up after Samantha's last book, in which she attended a suffragist rally with her aunt Cornelia. The book is set 15 years later, in 1920, just after the ratification of the 19th Amendment. Samantha learns that her grandmother's inheritance has been stolen, forcing her to transition from socialite to shopgirl overnight.
-
-NPR's Samantha Balaban visited the American Girl store in New York with her own Samantha doll to explore the character's evolution over the years, drawing on insights from store staff and Davis.
-
-The American College of Obstetricians and Gynecologists updated its menopause treatment guidelines for the first time since 2014. The group now recommends using hormone replacement therapy along with some other treatments to alleviate symptoms.
-
-A wedding day can be one of the costliest days in a couple's life. Some couples are opting to save money by choosing grocery-store cakes over specialty bakers' cakes.
-
-Vegemite is an iconic breakfast spread in Australia, and a convicted killer is suing the state of Victoria for the right to eat it in prison. Victoria banned Vegemite because it could potentially be used to brew alcohol and throw off dogs.
-
-The newsletter was edited by Suzanne Nuyen.
 
 ## Sources
 

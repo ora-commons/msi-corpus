@@ -1,9 +1,19 @@
 ---
 headline: Trump begins China visit before trilateral summit with Xi and Putin
-secondary_headline: War and peace, Iran, Ukraine, trade and nuclear weapons are expected topics
+secondary_headline: War and peace, Iran, Ukraine, trade and nuclear weapons are expected
+  topics
 publish_date: '2026-11-18'
-lede: President Donald Trump arrived in southern China on November 18, 2026, after signing a trade deal and pledging increased defense cooperation with the Philippines. His trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin was due to begin in Shenzhen on November 19, within hours of Trump's arrival, on the sidelines of the APEC summit. PBS NewsHour reported that the meeting, the first ever formal gathering of the three countries' leaders, had no official agenda but was expected to address war and peace, Iran, Ukraine, trade and nuclear weapons.
-nut_graf: President Trump said a three-way nuclear deal was possible, and PBS NewsHour reported that trilateral arms control had long been a Trump priority. Li Cheng said hosting the two major powers would make China look good, while China's Foreign Ministry said the trilateral would have “groundbreaking significance.”
+lede: President Donald Trump arrived in southern China on November 18, 2026, after
+  signing a trade deal and pledging increased defense cooperation with the Philippines.
+  His trilateral summit with Chinese President Xi Jinping and Russian President Vladimir
+  Putin was due to begin in Shenzhen on November 19, within hours of Trump's arrival,
+  on the sidelines of the APEC summit. PBS NewsHour reported that the meeting, the
+  first ever formal gathering of the three countries' leaders, had no official agenda
+  but was expected to address war and peace, Iran, Ukraine, trade and nuclear weapons.
+nut_graf: President Trump said a three-way nuclear deal was possible, and PBS NewsHour
+  reported that trilateral arms control had long been a Trump priority. Li Cheng said
+  hosting the two major powers would make China look good, while China's Foreign Ministry
+  said the trilateral would have “groundbreaking significance.”
 primary_entities:
 - Donald Trump
 - Xi Jinping
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +156,43 @@ related_stories:
   headline: China confirms Trump, Xi and Putin will meet Thursday in Shenzhen
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.841
-- slug: 2026-11-14-white-house-announces-trump-summit-with-xi-and-putin-in-shenzhen
-  headline: White House announces Trump summit with Xi and Putin in Shenzhen
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.8484
+  strength: 0.8392
 - slug: 2026-11-18-trump-plans-separate-meeting-with-putin-during-china-visit
   headline: Trump plans separate meeting with Putin during China visit
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8202
+  strength: 0.8205
+- slug: 2026-11-14-white-house-announces-trump-summit-with-xi-and-putin-in-shenzhen
+  headline: White House announces Trump summit with Xi and Putin in Shenzhen
+  publish_date: '2026-11-14'
+  relation: related
+  strength: 0.8477
 - slug: 2026-11-18-trump-arrives-in-shenzhen-for-trilateral-talks-amid-u-s-outages
   headline: Trump arrives in Shenzhen for trilateral talks amid U.S. outages
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8051
+  strength: 0.8057
 - slug: 2026-11-18-trump-and-putin-s-expected-one-on-one-talks-could-cover-the-war-in-ukraine
   headline: Trump and Putin's expected one-on-one talks could cover the war in Ukraine
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8018
+  strength: 0.8015
 - slug: 2026-11-16-china-calls-planned-trump-xi-putin-nuclear-talks-groundbreaking
   headline: China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8022
+  strength: 0.802
 - slug: 2026-11-17-trump-begins-asia-tour-in-manila-with-trade-and-security-agenda
   headline: Trump begins Asia tour in Manila with trade and security agenda
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7856
+  strength: 0.7861
 - slug: 2026-11-16-china-signals-nuclear-reduction-talks-hinge-on-parity-with-us-and-russia
   headline: China signals nuclear reduction talks hinge on parity with US and Russia
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7847
-- slug: 2026-11-17-u-s-and-foreign-officials-say-trump-may-take-more-risks-after-midterms
-  headline: U.S. and foreign officials say Trump may take more risks after midterms
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7768
-- slug: 2026-11-17-trump-putin-and-xi-are-set-for-shenzhen-summit-with-competing-aims
-  headline: Trump, Putin and Xi are set for Shenzhen summit with competing aims
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7763
-- slug: 2026-11-15-trump-turns-to-asia-for-xi-putin-nuclear-talks-after-midterm-losses
-  headline: Trump turns to Asia for Xi-Putin nuclear talks after midterm losses
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7881
-- slug: 2026-11-09-u-s-and-china-dispute-format-for-proposed-trump-xi-putin-summit
-  headline: U.S. and China dispute format for proposed Trump-Xi-Putin summit
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7727
-- slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
-  headline: Trump open to joining Putin and Xi for denuclearization summit
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7894
-- slug: 2026-09-23-trump-hosts-xi-at-white-house-for-state-visit-on-trade-and-ai
-  headline: Trump hosts Xi at White House for state visit on trade and AI
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7997
-- slug: 2026-09-25-trump-and-xi-hold-talks-in-washington-on-tariffs-taiwan-and-ai
-  headline: Trump and Xi hold talks in Washington on tariffs, Taiwan, and AI
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7725
-- slug: 2026-09-24-trump-opens-white-house-summit-with-xi-as-u-s--china-trade-truce-extends
-  headline: Trump opens White House summit with Xi as U.S.-China trade truce extends
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7718
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-and-taiwan-arms-sales
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, and Taiwan arms sales
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.8326
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.8237
-- slug: 2026-05-14-trump-arrives-in-beijing-for-high-stakes-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for high-stakes talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.8218
-- slug: 2026-05-14-trump-heads-to-beijing-for-summit-with-xi-as-protocol-takes-center-stage
-  headline: Trump heads to Beijing for summit with Xi as protocol takes center stage
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7989
+  strength: 0.7833
 ---
-
 ## Trump begins China visit before trilateral summit with Xi and Putin
 
 **Subtype:** fact

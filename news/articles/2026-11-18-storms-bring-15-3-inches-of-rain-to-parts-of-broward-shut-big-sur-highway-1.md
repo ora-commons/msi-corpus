@@ -1,9 +1,25 @@
 ---
-headline: Storms bring 15.3 inches of rain to parts of Broward, shut Big Sur Highway 1
-secondary_headline: Thursday school closures, hospital hallway flooding and San Francisco's 2.28-inch rain record
+headline: Storms bring 15.3 inches of rain to parts of Broward, shut Big Sur Highway
+  1
+secondary_headline: Thursday school closures, hospital hallway flooding and San Francisco's
+  2.28-inch rain record
 publish_date: '2026-11-18'
-lede: Preliminary National Weather Service figures showed 15.3 inches of rain fell in a 24-hour period ending Wednesday in parts of Broward County. Officials announced that schools would close Thursday in Broward and Miami-Dade counties, and heavy rain damaged a local hospital's roof and flooded its hallways; no injuries were reported. South of San Francisco, a 47-mile segment of Highway 1 near Big Sur closed Wednesday because of the risk of debris flows, and San Francisco set a daily rainfall record with 2.28 inches of rain. The National Weather Service's long-range forecast showed heavy rain was possible in Georgia and South Carolina on Saturday, from North Carolina to New York's Long Island on Sunday, and in New England on Sunday and Monday.
-nut_graf: Officials warned of flash flooding, dangerous surf and additional rain as storm damage reached a hospital and homes in South Florida. The Florida Division of Emergency Management said in a Tuesday-night advisory that "potentially catastrophic" amounts of rainfall could cause flash flooding, life-threatening rip tides and expected minor beach erosion due to high surf. The National Weather Service separately said the threat along Florida's Atlantic Coast would last through Friday, with additional rainfall amounts of 12 inches possible.
+lede: Preliminary National Weather Service figures showed 15.3 inches of rain fell
+  in a 24-hour period ending Wednesday in parts of Broward County. Officials announced
+  that schools would close Thursday in Broward and Miami-Dade counties, and heavy
+  rain damaged a local hospital's roof and flooded its hallways; no injuries were
+  reported. South of San Francisco, a 47-mile segment of Highway 1 near Big Sur closed
+  Wednesday because of the risk of debris flows, and San Francisco set a daily rainfall
+  record with 2.28 inches of rain. The National Weather Service's long-range forecast
+  showed heavy rain was possible in Georgia and South Carolina on Saturday, from North
+  Carolina to New York's Long Island on Sunday, and in New England on Sunday and Monday.
+nut_graf: Officials warned of flash flooding, dangerous surf and additional rain as
+  storm damage reached a hospital and homes in South Florida. The Florida Division
+  of Emergency Management said in a Tuesday-night advisory that "potentially catastrophic"
+  amounts of rainfall could cause flash flooding, life-threatening rip tides and expected
+  minor beach erosion due to high surf. The National Weather Service separately said
+  the threat along Florida's Atlantic Coast would last through Friday, with additional
+  rainfall amounts of 12 inches possible.
 primary_entities:
 - National Weather Service
 - Broward County
@@ -48,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,113 +167,57 @@ related_stories:
   headline: Heavy rain floods roads across South Florida and California
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7614
+  strength: 0.7601
 - slug: 2026-11-15-large-waves-close-california-piers-and-flood-coastal-streets
   headline: Large waves close California piers and flood coastal streets
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7138
+  strength: 0.7115
 - slug: 2026-11-18-atmospheric-river-brings-heavy-rain-snow-and-flood-risk-to-california
   headline: Atmospheric river brings heavy rain, snow and flood risk to California
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6764
+  strength: 0.675
 - slug: 2026-11-16-large-waves-close-california-piers-and-prompt-evacuation-warning
   headline: Large waves close California piers and prompt evacuation warning
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6805
+  strength: 0.6778
 - slug: 2026-11-16-forecasters-warn-towering-waves-and-storms-could-overwhelm-california-coast
-  headline: Forecasters warn towering waves and storms could overwhelm California coast
+  headline: Forecasters warn towering waves and storms could overwhelm California
+    coast
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6797
+  strength: 0.6767
 - slug: 2026-11-18-two-waterspouts-form-over-san-francisco-bay
   headline: Two waterspouts form over San Francisco Bay
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.652
+  strength: 0.6512
 - slug: 2026-11-16-ef1-tornado-strikes-delaware-damaging-homes-and-flipping-semi
   headline: EF1 tornado strikes Delaware, damaging homes and flipping semi
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6615
+  strength: 0.6586
 - slug: 2026-10-28-historic-high-tides-flood-california-communities-and-disrupt-transportation
   headline: Historic high tides flood California communities and disrupt transportation
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6899
-- slug: 2026-10-28-king-tides-flood-coastal-communities-in-california-florida-and-the-carolinas
-  headline: King tides flood coastal communities in California, Florida and the Carolinas
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6663
-- slug: 2026-10-26-san-pedro-gauge-records-preliminary-8-02-foot-reading-amid-coastal-flooding-risk
-  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding risk
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6754
-- slug: 2026-10-31-weekend-rain-threatens-flash-flooding-across-saturated-southwest
-  headline: Weekend rain threatens flash flooding across saturated Southwest
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6411
-- slug: 2026-10-13-waves-destroy-long-beach-boardwalk-and-leave-nine-homes-unsafe
-  headline: Waves destroy Long Beach boardwalk and leave nine homes unsafe
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6628
-- slug: 2026-09-01-tropical-storm-edouard-approaches-texas-coast-with-heavy-rain-forecast
-  headline: Tropical Storm Edouard approaches Texas coast with heavy rain forecast
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6391
-- slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
-  headline: Heavy rains drench South Texas, flood rescues top two dozen
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6815
-- slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
-  headline: South Texas flooding prompts dozens of rescues, disaster declaration
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6428
-- slug: 2026-02-17-california-braces-as-winter-storm-brings-high-winds-heavy-rain-and-snow
-  headline: California braces as winter storm brings high winds, heavy rain and snow
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6569
-- slug: 2026-01-04-more-storms-forecast-for-california-as-flood-cleanup-continues-after-king-tide-s
-  headline: More storms forecast for California as flood cleanup continues after King Tide surge
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.6569
-- slug: 2026-02-24-nor-easter-paralyzes-northeast-with-record-snowfall-thousands-stranded
-  headline: Nor'easter paralyzes Northeast with record snowfall, thousands stranded
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.6536
-- slug: 2025-12-29-southern-california-braces-for-more-rain-flooding-and-mudslides
-  headline: Southern California braces for more rain, flooding and mudslides
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6556
-- slug: 2026-03-15-storms-blizzards-and-triple-digit-heat-put-over-half-the-u-s-at-risk
-  headline: Storms, blizzards and triple-digit heat put over half the U.S. at risk
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6501
+  strength: 0.6871
 image:
   url: /articles/2026-11-18-storms-bring-15-3-inches-of-rain-to-parts-of-broward-shut-big-sur-highway-1.png
-  alt: "Illustration accompanying article: Storms bring 15.3 inches of rain to parts of Broward, shut Big Sur Highway 1"
+  alt: 'Illustration accompanying article: Storms bring 15.3 inches of rain to parts
+    of Broward, shut Big Sur Highway 1'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Storms bring 15.3 inches of rain to parts of Broward, shut Big Sur Highway 1
 
 **Subtype:** fact

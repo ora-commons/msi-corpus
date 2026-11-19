@@ -27,7 +27,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- house-democratic-leadership
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -203,6 +204,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## House Democrats prepare closed-door vote for Jeffries, Clark and Aguilar
 
 **Subtype:** fact

@@ -1,9 +1,26 @@
 ---
 headline: Iran targets U.S. air base in Kuwait and sites in Bahrain
-secondary_headline: Citrinowicz says Iran appears to pursue deliberate, calibrated escalation
+secondary_headline: Citrinowicz says Iran appears to pursue deliberate, calibrated
+  escalation
 publish_date: '2026-11-18'
-lede: Iran fired on the Ali Al Salem air base in Kuwait and on sites in Bahrain early Wednesday, widening its attacks on Gulf neighbors that host U.S. facilities. The early-morning strikes came a day after a U.S. fighter jet struck a Revolutionary Guard missile launch site on Qeshm Island in the Strait of Hormuz, a strike the United States made in retaliation for an Iranian attack on an American radar installation in Bahrain earlier Tuesday. Kuwait's military said its air defenses intercepted drone attacks, and Bahrain's military said it intercepted a number of attacks from Iran.
-nut_graf: The attacks widened a conflict that had gone roughly two months without a similar round of strikes on U.S. facilities in Bahrain, and they land while Washington weighs how far to go in answering Tehran's pressure on shipping through the Strait of Hormuz. The Associated Press's interviews with four regional officials found that, through August, more than 115 drone or missile strikes claimed by Iran or Iranian-backed militias damaged or destroyed structures at 26 military bases and other sites with U.S. equipment. The Associated Press's analysis of satellite imagery from multiple providers found that Iran's strikes on more than two dozen U.S. bases in the Middle East focused on early-warning systems before hitting aircraft and buildings, causing billions of dollars in equipment damage.
+lede: Iran fired on the Ali Al Salem air base in Kuwait and on sites in Bahrain early
+  Wednesday, widening its attacks on Gulf neighbors that host U.S. facilities. The
+  early-morning strikes came a day after a U.S. fighter jet struck a Revolutionary
+  Guard missile launch site on Qeshm Island in the Strait of Hormuz, a strike the
+  United States made in retaliation for an Iranian attack on an American radar installation
+  in Bahrain earlier Tuesday. Kuwait's military said its air defenses intercepted
+  drone attacks, and Bahrain's military said it intercepted a number of attacks from
+  Iran.
+nut_graf: The attacks widened a conflict that had gone roughly two months without
+  a similar round of strikes on U.S. facilities in Bahrain, and they land while Washington
+  weighs how far to go in answering Tehran's pressure on shipping through the Strait
+  of Hormuz. The Associated Press's interviews with four regional officials found
+  that, through August, more than 115 drone or missile strikes claimed by Iran or
+  Iranian-backed militias damaged or destroyed structures at 26 military bases and
+  other sites with U.S. equipment. The Associated Press's analysis of satellite imagery
+  from multiple providers found that Iran's strikes on more than two dozen U.S. bases
+  in the Middle East focused on early-warning systems before hitting aircraft and
+  buildings, causing billions of dollars in equipment damage.
 primary_entities:
 - Iran
 - Kuwait
@@ -45,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +165,45 @@ related_stories:
   headline: Iran strikes Kuwait and Bahrain as attacks on Gulf shipping continue
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8947
+  strength: 0.8946
 - slug: 2026-11-17-iran-attacks-u-s-radar-facility-in-bahrain
   headline: Iran attacks U.S. radar facility in Bahrain
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8361
+  strength: 0.8366
 - slug: 2026-11-13-iran-fires-two-drones-at-bahrain-radar-facility-in-first-known-attack-since-sept
-  headline: Iran fires two drones at Bahrain radar facility in first known attack since September
+  headline: Iran fires two drones at Bahrain radar facility in first known attack
+    since September
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8467
+  strength: 0.8473
 - slug: 2026-11-15-iran-attacks-bahrain-irgc-claims-six-drone-strike-on-riffa-radar-positions
   headline: Iran attacks Bahrain; IRGC claims six-drone strike on Riffa radar positions
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.8266
+  strength: 0.8267
 - slug: 2026-11-15-iran-s-guards-claim-mine-sank-oil-supertanker-in-strait-of-hormuz
   headline: Iran's Guards claim mine sank oil supertanker in Strait of Hormuz
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.8058
+  strength: 0.8063
 - slug: 2026-11-04-iran-deploys-drones-grenades-and-mines-against-hormuz-shipping
   headline: Iran deploys drones, grenades and mines against Hormuz shipping
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7785
+  strength: 0.7782
 - slug: 2026-10-31-iran-damaged-structures-at-26-u-s-bases-after-targeting-early-warning-radars
-  headline: Iran damaged structures at 26 U.S. bases after targeting early-warning radars
+  headline: Iran damaged structures at 26 U.S. bases after targeting early-warning
+    radars
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7809
+  strength: 0.7811
 - slug: 2026-09-02-u-s-strikes-iran-tehran-launches-missiles-at-jordan-drones-at-bahrain
   headline: U.S. strikes Iran; Tehran launches missiles at Jordan, drones at Bahrain
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.8016
-- slug: 2026-07-08-us-strikes-iranian-military-sites-after-tanker-attacks-in-strait-of-hormuz
-  headline: US strikes Iranian military sites after tanker attacks in Strait of Hormuz
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.8551
-- slug: 2026-06-28-iran-s-revolutionary-guard-strikes-bahrain-kuwait-as-u-s-hits-10-targets
-  headline: Iran's Revolutionary Guard strikes Bahrain, Kuwait as U.S. hits 10 targets
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.8504
-- slug: 2026-06-06-u-s-military-shoots-down-iranian-drones-missiles-strikes-gulf-radar-sites
-  headline: U.S. military shoots down Iranian drones, missiles; strikes Gulf radar sites
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.859
-- slug: 2026-07-30-u-s-launches-heavy-strikes-on-iran-after-missile-attack-on-jordan-base
-  headline: U.S. launches heavy strikes on Iran after missile attack on Jordan base
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.8139
-- slug: 2026-06-01-u-s-strikes-iranian-air-defenses-drone-sites-after-strait-of-hormuz-skirmish
-  headline: U.S. strikes Iranian air defenses, drone sites after Strait of Hormuz skirmish
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.8401
-- slug: 2026-06-10-u-s-iran-exchange-strikes-after-helicopter-downed-near-strait-of-hormuz
-  headline: U.S., Iran exchange strikes after helicopter downed near Strait of Hormuz
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.8314
-- slug: 2026-07-23-u-s-iran-exchange-strikes-for-12th-night-as-iran-targets-kuwait-jordan
-  headline: U.S., Iran exchange strikes for 12th night as Iran targets Kuwait, Jordan
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7951
-- slug: 2026-06-06-us-iran-exchange-strikes-in-gulf-as-fragile-ceasefire-frays
-  headline: US, Iran exchange strikes in Gulf as fragile ceasefire frays
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.8276
-- slug: 2026-07-20-us-strikes-iran-for-9th-consecutive-night-as-hormuz-conflict-continues
-  headline: US strikes Iran for 9th consecutive night as Hormuz conflict continues
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.796
-- slug: 2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-
-  headline: US launches third night of strikes on Iran as fighting intensifies in Strait of Hormuz
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.8012
-- slug: 2026-07-18-u-s-iran-escalate-strikes-in-gulf-as-israel-bombs-lebanon
-  headline: U.S., Iran escalate strikes in Gulf as Israel bombs Lebanon
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.7924
-- slug: 2026-07-24-bahrain-and-kuwait-secretly-struck-iranian-military-sites-in-retaliation
-  headline: Bahrain and Kuwait Secretly Struck Iranian Military Sites in Retaliation
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7765
+  strength: 0.801
 ---
-
 ## Iran targets U.S. air base in Kuwait and sites in Bahrain
 
 **Subtype:** fact

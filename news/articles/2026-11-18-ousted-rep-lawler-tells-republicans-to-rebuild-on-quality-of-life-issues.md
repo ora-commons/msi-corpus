@@ -1,8 +1,24 @@
 ---
 headline: Ousted Rep. Lawler tells Republicans to rebuild on quality-of-life issues
 publish_date: '2026-11-18'
-lede: Republican Rep. Mike Lawler, ousted in the 2026 midterms, told PBS NewsHour that House Republicans should rebuild around economic conditions, immigration, health care, housing and energy. In the Nov. 18 interview, Lawler warned that Democrats' effort to use the Dec. 11 funding deadline to restrict funding for the Iran war could lead to a government shutdown; he said the Senate's 60-vote threshold gives Democrats the ability to cause one but requires them to work with Republicans in the final months, and called a shutdown disastrous. He said Jim Jordan will "do a great job" leading House Republicans in the minority, predicted "two years of gridlock and investigation and very little results," and said he will not run for Congress again.
-nut_graf: Lawler said Republicans must rebuild by focusing on the economy, immigration, health care, housing and energy, the quality-of-life issues he said most acutely affect Americans, and by talking to the 60 percent of the country. His warning is that the new configuration — Democrats in both chambers, a Republican administration and a Dec. 11 funding deadline — produces stalemate rather than legislation. Because he lost his seat and says he will not run again, his comments are those of a departing member rather than an incumbent, and his forecast of gridlock remains his judgment rather than a settled fact.
+lede: Republican Rep. Mike Lawler, ousted in the 2026 midterms, told PBS NewsHour
+  that House Republicans should rebuild around economic conditions, immigration, health
+  care, housing and energy. In the Nov. 18 interview, Lawler warned that Democrats'
+  effort to use the Dec. 11 funding deadline to restrict funding for the Iran war
+  could lead to a government shutdown; he said the Senate's 60-vote threshold gives
+  Democrats the ability to cause one but requires them to work with Republicans in
+  the final months, and called a shutdown disastrous. He said Jim Jordan will "do
+  a great job" leading House Republicans in the minority, predicted "two years of
+  gridlock and investigation and very little results," and said he will not run for
+  Congress again.
+nut_graf: Lawler said Republicans must rebuild by focusing on the economy, immigration,
+  health care, housing and energy, the quality-of-life issues he said most acutely
+  affect Americans, and by talking to the 60 percent of the country. His warning is
+  that the new configuration — Democrats in both chambers, a Republican administration
+  and a Dec. 11 funding deadline — produces stalemate rather than legislation. Because
+  he lost his seat and says he will not run again, his comments are those of a departing
+  member rather than an incumbent, and his forecast of gridlock remains his judgment
+  rather than a settled fact.
 primary_entities:
 - Mike Lawler
 - PBS NewsHour
@@ -42,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,7 +75,8 @@ figures:
   series_id: GDI
   transformation: raw
   as_of: '2026-11-18'
-  caption: Real gross domestic income stood at 32,752.528 on Nov. 18, 2026. The series provides broad economic context for Lawler's discussion of the economy.
+  caption: Real gross domestic income stood at 32,752.528 on Nov. 18, 2026. The series
+    provides broad economic context for Lawler's discussion of the economy.
 figures_aggregate:
   count: 1
   series_ids:
@@ -152,104 +170,44 @@ related_stories:
   headline: Mike Johnson says midterm losses prompted his House leadership exit
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7026
+  strength: 0.7023
 - slug: 2026-11-13-republicans-return-to-washington-without-break-from-trump
-  headline: Republicans return to Washington showing little appetite for break from Trump
+  headline: Republicans return to Washington showing little appetite for break from
+    Trump
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6938
+  strength: 0.6942
 - slug: 2026-11-10-republican-lawmakers-assess-midterm-losses-and-the-work-ahead
   headline: Republican lawmakers assess midterm losses and the work ahead
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7074
+  strength: 0.7077
 - slug: 2026-11-09-congress-returns-hegseth-impeachment-resolution-expected-after-gop-losses
   headline: Congress returns; Hegseth impeachment resolution expected after GOP losses
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6939
+  strength: 0.6945
 - slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
   headline: Democratic leaders weigh oversight and legislation after 2026 midterms
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.693
+  strength: 0.6936
 - slug: 2026-11-10-house-republicans-elect-jim-jordan-as-their-leader-after-midterm-losses
   headline: House Republicans elect Jim Jordan as their leader after midterm losses
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6783
+  strength: 0.6785
 - slug: 2026-11-08-republicans-weigh-debt-limit-option-as-senate-pursues-judicial-confirmations
   headline: Republicans weigh debt-limit option as Senate pursues judicial confirmations
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6855
+  strength: 0.6863
 - slug: 2026-11-04-mike-johnson-won-t-seek-reelection-as-house-republicans-top-leader
   headline: Mike Johnson won't seek reelection as House Republicans' top leader
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7079
-- slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
-  headline: Tom Emmer wins House Republican whip race over August Pfluger
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6688
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6928
-- slug: 2026-11-05-democrats-take-control-of-congress-seek-leverage-over-trump-s-foreign-policy
-  headline: Democrats take control of Congress, seek leverage over Trump’s foreign policy
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6814
-- slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6722
-- slug: 2026-11-04-mike-johnson-steps-aside-from-house-republican-leadership-after-midterm-losses
-  headline: Mike Johnson steps aside from House Republican leadership after midterm losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6753
-- slug: 2026-11-04-exit-polls-and-succession-concerns-define-trump-s-post-midterm-outlook
-  headline: Exit polls and succession concerns define Trump's post-midterm outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.67
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6689
-- slug: 2026-10-29-nader-urges-democrats-to-oust-schumer-and-jeffries-in-january
-  headline: Nader urges Democrats to oust Schumer and Jeffries in January
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6698
-- slug: 2026-10-26-mueller-urges-democrats-to-learn-broader-lessons-from-possible-midterm-win
-  headline: Mueller urges Democrats to learn broader lessons from possible midterm win
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6731
-- slug: 2026-10-08-jeffries-says-house-democrats-would-reverse-medicaid-cuts-check-trump-on-iran
-  headline: Jeffries says House Democrats would reverse Medicaid cuts, check Trump on Iran
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6968
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6721
-- slug: 2026-09-01-rep-lawler-leans-on-moderate-pitch-in-hudson-valley-reelection-bid
-  headline: Rep. Lawler leans on moderate pitch in Hudson Valley reelection bid
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6862
+  strength: 0.7078
 ---
-
 ## Ousted Rep. Lawler tells Republicans to rebuild on quality-of-life issues
 
 **Subtype:** fact

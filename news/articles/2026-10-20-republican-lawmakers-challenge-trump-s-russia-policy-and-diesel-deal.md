@@ -1,11 +1,11 @@
 ---
 headline: Republican lawmakers challenge Trump’s Russia policy and diesel deal
-secondary_headline: Bacon withholds Ukraine support as Fitzpatrick demands accountability
+secondary_headline: Bacon opposes Trump agenda as Trump withholds Ukraine support
 publish_date: '2026-10-20'
 lede: Republican lawmakers challenged Donald Trump’s softened stance toward Russia
   after the president paused sanctions on Moscow and announced a deal with Vladimir
-  Putin to import diesel fuel. Outgoing Rep. Don Bacon said he was withholding support
-  for Ukraine and would not support Trump’s domestic priorities, while Rep. Brian
+  Putin to import diesel fuel. Outgoing Rep. Don Bacon said Trump withheld support for
+  Ukraine and he would not support Trump’s domestic priorities, while Rep. Brian
   Fitzpatrick said lawmakers could take “punitive budgetary action” to force answers
   about the diesel agreement and Starlink disruptions.
 nut_graf: The dispute threatens Republican backing for Trump’s agenda. Bacon said
@@ -207,18 +207,18 @@ related_stories:
 **Subtype:** fact
 
 - Republican lawmakers challenged Donald Trump’s Russia policy after a sanctions pause and diesel-import agreement with Vladimir Putin.
-- Outgoing Rep. Don Bacon withheld support for Ukraine and refused to support Trump’s agenda, including a triumphal arch and a new White House ballroom.
+- Outgoing Rep. Don Bacon refused to support Trump’s agenda, including a triumphal arch and a new White House ballroom, while Trump withheld support for Ukraine.
 - Pennsylvania Rep. Brian Fitzpatrick said the Trump administration had not provided “sufficient answers” about the diesel deal and Starlink disruptions.
 - Fitzpatrick said lawmakers could take “punitive budgetary action” to force the administration to provide answers.
 - South Carolina Sen. Darline Graham, outgoing Louisiana Sen. Bill Cassidy and former Republican senator Mitt Romney criticized Trump’s handling of Russia and Ukraine.
 
-## Bacon withholds Ukraine support as Fitzpatrick demands accountability
+## Bacon opposes Trump agenda as Trump withholds Ukraine support
 
-On Monday, a handful of Republican lawmakers challenged Donald Trump’s softened stance toward Russia after the president paused sanctions on Moscow and announced a deal with Vladimir Putin to import diesel fuel. Outgoing Nebraska Rep. Don Bacon said he was withholding support for Ukraine and would not support Trump’s domestic priorities, while Pennsylvania Rep. Brian Fitzpatrick said lawmakers could take “punitive budgetary action” to force answers about the diesel agreement and Starlink disruptions.
+On Monday, a handful of Republican lawmakers challenged Donald Trump’s softened stance toward Russia after the president paused sanctions on Moscow and announced a deal with Vladimir Putin to import diesel fuel. Outgoing Nebraska Rep. Don Bacon said Trump withheld support for Ukraine and he would not support Trump’s domestic priorities, while Pennsylvania Rep. Brian Fitzpatrick said lawmakers could take “punitive budgetary action” to force answers about the diesel agreement and Starlink disruptions.
 
 Bacon condemned Trump’s actions — the sanctions pause and agreement to buy Russian diesel — as “absolutely disgraceful.” He accused Trump of cozying up to a “war criminal” in Putin, his Russian counterpart, and said, “It really is disgraceful, and the Republicans that I associate with, there’s a lot of us, can’t stand it.” Bacon told CNN that “the president’s leverage in this Congress is shot.”
 
-Bacon said he was unwilling to support Trump’s agenda, including building a triumphal arch or a new White House ballroom, while withholding support for Ukraine. “Why would I want to support the president’s priorities, like the victory arch?” Bacon asked. “Frankly, what I see him doing here is surrendering.” He added: “Why should we try to accommodate him and meet him halfway on funding when he is embarrassing this country so bad with what he’s doing with Putin and Zelensky?”
+Bacon said he was unwilling to support Trump’s agenda, including building a triumphal arch or a new White House ballroom, while Trump withheld support for Ukraine. “Why would I want to support the president’s priorities, like the victory arch?” Bacon asked. “Frankly, what I see him doing here is surrendering.” He added: “Why should we try to accommodate him and meet him halfway on funding when he is embarrassing this country so bad with what he’s doing with Putin and Zelensky?”
 
 Fitzpatrick told MS Now on Monday that the Trump administration had not given “sufficient answers” about the recent disruptions to Starlink and the diesel deal. “This is wildly unacceptable, and it’s not going to stand,” Fitzpatrick said. “There’s going to be consequences to this. And by the way, it’s not just Starshield. It’s the diesel deal. It’s the lifting of sanctions. It’s all of this stuff.” Fitzpatrick said lawmakers would “demand accountability” and could take “punitive budgetary action” to force the administration to provide answers.
 

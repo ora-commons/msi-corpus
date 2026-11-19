@@ -44,7 +44,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- house-democratic-leadership
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -206,8 +207,9 @@ related_stories:
   relation: related
   strength: 0.7319
 analyses:
-- '2026-11-08-hakeem-jeffries-builds-agenda-leverage-with-democrats-254-plus-house-majority'
+- 2026-11-08-hakeem-jeffries-builds-agenda-leverage-with-democrats-254-plus-house-majority
 ---
+
 ## Jeffries faces divided Democrats atop largest House majority since Obama's first year
 
 **Subtype:** fact

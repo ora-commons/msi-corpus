@@ -30,7 +30,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- house-oversight
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.7277
 ---
+
 ## Jeffries says Hegseth has got to go but declines to endorse impeachment
 
 **Subtype:** fact

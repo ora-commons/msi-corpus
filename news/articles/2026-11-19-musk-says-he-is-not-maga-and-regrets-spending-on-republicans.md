@@ -2,8 +2,14 @@
 headline: Musk says he is not MAGA and regrets spending on Republicans
 secondary_headline: Musk left DOGE after 180 days amid a public dispute with Trump
 publish_date: '2026-11-19'
-lede: Elon Musk said he is not MAGA and that he regrets nearly $500 million spent supporting Republicans in the 2026 U.S. midterms. Speaking by video from China during the New York Times Dealbook summit, Musk also said Washington would benefit from split control between the two parties.
-nut_graf: Musk’s remarks put his current political position against his record of backing Trump, leading DOGE and spending hundreds of millions on Republican candidates. His answers on Ukraine, Nvidia and Anthropic also show that the 45-minute interview ranged well beyond elections.
+lede: Elon Musk said he is not MAGA and that he regrets nearly $500 million spent
+  supporting Republicans in the 2026 U.S. midterms. Speaking by video from China during
+  the New York Times Dealbook summit, Musk also said Washington would benefit from
+  split control between the two parties.
+nut_graf: Musk’s remarks put his current political position against his record of
+  backing Trump, leading DOGE and spending hundreds of millions on Republican candidates.
+  His answers on Ukraine, Nvidia and Anthropic also show that the 45-minute interview
+  ranged well beyond elections.
 primary_entities:
 - Elon Musk
 - Donald Trump
@@ -43,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +152,45 @@ related_stories:
   headline: Democrats put Elon Musk's contracts and influence under scrutiny
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7767
+  strength: 0.7772
 - slug: 2026-11-05-elon-musk-spent-at-least-445-million-backing-republicans-who-lost-congress
   headline: Elon Musk spent at least $445 million backing Republicans, who lost Congress
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.768
+  strength: 0.7691
 - slug: 2026-10-31-elon-musk-s-midterm-giving-to-republican-groups-reaches-445-77-million
   headline: Elon Musk's midterm giving to Republican groups reaches $445.77 million
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.7527
+  strength: 0.7535
 - slug: 2026-11-04-musk-s-more-than-150-million-texas-senate-effort-appears-to-have-backfired
   headline: Musk's more than $150 million Texas Senate effort appears to have backfired
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7222
+  strength: 0.7226
 - slug: 2026-11-04-musk-has-given-more-than-250-million-to-republican-aligned-groups-in-the-third-q
-  headline: Musk has given more than $250 million to Republican-aligned groups in the third quarter
+  headline: Musk has given more than $250 million to Republican-aligned groups in
+    the third quarter
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7211
+  strength: 0.7218
 - slug: 2026-11-04-musk-s-47-million-pac-contribution-backed-paxton-s-losing-texas-senate-bid
-  headline: Musk's $47 million PAC contribution backed Paxton's losing Texas Senate bid
+  headline: Musk's $47 million PAC contribution backed Paxton's losing Texas Senate
+    bid
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7156
+  strength: 0.7161
 - slug: 2026-10-30-historians-weigh-musk-s-political-power-against-gilded-age-moguls
   headline: Historians weigh Musk's political power against Gilded Age moguls
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7192
-- slug: 2026-10-27-robert-reich-urges-defunding-of-elon-musk-over-starlink-limits
-  headline: Robert Reich urges defunding of Elon Musk over Starlink limits
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7211
+  strength: 0.7195
 - slug: 2026-10-23-musk-s-republican-midterm-giving-exceeds-442-million
   headline: Musk's Republican midterm giving exceeds $442 million
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7397
-- slug: 2026-11-05-tech-billionaires-face-scrutiny-after-democratic-congressional-gains
-  headline: Tech billionaires face scrutiny after Democratic congressional gains
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6637
-- slug: 2026-10-13-musk-becomes-biggest-2026-midterm-donor-with-366m-in-political-spending
-  headline: Musk becomes biggest 2026 midterm donor with $366m in political spending
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.754
-- slug: 2026-10-21-talarico-alleges-musk-is-trying-to-buy-texas-senate-seat
-  headline: Talarico alleges Musk is trying to buy Texas Senate seat
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.7128
-- slug: 2026-10-24-talarico-says-musk-is-backing-paxton-at-ut-austin-rally
-  headline: Talarico says Musk is backing Paxton at UT Austin rally
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6978
-- slug: 2026-10-22-kara-swisher-questions-musk-s-business-strategy-and-political-influence
-  headline: Kara Swisher questions Musk’s business strategy and political influence
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6886
-- slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
-  headline: Democrats outraise Republicans in 27 of 35 Senate races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6961
-- slug: 2026-10-16-musk-channels-158-million-in-september-to-senate-republican-super-pac
-  headline: Musk channels $158 million in September to Senate Republican super PAC
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6972
-- slug: 2026-10-15-musk-adds-158-million-to-senate-leadership-fund-10-million-more-to-paxton-pac
-  headline: Musk adds $158 million to Senate Leadership Fund, $10 million more to Paxton PAC
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6926
-- slug: 2026-10-19-musk-pledges-to-give-every-u-s-child-a-spacex-share
-  headline: Musk pledges to give every U.S. child a SpaceX share
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6754
-- slug: 2026-10-20-trump-says-he-has-spent-more-than-300-million-on-the-midterm-elections
-  headline: Trump says he has spent more than $300 million on the midterm elections
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.664
-- slug: 2026-10-15-musk-appears-to-suggest-us-government-behind-ukraine-starlink-speed-limits
-  headline: Musk appears to suggest US government behind Ukraine Starlink speed limits
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6737
+  strength: 0.7405
 ---
-
 ## Musk says he is not MAGA and regrets spending on Republicans
 
 **Subtype:** fact
