@@ -205,6 +205,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-18-flatbush-inquiry-examines-warning-violations-and-excavation'
 ---
 ## Tenant sues over alleged ignored cracks before Flatbush building collapse
 
@@ -248,3 +250,8 @@ The suit adds a direct legal claim to the public inquiry: Jack says he warned of
 **Publication date:** 2026-11-18
 **Title:** Brooklyn man sues, saying he warned of cracks before deadly building collapse
 **URL:** https://www.theguardian.com/us-news/2026/nov/18/brooklyn-building-collapse-lawsuit
+
+---
+
+<!-- analysis-link:2026-11-18-flatbush-inquiry-examines-warning-violations-and-excavation -->
+**Going deeper:** [Read MSI's analysis of Flatbush collapse evidence and accountability →](/analyses/2026-11-18-flatbush-inquiry-examines-warning-violations-and-excavation)

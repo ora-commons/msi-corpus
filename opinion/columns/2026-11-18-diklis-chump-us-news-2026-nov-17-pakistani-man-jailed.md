@@ -36,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,7 +58,27 @@ cross_article_links:
   strength: 0.2374
   confidence: high
 draft: false
+image:
+  url: /cartoons/i-was-the-target-so-naturally-i-won.png
+  alt: 'Editorial cartoon by Hector Rentier: I was the target, so naturally I won'
+  caption: The Court found a category. The DOJ named Trump. The rest was publicity.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-18T22:12:28-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single 1:1 panel, heavy wood-engraving cross-hatch in the Nast-Daumier
+    manner, black masses balanced against carved whites; Register 6, the tribute table,
+    the moral-disgust register aimed at appetite '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-18-hector-paired-with-2026-11-18-diklis-chump-us-news-2026-nov-17-pakistani-man-jailed
 ---
+
+![Editorial cartoon by Hector Rentier: I was the target, so naturally I won](/cartoons/i-was-the-target-so-naturally-i-won.png)
+*The Court found a category. The DOJ named Trump. The rest was publicity.*
 
 I was the target, so naturally I won. A Brooklyn court found that Asif Merchant sought to hire a hitman to assassinate “a politician or government official” in the United States in retribution for the U.S. killing of Revolutionary Guards commander Qassem Suleimani. The Department of Justice said the plot targeted ME, and Attorney General Todd Blanche called it an assassination attempt against me. The DOJ also said it “will not tolerate foreign terrorist plots against our leaders.” OUR leaders. I like that. Merchant was [sentenced Tuesday to 330 months—more than 27 years](/articles/2026-11-17-merchant-receives-more-than-27-years-for-alleged-iran-linked-assassination-plot/). BEAUTIFUL. Beautiful.
 

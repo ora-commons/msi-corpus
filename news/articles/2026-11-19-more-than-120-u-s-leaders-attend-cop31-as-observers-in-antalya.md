@@ -1,9 +1,23 @@
 ---
 headline: More than 120 U.S. leaders attend COP31 as observers in Antalya
-secondary_headline: Midterm gains shift state and local climate politics, Quebec envoy says
+secondary_headline: Midterm gains shift state and local climate politics, Quebec envoy
+  says
 publish_date: '2026-11-19'
-lede: More than 120 state, local and business leaders from the United States are attending U.N. climate talks in the Turkish resort town of Antalya, where they attend meetings, offer advice and spread goodwill without holding a chair at the negotiating table. The American delegation includes 18 Democratic lawmakers, city mayors, former Vice President Al Gore, former Secretary of State and chief climate envoy John Kerry, and California Gov. Gavin Newsom, a potential U.S. presidential candidate in 2028. The delegates are there to convey that many Americans and businesses still want the United States represented in climate negotiations.
-nut_graf: The delegation has no chair and no vote, but it puts state, local and business officials inside talks the United States has left and gives other governments and campaigners American officials to cite as they argue that Washington’s absence does not describe the country. Officials from other countries said the U.S. withdrawal has changed how negotiations proceed, while Jean Lemire, a climate change envoy for the Canadian province of Quebec, said the midterms completely changed how U.S. state and local governments think about climate action.
+lede: More than 120 state, local and business leaders from the United States are attending
+  U.N. climate talks in the Turkish resort town of Antalya, where they attend meetings,
+  offer advice and spread goodwill without holding a chair at the negotiating table.
+  The American delegation includes 18 Democratic lawmakers, city mayors, former Vice
+  President Al Gore, former Secretary of State and chief climate envoy John Kerry,
+  and California Gov. Gavin Newsom, a potential U.S. presidential candidate in 2028.
+  The delegates are there to convey that many Americans and businesses still want
+  the United States represented in climate negotiations.
+nut_graf: The delegation has no chair and no vote, but it puts state, local and business
+  officials inside talks the United States has left and gives other governments and
+  campaigners American officials to cite as they argue that Washington’s absence does
+  not describe the country. Officials from other countries said the U.S. withdrawal
+  has changed how negotiations proceed, while Jean Lemire, a climate change envoy
+  for the Canadian province of Quebec, said the midterms completely changed how U.S.
+  state and local governments think about climate action.
 primary_entities:
 - COP31
 - United States
@@ -47,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,107 +161,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-12-john-kerry-calls-trump-the-biggest-loser-on-climate-as-us-skips-cop31-talks
-  headline: John Kerry calls Trump the 'biggest loser' on climate as US skips Cop31 talks
+  headline: John Kerry calls Trump the 'biggest loser' on climate as US skips Cop31
+    talks
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.779
+  strength: 0.7808
 - slug: 2026-11-09-kurum-s-action-agenda-centers-on-electrification
   headline: Kurum's Action Agenda centers on electrification
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7921
+  strength: 0.7929
 - slug: 2026-11-15-un-climate-process-gains-breathing-space-at-cop31-amid-rising-risks
   headline: UN climate process gains breathing space at Cop31 amid rising risks
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7516
-- slug: 2026-11-11-world-leaders-begin-cop31-talks-in-turkey-seeking-concrete-climate-action
-  headline: World leaders begin COP31 talks in Turkey seeking concrete climate action
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7629
-- slug: 2026-11-16-harvard-study-ties-403-us-data-centers-to-28-3-million-tons-of-co2
-  headline: Harvard study ties 403 US data centers to 28.3 million tons of CO2
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7291
+  strength: 0.7531
 - slug: 2026-11-18-small-island-coalition-presses-cop31-for-action-and-climate-finance
   headline: Small island coalition presses COP31 for action and climate finance
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7152
+  strength: 0.7175
+- slug: 2026-11-11-world-leaders-begin-cop31-talks-in-turkey-seeking-concrete-climate-action
+  headline: World leaders begin COP31 talks in Turkey seeking concrete climate action
+  publish_date: '2026-11-11'
+  relation: related
+  strength: 0.7638
+- slug: 2026-11-16-harvard-study-ties-403-us-data-centers-to-28-3-million-tons-of-co2
+  headline: Harvard study ties 403 US data centers to 28.3 million tons of CO2
+  publish_date: '2026-11-16'
+  relation: related
+  strength: 0.7304
 - slug: 2026-11-15-fossil-fuel-coalition-presses-on-at-cop31-after-colombia-s-withdrawal
   headline: Fossil fuel coalition presses on at COP31 after Colombia's withdrawal
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7177
+  strength: 0.7198
 - slug: 2026-11-18-china-s-emissions-decline-while-u-s-greenhouse-gases-rose-in-2025
   headline: China's emissions decline while U.S. greenhouse gases rose in 2025
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6924
-- slug: 2026-11-06-un-climate-talks-open-in-turkey-with-fossil-fuel-transition-as-key-issue
-  headline: UN climate talks open in Turkey with fossil fuel transition as key issue
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.766
-- slug: 2026-11-13-guterres-urges-drastic-emissions-cuts-at-final-climate-summit
-  headline: Guterres urges drastic emissions cuts at final climate summit
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7165
-- slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
-  headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7503
-- slug: 2026-11-12-uk-names-first-climate-security-envoy-as-pm-warns-climate-consensus-has-gone
-  headline: UK names first climate security envoy as PM warns climate consensus has gone
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7107
-- slug: 2026-11-11-erdogan-urges-countries-to-adopt-zero-waste-goals-at-cop31
-  headline: Erdogan urges countries to adopt zero-waste goals at COP31
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7101
-- slug: 2026-11-11-erdogan-calls-gaza-war-an-ecocide-at-cop31-asks-israel-for-more-aid-access
-  headline: Erdogan calls Gaza war an ecocide at COP31, asks Israel for more aid access
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6866
-- slug: 2026-11-13-cop31-electrification-pledge-draws-calls-for-mining-safeguards
-  headline: COP31 electrification pledge draws calls for mining safeguards
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6707
-- slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7024
-- slug: 2026-11-10-greta-thunberg-calls-for-structural-changes-to-global-systems-at-cop31
-  headline: Greta Thunberg calls for structural changes to global systems at COP31
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6786
-- slug: 2026-11-07-guterres-prepares-final-climate-message-as-cop31-s-nov-9-opening-nears
-  headline: Guterres prepares final climate message as COP31's Nov. 9 opening nears
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6935
-- slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
-  headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6818
-- slug: 2026-10-16-most-midterm-candidates-skip-climate-as-voters-demand-action
-  headline: Most midterm candidates skip climate as voters demand action
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.7147
+  strength: 0.6949
 ---
-
 ## More than 120 U.S. leaders attend COP31 as observers in Antalya
 
 **Subtype:** fact

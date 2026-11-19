@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-09-02'
   relation: related
   strength: 0.801
+analyses:
+- '2026-11-18-iran-s-calibrated-gulf-attacks-outpace-the-region-s-crisis-control-machinery'
 ---
 ## Iran targets U.S. air base in Kuwait and sites in Bahrain
 
@@ -254,3 +256,8 @@ The Associated Press's David Rising reported from Bangkok and Aamer Madhani from
 **Publication date:** 2026-11-18
 **Title:** Iran widens Gulf attacks by targeting U.S. air base in Kuwait and sites in Bahrain
 **URL:** https://www.pbs.org/newshour/world/iran-widens-gulf-attacks-by-targeting-u-s-air-base-in-kuwait-and-sites-in-bahrain
+
+---
+
+<!-- analysis-link:2026-11-18-iran-s-calibrated-gulf-attacks-outpace-the-region-s-crisis-control-machinery -->
+**Going deeper:** [Read MSI's analysis of Iran's calibrated escalation across the Gulf →](/analyses/2026-11-18-iran-s-calibrated-gulf-attacks-outpace-the-region-s-crisis-control-machinery)

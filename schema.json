@@ -142,7 +142,8 @@
             "stewart-letterkenski", "prudence-wonk", "phukher-tarlson",
             "hector-rentier", "barb-mcgowan", "carla-marks",
             "wendell-burke", "ruth-justice", "judas-i-mather",
-            "sterling-varice", "mimi-wright-fubar", "editorial-board"
+            "sterling-varice", "mimi-wright-fubar", "editorial-board",
+            "publisher"
           ]
         },
         "parody":         { "type": "boolean" },
@@ -279,7 +280,8 @@
             "stewart-letterkenski", "prudence-wonk", "phukher-tarlson",
             "hector-rentier", "barb-mcgowan", "carla-marks",
             "wendell-burke", "ruth-justice", "judas-i-mather",
-            "sterling-varice", "mimi-wright-fubar", "editorial-board"
+            "sterling-varice", "mimi-wright-fubar", "editorial-board",
+            "publisher"
           ]
         },
         "column_count":   { "type": "integer", "minimum": 0 },
