@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-11-16'
   relation: related
   strength: 0.7833
+analyses:
+- '2026-11-18-trump-s-shenzhen-trilateral-tests-rare-earth-leverage-against-china-s-parity-dem'
 ---
 ## Trump begins China visit before trilateral summit with Xi and Putin
 
@@ -245,3 +247,8 @@ Li Cheng said the private sector was not doing so well at the moment and that th
 **Publication date:** 2026-11-18
 **Title:** Trump lands in China for trade talks and high-stakes summit with Xi and Putin
 **URL:** https://www.pbs.org/newshour/show/trump-lands-in-china-for-trade-talks-and-high-stakes-summit-with-xi-and-putin
+
+---
+
+<!-- analysis-link:2026-11-18-trump-s-shenzhen-trilateral-tests-rare-earth-leverage-against-china-s-parity-dem -->
+**Going deeper:** [Read MSI's analysis of Trump’s Shenzhen trilateral bargaining →](/analyses/2026-11-18-trump-s-shenzhen-trilateral-tests-rare-earth-leverage-against-china-s-parity-dem)
