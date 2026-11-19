@@ -155,6 +155,8 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.8037
+analyses:
+- '2026-11-18-technical-advice-sets-the-next-procedural-test-for-woodside-s-browse-decision'
 ---
 ## More than 150 artists urge Murray Watt to reject Woodside Browse gas plan
 
@@ -197,3 +199,8 @@ A spokesperson for the national EPA said the development was being assessed unde
 **Publication date:** 2026-11-18
 **Title:** Hugh Jackman, Rebel Wilson and 150 Australian artists join call to block Woodside gas development near Scott Reef
 **URL:** https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef
+
+---
+
+<!-- analysis-link:2026-11-18-technical-advice-sets-the-next-procedural-test-for-woodside-s-browse-decision -->
+**Going deeper:** [Read MSI's analysis of Woodside’s pending Browse decision →](/analyses/2026-11-18-technical-advice-sets-the-next-procedural-test-for-woodside-s-browse-decision)

@@ -1,9 +1,20 @@
 ---
-headline: Kaine to force Senate vote on human rights effects of U.S. policy toward Russia
+headline: Kaine to force Senate vote on human rights effects of U.S. policy toward
+  Russia
 secondary_headline: Measure targets diesel deal and Zelenskyy's claims on U.S. support
 publish_date: '2026-11-19'
-lede: Democratic Sen. Tim Kaine says he will force a Senate vote in the coming weeks on a resolution requiring the State Department to report on the human rights consequences of President Donald Trump's policies toward Russia. Kaine is introducing the measure Thursday as Trump returns from a China meeting with Russian President Vladimir Putin and China's Xi Jinping. The resolution targets an October diesel deal with Moscow and other U.S. policies with effects in Ukraine.
-nut_graf: The measure would put the administration's Russia policy before the Senate and seek an official account of whether those policies affected Moscow's ability to wage war in Ukraine or caused or worsened human rights abuses. It would also require an update on negotiations to end the war, which Russia launched in February 2022, while Kaine pursues bipartisan votes and acknowledges that a presidential veto would be difficult to overcome.
+lede: Democratic Sen. Tim Kaine says he will force a Senate vote in the coming weeks
+  on a resolution requiring the State Department to report on the human rights consequences
+  of President Donald Trump's policies toward Russia. Kaine is introducing the measure
+  Thursday as Trump returns from a China meeting with Russian President Vladimir Putin
+  and China's Xi Jinping. The resolution targets an October diesel deal with Moscow
+  and other U.S. policies with effects in Ukraine.
+nut_graf: The measure would put the administration's Russia policy before the Senate
+  and seek an official account of whether those policies affected Moscow's ability
+  to wage war in Ukraine or caused or worsened human rights abuses. It would also
+  require an update on negotiations to end the war, which Russia launched in February
+  2022, while Kaine pursues bipartisan votes and acknowledges that a presidential
+  veto would be difficult to overcome.
 primary_entities:
 - Tim Kaine
 - Donald Trump
@@ -43,10 +54,11 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -145,113 +157,57 @@ related_stories:
   headline: Two sanctioned Russian diesel tankers divert from US-bound routes
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.698
+  strength: 0.696
 - slug: 2026-10-20-republican-lawmakers-challenge-trump-s-russia-policy-and-diesel-deal
   headline: Republican lawmakers challenge Trump’s Russia policy and diesel deal
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.7109
+  strength: 0.7089
 - slug: 2026-10-11-bipartisan-senators-urge-trump-to-reverse-russian-diesel-deal
   headline: Bipartisan senators urge Trump to reverse Russian diesel deal
   publish_date: '2026-10-11'
   relation: related
-  strength: 0.7285
+  strength: 0.727
 - slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
   headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.721
+  strength: 0.7188
+- slug: 2026-10-12-bipartisan-senators-declare-trump-s-russian-diesel-plan-illegal-under-2022-ban
+  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under
+    2022 ban
+  publish_date: '2026-10-12'
+  relation: related
+  strength: 0.7123
 - slug: 2026-10-13-twelve-senators-call-on-trump-to-rescind-russian-diesel-deal
   headline: Twelve senators call on Trump to rescind Russian diesel deal
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7103
-- slug: 2026-10-12-bipartisan-senators-declare-trump-s-russian-diesel-plan-illegal-under-2022-ban
-  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under 2022 ban
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.7136
+  strength: 0.7082
 - slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
   headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7093
+  strength: 0.7072
 - slug: 2026-10-10-trump-says-ukraine-needs-a-new-president-amid-diesel-deal-dispute
   headline: Trump says Ukraine needs a new president amid diesel deal dispute
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.7023
-- slug: 2026-10-10-trump-says-it-is-time-for-ukraine-to-get-a-new-president
-  headline: Trump says it is time for Ukraine to get a new president
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6922
-- slug: 2026-10-10-russian-strikes-kill-15-in-ukraine-hours-after-trump-diesel-deal
-  headline: Russian strikes kill 15 in Ukraine hours after Trump diesel deal
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6921
-- slug: 2026-10-09-zelensky-calls-u-s-russian-diesel-deal-a-gift-to-putin
-  headline: Zelensky calls U.S. Russian diesel deal a gift to Putin
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6902
-- slug: 2026-09-21-trump-to-press-zelenskyy-on-energy-ceasefire-as-diesel-prices-soar
-  headline: Trump to press Zelenskyy on energy ceasefire as diesel prices soar
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.7061
-- slug: 2026-09-15-house-moves-toward-vote-on-graham-russia-sanctions-bill-as-democrats-split
-  headline: House moves toward vote on Graham Russia sanctions bill as Democrats split
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.719
-- slug: 2026-09-16-shaheen-china-drives-51-of-moscow-s-revenue-from-top-russian-fuel-importers
-  headline: 'Shaheen: China drives 51% of Moscow''s revenue from top Russian fuel importers'
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7111
-- slug: 2026-09-16-house-passes-russia-sanctions-bill-sending-measure-to-trump
-  headline: House passes Russia sanctions bill, sending measure to Trump
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.7109
-- slug: 2026-09-22-zelensky-arrives-in-new-york-for-trump-meeting-on-ukraine-russia-energy-truce
-  headline: Zelensky arrives in New York for Trump meeting on Ukraine-Russia energy truce
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6949
-- slug: 2026-09-13-trump-presses-zelensky-on-russian-refinery-strikes-citing-diesel-prices
-  headline: Trump presses Zelensky on Russian refinery strikes, citing diesel prices
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.7107
-- slug: 2026-08-27-senate-passes-graham-s-russia-sanctions-bill-after-zelenskyy-s-capitol-visit
-  headline: Senate passes Graham's Russia sanctions bill after Zelenskyy's Capitol visit
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7293
-- slug: 2026-08-07-senate-passes-russia-sanctions-bill-honoring-late-lindsey-graham
-  headline: Senate passes Russia sanctions bill honoring late Lindsey Graham
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7229
-- slug: 2026-07-10-senators-white-house-agree-on-revised-russia-sanctions-text
-  headline: Senators, White House agree on revised Russia sanctions text
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6952
+  strength: 0.6999
 image:
   url: /articles/2026-11-19-kaine-to-force-senate-vote-on-human-rights-effects-of-u-s-policy-toward-russia.png
-  alt: "Illustration accompanying article: Kaine to force Senate vote on human rights effects of U.S. policy toward Russia"
+  alt: 'Illustration accompanying article: Kaine to force Senate vote on human rights
+    effects of U.S. policy toward Russia'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Kaine to force Senate vote on human rights effects of U.S. policy toward Russia
 
 **Subtype:** fact
@@ -290,3 +246,10 @@ Getting past a presidential veto will be hard, Kaine conceded, but he said the v
 **Publication date:** 2026-11-19
 **Title:** WATCH LIVE: Senate meets for legislative business as Trump returns from Putin-Xi talks in China
 **URL:** https://www.pbs.org/newshour/politics/watch-live-senate-meets-for-legislative-business-as-trump-returns-from-putin-xi-talks-in-china
+
+### src_late_184f164510be6cc2 — Associated Press, wire, Tier 1, originating
+**Author:** Mary Clare Jalonick
+**Publication date:** 2026-11-19
+**Title:** Sen. Tim Kaine calls for assessment of US policies in Russia
+**URL:** https://apnews.com/article/senate-russia-kaine-votes-diesel-437d5cfb240275e0d75f27314277620e
+**Added after publication:** true

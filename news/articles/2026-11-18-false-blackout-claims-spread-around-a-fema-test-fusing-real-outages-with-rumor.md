@@ -61,7 +61,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -227,3 +227,10 @@ Associated Press writer Fabianna Rincon reported the story, and AP writer Meliss
 **Publication date:** 2026-11-18
 **Title:** False threats of power outages after a FEMA test highlight distrust among Latinos
 **URL:** https://apnews.com/article/fema-emergency-test-misinformation-latino-spanish-fccb2fe0ddeb1d18f2e70f5edc0c6178
+
+### src_late_86bac529fd0c12ca — Associated Press, wire, Tier 1, originating
+**Author:** Fabianna Rincon
+**Publication date:** 2026-11-18
+**Title:** Desinformación sobre simulacro de FEMA deja ver desconfianza entre comunidades hispanas de EEUU
+**URL:** https://apnews.com/article/eeuu-fema-desinformacion-hispanos-espanol-5a9a83452f38c69f8f47103033a280fc
+**Added after publication:** true
