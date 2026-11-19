@@ -2,8 +2,21 @@
 headline: U.S. Army plans Iowa detonation as officials warn of lead dust
 secondary_headline: EPA approved the permit and required five days of public notice
 publish_date: '2026-11-19'
-lede: The U.S. Army plans to detonate Friday about 5 tons of degraded bomb-making chemicals stored at the Iowa Army Ammunition Plant. Officials recommend that residents of a Middletown neighborhood begin vacating the area Friday morning, while the Mediapolis Community School District said it would close school Friday. An Army advisory said the two blasts will produce an air plume with some lead-containing particles that will disperse through the air and deposit on the ground; residents of that neighborhood who could not leave their homes were told to stay indoors with windows and doors closed.
-nut_graf: The planned blasts are intended to dispose of barrels of lead azide that officials said became dangerously unstable after water evaporated from the storage solution meant to keep the material stable. Army Sustainment Command public affairs specialist Justine Barati said the soil will be sprayed with water and the air misted to try to keep the majority of the lead on Army property, but University of Iowa professor Patrick O’Shaughnessy said the amount reaching the atmosphere and nearby surfaces remains unknown.
+lede: The U.S. Army plans to detonate Friday about 5 tons of degraded bomb-making
+  chemicals stored at the Iowa Army Ammunition Plant. Officials recommend that residents
+  of a Middletown neighborhood begin vacating the area Friday morning, while the Mediapolis
+  Community School District said it would close school Friday. An Army advisory said
+  the two blasts will produce an air plume with some lead-containing particles that
+  will disperse through the air and deposit on the ground; residents of that neighborhood
+  who could not leave their homes were told to stay indoors with windows and doors
+  closed.
+nut_graf: The planned blasts are intended to dispose of barrels of lead azide that
+  officials said became dangerously unstable after water evaporated from the storage
+  solution meant to keep the material stable. Army Sustainment Command public affairs
+  specialist Justine Barati said the soil will be sprayed with water and the air misted
+  to try to keep the majority of the lead on Army property, but University of Iowa
+  professor Patrick O’Shaughnessy said the amount reaching the atmosphere and nearby
+  surfaces remains unknown.
 primary_entities:
 - U.S. Army
 - Iowa Army Ammunition Plant
@@ -46,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,116 +159,19 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-19-u-s-army-plans-iowa-detonation-as-officials-warn-of-lead-dust.png
-  alt: 'Illustration accompanying article: U.S. Army plans Iowa detonation as officials warn of lead dust'
+  alt: 'Illustration accompanying article: U.S. Army plans Iowa detonation as officials
+    warn of lead dust'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
-related_stories:
-- slug: 2026-11-18-los-angeles-county-orders-landfill-operators-to-aid-residents-after-gas-release
-  headline: Los Angeles County orders landfill operators to aid residents after gas release
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.5995
-- slug: 2026-10-28-study-finds-7-million-exposed-to-high-lead-levels-in-los-angeles-fire-smoke
-  headline: Study finds 7 million exposed to high lead levels in Los Angeles fire smoke
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6361
-- slug: 2026-10-27-minnpost-samples-show-high-lead-levels-at-st-paul-s-largest-homeless-encampment
-  headline: MinnPost samples show high lead levels at St. Paul's largest homeless encampment
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6404
-- slug: 2026-10-25-newport-warns-of-possible-ammonia-contamination-after-pacific-seafood-plant-fire
-  headline: Newport warns of possible ammonia contamination after Pacific Seafood plant fire
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6251
-- slug: 2026-10-25-newport-moves-evacuation-shelter-away-from-seafood-plant-after-fire
-  headline: Newport moves evacuation shelter away from seafood plant after fire
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6125
-- slug: 2026-08-25-federal-judge-withholds-approval-of-east-palestine-settlement
-  headline: Federal judge withholds approval of East Palestine settlement
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6118
-- slug: 2026-06-11-hazardous-materials-incident-triggers-pentagon-lockdown-evacuation
-  headline: Hazardous materials incident triggers Pentagon lockdown, evacuation
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6299
-- slug: 2026-03-11-adirondacks-residents-clamor-over-proposed-artillery-testing
-  headline: Adirondacks residents clamor over proposed artillery testing
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.6455
-- slug: 2026-05-25-officials-lift-evacuation-orders-for-some-residents-near-damaged-chemical-tank-i
-  headline: Officials lift evacuation orders for some residents near damaged chemical tank in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.626
-- slug: 2026-06-18-los-angeles-warehouse-fire-ammonia-leak-prompt-shelter-in-place-order
-  headline: Los Angeles warehouse fire, ammonia leak prompt shelter-in-place order
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6134
-- slug: 2026-06-11-pentagon-floors-locked-down-after-reported-air-quality-issue
-  headline: Pentagon floors locked down after reported air quality issue
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6163
-- slug: 2026-06-26-25-metro-detroit-communities-exceeded-michigan-lead-action-level
-  headline: 25 Metro Detroit communities exceeded Michigan's lead action level for drinking water
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6024
-- slug: 2026-03-10-adirondacks-residents-clamor-over-proposed-howitzer-artillery-testing
-  headline: Adirondacks residents clamor over proposed howitzer artillery testing
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6337
-- slug: 2026-05-23-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
-  headline: 40,000 ordered to evacuate in Southern California after chemical leak
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6149
-- slug: 2026-05-22-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
-  headline: 40,000 ordered to evacuate in Southern California after chemical leak
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6145
-- slug: 2025-12-30-bomb-cyclone-brings-blizzards-to-the-midwest-before-turning-east
-  headline: Bomb cyclone brings blizzards to the Midwest before turning east
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6332
-- slug: 2026-05-06-spring-snowstorm-to-blast-colorado-and-wyoming-with-freezing-cold
-  headline: Spring snowstorm to blast Colorado and Wyoming with freezing cold
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6164
-- slug: 2026-05-25-evacuations-near-damaged-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near damaged chemical tank extend into holiday weekend
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6099
-- slug: 2026-05-22-40-000-under-evacuation-orders-after-chemical-tank-leak-in-garden-grove
-  headline: 40,000 under evacuation orders after chemical tank leak in Garden Grove
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6098
-- slug: 2026-05-23-chemical-tank-heat-scare-prompts-evacuations-for-40-000-in-parts-of-orange-count
-  headline: Chemical tank heat scare prompts evacuations for 40,000 in parts of Orange County
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6079
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
+related_stories: []
 ---
-
 ## U.S. Army plans Iowa detonation as officials warn of lead dust
 
 **Subtype:** fact

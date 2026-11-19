@@ -2,8 +2,20 @@
 headline: Colombian president denies rejecting joint U.S. military operations
 secondary_headline: U.S.-Venezuela military cooperation ended in 2005
 publish_date: '2026-11-19'
-lede: Pete Hegseth travelled from Venezuela to neighboring Colombia on Wednesday, where President Abelardo de la Espriella denied a New York Times report that he had rejected joint U.S.-Colombian military operations. De la Espriella said any decision would respect Colombia’s constitution, laws and sovereignty, and Hegseth reposted the post with the comment that the partnership “is stronger than ever before.” The BBC report also traced the restored U.S.-Venezuelan relationship through Hugo Chávez’s 2005 termination of military cooperation, the $50m reward for information leading to Nicolás Maduro’s capture and the charges facing Maduro and Cilia Flores in New York.
-nut_graf: Hegseth had floated joint U.S.-Colombian military operations against armed groups in August, and de la Espriella’s denial directly addressed that possibility. The wider report placed the restored U.S.-Venezuelan relationship within the 2005 rupture and the U.S. raid that seized Maduro, while detailing charges of drug trafficking and conspiracy to commit torture that Maduro and Cilia Flores deny.
+lede: Pete Hegseth travelled from Venezuela to neighboring Colombia on Wednesday,
+  where President Abelardo de la Espriella denied a New York Times report that he
+  had rejected joint U.S.-Colombian military operations. De la Espriella said any
+  decision would respect Colombia’s constitution, laws and sovereignty, and Hegseth
+  reposted the post with the comment that the partnership “is stronger than ever before.”
+  The BBC report also traced the restored U.S.-Venezuelan relationship through Hugo
+  Chávez’s 2005 termination of military cooperation, the $50m reward for information
+  leading to Nicolás Maduro’s capture and the charges facing Maduro and Cilia Flores
+  in New York.
+nut_graf: Hegseth had floated joint U.S.-Colombian military operations against armed
+  groups in August, and de la Espriella’s denial directly addressed that possibility.
+  The wider report placed the restored U.S.-Venezuelan relationship within the 2005
+  rupture and the U.S. raid that seized Maduro, while detailing charges of drug trafficking
+  and conspiracy to commit torture that Maduro and Cilia Flores deny.
 primary_entities:
 - Pete Hegseth
 - Delcy Rodríguez
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +163,43 @@ related_stories:
   headline: Pete Hegseth signs military pact with Venezuela’s interim government
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.746
+  strength: 0.7463
 - slug: 2026-11-18-pete-hegseth-meets-venezuela-s-interim-authorities-in-caracas
   headline: Pete Hegseth meets Venezuela’s interim authorities in Caracas
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7169
+  strength: 0.7173
 - slug: 2026-11-18-hegseth-calls-maduro-capture-most-sophisticated-as-critics-question-sovereignty
   headline: Hegseth calls Maduro capture most sophisticated as critics question sovereignty
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6929
+  strength: 0.6941
 - slug: 2026-11-18-u-s-and-betancourt-s-company-enter-agreement-to-tap-venezuela-reserves
   headline: U.S. and Betancourt's company enter agreement to tap Venezuela reserves
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6613
+  strength: 0.6631
 - slug: 2026-10-12-venezuelan-coalition-allies-press-rodr-guez-to-resist-us-pursuit-of-insiders
   headline: Venezuelan coalition allies press Rodríguez to resist US pursuit of insiders
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6583
+  strength: 0.6601
 - slug: 2026-10-08-indictment-details-alleged-torture-of-american-detainees
   headline: Indictment details alleged torture of American detainees
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6686
+  strength: 0.671
 - slug: 2026-09-29-colombian-forces-arrest-alleged-gulf-clan-trafficker-with-u-s-drone-support
   headline: Colombian forces arrest alleged Gulf Clan trafficker with U.S. drone support
   publish_date: '2026-09-29'
   relation: related
-  strength: 0.6832
+  strength: 0.6834
 - slug: 2026-09-12-peru-joins-us-led-shield-of-the-americas-antidrug-coalition
   headline: Peru joins US-led Shield of the Americas antidrug coalition
   publish_date: '2026-09-12'
   relation: related
-  strength: 0.6832
-- slug: 2026-09-09-colombia-and-u-s-sign-minerals-nuclear-pacts-in-barranquilla
-  headline: Colombia and U.S. sign minerals, nuclear pacts in Barranquilla
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.671
-- slug: 2026-08-07-de-la-espriella-sworn-in-as-colombia-s-president-in-cali
-  headline: De la Espriella sworn in as Colombia's president in Cali
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.7154
-- slug: 2026-08-27-de-la-espriella-ends-petro-era-total-peace-strategy-signs-five-extradition-order
-  headline: De la Espriella ends Petro-era Total Peace strategy, signs five extradition orders
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6636
-- slug: 2026-08-27-colombian-authorities-capture-alleged-tren-de-aragua-leader-in-bogot
-  headline: Colombian authorities capture alleged Tren de Aragua leader in Bogotá
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6601
-- slug: 2026-08-21-u-s-ecuador-conduct-joint-operations-against-drug-cartels-in-esmeraldas
-  headline: U.S., Ecuador conduct joint operations against drug cartels in Esmeraldas
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6693
-- slug: 2026-06-01-far-right-lawyer-leads-colombia-presidential-first-round-triggering-runoff
-  headline: Far-right lawyer leads Colombia presidential first round, triggering runoff
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6912
-- slug: 2026-06-22-de-la-espriella-claims-victory-in-tight-colombia-presidential-runoff
-  headline: De La Espriella claims victory in tight Colombia presidential runoff
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6759
-- slug: 2026-06-23-latin-america-s-trump-aligned-leaders-reshape-regional-politics
-  headline: Latin America’s Trump-aligned leaders reshape regional politics
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6653
-- slug: 2026-03-21-dea-names-colombian-president-priority-target-as-u-s-probes-drug-ties
-  headline: DEA names Colombian president 'priority target' as U.S. probes drug ties
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6712
-- slug: 2026-03-16-ecuador-president-denies-bombing-colombia-amid-border-tensions
-  headline: Ecuador president denies bombing Colombia amid border tensions
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.6674
-- slug: 2026-01-03-us-forces-seize-venezuela-s-maduro-in-overnight-raid-trump-claims-control
-  headline: US forces seize Venezuela's Maduro in overnight raid; Trump claims control
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.6702
-- slug: 2026-01-08-trump-invites-colombian-president-to-white-house-after-petro-call
-  headline: Trump invites Colombian president to White House after Petro call
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6665
+  strength: 0.6859
 ---
-
 ## Colombian president denies rejecting joint U.S. military operations
 
 **Subtype:** fact

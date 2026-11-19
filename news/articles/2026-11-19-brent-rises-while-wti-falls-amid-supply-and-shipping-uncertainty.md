@@ -206,6 +206,8 @@ related_stories:
   publish_date: '2026-10-20'
   relation: related
   strength: 0.827
+analyses:
+- '2026-11-19-oil-surpluses-meet-shipping-risks-as-hormuz-rerouting-could-reshape-exports'
 ---
 ## Brent rises while WTI falls amid supply and shipping uncertainty
 
@@ -246,3 +248,8 @@ Thursday’s mixed price performance came against a backdrop of immediate shipme
 **Publication date:** 2026-11-19
 **Title:** Oil Prices Mixed as Traders Weigh Supply Outlook, Middle East Shipping Risks
 **URL:** https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-supply-outlook-middle-east-shipping-risks-224e2724
+
+---
+
+<!-- analysis-link:2026-11-19-oil-surpluses-meet-shipping-risks-as-hormuz-rerouting-could-reshape-exports -->
+**Going deeper:** [Read MSI's analysis of oil surpluses and shipping risk →](/analyses/2026-11-19-oil-surpluses-meet-shipping-risks-as-hormuz-rerouting-could-reshape-exports)
