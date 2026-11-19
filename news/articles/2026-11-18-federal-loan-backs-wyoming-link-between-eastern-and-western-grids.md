@@ -54,11 +54,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - Associated Press
   - News From The States
   outlet_classes:
   - nonprofit
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -222,3 +224,10 @@ Until those approvals and land rights are secured, the intertie remains a propos
 **Publication date:** 2026-11-18
 **Title:** Feds back $4B project to connect eastern and western electricity grids
 **URL:** https://www.newsfromthestates.com/article/feds-back-4b-project-connect-eastern-and-western-electricity-grids
+
+### src_late_9285db364efae809 — Associated Press, wire, Tier 1, originating
+**Author:** Dustin Bleizeffer / Wyofile
+**Publication date:** 2026-11-18
+**Title:** Feds back $4B project to connect eastern and western electricity grids
+**URL:** https://apnews.com/article/eastern-western-electric-grids-connection-6e0ae359ba44ecff9aa54e7bb0bfb20f
+**Added after publication:** true

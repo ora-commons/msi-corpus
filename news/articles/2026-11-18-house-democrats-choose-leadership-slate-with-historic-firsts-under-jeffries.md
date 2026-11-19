@@ -1,9 +1,23 @@
 ---
 headline: House Democrats choose leadership slate with historic firsts under Jeffries
-secondary_headline: American Dream and Promise Act would offer DACA pathway and TPS protections
+secondary_headline: American Dream and Promise Act would offer DACA pathway and TPS
+  protections
 publish_date: '2026-11-18'
-lede: House Democrats selected a leadership slate under Rep. Hakeem Jeffries for the 120th Congress, placing Rep. Ted Lieu of California in line to become the first Asian American Democratic Caucus chair and Rep. Katherine Clark of Massachusetts in line to become the first woman majority leader. Rep. Lauren Underwood of Illinois, selected as caucus vice chair, would become the highest-ranking Black woman elected to House Democratic leadership. Jeffries identified the American Dream and Promise Act on Tuesday as an early immigration bill that would offer people enrolled in DACA a pathway to citizenship and reissue legal protections for more than 1 million immigrants stripped of TPS by the Trump administration. President Donald Trump's sign-off remains a hurdle for legislation that runs counter to his agenda.
-nut_graf: The leadership selections establish the House Democratic team for the 120th Congress, while the American Dream and Promise Act identifies an early immigration proposal for the incoming majority. Even with a Democratic Senate available, President Donald Trump's sign-off remains a hurdle for legislation that conflicts with his agenda.
+lede: House Democrats selected a leadership slate under Rep. Hakeem Jeffries for the
+  120th Congress, placing Rep. Ted Lieu of California in line to become the first
+  Asian American Democratic Caucus chair and Rep. Katherine Clark of Massachusetts
+  in line to become the first woman majority leader. Rep. Lauren Underwood of Illinois,
+  selected as caucus vice chair, would become the highest-ranking Black woman elected
+  to House Democratic leadership. Jeffries identified the American Dream and Promise
+  Act on Tuesday as an early immigration bill that would offer people enrolled in
+  DACA a pathway to citizenship and reissue legal protections for more than 1 million
+  immigrants stripped of TPS by the Trump administration. President Donald Trump's
+  sign-off remains a hurdle for legislation that runs counter to his agenda.
+nut_graf: The leadership selections establish the House Democratic team for the 120th
+  Congress, while the American Dream and Promise Act identifies an early immigration
+  proposal for the incoming majority. Even with a Democratic Senate available, President
+  Donald Trump's sign-off remains a hurdle for legislation that conflicts with his
+  agenda.
 primary_entities:
 - Hakeem Jeffries
 - Ted Lieu
@@ -49,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,22 +166,22 @@ related_stories:
   headline: Jeffries brushes past skeptics as Democrats win unexpected House seats
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7587
+  strength: 0.7602
 - slug: 2026-11-17-house-democrats-prepare-closed-door-vote-for-jeffries-clark-and-aguilar
   headline: House Democrats prepare closed-door vote for Jeffries, Clark and Aguilar
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.76
+  strength: 0.7618
 - slug: 2026-11-18-hakeem-jeffries-seeks-recorded-house-democratic-vote-on-speaker
   headline: Hakeem Jeffries seeks recorded House Democratic vote on speaker
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7426
+  strength: 0.744
 - slug: 2026-11-18-hakeem-jeffries-wins-house-democratic-nomination-for-speaker
   headline: Hakeem Jeffries wins House Democratic nomination for speaker
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7218
+  strength: 0.7229
 - slug: 2026-11-18-house-democrats-roughly-260-seat-majority-weakens-holdouts-leverage
   headline: House Democrats' roughly 260-seat majority weakens holdouts' leverage
   publish_date: '2026-11-18'
@@ -176,79 +191,18 @@ related_stories:
   headline: Hakeem Jeffries faces left-wing holdouts before Speaker vote
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7053
+  strength: 0.7057
 - slug: 2026-11-18-house-democrats-nominate-hakeem-jeffries-for-speaker-in-251-11-vote
   headline: House Democrats nominate Hakeem Jeffries for speaker in 251-11 vote
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7039
+  strength: 0.7048
 - slug: 2026-11-18-progressives-press-hakeem-jeffries-for-house-speaker-commitments
   headline: Progressives press Hakeem Jeffries for House speaker commitments
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7001
-- slug: 2026-11-08-jeffries-faces-divided-democrats-atop-largest-house-majority-since-obama-s-first
-  headline: Jeffries faces divided Democrats atop largest House majority since Obama's first year
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7367
-- slug: 2026-11-14-eleven-absent-democrats-sink-house-vote-on-hegseth-impeachment
-  headline: Eleven absent Democrats sink House vote on Hegseth impeachment
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.677
-- slug: 2026-11-13-democrats-pitch-trump-deals-on-health-care-and-legacy-plaques
-  headline: Democrats pitch Trump deals on health care and legacy plaques
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.683
-- slug: 2026-11-10-tom-emmer-wins-house-republican-whip-race-over-august-pfluger
-  headline: Tom Emmer wins House Republican whip race over August Pfluger
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6966
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7202
-- slug: 2026-11-09-democrats-prepare-affordability-agenda-after-the-midterm-win
-  headline: Democrats prepare affordability agenda after the midterm win
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6893
-- slug: 2026-11-04-hakeem-jeffries-expected-to-win-historic-house-speakership
-  headline: Hakeem Jeffries expected to win historic House speakership
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7106
-- slug: 2026-11-10-more-than-100-new-lawmakers-arrive-for-freshman-orientation
-  headline: More than 100 new lawmakers arrive for freshman orientation
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.674
-- slug: 2026-11-09-casar-says-caucus-will-push-bills-on-wages-housing-costs-and-child-care
-  headline: Casar says caucus will push bills on wages, housing costs and child care
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6708
-- slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6716
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6842
-- slug: 2026-11-04-jeffries-criminal-justice-house-speaker-path
-  headline: Jeffries's criminal justice reform work shapes his House speakership path
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6799
+  strength: 0.7005
 ---
-
 ## House Democrats choose leadership slate with historic firsts under Jeffries
 
 **Subtype:** fact
