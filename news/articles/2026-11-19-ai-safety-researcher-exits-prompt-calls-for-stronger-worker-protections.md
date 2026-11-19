@@ -1,9 +1,18 @@
 ---
 headline: AI safety researcher exits prompt calls for stronger worker protections
-secondary_headline: Ferreras proposes three reforms spanning labs, workplaces and boards
+secondary_headline: Ferreras proposes three reforms spanning labs, workplaces and
+  boards
 publish_date: '2026-11-19'
-lede: In a November 19, 2026, commentary in The Guardian, Isabelle Ferreras said that safety researchers and engineers have left leading AI laboratories after warning that commercial pressure was overriding safety guardrails. Ferreras, an accelerator fellow at the University of Oxford’s Institute for Ethics in AI, urged legislators to protect safety workers, give workers a binding role in AI deployment and reshape governance at frontier laboratories.
-nut_graf: Ferreras framed the departures as a corporate-governance problem that external regulation alone cannot fix. Her proposals would require stronger legal protection for AI safety workers, negotiated control over algorithmic management in workplaces and a larger role for labor in company boards.
+lede: In a November 19, 2026, commentary in The Guardian, Isabelle Ferreras said that
+  safety researchers and engineers have left leading AI laboratories after warning
+  that commercial pressure was overriding safety guardrails. Ferreras, an accelerator
+  fellow at the University of Oxford’s Institute for Ethics in AI, urged legislators
+  to protect safety workers, give workers a binding role in AI deployment and reshape
+  governance at frontier laboratories.
+nut_graf: Ferreras framed the departures as a corporate-governance problem that external
+  regulation alone cannot fix. Her proposals would require stronger legal protection
+  for AI safety workers, negotiated control over algorithmic management in workplaces
+  and a larger role for labor in company boards.
 primary_entities:
 - Isabelle Ferreras
 - OpenAI
@@ -44,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +156,44 @@ related_stories:
   headline: Advocacy groups sue five AI companies to halt new model development
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6714
+  strength: 0.6757
 - slug: 2026-10-27-anthropic-s-ipo-filing-details-compute-customer-and-data-center-risks
   headline: Anthropic's IPO filing details compute, customer and data-center risks
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.6717
+  strength: 0.6876
 - slug: 2026-09-30-ai-researcher-coxon-resigns-from-anthropic-says-firms-gambling-with-our-lives
-  headline: AI researcher Coxon resigns from Anthropic, says firms 'gambling with our lives'
+  headline: AI researcher Coxon resigns from Anthropic, says firms 'gambling with
+    our lives'
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.7053
-- slug: 2026-10-05-former-ai-researcher-coxon-tells-nyc-council-humanity-could-lose-control-of-ai
-  headline: Former AI researcher Coxon tells NYC Council humanity could lose control of AI
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.666
+  strength: 0.7105
 - slug: 2026-09-16-ai-coordination-call-echoes-old-antitrust-playbook-porter-says
   headline: AI coordination call echoes old antitrust playbook, Porter says
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6996
-- slug: 2026-09-25-un-panel-warns-ai-safeguards-failing-as-world-leaders-split-on-governance
-  headline: UN panel warns AI safeguards failing as world leaders split on governance
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6715
+  strength: 0.703
 - slug: 2026-09-15-russell-calls-for-ai-red-lines-over-amodei-s-pacing-plan
   headline: Russell calls for AI 'red lines' over Amodei's 'pacing' plan
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6977
-- slug: 2026-09-14-top-ai-ceos-back-anthropic-proposal-to-slow-frontier-ai-development
-  headline: Top AI CEOs back Anthropic proposal to slow frontier AI development
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6915
-- slug: 2026-09-16-rogue-ai-agents-break-free-collaborate-online
-  headline: Rogue AI agents break free, collaborate online
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6842
+  strength: 0.6975
 - slug: 2026-09-15-anthropic-co-founder-says-mandatory-ai-kill-switch-may-be-needed
   headline: Anthropic co-founder says mandatory AI 'kill switch' may be needed
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6815
-- slug: 2026-09-12-anthropic-ceo-dario-amodei-proposes-three-point-plan-to-slow-ai-development
-  headline: Anthropic CEO Dario Amodei proposes three-point plan to slow AI development
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6863
-- slug: 2026-09-17-openai-details-six-ai-model-misbehavior-cases-sets-disclosure-rules
-  headline: OpenAI details six AI model misbehavior cases, sets disclosure rules
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6693
-- slug: 2026-09-14-ai-ceos-call-for-industry-slowdown-warn-of-extinction-risk
-  headline: AI CEOs call for industry slowdown, warn of extinction risk
+  strength: 0.6907
+- slug: 2026-09-14-top-ai-ceos-back-anthropic-proposal-to-slow-frontier-ai-development
+  headline: Top AI CEOs back Anthropic proposal to slow frontier AI development
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.676
-- slug: 2026-09-15-leading-ai-companies-discuss-joint-standards-to-limit-catastrophic-harms
-  headline: Leading AI companies discuss joint standards to limit catastrophic harms
-  publish_date: '2026-09-15'
+  strength: 0.6909
+- slug: 2026-09-16-rogue-ai-agents-break-free-collaborate-online
+  headline: Rogue AI agents break free, collaborate online
+  publish_date: '2026-09-16'
   relation: related
-  strength: 0.6654
-- slug: 2026-09-15-uk-minister-louise-haigh-to-tell-tuc-government-must-heed-ai-developer-warnings
-  headline: UK minister Louise Haigh to tell TUC government must heed AI developer warnings
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6654
-- slug: 2026-09-15-fedex-ceo-calls-ai-defining-technology-that-ceos-must-drive
-  headline: FedEx CEO calls AI 'defining technology' that CEOs must drive
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6629
-- slug: 2026-09-09-anthropic-researcher-resigns-warns-of-industry-race-toward-self-improving-ai
-  headline: Anthropic researcher resigns, warns of industry race toward self-improving AI
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6763
-- slug: 2026-09-10-cruz-sanders-and-house-democrats-press-congress-to-act-on-ai-risks
-  headline: Cruz, Sanders and House Democrats press Congress to act on AI risks
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.674
-- slug: 2026-09-07-matt-clifford-steps-down-from-aria-chair-after-anthropic-role-criticism
-  headline: Matt Clifford steps down from Aria chair after Anthropic role criticism
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6703
-- slug: 2026-08-11-ai-researchers-ask-us-to-support-international-limits-on-development-pace
-  headline: AI researchers ask US to support international limits on development pace
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.7157
+  strength: 0.6848
 ---
-
 ## AI safety researcher exits prompt calls for stronger worker protections
 
 **Subtype:** fact

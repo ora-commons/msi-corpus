@@ -1,9 +1,27 @@
 ---
-headline: Anthropic's $107.3bn IPO total follows a Nasdaq Composite pullback over 10%
-secondary_headline: Anthropic ranks around 12th; Garry White calls the IPO a litmus test
+headline: Anthropic's $107.3bn IPO total follows a Nasdaq Composite pullback over
+  10%
+secondary_headline: Anthropic ranks around 12th; Garry White calls the IPO a litmus
+  test
 publish_date: '2026-11-19'
-lede: Sky News calculated that Anthropic's IPO had secured a record $107.3 billion, including funds raised through a private sale of shares to technology firms. Anthropic was due to make its Nasdaq debut as technology stocks had pulled the Nasdaq Composite down by over 10% from its record high at the start of October. Anthropic CEO Dario Amodei and his fellow co-founders are expected to ring the Nasdaq opening bell, while Garry White, chief investment commentator at wealth manager Raymond James, called the IPO a litmus test for current market sentiment toward the AI investment boom. Anthropic posted a 2025 operating loss of more than $8 billion, and the IPO was expected to place Anthropic around 12th among the world's largest companies.
-nut_graf: The offering is a major test of investor appetite for artificial intelligence as technology shares retreat and Anthropic confronts the gap between rapid revenue growth and sustainable profits. Garry White said a strong post-listing rally would signal that markets remain convinced a handful of AI leaders can eventually generate profits large enough to justify today's vast spending on talent, infrastructure and computing power. White said a weak reception or a sharp decline after flotation could suggest investors are becoming more selective, drawing a distinction between AI's transformative potential and the commercial challenge of converting rapid revenue growth into sustainable earnings.
+lede: Sky News calculated that Anthropic's IPO had secured a record $107.3 billion,
+  including funds raised through a private sale of shares to technology firms. Anthropic
+  was due to make its Nasdaq debut as technology stocks had pulled the Nasdaq Composite
+  down by over 10% from its record high at the start of October. Anthropic CEO Dario
+  Amodei and his fellow co-founders are expected to ring the Nasdaq opening bell,
+  while Garry White, chief investment commentator at wealth manager Raymond James,
+  called the IPO a litmus test for current market sentiment toward the AI investment
+  boom. Anthropic posted a 2025 operating loss of more than $8 billion, and the IPO
+  was expected to place Anthropic around 12th among the world's largest companies.
+nut_graf: The offering is a major test of investor appetite for artificial intelligence
+  as technology shares retreat and Anthropic confronts the gap between rapid revenue
+  growth and sustainable profits. Garry White said a strong post-listing rally would
+  signal that markets remain convinced a handful of AI leaders can eventually generate
+  profits large enough to justify today's vast spending on talent, infrastructure
+  and computing power. White said a weak reception or a sharp decline after flotation
+  could suggest investors are becoming more selective, drawing a distinction between
+  AI's transformative potential and the commercial challenge of converting rapid revenue
+  growth into sustainable earnings.
 primary_entities:
 - Anthropic
 - Sky News
@@ -46,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -62,7 +81,9 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: '2026-11-19'
-  caption: FRED's raw NASDAQ Composite Index series placed the index at 24,429.88 on Nov. 19, 2026, providing a contemporaneous benchmark for the market backdrop as Anthropic prepared for its Nasdaq debut.
+  caption: FRED's raw NASDAQ Composite Index series placed the index at 24,429.88
+    on Nov. 19, 2026, providing a contemporaneous benchmark for the market backdrop
+    as Anthropic prepared for its Nasdaq debut.
 figures_aggregate:
   count: 1
   series_ids:
@@ -153,107 +174,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-19-dan-ives-sees-anthropic-ipo-demand-rich-lesser-sees-mostly-upward-ai-valuations
-  headline: Dan Ives sees Anthropic IPO demand; Rich Lesser sees mostly upward AI valuations
+  headline: Dan Ives sees Anthropic IPO demand; Rich Lesser sees mostly upward AI
+    valuations
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.849
+  strength: 0.8492
 - slug: 2026-11-18-anthropic-sets-ipo-share-price-at-83-ahead-of-nasdaq-debut
   headline: Anthropic sets IPO share price at $83 ahead of Nasdaq debut
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8506
+  strength: 0.8508
 - slug: 2026-11-18-anthropic-set-to-become-the-first-us-company-focused-solely-on-ai-to-go-public
-  headline: Anthropic set to become the first US company focused solely on AI to go public
+  headline: Anthropic set to become the first US company focused solely on AI to go
+    public
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8444
+  strength: 0.8441
 - slug: 2026-11-18-anthropic-s-ipo-arrives-amid-debt-and-company-disclosed-900-billion-commitments
   headline: Anthropic's IPO arrives amid debt and company-disclosed $900 billion commitments
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8391
+  strength: 0.8392
 - slug: 2026-11-18-anthropic-raises-79-4-billion-in-record-ipo
   headline: Anthropic raises $79.4 billion in record IPO
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8326
+  strength: 0.8328
 - slug: 2026-11-18-anthropic-s-ipo-nears-trading-at-a-70-to-78-share-price-range
   headline: Anthropic's IPO nears trading at a $70 to $78 share price range
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8282
+  strength: 0.8276
 - slug: 2026-11-18-anthropic-sells-more-ipo-shares-than-planned-after-oversubscribed-demand
   headline: Anthropic sells more IPO shares than planned after oversubscribed demand
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8112
+  strength: 0.811
 - slug: 2026-11-17-anthropic-may-price-ipo-above-80-after-unusually-large-orders
   headline: Anthropic may price IPO above $80 after unusually large orders
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8153
-- slug: 2026-11-17-anthropic-presses-ahead-with-ipo-despite-ai-stock-volatility
-  headline: Anthropic presses ahead with IPO despite AI stock volatility
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8008
-- slug: 2026-11-10-anthropic-sets-70-to-78-share-price-for-up-to-64bn-nasdaq-ipo
-  headline: Anthropic sets $70 to $78 share price for up to $64bn Nasdaq IPO
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8373
-- slug: 2026-11-10-anthropic-sets-ipo-terms-at-up-to-1-4-trillion-below-reported-2-trillion-goal
-  headline: Anthropic sets IPO terms at up to $1.4 trillion, below reported $2 trillion goal
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.815
-- slug: 2026-11-10-google-and-nvidia-each-buy-10-billion-of-anthropic-stock
-  headline: Google and Nvidia each buy $10 billion of Anthropic stock
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7784
-- slug: 2026-11-10-anthropic-s-ipo-tests-the-market-for-ai-investment
-  headline: Anthropic's IPO tests the market for AI investment
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7748
-- slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
-  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time charge
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.855
-- slug: 2026-11-02-anthropic-adds-quarterly-results-to-its-updated-ipo-filing
-  headline: Anthropic adds quarterly results to its updated IPO filing
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.8114
-- slug: 2026-11-08-investors-say-anthropics-planned-ipo-valuation-will-likely-fall
-  headline: Three major investors planning to participate in Anthropic's IPO say its valuation will likely fall
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.7726
-- slug: 2026-10-26-anthropic-files-ipo-papers-as-reports-put-proceeds-at-up-to-100-billion
-  headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8368
-- slug: 2026-10-26-anthropic-files-for-ipo-with-16-286bn-revenue-and-80bn-loss
-  headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.836
-- slug: 2026-11-05-anthropic-is-developing-ai-twice-as-fast-as-a-year-ago-review-finds
-  headline: Anthropic is developing AI twice as fast as a year ago, review finds
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7728
-- slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
-  headline: Anthropic says AI research could outpace model safeguards
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8219
+  strength: 0.8155
 ---
-
 ## Anthropic's $107.3bn IPO total follows a Nasdaq Composite pullback over 10%
 
 **Subtype:** fact

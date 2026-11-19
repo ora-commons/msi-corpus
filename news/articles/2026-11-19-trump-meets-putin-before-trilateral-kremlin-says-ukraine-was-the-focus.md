@@ -2,8 +2,18 @@
 headline: Trump meets Putin before trilateral; Kremlin says Ukraine was the focus
 secondary_headline: Xi greets the U.S. president with a military flyover on the tarmac
 publish_date: '2026-11-19'
-lede: President Trump met Russian President Vladimir Putin in Shenzhen earlier in the day, before the trilateral meeting with Chinese leader Xi Jinping was due on Thursday. The Kremlin said the bilateral focused primarily on Ukraine. Trump said after greeting Putin, “He’s my friend,” while Xi separately gave Trump a personal tarmac greeting, a first by a Chinese president, and arranged a military flyover.
-nut_graf: The Trump-Putin bilateral, held earlier in the day before the trilateral, brought the two presidents together as the Kremlin said Ukraine was the meeting’s primary subject. The Wall Street Journal said Putin’s place at the sit-down with the leaders of the world’s two largest economies, together with his separate meeting with Trump earlier in the day, underscored the limits of Western efforts to isolate him. Xi personally greeted Trump on the tarmac, a first by a Chinese president, and arranged a military flyover.
+lede: President Trump met Russian President Vladimir Putin in Shenzhen earlier in
+  the day, before the trilateral meeting with Chinese leader Xi Jinping was due on
+  Thursday. The Kremlin said the bilateral focused primarily on Ukraine. Trump said
+  after greeting Putin, “He’s my friend,” while Xi separately gave Trump a personal
+  tarmac greeting, a first by a Chinese president, and arranged a military flyover.
+nut_graf: The Trump-Putin bilateral, held earlier in the day before the trilateral,
+  brought the two presidents together as the Kremlin said Ukraine was the meeting’s
+  primary subject. The Wall Street Journal said Putin’s place at the sit-down with
+  the leaders of the world’s two largest economies, together with his separate meeting
+  with Trump earlier in the day, underscored the limits of Western efforts to isolate
+  him. Xi personally greeted Trump on the tarmac, a first by a Chinese president,
+  and arranged a military flyover.
 primary_entities:
 - Trump
 - Xi Jinping
@@ -53,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,22 +166,22 @@ related_stories:
   headline: Trump and Putin's expected one-on-one talks could cover the war in Ukraine
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8386
+  strength: 0.8378
 - slug: 2026-11-16-china-confirms-trump-xi-and-putin-will-meet-thursday-in-shenzhen
   headline: China confirms Trump, Xi and Putin will meet Thursday in Shenzhen
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8208
+  strength: 0.8204
 - slug: 2026-11-18-trump-begins-china-visit-before-trilateral-summit-with-xi-and-putin
   headline: Trump begins China visit before trilateral summit with Xi and Putin
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8036
+  strength: 0.8024
 - slug: 2026-11-18-trump-plans-separate-meeting-with-putin-during-china-visit
   headline: Trump plans separate meeting with Putin during China visit
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8007
+  strength: 0.8008
 - slug: 2026-11-18-trump-arrives-in-shenzhen-for-trilateral-talks-amid-u-s-outages
   headline: Trump arrives in Shenzhen for trilateral talks amid U.S. outages
   publish_date: '2026-11-18'
@@ -180,79 +191,19 @@ related_stories:
   headline: White House announces Trump summit with Xi and Putin in Shenzhen
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7902
+  strength: 0.7908
 - slug: 2026-11-17-trump-putin-and-xi-are-set-for-shenzhen-summit-with-competing-aims
   headline: Trump, Putin and Xi are set for Shenzhen summit with competing aims
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7499
+  strength: 0.7496
 - slug: 2026-11-19-poland-s-leaders-question-trump-s-greeting-with-putin-as-allies-meet-in-berlin
-  headline: Poland's leaders question Trump's greeting with Putin as allies meet in Berlin
+  headline: Poland's leaders question Trump's greeting with Putin as allies meet in
+    Berlin
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7186
-- slug: 2026-11-16-china-signals-nuclear-reduction-talks-hinge-on-parity-with-us-and-russia
-  headline: China signals nuclear reduction talks hinge on parity with US and Russia
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7345
-- slug: 2026-11-17-trump-begins-asia-tour-in-manila-with-trade-and-security-agenda
-  headline: Trump begins Asia tour in Manila with trade and security agenda
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.721
-- slug: 2026-11-16-china-calls-planned-trump-xi-putin-nuclear-talks-groundbreaking
-  headline: China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7239
-- slug: 2026-11-09-u-s-and-china-dispute-format-for-proposed-trump-xi-putin-summit
-  headline: U.S. and China dispute format for proposed Trump-Xi-Putin summit
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7139
-- slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
-  headline: Trump open to joining Putin and Xi for denuclearization summit
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7864
-- slug: 2026-10-27-china-has-not-issued-an-invitation-for-a-proposed-trump-xi-putin-summit
-  headline: China has not issued an invitation for a proposed Trump-Xi-Putin summit
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7303
-- slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
-  headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.7641
-- slug: 2026-09-24-trump-opens-white-house-summit-with-xi-as-u-s--china-trade-truce-extends
-  headline: Trump opens White House summit with Xi as U.S.-China trade truce extends
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.7197
-- slug: 2026-09-23-trump-hosts-xi-at-white-house-for-state-visit-on-trade-and-ai
-  headline: Trump hosts Xi at White House for state visit on trade and AI
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7131
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7462
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-and-taiwan-arms-sales
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, and Taiwan arms sales
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7316
-- slug: 2026-05-14-trump-heads-to-beijing-for-summit-with-xi-as-protocol-takes-center-stage
-  headline: Trump heads to Beijing for summit with Xi as protocol takes center stage
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7315
+  strength: 0.7173
 ---
-
 ## Trump meets Putin before trilateral; Kremlin says Ukraine was the focus
 
 **Subtype:** fact

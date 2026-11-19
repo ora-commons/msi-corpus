@@ -2,8 +2,13 @@
 headline: North Northamptonshire Council offers £250 vouchers for heating oil users
 secondary_headline: Heating oil remains outside Ofgem’s energy price cap
 publish_date: '2026-11-19'
-lede: North Northamptonshire Council has offered households that rely on heating oil a £250 emergency voucher. The Reform UK-led council said residents can apply online when low oil levels would put health, safety or basic living conditions at risk.
-nut_graf: The voucher is limited to emergency cases in which low oil levels could affect health, safety or basic living conditions. Heating oil prices have been volatile since the conflict between the US and Iran began in March, and the government has announced a £53m support package in response to rising costs.
+lede: North Northamptonshire Council has offered households that rely on heating oil
+  a £250 emergency voucher. The Reform UK-led council said residents can apply online
+  when low oil levels would put health, safety or basic living conditions at risk.
+nut_graf: The voucher is limited to emergency cases in which low oil levels could
+  affect health, safety or basic living conditions. Heating oil prices have been volatile
+  since the conflict between the US and Iran began in March, and the government has
+  announced a £53m support package in response to rising costs.
 primary_entities:
 - North Northamptonshire Council
 - Reform UK
@@ -39,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,98 +153,39 @@ related_stories:
   publish_date: '2026-11-09'
   relation: related
   strength: 0.6681
-- slug: 2026-11-11-average-us-heating-bills-projected-to-rise-more-than-7-this-winter
-  headline: Average US heating bills projected to rise more than 7% this winter
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6436
 - slug: 2026-10-30-energy-economist-urges-3bn-heating-aid-boost-as-winter-bills-climb
   headline: Energy economist urges $3bn heating aid boost as winter bills climb
   publish_date: '2026-10-30'
   relation: related
   strength: 0.6967
-- slug: 2026-11-05-bank-of-england-raises-rates-to-4-as-iran-war-lifts-inflation-risks
-  headline: Bank of England raises rates to 4% as Iran war lifts inflation risks
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6441
 - slug: 2026-10-12-uk-heating-oil-prices-climb-past-110p-per-litre-as-winter-nears
   headline: UK heating oil prices climb past 110p per litre as winter nears
   publish_date: '2026-10-12'
   relation: related
   strength: 0.7415
 - slug: 2026-10-27-possible-uk-heat-pump-grant-cuts-put-installer-training-and-manufacturing-at-ris
-  headline: Possible UK heat pump grant cuts put installer training and manufacturing at risk
+  headline: Possible UK heat pump grant cuts put installer training and manufacturing
+    at risk
   publish_date: '2026-10-27'
   relation: related
   strength: 0.6573
-- slug: 2026-10-28-readers-seek-cost-of-living-relief-ahead-of-burnham-s-first-budget
-  headline: Readers seek cost-of-living relief ahead of Burnham's first budget
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.635
-- slug: 2026-10-28-obr-cuts-uk-growth-forecast-as-energy-prices-lift-inflation
-  headline: OBR cuts UK growth forecast as energy prices lift inflation
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6252
-- slug: 2026-10-04-north-sea-oil-workers-back-strike-that-could-disrupt-uk-fuel-supply
-  headline: North Sea oil workers back strike that could disrupt UK fuel supply
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6473
 - slug: 2026-09-28-uk-energy-price-cap-rises-to-1-723-as-gas-costs-surge
   headline: UK energy price cap rises to £1,723 as gas costs surge
   publish_date: '2026-09-28'
   relation: related
   strength: 0.6585
-- slug: 2026-10-02-cornwall-insight-projects-16-rise-in-uk-energy-price-cap
-  headline: Cornwall Insight projects 16% rise in UK energy price cap
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6308
-- slug: 2026-09-27-rising-energy-bills-and-inflation-test-burnham-s-economic-agenda
-  headline: Rising energy bills and inflation test Burnham's economic agenda
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.629
-- slug: 2026-09-23-neada-projects-43-rise-in-us-heating-oil-costs-this-winter
-  headline: NEADA projects 43% rise in US heating oil costs this winter
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6353
 - slug: 2026-07-26-northern-ireland-heating-oil-prices-surge-29-in-three-weeks-as-us-iran-disruptio
-  headline: Northern Ireland heating oil prices surge 29% in three weeks as US-Iran disruption deepens
+  headline: Northern Ireland heating oil prices surge 29% in three weeks as US-Iran
+    disruption deepens
   publish_date: '2026-07-26'
   relation: related
   strength: 0.7206
-- slug: 2026-09-16-npr-asks-readers-how-rising-prices-shape-daily-life-this-election-season
-  headline: NPR asks readers how rising prices shape daily life this election season
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6219
-- slug: 2026-09-10-oil-reaches-105-amid-signs-middle-east-conflict-will-persist
-  headline: Oil reaches $105 amid signs Middle East conflict will persist
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.635
-- slug: 2026-09-09-share-energy-blames-exceptional-volatility-for-129-annual-ni-price-rise
-  headline: Share Energy blames 'exceptional volatility' for £129 annual NI price rise
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6281
 - slug: 2026-07-18-cma-recommends-stronger-protections-for-uk-heating-oil-customers
   headline: CMA recommends stronger protections for UK heating oil customers
   publish_date: '2026-07-18'
   relation: related
   strength: 0.6908
-- slug: 2026-08-19-uk-inflation-rises-to-2-9-in-july-as-energy-bills-climb
-  headline: UK inflation rises to 2.9% in July as energy bills climb
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6504
 ---
-
 ## North Northamptonshire Council offers £250 vouchers for heating oil users
 
 **Subtype:** fact
