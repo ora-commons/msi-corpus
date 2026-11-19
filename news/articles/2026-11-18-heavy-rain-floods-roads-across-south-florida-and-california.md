@@ -205,6 +205,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-18-heavy-rain-creates-distinct-disruption-paths-across-roads-buildings-and-transit'
 ---
 ## Heavy rain floods roads across South Florida and California
 
@@ -250,3 +252,8 @@ With the Thanksgiving holiday approaching, the National Hurricane Center in Miam
 **Publication date:** 2026-11-18
 **Title:** Heavy rains floods roads, collapses synagogue roof in south Florida
 **URL:** https://apnews.com/article/extreme-weather-flooding-florida-california-a2eb0ab46c06ff3e6809c395466bf949
+
+---
+
+<!-- analysis-link:2026-11-18-heavy-rain-creates-distinct-disruption-paths-across-roads-buildings-and-transit -->
+**Going deeper:** [Read MSI's analysis of compound infrastructure risks from twin-coast storms →](/analyses/2026-11-18-heavy-rain-creates-distinct-disruption-paths-across-roads-buildings-and-transit)

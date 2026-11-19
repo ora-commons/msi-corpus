@@ -199,6 +199,8 @@ related_stories:
   publish_date: '2026-11-16'
   relation: related
   strength: 0.703
+analyses:
+- '2026-11-18-ai-accelerated-software-change-presses-on-a-documented-record-of-update-failures'
 ---
 ## AI speeds up software flaw discovery as update failures disrupt services
 
@@ -243,3 +245,8 @@ The cat-and-mouse contest between attackers and defenders is unlikely to end soo
 **Publication date:** 2026-11-18
 **Title:** Hacks, AI or just overdue updates - why have there been so many outages?
 **URL:** https://www.bbc.co.uk/news/articles/c6z0kly2lll7o
+
+---
+
+<!-- analysis-link:2026-11-18-ai-accelerated-software-change-presses-on-a-documented-record-of-update-failures -->
+**Going deeper:** [Read MSI's analysis of AI-accelerated change and update failures →](/analyses/2026-11-18-ai-accelerated-software-change-presses-on-a-documented-record-of-update-failures)
