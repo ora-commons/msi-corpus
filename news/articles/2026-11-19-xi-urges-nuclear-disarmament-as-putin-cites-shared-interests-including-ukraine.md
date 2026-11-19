@@ -1,9 +1,21 @@
 ---
 headline: Xi urges nuclear disarmament as Putin cites shared interests including Ukraine
-secondary_headline: Earlier Trump-Xi readout warned on Taiwan and urged trade, AI communication
+secondary_headline: Earlier Trump-Xi readout warned on Taiwan and urged trade, AI
+  communication
 publish_date: '2026-11-19'
-lede: Xi Jinping told Donald Trump and Vladimir Putin that “every effort must be made to prevent nuclear war” and that nuclear weapons should be comprehensively prohibited and completely destroyed. At the same Apec summit session in Shenzhen on November 19, Vladimir Putin said the three countries shared “many converging interests” in resolving conflicts, including the full-scale war in Ukraine that Russia started in 2022. Chinese state media said the trilateral meeting lasted roughly an hour and a half.
-nut_graf: 'The leaders’ positions supplied the substantive detail: Xi tied nuclear disarmament to preventing nuclear war, while Putin explicitly included the full-scale war in Ukraine, which Russia started in 2022, among the conflicts covered by the countries’ “many converging interests.” China’s separate readout of Trump’s earlier bilateral meeting with Xi was described by The Guardian as largely positive, though it warned on Taiwan and called for stronger communication on trade and AI.'
+lede: Xi Jinping told Donald Trump and Vladimir Putin that “every effort must be made
+  to prevent nuclear war” and that nuclear weapons should be comprehensively prohibited
+  and completely destroyed. At the same Apec summit session in Shenzhen on November
+  19, Vladimir Putin said the three countries shared “many converging interests” in
+  resolving conflicts, including the full-scale war in Ukraine that Russia started
+  in 2022. Chinese state media said the trilateral meeting lasted roughly an hour
+  and a half.
+nut_graf: 'The leaders’ positions supplied the substantive detail: Xi tied nuclear
+  disarmament to preventing nuclear war, while Putin explicitly included the full-scale
+  war in Ukraine, which Russia started in 2022, among the conflicts covered by the
+  countries’ “many converging interests.” China’s separate readout of Trump’s earlier
+  bilateral meeting with Xi was described by The Guardian as largely positive, though
+  it warned on Taiwan and called for stronger communication on trade and AI.'
 primary_entities:
 - Donald Trump
 - Xi Jinping
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -181,68 +194,7 @@ related_stories:
   publish_date: '2026-11-18'
   relation: related
   strength: 0.7562
-- slug: 2026-11-16-china-calls-planned-trump-xi-putin-nuclear-talks-groundbreaking
-  headline: China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7566
-- slug: 2026-11-17-trump-putin-and-xi-are-set-for-shenzhen-summit-with-competing-aims
-  headline: Trump, Putin and Xi are set for Shenzhen summit with competing aims
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.735
-- slug: 2026-11-18-trump-arrives-in-shenzhen-for-trilateral-talks-amid-u-s-outages
-  headline: Trump arrives in Shenzhen for trilateral talks amid U.S. outages
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7177
-- slug: 2026-11-15-china-hosts-apec-summit-as-trump-xi-and-putin-set-for-three-way-meeting
-  headline: China hosts Apec summit as Trump, Xi and Putin set for three-way meeting
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.738
-- slug: 2026-11-15-albanese-welcomes-trump-xi-putin-summit-as-european-leaders-urge-caution
-  headline: Albanese welcomes Trump-Xi-Putin summit as European leaders urge caution
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7359
-- slug: 2026-11-16-edgard-kagan-says-china-resists-trilateral-nuclear-talks
-  headline: Edgard Kagan says China resists trilateral nuclear talks
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7196
-- slug: 2026-11-16-jensen-huang-s-resignation-complicates-xi-s-summit-diplomacy
-  headline: Jensen Huang’s resignation complicates Xi’s summit diplomacy
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7106
-- slug: 2026-11-09-u-s-and-china-dispute-format-for-proposed-trump-xi-putin-summit
-  headline: U.S. and China dispute format for proposed Trump-Xi-Putin summit
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7535
-- slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
-  headline: Trump open to joining Putin and Xi for denuclearization summit
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7938
-- slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
-  headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.7799
-- slug: 2026-10-27-china-has-not-issued-an-invitation-for-a-proposed-trump-xi-putin-summit
-  headline: China has not issued an invitation for a proposed Trump-Xi-Putin summit
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.736
-- slug: 2026-10-24-putin-proposes-trump-xi-summit-in-china
-  headline: Putin proposes Trump-Xi summit in China
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7285
 ---
-
 ## Xi urges nuclear disarmament as Putin cites shared interests including Ukraine
 
 **Subtype:** fact

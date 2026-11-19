@@ -212,6 +212,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-19-shenzhen-trilateral-leaves-nuclear-limits-unresolved-with-an-agenda-for-further-'
 ---
 ## Trump, Xi and Putin close Shenzhen talks without nuclear breakthrough
 
@@ -269,3 +271,8 @@ The leaders left with an agenda for further work and positive public description
 **Publication date:** 2026-11-19
 **Title:** No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks
 **URL:** https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks
+
+---
+
+<!-- analysis-link:2026-11-19-shenzhen-trilateral-leaves-nuclear-limits-unresolved-with-an-agenda-for-further- -->
+**Going deeper:** [Read MSI's analysis of the Shenzhen nuclear-negotiation process →](/analyses/2026-11-19-shenzhen-trilateral-leaves-nuclear-limits-unresolved-with-an-agenda-for-further-)
