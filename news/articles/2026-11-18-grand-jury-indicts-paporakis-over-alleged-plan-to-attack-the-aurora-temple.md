@@ -58,7 +58,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -229,3 +229,10 @@ The FBI’s Chicago field office said Wednesday there was no additional informat
 **Publication date:** 2026-11-18
 **Title:** Illinois man indicted on terrorism and weapons charges in thwarted shooting at Hindu temple
 **URL:** https://apnews.com/article/illinois-hindu-temple-paporakis-indictment-4bda0ebe60fc48bac8aeac16f6838a17
+
+### src_late_7d114238a1c36886 — Associated Press, wire, Tier 1, originating
+**Author:** Cybele Mayes-Osterman
+**Publication date:** 2026-11-18
+**Title:** Joven de 19 años es acusado de terrorismo por ataque frustrado a un templo hindú en Illinois
+**URL:** https://apnews.com/article/illinois-templo-amenaza-ataque-hindu-chicago-7b92851585cc89eb55680df2216d7ccb
+**Added after publication:** true
