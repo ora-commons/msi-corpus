@@ -2,8 +2,18 @@
 headline: UK and EU remain divided over food rules and tuition before summit
 secondary_headline: Three agreements are targeted for Friday's UK-EU summit
 publish_date: '2026-11-19'
-lede: Andy Burnham and European Union leaders are due to meet in Brussels on Friday for a reset summit, with less than 24 hours to resolve disputes over Britain's role in future food and farming rules and tuition fees for EU students. An EU diplomat said the talks would go “down to the wire,” while a British government spokesperson described them as close. The UK and EU hope to sign three agreements, including a food and drink deal expected to add 0.4% to British GDP.
-nut_graf: The food agreement is expected to take effect on 1 March 2028 and would place Britain in the role of a rule taker on sanitary and phytosanitary standards. The unresolved question is how much formal influence Britain would receive, including whether it could help shape future EU rules rather than only their implementation. Separately, the UK and EU remain deadlocked over tuition rates and participation levels for EU students under a proposed youth mobility scheme.
+lede: Andy Burnham and European Union leaders are due to meet in Brussels on Friday
+  for a reset summit, with less than 24 hours to resolve disputes over Britain's role
+  in future food and farming rules and tuition fees for EU students. An EU diplomat
+  said the talks would go “down to the wire,” while a British government spokesperson
+  described them as close. The UK and EU hope to sign three agreements, including
+  a food and drink deal expected to add 0.4% to British GDP.
+nut_graf: The food agreement is expected to take effect on 1 March 2028 and would
+  place Britain in the role of a rule taker on sanitary and phytosanitary standards.
+  The unresolved question is how much formal influence Britain would receive, including
+  whether it could help shape future EU rules rather than only their implementation.
+  Separately, the UK and EU remain deadlocked over tuition rates and participation
+  levels for EU students under a proposed youth mobility scheme.
 primary_entities:
 - Andy Burnham
 - Ursula von der Leyen
@@ -37,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,104 +150,34 @@ related_stories:
   headline: Andy Burnham says EU options will be detailed next month
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7726
+  strength: 0.7731
 - slug: 2026-11-19-uk-brexit-debate-returns-as-burnham-prepares-eu-options
   headline: UK Brexit debate returns as Burnham prepares EU options
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7537
-- slug: 2026-11-12-uk-names-first-climate-security-envoy-as-pm-warns-climate-consensus-has-gone
-  headline: UK names first climate security envoy as PM warns climate consensus has gone
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6276
-- slug: 2026-10-27-john-healey-prepares-his-first-budget-amid-war-driven-economic-pressure
-  headline: John Healey prepares his first budget amid war-driven economic pressure
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6256
-- slug: 2026-10-28-john-healey-prepares-first-uk-budget-amid-inflation-and-debt-pressure
-  headline: John Healey prepares first UK budget amid inflation and debt pressure
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6196
+  strength: 0.7539
 - slug: 2026-09-22-burnham-to-raise-made-in-europe-concerns-in-first-meeting-with-von-der-leyen
-  headline: Burnham to raise 'Made in Europe' concerns in first meeting with von der Leyen
+  headline: Burnham to raise 'Made in Europe' concerns in first meeting with von der
+    Leyen
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7075
+  strength: 0.7079
 - slug: 2026-09-22-eu-envoy-doors-are-open-for-uk-to-deepen-cooperation
   headline: 'EU envoy: ''doors are open'' for UK to deepen cooperation'
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7047
-- slug: 2026-10-14-scotland-secretary-says-closer-eu-trade-a-bigger-uk-prize-than-separate-deals
-  headline: Scotland secretary says closer EU trade a bigger UK prize than separate deals
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6297
+  strength: 0.7053
 - slug: 2026-09-24-france-leads-eu-push-to-exclude-uk-from-made-in-europe-law
   headline: France leads EU push to exclude UK from 'Made in Europe' law
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6835
-- slug: 2026-09-29-burnham-proposes-ending-uk-pension-triple-lock-in-2030-to-fund-care
-  headline: Burnham proposes ending UK pension triple lock in 2030 to fund care
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6352
-- slug: 2026-09-29-burnham-to-outline-social-care-and-public-control-plans-at-labour-conference
-  headline: Burnham to outline social care and public control plans at Labour conference
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6339
+  strength: 0.6838
 - slug: 2026-09-16-burnham-and-trump-to-meet-at-un-general-assembly-next-week
   headline: Burnham and Trump to meet at UN General Assembly next week
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6581
-- slug: 2026-09-16-canada-eu-offer-puts-uk-reset-ambitions-under-spotlight
-  headline: Canada EU offer puts UK reset ambitions under spotlight
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6375
-- slug: 2026-09-20-burnham-meets-trump-at-un-planning-firmer-approach-than-starmer-s
-  headline: Burnham meets Trump at UN, planning firmer approach than Starmer's
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6253
-- slug: 2026-09-17-healey-urges-eu-not-to-lock-uk-out-of-made-in-europe-plan
-  headline: Healey urges EU not to lock UK out of 'Made in Europe' plan
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6297
-- slug: 2026-09-17-nato-chief-rutte-says-uk-needs-credible-path-to-2035-defence-target
-  headline: NATO chief Rutte says UK needs 'credible path' to 2035 defence target
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6174
-- slug: 2026-08-24-eu-uk-and-canada-pare-back-climate-goals-amid-energy-costs
-  headline: EU, UK and Canada pare back climate goals amid energy costs
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6323
-- slug: 2026-07-31-survey-finds-63-of-britons-prioritise-eu-over-us-relationship
-  headline: Survey finds 63% of Britons prioritise EU over US relationship
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6405
-- slug: 2026-08-09-cost-of-living-tops-voters-concerns-as-burnham-plans-uk-tour
-  headline: Cost of living tops voters' concerns as Burnham plans UK tour
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6223
-- slug: 2026-08-07-milburn-studies-dublin-apprenticeships-as-uk-youth-neet-rate-climbs
-  headline: Milburn studies Dublin apprenticeships as UK youth Neet rate climbs
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6226
+  strength: 0.6586
 ---
-
 ## UK and EU remain divided over food rules and tuition before summit
 
 **Subtype:** fact

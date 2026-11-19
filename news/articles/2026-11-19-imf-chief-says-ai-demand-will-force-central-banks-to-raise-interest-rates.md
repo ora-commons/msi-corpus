@@ -1,9 +1,18 @@
 ---
 headline: IMF chief says AI demand will force central banks to raise interest rates
-secondary_headline: AI hardware and related tech products account for more than one-tenth of world goods trade
+secondary_headline: AI hardware and related tech products account for more than one-tenth
+  of world goods trade
 publish_date: '2026-11-19'
-lede: At the 2026 Apec summit in Shenzhen, International Monetary Fund Managing Director Kristalina Georgieva warned that booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates. Georgieva said demand for AI hardware and related technology products is pushing consumer prices higher around the world, adding to inflationary pressure from the war in the Middle East and creating a case for tighter monetary policy in many economies.
-nut_graf: The warning matters for households and businesses because AI-related price increases are arriving with an energy shock that has already prompted rate increases and could push borrowing costs higher next year. The warning also comes amid concerns about an AI bubble, financial spillovers and the uneven distribution of AI investment.
+lede: At the 2026 Apec summit in Shenzhen, International Monetary Fund Managing Director
+  Kristalina Georgieva warned that booming demand for artificial intelligence will
+  force the world’s most powerful central banks to raise interest rates. Georgieva
+  said demand for AI hardware and related technology products is pushing consumer
+  prices higher around the world, adding to inflationary pressure from the war in
+  the Middle East and creating a case for tighter monetary policy in many economies.
+nut_graf: The warning matters for households and businesses because AI-related price
+  increases are arriving with an energy shock that has already prompted rate increases
+  and could push borrowing costs higher next year. The warning also comes amid concerns
+  about an AI bubble, financial spillovers and the uneven distribution of AI investment.
 primary_entities:
 - Kristalina Georgieva
 - International Monetary Fund
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,32 +159,27 @@ related_stories:
   headline: Warsh says AI could lift growth but warns of economic risks
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7382
-- slug: 2026-11-19-iea-projects-70-rise-in-data-center-emissions-by-2030
-  headline: IEA projects 70% rise in data center emissions by 2030
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.6934
+  strength: 0.737
 - slug: 2026-11-17-eu-raises-eurozone-growth-forecast-on-ai-exports-amid-energy-pressure
   headline: EU raises eurozone growth forecast on AI exports amid energy pressure
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7015
+  strength: 0.7013
 - slug: 2026-11-11-ai-spending-slowdown-could-weaken-global-trade
   headline: AI spending slowdown could weaken global trade
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7014
+  strength: 0.6997
 - slug: 2026-10-07-imf-chief-names-energy-shock-debt-ai-boom-as-growth-threats
   headline: IMF chief names energy shock, debt, AI boom as growth threats
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.8277
+  strength: 0.828
 - slug: 2026-10-15-imf-warns-ai-share-price-correction-could-threaten-global-financial-stability
   headline: IMF warns AI share-price correction could threaten global financial stability
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.7397
+  strength: 0.7395
 - slug: 2026-10-14-inflation-broadens-beyond-energy-as-ai-buildout-lifts-computer-prices
   headline: Inflation broadens beyond energy as AI buildout lifts computer prices
   publish_date: '2026-10-14'
@@ -184,69 +189,13 @@ related_stories:
   headline: IMF warns AI share crash could threaten global financial stability
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.7228
+  strength: 0.7221
 - slug: 2026-09-22-imf-chief-urges-advanced-economies-to-cut-debt-as-borrowing-costs-rise
   headline: IMF chief urges advanced economies to cut debt as borrowing costs rise
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.7868
-- slug: 2026-10-13-imf-warns-global-economy-nearing-resilience-limits-as-oil-stocks-deplete
-  headline: IMF warns global economy nearing resilience limits as oil stocks deplete
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7106
-- slug: 2026-10-09-wto-raises-2026-goods-trade-growth-forecast-to-3-9-on-ai-boom
-  headline: WTO raises 2026 goods-trade growth forecast to 3.9% on AI boom
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6952
-- slug: 2026-09-20-treasury-yields-hit-4-94-amid-iran-war-and-ai-debt-fears
-  headline: Treasury yields hit 4.94% amid Iran war and AI debt fears
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.7352
-- slug: 2026-09-17-fed-rate-hike-falls-harder-on-housing-than-ai-investment
-  headline: Fed rate hike falls harder on housing than AI investment
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.7321
-- slug: 2026-09-23-s-p-raises-asia-pacific-2026-growth-forecast-to-4-6
-  headline: S&P raises Asia-Pacific 2026 growth forecast to 4.6%
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7036
-- slug: 2026-07-13-ai-investment-boom-expected-to-keep-inflation-elevated-through-2026
-  headline: AI investment boom expected to keep inflation elevated through 2026
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.795
-- slug: 2026-08-28-ai-investment-boom-props-up-global-growth-despite-trade-and-energy-strains
-  headline: AI investment boom props up global growth despite trade and energy strains
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7356
-- slug: 2026-09-14-lagarde-warns-ai-dependency-gives-foreign-powers-leverage-over-europe
-  headline: Lagarde warns AI dependency gives foreign powers leverage over Europe
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6932
-- slug: 2026-07-18-ai-buildout-expected-to-keep-inflation-elevated-through-year-end
-  headline: AI buildout expected to keep inflation elevated through year-end
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.7691
-- slug: 2026-07-28-fed-chair-warsh-faces-pressure-to-hike-rates-as-inflation-holds-above-target
-  headline: Fed Chair Warsh faces pressure to hike rates as inflation holds above target
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6956
-- slug: 2026-07-08-imf-cuts-global-growth-forecast-to-3-as-iran-war-lifts-energy-costs
-  headline: IMF cuts global growth forecast to 3% as Iran war lifts energy costs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7118
+  strength: 0.7867
 ---
-
 ## IMF chief says AI demand will force central banks to raise interest rates
 
 **Subtype:** fact

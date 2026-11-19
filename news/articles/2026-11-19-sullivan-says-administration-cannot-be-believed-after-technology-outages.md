@@ -2,8 +2,21 @@
 headline: Sullivan says administration cannot be believed after technology outages
 secondary_headline: Perlroth warns of cascading failures in systems few people understand
 publish_date: '2026-11-19'
-lede: Guardian US columnist Margaret Sullivan argued that President Donald Trump and other administration officials could not be believed after conflicting explanations for recent technology outages. Dozens of air-traffic controllers disputed Transportation Secretary Sean Duffy’s successive accounts of a nationwide flight grounding. A Washington Sun report said Wall Street executives and the National Security Agency told Congress that the outages resulted from rushed repairs of vulnerabilities identified by AI, and Nicole Perlroth wrote, “We are entering a period of unprecedented technological instability … a period of cascading failures, whether triggered by attackers, bad updates or our own accumulated complexity.” Trump’s “fine” response in the Philippines formed the background to Sullivan’s criticism.
-nut_graf: The question is whether officials supplied credible explanations for the disruptions. Sullivan grounded her argument in Duffy’s changing accounts, the controllers’ disagreement and Perlroth’s assessment that almost nobody understands software systems end to end, fewer people can repair them and attackers can probe them at machine speed. Trump’s reassurance remained a central point of criticism.
+lede: Guardian US columnist Margaret Sullivan argued that President Donald Trump and
+  other administration officials could not be believed after conflicting explanations
+  for recent technology outages. Dozens of air-traffic controllers disputed Transportation
+  Secretary Sean Duffy’s successive accounts of a nationwide flight grounding. A Washington
+  Sun report said Wall Street executives and the National Security Agency told Congress
+  that the outages resulted from rushed repairs of vulnerabilities identified by AI,
+  and Nicole Perlroth wrote, “We are entering a period of unprecedented technological
+  instability … a period of cascading failures, whether triggered by attackers, bad
+  updates or our own accumulated complexity.” Trump’s “fine” response in the Philippines
+  formed the background to Sullivan’s criticism.
+nut_graf: The question is whether officials supplied credible explanations for the
+  disruptions. Sullivan grounded her argument in Duffy’s changing accounts, the controllers’
+  disagreement and Perlroth’s assessment that almost nobody understands software systems
+  end to end, fewer people can repair them and attackers can probe them at machine
+  speed. Trump’s reassurance remained a central point of criticism.
 primary_entities:
 - Margaret Sullivan
 - Donald Trump
@@ -48,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +164,44 @@ related_stories:
   headline: Trump faces pressure to explain wave of service outages
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7441
+  strength: 0.7439
 - slug: 2026-11-18-duffy-and-mullin-draw-criticism-over-faa-ground-stop-explanation
   headline: Duffy and Mullin draw criticism over FAA ground-stop explanation
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7229
+  strength: 0.7222
 - slug: 2026-11-19-a-week-of-tech-outages-disrupts-flights-banking-and-email
   headline: A week of tech outages disrupts flights, banking and email
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.706
+  strength: 0.7047
 - slug: 2026-11-18-microsoft-fixes-about-1-400-security-flaws-as-outages-fuel-cyberattack-suspicion
-  headline: Microsoft fixes about 1,400 security flaws as outages fuel cyberattack suspicions
+  headline: Microsoft fixes about 1,400 security flaws as outages fuel cyberattack
+    suspicions
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7071
+  strength: 0.7056
 - slug: 2026-11-17-tech-outages-prompt-scrutiny-of-u-s-digital-vulnerabilities
   headline: Tech outages prompt scrutiny of U.S. digital vulnerabilities
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7072
+  strength: 0.7055
 - slug: 2026-11-18-cantwell-and-rounds-seek-cybersecurity-tools-and-protection-for-ai-systems
   headline: Cantwell and Rounds seek cybersecurity tools and protection for AI systems
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6883
+  strength: 0.6884
 - slug: 2026-11-15-ground-stop-microsoft-outage-leave-travelers-doubting-official-accounts
   headline: Ground stop, Microsoft outage leave travelers doubting official accounts
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7054
+  strength: 0.7042
 - slug: 2026-11-18-ai-speeds-up-software-flaw-discovery-as-update-failures-disrupt-services
   headline: AI speeds up software flaw discovery as update failures disrupt services
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6694
-- slug: 2026-11-14-u-s-flight-cancellations-reach-more-than-4-100-after-ground-stop
-  headline: U.S. flight cancellations reach more than 4,100 after ground stop
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6813
-- slug: 2026-11-16-duffy-says-router-in-arkansas-flooded-network-root-cause-unresolved
-  headline: Duffy says router in Arkansas flooded network; root cause unresolved
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.664
-- slug: 2026-11-15-trump-ties-air-traffic-control-funding-request-to-weekend-ground-stop
-  headline: Trump ties air traffic control funding request to weekend ground stop
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6707
-- slug: 2026-11-15-duffy-takes-case-to-five-tv-networks-after-making-the-grounding-call
-  headline: Duffy takes case to five TV networks after making the grounding call
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6661
-- slug: 2026-11-14-airlines-cancel-thousands-of-flights-after-longest-us-ground-stop-in-25-years
-  headline: Airlines cancel thousands of flights after longest US ground stop in 25 years
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6678
-- slug: 2026-11-14-officials-say-overloaded-air-traffic-equipment-triggered-nationwide-ground-stop
-  headline: Officials say overloaded air traffic equipment triggered nationwide ground stop
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6667
-- slug: 2026-11-13-faa-lifts-nationwide-ground-stop-after-telecom-failure
-  headline: FAA lifts nationwide ground stop after telecom failure
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6732
-- slug: 2026-11-16-trump-blames-congress-for-aviation-funding-democrats-cite-unspent-billions
-  headline: Trump blames Congress for aviation funding; Democrats cite unspent billions
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6522
-- slug: 2026-11-13-arroyo-says-nationwide-air-traffic-outage-could-stem-from-obsolete-technology
-  headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6719
-- slug: 2026-11-16-trump-blames-old-air-traffic-equipment-and-biden-for-friday-grounding
-  headline: Trump blames old air traffic equipment and Biden for Friday grounding
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6509
-- slug: 2026-11-13-dhs-secretary-says-no-threat-to-u-s-as-faa-grounds-all-flights
-  headline: DHS secretary says no threat to U.S. as FAA grounds all flights
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6705
-- slug: 2026-11-14-officials-tie-nationwide-ground-stop-to-work-on-old-copper-wiring
-  headline: Officials tie nationwide ground stop to work on old copper wiring
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6635
+  strength: 0.6686
 ---
-
 ## Sullivan says administration cannot be believed after technology outages
 
 **Subtype:** fact
