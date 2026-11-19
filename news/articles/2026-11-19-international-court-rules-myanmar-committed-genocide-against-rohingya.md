@@ -2,8 +2,17 @@
 headline: International court rules Myanmar committed genocide against Rohingya
 secondary_headline: The ruling orders reparations as enforcement remains limited
 publish_date: '2026-11-19'
-lede: The International Court of Justice ruled Thursday that Myanmar committed genocide against the Rohingya minority during a 2017 military operation in northern Rakhine state. In a 9-6 decision, the 15-judge panel found that Myanmar's security forces killed thousands, perpetrated widespread sexual violence and extreme violence against children, and attacked people as they fled. The court ordered safe, voluntary and dignified return for those who fled, but it has no enforcement mechanism beyond reporting noncompliance to the U.N. Security Council.
-nut_graf: The judgment is the first in which the U.N.'s top court found a state committed genocide. It rejects Myanmar's defense of the 2017 campaign and orders investigations, prosecutions, punishment and compensation, but the court can enforce its decisions only by reporting noncompliance to the U.N. Security Council.
+lede: The International Court of Justice ruled Thursday that Myanmar committed genocide
+  against the Rohingya minority during a 2017 military operation in northern Rakhine
+  state. In a 9-6 decision, the 15-judge panel found that Myanmar's security forces
+  killed thousands, perpetrated widespread sexual violence and extreme violence against
+  children, and attacked people as they fled. The court ordered safe, voluntary and
+  dignified return for those who fled, but it has no enforcement mechanism beyond
+  reporting noncompliance to the U.N. Security Council.
+nut_graf: The judgment is the first in which the U.N.'s top court found a state committed
+  genocide. It rejects Myanmar's defense of the 2017 campaign and orders investigations,
+  prosecutions, punishment and compensation, but the court can enforce its decisions
+  only by reporting noncompliance to the U.N. Security Council.
 primary_entities:
 - International Court of Justice
 - Myanmar
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,113 +154,31 @@ related_stories:
   headline: Possible US sanctions hang over Myanmar's genocide case at the ICJ
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7512
-- slug: 2026-11-06-rohingya-refugees-in-malaysia-struggle-to-worship-freely-amid-discrimination
-  headline: Rohingya refugees in Malaysia struggle to worship freely amid discrimination
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6253
-- slug: 2026-10-10-nobel-laureate-pillay-defended-mandela-and-works-on-rwanda-genocide-case
-  headline: Nobel laureate Pillay defended Mandela and works on Rwanda genocide case
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6054
-- slug: 2026-10-08-human-rights-watch-us-third-country-deportations-to-africa-are-unlawful
-  headline: 'Human Rights Watch: US third-country deportations to Africa are unlawful'
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6002
-- slug: 2026-09-28-un-experts-warn-us-third-country-deportations-trigger-human-rights-violations
-  headline: UN experts warn US third-country deportations trigger human rights violations
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.5948
-- slug: 2026-09-08-un-commission-says-israeli-actions-in-syria-may-amount-to-war-crimes
-  headline: UN commission says Israeli actions in Syria may amount to war crimes
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.6128
-- slug: 2026-09-17-un-human-rights-council-says-us-may-have-committed-war-crime-in-iran-strikes
-  headline: UN Human Rights Council says US may have committed war crime in Iran strikes
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5877
+  strength: 0.7518
 - slug: 2026-07-16-500-rohingya-feared-dead-after-two-ships-sink-off-myanmar
   headline: 500 Rohingya feared dead after two ships sink off Myanmar
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.6796
-- slug: 2026-08-30-us-sanctions-icc-officials-after-warrants-for-putin-and-netanyahu
-  headline: US sanctions ICC officials after warrants for Putin and Netanyahu
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5853
+  strength: 0.6801
 - slug: 2026-06-24-un-inquiry-israel-continues-genocide-children-gaza
   headline: UN Inquiry Finds Israel Continues Genocide by Targeting Children in Gaza
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.6525
-- slug: 2026-03-02-more-than-2-dozen-killed-in-myanmar-airstrikes-on-trading-site
-  headline: More than 2 dozen killed in Myanmar airstrikes on trading site
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6434
-- slug: 2026-06-29-israeli-cabinet-votes-to-recognize-armenian-wwi-killings-as-genocide
-  headline: Israeli cabinet votes to recognize Armenian WWI killings as genocide
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6091
-- slug: 2026-03-02-gunmen-kill-at-least-15-in-northern-nigeria-amnesty-says
-  headline: Gunmen kill at least 15 in northern Nigeria, Amnesty says
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6157
-- slug: 2026-03-16-un-rights-report-warns-of-displacement-and-settlement-expansion-in-west-bank
-  headline: UN rights report warns of displacement and settlement expansion in West Bank
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.6122
-- slug: 2026-04-09-un-says-over-1-000-humanitarian-workers-killed-worldwide-in-past-3-years
-  headline: UN says over 1,000 humanitarian workers killed worldwide in past 3 years
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6049
-- slug: 2026-02-16-at-least-6-000-killed-over-3-days-in-rsf-attack-on-sudan-s-el-fasher-un-says
-  headline: At least 6,000 killed over 3 days in RSF attack on Sudan’s el-Fasher, UN says
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6072
-- slug: 2026-01-30-china-executes-11-myanmar-based-scam-suspects-after-court-sentences
-  headline: China executes 11 Myanmar-based scam suspects after court sentences
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6081
-- slug: 2026-02-17-myanmar-expels-east-timor-top-diplomat-over-criminal-complaint
-  headline: Myanmar expels East Timor top diplomat over criminal complaint
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6059
-- slug: 2026-05-11-amnesty-international-says-nigerian-airstrike-killed-100-civilians-at-market
-  headline: Amnesty International says Nigerian airstrike killed 100 civilians at market
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5928
-- slug: 2026-03-14-congo-government-and-m23-rebels-trade-ceasefire-violation-accusations
-  headline: Congo government and M23 rebels trade ceasefire violation accusations
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.602
+  strength: 0.6519
 image:
   url: /articles/2026-11-19-international-court-rules-myanmar-committed-genocide-against-rohingya.png
-  alt: "Illustration accompanying article: International court rules Myanmar committed genocide against Rohingya"
+  alt: 'Illustration accompanying article: International court rules Myanmar committed
+    genocide against Rohingya'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## International court rules Myanmar committed genocide against Rohingya
 
 **Subtype:** fact

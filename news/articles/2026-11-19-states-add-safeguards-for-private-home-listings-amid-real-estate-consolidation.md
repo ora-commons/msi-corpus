@@ -2,8 +2,17 @@
 headline: States add safeguards for private home listings amid real estate consolidation
 secondary_headline: No Nevada lawmaker has agreed to sponsor proposed legislation
 publish_date: '2026-11-19'
-lede: Private home listings are drawing sharper scrutiny as real estate ownership consolidates and states respond to concerns about buyer choice, pricing and public sales data. Wisconsin, Connecticut and New York require sellers to sign notarized disclosures when a home will not be advertised publicly, while Washington generally prohibits such listings except in exceptional cases to protect an individual's health or safety. In Nevada, real estate advocates are seeking similar regulation, but no lawmaker has agreed to sponsor a proposal.
-nut_graf: 'The policy fight comes as private listings grow more common and real estate ownership becomes more concentrated. The dispute extends beyond whether buyers can find a home: critics say exclusive networks can limit choice, weaken competition and leave appraisers and lenders with an incomplete record of home sales.'
+lede: Private home listings are drawing sharper scrutiny as real estate ownership
+  consolidates and states respond to concerns about buyer choice, pricing and public
+  sales data. Wisconsin, Connecticut and New York require sellers to sign notarized
+  disclosures when a home will not be advertised publicly, while Washington generally
+  prohibits such listings except in exceptional cases to protect an individual's health
+  or safety. In Nevada, real estate advocates are seeking similar regulation, but
+  no lawmaker has agreed to sponsor a proposal.
+nut_graf: 'The policy fight comes as private listings grow more common and real estate
+  ownership becomes more concentrated. The dispute extends beyond whether buyers can
+  find a home: critics say exclusive networks can limit choice, weaken competition
+  and leave appraisers and lenders with an incomplete record of home sales.'
 primary_entities:
 - Compass Inc.
 - Anywhere Real Estate
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,109 +154,8 @@ cross_article_links:
   strength: 0.6031
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-16-land-buildings-plans-shareholder-letter-urging-invitation-homes-to-sell-houses-o
-  headline: Land & Buildings plans shareholder letter urging Invitation Homes to sell houses one at a time
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6017
-- slug: 2026-10-29-house-recycling-bills-would-bar-states-from-stricter-labeling-rules
-  headline: House recycling bills would bar states from stricter labeling rules
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6101
-- slug: 2026-10-22-local-resistance-pressures-tech-giants-ahead-of-the-u-s-midterms
-  headline: Local resistance pressures tech giants ahead of the U.S. midterms
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6288
-- slug: 2026-09-17-oregon-democrats-plan-2027-bill-to-open-affordable-housing-financial-records
-  headline: Oregon Democrats plan 2027 bill to open affordable housing financial records
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6166
-- slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5972
-- slug: 2026-08-20-maryland-coalition-asks-state-ag-to-investigate-data-brokers
-  headline: Maryland coalition asks state AG to investigate data brokers
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6382
-- slug: 2026-08-21-nyc-council-hearing-reveals-split-over-mamdani-second-home-tax-rollout
-  headline: NYC council hearing reveals split over Mamdani second-home tax rollout
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6227
-- slug: 2026-08-11-state-election-officials-tighten-voter-rolls-amid-trump-push
-  headline: State election officials tighten voter rolls amid Trump push
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6323
-- slug: 2026-08-21-state-lawmakers-push-bills-to-curb-ghost-job-listings
-  headline: State lawmakers push bills to curb 'ghost job' listings
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6175
-- slug: 2026-08-25-new-york-city-defends-pied---terre-tax-rollout-in-court-filing
-  headline: New York City defends pied-à-terre tax rollout in court filing
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6042
-- slug: 2026-08-13-four-states-put-property-tax-limits-on-november-ballots
-  headline: Four states put property-tax limits on November ballots
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6222
-- slug: 2026-08-25-epa-proposes-making-air-pollution-disclosure-voluntary-for-datacenter-permits
-  headline: EPA proposes making air-pollution disclosure voluntary for datacenter permits
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6
-- slug: 2026-08-11-judge-blocks-new-york-city-pied---terre-tax-rollout-as-notices-go-out
-  headline: Judge blocks New York City pied-à-terre tax rollout as notices go out
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6167
-- slug: 2026-08-08-california-weighs-fines-for-content-creators-failing-to-disclose-paid-political-
-  headline: California weighs fines for content creators failing to disclose paid political posts
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.61
-- slug: 2026-07-31-nyc-homeowners-say-pied---terre-tax-rollout-incorrectly-targets-primary-residenc
-  headline: NYC homeowners say pied-à-terre tax rollout incorrectly targets primary residences
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.601
-- slug: 2026-06-03-state-lawmakers-move-to-ban-personalized-pricing-as-consumer-data-tools-expand
-  headline: State lawmakers move to ban personalized pricing as consumer-data tools expand
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6345
-- slug: 2026-06-28-community-banks-fight-stablecoin-bill-with-ad-campaign-warning-of-rural-credit-c
-  headline: Community banks fight stablecoin bill with ad campaign warning of rural credit crunch
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6139
-- slug: 2026-05-21-democrats-warn-data-broker-rules-miss-key-washington-sites-including-cia
-  headline: Democrats warn data-broker rules miss key Washington sites, including CIA
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6206
-- slug: 2026-06-02-insurers-brace-for-wave-of-lawsuits-and-rate-hikes-in-private-credit-market
-  headline: Insurers brace for wave of lawsuits and rate hikes in private-credit market
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6134
-- slug: 2026-05-22-democrats-warn-u-s-cell-location-data-rules-miss-white-house-cia-sites
-  headline: Democrats warn U.S. cell-location data rules miss White House, CIA sites
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6097
+related_stories: []
 ---
-
 ## States add safeguards for private home listings amid real estate consolidation
 
 **Subtype:** fact

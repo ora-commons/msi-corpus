@@ -2,8 +2,16 @@
 headline: New York City adds 17 sensor-equipped public bathrooms across five boroughs
 secondary_headline: City pays $225,000 per unit for maintenance during two-year trials
 publish_date: '2026-11-19'
-lede: New York City has put 17 modular public bathrooms into service across all five boroughs over the past two months, and the units have logged nearly 40,000 uses. The units operate on a two-year trial. Christopher Mims, a technology columnist for The Wall Street Journal, toured units across the city this week and found them remarkably tidy.
-nut_graf: New York City has around 1,100 public bathrooms, mostly in parks and libraries with limited hours, and has set a goal of doubling that number without fixing a timeline. The city is paying Throne $225,000 per unit for two years, including maintenance and cleaning, while previous restrooms cost $3 million apiece and many residents reported that those facilities were borderline unusable.
+lede: New York City has put 17 modular public bathrooms into service across all five
+  boroughs over the past two months, and the units have logged nearly 40,000 uses.
+  The units operate on a two-year trial. Christopher Mims, a technology columnist
+  for The Wall Street Journal, toured units across the city this week and found them
+  remarkably tidy.
+nut_graf: New York City has around 1,100 public bathrooms, mostly in parks and libraries
+  with limited hours, and has set a goal of doubling that number without fixing a
+  timeline. The city is paying Throne $225,000 per unit for two years, including maintenance
+  and cleaning, while previous restrooms cost $3 million apiece and many residents
+  reported that those facilities were borderline unusable.
 primary_entities:
 - New York City
 - Throne
@@ -43,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +149,8 @@ cross_article_links:
   strength: 0.5711
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-14-new-york-city-ebike-battery-fires-kill-12-this-year-up-from-one
-  headline: New York City ebike battery fires kill 12 this year, up from one
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.5786
-- slug: 2026-10-21-interior-awards-liveview-a-343-000-lease-for-us-park-police-cameras
-  headline: Interior awards LiveView a $343,000 lease for US Park Police cameras
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5942
-- slug: 2026-10-15-us-cities-deploy-sensor-networks-to-trace-industrial-odors-to-their-sources
-  headline: US cities deploy sensor networks to trace industrial odors to their sources
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6189
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5857
-- slug: 2026-08-14-new-york-city-weighs-modernization-of-500-million-trash-system
-  headline: New York City weighs modernization of $500 million trash system
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6373
-- slug: 2026-09-08-us-datacenters-draw-wastewater-enforcement-across-multiple-states
-  headline: US datacenters draw wastewater enforcement across multiple states
-  publish_date: '2026-09-08'
-  relation: related
-  strength: 0.5872
-- slug: 2026-08-11-judge-blocks-new-york-city-pied---terre-tax-rollout-as-notices-go-out
-  headline: Judge blocks New York City pied-à-terre tax rollout as notices go out
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.612
-- slug: 2026-08-08-new-york-rat-sightings-fall-22-as-containerization-expands
-  headline: New York rat sightings fall 22% as containerization expands
-  publish_date: '2026-08-08'
-  relation: related
-  strength: 0.5877
-- slug: 2026-07-31-nyc-homeowners-say-pied---terre-tax-rollout-incorrectly-targets-primary-residenc
-  headline: NYC homeowners say pied-à-terre tax rollout incorrectly targets primary residences
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.5906
-- slug: 2026-06-06-new-york-city-struggles-to-curb-dog-waste-as-complaints-rise
-  headline: New York City struggles to curb dog waste as complaints rise
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6306
-- slug: 2026-06-23-london-new-york-offer-template-for-cities-to-cut-air-pollution-mayors-say
-  headline: London, New York offer template for cities to cut air pollution, mayors say
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5941
-- slug: 2026-07-10-new-york-city-bans-deceptive-subscription-traps-under-click-to-cancel-rule
-  headline: New York City bans deceptive subscription traps under click-to-cancel rule
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5767
-- slug: 2026-06-02-nypd-investigates-groups-emerging-from-manholes-across-brooklyn-and-queens
-  headline: NYPD investigates groups emerging from manholes across Brooklyn and Queens
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5893
-- slug: 2026-05-08-renter-friendly-air-conditioning-battery-program-could-cut-energy-bills
-  headline: Renter-friendly air-conditioning battery program could cut energy bills
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5945
-- slug: 2026-06-07-manhole-mystery-grips-new-york-just-what-are-city-s-mole-people-up-to
-  headline: Manhole mystery grips New York – just what are city's 'mole people' up to?
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5836
-- slug: 2026-06-03-nypd-investigates-groups-emerging-from-nyc-sewer-manholes
-  headline: NYPD investigates groups emerging from NYC sewer manholes
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.581
-- slug: 2026-06-06-new-york-lawmakers-approve-one-year-ban-on-large-datacenters
-  headline: New York lawmakers approve one-year ban on large datacenters
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5756
-- slug: 2026-04-06-artemis-ii-toilet-malfunctions-again-as-crew-heads-for-lunar-fly-around
-  headline: Artemis II toilet malfunctions again as crew heads for lunar fly-around
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.5826
-- slug: 2026-04-05-artemis-ii-astronauts-face-more-toilet-trouble-as-crew-speeds-toward-moon
-  headline: Artemis II astronauts face more toilet trouble as crew speeds toward moon
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.5747
-- slug: 2025-12-29-new-york-subway-ends-metrocard-fully-switches-to-omny-tap-and-go-fares
-  headline: New York subway ends MetroCard; fully switches to OMNY tap-and-go fares
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.5817
+related_stories: []
 ---
-
 ## New York City adds 17 sensor-equipped public bathrooms across five boroughs
 
 **Subtype:** fact
