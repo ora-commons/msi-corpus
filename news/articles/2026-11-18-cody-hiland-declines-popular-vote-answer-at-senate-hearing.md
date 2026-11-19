@@ -2,8 +2,16 @@
 headline: Cody Hiland declines popular-vote answer at Senate hearing
 secondary_headline: Hiland denies role in alleged bar exam score tampering
 publish_date: '2026-11-18'
-lede: Arkansas Supreme Court Justice Cody Hiland declined Wednesday to say who won the popular vote in the 2020 presidential election during a Senate Judiciary Committee hearing on his nomination to the 8th U.S. Circuit Court of Appeals. President Donald Trump nominated Hiland, a former federal and state prosecutor, the previous week after withdrawing his nomination of U.S. District Court Judge Lee Rudofsky.
-nut_graf: Hiland's testimony came during a stretch that Durbin said reflected Senate Republicans' determination to confirm as many nominees as possible before Republicans lose control of the Senate in January — an acceleration he said broke longstanding norms. Senators also examined his response to the 2020 election, the Arkansas bar exam scores investigation and his explanation for rejecting a district court seat.
+lede: Arkansas Supreme Court Justice Cody Hiland declined Wednesday to say who won
+  the popular vote in the 2020 presidential election during a Senate Judiciary Committee
+  hearing on his nomination to the 8th U.S. Circuit Court of Appeals. President Donald
+  Trump nominated Hiland, a former federal and state prosecutor, the previous week
+  after withdrawing his nomination of U.S. District Court Judge Lee Rudofsky.
+nut_graf: Hiland's testimony came during a stretch that Durbin said reflected Senate
+  Republicans' determination to confirm as many nominees as possible before Republicans
+  lose control of the Senate in January — an acceleration he said broke longstanding
+  norms. Senators also examined his response to the 2020 election, the Arkansas bar
+  exam scores investigation and his explanation for rejecting a district court seat.
 primary_entities:
 - Cody Hiland
 - Donald Trump
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,107 +156,12 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-11-republican-senators-stall-trump-judicial-nominees-in-the-majority-s-final-weeks
-  headline: Republican senators stall Trump judicial nominees in the majority's final weeks
+  headline: Republican senators stall Trump judicial nominees in the majority's final
+    weeks
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6915
-- slug: 2026-11-11-jim-jordan-s-record-includes-a-jack-smith-referral-and-ohio-state-scrutiny
-  headline: Jim Jordan's record includes a Jack Smith referral and Ohio State scrutiny
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6177
-- slug: 2026-11-12-hyde-smith-blocked-colom-s-federal-judgeship-then-lost-to-him-in-senate-race
-  headline: Hyde-Smith blocked Colom's federal judgeship, then lost to him in Senate race
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.61
-- slug: 2026-11-05-alaska-s-ballot-count-continues-with-senate-governor-races-too-early-to-call
-  headline: Alaska's ballot count continues with Senate, governor races too early to call
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6091
-- slug: 2026-11-05-trump-accepts-midterm-results-after-election-system-withstands-threats
-  headline: Trump accepts midterm results after election system withstands threats
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6058
-- slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
-  headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6088
-- slug: 2026-10-31-justice-department-asks-judge-to-segregate-ballots-ranking-second-sullivan
-  headline: Justice Department asks judge to segregate ballots ranking second Sullivan
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.621
-- slug: 2026-10-29-trump-directs-justice-department-to-challenge-possible-alaska-senate-result
-  headline: Trump directs Justice Department to challenge possible Alaska Senate result
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6291
-- slug: 2026-11-01-judge-sharon-gleason-dismisses-suit-over-alaska-senate-certification
-  headline: Judge Sharon Gleason dismisses suit over Alaska Senate certification
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6124
-- slug: 2026-11-02-federal-judge-dismisses-charges-in-hunter-biden-laptop-case
-  headline: Federal judge dismisses charges in Hunter Biden laptop case
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6032
-- slug: 2026-10-31-justice-department-election-suits-draw-expert-warnings-of-post-election-disputes
-  headline: Justice Department election suits draw expert warnings of post-election disputes
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6024
-- slug: 2026-10-25-blanche-frames-alaska-election-suit-as-federal-law-test
-  headline: Blanche frames Alaska election suit as federal-law test
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6299
-- slug: 2026-10-27-march-2024-transcript-release-driver-denies-wheel-grab-transcript-corroborates-t
-  headline: 'March 2024 transcript release: driver denies wheel grab; transcript corroborates Trump’s Capitol effort'
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6187
-- slug: 2026-10-27-grand-jury-rejects-justice-department-request-to-indict-cassidy-hutchinson
-  headline: Grand jury rejects Justice Department request to indict Cassidy Hutchinson
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6141
-- slug: 2026-10-29-lawyers-urge-dismissal-of-hunter-biden-laptop-charges-against-ex-fbi-officials
-  headline: Lawyers urge dismissal of Hunter Biden laptop charges against ex-FBI officials
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6029
-- slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
-  headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6297
-- slug: 2026-10-27-ex-fbi-officials-face-preliminary-hearing-in-hunter-biden-laptop-case
-  headline: Ex-FBI officials face preliminary hearing in Hunter Biden laptop case
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6075
-- slug: 2026-10-27-congressional-democrats-prepare-legal-filings-before-midterm-voting
-  headline: Congressional Democrats prepare legal filings before midterm voting
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6069
-- slug: 2026-10-23-legal-experts-say-alaska-senate-certification-suit-has-no-chance-of-success
-  headline: Legal experts say Alaska Senate certification suit has no chance of success
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6257
-- slug: 2026-10-27-justice-department-asks-washington-to-set-aside-ballots-from-suspected-noncitize
-  headline: Justice Department asks Washington to set aside ballots from suspected noncitizens
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6032
+  strength: 0.6914
 ---
-
 ## Cody Hiland declines popular-vote answer at Senate hearing
 
 **Subtype:** fact
