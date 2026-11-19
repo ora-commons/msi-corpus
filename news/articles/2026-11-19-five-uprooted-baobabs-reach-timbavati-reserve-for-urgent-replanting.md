@@ -2,8 +2,16 @@
 headline: Five uprooted baobabs reach Timbavati reserve for urgent replanting
 secondary_headline: Trees weighing up to 29 tonnes were intercepted in Durban in July
 publish_date: '2026-11-19'
-lede: Five centuries-old baobab trees that South African authorities say were moved without the necessary permissions arrived at a reserve in Timbavati, north-eastern South Africa, on Wednesday, where they are to be replanted and supported by cables to help them recover. Weighing between 19 and 29 tonnes, the trees had been intended for an unnamed buyer in Georgia before they were intercepted in July and stranded in a Durban warehouse.
-nut_graf: Once replanted, the five baobabs will be stabilized with cables and protected by electric fences to prevent elephant damage. South African authorities said the trees had been moved without the necessary permissions, while David Newton of Traffic said exports of baobabs for ornamental use are very rare.
+lede: Five centuries-old baobab trees that South African authorities say were moved
+  without the necessary permissions arrived at a reserve in Timbavati, north-eastern
+  South Africa, on Wednesday, where they are to be replanted and supported by cables
+  to help them recover. Weighing between 19 and 29 tonnes, the trees had been intended
+  for an unnamed buyer in Georgia before they were intercepted in July and stranded
+  in a Durban warehouse.
+nut_graf: Once replanted, the five baobabs will be stabilized with cables and protected
+  by electric fences to prevent elephant damage. South African authorities said the
+  trees had been moved without the necessary permissions, while David Newton of Traffic
+  said exports of baobabs for ornamental use are very rare.
 primary_entities:
 - Baobab Foundation
 - Sarah Venter
@@ -50,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,109 +156,8 @@ cross_article_links:
   strength: 0.5375
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-17-rio-tinto-commits-250-million-to-panguna-mine-cleanup
-  headline: Rio Tinto commits $250 million to Panguna mine cleanup
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.5585
-- slug: 2026-10-26-india-finds-five-trafficked-orangutans-amid-expanding-exotic-pet-trade
-  headline: India finds five trafficked orangutans amid expanding exotic-pet trade
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5937
-- slug: 2026-10-26-saamaka-communities-map-suriname-forests-to-document-logging-and-mining
-  headline: Saamaka communities map Suriname forests to document logging and mining
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5568
-- slug: 2026-10-26-totomboti-teaches-woodcraft-as-mining-and-logging-strain-suriname-s-forest
-  headline: Totomboti teaches woodcraft as mining and logging strain Suriname's forest
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5503
-- slug: 2026-10-10-contractors-topple-200-year-old-cottonwood-near-arizona-border-after-tree-sit
-  headline: Contractors topple 200-year-old cottonwood near Arizona border after tree-sit
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5564
-- slug: 2026-08-30-us-deports-afghan-granted-court-protection-to-central-african-republic
-  headline: US deports Afghan granted court protection to Central African Republic
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5476
-- slug: 2026-08-18-miami-dade-county-removes-9-000-tons-of-sargassum-in-july
-  headline: Miami-Dade County removes 9,000 tons of sargassum in July
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5492
-- slug: 2026-05-12-motherly-affection-at-congo-sanctuary-helps-orphan-bonobos-survive
-  headline: Motherly affection at Congo sanctuary helps orphan bonobos survive
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6136
-- slug: 2026-05-12-lola-ya-bonobo-sanctuary-fosters-orphaned-apes-rescued-from-congo-poachers
-  headline: Lola Ya Bonobo sanctuary fosters orphaned apes rescued from Congo poachers
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6057
-- slug: 2026-04-30-rare-mountain-bongos-return-to-kenya-from-czech-zoo-for-wild-release
-  headline: Rare mountain bongos return to Kenya from Czech zoo for wild release
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5714
-- slug: 2026-03-09-west-african-cocoa-farmers-report-pain-from-commodity-s-recent-crash
-  headline: West African cocoa farmers report pain from commodity’s recent crash
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.5702
-- slug: 2026-05-10-kenya-s-ghost-of-the-forest-mountain-bongo-edges-back-from-the-brink
-  headline: Kenya's 'ghost of the forest' mountain bongo edges back from the brink
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5564
-- slug: 2026-02-26-south-africa-diamond-mine-shuts-and-files-for-liquidation-after-mudslide
-  headline: South Africa diamond mine shuts and files for liquidation after mudslide
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5666
-- slug: 2026-05-10-critically-endangered-mountain-bongo-returns-to-kenya-s-wild
-  headline: Critically endangered mountain bongo returns to Kenya’s wild
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5542
-- slug: 2026-04-29-solar-energy-boom-in-africa-raises-lead-exposure-risks-experts-warn
-  headline: Solar energy boom in Africa raises lead exposure risks, experts warn
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5547
-- slug: 2026-05-21-britain-uses-beavers-to-curb-flooding-as-climate-change-worsens-storms
-  headline: Britain uses beavers to curb flooding as climate change worsens storms
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5481
-- slug: 2026-05-16-africa-cdc-confirms-new-ebola-outbreak-in-remote-congo-province
-  headline: Africa CDC confirms new Ebola outbreak in remote Congo province
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5488
-- slug: 2026-05-16-owl-stuck-in-utah-concrete-mixer-flies-free-after-replacement-feathers
-  headline: Owl stuck in Utah concrete mixer flies free after replacement feathers
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5482
-- slug: 2026-04-12-drought-threatens-ethiopia-myrrh-tree-used-in-luxury-perfumes-and-livelihoods
-  headline: Drought threatens Ethiopia myrrh tree used in luxury perfumes and livelihoods
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.5527
-- slug: 2026-03-15-smithsonian-museum-to-remove-slave-ship-artifact-from-exhibit-march-22
-  headline: Smithsonian museum to remove slave ship artifact from exhibit March 22
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5548
+related_stories: []
 ---
-
 ## Five uprooted baobabs reach Timbavati reserve for urgent replanting
 
 **Subtype:** fact

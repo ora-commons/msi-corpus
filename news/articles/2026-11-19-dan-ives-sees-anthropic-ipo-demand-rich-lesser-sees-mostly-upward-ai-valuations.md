@@ -70,7 +70,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -255,3 +255,10 @@ The Associated Press said how Anthropic's shares fare after the opening will be 
 **Publication date:** 2026-11-19
 **Title:** Anthropic to begin trading after pricing its stock at $83 per share in biggest IPO
 **URL:** https://apnews.com/article/anthropic-ipo-nasdaq-ai-b6a74b8949021207dc162fcc876c4649
+
+### src_late_4b85039a20a021b6 — Associated Press, wire, Tier 1, originating
+**Author:** Barbara Ortutay, Associated Press
+**Publication date:** 2026-11-19
+**Title:** Anthropic set to begin trading as a $1.5 trillion company in the biggest IPO on record
+**URL:** https://www.pbs.org/newshour/economy/anthropic-set-to-begin-trading-as-a-1-5-trillion-company-in-the-biggest-ipo-on-record
+**Added after publication:** true

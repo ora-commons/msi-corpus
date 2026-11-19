@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-07-21'
   relation: related
   strength: 0.6615
+analyses:
+- '2026-11-18-u-s-aid-shift-places-zambia-and-zimbabwe-on-divergent-hiv-paths'
 ---
 ## Zambia and Zimbabwe take different paths after U.S. aid rules change
 
@@ -247,3 +249,8 @@ Jennifer Kates, senior vice president and director of global and public health p
 **Publication date:** 2026-11-18
 **Title:** The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe
 **URL:** https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe
+
+---
+
+<!-- analysis-link:2026-11-18-u-s-aid-shift-places-zambia-and-zimbabwe-on-divergent-hiv-paths -->
+**Going deeper:** [Read MSI's analysis of Zambia and Zimbabwe's aid transition →](/analyses/2026-11-18-u-s-aid-shift-places-zambia-and-zimbabwe-on-divergent-hiv-paths)
