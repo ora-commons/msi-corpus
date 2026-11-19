@@ -171,6 +171,8 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 related_stories: []
+analyses:
+- '2026-11-19-army-detonation-links-buried-instability-to-a-wind-shaped-public-boundary'
 ---
 ## U.S. Army plans Iowa detonation as officials warn of lead dust
 
@@ -219,3 +221,8 @@ EPA documents showed that officials considered alternatives such as neutralizing
 **Publication date:** 2026-11-19
 **Title:** Iowa residents fear toxic cloud from Army's explosion of bomb-making chemicals
 **URL:** https://apnews.com/article/iowa-army-ammunition-lead-detonation-2d2d7bfaf8ceacddcbea10ed97b097ce
+
+---
+
+<!-- analysis-link:2026-11-19-army-detonation-links-buried-instability-to-a-wind-shaped-public-boundary -->
+**Going deeper:** [Read MSI's analysis of Iowa Army detonation risk →](/analyses/2026-11-19-army-detonation-links-buried-instability-to-a-wind-shaped-public-boundary)

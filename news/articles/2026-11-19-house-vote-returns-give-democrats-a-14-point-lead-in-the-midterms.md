@@ -2,8 +2,17 @@
 headline: House vote returns give Democrats a 14-point lead in the midterms
 secondary_headline: Three leading races could lift Democrats to 49 flips and 260 seats
 publish_date: '2026-11-19'
-lede: House vote returns gave Democrats 56% of the vote and Republicans 42% as the closest races were being decided, a 14-point spread that NPR called the largest midterm win for either party in 50 years. Democrats had flipped 46 Republican-held House seats and led in three uncalled races, which could raise the total to 49 flips. If Democrats won all three, they would hold 260 seats, the most since the 102nd Congress.
-nut_graf: The emerging result combines the largest midterm House win in 50 years with the second-most House seat flips of the century. If Democrats hold their leads in three uncalled races, the party would reach 260 seats and the largest House majority since the early 1990s, leaving the exact size of the new majority dependent on those unresolved contests.
+lede: House vote returns gave Democrats 56% of the vote and Republicans 42% as the
+  closest races were being decided, a 14-point spread that NPR called the largest
+  midterm win for either party in 50 years. Democrats had flipped 46 Republican-held
+  House seats and led in three uncalled races, which could raise the total to 49 flips.
+  If Democrats won all three, they would hold 260 seats, the most since the 102nd
+  Congress.
+nut_graf: The emerging result combines the largest midterm House win in 50 years with
+  the second-most House seat flips of the century. If Democrats hold their leads in
+  three uncalled races, the party would reach 260 seats and the largest House majority
+  since the early 1990s, leaving the exact size of the new majority dependent on those
+  unresolved contests.
 primary_entities:
 - NPR
 - Domenico Montanaro
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +152,44 @@ related_stories:
   headline: Schumer calls Democrats' 56-seat Senate result unimaginable
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7459
+  strength: 0.7473
 - slug: 2026-11-15-democrats-gain-six-trifectas-and-a-likely-24-22-legislature-lead
   headline: Democrats gain six trifectas and a likely 24-22 legislature lead
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7637
+  strength: 0.7648
 - slug: 2026-11-18-peltola-s-alaska-victory-delivers-democrats-a-ninth-senate-seat
   headline: Peltola's Alaska victory delivers Democrats a ninth Senate seat
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.729
+  strength: 0.7292
 - slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
   headline: Democrats poised for House control as midterm election results begin
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7814
+  strength: 0.7822
 - slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
   headline: Democrats lead polls for the midterms as turnout uncertainty remains
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7895
+  strength: 0.7894
 - slug: 2026-11-03-republicans-rare-mid-decade-redistricting-likely-falls-short-in-house-fight
-  headline: Republicans' rare mid-decade redistricting likely falls short in House fight
+  headline: Republicans' rare mid-decade redistricting likely falls short in House
+    fight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7727
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7814
+  strength: 0.7721
 - slug: 2026-11-04-democrats-win-congress-after-flipping-seven-senate-seats
   headline: Democrats win Congress after flipping seven Senate seats
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.764
-- slug: 2026-11-05-democrats-gain-control-of-congress-as-2026-voter-shifts-emerge
-  headline: Democrats gain control of Congress as 2026 voter shifts emerge
-  publish_date: '2026-11-05'
+  strength: 0.7643
+- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
+  headline: Democrats enter midterms favored in House and within reach of Senate control
+  publish_date: '2026-11-01'
   relation: related
-  strength: 0.7491
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.755
-- slug: 2026-11-07-democrats-flip-a-dozen-legislative-chambers-and-take-full-control-in-six-states
-  headline: Democrats flip a dozen legislative chambers and take full control in six states
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7316
-- slug: 2026-11-04-live-midterm-tracker-shows-33-of-35-senate-races-367-of-435-house-races-called
-  headline: Live midterm tracker shows 33 of 35 Senate races, 367 of 435 House races called
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7449
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7503
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7421
-- slug: 2026-11-05-democrats-gain-hundreds-of-state-legislative-seats-in-2026-midterms
-  headline: Democrats gain hundreds of state legislative seats in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7278
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.7305
-- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
-  headline: Democrats lead House polling as Trump approval stays below 50%
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7641
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.751
-- slug: 2026-10-23-early-voting-tops-23-million-as-democrats-outpace-republicans
-  headline: Early voting tops 23 million as Democrats outpace Republicans
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7409
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7571
+  strength: 0.7804
 ---
-
 ## House vote returns give Democrats a 14-point lead in the midterms
 
 **Subtype:** fact
