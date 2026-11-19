@@ -1,9 +1,29 @@
 ---
 headline: BAAJA advances in Senate as Colorado environmental groups urge rejection
-secondary_headline: Project-certainty rules draw opposition as Democratic divisions persist
+secondary_headline: Project-certainty rules draw opposition as Democratic divisions
+  persist
 publish_date: '2026-11-18'
-lede: Environment Colorado and The Wilderness Society urged Congress on Wednesday at Denver’s Confluence Park to reject the Bipartisan American Affordability and Jobs Act, or BAAJA, which would change federal permitting laws. Environment Colorado’s Ellie Andrews warned that the bill would undermine “bedrock environmental laws that have protected our land, air and water for over 50 years,” while The Wilderness Society’s Taylor Luneau separately warned that BAAJA was not the way forward to a clean energy future and would cause irreversible harm to public lands and dependent communities. BAAJA cleared several more procedural Senate votes with support from about 15 to 20 Democrats, including Sen. John Hickenlooper, and could still be amended before final Senate passage.
-nut_graf: The dispute centers on whether faster approvals can coexist with limits on federal agencies’ and courts’ authority to revoke or modify project approvals. Supporters describe the project-certainty changes as providing stability across administrations. Some climate and clean-energy advocates support BAAJA and argue that it would accelerate the buildout of large renewable projects and transmission lines needed for the energy transition. Many environmental groups say BAAJA’s changes go too far and could “lock in” major fossil fuel projects. Tribal groups separately criticize what they describe as the bill’s narrowing of tribal consultation requirements and protections for sacred and cultural sites. Hickenlooper has voted to advance the bill, Bennet remains opposed, and the measure still needs final Senate passage, House approval and a presidential signature.
+lede: Environment Colorado and The Wilderness Society urged Congress on Wednesday
+  at Denver’s Confluence Park to reject the Bipartisan American Affordability and
+  Jobs Act, or BAAJA, which would change federal permitting laws. Environment Colorado’s
+  Ellie Andrews warned that the bill would undermine “bedrock environmental laws that
+  have protected our land, air and water for over 50 years,” while The Wilderness
+  Society’s Taylor Luneau separately warned that BAAJA was not the way forward to
+  a clean energy future and would cause irreversible harm to public lands and dependent
+  communities. BAAJA cleared several more procedural Senate votes with support from
+  about 15 to 20 Democrats, including Sen. John Hickenlooper, and could still be amended
+  before final Senate passage.
+nut_graf: The dispute centers on whether faster approvals can coexist with limits
+  on federal agencies’ and courts’ authority to revoke or modify project approvals.
+  Supporters describe the project-certainty changes as providing stability across
+  administrations. Some climate and clean-energy advocates support BAAJA and argue
+  that it would accelerate the buildout of large renewable projects and transmission
+  lines needed for the energy transition. Many environmental groups say BAAJA’s changes
+  go too far and could “lock in” major fossil fuel projects. Tribal groups separately
+  criticize what they describe as the bill’s narrowing of tribal consultation requirements
+  and protections for sacred and cultural sites. Hickenlooper has voted to advance
+  the bill, Bennet remains opposed, and the measure still needs final Senate passage,
+  House approval and a presidential signature.
 primary_entities:
 - Environment Colorado
 - The Wilderness Society
@@ -45,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +168,44 @@ related_stories:
   headline: Senate advances permitting reform amendment toward final vote
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7497
+  strength: 0.7503
 - slug: 2026-11-17-tribal-leaders-challenge-senate-permitting-bill-over-public-land-protections
   headline: Tribal leaders challenge Senate permitting bill over public-land protections
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7406
+  strength: 0.7418
 - slug: 2026-11-09-baaja-would-narrow-nepa-review-and-tribal-consultation-as-emissions-models-diver
-  headline: Baaja would narrow NEPA review and tribal consultation as emissions models diverge
+  headline: Baaja would narrow NEPA review and tribal consultation as emissions models
+    diverge
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7798
+  strength: 0.7817
 - slug: 2026-11-16-al-gore-urges-lawmakers-to-rethink-baaja-permitting-bill
   headline: Al Gore urges lawmakers to rethink Baaja permitting bill
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7098
+  strength: 0.7107
 - slug: 2026-11-17-south-dakota-republicans-split-over-federal-permitting-bill
   headline: South Dakota Republicans split over federal permitting bill
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6928
-- slug: 2026-11-17-states-divide-over-epa-plan-to-repeal-power-plant-greenhouse-gas-rules
-  headline: States divide over EPA plan to repeal power plant greenhouse gas rules
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6446
+  strength: 0.6946
 - slug: 2026-11-13-senate-advances-permitting-overhaul-to-speed-federal-project-approvals
   headline: Senate advances permitting overhaul to speed federal project approvals
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.656
+  strength: 0.6568
 - slug: 2026-11-10-senate-takes-up-infrastructure-permitting-overhaul
   headline: Senate takes up infrastructure permitting overhaul
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6673
+  strength: 0.6681
 - slug: 2026-11-05-senate-nears-vote-on-bipartisan-energy-permitting-overhaul
   headline: Senate nears vote on bipartisan energy permitting overhaul
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6954
-- slug: 2026-11-09-senate-prepares-procedural-vote-on-bipartisan-energy-permitting-bill
-  headline: Senate prepares procedural vote on bipartisan energy permitting bill
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6399
-- slug: 2026-10-30-california-water-board-approves-delta-plan-criticized-from-all-sides
-  headline: California water board approves Delta plan criticized from all sides
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6251
-- slug: 2026-10-26-candidates-in-four-states-seek-tighter-data-center-approval-rules
-  headline: Candidates in four states seek tighter data-center approval rules
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6237
-- slug: 2026-10-20-former-trump-biden-and-obama-officials-push-permitting-reform
-  headline: Former Trump, Biden and Obama officials push permitting reform
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6481
-- slug: 2026-09-30-bipartisan-senators-introduce-bill-to-speed-federal-energy-permitting
-  headline: Bipartisan senators introduce bill to speed federal energy permitting
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6918
-- slug: 2026-10-01-supreme-court-to-hear-boulder-climate-case-as-states-expand-epa-lawsuits
-  headline: Supreme Court to hear Boulder climate case as states expand EPA lawsuits
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6308
-- slug: 2026-10-07-amazon-deforestation-gains-at-stake-as-fl-vio-bolsonaro-leads-brazil-runoff
-  headline: Amazon deforestation gains at stake as Flávio Bolsonaro leads Brazil runoff
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.61
-- slug: 2026-09-15-leading-ai-companies-discuss-joint-standards-to-limit-catastrophic-harms
-  headline: Leading AI companies discuss joint standards to limit catastrophic harms
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6155
-- slug: 2026-09-14-epa-reportedly-poised-to-scrap-power-plant-emission-rules-at-houston-g20
-  headline: EPA reportedly poised to scrap power-plant emission rules at Houston G20
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6126
-- slug: 2026-03-23-trump-s-epa-moves-to-weaken-regional-haze-rule-for-national-parks
-  headline: Trump's EPA moves to weaken regional haze rule for national parks
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.626
-- slug: 2026-01-23-california-seeks-to-expedite-10-billion-climate-spending-plan
-  headline: California seeks to expedite $10 billion climate spending plan
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.626
+  strength: 0.6974
 ---
-
 ## BAAJA advances in Senate as Colorado environmental groups urge rejection
 
 **Subtype:** fact

@@ -55,10 +55,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -231,3 +233,9 @@ Sanon was born in Haiti and moved to the United States as a teenager. He testifi
 **Publication date:** 2026-11-18
 **Title:** Florida pastor convicted of US charges related to Haitian President Jovenel Moïse's killing
 **URL:** https://apnews.com/article/haiti-president-assassination-miami-florida-213f38969e16ae2d7b48c37692df9eb1
+
+### src_late_89463a15fdb11f74 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-18
+**Title:** Florida pastor found guilty over 2021 assassination of Haitian president
+**URL:** https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination
+**Added after publication:** true

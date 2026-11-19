@@ -62,7 +62,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -249,3 +249,10 @@ The proposal offers an early view of the priorities Sanders wants Democrats to p
 **Publication date:** 2026-11-18
 **Title:** Bernie Sanders unveils his plan to push Medicare for All
 **URL:** https://apnews.com/article/bernie-sanders-medicare-for-all-senate-18b2bd8c1e14c180a33efb2893b25a9c
+
+### src_late_ed4cf750c77b51a6 — Associated Press, wire, Tier 1, originating
+**Author:** Joey Cappelletti, Associated Press
+**Publication date:** 2026-11-18
+**Title:** AP report: Bernie Sanders unveils how he'll push for Medicare for All when Democrats take power
+**URL:** https://www.pbs.org/newshour/politics/ap-report-bernie-sanders-unveils-how-hell-push-for-medicare-for-all-when-democrats-take-power
+**Added after publication:** true
