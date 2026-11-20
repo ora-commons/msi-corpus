@@ -1,9 +1,18 @@
 ---
 headline: Supply recovery limits oil gains amid Middle East shipping threats
-secondary_headline: Saudi Arabia reported a Houthi attack damaged a Riyadh financial-district tower
+secondary_headline: Saudi Arabia reported a Houthi attack damaged a Riyadh financial-district
+  tower
 publish_date: '2026-11-20'
-lede: Front-month Brent crude futures rose 0.5% to $92.47 a barrel and front-month West Texas Intermediate crude futures gained 0.6% to $83.69 on Friday. Both benchmarks were down around 15% so far this month as U.S. President Trump held off on renewed large-scale strikes against Iran, while a stronger U.S. dollar and broader weakness across commodity markets added pressure. Traders weighed continued threats to Middle Eastern oil shipments against improving global supply.
-nut_graf: The immediate market movement reflected tension between disruption risks and a supply response. Middle Eastern output and shipments were rising even as attacks and military deliberations threatened regional infrastructure, while the International Energy Agency projected a growing global surplus.
+lede: Front-month Brent crude futures rose 0.5% to $92.47 a barrel and front-month
+  West Texas Intermediate crude futures gained 0.6% to $83.69 on Friday. Both benchmarks
+  were down around 15% so far this month as U.S. President Trump held off on renewed
+  large-scale strikes against Iran, while a stronger U.S. dollar and broader weakness
+  across commodity markets added pressure. Traders weighed continued threats to Middle
+  Eastern oil shipments against improving global supply.
+nut_graf: The immediate market movement reflected tension between disruption risks
+  and a supply response. Middle Eastern output and shipments were rising even as attacks
+  and military deliberations threatened regional infrastructure, while the International
+  Energy Agency projected a growing global surplus.
 primary_entities:
 - Brent crude
 - West Texas Intermediate
@@ -52,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -68,7 +78,9 @@ figures:
   series_id: DTWEXBGS
   transformation: raw
   as_of: '2026-11-20'
-  caption: The chart shows the raw broad trade-weighted U.S. dollar index through Nov. 20, 2026, including the 122.6503 reading. The Wall Street Journal identified a stronger dollar as one factor weighing on oil prices.
+  caption: The chart shows the raw broad trade-weighted U.S. dollar index through
+    Nov. 20, 2026, including the 122.6503 reading. The Wall Street Journal identified
+    a stronger dollar as one factor weighing on oil prices.
 figures_aggregate:
   count: 1
   series_ids:
@@ -162,104 +174,45 @@ related_stories:
   headline: Brent rises while WTI falls amid supply and shipping uncertainty
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8462
+  strength: 0.8464
 - slug: 2026-11-17-oil-futures-decline-as-gulf-exports-recover
   headline: Oil futures decline as Gulf exports recover
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.839
+  strength: 0.8388
 - slug: 2026-11-18-oil-prices-fall-as-surplus-expectations-outweigh-middle-east-shipping-threats
-  headline: Oil prices fall as surplus expectations outweigh Middle East shipping threats
+  headline: Oil prices fall as surplus expectations outweigh Middle East shipping
+    threats
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8207
+  strength: 0.821
 - slug: 2026-11-13-oil-rises-as-traders-weigh-middle-east-supply-risks-and-u-s--iran-diplomacy
   headline: Oil rises as traders weigh Middle East supply risks and U.S.-Iran diplomacy
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8406
+  strength: 0.8403
 - slug: 2026-11-11-brent-crude-rebounds-above-92-as-strikes-temper-iran-diplomacy-hopes
   headline: Brent crude rebounds above $92 as strikes temper Iran diplomacy hopes
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8449
+  strength: 0.8446
 - slug: 2026-11-06-brent-crude-tops-100-as-saudi-alert-keeps-middle-east-supply-risks-in-focus
-  headline: Brent crude tops $100 as Saudi alert keeps Middle East supply risks in focus
+  headline: Brent crude tops $100 as Saudi alert keeps Middle East supply risks in
+    focus
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8554
+  strength: 0.8563
 - slug: 2026-10-30-oil-futures-climb-after-hormuz-tanker-attack-and-houthi-claims
   headline: Oil futures climb after Hormuz tanker attack and Houthi claims
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.8316
+  strength: 0.8317
 - slug: 2026-10-23-brent-futures-top-114-as-u-s--iran-and-gulf-threats-persist
   headline: Brent futures top $114 as U.S.-Iran and Gulf threats persist
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.8578
-- slug: 2026-10-20-oil-prices-climb-as-middle-east-supply-risks-offset-gulf-exports
-  headline: Oil prices climb as Middle East supply risks offset Gulf exports
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.8667
-- slug: 2026-10-21-crude-futures-rise-as-hormuz-threats-offset-recovering-middle-east-exports
-  headline: Crude futures rise as Hormuz threats offset recovering Middle East exports
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.8285
-- slug: 2026-10-22-oil-rises-as-u-s-prepares-iran-strike-options-and-conflict-concerns-return
-  headline: Oil rises as U.S. prepares Iran strike options and conflict concerns return
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.8061
-- slug: 2026-10-23-brent-tops-117-intraday-as-tanker-attacks-disrupt-fuel-supply
-  headline: Brent tops $117 intraday as tanker attacks disrupt fuel supply
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7971
-- slug: 2026-10-22-brent-crude-tops-111-after-saudi-press-agency-says-drone-debris-killed-two
-  headline: Brent crude tops $111 after Saudi Press Agency says drone debris killed two
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.8002
-- slug: 2026-10-08-houthi-airport-attacks-gulf-storm-shutdowns-lift-brent-above-102
-  headline: Houthi airport attacks, Gulf storm shutdowns lift Brent above $102
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.8221
-- slug: 2026-10-07-houthi-strikes-on-saudi-airports-aden-send-oil-futures-higher
-  headline: Houthi strikes on Saudi airports, Aden send oil futures higher
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.819
-- slug: 2026-10-01-oil-futures-rise-as-middle-east-exports-recover-to-prewar-levels
-  headline: Oil futures rise as Middle East exports recover to prewar levels
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.8338
-- slug: 2026-10-08-oil-prices-climb-on-iran-strike-talk-and-gulf-hurricane-threat
-  headline: Oil prices climb on Iran strike talk and Gulf hurricane threat
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.7973
-- slug: 2026-09-29-oil-rises-as-trump-rejects-iran-ceasefire-saudi-pipeline-resumes
-  headline: Oil rises as Trump rejects Iran ceasefire, Saudi pipeline resumes
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.8235
-- slug: 2026-10-02-crude-futures-jump-4-4-to-102-31-despite-hormuz-rebound
-  headline: Crude futures jump 4.4% to $102.31 despite Hormuz rebound
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.8123
-- slug: 2026-09-15-oil-rises-as-saudi-pipeline-outage-and-houthi-gains-pressure-middle-east-supply
-  headline: Oil rises as Saudi pipeline outage and Houthi gains pressure Middle East supply
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.8489
+  strength: 0.8575
 ---
-
 ## Supply recovery limits oil gains amid Middle East shipping threats
 
 **Subtype:** fact
