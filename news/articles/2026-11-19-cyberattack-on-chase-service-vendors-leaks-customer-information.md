@@ -1,9 +1,17 @@
 ---
 headline: Cyberattack on Chase service vendors leaks customer information
-secondary_headline: Leaked data was mostly customer and employee emails, with some phone numbers
+secondary_headline: Leaked data was mostly customer and employee emails, with some
+  phone numbers
 publish_date: '2026-11-19'
-lede: Personal information belonging to thousands of JPMorgan Chase customers was leaked online Thursday after cyberattackers targeted third-party vendors that provide services to the bank. Chase said the exposed material was mostly email addresses, with some phone numbers, and did not include credit card or particularly sensitive personal information.
-nut_graf: The incident exposed information from a fraction of Chase’s customer base, while Visa and Mastercard said their company functions and customers’ payment information were unaffected. Chase said the cyberattack was unrelated to a software bug that disrupted some Chase banking services earlier in the week.
+lede: Personal information belonging to thousands of JPMorgan Chase customers was
+  leaked online Thursday after cyberattackers targeted third-party vendors that provide
+  services to the bank. Chase said the exposed material was mostly email addresses,
+  with some phone numbers, and did not include credit card or particularly sensitive
+  personal information.
+nut_graf: The incident exposed information from a fraction of Chase’s customer base,
+  while Visa and Mastercard said their company functions and customers’ payment information
+  were unaffected. Chase said the cyberattack was unrelated to a software bug that
+  disrupted some Chase banking services earlier in the week.
 primary_entities:
 - JPMorgan Chase
 - Visa
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +150,33 @@ related_stories:
   headline: Chase technical issue delays transactions across U.S. banks
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.785
+  strength: 0.7857
 - slug: 2026-11-16-chase-attributes-online-banking-disruption-to-technical-bug
   headline: Chase attributes online banking disruption to technical bug
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7448
+  strength: 0.7456
 - slug: 2026-11-16-chase-says-software-bug-may-have-disrupted-transactions-at-major-us-banks
   headline: Chase says software bug may have disrupted transactions at major US banks
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7433
+  strength: 0.7444
 - slug: 2026-11-16-chase-clarifies-cross-bank-impact-and-expects-resolution-by-day-s-end
   headline: Chase clarifies cross-bank impact and expects resolution by day's end
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7331
-- slug: 2026-11-19-a-week-of-tech-outages-disrupts-flights-banking-and-email
-  headline: A week of tech outages disrupts flights, banking and email
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.6473
-- slug: 2026-11-17-trump-faces-pressure-to-explain-wave-of-service-outages
-  headline: Trump faces pressure to explain wave of service outages
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.63
-- slug: 2026-11-17-apple-restores-many-services-after-update-triggered-outages
-  headline: Apple restores many services after update-triggered outages
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6277
-- slug: 2026-11-17-leaked-files-prompt-scrutiny-of-deutsche-bank-s-compliance-controls
-  headline: Leaked files prompt scrutiny of Deutsche Bank's compliance controls
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.622
-- slug: 2026-11-17-tech-outages-prompt-scrutiny-of-u-s-digital-vulnerabilities
-  headline: Tech outages prompt scrutiny of U.S. digital vulnerabilities
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6211
-- slug: 2026-11-16-united-airlines-says-systemwide-outage-delaying-its-departures
-  headline: United Airlines says systemwide outage delaying its departures
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6273
-- slug: 2026-11-16-united-pilots-union-memo-details-airline-s-web-based-outage
-  headline: United pilots' union memo details airline's web-based outage
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6183
-- slug: 2026-10-29-dhs-tells-bbc-it-is-addressing-possible-personnel-data-breach
-  headline: DHS tells BBC it is addressing possible personnel data breach
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6226
-- slug: 2026-10-22-quest-diagnostics-reports-unauthorized-access-to-quanum-platform
-  headline: Quest Diagnostics reports unauthorized access to Quanum platform
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6152
-- slug: 2026-10-06-asos-app-users-in-uk-receive-extortion-messages-claiming-snowflake-breach
-  headline: ASOS app users in UK receive extortion messages claiming Snowflake breach
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6328
-- slug: 2026-09-25-shinyhunters-claims-theft-of-fbi-agents-medical-records-and-personal-data
-  headline: ShinyHunters claims theft of FBI agents' medical records and personal data
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6229
-- slug: 2026-09-23-shiny-hunters-claims-breach-of-fbi-personnel-data-on-38-000
-  headline: Shiny Hunters claims breach of FBI personnel data on 38,000
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6201
+  strength: 0.7339
 - slug: 2026-08-07-federal-prosecutors-review-claims-about-jpmorgan-fraud-reimbursements
   headline: Federal prosecutors review claims about JPMorgan fraud reimbursements
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6713
+  strength: 0.6725
 - slug: 2026-01-22-under-armour-investigating-data-breach-affecting-72-million-customers
   headline: Under Armour investigating data breach affecting 72 million customers
   publish_date: '2026-01-22'
   relation: related
-  strength: 0.6657
-- slug: 2026-06-15-fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-users
-  headline: FBI warns of Kali365 phishing service targeting Microsoft 365 users
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6303
-- slug: 2026-02-21-jpmorgan-chase-admits-closing-trump-s-accounts-after-capitol-riot
-  headline: JPMorgan Chase admits closing Trump's accounts after Capitol riot
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.6486
+  strength: 0.6663
 ---
-
 ## Cyberattack on Chase service vendors leaks customer information
 
 **Subtype:** fact

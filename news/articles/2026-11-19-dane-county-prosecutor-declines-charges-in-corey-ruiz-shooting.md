@@ -1,9 +1,20 @@
 ---
 headline: Dane County prosecutor declines charges in Corey Ruiz shooting
-secondary_headline: Police union supports the decision as the family's attorney disputes the shooting
+secondary_headline: Police union supports the decision as the family's attorney disputes
+  the shooting
 publish_date: '2026-11-19'
-lede: 'Dane County District Attorney Ismael Ozanne announced Thursday that Madison police officer Kiel Baitinger-Peterson will not face criminal charges for shooting and killing Corey Ruiz on July 22. Ozanne said he reviewed police reports, diagrams and video before concluding that the officer''s use of deadly force was justified. Civil rights attorney Ben Crump disputed the decision, citing what the medical examiner told Ruiz''s family: that Corey Ruiz would have survived had the third shot not been fired and hit him in the head.'
-nut_graf: The decision answers the charging question in the July 22 shooting but leaves the disagreement over the use of deadly force unresolved. The case has drawn days of racial justice protests and renewed calls for police reform in Madison, and it unfolded without officer-worn body camera footage because Madison police do not carry the devices.
+lede: 'Dane County District Attorney Ismael Ozanne announced Thursday that Madison
+  police officer Kiel Baitinger-Peterson will not face criminal charges for shooting
+  and killing Corey Ruiz on July 22. Ozanne said he reviewed police reports, diagrams
+  and video before concluding that the officer''s use of deadly force was justified.
+  Civil rights attorney Ben Crump disputed the decision, citing what the medical examiner
+  told Ruiz''s family: that Corey Ruiz would have survived had the third shot not
+  been fired and hit him in the head.'
+nut_graf: The decision answers the charging question in the July 22 shooting but leaves
+  the disagreement over the use of deadly force unresolved. The case has drawn days
+  of racial justice protests and renewed calls for police reform in Madison, and it
+  unfolded without officer-worn body camera footage because Madison police do not
+  carry the devices.
 primary_entities:
 - Kiel Baitinger-Peterson
 - Corey Ruiz
@@ -47,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,116 +158,44 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-19-dane-county-prosecutor-declines-charges-in-corey-ruiz-shooting.png
-  alt: 'Illustration accompanying article: Dane County prosecutor declines charges in Corey Ruiz shooting'
+  alt: 'Illustration accompanying article: Dane County prosecutor declines charges
+    in Corey Ruiz shooting'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-10-30-ohio-prosecutors-drop-charges-against-man-held-in-toledo-festival-shooting
   headline: Ohio prosecutors drop charges against man held in Toledo festival shooting
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.653
-- slug: 2026-10-23-justice-department-says-no-active-case-existed-when-minnesota-sought-evidence
-  headline: Justice Department says no active case existed when Minnesota sought evidence
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6277
-- slug: 2026-10-20-lawyer-driver-tried-to-kill-officer-in-fatal-senatobia-toddler-shooting
-  headline: 'Lawyer: driver ''tried to kill'' officer in fatal Senatobia toddler shooting'
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6294
-- slug: 2026-10-19-autopsy-indicates-kohen-wiley-shot-from-side-of-car-not-front
-  headline: Autopsy indicates Kohen Wiley shot from side of car, not front
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6303
-- slug: 2026-10-19-mississippi-ag-rules-officer-s-use-of-force-in-1-year-old-s-death-justified
-  headline: Mississippi AG rules officer's use of force in 1-year-old's death justified
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.625
-- slug: 2026-10-12-tisch-acknowledges-nypd-failed-to-alert-oversight-board-before-officer-retired
-  headline: Tisch acknowledges NYPD failed to alert oversight board before officer retired
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6335
+  strength: 0.6544
 - slug: 2026-07-24-madison-police-shooting-lacks-body-camera-footage-chief-says
   headline: Madison police shooting lacks body camera footage, chief says
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7834
+  strength: 0.7819
 - slug: 2026-08-10-wisconsin-doj-names-kiel-baitinger-peterson-in-corey-ruiz-shooting
   headline: Wisconsin DOJ names Kiel Baitinger-Peterson in Corey Ruiz shooting
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7544
+  strength: 0.7538
 - slug: 2026-07-24-family-of-corey-ruiz-says-he-did-not-deserve-madison-police-shooting
   headline: Family of Corey Ruiz says he 'did not deserve' Madison police shooting
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7518
-- slug: 2026-09-20-ice-summer-enforcement-tops-50-000-monthly-arrests-amid-string-of-shootings
-  headline: ICE summer enforcement tops 50,000 monthly arrests amid string of shootings
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6254
+  strength: 0.7525
 - slug: 2026-07-25-madison-police-shooting-disrupts-summertime-events
   headline: Madison police shooting disrupts summertime events
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.7105
-- slug: 2026-09-03-anderson-pleads-guilty-to-reckless-homicide-in-2022-killing-of-donovan-lewis
-  headline: Anderson pleads guilty to reckless homicide in 2022 killing of Donovan Lewis
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6387
-- slug: 2026-08-06-jury-will-decide-whether-michigan-officer-violated-man-s-civil-rights
-  headline: Jury will decide whether Michigan officer violated man's civil rights
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6232
-- slug: 2026-01-10-review-board-clears-officer-connor-grubb-in-fatal-shooting-of-ta-kiya-young
-  headline: Review board clears officer Connor Grubb in fatal shooting of Ta’Kiya Young
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6487
-- slug: 2026-05-19-minnesota-charges-ice-agent-in-jan-14-shooting-of-venezuelan-man
-  headline: Minnesota charges ICE agent in Jan. 14 shooting of Venezuelan man
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6286
-- slug: 2026-03-21-prosecutors-seek-to-dismiss-charges-against-two-louisville-officers
-  headline: Prosecutors seek to dismiss charges against two Louisville officers
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6372
-- slug: 2026-05-18-minnesota-charges-ice-agent-with-assault-in-jan-14-shooting-of-venezuelan-man
-  headline: Minnesota charges ICE agent with assault in Jan. 14 shooting of Venezuelan man
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.624
-- slug: 2026-01-13-doj-declines-civil-rights-probe-into-minneapolis-ice-shooting-as-prosecutors-res
-  headline: DOJ declines civil rights probe into Minneapolis ICE shooting as prosecutors resign
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.637
-- slug: 2026-01-09-ohio-review-board-clears-officer-who-fatally-shot-pregnant-ta-kiya-young
-  headline: Ohio review board clears officer who fatally shot pregnant Ta’Kiya Young
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.6365
-- slug: 2026-01-09-federal-authorities-bar-minnesota-from-ice-shooting-probe-claim-no-state-jurisdi
-  headline: Federal authorities bar Minnesota from ICE shooting probe, claim no state jurisdiction
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.635
+  strength: 0.7114
 ---
-
 ## Dane County prosecutor declines charges in Corey Ruiz shooting
 
 **Subtype:** fact
