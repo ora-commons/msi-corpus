@@ -1,9 +1,17 @@
 ---
 headline: GAO urges ICE to revise detention spending plans
-secondary_headline: A previous GAO report found millions wasted after ICE's warehouse pullback
+secondary_headline: A previous GAO report found millions wasted after ICE's warehouse
+  pullback
 publish_date: '2026-11-19'
-lede: The Government Accountability Office urged Immigration and Customs Enforcement to develop a new detention-spending plan after ICE scaled back an effort to buy and convert 11 warehouses, according to a report released Thursday. The pullback left millions of dollars in waste and no new spending plan, the Government Accountability Office said; ICE had budgeted $2.8 billion for detention in fiscal 2025.
-nut_graf: The new report focuses on the gap between ICE's expanded detention budget and a still-changing set of facility plans. GAO says the agency needs a new spending plan. ICE still has conversion plans, has announced warehouse sales in five states and has purchased private prisons, according to Stateline.
+lede: The Government Accountability Office urged Immigration and Customs Enforcement
+  to develop a new detention-spending plan after ICE scaled back an effort to buy
+  and convert 11 warehouses, according to a report released Thursday. The pullback
+  left millions of dollars in waste and no new spending plan, the Government Accountability
+  Office said; ICE had budgeted $2.8 billion for detention in fiscal 2025.
+nut_graf: The new report focuses on the gap between ICE's expanded detention budget
+  and a still-changing set of facility plans. GAO says the agency needs a new spending
+  plan. ICE still has conversion plans, has announced warehouse sales in five states
+  and has purchased private prisons, according to Stateline.
 primary_entities:
 - Government Accountability Office
 - Immigration and Customs Enforcement
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +149,43 @@ related_stories:
   headline: Democrats demand ICE explain missing miscarriage data for pregnant detainees
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6793
+  strength: 0.6771
 - slug: 2026-09-24-gao-finds-ice-wasted-tens-of-millions-on-detention-expansion
   headline: GAO finds ICE wasted tens of millions on detention expansion
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.8043
+  strength: 0.8036
 - slug: 2026-09-23-ice-plans-network-of-detention-vans-for-pennsylvania-arrests
   headline: ICE plans network of detention vans for Pennsylvania arrests
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7071
+  strength: 0.7057
 - slug: 2026-09-21-ice-removes-detainees-with-final-removal-orders-from-online-locator
   headline: ICE removes detainees with final removal orders from online locator
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6629
+  strength: 0.6606
 - slug: 2026-09-15-ice-has-no-miscarriage-data-since-october-2025-documents-show
   headline: ICE has no miscarriage data since October 2025, documents show
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.6644
+  strength: 0.6627
 - slug: 2026-09-08-uic-study-finds-ice-enforcement-drained-1-26-billion-from-chicago-commerce
   headline: UIC study finds ICE enforcement drained $1.26 billion from Chicago commerce
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6755
+  strength: 0.6747
 - slug: 2026-04-10-us-communities-push-back-on-plans-for-immigration-detention-centers
   headline: US communities push back on plans for immigration detention centers
   publish_date: '2026-04-10'
   relation: related
-  strength: 0.7589
+  strength: 0.7582
 - slug: 2026-02-14-ice-plans-38-3b-detention-expansion-to-reach-about-92-000-beds-by-november
   headline: ICE plans $38.3B detention expansion to reach about 92,000 beds by November
   publish_date: '2026-02-14'
   relation: related
-  strength: 0.7624
-- slug: 2026-04-11-us-communities-push-back-on-plans-to-convert-warehouses-into-detention-centers
-  headline: US communities push back on plans to convert warehouses into detention centers
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7521
-- slug: 2026-06-19-dhs-expected-to-scrap-seven-warehouses-for-detention-centers
-  headline: DHS Expected to Scrap Seven Warehouses for Detention Centers
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7169
-- slug: 2026-04-08-us-communities-push-back-on-plans-to-convert-warehouses-into-detention-centers
-  headline: US communities push back on plans to convert warehouses into detention centers
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.7368
-- slug: 2026-02-21-ice-purchases-warehouses-nationwide-for-expanded-detention-capacity
-  headline: ICE purchases warehouses nationwide for expanded detention capacity
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.734
-- slug: 2026-06-10-watchdog-report-finds-ice-wasted-millions-endangered-detainees-at-texas-facility
-  headline: Watchdog report finds ICE wasted millions, endangered detainees at Texas facility
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7074
-- slug: 2026-02-04-trump-s-ice-detention-plans-face-local-resistance-across-u-s
-  headline: Trump’s ICE detention plans face local resistance across U.S.
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.7301
-- slug: 2026-02-21-ice-quietly-buys-warehouses-for-detention-center-expansion
-  headline: ICE quietly buys warehouses for detention center expansion
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.7174
-- slug: 2026-02-04-ice-faces-pushback-as-cities-resist-new-detention-facilities
-  headline: ICE faces pushback as cities resist new detention facilities
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.7132
-- slug: 2026-04-09-us-communities-push-back-on-plans-to-convert-warehouses-into-detention-centers
-  headline: US communities push back on plans to convert warehouses into detention centers
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.7058
-- slug: 2026-04-07-pennsylvania-counties-billed-ice-more-than-21-million-for-immigrant-jails
-  headline: Pennsylvania counties billed ICE more than $21 million for immigrant jails
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6777
-- slug: 2026-04-03-inspection-finds-dozens-of-violations-at-major-ice-camp-in-texas
-  headline: Inspection finds dozens of violations at major ICE camp in Texas
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.677
-- slug: 2026-01-20-trump-s-tax-and-spending-cuts-bill-pays-for-ice-expansion
-  headline: Trump’s tax and spending cuts bill pays for ICE expansion
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6826
+  strength: 0.7608
 ---
-
 ## GAO urges ICE to revise detention spending plans
 
 **Subtype:** fact

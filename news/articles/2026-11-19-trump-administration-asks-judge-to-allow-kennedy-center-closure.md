@@ -2,8 +2,16 @@
 headline: Trump administration asks judge to allow Kennedy Center closure
 secondary_headline: Cooper's May order blocked the closure plan
 publish_date: '2026-11-19'
-lede: The Trump administration asked a federal judge in Washington on Thursday to dissolve a preliminary injunction blocking plans to close the Kennedy Center's main building for two years of renovation work. U.S. District Judge Christopher Cooper heard arguments from government lawyers and lawyers for Rep. Joyce Beatty of Ohio but did not immediately rule from the bench.
-nut_graf: The case pits the administration's claim that the Kennedy Center needs extensive repairs against Beatty's challenge to the board's decision to close the venue. Cooper blocked the closure in May and also ruled that Trump's name had been illegally added to the building; Beatty is a Democratic member of Congress and ex officio board member who challenged both actions.
+lede: The Trump administration asked a federal judge in Washington on Thursday to
+  dissolve a preliminary injunction blocking plans to close the Kennedy Center's main
+  building for two years of renovation work. U.S. District Judge Christopher Cooper
+  heard arguments from government lawyers and lawyers for Rep. Joyce Beatty of Ohio
+  but did not immediately rule from the bench.
+nut_graf: The case pits the administration's claim that the Kennedy Center needs extensive
+  repairs against Beatty's challenge to the board's decision to close the venue. Cooper
+  blocked the closure in May and also ruled that Trump's name had been illegally added
+  to the building; Beatty is a Democratic member of Congress and ex officio board
+  member who challenged both actions.
 primary_entities:
 - Donald Trump
 - Kennedy Center
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +155,46 @@ related_stories:
   headline: Beatty asks Cooper for Trump administration Kennedy Center records
   publish_date: '2026-10-25'
   relation: related
-  strength: 0.793
+  strength: 0.7928
 - slug: 2026-09-16-beatty-requests-emergency-hearing-on-kennedy-center-closure
   headline: Beatty requests emergency hearing on Kennedy Center closure
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.8741
+  strength: 0.8743
 - slug: 2026-09-17-judge-orders-kennedy-center-board-to-give-30-days-notice-on-building-changes
-  headline: Judge orders Kennedy Center board to give 30 days' notice on building changes
+  headline: Judge orders Kennedy Center board to give 30 days' notice on building
+    changes
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.8369
+  strength: 0.8371
 - slug: 2026-09-15-kennedy-center-board-votes-to-close-main-building-after-judge-blocks-trump-name
-  headline: Kennedy Center board votes to close main building after judge blocks Trump name
+  headline: Kennedy Center board votes to close main building after judge blocks Trump
+    name
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8366
+  strength: 0.8359
 - slug: 2026-09-15-kennedy-center-board-to-vote-on-closure-shelving-trump-renaming-vote
   headline: Kennedy Center board to vote on closure, shelving Trump-renaming vote
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8251
+  strength: 0.8249
 - slug: 2026-09-19-trump-threatens-kennedy-center-demolition-after-court-blocks-renaming-bid
-  headline: Trump threatens Kennedy Center demolition after court blocks renaming bid
+  headline: Trump threatens Kennedy Center demolition after court blocks renaming
+    bid
   publish_date: '2026-09-19'
   relation: related
-  strength: 0.8057
+  strength: 0.8049
 - slug: 2026-09-15-cooper-no-proof-kennedy-center-donations-hinge-on-trump-name
   headline: 'Cooper: no proof Kennedy Center donations hinge on Trump name'
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.8105
+  strength: 0.8104
 - slug: 2026-09-20-beatty-clashes-with-trump-as-kennedy-center-board-votes-to-close-building
   headline: Beatty clashes with Trump as Kennedy Center board votes to close building
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.7838
-- slug: 2026-09-14-beatty-files-court-documents-disputing-kennedy-center-s-safety-claims
-  headline: Beatty files court documents disputing Kennedy Center's safety claims
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7904
-- slug: 2026-09-15-judge-blocks-second-attempt-to-add-trump-s-name-to-kennedy-center-facade
-  headline: Judge blocks second attempt to add Trump's name to Kennedy Center facade
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.7792
-- slug: 2026-09-14-court-filings-detail-10-options-to-add-trump-s-name-to-kennedy-center-facade
-  headline: Court filings detail 10 options to add Trump's name to Kennedy Center facade
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7706
-- slug: 2026-08-19-beatty-asks-judge-cooper-for-earlier-ruling-in-kennedy-center-facade-case
-  headline: Beatty asks Judge Cooper for earlier ruling in Kennedy Center facade case
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.8185
-- slug: 2026-09-18-photo-shows-trump-aboard-air-force-one-with-kennedy-center-demolished-placard
-  headline: Photo shows Trump aboard Air Force One with 'Kennedy Center DEMOLISHED' placard
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.7558
-- slug: 2026-08-25-doj-filing-threatens-demolition-of-kennedy-center-if-trump-naming-plan-blocked
-  headline: DOJ filing threatens demolition of Kennedy Center if Trump naming plan blocked
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.8
-- slug: 2026-08-27-kennedy-center-board-votes-to-add-trump-name-to-building-s-plaza
-  headline: Kennedy Center board votes to add Trump name to building's plaza
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.7884
-- slug: 2026-08-13-kennedy-center-board-to-weigh-three-renovation-options-after-court-block
-  headline: Kennedy Center board to weigh three renovation options after court block
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.7773
-- slug: 2026-03-26-lawmaker-asks-judge-to-block-trump-name-on-kennedy-center
-  headline: Lawmaker Asks Judge to Block Trump Name on Kennedy Center
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.8314
-- slug: 2026-04-30-groups-urge-judge-to-block-kennedy-center-renovations-by-july-6
-  headline: Groups urge judge to block Kennedy Center renovations by July 6
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.818
-- slug: 2026-03-15-judge-rules-joyce-beatty-can-attend-kennedy-center-board-meeting-not-vote
-  headline: Judge rules Joyce Beatty can attend Kennedy Center board meeting, not vote
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.8169
-- slug: 2026-06-04-kennedy-center-directs-staff-to-remove-trump-s-name-by-june-12
-  headline: Kennedy Center directs staff to remove Trump's name by June 12
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7935
+  strength: 0.7834
 ---
-
 ## Trump administration asks judge to allow Kennedy Center closure
 
 **Subtype:** fact

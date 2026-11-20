@@ -2,8 +2,15 @@
 headline: Appeals court lets McIver’s Delaney Hall case proceed toward trial
 secondary_headline: McIver is the only elected representative facing charges
 publish_date: '2026-11-19'
-lede: The Third Circuit Court of Appeals on Thursday denied an en banc hearing for Rep. LaMonica McIver, leaving the New Jersey representative likely to face trial over a May 2025 confrontation outside the Delaney Hall immigration detention center. McIver is the only elected representative facing charges from the incident; charges against Newark mayor Ras Baraka were dropped.
-nut_graf: The court’s action leaves McIver’s attempts to dismiss the case unsuccessful and the prosecution on a likely path to trial. McIver has argued that the Constitution protects her from prosecution and has described the case as a political attack by the Trump administration.
+lede: The Third Circuit Court of Appeals on Thursday denied an en banc hearing for
+  Rep. LaMonica McIver, leaving the New Jersey representative likely to face trial
+  over a May 2025 confrontation outside the Delaney Hall immigration detention center.
+  McIver is the only elected representative facing charges from the incident; charges
+  against Newark mayor Ras Baraka were dropped.
+nut_graf: The court’s action leaves McIver’s attempts to dismiss the case unsuccessful
+  and the prosecution on a likely path to trial. McIver has argued that the Constitution
+  protects her from prosecution and has described the case as a political attack by
+  the Trump administration.
 primary_entities:
 - LaMonica McIver
 - Third Circuit Court of Appeals
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +154,46 @@ related_stories:
   headline: McIver gives birth, faces Oct. 9 deadline in federal Delaney Hall case
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7962
+  strength: 0.7974
 - slug: 2026-08-27-third-circuit-splits-2-1-lets-two-mciver-counts-reach-trial
   headline: Third Circuit splits 2-1, lets two McIver counts reach trial
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.8512
-- slug: 2026-10-12-partisan-clash-erupts-over-omar-home-search-ahead-of-midterms
-  headline: Partisan clash erupts over Omar home search ahead of midterms
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6245
-- slug: 2026-10-05-nurse-thrown-to-ground-by-ice-outside-delaney-hall-files-federal-tort-claim
-  headline: Nurse thrown to ground by ICE outside Delaney Hall files federal tort claim
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6491
-- slug: 2026-09-22-escobar-says-ice-blocked-oversight-at-camp-east-montana
-  headline: Escobar says ICE blocked oversight at Camp East Montana
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6311
+  strength: 0.8514
 - slug: 2026-09-10-denver-and-advocacy-groups-sue-to-block-ice-officers-at-polling-sites
   headline: Denver and advocacy groups sue to block ICE officers at polling sites
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6489
-- slug: 2026-09-18-civil-rights-groups-and-unions-sue-to-block-federal-agents-from-polling-places
-  headline: Civil rights groups and unions sue to block federal agents from polling places
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6209
-- slug: 2026-09-12-maryland-officials-call-for-investigation-after-frederick-ice-clash
-  headline: Maryland officials call for investigation after Frederick ICE clash
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6239
+  strength: 0.6508
 - slug: 2026-06-01-several-arrested-at-nj-ice-facility-as-protesters-defy-curfew-amid-ongoing-clash
-  headline: Several arrested at NJ ICE facility as protesters defy curfew amid ongoing clashes
+  headline: Several arrested at NJ ICE facility as protesters defy curfew amid ongoing
+    clashes
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.7134
+  strength: 0.7124
 - slug: 2026-06-05-new-jersey-governor-faces-backlash-over-police-response-at-delaney-hall-protests
-  headline: New Jersey governor faces backlash over police response at Delaney Hall protests
+  headline: New Jersey governor faces backlash over police response at Delaney Hall
+    protests
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.676
+  strength: 0.6742
 - slug: 2026-06-06-families-describe-distress-over-inhumane-conditions-at-new-jersey-ice-jail
-  headline: Families describe distress over 'inhumane' conditions at New Jersey ICE jail
+  headline: Families describe distress over 'inhumane' conditions at New Jersey ICE
+    jail
   publish_date: '2026-06-06'
   relation: related
-  strength: 0.6694
+  strength: 0.6686
 - slug: 2026-06-03-police-block-press-from-delaney-hall-protests-arrest-three-journalists
   headline: Police block press from Delaney Hall protests, arrest three journalists
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.6525
+  strength: 0.6517
 - slug: 2026-06-02-newark-ice-detainees-allege-spoiled-food-beatings-as-hunger-strike-continues
   headline: Newark ICE detainees allege spoiled food, beatings as hunger strike continues
   publish_date: '2026-06-02'
   relation: related
-  strength: 0.6512
-- slug: 2026-06-01-newark-mayor-imposes-curfew-around-immigration-detention-center-after-clashes
-  headline: Newark Mayor Imposes Curfew Around Immigration Detention Center After Clashes
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6496
-- slug: 2026-06-06-over-80-arrested-at-newark-immigration-detention-center-protests-in-recent-days
-  headline: Over 80 arrested at Newark immigration detention center protests in recent days
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6469
-- slug: 2026-05-31-family-visitation-partly-restored-at-new-jersey-ice-facility-after-week-of-prote
-  headline: Family visitation partly restored at New Jersey ICE facility after week of protests
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.6488
-- slug: 2026-06-12-nearly-40-women-join-hunger-strike-at-new-jersey-ice-detention-facility
-  headline: Nearly 40 women join hunger strike at New Jersey ICE detention facility
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6394
-- slug: 2026-05-18-judge-refuses-to-block-dhs-policy-on-congressional-ice-visits
-  headline: Judge refuses to block DHS policy on Congressional ICE visits
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6493
-- slug: 2026-05-22-ex-columbia-student-mahmoud-khalil-takes-deportation-fight-to-supreme-court
-  headline: Ex-Columbia student Mahmoud Khalil takes deportation fight to Supreme Court
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6443
-- slug: 2026-05-23-ex-columbia-student-mahmoud-khalil-asks-supreme-court-to-intervene-in-deportatio
-  headline: Ex-Columbia student Mahmoud Khalil asks Supreme Court to intervene in deportation
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6416
+  strength: 0.65
 ---
-
 ## Appeals court lets McIver’s Delaney Hall case proceed toward trial
 
 **Subtype:** fact

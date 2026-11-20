@@ -1,9 +1,17 @@
 ---
-headline: Judge finds Thomas Markle competent to face child sexual abuse material charges
+headline: Judge finds Thomas Markle competent to face child sexual abuse material
+  charges
 secondary_headline: FBI seized about 78 items from two Los Angeles-area storage units
 publish_date: '2026-11-19'
-lede: A Florida judge said Thursday that an expert found Thomas Markle, the estranged father of Meghan, Duchess of Sussex, mentally competent to face charges of keeping child sexual abuse material in storage in California. The 82-year-old remains in custody while his federal case proceeds in Tampa and is set to move to a similar court in Southern California.
-nut_graf: Markle's defense will not contest the competency determination. The case remains in federal court in Tampa and is set to shift to Southern California, while a Philippine prosecutor's office will assess a separate criminal complaint for possible charges.
+lede: A Florida judge said Thursday that an expert found Thomas Markle, the estranged
+  father of Meghan, Duchess of Sussex, mentally competent to face charges of keeping
+  child sexual abuse material in storage in California. The 82-year-old remains in
+  custody while his federal case proceeds in Tampa and is set to move to a similar
+  court in Southern California.
+nut_graf: Markle's defense will not contest the competency determination. The case
+  remains in federal court in Tampa and is set to shift to Southern California, while
+  a Philippine prosecutor's office will assess a separate criminal complaint for possible
+  charges.
 primary_entities:
 - Thomas Markle
 - Meghan, Duchess of Sussex
@@ -39,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +150,41 @@ related_stories:
   headline: Judge schedules Thomas Markle competency hearing
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.9132
+  strength: 0.9129
 - slug: 2026-11-06-thomas-markle-appears-in-court-charged-with-possessing-child-sex-abuse-images
-  headline: Thomas Markle appears in court charged with possessing child sex abuse images
+  headline: Thomas Markle appears in court charged with possessing child sex abuse
+    images
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8811
+  strength: 0.8805
 - slug: 2026-11-10-thomas-markle-cuts-off-ankle-monitor-after-arrest
   headline: Thomas Markle cuts off ankle monitor after arrest
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8469
+  strength: 0.8465
 - slug: 2026-11-06-thomas-markle-father-of-meghan-arrested-in-florida-on-child-pornography-charge
-  headline: Thomas Markle, father of Meghan, arrested in Florida on child pornography charge
+  headline: Thomas Markle, father of Meghan, arrested in Florida on child pornography
+    charge
   publish_date: '2026-11-06'
   relation: related
   strength: 0.8517
 - slug: 2026-11-06-prosecutor-says-agents-seized-about-78-items-in-case-against-meghan-s-father
-  headline: Prosecutor says agents seized about 78 items in case against Meghan's father
+  headline: Prosecutor says agents seized about 78 items in case against Meghan's
+    father
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8491
+  strength: 0.8482
 - slug: 2026-11-06-thomas-markle-arrested-in-florida-on-child-sexual-abuse-material-charges
   headline: Thomas Markle arrested in Florida on child sexual abuse material charges
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8383
+  strength: 0.8382
 - slug: 2026-11-05-jonvic-remulla-names-markle-jr-a-person-of-interest-in-child-abuse-inquiry
   headline: Jonvic Remulla names Markle Jr a person of interest in child abuse inquiry
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7858
-- slug: 2026-11-19-justice-department-reportedly-sends-essayli-to-florida-for-mar-a-lago-inquiry
-  headline: Justice Department reportedly sends Essayli to Florida for Mar-a-Lago inquiry
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.5933
-- slug: 2026-11-10-dhs-cites-safety-guardianship-concerns-vargas-says-8-year-old-haitian-boy-is-una
-  headline: DHS cites safety, guardianship concerns; Vargas says 8-year-old Haitian boy is unaccounted for
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6019
-- slug: 2026-10-31-mod-officials-say-uk-police-wrongly-handed-steele-case-to-us-military-police
-  headline: MoD officials say UK police wrongly handed Steele case to US military police
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.5978
-- slug: 2026-10-27-ice-holds-a-man-it-says-is-jamaican-records-support-his-u-s-citizenship-claim
-  headline: ICE holds a man it says is Jamaican, records support his U.S. citizenship claim
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6071
-- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-and-says-he-just-heard-of-charges
-  headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5965
-- slug: 2026-10-25-spanish-court-turned-over-activist-chambers-s-cellphone-to-the-fbi-lawyer-says
-  headline: Spanish court turned over activist Chambers’s cellphone to the FBI, lawyer says
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.594
-- slug: 2026-10-20-long-beach-mayor-seeks-federal-probe-after-ice-arrest-injures-u-s-citizen
-  headline: Long Beach mayor seeks federal probe after ICE arrest injures U.S. citizen
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6035
-- slug: 2026-09-26-jordan-campbell-leads-doj-probes-of-transgender-care-for-minors
-  headline: Jordan Campbell leads DOJ probes of transgender care for minors
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.607
-- slug: 2026-09-14-us-removed-london-diplomat-accused-of-child-images-without-warning-uk-police
-  headline: US removed London diplomat accused of child images without warning UK police
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6081
-- slug: 2026-09-17-uk-formally-requests-tate-brothers-extradition-from-us
-  headline: UK formally requests Tate brothers' extradition from US
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5964
-- slug: 2026-08-27-federal-judge-weighs-tate-brothers-detention-in-uk-extradition-case
-  headline: Federal judge weighs Tate brothers' detention in UK extradition case
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6175
-- slug: 2026-08-13-miami-detention-hearing-set-for-tate-brothers-in-uk-extradition-case
-  headline: Miami detention hearing set for Tate brothers in UK extradition case
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.623
-- slug: 2026-08-26-judge-sends-ex-marine-s-case-to-mental-health-court-after-golf-course-arrest
-  headline: Judge sends ex-Marine's case to mental health court after golf-course arrest
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5963
+  strength: 0.7852
 ---
-
 ## Judge finds Thomas Markle competent to face child sexual abuse material charges
 
 **Subtype:** fact

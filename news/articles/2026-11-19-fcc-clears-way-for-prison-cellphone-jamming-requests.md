@@ -1,9 +1,20 @@
 ---
 headline: FCC clears way for prison cellphone jamming requests
-secondary_headline: South Carolina awaits Federal Register publication before seeking FCC permission
+secondary_headline: South Carolina awaits Federal Register publication before seeking
+  FCC permission
 publish_date: '2026-11-19'
-lede: At a Federal Communications Commission vote on November 19, commissioners approved a regulatory change allowing state prisons and local jails to seek permission to jam cellphone signals. The vote came a day after South Carolina’s top law enforcement officials called for the regulation to pass, following more than a decade of advocacy by state leaders. Chairman Brendan Carr and Commissioner Olivia Trusty voted for the change, while Commissioner Anna Gomez agreed in part and dissented in part.
-nut_graf: The approval gives correctional agencies a federal route to block cellphone signals after demonstrating that jamming equipment works and does not interfere with communications outside the facilities. South Carolina officials said the state is ready to seek permission and begin a phased rollout, but the Department of Corrections will need more state funding for technology whose blocking function has not yet been tested.
+lede: At a Federal Communications Commission vote on November 19, commissioners approved
+  a regulatory change allowing state prisons and local jails to seek permission to
+  jam cellphone signals. The vote came a day after South Carolina’s top law enforcement
+  officials called for the regulation to pass, following more than a decade of advocacy
+  by state leaders. Chairman Brendan Carr and Commissioner Olivia Trusty voted for
+  the change, while Commissioner Anna Gomez agreed in part and dissented in part.
+nut_graf: The approval gives correctional agencies a federal route to block cellphone
+  signals after demonstrating that jamming equipment works and does not interfere
+  with communications outside the facilities. South Carolina officials said the state
+  is ready to seek permission and begin a phased rollout, but the Department of Corrections
+  will need more state funding for technology whose blocking function has not yet
+  been tested.
 primary_entities:
 - Federal Communications Commission
 - South Carolina
@@ -39,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +153,28 @@ related_stories:
   headline: FCC prepares vote on cellphone jamming in state prisons
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.9104
+  strength: 0.9097
 - slug: 2026-11-19-south-carolina-tested-prison-cellphone-jamming-in-2008-and-2019
   headline: South Carolina tested prison cellphone jamming in 2008 and 2019
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8418
-- slug: 2026-10-27-california-cities-debate-police-drone-rules-amid-privacy-disputes
-  headline: California cities debate police drone rules amid privacy disputes
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6357
-- slug: 2026-10-26-usda-proposes-requiring-chip-enabled-snap-cards-and-tap-to-pay-terminals
-  headline: USDA proposes requiring chip-enabled SNAP cards and tap-to-pay terminals
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5889
+  strength: 0.8412
 - slug: 2026-09-14-inmates-use-contraband-phones-to-run-scams-from-u-s-prisons
   headline: Inmates use contraband phones to run scams from U.S. prisons
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6963
-- slug: 2026-09-25-steube-bill-would-require-federal-warrants-for-flock-camera-data
-  headline: Steube bill would require federal warrants for Flock camera data
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5898
-- slug: 2026-09-23-flock-safety-adds-case-number-requirement-for-license-plate-database-searches
-  headline: Flock Safety adds case-number requirement for license-plate database searches
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.5939
-- slug: 2026-09-16-house-passes-am-radio-mandate-bill-despite-automaker-opposition
-  headline: House passes AM radio mandate bill despite automaker opposition
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5912
-- slug: 2026-09-01-newsom-faces-sept-30-deadline-on-california-shock-glove-ban
-  headline: Newsom faces Sept. 30 deadline on California shock-glove ban
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.589
-- slug: 2026-08-13-california-regulators-approve-charter-s-21-9-billion-cox-deal
-  headline: California regulators approve Charter's $21.9 billion Cox deal
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5993
+  strength: 0.6954
 - slug: 2026-06-04-supreme-court-backs-fcc-in-house-penalty-system-over-wireless-carriers
   headline: Supreme Court backs FCC in-house penalty system over wireless carriers
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6519
-- slug: 2026-08-07-four-house-republicans-seek-south-korea-briefing-on-online-speech-law
-  headline: Four House Republicans seek South Korea briefing on online speech law
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6019
-- slug: 2026-08-13-teens-build-tech-free-alternatives-as-school-phone-bans-spread
-  headline: Teens build tech-free alternatives as school phone bans spread
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5897
+  strength: 0.6518
 - slug: 2026-01-30-mississippi-lawmakers-advance-bills-to-restrict-cellphone-use-in-schools
   headline: Mississippi lawmakers advance bills to restrict cellphone use in schools
   publish_date: '2026-01-30'
   relation: related
-  strength: 0.6541
-- slug: 2026-03-12-san-jose-tightens-rules-on-license-plate-readers-amid-privacy-lawsuit
-  headline: San Jose tightens rules on license plate readers amid privacy lawsuit
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.623
-- slug: 2026-03-10-connecticut-lawmakers-weigh-statewide-bell-to-bell-cellphone-bans-in-schools
-  headline: Connecticut lawmakers weigh statewide bell-to-bell cellphone bans in schools
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6226
-- slug: 2026-04-16-south-carolina-senate-backs-bill-protecting-monuments-blocks-qr-codes
-  headline: South Carolina Senate backs bill protecting monuments, blocks QR codes
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6123
-- slug: 2026-04-22-supreme-court-questions-fcc-process-in-verizon-and-at-t-location-data-case
-  headline: Supreme Court questions FCC process in Verizon and AT&T location-data case
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6059
-- slug: 2026-05-22-congress-urges-telecoms-to-bolster-protections-against-cyberscams
-  headline: Congress urges telecoms to bolster protections against cyberscams
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5966
-- slug: 2026-01-14-california-parole-grant-rate-falls-below-25-as-hearing-opportunities-expand
-  headline: California parole grant rate falls below 25% as hearing opportunities expand
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6137
+  strength: 0.6544
 ---
-
 ## FCC clears way for prison cellphone jamming requests
 
 **Subtype:** fact

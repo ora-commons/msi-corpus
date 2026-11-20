@@ -1,9 +1,19 @@
 ---
 headline: Trump holds a Quad meeting and a trilateral summit on his Asia trip
-secondary_headline: Three-way statement pledges UN reform, increased petroleum supplies and no nuclear wars
+secondary_headline: Three-way statement pledges UN reform, increased petroleum supplies
+  and no nuclear wars
 publish_date: '2026-11-19'
-lede: U.S. President Donald Trump met the leaders of Japan, Australia and India in Manila on Tuesday, then joined Xi Jinping and Vladimir Putin in Shenzhen on Thursday for an unprecedented trilateral summit of three countries long considered rivals. The two gatherings on the same Asia trip contrasted a Quad partnership meant to counter China with a meeting of three countries long considered rivals, and the two joint statements set out markedly different commitments.
-nut_graf: 'The contrast matters because the two meetings presented different versions of U.S. engagement in Asia at a time when the world order is shifting. It showed in the settings as much as in the communiqués: a joking press conference with Cabinet members around the table in Manila, then three leaders alone at a ring-shaped table in a Shenzhen resort.'
+lede: U.S. President Donald Trump met the leaders of Japan, Australia and India in
+  Manila on Tuesday, then joined Xi Jinping and Vladimir Putin in Shenzhen on Thursday
+  for an unprecedented trilateral summit of three countries long considered rivals.
+  The two gatherings on the same Asia trip contrasted a Quad partnership meant to
+  counter China with a meeting of three countries long considered rivals, and the
+  two joint statements set out markedly different commitments.
+nut_graf: 'The contrast matters because the two meetings presented different versions
+  of U.S. engagement in Asia at a time when the world order is shifting. It showed
+  in the settings as much as in the communiqués: a joking press conference with Cabinet
+  members around the table in Manila, then three leaders alone at a ring-shaped table
+  in a Shenzhen resort.'
 primary_entities:
 - Donald Trump
 - Xi Jinping
@@ -49,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +162,43 @@ related_stories:
   headline: Quad leaders plan joint military exercises and broader regional cooperation
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8185
+  strength: 0.8179
 - slug: 2026-11-17-trump-opens-asia-trip-with-thai-trade-statement-and-quad-exercise
   headline: Trump opens Asia trip with Thai trade statement and Quad exercise
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8162
+  strength: 0.8163
 - slug: 2026-11-17-trump-begins-asia-tour-in-manila-with-trade-and-security-agenda
   headline: Trump begins Asia tour in Manila with trade and security agenda
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7953
+  strength: 0.795
 - slug: 2026-11-19-trump-meets-putin-before-trilateral-kremlin-says-ukraine-was-the-focus
   headline: Trump meets Putin before trilateral; Kremlin says Ukraine was the focus
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7598
+  strength: 0.7592
 - slug: 2026-11-18-trump-arrives-in-shenzhen-for-trilateral-talks-amid-u-s-outages
   headline: Trump arrives in Shenzhen for trilateral talks amid U.S. outages
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7481
+  strength: 0.747
 - slug: 2026-11-19-trump-xi-and-putin-end-shenzhen-summit-with-divergent-priorities
   headline: Trump, Xi and Putin end Shenzhen summit with divergent priorities
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7368
+  strength: 0.736
 - slug: 2026-11-18-trump-plans-separate-meeting-with-putin-during-china-visit
   headline: Trump plans separate meeting with Putin during China visit
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7325
+  strength: 0.7319
 - slug: 2026-11-15-albanese-welcomes-trump-xi-putin-summit-as-european-leaders-urge-caution
   headline: Albanese welcomes Trump-Xi-Putin summit as European leaders urge caution
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7523
-- slug: 2026-11-19-trump-xi-and-putin-end-shenzhen-summit-without-ukraine-breakthrough
-  headline: Trump, Xi and Putin end Shenzhen summit without Ukraine breakthrough
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7214
-- slug: 2026-11-17-asean-leaders-work-on-china-non-aggression-pact-trump-may-meet-imelda-marcos
-  headline: ASEAN leaders work on China non-aggression pact; Trump may meet Imelda Marcos
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7321
-- slug: 2026-11-15-trump-turns-to-asia-for-xi-putin-nuclear-talks-after-midterm-losses
-  headline: Trump turns to Asia for Xi-Putin nuclear talks after midterm losses
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7423
-- slug: 2026-11-16-albanese-plans-to-press-trump-on-wars-and-indo-pacific-engagement
-  headline: Albanese plans to press Trump on wars and Indo-Pacific engagement
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.735
-- slug: 2026-11-16-china-confirms-trump-xi-and-putin-will-meet-thursday-in-shenzhen
-  headline: China confirms Trump, Xi and Putin will meet Thursday in Shenzhen
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7335
-- slug: 2026-11-19-trump-xi-and-putin-close-shenzhen-talks-without-nuclear-breakthrough
-  headline: Trump, Xi and Putin close Shenzhen talks without nuclear breakthrough
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7092
-- slug: 2026-11-18-trump-begins-china-visit-before-trilateral-summit-with-xi-and-putin
-  headline: Trump begins China visit before trilateral summit with Xi and Putin
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.713
-- slug: 2026-11-17-u-s-and-foreign-officials-say-trump-may-take-more-risks-after-midterms
-  headline: U.S. and foreign officials say Trump may take more risks after midterms
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7171
-- slug: 2026-11-15-china-hosts-apec-summit-as-trump-xi-and-putin-set-for-three-way-meeting
-  headline: China hosts Apec summit as Trump, Xi and Putin set for three-way meeting
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7274
-- slug: 2026-11-16-china-calls-planned-trump-xi-putin-nuclear-talks-groundbreaking
-  headline: China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7201
-- slug: 2026-11-18-trump-and-putin-s-expected-one-on-one-talks-could-cover-the-war-in-ukraine
-  headline: Trump and Putin's expected one-on-one talks could cover the war in Ukraine
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7005
-- slug: 2026-11-16-edgard-kagan-says-china-resists-trilateral-nuclear-talks
-  headline: Edgard Kagan says China resists trilateral nuclear talks
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7091
+  strength: 0.7512
 ---
-
 ## Trump holds a Quad meeting and a trilateral summit on his Asia trip
 
 **Subtype:** fact

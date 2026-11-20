@@ -1,9 +1,21 @@
 ---
 headline: Desi Rainbow's Queer Diwali Ball raises about $35,000 in Brooklyn
-secondary_headline: Aruna Rao says policy targeting LGBTQ+ rights marked this Diwali season
+secondary_headline: Aruna Rao says policy targeting LGBTQ+ rights marked this Diwali
+  season
 publish_date: '2026-11-19'
-lede: More than 200 people in festive Indian formalwear packed a Brooklyn community center last weekend for the fourth annual Queer Diwali Ball, where the evening featured drag queens and classic Bollywood songs. LGBTQ+ South Asians had a space where they did not have to choose between being themselves and celebrating their faith and culture. The event, hosted by the nonprofit Desi Rainbow, raised about $35,000 for the organization. Desi Rainbow says it has served over 2,000 people across the United States; the nonprofit grew out of a small support group Aruna Rao started after her son came out to her as transgender nearly 10 years ago.
-nut_graf: 'Rao said the festival held a special significance for the LGBTQ+ South Asian community this year, as lawmakers across the country introduced bills targeting same-sex marriage and transgender rights. The annual ball fills a gap Rao described: she searched for support for South Asian families like hers and found almost nothing, and Hindu temples do not always announce that they welcome LGBTQ+ people.'
+lede: More than 200 people in festive Indian formalwear packed a Brooklyn community
+  center last weekend for the fourth annual Queer Diwali Ball, where the evening featured
+  drag queens and classic Bollywood songs. LGBTQ+ South Asians had a space where they
+  did not have to choose between being themselves and celebrating their faith and
+  culture. The event, hosted by the nonprofit Desi Rainbow, raised about $35,000 for
+  the organization. Desi Rainbow says it has served over 2,000 people across the United
+  States; the nonprofit grew out of a small support group Aruna Rao started after
+  her son came out to her as transgender nearly 10 years ago.
+nut_graf: 'Rao said the festival held a special significance for the LGBTQ+ South
+  Asian community this year, as lawmakers across the country introduced bills targeting
+  same-sex marriage and transgender rights. The annual ball fills a gap Rao described:
+  she searched for support for South Asian families like hers and found almost nothing,
+  and Hindu temples do not always announce that they welcome LGBTQ+ people.'
 primary_entities:
 - Desi Rainbow
 - Aruna Rao
@@ -44,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,109 +154,8 @@ cross_article_links:
   strength: 0.5448
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-18-paris-hilton-urges-house-to-pass-defiance-act-over-deepfake-sexual-images
-  headline: Paris Hilton urges House to pass DEFIANCE Act over deepfake sexual images
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.5345
-- slug: 2026-09-07-haitian-contingent-joins-brooklyn-s-west-indian-day-parade-after-tps-loss
-  headline: Haitian contingent joins Brooklyn's West Indian Day Parade after TPS loss
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.5898
-- slug: 2026-09-10-olivia-rodrigo-s-festival-raises-20-million-for-women-and-girls
-  headline: Olivia Rodrigo's festival raises $20 million for women and girls
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5461
-- slug: 2026-08-30-olivia-rodrigo-s-daisy-chain-fields-raises-20-million-for-women
-  headline: Olivia Rodrigo's Daisy Chain Fields raises $20 million for women
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.5642
-- slug: 2026-08-28-rss-chief-bhagwat-s-nyc-event-draws-protests-and-mayoral-denunciation
-  headline: RSS chief Bhagwat's NYC event draws protests and mayoral denunciation
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.5426
-- slug: 2026-08-04-texas-camp-for-queer-trans-youth-draws-from-region-with-no-queer-youth-organizat
-  headline: Texas camp for queer, trans youth draws from region with no queer youth organizations
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.5592
-- slug: 2026-06-15-visitors-say-delaney-hall-dress-code-blocked-toddlers-as-too-provocative
-  headline: Visitors say Delaney Hall dress code blocked toddlers as 'too provocative'
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5585
-- slug: 2026-03-14-gay-muslim-influencer-hosts-inclusive-ramadan-meal-in-berlin-urges-acceptance
-  headline: Gay Muslim influencer hosts inclusive Ramadan meal in Berlin, urges acceptance
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.5821
-- slug: 2026-05-01-king-charles-iii-s-charity-gala-raises-3-million-with-lionel-richie
-  headline: King Charles III’s charity gala raises $3 million with Lionel Richie
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5548
-- slug: 2026-02-18-locals-push-to-keep-trinidad-s-carnival-affordable-as-costs-rise
-  headline: Locals push to keep Trinidad’s carnival affordable as costs rise
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.5646
-- slug: 2026-05-17-thousands-gather-on-national-mall-for-america-themed-prayer-rally
-  headline: Thousands gather on National Mall for America-themed prayer rally
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5468
-- slug: 2026-03-04-paul-simon-and-mary-j-blige-headline-love-rocks-nyc-for-god-s-love-we-deliver
-  headline: Paul Simon and Mary J. Blige headline Love Rocks NYC for God’s Love We Deliver
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5582
-- slug: 2026-02-02-us-rabbis-see-growing-diversity-with-more-women-and-lgbtq-rabbis
-  headline: US rabbis see growing diversity with more women and LGBTQ rabbis
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.5546
-- slug: 2026-04-10-nyc-council-member-and-hochul-aide-rally-against-federal-bribery-probe
-  headline: NYC council member and Hochul aide rally against federal bribery probe
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.5464
-- slug: 2026-04-14-ethiopian-orthodox-christians-in-washington-mark-easter-with-prayer-vigil
-  headline: Ethiopian Orthodox Christians in Washington mark Easter with prayer, vigil
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5439
-- slug: 2026-05-27-new-york-governor-signs-law-criminalizing-blocking-entry-to-houses-of-worship
-  headline: New York governor signs law criminalizing blocking entry to houses of worship
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5285
-- slug: 2026-02-16-cannabis-smoke-and-prayer-mark-shivaratri-at-kathmandu-s-pashupatinath
-  headline: Cannabis smoke and prayer mark Shivaratri at Kathmandu’s Pashupatinath
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.5432
-- slug: 2026-04-26-last-gathering-of-nations-marks-the-end-of-miss-indian-world-pageant
-  headline: Last Gathering of Nations marks the end of Miss Indian World pageant
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5286
-- slug: 2026-02-13-new-york-politicians-raise-rainbow-flag-at-stonewall-rebuking-trump
-  headline: New York politicians raise rainbow flag at Stonewall, rebuking Trump
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5379
-- slug: 2026-03-04-holi-is-a-hindu-festival-celebrating-rebirth-and-the-joy-of-colors
-  headline: Holi is a Hindu festival celebrating rebirth and the joy of colors
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5342
+related_stories: []
 ---
-
 ## Desi Rainbow's Queer Diwali Ball raises about $35,000 in Brooklyn
 
 **Subtype:** fact
