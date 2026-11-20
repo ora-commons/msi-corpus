@@ -66,7 +66,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -252,3 +252,10 @@ With Begich’s House victory settled, the sponsor of the Hafner-supporting text
 **Publication date:** 2026-11-19
 **Title:** Republican Nick Begich wins reelection to Alaska’s lone US House seat
 **URL:** https://apnews.com/article/alaska-us-house-election-begich-hill-82e58b27718efb1df81223a64304c760
+
+### src_late_4923488148fb3393 — Associated Press, wire, Tier 1, originating
+**Author:** Becky Bohrer, Associated Press
+**Publication date:** 2026-11-19
+**Title:** Republican Rep. Nick Begich wins reelection for Alaska House seat
+**URL:** https://www.pbs.org/newshour/politics/republican-rep-nick-begich-wins-reelection-for-alaska-house-seat
+**Added after publication:** true
