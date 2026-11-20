@@ -210,6 +210,8 @@ related_stories:
   publish_date: '2026-11-16'
   relation: related
   strength: 0.7557
+analyses:
+- '2026-11-18-faa-review-exposes-split-control-in-nationwide-air-traffic-infrastructure'
 ---
 ## After nationwide flight ground stop, FAA reviews daytime router work it approved
 
@@ -259,3 +261,8 @@ A group of Democratic senators, including Senate Commerce Committee ranking memb
 **Publication date:** 2026-11-18
 **Title:** FAA Pauses Router Installations After Nationwide Ground Stop
 **URL:** https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424
+
+---
+
+<!-- analysis-link:2026-11-18-faa-review-exposes-split-control-in-nationwide-air-traffic-infrastructure -->
+**Going deeper:** [Read MSI's analysis of FAA router deployment and network coupling →](/analyses/2026-11-18-faa-review-exposes-split-control-in-nationwide-air-traffic-infrastructure)

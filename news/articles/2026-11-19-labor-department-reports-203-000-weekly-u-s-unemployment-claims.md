@@ -2,8 +2,14 @@
 headline: Labor Department reports 203,000 weekly U.S. unemployment claims
 secondary_headline: Hiring remains sluggish despite stronger October job growth
 publish_date: '2026-11-19'
-lede: The U.S. Department of Labor said Thursday that initial unemployment claims rose to 203,000 last week from a revised 202,000. The four-week average increased 2,000 to 197,750, while layoffs remained historically low and hiring stayed sluggish.
-nut_graf: Economists watch initial claims as a proxy for layoffs and as a signal of where the job market may be headed. The latest report showed low layoffs and weak hiring even as job creation improved, consumer spending stayed resilient and economic growth strengthened. Economists also continued to assess whether artificial intelligence could displace workers.
+lede: The U.S. Department of Labor said Thursday that initial unemployment claims
+  rose to 203,000 last week from a revised 202,000. The four-week average increased
+  2,000 to 197,750, while layoffs remained historically low and hiring stayed sluggish.
+nut_graf: Economists watch initial claims as a proxy for layoffs and as a signal of
+  where the job market may be headed. The latest report showed low layoffs and weak
+  hiring even as job creation improved, consumer spending stayed resilient and economic
+  growth strengthened. Economists also continued to assess whether artificial intelligence
+  could displace workers.
 primary_entities:
 - U.S. Department of Labor
 - Federal Reserve Bank of Atlanta
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,12 +64,16 @@ figures:
   series_id: ICSA
   transformation: raw
   as_of: '2026-11-19'
-  caption: FRED's raw ICSA series records 200,000 initial jobless claims for its Nov. 19, 2026 vintage, compared with the Labor Department's 203,000 weekly report. The supplied data do not explain the difference between the figures.
+  caption: FRED's raw ICSA series records 200,000 initial jobless claims for its Nov.
+    19, 2026 vintage, compared with the Labor Department's 203,000 weekly report.
+    The supplied data do not explain the difference between the figures.
 - source: fred
   series_id: UNRATE
   transformation: raw
   as_of: '2026-11-19'
-  caption: FRED's raw UNRATE series shows the official unemployment rate at 4.1% as of Nov. 19, 2026. The Labor Department data cited in the article also place October's rate at 4.1%, down from 4.2%.
+  caption: FRED's raw UNRATE series shows the official unemployment rate at 4.1% as
+    of Nov. 19, 2026. The Labor Department data cited in the article also place October's
+    rate at 4.1%, down from 4.2%.
 figures_aggregate:
   count: 2
   series_ids:
@@ -154,34 +165,38 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-19-labor-department-reports-203-000-weekly-u-s-unemployment-claims.png
-  alt: 'Illustration accompanying article: Labor Department reports 203,000 weekly U.S. unemployment claims'
+  alt: 'Illustration accompanying article: Labor Department reports 203,000 weekly
+    U.S. unemployment claims'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-12-us-jobless-claims-rise-to-200-000-as-layoffs-stay-rare
   headline: US jobless claims rise to 200,000 as layoffs stay rare
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8754
+  strength: 0.8737
 - slug: 2026-11-05-jobless-claims-fall-to-189-000-fewest-since-mid-july
   headline: Jobless claims fall to 189,000, fewest since mid-July
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8735
+  strength: 0.8721
 - slug: 2026-10-29-u-s-jobless-claims-fall-to-194-000-lowest-since-mid-july
   headline: U.S. jobless claims fall to 194,000, lowest since mid-July
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.8561
+  strength: 0.8545
 - slug: 2026-10-22-u-s-initial-jobless-claims-fall-to-about-194-000
   headline: U.S. initial jobless claims fall to about 194,000
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8428
+  strength: 0.8424
 - slug: 2026-09-03-weekly-jobless-claims-rise-to-206-000-as-layoffs-stay-near-historic-lows
   headline: Weekly jobless claims rise to 206,000 as layoffs stay near historic lows
   publish_date: '2026-09-03'
@@ -191,79 +206,18 @@ related_stories:
   headline: U.S. weekly jobless claims rise to 209,000, above forecasts
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.8871
+  strength: 0.8863
 - slug: 2026-08-27-u-s-weekly-unemployment-claims-fall-by-4-000
   headline: U.S. weekly unemployment claims fall by 4,000
   publish_date: '2026-08-27'
   relation: related
-  strength: 0.8421
+  strength: 0.8398
 - slug: 2026-08-20-weekly-unemployment-filings-decline-to-206-000-near-historic-lows
   headline: Weekly unemployment filings decline to 206,000, near historic lows
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.8291
-- slug: 2026-03-27-jobless-claims-tick-up-to-210-000-as-employers-keep-hiring-low
-  headline: Jobless claims tick up to 210,000 as employers keep hiring low
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.8894
-- slug: 2026-02-25-slight-uptick-in-us-jobless-claims-to-212-000-as-layoffs-stay-healthy
-  headline: Slight uptick in US jobless claims to 212,000 as layoffs stay healthy
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.8769
-- slug: 2026-03-11-us-jobless-claims-edge-down-to-213-000-as-layoffs-stay-low
-  headline: US jobless claims edge down to 213,000 as layoffs stay low
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.8681
-- slug: 2026-03-05-jobless-claims-held-at-213-000-but-continuing-filings-rise-to-1-87-million
-  headline: Jobless claims held at 213,000, but continuing filings rise to 1.87 million
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.868
-- slug: 2026-01-21-us-jobless-claims-rise-slightly-while-layoffs-stay-historically-low
-  headline: US jobless claims rise slightly while layoffs stay historically low
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.8685
-- slug: 2026-01-15-jobless-claims-fall-to-198-000-beating-forecasts-as-low-hire-trend-holds
-  headline: Jobless claims fall to 198,000, beating forecasts as low-hire trend holds
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.864
-- slug: 2026-02-19-us-jobless-claims-fall-to-206-000-as-layoffs-remain-historically-low
-  headline: US jobless claims fall to 206,000 as layoffs remain historically low
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.8613
-- slug: 2026-02-26-slight-uptick-in-us-jobless-claims-layoffs-stay-relatively-healthy
-  headline: Slight uptick in US jobless claims; layoffs stay relatively healthy
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.8607
-- slug: 2026-02-20-us-jobless-claims-drop-to-206-000-as-layoffs-stay-historically-low
-  headline: US jobless claims drop to 206,000 as layoffs stay historically low
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.8608
-- slug: 2026-02-13-jobless-claims-dip-again-keeping-us-layoffs-in-a-healthy-range
-  headline: Jobless claims dip again, keeping US layoffs in a healthy range
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.8588
-- slug: 2026-01-08-weekly-jobless-claims-rise-to-208-000-as-labor-market-momentum-slows
-  headline: Weekly jobless claims rise to 208,000 as labor market momentum slows
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.8596
-- slug: 2026-01-29-jobless-claims-tick-down-to-209-000-as-layoffs-stay-low
-  headline: Jobless claims tick down to 209,000 as layoffs stay low
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.8583
+  strength: 0.8276
 ---
-
 ## Labor Department reports 203,000 weekly U.S. unemployment claims
 
 **Subtype:** fact

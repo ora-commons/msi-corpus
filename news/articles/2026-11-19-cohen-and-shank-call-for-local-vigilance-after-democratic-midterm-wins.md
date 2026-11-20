@@ -1,9 +1,19 @@
 ---
 headline: Cohen and Shank call for local vigilance after Democratic midterm wins
-secondary_headline: Authors say White House mapped out two years of governing without Congress
+secondary_headline: Authors say White House mapped out two years of governing without
+  Congress
 publish_date: '2026-11-19'
-lede: Congressman Steve Cohen and Michael Shank said in a Guardian opinion column published on November 19 that the Democratic gains in the midterms did not end the contest over American institutions. The authors urged state and local officials to prepare emergency-management plans and protocols ahead of the new Congress's January swearing-in, and they said the White House had mapped out two years of governing without Congress.
-nut_graf: Cohen and Shank say the stability of the democratic transition now depends on state and local capacity as much as on the incoming Congress's willingness to assert itself. Their account rests on emergency protocols for local leaders, congressional oversight of the White House, and volunteer networks that formed during the election period, drawing on the report The American Crisis.
+lede: Congressman Steve Cohen and Michael Shank said in a Guardian opinion column
+  published on November 19 that the Democratic gains in the midterms did not end the
+  contest over American institutions. The authors urged state and local officials
+  to prepare emergency-management plans and protocols ahead of the new Congress's
+  January swearing-in, and they said the White House had mapped out two years of governing
+  without Congress.
+nut_graf: Cohen and Shank say the stability of the democratic transition now depends
+  on state and local capacity as much as on the incoming Congress's willingness to
+  assert itself. Their account rests on emergency protocols for local leaders, congressional
+  oversight of the White House, and volunteer networks that formed during the election
+  period, drawing on the report The American Crisis.
 primary_entities:
 - Steve Cohen
 - Michael Shank
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,99 +163,40 @@ related_stories:
   headline: State and local officials help 2026 midterms proceed without major incidents
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6879
+  strength: 0.687
 - slug: 2026-11-13-organizers-plan-post-election-pressure-campaign-on-new-democratic-majorities
   headline: Organizers plan post-election pressure campaign on new Democratic majorities
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.692
+  strength: 0.6918
 - slug: 2026-11-04-historic-firsts-and-party-tests-follow-democratic-midterm-victories
   headline: Historic firsts and party tests follow Democratic midterm victories
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7232
+  strength: 0.7233
 - slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
+  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief
+    of staff
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6956
+  strength: 0.6969
 - slug: 2026-11-10-martin-and-warnock-frame-a-southern-delivery-test-for-democrats
   headline: Martin and Warnock frame a Southern delivery test for Democrats
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6811
+  strength: 0.6813
 - slug: 2026-11-05-tight-midterm-races-remain-uncalled-as-democrats-take-control-of-congress
   headline: Tight midterm races remain uncalled as Democrats take control of Congress
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.682
+  strength: 0.6818
 - slug: 2026-11-05-schumer-expects-re-election-as-senate-democrats-leader-after-midterm-wins
-  headline: Schumer expects re-election as Senate Democrats' leader after midterm wins
+  headline: Schumer expects re-election as Senate Democrats' leader after midterm
+    wins
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6807
-- slug: 2026-11-05-trump-accepts-midterm-results-after-election-system-withstands-threats
-  headline: Trump accepts midterm results after election system withstands threats
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6805
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6829
-- slug: 2026-11-04-scott-colom-leads-tight-mississippi-senate-race-alaska-uncalled
-  headline: Scott Colom leads tight Mississippi Senate race; Alaska uncalled
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6815
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6785
-- slug: 2026-11-04-readers-urge-democrats-to-turn-midterm-gains-into-substantive-change
-  headline: Readers urge Democrats to turn midterm gains into substantive change
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6783
-- slug: 2026-11-04-democrats-poised-for-house-control-as-midterm-election-results-begin
-  headline: Democrats poised for House control as midterm election results begin
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6783
-- slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
-  headline: A Democratic Congress would bring broader business oversight
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6807
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6764
-- slug: 2026-11-03-midterm-candidates-vie-for-historic-firsts-in-governor-and-senate-races
-  headline: Midterm candidates vie for historic firsts in governor and Senate races
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6754
-- slug: 2026-11-01-the-guardian-warns-of-election-interference-ahead-of-us-midterms
-  headline: The Guardian warns of election interference ahead of US midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6796
-- slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
-  headline: Democrats lead polls as Trump enters midterms with 32% approval
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.674
-- slug: 2026-10-27-congressional-democrats-prepare-legal-filings-before-midterm-voting
-  headline: Congressional Democrats prepare legal filings before midterm voting
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6872
+  strength: 0.6806
 ---
-
 ## Cohen and Shank call for local vigilance after Democratic midterm wins
 
 **Subtype:** fact

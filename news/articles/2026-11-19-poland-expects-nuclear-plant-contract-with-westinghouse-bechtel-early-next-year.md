@@ -1,9 +1,18 @@
 ---
-headline: Poland expects nuclear plant contract with Westinghouse-Bechtel early next year
+headline: Poland expects nuclear plant contract with Westinghouse-Bechtel early next
+  year
 secondary_headline: Three AP1000 reactors would provide around 10% of Poland's electricity
 publish_date: '2026-11-19'
-lede: Poland expects to sign an engineering, procurement and construction contract with Westinghouse Electric and Bechtel Group Inc. for its first nuclear power plant early next year. Marek Woszczyk, president of state-owned Polskie Elektrownie Jadrowe's management board, said a signing by the end of the first quarter of next year looks most likely for the roughly $50 billion project.
-nut_graf: Poland's planned nuclear plant is part of an effort to strengthen energy security after the 2022 invasion of Ukraine disrupted regional energy supplies. Woszczyk said the reactors would provide around 10% of Poland's electricity under current forecasts, while renewable energy and natural gas would supplement nuclear generation as coal plants are phased out.
+lede: Poland expects to sign an engineering, procurement and construction contract
+  with Westinghouse Electric and Bechtel Group Inc. for its first nuclear power plant
+  early next year. Marek Woszczyk, president of state-owned Polskie Elektrownie Jadrowe's
+  management board, said a signing by the end of the first quarter of next year looks
+  most likely for the roughly $50 billion project.
+nut_graf: Poland's planned nuclear plant is part of an effort to strengthen energy
+  security after the 2022 invasion of Ukraine disrupted regional energy supplies.
+  Woszczyk said the reactors would provide around 10% of Poland's electricity under
+  current forecasts, while renewable energy and natural gas would supplement nuclear
+  generation as coal plants are phased out.
 primary_entities:
 - Poland
 - Polskie Elektrownie Jadrowe
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +150,25 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-19-poland-expects-nuclear-plant-contract-with-westinghouse-bechtel-early-next-year.png
-  alt: 'Illustration accompanying article: Poland expects nuclear plant contract with Westinghouse-Bechtel early next year'
+  alt: 'Illustration accompanying article: Poland expects nuclear plant contract with
+    Westinghouse-Bechtel early next year'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-11-18-wright-tells-western-europe-to-stop-closing-power-plants-and-expand-production
-  headline: Wright tells Western Europe to stop closing power plants and expand production
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6324
-- slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
-  headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5923
-- slug: 2026-11-02-united-states-links-russian-gas-plan-via-ukraine-to-energy-ceasefire
-  headline: United States links Russian gas plan via Ukraine to energy ceasefire
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5856
-- slug: 2026-10-24-former-polar-lng-executives-say-they-quit-over-novatek-funding
-  headline: Former Polar LNG executives say they quit over Novatek funding
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5806
-- slug: 2026-10-06-google-constellation-agree-to-20-year-nuclear-power-deal
-  headline: Google, Constellation agree to 20-year nuclear power deal
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6085
-- slug: 2026-10-11-trump-claims-russia-ukraine-energy-ceasefire-as-kyiv-awaits-details
-  headline: Trump claims Russia-Ukraine 'energy ceasefire' as Kyiv awaits details
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5895
-- slug: 2026-10-12-zelenskyy-reports-russian-strikes-on-energy-sites-despite-ceasefire-claim
-  headline: Zelenskyy reports Russian strikes on energy sites despite ceasefire claim
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5813
-- slug: 2026-09-27-poland-more-than-doubles-defense-spending-to-4-8-of-gdp-since-2022-invasion
-  headline: Poland more than doubles defense spending to 4.8% of GDP since 2022 invasion
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6254
-- slug: 2026-09-10-south-korea-nears-u-s-energy-deal-potentially-worth-more-than-100-billion
-  headline: South Korea nears U.S. energy deal potentially worth more than $100 billion
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6269
-- slug: 2026-08-31-westinghouse-confidentially-files-for-ipo-amid-us-backed-nuclear-revival
-  headline: Westinghouse confidentially files for IPO amid US-backed nuclear revival
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.624
-- slug: 2026-09-15-russia-and-ukraine-exchange-strikes-hours-after-trump-claims-energy-truce
-  headline: Russia and Ukraine exchange strikes hours after Trump claims energy truce
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5805
-- slug: 2026-07-28-western-powers-launch-at-least-24-projects-to-reshore-explosives-production
-  headline: Western powers launch at least 24 projects to reshore explosives production
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6284
 - slug: 2026-06-23-u-s-offers-17-5-billion-in-low-interest-loans-to-revive-nuclear-reactor-construc
-  headline: U.S. Offers $17.5 Billion in Low-Interest Loans to Revive Nuclear Reactor Construction
+  headline: U.S. Offers $17.5 Billion in Low-Interest Loans to Revive Nuclear Reactor
+    Construction
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6534
-- slug: 2026-08-18-oklo-begins-site-work-at-idaho-lab-as-22-small-reactor-projects-advance
-  headline: Oklo begins site work at Idaho lab as 22 small reactor projects advance
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5884
-- slug: 2026-05-18-poland-withdraws-from-antipersonnel-mine-ban-to-defend-against-russia
-  headline: Poland withdraws from antipersonnel mine ban to defend against Russia
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6334
-- slug: 2026-07-23-port-of-long-beach-signs-agreement-to-explore-on-site-nuclear-power
-  headline: Port of Long Beach signs agreement to explore on-site nuclear power
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5812
-- slug: 2026-06-09-nuclear-power-sees-revival-as-ai-demand-public-support-rise
-  headline: Nuclear power sees revival as AI demand, public support rise
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6072
-- slug: 2026-04-09-poland-s-clean-air-program-shows-smog-gains-stall-amid-energy-worries
-  headline: Poland’s Clean Air program shows smog gains stall amid energy worries
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6142
-- slug: 2026-03-05-nrc-approves-first-non-light-water-reactor-permit-in-40-years-for-gates-backed-w
-  headline: NRC approves first non-light-water reactor permit in 40 years for Gates-backed Wyoming plant
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6143
-- slug: 2026-05-18-hungary-blocks-eu-sanctions-on-russia-over-oil-deliveries
-  headline: Hungary blocks EU sanctions on Russia over oil deliveries
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5883
+  strength: 0.6533
 ---
-
 ## Poland expects nuclear plant contract with Westinghouse-Bechtel early next year
 
 **Subtype:** fact
