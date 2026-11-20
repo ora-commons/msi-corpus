@@ -1,20 +1,9 @@
 ---
 headline: Pew projects sub-Saharan Muslims will outgrow Christians by 2070
-secondary_headline: Buddhist populations in China, Japan and South Korea are projected
-  to halve
+secondary_headline: Buddhist populations in China, Japan and South Korea are projected to halve
 publish_date: '2026-11-19'
-lede: A Pew Research Center report released Nov. 19, 2026, projects that sub-Saharan
-  Africa will contain more than a quarter of the global population by 2070, with its
-  Muslim population growing faster than its Christian population. The report also
-  projects Buddhist populations in China, Japan and South Korea will shrink by half
-  and that 62% of the world's Jews will live in Israel by 2070, up from 46% in 2020.
-  Pew further projects the global religiously unaffiliated population will decline
-  even as unaffiliated shares rise in many countries. It also projects that U.S. Muslims
-  and Hindus will each outnumber U.S. Jews by 2070 if current demographic trends continue.
-nut_graf: Pew's projections show how population growth, fertility differences and
-  religious switching could reshape religious demographics in the United States and
-  worldwide. The projections are conditional on recent demographic trends continuing
-  and include a projected U.S. loss of a Christian majority by 2070.
+lede: A Pew Research Center report released Nov. 19, 2026, projects that sub-Saharan Africa will contain more than a quarter of the global population by 2070, with its Muslim population growing faster than its Christian population. The report also projects Buddhist populations in China, Japan and South Korea will shrink by half and that 62% of the world's Jews will live in Israel by 2070, up from 46% in 2020. Pew further projects the global religiously unaffiliated population will decline even as unaffiliated shares rise in many countries. It also projects that U.S. Muslims and Hindus will each outnumber U.S. Jews by 2070 if current demographic trends continue.
+nut_graf: Pew's projections show how population growth, fertility differences and religious switching could reshape religious demographics in the United States and worldwide. The projections are conditional on recent demographic trends continuing and include a projected U.S. loss of a Christian majority by 2070.
 primary_entities:
 - Pew Research Center
 - Alan Cooperman
@@ -58,8 +47,7 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent
-  from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,17 +146,105 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-18-pew-research-center-projects-muslims-will-outnumber-christians-worldwide-by-2035
-  headline: Pew Research Center projects Muslims will outnumber Christians worldwide
-    by 2035
+  headline: Pew Research Center projects Muslims will outnumber Christians worldwide by 2035
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8822
+  strength: 0.883
 - slug: 2026-11-18-cooperman-says-christianity-s-shift-is-probably-pew-s-most-significant-change
-  headline: Cooperman says Christianity's shift is probably Pew's most significant
-    change
+  headline: Cooperman says Christianity's shift is probably Pew's most significant change
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7899
+  strength: 0.7912
+- slug: 2026-11-19-unfpa-finds-one-in-four-women-cannot-refuse-sex-within-marriage
+  headline: UNFPA finds one in four women cannot refuse sex within marriage
+  publish_date: '2026-11-19'
+  relation: related
+  strength: 0.5916
+- slug: 2026-11-17-arab-citizens-gain-coalition-leverage-after-israel-s-election
+  headline: Arab citizens gain coalition leverage after Israel’s election
+  publish_date: '2026-11-17'
+  relation: related
+  strength: 0.5793
+- slug: 2026-11-10-global-carbon-project-projects-0-4-drop-in-global-fossil-fuel-emissions
+  headline: Global Carbon Project projects 0.4% drop in global fossil-fuel emissions
+  publish_date: '2026-11-10'
+  relation: related
+  strength: 0.5828
+- slug: 2026-10-29-imf-cuts-latin-america-growth-forecast-to-2-3-for-2026
+  headline: IMF cuts Latin America growth forecast to 2.3% for 2026
+  publish_date: '2026-10-29'
+  relation: related
+  strength: 0.5773
+- slug: 2026-10-14-pew-finds-more-americans-now-call-for-full-rebuild-of-economic-system
+  headline: Pew finds more Americans now call for full rebuild of economic system
+  publish_date: '2026-10-14'
+  relation: related
+  strength: 0.5938
+- slug: 2026-10-13-demographer-says-china-overstates-population-by-up-to-130-million
+  headline: Demographer says China overstates population by up to 130 million
+  publish_date: '2026-10-13'
+  relation: related
+  strength: 0.5937
+- slug: 2026-09-18-pew-finds-majority-in-34-of-37-countries-expect-ai-to-reduce-jobs
+  headline: Pew finds majority in 34 of 37 countries expect AI to reduce jobs
+  publish_date: '2026-09-18'
+  relation: related
+  strength: 0.5767
+- slug: 2026-09-09-trump-officials-propose-major-2030-census-overhaul-excluding-noncitizens
+  headline: Trump officials propose major 2030 census overhaul excluding noncitizens
+  publish_date: '2026-09-09'
+  relation: related
+  strength: 0.583
+- slug: 2026-09-01-latin-american-marriage-and-birth-rates-decline-official-data-show
+  headline: Latin American marriage and birth rates decline, official data show
+  publish_date: '2026-09-01'
+  relation: related
+  strength: 0.5938
+- slug: 2026-08-21-who-estimates-nearly-11-million-measles-cases-globally-in-2026
+  headline: WHO estimates nearly 11 million measles cases globally in 2026
+  publish_date: '2026-08-21'
+  relation: related
+  strength: 0.594
+- slug: 2026-08-20-wiche-projects-13-decline-in-u-s-college-enrollments-by-2041
+  headline: WICHE projects 13% decline in U.S. college enrollments by 2041
+  publish_date: '2026-08-20'
+  relation: related
+  strength: 0.591
+- slug: 2026-08-02-china-records-7-92-million-births-in-2025-roughly-half-of-expected-graduates
+  headline: China records 7.92 million births in 2025, roughly half of expected graduates
+  publish_date: '2026-08-02'
+  relation: related
+  strength: 0.6058
+- slug: 2026-07-15-global-favorability-shifts-from-us-to-china-pew-survey-finds
+  headline: Global favorability shifts from US to China, Pew survey finds
+  publish_date: '2026-07-15'
+  relation: related
+  strength: 0.6083
+- slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
+  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
+  publish_date: '2026-07-13'
+  relation: related
+  strength: 0.6043
+- slug: 2026-08-08-africa-s-largest-economies-accelerate-domestic-solar-manufacturing-plans
+  headline: Africa's largest economies accelerate domestic solar manufacturing plans
+  publish_date: '2026-08-08'
+  relation: related
+  strength: 0.5729
+- slug: 2026-01-07-trump-immigration-policies-lower-fertility-to-slow-us-population-growth-cbo-says
+  headline: Trump immigration policies, lower fertility to slow US population growth, CBO says
+  publish_date: '2026-01-07'
+  relation: related
+  strength: 0.6314
+- slug: 2026-04-16-young-men-s-religiosity-surges-widening-gender-gap
+  headline: Young men's religiosity surges, widening gender gap
+  publish_date: '2026-04-16'
+  relation: related
+  strength: 0.6104
+- slug: 2026-06-03-gallup-u-s-support-for-same-sex-marriage-lgbtq-acceptance-falls-from-recent-high
+  headline: 'Gallup: U.S. support for same-sex marriage, LGBTQ acceptance falls from recent highs'
+  publish_date: '2026-06-03'
+  relation: related
+  strength: 0.5731
 ---
 ## Pew projects sub-Saharan Muslims will outgrow Christians by 2070
 
