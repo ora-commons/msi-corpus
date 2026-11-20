@@ -1,9 +1,25 @@
 ---
 headline: Senate moves toward vote on energy bill with data-center cost rules
-secondary_headline: Lawmakers dispute environmental safeguards and judicial review limits
+secondary_headline: Lawmakers dispute environmental safeguards and judicial review
+  limits
 publish_date: '2026-11-20'
-lede: The Senate is expected to vote as soon as Thursday on the Bipartisan American Affordability and Jobs Act of 2026, but the final vote was held up this week as Oregon Democratic Sens. Jeff Merkley and Ron Wyden pressed for amendments, including a proposal to ban data centers on public lands. The bill would speed permitting for power plants, transmission lines and other energy infrastructure, require data centers that propel artificial intelligence to pay for the energy they use, and overhaul environmental laws to make energy infrastructure easier to build. Democrats and environmental groups criticized the measure over limits on judicial review and changes to the National Environmental Policy Act, Clean Water Act and Endangered Species Act.
-nut_graf: The measure could determine how quickly major energy projects reach construction, whether data centers that propel artificial intelligence pay for the energy they use, and how federal environmental and judicial safeguards apply to project approvals. Merkley and Wyden sought a public-land data-center amendment, while Democratic Sen. Maria Cantwell called for a formal process to debate and amend the bill; environmental organizations opposed the measure over limits on judicial review and changes to the National Environmental Policy Act and other environmental laws.
+lede: The Senate is expected to vote as soon as Thursday on the Bipartisan American
+  Affordability and Jobs Act of 2026, but the final vote was held up this week as
+  Oregon Democratic Sens. Jeff Merkley and Ron Wyden pressed for amendments, including
+  a proposal to ban data centers on public lands. The bill would speed permitting
+  for power plants, transmission lines and other energy infrastructure, require data
+  centers that propel artificial intelligence to pay for the energy they use, and
+  overhaul environmental laws to make energy infrastructure easier to build. Democrats
+  and environmental groups criticized the measure over limits on judicial review and
+  changes to the National Environmental Policy Act, Clean Water Act and Endangered
+  Species Act.
+nut_graf: The measure could determine how quickly major energy projects reach construction,
+  whether data centers that propel artificial intelligence pay for the energy they
+  use, and how federal environmental and judicial safeguards apply to project approvals.
+  Merkley and Wyden sought a public-land data-center amendment, while Democratic Sen.
+  Maria Cantwell called for a formal process to debate and amend the bill; environmental
+  organizations opposed the measure over limits on judicial review and changes to
+  the National Environmental Policy Act and other environmental laws.
 primary_entities:
 - Senate
 - Bipartisan American Affordability and Jobs Act of 2026
@@ -58,7 +74,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -161,112 +178,55 @@ related_stories:
   publish_date: '2026-11-09'
   relation: related
   strength: 0.8357
-- slug: 2026-11-17-senate-advances-permitting-reform-amendment-toward-final-vote
-  headline: Senate advances permitting reform amendment toward final vote
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7765
 - slug: 2026-11-17-tribal-leaders-challenge-senate-permitting-bill-over-public-land-protections
   headline: Tribal leaders challenge Senate permitting bill over public-land protections
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7758
+  strength: 0.7763
+- slug: 2026-11-17-senate-advances-permitting-reform-amendment-toward-final-vote
+  headline: Senate advances permitting reform amendment toward final vote
+  publish_date: '2026-11-17'
+  relation: related
+  strength: 0.7762
 - slug: 2026-11-17-house-democrats-seek-national-moratorium-on-new-ai-data-centers
   headline: House Democrats seek national moratorium on new AI data centers
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7465
+  strength: 0.7477
 - slug: 2026-11-05-senate-nears-vote-on-bipartisan-energy-permitting-overhaul
   headline: Senate nears vote on bipartisan energy permitting overhaul
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8103
+  strength: 0.8092
 - slug: 2026-11-17-south-dakota-republicans-split-over-federal-permitting-bill
   headline: South Dakota Republicans split over federal permitting bill
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7313
+  strength: 0.7311
 - slug: 2026-11-10-senate-takes-up-infrastructure-permitting-overhaul
   headline: Senate takes up infrastructure permitting overhaul
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7653
+  strength: 0.7655
 - slug: 2026-11-17-democrats-move-to-restrict-data-centers-on-federal-land
   headline: Democrats move to restrict data centers on federal land
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7073
-- slug: 2026-11-16-al-gore-urges-lawmakers-to-rethink-baaja-permitting-bill
-  headline: Al Gore urges lawmakers to rethink Baaja permitting bill
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6872
-- slug: 2026-11-13-senate-advances-permitting-overhaul-to-speed-federal-project-approvals
-  headline: Senate advances permitting overhaul to speed federal project approvals
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7004
-- slug: 2026-11-09-permitting-deal-could-ease-energy-prices-through-added-supply
-  headline: Permitting deal could ease energy prices through added supply
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.704
-- slug: 2026-11-08-some-democrats-promise-more-clean-energy-major-energy-or-climate-changes-need-re
-  headline: Some Democrats promise more clean energy; major energy or climate changes need Republican votes
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6944
-- slug: 2026-11-02-electricity-bills-enter-2026-midterm-campaigns
-  headline: Electricity bills enter 2026 midterm campaigns
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7239
-- slug: 2026-11-05-democrats-link-climate-policy-to-affordability-in-2026-midterm-wins
-  headline: Democrats link climate policy to affordability in 2026 midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6846
-- slug: 2026-10-26-candidates-in-four-states-seek-tighter-data-center-approval-rules
-  headline: Candidates in four states seek tighter data-center approval rules
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7199
-- slug: 2026-09-30-bipartisan-senators-introduce-bill-to-speed-federal-energy-permitting
-  headline: Bipartisan senators introduce bill to speed federal energy permitting
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7851
-- slug: 2026-10-20-former-trump-biden-and-obama-officials-push-permitting-reform
-  headline: Former Trump, Biden and Obama officials push permitting reform
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6934
-- slug: 2026-09-30-senate-democrats-block-ratepayer-protection-act-on-datacenter-costs
-  headline: Senate Democrats block Ratepayer Protection Act on datacenter costs
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.709
-- slug: 2026-09-30-gop-s-last-ditch-affordability-push-falls-short-as-polls-signal-chamber-jeopardy
-  headline: GOP's last-ditch affordability push falls short as polls signal chamber jeopardy
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6905
-- slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6905
+  strength: 0.7094
 image:
   url: /articles/2026-11-20-senate-moves-toward-vote-on-energy-bill-with-data-center-cost-rules.png
-  alt: "Illustration accompanying article: Senate moves toward vote on energy bill with data-center cost rules"
+  alt: 'Illustration accompanying article: Senate moves toward vote on energy bill
+    with data-center cost rules'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Senate moves toward vote on energy bill with data-center cost rules
 
 **Subtype:** fact
