@@ -2,8 +2,19 @@
 headline: California coastal communities face warnings as waves exceed 30 feet
 secondary_headline: A 34.1-foot Monterey buoy reading could set a 30-year high
 publish_date: '2026-11-20'
-lede: California coastal communities were covered by multiple hazard warnings this week as successive areas of low pressure generated powerful swells and large breaking waves. Beaches and piers closed last weekend as large waves crashed into California's coastline; offshore National Oceanic and Atmospheric Administration buoys recorded wave heights greater than 30 feet, or 9 metres, last Friday. A Monterey buoy registered 34.1 feet, a reading that would make it the highest there in 30 years, while alerts were due to remain in place until Friday night.
-nut_graf: The coastal warnings came as Pacific storm systems were bringing unsettled conditions, including heavy rain, mountain snow and strong winds, across the western US through the coming days. Record-breaking rainfall affected San Francisco on Wednesday, and heavy rain caused 32,000 customers in Sacramento to lose power. A further low-pressure area was expected to bring considerable amounts of moisture to southern Oregon and northern California.
+lede: California coastal communities were covered by multiple hazard warnings this
+  week as successive areas of low pressure generated powerful swells and large breaking
+  waves. Beaches and piers closed last weekend as large waves crashed into California's
+  coastline; offshore National Oceanic and Atmospheric Administration buoys recorded
+  wave heights greater than 30 feet, or 9 metres, last Friday. A Monterey buoy registered
+  34.1 feet, a reading that would make it the highest there in 30 years, while alerts
+  were due to remain in place until Friday night.
+nut_graf: The coastal warnings came as Pacific storm systems were bringing unsettled
+  conditions, including heavy rain, mountain snow and strong winds, across the western
+  US through the coming days. Record-breaking rainfall affected San Francisco on Wednesday,
+  and heavy rain caused 32,000 customers in Sacramento to lose power. A further low-pressure
+  area was expected to bring considerable amounts of moisture to southern Oregon and
+  northern California.
 primary_entities:
 - California
 - National Oceanic and Atmospheric Administration
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,12 +167,14 @@ related_stories:
   relation: related
   strength: 0.7938
 - slug: 2026-11-16-forecasters-warn-towering-waves-and-storms-could-overwhelm-california-coast
-  headline: Forecasters warn towering waves and storms could overwhelm California coast
+  headline: Forecasters warn towering waves and storms could overwhelm California
+    coast
   publish_date: '2026-11-16'
   relation: related
   strength: 0.7621
 - slug: 2026-11-19-atmospheric-river-breaks-san-francisco-rain-record-floods-california-roads
-  headline: Atmospheric river breaks San Francisco rain record, floods California roads
+  headline: Atmospheric river breaks San Francisco rain record, floods California
+    roads
   publish_date: '2026-11-19'
   relation: related
   strength: 0.7232
@@ -175,77 +189,17 @@ related_stories:
   relation: related
   strength: 0.7005
 - slug: 2026-11-18-storms-bring-15-3-inches-of-rain-to-parts-of-broward-shut-big-sur-highway-1
-  headline: Storms bring 15.3 inches of rain to parts of Broward, shut Big Sur Highway 1
+  headline: Storms bring 15.3 inches of rain to parts of Broward, shut Big Sur Highway
+    1
   publish_date: '2026-11-18'
   relation: related
   strength: 0.6752
-- slug: 2026-11-18-heavy-rain-floods-roads-across-south-florida-and-california
-  headline: Heavy rain floods roads across South Florida and California
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6603
 - slug: 2026-10-28-historic-high-tides-flood-california-communities-and-disrupt-transportation
   headline: Historic high tides flood California communities and disrupt transportation
   publish_date: '2026-10-28'
   relation: related
   strength: 0.7377
-- slug: 2026-10-26-san-pedro-gauge-records-preliminary-8-02-foot-reading-amid-coastal-flooding-risk
-  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding risk
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7299
-- slug: 2026-10-28-king-tides-flood-coastal-communities-in-california-florida-and-the-carolinas
-  headline: King tides flood coastal communities in California, Florida and the Carolinas
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6936
-- slug: 2026-10-15-santa-ana-winds-raise-california-wildfire-risk-through-saturday
-  headline: Santa Ana winds raise California wildfire risk through Saturday
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6961
-- slug: 2026-10-13-waves-destroy-long-beach-boardwalk-and-leave-nine-homes-unsafe
-  headline: Waves destroy Long Beach boardwalk and leave nine homes unsafe
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6623
-- slug: 2026-09-29-hurricane-polo-makes-landfall-on-baja-california-coast-with-110-mph-winds
-  headline: Hurricane Polo makes landfall on Baja California coast with 110 mph winds
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7051
-- slug: 2026-09-30-california-prepares-for-kelvin-wave-set-to-raise-sea-levels-a-foot
-  headline: California prepares for Kelvin wave set to raise sea levels a foot
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.696
-- slug: 2026-10-07-california-readies-for-potentially-historic-el-ni-o-winter
-  headline: California readies for potentially historic El Niño winter
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6634
-- slug: 2026-10-03-southern-california-enters-week-long-heatwave-with-temperatures-near-100f
-  headline: Southern California enters week-long heatwave with temperatures near 100F
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6611
-- slug: 2026-09-06-hurricane-marie-generates-life-threatening-surf-at-southern-california-beaches
-  headline: Hurricane Marie generates life-threatening surf at southern California beaches
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7187
-- slug: 2026-06-15-king-tides-kill-two-along-california-coast-advisories-issued
-  headline: King tides kill two along California coast, advisories issued
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.704
-- slug: 2026-02-17-california-braces-as-winter-storm-brings-high-winds-heavy-rain-and-snow
-  headline: California braces as winter storm brings high winds, heavy rain and snow
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.7229
 ---
-
 ## California coastal communities face warnings as waves exceed 30 feet
 
 **Subtype:** fact
