@@ -1,9 +1,19 @@
 ---
 headline: COP31 closes in Antalya with little movement on fossil fuels
-secondary_headline: Climate Action Tracker finds warming progress essentially stalled for five years
+secondary_headline: Climate Action Tracker finds warming progress essentially stalled
+  for five years
 publish_date: '2026-11-20'
-lede: Friday marked the official end of the two-week annual COP31 climate summit in Antalya, Turkey, as United Nations negotiators entered their final day seeking meaningful commitments to address global warming. The meeting had so far largely failed to advance major ideas for moving away from fossil fuels, mainly coal, oil and gas.
-nut_graf: Friday's close brought limited movement on fossil-fuel ideas and no direct participation by the United States. Leaders from countries ravaged by climate change — mostly poorer, vulnerable countries that contributed little to the problem — said a U.N. fund for climate-disaster recovery and adaptation to a warmer world was not nearly large enough. The summit also introduced a proposal to raise electricity's share of global energy consumption while allowing continued use of coal and other fossil fuels.
+lede: Friday marked the official end of the two-week annual COP31 climate summit in
+  Antalya, Turkey, as United Nations negotiators entered their final day seeking meaningful
+  commitments to address global warming. The meeting had so far largely failed to
+  advance major ideas for moving away from fossil fuels, mainly coal, oil and gas.
+nut_graf: Friday's close brought limited movement on fossil-fuel ideas and no direct
+  participation by the United States. Leaders from countries ravaged by climate change
+  — mostly poorer, vulnerable countries that contributed little to the problem — said
+  a U.N. fund for climate-disaster recovery and adaptation to a warmer world was not
+  nearly large enough. The summit also introduced a proposal to raise electricity's
+  share of global energy consumption while allowing continued use of coal and other
+  fossil fuels.
 primary_entities:
 - United Nations
 - COP31
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,7 +156,7 @@ related_stories:
   headline: Guterres urges drastic emissions cuts at final climate summit
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8325
+  strength: 0.8329
 - slug: 2026-11-11-world-leaders-begin-cop31-talks-in-turkey-seeking-concrete-climate-action
   headline: World leaders begin COP31 talks in Turkey seeking concrete climate action
   publish_date: '2026-11-11'
@@ -155,12 +166,12 @@ related_stories:
   headline: More than 120 U.S. leaders attend COP31 as observers in Antalya
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7601
+  strength: 0.7603
 - slug: 2026-11-06-un-climate-talks-open-in-turkey-with-fossil-fuel-transition-as-key-issue
   headline: UN climate talks open in Turkey with fossil fuel transition as key issue
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8381
+  strength: 0.8379
 - slug: 2026-11-18-small-island-coalition-presses-cop31-for-action-and-climate-finance
   headline: Small island coalition presses COP31 for action and climate finance
   publish_date: '2026-11-18'
@@ -170,79 +181,18 @@ related_stories:
   headline: Kurum's Action Agenda centers on electrification
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.8152
+  strength: 0.8151
 - slug: 2026-11-06-australia-and-turkey-share-cop31-presidency-as-coal-reliance-draws-scrutiny
   headline: Australia and Turkey share Cop31 presidency as coal reliance draws scrutiny
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.8114
+  strength: 0.8106
 - slug: 2026-11-15-un-climate-process-gains-breathing-space-at-cop31-amid-rising-risks
   headline: UN climate process gains breathing space at Cop31 amid rising risks
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7496
-- slug: 2026-11-15-fossil-fuel-coalition-presses-on-at-cop31-after-colombia-s-withdrawal
-  headline: Fossil fuel coalition presses on at COP31 after Colombia's withdrawal
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7438
-- slug: 2026-11-12-global-climate-action-has-stalled-for-five-years-report-finds
-  headline: Global climate action has stalled for five years, report finds
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7583
-- slug: 2026-11-13-cop31-electrification-pledge-draws-calls-for-mining-safeguards
-  headline: COP31 electrification pledge draws calls for mining safeguards
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7499
-- slug: 2026-11-12-john-kerry-calls-trump-the-biggest-loser-on-climate-as-us-skips-cop31-talks
-  headline: John Kerry calls Trump the 'biggest loser' on climate as US skips Cop31 talks
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7548
-- slug: 2026-11-11-erdogan-urges-countries-to-adopt-zero-waste-goals-at-cop31
-  headline: Erdogan urges countries to adopt zero-waste goals at COP31
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7571
-- slug: 2026-11-16-harvard-study-ties-403-us-data-centers-to-28-3-million-tons-of-co2
-  headline: Harvard study ties 403 US data centers to 28.3 million tons of CO2
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7078
-- slug: 2026-11-07-guterres-prepares-final-climate-message-as-cop31-s-nov-9-opening-nears
-  headline: Guterres prepares final climate message as COP31's Nov. 9 opening nears
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7517
-- slug: 2026-11-13-un-study-puts-best-case-warming-at-1-7-to-1-8-degrees
-  headline: UN study puts best-case warming at 1.7 to 1.8 degrees
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7127
-- slug: 2026-11-11-erdogan-calls-gaza-war-an-ecocide-at-cop31-asks-israel-for-more-aid-access
-  headline: Erdogan calls Gaza war an ecocide at COP31, asks Israel for more aid access
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.7101
-- slug: 2026-11-07-scientists-urge-an-end-to-coal-and-gas-approvals-as-bowen-leads-cop31-negotiatio
-  headline: Scientists urge an end to coal and gas approvals as Bowen leads Cop31 negotiations
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7321
-- slug: 2026-11-12-uk-names-first-climate-security-envoy-as-pm-warns-climate-consensus-has-gone
-  headline: UK names first climate security envoy as PM warns climate consensus has gone
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.701
-- slug: 2026-11-06-turkey-unveils-2040-energy-plan-to-shift-from-coal-ahead-of-cop31-summit
-  headline: Turkey unveils 2040 energy plan to shift from coal ahead of COP31 summit
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.7296
+  strength: 0.7495
 ---
-
 ## COP31 closes in Antalya with little movement on fossil fuels
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
-headline: Most dissatisfied voters saying Iran action was wrong back local House Democratic candidate
-secondary_headline: GOP senators reverse a June vote after a closed-door lunch with Trump
+headline: Most dissatisfied voters saying Iran action was wrong back local House Democratic
+  candidate
+secondary_headline: GOP senators reverse a June vote after a closed-door lunch with
+  Trump
 publish_date: '2026-11-19'
-lede: The AP Voter Poll reports that about 6 in 10 of more than 100,000 voters surveyed in the United States said the United States made the “wrong decision” in taking military action against Iran. Most of those voters dissatisfied with the Iran war back the Democratic candidate in their local U.S. House race. Republican Sen. Tim Sheehy of Montana says the United States should “finish the job, protect this nation and protect our allies,” while Democratic Sen. Tim Kaine of Virginia says, “The American public is tired of it.”
-nut_graf: The AP poll found that about 6 in 10 voters said the United States made the “wrong decision” in taking military action against Iran, and Democrats made the war a top campaign issue. The War Powers Act requires congressional approval for sustained military action after 60 or 90 days, while the resolution rejected in the Senate would not have gone to the president for signature.
+lede: The AP Voter Poll reports that about 6 in 10 of more than 100,000 voters surveyed
+  in the United States said the United States made the “wrong decision” in taking
+  military action against Iran. Most of those voters dissatisfied with the Iran war
+  back the Democratic candidate in their local U.S. House race. Republican Sen. Tim
+  Sheehy of Montana says the United States should “finish the job, protect this nation
+  and protect our allies,” while Democratic Sen. Tim Kaine of Virginia says, “The
+  American public is tired of it.”
+nut_graf: The AP poll found that about 6 in 10 voters said the United States made
+  the “wrong decision” in taking military action against Iran, and Democrats made
+  the war a top campaign issue. The War Powers Act requires congressional approval
+  for sustained military action after 60 or 90 days, while the resolution rejected
+  in the Senate would not have gone to the president for signature.
 primary_entities:
 - The AP Voter Poll
 - Associated Press
@@ -51,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,116 +163,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-19-most-dissatisfied-voters-saying-iran-action-was-wrong-back-local-house-democrati.png
-  alt: 'Illustration accompanying article: Most dissatisfied voters saying Iran action was wrong back local House Democratic…'
+  alt: 'Illustration accompanying article: Most dissatisfied voters saying Iran action
+    was wrong back local House Democratic…'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-19-us-senate-rejects-war-powers-resolution-aimed-at-halting-fighting-with-iran
-  headline: US Senate rejects war powers resolution aimed at halting fighting with Iran
+  headline: US Senate rejects war powers resolution aimed at halting fighting with
+    Iran
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7539
+  strength: 0.7532
 - slug: 2026-11-09-pete-hegseth-will-brief-reporters-on-expected-iran-war-impeachment-resolution
   headline: Pete Hegseth will brief reporters on expected Iran war impeachment resolution
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7449
+  strength: 0.7445
 - slug: 2026-09-24-recent-reporting-suggests-pentagon-has-not-fully-accounted-for-iran-war-costs-an
-  headline: Recent reporting suggests Pentagon has not fully accounted for Iran war costs and casualties
+  headline: Recent reporting suggests Pentagon has not fully accounted for Iran war
+    costs and casualties
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7477
+  strength: 0.7474
 - slug: 2026-09-24-senate-republicans-defeat-latest-iran-war-powers-resolution-50-49
   headline: Senate Republicans defeat latest Iran war-powers resolution, 50-49
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7423
+  strength: 0.7418
 - slug: 2026-09-24-cbo-estimates-iran-war-cost-nearly-40-billion-in-first-four-months
   headline: CBO estimates Iran war cost nearly $40 billion in first four months
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7407
-- slug: 2026-09-16-house-passes-third-iran-war-powers-resolution-220-204
-  headline: House passes third Iran war powers resolution, 220-204
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.725
+  strength: 0.7403
 - slug: 2026-07-31-senate-rejects-iran-war-powers-resolution-in-49-50-vote
   headline: Senate rejects Iran war powers resolution in 49-50 vote
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.7287
+  strength: 0.7292
 - slug: 2026-07-23-house-passes-second-iran-war-powers-resolution
   headline: House passes second Iran war powers resolution
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.733
+  strength: 0.7325
 - slug: 2026-06-23-senate-votes-to-direct-trump-to-end-iran-war-in-bipartisan-rebuke
   headline: Senate votes to direct Trump to end Iran war in bipartisan rebuke
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.7344
-- slug: 2026-06-08-republicans-defect-from-trump-as-house-passes-iran-war-powers-resolution
-  headline: Republicans defect from Trump as House passes Iran war powers resolution
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.742
-- slug: 2026-04-16-house-rejects-iran-war-powers-resolution-213-214-as-60-day-deadline-nears
-  headline: House rejects Iran war powers resolution 213-214 as 60-day deadline nears
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7533
-- slug: 2026-03-05-senate-republicans-vote-down-iran-war-powers-halt-in-first-congress-vote
-  headline: Senate Republicans vote down Iran war powers halt in first Congress vote
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7575
-- slug: 2026-03-26-poll-finds-most-americans-think-us-military-action-against-iran-has-gone-too-far
-  headline: Poll finds most Americans think US military action against Iran has gone too far
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7511
-- slug: 2026-03-04-house-narrowly-rejects-iran-war-powers-resolution-in-test-of-trump-strategy
-  headline: House narrowly rejects Iran war powers resolution in test of Trump strategy
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7491
-- slug: 2026-06-03-gop-led-house-votes-to-restrict-trump-s-iran-war-powers
-  headline: GOP-Led House Votes to Restrict Trump's Iran War Powers
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7274
-- slug: 2026-03-25-poll-most-americans-say-us-action-in-iran-has-gone-too-far
-  headline: 'Poll: Most Americans Say US Action in Iran Has Gone Too Far'
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7448
-- slug: 2026-05-19-senate-advances-bill-aimed-at-ending-iran-war-as-gop-cassidy-flips
-  headline: Senate advances bill aimed at ending Iran war as GOP Cassidy flips
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7327
-- slug: 2026-05-21-house-gop-cancels-iran-war-powers-vote-delays-action-into-june
-  headline: House GOP cancels Iran war powers vote, delays action into June
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7295
-- slug: 2026-05-14-republican-resistance-to-iran-war-grows-as-murkowski-flips-in-senate
-  headline: Republican resistance to Iran war grows as Murkowski flips in Senate
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.731
-- slug: 2026-03-06-house-narrowly-rejects-iran-war-powers-resolution-in-test-of-trump-s-strategy
-  headline: House narrowly rejects Iran war powers resolution in test of Trump’s strategy
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.7418
+  strength: 0.7346
 ---
-
 ## Most dissatisfied voters saying Iran action was wrong back local House Democratic candidate
 
 **Subtype:** fact
