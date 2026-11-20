@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-11-17'
   relation: related
   strength: 0.7362
+analyses:
+- '2026-11-18-jeffries-nomination-opens-procedural-leverage-as-progressive-cohesion-remains-un'
 ---
 ## Progressives press Hakeem Jeffries for House speaker commitments
 
@@ -250,3 +252,8 @@ The speakership carries substantial procedural authority. Solomon wrote that the
 **Publication date:** 2026-11-18
 **Title:** Can progressives push Hakeem Jeffries to the left? | Norman Solomon
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/18/hakeem-jeffries-house-speaker-progressives
+
+---
+
+<!-- analysis-link:2026-11-18-jeffries-nomination-opens-procedural-leverage-as-progressive-cohesion-remains-un -->
+**Going deeper:** [Read MSI's analysis of Jeffries nomination and progressive leverage →](/analyses/2026-11-18-jeffries-nomination-opens-procedural-leverage-as-progressive-cohesion-remains-un)
