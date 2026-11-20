@@ -1,9 +1,23 @@
 ---
 headline: McMahon tells prosecutors al-Saadi must access religious materials
-secondary_headline: Al-Saadi charged last week in rewritten indictment over alleged Fairford attack
+secondary_headline: Al-Saadi charged last week in rewritten indictment over alleged
+  Fairford attack
 publish_date: '2026-11-19'
-lede: Federal Judge Colleen McMahon told prosecutors at a Thursday hearing in New York that Mohammad Baqer Saad Dawood al-Saadi, a defendant jailed on terrorism charges, must be allowed to access religious materials describing an important figure in Muslim history, even if some passages advocate violence. McMahon said similar violent passages in the Bible would never be banned from distribution in jails. She stopped short of formally ruling that the materials pose no threat to the special administrative measure severely limiting al-Saadi’s communications with the outside world.
-nut_graf: Prosecutors charged al-Saadi last week in a rewritten, superseding indictment accusing him of trying to pass secret messages to Iranian operatives planning an attack on a British air base used by the U.S. Air Force. Prosecutors say al-Saadi used coded calls with his mother and sister in Iraq to encourage associates to carry out an attack on the Royal Air Force Base in Fairford; defense attorney Andrew Dalack denied the allegation. During the hearing, al-Saadi’s first outburst occurred as he was being arraigned on the new allegations, and marshals removed him after another outburst. McMahon adjourned proceedings so his family could seek new lawyers.
+lede: Federal Judge Colleen McMahon told prosecutors at a Thursday hearing in New
+  York that Mohammad Baqer Saad Dawood al-Saadi, a defendant jailed on terrorism charges,
+  must be allowed to access religious materials describing an important figure in
+  Muslim history, even if some passages advocate violence. McMahon said similar violent
+  passages in the Bible would never be banned from distribution in jails. She stopped
+  short of formally ruling that the materials pose no threat to the special administrative
+  measure severely limiting al-Saadi’s communications with the outside world.
+nut_graf: Prosecutors charged al-Saadi last week in a rewritten, superseding indictment
+  accusing him of trying to pass secret messages to Iranian operatives planning an
+  attack on a British air base used by the U.S. Air Force. Prosecutors say al-Saadi
+  used coded calls with his mother and sister in Iraq to encourage associates to carry
+  out an attack on the Royal Air Force Base in Fairford; defense attorney Andrew Dalack
+  denied the allegation. During the hearing, al-Saadi’s first outburst occurred as
+  he was being arraigned on the new allegations, and marshals removed him after another
+  outburst. McMahon adjourned proceedings so his family could seek new lawyers.
 primary_entities:
 - Colleen McMahon
 - Mohammad Baqer Saad Dawood al-Saadi
@@ -41,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,113 +158,57 @@ related_stories:
   headline: Jail calls and hearing place handler Ali behind Fairford van drivers
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7592
+  strength: 0.7573
 - slug: 2026-11-10-indictment-says-coded-calls-directed-co-conspirators-to-buy-large-amounts-of-che
-  headline: Indictment says coded calls directed co-conspirators to buy large amounts of chemicals
+  headline: Indictment says coded calls directed co-conspirators to buy large amounts
+    of chemicals
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.764
+  strength: 0.7603
 - slug: 2026-11-10-three-men-face-u-s-charges-over-alleged-iran-linked-attack-plots
   headline: Three men face U.S. charges over alleged Iran-linked attack plots
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7201
-- slug: 2026-11-10-british-ministry-of-defence-says-aircraft-moves-follow-operational-requirements
-  headline: British Ministry of Defence says aircraft moves follow operational requirements
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6447
+  strength: 0.7166
 - slug: 2026-10-20-inquiry-into-planned-raf-fairford-attack-involves-seven-men-after-re-arrests
   headline: Inquiry into planned RAF Fairford attack involves seven men after re-arrests
   publish_date: '2026-10-20'
   relation: related
-  strength: 0.6727
-- slug: 2026-10-27-uk-prosecutors-charge-two-men-over-suspected-iranian-plot-at-raf-fairford
-  headline: UK prosecutors charge two men over suspected Iranian plot at RAF Fairford
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6366
-- slug: 2026-10-26-trump-invokes-9-11-and-alleges-el-sayed-has-muslim-brotherhood-ties
-  headline: Trump invokes 9/11 and alleges El-Sayed has Muslim Brotherhood ties
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6376
+  strength: 0.6706
 - slug: 2026-10-19-us-prosecutors-allege-saudi-government-support-for-openai-recorder-suspect
   headline: US prosecutors allege Saudi government support for OpenAI recorder suspect
   publish_date: '2026-10-19'
   relation: related
   strength: 0.6687
-- slug: 2026-10-24-fbi-weighs-economic-espionage-charge-against-former-openai-engineer-alfozan
-  headline: FBI weighs economic espionage charge against former OpenAI engineer Alfozan
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6456
 - slug: 2026-10-19-prosecutors-saudi-royal-recruits-openai-worker-via-whatsapp-for-ai-initiative
   headline: 'Prosecutors: Saudi royal recruits OpenAI worker via WhatsApp for AI initiative'
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.6547
-- slug: 2026-10-12-britain-sanctions-two-accused-of-spying-for-iran-reprimands-ambassador
-  headline: Britain sanctions two accused of spying for Iran, reprimands ambassador
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6401
-- slug: 2026-10-08-us-pulls-12-b-1-bombers-from-raf-fairford-over-suspected-iranian-drone-plot
-  headline: US pulls 12 B-1 bombers from RAF Fairford over suspected Iranian drone plot
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6429
+  strength: 0.6545
 - slug: 2026-09-28-farmer-s-midnight-call-leads-to-five-arrests-near-raf-fairford
   headline: Farmer's midnight call leads to five arrests near RAF Fairford
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6622
+  strength: 0.66
 - slug: 2026-09-28-uk-probes-motives-beyond-iran-link-in-raf-fairford-arrests
   headline: UK probes motives beyond Iran link in RAF Fairford arrests
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6591
-- slug: 2026-09-28-u-s-reportedly-raises-threat-level-at-three-uk-bases-after-fairford-arrests
-  headline: U.S. reportedly raises threat level at three UK bases after Fairford arrests
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6571
-- slug: 2026-10-01-uk-police-arrest-dual-national-in-fairford-terror-probe-iran-denies-link
-  headline: UK police arrest dual national in Fairford terror probe; Iran denies link
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6473
-- slug: 2026-09-29-uk-frees-raf-fairford-suspects-as-u-s-cites-thursday-bomb-threat-briefing
-  headline: UK frees RAF Fairford suspects as U.S. cites Thursday bomb threat briefing
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6504
-- slug: 2026-09-29-five-men-released-on-bail-after-raf-fairford-terror-plot-arrests
-  headline: Five men released on bail after RAF Fairford terror plot arrests
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6444
-- slug: 2026-09-29-uk-police-release-five-raf-fairford-suspects-on-bail-citing-open-investigation
-  headline: UK police release five RAF Fairford suspects on bail, citing open investigation
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6432
-- slug: 2026-09-27-police-arrest-several-men-at-raf-fairford-on-suspicion-of-explosives-offences
-  headline: Police arrest several men at RAF Fairford on suspicion of explosives offences
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6462
+  strength: 0.6554
 image:
   url: /articles/2026-11-19-mcmahon-tells-prosecutors-al-saadi-must-access-religious-materials.png
-  alt: "Illustration accompanying article: McMahon tells prosecutors al-Saadi must access religious materials"
+  alt: 'Illustration accompanying article: McMahon tells prosecutors al-Saadi must
+    access religious materials'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## McMahon tells prosecutors al-Saadi must access religious materials
 
 **Subtype:** fact
