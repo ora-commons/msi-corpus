@@ -2,16 +2,8 @@
 headline: Heavy rain floods roads across South Florida and California
 secondary_headline: Temple Sinai roof collapses without reported injuries
 publish_date: '2026-11-18'
-lede: A slow-moving storm system brought heavy rain to South Florida and the West
-  Coast on Wednesday, authorities said. Heavy rain flooded roads, submerged cars and
-  caused the roof of Temple Sinai in Hollywood to collapse. The city of Hollywood
-  declared a state of emergency Wednesday as portions of the Florida Turnpike and
-  Interstate 95 were closed because of high water and stalled vehicles.
-nut_graf: The storm disrupted highways, air travel and ferry service, while the National
-  Weather Service said an additional 12 inches of rain was possible along Florida’s
-  Atlantic Coast through Friday. The National Hurricane Center said a low-pressure
-  system could develop near the northern Bahamas and become a subtropical or tropical
-  storm affecting parts of the southeastern and mid-Atlantic coasts early next week.
+lede: A slow-moving storm system brought heavy rain to South Florida and the West Coast on Wednesday, authorities said. Heavy rain flooded roads, submerged cars and caused the roof of Temple Sinai in Hollywood to collapse. The city of Hollywood declared a state of emergency Wednesday as portions of the Florida Turnpike and Interstate 95 were closed because of high water and stalled vehicles.
+nut_graf: The storm disrupted highways, air travel and ferry service, while the National Weather Service said an additional 12 inches of rain was possible along Florida’s Atlantic Coast through Friday. The National Hurricane Center said a low-pressure system could develop near the northern Bahamas and become a subtropical or tropical storm affecting parts of the southeastern and mid-Atlantic coasts early next week.
 primary_entities:
 - Hollywood
 - South Florida
@@ -51,8 +43,7 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent
-  from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,63 +141,117 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-18-storms-bring-15-3-inches-of-rain-to-parts-of-broward-shut-big-sur-highway-1
+  headline: Storms bring 15.3 inches of rain to parts of Broward, shut Big Sur Highway 1
+  publish_date: '2026-11-18'
+  relation: related
+  strength: 0.7829
+- slug: 2026-11-19-atmospheric-river-breaks-san-francisco-rain-record-floods-california-roads
+  headline: Atmospheric river breaks San Francisco rain record, floods California roads
+  publish_date: '2026-11-19'
+  relation: related
+  strength: 0.7044
 - slug: 2026-11-15-large-waves-close-california-piers-and-flood-coastal-streets
   headline: Large waves close California piers and flood coastal streets
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.6884
+  strength: 0.6888
 - slug: 2026-11-16-large-waves-close-california-piers-and-prompt-evacuation-warning
   headline: Large waves close California piers and prompt evacuation warning
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6752
+  strength: 0.6761
 - slug: 2026-11-18-two-waterspouts-form-over-san-francisco-bay
   headline: Two waterspouts form over San Francisco Bay
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6502
+  strength: 0.6507
 - slug: 2026-11-16-forecasters-warn-towering-waves-and-storms-could-overwhelm-california-coast
-  headline: Forecasters warn towering waves and storms could overwhelm California
-    coast
+  headline: Forecasters warn towering waves and storms could overwhelm California coast
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6532
+  strength: 0.6537
 - slug: 2026-10-28-king-tides-flood-coastal-communities-in-california-florida-and-the-carolinas
   headline: King tides flood coastal communities in California, Florida and the Carolinas
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7227
+  strength: 0.7231
 - slug: 2026-10-28-historic-high-tides-flood-california-communities-and-disrupt-transportation
   headline: Historic high tides flood California communities and disrupt transportation
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6799
+  strength: 0.6809
+- slug: 2026-10-31-weekend-rain-threatens-flash-flooding-across-saturated-southwest
+  headline: Weekend rain threatens flash flooding across saturated Southwest
+  publish_date: '2026-10-31'
+  relation: related
+  strength: 0.6483
 - slug: 2026-10-26-san-pedro-gauge-records-preliminary-8-02-foot-reading-amid-coastal-flooding-risk
-  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding
-    risk
+  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding risk
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6513
+  strength: 0.6525
 - slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
   headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6665
+  strength: 0.669
+- slug: 2026-10-10-three-storms-batter-north-america-as-hurricane-isaias-makes-florida-landfall
+  headline: Three storms batter North America as Hurricane Isaias makes Florida landfall
+  publish_date: '2026-10-10'
+  relation: related
+  strength: 0.683
+- slug: 2026-10-13-waves-destroy-long-beach-boardwalk-and-leave-nine-homes-unsafe
+  headline: Waves destroy Long Beach boardwalk and leave nine homes unsafe
+  publish_date: '2026-10-13'
+  relation: related
+  strength: 0.6714
+- slug: 2026-10-09-hurricane-isaias-approaches-u-s-gulf-coast-as-states-declare-emergencies
+  headline: Hurricane Isaias approaches U.S. Gulf Coast as states declare emergencies
+  publish_date: '2026-10-09'
+  relation: related
+  strength: 0.645
+- slug: 2026-10-07-desantis-declares-emergency-for-25-counties-as-isaias-approaches-gulf-coast
+  headline: DeSantis declares emergency for 25 counties as Isaias approaches Gulf Coast
+  publish_date: '2026-10-07'
+  relation: related
+  strength: 0.6448
+- slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
+  headline: Heavy rains drench South Texas, flood rescues top two dozen
+  publish_date: '2026-07-15'
+  relation: related
+  strength: 0.6823
+- slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
+  headline: South Texas flooding prompts dozens of rescues, disaster declaration
+  publish_date: '2026-07-14'
+  relation: related
+  strength: 0.6466
+- slug: 2026-01-03-heavy-rain-and-king-tides-flood-northern-california-one-killed-in-santa-barbara
+  headline: Heavy rain and king tides flood Northern California; one killed in Santa Barbara
+  publish_date: '2026-01-03'
+  relation: related
+  strength: 0.691
+- slug: 2026-01-04-more-storms-forecast-for-california-as-flood-cleanup-continues-after-king-tide-s
+  headline: More storms forecast for California as flood cleanup continues after King Tide surge
+  publish_date: '2026-01-04'
+  relation: related
+  strength: 0.689
+- slug: 2026-06-15-king-tides-kill-two-along-california-coast-advisories-issued
+  headline: King tides kill two along California coast, advisories issued
+  publish_date: '2026-06-15'
+  relation: related
+  strength: 0.6484
 image:
   url: /articles/2026-11-18-heavy-rain-floods-roads-across-south-florida-and-california.png
-  alt: 'Illustration accompanying article: Heavy rain floods roads across South Florida
-    and California'
+  alt: 'Illustration accompanying article: Heavy rain floods roads across South Florida and California'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in
-    metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
-    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
-    frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
 analyses:
-- '2026-11-18-heavy-rain-creates-distinct-disruption-paths-across-roads-buildings-and-transit'
+- 2026-11-18-heavy-rain-creates-distinct-disruption-paths-across-roads-buildings-and-transit
 ---
 ## Heavy rain floods roads across South Florida and California
 
