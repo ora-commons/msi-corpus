@@ -172,6 +172,8 @@ related_stories:
   publish_date: '2026-11-19'
   relation: related
   strength: 0.8641
+analyses:
+- '2026-11-19-army-s-weather-dependent-maps-leave-friday-s-lead-dust-safeguards-provisional'
 ---
 ## Iowa schools close Friday as U.S. Army updates lead-drift maps
 
@@ -223,3 +225,8 @@ According to EPA documents, alternatives such as neutralizing and decomposing th
 **Publication date:** 2026-11-19
 **Title:** Iowans brace for lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals
 **URL:** https://www.pbs.org/newshour/nation/iowans-brace-for-lead-dust-cloud-as-army-plans-to-detonate-5-tons-of-bomb-making-chemicals
+
+---
+
+<!-- analysis-link:2026-11-19-army-s-weather-dependent-maps-leave-friday-s-lead-dust-safeguards-provisional -->
+**Going deeper:** [Read MSI's analysis of Army detonation preparedness →](/analyses/2026-11-19-army-s-weather-dependent-maps-leave-friday-s-lead-dust-safeguards-provisional)

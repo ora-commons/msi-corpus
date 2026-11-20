@@ -2,8 +2,22 @@
 headline: Texas GOP wins one of five House targets after Latino voter shift
 secondary_headline: Democrats won about 53% of the House vote but only 14 of 38 seats
 publish_date: '2026-11-19'
-lede: Texas Republicans redrew congressional districts in 2025 in a plan intended to gain five House seats, but the party flipped one targeted seat in the 2026 election and lost two seats it did not intend to put in play. Democrats took six of the seven seats in play, including Democratic Rep. Henry Cuellar's South Texas seat and Leticia Gutierrez's 15-point victory in the Houston-area 9th District. Cuellar's 28th District had been presumed the toughest of the five targets, while Adam Kincaid, executive director of the National Republican Redistricting Trust and Texas' 2025 mapdrawer, said the map assumed the 2024 movement among Latino voters toward Trump would continue down the ballot.
-nut_graf: The result left Democrats with about 53% of the U.S. House vote in Texas but 14 of 38 seats, while Republicans lost one seat net from a five-seat pickup goal. With Democrats holding the governor's mansion and the Texas House, another Republican-led redistricting round was off the table and both parties were likely to live with the current lines next cycle. Kincaid said Republicans could try to recover the 15th and 23rd districts and make gains in other target seats in 2028 if the party selected the right presidential nominee, candidates and message.
+lede: Texas Republicans redrew congressional districts in 2025 in a plan intended
+  to gain five House seats, but the party flipped one targeted seat in the 2026 election
+  and lost two seats it did not intend to put in play. Democrats took six of the seven
+  seats in play, including Democratic Rep. Henry Cuellar's South Texas seat and Leticia
+  Gutierrez's 15-point victory in the Houston-area 9th District. Cuellar's 28th District
+  had been presumed the toughest of the five targets, while Adam Kincaid, executive
+  director of the National Republican Redistricting Trust and Texas' 2025 mapdrawer,
+  said the map assumed the 2024 movement among Latino voters toward Trump would continue
+  down the ballot.
+nut_graf: The result left Democrats with about 53% of the U.S. House vote in Texas
+  but 14 of 38 seats, while Republicans lost one seat net from a five-seat pickup
+  goal. With Democrats holding the governor's mansion and the Texas House, another
+  Republican-led redistricting round was off the table and both parties were likely
+  to live with the current lines next cycle. Kincaid said Republicans could try to
+  recover the 15th and 23rd districts and make gains in other target seats in 2028
+  if the party selected the right presidential nominee, candidates and message.
 primary_entities:
 - Texas
 - Henry Cuellar
@@ -52,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,104 +169,44 @@ related_stories:
   headline: Republican redistricting efforts fail to deliver expected House seat gains
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7869
+  strength: 0.7853
 - slug: 2026-11-13-tennessee-gop-on-track-for-89-of-u-s-house-seats-with-54-of-the-vote
   headline: Tennessee GOP on track for 89% of U.S. House seats with 54% of the vote
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7374
+  strength: 0.737
 - slug: 2026-11-17-texas-gop-announces-review-after-democrats-sweep-all-statewide-offices
   headline: Texas GOP announces review after Democrats sweep all statewide offices
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7091
+  strength: 0.7077
 - slug: 2026-11-06-latino-voters-move-sharply-to-democrats-in-2026-midterms
-  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas sweep
+  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas
+    sweep
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7606
+  strength: 0.7592
 - slug: 2026-11-04-trumps-mid-decade-redistricting-push-fails-to-hold-house-for-republicans
   headline: Trump's mid-decade redistricting push fails to hold the House for Republicans
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7373
+  strength: 0.7359
 - slug: 2026-11-10-democrats-win-house-seats-in-eight-states-in-the-2026-midterms
   headline: Democrats win House seats in eight states in the 2026 midterms
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6974
+  strength: 0.6964
 - slug: 2026-11-04-county-maps-show-large-democratic-swings-in-2026-senate-results
   headline: County maps show large Democratic swings in 2026 Senate results
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7322
+  strength: 0.7312
 - slug: 2026-11-04-under-30-and-hispanic-texas-senate-voters-back-talarico
   headline: Under-30 and Hispanic Texas Senate voters back Talarico
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7187
-- slug: 2026-11-05-democrats-gain-hundreds-of-state-legislative-seats-in-2026-midterms
-  headline: Democrats gain hundreds of state legislative seats in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7128
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7155
-- slug: 2026-11-04-democrats-win-several-congressional-districts-redrawn-by-republicans
-  headline: Democrats win several congressional districts redrawn by Republicans
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7109
-- slug: 2026-11-04-redistricted-house-races-test-whether-parties-gain-house-seats
-  headline: Redistricted House races test whether parties gain House seats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.71
-- slug: 2026-11-07-midterm-wins-give-democrats-new-paths-to-270-electoral-votes-in-2028
-  headline: Midterm wins give Democrats new paths to 270 electoral votes in 2028
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6928
-- slug: 2026-11-04-democrats-win-three-seats-in-republican-redrawn-florida-districts
-  headline: Democrats win three seats in Republican-redrawn Florida districts
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7061
-- slug: 2026-11-05-democrats-flip-senate-seats-in-the-south-reshaping-the-2028-contest
-  headline: Democrats flip Senate seats in the South, reshaping the 2028 contest
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6923
-- slug: 2026-10-23-texas-polls-suggest-hispanic-voters-are-moving-away-from-trump-before-midterms
-  headline: Texas polls suggest Hispanic voters are moving away from Trump before midterms
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.711
-- slug: 2026-10-22-voters-cast-ballots-in-districts-reshaped-by-trump-s-redistricting-push
-  headline: Voters cast ballots in districts reshaped by Trump's redistricting push
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6993
-- slug: 2026-10-06-polls-show-democrats-ahead-in-senate-house-with-30-days-to-midterms
-  headline: Polls show Democrats ahead in Senate, House with 30 days to midterms
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.7101
-- slug: 2026-10-02-polls-forecasters-favor-democrats-as-2026-midterms-near
-  headline: Polls, forecasters favor Democrats as 2026 midterms near
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7041
-- slug: 2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s
-  headline: Republican-led states redraw majority-Black congressional districts across the South
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.7049
+  strength: 0.7179
 ---
-
 ## Texas GOP wins one of five House targets after Latino voter shift
 
 **Subtype:** fact
