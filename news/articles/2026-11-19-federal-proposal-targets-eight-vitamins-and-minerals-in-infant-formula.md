@@ -2,8 +2,24 @@
 headline: Federal proposal targets eight vitamins and minerals in infant formula
 secondary_headline: Manufacturers would get three years to comply with the final rule
 publish_date: '2026-11-19'
-lede: Federal officials have proposed the first changes to federal infant formula nutrient requirements in nearly three decades, and the U.S. Food and Drug Administration said the review would proceed in phases, starting with eight required vitamins and minerals. The first phase would adjust acceptable levels for vitamin A, vitamin D, iodine and manganese and reaffirm specifications for chloride, potassium, selenium and sodium, with comments due by March 2, 2027. Experts said the changes could have the biggest impact in Mississippi, which has one of the country's lowest breastfeeding rates.
-nut_graf: Experts said the review was overdue and the changes proposed so far were positive, and they hoped new regulations would be created and implemented thoughtfully. They said increasing safety around infant formula could heighten nutritional standards and preserve families' access to formula without delays, shortages or skyrocketing prices. In 2022, an Abbott Nutrition plant closure and post-pandemic supply chain problems led to nationwide shortages and price surges. During that time, Delta-based Brittany Reed-Isler recalled that dozens of families in her Bolivar County area had trouble finding WIC-covered formula at local grocers. Manufacturers would have three years to comply after a final rule takes effect, but no effective date has been set.
+lede: Federal officials have proposed the first changes to federal infant formula
+  nutrient requirements in nearly three decades, and the U.S. Food and Drug Administration
+  said the review would proceed in phases, starting with eight required vitamins and
+  minerals. The first phase would adjust acceptable levels for vitamin A, vitamin
+  D, iodine and manganese and reaffirm specifications for chloride, potassium, selenium
+  and sodium, with comments due by March 2, 2027. Experts said the changes could have
+  the biggest impact in Mississippi, which has one of the country's lowest breastfeeding
+  rates.
+nut_graf: Experts said the review was overdue and the changes proposed so far were
+  positive, and they hoped new regulations would be created and implemented thoughtfully.
+  They said increasing safety around infant formula could heighten nutritional standards
+  and preserve families' access to formula without delays, shortages or skyrocketing
+  prices. In 2022, an Abbott Nutrition plant closure and post-pandemic supply chain
+  problems led to nationwide shortages and price surges. During that time, Delta-based
+  Brittany Reed-Isler recalled that dozens of families in her Bolivar County area
+  had trouble finding WIC-covered formula at local grocers. Manufacturers would have
+  three years to comply after a final rule takes effect, but no effective date has
+  been set.
 primary_entities:
 - U.S. Food and Drug Administration
 - U.S. Department of Health and Human Services
@@ -46,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,102 +167,43 @@ related_stories:
   relation: related
   strength: 0.6538
 - slug: 2026-11-11-trump-administration-proposal-could-end-snap-eligibility-for-6-3-million-people
-  headline: Trump administration proposal could end SNAP eligibility for 6.3 million people
+  headline: Trump administration proposal could end SNAP eligibility for 6.3 million
+    people
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6506
+  strength: 0.6515
 - slug: 2026-10-10-fda-proposes-allowing-some-chemicals-into-food-without-safety-review
   headline: FDA proposes allowing some chemicals into food without safety review
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6763
+  strength: 0.6759
 - slug: 2026-08-10-fda-proposes-mandatory-notice-for-new-food-ingredients
   headline: FDA proposes mandatory notice for new food ingredients
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7124
+  strength: 0.7131
 - slug: 2026-07-03-experts-say-fda-staff-cuts-leave-infant-formula-safety-at-risk
   headline: Experts say FDA staff cuts leave infant formula safety at risk
   publish_date: '2026-07-03'
   relation: related
-  strength: 0.6903
+  strength: 0.6909
 - slug: 2026-04-30-new-fda-study-confirms-safety-of-us-infant-formula
   headline: New FDA study confirms safety of US infant formula
   publish_date: '2026-04-30'
   relation: related
-  strength: 0.7107
-- slug: 2026-08-06-trump-administration-proposes-shifting-head-start-rules-to-states
-  headline: Trump administration proposes shifting Head Start rules to states
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6473
+  strength: 0.7108
 - slug: 2026-01-07-trump-administration-issues-dietary-guidelines-urging-whole-foods-less-sugar
-  headline: Trump administration issues dietary guidelines urging whole foods, less sugar
+  headline: Trump administration issues dietary guidelines urging whole foods, less
+    sugar
   publish_date: '2026-01-07'
   relation: related
-  strength: 0.718
+  strength: 0.7182
 - slug: 2026-06-29-justice-department-closes-baby-formula-probe-opts-for-civil-penalties
   headline: Justice Department closes baby formula probe, opts for civil penalties
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6676
-- slug: 2026-03-29-dietary-supplement-makers-press-fda-to-broaden-ingredients-to-peptides
-  headline: Dietary supplement makers press FDA to broaden ingredients to peptides
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6818
-- slug: 2026-06-19-critical-care-doctor-says-administration-is-withdrawing-children-s-health-protec
-  headline: Critical care doctor says administration is withdrawing children's health protections
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6557
-- slug: 2026-06-26-cdc-tells-health-programs-to-deprioritize-harm-reduction-within-days
-  headline: CDC tells health programs to deprioritize harm reduction within days
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6507
-- slug: 2026-04-01-california-moves-to-fortify-corn-masa-flour-with-folic-acid
-  headline: California moves to fortify corn masa flour with folic acid
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6693
-- slug: 2026-01-05-cdc-narrows-childhood-vaccine-schedule-pediatricians-warn-of-health-risks
-  headline: CDC narrows childhood vaccine schedule; pediatricians warn of health risks
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.6724
-- slug: 2026-01-10-pediatricians-warn-federal-vaccine-guidance-changes-sow-confusion-could-harm-kid
-  headline: Pediatricians warn federal vaccine guidance changes sow confusion, could harm kids
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6718
-- slug: 2026-01-03-snap-bans-soda-and-candy-in-5-states-starting-jan-1
-  headline: SNAP bans soda and candy in 5 states starting Jan. 1
-  publish_date: '2026-01-03'
-  relation: related
-  strength: 0.672
-- slug: 2026-05-08-epa-to-propose-rolling-back-some-biden-era-pfas-limits-in-drinking-water
-  headline: EPA to propose rolling back some Biden-era PFAS limits in drinking water
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6511
-- slug: 2026-05-14-us-overdose-deaths-declined-in-2025-cdc-data-show
-  headline: US overdose deaths declined in 2025, CDC data show
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6491
-- slug: 2026-01-01-trump-officials-eye-limits-on-sugary-drinks-and-candy-in-snap-benefits
-  headline: Trump officials eye limits on sugary drinks and candy in SNAP benefits
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.6586
-- slug: 2026-01-24-fda-traces-powdered-milk-to-byheart-baby-formula-outbreak
-  headline: FDA traces powdered milk to ByHeart baby formula outbreak
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.6558
+  strength: 0.6686
 ---
-
 ## Federal proposal targets eight vitamins and minerals in infant formula
 
 **Subtype:** fact
