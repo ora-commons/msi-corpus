@@ -200,6 +200,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.7916
+analyses:
+- '2026-11-19-parallel-tech-outages-reveal-a-distributed-failure-and-recovery-structure'
 ---
 ## A week of tech outages disrupts flights, banking and email
 
@@ -255,3 +257,8 @@ Across the week, the disruptions reached email, workplace tools, flights, bankin
 **Title:** Are tech disruptions and and outages the new normal?
 **URL:** https://www.pbs.org/newshour/nation/are-tech-disruptions-and-and-outages-the-new-normal
 **Added after publication:** true
+
+---
+
+<!-- analysis-link:2026-11-19-parallel-tech-outages-reveal-a-distributed-failure-and-recovery-structure -->
+**Going deeper:** [Read MSI's analysis of parallel tech outages →](/analyses/2026-11-19-parallel-tech-outages-reveal-a-distributed-failure-and-recovery-structure)

@@ -1,9 +1,18 @@
 ---
 headline: Australian watchdog urges removal of religion from terrorism definition
-secondary_headline: Muslim groups welcome proposal; Australia’s peak Jewish body disputes it
+secondary_headline: Muslim groups welcome proposal; Australia’s peak Jewish body disputes
+  it
 publish_date: '2026-11-20'
-lede: In a report released Thursday, Australia’s Independent National Security Legislation Monitor recommended removing religion as a separate motivation from the country’s terrorism definition. The watchdog also proposed a separate charge for credible terrorist threats with a maximum five-year sentence rather than life imprisonment. Muslim advocacy groups welcomed the recommendations, while the Executive Council of Australian Jewry opposed removing religion from the legal test.
-nut_graf: The report follows warnings from the AFP and ASIO that violent nationalism has changed the threat landscape and that some terrorist motives cannot be assigned to a single ideology. It pairs the proposed definition with sentencing and charge reforms that could affect how Australian authorities prosecute terrorism offenses.
+lede: In a report released Thursday, Australia’s Independent National Security Legislation
+  Monitor recommended removing religion as a separate motivation from the country’s
+  terrorism definition. The watchdog also proposed a separate charge for credible
+  terrorist threats with a maximum five-year sentence rather than life imprisonment.
+  Muslim advocacy groups welcomed the recommendations, while the Executive Council
+  of Australian Jewry opposed removing religion from the legal test.
+nut_graf: The report follows warnings from the AFP and ASIO that violent nationalism
+  has changed the threat landscape and that some terrorist motives cannot be assigned
+  to a single ideology. It pairs the proposed definition with sentencing and charge
+  reforms that could affect how Australian authorities prosecute terrorism offenses.
 primary_entities:
 - Independent National Security Legislation Monitor
 - Jake Blight
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +152,19 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-20-australian-watchdog-urges-removal-of-religion-from-terrorism-definition.png
-  alt: 'Illustration accompanying article: Australian watchdog urges removal of religion from terrorism definition'
+  alt: 'Illustration accompanying article: Australian watchdog urges removal of religion
+    from terrorism definition'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
-related_stories:
-- slug: 2026-11-12-32-of-37-youth-counter-terror-prosecutions-came-in-past-two-years
-  headline: 32 of 37 youth counter-terror prosecutions came in past two years
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5894
-- slug: 2026-11-10-sydney-teen-receives-community-corrections-order-for-planned-terrorist-attack
-  headline: Sydney teen receives community corrections order for planned terrorist attack
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.5734
-- slug: 2026-11-10-australia-accepts-18-ai-safety-recommendations-after-openai-breach
-  headline: Australia accepts 18 AI safety recommendations after OpenAI breach
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.5681
-- slug: 2026-11-06-rohingya-refugees-in-malaysia-struggle-to-worship-freely-amid-discrimination
-  headline: Rohingya refugees in Malaysia struggle to worship freely amid discrimination
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5831
-- slug: 2026-10-30-australia-s-antisemitism-envoy-proposes-ombudsman-to-monitor-abc-sbs
-  headline: Australia's antisemitism envoy proposes ombudsman to monitor ABC, SBS
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6158
-- slug: 2026-11-06-white-house-weighs-order-suspending-nonprofits-tax-exemption-over-terror-ties
-  headline: White House weighs order suspending nonprofits' tax exemption over terror ties
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5698
-- slug: 2026-11-03-justice-department-funds-research-on-violence-and-gender-dysphoria
-  headline: Justice Department funds research on violence and gender dysphoria
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.568
-- slug: 2026-10-21-australian-inquiry-hears-65-children-were-subject-to-federal-police-operations
-  headline: Australian inquiry hears 65 children were subject to federal police operations
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6103
-- slug: 2026-10-13-imf-scenario-could-push-australian-petrol-up-30-cents-a-litre
-  headline: IMF scenario could push Australian petrol up 30 cents a litre
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5863
-- slug: 2026-10-09-comcare-warns-of-likely-safety-law-breach-at-australian-detention-centres
-  headline: Comcare warns of likely safety-law breach at Australian detention centres
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5681
-- slug: 2026-09-16-imf-cuts-australia-2027-growth-forecast-to-1-6-flags-rate-hike-risk
-  headline: IMF cuts Australia 2027 growth forecast to 1.6%, flags rate-hike risk
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6104
-- slug: 2026-09-10-australian-labor-group-urges-wong-to-join-israeli-settlement-trade-ban
-  headline: Australian Labor group urges Wong to join Israeli settlement trade ban
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5799
-- slug: 2026-08-26-treasury-sanctions-palestine-action-as-global-terrorist-citing-uk-attacks-since-
-  headline: Treasury sanctions Palestine Action as global terrorist, citing UK attacks since 2020
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.5658
-- slug: 2026-05-05-some-experts-link-religious-practice-to-better-mental-health-others-hedge
-  headline: Some experts link religious practice to better mental health, others hedge
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6213
-- slug: 2026-06-19-australian-police-charge-third-suspect-in-melbourne-synagogue-arson
-  headline: Australian police charge third suspect in Melbourne synagogue arson
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5831
-- slug: 2026-05-09-trump-religious-freedom-panel-calls-for-end-to-church-state-separation-sweeping-
-  headline: Trump religious freedom panel calls for end to church-state separation, sweeping exemptions
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5779
-- slug: 2026-05-10-trump-s-religious-liberty-panel-weighs-wish-lists-including-ending-church-state-
-  headline: Trump’s religious liberty panel weighs wish lists, including ending church-state separation
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5776
-- slug: 2026-03-12-un-panel-condemns-trump-over-racist-hate-speech-and-immigration-crackdown
-  headline: UN panel condemns Trump over racist hate speech and immigration crackdown
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.584
-- slug: 2026-05-10-trump-religious-liberty-commission-s-wish-list-includes-scrapping-church-state-s
-  headline: Trump religious liberty commission's wish list includes scrapping church-state separation
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5729
-- slug: 2026-03-07-faith-leaders-sue-press-for-ice-detention-access-during-lent-and-ramadan
-  headline: Faith leaders sue, press for ICE detention access during Lent and Ramadan
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.5826
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
+related_stories: []
 ---
-
 ## Australian watchdog urges removal of religion from terrorism definition
 
 **Subtype:** fact

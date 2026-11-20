@@ -180,6 +180,8 @@ related_stories:
   publish_date: '2026-05-14'
   relation: related
   strength: 0.6673
+analyses:
+- '2026-11-18-tceq-resumes-data-center-reviews-before-ercot-reports-findings'
 ---
 ## Texas Commission on Environmental Quality resumes data center permit reviews
 
@@ -222,3 +224,8 @@ ERCOT officials plan to report their full findings to the PUC on Dec. 10 and dis
 **Publication date:** 2026-11-18
 **Title:** Texas regulators are resuming environmental permits for data centers
 **URL:** https://apnews.com/article/environmental-regulators-texas-data-centers-58b175a57bbc2c90fe0c8fa0a5bb8944
+
+---
+
+<!-- analysis-link:2026-11-18-tceq-resumes-data-center-reviews-before-ercot-reports-findings -->
+**Going deeper:** [Read MSI's analysis of Texas data-center permitting →](/analyses/2026-11-18-tceq-resumes-data-center-reviews-before-ercot-reports-findings)

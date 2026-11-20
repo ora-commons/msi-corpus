@@ -1,9 +1,23 @@
 ---
 headline: State media reports Xi warning Trump on Taiwan; Putin questions democracy
-secondary_headline: Donald Tusk says Putin is not his friend; Schifrin calls meeting scripted
+secondary_headline: Donald Tusk says Putin is not his friend; Schifrin calls meeting
+  scripted
 publish_date: '2026-11-19'
-lede: State media reported that Xi Jinping warned Donald Trump to "keep doing the right thing on Taiwan," a reference to Trump's ongoing delay of a Taiwanese weapons sale. PBS NewsHour's Nick Schifrin said the November 19 meeting in Shenzhen lasted just over 80 minutes and called it "a scripted summit." Poland's Prime Minister Donald Tusk said, "Mr. Putin is not our friend, nor will he ever be." During an hour-long press conference, Putin asked, "What is democracy? Is it a liberal attempt to monopolize power, and, in reality, it's a liberal dictatorship?"
-nut_graf: PBS NewsHour's Nick Schifrin relayed a state-media report that Xi Jinping warned Donald Trump to "keep doing the right thing on Taiwan," while Donald Tusk rejected friendship with Vladimir Putin and Putin questioned democracy during an hour-long press conference. Schifrin described the just-over-80-minute Shenzhen meeting as "a scripted summit" and said the joint declaration offered few specifics despite U.S. officials' emphasis on arms-control language. He also reported Trump's focus on personal connections, Putin's World War II framing and unresolved U.S.-China export controls and a trade-truce deadline.
+lede: State media reported that Xi Jinping warned Donald Trump to "keep doing the
+  right thing on Taiwan," a reference to Trump's ongoing delay of a Taiwanese weapons
+  sale. PBS NewsHour's Nick Schifrin said the November 19 meeting in Shenzhen lasted
+  just over 80 minutes and called it "a scripted summit." Poland's Prime Minister
+  Donald Tusk said, "Mr. Putin is not our friend, nor will he ever be." During an
+  hour-long press conference, Putin asked, "What is democracy? Is it a liberal attempt
+  to monopolize power, and, in reality, it's a liberal dictatorship?"
+nut_graf: PBS NewsHour's Nick Schifrin relayed a state-media report that Xi Jinping
+  warned Donald Trump to "keep doing the right thing on Taiwan," while Donald Tusk
+  rejected friendship with Vladimir Putin and Putin questioned democracy during an
+  hour-long press conference. Schifrin described the just-over-80-minute Shenzhen
+  meeting as "a scripted summit" and said the joint declaration offered few specifics
+  despite U.S. officials' emphasis on arms-control language. He also reported Trump's
+  focus on personal connections, Putin's World War II framing and unresolved U.S.-China
+  export controls and a trade-truce deadline.
 primary_entities:
 - Donald Trump
 - Xi Jinping
@@ -54,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +171,44 @@ related_stories:
   headline: Trump, Xi and Putin close Shenzhen talks without nuclear breakthrough
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7793
+  strength: 0.7803
 - slug: 2026-11-19-trump-xi-and-putin-end-shenzhen-summit-with-divergent-priorities
   headline: Trump, Xi and Putin end Shenzhen summit with divergent priorities
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7738
+  strength: 0.7767
 - slug: 2026-11-19-trump-xi-and-putin-end-shenzhen-summit-without-ukraine-breakthrough
   headline: Trump, Xi and Putin end Shenzhen summit without Ukraine breakthrough
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7536
+  strength: 0.7571
 - slug: 2026-11-19-xi-urges-nuclear-disarmament-as-putin-cites-shared-interests-including-ukraine
-  headline: Xi urges nuclear disarmament as Putin cites shared interests including Ukraine
+  headline: Xi urges nuclear disarmament as Putin cites shared interests including
+    Ukraine
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7472
+  strength: 0.7502
 - slug: 2026-11-19-shenzhen-declaration-omits-ukraine-and-iran-wars-leaves-un-reforms-unspecified
   headline: Shenzhen declaration omits Ukraine and Iran wars, leaves UN reforms unspecified
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7442
+  strength: 0.7464
 - slug: 2026-11-18-trump-and-putin-s-expected-one-on-one-talks-could-cover-the-war-in-ukraine
   headline: Trump and Putin's expected one-on-one talks could cover the war in Ukraine
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7379
+  strength: 0.7392
 - slug: 2026-11-19-trump-meets-putin-before-trilateral-kremlin-says-ukraine-was-the-focus
   headline: Trump meets Putin before trilateral; Kremlin says Ukraine was the focus
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7281
+  strength: 0.7312
 - slug: 2026-11-18-trump-begins-china-visit-before-trilateral-summit-with-xi-and-putin
   headline: Trump begins China visit before trilateral summit with Xi and Putin
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7276
-- slug: 2026-11-16-china-confirms-trump-xi-and-putin-will-meet-thursday-in-shenzhen
-  headline: China confirms Trump, Xi and Putin will meet Thursday in Shenzhen
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7264
-- slug: 2026-11-14-white-house-announces-trump-summit-with-xi-and-putin-in-shenzhen
-  headline: White House announces Trump summit with Xi and Putin in Shenzhen
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7306
-- slug: 2026-11-16-china-signals-nuclear-reduction-talks-hinge-on-parity-with-us-and-russia
-  headline: China signals nuclear reduction talks hinge on parity with US and Russia
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7163
-- slug: 2026-10-24-putin-proposes-trump-xi-summit-in-china
-  headline: Putin proposes Trump-Xi summit in China
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.7171
-- slug: 2026-09-25-xi-pressed-trump-to-oppose-taiwan-independence-at-white-house-summit
-  headline: Xi pressed Trump to oppose Taiwan independence at White House summit
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.726
-- slug: 2026-09-25-trump-welcomes-xi-to-white-house-trade-truce-extended-to-january-10
-  headline: Trump welcomes Xi to White House; trade truce extended to January 10
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7257
-- slug: 2026-09-28-taipei-warns-of-severe-situation-in-strait-amid-trump-xi-weapons-row
-  headline: Taipei warns of 'severe situation' in strait amid Trump-Xi weapons row
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.715
-- slug: 2026-09-25-trump-and-xi-conclude-washington-summit-without-ai-accord
-  headline: Trump and Xi conclude Washington summit without AI accord
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.7217
-- slug: 2026-05-16-trump-calls-taiwan-a-negotiating-chip-spurring-taiwan-and-china-anxieties
-  headline: Trump calls Taiwan a “negotiating chip,” spurring Taiwan and China anxieties
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7403
-- slug: 2026-05-15-xi-warns-trump-taiwan-differences-could-spark-us-china-conflict
-  headline: Xi warns Trump Taiwan differences could spark US-China conflict
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7321
-- slug: 2026-05-16-trump-calls-taiwan-arms-sales-a-very-good-negotiating-chip-with-china
-  headline: Trump calls Taiwan arms sales a 'very good negotiating chip' with China
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7257
-- slug: 2026-05-16-trump-defers-taiwan-arms-package-after-xi-raises-concerns-at-beijing-summit
-  headline: Trump defers Taiwan arms package after Xi raises concerns at Beijing summit
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.7249
+  strength: 0.7294
 ---
-
 ## State media reports Xi warning Trump on Taiwan; Putin questions democracy
 
 **Subtype:** fact

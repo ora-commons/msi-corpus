@@ -1,9 +1,20 @@
 ---
 headline: Justice Department asks court to dismiss Alaska Senate certification case
-secondary_headline: Alaska state government called the administration’s move legally “meritless”
+secondary_headline: Alaska state government called the administration’s move legally
+  “meritless”
 publish_date: '2026-11-20'
-lede: The Justice Department asked the 9th U.S. Circuit Court of Appeals on Thursday to declare its lawsuit challenging Alaska’s certification of the U.S. Senate election outcome moot and dismiss the case, two days after the race was decided. The request would effectively end the Trump administration’s legal effort to block Mary Peltola’s certification and prevent her from taking office. Alaska’s Republican-controlled state government objected to the administration’s move, called it legally “meritless” and filed papers supporting dismissal of the initial case.
-nut_graf: The requested dismissal would end the federal government’s attempt to delay certification of a race Mary Peltola won by an outright majority, with her margin of victory exceeding the number of votes cast for Daniel J. Sullivan Jr. The case centered on possible voter confusion over a ballot that included a second candidate with the same name as incumbent Republican Sen. Dan Sullivan.
+lede: The Justice Department asked the 9th U.S. Circuit Court of Appeals on Thursday
+  to declare its lawsuit challenging Alaska’s certification of the U.S. Senate election
+  outcome moot and dismiss the case, two days after the race was decided. The request
+  would effectively end the Trump administration’s legal effort to block Mary Peltola’s
+  certification and prevent her from taking office. Alaska’s Republican-controlled
+  state government objected to the administration’s move, called it legally “meritless”
+  and filed papers supporting dismissal of the initial case.
+nut_graf: The requested dismissal would end the federal government’s attempt to delay
+  certification of a race Mary Peltola won by an outright majority, with her margin
+  of victory exceeding the number of votes cast for Daniel J. Sullivan Jr. The case
+  centered on possible voter confusion over a ballot that included a second candidate
+  with the same name as incumbent Republican Sen. Dan Sullivan.
 primary_entities:
 - Mary Peltola
 - Dan J. Sullivan
@@ -46,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,116 +157,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-20-justice-department-asks-court-to-dismiss-alaska-senate-certification-case.png
-  alt: 'Illustration accompanying article: Justice Department asks court to dismiss Alaska Senate certification case'
+  alt: 'Illustration accompanying article: Justice Department asks court to dismiss
+    Alaska Senate certification case'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-17-mary-peltola-wins-alaska-senate-race-against-republican-dan-sullivan
   headline: Mary Peltola wins Alaska Senate race against Republican Dan Sullivan
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8286
+  strength: 0.8304
 - slug: 2026-11-18-peltola-holds-12-458-vote-lead-as-trump-administration-appeal-remains-pending
-  headline: Peltola holds 12,458-vote lead as Trump administration appeal remains pending
+  headline: Peltola holds 12,458-vote lead as Trump administration appeal remains
+    pending
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8021
+  strength: 0.8039
 - slug: 2026-11-18-mary-peltola-passes-50-threshold-in-alaska-s-u-s-senate-race
   headline: Mary Peltola passes 50% threshold in Alaska's U.S. Senate race
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7878
+  strength: 0.79
 - slug: 2026-11-17-mary-peltola-wins-alaska-s-u-s-senate-race-on-first-choice-majority
   headline: Mary Peltola wins Alaska's U.S. Senate race on first-choice majority
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7902
+  strength: 0.7915
 - slug: 2026-11-18-mary-peltola-says-status-quo-in-dc-is-not-working-for-alaska-after-senate-win
-  headline: Mary Peltola says 'status quo in DC is not working for Alaska' after Senate win
+  headline: Mary Peltola says 'status quo in DC is not working for Alaska' after Senate
+    win
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7773
+  strength: 0.7785
 - slug: 2026-11-17-mary-peltola-leads-alaska-senate-race-with-98-of-votes-counted
   headline: Mary Peltola leads Alaska Senate race with 98% of votes counted
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7816
+  strength: 0.7823
 - slug: 2026-10-31-alaska-urges-federal-judge-to-dismiss-suit-to-halt-senate-certification
   headline: Alaska urges federal judge to dismiss suit to halt Senate certification
   publish_date: '2026-10-31'
   relation: related
   strength: 0.8798
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8744
 - slug: 2026-11-01-gleason-dismisses-justice-department-bid-to-delay-alaska-senate-certification
   headline: Gleason dismisses Justice Department bid to delay Alaska Senate certification
   publish_date: '2026-11-01'
   relation: related
-  strength: 0.83
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8715
-- slug: 2026-11-01-voting-rights-experts-call-alaska-election-intervention-unprecedented
-  headline: Voting-rights experts call Alaska election intervention unprecedented
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.8206
-- slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
-  headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8488
-- slug: 2026-10-31-justice-department-asks-judge-to-segregate-ballots-ranking-second-sullivan
-  headline: Justice Department asks judge to segregate ballots ranking second Sullivan
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.8099
-- slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
-  headline: Alaska voters decide Senate race shadowed by DOJ probe
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.8063
-- slug: 2026-11-01-judge-sharon-gleason-dismisses-suit-over-alaska-senate-certification
-  headline: Judge Sharon Gleason dismisses suit over Alaska Senate certification
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.796
-- slug: 2026-10-30-alaska-and-justice-department-open-criminal-probes-into-second-sullivan-filing
-  headline: Alaska and Justice Department open criminal probes into second Sullivan filing
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.8016
-- slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
-  headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.8047
-- slug: 2026-10-23-sullivan-s-spokesperson-says-senator-will-let-the-doj-complain-run-its-course
-  headline: Sullivan's spokesperson says senator will 'let the DOJ complain run its course'
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8249
-- slug: 2026-10-29-trump-directs-justice-department-to-challenge-possible-alaska-senate-result
-  headline: Trump directs Justice Department to challenge possible Alaska Senate result
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.7932
-- slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7865
+  strength: 0.8305
 ---
-
 ## Justice Department asks court to dismiss Alaska Senate certification case
 
 **Subtype:** fact

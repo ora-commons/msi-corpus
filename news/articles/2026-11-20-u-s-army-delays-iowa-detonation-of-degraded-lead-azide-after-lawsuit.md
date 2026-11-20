@@ -2,8 +2,22 @@
 headline: U.S. Army delays Iowa detonation of degraded lead azide after lawsuit
 secondary_headline: Plume could carry toxic lead dust over eastern Iowa and into Illinois
 publish_date: '2026-11-20'
-lede: The U.S. Army delayed to Monday the detonation of five tonnes of degraded explosive material at the Iowa Army Ammunition Plant in Middletown, Iowa, after two environmental groups sued on Thursday to block the operation. Acting Secretary of the Army Adam Telle, who announced the delay on Thursday evening, said "public safety is the Army's top priority." The Army said the detonations could create an air plume carrying toxic dust containing lead particles over eastern Iowa and into neighbouring Illinois. Middletown residents were asked to leave their homes for about six hours, from 08:00 to 14:00 local time, while the operation takes place and the dust settles.
-nut_graf: The Army's decision comes as officials say the stored lead azide has become too unstable to move. The EPA-permitted detonation could create an air plume carrying toxic dust containing lead particles over eastern Iowa and into neighbouring Illinois, with contaminants potentially settling on farmland, playgrounds and other surfaces. Middletown residents were asked to leave for about six hours, and the Army advised "all humans" to avoid outdoor activities in affected areas. The operation was rescheduled for Monday while no court ruling on the EPA's emergency permit challenge had been reported.
+lede: The U.S. Army delayed to Monday the detonation of five tonnes of degraded explosive
+  material at the Iowa Army Ammunition Plant in Middletown, Iowa, after two environmental
+  groups sued on Thursday to block the operation. Acting Secretary of the Army Adam
+  Telle, who announced the delay on Thursday evening, said "public safety is the Army's
+  top priority." The Army said the detonations could create an air plume carrying
+  toxic dust containing lead particles over eastern Iowa and into neighbouring Illinois.
+  Middletown residents were asked to leave their homes for about six hours, from 08:00
+  to 14:00 local time, while the operation takes place and the dust settles.
+nut_graf: The Army's decision comes as officials say the stored lead azide has become
+  too unstable to move. The EPA-permitted detonation could create an air plume carrying
+  toxic dust containing lead particles over eastern Iowa and into neighbouring Illinois,
+  with contaminants potentially settling on farmland, playgrounds and other surfaces.
+  Middletown residents were asked to leave for about six hours, and the Army advised
+  "all humans" to avoid outdoor activities in affected areas. The operation was rescheduled
+  for Monday while no court ruling on the EPA's emergency permit challenge had been
+  reported.
 primary_entities:
 - U.S. Army
 - Iowa Army Ammunition Plant
@@ -50,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,7 +167,7 @@ related_stories:
   headline: U.S. Army plans Iowa detonation as officials warn of lead dust
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8639
+  strength: 0.8631
 - slug: 2026-11-19-iowa-schools-close-friday-as-u-s-army-updates-lead-drift-maps
   headline: Iowa schools close Friday as U.S. Army updates lead-drift maps
   publish_date: '2026-11-19'
@@ -162,94 +177,13 @@ related_stories:
   headline: Danville schools close Friday over Iowa detonation uncertainty
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7573
-- slug: 2026-11-17-dynegy-zimmer-s-data-show-lithium-above-groundwater-standards
-  headline: Dynegy Zimmer's data show lithium above groundwater standards
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.5944
-- slug: 2026-10-28-study-finds-7-million-exposed-to-high-lead-levels-in-los-angeles-fire-smoke
-  headline: Study finds 7 million exposed to high lead levels in Los Angeles fire smoke
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6205
-- slug: 2026-10-29-nuclear-watchdogs-demand-accounting-after-savannah-river-lab-fire
-  headline: Nuclear watchdogs demand accounting after Savannah River lab fire
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6122
-- slug: 2026-10-27-minnpost-samples-show-high-lead-levels-at-st-paul-s-largest-homeless-encampment
-  headline: MinnPost samples show high lead levels at St. Paul's largest homeless encampment
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5928
-- slug: 2026-08-25-federal-judge-withholds-approval-of-east-palestine-settlement
-  headline: Federal judge withholds approval of East Palestine settlement
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6193
-- slug: 2026-08-12-energy-fuels-to-more-than-double-white-mesa-mill-output-as-tribe-demands-shutdow
-  headline: Energy Fuels to more than double White Mesa Mill output as tribe demands shutdown
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.6139
+  strength: 0.7574
 - slug: 2026-03-11-adirondacks-residents-clamor-over-proposed-artillery-testing
   headline: Adirondacks residents clamor over proposed artillery testing
   publish_date: '2026-03-11'
   relation: related
-  strength: 0.6543
-- slug: 2026-06-25-army-leases-land-on-bases-for-critical-mineral-processing
-  headline: Army Leases Land on Bases for Critical Mineral Processing
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6051
-- slug: 2026-03-10-adirondacks-residents-clamor-over-proposed-howitzer-artillery-testing
-  headline: Adirondacks residents clamor over proposed howitzer artillery testing
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6343
-- slug: 2026-06-11-hazardous-materials-incident-triggers-pentagon-lockdown-evacuation
-  headline: Hazardous materials incident triggers Pentagon lockdown, evacuation
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.602
-- slug: 2025-12-30-bomb-cyclone-brings-blizzards-to-the-midwest-before-turning-east
-  headline: Bomb cyclone brings blizzards to the Midwest before turning east
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6269
-- slug: 2026-06-15-trump-uses-wartime-powers-to-push-75m-oakland-coal-terminal
-  headline: Trump uses wartime powers to push $75M Oakland coal terminal
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5956
-- slug: 2026-06-04-louisiana-democrat-demands-transparency-on-proposed-ice-family-detention-center
-  headline: Louisiana Democrat demands transparency on proposed ICE family detention center
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5986
-- slug: 2026-05-08-clean-energy-group-says-pentagon-is-stalling-new-onshore-wind-projects
-  headline: Clean energy group says Pentagon is stalling new onshore wind projects
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6066
-- slug: 2026-06-11-pentagon-floors-locked-down-after-reported-air-quality-issue
-  headline: Pentagon floors locked down after reported air quality issue
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5928
-- slug: 2026-05-06-east-wing-debris-at-dc-golf-course-tested-positive-for-toxic-metals-report
-  headline: 'East Wing debris at DC golf course tested positive for toxic metals: report'
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6006
-- slug: 2026-03-07-us-weapons-stockpiles-under-strain-as-iran-war-enters-second-week-democrats-warn
-  headline: US weapons stockpiles under strain as Iran war enters second week, Democrats warn
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6084
+  strength: 0.655
 ---
-
 ## U.S. Army delays Iowa detonation of degraded lead azide after lawsuit
 
 **Subtype:** fact
