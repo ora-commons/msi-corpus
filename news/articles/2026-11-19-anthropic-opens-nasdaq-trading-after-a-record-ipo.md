@@ -1,9 +1,20 @@
 ---
 headline: Anthropic opens Nasdaq trading after a record IPO
-secondary_headline: Anthropic commits to spending hundreds of billions of dollars on data centers
+secondary_headline: Anthropic commits to spending hundreds of billions of dollars
+  on data centers
 publish_date: '2026-11-19'
-lede: Anthropic began trading on Nasdaq on Thursday under the ticker symbol ANT after what NPR described as the largest initial public offering in history. Shares opened 34% above the $83 offering price and ended above it. CEO Dario Amodei said the public listing would strengthen Anthropic's financial position and its resolve to pursue AI safety.
-nut_graf: 'The debut drew strong demand for a company focused solely on artificial intelligence as people and investors weighed concerns about data centers, job losses to AI, AI systems going rogue or spiraling out of control and whether money flowing into AI was justified. It also placed Anthropic''s commercial plans against its safety mission: the company has committed to spending hundreds of billions of dollars on data centers, while Dario Amodei has pledged to take as long as necessary to keep new models safe and under control.'
+lede: Anthropic began trading on Nasdaq on Thursday under the ticker symbol ANT after
+  what NPR described as the largest initial public offering in history. Shares opened
+  34% above the $83 offering price and ended above it. CEO Dario Amodei said the public
+  listing would strengthen Anthropic's financial position and its resolve to pursue
+  AI safety.
+nut_graf: 'The debut drew strong demand for a company focused solely on artificial
+  intelligence as people and investors weighed concerns about data centers, job losses
+  to AI, AI systems going rogue or spiraling out of control and whether money flowing
+  into AI was justified. It also placed Anthropic''s commercial plans against its
+  safety mission: the company has committed to spending hundreds of billions of dollars
+  on data centers, while Dario Amodei has pledged to take as long as necessary to
+  keep new models safe and under control.'
 primary_entities:
 - Anthropic
 - Nasdaq
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +154,47 @@ related_stories:
   headline: Anthropic sets IPO share price at $83 ahead of Nasdaq debut
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8653
+  strength: 0.8661
 - slug: 2026-11-18-anthropic-raises-79-4-billion-in-record-ipo
   headline: Anthropic raises $79.4 billion in record IPO
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8644
+  strength: 0.8649
 - slug: 2026-11-19-anthropic-closes-ipo-debut-at-97-after-nearing-2-trillion
   headline: Anthropic closes IPO debut at $97 after nearing $2 trillion
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8539
+  strength: 0.8546
 - slug: 2026-11-18-anthropic-set-to-become-the-first-us-company-focused-solely-on-ai-to-go-public
-  headline: Anthropic set to become the first US company focused solely on AI to go public
+  headline: Anthropic set to become the first US company focused solely on AI to go
+    public
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8598
+  strength: 0.8604
 - slug: 2026-11-19-anthropic-s-107-3bn-ipo-total-follows-a-nasdaq-composite-pullback-over-10
-  headline: Anthropic's $107.3bn IPO total follows a Nasdaq Composite pullback over 10%
+  headline: Anthropic's $107.3bn IPO total follows a Nasdaq Composite pullback over
+    10%
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8439
+  strength: 0.8449
 - slug: 2026-11-19-anthropic-opens-trading-with-a-2-01-trillion-valuation-setting-an-ipo-record
-  headline: Anthropic opens trading with a $2.01 trillion valuation, setting an IPO record
+  headline: Anthropic opens trading with a $2.01 trillion valuation, setting an IPO
+    record
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8374
+  strength: 0.839
 - slug: 2026-11-19-dan-ives-sees-anthropic-ipo-demand-rich-lesser-sees-mostly-upward-ai-valuations
-  headline: Dan Ives sees Anthropic IPO demand; Rich Lesser sees mostly upward AI valuations
+  headline: Dan Ives sees Anthropic IPO demand; Rich Lesser sees mostly upward AI
+    valuations
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.836
+  strength: 0.837
 - slug: 2026-11-18-anthropic-s-ipo-arrives-amid-debt-and-company-disclosed-900-billion-commitments
   headline: Anthropic's IPO arrives amid debt and company-disclosed $900 billion commitments
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8292
-- slug: 2026-11-18-anthropic-sells-more-ipo-shares-than-planned-after-oversubscribed-demand
-  headline: Anthropic sells more IPO shares than planned after oversubscribed demand
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.8129
-- slug: 2026-11-18-anthropic-s-ipo-nears-trading-at-a-70-to-78-share-price-range
-  headline: Anthropic's IPO nears trading at a $70 to $78 share price range
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7953
-- slug: 2026-11-17-anthropic-may-price-ipo-above-80-after-unusually-large-orders
-  headline: Anthropic may price IPO above $80 after unusually large orders
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7973
-- slug: 2026-11-19-spacex-sk-hynix-and-saudi-aramco-trail-anthropic-in-ipo-proceeds
-  headline: SpaceX, SK Hynix and Saudi Aramco trail Anthropic in IPO proceeds
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7813
-- slug: 2026-11-10-anthropic-sets-70-to-78-share-price-for-up-to-64bn-nasdaq-ipo
-  headline: Anthropic sets $70 to $78 share price for up to $64bn Nasdaq IPO
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8256
-- slug: 2026-11-17-anthropic-presses-ahead-with-ipo-despite-ai-stock-volatility
-  headline: Anthropic presses ahead with IPO despite AI stock volatility
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7774
-- slug: 2026-11-10-anthropic-sets-ipo-terms-at-up-to-1-4-trillion-below-reported-2-trillion-goal
-  headline: Anthropic sets IPO terms at up to $1.4 trillion, below reported $2 trillion goal
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8123
-- slug: 2026-10-26-anthropic-files-ipo-papers-as-reports-put-proceeds-at-up-to-100-billion
-  headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8364
-- slug: 2026-10-26-anthropic-files-for-ipo-with-16-286bn-revenue-and-80bn-loss
-  headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8184
-- slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
-  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time charge
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.8134
-- slug: 2026-11-02-anthropic-adds-quarterly-results-to-its-updated-ipo-filing
-  headline: Anthropic adds quarterly results to its updated IPO filing
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7715
-- slug: 2026-10-27-anthropic-begins-ipo-process-outlining-potential-ai-benefits-and-risks
-  headline: Anthropic begins IPO process, outlining potential AI benefits and risks
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.781
+  strength: 0.8305
 ---
-
 ## Anthropic opens Nasdaq trading after a record IPO
 
 **Subtype:** fact
