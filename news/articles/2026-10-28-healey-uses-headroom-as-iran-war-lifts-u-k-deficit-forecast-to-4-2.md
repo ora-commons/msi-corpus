@@ -31,7 +31,8 @@ primary_themes:
 topic_tags:
 - economy
 - government
-storyline_nexus: []
+storyline_nexus:
+- the-u-k-budget
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.768
 ---
+
 ## Healey uses headroom as Iran war lifts U.K. deficit forecast to 4.2%
 
 **Subtype:** fact

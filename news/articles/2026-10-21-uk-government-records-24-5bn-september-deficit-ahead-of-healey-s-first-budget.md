@@ -33,7 +33,8 @@ topic_tags:
 - economy
 - government
 - public health
-storyline_nexus: []
+storyline_nexus:
+- the-u-k-budget
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -188,6 +189,7 @@ related_stories:
   relation: related
   strength: 0.7803
 ---
+
 ## UK government records £24.5bn September deficit ahead of Healey’s first budget
 
 **Subtype:** fact
