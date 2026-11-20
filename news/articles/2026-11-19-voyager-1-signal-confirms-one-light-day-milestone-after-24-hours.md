@@ -51,7 +51,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 3
   outlets:
   - Associated Press
   outlet_classes:
@@ -219,3 +219,17 @@ Each spacecraft carries a Golden Record filled with sounds of Earth. The late Co
 **Publication date:** 2026-11-19
 **Title:** NASA's Voyager 1 phones home from one light-day away
 **URL:** https://apnews.com/article/voyager-nasa-light-day-interstellar-space-db9f5f8d9ec3a40f1f434446baf326b5
+
+### src_late_18b4dbebc5e5229f — Associated Press, wire, Tier 1, originating
+**Author:** Marcia Dunn
+**Publication date:** 2026-11-19
+**Title:** La nave Voyager 1 de la NASA llama a la Tierra desde una asombrosa distancia de un día luz
+**URL:** https://apnews.com/article/voyager-record-dia-luz-distancia-mensaje-fcdc1c17f6e1faeb0afa0d24b3397afb
+**Added after publication:** true
+
+### src_late_35d4cf6051554d23 — Associated Press, wire, Tier 1, originating
+**Author:** Marcia Dunn, Associated Press
+**Publication date:** 2026-11-19
+**Title:** NASA's Voyager 1 calls Earth from more than 16 billion miles, or one light-day, away
+**URL:** https://www.pbs.org/newshour/science/nasas-voyager-1-calls-earth-from-more-than-16-billion-miles-or-one-light-day-away
+**Added after publication:** true

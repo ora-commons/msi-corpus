@@ -1,9 +1,19 @@
 ---
 headline: U.S. commercial electricity demand set to surpass residential use
-secondary_headline: Electric Power Research Institute estimates data centers’ 4% to 5% U.S. electricity share
+secondary_headline: Electric Power Research Institute estimates data centers’ 4% to
+  5% U.S. electricity share
 publish_date: '2026-11-19'
-lede: Commercial electricity customers, including data centers, are poised to consume more electricity than residential customers in the U.S. for the first time in 2026, according to the U.S. Energy Information Administration. The milestone comes as data-center construction starts stalled over the summer amid a broad backlash against AI, driven partly by concerns about data centers’ massive electricity appetite. In November’s midterm elections, voters backed candidates and ballot measures that would ban or slow data-center development.
-nut_graf: The category-wide milestone does not mean data centers alone will exceed household electricity use. Still, their projected growth and about 58 gigawatts of capacity under construction make power demand a central factor in grid investment, utility budgets and debates over development.
+lede: Commercial electricity customers, including data centers, are poised to consume
+  more electricity than residential customers in the U.S. for the first time in 2026,
+  according to the U.S. Energy Information Administration. The milestone comes as
+  data-center construction starts stalled over the summer amid a broad backlash against
+  AI, driven partly by concerns about data centers’ massive electricity appetite.
+  In November’s midterm elections, voters backed candidates and ballot measures that
+  would ban or slow data-center development.
+nut_graf: The category-wide milestone does not mean data centers alone will exceed
+  household electricity use. Still, their projected growth and about 58 gigawatts
+  of capacity under construction make power demand a central factor in grid investment,
+  utility budgets and debates over development.
 primary_entities:
 - U.S. Energy Information Administration
 - Electric Power Research Institute
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +154,46 @@ related_stories:
   headline: IEA projects 70% rise in data center emissions by 2030
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7265
+  strength: 0.727
 - slug: 2026-11-16-us-hyperscale-datacenters-emit-25-7m-tons-of-co2-study-finds
   headline: US hyperscale datacenters emit 25.7m tons of CO2, study finds
   publish_date: '2026-11-16'
   relation: related
   strength: 0.7285
 - slug: 2026-11-17-guidi-says-preliminary-results-count-about-1-000-u-s-hyperscale-data-centers
-  headline: Guidi says preliminary results count about 1,000 U.S. hyperscale data centers
+  headline: Guidi says preliminary results count about 1,000 U.S. hyperscale data
+    centers
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6995
+  strength: 0.6991
 - slug: 2026-11-09-studied-hyperscale-data-centers-collectively-used-68-to-99-terawatt-hours-a-year
-  headline: Studied hyperscale data centers collectively used 68 to 99 terawatt hours a year
+  headline: Studied hyperscale data centers collectively used 68 to 99 terawatt hours
+    a year
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7276
+  strength: 0.7271
 - slug: 2026-11-11-texas-ohio-and-georgia-data-center-plans-face-a-policy-test-after-midterms
   headline: Texas, Ohio and Georgia data-center plans face a policy test after midterms
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6973
+  strength: 0.697
 - slug: 2026-11-06-data-center-skeptics-win-across-us-midterms-as-tougher-state-rules-loom
   headline: Data center skeptics win across US midterms as tougher state rules loom
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6986
+  strength: 0.6984
 - slug: 2026-11-02-electricity-bills-enter-2026-midterm-campaigns
   headline: Electricity bills enter 2026 midterm campaigns
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7005
+  strength: 0.7004
 - slug: 2026-10-21-consumer-reports-finds-81-of-respondents-in-same-house-for-3-years-report-higher
-  headline: Consumer Reports finds 81% of respondents in same house for 3+ years report higher electricity bills
+  headline: Consumer Reports finds 81% of respondents in same house for 3+ years report
+    higher electricity bills
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7029
-- slug: 2026-10-21-trump-proposes-own-electricity-and-community-dividends-for-new-data-centers
-  headline: Trump proposes own electricity and community dividends for new data centers
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6944
-- slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
-  headline: Data center backlash forces bipartisan repositioning ahead of US midterms
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7005
-- slug: 2026-08-25-us-gas-fired-power-buildout-outpaces-china-amid-ai-datacenter-buildout
-  headline: US gas-fired power buildout outpaces China amid AI datacenter buildout
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.7405
-- slug: 2026-09-07-data-center-boom-brings-union-overtime-as-communities-try-to-block
-  headline: Data center boom brings union overtime as communities try to block
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6861
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6894
-- slug: 2026-07-24-ai-data-center-demand-drives-u-s-power-plant-costs-up-10
-  headline: AI data center demand drives U.S. power plant costs up 10%
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.7269
-- slug: 2026-07-16-power-companies-use-eminent-domain-to-seize-land-for-data-center-transmission-li
-  headline: Power companies use eminent domain to seize land for data center transmission lines
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7204
-- slug: 2026-06-19-datacenters-drive-us-clean-energy-growth-while-still-threatening-climate
-  headline: Datacenters drive US clean energy growth while still threatening climate
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7163
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6927
-- slug: 2026-07-11-ai-data-center-construction-threatens-farmland-farmers-and-ranchers-warn
-  headline: AI data center construction threatens farmland, farmers and ranchers warn
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6979
-- slug: 2026-06-29-ai-data-center-power-demand-threatens-steel-industry-operations
-  headline: AI data center power demand threatens steel industry operations
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6974
-- slug: 2026-07-02-record-58-5-gw-of-new-power-added-but-grid-faces-five-alarm-fire
-  headline: Record 58.5 GW of new power added, but grid faces 'five-alarm fire'
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6939
+  strength: 0.7014
 ---
-
 ## U.S. commercial electricity demand set to surpass residential use
 
 **Subtype:** fact

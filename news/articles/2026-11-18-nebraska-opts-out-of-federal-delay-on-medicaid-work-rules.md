@@ -1,9 +1,20 @@
 ---
 headline: Nebraska opts out of federal delay on Medicaid work rules
-secondary_headline: Nebraska Appleseed data show 1,000-plus denied care or lost coverage since May
+secondary_headline: Nebraska Appleseed data show 1,000-plus denied care or lost coverage
+  since May
 publish_date: '2026-11-18'
-lede: Nebraska will not participate in the six-month "hold harmless" period the Centers for Medicare & Medicaid Services announced Friday for Medicaid work requirements, keeping in place a rollout the state began May 1. The Nebraska Department of Health and Human Services said it managed the transition effectively for eligible individuals. Nebraska Appleseed, an advocacy organization, reports that the latest available data show more than 1,000 Nebraskans have been denied care or have lost coverage since May.
-nut_graf: The federal extension is intended to give state staff time to assess whether Medicaid recipients meet certain requirements or exclusions before the work requirements take effect, a cushion Nebraska says it does not need. Nebraska opted in on May 1 and became the first state to adopt the changes, leaving the state to enforce them without the federal buffer ahead of the original Jan. 1 implementation deadline.
+lede: Nebraska will not participate in the six-month "hold harmless" period the Centers
+  for Medicare & Medicaid Services announced Friday for Medicaid work requirements,
+  keeping in place a rollout the state began May 1. The Nebraska Department of Health
+  and Human Services said it managed the transition effectively for eligible individuals.
+  Nebraska Appleseed, an advocacy organization, reports that the latest available
+  data show more than 1,000 Nebraskans have been denied care or have lost coverage
+  since May.
+nut_graf: The federal extension is intended to give state staff time to assess whether
+  Medicaid recipients meet certain requirements or exclusions before the work requirements
+  take effect, a cushion Nebraska says it does not need. Nebraska opted in on May
+  1 and became the first state to adopt the changes, leaving the state to enforce
+  them without the federal buffer ahead of the original Jan. 1 implementation deadline.
 primary_entities:
 - Nebraska
 - Centers for Medicare & Medicaid Services
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,99 +161,40 @@ related_stories:
   headline: CMS lets states delay Medicaid work requirement enforcement until July
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7884
+  strength: 0.7886
 - slug: 2026-11-17-kentucky-medicaid-work-requirements-remain-set-for-jan-1
   headline: Kentucky Medicaid work requirements remain set for Jan. 1
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7446
+  strength: 0.7447
 - slug: 2026-11-09-nebraska-medicaid-work-rules-bring-denials-amid-dispute-over-patient-s-coverage
-  headline: Nebraska Medicaid work rules bring denials amid dispute over patient's coverage
+  headline: Nebraska Medicaid work rules bring denials amid dispute over patient's
+    coverage
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7956
+  strength: 0.7949
 - slug: 2026-11-17-connecticut-delays-medicaid-work-rule-coverage-losses-through-june-30-2027
-  headline: Connecticut delays Medicaid work-rule coverage losses through June 30, 2027
+  headline: Connecticut delays Medicaid work-rule coverage losses through June 30,
+    2027
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7414
+  strength: 0.742
 - slug: 2026-11-17-indiana-reviews-whether-to-delay-medicaid-work-rule-enforcement
   headline: Indiana reviews whether to delay Medicaid work-rule enforcement
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7262
+  strength: 0.7266
 - slug: 2026-11-13-cms-creates-optional-hold-harmless-period-for-medicaid-work-rule
   headline: CMS creates optional hold harmless period for Medicaid work rule
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7441
+  strength: 0.7446
 - slug: 2026-11-17-ohio-prepares-for-medicaid-work-rules-as-federal-law-phases-in
   headline: Ohio prepares for Medicaid work rules as federal law phases in
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6629
-- slug: 2026-11-13-states-lack-guidance-on-medicaid-work-rule-exemptions-for-native-americans
-  headline: States lack guidance on Medicaid work-rule exemptions for Native Americans
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6755
-- slug: 2026-10-29-judge-blocks-stricter-medicaid-exemption-rule-for-chronically-ill
-  headline: Judge blocks stricter Medicaid exemption rule for chronically ill
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6603
-- slug: 2026-10-29-ama-president-calls-medicaid-frailty-ruling-a-victory-for-patients
-  headline: AMA president calls Medicaid frailty ruling 'a victory for patients'
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.653
-- slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6436
-- slug: 2026-04-28-nebraska-to-enforce-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to enforce Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.8331
-- slug: 2026-04-27-nebraska-to-start-medicaid-work-requirement-for-new-applicants-friday
-  headline: Nebraska to start Medicaid work requirement for new applicants Friday
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.8202
-- slug: 2026-09-12-montana-drops-cancer-survivor-s-medicaid-disability-coverage
-  headline: Montana drops cancer survivor's Medicaid disability coverage
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6613
-- slug: 2026-08-04-federal-medicaid-work-rule-excludes-homelessness-as-automatic-exemption
-  headline: Federal Medicaid work rule excludes homelessness as automatic exemption
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.691
-- slug: 2026-06-01-trump-administration-imposes-80-hour-monthly-work-requirement-for-medicaid
-  headline: Trump administration imposes 80-hour monthly work requirement for Medicaid
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7015
-- slug: 2026-03-24-nebraska-seeks-to-end-retroactive-medicaid-coverage
-  headline: Nebraska seeks to end retroactive Medicaid coverage
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7171
-- slug: 2026-03-02-medicaid-work-mandates-force-states-to-spend-millions-on-new-technology
-  headline: Medicaid work mandates force states to spend millions on new technology
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6653
-- slug: 2025-12-29-work-requirements-for-snap-medicaid-and-hud-benefits-a-state-by-state-impact
-  headline: 'Work requirements for SNAP, Medicaid and HUD benefits: a state-by-state impact'
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.66
+  strength: 0.6624
 ---
-
 ## Nebraska opts out of federal delay on Medicaid work rules
 
 **Subtype:** fact
