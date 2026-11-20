@@ -52,10 +52,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -189,3 +191,9 @@ First Assistant United States Attorney Bill Essayli said, “The scale of the th
 **Publication date:** 2026-11-19
 **Title:** Indictment unsealed in $22M train heist targeting Nike sneakers and Crocs
 **URL:** https://apnews.com/article/california-nike-train-heist-ring-ed54b10d751d1b3a5a32e834629bf125
+
+### src_late_e4415f2d2cb66fa8 — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-19
+**Title:** Suspects charged in brazen train heist ring that netted $22m in cargo from major retailers
+**URL:** https://www.theguardian.com/us-news/2026/nov/19/nike-croc-train-heist
+**Added after publication:** true
