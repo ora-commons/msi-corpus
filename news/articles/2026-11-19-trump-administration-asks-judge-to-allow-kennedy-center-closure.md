@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-09-20'
   relation: related
   strength: 0.7834
+analyses:
+- '2026-11-19-trump-administration-seeks-clearance-for-kennedy-center-s-two-year-closure'
 ---
 ## Trump administration asks judge to allow Kennedy Center closure
 
@@ -234,3 +236,8 @@ Government lawyers countered that a Kennedy Center official who consulted with T
 **Publication date:** 2026-11-19
 **Title:** Judge asked by Trump lawyers to lift order blocking Kennedy Center's two-year closure
 **URL:** https://apnews.com/article/trump-kennedy-center-judge-cooper-c72117aeced3dde51be20ddc0e177a3c
+
+---
+
+<!-- analysis-link:2026-11-19-trump-administration-seeks-clearance-for-kennedy-center-s-two-year-closure -->
+**Going deeper:** [Read MSI's analysis of the Kennedy Center closure injunction →](/analyses/2026-11-19-trump-administration-seeks-clearance-for-kennedy-center-s-two-year-closure)
