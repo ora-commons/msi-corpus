@@ -1,9 +1,18 @@
 ---
-headline: U.K. borrowing rises in October as full-year deficit remains on track to shrink
-secondary_headline: Interest payments rise by 2.8 billion pounds amid inflation and bond yields
+headline: U.K. borrowing rises in October as full-year deficit remains on track to
+  shrink
+secondary_headline: Interest payments rise by 2.8 billion pounds amid inflation and
+  bond yields
 publish_date: '2026-11-20'
-lede: The U.K. government spent 17 billion pounds ($22.25 billion) more than it collected in October, the Office for National Statistics said on November 20, widening the monthly deficit by 800 million pounds from a year earlier. Borrowing over the first seven months of the fiscal year remained 7.3 billion pounds below the same period in 2025, leaving the government on course to reduce its annual deficit.
-nut_graf: The monthly increase did not erase the government’s improved year-to-date borrowing position. Higher interest payments and rising energy costs partly explain why the Office for Budget Responsibility’s full-year deficit estimate is 4.2% of GDP, above the 3.6% planned in March.
+lede: The U.K. government spent 17 billion pounds ($22.25 billion) more than it collected
+  in October, the Office for National Statistics said on November 20, widening the
+  monthly deficit by 800 million pounds from a year earlier. Borrowing over the first
+  seven months of the fiscal year remained 7.3 billion pounds below the same period
+  in 2025, leaving the government on course to reduce its annual deficit.
+nut_graf: The monthly increase did not erase the government’s improved year-to-date
+  borrowing position. Higher interest payments and rising energy costs partly explain
+  why the Office for Budget Responsibility’s full-year deficit estimate is 4.2% of
+  GDP, above the 3.6% planned in March.
 primary_entities:
 - Office for National Statistics
 - Office for Budget Responsibility
@@ -47,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,107 +156,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-18-u-k-inflation-hits-3-6-likely-supporting-expectations-of-another-boe-rate-hike
-  headline: U.K. inflation hits 3.6%, likely supporting expectations of another BOE rate hike
+  headline: U.K. inflation hits 3.6%, likely supporting expectations of another BOE
+    rate hike
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7327
+  strength: 0.7335
 - slug: 2026-11-18-uk-diesel-hits-30-year-high-at-199-5p-as-petrol-reaches-174-7p
   headline: UK diesel hits 30-year high at 199.5p as petrol reaches 174.7p
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6689
+  strength: 0.6682
 - slug: 2026-10-21-uk-government-records-24-5bn-september-deficit-ahead-of-healey-s-first-budget
-  headline: UK government records £24.5bn September deficit ahead of Healey’s first budget
+  headline: UK government records £24.5bn September deficit ahead of Healey’s first
+    budget
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7613
+  strength: 0.7612
 - slug: 2026-10-21-u-k-inflation-rises-to-3-5-ahead-of-expected-bank-of-england-hike
   headline: U.K. inflation rises to 3.5% ahead of expected Bank of England hike
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7325
+  strength: 0.7328
 - slug: 2026-11-05-developing-country-debt-climbs-to-9-4-trillion-as-borrowing-costs-rise
   headline: Developing-country debt climbs to $9.4 trillion as borrowing costs rise
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6536
-- slug: 2026-11-05-bank-of-england-raises-rates-to-4-as-iran-war-lifts-inflation-risks
-  headline: Bank of England raises rates to 4% as Iran war lifts inflation risks
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6479
+  strength: 0.6534
 - slug: 2026-11-04-uk-services-pmi-hits-eight-month-high-before-bank-of-england-decision
   headline: UK services PMI hits eight-month high before Bank of England decision
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6527
+  strength: 0.653
 - slug: 2026-10-28-healey-uses-headroom-as-iran-war-lifts-u-k-deficit-forecast-to-4-2
   headline: Healey uses headroom as Iran war lifts U.K. deficit forecast to 4.2%
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6874
+  strength: 0.6878
 - slug: 2026-10-21-higher-petrol-and-diesel-costs-drive-britain-s-september-inflation
   headline: Higher petrol and diesel costs drive Britain's September inflation
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7098
-- slug: 2026-11-02-bank-of-england-likely-to-hike-to-4-to-contain-inflation-5-rate-path-uncertain
-  headline: Bank of England likely to hike to 4% to contain inflation, 5% rate path uncertain
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6495
-- slug: 2026-10-28-obr-cuts-uk-growth-forecast-as-energy-prices-lift-inflation
-  headline: OBR cuts UK growth forecast as energy prices lift inflation
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6739
-- slug: 2026-09-22-uk-borrowing-totals-18-3bn-in-august-above-obr-forecast
-  headline: UK borrowing totals £18.3bn in August, above OBR forecast
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.7916
-- slug: 2026-10-15-tuc-finds-uk-households-paid-13-961-extra-on-bills-since-2021
-  headline: TUC finds UK households paid £13,961 extra on bills since 2021
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6739
-- slug: 2026-10-08-u-s-budget-deficit-climbs-12-to-nearly-2-trillion-in-fiscal-2026
-  headline: U.S. budget deficit climbs 12% to nearly $2 trillion in fiscal 2026
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6888
-- slug: 2026-10-08-uk-10-year-gilt-yield-hits-19-year-high-amid-global-bond-selloff
-  headline: UK 10-year gilt yield hits 19-year high amid global bond selloff
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6714
-- slug: 2026-10-12-uk-business-inflation-pressures-hit-three-year-high-bdo-index-shows
-  headline: UK business inflation pressures hit three-year high, BDO index shows
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6501
-- slug: 2026-09-21-s-p-global-uk-consumer-sentiment-index-falls-to-42-7-in-september
-  headline: S&P Global UK consumer sentiment index falls to 42.7 in September
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6717
-- slug: 2026-09-16-uk-inflation-forecast-to-rise-to-3-1-in-august-as-fuel-costs-climb
-  headline: UK inflation forecast to rise to 3.1% in August as fuel costs climb
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6841
-- slug: 2026-09-25-uk-consumer-confidence-hits-two-year-high-as-energy-costs-push-up-inflation
-  headline: UK consumer confidence hits two-year high as energy costs push up inflation
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6539
-- slug: 2026-09-22-imf-chief-urges-advanced-economies-to-cut-debt-as-borrowing-costs-rise
-  headline: IMF chief urges advanced economies to cut debt as borrowing costs rise
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6516
+  strength: 0.7092
 ---
-
 ## U.K. borrowing rises in October as full-year deficit remains on track to shrink
 
 **Subtype:** fact

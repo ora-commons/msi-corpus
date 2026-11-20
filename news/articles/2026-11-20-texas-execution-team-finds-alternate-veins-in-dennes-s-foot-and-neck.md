@@ -1,9 +1,22 @@
 ---
 headline: Texas execution team finds alternate veins in Dennes's foot and neck
-secondary_headline: Dennes exclaimed 'The pain!' before a physician pronounced him dead at 7:08 p.m.
+secondary_headline: Dennes exclaimed 'The pain!' before a physician pronounced him
+  dead at 7:08 p.m.
 publish_date: '2026-11-20'
-lede: Texas prison officials said the execution team had difficulty finding suitable veins for condemned inmate Reinaldo Dennes. After repeated unsuccessful attempts, technicians found a vein in Dennes's left foot and another on the left side of his neck. Dennes exclaimed "The pain!" and "Go! Go!" as the Thursday procedure began at the Huntsville Unit, and a physician examined him before pronouncing him dead at 7:08 p.m.
-nut_graf: The account matters because it documents the mechanics of a capital execution — the use of alternate injection sites in a foot and neck, the wait before witnesses entered the chamber, and the gap between what a witness could see and what state officials later said about it. Texas prison officials said the alternate sites were consistent with prison system procedures and had been used in previous executions, though rarely. Amanda Hernandez suggested Dennes may have been faking and said he had complained about pain in areas where no injections were attempted. Graczyk said he wanted to find out the truth but had no way to know for sure.
+lede: Texas prison officials said the execution team had difficulty finding suitable
+  veins for condemned inmate Reinaldo Dennes. After repeated unsuccessful attempts,
+  technicians found a vein in Dennes's left foot and another on the left side of his
+  neck. Dennes exclaimed "The pain!" and "Go! Go!" as the Thursday procedure began
+  at the Huntsville Unit, and a physician examined him before pronouncing him dead
+  at 7:08 p.m.
+nut_graf: The account matters because it documents the mechanics of a capital execution
+  — the use of alternate injection sites in a foot and neck, the wait before witnesses
+  entered the chamber, and the gap between what a witness could see and what state
+  officials later said about it. Texas prison officials said the alternate sites were
+  consistent with prison system procedures and had been used in previous executions,
+  though rarely. Amanda Hernandez suggested Dennes may have been faking and said he
+  had complained about pain in areas where no injections were attempted. Graczyk said
+  he wanted to find out the truth but had no way to know for sure.
 primary_entities:
 - Reinaldo Dennes
 - Michael Graczyk
@@ -41,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,103 +158,44 @@ related_stories:
   publish_date: '2026-11-19'
   relation: related
   strength: 0.6548
-- slug: 2026-11-19-florida-and-texas-schedule-executions-of-two-condemned-men
-  headline: Florida and Texas schedule executions of two condemned men
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.6421
-- slug: 2026-11-10-tennessee-seeks-to-block-pike-s-lawyers-from-inspecting-leftover-pentobarbital
-  headline: Tennessee seeks to block Pike’s lawyers from inspecting leftover pentobarbital
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6375
 - slug: 2026-10-24-medical-experts-fault-tennessee-s-iv-team-after-pike-s-failed-execution
   headline: Medical experts fault Tennessee's IV team after Pike's failed execution
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6851
+  strength: 0.6849
 - slug: 2026-10-22-tennessee-protocol-specifies-no-steps-if-pike-survives-second-pentobarbital-dose
-  headline: Tennessee protocol specifies no steps if Pike survives second pentobarbital dose
+  headline: Tennessee protocol specifies no steps if Pike survives second pentobarbital
+    dose
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6877
+  strength: 0.6878
 - slug: 2026-10-22-randy-spivey-details-team-doubts-before-christa-pike-s-failed-execution
   headline: Randy Spivey details team doubts before Christa Pike’s failed execution
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6855
-- slug: 2026-10-30-pike-s-attorneys-urge-lee-to-reduce-her-sentence-to-life
-  headline: Pike's attorneys urge Lee to reduce her sentence to life
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6411
-- slug: 2026-10-30-christa-pike-faults-incompetence-in-failed-tennessee-execution
-  headline: Christa Pike faults 'incompetence' in failed Tennessee execution
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6379
+  strength: 0.6852
 - slug: 2026-10-07-lawyer-says-pike-helped-execution-team-find-a-vein-was-kind-and-polite
   headline: Lawyer says Pike helped execution team find a vein, was 'kind and polite'
   publish_date: '2026-10-07'
   relation: related
-  strength: 0.6923
+  strength: 0.6915
 - slug: 2026-10-10-no-official-explanation-for-why-pike-survived-tennessee-s-failed-execution
   headline: No official explanation for why Pike survived Tennessee's failed execution
   publish_date: '2026-10-10'
   relation: related
-  strength: 0.6558
+  strength: 0.6564
 - slug: 2026-10-08-lawyer-reports-seven-needles-one-bent-in-pike-s-arm-after-execution
   headline: Lawyer reports seven needles, one bent, in Pike's arm after execution
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.6618
+  strength: 0.6608
 - slug: 2026-10-06-christa-pike-survives-two-pentobarbital-doses-in-tennessee-s-third-failed-execut
-  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed execution in 14 months
+  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed
+    execution in 14 months
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6636
-- slug: 2026-10-02-reporter-who-covered-nearly-500-executions-says-he-s-never-seen-an-inmate-surviv
-  headline: Reporter who covered nearly 500 executions says he's never seen an inmate survive
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6706
-- slug: 2026-10-07-judge-orders-preservation-of-pike-execution-chamber-drugs-and-equipment
-  headline: Judge orders preservation of Pike execution chamber drugs and equipment
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6526
-- slug: 2026-10-09-christa-pike-survives-tennessee-execution-governor-calls-for-review-of-what-went
-  headline: Christa Pike survives Tennessee execution; governor calls for review of what went wrong
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6419
-- slug: 2026-10-07-judge-orders-preservation-of-evidence-in-tennessee-s-failed-pike-execution
-  headline: Judge orders preservation of evidence in Tennessee's failed Pike execution
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6474
-- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
-  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6563
-- slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6526
-- slug: 2026-10-02-christa-pike-unconscious-on-ventilator-after-failed-tennessee-execution
-  headline: Christa Pike unconscious, on ventilator after failed Tennessee execution
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6498
-- slug: 2026-10-05-former-christa-pike-lawyer-says-tennessee-was-warned-execution-would-be-cruel
-  headline: Former Christa Pike lawyer says Tennessee was warned execution would be 'cruel'
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6386
+  strength: 0.6632
 ---
-
 ## Texas execution team finds alternate veins in Dennes's foot and neck
 
 **Subtype:** fact
