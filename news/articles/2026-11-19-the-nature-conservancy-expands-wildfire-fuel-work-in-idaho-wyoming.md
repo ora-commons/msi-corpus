@@ -2,8 +2,16 @@
 headline: The Nature Conservancy expands wildfire fuel work in Idaho, Wyoming
 secondary_headline: Forest Service agreement targets the wildland-urban interface
 publish_date: '2026-11-19'
-lede: The Nature Conservancy announced a $2.1 million agreement with the U.S. Forest Service in a Monday press release to expand forest restoration and wildfire fuels reduction in Idaho and Wyoming. The arrangement will add workforce support for prescribed fires, ecological thinning and other work to reduce overgrowth that fuels wildfires.
-nut_graf: The agreement is designed to reduce vegetation that can fuel wildfires and expand U.S. Forest Service capacity for prescribed fire and ecological thinning in the wildland-urban interface. In a written statement, Great Basin Geographic Area Fire Director Ben Newburn said the work supports community protection from high-severity wildfire and the development of healthier, more diverse and more resilient forests.
+lede: The Nature Conservancy announced a $2.1 million agreement with the U.S. Forest
+  Service in a Monday press release to expand forest restoration and wildfire fuels
+  reduction in Idaho and Wyoming. The arrangement will add workforce support for prescribed
+  fires, ecological thinning and other work to reduce overgrowth that fuels wildfires.
+nut_graf: The agreement is designed to reduce vegetation that can fuel wildfires and
+  expand U.S. Forest Service capacity for prescribed fire and ecological thinning
+  in the wildland-urban interface. In a written statement, Great Basin Geographic
+  Area Fire Director Ben Newburn said the work supports community protection from
+  high-severity wildfire and the development of healthier, more diverse and more resilient
+  forests.
 primary_entities:
 - The Nature Conservancy
 - U.S. Forest Service
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +149,29 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-19-the-nature-conservancy-expands-wildfire-fuel-work-in-idaho-wyoming.png
-  alt: 'Illustration accompanying article: The Nature Conservancy expands wildfire fuel work in Idaho, Wyoming'
+  alt: 'Illustration accompanying article: The Nature Conservancy expands wildfire
+    fuel work in Idaho, Wyoming'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-11-18-federal-loan-backs-wyoming-link-between-eastern-and-western-grids
-  headline: Federal loan backs Wyoming link between eastern and western grids
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6381
-- slug: 2026-11-17-tribal-leaders-challenge-senate-permitting-bill-over-public-land-protections
-  headline: Tribal leaders challenge Senate permitting bill over public-land protections
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6017
-- slug: 2026-11-13-wildfire-contamination-can-linger-in-drinking-water-for-over-a-decade
-  headline: Wildfire contamination can linger in drinking water for over a decade
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6045
-- slug: 2026-09-27-wildlife-agencies-in-at-least-15-states-report-rise-in-bear-encounters
-  headline: Wildlife agencies in at least 15 states report rise in bear encounters
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6227
-- slug: 2026-08-25-cal-fire-chief-warns-any-fire-near-diablo-canyon-could-be-catastrophic
-  headline: Cal Fire chief warns any fire near Diablo Canyon could be catastrophic
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6082
-- slug: 2026-08-24-forest-service-opens-30-day-comment-period-for-wyoming-rare-earth-mine
-  headline: Forest Service opens 30-day comment period for Wyoming rare-earth mine
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.609
 - slug: 2026-06-17-forest-service-says-it-s-fully-staffed-as-wildfires-erupt-in-the-west
   headline: Forest Service says it's fully staffed as wildfires erupt in the West
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6621
-- slug: 2026-07-20-blm-schedules-lease-sale-for-fracking-in-ohio-s-wayne-national-forest
-  headline: BLM schedules lease sale for fracking in Ohio's Wayne National Forest
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6188
+  strength: 0.6607
 - slug: 2026-02-12-public-pushes-back-on-forest-service-plan-for-controlled-burns-in-vermont
   headline: Public pushes back on Forest Service plan for controlled burns in Vermont
   publish_date: '2026-02-12'
   relation: related
-  strength: 0.6562
-- slug: 2026-06-18-lake-tahoe-residents-fight-forest-service-plan-to-spray-glyphosate-after-wildfir
-  headline: Lake Tahoe residents fight Forest Service plan to spray glyphosate after wildfire
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6156
-- slug: 2026-05-16-wyoming-halves-wolf-hunt-quota-after-distemper-slashes-yellowstone-region-packs
-  headline: Wyoming halves wolf hunt quota after distemper slashes Yellowstone region packs
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6175
-- slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
-  headline: Trump targets forest fire research as West braces for wildfire season
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6027
-- slug: 2026-04-14-wyoming-s-rocky-mountain-power-says-no-new-wind-or-solar-planned-through-2045
-  headline: Wyoming’s Rocky Mountain Power says no new wind or solar planned through 2045
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6159
-- slug: 2026-04-17-wyoming-communities-ask-for-time-as-federal-nuclear-push-meets-waste-storage-deb
-  headline: Wyoming communities ask for time as federal nuclear push meets waste storage debate
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6152
-- slug: 2026-05-16-wyoming-plans-to-cut-wolf-hunt-in-half-to-buoy-yellowstone-area-numbers
-  headline: Wyoming plans to cut wolf hunt in half to buoy Yellowstone-area numbers
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6047
-- slug: 2026-04-30-epa-and-conservation-groups-challenge-wyoming-s-impaired-water-sample-limits
-  headline: EPA and conservation groups challenge Wyoming’s “impaired” water sample limits
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6066
-- slug: 2026-04-23-colorado-river-managers-plan-extra-releases-to-keep-lake-powell-hydropower
-  headline: Colorado River managers plan extra releases to keep Lake Powell hydropower
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6078
-- slug: 2026-04-01-trump-to-move-forest-service-headquarters-from-dc-to-salt-lake-city
-  headline: Trump to move Forest Service headquarters from DC to Salt Lake City
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6075
-- slug: 2026-02-28-u-s-forest-service-proposes-long-term-logging-in-michigan
-  headline: U.S. Forest Service proposes long-term logging in Michigan
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6107
-- slug: 2026-02-26-wyoming-man-in-wolf-torture-case-agrees-to-plea-that-avoids-trial
-  headline: Wyoming man in wolf-torture case agrees to plea that avoids trial
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6106
+  strength: 0.6556
 ---
-
 ## The Nature Conservancy expands wildfire fuel work in Idaho, Wyoming
 
 **Subtype:** fact

@@ -1,9 +1,23 @@
 ---
-headline: New York City announces carriage worker support and electric-alternatives study
+headline: New York City announces carriage worker support and electric-alternatives
+  study
 secondary_headline: Romanch's Law is named for Romanch Mahajan
 publish_date: '2026-11-19'
-lede: New York City will establish a Horse Carriage Worker Industry Program offering job training, career counseling, entrepreneurship support, employer connections and tuition assistance as part of a transition package for carriage workers affected by the horse-carriage ban. The city will also commission a feasibility study examining electric carriages and electric pedal-assist bicycles as potential alternatives in Central Park, as well as electric carriages along the park's perimeter, and will engage with the Transport Workers Union. On Thursday, Mayor Zohran Mamdani signed Romanch's Law, which will end the horse-drawn carriage industry by 1 June 2028. The law is named for 18-year-old Indian tourist Romanch Mahajan, who was killed in June after being thrown from a carriage in Central Park when a horse became startled.
-nut_graf: The transition package sets out financial and career support for affected medallion owners, carriage drivers and stable hands, along with a feasibility review of electric alternatives. Named for 18-year-old Indian tourist Romanch Mahajan, Romanch's Law will end the horse-drawn carriage industry by 1 June 2028, and New York City says it will release the full transition plan by April 2027.
+lede: New York City will establish a Horse Carriage Worker Industry Program offering
+  job training, career counseling, entrepreneurship support, employer connections
+  and tuition assistance as part of a transition package for carriage workers affected
+  by the horse-carriage ban. The city will also commission a feasibility study examining
+  electric carriages and electric pedal-assist bicycles as potential alternatives
+  in Central Park, as well as electric carriages along the park's perimeter, and will
+  engage with the Transport Workers Union. On Thursday, Mayor Zohran Mamdani signed
+  Romanch's Law, which will end the horse-drawn carriage industry by 1 June 2028.
+  The law is named for 18-year-old Indian tourist Romanch Mahajan, who was killed
+  in June after being thrown from a carriage in Central Park when a horse became startled.
+nut_graf: The transition package sets out financial and career support for affected
+  medallion owners, carriage drivers and stable hands, along with a feasibility review
+  of electric alternatives. Named for 18-year-old Indian tourist Romanch Mahajan,
+  Romanch's Law will end the horse-drawn carriage industry by 1 June 2028, and New
+  York City says it will release the full transition plan by April 2027.
 primary_entities:
 - Zohran Mamdani
 - Julie Menin
@@ -45,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +162,44 @@ related_stories:
   headline: Carriage drivers sue New York City over ban Mamdani signed
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8301
+  strength: 0.8293
 - slug: 2026-11-19-mamdani-enacts-central-park-horse-carriage-ban-set-for-2028
   headline: Mamdani enacts Central Park horse-carriage ban set for 2028
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8183
+  strength: 0.8177
 - slug: 2026-10-22-romanch-s-law-sets-june-2028-end-date-requires-transition-plan-next-year
   headline: Romanch's Law sets June 2028 end date, requires transition plan next year
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8581
+  strength: 0.857
 - slug: 2026-10-13-nyc-council-moves-to-ban-central-park-horse-carriages-by-june-2028
   headline: NYC Council moves to ban Central Park horse carriages by June 2028
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8864
+  strength: 0.8857
 - slug: 2026-10-22-nyc-council-to-vote-thursday-on-ban-of-central-park-horse-drawn-carriages
   headline: NYC Council to vote Thursday on ban of Central Park horse-drawn carriages
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8385
+  strength: 0.8381
 - slug: 2026-10-22-central-park-bill-sets-april-deadline-for-transition-of-more-than-150-drivers
-  headline: Central Park bill sets April deadline for transition of more than 150 drivers
+  headline: Central Park bill sets April deadline for transition of more than 150
+    drivers
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.8057
+  strength: 0.8054
 - slug: 2026-10-22-mamdani-and-menin-reach-carriage-ban-deal-as-union-threatens-federal-suit
   headline: Mamdani and Menin reach carriage-ban deal as union threatens federal suit
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7969
+  strength: 0.7962
 - slug: 2026-10-14-nyc-mayor-council-speaker-agree-to-ban-horse-drawn-carriages
   headline: NYC mayor, council speaker agree to ban horse-drawn carriages
   publish_date: '2026-10-14'
   relation: related
-  strength: 0.8116
-- slug: 2026-11-16-mamdani-plan-bans-kettling-creates-unarmed-civilian-protest-division
-  headline: Mamdani plan bans kettling, creates unarmed civilian protest division
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6085
-- slug: 2026-10-26-mamdani-s-nyc-encampment-policy-draws-criticism-from-residents-and-businesses
-  headline: Mamdani’s NYC encampment policy draws criticism from residents and businesses
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6085
-- slug: 2026-10-12-mamdani-orders-nypd-use-of-force-review-after-2024-fatal-shooting
-  headline: Mamdani orders NYPD use-of-force review after 2024 fatal shooting
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6141
-- slug: 2026-07-20-new-york-city-council-speaker-backs-ban-on-central-park-horse-carriages
-  headline: New York City Council speaker backs ban on Central Park horse carriages
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7355
-- slug: 2026-06-19-central-park-horse-carriage-rides-paused-after-tourist-s-death
-  headline: Central Park horse carriage rides paused after tourist's death
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.7503
-- slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
-  headline: NYC and coalition of cities sue over Trump immigration benefits rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.603
-- slug: 2026-08-11-mamdani-backs-nyc-bill-forcing-amazon-fedex-to-hire-couriers
-  headline: Mamdani backs NYC bill forcing Amazon, FedEx to hire couriers
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6457
-- slug: 2026-08-25-mamdani-backs-nyc-bill-requiring-amazon-to-hire-delivery-couriers
-  headline: Mamdani backs NYC bill requiring Amazon to hire delivery couriers
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6146
-- slug: 2026-08-29-mamdani-sues-to-block-10-000-bonuses-for-nyc-school-aides
-  headline: Mamdani sues to block $10,000 bonuses for NYC school aides
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.5758
-- slug: 2026-07-25-mamdani-cuts-red-tape-for-nyc-small-businesses-with-50-reforms
-  headline: Mamdani cuts red tape for NYC small businesses with 50 reforms
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6101
-- slug: 2026-06-17-18-year-old-dies-after-being-thrown-from-central-park-horse-drawn-carriage
-  headline: 18-year-old dies after being thrown from Central Park horse-drawn carriage
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6338
-- slug: 2026-06-26-nyc-board-approves-mamdani-s-rent-freeze-for-1-million-apartments
-  headline: NYC board approves Mamdani's rent freeze for 1 million apartments
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5829
+  strength: 0.8107
 ---
-
 ## New York City announces carriage worker support and electric-alternatives study
 
 **Subtype:** fact
