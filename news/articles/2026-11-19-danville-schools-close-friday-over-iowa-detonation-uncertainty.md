@@ -160,6 +160,8 @@ related_stories:
   publish_date: '2026-11-19'
   relation: related
   strength: 0.8279
+analyses:
+- '2026-11-19-army-detonation-plan-splits-friday-s-risk-decisions-across-agencies-and-communit'
 ---
 ## Danville schools close Friday over Iowa detonation uncertainty
 
@@ -206,3 +208,8 @@ News of the planned blasts also caught the attention of environmental and public
 **Publication date:** 2026-11-19
 **Title:** US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud
 **URL:** https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust
+
+---
+
+<!-- analysis-link:2026-11-19-army-detonation-plan-splits-friday-s-risk-decisions-across-agencies-and-communit -->
+**Going deeper:** [Read MSI's analysis of lead-azide disposal decision authority →](/analyses/2026-11-19-army-detonation-plan-splits-friday-s-risk-decisions-across-agencies-and-communit)
