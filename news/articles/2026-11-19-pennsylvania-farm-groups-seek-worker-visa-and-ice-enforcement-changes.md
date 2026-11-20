@@ -2,8 +2,18 @@
 headline: Pennsylvania farm groups seek worker-visa and ICE enforcement changes
 secondary_headline: Legislation would expand year-round H-2A access and poultry eligibility
 publish_date: '2026-11-19'
-lede: More than 30 Pennsylvania farmers, agriculture businesses and organizations endorsed a letter to U.S. Agriculture Secretary Brooke Rollins and U.S. Homeland Security Secretary Markwayne Mullin seeking changes to worker visa programs and federal immigration enforcement practices. Some leaders involved in the effort met Thursday in Lancaster County with Gov. Josh Shapiro and state Agriculture Secretary Russell Redding to discuss workers' struggles and the path to reform.
-nut_graf: The proposals respond to farm leaders' accounts of legal-status workers missing shifts, enforcement detentions disrupting operations and policy changes complicating long-term employment. The letter calls for federal immigration agents to prioritize criminals over workers and act in a lawful, orderly and transparent manner, while the Securing Agriculture’s Workforce Act would broaden H-2A eligibility and allow year-round stays.
+lede: More than 30 Pennsylvania farmers, agriculture businesses and organizations
+  endorsed a letter to U.S. Agriculture Secretary Brooke Rollins and U.S. Homeland
+  Security Secretary Markwayne Mullin seeking changes to worker visa programs and
+  federal immigration enforcement practices. Some leaders involved in the effort met
+  Thursday in Lancaster County with Gov. Josh Shapiro and state Agriculture Secretary
+  Russell Redding to discuss workers' struggles and the path to reform.
+nut_graf: The proposals respond to farm leaders' accounts of legal-status workers
+  missing shifts, enforcement detentions disrupting operations and policy changes
+  complicating long-term employment. The letter calls for federal immigration agents
+  to prioritize criminals over workers and act in a lawful, orderly and transparent
+  manner, while the Securing Agriculture’s Workforce Act would broaden H-2A eligibility
+  and allow year-round stays.
 primary_entities:
 - Pennsylvania
 - Lancaster County
@@ -54,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +167,45 @@ related_stories:
   headline: Most state proposals would limit immigration agents' access to schools
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6685
-- slug: 2026-11-11-democrats-push-bipartisan-immigration-reform-after-midterm-voter-backlash
-  headline: Democrats push bipartisan immigration reform after midterm voter backlash
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6435
-- slug: 2026-11-09-texas-voters-shift-to-democrats-as-immigration-ranks-among-top-issues
-  headline: Texas voters shift to Democrats as immigration ranks among top issues
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6389
+  strength: 0.6679
 - slug: 2026-10-12-immigration-enforcement-reshapes-midterm-races-as-voter-disapproval-grows
   headline: Immigration enforcement reshapes midterm races as voter disapproval grows
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6674
+  strength: 0.665
 - slug: 2026-09-30-senator-jim-justice-urges-trump-to-step-back-from-immigration-enforcement
   headline: Senator Jim Justice urges Trump to step back from immigration enforcement
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.6616
+  strength: 0.6614
 - slug: 2026-09-25-durbin-padilla-introduce-bill-requiring-ice-warrants-detention-reviews
   headline: Durbin, Padilla introduce bill requiring ICE warrants, detention reviews
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6578
-- slug: 2026-09-28-ice-detentions-accelerate-under-soft-feet-as-dhs-workforce-more-than-doubles
-  headline: ICE detentions accelerate under 'soft feet' as DHS workforce more than doubles
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6425
-- slug: 2026-09-23-ice-plans-network-of-detention-vans-for-pennsylvania-arrests
-  headline: ICE plans network of detention vans for Pennsylvania arrests
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6416
-- slug: 2026-08-27-new-york-attorney-general-sues-rensselaer-county-sheriff-over-ice-agreement
-  headline: New York attorney general sues Rensselaer County sheriff over ICE agreement
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6447
+  strength: 0.6566
 - slug: 2026-08-06-airline-workers-decline-to-help-ice-agents-as-airport-arrests-rise
   headline: Airline workers decline to help ICE agents as airport arrests rise
   publish_date: '2026-08-06'
   relation: related
-  strength: 0.6527
+  strength: 0.6507
 - slug: 2026-01-06-de-la-cruz-proposes-construction-worker-visa-as-ice-arrests-slow-south-texas-bui
-  headline: De La Cruz proposes construction worker visa as ICE arrests slow South Texas building
+  headline: De La Cruz proposes construction worker visa as ICE arrests slow South
+    Texas building
   publish_date: '2026-01-06'
   relation: related
-  strength: 0.6998
+  strength: 0.6985
 - slug: 2026-02-28-hawaii-lawmakers-advance-bills-limiting-cooperation-with-ice-in-2026-session
   headline: Hawaii lawmakers advance bills limiting cooperation with ICE in 2026 session
   publish_date: '2026-02-28'
   relation: related
-  strength: 0.6832
+  strength: 0.682
 - slug: 2026-03-25-texas-commission-adopts-rule-requiring-proof-of-legal-immigration-status-for-lic
-  headline: Texas commission adopts rule requiring proof of legal immigration status for licenses
+  headline: Texas commission adopts rule requiring proof of legal immigration status
+    for licenses
   publish_date: '2026-03-25'
   relation: related
-  strength: 0.6707
-- slug: 2026-03-26-texas-requires-proof-of-legal-immigration-status-for-professional-licenses
-  headline: Texas requires proof of legal immigration status for professional licenses
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6586
-- slug: 2026-01-22-maine-governor-demands-warrants-as-ice-immigration-sweeps-spread-fear
-  headline: Maine governor demands warrants as ICE immigration sweeps spread fear
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6611
-- slug: 2026-02-18-new-maryland-law-halts-some-ice-cooperation-by-local-sheriffs
-  headline: New Maryland law halts some ICE cooperation by local sheriffs
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.6577
-- slug: 2026-03-28-louisiana-crawfish-industry-hampered-by-limits-on-foreign-workers
-  headline: Louisiana crawfish industry hampered by limits on foreign workers
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6493
-- slug: 2026-03-15-trump-mass-deportations-at-crossroads-with-dhs-shake-up
-  headline: Trump mass deportations at crossroads with DHS shake-up
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6485
-- slug: 2026-01-29-partial-shutdown-seems-increasingly-likely-as-democrats-demand-ice-changes
-  headline: Partial shutdown seems increasingly likely as Democrats demand ICE changes
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6503
-- slug: 2026-03-29-louisiana-crawfish-industry-hampered-by-limits-on-foreign-workers
-  headline: Louisiana crawfish industry hampered by limits on foreign workers
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6441
+  strength: 0.6701
 ---
-
 ## Pennsylvania farm groups seek worker-visa and ICE enforcement changes
 
 **Subtype:** fact
