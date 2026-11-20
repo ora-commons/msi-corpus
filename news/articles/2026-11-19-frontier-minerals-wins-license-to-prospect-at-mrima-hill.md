@@ -2,8 +2,16 @@
 headline: Frontier Minerals wins license to prospect at Mrima Hill
 secondary_headline: Exploration award leaves the mining decision unresolved
 publish_date: '2026-11-19'
-lede: The Wall Street Journal reported that Frontier Minerals, a U.S.-led consortium, won a three-year Kenyan prospecting license for rare-earth deposits at Mrima Hill on Kenya's Indian Ocean coast. The award advances the Trump administration's push to reduce reliance on China for minerals used in jet fighters, EVs and high-tech ammunition. The license does not guarantee mining rights.
-nut_graf: Frontier Minerals has promised to develop local processing capacity, and the license could give the consortium an advantage if it later seeks mining rights. The selection leaves environmental and community concerns unresolved, including residents' fears about damage to a forest protected as a national monument since 1992.
+lede: The Wall Street Journal reported that Frontier Minerals, a U.S.-led consortium,
+  won a three-year Kenyan prospecting license for rare-earth deposits at Mrima Hill
+  on Kenya's Indian Ocean coast. The award advances the Trump administration's push
+  to reduce reliance on China for minerals used in jet fighters, EVs and high-tech
+  ammunition. The license does not guarantee mining rights.
+nut_graf: Frontier Minerals has promised to develop local processing capacity, and
+  the license could give the consortium an advantage if it later seeks mining rights.
+  The selection leaves environmental and community concerns unresolved, including
+  residents' fears about damage to a forest protected as a national monument since
+  1992.
 primary_entities:
 - Frontier Minerals
 - American Resources Corporation
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +155,44 @@ related_stories:
   headline: Kenya selects U.S. consortium as preferred bidder for Mrima Hill project
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8271
+  strength: 0.8264
 - slug: 2026-11-05-kenya-reviews-five-proposals-for-rare-earth-and-niobium-mining-at-mrima-hill
-  headline: Kenya reviews five proposals for rare earth and niobium mining at Mrima Hill
+  headline: Kenya reviews five proposals for rare earth and niobium mining at Mrima
+    Hill
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7611
+  strength: 0.7599
 - slug: 2026-11-18-trump-administration-schedules-deep-sea-mining-auctions-near-u-s-territories
   headline: Trump administration schedules deep-sea mining auctions near U.S. territories
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6527
-- slug: 2026-11-17-tribal-leaders-challenge-senate-permitting-bill-over-public-land-protections
-  headline: Tribal leaders challenge Senate permitting bill over public-land protections
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6262
-- slug: 2026-10-30-recyclers-turn-to-retired-wind-turbines-for-rare-earths
-  headline: Recyclers turn to retired wind turbines for rare earths
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6293
-- slug: 2026-10-24-paladin-harvests-rare-earth-metals-from-retired-wind-turbines
-  headline: Paladin harvests rare-earth metals from retired wind turbines
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6255
-- slug: 2026-09-27-us-rare-earths-investment-hits-7-6b-as-trump-builds-china-free-supply-chain
-  headline: US rare-earths investment hits $7.6B as Trump builds China-free supply chain
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6442
-- slug: 2026-08-20-foreign-backed-firms-filed-42-of-brazil-rare-earth-exploration-permits
-  headline: Foreign-backed firms filed 42% of Brazil rare earth exploration permits
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6426
-- slug: 2026-08-24-forest-service-opens-30-day-comment-period-for-wyoming-rare-earth-mine
-  headline: Forest Service opens 30-day comment period for Wyoming rare-earth mine
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.633
-- slug: 2026-08-14-mining-companies-adopt-patriotic-names-creating-investor-confusion
-  headline: Mining companies adopt patriotic names, creating investor confusion
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6301
-- slug: 2026-08-03-pentagon-backs-new-hampshire-refinery-with-500m-loan-for-critical-minerals
-  headline: Pentagon backs New Hampshire refinery with $500M loan for critical minerals
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.6369
+  strength: 0.6522
 - slug: 2026-06-09-western-companies-invest-in-brazil-rare-earths-to-challenge-china-s-dominance
   headline: Western companies invest in Brazil rare earths to challenge China's dominance
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.668
-- slug: 2026-07-17-u-s-allocated-46-billion-for-critical-minerals-over-five-years-eight-times-eu-sp
-  headline: U.S. allocated $46 billion for critical minerals over five years, eight times EU spending, think tank finds
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.638
+  strength: 0.6697
 - slug: 2026-06-25-army-leases-land-on-bases-for-critical-mineral-processing
   headline: Army Leases Land on Bases for Critical Mineral Processing
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6531
-- slug: 2026-06-29-mp-materials-sues-usa-rare-earth-over-alleged-magnet-technology-theft
-  headline: MP Materials sues USA Rare Earth over alleged magnet technology theft
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6399
-- slug: 2026-06-18-gold-exploration-approved-near-lone-pine-pitting-miners-against-tribes-and-envir
-  headline: Gold exploration approved near Lone Pine, pitting miners against tribes and environmentalists
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6464
+  strength: 0.6536
 - slug: 2026-04-20-us-backs-south-africa-rare-earths-project-to-counter-china
   headline: US backs South Africa rare earths project to counter China
   publish_date: '2026-04-20'
   relation: related
-  strength: 0.6594
+  strength: 0.6606
 - slug: 2026-01-26-commerce-dept-invests-1-6b-in-rare-earth-miner-usa-rare-earth
   headline: Commerce Dept invests $1.6B in rare earth miner USA Rare Earth
   publish_date: '2026-01-26'
   relation: related
-  strength: 0.6631
+  strength: 0.6637
 - slug: 2026-04-16-senate-passes-resolution-to-lift-mining-ban-near-boundary-waters
   headline: Senate passes resolution to lift mining ban near Boundary Waters
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.6515
-- slug: 2026-04-30-trump-lifts-mining-ban-near-boundary-waters-enabling-permits-for-twin-metals
-  headline: Trump lifts mining ban near Boundary Waters, enabling permits for Twin Metals
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6448
+  strength: 0.6512
 ---
-
 ## Frontier Minerals wins license to prospect at Mrima Hill
 
 **Subtype:** fact

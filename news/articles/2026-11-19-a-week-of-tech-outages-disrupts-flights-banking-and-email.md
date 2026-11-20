@@ -64,7 +64,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -248,3 +248,10 @@ Across the week, the disruptions reached email, workplace tools, flights, bankin
 **Publication date:** 2026-11-19
 **Title:** Tech outages are piling up. Could this be the new normal?
 **URL:** https://apnews.com/article/tech-outage-ai-security-patch-0c0f0cf4983a0f81ba88c4c4d2b8383f
+
+### src_late_bf063f5cdab37362 — Associated Press, wire, Tier 1, originating
+**Author:** Wyatte Grantham-Philips, Associated Press, Kelvin Chan, Associated Press, Kaitlyn Huamani, Associated Press
+**Publication date:** 2026-11-19
+**Title:** Are tech disruptions and and outages the new normal?
+**URL:** https://www.pbs.org/newshour/nation/are-tech-disruptions-and-and-outages-the-new-normal
+**Added after publication:** true

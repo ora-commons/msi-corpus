@@ -2,8 +2,21 @@
 headline: Danville schools close Friday over Iowa detonation uncertainty
 secondary_headline: Updated map excludes Mediapolis as schools and library close Friday
 publish_date: '2026-11-19'
-lede: Just a few miles northwest of Middletown, the Danville community school district will close Friday after Superintendent Pat Wallace said uncertainties about a planned detonation of degraded lead azide made cancellation “the most responsible decision.” Wallace announced the decision on Tuesday and said he initially intended to keep schools open. Less than 20 miles northeast of the plant, Mediapolis was no longer included in an updated potential plume map, though the city’s schools and public library will also close Friday. Some residents in Middletown were advised to begin leaving Friday morning, while those unable to leave were told to remain indoors with windows and doors closed.
-nut_graf: Wallace said he did not know exactly what conditions would look like Friday afternoon, while Mediapolis deputy city clerk Amy Stucker cited a lack of information after an updated map excluded the city from the potential plume. University of Iowa professor Patrick O’Shaughnessy said the amount of lead reaching the atmosphere and surfaces remained unknown; officials said handling the degraded barrels under any plan would increase the probability of an accidental, fatal detonation.
+lede: Just a few miles northwest of Middletown, the Danville community school district
+  will close Friday after Superintendent Pat Wallace said uncertainties about a planned
+  detonation of degraded lead azide made cancellation “the most responsible decision.”
+  Wallace announced the decision on Tuesday and said he initially intended to keep
+  schools open. Less than 20 miles northeast of the plant, Mediapolis was no longer
+  included in an updated potential plume map, though the city’s schools and public
+  library will also close Friday. Some residents in Middletown were advised to begin
+  leaving Friday morning, while those unable to leave were told to remain indoors
+  with windows and doors closed.
+nut_graf: Wallace said he did not know exactly what conditions would look like Friday
+  afternoon, while Mediapolis deputy city clerk Amy Stucker cited a lack of information
+  after an updated map excluded the city from the potential plume. University of Iowa
+  professor Patrick O’Shaughnessy said the amount of lead reaching the atmosphere
+  and surfaces remained unknown; officials said handling the degraded barrels under
+  any plan would increase the probability of an accidental, fatal detonation.
 primary_entities:
 - Danville community school district
 - Pat Wallace
@@ -43,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +159,8 @@ related_stories:
   headline: U.S. Army plans Iowa detonation as officials warn of lead dust
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.828
-- slug: 2026-10-27-minnpost-samples-show-high-lead-levels-at-st-paul-s-largest-homeless-encampment
-  headline: MinnPost samples show high lead levels at St. Paul's largest homeless encampment
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6217
-- slug: 2026-10-27-epa-inspector-general-investigates-response-to-east-palestine-derailment
-  headline: EPA inspector general investigates response to East Palestine derailment
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5891
-- slug: 2026-10-25-newport-moves-evacuation-shelter-away-from-seafood-plant-after-fire
-  headline: Newport moves evacuation shelter away from seafood plant after fire
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.589
-- slug: 2026-10-21-toledo-orders-about-1-000-residents-to-evacuate-after-chemical-tank-explosion
-  headline: Toledo orders about 1,000 residents to evacuate after chemical tank explosion
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5812
-- slug: 2026-10-21-toledo-orders-more-than-900-residents-out-after-m-c-tank-terminal-explosion
-  headline: Toledo orders more than 900 residents out after M.C. Tank Terminal explosion
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5768
-- slug: 2026-08-25-federal-judge-withholds-approval-of-east-palestine-settlement
-  headline: Federal judge withholds approval of East Palestine settlement
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.5987
-- slug: 2026-08-12-energy-fuels-to-more-than-double-white-mesa-mill-output-as-tribe-demands-shutdow
-  headline: Energy Fuels to more than double White Mesa Mill output as tribe demands shutdown
-  publish_date: '2026-08-12'
-  relation: related
-  strength: 0.5775
-- slug: 2026-05-25-officials-lift-evacuation-orders-for-some-residents-near-damaged-chemical-tank-i
-  headline: Officials lift evacuation orders for some residents near damaged chemical tank in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6162
-- slug: 2026-06-26-25-metro-detroit-communities-exceeded-michigan-lead-action-level
-  headline: 25 Metro Detroit communities exceeded Michigan's lead action level for drinking water
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5791
-- slug: 2026-05-25-evacuations-near-damaged-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near damaged chemical tank extend into holiday weekend
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5945
-- slug: 2026-05-23-evacuations-near-overheated-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near overheated chemical tank extend into holiday weekend
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5935
-- slug: 2026-03-11-adirondacks-residents-clamor-over-proposed-artillery-testing
-  headline: Adirondacks residents clamor over proposed artillery testing
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.6042
-- slug: 2026-05-23-chemical-tank-heat-scare-prompts-evacuations-for-40-000-in-parts-of-orange-count
-  headline: Chemical tank heat scare prompts evacuations for 40,000 in parts of Orange County
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5881
-- slug: 2026-05-24-evacuation-orders-lifted-for-many-near-damaged-southern-california-chemical-tank
-  headline: Evacuation orders lifted for many near damaged Southern California chemical tank
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.5859
-- slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
-  headline: Ice and snow close schools across New England as more storms approach
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.605
-- slug: 2026-05-06-spring-snowstorm-to-blast-colorado-and-wyoming-with-freezing-cold
-  headline: Spring snowstorm to blast Colorado and Wyoming with freezing cold
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5901
-- slug: 2026-03-10-adirondacks-residents-clamor-over-proposed-howitzer-artillery-testing
-  headline: Adirondacks residents clamor over proposed howitzer artillery testing
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5972
-- slug: 2026-05-22-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
-  headline: 40,000 ordered to evacuate in Southern California after chemical leak
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5788
-- slug: 2026-04-15-midwest-storms-flood-wisconsin-streets-damage-ann-arbor-ice-arenas
-  headline: Midwest storms flood Wisconsin streets, damage Ann Arbor ice arenas
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5862
+  strength: 0.8279
 ---
-
 ## Danville schools close Friday over Iowa detonation uncertainty
 
 **Subtype:** fact
