@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-03-24'
   relation: related
   strength: 0.7619
+analyses:
+- '2026-11-19-iran-war-shifts-global-energy-priorities-toward-domestic-power'
 ---
 ## IEA says the Iran war is reshaping global energy systems
 
@@ -246,3 +248,8 @@ Cleetus said, “The IEA’s latest report makes clear that the fossil energy cr
 **Publication date:** 2026-11-19
 **Title:** Global energy agency says there is no going back 'to the way it was before' the Iran war
 **URL:** https://apnews.com/article/cop31-turkey-climate-change-energy-a53b5522e557afd5370c08aee351032b
+
+---
+
+<!-- analysis-link:2026-11-19-iran-war-shifts-global-energy-priorities-toward-domestic-power -->
+**Going deeper:** [Read MSI's analysis of the post-Hormuz energy bargain →](/analyses/2026-11-19-iran-war-shifts-global-energy-priorities-toward-domestic-power)
