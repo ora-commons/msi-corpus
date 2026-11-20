@@ -1,9 +1,21 @@
 ---
-headline: Districts await Strong Readers Act allocations after Oklahoma raises funding to $43.57 million
+headline: Districts await Strong Readers Act allocations after Oklahoma raises funding
+  to $43.57 million
 secondary_headline: Third-grade reading tests will determine advancement in 2027-28
 publish_date: '2026-11-19'
-lede: Oklahoma lawmakers more than doubled Strong Readers Act funding to $43.57 million, but public school districts are still waiting for allocations typically released in December or January. The added funding arrives after most districts have hired staff and implemented plans, and superintendent Steven Stefanick said the money will primarily be used in the following school year. Multiple superintendents said that delivery of the funding, or at least a projection of each district’s allocation, by the time classes began in August would have left schools better equipped to prepare students before 2027-28.
-nut_graf: The added appropriation supports reading intervention, assessments, instructional materials and staff, but district leaders say schools need final allocations or projections before the school year begins. The dispute centers on whether the funding schedule gives educators enough time to prepare students for Oklahoma's third-grade reading requirements.
+lede: Oklahoma lawmakers more than doubled Strong Readers Act funding to $43.57 million,
+  but public school districts are still waiting for allocations typically released
+  in December or January. The added funding arrives after most districts have hired
+  staff and implemented plans, and superintendent Steven Stefanick said the money
+  will primarily be used in the following school year. Multiple superintendents said
+  that delivery of the funding, or at least a projection of each district’s allocation,
+  by the time classes began in August would have left schools better equipped to prepare
+  students before 2027-28.
+nut_graf: The added appropriation supports reading intervention, assessments, instructional
+  materials and staff, but district leaders say schools need final allocations or
+  projections before the school year begins. The dispute centers on whether the funding
+  schedule gives educators enough time to prepare students for Oklahoma's third-grade
+  reading requirements.
 primary_entities:
 - Oklahoma
 - Strong Readers Act
@@ -43,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,108 +154,27 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-16-montana-districts-budget-more-than-twice-state-and-county-transportation-aid
-  headline: Montana districts budget more than twice state and county transportation aid
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6236
-- slug: 2026-11-08-republicans-weigh-debt-limit-option-as-senate-pursues-judicial-confirmations
-  headline: Republicans weigh debt-limit option as Senate pursues judicial confirmations
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6156
-- slug: 2026-10-30-oklahoma-voters-decide-congressional-statewide-and-legislative-races-tuesday
-  headline: Oklahoma voters decide congressional, statewide and legislative races Tuesday
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6183
-- slug: 2026-10-20-democratic-governors-divided-over-federal-scholarship-tax-credit
-  headline: Democratic governors divided over Federal Scholarship Tax Credit
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6156
-- slug: 2026-09-28-arizona-rep-grijalva-files-three-bills-to-fund-english-learner-services
-  headline: Arizona Rep. Grijalva files three bills to fund English learner services
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6324
 - slug: 2026-07-20-california-reading-scores-inch-up-as-literacy-coaches-face-shortages
   headline: California reading scores inch up as literacy coaches face shortages
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7143
-- slug: 2026-09-04-michigan-third-grade-reading-scores-hit-12-year-low
-  headline: Michigan third-grade reading scores hit 12-year low
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6276
+  strength: 0.7146
 - slug: 2026-07-01-tennessee-schools-rank-among-top-improvers-in-math-reading-scores
   headline: Tennessee schools rank among top improvers in math, reading scores
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.6819
+  strength: 0.6814
 - slug: 2026-07-24-oklahoma-voters-decide-aug-25-on-ending-school-tax-reimbursements
   headline: Oklahoma voters decide Aug. 25 on ending school tax reimbursements
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6548
+  strength: 0.6532
 - slug: 2026-07-16-mississippi-digital-wallet-creates-barriers-for-teacher-supply-funds
   headline: Mississippi digital wallet creates barriers for teacher supply funds
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.652
-- slug: 2026-05-14-reading-test-scores-declined-but-some-schools-improved-with-phonics
-  headline: Reading test scores declined, but some schools improved with phonics
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6438
-- slug: 2026-06-26-texas-board-approves-bible-passages-as-required-reading-for-millions-of-students
-  headline: Texas board approves Bible passages as required reading for millions of students
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6166
-- slug: 2026-04-28-south-dakota-opioid-settlement-funds-local-spending-lags-while-state-grants-expa
-  headline: 'South Dakota opioid settlement funds: local spending lags while state grants expand'
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6362
-- slug: 2026-05-14-u-s-students-in-reading-recession-as-test-scores-slide-but-phonics-reforms-offer
-  headline: U.S. students in 'reading recession' as test scores slide, but phonics reforms offer hope
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6309
-- slug: 2026-01-30-texas-board-delays-vote-on-required-books-over-religious-themes-diversity-gaps
-  headline: Texas board delays vote on required books over religious themes, diversity gaps
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6445
-- slug: 2026-03-09-school-reading-test-scores-lag-for-first-and-second-graders-after-pandemic
-  headline: School reading test scores lag for first and second graders after pandemic
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.6372
-- slug: 2026-04-17-tennessee-senate-votes-18-14-to-expand-school-vouchers-to-35-000
-  headline: Tennessee Senate votes 18-14 to expand school vouchers to 35,000
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6252
-- slug: 2026-04-26-more-kids-attend-state-funded-preschool-as-universal-access-expands
-  headline: More kids attend state-funded preschool as universal access expands
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6214
-- slug: 2026-03-01-pediatric-hospital-screens-for-reading-ability-as-literacy-rates-lag
-  headline: Pediatric hospital screens for reading ability as literacy rates lag
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6261
-- slug: 2026-04-29-bill-seeks-to-screen-california-kindergartners-for-basic-math-skills
-  headline: Bill seeks to screen California kindergartners for basic math skills
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.6145
+  strength: 0.6508
 ---
-
 ## Districts await Strong Readers Act allocations after Oklahoma raises funding to $43.57 million
 
 **Subtype:** fact

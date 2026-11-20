@@ -201,6 +201,8 @@ related_stories:
   publish_date: '2026-11-18'
   relation: related
   strength: 0.6686
+analyses:
+- '2026-11-19-outage-explanations-leave-technical-causes-and-official-credibility-unresolved'
 ---
 ## Sullivan says administration cannot be believed after technology outages
 
@@ -247,3 +249,8 @@ Sullivan concluded that one piece of good news was that the episode had reminded
 **Publication date:** 2026-11-19
 **Title:** Trump says the tech outages are ‘fine’. Who believes him? | Margaret Sullivan
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/19/trump-tech-outages
+
+---
+
+<!-- analysis-link:2026-11-19-outage-explanations-leave-technical-causes-and-official-credibility-unresolved -->
+**Going deeper:** [Read MSI's analysis of technology outages and official credibility →](/analyses/2026-11-19-outage-explanations-leave-technical-causes-and-official-credibility-unresolved)

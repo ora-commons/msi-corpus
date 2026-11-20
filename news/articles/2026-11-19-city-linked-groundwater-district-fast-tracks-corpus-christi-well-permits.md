@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-07-24'
   relation: related
   strength: 0.6672
+analyses:
+- '2026-11-19-corpus-christi-s-city-linked-regulator-concentrates-permit-authority-amid-aquife'
 ---
 ## City-linked groundwater district fast-tracks Corpus Christi well permits
 
@@ -247,3 +249,8 @@ Summer rains temporarily refilled the reservoirs and averted the recent crisis, 
 **Publication date:** 2026-11-19
 **Title:** Corpus Christi Started Pumping Groundwater at “Lightning Speed.” Rural Residents Fear the Consequences.
 **URL:** https://www.propublica.org/article/corpus-christi-water-crisis-groundwater
+
+---
+
+<!-- analysis-link:2026-11-19-corpus-christi-s-city-linked-regulator-concentrates-permit-authority-amid-aquife -->
+**Going deeper:** [Read MSI's analysis of city-linked groundwater governance →](/analyses/2026-11-19-corpus-christi-s-city-linked-regulator-concentrates-permit-authority-amid-aquife)
