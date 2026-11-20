@@ -1,9 +1,20 @@
 ---
 headline: Democrats bring election funding proposals to incoming Congress
-secondary_headline: Federal election grants remain limited as counties face equipment costs
+secondary_headline: Federal election grants remain limited as counties face equipment
+  costs
 publish_date: '2026-11-19'
-lede: Democrats who take control of Congress in January are poised to influence federal spending on election administration and security, raising hopes among election officials and experts for steadier aid. The party will lead the appropriations process, but the Senate’s 60-vote threshold for most legislation could produce friction. The current annual grant is $45 million, while state and local officials describe needs running far higher.
-nut_graf: The debate is not only about spending. The U.S. Election Assistance Commission, the sole federal agency focused on election administration, has no members after two firings and a resignation. Local officials in Kentucky and Washington have confronted polling capacity, mail-processing equipment and drop-box security costs, while Democrats’ proposed $10 billion would require action in a Senate where most legislation needs 60 votes.
+lede: Democrats who take control of Congress in January are poised to influence federal
+  spending on election administration and security, raising hopes among election officials
+  and experts for steadier aid. The party will lead the appropriations process, but
+  the Senate’s 60-vote threshold for most legislation could produce friction. The
+  current annual grant is $45 million, while state and local officials describe needs
+  running far higher.
+nut_graf: The debate is not only about spending. The U.S. Election Assistance Commission,
+  the sole federal agency focused on election administration, has no members after
+  two firings and a resignation. Local officials in Kentucky and Washington have confronted
+  polling capacity, mail-processing equipment and drop-box security costs, while Democrats’
+  proposed $10 billion would require action in a Senate where most legislation needs
+  60 votes.
 primary_entities:
 - United States
 - Congress
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,116 +153,63 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
+  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief
+    of staff
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7012
+  strength: 0.6999
 - slug: 2026-11-05-democrats-win-congress-on-affordability-but-trump-retains-veto-power
   headline: Democrats win Congress on affordability, but Trump retains veto power
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7136
+  strength: 0.7124
 - slug: 2026-11-08-some-democrats-promise-more-clean-energy-major-energy-or-climate-changes-need-re
-  headline: Some Democrats promise more clean energy; major energy or climate changes need Republican votes
+  headline: Some Democrats promise more clean energy; major energy or climate changes
+    need Republican votes
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6861
+  strength: 0.6846
 - slug: 2026-11-07-democrats-face-limited-tools-to-ease-cost-of-living-anger-analysis-argues
   headline: Democrats face limited tools to ease cost-of-living anger, analysis argues
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6888
+  strength: 0.6875
 - slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
   headline: Democrats win Senate majority, adding checks on Trump
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.709
+  strength: 0.7077
 - slug: 2026-11-03-republicans-raised-more-at-party-level-while-democratic-candidates-raised-more
-  headline: Republicans raised more at party level while Democratic candidates raised more
+  headline: Republicans raised more at party level while Democratic candidates raised
+    more
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7044
+  strength: 0.7039
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6981
+  strength: 0.6965
 - slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
+  headline: More than 57 million people have cast ballots as 2026 midterms reach voting
+    day
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6966
-- slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
-  headline: Democrats win Congress and a majority of governorships on affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.689
-- slug: 2026-11-03-justice-department-sends-observers-as-watchdogs-prepare-poll-monitors
-  headline: Justice Department sends observers as watchdogs prepare poll monitors
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6913
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6854
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6854
-- slug: 2026-11-03-democrats-take-control-of-congress-in-2026-midterms
-  headline: Democrats take control of Congress in 2026 midterms
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6891
-- slug: 2026-10-26-midterms-put-35-senate-contests-39-governorships-and-local-offices-on-the-ballot
-  headline: Midterms put 35 Senate contests, 39 governorships and local offices on the ballot
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6914
-- slug: 2026-10-13-democrats-hopeful-of-retaking-congress-as-trump-approval-sits-at-37
-  headline: Democrats hopeful of retaking Congress as Trump approval sits at 37%
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7067
-- slug: 2026-10-06-democrats-favored-in-house-as-trump-approval-hits-historic-low
-  headline: Democrats favored in House as Trump approval hits historic low
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6897
-- slug: 2026-10-05-us-midterm-elections-on-november-3-will-determine-control-of-congress
-  headline: US midterm elections on November 3 will determine control of Congress
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6899
-- slug: 2026-09-03-democrats-demand-dhs-restore-39-6-million-in-election-security-funds
-  headline: Democrats demand DHS restore $39.6 million in election security funds
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.7262
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.7075
-- slug: 2026-08-28-senate-democratic-task-force-catalogs-100-midterm-election-threats
-  headline: Senate Democratic task force catalogs 100 midterm election threats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.689
+  strength: 0.696
 image:
   url: /articles/2026-11-19-democrats-bring-election-funding-proposals-to-incoming-congress.png
-  alt: "Illustration accompanying article: Democrats bring election funding proposals to incoming Congress"
+  alt: 'Illustration accompanying article: Democrats bring election funding proposals
+    to incoming Congress'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Democrats bring election funding proposals to incoming Congress
 
 **Subtype:** fact
