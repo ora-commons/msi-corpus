@@ -1,7 +1,9 @@
 ---
 headline: The Largest IPO in History Belongs to Nobody's Neighbor
 publish_date: '2026-11-19'
-lede: The $2 trillion Anthropic listing is the rentier order’s clearest demonstration yet that a public market can sell claims on the future in millions of pieces while keeping the people who must live with the work outside the room where it is decided.
+lede: The $2 trillion Anthropic listing is the rentier order’s clearest demonstration
+  yet that a public market can sell claims on the future in millions of pieces while
+  keeping the people who must live with the work outside the room where it is decided.
 pen_name: wendell-burke
 primary_entities:
 - Anthropic
@@ -40,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,7 +64,28 @@ cross_article_links:
   strength: 0.794
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-largest-ipo-in-history-belongs-to-nobodys-neighbor.png
+  alt: 'Editorial cartoon by Hector Rentier: The Largest IPO in History Belongs to
+    Nobody''s Neighbor'
+  caption: A public price is not public power.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-19T22:10:25-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Square 1:1 single panel rendered in dense black cross-hatch and wood-engraving,
+    with pure black masses, carved white highlights, and exactly one restrained #6B4226
+    sepia accent. Center frame: an ordin'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-19-hector-paired-with-2026-11-19-wendell-burke-c-float-stock-market-nasdaq-raises-81bn-
 ---
+
+![Editorial cartoon by Hector Rentier: The Largest IPO in History Belongs to Nobody's Neighbor](/cartoons/the-largest-ipo-in-history-belongs-to-nobodys-neighbor.png)
+*A public price is not public power.*
 
 The $2 trillion Anthropic listing is the rentier order’s clearest demonstration yet that a public market can sell claims on the future in millions of pieces while keeping the people who must live with the work outside the room where it is decided. The [Guardian live report by Lucy Campbell and Graeme Wearden](https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates) records that they priced a machine that took in $4.6 billion last year and spent nearly $13 billion against it; on 19 November 2026, the five-year-old frontier AI lab behind Claude—the first such lab to trade publicly—began trading at $111.50 a share, 34 percent above its $83 offering price and briefly worth about $2 trillion after an $81.3 billion share sale. The same report records an operating loss above $8 billion in 2025, followed by a fall to $95 before the shares hovered just above $100. Before the bell, [MSI had already recorded the $83 offering price](/articles/2026-11-18-anthropic-sets-ipo-share-price-at-83-ahead-of-nasdaq-debut/) and [had counted the sale at $79.4 billion before the late repricing](/articles/2026-11-18-anthropic-raises-79-4-billion-in-record-ipo/); another $26 billion raised through a private sale to technology firms brought the total above $107 billion.
 

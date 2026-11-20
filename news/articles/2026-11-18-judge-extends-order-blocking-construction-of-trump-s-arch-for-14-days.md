@@ -67,7 +67,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -245,3 +245,10 @@ For the arch, the schedule now runs to Dec. 3, when the extended order would lap
 **Publication date:** 2026-11-18
 **Title:** Judge issues 14-day extension of order blocking Trump's DC arch
 **URL:** https://apnews.com/article/trump-arch-lawsuit-washington-judge-7cfad78a644cb6470c1234e94f688f8a
+
+### src_late_17dd90b552b10dbf — Associated Press, wire, Tier 1, originating
+**Author:** Gary Fields, Associated Press
+**Publication date:** 2026-11-19
+**Title:** Judge issues 14-day extension of order blocking Trump's triumphal arch construction
+**URL:** https://www.pbs.org/newshour/politics/judge-issues-14-day-extension-of-order-blocking-trumps-triumphal-arch-construction
+**Added after publication:** true
