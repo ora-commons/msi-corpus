@@ -2,8 +2,16 @@
 headline: Most adults do not need a measles booster, experts say
 secondary_headline: Dose history, age, occupation and exposure shape extra-dose guidance
 publish_date: '2026-11-19'
-lede: Most adults do not need an additional measles booster after the United States lost its measles-elimination status this week, medical experts said. Dr. Richard Martinello at Yale School of Medicine said most people are already protected because they were vaccinated or had measles as children. The decision instead depends on vaccination records, age, occupation and exposure risk.
-nut_graf: Two doses of the MMR vaccine offer the best protection, and vaccination and prior measles infection usually provide lifelong protection. Adults with missing or uncertain records can verify their history or discuss an antibody test with a clinician, while extra doses may apply to defined risk groups and adults who received or may have received the older inactivated vaccine.
+lede: Most adults do not need an additional measles booster after the United States
+  lost its measles-elimination status this week, medical experts said. Dr. Richard
+  Martinello at Yale School of Medicine said most people are already protected because
+  they were vaccinated or had measles as children. The decision instead depends on
+  vaccination records, age, occupation and exposure risk.
+nut_graf: Two doses of the MMR vaccine offer the best protection, and vaccination
+  and prior measles infection usually provide lifelong protection. Adults with missing
+  or uncertain records can verify their history or discuss an antibody test with a
+  clinician, while extra doses may apply to defined risk groups and adults who received
+  or may have received the older inactivated vaccine.
 primary_entities:
 - Richard Martinello
 - Joshua Sharfstein
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,107 +152,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-16-schaffner-says-two-mmr-doses-offer-97-to-98-lifelong-protection-from-measles
-  headline: Schaffner says two MMR doses offer 97% to 98% lifelong protection from measles
+  headline: Schaffner says two MMR doses offer 97% to 98% lifelong protection from
+    measles
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7701
+  strength: 0.77
 - slug: 2026-11-16-preliminary-cdc-figures-show-13-congenital-measles-cases-among-newborns
   headline: Preliminary CDC figures show 13 congenital measles cases among newborns
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7234
+  strength: 0.7232
 - slug: 2026-11-17-paho-ends-measles-elimination-status-in-us-mexico-and-bolivia
   headline: PAHO ends measles elimination status in US, Mexico and Bolivia
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7121
+  strength: 0.7119
 - slug: 2026-11-17-health-secretary-kennedy-defends-vaccine-overhaul-as-measles-cases-surge
   headline: Health Secretary Kennedy defends vaccine overhaul as measles cases surge
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7032
+  strength: 0.7025
 - slug: 2026-11-17-u-s-measles-cases-top-5-400-so-far-this-year-largely-driven-by-pennsylvania
   headline: U.S. measles cases top 5,400 so far this year, largely driven by Pennsylvania
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7007
+  strength: 0.701
 - slug: 2026-11-17-nearly-150-health-groups-urge-stronger-federal-action-on-measles
   headline: Nearly 150 health groups urge stronger federal action on measles
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6992
+  strength: 0.6994
 - slug: 2026-11-17-some-experts-say-no-kennedy-or-cdc-measles-briefing-is-scheduled
   headline: Some experts say no Kennedy or CDC measles briefing is scheduled
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6927
+  strength: 0.693
 - slug: 2026-11-17-us-measles-status-loss-brings-certificate-requests-and-possible-21-day-quarantin
-  headline: US measles status loss brings certificate requests and possible 21-day quarantines
+  headline: US measles status loss brings certificate requests and possible 21-day
+    quarantines
   publish_date: '2026-11-17'
   relation: related
   strength: 0.6854
-- slug: 2026-11-18-public-health-leaders-react-as-us-loses-measles-elimination-status
-  headline: Public health leaders react as US loses measles elimination status
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6751
-- slug: 2026-11-13-us-measles-cases-push-nation-toward-losing-elimination-status
-  headline: US measles cases push nation toward losing elimination status
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7041
-- slug: 2026-11-13-paho-panel-weighs-us-mexico-measles-elimination-status
-  headline: PAHO panel weighs US, Mexico measles elimination status
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7015
-- slug: 2026-11-17-ashish-jha-urges-earlier-vaccination-as-u-s-loses-measles-elimination-status
-  headline: Ashish Jha urges earlier vaccination as U.S. loses measles elimination status
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6741
-- slug: 2026-11-17-united-states-expected-to-lose-measles-elimination-status
-  headline: United States expected to lose measles elimination status
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6736
-- slug: 2026-11-14-pan-american-health-organization-says-us-has-lost-measles-elimination-status
-  headline: Pan American Health Organization says US has lost measles elimination status
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6925
-- slug: 2026-11-14-pan-american-health-organization-revokes-u-s-measles-elimination-status
-  headline: Pan American Health Organization revokes U.S. measles elimination status
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6909
-- slug: 2026-10-30-us-parents-move-up-second-mmr-dose-as-measles-cases-accelerate
-  headline: US parents move up second MMR dose as measles cases accelerate
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.742
-- slug: 2026-08-22-non-medical-kindergarten-vaccine-exemptions-hit-record-4-2-as-mmr-coverage-dips
-  headline: Non-medical kindergarten vaccine exemptions hit record 4.2% as MMR coverage dips
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7167
-- slug: 2026-08-25-two-unvaccinated-die-of-measles-in-pennsylvania-first-state-deaths-in-35-years
-  headline: Two unvaccinated die of measles in Pennsylvania, first state deaths in 35 years
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.696
-- slug: 2026-08-21-who-estimates-nearly-11-million-measles-cases-globally-in-2026
-  headline: WHO estimates nearly 11 million measles cases globally in 2026
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6856
-- slug: 2026-08-02-kennedy-urges-measles-vaccination-as-us-outbreak-reaches-2-371-cases
-  headline: Kennedy urges measles vaccination as US outbreak reaches 2,371 cases
-  publish_date: '2026-08-02'
-  relation: related
-  strength: 0.6686
 ---
-
 ## Most adults do not need a measles booster, experts say
 
 **Subtype:** fact

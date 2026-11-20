@@ -1,9 +1,19 @@
 ---
-headline: Judge Thompson finds Rollins's religious emails violated the Establishment Clause
-secondary_headline: Workplace limits bar official pressure and allow discussions with interested colleagues
+headline: Judge Thompson finds Rollins's religious emails violated the Establishment
+  Clause
+secondary_headline: Workplace limits bar official pressure and allow discussions with
+  interested colleagues
 publish_date: '2026-11-19'
-lede: A federal judge ruled Thursday that religious messages sent by U.S. Agriculture Secretary Brooke Rollins to the agency's 100,000 employees were unconstitutional. U.S. District Judge Trina Thompson said the messages could coerce workers to hide their faith or feel pressure to adopt Rollins's Christian faith, while permitting her to discuss her faith with interested colleagues.
-nut_graf: The decision sets limits on the U.S. Agriculture Secretary's official religious communication, requiring Rollins to stop disseminating religious messages when a colleague asks her to stop while allowing discussions with interested colleagues. The suit was brought in May by six USDA employees and the National Federation of Federal Employees, which represents 19,000 USDA workers.
+lede: A federal judge ruled Thursday that religious messages sent by U.S. Agriculture
+  Secretary Brooke Rollins to the agency's 100,000 employees were unconstitutional.
+  U.S. District Judge Trina Thompson said the messages could coerce workers to hide
+  their faith or feel pressure to adopt Rollins's Christian faith, while permitting
+  her to discuss her faith with interested colleagues.
+nut_graf: The decision sets limits on the U.S. Agriculture Secretary's official religious
+  communication, requiring Rollins to stop disseminating religious messages when a
+  colleague asks her to stop while allowing discussions with interested colleagues.
+  The suit was brought in May by six USDA employees and the National Federation of
+  Federal Employees, which represents 19,000 USDA workers.
 primary_entities:
 - Brooke Rollins
 - Trina Thompson
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,109 +149,8 @@ cross_article_links:
   strength: 0.5676
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-13-texas-and-kansas-ag-transitions-leave-gop-mail-ballot-case-in-question
-  headline: Texas and Kansas AG transitions leave GOP mail-ballot case in question
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6005
-- slug: 2026-09-15-judge-talwani-rules-trump-usps-mail-ballot-order-could-disenfranchise-voters
-  headline: Judge Talwani rules Trump USPS mail-ballot order could disenfranchise voters
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6016
-- slug: 2026-09-14-second-judge-blocks-trump-usps-mail-in-voting-rule
-  headline: Second judge blocks Trump USPS mail-in voting rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6003
-- slug: 2026-09-15-voting-rights-groups-praise-supreme-court-mail-ballot-ruling
-  headline: Voting rights groups praise Supreme Court mail ballot ruling
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.584
-- slug: 2026-09-14-whistleblower-usps-secretly-implemented-blocked-trump-mail-in-voting-rules
-  headline: 'Whistleblower: USPS secretly implemented blocked Trump mail-in voting rules'
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5838
-- slug: 2026-09-09-appeals-courts-to-rule-on-trump-usps-mail-ballot-rules-for-midterms
-  headline: Appeals courts to rule on Trump USPS mail ballot rules for midterms
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.5951
-- slug: 2026-09-15-supreme-court-blocks-usps-mail-ballot-rules-amid-widespread-confusion
-  headline: Supreme Court blocks USPS mail-ballot rules amid widespread confusion
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5761
-- slug: 2026-09-14-supreme-court-blocks-trump-administration-mail-ballot-rules
-  headline: Supreme Court blocks Trump administration mail ballot rules
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.5783
-- slug: 2026-08-11-federal-judge-widens-block-on-trump-mail-voting-order-to-all-states
-  headline: Federal judge widens block on Trump mail voting order to all states
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6204
-- slug: 2026-09-04-trump-administration-asks-supreme-court-to-lift-usps-mail-ballot-block
-  headline: Trump administration asks Supreme Court to lift USPS mail-ballot block
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.5784
-- slug: 2026-08-22-usps-mail-in-voting-rule-set-for-wednesday-publication-as-two-court-injunctions-
-  headline: USPS mail-in voting rule set for Wednesday publication as two court injunctions stand
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.5951
-- slug: 2026-09-03-talwani-to-weigh-converting-usps-ballot-tro-into-midterm-injunction
-  headline: Talwani to weigh converting USPS ballot TRO into midterm injunction
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.572
-- slug: 2026-08-29-dhs-uses-obscure-customs-summons-to-obtain-records-on-journalists-nonprofits
-  headline: DHS uses obscure customs summons to obtain records on journalists, nonprofits
-  publish_date: '2026-08-29'
-  relation: related
-  strength: 0.5706
-- slug: 2026-07-25-appeals-court-upholds-injunction-blocking-trump-mail-in-voting-rules
-  headline: Appeals court upholds injunction blocking Trump mail-in voting rules
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.589
-- slug: 2026-07-28-appeals-court-rules-challenge-to-trump-mail-voting-order-premature
-  headline: Appeals court rules challenge to Trump mail voting order premature
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5757
-- slug: 2026-07-01-federal-judge-blocks-usps-plan-to-refuse-mail-ballots-over-voter-rolls
-  headline: Federal judge blocks USPS plan to refuse mail ballots over voter rolls
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5949
-- slug: 2026-06-25-federal-judge-in-boston-blocks-parts-of-trump-s-mail-voting-order
-  headline: Federal judge in Boston blocks parts of Trump's mail voting order
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5975
-- slug: 2026-06-29-supreme-court-expands-presidential-firing-power-blocks-cook-ouster-upholds-mail-
-  headline: Supreme Court expands presidential firing power, blocks Cook ouster, upholds mail ballots
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5729
-- slug: 2026-06-25-usps-to-refuse-delivery-of-mail-ballots-in-states-that-withhold-voter-rolls
-  headline: USPS to refuse delivery of mail ballots in states that withhold voter rolls
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.572
-- slug: 2026-05-15-attorneys-argue-trump-election-order-exceeds-presidential-authority-in-federal-c
-  headline: Attorneys argue Trump election order exceeds presidential authority in federal court
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5787
+related_stories: []
 ---
-
 ## Judge Thompson finds Rollins's religious emails violated the Establishment Clause
 
 **Subtype:** fact
