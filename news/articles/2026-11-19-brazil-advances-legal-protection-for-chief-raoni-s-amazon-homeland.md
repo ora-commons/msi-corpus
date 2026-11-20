@@ -2,8 +2,15 @@
 headline: Brazil advances legal protection for Chief Raoni’s Amazon homeland
 secondary_headline: About 200 rural properties overlap the territory, Lula says
 publish_date: '2026-11-19'
-lede: Brazil's Justice Ministry issued an order formally recognizing the Mebengokre-Kayapo and Yudja-Juruna peoples' permanent possession of the Kapot Nhinore Indigenous Territory. On Thursday, President Luiz Inácio Lula da Silva advanced the legal protection during a visit to the territory in the Brazilian rainforest, saying about 200 rural properties still overlap the land and legal hurdles remain before demarcation is complete.
-nut_graf: The order gives formal recognition to the two peoples' traditional homeland and is significant as a safeguard for a forest corridor along the Xingu River. Final demarcation remains incomplete because overlapping rural properties still create legal hurdles.
+lede: Brazil's Justice Ministry issued an order formally recognizing the Mebengokre-Kayapo
+  and Yudja-Juruna peoples' permanent possession of the Kapot Nhinore Indigenous Territory.
+  On Thursday, President Luiz Inácio Lula da Silva advanced the legal protection during
+  a visit to the territory in the Brazilian rainforest, saying about 200 rural properties
+  still overlap the land and legal hurdles remain before demarcation is complete.
+nut_graf: The order gives formal recognition to the two peoples' traditional homeland
+  and is significant as a safeguard for a forest corridor along the Xingu River. Final
+  demarcation remains incomplete because overlapping rural properties still create
+  legal hurdles.
 primary_entities:
 - Brazil
 - Luiz Inácio Lula da Silva
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,108 +150,33 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-18-brazil-sends-health-workers-after-awa-group-approaches-guajajara-community
-  headline: Brazil sends health workers after Awa group approaches Guajajara community
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6052
-- slug: 2026-11-16-pope-leo-demands-justice-for-slain-amazon-defenders-in-peru
-  headline: Pope Leo demands justice for slain Amazon defenders in Peru
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6056
-- slug: 2026-11-09-groups-say-peru-commission-revisits-2016-study-for-mashco-piro-reserve-expansion
-  headline: Groups say Peru commission revisits 2016 study for Mashco Piro reserve expansion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.5991
-- slug: 2026-10-27-netherlands-pledges-500-million-to-brazil-backed-forest-fund-after-lula-s-runoff
-  headline: Netherlands pledges $500 million to Brazil-backed forest fund after Lula’s runoff victory
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6319
-- slug: 2026-10-26-lula-pledges-against-dictatorship-as-brazil-s-victory-draws-global-recognition
-  headline: Lula pledges against dictatorship as Brazil’s victory draws global recognition
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6175
-- slug: 2026-10-23-brazil-s-runoff-result-may-affect-the-pace-of-the-amazon-forest-transition
-  headline: Brazil's runoff result may affect the pace of the Amazon forest transition
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6253
-- slug: 2026-10-26-saamaka-communities-map-suriname-forests-to-document-logging-and-mining
-  headline: Saamaka communities map Suriname forests to document logging and mining
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6095
-- slug: 2026-10-22-quilombolas-reclaim-amazon-land-from-bankrupt-palm-oil-company
-  headline: Quilombolas reclaim Amazon land from bankrupt palm oil company
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6051
-- slug: 2026-10-21-brazil-s-top-court-pauses-belo-sun-s-volta-grande-installation-license
-  headline: Brazil's Supreme Court provisionally suspends Belo Sun's Volta Grande license
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.602
-- slug: 2026-10-07-amazon-deforestation-gains-at-stake-as-fl-vio-bolsonaro-leads-brazil-runoff
-  headline: Amazon deforestation gains at stake as Flávio Bolsonaro leads Brazil runoff
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6349
 - slug: 2026-08-11-brazil-s-supreme-court-weighs-cases-that-could-reshape-amazon-protections
   headline: Brazil's Supreme Court weighs cases that could reshape Amazon protections
   publish_date: '2026-08-11'
   relation: related
-  strength: 0.6665
+  strength: 0.6668
 - slug: 2026-07-24-brazil-and-peru-sign-pact-to-protect-indigenous-border-lands
   headline: Brazil and Peru sign pact to protect Indigenous border lands
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6795
+  strength: 0.6779
 - slug: 2026-07-23-ashaninka-leaders-urge-brazil-protection-as-drug-gangs-encroach-on-amazon-territ
-  headline: Ashaninka leaders urge Brazil protection as drug gangs encroach on Amazon territory
+  headline: Ashaninka leaders urge Brazil protection as drug gangs encroach on Amazon
+    territory
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6731
-- slug: 2026-08-17-indigenous-environmental-groups-sue-to-halt-lula-backed-amazon-oil-drilling
-  headline: Indigenous, environmental groups sue to halt Lula-backed Amazon oil drilling
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.6423
+  strength: 0.6726
 - slug: 2026-04-09-indigenous-leader-raoni-backs-lula-despite-opposing-amazon-railway
   headline: Indigenous leader Raoni backs Lula despite opposing Amazon railway
   publish_date: '2026-04-09'
   relation: related
-  strength: 0.7048
+  strength: 0.703
 - slug: 2026-05-27-brazil-to-invest-75-million-in-amazon-highway-unveils-protection-plan
   headline: Brazil to invest $75 million in Amazon highway, unveils protection plan
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.6579
-- slug: 2026-02-28-amazon-akuntsu-tribe-had-about-three-women-left-birth-brings-hope
-  headline: Amazon Akuntsu tribe had about three women left; birth brings hope
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6464
-- slug: 2026-06-11-brazil-reports-sharp-drop-in-amazon-deforestation-amid-us-tariff-dispute
-  headline: Brazil Reports Sharp Drop in Amazon Deforestation Amid US Tariff Dispute
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6068
-- slug: 2026-05-10-brazil-deforestation-falls-to-12-year-low-but-silent-degradation-threatens-amazo
-  headline: Brazil deforestation falls to 12-year low, but silent degradation threatens Amazon recovery
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6174
-- slug: 2026-05-10-indigenous-amazon-groups-urge-un-to-curb-organized-crime-not-militarize-territor
-  headline: Indigenous Amazon groups urge UN to curb organized crime, not militarize territories
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6158
+  strength: 0.6568
 ---
-
 ## Brazil advances legal protection for Chief Raoni’s Amazon homeland
 
 **Subtype:** fact
