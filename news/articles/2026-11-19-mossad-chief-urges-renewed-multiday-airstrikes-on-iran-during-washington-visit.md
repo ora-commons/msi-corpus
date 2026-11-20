@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-07-31'
   relation: related
   strength: 0.7303
+analyses:
+- '2026-11-19-trump-weighs-renewed-iran-strikes-as-u-s--israeli-goals-diverge'
 ---
 ## Mossad chief urges renewed multiday airstrikes on Iran during Washington visit
 
@@ -241,3 +243,8 @@ The decision on whether to resume large-scale strikes remains with Trump, who is
 **Publication date:** 2026-11-19
 **Title:** Israeli Spy Chief Pressed for Renewed Iran Strikes During U.S. Visit
 **URL:** https://www.wsj.com/world/middle-east/israeli-spy-chief-pressed-for-renewed-iran-strikes-during-u-s-visit-3ba229d3
+
+---
+
+<!-- analysis-link:2026-11-19-trump-weighs-renewed-iran-strikes-as-u-s--israeli-goals-diverge -->
+**Going deeper:** [Read MSI's analysis of the Iran strike decision →](/analyses/2026-11-19-trump-weighs-renewed-iran-strikes-as-u-s--israeli-goals-diverge)

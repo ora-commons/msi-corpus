@@ -171,6 +171,8 @@ related_stories:
   publish_date: '2026-05-05'
   relation: related
   strength: 0.6729
+analyses:
+- '2026-11-18-noaa-request-routes-northern-edge-reopening-into-december-council-process'
 ---
 ## New England Fishery Management Council weighs reopening scallop ground
 
@@ -224,3 +226,8 @@ If the council declines to take up the issue, its September statement said, the 
 **Publication date:** 2026-11-18
 **Title:** Will scallopers return to the Northern Edge?
 **URL:** https://apnews.com/article/scallopers-fishing-northern-edge-trump-8e0e3eb2ef7424754e879c4a905524f0
+
+---
+
+<!-- analysis-link:2026-11-18-noaa-request-routes-northern-edge-reopening-into-december-council-process -->
+**Going deeper:** [Read MSI's analysis of the Northern Edge reopening process →](/analyses/2026-11-18-noaa-request-routes-northern-edge-reopening-into-december-council-process)
