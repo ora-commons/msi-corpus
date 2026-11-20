@@ -40,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,7 +62,28 @@ cross_article_links:
   strength: 1.0
   confidence: high
 draft: false
+image:
+  url: /cartoons/donald-trump-sacrificed-rural-america-for-fossil-fuel.png
+  alt: 'Editorial cartoon by Hector Rentier: Donald Trump Sacrificed Rural America
+    for Fossil-Fuel Production'
+  caption: They counted the wells. They did not count what the wells left behind.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-19T22:24:26-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1, single-panel Nast-style wood engraving with dense cross-hatch,
+    hard black masses, and carved whites. Donald Trump dominates the center foreground
+    at a polished drilling-company ribbon-cutt
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-19-hector-paired-with-2026-11-19-mark-paulson-cop31-turkey-climate-change-us-trump
 ---
+
+![Editorial cartoon by Hector Rentier: Donald Trump Sacrificed Rural America for Fossil-Fuel Production](/cartoons/donald-trump-sacrificed-rural-america-for-fossil-fuel.png)
+*They counted the wells. They did not count what the wells left behind.*
 
 Donald Trump sacrificed rural America for more fossil-fuel production.
 
