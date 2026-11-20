@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-09-17'
   relation: related
   strength: 0.6592
+analyses:
+- '2026-11-19-un-guidance-frames-uk-scrutiny-of-the-palestine-action-proscription'
 ---
 ## UN committee issues security-law caution as UK court weighs Palestine Action ban
 
@@ -236,3 +238,8 @@ The committee's guidance does not name Palestine Action, and the Supreme Court's
 **Publication date:** 2026-11-19
 **Title:** UN warns against misuse of security laws as UK weighs Palestine Action ban
 **URL:** https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban
+
+---
+
+<!-- analysis-link:2026-11-19-un-guidance-frames-uk-scrutiny-of-the-palestine-action-proscription -->
+**Going deeper:** [Read MSI's analysis of Palestine Action proscription →](/analyses/2026-11-19-un-guidance-frames-uk-scrutiny-of-the-palestine-action-proscription)
