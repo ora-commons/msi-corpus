@@ -79,7 +79,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -275,3 +275,10 @@ After his release, Falade told the Village Voice that tenants were not paying re
 **Publication date:** 2026-11-20
 **Title:** Brooklyn building collapse leads to lawsuits alleging cut corners, ignored warnings
 **URL:** https://apnews.com/article/brooklyn-building-collapse-2af8324fee1c414bd1e9225cd0f63577
+
+### src_late_0f17b07652a69168 — Associated Press, wire, Tier 1, originating
+**Author:** Jennifer Peltz, Associated Press, Michael R. Sisak, Associated Press
+**Publication date:** 2026-11-20
+**Title:** Lawsuits allege corner cutting, ignored warnings led to fatal Brooklyn building collapse
+**URL:** https://www.pbs.org/newshour/nation/lawsuits-allege-corner-cutting-ignored-warnings-led-to-fatal-brooklyn-building-collapse
+**Added after publication:** true
