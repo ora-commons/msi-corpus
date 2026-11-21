@@ -33,7 +33,8 @@ topic_tags:
 - judiciary
 - politics
 - corruption
-storyline_nexus: []
+storyline_nexus:
+- federal-judicial-rulings-on-trump-government-funded-initiatives
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.7024
 ---
+
 ## Federal judges rule against Trump in IRS settlement, ad and Truth Social cases
 
 **Subtype:** fact
