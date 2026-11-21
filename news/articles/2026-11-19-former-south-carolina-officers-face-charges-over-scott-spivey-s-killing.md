@@ -33,7 +33,8 @@ topic_tags:
 - crime
 - law
 - judiciary
-storyline_nexus: []
+storyline_nexus:
+- the-scott-spivey-killing-investigation-and-prosecutions
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -164,6 +165,7 @@ related_stories:
   relation: related
   strength: 0.6525
 ---
+
 ## Former South Carolina officers face charges over Scott Spivey’s killing
 
 **Subtype:** fact

@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
 - crime
 - law
-storyline_nexus: []
+storyline_nexus:
+- the-scott-spivey-killing-investigation-and-prosecutions
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -147,6 +148,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Grand jury indicts two men on murder charges in Scott Spivey's killing
 
 **Subtype:** fact
