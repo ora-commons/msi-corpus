@@ -73,9 +73,10 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - NPR
+  - PBS News
   outlet_classes:
   - public_broadcaster
   highest_reliability_tier: 1
@@ -291,3 +292,9 @@ The report's broader account placed AI stocks' outsized market values behind Fri
 **Publication date:** 2026-11-20
 **Title:** S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year
 **URL:** https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative
+
+### src_late_e40b3dff25004c05 — PBS News, public_broadcaster, Tier 1, originating
+**Publication date:** 2026-11-20
+**Title:** News Wrap: Stocks tumble as worries about AI rattle market
+**URL:** https://www.pbs.org/newshour/show/news-wrap-stocks-tumble-as-worries-about-ai-rattle-market
+**Added after publication:** true
