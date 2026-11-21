@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-s-plan-to-halt-direct-u-s-military-aid-to-israel
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -189,6 +190,7 @@ related_stories:
   relation: related
   strength: 0.7051
 ---
+
 ## Trump's plan to halt direct U.S. military aid to Israel needs Congress
 
 **Subtype:** fact

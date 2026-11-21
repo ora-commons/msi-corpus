@@ -1,9 +1,18 @@
 ---
 headline: Eurozone inflation reaches 4% while negotiated wage growth rises to 2.57%
-secondary_headline: European Commission projects 0.4% growth in eurozone real wages this year
+secondary_headline: European Commission projects 0.4% growth in eurozone real wages
+  this year
 publish_date: '2026-11-20'
-lede: Eurozone wages negotiated by labor unions and similar groups grew 2.57% in the third quarter from a year earlier, the European Central Bank said, up from an annual rate of 2.45% in the previous quarter. Eurozone inflation reached 4% in October after the war between the U.S. and Iran began in February, weakening households' spending power. The European Commission estimates inflation-adjusted wages will rise 0.4% this year, down from 1.8% in 2025.
-nut_graf: ECB officials have treated negotiated wages as a key indicator of whether conflict-driven energy prices will keep inflation above the bank's 2% target. The central bank raised its key rate in June and September. Bank of France Governor Emmanuel Moulin said policymakers had not yet seen second-round effects.
+lede: Eurozone wages negotiated by labor unions and similar groups grew 2.57% in the
+  third quarter from a year earlier, the European Central Bank said, up from an annual
+  rate of 2.45% in the previous quarter. Eurozone inflation reached 4% in October
+  after the war between the U.S. and Iran began in February, weakening households'
+  spending power. The European Commission estimates inflation-adjusted wages will
+  rise 0.4% this year, down from 1.8% in 2025.
+nut_graf: ECB officials have treated negotiated wages as a key indicator of whether
+  conflict-driven energy prices will keep inflation above the bank's 2% target. The
+  central bank raised its key rate in June and September. Bank of France Governor
+  Emmanuel Moulin said policymakers had not yet seen second-round effects.
 primary_entities:
 - European Central Bank
 - European Commission
@@ -37,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,7 +151,8 @@ related_stories:
   relation: related
   strength: 0.7372
 - slug: 2026-11-18-u-k-inflation-hits-3-6-likely-supporting-expectations-of-another-boe-rate-hike
-  headline: U.K. inflation hits 3.6%, likely supporting expectations of another BOE rate hike
+  headline: U.K. inflation hits 3.6%, likely supporting expectations of another BOE
+    rate hike
   publish_date: '2026-11-18'
   relation: related
   strength: 0.7172
@@ -156,7 +167,8 @@ related_stories:
   relation: related
   strength: 0.732
 - slug: 2026-11-02-bank-of-england-likely-to-hike-to-4-to-contain-inflation-5-rate-path-uncertain
-  headline: Bank of England likely to hike to 4% to contain inflation, 5% rate path uncertain
+  headline: Bank of England likely to hike to 4% to contain inflation, 5% rate path
+    uncertain
   publish_date: '2026-11-02'
   relation: related
   strength: 0.7182
@@ -175,68 +187,7 @@ related_stories:
   publish_date: '2026-09-10'
   relation: related
   strength: 0.7347
-- slug: 2026-08-28-french-inflation-accelerates-to-2-7-in-august-on-energy-costs
-  headline: French inflation accelerates to 2.7% in August on energy costs
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.7603
-- slug: 2026-06-01-eurozone-household-inflation-expectations-steady-at-4-well-above-prewar-levels
-  headline: Eurozone household inflation expectations steady at 4%, well above prewar levels
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.8321
-- slug: 2026-07-15-eurozone-industrial-production-fell-0-2-in-may-snapping-three-month-streak
-  headline: Eurozone industrial production fell 0.2% in May, snapping three-month streak
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.7392
-- slug: 2026-06-04-eurozone-retail-sales-fell-0-4-in-april-as-iran-war-energy-costs-bite
-  headline: Eurozone retail sales fell 0.4% in April as Iran war energy costs bite
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7619
-- slug: 2026-06-30-french-and-italian-inflation-slow-more-than-expected-in-june
-  headline: French and Italian inflation slow more than expected in June
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.737
-- slug: 2026-07-30-us-economy-slows-to-1-5-annual-growth-in-second-quarter
-  headline: US economy slows to 1.5% annual growth in second quarter
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.709
-- slug: 2026-06-11-ecb-raises-benchmark-rate-to-2-25-as-iran-war-lifts-oil-prices
-  headline: ECB raises benchmark rate to 2.25% as Iran war lifts oil prices
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7431
-- slug: 2026-06-15-eurozone-industrial-output-edges-up-0-1-in-april-as-iran-war-disrupts-supply-cha
-  headline: Eurozone industrial output edges up 0.1% in April as Iran war disrupts supply chains
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7345
-- slug: 2026-05-21-europe-energy-prices-to-stay-above-pre-iran-war-levels-until-end-of-2027
-  headline: Europe energy prices to stay above pre-Iran-war levels until end of 2027
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7291
-- slug: 2026-07-06-canada-business-inflation-expectations-surged-during-iran-conflict-boc-survey-sh
-  headline: Canada business inflation expectations surged during Iran conflict, BoC survey shows
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.7007
-- slug: 2026-06-25-fed-s-preferred-inflation-gauge-rises-to-three-year-high-in-may
-  headline: Fed's preferred inflation gauge rises to three-year high in May
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.708
-- slug: 2026-06-10-us-inflation-surges-to-4-2-in-may-a-three-year-high
-  headline: US inflation surges to 4.2% in May, a three-year high
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7074
 ---
-
 ## Eurozone inflation reaches 4% while negotiated wage growth rises to 2.57%
 
 **Subtype:** fact

@@ -31,7 +31,8 @@ topic_tags:
 - armed conflict
 - election
 - war crime
-storyline_nexus: []
+storyline_nexus:
+- trump-s-plan-to-halt-direct-u-s-military-aid-to-israel
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,6 +194,7 @@ related_stories:
   relation: related
   strength: 0.7903
 ---
+
 ## Abdul El-Sayed wins Michigan Senate seat and backs ending Israel military aid
 
 **Subtype:** fact
