@@ -1,9 +1,19 @@
 ---
 headline: Bakersfield vigil honors Dolores Huerta as a celebration of life is scheduled
-secondary_headline: Friday’s scheduled interfaith service features music, civic speakers and remembrance
+secondary_headline: Friday’s scheduled interfaith service features music, civic speakers
+  and remembrance
 publish_date: '2026-11-20'
-lede: The Guardian reported that hundreds of people honored labor and civil rights leader Dolores Huerta during a week of public commemorations, including a Thursday vigil in Bakersfield. California officials had honored Huerta at the state Capitol on Monday, while an interfaith memorial service and celebration of life were scheduled for Friday in Bakersfield. Huerta co-founded the United Farm Workers in 1962 and died on October 28 at age 96.
-nut_graf: 'The events extended the public remembrance of Huerta’s work for farmworkers, women, environmental justice and community organizing. Her family said the tributes reflected her life of helping and supporting others, while the Dolores Huerta Foundation continued the mission she established in 2003: creating community leadership opportunities, organizing underserved communities and pursuing social justice.'
+lede: The Guardian reported that hundreds of people honored labor and civil rights
+  leader Dolores Huerta during a week of public commemorations, including a Thursday
+  vigil in Bakersfield. California officials had honored Huerta at the state Capitol
+  on Monday, while an interfaith memorial service and celebration of life were scheduled
+  for Friday in Bakersfield. Huerta co-founded the United Farm Workers in 1962 and
+  died on October 28 at age 96.
+nut_graf: 'The events extended the public remembrance of Huerta’s work for farmworkers,
+  women, environmental justice and community organizing. Her family said the tributes
+  reflected her life of helping and supporting others, while the Dolores Huerta Foundation
+  continued the mission she established in 2003: creating community leadership opportunities,
+  organizing underserved communities and pursuing social justice.'
 primary_entities:
 - Dolores Huerta
 - United Farm Workers
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +161,43 @@ related_stories:
   headline: California officials honor Dolores Huerta at Capitol memorial
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7949
+  strength: 0.7941
 - slug: 2026-11-17-california-officials-honor-dolores-huerta-at-capitol-memorial
   headline: California officials honor Dolores Huerta at capitol memorial
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7806
+  strength: 0.781
 - slug: 2026-10-28-labor-leaders-and-lawmakers-honor-dolores-huerta-after-her-death
   headline: Labor leaders and lawmakers honor Dolores Huerta after her death
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.76
+  strength: 0.7619
 - slug: 2026-10-29-students-colleagues-recall-huerta-s-ability-to-connect-with-anyone
   headline: Students, colleagues recall Huerta's ability to connect with anyone
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7491
+  strength: 0.7512
 - slug: 2026-10-28-dolores-huerta-s-allies-pledge-continued-organizing-after-her-death
   headline: Dolores Huerta’s allies pledge continued organizing after her death
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7458
-- slug: 2026-11-18-about-1-000-guests-invited-to-gloria-steinem-memorial-in-manhattan
-  headline: About 1,000 guests invited to Gloria Steinem memorial in Manhattan
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6091
-- slug: 2026-10-28-documentary-captures-huerta-s-own-definition-of-her-legacy
-  headline: Documentary captures Huerta's own definition of her legacy
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7296
+  strength: 0.7456
 - slug: 2026-10-28-united-farm-workers-vows-to-continue-huerta-s-fight
   headline: United Farm Workers vows to continue Huerta's fight
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7295
-- slug: 2026-11-18-park-avenue-armory-hosts-gloria-steinem-memorial
-  headline: Park Avenue Armory hosts Gloria Steinem memorial
-  publish_date: '2026-11-18'
+  strength: 0.7341
+- slug: 2026-10-28-documentary-captures-huerta-s-own-definition-of-her-legacy
+  headline: Documentary captures Huerta's own definition of her legacy
+  publish_date: '2026-10-28'
   relation: related
-  strength: 0.5963
+  strength: 0.7317
 - slug: 2026-10-28-dolores-huerta-ufw-co-founder-dies-at-96
   headline: Dolores Huerta, UFW co-founder, dies at 96
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7109
-- slug: 2026-10-28-new-york-times-interviews-show-huerta-said-chavez-raped-her-in-1966
-  headline: New York Times interviews show Huerta said Chavez raped her in 1966
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6982
-- slug: 2026-10-28-huerta-s-1972-retort-answers-arizona-s-no-se-puede-with-s-se-puede
-  headline: Huerta's 1972 retort answers Arizona's no se puede with Sí, se puede
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6924
-- slug: 2026-10-31-us-cities-revive-day-of-the-dead-celebrations-as-ice-arrests-continue
-  headline: US cities revive Day of the Dead celebrations as ICE arrests continue
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.5951
-- slug: 2026-03-20-dolores-huerta-s-decades-old-chavez-abuse-disclosure-prompts-calls-to-rebrand-le
-  headline: Dolores Huerta’s decades-old Chavez abuse disclosure prompts calls to rebrand legacy
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7082
-- slug: 2026-03-19-latino-leaders-weigh-c-sar-chavez-abuse-allegations-and-calls-to-rebrand
-  headline: Latino leaders weigh César Chavez abuse allegations and calls to rebrand
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6876
-- slug: 2026-03-19-c-sar-chavez-dolores-huerta-legacy-examined-as-allegations-prompt-cancellations
-  headline: César Chavez, Dolores Huerta legacy examined as allegations prompt cancellations
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6725
-- slug: 2026-03-20-california-lawmakers-seek-rename-of-c-sar-chavez-day-after-abuse-allegations
-  headline: California lawmakers seek rename of César Chavez Day after abuse allegations
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6299
-- slug: 2026-03-27-c-sar-chavez-day-events-canceled-or-renamed-amid-sexual-abuse-allegations
-  headline: César Chavez Day events canceled or renamed amid sexual abuse allegations
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6182
-- slug: 2026-03-30-nationwide-efforts-underway-to-rebrand-c-sar-chavez-day-after-abuse-allegations
-  headline: Nationwide efforts underway to rebrand César Chavez Day after abuse allegations
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.6068
-- slug: 2026-03-19-states-rethink-c-sar-chavez-day-amid-allegations-of-abuse
-  headline: States rethink César Chavez Day amid allegations of abuse
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.5844
+  strength: 0.7156
 ---
-
 ## Bakersfield vigil honors Dolores Huerta as a celebration of life is scheduled
 
 **Subtype:** fact

@@ -39,7 +39,8 @@ primary_themes:
 topic_tags:
 - politics
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -201,6 +202,7 @@ related_stories:
   relation: related
   strength: 0.8042
 ---
+
 ## Trump, Xi and Putin end Shenzhen summit without Ukraine breakthrough
 
 **Subtype:** fact

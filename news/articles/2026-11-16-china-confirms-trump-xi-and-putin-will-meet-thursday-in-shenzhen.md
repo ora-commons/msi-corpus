@@ -34,7 +34,8 @@ primary_themes:
 - Iran conflict
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.8297
 ---
+
 ## China confirms Trump, Xi and Putin will meet Thursday in Shenzhen
 
 **Subtype:** fact

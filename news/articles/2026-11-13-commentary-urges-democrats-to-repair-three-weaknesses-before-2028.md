@@ -29,7 +29,8 @@ topic_tags:
 - election
 - economy
 - politics
-storyline_nexus: []
+storyline_nexus:
+- democratic-party-realignment
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.727
 ---
+
 ## Commentary urges Democrats to repair three weaknesses before 2028
 
 **Subtype:** fact

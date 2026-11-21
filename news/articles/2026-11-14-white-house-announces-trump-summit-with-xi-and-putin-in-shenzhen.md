@@ -26,7 +26,8 @@ primary_themes:
 - U.S.-Russia relations
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -187,6 +188,7 @@ related_stories:
   relation: related
   strength: 0.7514
 ---
+
 ## White House announces Trump summit with Xi and Putin in Shenzhen
 
 **Subtype:** fact

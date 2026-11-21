@@ -47,7 +47,8 @@ primary_themes:
 topic_tags:
 - international relations
 - international trade
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -209,6 +210,7 @@ related_stories:
   relation: related
   strength: 0.7294
 ---
+
 ## State media reports Xi warning Trump on Taiwan; Putin questions democracy
 
 **Subtype:** fact

@@ -39,7 +39,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- democratic-party-realignment
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -214,6 +215,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Democrats' largest majority in decades leaves party's future fight unresolved
 
 **Subtype:** fact

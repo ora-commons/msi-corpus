@@ -34,7 +34,8 @@ primary_themes:
 topic_tags:
 - international relations
 - conflict, war and peace
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.7732
 ---
+
 ## Trump, Putin and Xi are set for Shenzhen summit with competing aims
 
 **Subtype:** fact

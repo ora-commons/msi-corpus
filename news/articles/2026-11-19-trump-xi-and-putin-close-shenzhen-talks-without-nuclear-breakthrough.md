@@ -39,7 +39,8 @@ primary_themes:
 - Russia-Ukraine diplomacy
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -213,8 +214,9 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 analyses:
-- '2026-11-19-shenzhen-trilateral-leaves-nuclear-limits-unresolved-with-an-agenda-for-further-'
+- 2026-11-19-shenzhen-trilateral-leaves-nuclear-limits-unresolved-with-an-agenda-for-further-
 ---
+
 ## Trump, Xi and Putin close Shenzhen talks without nuclear breakthrough
 
 **Subtype:** fact

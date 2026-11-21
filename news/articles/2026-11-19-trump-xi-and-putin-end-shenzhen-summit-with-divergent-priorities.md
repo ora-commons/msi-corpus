@@ -33,7 +33,8 @@ primary_themes:
 - U.S.-China technology dispute
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.8148
 ---
+
 ## Trump, Xi and Putin end Shenzhen summit with divergent priorities
 
 **Subtype:** fact

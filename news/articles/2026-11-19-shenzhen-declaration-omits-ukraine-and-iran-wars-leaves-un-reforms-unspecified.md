@@ -50,7 +50,8 @@ primary_themes:
 - Nuclear-force signaling
 topic_tags:
 - international law
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -212,6 +213,7 @@ related_stories:
   relation: related
   strength: 0.7442
 ---
+
 ## Shenzhen declaration omits Ukraine and Iran wars, leaves UN reforms unspecified
 
 **Subtype:** fact

@@ -42,7 +42,8 @@ primary_themes:
 - Shifting global power
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -204,6 +205,7 @@ related_stories:
   relation: related
   strength: 0.7173
 ---
+
 ## Trump meets Putin before trilateral; Kremlin says Ukraine was the focus
 
 **Subtype:** fact

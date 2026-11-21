@@ -32,7 +32,8 @@ primary_themes:
 - China-Russia relations
 - Ukraine and Iran
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,8 +194,9 @@ related_stories:
   relation: related
   strength: 0.7833
 analyses:
-- '2026-11-18-trump-s-shenzhen-trilateral-tests-rare-earth-leverage-against-china-s-parity-dem'
+- 2026-11-18-trump-s-shenzhen-trilateral-tests-rare-earth-leverage-against-china-s-parity-dem
 ---
+
 ## Trump begins China visit before trilateral summit with Xi and Putin
 
 **Subtype:** fact

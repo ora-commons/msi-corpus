@@ -36,7 +36,8 @@ primary_themes:
 - regional security
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -177,6 +178,7 @@ related_stories:
   relation: related
   strength: 0.7455
 ---
+
 ## China hosts Apec summit as Trump, Xi and Putin set for three-way meeting
 
 **Subtype:** fact

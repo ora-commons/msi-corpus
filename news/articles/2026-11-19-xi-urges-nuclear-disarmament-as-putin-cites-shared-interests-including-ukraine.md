@@ -34,7 +34,8 @@ topic_tags:
 - international relations
 - conflict, war and peace
 - technology and engineering
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.7562
 ---
+
 ## Xi urges nuclear disarmament as Putin cites shared interests including Ukraine
 
 **Subtype:** fact

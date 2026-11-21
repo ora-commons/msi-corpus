@@ -38,7 +38,8 @@ topic_tags:
 - international relations
 - artificial intelligence
 - government
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,6 +200,7 @@ related_stories:
   relation: related
   strength: 0.7512
 ---
+
 ## Trump holds a Quad meeting and a trilateral summit on his Asia trip
 
 **Subtype:** fact

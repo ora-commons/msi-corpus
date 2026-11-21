@@ -41,7 +41,8 @@ primary_themes:
 - Taiwan and semiconductor production
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- trump-xi-jinping-and-vladimir-putin-trilateral-summit-in-shenzhen
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.7189
 ---
+
 ## Trump arrives in Shenzhen for trilateral talks amid U.S. outages
 
 **Subtype:** fact
