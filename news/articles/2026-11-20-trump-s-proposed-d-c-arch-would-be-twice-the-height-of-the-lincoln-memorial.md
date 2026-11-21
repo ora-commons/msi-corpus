@@ -73,7 +73,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -264,3 +264,10 @@ MSI previously reported that [Judge Tanya Chutkan extended a temporary restraini
 **Publication date:** 2026-11-20
 **Title:** A 2nd judge blocks construction of Trump's memorial arch in DC
 **URL:** https://apnews.com/article/trump-arch-virginia-judge-brinkema-f7b9b0a0480481505038d007bf270cd9
+
+### src_late_92917e395e09101d — Associated Press, wire, Tier 1, originating
+**Author:** Michael Kunzelman, Associated Press, Gary Fields, Associated Press
+**Publication date:** 2026-11-20
+**Title:** Second federal judge blocks construction of Trump's memorial arch
+**URL:** https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch
+**Added after publication:** true
