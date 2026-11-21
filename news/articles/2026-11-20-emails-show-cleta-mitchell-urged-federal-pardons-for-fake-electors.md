@@ -1,9 +1,22 @@
 ---
 headline: Emails show Cleta Mitchell urged federal pardons for fake electors
-secondary_headline: Georgia charges were dismissed for unrelated reasons; Wisconsin case remains pending
+secondary_headline: Georgia charges were dismissed for unrelated reasons; Wisconsin
+  case remains pending
 publish_date: '2026-11-20'
-lede: Cleta Mitchell, a former Trump lawyer and a key lawyer in Donald Trump's efforts to overturn the 2020 presidential election, urged Justice Department pardon attorney Ed Martin in fall 2025 to help the department seek presidential pardons for people who signed certificates falsely claiming Trump won the election in their states. Emails obtained by American Oversight through a Freedom of Information Act request and provided to The Guardian show that Mitchell wanted action before trials and other prosecution steps. Trump issued a blanket pardon on 10 November 2025, but it was largely symbolic and did not affect the state-level charges.
-nut_graf: 'The emails document an effort by Trump''s allies, including a former Trump lawyer, to use presidential pardon power to protect participants in the fake-elector prosecutions after Joe Biden won the 2020 election. The legal outcomes remained separate from the administration''s pardon effort: Georgia''s case was dismissed for unrelated reasons, Wisconsin''s remained pending, and cases in Arizona, Michigan and Nevada had stalled for other reasons.'
+lede: Cleta Mitchell, a former Trump lawyer and a key lawyer in Donald Trump's efforts
+  to overturn the 2020 presidential election, urged Justice Department pardon attorney
+  Ed Martin in fall 2025 to help the department seek presidential pardons for people
+  who signed certificates falsely claiming Trump won the election in their states.
+  Emails obtained by American Oversight through a Freedom of Information Act request
+  and provided to The Guardian show that Mitchell wanted action before trials and
+  other prosecution steps. Trump issued a blanket pardon on 10 November 2025, but
+  it was largely symbolic and did not affect the state-level charges.
+nut_graf: 'The emails document an effort by Trump''s allies, including a former Trump
+  lawyer, to use presidential pardon power to protect participants in the fake-elector
+  prosecutions after Joe Biden won the 2020 election. The legal outcomes remained
+  separate from the administration''s pardon effort: Georgia''s case was dismissed
+  for unrelated reasons, Wisconsin''s remained pending, and cases in Arizona, Michigan
+  and Nevada had stalled for other reasons.'
 primary_entities:
 - Cleta Mitchell
 - Ed Martin
@@ -60,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -162,104 +176,43 @@ related_stories:
   headline: Records show Wyoming secretary of state worked closely with Cleta Mitchell
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.763
+  strength: 0.7633
 - slug: 2026-11-05-trump-accepts-midterm-results-after-election-system-withstands-threats
   headline: Trump accepts midterm results after election system withstands threats
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.666
+  strength: 0.667
 - slug: 2026-10-30-trump-administration-cuts-election-staff-and-sues-states-for-voter-rolls
   headline: Trump administration cuts election staff and sues states for voter rolls
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6952
+  strength: 0.6956
 - slug: 2026-11-03-federal-prosecutors-accuse-cleveland-meredith-of-threatening-federal-judges
   headline: Federal prosecutors accuse Cleveland Meredith of threatening federal judges
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6661
+  strength: 0.6659
 - slug: 2026-11-04-claire-finkelstein-urges-stronger-congressional-oversight-after-midterms
   headline: Claire Finkelstein urges stronger congressional oversight after midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6592
+  strength: 0.6595
 - slug: 2026-10-29-trump-directs-justice-department-to-challenge-possible-alaska-senate-result
   headline: Trump directs Justice Department to challenge possible Alaska Senate result
   publish_date: '2026-10-29'
   relation: related
   strength: 0.6807
-- slug: 2026-11-01-the-guardian-warns-of-election-interference-ahead-of-us-midterms
-  headline: The Guardian warns of election interference ahead of US midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6474
-- slug: 2026-10-29-lawyers-urge-dismissal-of-hunter-biden-laptop-charges-against-ex-fbi-officials
-  headline: Lawyers urge dismissal of Hunter Biden laptop charges against ex-FBI officials
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6474
 - slug: 2026-10-06-election-deniers-revive-fraud-claims-before-midterms
   headline: Election deniers revive fraud claims before midterms
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7323
-- slug: 2026-10-27-congressional-democrats-prepare-legal-filings-before-midterm-voting
-  headline: Congressional Democrats prepare legal filings before midterm voting
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6461
+  strength: 0.7325
 - slug: 2026-08-13-nevada-judge-dismisses-fake-elector-case-against-six-republicans
   headline: Nevada judge dismisses fake elector case against six Republicans
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.6759
-- slug: 2026-08-14-nevada-judge-dismisses-forgery-case-against-six-republicans-for-second-time
-  headline: Nevada judge dismisses forgery case against six Republicans for second time
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.6495
-- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
-  headline: Trump administration election push faces court losses, bipartisan resistance
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6616
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6707
-- slug: 2026-06-18-arizona-prosecutor-dismisses-fake-elector-case-against-giuliani-meadows-vows-new
-  headline: Arizona prosecutor dismisses fake elector case against Giuliani, Meadows — vows new indictment
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6644
-- slug: 2026-05-06-justice-department-seeks-names-of-2020-fulton-county-election-workers
-  headline: Justice Department seeks names of 2020 Fulton County election workers
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6775
-- slug: 2026-06-11-fund-tied-to-trump-allies-cleta-mitchell-heather-honey-backed-2024-election-doub
-  headline: Fund tied to Trump allies Cleta Mitchell, Heather Honey backed 2024 election doubt ads
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6589
-- slug: 2026-06-17-election-lawyer-warns-trump-is-setting-stage-to-contest-november-midterms
-  headline: Election lawyer warns Trump is setting stage to contest November midterms
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6502
-- slug: 2026-05-17-justice-department-demands-2024-michigan-election-ballots
-  headline: Justice Department demands 2024 Michigan election ballots
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6585
-- slug: 2026-03-05-colorado-governor-signals-clemency-for-tina-peters-amid-trump-pressure
-  headline: Colorado governor signals openness to clemency for convicted election clerk
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6535
+  strength: 0.6765
 ---
-
 ## Emails show Cleta Mitchell urged federal pardons for fake electors
 
 **Subtype:** fact
