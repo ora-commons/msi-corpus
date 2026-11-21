@@ -27,7 +27,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -48,7 +49,28 @@ cross_article_links:
   strength: 1.0
   confidence: high
 draft: false
+image:
+  url: /cartoons/ai-adds-the-load-insecure-work-built-the-tax.png
+  alt: 'Editorial cartoon by Hector Rentier: AI Adds the Load; Insecure Work Built
+    the Tax'
+  caption: The firm kept the productivity gain. The worker paid the cognitive tax.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-20T22:04:10-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Render a square, single-panel Nast-style wood engraving as Register
+    6’s tribute-table arrangement: heavy cross-hatch, dense black masses, carved white
+    highlights, strong outline hierarchy, and exactly'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-20-hector-paired-with-2026-11-20-carla-marks-technology-2026-nov-20-ai-low-paid-worke
 ---
+
+![Editorial cartoon by Hector Rentier: AI Adds the Load; Insecure Work Built the Tax](/cartoons/ai-adds-the-load-insecure-work-built-the-tax.png)
+*The firm kept the productivity gain. The worker paid the cognitive tax.*
 
 AI adds the load; it did not invent the tax. Insecure work built it. [Henrietta Moore’s argument in The Guardian](https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax) is right that AI is increasing cognitive strain for workers already squeezed by unpredictable pay, insecure housing and debt. She calls it a hidden “cognitive tax” and proposes universal childcare, housing, transport and digital access, free at the point of use. The machine is the new pressure. The old extraction is the foundation.
 

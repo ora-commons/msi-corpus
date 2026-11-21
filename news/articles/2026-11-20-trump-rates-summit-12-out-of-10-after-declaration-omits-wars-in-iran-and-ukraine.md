@@ -1,9 +1,22 @@
 ---
-headline: Trump rates summit 12 out of 10 after declaration omits wars in Iran and Ukraine
-secondary_headline: The four-point text calls for nuclear dialogue, petroleum supply and UN reform
+headline: Trump rates summit 12 out of 10 after declaration omits wars in Iran and
+  Ukraine
+secondary_headline: The four-point text calls for nuclear dialogue, petroleum supply
+  and UN reform
 publish_date: '2026-11-20'
-lede: Donald Trump rated the first trilateral summit between the leaders of the United States, China and Russia 12 out of 10 on Friday after he, Xi Jinping and Vladimir Putin issued a four-point “Declaration Toward Peace” that made no mention of Russia’s invasion of Ukraine or the U.S. military conflict with Iran. The closed-door meeting lasted 70 minutes at the Kylin Villa in Shenzhen, China, during the Asia-Pacific Economic Cooperation summit on Thursday. The declaration called for nuclear-risk dialogue, increased refined-petroleum production and supply, United Nations reforms, and respect for state sovereignty and the immunity of state officials. The Guardian assessed that “China and Russia had the most to celebrate” from the summit.
-nut_graf: The declaration did not address Russia’s invasion of Ukraine or the U.S. military conflict with Iran. The Trump-Putin meeting produced no immediate Ukraine commitment, while the Trump-Xi agenda centered on the Strait of Hormuz, Iran’s nuclear program, trade stability and Taiwan.
+lede: Donald Trump rated the first trilateral summit between the leaders of the United
+  States, China and Russia 12 out of 10 on Friday after he, Xi Jinping and Vladimir
+  Putin issued a four-point “Declaration Toward Peace” that made no mention of Russia’s
+  invasion of Ukraine or the U.S. military conflict with Iran. The closed-door meeting
+  lasted 70 minutes at the Kylin Villa in Shenzhen, China, during the Asia-Pacific
+  Economic Cooperation summit on Thursday. The declaration called for nuclear-risk
+  dialogue, increased refined-petroleum production and supply, United Nations reforms,
+  and respect for state sovereignty and the immunity of state officials. The Guardian
+  assessed that “China and Russia had the most to celebrate” from the summit.
+nut_graf: The declaration did not address Russia’s invasion of Ukraine or the U.S.
+  military conflict with Iran. The Trump-Putin meeting produced no immediate Ukraine
+  commitment, while the Trump-Xi agenda centered on the Strait of Hormuz, Iran’s nuclear
+  program, trade stability and Taiwan.
 primary_entities:
 - Donald Trump
 - Xi Jinping
@@ -54,7 +67,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,7 +170,7 @@ related_stories:
   headline: Shenzhen declaration omits Ukraine and Iran wars, leaves UN reforms unspecified
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8427
+  strength: 0.843
 - slug: 2026-11-19-trump-xi-and-putin-end-shenzhen-summit-without-ukraine-breakthrough
   headline: Trump, Xi and Putin end Shenzhen summit without Ukraine breakthrough
   publish_date: '2026-11-19'
@@ -166,94 +180,34 @@ related_stories:
   headline: Trump, Xi and Putin end Shenzhen summit with divergent priorities
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8262
+  strength: 0.8255
 - slug: 2026-11-19-trump-xi-and-putin-close-shenzhen-talks-without-nuclear-breakthrough
   headline: Trump, Xi and Putin close Shenzhen talks without nuclear breakthrough
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.808
+  strength: 0.8071
 - slug: 2026-11-19-trump-meets-putin-before-trilateral-kremlin-says-ukraine-was-the-focus
   headline: Trump meets Putin before trilateral; Kremlin says Ukraine was the focus
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.796
+  strength: 0.795
 - slug: 2026-11-19-xi-urges-nuclear-disarmament-as-putin-cites-shared-interests-including-ukraine
-  headline: Xi urges nuclear disarmament as Putin cites shared interests including Ukraine
+  headline: Xi urges nuclear disarmament as Putin cites shared interests including
+    Ukraine
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7845
+  strength: 0.786
 - slug: 2026-11-16-china-confirms-trump-xi-and-putin-will-meet-thursday-in-shenzhen
   headline: China confirms Trump, Xi and Putin will meet Thursday in Shenzhen
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.791
+  strength: 0.7914
 - slug: 2026-11-18-trump-and-putin-s-expected-one-on-one-talks-could-cover-the-war-in-ukraine
   headline: Trump and Putin's expected one-on-one talks could cover the war in Ukraine
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7608
-- slug: 2026-11-18-trump-begins-china-visit-before-trilateral-summit-with-xi-and-putin
-  headline: Trump begins China visit before trilateral summit with Xi and Putin
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7579
-- slug: 2026-11-16-china-signals-nuclear-reduction-talks-hinge-on-parity-with-us-and-russia
-  headline: China signals nuclear reduction talks hinge on parity with US and Russia
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7689
-- slug: 2026-11-17-trump-putin-and-xi-are-set-for-shenzhen-summit-with-competing-aims
-  headline: Trump, Putin and Xi are set for Shenzhen summit with competing aims
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.759
-- slug: 2026-11-20-trump-returns-to-washington-ahead-of-scheduled-press-conference
-  headline: Trump returns to Washington ahead of scheduled press conference
-  publish_date: '2026-11-20'
-  relation: related
-  strength: 0.7358
-- slug: 2026-11-14-white-house-announces-trump-summit-with-xi-and-putin-in-shenzhen
-  headline: White House announces Trump summit with Xi and Putin in Shenzhen
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7764
-- slug: 2026-11-19-trump-holds-a-quad-meeting-and-a-trilateral-summit-on-his-asia-trip
-  headline: Trump holds a Quad meeting and a trilateral summit on his Asia trip
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7341
-- slug: 2026-11-18-trump-plans-separate-meeting-with-putin-during-china-visit
-  headline: Trump plans separate meeting with Putin during China visit
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.741
-- slug: 2026-11-19-state-media-reports-xi-warning-trump-on-taiwan-putin-questions-democracy
-  headline: State media reports Xi warning Trump on Taiwan; Putin questions democracy
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7325
-- slug: 2026-11-18-trump-arrives-in-shenzhen-for-trilateral-talks-amid-u-s-outages
-  headline: Trump arrives in Shenzhen for trilateral talks amid U.S. outages
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7315
-- slug: 2026-11-16-china-calls-planned-trump-xi-putin-nuclear-talks-groundbreaking
-  headline: China calls planned Trump-Xi-Putin nuclear talks 'groundbreaking'
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7252
-- slug: 2026-11-15-albanese-welcomes-trump-xi-putin-summit-as-european-leaders-urge-caution
-  headline: Albanese welcomes Trump-Xi-Putin summit as European leaders urge caution
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.717
-- slug: 2026-10-27-china-has-not-issued-an-invitation-for-a-proposed-trump-xi-putin-summit
-  headline: China has not issued an invitation for a proposed Trump-Xi-Putin summit
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7293
+  strength: 0.7612
 ---
-
 ## Trump rates summit 12 out of 10 after declaration omits wars in Iran and Ukraine
 
 **Subtype:** fact

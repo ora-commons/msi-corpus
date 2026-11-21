@@ -1,9 +1,22 @@
 ---
 headline: 2026 analysis finds working-class candidates outperformed comparable Democrats
-secondary_headline: College graduates favored Democrats by 26 points; non-degree voters by 4
+secondary_headline: College graduates favored Democrats by 26 points; non-degree voters
+  by 4
 publish_date: '2026-11-20'
-lede: In a Guardian commentary published November 20, 2026, Dustin Guastella and Jared Abbott said their district-adjusted analysis found candidates with working-class backgrounds outperforming comparable Democrats in the 2026 midterms. The authors estimated how a typical Democrat would have performed in the same district from its 2024 presidential vote, demographics and whether an incumbent was running, a measure they call “wins above replacement,” or War. The results left a 22-point education gap and a 19-point loss among white voters without college degrees.
-nut_graf: Guastella and Abbott said the 2026 results did not bear out the longstanding argument that progressives were best suited to winning back the working class, at least not in a straightforward way. Relative to their districts, candidates with working-class backgrounds performed better than professional-class progressives and centrists backed by the New Democrat Coalition. The authors offered the “Bernie-dog” profile as a possible model for addressing class and education gaps before 2028 while saying the party’s broader direction remained unsettled.
+lede: In a Guardian commentary published November 20, 2026, Dustin Guastella and Jared
+  Abbott said their district-adjusted analysis found candidates with working-class
+  backgrounds outperforming comparable Democrats in the 2026 midterms. The authors
+  estimated how a typical Democrat would have performed in the same district from
+  its 2024 presidential vote, demographics and whether an incumbent was running, a
+  measure they call “wins above replacement,” or War. The results left a 22-point
+  education gap and a 19-point loss among white voters without college degrees.
+nut_graf: Guastella and Abbott said the 2026 results did not bear out the longstanding
+  argument that progressives were best suited to winning back the working class, at
+  least not in a straightforward way. Relative to their districts, candidates with
+  working-class backgrounds performed better than professional-class progressives
+  and centrists backed by the New Democrat Coalition. The authors offered the “Bernie-dog”
+  profile as a possible model for addressing class and education gaps before 2028
+  while saying the party’s broader direction remained unsettled.
 primary_entities:
 - The Guardian
 - Dustin Guastella
@@ -69,7 +82,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -171,17 +185,17 @@ related_stories:
   headline: Commentary urges Democrats to repair three weaknesses before 2028
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7479
+  strength: 0.7474
 - slug: 2026-11-13-survey-finds-young-men-value-caregiving-as-much-as-paid-work
   headline: Survey finds young men value caregiving as much as paid work
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6755
+  strength: 0.6754
 - slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
   headline: Democrats win Congress and a majority of governorships on affordability
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7261
+  strength: 0.7267
 - slug: 2026-11-09-gallup-finds-45-of-americans-identify-as-political-independents
   headline: Gallup finds 45% of Americans identify as political independents
   publish_date: '2026-11-09'
@@ -191,84 +205,25 @@ related_stories:
   headline: Democrats take House and Senate, and a panel urges a working-class agenda
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7003
+  strength: 0.7007
 - slug: 2026-11-04-exit-polls-show-democrats-independent-voter-advantage-grew-to-17-points-in-2026
-  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points in 2026
+  headline: Exit polls show Democrats’ independent-voter advantage grew to 17 points
+    in 2026
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6978
+  strength: 0.6981
 - slug: 2026-11-06-rural-voters-swing-15-points-toward-democrats-in-2026-midterms-analysis-says
-  headline: Rural voters swing 15 points toward Democrats in 2026 midterms, analysis says
+  headline: Rural voters swing 15 points toward Democrats in 2026 midterms, analysis
+    says
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6823
+  strength: 0.683
 - slug: 2026-11-04-voters-under-30-and-black-voters-back-democrats-in-2026-house-races
   headline: Voters under 30 and Black voters back Democrats in 2026 House races
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6933
-- slug: 2026-11-05-democratic-winners-point-to-moderates-gaining-ground-in-the-incoming-congress
-  headline: Democratic winners point to moderates gaining ground in the incoming Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6795
-- slug: 2026-11-04-poll-shows-democrats-gaining-ground-among-latino-young-and-white-voters
-  headline: Poll shows Democrats gaining ground among Latino, young and white voters
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6838
-- slug: 2026-11-04-aditya-chakrabortty-argues-class-politics-fractured-trump-s-midterm-coalition
-  headline: Aditya Chakrabortty argues class politics fractured Trump's midterm coalition
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6816
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6799
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6946
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.681
-- slug: 2026-11-02-democrats-lead-polls-for-the-midterms-as-turnout-uncertainty-remains
-  headline: Democrats lead polls for the midterms as turnout uncertainty remains
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6839
-- slug: 2026-11-01-democrats-lead-polls-as-trump-enters-midterms-with-32-approval
-  headline: Democrats lead polls as Trump enters midterms with 32% approval
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6823
-- slug: 2026-11-02-early-returns-turnout-and-state-benchmarks-frame-the-2026-midterms
-  headline: Early returns, turnout and state benchmarks frame the 2026 midterms
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6667
-- slug: 2026-10-27-democrats-lead-house-polling-as-trump-approval-stays-below-50
-  headline: Democrats lead House polling as Trump approval stays below 50%
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6788
-- slug: 2026-10-16-rural-voters-cool-on-republicans-as-economic-political-divide-begins-to-shift
-  headline: Rural voters cool on Republicans as economic-political divide begins to shift
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6686
-- slug: 2026-10-07-guardian-editorial-frames-us-midterms-as-cost-of-living-democracy-test
-  headline: Guardian editorial frames US midterms as cost-of-living, democracy test
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6928
+  strength: 0.6937
 ---
-
 ## 2026 analysis finds working-class candidates outperformed comparable Democrats
 
 **Subtype:** fact

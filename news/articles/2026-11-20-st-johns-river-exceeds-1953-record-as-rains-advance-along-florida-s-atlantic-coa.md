@@ -1,9 +1,26 @@
 ---
-headline: St. Johns River exceeds 1953 record as rains advance along Florida's Atlantic coast
-secondary_headline: Flood warnings and watches span around 200 miles from just south of Melbourne to Jacksonville
+headline: St. Johns River exceeds 1953 record as rains advance along Florida's Atlantic
+  coast
+secondary_headline: Flood warnings and watches span around 200 miles from just south
+  of Melbourne to Jacksonville
 publish_date: '2026-11-20'
-lede: Heavy rains that left large swaths of Florida's Atlantic coast under water moved farther north on Friday, prompting dozens of rescues as forecasters warned that flood threats could stretch into next week. The National Weather Service posted flood warnings and watches stretching around 200 miles from just south of Melbourne to the Jacksonville area. Additional rainfall of 2 to 6 inches was expected through Saturday, and some areas could see an extra 8 to 10 inches. The St. Johns River rose above a record level set in 1953 near Cocoa and was expected to crest well above its prior record; separately, the weather service forecast it would remain at least 2 feet above flood stage through early next week.
-nut_graf: Palm Bay conducted mandatory evacuations for some residents of a mobile home community, and first responders in Brevard County conducted nearly 100 high-water rescues, according to Sheriff Wayne Ivey. The Division of Emergency Management reported that nearly 200 Florida National Guard personnel with 50 high-water vehicles had been deployed up and down the coast. The National Hurricane Center said a nontropical low expected to form could become a subtropical or tropical storm along the southeastern U.S. coast, while forecasters said continued wet conditions in Florida and California were likely through the winter.
+lede: Heavy rains that left large swaths of Florida's Atlantic coast under water moved
+  farther north on Friday, prompting dozens of rescues as forecasters warned that
+  flood threats could stretch into next week. The National Weather Service posted
+  flood warnings and watches stretching around 200 miles from just south of Melbourne
+  to the Jacksonville area. Additional rainfall of 2 to 6 inches was expected through
+  Saturday, and some areas could see an extra 8 to 10 inches. The St. Johns River
+  rose above a record level set in 1953 near Cocoa and was expected to crest well
+  above its prior record; separately, the weather service forecast it would remain
+  at least 2 feet above flood stage through early next week.
+nut_graf: Palm Bay conducted mandatory evacuations for some residents of a mobile
+  home community, and first responders in Brevard County conducted nearly 100 high-water
+  rescues, according to Sheriff Wayne Ivey. The Division of Emergency Management reported
+  that nearly 200 Florida National Guard personnel with 50 high-water vehicles had
+  been deployed up and down the coast. The National Hurricane Center said a nontropical
+  low expected to form could become a subtropical or tropical storm along the southeastern
+  U.S. coast, while forecasters said continued wet conditions in Florida and California
+  were likely through the winter.
 primary_entities:
 - Florida
 - St. Johns River
@@ -43,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,116 +160,63 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-20-st-johns-river-exceeds-1953-record-as-rains-advance-along-florida-s-atlantic-coa.png
-  alt: 'Illustration accompanying article: St. Johns River exceeds 1953 record as rains advance along Florida''s Atlantic coast'
+  alt: 'Illustration accompanying article: St. Johns River exceeds 1953 record as
+    rains advance along Florida''s Atlantic coast'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-18-storms-bring-15-3-inches-of-rain-to-parts-of-broward-shut-big-sur-highway-1
-  headline: Storms bring 15.3 inches of rain to parts of Broward, shut Big Sur Highway 1
+  headline: Storms bring 15.3 inches of rain to parts of Broward, shut Big Sur Highway
+    1
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7274
+  strength: 0.7268
 - slug: 2026-11-18-heavy-rain-floods-roads-across-south-florida-and-california
   headline: Heavy rain floods roads across South Florida and California
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7052
+  strength: 0.7045
 - slug: 2026-11-19-atmospheric-river-breaks-san-francisco-rain-record-floods-california-roads
-  headline: Atmospheric river breaks San Francisco rain record, floods California roads
+  headline: Atmospheric river breaks San Francisco rain record, floods California
+    roads
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.664
+  strength: 0.6635
 - slug: 2026-11-18-two-waterspouts-form-over-san-francisco-bay
   headline: Two waterspouts form over San Francisco Bay
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6576
+  strength: 0.6572
 - slug: 2026-11-16-forecasters-warn-towering-waves-and-storms-could-overwhelm-california-coast
-  headline: Forecasters warn towering waves and storms could overwhelm California coast
+  headline: Forecasters warn towering waves and storms could overwhelm California
+    coast
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6629
-- slug: 2026-11-05-flash-floods-prompt-more-than-30-rescues-in-mccaysville-and-copperhill
-  headline: Flash floods prompt more than 30 rescues in McCaysville and Copperhill
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6499
+  strength: 0.6628
 - slug: 2026-10-28-king-tides-flood-coastal-communities-in-california-florida-and-the-carolinas
   headline: King tides flood coastal communities in California, Florida and the Carolinas
   publish_date: '2026-10-28'
   relation: related
   strength: 0.69
 - slug: 2026-10-26-san-pedro-gauge-records-preliminary-8-02-foot-reading-amid-coastal-flooding-risk
-  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding risk
+  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding
+    risk
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6957
+  strength: 0.6958
 - slug: 2026-10-26-flood-warning-remains-in-four-corners-as-san-juan-river-nears-crest
   headline: Flood warning remains in Four Corners as San Juan River nears crest
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6938
-- slug: 2026-10-23-four-corners-flooding-keeps-hundreds-evacuated-as-new-storms-threaten-surges
-  headline: Four Corners flooding keeps hundreds evacuated as new storms threaten surges
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7009
-- slug: 2026-10-28-historic-high-tides-flood-california-communities-and-disrupt-transportation
-  headline: Historic high tides flood California communities and disrupt transportation
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6768
-- slug: 2026-10-31-weekend-rain-threatens-flash-flooding-across-saturated-southwest
-  headline: Weekend rain threatens flash flooding across saturated Southwest
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.659
-- slug: 2026-10-25-new-mexico-crews-search-evacuated-neighborhoods-for-flood-hazards
-  headline: New Mexico crews search evacuated neighborhoods for flood hazards
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6575
-- slug: 2026-10-25-four-corners-region-braces-for-more-storms-amid-flood-cleanup
-  headline: Four Corners region braces for more storms amid flood cleanup
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6523
-- slug: 2026-10-23-flooding-in-four-corners-prompts-rooftop-rescues-and-evacuations
-  headline: Flooding in Four Corners prompts rooftop rescues and evacuations
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6557
-- slug: 2026-10-22-utah-flooding-and-colorado-evacuations-follow-wednesday-s-arizona-tornadoes
-  headline: Utah flooding and Colorado evacuations follow Wednesday's Arizona tornadoes
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6498
-- slug: 2026-10-07-desantis-declares-emergency-for-25-counties-as-isaias-approaches-gulf-coast
-  headline: DeSantis declares emergency for 25 counties as Isaias approaches Gulf Coast
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6656
-- slug: 2026-10-10-three-storms-batter-north-america-as-hurricane-isaias-makes-florida-landfall
-  headline: Three storms batter North America as Hurricane Isaias makes Florida landfall
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6544
-- slug: 2026-10-09-hurricane-isaias-strengthens-to-category-3-ahead-of-gulf-coast-landfall
-  headline: Hurricane Isaias strengthens to Category 3 ahead of Gulf coast landfall
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6454
-- slug: 2026-07-21-tropical-storm-bertha-threatens-gulf-coast-with-heavy-rain-storm-surge
-  headline: Tropical Storm Bertha threatens Gulf Coast with heavy rain, storm surge
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6544
+  strength: 0.6936
 ---
-
 ## St. Johns River exceeds 1953 record as rains advance along Florida's Atlantic coast
 
 **Subtype:** fact
