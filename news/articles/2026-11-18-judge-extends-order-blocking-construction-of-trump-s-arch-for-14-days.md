@@ -42,7 +42,8 @@ primary_themes:
 topic_tags:
 - judiciary
 - construction and property
-storyline_nexus: []
+storyline_nexus:
+- trump-washington-memorial-arch-litigation
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -206,6 +207,7 @@ related_stories:
   relation: related
   strength: 0.7661
 ---
+
 ## Judge extends order blocking construction of Trump's arch for 14 days
 
 **Subtype:** fact

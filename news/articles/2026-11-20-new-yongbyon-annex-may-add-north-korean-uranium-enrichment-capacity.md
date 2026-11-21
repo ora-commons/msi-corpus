@@ -1,9 +1,26 @@
 ---
 headline: New Yongbyon annex may add North Korean uranium-enrichment capacity
-secondary_headline: IAEA chief says annex externally complete by late October, reactor likely active
+secondary_headline: IAEA chief says annex externally complete by late October, reactor
+  likely active
 publish_date: '2026-11-20'
-lede: Satellite imagery captured Nov. 6 shows a new extension attached to the main enrichment hall at North Korea's Yongbyon nuclear complex, according to The Wall Street Journal's analysis. Rafael Grossi, director general of the International Atomic Energy Agency, said the annex has been under construction since mid-September and was externally complete by late October. Sam Lair, a fellow at the Foreign Policy Research Institute who first identified the construction at Yongbyon, said the annex could house new centrifuges. The annex's size suggests that, if it houses new centrifuges, they could produce more than 35 additional kilograms of highly enriched uranium a year.
-nut_graf: The annex is the newest addition to a building program at Yongbyon that also includes a new enrichment facility reported in June. Vertic estimated that separate facility could boost North Korea's annual production capacity by 160 kilograms — an increase of 75% at the time. Grossi said the new construction, the separate facility and ongoing enrichment work at Yongbyon and another complex outside the capital were all “a cause for serious concern,” and that Yongbyon's five-megawatt plutonium production reactor likely remains active. President Trump made repeated overtures to meet Kim and floated a meeting during his Asia tour this week, but no summit materialized.
+lede: Satellite imagery captured Nov. 6 shows a new extension attached to the main
+  enrichment hall at North Korea's Yongbyon nuclear complex, according to The Wall
+  Street Journal's analysis. Rafael Grossi, director general of the International
+  Atomic Energy Agency, said the annex has been under construction since mid-September
+  and was externally complete by late October. Sam Lair, a fellow at the Foreign Policy
+  Research Institute who first identified the construction at Yongbyon, said the annex
+  could house new centrifuges. The annex's size suggests that, if it houses new centrifuges,
+  they could produce more than 35 additional kilograms of highly enriched uranium
+  a year.
+nut_graf: The annex is the newest addition to a building program at Yongbyon that
+  also includes a new enrichment facility reported in June. Vertic estimated that
+  separate facility could boost North Korea's annual production capacity by 160 kilograms
+  — an increase of 75% at the time. Grossi said the new construction, the separate
+  facility and ongoing enrichment work at Yongbyon and another complex outside the
+  capital were all “a cause for serious concern,” and that Yongbyon's five-megawatt
+  plutonium production reactor likely remains active. President Trump made repeated
+  overtures to meet Kim and floated a meeting during his Asia tour this week, but
+  no summit materialized.
 primary_entities:
 - North Korea
 - Yongbyon nuclear complex
@@ -56,7 +73,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,104 +176,39 @@ related_stories:
   headline: China's nuclear buildup tests U.S. deterrence strategy
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6728
-- slug: 2026-11-04-nine-known-north-korean-launches-in-two-months-coincide-with-u-s-calls-for-talks
-  headline: Nine known North Korean launches in two months coincide with U.S. calls for talks
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6322
-- slug: 2026-10-29-u-s-japan-agree-on-amraam-assembly-facility-in-japan
-  headline: U.S., Japan agree on Amraam assembly facility in Japan
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6313
+  strength: 0.67
 - slug: 2026-10-13-kim-tours-new-north-korean-military-museum-showcasing-u-s--range-missiles
   headline: Kim tours new North Korean military museum showcasing U.S.-range missiles
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6683
-- slug: 2026-10-12-pentagon-reports-china-on-track-for-1-000-nuclear-weapons-by-2030
-  headline: Pentagon reports China on track for 1,000 nuclear weapons by 2030
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6454
-- slug: 2026-09-10-south-korea-nears-u-s-energy-deal-potentially-worth-more-than-100-billion
-  headline: South Korea nears U.S. energy deal potentially worth more than $100 billion
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6345
+  strength: 0.6656
 - slug: 2026-08-18-trump-seeks-fall-meeting-with-kim-at-apec-summit
   headline: Trump seeks fall meeting with Kim at APEC summit
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.6559
-- slug: 2026-08-26-kim-jong-un-chairs-enlarged-workers-party-meeting-on-2026-economic-plan
-  headline: Kim Jong Un chairs enlarged Workers' Party meeting on 2026 economic plan
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6405
+  strength: 0.6534
 - slug: 2026-07-02-south-korean-analyst-choe-hyon-destroyer-could-pressure-allied-naval-movement
-  headline: 'South Korean analyst: Choe Hyon destroyer could pressure allied naval movement'
+  headline: 'South Korean analyst: Choe Hyon destroyer could pressure allied naval
+    movement'
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.6665
-- slug: 2026-07-25-trump-threatens-wider-iran-strikes-experts-list-remaining-nuclear-targets
-  headline: Trump threatens wider Iran strikes, experts list remaining nuclear targets
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6427
+  strength: 0.6636
 - slug: 2026-06-05-xi-jinping-to-visit-north-korea-next-week-in-first-trip-since-2019
   headline: Xi Jinping to visit North Korea next week in first trip since 2019
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.6733
-- slug: 2026-07-16-trump-threatens-to-bomb-iran-s-pickaxe-mountain-nuclear-site
-  headline: Trump threatens to bomb Iran's Pickaxe Mountain nuclear site
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6427
-- slug: 2026-07-21-israel-tells-us-that-iran-moved-centrifuges-into-pickaxe-mountain
-  headline: Israel tells US that Iran moved centrifuges into Pickaxe Mountain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6318
+  strength: 0.6697
 - slug: 2026-04-30-un-nuclear-chief-says-iran-s-highly-enriched-uranium-likely-still-at-isfahan
   headline: UN nuclear chief says Iran’s highly enriched uranium likely still at Isfahan
   publish_date: '2026-04-30'
   relation: related
-  strength: 0.6675
-- slug: 2026-06-23-kim-jong-un-orders-accelerated-nuclear-buildup-calls-south-korea-most-hostile-st
-  headline: Kim Jong Un orders accelerated nuclear buildup, calls South Korea 'most hostile state'
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.641
-- slug: 2026-06-08-north-korea-s-economy-grows-at-fastest-rate-in-eight-years-as-arms-sales-fuel-bo
-  headline: North Korea's economy grows at fastest rate in eight years as arms sales fuel boom
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.646
+  strength: 0.6651
 - slug: 2026-03-30-north-korea-says-kim-watched-solid-fuel-engine-test-for-u-s--range-missiles
   headline: North Korea says Kim watched solid-fuel engine test for U.S.-range missiles
   publish_date: '2026-03-30'
   relation: related
-  strength: 0.6599
-- slug: 2026-06-09-south-korea-us-align-on-nuclear-powered-submarine-plan
-  headline: South Korea, US align on nuclear-powered submarine plan
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6364
-- slug: 2026-06-08-xi-arrives-in-pyongyang-for-summit-with-kim-as-both-leaders-seek-to-strengthen-a
-  headline: Xi arrives in Pyongyang for summit with Kim as both leaders seek to strengthen alliance
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6259
-- slug: 2026-02-20-saudi-uranium-enrichment-possible-in-proposed-us-nuclear-deal
-  headline: Saudi uranium enrichment possible in proposed US nuclear deal
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6356
+  strength: 0.6576
 ---
-
 ## New Yongbyon annex may add North Korean uranium-enrichment capacity
 
 **Subtype:** fact

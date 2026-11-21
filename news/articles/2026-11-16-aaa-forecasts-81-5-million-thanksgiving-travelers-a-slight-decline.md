@@ -18,7 +18,8 @@ topic_tags:
 - transport
 - economy
 - travel
-storyline_nexus: []
+storyline_nexus:
+- thanksgiving-travel-and-feast-costs
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -182,6 +183,7 @@ related_stories:
   relation: related
   strength: 0.6853
 ---
+
 ## AAA forecasts 81.5 million Thanksgiving travelers, a slight decline
 
 **Subtype:** fact

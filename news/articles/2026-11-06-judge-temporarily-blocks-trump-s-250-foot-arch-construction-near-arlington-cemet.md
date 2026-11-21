@@ -35,7 +35,8 @@ primary_themes:
 topic_tags:
 - law
 - government
-storyline_nexus: []
+storyline_nexus:
+- trump-washington-memorial-arch-litigation
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -210,6 +211,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Judge temporarily blocks Trump's 250-foot arch construction near Arlington Cemetery
 
 **Subtype:** fact

@@ -33,7 +33,8 @@ primary_themes:
 topic_tags:
 - agriculture
 - economy
-storyline_nexus: []
+storyline_nexus:
+- thanksgiving-travel-and-feast-costs
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -172,6 +173,7 @@ related_stories:
   relation: related
   strength: 0.6565
 ---
+
 ## Average Thanksgiving feast for 10 will cost $58.63, Farm Bureau says
 
 **Subtype:** fact

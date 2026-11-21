@@ -1,9 +1,21 @@
 ---
-headline: Danish authorities allege gang and Russian intelligence plotted to kill Vasiliev
-secondary_headline: Russian embassy rejection follows arrests of two men near Copenhagen venue
+headline: Danish authorities allege gang and Russian intelligence plotted to kill
+  Vasiliev
+secondary_headline: Russian embassy rejection follows arrests of two men near Copenhagen
+  venue
 publish_date: '2026-11-20'
-lede: Danish security services accused Russian intelligence and the banned Danish street gang Loyal to Familia of plotting to kill Ukrainian American rapper Albert Vasiliev, known as Kyivstoner, on Danish soil. The Russian Embassy in Copenhagen called the allegations baseless and said the notion that Russia would assassinate “a musician with limited political influence and questionable fame” was “absurd.” Denmark separately said it would expel Russia’s defense attaché within seven days.
-nut_graf: The allegation centers on two men who Danish authorities said were arrested in a car carrying weapons near the venue where Vasiliev was due to perform, although authorities have not detailed the alleged collaboration between Russian intelligence and gang members. Denmark’s response also included a planned expulsion of a Russian defense attaché, proposed penalties for crimes committed for foreign states and tighter visa rules for Russians.
+lede: Danish security services accused Russian intelligence and the banned Danish
+  street gang Loyal to Familia of plotting to kill Ukrainian American rapper Albert
+  Vasiliev, known as Kyivstoner, on Danish soil. The Russian Embassy in Copenhagen
+  called the allegations baseless and said the notion that Russia would assassinate
+  “a musician with limited political influence and questionable fame” was “absurd.”
+  Denmark separately said it would expel Russia’s defense attaché within seven days.
+nut_graf: The allegation centers on two men who Danish authorities said were arrested
+  in a car carrying weapons near the venue where Vasiliev was due to perform, although
+  authorities have not detailed the alleged collaboration between Russian intelligence
+  and gang members. Denmark’s response also included a planned expulsion of a Russian
+  defense attaché, proposed penalties for crimes committed for foreign states and
+  tighter visa rules for Russians.
 primary_entities:
 - Denmark
 - Russia
@@ -48,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +163,13 @@ related_stories:
   headline: Denmark orders Russian diplomat's expulsion over alleged Kyivstoner plot
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.8638
-- slug: 2026-11-18-prosecutors-indict-igor-d-iu-over-surveillance-of-a-firm-supplying-ukraine
-  headline: Prosecutors indict Igor D’iu over surveillance of a firm supplying Ukraine
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.5805
-- slug: 2026-11-13-kushner-says-russia-agrees-to-include-europe-in-talks-as-ukraine-fires-almost-1-
-  headline: Kushner says Russia agrees to include Europe in talks as Ukraine fires almost 1,200 drones
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.5844
-- slug: 2026-10-21-u-s-intelligence-links-leipzig-drone-attack-to-putin-ordered-sabotage-campaign
-  headline: U.S. intelligence links Leipzig drone attack to Putin-ordered sabotage campaign
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5853
-- slug: 2026-10-20-zelensky-plans-oslo-talks-with-us-envoys-as-trump-tensions-rise
-  headline: Zelensky plans Oslo talks with US envoys as Trump tensions rise
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5839
+  strength: 0.8636
 - slug: 2026-09-16-five-charged-in-alleged-russian-plot-to-kill-ukraine-allies
   headline: Five charged in alleged Russian plot to kill Ukraine allies
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6639
-- slug: 2026-09-24-danish-intelligence-warns-russia-could-launch-limited-military-attack-on-nato
-  headline: Danish intelligence warns Russia could launch limited military attack on NATO
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6324
-- slug: 2026-09-16-fbi-charges-five-in-russian-plot-to-kill-ukraine-allies-in-us-europe
-  headline: FBI charges five in Russian plot to kill Ukraine allies in US, Europe
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6261
-- slug: 2026-09-10-russia-says-it-detained-russian-guard-at-british-embassy-over-alleged-plot
-  headline: Russia says it detained Russian guard at British embassy over alleged plot
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6193
-- slug: 2026-09-01-germany-blames-russia-for-leipzig-drone-plot-vows-retaliation
-  headline: Germany blames Russia for Leipzig drone plot, vows retaliation
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6296
-- slug: 2026-09-19-trump-jr-s-wedding-bankrolled-by-putin-linked-oligarch-records-show
-  headline: Trump Jr.'s wedding bankrolled by Putin-linked oligarch, records show
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.5799
-- slug: 2026-08-30-russia-escalates-gray-zone-attacks-across-europe-officials-say
-  headline: Russia escalates 'gray-zone' attacks across Europe, officials say
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6092
-- slug: 2026-09-02-europe-presses-russia-with-sanctions-ukraine-aid-after-leipzig-drone-plot
-  headline: Europe presses Russia with sanctions, Ukraine aid after Leipzig drone plot
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6011
-- slug: 2026-08-17-russia-accuses-west-of-forging-latin-american-arms-smuggling-evidence
-  headline: Russia accuses West of forging Latin American arms-smuggling evidence
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5936
-- slug: 2026-05-08-russia-increasingly-trying-to-kill-opponents-abroad-officials-say
-  headline: Russia increasingly trying to kill opponents abroad, officials say
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6466
-- slug: 2026-08-07-armed-drone-found-at-german-airport-near-ukrainian-jet-traced-to-russia
-  headline: Armed drone found at German airport near Ukrainian jet traced to Russia
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5843
-- slug: 2026-06-16-five-detained-in-alleged-plot-to-attack-white-house-ufc-event-fbi-says
-  headline: Five detained in alleged plot to attack White House UFC event, FBI says
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5859
-- slug: 2026-02-02-denmark-to-allow-deportation-of-some-foreign-criminals-with-reform
-  headline: Denmark to allow deportation of some foreign criminals with reform
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6134
-- slug: 2026-05-08-ukraine-launches-major-drone-attack-on-russia-ahead-of-victory-day-parade
-  headline: Ukraine launches major drone attack on Russia ahead of Victory Day parade
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5929
-- slug: 2026-02-07-russia-detains-suspect-in-moscow-shooting-of-military-intelligence-deputy
-  headline: Russia detains suspect in Moscow shooting of military intelligence deputy
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6045
+  strength: 0.6658
 ---
-
 ## Danish authorities allege gang and Russian intelligence plotted to kill Vasiliev
 
 **Subtype:** fact
