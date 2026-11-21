@@ -187,6 +187,8 @@ related_stories:
   publish_date: '2026-09-14'
   relation: related
   strength: 0.691
+analyses:
+- '2026-11-19-federal-challenge-tests-new-york-city-s-carriage-ban-and-its-supporting-rational'
 ---
 ## Carriage drivers sue New York City over ban Mamdani signed
 
@@ -223,3 +225,8 @@ A spokesperson for the city's law department said it is reviewing the case. The 
 **Publication date:** 2026-11-19
 **Title:** NYC's horse-drawn carriage drivers sue over incoming ban
 **URL:** https://apnews.com/article/mamdani-nyc-horse-carriages-central-park-2b8e84f3d8260bca472aac5c53c46346
+
+---
+
+<!-- analysis-link:2026-11-19-federal-challenge-tests-new-york-city-s-carriage-ban-and-its-supporting-rational -->
+**Going deeper:** [Read MSI's analysis of the carriage ban's federal challenge →](/analyses/2026-11-19-federal-challenge-tests-new-york-city-s-carriage-ban-and-its-supporting-rational)

@@ -160,6 +160,8 @@ related_stories:
   publish_date: '2026-11-05'
   relation: related
   strength: 0.8637
+analyses:
+- '2026-11-19-kenya-s-mining-ministry-selects-the-frontier-minerals-consortium-before-formal-c'
 ---
 ## Kenya selects U.S. consortium as preferred bidder for Mrima Hill project
 
@@ -201,3 +203,8 @@ The Centre for Litigation Trust, a Kenyan civil society group, has asked the Hig
 **Publication date:** 2026-11-19
 **Title:** Kenya picks US consortium for critical minerals project
 **URL:** https://apnews.com/article/kenya-mrima-hills-minerals-510f8850db4308eefdfac88996f6116b
+
+---
+
+<!-- analysis-link:2026-11-19-kenya-s-mining-ministry-selects-the-frontier-minerals-consortium-before-formal-c -->
+**Going deeper:** [Read MSI's analysis of Mrima Hill consent sequencing →](/analyses/2026-11-19-kenya-s-mining-ministry-selects-the-frontier-minerals-consortium-before-formal-c)
