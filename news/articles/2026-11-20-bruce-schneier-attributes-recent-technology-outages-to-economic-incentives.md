@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-11-19'
   relation: related
   strength: 0.6539
+analyses:
+- '2026-11-20-schneier-links-outage-fragility-to-incentives-that-shift-costs-publicly'
 ---
 ## Bruce Schneier attributes recent technology outages to economic incentives
 
@@ -234,3 +236,8 @@ He was less confident about implementation. While the prescription is easy to st
 **Publication date:** 2026-11-20
 **Title:** Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy
+
+---
+
+<!-- analysis-link:2026-11-20-schneier-links-outage-fragility-to-incentives-that-shift-costs-publicly -->
+**Going deeper:** [Read MSI's analysis of outage incentives and public risk →](/analyses/2026-11-20-schneier-links-outage-fragility-to-incentives-that-shift-costs-publicly)

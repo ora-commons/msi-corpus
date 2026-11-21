@@ -45,7 +45,8 @@ topic_tags:
 - economy
 - international relations
 - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-administration-ties-to-jensen-huang-and-nvidia
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -221,8 +222,9 @@ related_stories:
   relation: related
   strength: 0.7526
 analyses:
-- '2026-11-17-trump-s-xi-agreement-push-faces-three-differently-timed-tests-before-january'
+- 2026-11-17-trump-s-xi-agreement-push-faces-three-differently-timed-tests-before-january
 ---
+
 ## Trump weighs China engagement against security concerns before Xi meeting
 
 **Subtype:** fact

@@ -33,7 +33,8 @@ primary_themes:
 - Corporate governance
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- trump-administration-ties-to-jensen-huang-and-nvidia
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,6 +200,7 @@ related_stories:
   relation: related
   strength: 0.8071
 ---
+
 ## Trump's closeness to Huang draws scrutiny over intelligence concerns
 
 - President Donald Trump overruled administration officials who raised concerns about Nvidia chief executive Jensen Huang and approved chip deals at Huang's urging, The Wall Street Journal reported.

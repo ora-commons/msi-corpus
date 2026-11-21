@@ -213,6 +213,8 @@ related_stories:
   publish_date: '2026-11-09'
   relation: related
   strength: 0.6815
+analyses:
+- '2026-11-20-frontier-ai-freeze-proposal-leaves-patch-and-dependency-fragility-unresolved'
 ---
 ## Garrison Lovely urges frontier AI freeze amid recent service outages
 
@@ -267,3 +269,8 @@ Lovely closed with an explicit call to organize. “If you don’t want AI to ea
 **Publication date:** 2026-11-20
 **Title:** Will AI break the internet? | Garrison Lovely
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse
+
+---
+
+<!-- analysis-link:2026-11-20-frontier-ai-freeze-proposal-leaves-patch-and-dependency-fragility-unresolved -->
+**Going deeper:** [Read MSI's analysis of frontier AI and patch fragility →](/analyses/2026-11-20-frontier-ai-freeze-proposal-leaves-patch-and-dependency-fragility-unresolved)

@@ -33,7 +33,8 @@ primary_themes:
 topic_tags:
 - artificial intelligence
 - government
-storyline_nexus: []
+storyline_nexus:
+- trump-administration-ties-to-jensen-huang-and-nvidia
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.8034
 ---
+
 ## Robert Reich argues Nvidia's reliance on Jensen Huang gives him unusual leverage
 
 **Subtype:** fact
