@@ -2,8 +2,18 @@
 headline: Afro-Peruvian singer Susana Baca details songs performed for Pope Leo XIV
 secondary_headline: Baca links Leo’s apology to Afro-Peruvian history and forgiveness
 publish_date: '2026-11-20'
-lede: Susana Baca, the 82-year-old Latin Grammy-winning Afro-Peruvian singer and Peru’s first Black culture minister, told The Associated Press that she sang “Canción de Fe” and “Si me quitaran totalmente todo” for Pope Leo XIV during his visit home to Peru. Baca initially vowed to let the music speak for itself and declined all interview requests before breaking that silence in an exclusive written AP interview. As culture minister, she remains a leader in the campaign against the long-standing, second-class treatment of Indigenous and Black Peruvians.
-nut_graf: Baca connected the visit to the Catholic Church’s role in facilitating slavery, long-standing discrimination against Indigenous and Black Peruvians, and the community’s history of suffering, forgiveness and healing. She also explained how she used two songs of faith and solidarity to interpret Leo’s apology and his message to young people.
+lede: Susana Baca, the 82-year-old Latin Grammy-winning Afro-Peruvian singer and Peru’s
+  first Black culture minister, told The Associated Press that she sang “Canción de
+  Fe” and “Si me quitaran totalmente todo” for Pope Leo XIV during his visit home
+  to Peru. Baca initially vowed to let the music speak for itself and declined all
+  interview requests before breaking that silence in an exclusive written AP interview.
+  As culture minister, she remains a leader in the campaign against the long-standing,
+  second-class treatment of Indigenous and Black Peruvians.
+nut_graf: Baca connected the visit to the Catholic Church’s role in facilitating slavery,
+  long-standing discrimination against Indigenous and Black Peruvians, and the community’s
+  history of suffering, forgiveness and healing. She also explained how she used two
+  songs of faith and solidarity to interpret Leo’s apology and his message to young
+  people.
 primary_entities:
 - Susana Baca
 - Pope Leo XIV
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +161,18 @@ related_stories:
   headline: Pope Leo XIV to visit Zaña, Peru's hub of Afro-Peruvian culture
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7892
+  strength: 0.7898
 - slug: 2026-11-16-pope-leo-demands-justice-for-slain-amazon-defenders-in-peru
   headline: Pope Leo demands justice for slain Amazon defenders in Peru
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6752
-- slug: 2026-11-17-pope-leo-says-lung-cancer-surgery-has-not-changed-his-agenda
-  headline: Pope Leo says lung cancer surgery has not changed his agenda
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6398
+  strength: 0.6766
 - slug: 2026-11-12-pope-leo-xiv-denounces-machismo-violence-against-women-peru-homecoming
   headline: Pope Leo XIV denounces machismo, violence against women on Peru homecoming
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6722
-- slug: 2026-11-16-pope-leo-xiv-ends-peru-visit-after-12-day-south-american-tour
-  headline: Pope Leo XIV ends Peru visit after 12-day South American tour
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6463
-- slug: 2026-11-15-pope-leo-makes-the-argentine-homecoming-francis-never-attempted
-  headline: Pope Leo makes the Argentine homecoming Francis never attempted
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6469
-- slug: 2026-11-15-pope-leo-xiv-praises-popular-piety-at-cusco-s-sacsayhuam-n-fortress
-  headline: Pope Leo XIV praises popular piety at Cusco's Sacsayhuamán fortress
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6393
-- slug: 2026-11-14-pope-leo-xiv-prays-for-end-to-violence-as-peru-crime-surges
-  headline: Pope Leo XIV prays for end to violence as Peru crime surges
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6368
-- slug: 2026-11-15-pope-leo-xiv-heads-to-andes-and-amazon-on-peru-visit
-  headline: Pope Leo XIV heads to Andes and Amazon on Peru visit
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6288
-- slug: 2026-11-11-pope-leo-xiv-returns-to-peru-for-final-leg-of-south-american-tour
-  headline: Pope Leo XIV returns to Peru for final leg of South American tour
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6364
-- slug: 2026-11-09-pope-leo-tells-milei-the-economy-should-serve-people
-  headline: Pope Leo tells Milei the economy should serve people
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6352
-- slug: 2026-11-13-chiclayo-residents-recall-father-robert-prevost-s-charity-and-pandemic-outreach
-  headline: Chiclayo residents recall Father Robert Prevost's charity and pandemic outreach
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6099
-- slug: 2026-11-11-pope-leo-xiv-plans-devoto-prison-visit-and-mass-before-peru-return
-  headline: Pope Leo XIV plans Devoto Prison visit and Mass before Peru return
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6164
-- slug: 2026-11-09-pope-leo-xiv-urges-church-community-and-state-to-work-together-in-uruguay
-  headline: Pope Leo XIV urges church, community and state to work together in Uruguay
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6155
-- slug: 2026-11-09-five-survivors-meet-leo-xiv-at-the-catholic-university-of-argentina
-  headline: Five survivors meet Leo XIV at the Catholic University of Argentina
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6121
-- slug: 2026-04-10-pope-leo-xiv-finishes-africa-trip-urging-peace-and-tackling-corruption
-  headline: Pope Leo XIV finishes Africa trip, urging peace and tackling corruption
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6417
-- slug: 2026-04-23-pope-leo-xiv-tells-inmates-in-equatorial-guinea-you-are-not-alone
-  headline: Pope Leo XIV tells inmates in Equatorial Guinea “you are not alone”
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.63
-- slug: 2026-06-08-pope-leo-xiv-calls-for-moral-renewal-in-historic-spanish-parliament-address
-  headline: Pope Leo XIV calls for moral renewal in historic Spanish parliament address
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6152
-- slug: 2026-04-21-pope-leo-xiv-tells-equatorial-guinea-inmates-you-are-not-alone-on-prison-visit
-  headline: Pope Leo XIV tells Equatorial Guinea inmates “You are not alone” on prison visit
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6254
-- slug: 2026-04-26-pope-leo-xiv-urges-u-s-and-iran-to-return-to-peace-talks
-  headline: Pope Leo XIV urges U.S. and Iran to return to peace talks
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.623
+  strength: 0.6721
 ---
-
 ## Afro-Peruvian singer Susana Baca details songs performed for Pope Leo XIV
 
 **Subtype:** fact

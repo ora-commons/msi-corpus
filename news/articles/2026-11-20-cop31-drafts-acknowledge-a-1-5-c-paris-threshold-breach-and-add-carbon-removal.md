@@ -207,6 +207,8 @@ related_stories:
   publish_date: '2026-11-18'
   relation: related
   strength: 0.6976
+analyses:
+- '2026-11-20-cop31-drafts-add-carbon-removal-amid-scale-and-cost-questions'
 ---
 ## COP31 drafts acknowledge a 1.5°C Paris threshold breach and add carbon removal
 
@@ -252,3 +254,8 @@ October's global average temperature set the record for the greatest departure a
 **Publication date:** 2026-11-20
 **Title:** Climate talks consider carbon removal to fight rampant warming
 **URL:** https://apnews.com/article/climate-change-carbon-removal-warming-43a5aa99d97cf290a77a14b09ed025b6
+
+---
+
+<!-- analysis-link:2026-11-20-cop31-drafts-add-carbon-removal-amid-scale-and-cost-questions -->
+**Going deeper:** [Read MSI's analysis of COP31's carbon-removal scale gap →](/analyses/2026-11-20-cop31-drafts-add-carbon-removal-amid-scale-and-cost-questions)
