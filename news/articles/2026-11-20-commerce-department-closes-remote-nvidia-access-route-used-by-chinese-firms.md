@@ -67,7 +67,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -270,3 +270,10 @@ Tightening access to American technology could accelerate China's timeline by en
 **Publication date:** 2026-11-20
 **Title:** China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.
 **URL:** https://www.wsj.com/tech/ai/chinas-ai-firms-are-addicted-to-nvidia-chips-now-they-are-facing-withdrawal-ba851ca9
+
+### src_late_abeba971be33fdeb — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Richard Vanderford
+**Publication date:** 2026-11-20
+**Title:** The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal.
+**URL:** https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-ai-firms-are-hooked-on-nvidia-chips-now-comes-the-withdrawal-57391e23
+**Added after publication:** true

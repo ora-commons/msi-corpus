@@ -54,7 +54,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -199,3 +199,10 @@ In a post on X congratulating Davies, Defense Secretary Pete Hegseth wrote: “S
 **Publication date:** 2026-11-20
 **Title:** White House names Kirsten Davies as new national cyber director
 **URL:** https://apnews.com/article/cyber-director-kirsten-davies-sean-cairncross-2f1f84f3ca5429d01ace67929c72128d
+
+### src_late_ffa7535ae54ec513 — Associated Press, wire, Tier 1, originating
+**Author:** Associated Press
+**Publication date:** 2026-11-20
+**Title:** White House taps Kirsten Davies as cyber chief after outages rattle Americans
+**URL:** https://www.pbs.org/newshour/politics/white-house-taps-kirsten-davies-as-cyber-chief-after-outages-rattle-americans
+**Added after publication:** true
