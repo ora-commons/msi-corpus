@@ -34,7 +34,8 @@ primary_themes:
 - Referendum politics
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- post-brexit-uk-eu-relations
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -196,6 +197,7 @@ related_stories:
   relation: related
   strength: 0.7203
 ---
+
 ## UK Brexit debate returns as Burnham prepares EU options
 
 **Subtype:** fact

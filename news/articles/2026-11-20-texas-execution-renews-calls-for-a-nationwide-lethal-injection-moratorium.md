@@ -2,8 +2,18 @@
 headline: Texas execution renews calls for a nationwide lethal-injection moratorium
 secondary_headline: Expert questions lethal-injection methods used in Dennes case
 publish_date: '2026-11-20'
-lede: Renewed calls for a nationwide moratorium on lethal injections followed the Texas execution of Reinaldo Dennes, as advocates challenged the method and the Texas Department of Criminal Justice called the procedure successful. Reprieve chief executive Maya Foa called for all lethal injections to be paused, while Department spokeswoman Amanda Hernandez said the agency followed proper protocols. Dennes, 70, was proclaimed dead at the Huntsville penitentiary after 63 minutes, and the Rev Jeff Hood reported that Dennes cried out in pain and begged for the ordeal to end.
-nut_graf: The 63-minute execution timeline and Jeff Hood's account of Dennes fighting pain for up to five minutes underlie renewed scrutiny of lethal injections and disagreement over the procedure's outcome. The dispute comes as scrutiny of Texas's drug-supply practices continues and political changes after the midterm elections point to fresh review of the state's execution procedures.
+lede: Renewed calls for a nationwide moratorium on lethal injections followed the
+  Texas execution of Reinaldo Dennes, as advocates challenged the method and the Texas
+  Department of Criminal Justice called the procedure successful. Reprieve chief executive
+  Maya Foa called for all lethal injections to be paused, while Department spokeswoman
+  Amanda Hernandez said the agency followed proper protocols. Dennes, 70, was proclaimed
+  dead at the Huntsville penitentiary after 63 minutes, and the Rev Jeff Hood reported
+  that Dennes cried out in pain and begged for the ordeal to end.
+nut_graf: The 63-minute execution timeline and Jeff Hood's account of Dennes fighting
+  pain for up to five minutes underlie renewed scrutiny of lethal injections and disagreement
+  over the procedure's outcome. The dispute comes as scrutiny of Texas's drug-supply
+  practices continues and political changes after the midterm elections point to fresh
+  review of the state's execution procedures.
 primary_entities:
 - Reinaldo Dennes
 - Texas
@@ -53,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,107 +163,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-20-texas-execution-procedure-for-reinaldo-dennes-ends-at-7-07-p-m-after-63-minutes
-  headline: Texas execution procedure for Reinaldo Dennes ends at 7:07 p.m. after 63 minutes
+  headline: Texas execution procedure for Reinaldo Dennes ends at 7:07 p.m. after
+    63 minutes
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.8163
+  strength: 0.8159
 - slug: 2026-11-20-jeff-hood-calls-dennes-execution-by-far-the-worst-one-he-has-seen
   headline: Jeff Hood calls Dennes execution "by far the worst one" he has seen
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.8026
+  strength: 0.8025
 - slug: 2026-11-20-texas-execution-team-finds-alternate-veins-in-dennes-s-foot-and-neck
   headline: Texas execution team finds alternate veins in Dennes's foot and neck
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.765
+  strength: 0.7649
 - slug: 2026-11-19-supreme-court-denies-overton-s-final-appeal-before-scheduled-florida-execution
   headline: Supreme Court denies Overton's final appeal before scheduled Florida execution
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7084
+  strength: 0.709
 - slug: 2026-11-19-florida-and-texas-schedule-executions-of-two-condemned-men
   headline: Florida and Texas schedule executions of two condemned men
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.6943
+  strength: 0.6942
 - slug: 2026-11-15-texas-executes-man-convicted-of-beheading-three-children
   headline: Texas executes man convicted of beheading three children
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.686
+  strength: 0.6856
 - slug: 2026-10-30-pike-s-attorneys-urge-lee-to-reduce-her-sentence-to-life
   headline: Pike's attorneys urge Lee to reduce her sentence to life
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6818
+  strength: 0.681
 - slug: 2026-10-08-texas-executes-howard-first-us-execution-since-pike-s-failed-injection
   headline: Texas executes Howard, first US execution since Pike's failed injection
   publish_date: '2026-10-08'
   relation: related
-  strength: 0.7498
-- slug: 2026-10-22-tennessee-protocol-specifies-no-steps-if-pike-survives-second-pentobarbital-dose
-  headline: Tennessee protocol specifies no steps if Pike survives second pentobarbital dose
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6806
-- slug: 2026-10-20-william-reaves-is-put-to-death-in-florida-s-18th-execution-of-2026
-  headline: William Reaves is put to death in Florida's 18th execution of 2026
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6844
-- slug: 2026-10-07-texas-schedules-first-us-execution-since-tennessee-s-botched-pike-injection
-  headline: Texas schedules first US execution since Tennessee's botched Pike injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.7305
-- slug: 2026-10-11-christa-pike-survives-lethal-injection-as-us-executions-hit-a-16-year-high
-  headline: Christa Pike survives lethal injection as US executions hit a 16-year high
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.7099
-- slug: 2026-10-02-tennessee-halts-christa-pike-execution-after-two-pentobarbital-injections-fail
-  headline: Tennessee halts Christa Pike execution after two pentobarbital injections fail
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.7365
-- slug: 2026-10-01-tennessee-governor-halts-executions-through-year-after-pike-injection-fails
-  headline: Tennessee governor halts executions through year after Pike injection fails
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.7209
-- slug: 2026-10-09-christa-pike-survives-tennessee-execution-governor-calls-for-review-of-what-went
-  headline: Christa Pike survives Tennessee execution; governor calls for review of what went wrong
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6942
-- slug: 2026-10-03-pike-s-lawyers-call-failed-tennessee-execution-unnecessary-agony
-  headline: Pike's lawyers call failed Tennessee execution 'unnecessary agony'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7143
-- slug: 2026-10-03-strada-s-record-five-botched-executions-across-two-states-since-2022
-  headline: 'Strada''s record: five ''botched'' executions across two states since 2022'
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.7097
-- slug: 2026-10-06-christa-pike-survives-two-pentobarbital-doses-in-tennessee-s-third-failed-execut
-  headline: Christa Pike survives two pentobarbital doses in Tennessee's third failed execution in 14 months
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6968
-- slug: 2026-10-07-tennessee-weighs-execution-options-after-pike-survives-lethal-injection
-  headline: Tennessee weighs execution options after Pike survives lethal injection
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6932
-- slug: 2026-10-07-texas-execution-of-howard-set-to-use-same-drug-that-failed-in-tennessee
-  headline: Texas execution of Howard set to use same drug that failed in Tennessee
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6829
+  strength: 0.7499
 ---
-
 ## Texas execution renews calls for a nationwide lethal-injection moratorium
 
 **Subtype:** fact

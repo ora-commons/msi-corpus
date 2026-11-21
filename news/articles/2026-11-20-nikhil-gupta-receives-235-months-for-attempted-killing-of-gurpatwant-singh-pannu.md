@@ -1,9 +1,17 @@
 ---
-headline: Nikhil Gupta receives 235 months for attempted killing of Gurpatwant Singh Pannun
-secondary_headline: Prosecutors alleged Gupta was directed by an Indian government official
+headline: Nikhil Gupta receives 235 months for attempted killing of Gurpatwant Singh
+  Pannun
+secondary_headline: Prosecutors alleged Gupta was directed by an Indian government
+  official
 publish_date: '2026-11-20'
-lede: A federal judge sentenced Indian national Nikhil Gupta to 235 months, more than 19 years, for his role in an attempted plot to kill Gurpatwant Singh Pannun, a leading Sikh political figure in the US. Gupta pleaded guilty in February to murder-for-hire, conspiracy to commit murder-for-hire and conspiracy to commit money laundering.
-nut_graf: The sentence follows Gupta's guilty plea in a US case in which prosecutors alleged that an Indian government official directed him to kill Pannun. India has denied involvement, while Pannun denies the Indian government's accusation that he is a terrorist.
+lede: A federal judge sentenced Indian national Nikhil Gupta to 235 months, more than
+  19 years, for his role in an attempted plot to kill Gurpatwant Singh Pannun, a leading
+  Sikh political figure in the US. Gupta pleaded guilty in February to murder-for-hire,
+  conspiracy to commit murder-for-hire and conspiracy to commit money laundering.
+nut_graf: The sentence follows Gupta's guilty plea in a US case in which prosecutors
+  alleged that an Indian government official directed him to kill Pannun. India has
+  denied involvement, while Pannun denies the Indian government's accusation that
+  he is a terrorist.
 primary_entities:
 - Nikhil Gupta
 - Gurpatwant Singh Pannun
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,23 +148,9 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-17-merchant-receives-more-than-27-years-for-alleged-iran-linked-assassination-plot
-  headline: Merchant receives more than 27 years for alleged Iran-linked assassination plot
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6432
-- slug: 2026-11-18-prosecutors-say-pakistani-merchant-made-15-iran-trips-for-intelligence-training
-  headline: Prosecutors say Pakistani Merchant made 15 Iran trips for intelligence training
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.623
-- slug: 2026-11-18-court-finds-asif-merchant-sought-retribution-over-suleimani-s-death
-  headline: Court finds Asif Merchant sought retribution over Suleimani's death
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.619
 - slug: 2026-02-14-indian-man-pleads-guilty-in-plot-to-assassinate-sikh-separatist-in-new-york
-  headline: Indian man pleads guilty in plot to assassinate Sikh separatist in New York
+  headline: Indian man pleads guilty in plot to assassinate Sikh separatist in New
+    York
   publish_date: '2026-02-14'
   relation: related
   strength: 0.823
@@ -164,83 +159,7 @@ related_stories:
   publish_date: '2026-08-25'
   relation: related
   strength: 0.7008
-- slug: 2026-10-13-duane-davis-sentenced-to-40-years-for-orchestrating-tupac-shakur-s-1996-murder
-  headline: Duane Davis sentenced to 40 years for orchestrating Tupac Shakur's 1996 murder
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.551
-- slug: 2026-10-01-sikh-activist-johal-released-from-indian-prison-after-nearly-nine-years
-  headline: Sikh activist Johal released from Indian prison after nearly nine years
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.5839
-- slug: 2026-10-09-un-uk-us-leaders-condemn-pentagon-plan-to-livestream-hasan-execution
-  headline: UN, UK, US leaders condemn Pentagon plan to livestream Hasan execution
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5511
-- slug: 2026-09-17-sharifullah-receives-20-year-federal-term-for-iskp-support
-  headline: Sharifullah receives 20-year federal term for ISKP support
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.5988
-- slug: 2026-07-07-federal-prosecutors-charge-37-defendants-in-india-based-organized-crime-probe
-  headline: Federal prosecutors charge 37 defendants in India-based organized crime probe
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6048
-- slug: 2026-07-29-hadi-matar-convicted-of-federal-terrorism-charges-in-rushdie-stabbing
-  headline: Hadi Matar convicted of federal terrorism charges in Rushdie stabbing
-  publish_date: '2026-07-29'
-  relation: related
-  strength: 0.5529
-- slug: 2026-02-25-pakistani-man-goes-on-trial-in-plot-to-kill-us-politician-possibly-trump
-  headline: Pakistani man goes on trial in plot to kill US politician, possibly Trump
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5972
-- slug: 2026-05-27-federal-judge-sentences-man-to-10-years-in-plot-to-kill-iranian-american-writer
-  headline: Federal judge sentences man to 10 years in plot to kill Iranian American writer
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5795
-- slug: 2026-03-06-pakistani-man-convicted-in-iran-backed-plot-to-kill-trump-biden-and-haley
-  headline: Pakistani man convicted in Iran-backed plot to kill Trump, Biden and Haley
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.5937
-- slug: 2026-03-05-pakistani-man-on-trial-says-iranian-linked-plot-targeted-trump-and-biden
-  headline: Pakistani man on trial says Iranian-linked plot targeted Trump and Biden
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5928
-- slug: 2026-02-26-pakistani-man-goes-on-trial-in-new-york-over-plot-to-kill-trump
-  headline: Pakistani man goes on trial in New York over plot to kill Trump
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5923
-- slug: 2026-06-13-taliban-commander-sentenced-to-42-years-for-kidnapping-journalist-david-rohde
-  headline: Taliban commander sentenced to 42 years for kidnapping journalist David Rohde
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5622
-- slug: 2026-03-04-trial-seeks-to-tie-iranian-paramilitary-to-alleged-assassination-plot
-  headline: Trial seeks to tie Iranian paramilitary to alleged assassination plot
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5863
-- slug: 2026-04-09-pakistani-man-pleads-guilty-in-plot-targeting-brooklyn-jewish-center
-  headline: Pakistani man pleads guilty in plot targeting Brooklyn Jewish center
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5751
-- slug: 2026-06-16-five-detained-in-alleged-plot-to-attack-white-house-ufc-event-fbi-says
-  headline: Five detained in alleged plot to attack White House UFC event, FBI says
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5533
 ---
-
 ## Nikhil Gupta receives 235 months for attempted killing of Gurpatwant Singh Pannun
 
 **Subtype:** fact

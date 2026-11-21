@@ -26,7 +26,8 @@ primary_themes:
 - Made in Europe trade policy
 topic_tags:
 - education
-storyline_nexus: []
+storyline_nexus:
+- post-brexit-uk-eu-relations
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -178,6 +179,7 @@ related_stories:
   relation: related
   strength: 0.6586
 ---
+
 ## UK and EU remain divided over food rules and tuition before summit
 
 **Subtype:** fact
