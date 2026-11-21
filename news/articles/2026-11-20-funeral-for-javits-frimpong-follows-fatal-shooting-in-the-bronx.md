@@ -2,8 +2,15 @@
 headline: Funeral for Javits Frimpong follows fatal shooting in the Bronx
 secondary_headline: Police charge 17-year-old and continue search for two others
 publish_date: '2026-11-20'
-lede: New York City Mayor Zohran Mamdani joined Thomas Frimpong and civil rights leaders in eulogies Friday for Javits Frimpong, a 15-year-old Ghanaian boy killed while walking to school in the Bronx. Police say three teenage boys were involved in the 29 October shooting; a 17-year-old has been charged with murder and will be tried as an adult.
-nut_graf: Police are still searching for two of the three teenage boys police said were involved in the shooting. Ghana's government condemned the killing, urged US authorities to conduct a thorough investigation and said it was ready to provide legal and consular support.
+lede: New York City Mayor Zohran Mamdani joined Thomas Frimpong and civil rights leaders
+  in eulogies Friday for Javits Frimpong, a 15-year-old Ghanaian boy killed while
+  walking to school in the Bronx. Police say three teenage boys were involved in the
+  29 October shooting; a 17-year-old has been charged with murder and will be tried
+  as an adult.
+nut_graf: Police are still searching for two of the three teenage boys police said
+  were involved in the shooting. Ghana's government condemned the killing, urged US
+  authorities to conduct a thorough investigation and said it was ready to provide
+  legal and consular support.
 primary_entities:
 - Javits Frimpong
 - Zohran Mamdani
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,12 +155,14 @@ related_stories:
   relation: related
   strength: 0.8912
 - slug: 2026-11-11-police-arrest-17-year-old-in-fatal-shooting-of-ghanaian-teen-walking-to-school
-  headline: Police arrest 17-year-old in fatal shooting of Ghanaian teen walking to school
+  headline: Police arrest 17-year-old in fatal shooting of Ghanaian teen walking to
+    school
   publish_date: '2026-11-11'
   relation: related
   strength: 0.8909
 - slug: 2026-10-30-javits-frimpong-15-chased-and-fatally-shot-on-his-way-to-school-in-the-bronx
-  headline: Javits Frimpong, 15, chased and fatally shot on his way to school in the Bronx
+  headline: Javits Frimpong, 15, chased and fatally shot on his way to school in the
+    Bronx
   publish_date: '2026-10-30'
   relation: related
   strength: 0.8993
@@ -166,83 +176,12 @@ related_stories:
   publish_date: '2026-10-31'
   relation: related
   strength: 0.8305
-- slug: 2026-11-13-search-ends-at-brooklyn-collapse-site-as-officials-name-eight-victims
-  headline: Search ends at Brooklyn collapse site as officials name eight victims
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6007
-- slug: 2026-11-12-rescue-crews-search-brooklyn-collapse-rubble-as-death-toll-rises-to-eight
-  headline: Rescue crews search Brooklyn collapse rubble as death toll rises to eight
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5989
-- slug: 2026-10-22-wiley-family-attorneys-seek-federal-inquiry-after-fatal-shooting-footage-surface
-  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.6095
 - slug: 2026-10-09-ice-agent-shoots-man-in-the-bronx-dhs-confirms
   headline: ICE agent shoots man in the Bronx, DHS confirms
   publish_date: '2026-10-09'
   relation: related
   strength: 0.657
-- slug: 2026-10-09-mamdani-aoc-call-for-ice-abolition-as-dhs-rejects-new-york-enforcement-pause
-  headline: Mamdani, AOC call for ICE abolition as DHS rejects New York enforcement pause
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6473
-- slug: 2026-10-08-ice-agent-shoots-man-in-bronx-suv-dhs-says-target-had-gang-ties
-  headline: ICE agent shoots man in Bronx SUV; DHS says target had gang ties
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6403
-- slug: 2026-10-08-federal-immigration-officer-shoots-person-in-new-york-s-marble-hill-mayor-report
-  headline: Federal immigration officer shoots person in New York's Marble Hill, mayor reports
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6329
-- slug: 2026-10-12-mamdani-calls-for-ice-to-leave-new-york-after-marble-hill-shooting
-  headline: Mamdani calls for ICE to leave New York after Marble Hill shooting
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.6069
-- slug: 2026-10-08-federal-agents-shoot-person-in-the-bronx-nypd-says
-  headline: Federal agents shoot person in the Bronx, NYPD says
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.618
-- slug: 2026-10-09-mullin-says-ice-won-t-pause-nyc-operations-after-bronx-shooting
-  headline: Mullin says ICE won't pause NYC operations after Bronx shooting
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6064
-- slug: 2026-10-09-mamdani-jeered-by-some-left-wing-protesters-at-oct-7-vigil-ice-briefing
-  headline: Mamdani jeered by some left-wing protesters at Oct. 7 vigil, ICE briefing
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6015
-- slug: 2026-10-09-dhs-defends-ice-officers-who-shot-man-with-child-in-car
-  headline: DHS defends ICE officers who shot man with child in car
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5973
-- slug: 2026-10-08-trump-says-he-may-ask-fbi-to-investigate-nolan-wells-s-death
-  headline: Trump says he may ask FBI to investigate Nolan Wells's death
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5948
-- slug: 2026-10-06-us-resident-charged-in-conspiracy-to-aid-deadly-tumbler-ridge-school-shooting
-  headline: US resident charged in conspiracy to aid deadly Tumbler Ridge school shooting
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5989
-- slug: 2026-10-07-rosen-says-suspect-s-parents-rebuffed-2025-federal-radicalization-warning
-  headline: Rosen says suspect's parents rebuffed 2025 federal radicalization warning
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.5919
 ---
-
 ## Funeral for Javits Frimpong follows fatal shooting in the Bronx
 
 **Subtype:** fact

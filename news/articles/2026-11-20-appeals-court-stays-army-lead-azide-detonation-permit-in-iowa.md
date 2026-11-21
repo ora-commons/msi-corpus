@@ -59,7 +59,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -237,3 +237,10 @@ Lucy Giehl said during a Thursday interview that she, her husband and two dogs l
 **Publication date:** 2026-11-20
 **Title:** Court grants request to prevent military from detonating bomb-making chemicals in Iowa
 **URL:** https://www.pbs.org/newshour/nation/court-grants-request-to-prevent-military-from-detonating-bomb-making-chemicals-in-iowa
+
+### src_late_56b568e2582b3376 — Associated Press, wire, Tier 1, originating
+**Author:** Hannah Fingerhut
+**Publication date:** 2026-11-20
+**Title:** Court stay prevents US Army from detonating bomb-making chemicals in Iowa
+**URL:** https://apnews.com/article/iowa-army-lead-detonation-5003c57090dd0d244a5113c232ea8fbf
+**Added after publication:** true
