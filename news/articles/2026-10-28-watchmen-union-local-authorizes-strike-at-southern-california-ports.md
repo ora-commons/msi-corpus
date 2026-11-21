@@ -38,7 +38,8 @@ topic_tags:
 - labour relations
 - transport
 - transportation accident and incident
-storyline_nexus: []
+storyline_nexus:
+- southern-california-port-watchmen-strike
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -201,6 +202,7 @@ related_stories:
   relation: related
   strength: 0.6565
 ---
+
 ## Watchmen union local authorizes strike at Southern California ports
 
 **Subtype:** fact

@@ -25,7 +25,8 @@ primary_themes:
 topic_tags:
 - employment
 - transportation accident and incident
-storyline_nexus: []
+storyline_nexus:
+- southern-california-port-watchmen-strike
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -147,6 +148,7 @@ related_stories:
   relation: related
   strength: 0.6576
 ---
+
 ## Port employers say guard strike could begin Saturday at L.A., Long Beach
 
 **Subtype:** fact
