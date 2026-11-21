@@ -1,9 +1,17 @@
 ---
 headline: Boebert criticizes Trump and Republican inaction after House defeat
-secondary_headline: Democrats flipped nine Senate seats and about four dozen House seats
+secondary_headline: Democrats flipped nine Senate seats and about four dozen House
+  seats
 publish_date: '2026-11-20'
-lede: U.S. Rep. Lauren Boebert, a Colorado Republican, criticized Donald Trump's decisions and Republican inaction in an Associated Press interview published Friday after Democratic challenger Eileen Laubacher defeated her by less than 1% in Colorado's 2026 House race. Boebert said she was not angry with the president but that he had done things that hurt her voters before the election.
-nut_graf: Boebert's remarks combined criticism of Trump with continued support for working with him. She assigned shared responsibility to Republicans, argued that solutions existed but the party did not act, and described her future plans only as making money after her House defeat.
+lede: U.S. Rep. Lauren Boebert, a Colorado Republican, criticized Donald Trump's decisions
+  and Republican inaction in an Associated Press interview published Friday after
+  Democratic challenger Eileen Laubacher defeated her by less than 1% in Colorado's
+  2026 House race. Boebert said she was not angry with the president but that he had
+  done things that hurt her voters before the election.
+nut_graf: Boebert's remarks combined criticism of Trump with continued support for
+  working with him. She assigned shared responsibility to Republicans, argued that
+  solutions existed but the party did not act, and described her future plans only
+  as making money after her House defeat.
 primary_entities:
 - Lauren Boebert
 - Donald Trump
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,12 +151,12 @@ related_stories:
   headline: Lauren Boebert leaves Washington after losing Colorado House seat
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8347
+  strength: 0.8345
 - slug: 2026-11-13-lauren-boebert-loses-colorado-house-seat-after-three-terms
   headline: Lauren Boebert loses Colorado House seat after three terms
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8349
+  strength: 0.8351
 - slug: 2026-11-13-boebert-says-we-collectively-failed-after-widespread-midterm-losses
   headline: Boebert says 'We collectively failed' after widespread midterm losses
   publish_date: '2026-11-13'
@@ -157,89 +166,28 @@ related_stories:
   headline: Boebert leaves Congress after Epstein clash with Trump
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8116
+  strength: 0.8117
 - slug: 2026-11-13-boebert-will-not-return-to-congress-after-laubacher-wins-colorado-s-4th
   headline: Boebert will not return to Congress after Laubacher wins Colorado's 4th
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7888
+  strength: 0.7887
 - slug: 2026-11-13-laubacher-says-campaign-was-never-about-party-labels-after-beating-boebert
   headline: Laubacher says campaign was never about party labels after beating Boebert
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7859
+  strength: 0.7856
 - slug: 2026-11-08-minnesota-state-senator-jim-abeler-loses-reelection-bid
   headline: Minnesota state senator Jim Abeler loses reelection bid
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6866
+  strength: 0.6868
 - slug: 2026-11-04-trump-accepts-midterm-results-and-links-republican-losses-to-iran
   headline: Trump accepts midterm results and links Republican losses to Iran
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7009
-- slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
-  headline: Republicans fault Trump after Democrats take House and Senate in midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7003
-- slug: 2026-11-10-republican-lawmakers-assess-midterm-losses-and-the-work-ahead
-  headline: Republican lawmakers assess midterm losses and the work ahead
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6572
-- slug: 2026-11-05-republican-hopefuls-blame-iran-war-and-tariffs-for-2026-midterm-losses
-  headline: Republican hopefuls blame Iran war and tariffs for 2026 midterm losses
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6687
-- slug: 2026-11-04-trump-says-he-ll-accept-midterm-results-after-administration-signals-alaska-cert
-  headline: Trump says he'll accept midterm results after administration signals Alaska certification challenge
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6727
-- slug: 2026-11-04-trump-shifts-blame-after-sweeping-republican-midterm-losses
-  headline: Trump shifts blame after sweeping Republican midterm losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6679
-- slug: 2026-11-04-trump-loses-both-congressional-chambers-limiting-his-domestic-power
-  headline: Trump loses both congressional chambers, limiting his domestic power
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6663
-- slug: 2026-11-04-trump-says-iran-was-one-factor-in-republican-midterm-losses
-  headline: Trump says Iran was one factor in Republican midterm losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6662
-- slug: 2026-11-04-trump-calls-fox-polls-terrible-after-republican-midterm-losses
-  headline: Trump calls Fox polls ‘terrible’ after Republican midterm losses
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6616
-- slug: 2026-11-01-trump-s-policies-put-republican-congressional-majorities-at-risk-in-the-midterms
-  headline: Trump’s policies put Republican congressional majorities at risk in the midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6691
-- slug: 2026-11-03-more-than-57-million-people-have-cast-ballots-as-2026-midterms-reach-voting-day
-  headline: More than 57 million people have cast ballots as 2026 midterms reach voting day
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6562
-- slug: 2026-10-26-consumer-prices-outpace-paychecks-as-the-midterms-approach
-  headline: Consumer prices outpace paychecks as the midterms approach
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6601
-- slug: 2026-09-21-boebert-rejects-ethics-complaint-alleging-sexual-relationships-with-staffers
-  headline: Boebert rejects ethics complaint alleging sexual relationships with staffers
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6897
+  strength: 0.7012
 ---
-
 ## Boebert criticizes Trump and Republican inaction after House defeat
 
 **Subtype:** fact

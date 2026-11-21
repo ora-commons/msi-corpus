@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-05-22'
   relation: related
   strength: 0.7491
+analyses:
+- '2026-11-19-pentagon-maps-base-budget-alternative-as-senate-package-stalls'
 ---
 ## Pentagon maps base-budget alternatives for $350 billion defense priorities
 
@@ -250,3 +252,8 @@ Senate Democratic leader Chuck Schumer has not threatened a shutdown, but he pro
 **Publication date:** 2026-11-19
 **Title:** GOP Effort to Pass $350 Billion In Extra Military Spending Stalls In Lame Duck
 **URL:** https://www.wsj.com/politics/policy/gop-effort-to-pass-350-billion-in-extra-military-spending-stalls-in-lame-duck-d8b14835
+
+---
+
+<!-- analysis-link:2026-11-19-pentagon-maps-base-budget-alternative-as-senate-package-stalls -->
+**Going deeper:** [Read MSI's analysis of the Pentagon's funding strategy →](/analyses/2026-11-19-pentagon-maps-base-budget-alternative-as-senate-package-stalls)
