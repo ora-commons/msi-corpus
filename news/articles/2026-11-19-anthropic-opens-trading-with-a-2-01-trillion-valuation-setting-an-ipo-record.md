@@ -34,7 +34,8 @@ primary_themes:
 - Retail investor participation
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- anthropic-public-market-listing
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -197,6 +198,7 @@ related_stories:
   relation: related
   strength: 0.8468
 ---
+
 ## Anthropic opens trading with a $2.01 trillion valuation, setting an IPO record
 
 **Subtype:** fact

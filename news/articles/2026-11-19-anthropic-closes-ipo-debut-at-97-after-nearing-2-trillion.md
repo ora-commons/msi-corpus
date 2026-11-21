@@ -37,7 +37,8 @@ primary_themes:
 topic_tags:
 - artificial intelligence
 - economy
-storyline_nexus: []
+storyline_nexus:
+- anthropic-public-market-listing
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.8142
 ---
+
 ## Anthropic closes IPO debut at $97 after nearing $2 trillion
 
 **Subtype:** fact
