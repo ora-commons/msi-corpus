@@ -23,7 +23,8 @@ topic_tags:
 - artificial intelligence
 - business information
 - technology and engineering
-storyline_nexus: []
+storyline_nexus:
+- anthropic-public-market-listing
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -185,6 +186,7 @@ related_stories:
   relation: related
   strength: 0.7621
 ---
+
 ## Anthropic raises $79.4 billion in record IPO
 
 **Subtype:** fact
