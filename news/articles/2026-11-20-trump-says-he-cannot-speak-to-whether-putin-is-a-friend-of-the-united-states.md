@@ -1,9 +1,20 @@
 ---
 headline: Trump says he cannot speak to whether Putin is a friend of the United States
-secondary_headline: Trump says Putin and Zelenskyy both remain 'stuck' in the Ukraine war
+secondary_headline: Trump says Putin and Zelenskyy both remain 'stuck' in the Ukraine
+  war
 publish_date: '2026-11-20'
-lede: President Donald Trump said at a Friday briefing that he could not speak to whether Russian President Vladimir Putin was a friend to the United States. Days earlier in China, Trump had repeatedly called Putin his "friend," and he did not disavow that description on Friday. Trump described his personal relationship with Putin as "very good" and said relationships with other world leaders were key to an eventual peace in Ukraine.
-nut_graf: Trump's answer distinguished his personal relationship with Putin from the question of whether the Russian president was a friend to the United States. He said Putin and Ukrainian leader Volodymyr Zelenskyy were "stuck" in the war, said he was trying to help them, and repeated his longstanding grievances over the extended federal probe into Russian attempts to influence U.S. voters in the 2016 presidential election.
+lede: President Donald Trump said at a Friday briefing that he could not speak to
+  whether Russian President Vladimir Putin was a friend to the United States. Days
+  earlier in China, Trump had repeatedly called Putin his "friend," and he did not
+  disavow that description on Friday. Trump described his personal relationship with
+  Putin as "very good" and said relationships with other world leaders were key to
+  an eventual peace in Ukraine.
+nut_graf: Trump's answer distinguished his personal relationship with Putin from the
+  question of whether the Russian president was a friend to the United States. He
+  said Putin and Ukrainian leader Volodymyr Zelenskyy were "stuck" in the war, said
+  he was trying to help them, and repeated his longstanding grievances over the extended
+  federal probe into Russian attempts to influence U.S. voters in the 2016 presidential
+  election.
 primary_entities:
 - Donald Trump
 - Vladimir Putin
@@ -42,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,107 +153,47 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-19-poland-s-leaders-question-trump-s-greeting-with-putin-as-allies-meet-in-berlin
-  headline: Poland's leaders question Trump's greeting with Putin as allies meet in Berlin
+  headline: Poland's leaders question Trump's greeting with Putin as allies meet in
+    Berlin
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7217
+  strength: 0.7227
 - slug: 2026-11-19-trump-xi-and-putin-end-shenzhen-summit-with-divergent-priorities
   headline: Trump, Xi and Putin end Shenzhen summit with divergent priorities
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7082
+  strength: 0.71
 - slug: 2026-11-19-trump-meets-putin-before-trilateral-kremlin-says-ukraine-was-the-focus
   headline: Trump meets Putin before trilateral; Kremlin says Ukraine was the focus
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7002
+  strength: 0.7019
 - slug: 2026-11-19-state-media-reports-xi-warning-trump-on-taiwan-putin-questions-democracy
   headline: State media reports Xi warning Trump on Taiwan; Putin questions democracy
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.6862
+  strength: 0.6881
 - slug: 2026-11-19-trump-xi-and-putin-end-shenzhen-summit-without-ukraine-breakthrough
   headline: Trump, Xi and Putin end Shenzhen summit without Ukraine breakthrough
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.6859
+  strength: 0.6879
 - slug: 2026-11-19-trump-s-diplomatic-strategy-strains-after-gop-midterm-losses
   headline: Trump’s diplomatic strategy strains after GOP midterm losses
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.6832
+  strength: 0.685
 - slug: 2026-11-18-trump-plans-separate-meeting-with-putin-during-china-visit
   headline: Trump plans separate meeting with Putin during China visit
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6771
+  strength: 0.6792
 - slug: 2026-11-18-trump-and-putin-s-expected-one-on-one-talks-could-cover-the-war-in-ukraine
   headline: Trump and Putin's expected one-on-one talks could cover the war in Ukraine
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6726
-- slug: 2026-11-05-trump-says-russia-and-ukraine-are-close-to-a-deal-after-meeting-putin-s-envoy
-  headline: Trump says Russia and Ukraine are close to a deal after meeting Putin's envoy
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6768
-- slug: 2026-10-19-trump-open-to-joining-putin-and-xi-for-denuclearization-summit
-  headline: Trump open to joining Putin and Xi for denuclearization summit
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7244
-- slug: 2026-10-13-zelenskyy-says-ukraine-still-sees-us-as-partner-despite-warnings
-  headline: Zelenskyy says Ukraine still sees US as partner despite warnings
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.733
-- slug: 2026-10-21-russia-says-trilateral-ukraine-peace-talks-could-resume-after-nov-10
-  headline: Russia says trilateral Ukraine peace talks could resume after Nov. 10
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6688
-- slug: 2026-10-18-putin-proposes-trump-xi-summit-to-negotiate-end-of-ukraine-war
-  headline: Putin proposes Trump-Xi summit to negotiate end of Ukraine war
-  publish_date: '2026-10-18'
-  relation: related
-  strength: 0.6682
-- slug: 2026-10-16-trump-labels-ukraine-s-renewed-refinery-strikes-a-disgrace-on-newsmax
-  headline: Trump labels Ukraine's renewed refinery strikes 'a disgrace' on Newsmax
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6727
-- slug: 2026-10-10-trump-says-it-is-time-for-ukraine-to-get-a-new-president
-  headline: Trump says it is time for Ukraine to get a new president
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6827
-- slug: 2026-10-10-trump-calls-on-ukraine-to-replace-zelensky-halt-refinery-strikes
-  headline: Trump calls on Ukraine to replace Zelensky, halt refinery strikes
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.6717
-- slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
-  headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.7381
-- slug: 2025-12-29-trump-hosts-zelenskyy-at-florida-resort-says-peace-talks-near-agreement
-  headline: Trump hosts Zelenskyy at Florida resort, says peace talks near agreement
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7432
-- slug: 2026-07-08-trump-says-he-may-let-ukraine-produce-patriot-interceptors
-  headline: Trump says he may let Ukraine produce Patriot interceptors
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6988
-- slug: 2026-06-05-volodymyr-zelensky-invites-vladimir-putin-to-face-to-face-peace-talks
-  headline: Volodymyr Zelensky invites Vladimir Putin to face-to-face peace talks
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6846
+  strength: 0.6753
 ---
-
 ## Trump says he cannot speak to whether Putin is a friend of the United States
 
 **Subtype:** fact

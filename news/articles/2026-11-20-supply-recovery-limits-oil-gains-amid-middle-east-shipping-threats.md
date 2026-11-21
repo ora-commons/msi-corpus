@@ -212,6 +212,8 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.8575
+analyses:
+- '2026-11-20-middle-east-producers-use-rerouting-to-restrain-oil-gains'
 ---
 ## Supply recovery limits oil gains amid Middle East shipping threats
 
@@ -257,3 +259,8 @@ Taken together, the reported figures showed simultaneous security risk and suppl
 **Publication date:** 2026-11-20
 **Title:** Oil Prices Edge Higher as Traders Assess Middle East Shipping Risks, Supply Outlook
 **URL:** https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a
+
+---
+
+<!-- analysis-link:2026-11-20-middle-east-producers-use-rerouting-to-restrain-oil-gains -->
+**Going deeper:** [Read MSI's analysis of Middle East oil supply adaptation →](/analyses/2026-11-20-middle-east-producers-use-rerouting-to-restrain-oil-gains)

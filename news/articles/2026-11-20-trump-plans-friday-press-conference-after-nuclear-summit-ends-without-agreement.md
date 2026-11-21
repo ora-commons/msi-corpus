@@ -206,6 +206,8 @@ related_stories:
   publish_date: '2026-11-18'
   relation: related
   strength: 0.7372
+analyses:
+- '2026-11-20-trump-leaves-shenzhen-with-a-process-commitment-not-the-nuclear-agreement-sought'
 ---
 ## Trump plans Friday press conference after nuclear summit ends without agreement
 
@@ -265,3 +267,8 @@ At a banquet for Asia-Pacific leaders, Trump walked alone and slowly down the re
 **Publication date:** 2026-11-20
 **Title:** Trump Escapes Turmoil at Home by Seeking Out a Friendlier Audience Abroad
 **URL:** https://www.wsj.com/politics/policy/trump-escapes-turmoil-at-home-by-seeking-out-a-friendlier-audience-abroad-da8c04d0
+
+---
+
+<!-- analysis-link:2026-11-20-trump-leaves-shenzhen-with-a-process-commitment-not-the-nuclear-agreement-sought -->
+**Going deeper:** [Read MSI's analysis of the summit without a nuclear agreement →](/analyses/2026-11-20-trump-leaves-shenzhen-with-a-process-commitment-not-the-nuclear-agreement-sought)
