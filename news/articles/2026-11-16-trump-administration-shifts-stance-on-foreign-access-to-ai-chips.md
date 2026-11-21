@@ -34,7 +34,8 @@ topic_tags:
 - artificial intelligence
 - computing and information technology
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- foreign-access-restrictions-on-united-states-artificial-intelligence-chi
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -197,6 +198,7 @@ related_stories:
   relation: related
   strength: 0.7355
 ---
+
 ## Trump administration shifts stance on foreign access to AI chips
 
 **Subtype:** fact

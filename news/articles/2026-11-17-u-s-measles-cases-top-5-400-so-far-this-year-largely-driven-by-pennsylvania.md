@@ -46,7 +46,8 @@ topic_tags:
 - health
 - disease and condition
 - epidemic and pandemic
-storyline_nexus: []
+storyline_nexus:
+- u-s-measles-outbreak-status
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -210,6 +211,7 @@ related_stories:
   relation: related
   strength: 0.8179
 ---
+
 ## U.S. measles cases top 5,400 so far this year, largely driven by Pennsylvania
 
 **Subtype:** fact

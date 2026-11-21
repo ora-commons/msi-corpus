@@ -39,7 +39,8 @@ primary_themes:
 topic_tags:
 - health
 - public health
-storyline_nexus: []
+storyline_nexus:
+- u-s-measles-outbreak-status
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.8098
 ---
+
 ## Some experts say no Kennedy or CDC measles briefing is scheduled
 
 **Subtype:** fact
