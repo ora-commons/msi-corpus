@@ -1,9 +1,24 @@
 ---
 headline: Bruce Schneier attributes recent technology outages to economic incentives
-secondary_headline: Non-NSA outages were not cyber-attacks and did not appear AI-related; NSA case unknown, Schneier says
+secondary_headline: Non-NSA outages were not cyber-attacks and did not appear AI-related;
+  NSA case unknown, Schneier says
 publish_date: '2026-11-20'
-lede: Bruce Schneier argues in a Nov. 20, 2026, opinion column in The Guardian that outages at Microsoft, the FAA, a handful of banks, United Airlines and Apple were unrelated, were not the result of any cyber-attack and did not appear to be the result of artificial intelligence. Schneier says nothing can be known about an outage at an unnamed classified NSA network and that its details may never be known. He attributes the fragility of the infrastructure to economic incentives that treat reliability, resilience and redundancy as costs rather than sources of near-term profit, and calls for regulation with enforcement and meaningful fines, and stringent antitrust enforcement.
-nut_graf: Schneier argues that the outages illustrate how the costs of failure get pushed onto society, and that more such failures should be expected until those incentives change. His proposed remedies — regulation with meaningful fines and stringent antitrust enforcement — target the economics of maintaining the systems rather than the technical breakdowns alone, though he writes that implementation is harder in the United States, where monied interests hold a tight grip on the legislative agenda.
+lede: Bruce Schneier argues in a Nov. 20, 2026, opinion column in The Guardian that
+  outages at Microsoft, the FAA, a handful of banks, United Airlines and Apple were
+  unrelated, were not the result of any cyber-attack and did not appear to be the
+  result of artificial intelligence. Schneier says nothing can be known about an outage
+  at an unnamed classified NSA network and that its details may never be known. He
+  attributes the fragility of the infrastructure to economic incentives that treat
+  reliability, resilience and redundancy as costs rather than sources of near-term
+  profit, and calls for regulation with enforcement and meaningful fines, and stringent
+  antitrust enforcement.
+nut_graf: Schneier argues that the outages illustrate how the costs of failure get
+  pushed onto society, and that more such failures should be expected until those
+  incentives change. His proposed remedies — regulation with meaningful fines and
+  stringent antitrust enforcement — target the economics of maintaining the systems
+  rather than the technical breakdowns alone, though he writes that implementation
+  is harder in the United States, where monied interests hold a tight grip on the
+  legislative agenda.
 primary_entities:
 - Bruce Schneier
 - Microsoft
@@ -41,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +159,44 @@ related_stories:
   headline: Tech outages prompt scrutiny of U.S. digital vulnerabilities
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7925
+  strength: 0.7905
 - slug: 2026-11-18-ai-speeds-up-software-flaw-discovery-as-update-failures-disrupt-services
   headline: AI speeds up software flaw discovery as update failures disrupt services
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7243
+  strength: 0.7246
 - slug: 2026-11-19-a-week-of-tech-outages-disrupts-flights-banking-and-email
   headline: A week of tech outages disrupts flights, banking and email
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7097
+  strength: 0.7094
 - slug: 2026-11-17-trump-faces-pressure-to-explain-wave-of-service-outages
   headline: Trump faces pressure to explain wave of service outages
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6962
+  strength: 0.6956
 - slug: 2026-11-18-microsoft-fixes-about-1-400-security-flaws-as-outages-fuel-cyberattack-suspicion
-  headline: Microsoft fixes about 1,400 security flaws as outages fuel cyberattack suspicions
+  headline: Microsoft fixes about 1,400 security flaws as outages fuel cyberattack
+    suspicions
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6799
+  strength: 0.6791
 - slug: 2026-11-18-cantwell-and-rounds-seek-cybersecurity-tools-and-protection-for-ai-systems
   headline: Cantwell and Rounds seek cybersecurity tools and protection for AI systems
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6759
+  strength: 0.6758
 - slug: 2026-11-18-mullin-and-clayton-face-house-questions-on-outages-and-immigration-enforcement
   headline: Mullin and Clayton face House questions on outages and immigration enforcement
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6631
-- slug: 2026-11-20-garrison-lovely-urges-frontier-ai-freeze-amid-recent-service-outages
-  headline: Garrison Lovely urges frontier AI freeze amid recent service outages
-  publish_date: '2026-11-20'
-  relation: related
-  strength: 0.6488
+  strength: 0.6618
 - slug: 2026-11-19-sullivan-says-administration-cannot-be-believed-after-technology-outages
   headline: Sullivan says administration cannot be believed after technology outages
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.6533
-- slug: 2026-11-17-apple-restores-many-services-after-update-triggered-outages
-  headline: Apple restores many services after update-triggered outages
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6626
-- slug: 2026-11-18-clayton-says-nationwide-outages-were-not-a-coordinated-attack
-  headline: Clayton says nationwide outages were not a coordinated attack
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.647
-- slug: 2026-11-17-u-s-officials-say-nsa-s-classified-network-is-temporarily-down
-  headline: U.S. officials say NSA's classified network is temporarily down
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.652
-- slug: 2026-11-18-trump-arrives-in-shenzhen-for-trilateral-talks-amid-u-s-outages
-  headline: Trump arrives in Shenzhen for trilateral talks amid U.S. outages
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6421
-- slug: 2026-11-16-chase-clarifies-cross-bank-impact-and-expects-resolution-by-day-s-end
-  headline: Chase clarifies cross-bank impact and expects resolution by day's end
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6544
-- slug: 2026-11-16-united-pilots-union-memo-details-airline-s-web-based-outage
-  headline: United pilots' union memo details airline's web-based outage
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6531
-- slug: 2026-11-17-nsanet-outage-leaves-cause-and-full-restoration-unclear
-  headline: NSANet outage leaves cause and full restoration unclear
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6457
-- slug: 2026-11-18-duffy-and-mullin-draw-criticism-over-faa-ground-stop-explanation
-  headline: Duffy and Mullin draw criticism over FAA ground-stop explanation
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6377
-- slug: 2026-11-15-ground-stop-microsoft-outage-leave-travelers-doubting-official-accounts
-  headline: Ground stop, Microsoft outage leave travelers doubting official accounts
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6483
-- slug: 2026-11-13-arroyo-says-nationwide-air-traffic-outage-could-stem-from-obsolete-technology
-  headline: Arroyo says nationwide air traffic outage could stem from obsolete technology
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6528
-- slug: 2026-09-19-ai-executives-call-for-slowdown-after-openai-swarm-cyberattack
-  headline: AI executives call for slowdown after OpenAI swarm cyberattack
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.635
+  strength: 0.6539
 ---
-
 ## Bruce Schneier attributes recent technology outages to economic incentives
 
 **Subtype:** fact

@@ -1,9 +1,21 @@
 ---
-headline: Whitehouse says Senate bill would make data centers pay for the power they use
-secondary_headline: Nationwide kilowatt-hour costs rose more than 6% in one year and 39% in five years
+headline: Whitehouse says Senate bill would make data centers pay for the power they
+  use
+secondary_headline: Nationwide kilowatt-hour costs rose more than 6% in one year and
+  39% in five years
 publish_date: '2026-11-20'
-lede: 'Nationwide, the cost of a kilowatt-hour rose faster than overall inflation: more than 6% in the last year and 39% in the last five years, NPR reported. Rhode Island Democratic Sen. Sheldon Whitehouse, a co-author of the Bipartisan American Affordability and Jobs Act, said the measure would make data centers pay for the power they use. Fourteen Democrats and one Independent joined most Republicans in the 62-33 Senate vote, which sent the measure to the House.'
-nut_graf: The measure would speed approvals for data centers and power plants. Whitehouse said the bill would make data centers pay for their power use and bring relief to household energy bills if the House follows suit. Environmental groups said the bill would weaken environmental accountability, many Democrats said it would worsen pollution and weaken clean air and water protections, and other critics warned it could undermine tribal rights.
+lede: 'Nationwide, the cost of a kilowatt-hour rose faster than overall inflation:
+  more than 6% in the last year and 39% in the last five years, NPR reported. Rhode
+  Island Democratic Sen. Sheldon Whitehouse, a co-author of the Bipartisan American
+  Affordability and Jobs Act, said the measure would make data centers pay for the
+  power they use. Fourteen Democrats and one Independent joined most Republicans in
+  the 62-33 Senate vote, which sent the measure to the House.'
+nut_graf: The measure would speed approvals for data centers and power plants. Whitehouse
+  said the bill would make data centers pay for their power use and bring relief to
+  household energy bills if the House follows suit. Environmental groups said the
+  bill would weaken environmental accountability, many Democrats said it would worsen
+  pollution and weaken clean air and water protections, and other critics warned it
+  could undermine tribal rights.
 primary_entities:
 - Sheldon Whitehouse
 - John Thune
@@ -50,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,113 +165,56 @@ related_stories:
   headline: Senate moves toward vote on energy bill with data-center cost rules
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.7645
+  strength: 0.7651
 - slug: 2026-11-20-senate-passes-permitting-overhaul-bill-moves-to-house
   headline: Senate passes permitting overhaul; bill moves to House
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.7473
+  strength: 0.7488
 - slug: 2026-11-17-senate-advances-permitting-reform-amendment-toward-final-vote
   headline: Senate advances permitting reform amendment toward final vote
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7068
-- slug: 2026-11-17-house-democrats-seek-national-moratorium-on-new-ai-data-centers
-  headline: House Democrats seek national moratorium on new AI data centers
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7062
+  strength: 0.7067
 - slug: 2026-11-17-south-dakota-republicans-split-over-federal-permitting-bill
   headline: South Dakota Republicans split over federal permitting bill
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.704
-- slug: 2026-11-19-u-s-commercial-electricity-demand-set-to-surpass-residential-use
-  headline: U.S. commercial electricity demand set to surpass residential use
-  publish_date: '2026-11-19'
+  strength: 0.7062
+- slug: 2026-11-17-house-democrats-seek-national-moratorium-on-new-ai-data-centers
+  headline: House Democrats seek national moratorium on new AI data centers
+  publish_date: '2026-11-17'
   relation: related
-  strength: 0.6838
+  strength: 0.7047
 - slug: 2026-11-10-senate-takes-up-infrastructure-permitting-overhaul
   headline: Senate takes up infrastructure permitting overhaul
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7353
+  strength: 0.735
 - slug: 2026-11-09-senate-prepares-procedural-vote-on-bipartisan-energy-permitting-bill
   headline: Senate prepares procedural vote on bipartisan energy permitting bill
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7341
+  strength: 0.7335
 - slug: 2026-11-16-al-gore-urges-lawmakers-to-rethink-baaja-permitting-bill
   headline: Al Gore urges lawmakers to rethink Baaja permitting bill
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6866
-- slug: 2026-11-05-senate-nears-vote-on-bipartisan-energy-permitting-overhaul
-  headline: Senate nears vote on bipartisan energy permitting overhaul
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7388
-- slug: 2026-11-09-permitting-deal-could-ease-energy-prices-through-added-supply
-  headline: Permitting deal could ease energy prices through added supply
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7126
-- slug: 2026-11-13-senate-advances-permitting-overhaul-to-speed-federal-project-approvals
-  headline: Senate advances permitting overhaul to speed federal project approvals
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6841
-- slug: 2026-11-09-studied-hyperscale-data-centers-collectively-used-68-to-99-terawatt-hours-a-year
-  headline: Studied hyperscale data centers collectively used 68 to 99 terawatt hours a year
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6956
-- slug: 2026-11-02-electricity-bills-enter-2026-midterm-campaigns
-  headline: Electricity bills enter 2026 midterm campaigns
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7182
-- slug: 2026-11-05-democrats-link-climate-policy-to-affordability-in-2026-midterm-wins
-  headline: Democrats link climate policy to affordability in 2026 midterm wins
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6908
-- slug: 2026-09-30-bipartisan-senators-introduce-bill-to-speed-federal-energy-permitting
-  headline: Bipartisan senators introduce bill to speed federal energy permitting
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7696
-- slug: 2026-09-29-us-electricity-shutoffs-rise-28-in-hottest-month-on-record-data-shows
-  headline: US electricity shutoffs rise 28% in hottest month on record, data shows
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6907
-- slug: 2026-09-30-senate-democrats-block-ratepayer-protection-act-on-datacenter-costs
-  headline: Senate Democrats block Ratepayer Protection Act on datacenter costs
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6857
-- slug: 2026-07-05-house-subcommittee-advances-ratepayer-protection-act-as-consumer-groups-call-it-
-  headline: House subcommittee advances Ratepayer Protection Act as consumer groups call it inadequate
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.7454
-- slug: 2026-02-13-rising-energy-costs-fuel-calls-for-data-centers-to-pay-their-own-way
-  headline: Rising energy costs fuel calls for data centers to pay their own way
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7359
+  strength: 0.6862
 image:
   url: /articles/2026-11-20-whitehouse-says-senate-bill-would-make-data-centers-pay-for-the-power-they-use.png
-  alt: "Illustration accompanying article: Whitehouse says Senate bill would make data centers pay for the power they use"
+  alt: 'Illustration accompanying article: Whitehouse says Senate bill would make
+    data centers pay for the power they use'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Whitehouse says Senate bill would make data centers pay for the power they use
 
 **Subtype:** fact

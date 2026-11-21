@@ -32,7 +32,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,104 +55,43 @@ related_stories:
   headline: IMF chief says AI demand will force central banks to raise interest rates
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.6659
+  strength: 0.6657
 - slug: 2026-11-08-joe-maher-says-us-midterms-could-spark-a-longer-ai-equity-unwind
   headline: Joe Maher says US midterms could spark a longer AI equity unwind
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6695
+  strength: 0.6703
 - slug: 2026-10-29-some-companies-rehire-laid-off-workers-as-ai-tools-fall-short
   headline: Some companies rehire laid-off workers as AI tools fall short
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6969
+  strength: 0.6984
 - slug: 2026-10-23-ai-job-loss-warnings-renew-interest-in-a-federal-job-guarantee
   headline: AI job-loss warnings renew interest in a federal job guarantee
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6991
+  strength: 0.6999
 - slug: 2026-10-26-ai-data-center-investment-likely-tops-700-billion-as-costs-rise
   headline: AI data-center investment likely tops $700 billion as costs rise
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6618
+  strength: 0.6625
 - slug: 2026-10-23-barclays-plans-5-000-job-cuts-amid-ai-driven-technology-changes
   headline: Barclays plans 5,000 job cuts amid AI-driven technology changes
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.6593
+  strength: 0.6599
 - slug: 2026-10-02-ai-sector-needs-9-of-us-gdp-in-revenue-by-2032-analysis-finds
   headline: AI sector needs 9% of US GDP in revenue by 2032, analysis finds
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6771
+  strength: 0.6776
 - slug: 2026-09-18-pew-finds-majority-in-34-of-37-countries-expect-ai-to-reduce-jobs
   headline: Pew finds majority in 34 of 37 countries expect AI to reduce jobs
   publish_date: '2026-09-18'
   relation: related
-  strength: 0.6945
-- slug: 2026-09-20-ai-hyperscalers-132bn-datacentre-debt-raises-bubble-collapse-risk
-  headline: AI hyperscalers' $132bn datacentre debt raises bubble-collapse risk
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6608
-- slug: 2026-08-04-world-bank-says-developing-economies-face-lower-ai-job-exposure
-  headline: World Bank says developing economies face lower AI job exposure
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6921
-- slug: 2026-06-10-economists-mostly-agree-ai-will-boost-productivity-split-on-job-impact
-  headline: Economists mostly agree AI will boost productivity, split on job impact
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7179
-- slug: 2026-08-19-global-bond-selloff-drives-up-borrowing-costs-little-relief-in-sight
-  headline: Global bond selloff drives up borrowing costs, little relief in sight
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6515
-- slug: 2026-08-09-moody-s-warns-banks-ai-reliance-on-few-providers-poses-systemic-risk
-  headline: Moody's warns banks' AI reliance on few providers poses systemic risk
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.6516
-- slug: 2026-06-25-new-bipartisan-coalition-aims-to-prepare-u-s-workers-for-ai-upheaval
-  headline: New bipartisan coalition aims to prepare U.S. workers for AI upheaval
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.679
-- slug: 2026-07-24-schneier-proposes-work-vs-gym-test-for-ai-use-decisions
-  headline: Schneier proposes 'work vs gym' test for AI use decisions
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6564
-- slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6633
-- slug: 2026-06-13-experts-warn-ai-could-double-gdp-growth-while-fueling-underemployment-and-unrest
-  headline: Experts warn AI could double GDP growth while fueling underemployment and unrest
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6758
-- slug: 2026-06-11-ai-convenience-may-harm-health-researchers-warn
-  headline: AI convenience may harm health, researchers warn
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6718
-- slug: 2026-05-15-companies-from-cisco-to-meta-cite-ai-as-layoffs-mount
-  headline: Companies from Cisco to Meta cite AI as layoffs mount
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6699
-- slug: 2026-06-04-economists-offer-competing-visions-to-reduce-u-s-income-inequality
-  headline: Economists offer competing visions to reduce U.S. income inequality
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6624
+  strength: 0.6952
 ---
-
 ## Moore says AI strains lowest-paid workers and urges universal basic services
 
 **Subtype:** causal_claim
