@@ -226,6 +226,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-20-senate-energy-bill-nears-passage-with-implementation-risks-unresolved'
 ---
 ## Senate moves toward vote on energy bill with data-center cost rules
 
@@ -271,3 +273,8 @@ Former Energy Secretary Jennifer Granholm, who led the agency in the Biden admin
 **Publication date:** 2026-11-20
 **Title:** Senate bill to overhaul US energy sectors, but critics want safeguards
 **URL:** https://apnews.com/article/energy-permitting-data-center-power-grid-trump-b41c2017e4a9fe2e6de92ec77a4cdd0a
+
+---
+
+<!-- analysis-link:2026-11-20-senate-energy-bill-nears-passage-with-implementation-risks-unresolved -->
+**Going deeper:** [Read MSI's analysis of data-center costs and permitting safeguards →](/analyses/2026-11-20-senate-energy-bill-nears-passage-with-implementation-risks-unresolved)

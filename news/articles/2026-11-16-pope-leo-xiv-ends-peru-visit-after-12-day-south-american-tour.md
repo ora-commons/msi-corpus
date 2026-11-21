@@ -28,7 +28,8 @@ topic_tags:
 - human interest
 - religion
 - travel
-storyline_nexus: []
+storyline_nexus:
+- pope-leo-xiv-south-american-tour
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -189,6 +190,7 @@ related_stories:
   relation: related
   strength: 0.689
 ---
+
 ## Pope Leo XIV ends Peru visit after 12-day South American tour
 
 **Subtype:** fact

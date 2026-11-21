@@ -34,7 +34,8 @@ primary_themes:
 - papal travel
 topic_tags:
 - discrimination
-storyline_nexus: []
+storyline_nexus:
+- pope-leo-xiv-south-american-tour
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.6814
 ---
+
 ## Pope Leo XIV to visit Zaña, Peru's hub of Afro-Peruvian culture
 
 **Subtype:** fact

@@ -2,8 +2,17 @@
 headline: Anthropic reaches $2 trillion as protesters challenge its IPO
 secondary_headline: Dario Amodei and six co-founders each made about $280 million
 publish_date: '2026-11-20'
-lede: Anthropic completed its first day of public trading on Thursday with a valuation of about $2 trillion, while a small group protested in Times Square and activists and AI safety researchers gathered outside the company's downtown San Francisco headquarters. A handful of protesters were arrested in both cities. CEO Dario Amodei said Anthropic remained committed to keeping AI under human control and resisting business and political pressure.
-nut_graf: The debut gives Anthropic substantial new funding as critics question whether the company can responsibly steward AI technology. Anthropic says commercial success need not require a retreat from safety commitments, while activists and AI safety researchers gathered at Anthropic's San Francisco headquarters called for slower AI development and state regulation.
+lede: Anthropic completed its first day of public trading on Thursday with a valuation
+  of about $2 trillion, while a small group protested in Times Square and activists
+  and AI safety researchers gathered outside the company's downtown San Francisco
+  headquarters. A handful of protesters were arrested in both cities. CEO Dario Amodei
+  said Anthropic remained committed to keeping AI under human control and resisting
+  business and political pressure.
+nut_graf: The debut gives Anthropic substantial new funding as critics question whether
+  the company can responsibly steward AI technology. Anthropic says commercial success
+  need not require a retreat from safety commitments, while activists and AI safety
+  researchers gathered at Anthropic's San Francisco headquarters called for slower
+  AI development and state regulation.
 primary_entities:
 - Anthropic
 - Claude
@@ -48,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +160,47 @@ related_stories:
   headline: Anthropic faces data-center protests and policy risks
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.8305
+  strength: 0.83
 - slug: 2026-11-19-anthropic-opens-nasdaq-trading-after-a-record-ipo
   headline: Anthropic opens Nasdaq trading after a record IPO
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7998
+  strength: 0.7996
 - slug: 2026-11-20-researcher-resignation-and-faster-development-test-anthropic-s-safety-pledge
-  headline: Researcher resignation and faster development test Anthropic's safety pledge
+  headline: Researcher resignation and faster development test Anthropic's safety
+    pledge
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.7901
+  strength: 0.791
 - slug: 2026-11-19-anthropic-opens-trading-with-a-2-01-trillion-valuation-setting-an-ipo-record
-  headline: Anthropic opens trading with a $2.01 trillion valuation, setting an IPO record
+  headline: Anthropic opens trading with a $2.01 trillion valuation, setting an IPO
+    record
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7934
+  strength: 0.7937
 - slug: 2026-11-19-anthropic-s-107-3bn-ipo-total-follows-a-nasdaq-composite-pullback-over-10
-  headline: Anthropic's $107.3bn IPO total follows a Nasdaq Composite pullback over 10%
+  headline: Anthropic's $107.3bn IPO total follows a Nasdaq Composite pullback over
+    10%
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7915
+  strength: 0.7927
 - slug: 2026-11-18-anthropic-s-ipo-arrives-amid-debt-and-company-disclosed-900-billion-commitments
   headline: Anthropic's IPO arrives amid debt and company-disclosed $900 billion commitments
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7948
+  strength: 0.7952
 - slug: 2026-11-19-anthropic-closes-ipo-debut-at-97-after-nearing-2-trillion
   headline: Anthropic closes IPO debut at $97 after nearing $2 trillion
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7861
+  strength: 0.7866
 - slug: 2026-11-18-anthropic-set-to-become-the-first-us-company-focused-solely-on-ai-to-go-public
-  headline: Anthropic set to become the first US company focused solely on AI to go public
+  headline: Anthropic set to become the first US company focused solely on AI to go
+    public
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7912
-- slug: 2026-11-19-dan-ives-sees-anthropic-ipo-demand-rich-lesser-sees-mostly-upward-ai-valuations
-  headline: Dan Ives sees Anthropic IPO demand; Rich Lesser sees mostly upward AI valuations
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7784
-- slug: 2026-11-18-anthropic-sets-ipo-share-price-at-83-ahead-of-nasdaq-debut
-  headline: Anthropic sets IPO share price at $83 ahead of Nasdaq debut
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7778
-- slug: 2026-11-18-anthropic-raises-79-4-billion-in-record-ipo
-  headline: Anthropic raises $79.4 billion in record IPO
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7586
-- slug: 2026-11-18-anthropic-s-ipo-nears-trading-at-a-70-to-78-share-price-range
-  headline: Anthropic's IPO nears trading at a $70 to $78 share price range
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7376
-- slug: 2026-11-10-anthropic-sets-ipo-terms-at-up-to-1-4-trillion-below-reported-2-trillion-goal
-  headline: Anthropic sets IPO terms at up to $1.4 trillion, below reported $2 trillion goal
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7579
-- slug: 2026-11-05-anthropic-is-developing-ai-twice-as-fast-as-a-year-ago-review-finds
-  headline: Anthropic is developing AI twice as fast as a year ago, review finds
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.7511
-- slug: 2026-10-26-anthropic-files-ipo-papers-as-reports-put-proceeds-at-up-to-100-billion
-  headline: Anthropic files IPO papers as reports put proceeds at up to $100 billion
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7995
-- slug: 2026-11-02-anthropic-adds-quarterly-results-to-its-updated-ipo-filing
-  headline: Anthropic adds quarterly results to its updated IPO filing
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.7463
-- slug: 2026-10-26-anthropic-ipo-filing-shows-131-7-billion-cash-72-4-billion-one-time-charge
-  headline: Anthropic IPO filing shows $131.7 billion cash, $72.4 billion one-time charge
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7765
-- slug: 2026-10-26-anthropic-files-for-ipo-with-16-286bn-revenue-and-80bn-loss
-  headline: Anthropic files for IPO with $16.286bn revenue and $80bn loss
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7611
-- slug: 2026-10-26-anthropic-says-ai-research-could-outpace-model-safeguards
-  headline: Anthropic says AI research could outpace model safeguards
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7533
-- slug: 2026-10-27-anthropic-details-nearly-9-billion-in-ai-infrastructure-spending-in-its-ipo-fili
-  headline: Anthropic details nearly $9 billion in AI infrastructure spending in its IPO filing
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.7447
+  strength: 0.7915
 ---
-
 ## Anthropic reaches $2 trillion as protesters challenge its IPO
 
 **Subtype:** fact

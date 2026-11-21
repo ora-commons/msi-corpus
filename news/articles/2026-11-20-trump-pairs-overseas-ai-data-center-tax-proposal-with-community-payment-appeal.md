@@ -1,9 +1,24 @@
 ---
-headline: Trump pairs overseas AI data-center tax proposal with community payment appeal
-secondary_headline: Tech industry ramps financial incentives; Google and Meta seek transparency
+headline: Trump pairs overseas AI data-center tax proposal with community payment
+  appeal
+secondary_headline: Tech industry ramps financial incentives; Google and Meta seek
+  transparency
 publish_date: '2026-11-20'
-lede: WASHINGTON — President Donald Trump said Friday that U.S. technology companies will face “a tremendous tax” if they build artificial intelligence data centers in other countries. He provided no details and said he had not yet told his own officials about the plan. The proposal came as Democrats took control of Congress following a midterm campaign in which opposition to data centers became a potent issue.
-nut_graf: The proposal would make overseas construction costly for U.S. technology companies. Anti-data-center sentiment was a potent issue in the midterm elections, in which Democrats took control of Congress. America’s technology giants responded by promising to take fewer taxpayer handouts, keep fewer secrets or provide more money to communities willing to permit data centers. Google and Meta officials said their companies are trying to address mistrust by being more transparent with communities where they would like to build. The Associated Press reported that a tougher regulatory environment for AI giants and data-center developers is expected even if Trump stalls federal regulatory restrictions.
+lede: WASHINGTON — President Donald Trump said Friday that U.S. technology companies
+  will face “a tremendous tax” if they build artificial intelligence data centers
+  in other countries. He provided no details and said he had not yet told his own
+  officials about the plan. The proposal came as Democrats took control of Congress
+  following a midterm campaign in which opposition to data centers became a potent
+  issue.
+nut_graf: The proposal would make overseas construction costly for U.S. technology
+  companies. Anti-data-center sentiment was a potent issue in the midterm elections,
+  in which Democrats took control of Congress. America’s technology giants responded
+  by promising to take fewer taxpayer handouts, keep fewer secrets or provide more
+  money to communities willing to permit data centers. Google and Meta officials said
+  their companies are trying to address mistrust by being more transparent with communities
+  where they would like to build. The Associated Press reported that a tougher regulatory
+  environment for AI giants and data-center developers is expected even if Trump stalls
+  federal regulatory restrictions.
 primary_entities:
 - Donald Trump
 - Google
@@ -47,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,32 +165,33 @@ related_stories:
   headline: Trump details AI jail threat and expected cabinet changes after elections
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.7194
+  strength: 0.7192
 - slug: 2026-11-06-ai-companies-reassess-data-center-plans-after-midterm-wins-for-freeze-candidates
-  headline: AI companies reassess data-center plans after midterm wins for freeze candidates
+  headline: AI companies reassess data-center plans after midterm wins for freeze
+    candidates
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7257
+  strength: 0.7254
 - slug: 2026-10-21-trump-proposes-own-electricity-and-community-dividends-for-new-data-centers
   headline: Trump proposes own electricity and community dividends for new data centers
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.796
+  strength: 0.7958
 - slug: 2026-11-06-data-center-skeptics-win-across-us-midterms-as-tougher-state-rules-loom
   headline: Data center skeptics win across US midterms as tougher state rules loom
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7143
+  strength: 0.7149
 - slug: 2026-11-06-sanders-and-newly-elected-democrats-call-for-data-center-moratoriums
   headline: Sanders and newly elected Democrats call for data center moratoriums
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7109
+  strength: 0.7106
 - slug: 2026-10-22-local-resistance-pressures-tech-giants-ahead-of-the-u-s-midterms
   headline: Local resistance pressures tech giants ahead of the U.S. midterms
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7485
+  strength: 0.7483
 - slug: 2026-10-14-data-center-backlash-forces-bipartisan-repositioning-ahead-of-us-midterms
   headline: Data center backlash forces bipartisan repositioning ahead of US midterms
   publish_date: '2026-10-14'
@@ -184,69 +201,8 @@ related_stories:
   headline: Tech CEOs sign 'morally binding' AI safety pledge at White House
   publish_date: '2026-09-30'
   relation: related
-  strength: 0.732
-- slug: 2026-09-07-trump-tech-leaders-suggest-china-is-behind-data-center-opposition
-  headline: Trump, tech leaders suggest China is behind data-center opposition
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.7772
-- slug: 2026-08-20-trump-promotes-data-centers-as-senate-gop-arm-warns-of-voter-anger
-  headline: Trump promotes data centers as Senate GOP arm warns of voter anger
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.8067
-- slug: 2026-09-29-trump-rejects-joint-us-china-ai-venture-at-america-gov-launch
-  headline: Trump rejects joint US-China AI venture at America.gov launch
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7125
-- slug: 2026-09-29-trump-tech-ceos-sign-morally-binding-voluntary-ai-self-policing-deal
-  headline: Trump, tech CEOs sign 'morally binding' voluntary AI self-policing deal
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.7116
-- slug: 2026-09-19-trump-launches-ai-force-oversight-unit-recruiting-ai-czar
-  headline: Trump launches 'AI Force' oversight unit, recruiting AI czar
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.7207
-- slug: 2026-08-31-more-than-70-oppose-nearby-data-centers-as-abbott-shapiro-curb-approvals
-  headline: More than 70% oppose nearby data centers as Abbott, Shapiro curb approvals
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.7588
-- slug: 2026-08-26-snowballing-data-center-opposition-reshapes-us-midterm-contests
-  headline: Snowballing data center opposition reshapes US midterm contests
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.7557
-- slug: 2026-09-14-trump-calls-ai-safety-concerns-a-hoax-warns-regulation-would-aid-china
-  headline: Trump calls AI safety concerns a hoax, warns regulation would aid China
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7107
-- slug: 2026-09-09-more-than-10-states-pause-or-cancel-data-center-tax-exemptions
-  headline: More than 10 states pause or cancel data center tax exemptions
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.7101
-- slug: 2026-08-19-tech-giants-step-up-community-investments-to-counter-ai-data-center-opposition
-  headline: Tech giants step up community investments to counter AI data-center opposition
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.718
-- slug: 2026-08-23-data-center-opposition-mounts-as-tech-giants-court-communities
-  headline: Data center opposition mounts as tech giants court communities
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.7101
-- slug: 2026-07-21-utilities-covering-80-of-u-s-power-sign-trump-ai-pledge-enforcement-uncertain
-  headline: Utilities covering 80% of U.S. power sign Trump AI pledge, enforcement uncertain
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7331
+  strength: 0.7313
 ---
-
 ## Trump pairs overseas AI data-center tax proposal with community payment appeal
 
 **Subtype:** fact
