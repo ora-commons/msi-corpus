@@ -1,9 +1,19 @@
 ---
 headline: Fair Fight is winding down voting operations as Abrams prepares a new mission
-secondary_headline: Cross-state coordination will continue under Fair Fight's new structure
+secondary_headline: Cross-state coordination will continue under Fair Fight's new
+  structure
 publish_date: '2026-11-20'
-lede: Stacey Abrams said Fair Fight is winding down its voting-focused operations and plans to unveil a new structure and mission in the new year. She said the new mission will strengthen democratic processes and confront what she describes as authoritarian maneuvers in state and local governments. Abrams told The Associated Press the change is necessary as President Donald Trump's second term enters its final two years and Democrats take control of Capitol Hill in January.
-nut_graf: The planned change broadens Fair Fight's mission rather than ending its work, and Abrams said she is not abandoning voting rights. Lauren Groh-Wargo said the group will continue coordinating organizations across multiple states, while supporters said donors and activists should not treat the shift or the November Democratic victories as a reason to let up.
+lede: Stacey Abrams said Fair Fight is winding down its voting-focused operations
+  and plans to unveil a new structure and mission in the new year. She said the new
+  mission will strengthen democratic processes and confront what she describes as
+  authoritarian maneuvers in state and local governments. Abrams told The Associated
+  Press the change is necessary as President Donald Trump's second term enters its
+  final two years and Democrats take control of Capitol Hill in January.
+nut_graf: The planned change broadens Fair Fight's mission rather than ending its
+  work, and Abrams said she is not abandoning voting rights. Lauren Groh-Wargo said
+  the group will continue coordinating organizations across multiple states, while
+  supporters said donors and activists should not treat the shift or the November
+  Democratic victories as a reason to let up.
 primary_entities:
 - Stacey Abrams
 - Fair Fight
@@ -52,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,108 +161,34 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-19-democrats-bring-election-funding-proposals-to-incoming-congress
-  headline: Democrats bring election funding proposals to incoming Congress
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.642
-- slug: 2026-11-17-democrats-gain-oversight-power-over-ice-after-midterm-wins
-  headline: Democrats gain oversight power over ICE after midterm wins
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6407
 - slug: 2026-11-12-some-gun-rights-advocates-seek-democratic-allies-after-midterm-election-wins
-  headline: Some gun rights advocates seek Democratic allies after midterm election wins
+  headline: Some gun rights advocates seek Democratic allies after midterm election
+    wins
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6562
+  strength: 0.6553
 - slug: 2026-11-11-democrats-push-bipartisan-immigration-reform-after-midterm-voter-backlash
   headline: Democrats push bipartisan immigration reform after midterm voter backlash
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.654
+  strength: 0.6531
 - slug: 2026-11-04-stacey-abrams-says-georgia-wins-offer-chance-to-restore-rights-across-the-south
-  headline: Stacey Abrams says Georgia wins offer chance to restore rights across the South
+  headline: Stacey Abrams says Georgia wins offer chance to restore rights across
+    the South
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6846
-- slug: 2026-11-11-swing-voters-want-democrats-to-focus-on-affordability-not-impeachment
-  headline: Swing voters want Democrats to focus on affordability, not impeachment
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6317
-- slug: 2026-11-07-most-midterm-voters-say-trump-s-immigration-enforcement-has-gone-too-far
-  headline: Most midterm voters say Trump's immigration enforcement has gone too far
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.65
-- slug: 2026-11-09-democrats-prepare-oversight-of-trump-s-education-policies
-  headline: Democrats prepare oversight of Trump's education policies
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6328
+  strength: 0.6834
 - slug: 2026-11-03-early-voting-advances-as-trump-administration-pressures-state-elections
   headline: Early voting advances as Trump administration pressures state elections
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6542
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6394
-- slug: 2026-11-04-trump-pairs-conciliatory-remarks-with-veto-hat-as-democrats-face-governing-test
-  headline: Trump pairs conciliatory remarks with VETO hat as Democrats face governing test
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6341
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6335
-- slug: 2026-11-03-democrats-win-senate-majority-adding-checks-on-trump
-  headline: Democrats win Senate majority, adding checks on Trump
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6299
+  strength: 0.6529
 - slug: 2026-10-22-ford-foundation-redirects-spending-toward-democratic-institutions
   headline: Ford Foundation redirects spending toward democratic institutions
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6731
-- slug: 2026-09-29-omb-draft-rule-would-ban-federal-grants-for-voter-registration-drives
-  headline: OMB draft rule would ban federal grants for voter registration drives
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6289
-- slug: 2026-09-13-obama-presses-jeffries-on-sweeping-ai-safety-framework
-  headline: Obama presses Jeffries on sweeping AI safety framework
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.6285
-- slug: 2026-08-13-jeffries-says-democrats-would-overhaul-supreme-court-if-they-regain-power
-  headline: Jeffries says Democrats would overhaul Supreme Court if they regain power
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6495
-- slug: 2026-05-14-jeffries-faces-harder-path-to-house-control-after-court-resets-maps
-  headline: Jeffries faces harder path to House control after court resets maps
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6407
-- slug: 2026-06-12-southern-activists-mobilize-after-supreme-court-weakens-voting-rights-act
-  headline: Southern activists mobilize after Supreme Court weakens Voting Rights Act
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6288
-- slug: 2026-03-12-democratic-led-states-seek-to-block-federal-agents-from-polling-places
-  headline: Democratic-led states seek to block federal agents from polling places
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.646
+  strength: 0.6732
 ---
-
 ## Fair Fight is winding down voting operations as Abrams prepares a new mission
 
 **Subtype:** fact

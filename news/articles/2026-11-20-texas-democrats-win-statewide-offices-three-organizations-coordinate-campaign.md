@@ -1,9 +1,20 @@
 ---
 headline: Texas Democrats win statewide offices; three organizations coordinate campaign
-secondary_headline: Texas Together shared quantitative voter data and split specialized work
+secondary_headline: Texas Together shared quantitative voter data and split specialized
+  work
 publish_date: '2026-11-20'
-lede: Texas Democrats won a U.S. Senate seat, the governor’s office and a broad slate of down-ballot offices in the 2026 midterms. Texas Together, a $30 million coordinated campaign involving the Texas Democratic Party, Texas Majority Pac and Powered by People, shared quantitative voter data and other resources and joined in organizing and delegating more than 30,000 volunteers. The Guardian reported that the campaign also hosted 40 recruitment rallies, interviewed 1,385 candidates in target districts and recruited 104 candidates for the 2026 election.
-nut_graf: The 2026 results followed losses in 2014, 2018, 2020 and 2024 and demands for sweeping changes inside the Texas Democratic Party. The Guardian described a long sequence of organizational reforms and experiments, including paid civic classes, new approaches to talking with voters, broader affordability and healthcare messages and coordinated work by the state party, Texas Majority Pac and Powered by People.
+lede: Texas Democrats won a U.S. Senate seat, the governor’s office and a broad slate
+  of down-ballot offices in the 2026 midterms. Texas Together, a $30 million coordinated
+  campaign involving the Texas Democratic Party, Texas Majority Pac and Powered by
+  People, shared quantitative voter data and other resources and joined in organizing
+  and delegating more than 30,000 volunteers. The Guardian reported that the campaign
+  also hosted 40 recruitment rallies, interviewed 1,385 candidates in target districts
+  and recruited 104 candidates for the 2026 election.
+nut_graf: The 2026 results followed losses in 2014, 2018, 2020 and 2024 and demands
+  for sweeping changes inside the Texas Democratic Party. The Guardian described a
+  long sequence of organizational reforms and experiments, including paid civic classes,
+  new approaches to talking with voters, broader affordability and healthcare messages
+  and coordinated work by the state party, Texas Majority Pac and Powered by People.
 primary_entities:
 - Texas
 - Texas Democratic Party
@@ -55,7 +66,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,32 +169,33 @@ related_stories:
   headline: Texas GOP announces review after Democrats sweep all statewide offices
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7582
+  strength: 0.7579
 - slug: 2026-11-19-texas-gop-wins-one-of-five-house-targets-after-latino-voter-shift
   headline: Texas GOP wins one of five House targets after Latino voter shift
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7315
+  strength: 0.7302
 - slug: 2026-11-19-democrats-face-divisions-after-winning-both-congressional-chambers
   headline: Democrats face divisions after winning both congressional chambers
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7291
+  strength: 0.7282
 - slug: 2026-11-04-under-30-and-hispanic-texas-senate-voters-back-talarico
   headline: Under-30 and Hispanic Texas Senate voters back Talarico
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.8025
+  strength: 0.8031
 - slug: 2026-11-06-democrats-sweep-every-texas-statewide-office-and-take-control-of-the-statehouse
   headline: Democrats sweep every Texas statewide office and take control of the statehouse
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7873
+  strength: 0.7865
 - slug: 2026-11-06-latino-voters-move-sharply-to-democrats-in-2026-midterms
-  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas sweep
+  headline: Latino voters move sharply to Democrats in 2026 midterms, powering Texas
+    sweep
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7643
+  strength: 0.7651
 - slug: 2026-11-04-james-talarico-defeats-ken-paxton-in-texas-senate-race
   headline: James Talarico defeats Ken Paxton in Texas Senate race
   publish_date: '2026-11-04'
@@ -192,69 +205,8 @@ related_stories:
   headline: Supporters at Austin watch party explain the Texas election result
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.765
-- slug: 2026-11-09-texas-voters-shift-to-democrats-as-immigration-ranks-among-top-issues
-  headline: Texas voters shift to Democrats as immigration ranks among top issues
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.7246
-- slug: 2026-11-04-hinojosa-s-texas-win-followed-a-long-shot-affordability-campaign
-  headline: Hinojosa's Texas win followed a long-shot affordability campaign
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7492
-- slug: 2026-11-04-democrats-win-house-and-senate-in-2026-midterms
-  headline: Democrats win House and Senate in 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7417
-- slug: 2026-11-04-surveys-indicated-texas-hispanic-voters-favored-democrats
-  headline: Surveys indicated Texas Hispanic voters favored Democrats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7307
-- slug: 2026-11-07-texas-democrats-wins-echo-state-s-1890s-populist-movement-commentator-says
-  headline: Texas Democrats' wins echo state's 1890s populist movement, commentator says
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.7129
-- slug: 2026-10-30-paxton-talarico-face-off-as-texas-voters-head-to-polls
-  headline: Paxton, Talarico face off as Texas voters head to polls
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.752
-- slug: 2026-11-01-polls-suggest-talarico-holds-narrow-lead-over-paxton-in-texas-senate-race
-  headline: Polls suggest Talarico holds narrow lead over Paxton in Texas Senate race
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7274
-- slug: 2026-10-29-hispanic-turnout-surges-in-south-texas-as-republicans-face-competitive-races
-  headline: Hispanic turnout surges in South Texas as Republicans face competitive races
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.716
-- slug: 2026-10-23-talarico-and-paxton-enter-final-stretch-of-texas-senate-race
-  headline: Talarico and Paxton enter final stretch of Texas Senate race
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.7233
-- slug: 2026-10-19-democrats-outraise-republicans-in-27-of-35-senate-races
-  headline: Democrats outraise Republicans in 27 of 35 Senate races
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.7256
-- slug: 2026-08-30-talarico-raises-68m-to-paxton-s-9m-as-texas-senate-race-shifts-to-tossup
-  headline: Talarico Raises $68M to Paxton's $9M as Texas Senate Race Shifts to Tossup
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.7272
-- slug: 2026-03-04-texas-and-north-carolina-primaries-offer-early-clues-for-2026-senate-race
-  headline: Texas and North Carolina primaries offer early clues for 2026 Senate race
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7582
+  strength: 0.7644
 ---
-
 ## Texas Democrats win statewide offices; three organizations coordinate campaign
 
 **Subtype:** fact

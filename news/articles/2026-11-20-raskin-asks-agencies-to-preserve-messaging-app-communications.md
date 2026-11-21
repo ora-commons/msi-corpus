@@ -1,8 +1,17 @@
 ---
 headline: Raskin asks agencies to preserve messaging-app communications
 publish_date: '2026-11-20'
-lede: Rep. Jamie Raskin asked top officials at the FBI, Justice Department, Department of Homeland Security, Bureau of Prisons, and Immigration and Customs Enforcement to preserve communications created on nongovernment messaging apps and investigate whether any records related to official business have been deleted. Raskin, the House Judiciary Committee's top Democrat and incoming chairman, made the requests in nearly identical letters made public Friday.
-nut_graf: Raskin's requests concern whether federal agencies retained records tied to official business as government officials increasingly use encrypted messaging apps, including Signal, which can be configured to automatically delete messages after a certain time period. Raskin's letters seek preservation and investigations, while the cited agencies had not immediately responded to the Associated Press.
+lede: Rep. Jamie Raskin asked top officials at the FBI, Justice Department, Department
+  of Homeland Security, Bureau of Prisons, and Immigration and Customs Enforcement
+  to preserve communications created on nongovernment messaging apps and investigate
+  whether any records related to official business have been deleted. Raskin, the
+  House Judiciary Committee's top Democrat and incoming chairman, made the requests
+  in nearly identical letters made public Friday.
+nut_graf: Raskin's requests concern whether federal agencies retained records tied
+  to official business as government officials increasingly use encrypted messaging
+  apps, including Signal, which can be configured to automatically delete messages
+  after a certain time period. Raskin's letters seek preservation and investigations,
+  while the cited agencies had not immediately responded to the Associated Press.
 primary_entities:
 - Jamie Raskin
 - Signal
@@ -50,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,117 +158,62 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-19-fcc-clears-way-for-prison-cellphone-jamming-requests
-  headline: FCC clears way for prison cellphone jamming requests
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.6387
-- slug: 2026-11-18-garcia-asks-13-trump-allies-to-preserve-records-for-january-probes
-  headline: Garcia asks 13 Trump allies to preserve records for January probes
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6425
-- slug: 2026-11-18-robert-garcia-sends-preservation-letters-to-trump-family-and-officials
-  headline: Robert Garcia sends preservation letters to Trump family and officials
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.64
 - slug: 2026-11-12-warren-and-coons-ask-trump-administration-to-preserve-nvidia-chip-export-records
-  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export records
+  headline: Warren and Coons ask Trump administration to preserve Nvidia chip-export
+    records
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6634
+  strength: 0.6632
 - slug: 2026-11-04-democrats-ask-trump-officials-to-preserve-records-after-election-victories
   headline: Democrats ask Trump officials to preserve records after election victories
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6704
+  strength: 0.6699
 - slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
   headline: House Judiciary Democrats ask Blanche to probe Epstein network
   publish_date: '2026-10-26'
   relation: related
   strength: 0.6557
-- slug: 2026-10-25-beatty-asks-cooper-for-trump-administration-kennedy-center-records
-  headline: Beatty asks Cooper for Trump administration Kennedy Center records
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6342
-- slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
-  headline: Democrats outline investigation priorities if they win Congress
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6346
 - slug: 2026-09-01-wyden-jayapal-ask-gao-to-investigate-dhs-use-of-summonses-against-journalists
   headline: Wyden, Jayapal ask GAO to investigate DHS use of summonses against journalists
   publish_date: '2026-09-01'
   relation: related
-  strength: 0.6624
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6446
+  strength: 0.6631
 - slug: 2026-07-23-jordan-refers-smith-to-doj-over-alleged-false-congressional-testimony
   headline: Jordan refers Smith to DOJ over alleged false congressional testimony
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6569
+  strength: 0.657
 - slug: 2026-06-17-harvard-bard-face-fresh-congressional-questions-on-epstein-ties
   headline: Harvard, Bard Face Fresh Congressional Questions on Epstein Ties
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6737
+  strength: 0.6747
 - slug: 2026-05-21-democrats-warn-data-broker-rules-miss-key-washington-sites-including-cia
-  headline: Democrats warn data-broker rules miss key Washington sites, including CIA
+  headline: Democrats warn data-broker rules miss key Washington sites, including
+    CIA
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6752
+  strength: 0.6746
 - slug: 2026-03-26-trump-showed-classified-map-on-2022-plane-trip-lawmaker-says
   headline: Trump showed classified map on 2022 plane trip, lawmaker says
   publish_date: '2026-03-26'
   relation: related
-  strength: 0.6733
-- slug: 2026-05-22-congress-urges-telecoms-to-bolster-protections-against-cyberscams
-  headline: Congress urges telecoms to bolster protections against cyberscams
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6594
-- slug: 2026-05-21-congress-urges-at-t-verizon-t-mobile-to-do-more-to-curb-cyberscams
-  headline: Congress urges AT&T, Verizon, T-Mobile to do more to curb cyberscams
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6564
-- slug: 2026-06-02-starmer-uses-disappearing-whatsapp-messages-no-10-confirms
-  headline: Starmer uses disappearing WhatsApp messages, No 10 confirms
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6475
-- slug: 2026-02-14-key-democrat-accuses-justice-department-of-spying-on-epstein-file-oversight
-  headline: Key Democrat accuses Justice Department of spying on Epstein-file oversight
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6675
-- slug: 2026-05-22-democrats-warn-u-s-cell-location-data-rules-miss-white-house-cia-sites
-  headline: Democrats warn U.S. cell-location data rules miss White House, CIA sites
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6479
-- slug: 2026-06-16-jpmorgan-google-among-companies-told-to-preserve-epstein-records-in-new-mexico-p
-  headline: JPMorgan, Google Among Companies Told to Preserve Epstein Records in New Mexico Probe
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6316
+  strength: 0.6738
 image:
   url: /articles/2026-11-20-raskin-asks-agencies-to-preserve-messaging-app-communications.png
-  alt: "Illustration accompanying article: Raskin asks agencies to preserve messaging-app communications"
+  alt: 'Illustration accompanying article: Raskin asks agencies to preserve messaging-app
+    communications'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Raskin asks agencies to preserve messaging-app communications
 
 **Subtype:** fact
