@@ -1,9 +1,19 @@
 ---
 headline: Denmark orders Russian diplomat's expulsion over alleged Kyivstoner plot
-secondary_headline: Police arrested three suspects five minutes before concert north of Copenhagen
+secondary_headline: Police arrested three suspects five minutes before concert north
+  of Copenhagen
 publish_date: '2026-11-20'
-lede: Denmark has ordered the expulsion of a Russian defence attache in Copenhagen after Danish authorities suspected Moscow was behind an attempt to kill US-Ukrainian rapper Kyivstoner before a September concert. Foreign Minister Lars Løekke Rasmussen said the government notified the Russian ambassador of the decision, and the expulsion will happen within seven days. According to prosecutors, police arrested three men driving toward the concert venue north of Copenhagen with two loaded pistols and two knives about five minutes before the planned performance.
-nut_graf: Denmark’s response combines a diplomatic expulsion with possible visa restrictions and criminal charges arising from the alleged plan. The case concerns an alleged attempt against a performer with US and Ukrainian nationality who was scheduled to appear north of Copenhagen, and all four suspects denied wrongdoing in court.
+lede: Denmark has ordered the expulsion of a Russian defence attache in Copenhagen
+  after Danish authorities suspected Moscow was behind an attempt to kill US-Ukrainian
+  rapper Kyivstoner before a September concert. Foreign Minister Lars Løekke Rasmussen
+  said the government notified the Russian ambassador of the decision, and the expulsion
+  will happen within seven days. According to prosecutors, police arrested three men
+  driving toward the concert venue north of Copenhagen with two loaded pistols and
+  two knives about five minutes before the planned performance.
+nut_graf: Denmark’s response combines a diplomatic expulsion with possible visa restrictions
+  and criminal charges arising from the alleged plan. The case concerns an alleged
+  attempt against a performer with US and Ukrainian nationality who was scheduled
+  to appear north of Copenhagen, and all four suspects denied wrongdoing in court.
 primary_entities:
 - Denmark
 - Russia
@@ -46,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +154,8 @@ cross_article_links:
   strength: 0.6024
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-19-u-s-envoys-and-zelenskyy-open-berlin-talks-on-ukraine-security
-  headline: U.S. envoys and Zelenskyy open Berlin talks on Ukraine security
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.5944
-- slug: 2026-11-19-russian-drone-attack-damages-kyiv-cathedral-official-says-at-least-one-killed
-  headline: Russian drone attack damages Kyiv cathedral; official says at least one killed
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.5842
-- slug: 2026-11-13-kushner-says-russia-agrees-to-include-europe-in-talks-as-ukraine-fires-almost-1-
-  headline: Kushner says Russia agrees to include Europe in talks as Ukraine fires almost 1,200 drones
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6037
-- slug: 2026-11-12-us-envoys-meet-putin-in-kremlin-after-abu-dhabi-talks-yield-prisoner-swap-deal
-  headline: US envoys meet Putin in Kremlin after Abu Dhabi talks yield prisoner swap deal
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5817
-- slug: 2026-11-12-two-hour-kremlin-meeting-precedes-us-envoys-dublin-session-with-zelenskyy
-  headline: Two-hour Kremlin meeting precedes US envoys' Dublin session with Zelenskyy
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5791
-- slug: 2026-10-21-u-s-intelligence-links-leipzig-drone-attack-to-putin-ordered-sabotage-campaign
-  headline: U.S. intelligence links Leipzig drone attack to Putin-ordered sabotage campaign
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5915
-- slug: 2026-10-20-zelensky-plans-oslo-talks-with-us-envoys-as-trump-tensions-rise
-  headline: Zelensky plans Oslo talks with US envoys as Trump tensions rise
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5849
-- slug: 2026-09-16-five-charged-in-alleged-russian-plot-to-kill-ukraine-allies
-  headline: Five charged in alleged Russian plot to kill Ukraine allies
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6328
-- slug: 2026-09-24-danish-intelligence-warns-russia-could-launch-limited-military-attack-on-nato
-  headline: Danish intelligence warns Russia could launch limited military attack on NATO
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6062
-- slug: 2026-09-16-fbi-charges-five-in-russian-plot-to-kill-ukraine-allies-in-us-europe
-  headline: FBI charges five in Russian plot to kill Ukraine allies in US, Europe
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.596
-- slug: 2026-09-01-germany-blames-russia-for-leipzig-drone-plot-vows-retaliation
-  headline: Germany blames Russia for Leipzig drone plot, vows retaliation
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6197
-- slug: 2026-09-10-russia-says-it-detained-russian-guard-at-british-embassy-over-alleged-plot
-  headline: Russia says it detained Russian guard at British embassy over alleged plot
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.5952
-- slug: 2026-09-13-russian-drone-strikes-kyiv-warsaw-passenger-train-near-polish-border
-  headline: Russian drone strikes Kyiv-Warsaw passenger train near Polish border
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.584
-- slug: 2026-08-30-russia-escalates-gray-zone-attacks-across-europe-officials-say
-  headline: Russia escalates 'gray-zone' attacks across Europe, officials say
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6011
-- slug: 2026-09-02-europe-presses-russia-with-sanctions-ukraine-aid-after-leipzig-drone-plot
-  headline: Europe presses Russia with sanctions, Ukraine aid after Leipzig drone plot
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.5919
-- slug: 2026-08-07-armed-drone-found-at-german-airport-near-ukrainian-jet-traced-to-russia
-  headline: Armed drone found at German airport near Ukrainian jet traced to Russia
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5931
-- slug: 2026-06-16-five-detained-in-alleged-plot-to-attack-white-house-ufc-event-fbi-says
-  headline: Five detained in alleged plot to attack White House UFC event, FBI says
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6154
-- slug: 2026-02-02-denmark-to-allow-deportation-of-some-foreign-criminals-with-reform
-  headline: Denmark to allow deportation of some foreign criminals with reform
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6382
-- slug: 2026-05-08-ukraine-launches-major-drone-attack-on-russia-ahead-of-victory-day-parade
-  headline: Ukraine launches major drone attack on Russia ahead of Victory Day parade
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6077
-- slug: 2026-05-08-russia-increasingly-trying-to-kill-opponents-abroad-officials-say
-  headline: Russia increasingly trying to kill opponents abroad, officials say
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6074
+related_stories: []
 ---
-
 ## Denmark orders Russian diplomat's expulsion over alleged Kyivstoner plot
 
 **Subtype:** fact

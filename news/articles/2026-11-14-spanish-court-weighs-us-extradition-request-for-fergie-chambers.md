@@ -31,7 +31,8 @@ topic_tags:
 - terrorism
 - crime
 - international law
-storyline_nexus: []
+storyline_nexus:
+- the-extradition-of-james-fergie-chambers-from-spain-to-the-united-states
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -173,6 +174,7 @@ related_stories:
   relation: related
   strength: 0.684
 ---
+
 ## Spanish court weighs US extradition request for Fergie Chambers
 
 **Subtype:** fact

@@ -64,7 +64,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -269,6 +269,13 @@ California's coast, from the Los Angeles to San Francisco areas, was also swampe
 **Publication date:** 2026-11-20
 **Title:** Heavy rains that caused floods and led to rescues move further north in Florida
 **URL:** https://apnews.com/article/extreme-weather-flooding-florida-california-storms-46b14622b3ad77c32eb0182bfe8bc9f4
+
+### src_late_78eb9dfc6203c42d — Associated Press, wire, Tier 1, originating
+**Author:** Dave Collins, Associated Press, Kathy McCormack, Associated Press, John Raby, Associated Press
+**Publication date:** 2026-11-20
+**Title:** Northeastern Florida now under flood threats from heavy rain that has devastated coastal communities
+**URL:** https://www.pbs.org/newshour/nation/northeastern-florida-now-under-flood-threats-from-heavy-rain-that-has-devastated-coastal-communities
+**Added after publication:** true
 
 ---
 

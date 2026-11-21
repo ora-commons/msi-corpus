@@ -1,9 +1,19 @@
 ---
-headline: Four senators seek stronger enforcement after CFPB dropped more than 20 lawsuits
-secondary_headline: Complaints against firms involved in dropped cases rose by an average of more than 75%
+headline: Four senators seek stronger enforcement after CFPB dropped more than 20
+  lawsuits
+secondary_headline: Complaints against firms involved in dropped cases rose by an
+  average of more than 75%
 publish_date: '2026-11-20'
-lede: Four US Senate Democrats said they would work to revive the Consumer Financial Protection Bureau after a Guardian investigation found that the agency dropped more than 20 lawsuits while complaints against the companies involved rose. Elizabeth Warren, Chris Van Hollen, Chuck Schumer and Angela Alsobrooks backed stronger enforcement, with Warren promising to investigate the Trump administration's efforts to weaken the bureau.
-nut_graf: The senators' response centers on restoring the CFPB's enforcement capacity, while the agency's leadership argues that its rollback corrects harmful and unlawful practices. The dispute comes after midterm elections in which the economy and cost of living were at the top of most voters' minds, according to The Guardian.
+lede: Four US Senate Democrats said they would work to revive the Consumer Financial
+  Protection Bureau after a Guardian investigation found that the agency dropped more
+  than 20 lawsuits while complaints against the companies involved rose. Elizabeth
+  Warren, Chris Van Hollen, Chuck Schumer and Angela Alsobrooks backed stronger enforcement,
+  with Warren promising to investigate the Trump administration's efforts to weaken
+  the bureau.
+nut_graf: The senators' response centers on restoring the CFPB's enforcement capacity,
+  while the agency's leadership argues that its rollback corrects harmful and unlawful
+  practices. The dispute comes after midterm elections in which the economy and cost
+  of living were at the top of most voters' minds, according to The Guardian.
 primary_entities:
 - Consumer Financial Protection Bureau
 - Elizabeth Warren
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,107 +153,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-12-consumer-complaints-rise-against-companies-after-cfpb-drops-enforcement-cases
-  headline: Consumer complaints rise against companies after CFPB drops enforcement cases
+  headline: Consumer complaints rise against companies after CFPB drops enforcement
+    cases
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7865
+  strength: 0.785
 - slug: 2026-11-06-warren-expected-to-chair-senate-banking-panel-as-financial-stocks-tumble
   headline: Warren expected to chair Senate Banking panel as financial stocks tumble
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.691
+  strength: 0.6919
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6631
+  strength: 0.6637
 - slug: 2026-10-29-tech-companies-face-deepfake-scrutiny-as-midterms-approach
   headline: Tech companies face deepfake scrutiny as midterms approach
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6511
+  strength: 0.6505
 - slug: 2026-10-28-congress-members-urge-ftc-to-probe-retailer-price-discrepancies
   headline: Congress members urge FTC to probe retailer price discrepancies
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.6554
+  strength: 0.6548
 - slug: 2026-10-15-warren-garcia-introduce-bill-to-compel-probes-of-epstein-tied-financial-firms
-  headline: Warren, Garcia introduce bill to compel probes of Epstein-tied financial firms
+  headline: Warren, Garcia introduce bill to compel probes of Epstein-tied financial
+    firms
   publish_date: '2026-10-15'
   relation: related
-  strength: 0.6512
+  strength: 0.6514
 - slug: 2026-10-03-house-members-press-7-eleven-circle-k-on-overcharges-balint-urges-ftc-probe
-  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC probe
+  headline: House members press 7-Eleven, Circle K on overcharges; Balint urges FTC
+    probe
   publish_date: '2026-10-03'
   relation: related
-  strength: 0.6782
+  strength: 0.6787
 - slug: 2026-10-01-seven-senators-demand-data-on-childcare-closures-rising-costs
   headline: Seven senators demand data on childcare closures, rising costs
   publish_date: '2026-10-01'
   relation: related
-  strength: 0.6601
-- slug: 2026-07-16-trump-cfpb-overhaul-costs-consumers-26-5-billion-senate-report-finds
-  headline: Trump CFPB overhaul costs consumers $26.5 billion, Senate report finds
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7756
-- slug: 2026-09-23-cfpb-ends-publication-of-consumer-complaint-narratives
-  headline: CFPB ends publication of consumer complaint narratives
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6624
-- slug: 2026-09-24-warren-demands-trump-officials-explain-removal-of-census-interference-ban
-  headline: Warren demands Trump officials explain removal of census interference ban
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6496
-- slug: 2026-02-11-trump-administration-cuts-cfpb-enforcement-costing-consumers-19b-report-says
-  headline: Trump administration cuts CFPB enforcement, costing consumers $19B report says
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.8083
-- slug: 2026-05-12-gop-senators-block-democrats-effort-to-undo-trump-cfpb-changes
-  headline: GOP senators block Democrats’ effort to undo Trump CFPB changes
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.7686
-- slug: 2026-05-12-senate-republicans-block-democratic-effort-to-reverse-trump-era-cfpb-policy-chan
-  headline: Senate Republicans block Democratic effort to reverse Trump-era CFPB policy changes
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.7624
-- slug: 2026-08-13-cfpb-places-union-leader-on-leave-without-stating-allegations
-  headline: CFPB places union leader on leave without stating allegations
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6911
-- slug: 2026-04-03-white-house-scales-back-plan-to-cut-cfpb-staff-not-fully-dismantle-it
-  headline: White House scales back plan to cut CFPB staff, not fully dismantle it
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.7434
-- slug: 2026-06-04-consumer-agency-deletes-thousands-of-webpages-as-trump-administration-seeks-to-d
-  headline: Consumer agency deletes thousands of webpages as Trump administration seeks to dismantle it
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7059
-- slug: 2026-04-15-democrats-seek-to-overturn-trump-rules-for-public-service-loan-forgiveness
-  headline: Democrats seek to overturn Trump rules for Public Service Loan Forgiveness
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6667
-- slug: 2026-06-10-trump-picks-former-aide-brian-johnson-to-lead-consumer-financial-protection-bure
-  headline: Trump picks former aide Brian Johnson to lead Consumer Financial Protection Bureau
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6489
-- slug: 2026-06-04-consumer-rage-rises-as-americans-face-corporate-frustrations-survey-finds
-  headline: Consumer rage rises as Americans face corporate frustrations, survey finds
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6515
+  strength: 0.663
 ---
-
 ## Four senators seek stronger enforcement after CFPB dropped more than 20 lawsuits
 
 **Subtype:** fact

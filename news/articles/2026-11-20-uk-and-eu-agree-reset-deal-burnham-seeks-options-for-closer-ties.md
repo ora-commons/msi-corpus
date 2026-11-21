@@ -201,6 +201,8 @@ related_stories:
   publish_date: '2026-09-29'
   relation: related
   strength: 0.7359
+analyses:
+- '2026-11-20-uk-eu-reset-links-policy-while-leaving-rule-making-authority-unresolved'
 ---
 ## UK and EU agree reset deal; Burnham seeks options for closer ties
 
@@ -252,3 +254,8 @@ Before the summit, MSI reported that [Burnham planned to present options for Bri
 **Publication date:** 2026-11-20
 **Title:** UK to explore even closer ties with EU after agreeing deal, says Burnham
 **URL:** https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o
+
+---
+
+<!-- analysis-link:2026-11-20-uk-eu-reset-links-policy-while-leaving-rule-making-authority-unresolved -->
+**Going deeper:** [Read MSI's analysis of the UK-EU reset’s deferred rule-making choice →](/analyses/2026-11-20-uk-eu-reset-links-policy-while-leaving-rule-making-authority-unresolved)
