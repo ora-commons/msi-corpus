@@ -216,6 +216,8 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.6936
+analyses:
+- '2026-11-20-florida-flood-response-confronts-prolonged-river-levels-and-forecast-coastal-haz'
 ---
 ## St. Johns River exceeds 1953 record as rains advance along Florida's Atlantic coast
 
@@ -267,3 +269,8 @@ California's coast, from the Los Angeles to San Francisco areas, was also swampe
 **Publication date:** 2026-11-20
 **Title:** Heavy rains that caused floods and led to rescues move further north in Florida
 **URL:** https://apnews.com/article/extreme-weather-flooding-florida-california-storms-46b14622b3ad77c32eb0182bfe8bc9f4
+
+---
+
+<!-- analysis-link:2026-11-20-florida-flood-response-confronts-prolonged-river-levels-and-forecast-coastal-haz -->
+**Going deeper:** [Read MSI's analysis of Florida's prolonged river and coastal hazards →](/analyses/2026-11-20-florida-flood-response-confronts-prolonged-river-levels-and-forecast-coastal-haz)

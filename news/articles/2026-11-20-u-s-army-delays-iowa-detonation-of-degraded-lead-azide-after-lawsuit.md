@@ -183,6 +183,8 @@ related_stories:
   publish_date: '2026-03-11'
   relation: related
   strength: 0.655
+analyses:
+- '2026-11-20-army-s-monday-detonation-plan-rests-on-unresolved-risk-comparisons'
 ---
 ## U.S. Army delays Iowa detonation of degraded lead azide after lawsuit
 
@@ -220,3 +222,8 @@ The Army said the lead azide barrels would be detonated inside earth-covered mag
 **Publication date:** 2026-11-20
 **Title:** US army warns detonation of unstable explosives will create toxic plume
 **URL:** https://www.bbc.co.uk/news/articles/cmlye2334wlyo
+
+---
+
+<!-- analysis-link:2026-11-20-army-s-monday-detonation-plan-rests-on-unresolved-risk-comparisons -->
+**Going deeper:** [Read MSI's analysis of Iowa’s hazardous-material disposal decision →](/analyses/2026-11-20-army-s-monday-detonation-plan-rests-on-unresolved-risk-comparisons)

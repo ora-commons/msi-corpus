@@ -2,8 +2,18 @@
 headline: Fans leave flowers and notes for Fiona at Cincinnati Zoo
 secondary_headline: Fiona died from complications caused by swallowing a knit hat
 publish_date: '2026-11-20'
-lede: CINCINNATI — Fans of Fiona, the Cincinnati Zoo's hippo, draped a hippo statue with flowers and notes written in crayon on Friday, a day after the 9-year-old animal died. A little girl held up a drawing of Fiona while a woman left behind a watermelon, one of Fiona's favorite treats. The Associated Press reported that Fiona died from complications caused by swallowing a knit hat that was accidentally flung into her enclosure after a zoo visitor tossed it and a ceiling fan caught it. Zoo officials had not released the specific medical cause of death or details surrounding her final hours.
-nut_graf: The Associated Press reported that Fiona is mourned by many worldwide and that she “captured the hearts of millions in her first months and final days, uniting people across all boundaries and political spectrums.” Zoo officials had not released the specific medical cause of death or details surrounding her final hours.
+lede: CINCINNATI — Fans of Fiona, the Cincinnati Zoo's hippo, draped a hippo statue
+  with flowers and notes written in crayon on Friday, a day after the 9-year-old animal
+  died. A little girl held up a drawing of Fiona while a woman left behind a watermelon,
+  one of Fiona's favorite treats. The Associated Press reported that Fiona died from
+  complications caused by swallowing a knit hat that was accidentally flung into her
+  enclosure after a zoo visitor tossed it and a ceiling fan caught it. Zoo officials
+  had not released the specific medical cause of death or details surrounding her
+  final hours.
+nut_graf: The Associated Press reported that Fiona is mourned by many worldwide and
+  that she “captured the hearts of millions in her first months and final days, uniting
+  people across all boundaries and political spectrums.” Zoo officials had not released
+  the specific medical cause of death or details surrounding her final hours.
 primary_entities:
 - Fiona
 - Cincinnati Zoo
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,113 +154,21 @@ related_stories:
   headline: Fiona, a Cincinnati Zoo hippo, dies after swallowing a knitted hat
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.858
-- slug: 2026-11-12-wildlife-officers-kill-los-angeles-coyote-they-believed-was-already-dead
-  headline: Wildlife officers kill Los Angeles coyote they believed was already dead
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5454
-- slug: 2026-10-30-roof-removed-from-manhattan-water-tower-that-housed-first-barn-owl-nest
-  headline: Roof removed from Manhattan water tower that housed first barn owl nest
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5591
-- slug: 2026-10-24-british-embassy-says-winnie-the-pooh-stays-at-new-york-public-library
-  headline: British Embassy says Winnie-the-Pooh stays at New York Public Library
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5401
-- slug: 2026-10-22-wiley-family-attorneys-seek-federal-inquiry-after-fatal-shooting-footage-surface
-  headline: Wiley family attorneys seek federal inquiry after fatal shooting footage surfaces
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.5437
-- slug: 2026-10-20-dna-links-euthanized-coyote-to-atwater-village-attack-on-16-month-old-boy
-  headline: DNA links euthanized coyote to Atwater Village attack on 16-month-old boy
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5359
-- slug: 2026-10-13-fawna-bat-rescue-callouts-hit-50-to-90-daily-exceeding-prior-nine-months
-  headline: Fawna bat rescue callouts hit 50 to 90 daily, exceeding prior nine months
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.5393
-- slug: 2026-08-23-louisiana-8-year-old-dies-after-contracting-rare-brain-eating-amoeba
-  headline: Louisiana 8-year-old dies after contracting rare brain-eating amoeba
-  publish_date: '2026-08-23'
-  relation: related
-  strength: 0.57
-- slug: 2026-08-31-north-carolina-confirms-aug-31-death-of-teen-from-naegleria-fowleri
-  headline: North Carolina confirms Aug. 31 death of teen from Naegleria fowleri
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5355
-- slug: 2026-07-13-wildebeest-escapes-fort-wayne-zoo-enclosure-triggers-evacuation
-  headline: Wildebeest escapes Fort Wayne Zoo enclosure, triggers evacuation
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5436
-- slug: 2026-05-27-happy-self-aware-bronx-zoo-elephant-euthanized-at-age-55
-  headline: Happy, 'self-aware' Bronx Zoo elephant, euthanized at age 55
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5684
-- slug: 2026-05-22-more-children-s-hospitals-add-full-time-facility-dogs-for-kids-care
-  headline: More children’s hospitals add full-time facility dogs for kids’ care
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5674
-- slug: 2026-06-16-lapd-fatally-shoots-pet-dog-of-family-celebrating-knicks-win
-  headline: LAPD fatally shoots pet dog of family celebrating Knicks win
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5528
-- slug: 2026-07-12-grandfather-sustains-serious-injuries-in-yellowstone-bison-attack
-  headline: Grandfather sustains serious injuries in Yellowstone bison attack
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5357
-- slug: 2026-06-22-animal-rescuer-saves-kitten-trapped-in-colorado-storm-drain
-  headline: Animal rescuer saves kitten trapped in Colorado storm drain
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5475
-- slug: 2026-06-02-founder-surrenders-louisiana-zoo-after-animal-escapes-usda-violations
-  headline: Founder surrenders Louisiana zoo after animal escapes, USDA violations
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5462
-- slug: 2026-02-28-mother-crochets-cuddly-octopi-for-tiny-hands-in-detroit-nicu
-  headline: Mother crochets cuddly octopi for tiny hands in Detroit NICU
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.559
-- slug: 2026-04-07-toddler-injured-by-wolf-at-hersheypark-zoo-after-reaching-enclosure
-  headline: Toddler injured by wolf at Hersheypark zoo after reaching enclosure
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5453
-- slug: 2026-05-16-owl-grafted-with-donor-feathers-takes-flight-after-utah-cement-rescue
-  headline: Owl grafted with donor feathers takes flight after Utah cement rescue
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5352
-- slug: 2026-05-08-tiny-kitten-rescued-from-rubble-after-mississippi-tornado-video-shows
-  headline: Tiny kitten rescued from rubble after Mississippi tornado, video shows
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5338
+  strength: 0.8557
 image:
   url: /articles/2026-11-20-fans-leave-flowers-and-notes-for-fiona-at-cincinnati-zoo.png
-  alt: "Illustration accompanying article: Fans leave flowers and notes for Fiona at Cincinnati Zoo"
+  alt: 'Illustration accompanying article: Fans leave flowers and notes for Fiona
+    at Cincinnati Zoo'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Fans leave flowers and notes for Fiona at Cincinnati Zoo
 
 **Subtype:** fact
