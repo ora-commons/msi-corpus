@@ -35,7 +35,8 @@ topic_tags:
 - politics
 - environment
 - economy
-storyline_nexus: []
+storyline_nexus:
+- bipartisan-american-affordability-and-jobs-act
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -209,6 +210,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Senate passes permitting overhaul; bill moves to House
 
 **Subtype:** fact

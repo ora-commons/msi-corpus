@@ -41,7 +41,8 @@ primary_themes:
 topic_tags:
 - artificial intelligence
 - government
-storyline_nexus: []
+storyline_nexus:
+- u-s-national-cyber-director-leadership
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -218,6 +219,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Person says Trump backed Sean Cairncross's firing over credentials
 
 **Subtype:** fact

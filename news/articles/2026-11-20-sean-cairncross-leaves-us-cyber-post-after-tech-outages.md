@@ -32,7 +32,8 @@ primary_themes:
 topic_tags:
 - government
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- u-s-national-cyber-director-leadership
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -207,6 +208,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Sean Cairncross leaves US cyber post after tech outages
 
 **Subtype:** fact

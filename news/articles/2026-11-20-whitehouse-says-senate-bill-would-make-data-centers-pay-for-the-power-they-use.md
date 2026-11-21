@@ -41,7 +41,8 @@ primary_themes:
 topic_tags:
 - environment
 - politics
-storyline_nexus: []
+storyline_nexus:
+- bipartisan-american-affordability-and-jobs-act
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -215,6 +216,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Whitehouse says Senate bill would make data centers pay for the power they use
 
 **Subtype:** fact
