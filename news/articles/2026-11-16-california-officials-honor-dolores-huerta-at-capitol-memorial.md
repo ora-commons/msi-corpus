@@ -31,7 +31,8 @@ primary_themes:
 - Political memorial service
 topic_tags:
 - civil rights
-storyline_nexus: []
+storyline_nexus:
+- the-death-and-memorialization-of-dolores-huerta
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.7524
 ---
+
 ## California officials honor Dolores Huerta at Capitol memorial
 
 **Subtype:** fact

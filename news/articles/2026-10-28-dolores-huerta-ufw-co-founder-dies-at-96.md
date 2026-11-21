@@ -28,7 +28,8 @@ primary_themes:
 - Voting rights
 topic_tags:
 - civil rights
-storyline_nexus: []
+storyline_nexus:
+- the-death-and-memorialization-of-dolores-huerta
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.6512
 ---
+
 ## Dolores Huerta, UFW co-founder, dies at 96
 
 **Subtype:** fact

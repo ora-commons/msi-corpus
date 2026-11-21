@@ -1,9 +1,20 @@
 ---
 headline: Justice Department asks 9th Circuit to declare Alaska Senate case moot
-secondary_headline: Peltola won an outright majority; state attorneys called the dismissal motion 'meritless.'
+secondary_headline: Peltola won an outright majority; state attorneys called the dismissal
+  motion 'meritless.'
 publish_date: '2026-11-20'
-lede: In a filing, the Justice Department asked the 9th U.S. Circuit Court of Appeals on Thursday to declare its Alaska Senate-election lawsuit moot and dismiss the case. The filing came two days after the race was decided, following the Nov. 3 election. If granted, the request would end the Trump administration's effort to block certification of Democrat Mary Peltola's victory. Peltola won an outright majority to become Democrats' 56th senator.
-nut_graf: Alaska's Republican-controlled state government objected to the request, calling it legally "meritless" and filing papers to help dismiss the original case. The case arose from a ballot dispute involving another candidate who shared Republican Sen. Dan Sullivan's name. Justice Department attorneys asked the appeals court to overturn the lower court's dismissal before remanding the case for dismissal on mootness grounds.
+lede: In a filing, the Justice Department asked the 9th U.S. Circuit Court of Appeals
+  on Thursday to declare its Alaska Senate-election lawsuit moot and dismiss the case.
+  The filing came two days after the race was decided, following the Nov. 3 election.
+  If granted, the request would end the Trump administration's effort to block certification
+  of Democrat Mary Peltola's victory. Peltola won an outright majority to become Democrats'
+  56th senator.
+nut_graf: Alaska's Republican-controlled state government objected to the request,
+  calling it legally "meritless" and filing papers to help dismiss the original case.
+  The case arose from a ballot dispute involving another candidate who shared Republican
+  Sen. Dan Sullivan's name. Justice Department attorneys asked the appeals court to
+  overturn the lower court's dismissal before remanding the case for dismissal on
+  mootness grounds.
 primary_entities:
 - Mary Peltola
 - Dan Sullivan
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +155,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-20-justice-department-asks-9th-circuit-to-declare-alaska-senate-case-moot.png
-  alt: 'Illustration accompanying article: Justice Department asks 9th Circuit to declare Alaska Senate case moot'
+  alt: 'Illustration accompanying article: Justice Department asks 9th Circuit to
+    declare Alaska Senate case moot'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-20-justice-department-asks-court-to-dismiss-alaska-senate-certification-case
   headline: Justice Department asks court to dismiss Alaska Senate certification case
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.9464
+  strength: 0.9463
 - slug: 2026-11-20-trump-administration-files-mootness-request-in-peltola-certification-case
   headline: Trump administration files mootness request in Peltola certification case
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.8463
+  strength: 0.8464
 - slug: 2026-11-17-mary-peltola-wins-alaska-senate-race-against-republican-dan-sullivan
   headline: Mary Peltola wins Alaska Senate race against Republican Dan Sullivan
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8261
+  strength: 0.8266
 - slug: 2026-11-18-peltola-holds-12-458-vote-lead-as-trump-administration-appeal-remains-pending
-  headline: Peltola holds 12,458-vote lead as Trump administration appeal remains pending
+  headline: Peltola holds 12,458-vote lead as Trump administration appeal remains
+    pending
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8152
-- slug: 2026-11-17-mary-peltola-wins-alaska-s-u-s-senate-race-on-first-choice-majority
-  headline: Mary Peltola wins Alaska's U.S. Senate race on first-choice majority
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7921
+  strength: 0.8158
 - slug: 2026-11-18-mary-peltola-passes-50-threshold-in-alaska-s-u-s-senate-race
   headline: Mary Peltola passes 50% threshold in Alaska's U.S. Senate race
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.785
+  strength: 0.7849
+- slug: 2026-11-17-mary-peltola-wins-alaska-s-u-s-senate-race-on-first-choice-majority
+  headline: Mary Peltola wins Alaska's U.S. Senate race on first-choice majority
+  publish_date: '2026-11-17'
+  relation: related
+  strength: 0.7917
 - slug: 2026-11-18-alaska-elects-kreiss-tomkins-governor-democrats-flip-nine-senate-seats
   headline: Alaska elects Kreiss-Tomkins governor; Democrats flip nine Senate seats
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7787
+  strength: 0.7797
 - slug: 2026-11-18-mary-peltola-says-status-quo-in-dc-is-not-working-for-alaska-after-senate-win
-  headline: Mary Peltola says 'status quo in DC is not working for Alaska' after Senate win
+  headline: Mary Peltola says 'status quo in DC is not working for Alaska' after Senate
+    win
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7706
-- slug: 2026-11-18-alaska-senate-race-spending-exceeds-140-million-amid-namesake-worries
-  headline: Alaska Senate race spending exceeds $140 million amid namesake worries
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7687
-- slug: 2026-10-31-alaska-urges-federal-judge-to-dismiss-suit-to-halt-senate-certification
-  headline: Alaska urges federal judge to dismiss suit to halt Senate certification
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.8572
-- slug: 2026-11-01-voting-rights-experts-call-alaska-election-intervention-unprecedented
-  headline: Voting-rights experts call Alaska election intervention unprecedented
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.8035
-- slug: 2026-11-01-gleason-dismisses-justice-department-bid-to-delay-alaska-senate-certification
-  headline: Gleason dismisses Justice Department bid to delay Alaska Senate certification
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.8027
-- slug: 2026-10-31-justice-department-asks-judge-to-segregate-ballots-ranking-second-sullivan
-  headline: Justice Department asks judge to segregate ballots ranking second Sullivan
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.8078
-- slug: 2026-10-23-justice-department-seeks-to-block-alaska-senate-certification-if-dan-sullivan-lo
-  headline: Justice Department seeks to block Alaska Senate certification if Dan Sullivan loses
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8461
-- slug: 2026-10-23-justice-department-files-pre-election-challenge-to-alaska-senate-certification
-  headline: Justice Department files pre-election challenge to Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8441
-- slug: 2026-10-28-trump-calls-for-peltola-s-prosecution-and-removal-from-the-alaska-ballot
-  headline: Trump calls for Peltola's prosecution and removal from the Alaska ballot
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.8132
-- slug: 2026-10-30-alaska-voters-decide-senate-race-shadowed-by-doj-probe
-  headline: Alaska voters decide Senate race shadowed by DOJ probe
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.8002
-- slug: 2026-10-23-trump-says-he-ordered-justice-department-to-challenge-alaska-senate-certificatio
-  headline: Trump says he ordered Justice Department to challenge Alaska Senate certification
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.8279
-- slug: 2026-10-30-alaska-and-justice-department-open-criminal-probes-into-second-sullivan-filing
-  headline: Alaska and Justice Department open criminal probes into second Sullivan filing
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7916
-- slug: 2026-10-30-peltola-denies-knowing-of-alleged-alaska-ballot-scheme-as-federal-probe-escalate
-  headline: Peltola denies knowing of alleged Alaska ballot scheme as federal probe escalates
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.7851
+  strength: 0.7702
 ---
-
 ## Justice Department asks 9th Circuit to declare Alaska Senate case moot
 
 **Subtype:** fact
