@@ -46,7 +46,8 @@ primary_themes:
 topic_tags:
 - disaster
 - banking
-storyline_nexus: []
+storyline_nexus:
+- the-recent-wave-of-separate-tech-outages
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -208,6 +209,7 @@ related_stories:
   relation: related
   strength: 0.6768
 ---
+
 ## Psychologists explain why separate tech outages feel like one attack
 
 **Subtype:** fact

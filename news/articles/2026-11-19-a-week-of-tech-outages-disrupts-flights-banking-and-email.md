@@ -39,7 +39,8 @@ primary_themes:
 - digital infrastructure reliability
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- the-recent-wave-of-separate-tech-outages
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -201,8 +202,9 @@ related_stories:
   relation: related
   strength: 0.7916
 analyses:
-- '2026-11-19-parallel-tech-outages-reveal-a-distributed-failure-and-recovery-structure'
+- 2026-11-19-parallel-tech-outages-reveal-a-distributed-failure-and-recovery-structure
 ---
+
 ## A week of tech outages disrupts flights, banking and email
 
 - The Trump administration and affected companies said they have no evidence linking the week of outages to a cyberattack.
