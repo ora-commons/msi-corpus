@@ -39,7 +39,8 @@ topic_tags:
 - international relations
 - science and technology
 - government
-storyline_nexus: []
+storyline_nexus:
+- u-s-probe-into-megaspeed-over-suspected-nvidia-chip-diversion
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -203,6 +204,7 @@ related_stories:
   relation: related
   strength: 0.8202
 ---
+
 ## Megaspeed vows cooperation with U.S. national security investigations
 
 **Subtype:** fact

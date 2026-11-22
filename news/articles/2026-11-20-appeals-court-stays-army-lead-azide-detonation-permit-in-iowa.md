@@ -34,7 +34,8 @@ primary_themes:
 topic_tags:
 - environment
 - public health
-storyline_nexus: []
+storyline_nexus:
+- u-s-army-lead-azide-detonation-in-iowa
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.6522
 ---
+
 ## Appeals court stays Army lead-azide detonation permit in Iowa
 
 **Subtype:** fact

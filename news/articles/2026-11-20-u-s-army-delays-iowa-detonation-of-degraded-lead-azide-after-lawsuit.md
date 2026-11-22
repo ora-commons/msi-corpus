@@ -43,7 +43,8 @@ primary_themes:
 topic_tags:
 - environment
 - health
-storyline_nexus: []
+storyline_nexus:
+- u-s-army-lead-azide-detonation-in-iowa
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -184,8 +185,9 @@ related_stories:
   relation: related
   strength: 0.655
 analyses:
-- '2026-11-20-army-s-monday-detonation-plan-rests-on-unresolved-risk-comparisons'
+- 2026-11-20-army-s-monday-detonation-plan-rests-on-unresolved-risk-comparisons
 ---
+
 ## U.S. Army delays Iowa detonation of degraded lead azide after lawsuit
 
 **Subtype:** fact

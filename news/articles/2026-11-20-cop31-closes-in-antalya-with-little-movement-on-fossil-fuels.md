@@ -32,7 +32,8 @@ primary_themes:
 - global warming projections
 topic_tags:
 - climate change
-storyline_nexus: []
+storyline_nexus:
+- global-climate-summit-negotiations-on-fossil-fuels
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,6 +194,7 @@ related_stories:
   relation: related
   strength: 0.7495
 ---
+
 ## COP31 closes in Antalya with little movement on fossil fuels
 
 **Subtype:** fact

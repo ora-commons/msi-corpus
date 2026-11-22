@@ -32,7 +32,8 @@ primary_themes:
 - climate finance
 topic_tags:
 - climate change
-storyline_nexus: []
+storyline_nexus:
+- global-climate-summit-negotiations-on-fossil-fuels
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -174,6 +175,7 @@ related_stories:
   relation: related
   strength: 0.7497
 ---
+
 ## COP31 talks run into overtime as fossil fuels stay out of draft deal
 
 **Subtype:** fact
