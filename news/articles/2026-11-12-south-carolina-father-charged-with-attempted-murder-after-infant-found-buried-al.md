@@ -36,7 +36,8 @@ topic_tags:
 - crime
 - family
 - natural disaster
-storyline_nexus: []
+storyline_nexus:
+- koah-sharpe-disappearance-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -93,6 +94,7 @@ related_stories:
   relation: related
   strength: 0.8405
 ---
+
 ## South Carolina father charged with attempted murder after infant found buried alive
 
 **Subtype:** fact

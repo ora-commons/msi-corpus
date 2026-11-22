@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
 - crime, law and justice
 - human interest
-storyline_nexus: []
+storyline_nexus:
+- koah-sharpe-disappearance-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -147,6 +148,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Searchers find 11-month-old boy alive in South Carolina
 
 **Subtype:** fact
