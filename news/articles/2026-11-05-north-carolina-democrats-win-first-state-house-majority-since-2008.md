@@ -43,7 +43,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- north-carolina-democratic-control
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -204,6 +205,7 @@ related_stories:
   relation: related
   strength: 0.693
 ---
+
 ## North Carolina Democrats win first state House majority since 2008
 
 **Subtype:** fact

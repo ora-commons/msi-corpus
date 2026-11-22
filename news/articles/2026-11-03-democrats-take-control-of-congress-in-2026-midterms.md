@@ -33,7 +33,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- north-carolina-democratic-control
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.8022
 ---
+
 ## Democrats take control of Congress in 2026 midterms
 
 **Subtype:** fact
