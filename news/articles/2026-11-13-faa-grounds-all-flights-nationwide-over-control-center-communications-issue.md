@@ -29,7 +29,8 @@ topic_tags:
 - transportation accident and incident
 - weather
 - technology and engineering
-storyline_nexus: []
+storyline_nexus:
+- u-s-aviation-network-and-air-traffic-communications-issues
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -115,6 +116,7 @@ related_stories:
   relation: related
   strength: 0.7381
 ---
+
 ## FAA grounds all flights nationwide over control-center communications issue
 
 **Subtype:** fact

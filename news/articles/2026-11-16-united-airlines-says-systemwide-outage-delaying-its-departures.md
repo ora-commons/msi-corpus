@@ -25,7 +25,8 @@ primary_themes:
 topic_tags:
 - business information
 - computing and information technology
-storyline_nexus: []
+storyline_nexus:
+- u-s-aviation-network-and-air-traffic-communications-issues
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -201,6 +202,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## United Airlines says systemwide outage delaying its departures
 
 **Subtype:** fact

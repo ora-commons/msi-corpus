@@ -37,7 +37,8 @@ primary_themes:
 topic_tags:
 - welfare
 - mental health
-storyline_nexus: []
+storyline_nexus:
+- the-uk-policy-for-young-people-not-in-education-employment-or-training
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -197,6 +198,7 @@ related_stories:
   relation: related
   strength: 0.6602
 ---
+
 ## Milburn review to call Neet numbers an economic and moral crisis
 
 **Subtype:** fact

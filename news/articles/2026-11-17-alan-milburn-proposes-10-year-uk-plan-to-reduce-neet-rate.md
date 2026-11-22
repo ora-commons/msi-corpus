@@ -31,7 +31,8 @@ topic_tags:
 - labour
 - education
 - health
-storyline_nexus: []
+storyline_nexus:
+- the-uk-policy-for-young-people-not-in-education-employment-or-training
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -184,6 +185,7 @@ related_stories:
   relation: related
   strength: 0.6875
 ---
+
 ## Alan Milburn proposes 10-year UK plan to reduce Neet rate
 
 **Subtype:** fact
