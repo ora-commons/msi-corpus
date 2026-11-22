@@ -28,7 +28,8 @@ primary_themes:
 - Republican voter turnout
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- 2026-north-carolina-u-s-senate-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -204,6 +205,7 @@ related_stories:
   relation: related
   strength: 0.763
 ---
+
 ## Roy Cooper wins North Carolina Senate seat for Democrats
 
 **Subtype:** fact
