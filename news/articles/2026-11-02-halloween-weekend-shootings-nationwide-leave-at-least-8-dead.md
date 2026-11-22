@@ -29,7 +29,8 @@ primary_themes:
 - Homicide trends
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- halloween-weekend-shootings-across-the-united-states
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -165,6 +166,7 @@ related_stories:
   relation: related
   strength: 0.6539
 ---
+
 ## Halloween weekend shootings nationwide leave at least 8 dead
 
 **Subtype:** fact

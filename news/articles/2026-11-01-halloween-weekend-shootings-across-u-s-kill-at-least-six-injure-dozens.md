@@ -35,7 +35,8 @@ primary_themes:
 - College-town nightlife districts
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- halloween-weekend-shootings-across-the-united-states
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -182,8 +183,9 @@ related_stories:
   relation: related
   strength: 0.6501
 analyses:
-- '2026-11-01-officials-weigh-provisional-responses-as-halloween-shootings-remain-unresolved'
+- 2026-11-01-officials-weigh-provisional-responses-as-halloween-shootings-remain-unresolved
 ---
+
 ## Halloween weekend shootings across U.S. kill at least six, injure dozens
 
 **Subtype:** fact
