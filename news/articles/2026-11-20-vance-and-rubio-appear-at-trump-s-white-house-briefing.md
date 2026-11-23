@@ -205,6 +205,8 @@ related_stories:
   publish_date: '2026-11-05'
   relation: related
   strength: 0.7714
+analyses:
+- '2026-11-20-trump-leaves-vance-and-rubio-s-2028-succession-unresolved'
 ---
 ## Vance and Rubio appear at Trump's White House briefing
 
@@ -255,3 +257,8 @@ Earlier, [MSI reported that Vance and Rubio had used temporary turns at the Whit
 **Publication date:** 2026-11-20
 **Title:** Trump puts Rubio and Vance on display at briefing
 **URL:** https://apnews.com/article/rubio-vance-trump-white-house-briefing-room-478fca96eee4ff8ba2f13f05b5e1e31c
+
+---
+
+<!-- analysis-link:2026-11-20-trump-leaves-vance-and-rubio-s-2028-succession-unresolved -->
+**Going deeper:** [Read MSI's analysis of Trump’s unresolved 2028 succession choice →](/analyses/2026-11-20-trump-leaves-vance-and-rubio-s-2028-succession-unresolved)

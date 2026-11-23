@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7831
+analyses:
+- '2026-11-23-poundland-sale-turns-on-liquidity-and-creditor-priority'
 ---
 ## Gordon Brothers weighs three bids for Poundland amid cash restrictions
 
@@ -243,3 +245,8 @@ Shuttleworth said Poundland's future was "really unclear, with the owners and th
 **Publication date:** 2026-11-23
 **Title:** What is going on with Poundland?
 **URL:** https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o
+
+---
+
+<!-- analysis-link:2026-11-23-poundland-sale-turns-on-liquidity-and-creditor-priority -->
+**Going deeper:** [Read MSI's analysis of Poundland’s liquidity and creditor choice →](/analyses/2026-11-23-poundland-sale-turns-on-liquidity-and-creditor-priority)
