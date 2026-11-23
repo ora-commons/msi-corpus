@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-08-16'
   relation: related
   strength: 0.6984
+analyses:
+- '2026-11-21-el-chapo-isidro-capture-exposing-limits-of-sinaloa-s-kingpin-strategy'
 ---
 ## Mexico captures cartel boss 'El Chapo Isidro,' 11 killed in Sinaloa clashes
 
@@ -260,3 +262,8 @@ Mexican security analyst David Saucedo said the capture of Meza Flores marked an
 **Publication date:** 2026-11-21
 **Title:** Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa
 **URL:** https://www.pbs.org/newshour/world/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-off-a-burst-of-violence-in-sinaloa
+
+---
+
+<!-- analysis-link:2026-11-21-el-chapo-isidro-capture-exposing-limits-of-sinaloa-s-kingpin-strategy -->
+**Going deeper:** [Read MSI's analysis of Sinaloa’s kingpin strategy and civilian costs →](/analyses/2026-11-21-el-chapo-isidro-capture-exposing-limits-of-sinaloa-s-kingpin-strategy)
