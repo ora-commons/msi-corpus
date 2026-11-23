@@ -211,6 +211,8 @@ related_stories:
   publish_date: '2026-11-14'
   relation: related
   strength: 0.728
+analyses:
+- '2026-11-20-nvidia-s-appeals-and-donations-show-access-not-causation'
 ---
 ## Greg Ip links Nvidia's donations to Trump's China chip policy
 
@@ -280,3 +282,8 @@ MSI previously reported on [Trump’s closeness to Huang and the resulting intel
 **Publication date:** 2026-11-20
 **Title:** American State Capitalism Helped Produce the Nvidia Scandal
 **URL:** https://www.wsj.com/economy/american-state-capitalism-helped-produce-the-nvidia-scandal-56ce6dee
+
+---
+
+<!-- analysis-link:2026-11-20-nvidia-s-appeals-and-donations-show-access-not-causation -->
+**Going deeper:** [Read MSI's analysis of corporate access to chip policy →](/analyses/2026-11-20-nvidia-s-appeals-and-donations-show-access-not-causation)

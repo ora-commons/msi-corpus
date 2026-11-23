@@ -208,6 +208,8 @@ related_stories:
   publish_date: '2026-03-30'
   relation: related
   strength: 0.6576
+analyses:
+- '2026-11-20-yongbyon-annex-sharpens-uncertainty-over-north-korea-s-enrichment-capacity'
 ---
 ## New Yongbyon annex may add North Korean uranium-enrichment capacity
 
@@ -247,3 +249,8 @@ Trump, Chinese leader Xi Jinping and Russian President Vladimir Putin said Thurs
 **Publication date:** 2026-11-20
 **Title:** New Satellite Photos Show Expansion of North Korean Uranium-Enrichment Plant
 **URL:** https://www.wsj.com/world/asia/new-satellite-photos-show-expansion-of-north-korean-uranium-enrichment-plant-f23c5512
+
+---
+
+<!-- analysis-link:2026-11-20-yongbyon-annex-sharpens-uncertainty-over-north-korea-s-enrichment-capacity -->
+**Going deeper:** [Read MSI's analysis of North Korea's uranium-enrichment trajectory →](/analyses/2026-11-20-yongbyon-annex-sharpens-uncertainty-over-north-korea-s-enrichment-capacity)
