@@ -207,6 +207,8 @@ related_stories:
   publish_date: '2026-08-21'
   relation: related
   strength: 0.7157
+analyses:
+- '2026-11-23-seattle-protocol-inquiry-tests-ice-coordination-after-passenger-arrests'
 ---
 ## Port of Seattle questions ICE protocols after passenger arrests
 
@@ -258,3 +260,8 @@ The competing accounts over the coffee remained unresolved in the reporting. ICE
 **Publication date:** 2026-11-23
 **Title:** Seattle airport operator 'outraged' over ICE arrest of two passengers
 **URL:** https://www.bbc.co.uk/news/articles/cmwy479wz91no
+
+---
+
+<!-- analysis-link:2026-11-23-seattle-protocol-inquiry-tests-ice-coordination-after-passenger-arrests -->
+**Going deeper:** [Read MSI's analysis of Seattle airport enforcement coordination →](/analyses/2026-11-23-seattle-protocol-inquiry-tests-ice-coordination-after-passenger-arrests)
