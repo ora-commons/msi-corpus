@@ -184,6 +184,8 @@ related_stories:
   publish_date: '2026-08-21'
   relation: related
   strength: 0.7173
+analyses:
+- '2026-11-22-ice-s-jet-bridge-detentions-separate-legal-authority-from-execution-questions'
 ---
 ## ICE airport arrest in Seattle disrupted family's baptism trip, lawyer says
 
@@ -235,3 +237,8 @@ Washington Gov. Bob Ferguson, a Democrat, said ICE's tactics were "deeply un-Ame
 **Publication date:** 2026-11-22
 **Title:** Lawyer: Father and daughter detained by ICE at Seattle airport were on family baptism trip
 **URL:** https://apnews.com/article/immigration-arrest-seattle-airport-ice-c2898391e526ebed8472c190e90726d4
+
+---
+
+<!-- analysis-link:2026-11-22-ice-s-jet-bridge-detentions-separate-legal-authority-from-execution-questions -->
+**Going deeper:** [Read MSI's analysis of Seattle jet-bridge detentions →](/analyses/2026-11-22-ice-s-jet-bridge-detentions-separate-legal-authority-from-execution-questions)

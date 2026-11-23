@@ -198,6 +198,8 @@ related_stories:
   publish_date: '2026-08-06'
   relation: related
   strength: 0.7067
+analyses:
+- '2026-11-22-viral-airport-footage-widens-an-unresolved-dispute-over-ice-tactics'
 ---
 ## Lawyer says father, daughter detained at Seattle airport sought asylum
 
@@ -249,3 +251,8 @@ Washington Gov. Bob Ferguson, a Democrat, said ICE's tactics were "deeply un-Ame
 **Publication date:** 2026-11-22
 **Title:** Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism
 **URL:** https://www.pbs.org/newshour/nation/lawyer-father-and-daughter-detained-by-ice-at-seattle-airport-were-traveling-to-family-baptism
+
+---
+
+<!-- analysis-link:2026-11-22-viral-airport-footage-widens-an-unresolved-dispute-over-ice-tactics -->
+**Going deeper:** [Read MSI's analysis of Seattle airport immigration enforcement →](/analyses/2026-11-22-viral-airport-footage-widens-an-unresolved-dispute-over-ice-tactics)
