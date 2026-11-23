@@ -2,8 +2,16 @@
 headline: Nvidia board reinstates Jensen Huang after rejecting his return offer
 secondary_headline: Colette Kress returns as CFO after serving as interim CEO
 publish_date: '2026-11-23'
-lede: Nvidia's board unanimously reinstated Jensen Huang as president, CEO and chairman on Monday in a surprise move, shortly after rejecting his offer to return. Board Chairman Harvey C. Jones said the board believed Huang was the right person to lead Nvidia and that his reinstatement was in the best interests of stockholders, employees, partners and customers. President Donald Trump said the federal government had "no reason to believe" Huang's return posed a national security risk.
-nut_graf: The reinstatement returns Huang to Nvidia after a brief period in which Colette Kress served as interim CEO and will return as CFO. The Associated Press described the decision as the latest twist in the fallout from Huang's admission of an affair with a woman suspected of being a Chinese spy.
+lede: Nvidia's board unanimously reinstated Jensen Huang as president, CEO and chairman
+  on Monday in a surprise move, shortly after rejecting his offer to return. Board
+  Chairman Harvey C. Jones said the board believed Huang was the right person to lead
+  Nvidia and that his reinstatement was in the best interests of stockholders, employees,
+  partners and customers. President Donald Trump said the federal government had "no
+  reason to believe" Huang's return posed a national security risk.
+nut_graf: The reinstatement returns Huang to Nvidia after a brief period in which
+  Colette Kress served as interim CEO and will return as CFO. The Associated Press
+  described the decision as the latest twist in the fallout from Huang's admission
+  of an affair with a woman suspected of being a Chinese spy.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -47,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +158,46 @@ related_stories:
   headline: Nvidia board won't consider Huang's return as CEO, source says
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8897
+  strength: 0.8899
+- slug: 2026-11-23-trump-says-blanche-government-holds-no-evidence-of-huang-s-unlawful-conduct
+  headline: 'Trump says Blanche: government holds no evidence of Huang’s unlawful
+    conduct'
+  publish_date: '2026-11-23'
+  relation: related
+  strength: 0.8272
 - slug: 2026-11-18-nvidia-holds-first-post-huang-earnings-call-petition-has-nearly-200-000-names
-  headline: Nvidia holds first post-Huang earnings call; petition has nearly 200,000 names
+  headline: Nvidia holds first post-Huang earnings call; petition has nearly 200,000
+    names
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8429
+  strength: 0.8431
 - slug: 2026-11-18-nvidia-posts-record-results-as-board-rules-out-jensen-huang-s-return
   headline: Nvidia posts record results as board rules out Jensen Huang’s return
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.8322
+  strength: 0.8326
 - slug: 2026-11-17-petition-seeks-huang-s-return-board-not-currently-considering-it-source-says
-  headline: Petition seeks Huang's return; board not currently considering it, source says
+  headline: Petition seeks Huang's return; board not currently considering it, source
+    says
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8373
+  strength: 0.8375
 - slug: 2026-11-17-nvidia-director-urges-board-to-avoid-hasty-succession-after-huang-s-resignation
   headline: Nvidia director urges board to avoid hasty succession after Huang's resignation
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8294
+  strength: 0.8296
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
   headline: Nvidia CEO Jensen Huang resigns after affair reports
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8598
+  strength: 0.86
 - slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
   headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8574
-- slug: 2026-11-17-colette-kress-faces-first-nvidia-earnings-call-after-huang-s-ouster
-  headline: Colette Kress faces first Nvidia earnings call after Huang’s ouster
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8229
-- slug: 2026-11-17-colette-kress-says-nvidia-growth-remains-on-track-after-huang-s-exit
-  headline: Colette Kress says Nvidia growth remains on track after Huang's exit
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8217
-- slug: 2026-11-12-nvidia-names-cfo-colette-kress-interim-ceo-after-jensen-huang-resigns
-  headline: Nvidia names CFO Colette Kress interim CEO after Jensen Huang resigns
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8525
-- slug: 2026-11-12-nvidia-begins-search-for-new-ceo-after-jensen-huang-resigns
-  headline: Nvidia begins search for new CEO after Jensen Huang resigns
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8479
-- slug: 2026-11-17-jensen-huang-offers-to-return-to-nvidia-and-agrees-to-testify-to-congress
-  headline: Jensen Huang offers to return to Nvidia and agrees to testify to Congress
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8163
-- slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board meets on whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8453
-- slug: 2026-11-16-more-than-158-000-signatories-call-for-nvidia-to-reinstate-huang
-  headline: More than 158,000 signatories call for Nvidia to reinstate Huang
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.8176
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
-  headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8386
-- slug: 2026-11-17-nvidia-beats-estimates-and-raises-guidance-after-jensen-huang-s-resignation
-  headline: Nvidia beats estimates and raises guidance after Jensen Huang’s resignation
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8076
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
-  headline: Jensen Huang resigns as Nvidia CEO after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8347
-- slug: 2026-11-13-nvidia-chairman-voices-full-confidence-in-kress-as-shares-slide
-  headline: Nvidia chairman voices 'full confidence' in Kress as shares slide
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8254
-- slug: 2026-11-12-trump-recommends-tim-cook-for-nvidia-ceo-drawing-criticism-from-jeffries
-  headline: Trump recommends Tim Cook for Nvidia CEO, drawing criticism from Jeffries
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8259
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8259
+  strength: 0.8576
 ---
-
 ## Nvidia board reinstates Jensen Huang after rejecting his return offer
 
 **Subtype:** fact
