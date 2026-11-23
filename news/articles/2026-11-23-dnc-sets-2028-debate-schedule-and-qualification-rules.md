@@ -56,7 +56,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -242,3 +242,10 @@ The Associated Press reported that the debate schedule is “one of the most clo
 **Publication date:** 2026-11-23
 **Title:** Democrats plan 12 debates for 2028 presidential primary, with first in June
 **URL:** https://apnews.com/article/democratic-debates-dnc-2028-presidential-primary-76416b8c489b544ab18c6f180f742720
+
+### src_late_5c3ee5c4a7fd6943 — Associated Press, wire, Tier 1, originating
+**Author:** Mike Catalini, Associated Press
+**Publication date:** 2026-11-23
+**Title:** Democrats plan 12 debates for their 2028 presidential primary, with what's likely to be a crowded field
+**URL:** https://www.pbs.org/newshour/politics/democrats-plan-12-debates-for-their-2028-presidential-primary-with-whats-likely-to-be-a-crowded-field
+**Added after publication:** true

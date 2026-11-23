@@ -1,9 +1,22 @@
 ---
 headline: Green Units patrol Afghanistan’s last forests amid mass replanting drive
-secondary_headline: Planting reached about 126 million seedlings and cuttings, but survival remains uncertain
+secondary_headline: Planting reached about 126 million seedlings and cuttings, but
+  survival remains uncertain
 publish_date: '2026-11-23'
-lede: Afghanistan’s Taliban government is using Green Units, a special task force created after the group took power in 2021, to patrol the country’s remaining forests for illegal logging. Each 10-member unit spends about 10 to 12 days in the field, often with local guides, as officials report planting around 126 million seedlings and cuttings in five years. Researcher Mohammad Nasir Shalizi says the planting may not produce healthy forest regeneration and patrols do not address degradation from livestock grazing.
-nut_graf: The patrols are part of a conservation effort backed by successive Afghan governments, but planting totals do not establish whether young trees survive or whether forests are recovering. Afghanistan lost an estimated half of its forests between the 1979 Soviet invasion and 2001. The United Nations says Afghanistan is among the most vulnerable to climate change and among the least prepared to adapt, while forests and shrubland now account for just 2.8%. Tree roots help prevent soil erosion, and avalanches and flood-triggered landslides often claim hundreds of lives.
+lede: Afghanistan’s Taliban government is using Green Units, a special task force
+  created after the group took power in 2021, to patrol the country’s remaining forests
+  for illegal logging. Each 10-member unit spends about 10 to 12 days in the field,
+  often with local guides, as officials report planting around 126 million seedlings
+  and cuttings in five years. Researcher Mohammad Nasir Shalizi says the planting
+  may not produce healthy forest regeneration and patrols do not address degradation
+  from livestock grazing.
+nut_graf: The patrols are part of a conservation effort backed by successive Afghan
+  governments, but planting totals do not establish whether young trees survive or
+  whether forests are recovering. Afghanistan lost an estimated half of its forests
+  between the 1979 Soviet invasion and 2001. The United Nations says Afghanistan is
+  among the most vulnerable to climate change and among the least prepared to adapt,
+  while forests and shrubland now account for just 2.8%. Tree roots help prevent soil
+  erosion, and avalanches and flood-triggered landslides often claim hundreds of lives.
 primary_entities:
 - Afghanistan
 - Taliban
@@ -52,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,109 +163,8 @@ cross_article_links:
   strength: 0.5863
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-17-nepal-presses-cop31-for-faster-loss-and-damage-recovery-funding
-  headline: Nepal presses COP31 for faster loss-and-damage recovery funding
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6369
-- slug: 2026-11-11-erdogan-calls-gaza-war-an-ecocide-at-cop31-asks-israel-for-more-aid-access
-  headline: Erdogan calls Gaza war an ecocide at COP31, asks Israel for more aid access
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6017
-- slug: 2026-11-10-global-fossil-fuel-carbon-dioxide-emissions-fell-0-4-amid-iran-war
-  headline: Global fossil-fuel carbon dioxide emissions fell 0.4% amid Iran war
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6059
-- slug: 2026-11-09-outdated-power-grids-threaten-renewable-energy-expansion
-  headline: Outdated power grids threaten renewable energy expansion
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.5921
-- slug: 2026-10-21-u-n-report-finds-u-s-emissions-rose-while-global-total-held-steady
-  headline: U.N. report finds U.S. emissions rose while global total held steady
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.5895
-- slug: 2026-09-16-study-finds-climate-change-destabilized-glacier-behind-nepal-tibet-floods
-  headline: Study finds climate change destabilized glacier behind Nepal-Tibet floods
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.5976
-- slug: 2026-08-31-nepal-floods-leave-900-hydropower-workers-unaccounted-700-mw-offline
-  headline: Nepal floods leave 900 hydropower workers unaccounted, 700 MW offline
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5849
-- slug: 2026-08-13-fossil-study-prehistoric-co2-surge-withered-forests-not-greened-them
-  headline: 'Fossil study: prehistoric CO2 surge withered forests, not greened them'
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6015
-- slug: 2026-05-08-climate-change-threatens-tens-of-thousands-of-plant-species-studies-warn
-  headline: Climate change threatens tens of thousands of plant species, studies warn
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6416
-- slug: 2026-03-30-floods-landslide-and-thunderstorms-in-afghanistan-leave-17-dead
-  headline: Floods, landslide and thunderstorms in Afghanistan leave 17 dead
-  publish_date: '2026-03-30'
-  relation: related
-  strength: 0.6452
-- slug: 2026-04-07-extreme-weather-kills-at-least-110-in-afghanistan-in-12-days
-  headline: Extreme weather kills at least 110 in Afghanistan in 12 days
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6389
-- slug: 2026-07-19-federal-cuts-and-policy-rollbacks-leave-us-facing-multiple-crises
-  headline: Federal cuts and policy rollbacks leave US facing multiple crises
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5872
-- slug: 2026-06-10-us-shutting-out-climate-refugees-as-disasters-mount-advocates-say
-  headline: US shutting out climate refugees as disasters mount, advocates say
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6068
-- slug: 2026-06-10-commercial-beekeepers-lost-more-than-60-of-colonies-last-winter-researcher-says
-  headline: Commercial beekeepers lost more than 60% of colonies last winter, researcher says
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.595
-- slug: 2026-03-20-groups-take-opposite-stands-on-logging-plan-in-vermont-s-green-mountain-forest
-  headline: Groups take opposite stands on logging plan in Vermont’s Green Mountain Forest
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6108
-- slug: 2026-06-17-forest-service-says-it-s-fully-staffed-as-wildfires-erupt-in-the-west
-  headline: Forest Service says it's fully staffed as wildfires erupt in the West
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5854
-- slug: 2026-04-28-sudan-s-unexploded-weapons-pose-growing-risk-as-residents-return-to-khartoum
-  headline: Sudan’s unexploded weapons pose growing risk as residents return to Khartoum
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.597
-- slug: 2026-05-02-caring-about-your-climate-footprint-doesn-t-end-when-you-die
-  headline: Caring about your climate footprint doesn’t end when you die
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5899
-- slug: 2026-03-09-gulf-desalination-plants-face-missile-and-drone-threat-as-iran-war-spreads
-  headline: Gulf desalination plants face missile and drone threat as Iran war spreads
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.5981
-- slug: 2026-04-12-drought-threatens-ethiopia-myrrh-tree-used-in-luxury-perfumes-and-livelihoods
-  headline: Drought threatens Ethiopia myrrh tree used in luxury perfumes and livelihoods
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.5908
+related_stories: []
 ---
-
 ## Green Units patrol Afghanistan’s last forests amid mass replanting drive
 
 **Subtype:** fact
