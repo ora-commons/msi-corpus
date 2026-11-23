@@ -30,7 +30,8 @@ primary_themes:
 - filibuster
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- senate-democratic-leadership
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -205,6 +206,7 @@ related_stories:
   relation: related
   strength: 0.8111
 ---
+
 ## Schumer holds the advantage as Van Hollen challenges him for Senate leader
 
 **Subtype:** fact

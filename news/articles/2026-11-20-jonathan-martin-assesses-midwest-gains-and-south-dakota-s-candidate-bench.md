@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-11-05'
   relation: related
   strength: 0.7105
+analyses:
+- '2026-11-20-south-dakota-democrats-gain-four-seats-as-martin-cites-a-thin-bench'
 ---
 ## Jonathan Martin assesses Midwest gains and South Dakota’s candidate bench
 
@@ -236,3 +238,8 @@ To continue the wave into 2028 and beyond, Democrats “have got to be at least 
 **Publication date:** 2026-11-20
 **Title:** Midwest is ‘less red than maybe we assumed,’ Politico columnist tells South Dakotans
 **URL:** https://www.newsfromthestates.com/article/midwest-less-red-maybe-we-assumed-politico-columnist-tells-south-dakotans
+
+---
+
+<!-- analysis-link:2026-11-20-south-dakota-democrats-gain-four-seats-as-martin-cites-a-thin-bench -->
+**Going deeper:** [Read MSI's analysis of South Dakota’s Democratic bench →](/analyses/2026-11-20-south-dakota-democrats-gain-four-seats-as-martin-cites-a-thin-bench)

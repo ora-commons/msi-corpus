@@ -26,7 +26,8 @@ topic_tags:
 - politics
 - government
 - election
-storyline_nexus: []
+storyline_nexus:
+- senate-democratic-leadership
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,14 +192,19 @@ related_stories:
   strength: 0.799
 image:
   url: /articles/2026-11-12-van-hollen-challenges-schumer-to-lead-senate-democrats.png
-  alt: "Illustration accompanying article: Van Hollen challenges Schumer to lead Senate Democrats"
+  alt: 'Illustration accompanying article: Van Hollen challenges Schumer to lead Senate
+    Democrats'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Van Hollen challenges Schumer to lead Senate Democrats
 
 **Subtype:** fact

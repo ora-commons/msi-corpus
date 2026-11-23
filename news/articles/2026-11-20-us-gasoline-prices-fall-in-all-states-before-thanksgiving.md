@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-09-11'
   relation: related
   strength: 0.6868
+analyses:
+- '2026-11-20-oil-oversupply-and-softer-seasonal-demand-pull-u-s-gasoline-prices-lower-before-'
 ---
 ## US gasoline prices fall in all states before Thanksgiving
 
@@ -252,3 +254,8 @@ Gasoline prices are down but remain historically high. De Haan said, “American
 **Publication date:** 2026-11-20
 **Title:** A Thanksgiving treat in the offing: Lower gas prices
 **URL:** https://www.newsfromthestates.com/article/thanksgiving-treat-offing-lower-gas-prices
+
+---
+
+<!-- analysis-link:2026-11-20-oil-oversupply-and-softer-seasonal-demand-pull-u-s-gasoline-prices-lower-before- -->
+**Going deeper:** [Read MSI's analysis of U.S. gasoline supply-demand dynamics →](/analyses/2026-11-20-oil-oversupply-and-softer-seasonal-demand-pull-u-s-gasoline-prices-lower-before-)
