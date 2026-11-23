@@ -2,8 +2,18 @@
 headline: States sue HUD over housing aid rule affecting mixed-status families
 secondary_headline: Nearly 20,000 households nationwide would be cut off from assistance
 publish_date: '2026-11-23'
-lede: Attorneys general from 22 states and the District of Columbia, along with Pennsylvania's governor, have sued the U.S. Department of Housing and Urban Development to block a rule that would cut mixed-status families off from housing assistance. The complaint, filed in the U.S. District Court for the District of Massachusetts, argues that HUD lacks authority to rewrite federal law requiring subsidies to be prorated to eligible household members. The rule is scheduled to take effect Dec. 14 unless blocked.
-nut_graf: The dispute centers on whether HUD can end prorated housing assistance for a household that includes a member without legal immigration status. HUD says the change would redirect up to $218 million to eligible Americans on a housing waitlist; plaintiffs say it would shift housing costs to state and local governments and require eligible renters to prove their legal status.
+lede: Attorneys general from 22 states and the District of Columbia, along with Pennsylvania's
+  governor, have sued the U.S. Department of Housing and Urban Development to block
+  a rule that would cut mixed-status families off from housing assistance. The complaint,
+  filed in the U.S. District Court for the District of Massachusetts, argues that
+  HUD lacks authority to rewrite federal law requiring subsidies to be prorated to
+  eligible household members. The rule is scheduled to take effect Dec. 14 unless
+  blocked.
+nut_graf: The dispute centers on whether HUD can end prorated housing assistance for
+  a household that includes a member without legal immigration status. HUD says the
+  change would redirect up to $218 million to eligible Americans on a housing waitlist;
+  plaintiffs say it would shift housing costs to state and local governments and require
+  eligible renters to prove their legal status.
 primary_entities:
 - U.S. Department of Housing and Urban Development
 - Scott Turner
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +156,47 @@ related_stories:
   headline: HUD finalizes public housing eligibility rule amid tenant opposition
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8195
+  strength: 0.8188
 - slug: 2026-11-13-federal-proposal-could-end-food-stamps-for-more-than-73-000-new-jersey-household
-  headline: Federal proposal could end food stamps for more than 73,000 New Jersey households
+  headline: Federal proposal could end food stamps for more than 73,000 New Jersey
+    households
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6709
-- slug: 2026-11-16-usda-proposal-could-remove-6-3-million-people-from-snap
-  headline: USDA proposal could remove 6.3 million people from SNAP
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6416
-- slug: 2026-11-13-usda-proposal-would-end-automatic-snap-eligibility-tied-to-tanf
-  headline: USDA proposal would end automatic SNAP eligibility tied to TANF
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6399
+  strength: 0.6711
 - slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
+  headline: States sue to block public charge rule, citing billions in lost federal
+    funds
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.698
-- slug: 2026-10-01-refugees-with-disabilities-lose-medicaid-as-h-r-1-takes-effect
-  headline: Refugees with disabilities lose Medicaid as H.R. 1 takes effect
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6351
+  strength: 0.6979
 - slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
   headline: NYC and coalition of cities sue over Trump immigration benefits rule
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6533
-- slug: 2026-09-10-census-proposal-would-exclude-refugees-and-asylum-seekers
-  headline: Census proposal would exclude refugees and asylum seekers
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6464
+  strength: 0.6534
 - slug: 2026-02-20-hud-proposes-rule-to-require-citizenship-or-eligible-status-in-public-housing
-  headline: HUD proposes rule to require citizenship or eligible status in public housing
+  headline: HUD proposes rule to require citizenship or eligible status in public
+    housing
   publish_date: '2026-02-20'
   relation: related
-  strength: 0.7557
-- slug: 2026-09-10-2030-census-proposal-seeks-input-on-immigrants-with-temporary-status
-  headline: 2030 census proposal seeks input on immigrants with temporary status
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.633
+  strength: 0.7551
 - slug: 2026-08-07-federal-judge-blocks-hud-s-homelessness-funding-shift
   headline: Federal judge blocks HUD's homelessness funding shift
   publish_date: '2026-08-07'
   relation: related
-  strength: 0.6581
-- slug: 2026-08-11-judge-blocks-new-york-city-pied---terre-tax-rollout-as-notices-go-out
-  headline: Judge blocks New York City pied-à-terre tax rollout as notices go out
-  publish_date: '2026-08-11'
-  relation: related
-  strength: 0.6426
-- slug: 2026-08-04-federal-medicaid-work-rule-excludes-homelessness-as-automatic-exemption
-  headline: Federal Medicaid work rule excludes homelessness as automatic exemption
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6442
-- slug: 2026-06-26-lawsuit-challenges-trump-administration-rule-on-family-planning-grants
-  headline: Lawsuit challenges Trump administration rule on family planning grants
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6463
+  strength: 0.6572
 - slug: 2026-05-14-bungled-housing-message-in-texas-sparked-exodus-amid-trump-immigration-rule
-  headline: Bungled housing message in Texas sparked exodus amid Trump immigration rule
+  headline: Bungled housing message in Texas sparked exodus amid Trump immigration
+    rule
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6565
-- slug: 2026-06-30-1996-law-at-center-of-doj-tuition-suits-against-mass-r-i
-  headline: 1996 law at center of DOJ tuition suits against Mass., R.I.
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.636
+  strength: 0.6558
 - slug: 2026-01-05-hhs-bars-race-women-and-disability-from-head-start-grant-applications
   headline: HHS bars 'race,' 'women,' and 'disability' from Head Start grant applications
   publish_date: '2026-01-05'
   relation: related
-  strength: 0.6603
-- slug: 2026-04-01-judge-rules-trump-administration-s-homeless-funding-changes-unlawful
-  headline: Judge rules Trump administration's homeless funding changes unlawful
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6497
-- slug: 2026-02-11-immigrant-groups-seek-to-dismiss-missouri-bid-to-exclude-noncitizens-from-census
-  headline: Immigrant groups seek to dismiss Missouri bid to exclude noncitizens from census
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6492
-- slug: 2026-05-15-texas-town-s-housing-authority-bungled-immigrant-eviction-message
-  headline: Texas town’s housing authority bungled immigrant-eviction message
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6328
+  strength: 0.6594
 ---
-
 ## States sue HUD over housing aid rule affecting mixed-status families
 
 **Subtype:** fact

@@ -1,9 +1,20 @@
 ---
 headline: Some incoming senators withhold backing in Schumer-Van Hollen contest
-secondary_headline: Secret Dec. 1 ballot will test incoming senators' promises of change
+secondary_headline: Secret Dec. 1 ballot will test incoming senators' promises of
+  change
 publish_date: '2026-11-23'
-lede: Newly elected Democratic senators have not yet been sworn in, but their party will choose its Senate leader by secret ballot on Dec. 1 as Chuck Schumer of New York faces Chris Van Hollen of Maryland. The 13 new Democrats are part of the largest incoming Senate class in decades, and several won in Republican strongholds by promising to shake up Washington and serve as independent voices. Associated Press reporting shows open support for both candidates and a number of senators who have not committed publicly.
-nut_graf: The leadership job requires holding together a caucus with competing political interests, an obligation that does not always align with the demands of the party's most vocal activists. Schumer brings longstanding relationships and Senate experience to the Dec. 1 vote, while Van Hollen is running on a more aggressive legislative approach and a more confrontational posture toward Republican President Donald Trump.
+lede: Newly elected Democratic senators have not yet been sworn in, but their party
+  will choose its Senate leader by secret ballot on Dec. 1 as Chuck Schumer of New
+  York faces Chris Van Hollen of Maryland. The 13 new Democrats are part of the largest
+  incoming Senate class in decades, and several won in Republican strongholds by promising
+  to shake up Washington and serve as independent voices. Associated Press reporting
+  shows open support for both candidates and a number of senators who have not committed
+  publicly.
+nut_graf: The leadership job requires holding together a caucus with competing political
+  interests, an obligation that does not always align with the demands of the party's
+  most vocal activists. Schumer brings longstanding relationships and Senate experience
+  to the Dec. 1 vote, while Van Hollen is running on a more aggressive legislative
+  approach and a more confrontational posture toward Republican President Donald Trump.
 primary_entities:
 - Chuck Schumer
 - Chris Van Hollen
@@ -53,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,116 +164,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-23-some-incoming-senators-withhold-backing-in-schumer-van-hollen-contest.png
-  alt: 'Illustration accompanying article: Some incoming senators withhold backing in Schumer-Van Hollen contest'
+  alt: 'Illustration accompanying article: Some incoming senators withhold backing
+    in Schumer-Van Hollen contest'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-17-progressive-groups-back-van-hollen-in-senate-democratic-leadership-challenge
   headline: Progressive groups back Van Hollen in Senate Democratic leadership challenge
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8446
+  strength: 0.8438
 - slug: 2026-11-13-schumer-faces-first-contested-democratic-leader-election-in-decades
   headline: Schumer faces first contested Democratic leader election in decades
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8587
+  strength: 0.8578
 - slug: 2026-11-13-schumer-and-van-hollen-split-senate-democratic-endorsements
   headline: Schumer and Van Hollen split Senate Democratic endorsements
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8536
+  strength: 0.8523
 - slug: 2026-11-13-schumer-presses-100-day-agenda-as-van-hollen-challenges-him-for-leader-post
-  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader post
+  headline: Schumer presses 100-day agenda as Van Hollen challenges him for leader
+    post
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8496
+  strength: 0.8478
 - slug: 2026-11-12-van-hollen-challenges-schumer-to-lead-senate-democrats
   headline: Van Hollen challenges Schumer to lead Senate Democrats
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.8517
+  strength: 0.8501
 - slug: 2026-11-13-van-hollen-challenges-schumer-for-senate-majority-leader
   headline: Van Hollen challenges Schumer for Senate majority leader
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8416
+  strength: 0.8396
 - slug: 2026-11-16-van-hollen-says-he-is-gaining-ground-in-challenge-to-schumer
   headline: Van Hollen says he is gaining ground in challenge to Schumer
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8207
+  strength: 0.8203
 - slug: 2026-11-17-annie-andrews-is-undecided-on-the-senate-democratic-leadership-vote
   headline: Annie Andrews is undecided on the Senate Democratic leadership vote
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8099
-- slug: 2026-11-17-van-hollen-challenges-schumer-for-next-year-s-senate-majority-leader
-  headline: Van Hollen challenges Schumer for next year's Senate majority leader
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8088
-- slug: 2026-11-13-van-hollen-drops-white-house-bid-challenges-schumer-for-senate-leader
-  headline: Van Hollen drops White House bid, challenges Schumer for Senate leader
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8311
-- slug: 2026-11-13-schumer-holds-the-advantage-as-van-hollen-challenges-him-for-senate-leader
-  headline: Schumer holds the advantage as Van Hollen challenges him for Senate leader
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8275
-- slug: 2026-11-17-el-sayed-and-flanagan-back-van-hollen-for-senate-democratic-leader
-  headline: El-Sayed and Flanagan back Van Hollen for Senate Democratic leader
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7972
-- slug: 2026-11-13-slotkin-joins-sanders-in-calling-for-new-democratic-leadership
-  headline: Slotkin joins Sanders in calling for new Democratic leadership
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8072
-- slug: 2026-11-13-schumer-s-relationship-with-the-party-base-has-not-recovered
-  headline: Schumer's relationship with the party base has not recovered
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8053
-- slug: 2026-11-10-van-hollen-says-senate-democratic-leadership-race-should-not-be-coronation
-  headline: Van Hollen says Senate Democratic leadership race 'should not be coronation'
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8201
-- slug: 2026-11-13-van-hollen-says-ending-corruption-requires-organizing-senate-differently
-  headline: Van Hollen says ending corruption requires organizing Senate differently
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7936
-- slug: 2026-11-09-senate-republicans-set-leadership-vote-as-democrats-weigh-schumer-s-future
-  headline: Senate Republicans set leadership vote as Democrats weigh Schumer's future
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8108
-- slug: 2026-11-13-van-hollen-brings-record-of-opposing-trump-cuts-to-senate-leadership-bid
-  headline: Van Hollen brings record of opposing Trump cuts to Senate leadership bid
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.7844
-- slug: 2026-11-06-incoming-democratic-senators-decline-to-back-schumer-as-majority-leader
-  headline: Incoming Democratic senators decline to back Schumer as majority leader
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.82
-- slug: 2026-11-14-democrats-head-into-new-congress-denying-a-moderate-progressive-rift
-  headline: Democrats head into new Congress denying a moderate-progressive rift
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7712
+  strength: 0.8092
 ---
-
 ## Some incoming senators withhold backing in Schumer-Van Hollen contest
 
 **Subtype:** fact

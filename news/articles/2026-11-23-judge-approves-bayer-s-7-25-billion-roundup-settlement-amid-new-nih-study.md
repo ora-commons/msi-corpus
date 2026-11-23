@@ -1,9 +1,19 @@
 ---
 headline: Judge approves Bayer’s $7.25 billion Roundup settlement amid new NIH study
-secondary_headline: NIH review finds positive but inconsistent glyphosate association with certain blood cancers
+secondary_headline: NIH review finds positive but inconsistent glyphosate association
+  with certain blood cancers
 publish_date: '2026-11-23'
-lede: A Missouri Circuit Court judge approved Bayer’s $7.25 billion settlement on Friday, intended to resolve most current and future Roundup weedkiller litigation. Around the same time, a National Institutes of Health review requested by Health Secretary Robert F. Kennedy Jr. found a positive but inconsistent association between glyphosate and certain blood cancers, adding a new regulatory and litigation issue for Bayer.
-nut_graf: The approval gives Bayer a settlement framework for most remaining and future Roundup claims, but it does not end the dispute over glyphosate. The Environmental Protection Agency’s carcinogenic-risk review is expected to conclude by early 2027, and the NIH study could affect both the agency’s position and lawsuits by plaintiffs who declined the settlement.
+lede: A Missouri Circuit Court judge approved Bayer’s $7.25 billion settlement on
+  Friday, intended to resolve most current and future Roundup weedkiller litigation.
+  Around the same time, a National Institutes of Health review requested by Health
+  Secretary Robert F. Kennedy Jr. found a positive but inconsistent association between
+  glyphosate and certain blood cancers, adding a new regulatory and litigation issue
+  for Bayer.
+nut_graf: The approval gives Bayer a settlement framework for most remaining and future
+  Roundup claims, but it does not end the dispute over glyphosate. The Environmental
+  Protection Agency’s carcinogenic-risk review is expected to conclude by early 2027,
+  and the NIH study could affect both the agency’s position and lawsuits by plaintiffs
+  who declined the settlement.
 primary_entities:
 - Bayer
 - Roundup
@@ -43,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +156,44 @@ related_stories:
   headline: Missouri judge approves Bayer Roundup settlement worth up to $7.25 billion
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.8169
+  strength: 0.818
 - slug: 2026-10-30-bayer-wins-missouri-roundup-trial-first-since-supreme-court-ruling
   headline: Bayer wins Missouri Roundup trial, first since Supreme Court ruling
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.7801
-- slug: 2026-11-15-trump-administration-finalizing-rule-to-reimburse-doctors-for-vaccine-side-effec
-  headline: Trump administration finalizing rule to reimburse doctors for vaccine side effects
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.6365
-- slug: 2026-11-01-trump-administration-delivers-mixed-results-on-maha-promises
-  headline: Trump administration delivers mixed results on MAHA promises
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6219
+  strength: 0.7818
 - slug: 2026-02-18-bayer-proposes-7-25-billion-settlement-to-resolve-roundup-cancer-lawsuits
   headline: Bayer proposes $7.25 billion settlement to resolve Roundup cancer lawsuits
   publish_date: '2026-02-18'
   relation: related
-  strength: 0.8468
+  strength: 0.8479
 - slug: 2026-09-20-epa-dicamba-rule-tracks-bayer-s-preferred-options-records-show
   headline: EPA dicamba rule tracks Bayer's preferred options, records show
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6886
+  strength: 0.6863
 - slug: 2026-01-16-supreme-court-takes-up-bayer-appeal-to-block-thousands-of-roundup-cancer-lawsuit
-  headline: Supreme Court takes up Bayer appeal to block thousands of Roundup cancer lawsuits
+  headline: Supreme Court takes up Bayer appeal to block thousands of Roundup cancer
+    lawsuits
   publish_date: '2026-01-16'
   relation: related
-  strength: 0.8272
+  strength: 0.8271
 - slug: 2026-09-26-study-identifies-485-breast-cancer-linked-chemicals-in-us-pesticide-products
   headline: Study identifies 485 breast cancer-linked chemicals in US pesticide products
   publish_date: '2026-09-26'
   relation: related
-  strength: 0.6582
+  strength: 0.655
 - slug: 2026-04-29-supreme-court-weighs-blocking-roundup-cancer-claims
   headline: Supreme Court weighs blocking Roundup cancer claims
   publish_date: '2026-04-29'
   relation: related
-  strength: 0.8061
+  strength: 0.8022
 - slug: 2026-05-23-proposed-roundup-settlement-faces-delays-as-parties-fight-over-court-venue
   headline: Proposed Roundup settlement faces delays as parties fight over court venue
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.7905
-- slug: 2026-04-03-kentucky-gop-overrides-beshear-on-roundup-cancer-failure-to-warn-shields
-  headline: Kentucky GOP overrides Beshear on Roundup cancer “failure-to-warn” shields
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.7913
-- slug: 2026-09-25-litigation-records-reveal-syngenta-withheld-paraquat-safety-data-from-epa
-  headline: Litigation records reveal Syngenta withheld paraquat safety data from EPA
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6326
-- slug: 2026-09-25-colorado-marijuana-vape-maker-recalls-49-products-over-cancer-linked-solvent
-  headline: Colorado marijuana vape maker recalls 49 products over cancer-linked solvent
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6317
-- slug: 2026-06-25-supreme-court-shields-monsanto-from-roundup-failure-to-warn-claims
-  headline: Supreme Court shields Monsanto from Roundup failure-to-warn claims
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7498
-- slug: 2026-05-22-proposed-roundup-cancer-settlement-may-face-delays-after-bid-for-federal-court
-  headline: Proposed Roundup cancer settlement may face delays after bid for federal court
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7374
-- slug: 2026-08-30-epa-draft-assessment-downplays-flame-retardant-risks-advocates-allege
-  headline: EPA draft assessment downplays flame retardant risks, advocates allege
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.622
-- slug: 2026-08-13-california-cancels-paraquat-registration-phasing-out-parkinson-s-linked-herbicid
-  headline: California cancels paraquat registration, phasing out Parkinson's-linked herbicide
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6376
-- slug: 2026-07-20-epa-scraps-proposed-pfas-limits-on-sewage-sludge-used-as-farm-fertilizer
-  headline: EPA scraps proposed PFAS limits on sewage sludge used as farm fertilizer
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.651
-- slug: 2026-02-26-rfk-jr-backs-u-s-pesticide-production-after-years-opposing-glyphosate
-  headline: RFK Jr. backs U.S. pesticide production after years opposing glyphosate
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6951
-- slug: 2026-07-28-johnson-johnson-pays-5-5-billion-to-settle-talc-cancer-lawsuits
-  headline: Johnson & Johnson pays $5.5 billion to settle talc cancer lawsuits
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6288
+  strength: 0.7873
 ---
-
 ## Judge approves Bayer’s $7.25 billion Roundup settlement amid new NIH study
 
 **Subtype:** fact

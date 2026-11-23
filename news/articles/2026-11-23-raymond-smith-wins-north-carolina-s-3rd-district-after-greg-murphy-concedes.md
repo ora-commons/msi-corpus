@@ -67,7 +67,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - News From The States
   outlet_classes:
@@ -263,3 +263,10 @@ His district includes Duplin County, home to the nation's largest pork producer,
 **Publication date:** 2026-11-23
 **Title:** ‘Dummymander’ helps propel Rep.-elect Smith to Congress in NC-03 victory
 **URL:** https://www.newsfromthestates.com/article/dummymander-helps-propel-rep-elect-smith-congress-nc-03-victory
+
+### src_late_ce08812b8ea85de9 — News From The States, nonprofit, Tier 1, originating
+**Author:** Christine Zhu
+**Publication date:** 2026-11-23
+**Title:** ‘Dummymander’ helps propel Army veteran to Congress in NC’s 3rd District
+**URL:** https://www.newsfromthestates.com/article/dummymander-helps-propel-army-veteran-congress-ncs-3rd-district
+**Added after publication:** true
