@@ -166,6 +166,8 @@ related_stories:
   publish_date: '2026-01-24'
   relation: related
   strength: 0.6539
+analyses:
+- '2026-11-23-jetstar-s-class-action-turns-refund-disputes-into-a-collective-valuation-problem'
 ---
 ## Jetstar faces class action over pandemic-era flight refunds
 
@@ -206,3 +208,8 @@ Echo Law said litigation funder Court House Capital is backing the class action.
 **Publication date:** 2026-11-23
 **Title:** Up to 1.1m people eligible to join class action against Jetstar over alleged failure to refund Covid flights
 **URL:** https://www.theguardian.com/business/2026/nov/23/up-to-11m-people-eligible-to-join-class-action-against-jetstar-over-alleged-failure-to-refund-covid-flights-ntwnfb
+
+---
+
+<!-- analysis-link:2026-11-23-jetstar-s-class-action-turns-refund-disputes-into-a-collective-valuation-problem -->
+**Going deeper:** [Read MSI's analysis of Jetstar's pandemic-era refund dispute →](/analyses/2026-11-23-jetstar-s-class-action-turns-refund-disputes-into-a-collective-valuation-problem)
