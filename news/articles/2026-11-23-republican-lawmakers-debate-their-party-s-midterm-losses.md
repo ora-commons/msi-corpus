@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-11-07'
   relation: related
   strength: 0.6912
+analyses:
+- '2026-11-23-republicans-face-constrained-choices-after-the-2026-midterms'
 ---
 ## Republican lawmakers debate their party's midterm losses
 
@@ -242,3 +244,8 @@ Earlier MSI coverage documented [Republican lawmakers assess midterm losses and 
 **Publication date:** 2026-11-23
 **Title:** After midterm losses, Republicans debate what's next for the party
 **URL:** https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party
+
+---
+
+<!-- analysis-link:2026-11-23-republicans-face-constrained-choices-after-the-2026-midterms -->
+**Going deeper:** [Read MSI's analysis of Republican strategy after the 2026 midterms →](/analyses/2026-11-23-republicans-face-constrained-choices-after-the-2026-midterms)

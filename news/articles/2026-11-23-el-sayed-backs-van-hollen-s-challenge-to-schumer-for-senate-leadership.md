@@ -79,7 +79,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -294,3 +294,10 @@ El-Sayed and Vance, political rivals who clashed on the campaign trail, were dis
 **Publication date:** 2026-11-23
 **Title:** Abdul El-Sayed Is Already Shaking Up the Senate
 **URL:** https://www.wsj.com/politics/abdul-el-sayed-is-already-shaking-up-the-senate-72675805
+
+### src_late_f716fbcfcfc5c6d7 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Emma Tucker
+**Publication date:** 2026-11-23
+**Title:** How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer
+**URL:** https://www.wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c
+**Added after publication:** true
