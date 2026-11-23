@@ -2,8 +2,16 @@
 headline: Jensen Huang returns as Nvidia CEO after Trump's intervention
 secondary_headline: Nvidia adds $1 trillion in market value after the announcement
 publish_date: '2026-11-23'
-lede: Nvidia announced Jensen Huang's return as chief executive on Nov. 23, 2026, after President Trump said his message to the board changed the decision. The announcement followed Nvidia's statement the previous week that Huang would not return and came after his admission of an affair with a woman alleged to be a Chinese spy. Nvidia's shares rose 30%, adding $1 trillion to the chipmaker's market value.
-nut_graf: Huang's return puts him back at the center of a chipmaker whose advanced chips are critical to frontier artificial intelligence systems. The decision also restores a prominent executive to the administration's debate over Chinese access to advanced microchips, while leaving Nvidia's export-control compliance under independent investigation.
+lede: Nvidia announced Jensen Huang's return as chief executive on Nov. 23, 2026,
+  after President Trump said his message to the board changed the decision. The announcement
+  followed Nvidia's statement the previous week that Huang would not return and came
+  after his admission of an affair with a woman alleged to be a Chinese spy. Nvidia's
+  shares rose 30%, adding $1 trillion to the chipmaker's market value.
+nut_graf: Huang's return puts him back at the center of a chipmaker whose advanced
+  chips are critical to frontier artificial intelligence systems. The decision also
+  restores a prominent executive to the administration's debate over Chinese access
+  to advanced microchips, while leaving Nvidia's export-control compliance under independent
+  investigation.
 primary_entities:
 - Jensen Huang
 - Nvidia
@@ -47,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,113 +158,58 @@ related_stories:
   headline: Nvidia reinstates Jensen Huang after Trump says he persuaded the board
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.91
+  strength: 0.9106
 - slug: 2026-11-23-nvidia-shares-jump-more-than-25-after-huang-s-reinstatement
   headline: Nvidia shares jump more than 25% after Huang's reinstatement
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.9006
+  strength: 0.9008
 - slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-as-shares-open-30-higher
   headline: Jensen Huang returns as Nvidia CEO as shares open 30% higher
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8978
+  strength: 0.8981
 - slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
+  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC
+    probe
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8916
+  strength: 0.8919
 - slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-after-rejecting-his-return-offer
   headline: Nvidia board reinstates Jensen Huang after rejecting his return offer
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8674
+  strength: 0.8682
 - slug: 2026-11-23-trump-declines-to-say-if-he-was-briefed-as-nvidia-reinstates-huang
   headline: Trump declines to say if he was briefed as Nvidia reinstates Huang
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8227
+  strength: 0.8239
 - slug: 2026-11-23-trump-says-blanche-government-holds-no-evidence-of-huang-s-unlawful-conduct
-  headline: 'Trump says Blanche: government holds no evidence of Huang’s unlawful conduct'
+  headline: 'Trump says Blanche: government holds no evidence of Huang’s unlawful
+    conduct'
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8214
-- slug: 2026-11-16-nvidia-board-won-t-consider-huang-s-return-as-ceo-source-says
-  headline: Nvidia board won't consider Huang's return as CEO, source says
-  publish_date: '2026-11-16'
+  strength: 0.822
+- slug: 2026-11-23-bessent-appears-to-ease-his-stance-on-jensen-huang-s-return-to-nvidia
+  headline: Bessent appears to ease his stance on Jensen Huang's return to Nvidia
+  publish_date: '2026-11-23'
   relation: related
-  strength: 0.8467
-- slug: 2026-11-19-robert-reich-argues-nvidia-s-reliance-on-jensen-huang-gives-him-unusual-leverage
-  headline: Robert Reich argues Nvidia's reliance on Jensen Huang gives him unusual leverage
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.8195
-- slug: 2026-11-17-petition-seeks-huang-s-return-board-not-currently-considering-it-source-says
-  headline: Petition seeks Huang's return; board not currently considering it, source says
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8289
-- slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board meets on whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8508
-- slug: 2026-11-17-jensen-huang-offers-to-return-to-nvidia-and-agrees-to-testify-to-congress
-  headline: Jensen Huang offers to return to Nvidia and agrees to testify to Congress
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8184
-- slug: 2026-11-17-nvidia-director-urges-board-to-avoid-hasty-succession-after-huang-s-resignation
-  headline: Nvidia director urges board to avoid hasty succession after Huang's resignation
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8137
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8418
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
-  headline: Nvidia CEO Jensen Huang resigns after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8288
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8381
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
-  headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8259
-- slug: 2026-11-14-trump-s-closeness-to-huang-draws-scrutiny-over-intelligence-concerns
-  headline: Trump's closeness to Huang draws scrutiny over intelligence concerns
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.8117
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
-  headline: Jensen Huang resigns as Nvidia CEO after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8213
-- slug: 2026-11-13-jensen-huang-resigns-from-nvidia-after-board-ousts-him
-  headline: Jensen Huang resigns from Nvidia after board ousts him
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8142
+  strength: 0.8215
 image:
   url: /articles/2026-11-23-jensen-huang-returns-as-nvidia-ceo-after-trump-s-intervention.png
-  alt: "Illustration accompanying article: Jensen Huang returns as Nvidia CEO after Trump's intervention"
+  alt: 'Illustration accompanying article: Jensen Huang returns as Nvidia CEO after
+    Trump''s intervention'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Jensen Huang returns as Nvidia CEO after Trump's intervention
 
 **Subtype:** fact

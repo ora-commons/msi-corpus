@@ -66,7 +66,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -252,3 +252,10 @@ MSI reported on Nov. 21 that COP31 had gone into an added day of talks after a d
 **Publication date:** 2026-11-22
 **Title:** Yearslong fossil fuel disputes set stage for UN climate talks collapse
 **URL:** https://apnews.com/article/climate-change-cop31-fossil-fuels-turkey-f571df2b9d6dc6fd6b4b991e988c3bdd
+
+### src_late_588a7fd4a572bcae — Associated Press, wire, Tier 1, originating
+**Author:** Peter Prengaman, Associated Press
+**Publication date:** 2026-11-23
+**Title:** The collapse of UN climate talks over fossil fuels was years in the making
+**URL:** https://www.pbs.org/newshour/world/the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making
+**Added after publication:** true
