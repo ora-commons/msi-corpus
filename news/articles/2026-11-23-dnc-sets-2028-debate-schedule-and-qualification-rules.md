@@ -2,8 +2,19 @@
 headline: DNC sets 2028 debate schedule and qualification rules
 secondary_headline: DNC will cap each 2028 primary debate at 20 qualifying candidates
 publish_date: '2026-11-23'
-lede: The Democratic National Committee said Monday it will hold 12 presidential primary debates for the 2028 election, capping participation in each debate at 20 qualifying candidates and holding a debate over two nights if needed. The party also said candidates must pledge to disavow dark money, said qualification criteria would resemble those used in 2020 and include polling and grassroots fundraising, and determined that five debates will be in 2027 and seven in 2028, with the first in June and the final planned for March 2028.
-nut_graf: The announcement comes before major candidates have launched 2028 campaigns and sets rules for qualifying candidates. The debates could generate attention and narrow the field of possible nominees, and specific times and locations are due in January. The Associated Press reported that the debate schedule is “one of the most closely watched decisions the DNC makes,” alongside selecting the city for the 2028 convention.
+lede: The Democratic National Committee said Monday it will hold 12 presidential primary
+  debates for the 2028 election, capping participation in each debate at 20 qualifying
+  candidates and holding a debate over two nights if needed. The party also said candidates
+  must pledge to disavow dark money, said qualification criteria would resemble those
+  used in 2020 and include polling and grassroots fundraising, and determined that
+  five debates will be in 2027 and seven in 2028, with the first in June and the final
+  planned for March 2028.
+nut_graf: The announcement comes before major candidates have launched 2028 campaigns
+  and sets rules for qualifying candidates. The debates could generate attention and
+  narrow the field of possible nominees, and specific times and locations are due
+  in January. The Associated Press reported that the debate schedule is “one of the
+  most closely watched decisions the DNC makes,” alongside selecting the city for
+  the 2028 convention.
 primary_entities:
 - Democratic National Committee
 - Ken Martin
@@ -41,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,116 +152,60 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-23-dnc-sets-2028-debate-schedule-and-qualification-rules.png
-  alt: 'Illustration accompanying article: DNC sets 2028 debate schedule and qualification rules'
+  alt: 'Illustration accompanying article: DNC sets 2028 debate schedule and qualification
+    rules'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
-- slug: 2026-11-19-democrats-bring-election-funding-proposals-to-incoming-congress
-  headline: Democrats bring election funding proposals to incoming Congress
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.6312
-- slug: 2026-11-12-democrats-gather-in-denver-to-plot-course-after-midterm-wins
-  headline: Democrats gather in Denver to plot course after midterm wins
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6153
-- slug: 2026-11-04-house-democrats-promise-a-100-day-cost-agenda-and-prepare-oversight-of-trump
-  headline: House Democrats promise a 100-day cost agenda and prepare oversight of Trump
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6208
-- slug: 2026-11-06-more-than-two-dozen-democrats-consider-2028-runs-former-obama-aide-says
-  headline: More than two dozen Democrats consider 2028 runs, former Obama aide says
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.607
-- slug: 2026-11-03-trump-pairs-5-000-pledge-with-national-mall-closing-argument
-  headline: Trump pairs $5,000 pledge with National Mall closing argument
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6031
 - slug: 2026-08-20-boston-denver-and-philadelphia-advance-in-dnc-s-2028-convention-host-search
-  headline: Boston, Denver and Philadelphia advance in DNC's 2028 convention host search
+  headline: Boston, Denver and Philadelphia advance in DNC's 2028 convention host
+    search
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.7213
+  strength: 0.7209
 - slug: 2026-08-13-dnc-meets-in-austin-to-finalize-2028-presidential-primary-calendar
   headline: DNC meets in Austin to finalize 2028 presidential primary calendar
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.7161
-- slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
-  headline: Democrats elevate Trump corruption claims as midterm campaign issue
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.596
+  strength: 0.7159
 - slug: 2026-09-10-convention-goers-name-vance-and-rubio-as-top-2028-contenders
   headline: Convention-goers name Vance and Rubio as top 2028 contenders
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6557
+  strength: 0.6554
 - slug: 2026-08-15-dnc-to-approve-2028-primary-calendar-with-south-carolina-leadoff
   headline: DNC to approve 2028 primary calendar with South Carolina leadoff
   publish_date: '2026-08-15'
   relation: related
-  strength: 0.6941
+  strength: 0.6934
 - slug: 2026-07-20-dnc-panel-could-vote-friday-on-2028-primary-calendar-order
   headline: DNC panel could vote Friday on 2028 primary calendar order
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.6989
+  strength: 0.6983
 - slug: 2026-07-24-democrats-lock-in-2028-primary-calendar-keeping-iowa-off-leadoff-slot
   headline: Democrats lock in 2028 primary calendar, keeping Iowa off leadoff slot
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6893
-- slug: 2026-09-11-vance-s-dallas-convention-likely-to-solidify-2028-frontrunner-status
-  headline: Vance's Dallas convention likely to solidify 2028 frontrunner status
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6127
-- slug: 2026-08-15-dnc-adopts-competing-resolutions-on-ice-s-future-at-summer-meeting
-  headline: DNC adopts competing resolutions on ICE's future at summer meeting
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6102
+  strength: 0.6889
 - slug: 2026-06-26-dnc-launches-nationwide-affordability-weekend-with-hundreds-of-events
   headline: DNC launches nationwide affordability weekend with hundreds of events
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6538
-- slug: 2026-08-05-dnc-chair-ken-martin-faces-criticism-over-party-finances-and-internal-dissent
-  headline: DNC chair Ken Martin faces criticism over party finances and internal dissent
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6173
-- slug: 2026-07-27-dnc-chair-ken-martin-faces-scrutiny-over-finances-and-internal-criticism
-  headline: DNC chair Ken Martin faces scrutiny over finances and internal criticism
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6171
+  strength: 0.655
 - slug: 2026-05-28-southern-democratic-chairs-back-south-carolina-as-first-2028-primary-state
   headline: Southern Democratic chairs back South Carolina as first 2028 primary state
   publish_date: '2026-05-28'
   relation: related
-  strength: 0.6508
-- slug: 2026-01-13-dnc-commits-millions-to-bring-voter-registration-under-party-control
-  headline: DNC commits millions to bring voter registration under party control
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6657
-- slug: 2026-05-14-dnc-chair-ken-martin-faces-internal-skepticism-ahead-of-2026-midterms
-  headline: DNC chair Ken Martin faces internal skepticism ahead of 2026 midterms
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6481
+  strength: 0.6506
 ---
-
 ## DNC sets 2028 debate schedule and qualification rules
 
 **Subtype:** fact
