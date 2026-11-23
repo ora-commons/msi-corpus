@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-11-04'
   relation: related
   strength: 0.7885
+analyses:
+- '2026-11-20-trump-s-vance-reassignment-concentrates-immediate-personnel-authority-in-the-pre'
 ---
 ## Trump says Vance’s post left out whether going to war with Iran was right
 
@@ -241,3 +243,8 @@ Trump’s remarks paired his praise for Vance’s performance with his observati
 **Publication date:** 2026-11-20
 **Title:** Trump Says Vance Erred in Critique of Iran War as Questions Swirl About VP
 **URL:** https://www.wsj.com/politics/trump-says-vance-erred-in-critique-of-iran-war-as-questions-swirl-about-vp-87006177
+
+---
+
+<!-- analysis-link:2026-11-20-trump-s-vance-reassignment-concentrates-immediate-personnel-authority-in-the-pre -->
+**Going deeper:** [Read MSI's analysis of Trump–Vance assignment boundaries →](/analyses/2026-11-20-trump-s-vance-reassignment-concentrates-immediate-personnel-authority-in-the-pre)
