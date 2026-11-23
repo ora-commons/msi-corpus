@@ -43,7 +43,8 @@ primary_themes:
 topic_tags:
 - crime, law and justice
 - politics
-storyline_nexus: []
+storyline_nexus:
+- newsom-s-mass-commutation-of-california-death-sentences
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -206,6 +207,7 @@ related_stories:
   relation: related
   strength: 0.6914
 ---
+
 ## Newsom empties California death row with universal clemency
 
 **Subtype:** fact

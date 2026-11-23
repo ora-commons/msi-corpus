@@ -28,7 +28,8 @@ topic_tags:
 - crime
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- newsom-s-mass-commutation-of-california-death-sentences
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.6687
 ---
+
 ## Newsom commutes more than 500 California death sentences
 
 **Subtype:** fact

@@ -39,7 +39,8 @@ topic_tags:
 - judiciary
 - law
 - politics
-storyline_nexus: []
+storyline_nexus:
+- newsom-s-mass-commutation-of-california-death-sentences
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -202,6 +203,7 @@ related_stories:
   relation: related
   strength: 0.673
 ---
+
 ## Newsom signals California commutation plan with podcast 'rocking chair test'
 
 **Subtype:** fact

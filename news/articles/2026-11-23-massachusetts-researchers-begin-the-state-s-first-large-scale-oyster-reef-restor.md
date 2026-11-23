@@ -1,9 +1,21 @@
 ---
-headline: Massachusetts researchers begin the state's first large-scale oyster reef restoration
+headline: Massachusetts researchers begin the state's first large-scale oyster reef
+  restoration
 secondary_headline: Westport survey counted hundreds of oysters ahead of spring seeding
 publish_date: '2026-11-23'
-lede: Researchers in Massachusetts have begun the state's first large-scale oyster reef restoration, with proposed locations in Westport, Fairhaven, Mashpee and Bourne. The Massachusetts Division of Marine Fisheries and The Nature Conservancy surveyed existing oysters in October and plan to seed future reef sites in the spring. Habitat Restoration Specialist Sean Terrill identified the proposed 60-acre Westport River site as the largest and the flagship for oyster restoration; the restoration seeks to rebuild coastal habitat and improve water quality, but the project's results remain uncertain.
-nut_graf: The effort could rebuild habitat for fish and other species, while oysters could improve water quality by pulling nitrogen from the river and driving excess carbon into the soil. Terrill is still defining what success will look like; some areas his team surveyed in Massachusetts in October already held hundreds of oysters per square meter, while the Chesapeake Bay standard is 50 oysters per square meter.
+lede: Researchers in Massachusetts have begun the state's first large-scale oyster
+  reef restoration, with proposed locations in Westport, Fairhaven, Mashpee and Bourne.
+  The Massachusetts Division of Marine Fisheries and The Nature Conservancy surveyed
+  existing oysters in October and plan to seed future reef sites in the spring. Habitat
+  Restoration Specialist Sean Terrill identified the proposed 60-acre Westport River
+  site as the largest and the flagship for oyster restoration; the restoration seeks
+  to rebuild coastal habitat and improve water quality, but the project's results
+  remain uncertain.
+nut_graf: The effort could rebuild habitat for fish and other species, while oysters
+  could improve water quality by pulling nitrogen from the river and driving excess
+  carbon into the soil. Terrill is still defining what success will look like; some
+  areas his team surveyed in Massachusetts in October already held hundreds of oysters
+  per square meter, while the Chesapeake Bay standard is 50 oysters per square meter.
 primary_entities:
 - Massachusetts Division of Marine Fisheries
 - The Nature Conservancy
@@ -41,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +152,18 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-19-michigan-rivers-mostly-exceed-fecal-limits-state-testing-lead-says
-  headline: Michigan rivers mostly exceed fecal limits, state testing lead says
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.6076
-- slug: 2026-11-18-new-england-fishery-management-council-weighs-reopening-scallop-ground
-  headline: New England Fishery Management Council weighs reopening scallop ground
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6134
-- slug: 2026-11-13-maine-delegation-proposed-menhaden-compromise-ahead-of-january-quota-split
-  headline: Maine delegation proposed menhaden compromise ahead of January quota split
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6391
-- slug: 2026-11-12-commission-cuts-menhaden-harvest-and-caps-chesapeake-bay-catch-at-21-8
-  headline: Commission cuts menhaden harvest and caps Chesapeake Bay catch at 21.8%
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6245
-- slug: 2026-11-13-new-london-s-state-pier-has-offshore-wind-work-only-through-2027
-  headline: New London's State Pier has offshore wind work only through 2027
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.6073
-- slug: 2026-10-30-striped-bass-decline-spurs-east-coast-anglers-to-seek-tougher-limits
-  headline: Striped bass decline spurs East Coast anglers to seek tougher limits
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6179
-- slug: 2026-10-30-striped-bass-decline-threatens-east-coast-fishing-tradition
-  headline: Striped bass decline threatens East Coast fishing tradition
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6136
-- slug: 2026-09-23-noaa-documents-first-olive-ridley-sea-turtle-nestings-on-california-coast
-  headline: NOAA documents first olive ridley sea turtle nestings on California coast
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6296
-- slug: 2026-09-25-trump-order-directs-agencies-to-prioritize-recreational-fishing
-  headline: Trump order directs agencies to prioritize recreational fishing
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6051
 - slug: 2026-08-10-florida-wildlife-agencies-announce-coastal-corridor-to-protect-marine-life
-  headline: Florida wildlife agencies announce coastal corridor to protect marine life
+  headline: Florida wildlife agencies announce coastal corridor to protect marine
+    life
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6553
-- slug: 2026-08-26-maine-puffin-watching-cruises-sell-out-as-restored-colonies-draw-thousands
-  headline: Maine puffin-watching cruises sell out as restored colonies draw thousands
-  publish_date: '2026-08-26'
-  relation: related
-  strength: 0.6299
-- slug: 2026-08-25-maine-places-discarded-christmas-trees-on-popham-dunes-to-help-rebuild-them
-  headline: Maine places discarded Christmas trees on Popham dunes to help rebuild them
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6103
-- slug: 2026-08-15-volunteer-network-rescues-hundreds-of-cold-stunned-turtles-on-cape-cod
-  headline: Volunteer network rescues hundreds of cold-stunned turtles on Cape Cod
-  publish_date: '2026-08-15'
-  relation: related
-  strength: 0.6179
-- slug: 2026-07-20-biologists-band-american-oystercatcher-chicks-on-rhode-island-beach
-  headline: Biologists band American oystercatcher chicks on Rhode Island beach
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6178
-- slug: 2026-06-20-shark-encounters-rise-along-east-coast-as-populations-rebound
-  headline: Shark encounters rise along East Coast as populations rebound
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6333
+  strength: 0.654
 - slug: 2026-04-16-retired-cranberry-farm-becomes-massachusetts-wetland-model-as-farms-retreat
   headline: Retired cranberry farm becomes Massachusetts wetland model as farms retreat
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.654
-- slug: 2026-04-04-sand-mined-from-cranberry-bogs-fuels-massachusetts-beach-projects-residents-say
-  headline: Sand mined from cranberry bogs fuels Massachusetts beach projects, residents say
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6323
-- slug: 2026-05-09-five-years-after-hurricane-ida-barataria-preserve-begins-repairs
-  headline: Five years after Hurricane Ida, Barataria Preserve begins repairs
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6209
-- slug: 2026-04-26-boston-area-groups-urge-end-to-sewage-discharges-in-waterways
-  headline: Boston-area groups urge end to sewage discharges in waterways
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6163
-- slug: 2026-05-23-program-gives-maine-fish-fillets-to-schools-and-food-banks
-  headline: Program gives Maine fish fillets to schools and food banks
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6046
+  strength: 0.6526
 ---
-
 ## Massachusetts researchers begin the state's first large-scale oyster reef restoration
 
 **Subtype:** fact

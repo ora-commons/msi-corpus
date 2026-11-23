@@ -28,7 +28,8 @@ topic_tags:
 - crime
 - government
 - judiciary
-storyline_nexus: []
+storyline_nexus:
+- newsom-s-mass-commutation-of-california-death-sentences
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.6684
 ---
+
 ## Newsom moves to commute all California death sentences to life without parole
 
 **Subtype:** fact

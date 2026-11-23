@@ -2,8 +2,15 @@
 headline: Lead azide detonation could affect Middletown and nearby communities
 secondary_headline: Environmentalists sued last week over health and pollution concerns
 publish_date: '2026-11-23'
-lede: A planned detonation of 68 barrels of lead azide at the Iowa Army Ammunition Plant in Middletown could disperse material through the air and onto the ground. Nearly 400 people live in the town where the plant sits, and thousands more in surrounding areas could be affected. Environmentalists sued last week over health and pollution concerns and won an appeals court stay that put an emergency permit approved by the U.S. Environmental Protection Agency on hold pending a decision on its validity.
-nut_graf: 'Two safety claims are at issue: Trump said a controlled detonation would be much safer, while the lawsuit cites health and pollution concerns. The appeals court still has to decide whether the emergency permit is valid.'
+lede: A planned detonation of 68 barrels of lead azide at the Iowa Army Ammunition
+  Plant in Middletown could disperse material through the air and onto the ground.
+  Nearly 400 people live in the town where the plant sits, and thousands more in surrounding
+  areas could be affected. Environmentalists sued last week over health and pollution
+  concerns and won an appeals court stay that put an emergency permit approved by
+  the U.S. Environmental Protection Agency on hold pending a decision on its validity.
+nut_graf: 'Two safety claims are at issue: Trump said a controlled detonation would
+  be much safer, while the lawsuit cites health and pollution concerns. The appeals
+  court still has to decide whether the emergency permit is valid.'
 primary_entities:
 - Iowa Army Ammunition Plant
 - Middletown
@@ -48,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +158,43 @@ related_stories:
   headline: Army plans Iowa lead azide detonation despite appeals court ruling
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8727
+  strength: 0.8717
 - slug: 2026-11-22-army-plans-emergency-move-to-detonate-iowa-chemicals-despite-court-stay
   headline: Army plans emergency move to detonate Iowa chemicals despite court stay
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.8722
+  strength: 0.8717
 - slug: 2026-11-23-trump-orders-army-to-await-agreement-from-8th-circuit-and-rob-sand
   headline: Trump orders Army to await agreement from 8th Circuit and Rob Sand
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8646
+  strength: 0.8635
 - slug: 2026-11-23-residents-prepare-near-iowa-army-plant-for-lead-azide-detonation
   headline: Residents prepare near Iowa Army plant for lead azide detonation
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8594
+  strength: 0.8588
 - slug: 2026-11-22-army-seeks-emergency-provisions-to-detonate-iowa-chemicals-despite-stay
   headline: Army seeks emergency provisions to detonate Iowa chemicals despite stay
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.8628
+  strength: 0.862
 - slug: 2026-11-23-environmental-groups-seek-another-pause-before-iowa-lead-azide-detonation
   headline: Environmental groups seek another pause before Iowa lead azide detonation
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8532
+  strength: 0.853
 - slug: 2026-11-20-u-s-army-delays-iowa-detonation-of-degraded-lead-azide-after-lawsuit
   headline: U.S. Army delays Iowa detonation of degraded lead azide after lawsuit
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.8614
+  strength: 0.8618
 - slug: 2026-11-22-army-plans-iowa-lead-azide-detonation-by-nov-24-despite-court-pause
   headline: Army plans Iowa lead azide detonation by Nov. 24 despite court pause
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.8432
-- slug: 2026-11-20-appeals-court-stays-army-lead-azide-detonation-permit-in-iowa
-  headline: Appeals court stays Army lead-azide detonation permit in Iowa
-  publish_date: '2026-11-20'
-  relation: related
-  strength: 0.8395
-- slug: 2026-11-19-environmental-groups-sue-epa-as-army-postpones-iowa-lead-azide-detonation
-  headline: Environmental groups sue EPA as Army postpones Iowa lead-azide detonation
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.8229
-- slug: 2026-11-19-u-s-army-plans-iowa-detonation-as-officials-warn-of-lead-dust
-  headline: U.S. Army plans Iowa detonation as officials warn of lead dust
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.8187
-- slug: 2026-11-19-iowa-schools-close-friday-as-u-s-army-updates-lead-drift-maps
-  headline: Iowa schools close Friday as U.S. Army updates lead-drift maps
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7679
-- slug: 2026-11-19-danville-schools-close-friday-over-iowa-detonation-uncertainty
-  headline: Danville schools close Friday over Iowa detonation uncertainty
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.767
-- slug: 2026-10-28-study-finds-7-million-exposed-to-high-lead-levels-in-los-angeles-fire-smoke
-  headline: Study finds 7 million exposed to high lead levels in Los Angeles fire smoke
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6388
-- slug: 2026-10-30-judge-weighs-halting-trump-s-250-foot-d-c-arch-at-emergency-hearing
-  headline: Judge weighs halting Trump's 250-foot D.C. arch at emergency hearing
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.622
-- slug: 2026-10-27-minnpost-samples-show-high-lead-levels-at-st-paul-s-largest-homeless-encampment
-  headline: MinnPost samples show high lead levels at St. Paul's largest homeless encampment
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.621
-- slug: 2026-10-21-toledo-orders-about-1-000-residents-to-evacuate-after-chemical-tank-explosion
-  headline: Toledo orders about 1,000 residents to evacuate after chemical tank explosion
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6202
-- slug: 2026-10-09-arlington-county-sues-to-halt-trump-s-250-foot-arch-over-environmental-review
-  headline: Arlington County sues to halt Trump's 250-foot arch over environmental review
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6422
-- slug: 2026-08-25-federal-judge-withholds-approval-of-east-palestine-settlement
-  headline: Federal judge withholds approval of East Palestine settlement
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6294
-- slug: 2026-03-11-adirondacks-residents-clamor-over-proposed-artillery-testing
-  headline: Adirondacks residents clamor over proposed artillery testing
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.6839
+  strength: 0.8424
 ---
-
 ## Lead azide detonation could affect Middletown and nearby communities
 
 **Subtype:** fact

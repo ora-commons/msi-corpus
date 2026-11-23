@@ -1,9 +1,20 @@
 ---
 headline: Vance helps persuade Nvidia's board to reinstate Jensen Huang
-secondary_headline: Trump said the board sought assurance Huang posed no security threat
+secondary_headline: Trump said the board sought assurance Huang posed no security
+  threat
 publish_date: '2026-11-23'
-lede: Vice President JD Vance worked Saturday and Sunday to persuade Nvidia's board to reinstate co-founder and longtime CEO Jensen Huang, according to a U.S. official and a person familiar with the conversations. President Donald Trump had asked Vance to examine whether Huang had done anything wrong or represented a security risk, the official said. Nvidia said Monday that input from senior levels of the U.S. government persuaded the board that Huang's return would not pose a national-security risk.
-nut_graf: The intervention placed senior U.S. officials directly inside Nvidia's leadership deliberations and reflected the administration's view of Huang and Nvidia as vital to the artificial-intelligence sector and the broader economy. According to a U.S. official, Trump and Vance also concluded that reinstating Huang would give the United States the most leverage over the development and export of advanced semiconductors.
+lede: Vice President JD Vance worked Saturday and Sunday to persuade Nvidia's board
+  to reinstate co-founder and longtime CEO Jensen Huang, according to a U.S. official
+  and a person familiar with the conversations. President Donald Trump had asked Vance
+  to examine whether Huang had done anything wrong or represented a security risk,
+  the official said. Nvidia said Monday that input from senior levels of the U.S.
+  government persuaded the board that Huang's return would not pose a national-security
+  risk.
+nut_graf: The intervention placed senior U.S. officials directly inside Nvidia's leadership
+  deliberations and reflected the administration's view of Huang and Nvidia as vital
+  to the artificial-intelligence sector and the broader economy. According to a U.S.
+  official, Trump and Vance also concluded that reinstating Huang would give the United
+  States the most leverage over the development and export of advanced semiconductors.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -50,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +164,46 @@ related_stories:
   headline: Nvidia reinstates Jensen Huang after Trump says he persuaded the board
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8804
+  strength: 0.8797
 - slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
+  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC
+    probe
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8767
+  strength: 0.8763
 - slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-after-rejecting-his-return-offer
   headline: Nvidia board reinstates Jensen Huang after rejecting his return offer
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8649
+  strength: 0.864
 - slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-after-trump-s-intervention
   headline: Jensen Huang returns as Nvidia CEO after Trump's intervention
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8483
+  strength: 0.8473
 - slug: 2026-11-23-nvidia-shares-jump-more-than-25-after-huang-s-reinstatement
   headline: Nvidia shares jump more than 25% after Huang's reinstatement
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.843
+  strength: 0.842
 - slug: 2026-11-23-trump-says-blanche-government-holds-no-evidence-of-huang-s-unlawful-conduct
-  headline: 'Trump says Blanche: government holds no evidence of Huang’s unlawful conduct'
+  headline: 'Trump says Blanche: government holds no evidence of Huang’s unlawful
+    conduct'
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8201
+  strength: 0.8197
 - slug: 2026-11-23-trump-declines-to-say-if-he-was-briefed-as-nvidia-reinstates-huang
   headline: Trump declines to say if he was briefed as Nvidia reinstates Huang
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8192
+  strength: 0.8184
 - slug: 2026-11-17-petition-seeks-huang-s-return-board-not-currently-considering-it-source-says
-  headline: Petition seeks Huang's return; board not currently considering it, source says
+  headline: Petition seeks Huang's return; board not currently considering it, source
+    says
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.83
-- slug: 2026-11-16-nvidia-board-won-t-consider-huang-s-return-as-ceo-source-says
-  headline: Nvidia board won't consider Huang's return as CEO, source says
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.834
-- slug: 2026-11-17-jensen-huang-offers-to-return-to-nvidia-and-agrees-to-testify-to-congress
-  headline: Jensen Huang offers to return to Nvidia and agrees to testify to Congress
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8243
-- slug: 2026-11-17-nvidia-director-urges-board-to-avoid-hasty-succession-after-huang-s-resignation
-  headline: Nvidia director urges board to avoid hasty succession after Huang's resignation
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8066
-- slug: 2026-11-14-trump-s-closeness-to-huang-draws-scrutiny-over-intelligence-concerns
-  headline: Trump's closeness to Huang draws scrutiny over intelligence concerns
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.8222
-- slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board meets on whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8315
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-colette-kress-named-interim-ceo
-  headline: Nvidia CEO Jensen Huang resigns; Colette Kress named interim CEO
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8226
-- slug: 2026-11-12-trump-reportedly-briefed-on-huang-intelligence-findings-before-scandal-broke
-  headline: Trump reportedly briefed on Huang intelligence findings before scandal broke
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8187
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.815
-- slug: 2026-11-13-jensen-huang-resigns-from-nvidia-after-board-ousts-him
-  headline: Jensen Huang resigns from Nvidia after board ousts him
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8067
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
-  headline: Nvidia CEO Jensen Huang resigns after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8076
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-amid-affair-disclosures
-  headline: Jensen Huang resigns as Nvidia CEO amid affair disclosures
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8073
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8149
+  strength: 0.8292
 ---
-
 ## Vance helps persuade Nvidia's board to reinstate Jensen Huang
 
 **Subtype:** fact
