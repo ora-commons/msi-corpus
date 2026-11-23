@@ -29,7 +29,8 @@ topic_tags:
 - government
 - international military intervention
 - politics
-storyline_nexus: []
+storyline_nexus:
+- ukraine-war-peace-negotiations
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.7024
 ---
+
 ## Putin leans on strikes, European fatigue as two Ukraine bets go badly
 
 **Subtype:** fact

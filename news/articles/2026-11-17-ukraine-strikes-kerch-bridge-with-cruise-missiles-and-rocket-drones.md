@@ -31,7 +31,8 @@ topic_tags:
 - armed conflict
 - conflict, war and peace
 - international military intervention
-storyline_nexus: []
+storyline_nexus:
+- ukraine-war-peace-negotiations
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.7382
 ---
+
 ## Ukraine strikes Kerch bridge with cruise missiles and rocket drones
 
 **Subtype:** fact

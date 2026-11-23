@@ -68,10 +68,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - PBS News
   outlet_classes:
+  - public_broadcaster
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -256,3 +258,9 @@ What remains unsettled is what Democrats will put in a bill, what it will cost, 
 **Publication date:** 2026-11-23
 **Title:** Steps toward Medicare for All become part of Democratic agenda
 **URL:** https://apnews.com/article/universal-healthcare-medicare-for-all-democrats-medicaid-8b60b5fa8c1af9c0a87950100a1d0153
+
+### src_late_49331d73a6114175 — PBS News, public_broadcaster, Tier 1, originating
+**Publication date:** 2026-11-23
+**Title:** Medicare for All was once a long shot. Now universal healthcare is on the Democrats' agenda
+**URL:** https://www.pbs.org/newshour/politics/medicare-for-all-was-once-a-long-shot-now-universal-healthcare-is-on-the-democrats-agenda
+**Added after publication:** true
