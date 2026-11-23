@@ -209,6 +209,8 @@ related_stories:
   publish_date: '2026-09-17'
   relation: related
   strength: 0.7314
+analyses:
+- '2026-11-23-acf-shifts-head-start-pay-decisions-as-staffing-gaps-persist'
 ---
 ## Trump administration withdraws Head Start wage-and-benefit mandate
 
@@ -252,3 +254,8 @@ News From The States reported that programs may be wary of voluntarily adopting 
 **Publication date:** 2026-11-23
 **Title:** Trump administration rescinds rule that would boost staff recruitment and retention for Head Start
 **URL:** https://www.newsfromthestates.com/article/trump-administration-rescinds-rule-would-boost-staff-recruitment-and-retention-head-start
+
+---
+
+<!-- analysis-link:2026-11-23-acf-shifts-head-start-pay-decisions-as-staffing-gaps-persist -->
+**Going deeper:** [Read MSI's analysis of Head Start compensation and classroom capacity →](/analyses/2026-11-23-acf-shifts-head-start-pay-decisions-as-staffing-gaps-persist)

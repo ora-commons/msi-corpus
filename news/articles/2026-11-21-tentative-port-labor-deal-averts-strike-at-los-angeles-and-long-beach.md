@@ -58,7 +58,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -213,3 +213,10 @@ MSI previously reported that [a guard strike could begin Saturday](/articles/202
 **Publication date:** 2026-11-21
 **Title:** Tentative Deal Averts Strike Threat at Busiest U.S. Ports
 **URL:** https://www.wsj.com/logistics-report/tentative-deal-averts-strike-threat-at-busiest-u-s-ports-6f9a60d1
+
+### src_late_eadaf747d60dc41f — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Mark R. Long
+**Publication date:** 2026-11-23
+**Title:** Labor Deal Fends Off Strike Threat at Ports of L.A., Long Beach
+**URL:** https://www.wsj.com/logistics-report/labor-deal-fends-off-strike-threat-at-ports-of-l-a-long-beach-5d578a35
+**Added after publication:** true

@@ -214,6 +214,8 @@ related_stories:
   publish_date: '2026-11-13'
   relation: related
   strength: 0.8021
+analyses:
+- '2026-11-23-oil-traders-weigh-projected-surplus-amid-hormuz-traffic-below-prewar-levels'
 ---
 ## Brent, WTI fall 0.5% amid tanker attacks and projected oil surplus
 
@@ -252,3 +254,8 @@ MSI's [Nov. 20 report](/articles/2026-11-20-supply-recovery-limits-oil-gains-ami
 **Publication date:** 2026-11-23
 **Title:** Oil Prices Edge Lower as Traders Weigh Supply Surplus, Gulf Attacks
 **URL:** https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f
+
+---
+
+<!-- analysis-link:2026-11-23-oil-traders-weigh-projected-surplus-amid-hormuz-traffic-below-prewar-levels -->
+**Going deeper:** [Read MSI's analysis of Hormuz traffic and oil surplus →](/analyses/2026-11-23-oil-traders-weigh-projected-surplus-amid-hormuz-traffic-below-prewar-levels)
