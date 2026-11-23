@@ -176,6 +176,8 @@ related_stories:
   publish_date: '2026-01-10'
   relation: related
   strength: 0.8539
+analyses:
+- '2026-11-21-democratic-control-revives-a-credit-card-cap-debate-without-a-demonstrated-legis'
 ---
 ## Trump says he will work with Democrats to cap credit card rates
 
@@ -218,3 +220,8 @@ Americans are now carrying more credit card debt than ever, to the tune of about
 **Publication date:** 2026-11-21
 **Title:** Trump vows to work with Democrats to cap credit card interest rates at 10%
 **URL:** https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10
+
+---
+
+<!-- analysis-link:2026-11-21-democratic-control-revives-a-credit-card-cap-debate-without-a-demonstrated-legis -->
+**Going deeper:** [Read MSI's analysis of prospects for a credit-card rate cap →](/analyses/2026-11-21-democratic-control-revives-a-credit-card-cap-debate-without-a-demonstrated-legis)

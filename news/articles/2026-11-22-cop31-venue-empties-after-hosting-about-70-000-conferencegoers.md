@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-11-22'
   relation: related
   strength: 0.7764
+analyses:
+- '2026-11-22-cop31-ends-without-agreement-after-fossil-fuel-dispute-and-european-union-reject'
 ---
 ## COP31 venue empties after hosting about 70,000 conferencegoers
 
@@ -243,3 +245,8 @@ Before the summit ended without an agreement, [COP31 talks had run into overtime
 **Publication date:** 2026-11-22
 **Title:** What it's like at a climate conference as talks collapse
 **URL:** https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse
+
+---
+
+<!-- analysis-link:2026-11-22-cop31-ends-without-agreement-after-fossil-fuel-dispute-and-european-union-reject -->
+**Going deeper:** [Read MSI's analysis of COP31’s fossil-fuel bargaining dispute →](/analyses/2026-11-22-cop31-ends-without-agreement-after-fossil-fuel-dispute-and-european-union-reject)
