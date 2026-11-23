@@ -36,7 +36,8 @@ primary_themes:
 - Export-control and espionage allegations
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- nvidia-leadership-transition-and-congressional-testimony
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,6 +200,7 @@ related_stories:
   relation: related
   strength: 0.8326
 ---
+
 ## Nvidia holds first post-Huang earnings call; petition has nearly 200,000 names
 
 **Subtype:** fact

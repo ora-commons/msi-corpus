@@ -34,7 +34,8 @@ topic_tags:
 - artificial intelligence
 - business information
 - technology and engineering
-storyline_nexus: []
+storyline_nexus:
+- nvidia-leadership-transition-and-congressional-testimony
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -197,14 +198,19 @@ related_stories:
   strength: 0.8559
 image:
   url: /articles/2026-11-17-jensen-huang-offers-to-return-to-nvidia-and-agrees-to-testify-to-congress.png
-  alt: "Illustration accompanying article: Jensen Huang offers to return to Nvidia and agrees to testify to Congress"
+  alt: 'Illustration accompanying article: Jensen Huang offers to return to Nvidia
+    and agrees to testify to Congress'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Jensen Huang offers to return to Nvidia and agrees to testify to Congress
 
 **Subtype:** fact
