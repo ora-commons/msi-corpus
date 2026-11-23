@@ -198,6 +198,8 @@ related_stories:
   publish_date: '2026-11-19'
   relation: related
   strength: 0.8058
+analyses:
+- '2026-11-23-army-plans-emergency-authority-lead-azide-detonation-amid-middletown-permit-disp'
 ---
 ## Residents prepare near Iowa Army plant for lead azide detonation
 
@@ -236,3 +238,8 @@ The Iowa Environmental Council, Sierra Club and Earthjustice have called for a r
 **Publication date:** 2026-11-23
 **Title:** US army to blow up bomb-making chemicals despite safety concerns
 **URL:** https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa
+
+---
+
+<!-- analysis-link:2026-11-23-army-plans-emergency-authority-lead-azide-detonation-amid-middletown-permit-disp -->
+**Going deeper:** [Read MSI's analysis of Army’s lead-azide emergency response in Middletown →](/analyses/2026-11-23-army-plans-emergency-authority-lead-azide-detonation-amid-middletown-permit-disp)
