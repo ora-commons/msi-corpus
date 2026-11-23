@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-11-14'
   relation: related
   strength: 0.7226
+analyses:
+- '2026-11-21-vaccination-decline-weakens-measles-safeguards-as-infants-await-protection'
 ---
 ## Philadelphia neonatologist urges earlier measles shots as outbreak spreads
 
@@ -247,3 +249,8 @@ For parents who are reluctant, Parga-Belinkie recommended finding a clinician wh
 **Publication date:** 2026-11-21
 **Title:** Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles
 **URL:** https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles
+
+---
+
+<!-- analysis-link:2026-11-21-vaccination-decline-weakens-measles-safeguards-as-infants-await-protection -->
+**Going deeper:** [Read MSI's analysis of measles containment and infant protection →](/analyses/2026-11-21-vaccination-decline-weakens-measles-safeguards-as-infants-await-protection)
