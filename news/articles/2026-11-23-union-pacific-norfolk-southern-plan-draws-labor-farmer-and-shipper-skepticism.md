@@ -2,8 +2,18 @@
 headline: Union Pacific-Norfolk Southern plan draws labor, farmer and shipper skepticism
 secondary_headline: Federal board weighs competition, jobs and safety as review advances
 publish_date: '2026-11-23'
-lede: Union Pacific and Norfolk Southern are in the latest phase of federal review of their proposed merger, which would create the nation's largest railroad and the first to serve both coasts. Union Pacific says the combined system would reduce shipping costs, while the Stop The Rail Merger Coalition, which includes labor unions, shippers, farmers and transportation groups, opposes the merger over pricing, jobs, safety and competition. Public comments for the Surface Transportation Board were due Nov. 18, with more agency comments planned through winter and hearings in spring.
-nut_graf: The proposal would place one company on both sides of the Mississippi River, where rail users with few alternatives and workers maintaining the tracks have raised concerns about prices, employment and safety. The Surface Transportation Board's review brings those concerns together with the companies' claims that a unified network could lower freight costs.
+lede: Union Pacific and Norfolk Southern are in the latest phase of federal review
+  of their proposed merger, which would create the nation's largest railroad and the
+  first to serve both coasts. Union Pacific says the combined system would reduce
+  shipping costs, while the Stop The Rail Merger Coalition, which includes labor unions,
+  shippers, farmers and transportation groups, opposes the merger over pricing, jobs,
+  safety and competition. Public comments for the Surface Transportation Board were
+  due Nov. 18, with more agency comments planned through winter and hearings in spring.
+nut_graf: The proposal would place one company on both sides of the Mississippi River,
+  where rail users with few alternatives and workers maintaining the tracks have raised
+  concerns about prices, employment and safety. The Surface Transportation Board's
+  review brings those concerns together with the companies' claims that a unified
+  network could lower freight costs.
 primary_entities:
 - Union Pacific
 - Norfolk Southern
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +153,48 @@ related_stories:
   headline: Union Pacific CEO apologizes for rate remark amid Norfolk Southern merger
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.7709
+  strength: 0.7713
 - slug: 2026-10-23-union-pacific-norfolk-southern-and-csx-post-higher-profits-amid-rail-shift
-  headline: Union Pacific, Norfolk Southern and CSX post higher profits amid rail shift
+  headline: Union Pacific, Norfolk Southern and CSX post higher profits amid rail
+    shift
   publish_date: '2026-10-23'
   relation: related
-  strength: 0.7646
-- slug: 2026-11-16-arbitrator-imposes-first-north-american-amazon-union-contract
-  headline: Arbitrator imposes first North American Amazon union contract
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.6076
-- slug: 2026-10-26-northwest-timber-operators-cite-fuel-labor-and-infrastructure-constraints
-  headline: Northwest timber operators cite fuel, labor and infrastructure constraints
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6185
+  strength: 0.7656
 - slug: 2026-04-30-union-pacific-seeks-stb-approval-again-for-85b-norfolk-southern-deal
   headline: Union Pacific seeks STB approval again for $85B Norfolk Southern deal
   publish_date: '2026-04-30'
   relation: related
-  strength: 0.8255
+  strength: 0.8247
 - slug: 2026-07-22-union-pacific-gives-cn-midwest-rail-access-in-exchange-for-ending-ns-merger-oppo
-  headline: Union Pacific gives CN Midwest rail access in exchange for ending NS merger opposition
+  headline: Union Pacific gives CN Midwest rail access in exchange for ending NS merger
+    opposition
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.7839
+  strength: 0.7835
 - slug: 2026-05-01-union-pacific-ceo-confident-new-stb-filing-will-satisfy-regulators-in-ns-deal
-  headline: Union Pacific CEO confident new STB filing will satisfy regulators in NS deal
+  headline: Union Pacific CEO confident new STB filing will satisfy regulators in
+    NS deal
   publish_date: '2026-05-01'
   relation: related
-  strength: 0.8209
+  strength: 0.8199
 - slug: 2026-07-23-norfolk-southern-posts-11-revenue-increase-as-freight-demand-trends-improve
   headline: Norfolk Southern posts 11% revenue increase as freight demand trends improve
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.7615
-- slug: 2026-10-08-ftc-usda-open-joint-inquiry-into-farm-equipment-market-competition
-  headline: FTC, USDA open joint inquiry into farm equipment market competition
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6174
+  strength: 0.762
 - slug: 2026-04-23-union-pacific-posts-1-7b-q1-profit-plans-renewed-norfolk-southern-merger-bid
-  headline: Union Pacific posts $1.7B Q1 profit, plans renewed Norfolk Southern merger bid
+  headline: Union Pacific posts $1.7B Q1 profit, plans renewed Norfolk Southern merger
+    bid
   publish_date: '2026-04-23'
   relation: related
   strength: 0.8022
-- slug: 2026-10-06-c-h-robinson-to-buy-rxo-in-5-8-billion-freight-broker-deal
-  headline: C.H. Robinson to buy RXO in $5.8 billion freight-broker deal
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6168
 - slug: 2026-04-22-union-pacific-reports-1-7b-q1-profit-presses-case-for-85b-norfolk-southern-deal
-  headline: Union Pacific reports $1.7B Q1 profit, presses case for $85B Norfolk Southern deal
+  headline: Union Pacific reports $1.7B Q1 profit, presses case for $85B Norfolk Southern
+    deal
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.7865
-- slug: 2026-09-09-pacific-fusion-to-build-albuquerque-plant-for-nuclear-weapons-testing
-  headline: Pacific Fusion to Build Albuquerque Plant for Nuclear Weapons Testing
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6208
-- slug: 2026-07-26-united-approaches-delta-about-merger-talks-stall-people-say
-  headline: United approaches Delta about merger, talks stall, people say
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6362
-- slug: 2026-07-31-roxanne-brown-becomes-first-woman-black-president-of-united-steelworkers
-  headline: Roxanne Brown becomes first woman, Black president of United Steelworkers
-  publish_date: '2026-07-31'
-  relation: related
-  strength: 0.6014
-- slug: 2026-07-03-carney-smith-back-new-pacific-crude-pipeline-with-carbon-capture-requirement
-  headline: Carney, Smith back new Pacific crude pipeline with carbon-capture requirement
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6123
-- slug: 2026-01-22-csx-profit-falls-2-in-fourth-quarter-as-demand-weakens
-  headline: CSX profit falls 2% in fourth quarter as demand weakens
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6462
-- slug: 2026-07-13-states-sue-to-block-110bn-paramount-warner-bros-merger
-  headline: States sue to block $110bn Paramount-Warner Bros merger
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5992
-- slug: 2026-06-22-rising-trucking-rates-push-u-s-companies-back-to-intermodal-rail
-  headline: Rising trucking rates push U.S. companies back to intermodal rail
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6056
-- slug: 2026-05-26-massachusetts-uber-and-lyft-drivers-form-first-us-ride-hailing-union
-  headline: Massachusetts Uber and Lyft drivers form first US ride-hailing union
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.612
+  strength: 0.787
 ---
-
 ## Union Pacific-Norfolk Southern plan draws labor, farmer and shipper skepticism
 
 **Subtype:** fact

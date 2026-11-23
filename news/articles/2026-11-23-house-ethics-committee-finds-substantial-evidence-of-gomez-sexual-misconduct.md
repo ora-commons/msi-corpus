@@ -58,7 +58,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -246,3 +246,10 @@ The report issued a finding but no recommended sanction. Gomez’s announcement 
 **Publication date:** 2026-11-23
 **Title:** Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances
 **URL:** https://apnews.com/article/jimmy-gomez-house-of-representatives-sexual-misconduct-4208a3652c33f8709812fed0ba904215
+
+### src_late_4f853903633737ef — Associated Press, wire, Tier 1, originating
+**Author:** Kevin Freking, Associated Press
+**Publication date:** 2026-11-23
+**Title:** Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer
+**URL:** https://www.pbs.org/newshour/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer
+**Added after publication:** true

@@ -59,7 +59,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -251,3 +251,10 @@ Arizona Sen. Ruben Gallego, a Democrat, said Congress should investigate “what
 **Publication date:** 2026-11-23
 **Title:** Bipartisan fury in Congress as lawmakers question Huang's reinstatment
 **URL:** https://apnews.com/article/nvidia-jensen-huang-48a005a1415549e69ec69400024aa797
+
+### src_late_749c91eefe5a29d6 — Associated Press, wire, Tier 1, originating
+**Author:** Lisa Mascaro, Associated Press, Mary Clare Jalonick, Associated Press
+**Publication date:** 2026-11-23
+**Title:** Huang's reinstatement at Nvidia sparks fury in Congress as lawmakers move forward with hearings
+**URL:** https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings
+**Added after publication:** true
