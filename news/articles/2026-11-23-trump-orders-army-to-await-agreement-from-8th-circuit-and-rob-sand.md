@@ -64,7 +64,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -263,3 +263,10 @@ Trump's order places the Army on hold after it sought emergency provisions to de
 **Publication date:** 2026-11-23
 **Title:** Trump halts detonation of Iowa bomb-making chemicals pending court ruling
 **URL:** https://apnews.com/article/iowa-army-lead-detonation-trump-3844c3f93affd3ea9a91fa98199bc14a
+
+### src_late_fa2d7bcddd289d0c — Associated Press, wire, Tier 1, originating
+**Author:** Susan Montoya Bryan, Associated Press
+**Publication date:** 2026-11-23
+**Title:** Trump says Army will not detonate bomb-making chemicals in Iowa without court approval
+**URL:** https://www.pbs.org/newshour/nation/trump-says-army-will-not-detonate-bomb-making-chemicals-in-iowa-without-court-approval
+**Added after publication:** true
