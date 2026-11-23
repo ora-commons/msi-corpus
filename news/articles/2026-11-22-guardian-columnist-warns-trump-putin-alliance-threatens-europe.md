@@ -214,6 +214,8 @@ related_stories:
   publish_date: '2026-11-15'
   relation: related
   strength: 0.6684
+analyses:
+- '2026-11-22-bloomfield-links-trump-putin-alignment-to-europe-s-security-and-electoral-risks'
 ---
 ## Guardian columnist warns Trump-Putin alliance threatens Europe
 
@@ -267,3 +269,8 @@ Zelenskyy has long argued that Ukraine's frontline is Europe's frontline, Bloomf
 **Publication date:** 2026-11-22
 **Title:** The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/22/donald-trump-vladimir-putin-europe-ukraine-strongmen
+
+---
+
+<!-- analysis-link:2026-11-22-bloomfield-links-trump-putin-alignment-to-europe-s-security-and-electoral-risks -->
+**Going deeper:** [Read MSI's analysis of Europe’s security and electoral risks →](/analyses/2026-11-22-bloomfield-links-trump-putin-alignment-to-europe-s-security-and-electoral-risks)

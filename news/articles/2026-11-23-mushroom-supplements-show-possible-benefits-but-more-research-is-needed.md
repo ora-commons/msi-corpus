@@ -2,8 +2,13 @@
 headline: Mushroom supplements show possible benefits, but more research is needed
 secondary_headline: Marketing emphasizes gut health and stronger immune systems
 publish_date: '2026-11-23'
-lede: Ari Daniel's NPR report on Nov. 23, 2026, examines mushroom supplements advertised for gut health and a stronger immune system. It says the science suggests only some links and that more research is needed.
-nut_graf: 'NPR''s assessment leaves the broad question unsettled: the report identifies some scientific links while saying more research is needed. The cancer finding is one specific link involving chemotherapy, and the report does not extend it to every benefit advertised for mushroom supplements.'
+lede: Ari Daniel's NPR report on Nov. 23, 2026, examines mushroom supplements advertised
+  for gut health and a stronger immune system. It says the science suggests only some
+  links and that more research is needed.
+nut_graf: 'NPR''s assessment leaves the broad question unsettled: the report identifies
+  some scientific links while saying more research is needed. The cancer finding is
+  one specific link involving chemotherapy, and the report does not extend it to every
+  benefit advertised for mushroom supplements.'
 primary_entities:
 - Mushroom supplements
 - NPR
@@ -43,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,109 +146,8 @@ cross_article_links:
   strength: 0.5337
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-19-most-adults-do-not-need-a-measles-booster-experts-say
-  headline: Most adults do not need a measles booster, experts say
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.5632
-- slug: 2026-11-01-trump-administration-delivers-mixed-results-on-maha-promises
-  headline: Trump administration delivers mixed results on MAHA promises
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.5656
-- slug: 2026-10-30-fda-again-removes-black-box-warnings-from-three-more-menopause-patches
-  headline: FDA again removes black-box warnings from three more menopause patches
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5695
-- slug: 2026-10-26-merck-melanoma-trial-finds-a-42-reduction-in-recurrence-or-death
-  headline: Merck melanoma trial finds a 42% reduction in recurrence or death
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5739
-- slug: 2026-10-11-health-trackers-promise-insights-without-the-arm-squeeze-doctors-warn
-  headline: Health trackers promise insights without the arm squeeze, doctors warn
-  publish_date: '2026-10-11'
-  relation: related
-  strength: 0.5675
-- slug: 2026-10-10-fda-proposes-allowing-some-chemicals-into-food-without-safety-review
-  headline: FDA proposes allowing some chemicals into food without safety review
-  publish_date: '2026-10-10'
-  relation: related
-  strength: 0.5615
-- slug: 2026-09-30-kff-ap-poll-finds-rural-voters-back-maha-but-see-little-personal-impact
-  headline: KFF-AP poll finds rural voters back MAHA but see little personal impact
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5601
-- slug: 2026-09-25-investigators-find-kratom-with-two-deceased-university-of-mississippi-students
-  headline: Investigators find kratom with two deceased University of Mississippi students
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.5635
-- slug: 2026-09-26-study-identifies-485-breast-cancer-linked-chemicals-in-us-pesticide-products
-  headline: Study identifies 485 breast cancer-linked chemicals in US pesticide products
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.56
-- slug: 2026-09-19-cdc-reports-us-adults-produce-consumption-rises-with-income
-  headline: CDC reports US adults' produce consumption rises with income
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.558
-- slug: 2026-09-13-maha-food-agenda-shows-limits-as-outbreaks-cuts-mount
-  headline: MAHA food agenda shows limits as outbreaks, cuts mount
-  publish_date: '2026-09-13'
-  relation: related
-  strength: 0.5563
-- slug: 2026-08-20-merck-and-moderna-melanoma-vaccine-extends-cancer-free-period-in-phase-3-trial
-  headline: Merck and Moderna melanoma vaccine extends cancer-free period in phase 3 trial
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.5591
-- slug: 2026-08-10-fda-proposes-mandatory-notice-for-new-food-ingredients
-  headline: FDA proposes mandatory notice for new food ingredients
-  publish_date: '2026-08-10'
-  relation: related
-  strength: 0.5573
-- slug: 2026-04-08-doctors-urge-women-to-be-wary-of-the-marketing-surge-in-menopause-products
-  headline: Doctors urge women to be wary of the marketing surge in menopause products
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6165
-- slug: 2026-07-11-federal-dietary-guidelines-now-encourage-americans-to-eat-more-fermented-food
-  headline: Federal dietary guidelines now encourage Americans to eat more fermented food
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5741
-- slug: 2026-02-18-people-excited-about-fungi-are-helping-scientists-learn-more
-  headline: People excited about fungi are helping scientists learn more
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.6011
-- slug: 2026-02-08-death-cap-mushrooms-kill-4-in-california-as-cases-top-dozens
-  headline: Death cap mushrooms kill 4 in California as cases top dozens
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5966
-- slug: 2026-01-22-fda-leans-toward-approving-zyn-reduced-risk-marketing-claims
-  headline: FDA leans toward approving Zyn reduced-risk marketing claims
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.5845
-- slug: 2026-03-29-dietary-supplement-makers-press-fda-to-broaden-ingredients-to-peptides
-  headline: Dietary supplement makers press FDA to broaden ingredients to peptides
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.5717
-- slug: 2026-03-24-popular-anti-obesity-drugs-must-be-paired-with-healthy-habits-experts-say
-  headline: Popular anti-obesity drugs must be paired with healthy habits, experts say
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5714
+related_stories: []
 ---
-
 ## Mushroom supplements show possible benefits, but more research is needed
 
 **Subtype:** fact

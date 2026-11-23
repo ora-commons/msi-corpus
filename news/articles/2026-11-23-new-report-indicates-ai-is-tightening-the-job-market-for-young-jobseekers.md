@@ -2,8 +2,13 @@
 headline: New report indicates AI is tightening the job market for young jobseekers
 secondary_headline: Matt Sigelman discussed the report with NPR's Steve Inskeep
 publish_date: '2026-11-23'
-lede: Matt Sigelman, president of the Burning Glass Institute, discussed a new report with NPR's Steve Inskeep about artificial intelligence's effect on the job market for young jobseekers in the United States. According to NPR's account of the November 23, 2026 interview, the report indicates that AI is already squeezing that market.
-nut_graf: 'The report''s focus makes AI''s employment impact a current concern for young people seeking work: it describes present pressure in the job market rather than only future possibilities.'
+lede: Matt Sigelman, president of the Burning Glass Institute, discussed a new report
+  with NPR's Steve Inskeep about artificial intelligence's effect on the job market
+  for young jobseekers in the United States. According to NPR's account of the November
+  23, 2026 interview, the report indicates that AI is already squeezing that market.
+nut_graf: 'The report''s focus makes AI''s employment impact a current concern for
+  young people seeking work: it describes present pressure in the job market rather
+  than only future possibilities.'
 primary_entities:
 - Matt Sigelman
 - Burning Glass Institute
@@ -39,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,21 +148,11 @@ related_stories:
   publish_date: '2026-11-23'
   relation: related
   strength: 0.6791
-- slug: 2026-10-13-china-s-gen-z-loses-faith-in-hard-work-as-job-market-tightens
-  headline: China's Gen Z loses faith in hard work as job market tightens
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6481
 - slug: 2026-09-18-pew-finds-majority-in-34-of-37-countries-expect-ai-to-reduce-jobs
   headline: Pew finds majority in 34 of 37 countries expect AI to reduce jobs
   publish_date: '2026-09-18'
   relation: related
   strength: 0.679
-- slug: 2026-09-29-linkedin-ceo-says-ai-is-reshaping-hiring-as-applications-surge-30
-  headline: LinkedIn CEO says AI is reshaping hiring as applications surge 30%
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6488
 - slug: 2026-08-18-gen-z-leads-ai-roles-as-broader-hiring-trails-pre-pandemic-levels
   headline: Gen Z leads AI roles as broader hiring trails pre-pandemic levels
   publish_date: '2026-08-18'
@@ -168,7 +164,8 @@ related_stories:
   relation: related
   strength: 0.6888
 - slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
+  headline: U.S. labor force faces historic contraction as demographic pressure raises
+    the stakes for AI adoption
   publish_date: '2026-07-13'
   relation: related
   strength: 0.6894
@@ -187,58 +184,7 @@ related_stories:
   publish_date: '2026-07-22'
   relation: related
   strength: 0.6506
-- slug: 2026-06-18-wall-street-grapples-with-ai-hiring-dilemma-as-tools-reshape-banking-jobs
-  headline: Wall Street grapples with AI hiring dilemma as tools reshape banking jobs
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6715
-- slug: 2026-06-22-job-scams-surge-fraudsters-use-ai-as-young-job-seekers-face-tough-market
-  headline: Job scams surge, fraudsters use AI as young job seekers face tough market
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.669
-- slug: 2026-04-12-how-ai-is-reshaping-american-workplaces-new-gallup-poll
-  headline: 'How AI is reshaping American workplaces: new Gallup poll'
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6872
-- slug: 2026-04-28-ai-anxiety-upends-college-plans-as-students-scramble-for-ai-proof-majors
-  headline: AI anxiety upends college plans as students scramble for “AI-proof” majors
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6809
-- slug: 2026-06-10-economists-mostly-agree-ai-will-boost-productivity-split-on-job-impact
-  headline: Economists mostly agree AI will boost productivity, split on job impact
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6629
-- slug: 2026-05-27-recruiters-turn-to-ai-chatbots-to-screen-job-candidates-amid-ai-application-surg
-  headline: Recruiters Turn to AI Chatbots to Screen Job Candidates Amid AI Application Surge
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6663
-- slug: 2026-04-13-more-u-s-workers-try-ai-at-work-but-job-loss-fears-and-ethics-linger
-  headline: More U.S. workers try AI at work, but job-loss fears and ethics linger
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6704
-- slug: 2026-06-14-software-engineers-confront-new-vulnerability-as-ai-reshapes-the-job-market
-  headline: Software engineers confront new vulnerability as AI reshapes the job market
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6479
-- slug: 2026-06-05-poll-most-teachers-say-ai-s-impact-on-schools-will-eclipse-the-internet
-  headline: 'Poll: Most teachers say AI''s impact on schools will eclipse the internet'
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6515
-- slug: 2026-03-29-tech-climate-goals-under-pressure-as-ai-boosts-data-center-energy-demand
-  headline: Tech climate goals under pressure as AI boosts data-center energy demand
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6633
 ---
-
 ## New report indicates AI is tightening the job market for young jobseekers
 
 **Subtype:** fact
