@@ -1,9 +1,16 @@
 ---
 headline: Republican lawmakers debate their party's midterm losses
-secondary_headline: Congress returning in December faced a funding deadline and unfinished legislation
+secondary_headline: Congress returning in December faced a funding deadline and unfinished
+  legislation
 publish_date: '2026-11-23'
-lede: Republican lawmakers were discussing what happened in the 2026 midterms and what the future might be for their party on Nov. 23, 2026. NPR reporter Tamara Keith reported that the discussion covered what happened and what the future might be.
-nut_graf: The Nov. 23 NPR account documents a party discussion about what happened and what the future might be for their party. The Nov. 10 and Nov. 7 MSI reports supply earlier context, citing The Guardian and The Associated Press, on the losses, explanations offered by Republican members, congressional business facing the Congress returning in December and the party's leadership contests.
+lede: Republican lawmakers were discussing what happened in the 2026 midterms and
+  what the future might be for their party on Nov. 23, 2026. NPR reporter Tamara Keith
+  reported that the discussion covered what happened and what the future might be.
+nut_graf: The Nov. 23 NPR account documents a party discussion about what happened
+  and what the future might be for their party. The Nov. 10 and Nov. 7 MSI reports
+  supply earlier context, citing The Guardian and The Associated Press, on the losses,
+  explanations offered by Republican members, congressional business facing the Congress
+  returning in December and the party's leadership contests.
 primary_entities:
 - Republican Party
 - Democratic Party
@@ -50,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +160,44 @@ related_stories:
   headline: Republican lawmakers assess midterm losses and the work ahead
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.789
+  strength: 0.7893
 - slug: 2026-11-20-republican-voter-distrust-persists-despite-66-of-americans-calling-midterms-fair
-  headline: Republican voter distrust persists despite 66% of Americans calling midterms fair
+  headline: Republican voter distrust persists despite 66% of Americans calling midterms
+    fair
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.6775
+  strength: 0.6771
 - slug: 2026-11-10-republicans-split-over-who-saw-the-midterm-losses-coming
   headline: Republicans split over who saw the midterm losses coming
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7067
+  strength: 0.7066
 - slug: 2026-11-04-republicans-fault-trump-after-democrats-take-house-and-senate-in-midterms
   headline: Republicans fault Trump after Democrats take House and Senate in midterms
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7242
-- slug: 2026-11-11-republican-redistricting-efforts-fail-to-deliver-expected-house-seat-gains
-  headline: Republican redistricting efforts fail to deliver expected House seat gains
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6842
+  strength: 0.7233
 - slug: 2026-11-09-congress-returns-hegseth-impeachment-resolution-expected-after-gop-losses
   headline: Congress returns; Hegseth impeachment resolution expected after GOP losses
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6938
+  strength: 0.6952
+- slug: 2026-11-11-republican-redistricting-efforts-fail-to-deliver-expected-house-seat-gains
+  headline: Republican redistricting efforts fail to deliver expected House seat gains
+  publish_date: '2026-11-11'
+  relation: related
+  strength: 0.6834
 - slug: 2026-11-08-democratic-leaders-weigh-oversight-and-legislation-after-2026-midterms
   headline: Democratic leaders weigh oversight and legislation after 2026 midterms
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.6947
+  strength: 0.6963
 - slug: 2026-11-07-republicans-weigh-next-steps-after-midterm-losses
   headline: Republicans weigh next steps after midterm losses
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.69
-- slug: 2026-11-01-democrats-enter-midterms-favored-in-house-and-within-reach-of-senate-control
-  headline: Democrats enter midterms favored in House and within reach of Senate control
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.7028
-- slug: 2026-11-06-political-scientists-say-american-democracy-held-in-the-2026-midterms
-  headline: Political scientists say American democracy held in the 2026 midterms
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6738
-- slug: 2026-11-05-dozens-of-trump-endorsed-republicans-lose-in-2026-midterms
-  headline: Dozens of Trump-endorsed Republicans lose in 2026 midterms
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.674
-- slug: 2026-11-04-house-republicans-scheduled-to-pick-new-leader-nov-10-after-johnson-s-departure
-  headline: House Republicans scheduled to pick new leader Nov. 10 after Johnson's departure
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6732
-- slug: 2026-11-03-us-midterms-reach-election-day-with-three-possible-congressional-outcomes
-  headline: US midterms reach election day with three possible congressional outcomes
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6761
-- slug: 2026-11-01-trump-s-policies-put-republican-congressional-majorities-at-risk-in-the-midterms
-  headline: Trump’s policies put Republican congressional majorities at risk in the midterms
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6706
-- slug: 2026-10-31-republicans-brace-for-potential-house-losses-as-trump-disapproval-hits-59
-  headline: Republicans brace for potential House losses as Trump disapproval hits 59%
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6738
-- slug: 2026-10-15-cook-projects-democrats-flipping-9-to-19-house-seats-in-midterm-stretch
-  headline: Cook projects Democrats flipping 9 to 19 House seats in midterm stretch
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6767
-- slug: 2026-09-23-polls-show-democratic-edge-as-republicans-face-tough-midterm-fight
-  headline: Polls show Democratic edge as Republicans face tough midterm fight
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.7076
-- slug: 2026-10-01-congress-likely-done-legislating-until-after-november-midterms
-  headline: Congress likely done legislating until after November midterms
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6732
-- slug: 2026-09-06-democrats-hold-polling-edge-as-midterm-campaign-enters-final-stretch
-  headline: Democrats hold polling edge as midterm campaign enters final stretch
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6838
-- slug: 2026-09-03-some-gop-lawmakers-publicly-warn-trump-centered-midterm-strategy-risks-defeat
-  headline: Some GOP lawmakers publicly warn Trump-centered midterm strategy risks defeat
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6872
+  strength: 0.6912
 ---
-
 ## Republican lawmakers debate their party's midterm losses
 
 **Subtype:** fact
