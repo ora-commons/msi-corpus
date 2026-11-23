@@ -211,6 +211,8 @@ related_stories:
   publish_date: '2026-08-28'
   relation: related
   strength: 0.7563
+analyses:
+- '2026-11-21-adnoc-turns-protected-tanker-network-into-hormuz-leverage'
 ---
 ## U.A.E.'s Adnoc runs risky Hormuz oil shuttles under U.S. protection
 
@@ -278,3 +280,8 @@ Adi Imsirovic, an oil-trading veteran, likened Adnoc's voyages to rabbits racing
 **Publication date:** 2026-11-21
 **Title:** The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation
 **URL:** https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e
+
+---
+
+<!-- analysis-link:2026-11-21-adnoc-turns-protected-tanker-network-into-hormuz-leverage -->
+**Going deeper:** [Read MSI's analysis of Adnoc’s Hormuz tanker leverage →](/analyses/2026-11-21-adnoc-turns-protected-tanker-network-into-hormuz-leverage)
