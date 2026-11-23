@@ -33,7 +33,8 @@ topic_tags:
 - energy and resource
 - climate change
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- european-gas-prices
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.8212
 ---
+
 ## European gas prices climb before winter as storage remains below average
 
 **Subtype:** fact

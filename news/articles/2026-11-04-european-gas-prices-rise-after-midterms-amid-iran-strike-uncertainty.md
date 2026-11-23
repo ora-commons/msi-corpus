@@ -38,7 +38,8 @@ primary_themes:
 - Iran diplomacy and military escalation
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- european-gas-prices
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,8 +200,9 @@ related_stories:
   relation: related
   strength: 0.7583
 analyses:
-- '2026-11-04-trump-s-iran-decision-tests-europe-s-lng-access-as-storage-trails-seasonal-level'
+- 2026-11-04-trump-s-iran-decision-tests-europe-s-lng-access-as-storage-trails-seasonal-level
 ---
+
 ## European gas prices rise after midterms amid Iran strike uncertainty
 
 **Subtype:** fact
