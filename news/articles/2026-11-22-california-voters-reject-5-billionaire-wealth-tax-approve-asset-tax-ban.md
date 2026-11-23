@@ -65,7 +65,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -272,3 +272,10 @@ Lorena Gonzalez, president of the California Federation of Labor Unions, which s
 **Publication date:** 2026-11-22
 **Title:** Why a California billionaire tax failed in a good election year for progressives
 **URL:** https://apnews.com/article/california-billionaire-tax-proposition-40-8add946e01aa49964606cfbb0c727017
+
+### src_late_3ec45084982cb6cc — Associated Press, wire, Tier 1, originating
+**Author:** Sophie Austin, Associated Press
+**Publication date:** 2026-11-23
+**Title:** How a billionaire tax proposal failed in California despite big election wins for progressives
+**URL:** https://www.pbs.org/newshour/politics/how-a-billionaire-tax-proposal-failed-in-california-despite-big-election-wins-for-progressives
+**Added after publication:** true
