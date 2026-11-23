@@ -35,7 +35,8 @@ topic_tags:
 - conflict, war and peace
 - energy and resource
 - disaster, accident and emergency incident
-storyline_nexus: []
+storyline_nexus:
+- global-crude-oil-market-and-supply-outlook
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -197,6 +198,7 @@ related_stories:
   relation: related
   strength: 0.7865
 ---
+
 ## Oil prices fall as surplus expectations outweigh Middle East shipping threats
 
 **Subtype:** fact

@@ -54,7 +54,8 @@ primary_themes:
 topic_tags:
 - election
 - government
-storyline_nexus: []
+storyline_nexus:
+- republican-party-response-to-2026-midterms
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -220,6 +221,7 @@ related_stories:
   relation: related
   strength: 0.7059
 ---
+
 ## Republicans weigh next steps after midterm losses
 
 **Subtype:** fact

@@ -40,7 +40,8 @@ primary_themes:
 - Middle Eastern military tensions
 topic_tags:
 - international trade
-storyline_nexus: []
+storyline_nexus:
+- global-crude-oil-market-and-supply-outlook
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -213,8 +214,9 @@ related_stories:
   relation: related
   strength: 0.8575
 analyses:
-- '2026-11-20-middle-east-producers-use-rerouting-to-restrain-oil-gains'
+- 2026-11-20-middle-east-producers-use-rerouting-to-restrain-oil-gains
 ---
+
 ## Supply recovery limits oil gains amid Middle East shipping threats
 
 **Subtype:** fact

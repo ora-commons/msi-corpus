@@ -48,7 +48,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- republican-party-response-to-2026-midterms
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -209,8 +210,9 @@ related_stories:
   relation: related
   strength: 0.7484
 analyses:
-- '2026-11-10-house-republicans-navigate-funding-unfinished-bills-and-hegseth-before-year-end-'
+- 2026-11-10-house-republicans-navigate-funding-unfinished-bills-and-hegseth-before-year-end-
 ---
+
 ## Republican lawmakers assess midterm losses and the work ahead
 
 **Subtype:** fact

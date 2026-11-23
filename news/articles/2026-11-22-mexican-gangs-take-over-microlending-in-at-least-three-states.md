@@ -173,6 +173,8 @@ related_stories:
   publish_date: '2026-02-02'
   relation: related
   strength: 0.6613
+analyses:
+- '2026-11-22-lender-withdrawals-can-redirect-neighborhood-credit-to-criminal-groups'
 ---
 ## Mexican gangs take over microlending in at least three states
 
@@ -231,3 +233,8 @@ In February, a criminal group contacted a loan officer in Cuautla, in southern M
 **Publication date:** 2026-11-22
 **Title:** Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing
 **URL:** https://www.wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a
+
+---
+
+<!-- analysis-link:2026-11-22-lender-withdrawals-can-redirect-neighborhood-credit-to-criminal-groups -->
+**Going deeper:** [Read MSI's analysis of criminal control of neighborhood credit →](/analyses/2026-11-22-lender-withdrawals-can-redirect-neighborhood-credit-to-criminal-groups)

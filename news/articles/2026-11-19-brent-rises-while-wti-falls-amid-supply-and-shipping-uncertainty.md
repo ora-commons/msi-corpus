@@ -34,7 +34,8 @@ topic_tags:
 - energy and resource
 - climate change
 - transportation accident and incident
-storyline_nexus: []
+storyline_nexus:
+- global-crude-oil-market-and-supply-outlook
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -207,8 +208,9 @@ related_stories:
   relation: related
   strength: 0.827
 analyses:
-- '2026-11-19-oil-surpluses-meet-shipping-risks-as-hormuz-rerouting-could-reshape-exports'
+- 2026-11-19-oil-surpluses-meet-shipping-risks-as-hormuz-rerouting-could-reshape-exports
 ---
+
 ## Brent rises while WTI falls amid supply and shipping uncertainty
 
 **Subtype:** fact
