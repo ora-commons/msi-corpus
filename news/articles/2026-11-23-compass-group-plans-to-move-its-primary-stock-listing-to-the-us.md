@@ -2,8 +2,17 @@
 headline: Compass Group plans to move its primary stock listing to the US
 secondary_headline: North America accounts for two-thirds of Compass Group's business
 publish_date: '2026-11-23'
-lede: Catering company Compass Group is planning to move its primary stock-market listing from the UK to the US, according to a person close to the company. The person told BBC News that an official announcement was expected in Compass Group's full-year results on Tuesday. Compass Group is expected to retain a secondary listing in London.
-nut_graf: The proposed switch would place Compass Group among companies including Arm Holdings, Just Eat, Deliveroo and Flutter that have moved their listings to the US. The London Stock Exchange has seen a growing number of firms move their UK listings to the US in recent years. London Stock Exchange chief Dame Julia Hoggett has called for UK policies that make the domestic stock market more attractive. Last year, London hosted 23 IPOs that raised £2.1bn, while the US hosted 354 that raised $44bn, or £33bn.
+lede: Catering company Compass Group is planning to move its primary stock-market
+  listing from the UK to the US, according to a person close to the company. The person
+  told BBC News that an official announcement was expected in Compass Group's full-year
+  results on Tuesday. Compass Group is expected to retain a secondary listing in London.
+nut_graf: The proposed switch would place Compass Group among companies including
+  Arm Holdings, Just Eat, Deliveroo and Flutter that have moved their listings to
+  the US. The London Stock Exchange has seen a growing number of firms move their
+  UK listings to the US in recent years. London Stock Exchange chief Dame Julia Hoggett
+  has called for UK policies that make the domestic stock market more attractive.
+  Last year, London hosted 23 IPOs that raised £2.1bn, while the US hosted 354 that
+  raised $44bn, or £33bn.
 primary_entities:
 - Compass Group
 - London Stock Exchange
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,117 +154,31 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-10-23-american-express-profit-rises-28-while-planning-5-workforce-cut
-  headline: American Express retains nearly all customers moved to higher-fee Platinum card
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5985
-- slug: 2026-10-23-american-express-cuts-5-of-global-staff-while-raising-its-profit-outlook
-  headline: American Express cuts 5% of global staff while raising its profit outlook
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5842
-- slug: 2026-10-15-pernod-prepares-india-listing-as-quarterly-sales-diverge-by-region
-  headline: Pernod prepares India listing as quarterly sales diverge by region
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6009
-- slug: 2026-10-07-lse-chief-dame-julia-hoggett-urges-uk-to-stem-listings-exodus
-  headline: LSE chief Dame Julia Hoggett urges UK to stem listings exodus
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6275
-- slug: 2026-10-08-starbucks-reportedly-explores-takeover-of-chipotle-mexican-grill
-  headline: Starbucks reportedly explores takeover of Chipotle Mexican Grill
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5882
-- slug: 2026-09-30-amex-launches-ai-expense-platform-alongside-new-corporate-card
-  headline: Amex launches AI expense platform alongside new corporate card
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.5829
-- slug: 2026-09-01-jollibee-shifts-overseas-spinoff-listing-plan-from-u-s-to-hong-kong
-  headline: Jollibee shifts overseas spinoff listing plan from U.S. to Hong Kong
-  publish_date: '2026-09-01'
-  relation: related
-  strength: 0.6242
 - slug: 2026-08-10-lse-deputy-ceo-says-capital-is-key-to-reviving-london-s-public-markets
   headline: LSE deputy CEO says capital is key to reviving London's public markets
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6571
+  strength: 0.6584
 - slug: 2026-07-23-mccormick-announces-plan-for-london-stock-listing-after-unilever-foods-merger
-  headline: McCormick announces plan for London stock listing after Unilever foods merger
+  headline: McCormick announces plan for London stock listing after Unilever foods
+    merger
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6596
-- slug: 2026-08-17-burger-king-reclaims-no-2-spot-from-wendy-s-after-whopper-revamp
-  headline: Burger King reclaims No. 2 spot from Wendy's after Whopper revamp
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5953
-- slug: 2026-08-17-general-atlantic-revives-ipo-plans-with-fresh-sec-filing
-  headline: General Atlantic revives IPO plans with fresh SEC filing
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.5912
-- slug: 2026-08-05-glencore-plans-secondary-listing-on-australian-exchange
-  headline: Glencore plans secondary listing on Australian exchange
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6042
-- slug: 2026-08-14-berkshire-hathaway-adds-to-alphabet-opens-d-r-horton-position-in-q2-13f
-  headline: Berkshire Hathaway adds to Alphabet, opens D.R. Horton position in Q2 13F
-  publish_date: '2026-08-14'
-  relation: related
-  strength: 0.5914
-- slug: 2026-06-30-comcast-shares-rise-7-on-plan-to-spin-off-nbcuniversal
-  headline: Comcast shares rise 7% on plan to spin off NBCUniversal
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6297
-- slug: 2026-08-09-u-s-consumer-brands-report-stronger-growth-in-overseas-markets
-  headline: U.S. consumer brands report stronger growth in overseas markets
-  publish_date: '2026-08-09'
-  relation: related
-  strength: 0.5855
-- slug: 2026-08-07-conocophillips-cfo-andy-o-brien-is-set-to-become-ceo
-  headline: ConocoPhillips CFO Andy O’Brien is set to become CEO
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.5855
-- slug: 2026-08-03-astrazeneca-shares-fall-more-than-7-after-reported-bms-takeover-talks
-  headline: AstraZeneca shares fall more than 7% after reported BMS takeover talks
-  publish_date: '2026-08-03'
-  relation: related
-  strength: 0.5889
-- slug: 2026-07-19-general-mills-kraft-heinz-stocks-trade-at-decade-low-as-shoppers-turn-away-from-
-  headline: General Mills, Kraft Heinz stocks trade at decade-low as shoppers turn away from legacy brands
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5929
-- slug: 2026-06-12-flutter-entertainment-to-leave-london-stock-exchange-for-new-york-only-listing
-  headline: Flutter Entertainment to leave London Stock Exchange for New York-only listing
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6152
-- slug: 2026-06-29-comcast-to-split-media-and-connectivity-businesses
-  headline: Comcast to split media and connectivity businesses
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5944
+  strength: 0.6625
 image:
   url: /articles/2026-11-23-compass-group-plans-to-move-its-primary-stock-listing-to-the-us.png
-  alt: "Illustration accompanying article: Compass Group plans to move its primary stock listing to the US"
+  alt: 'Illustration accompanying article: Compass Group plans to move its primary
+    stock listing to the US'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Compass Group plans to move its primary stock listing to the US
 
 **Subtype:** fact
