@@ -59,10 +59,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Wall Street Journal
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -235,3 +237,10 @@ Earlier in the leadership change, [the board said it would not reinstate Huang a
 **Publication date:** 2026-11-23
 **Title:** Nvidia board unanimously reinstates Jensen Huang as CEO and chairman
 **URL:** https://www.pbs.org/newshour/nation/nvidia-board-unanimously-reinstates-jensen-huang-as-ceo-and-chairman
+
+### src_late_ace99ba81e8f4e93 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** Damian Paletta
+**Publication date:** 2026-11-23
+**Title:** Five Urgent Questions in D.C. About Jensen Huang’s Return as Nvidia CEO
+**URL:** https://www.wsj.com/articles/five-urgent-questions-in-dc-about-jensen-huangs-return-as-nvidia-ceo-5d35aee6
+**Added after publication:** true

@@ -1,9 +1,18 @@
 ---
 headline: Army plans Iowa lead azide detonation despite appeals court ruling
-secondary_headline: Federal officials warn falling temperatures could destabilize lead azide before Wednesday detonation
+secondary_headline: Federal officials warn falling temperatures could destabilize
+  lead azide before Wednesday detonation
 publish_date: '2026-11-23'
-lede: The U.S. Army plans to detonate 9,500 pounds of toxic lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa, on Wednesday. Government lawyers said in a Saturday court filing that the Army will carry out the operation without an environmental permit under an emergency munitions and explosives exemption under federal environmental law.
-nut_graf: 'The Army''s decision comes down to two competing risks: government lawyers say the degraded material could explode uncontrolled as temperatures fall, while environmental groups say a controlled blast would spread lead dust as far as 100 miles north. Residents near the plant were told to avoid or shelter inside, and farmers were told to move livestock, feed and equipment.'
+lede: The U.S. Army plans to detonate 9,500 pounds of toxic lead azide at the Iowa
+  Army Ammunition Plant in Middletown, Iowa, on Wednesday. Government lawyers said
+  in a Saturday court filing that the Army will carry out the operation without an
+  environmental permit under an emergency munitions and explosives exemption under
+  federal environmental law.
+nut_graf: 'The Army''s decision comes down to two competing risks: government lawyers
+  say the degraded material could explode uncontrolled as temperatures fall, while
+  environmental groups say a controlled blast would spread lead dust as far as 100
+  miles north. Residents near the plant were told to avoid or shelter inside, and
+  farmers were told to move livestock, feed and equipment.'
 primary_entities:
 - U.S. Army
 - Iowa Army Ammunition Plant
@@ -52,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,34 +161,38 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-23-army-plans-iowa-lead-azide-detonation-despite-appeals-court-ruling.png
-  alt: 'Illustration accompanying article: Army plans Iowa lead azide detonation despite appeals court ruling'
+  alt: 'Illustration accompanying article: Army plans Iowa lead azide detonation despite
+    appeals court ruling'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-22-army-plans-iowa-lead-azide-detonation-by-nov-24-despite-court-pause
   headline: Army plans Iowa lead azide detonation by Nov. 24 despite court pause
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.9229
+  strength: 0.9225
 - slug: 2026-11-22-army-plans-emergency-move-to-detonate-iowa-chemicals-despite-court-stay
   headline: Army plans emergency move to detonate Iowa chemicals despite court stay
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.9224
+  strength: 0.922
 - slug: 2026-11-23-residents-prepare-near-iowa-army-plant-for-lead-azide-detonation
   headline: Residents prepare near Iowa Army plant for lead azide detonation
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.893
+  strength: 0.8915
 - slug: 2026-11-22-army-seeks-emergency-provisions-to-detonate-iowa-chemicals-despite-stay
   headline: Army seeks emergency provisions to detonate Iowa chemicals despite stay
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.8945
+  strength: 0.8937
 - slug: 2026-11-20-appeals-court-stays-army-lead-azide-detonation-permit-in-iowa
   headline: Appeals court stays Army lead-azide detonation permit in Iowa
   publish_date: '2026-11-20'
@@ -188,79 +202,18 @@ related_stories:
   headline: U.S. Army delays Iowa detonation of degraded lead azide after lawsuit
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.8836
+  strength: 0.8821
 - slug: 2026-11-19-u-s-army-plans-iowa-detonation-as-officials-warn-of-lead-dust
   headline: U.S. Army plans Iowa detonation as officials warn of lead dust
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8709
+  strength: 0.8696
 - slug: 2026-11-19-environmental-groups-sue-epa-as-army-postpones-iowa-lead-azide-detonation
   headline: Environmental groups sue EPA as Army postpones Iowa lead-azide detonation
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8497
-- slug: 2026-11-19-iowa-schools-close-friday-as-u-s-army-updates-lead-drift-maps
-  headline: Iowa schools close Friday as U.S. Army updates lead-drift maps
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7799
-- slug: 2026-11-19-danville-schools-close-friday-over-iowa-detonation-uncertainty
-  headline: Danville schools close Friday over Iowa detonation uncertainty
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7571
-- slug: 2026-10-28-study-finds-7-million-exposed-to-high-lead-levels-in-los-angeles-fire-smoke
-  headline: Study finds 7 million exposed to high lead levels in Los Angeles fire smoke
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6297
-- slug: 2026-10-29-nuclear-watchdogs-demand-accounting-after-savannah-river-lab-fire
-  headline: Nuclear watchdogs demand accounting after Savannah River lab fire
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.61
-- slug: 2026-08-25-federal-judge-withholds-approval-of-east-palestine-settlement
-  headline: Federal judge withholds approval of East Palestine settlement
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.6297
-- slug: 2026-03-11-adirondacks-residents-clamor-over-proposed-artillery-testing
-  headline: Adirondacks residents clamor over proposed artillery testing
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.6771
-- slug: 2026-03-10-adirondacks-residents-clamor-over-proposed-howitzer-artillery-testing
-  headline: Adirondacks residents clamor over proposed howitzer artillery testing
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6602
-- slug: 2026-07-19-un-investigates-iran-nuclear-plant-strike-allegation
-  headline: UN investigates Iran nuclear plant strike allegation
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6099
-- slug: 2026-06-26-25-metro-detroit-communities-exceeded-michigan-lead-action-level
-  headline: 25 Metro Detroit communities exceeded Michigan's lead action level for drinking water
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6059
-- slug: 2026-06-11-hazardous-materials-incident-triggers-pentagon-lockdown-evacuation
-  headline: Hazardous materials incident triggers Pentagon lockdown, evacuation
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6122
-- slug: 2026-05-06-east-wing-debris-at-dc-golf-course-tested-positive-for-toxic-metals-report
-  headline: 'East Wing debris at DC golf course tested positive for toxic metals: report'
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6146
-- slug: 2026-02-20-trump-backs-10-year-deadline-to-replace-lead-pipes
-  headline: Trump backs 10-year deadline to replace lead pipes
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6248
+  strength: 0.8491
 ---
-
 ## Army plans Iowa lead azide detonation despite appeals court ruling
 
 **Subtype:** fact

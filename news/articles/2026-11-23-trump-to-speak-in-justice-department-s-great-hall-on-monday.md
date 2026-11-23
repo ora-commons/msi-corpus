@@ -1,9 +1,20 @@
 ---
 headline: Trump to speak in Justice Department's Great Hall on Monday
-secondary_headline: Some investigations of Trump's opponents rejected by grand juries and judges
+secondary_headline: Some investigations of Trump's opponents rejected by grand juries
+  and judges
 publish_date: '2026-11-23'
-lede: President Donald Trump is scheduled to speak in the Justice Department's ceremonial Great Hall on Monday, his second speech at the department in less than two years. The White House said the address would focus on protecting American families; it remained unclear whether Trump would again encourage the prosecution of his political opponents. The Associated Press reported that the department has pursued criminal cases involving Trump's adversaries, though multiple cases have been thrown out by judges or declined by grand juries that refused to issue indictments.
-nut_graf: The speech comes after Democrats took control of Congress in this month's midterm elections, a result that sets up possible House and Senate investigations into the Justice Department's mass firings of agents and prosecutors who investigated Trump and into a series of investigations of Trump's opponents rejected by grand juries and judges. Critics say the institution's historic independence has eroded.
+lede: President Donald Trump is scheduled to speak in the Justice Department's ceremonial
+  Great Hall on Monday, his second speech at the department in less than two years.
+  The White House said the address would focus on protecting American families; it
+  remained unclear whether Trump would again encourage the prosecution of his political
+  opponents. The Associated Press reported that the department has pursued criminal
+  cases involving Trump's adversaries, though multiple cases have been thrown out
+  by judges or declined by grand juries that refused to issue indictments.
+nut_graf: The speech comes after Democrats took control of Congress in this month's
+  midterm elections, a result that sets up possible House and Senate investigations
+  into the Justice Department's mass firings of agents and prosecutors who investigated
+  Trump and into a series of investigations of Trump's opponents rejected by grand
+  juries and judges. Critics say the institution's historic independence has eroded.
 primary_entities:
 - Donald Trump
 - Todd Blanche
@@ -44,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,116 +155,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-23-trump-to-speak-in-justice-department-s-great-hall-on-monday.png
-  alt: 'Illustration accompanying article: Trump to speak in Justice Department''s Great Hall on Monday'
+  alt: 'Illustration accompanying article: Trump to speak in Justice Department''s
+    Great Hall on Monday'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-13-justice-department-prepares-for-oversight-fight-with-new-democratic-congress
   headline: Justice Department prepares for oversight fight with new Democratic Congress
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.7292
+  strength: 0.7291
 - slug: 2026-11-08-trump-says-midterm-result-showed-widespread-rejection-of-his-party
   headline: Trump says midterm result showed widespread rejection of his party
   publish_date: '2026-11-08'
   relation: related
-  strength: 0.7258
+  strength: 0.7263
 - slug: 2026-11-09-trump-details-ai-jail-threat-and-expected-cabinet-changes-after-elections
   headline: Trump details AI jail threat and expected cabinet changes after elections
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6995
-- slug: 2026-11-06-us-attorney-leading-grand-conspiracy-probe-into-trump-rivals-resigns
-  headline: US attorney leading 'grand conspiracy' probe into Trump rivals resigns
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.694
+  strength: 0.699
 - slug: 2026-11-02-trump-plans-lincoln-memorial-speech-as-senate-races-reach-the-wire
   headline: Trump plans Lincoln Memorial speech as Senate races reach the wire
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7067
+  strength: 0.7066
 - slug: 2026-11-03-trump-pairs-5-000-pledge-with-national-mall-closing-argument
   headline: Trump pairs $5,000 pledge with National Mall closing argument
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7006
+  strength: 0.7003
 - slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
   headline: Trump officials scramble to retain counsel ahead of February investigations
   publish_date: '2026-10-19'
   relation: related
-  strength: 0.7251
+  strength: 0.7257
 - slug: 2026-09-22-trump-prepares-un-address-as-approval-sits-below-40
   headline: Trump prepares UN address as approval sits below 40%
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.702
+  strength: 0.7021
 - slug: 2026-08-13-blanche-pledges-to-lead-doj-with-integrity-in-first-speech-since-confirmation
   headline: Blanche pledges to lead DOJ with integrity in first speech since confirmation
   publish_date: '2026-08-13'
   relation: related
-  strength: 0.7414
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7235
-- slug: 2026-08-28-blanche-defends-doj-record-pledges-integrity-in-wide-ranging-interview
-  headline: Blanche defends DOJ record, pledges integrity in wide-ranging interview
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6955
-- slug: 2026-08-21-ed-martin-to-leave-justice-department-trump-says
-  headline: Ed Martin to leave Justice Department, Trump says
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.7038
-- slug: 2026-07-16-former-trump-lawyer-warns-speech-may-target-midterms
-  headline: Former Trump lawyer warns speech may target midterms
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7053
-- slug: 2026-07-16-trump-addresses-elections-in-primetime-thursday-speech
-  headline: Trump addresses elections in primetime Thursday speech
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6984
-- slug: 2026-07-03-legal-experts-predict-heavy-scrutiny-of-trump-if-democrats-win-house
-  headline: Legal experts predict heavy scrutiny of Trump if Democrats win House
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.7021
-- slug: 2026-04-27-trump-calls-for-unity-after-hotel-breach-but-will-he-keep-the-tone
-  headline: Trump calls for unity after hotel breach. But will he keep the tone?
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.7188
-- slug: 2026-02-24-trump-delivers-state-of-the-union-to-congress-increasingly-sidelined-by-his-powe
-  headline: Trump delivers State of the Union to Congress increasingly sidelined by his power
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.7261
-- slug: 2026-06-04-trump-to-nominate-acting-attorney-general-todd-blanche-for-permanent-role
-  headline: Trump to Nominate Acting Attorney General Todd Blanche for Permanent Role
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7011
-- slug: 2026-02-20-trump-banner-displayed-on-justice-department-headquarters
-  headline: Trump banner displayed on Justice Department headquarters
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7201
-- slug: 2026-04-26-trump-calls-for-unity-after-third-attempt-but-will-the-tone-last
-  headline: Trump calls for unity after third attempt. But will the tone last?
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7086
+  strength: 0.7407
 ---
-
 ## Trump to speak in Justice Department's Great Hall on Monday
 
 **Subtype:** fact
