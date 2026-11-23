@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-10-27'
   relation: related
   strength: 0.661
+analyses:
+- '2026-11-21-rob-schmitz-s-npr-profile-joins-brazil-and-peru-through-shared-mass-spectacle'
 ---
 ## Carrie Kahn recounts covering Brazil's election upset and Pope Leo's Peru visit
 
@@ -243,3 +245,8 @@ Asked whether she gets homesick, Kahn laughed and asked where home is. She has n
 **Publication date:** 2026-11-21
 **Title:** Highlights and challenges from covering an historic month in South America
 **URL:** https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america
+
+---
+
+<!-- analysis-link:2026-11-21-rob-schmitz-s-npr-profile-joins-brazil-and-peru-through-shared-mass-spectacle -->
+**Going deeper:** [Read MSI's analysis of NPR’s historic-events frame →](/analyses/2026-11-21-rob-schmitz-s-npr-profile-joins-brazil-and-peru-through-shared-mass-spectacle)

@@ -166,6 +166,8 @@ related_stories:
   publish_date: '2026-06-02'
   relation: related
   strength: 0.6532
+analyses:
+- '2026-11-22-indictment-maps-freight-access-to-storage-sites-and-resale-buyers'
 ---
 ## US charges 14 in $22m thefts from moving California freight trains
 
@@ -215,3 +217,8 @@ Prosecutors described this week's sweeping indictment as the culmination of a 14
 **Publication date:** 2026-11-22
 **Title:** California train burglars carefully executed heists for ‘staggering’ $22m haul
 **URL:** https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists
+
+---
+
+<!-- analysis-link:2026-11-22-indictment-maps-freight-access-to-storage-sites-and-resale-buyers -->
+**Going deeper:** [Read MSI's analysis of freight access, storage and resale networks →](/analyses/2026-11-22-indictment-maps-freight-access-to-storage-sites-and-resale-buyers)
