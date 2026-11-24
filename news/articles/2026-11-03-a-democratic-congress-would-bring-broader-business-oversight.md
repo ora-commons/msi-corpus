@@ -43,7 +43,8 @@ topic_tags:
 - politics
 - government
 - banking
-storyline_nexus: []
+storyline_nexus:
+- democratic-control-of-congress
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -218,6 +219,7 @@ related_stories:
   relation: related
   strength: 0.7414
 ---
+
 ## A Democratic Congress would bring broader business oversight
 
 **Subtype:** fact

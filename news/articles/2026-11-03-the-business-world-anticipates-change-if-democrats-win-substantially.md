@@ -44,7 +44,8 @@ primary_themes:
 topic_tags:
 - politics
 - economy
-storyline_nexus: []
+storyline_nexus:
+- democratic-control-of-congress
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -219,6 +220,7 @@ related_stories:
   relation: related
   strength: 0.6982
 ---
+
 ## The business world anticipates change if Democrats win substantially
 
 **Subtype:** fact

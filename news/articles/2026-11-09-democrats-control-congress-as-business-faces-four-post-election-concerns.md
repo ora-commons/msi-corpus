@@ -37,7 +37,8 @@ topic_tags:
 - economy
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- democratic-control-of-congress
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -213,6 +214,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Democrats control Congress as business faces four post-election concerns
 
 **Subtype:** fact

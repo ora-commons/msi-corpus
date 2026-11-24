@@ -57,7 +57,8 @@ primary_themes:
 - Consumer staples
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- democratic-control-of-congress
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -250,6 +251,7 @@ related_stories:
   relation: related
   strength: 0.752
 ---
+
 ## Wall Street rotates out of AI and defense stocks after Democratic midterm sweep
 
 **Subtype:** fact

@@ -33,7 +33,8 @@ primary_themes:
 topic_tags:
 - politics
 - economy
-storyline_nexus: []
+storyline_nexus:
+- democratic-control-of-congress
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -209,8 +210,9 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 analyses:
-- '2026-11-16-conditional-canada-vote-offers-democrats-a-veto-test-before-broad-tariff-repeal'
+- 2026-11-16-conditional-canada-vote-offers-democrats-a-veto-test-before-broad-tariff-repeal
 ---
+
 ## Democrats face hurdles repealing Trump tariffs after taking control of Congress
 
 **Subtype:** fact
