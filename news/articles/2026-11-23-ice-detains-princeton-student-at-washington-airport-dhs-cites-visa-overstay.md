@@ -33,7 +33,8 @@ primary_themes:
 - federal removal proceedings
 topic_tags:
 - education
-storyline_nexus: []
+storyline_nexus:
+- ice-detention-of-princeton-doctoral-student-eva-yi-xie
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.675
 ---
+
 ## ICE detains Princeton student at Washington airport; DHS cites visa overstay
 
 **Subtype:** fact

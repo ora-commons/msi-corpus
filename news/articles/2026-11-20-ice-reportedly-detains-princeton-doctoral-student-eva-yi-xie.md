@@ -40,7 +40,8 @@ primary_themes:
 topic_tags:
 - education
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- ice-detention-of-princeton-doctoral-student-eva-yi-xie
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.6502
 ---
+
 ## ICE reportedly detains Princeton doctoral student Eva Yi Xie
 
 **Subtype:** fact
