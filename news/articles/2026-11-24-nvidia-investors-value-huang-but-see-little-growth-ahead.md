@@ -1,9 +1,20 @@
 ---
 headline: Nvidia investors value Huang but see little growth ahead
-secondary_headline: Trump raises China concern as diversity-and-inclusion advocates call profit the only priority
+secondary_headline: Trump raises China concern as diversity-and-inclusion advocates
+  call profit the only priority
 publish_date: '2026-11-24'
-lede: Ricky Mulvey of The Indicator from Planet Money said investors had put scandals aside and viewed Jensen Huang as representing a significant portion of Nvidia’s value. Mulvey said Nvidia’s stock trades at about 10 times forward earnings, indicating investors expect to pay for 10 years of future profits now, while higher prices for other chipmakers imply more expected future growth for those companies. Mulvey said Nvidia’s recent sales doubled over the past year, but its investors are not anticipating much growth ahead.
-nut_graf: The valuation analysis places Huang’s economic significance alongside debates over presidential intervention and corporate priorities. NPR’s Danielle Kurtzleben called Trump’s involvement in the private business decision significant, while some Silicon Valley advocates for diversity and inclusion said the return signaled that profit was the only priority.
+lede: Ricky Mulvey of The Indicator from Planet Money said investors had put scandals
+  aside and viewed Jensen Huang as representing a significant portion of Nvidia’s
+  value. Mulvey said Nvidia’s stock trades at about 10 times forward earnings, indicating
+  investors expect to pay for 10 years of future profits now, while higher prices
+  for other chipmakers imply more expected future growth for those companies. Mulvey
+  said Nvidia’s recent sales doubled over the past year, but its investors are not
+  anticipating much growth ahead.
+nut_graf: The valuation analysis places Huang’s economic significance alongside debates
+  over presidential intervention and corporate priorities. NPR’s Danielle Kurtzleben
+  called Trump’s involvement in the private business decision significant, while some
+  Silicon Valley advocates for diversity and inclusion said the return signaled that
+  profit was the only priority.
 primary_entities:
 - Jensen Huang
 - Nvidia
@@ -52,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,107 +163,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-24-jensen-huang-returns-to-nvidia-amid-personal-conduct-and-export-control-scrutiny
-  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control scrutiny
+  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control
+    scrutiny
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8074
+  strength: 0.8076
 - slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-after-trump-s-intervention
   headline: Jensen Huang returns as Nvidia CEO after Trump's intervention
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8047
+  strength: 0.805
 - slug: 2026-11-24-trump-says-the-country-needs-more-geniuses-as-nvidia-reinstates-huang
   headline: Trump says the country needs more ‘geniuses’ as Nvidia reinstates Huang
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7917
+  strength: 0.7922
 - slug: 2026-11-24-nvidia-s-huang-reinstatement-sharpens-democrats-case-against-trump
   headline: Nvidia's Huang reinstatement sharpens Democrats' case against Trump
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7853
+  strength: 0.7852
 - slug: 2026-11-24-democratic-lawmakers-challenge-nvidia-after-trump-helps-reinstate-jensen-huang
-  headline: Democratic lawmakers challenge Nvidia after Trump helps reinstate Jensen Huang
+  headline: Democratic lawmakers challenge Nvidia after Trump helps reinstate Jensen
+    Huang
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7839
+  strength: 0.784
 - slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
+  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC
+    probe
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7895
+  strength: 0.7893
 - slug: 2026-11-23-jensen-huang-s-return-leaves-nvidia-s-governance-and-financing-questions-unresol
-  headline: Jensen Huang's return leaves Nvidia's governance and financing questions unresolved
+  headline: Jensen Huang's return leaves Nvidia's governance and financing questions
+    unresolved
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7879
-- slug: 2026-11-23-nvidia-shares-jump-more-than-25-after-huang-s-reinstatement
-  headline: Nvidia shares jump more than 25% after Huang's reinstatement
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7843
+  strength: 0.7875
 - slug: 2026-11-24-trump-and-senior-administration-officials-lobby-nvidia-for-huang-s-return
   headline: Trump and senior administration officials lobby Nvidia for Huang's return
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7769
-- slug: 2026-11-24-nvidia-reinstates-jensen-huang-with-white-house-input
-  headline: Nvidia reinstates Jensen Huang with White House input
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7766
-- slug: 2026-11-24-trump-s-nvidia-holdings-gain-up-to-15m-after-huang-s-reinstatement
-  headline: Trump's Nvidia holdings gain up to $15m after Huang's reinstatement
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.774
-- slug: 2026-11-24-chanana-says-huang-s-return-restores-nvidia-s-strategic-continuity
-  headline: Chanana says Huang’s return restores Nvidia’s strategic continuity
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7716
-- slug: 2026-11-23-vance-helps-persuade-nvidia-s-board-to-reinstate-jensen-huang
-  headline: Vance helps persuade Nvidia's board to reinstate Jensen Huang
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7761
-- slug: 2026-11-23-huang-s-nvidia-comeback-bid-drew-a-petition-an-fbi-remark-and-trump-s-lobbying
-  headline: Huang's Nvidia comeback bid drew a petition, an FBI remark and Trump's lobbying
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7707
-- slug: 2026-11-23-nvidia-reinstates-jensen-huang-after-trump-says-he-persuaded-the-board
-  headline: Nvidia reinstates Jensen Huang after Trump says he persuaded the board
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7668
-- slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-as-shares-open-30-higher
-  headline: Jensen Huang returns as Nvidia CEO as shares open 30% higher
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7584
-- slug: 2026-11-24-nvidia-reinstates-jensen-huang-as-governance-experts-question-the-precedent
-  headline: Nvidia reinstates Jensen Huang as governance experts question the precedent
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7509
-- slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-after-rejecting-his-return-offer
-  headline: Nvidia board reinstates Jensen Huang after rejecting his return offer
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7477
-- slug: 2026-11-19-robert-reich-argues-nvidia-s-reliance-on-jensen-huang-gives-him-unusual-leverage
-  headline: Robert Reich argues Nvidia's reliance on Jensen Huang gives him unusual leverage
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7601
-- slug: 2026-11-16-nvidia-board-won-t-consider-huang-s-return-as-ceo-source-says
-  headline: Nvidia board won't consider Huang's return as CEO, source says
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.751
+  strength: 0.7782
 ---
-
 ## Nvidia investors value Huang but see little growth ahead
 
 **Subtype:** fact
