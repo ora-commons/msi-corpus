@@ -38,7 +38,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- house-democratic-investigations-into-trump-and-his-allies
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -200,6 +201,7 @@ related_stories:
   relation: related
   strength: 0.7374
 ---
+
 ## Robert Garcia orders Trump allies to preserve records for oversight probes
 
 **Subtype:** fact

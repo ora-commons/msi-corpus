@@ -2,8 +2,16 @@
 headline: Nvidia gives back part of its post-reinstatement gain
 secondary_headline: Republican and Democratic lawmakers criticize Huang's reinstatement
 publish_date: '2026-11-24'
-lede: Nvidia's shares fell almost 8% on Tuesday after part of the gains from Jensen Huang's return as chief executive reversed, as U.S. lawmakers questioned President Donald Trump's role in the reinstatement. The stock remained well above Friday's close, before the comeback was revealed.
-nut_graf: Huang remains Nvidia's chief executive. Nvidia gave back part of its post-reinstatement gains as Republican and Democratic lawmakers scrutinized the reinstatement and Trump's role in it. His scheduled congressional appearance next week and the U.S. Commerce Department's preparation to blacklist Megaspeed keep the security questions before Congress and federal officials, while lawmakers have raised questions about government influence, stock trading and unaccounted-for chips.
+lede: Nvidia's shares fell almost 8% on Tuesday after part of the gains from Jensen
+  Huang's return as chief executive reversed, as U.S. lawmakers questioned President
+  Donald Trump's role in the reinstatement. The stock remained well above Friday's
+  close, before the comeback was revealed.
+nut_graf: Huang remains Nvidia's chief executive. Nvidia gave back part of its post-reinstatement
+  gains as Republican and Democratic lawmakers scrutinized the reinstatement and Trump's
+  role in it. His scheduled congressional appearance next week and the U.S. Commerce
+  Department's preparation to blacklist Megaspeed keep the security questions before
+  Congress and federal officials, while lawmakers have raised questions about government
+  influence, stock trading and unaccounted-for chips.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,17 +159,20 @@ related_stories:
   relation: related
   strength: 0.882
 - slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
+  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC
+    probe
   publish_date: '2026-11-23'
   relation: related
   strength: 0.873
 - slug: 2026-11-24-jensen-huang-returns-to-nvidia-amid-personal-conduct-and-export-control-scrutiny
-  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control scrutiny
+  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control
+    scrutiny
   publish_date: '2026-11-24'
   relation: related
   strength: 0.861
 - slug: 2026-11-24-huang-s-nvidia-return-leaves-governance-oversight-and-financing-questions-open
-  headline: Huang's Nvidia return leaves governance, oversight and financing questions open
+  headline: Huang's Nvidia return leaves governance, oversight and financing questions
+    open
   publish_date: '2026-11-24'
   relation: related
   strength: 0.8564
@@ -184,68 +196,7 @@ related_stories:
   publish_date: '2026-11-24'
   relation: related
   strength: 0.8425
-- slug: 2026-11-24-democratic-lawmakers-challenge-nvidia-after-trump-helps-reinstate-jensen-huang
-  headline: Democratic lawmakers challenge Nvidia after Trump helps reinstate Jensen Huang
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8415
-- slug: 2026-11-23-jensen-huang-s-return-leaves-nvidia-s-governance-and-financing-questions-unresol
-  headline: Jensen Huang's return leaves Nvidia's governance and financing questions unresolved
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8417
-- slug: 2026-11-23-congress-questions-nvidia-after-jensen-huang-s-reinstatement
-  headline: Congress questions Nvidia after Jensen Huang's reinstatement
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8404
-- slug: 2026-11-24-nvidia-reinstates-jensen-huang-with-white-house-input
-  headline: Nvidia reinstates Jensen Huang with White House input
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8307
-- slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-after-trump-s-intervention
-  headline: Jensen Huang returns as Nvidia CEO after Trump's intervention
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8378
-- slug: 2026-11-23-nvidia-and-huang-face-sec-board-and-congressional-investigations
-  headline: Nvidia and Huang face SEC, board and congressional investigations
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8322
-- slug: 2026-11-24-nvidia-s-huang-reinstatement-sharpens-democrats-case-against-trump
-  headline: Nvidia's Huang reinstatement sharpens Democrats' case against Trump
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8248
-- slug: 2026-11-23-huang-s-nvidia-comeback-bid-drew-a-petition-an-fbi-remark-and-trump-s-lobbying
-  headline: Huang's Nvidia comeback bid drew a petition, an FBI remark and Trump's lobbying
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8272
-- slug: 2026-11-24-trump-s-nvidia-holdings-gain-up-to-15m-after-huang-s-reinstatement
-  headline: Trump's Nvidia holdings gain up to $15m after Huang's reinstatement
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8186
-- slug: 2026-11-24-trump-says-the-country-needs-more-geniuses-as-nvidia-reinstates-huang
-  headline: Trump says the country needs more ‘geniuses’ as Nvidia reinstates Huang
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8179
-- slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-after-rejecting-his-return-offer
-  headline: Nvidia board reinstates Jensen Huang after rejecting his return offer
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8222
-- slug: 2026-11-24-nvidia-s-board-weighs-two-options-keeping-huang-out-or-letting-him-back-in
-  headline: 'Nvidia''s board weighs two options: keeping Huang out or letting him back in'
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8137
 ---
-
 ## Nvidia gives back part of its post-reinstatement gain
 
 **Subtype:** fact

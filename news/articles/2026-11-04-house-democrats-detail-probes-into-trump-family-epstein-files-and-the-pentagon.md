@@ -52,7 +52,8 @@ topic_tags:
 - crime
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- house-democratic-investigations-into-trump-and-his-allies
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -227,6 +228,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## House Democrats detail probes into Trump family, Epstein files and the Pentagon
 
 **Subtype:** fact
