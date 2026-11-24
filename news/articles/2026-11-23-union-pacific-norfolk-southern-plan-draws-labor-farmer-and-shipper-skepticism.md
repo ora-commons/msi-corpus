@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-04-22'
   relation: related
   strength: 0.787
+analyses:
+- '2026-11-23-rail-merger-review-tests-scale-savings-against-pricing-power-and-safety'
 ---
 ## Union Pacific-Norfolk Southern plan draws labor, farmer and shipper skepticism
 
@@ -251,3 +253,8 @@ The Surface Transportation Board will continue hearing comments from other feder
 **Publication date:** 2026-11-23
 **Title:** Union Pacific says a merger would make shipping cheaper. Farmers, labor and shippers are skeptical.
 **URL:** https://www.newsfromthestates.com/article/union-pacific-says-merger-would-make-shipping-cheaper-farmers-labor-and-shippers-are
+
+---
+
+<!-- analysis-link:2026-11-23-rail-merger-review-tests-scale-savings-against-pricing-power-and-safety -->
+**Going deeper:** [Read MSI's analysis of the Union Pacific-Norfolk Southern merger →](/analyses/2026-11-23-rail-merger-review-tests-scale-savings-against-pricing-power-and-safety)

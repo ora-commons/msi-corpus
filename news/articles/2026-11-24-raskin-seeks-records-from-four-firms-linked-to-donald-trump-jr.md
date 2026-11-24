@@ -1,9 +1,19 @@
 ---
 headline: Raskin seeks records from four firms linked to Donald Trump Jr.
-secondary_headline: The inquiry spans defense contracts, vaping rules, prediction markets and firearms
+secondary_headline: The inquiry spans defense contracts, vaping rules, prediction
+  markets and firearms
 publish_date: '2026-11-24'
-lede: Rep. Jamie Raskin sent letters on Monday to Hadrian Automation, Juul, Polymarket and GrabAGun seeking records of their relationships with 1789 Capital, the investment firm Donald Trump Jr. joined as a partner after the 2024 election. Raskin alleges the firm might have had advanced knowledge of federal contracting decisions, a charge Trump Jr. has denied. The letters demand communications and investment records by Dec. 7 as Democrats prepare to take control of Congress in January.
-nut_graf: The letters are an early step in a broader Democratic effort to examine whether companies received favorable treatment from the Trump administration. Their immediate target is documentary evidence, while an executive order signed by President Trump has prompted legal questions from Democrats over limits on contractor and agency cooperation with Congress.
+lede: Rep. Jamie Raskin sent letters on Monday to Hadrian Automation, Juul, Polymarket
+  and GrabAGun seeking records of their relationships with 1789 Capital, the investment
+  firm Donald Trump Jr. joined as a partner after the 2024 election. Raskin alleges
+  the firm might have had advanced knowledge of federal contracting decisions, a charge
+  Trump Jr. has denied. The letters demand communications and investment records by
+  Dec. 7 as Democrats prepare to take control of Congress in January.
+nut_graf: The letters are an early step in a broader Democratic effort to examine
+  whether companies received favorable treatment from the Trump administration. Their
+  immediate target is documentary evidence, while an executive order signed by President
+  Trump has prompted legal questions from Democrats over limits on contractor and
+  agency cooperation with Congress.
 primary_entities:
 - Jamie Raskin
 - Donald Trump Jr.
@@ -45,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +158,46 @@ related_stories:
   headline: Raskin asks agencies to preserve messaging-app communications
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.6808
-- slug: 2026-11-22-trump-demands-350-billion-in-defense-as-dec-11-funding-deadline-nears
-  headline: Trump demands $350 billion in defense as Dec. 11 funding deadline nears
-  publish_date: '2026-11-22'
-  relation: related
-  strength: 0.633
-- slug: 2026-11-21-trump-orders-contractors-to-clear-congressional-responses-with-white-house
-  headline: Trump orders contractors to clear congressional responses with White House
-  publish_date: '2026-11-21'
-  relation: related
-  strength: 0.6365
-- slug: 2026-11-21-trump-orders-federal-contractors-to-route-hill-inquiries-through-white-house
-  headline: Trump orders federal contractors to route Hill inquiries through White House
-  publish_date: '2026-11-21'
-  relation: related
-  strength: 0.6313
-- slug: 2026-11-21-trump-orders-contractors-to-clear-congressional-inquiries-with-white-house
-  headline: Trump orders contractors to clear congressional inquiries with White House
-  publish_date: '2026-11-21'
-  relation: related
-  strength: 0.6309
+  strength: 0.6797
 - slug: 2026-11-12-democrats-demand-records-from-trump-s-chief-fundraiser-over-800-million-raised
-  headline: Democrats demand records from Trump's chief fundraiser over $800 million raised
+  headline: Democrats demand records from Trump's chief fundraiser over $800 million
+    raised
   publish_date: '2026-11-12'
   relation: related
   strength: 0.6611
 - slug: 2026-11-12-kalshi-ends-trump-jr-s-paid-advisory-role-after-his-firm-backed-rival-polymarket
-  headline: Kalshi ends Trump Jr's paid advisory role after his firm backed rival Polymarket
+  headline: Kalshi ends Trump Jr's paid advisory role after his firm backed rival
+    Polymarket
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6571
+  strength: 0.6575
 - slug: 2026-11-10-blumenthal-targets-major-companies-with-a-jan-4-records-deadline
   headline: Blumenthal targets major companies with a Jan. 4 records deadline
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6595
-- slug: 2026-11-14-trump-s-closeness-to-huang-draws-scrutiny-over-intelligence-concerns
-  headline: Trump's closeness to Huang draws scrutiny over intelligence concerns
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.63
-- slug: 2026-11-09-jon-tester-joins-palantir-ahead-of-democratic-congressional-scrutiny
-  headline: Jon Tester joins Palantir ahead of Democratic congressional scrutiny
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.644
-- slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6482
-- slug: 2026-11-05-trump-s-lawyers-challenge-hush-money-conviction-before-new-york-appeals-court
-  headline: Trump's lawyers challenge hush money conviction before New York appeals court
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.64
+  strength: 0.6589
 - slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
   headline: Democrats outline investigation priorities if they win Congress
   publish_date: '2026-10-09'
   relation: related
   strength: 0.6958
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6448
 - slug: 2026-09-20-trump-sons-and-allies-accumulate-ai-linked-contracts-as-white-house-resists-guar
-  headline: Trump sons and allies accumulate AI-linked contracts as White House resists guardrails
+  headline: Trump sons and allies accumulate AI-linked contracts as White House resists
+    guardrails
   publish_date: '2026-09-20'
   relation: related
-  strength: 0.6674
-- slug: 2026-09-28-himes-readies-house-intelligence-probes-of-spy-industry-s-trump-dealings
-  headline: Himes readies House Intelligence probes of spy-industry's Trump dealings
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.6318
-- slug: 2026-09-24-iranian-customs-data-show-1-300-chinese-dual-use-shipments-to-defense-ministry
-  headline: Iranian customs data show 1,300 Chinese dual-use shipments to defense ministry
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6343
+  strength: 0.6683
 - slug: 2026-08-28-trump-corporate-donors-brace-for-investigations-if-house-flips-to-democrats
   headline: Trump corporate donors brace for investigations if House flips to Democrats
   publish_date: '2026-08-28'
   relation: related
-  strength: 0.6662
+  strength: 0.6668
 - slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
   headline: Democrats ready multi-front investigations into Trump administration
   publish_date: '2026-08-22'
   relation: related
-  strength: 0.6557
-- slug: 2026-07-23-jordan-refers-smith-to-doj-over-alleged-false-congressional-testimony
-  headline: Jordan refers Smith to DOJ over alleged false congressional testimony
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.637
+  strength: 0.6556
 ---
-
 ## Raskin seeks records from four firms linked to Donald Trump Jr.
 
 **Subtype:** fact
