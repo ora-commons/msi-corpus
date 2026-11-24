@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-11-23'
   relation: related
   strength: 0.7892
+analyses:
+- '2026-11-23-consensus-rule-and-disputed-language-combine-to-block-cop31-pact'
 ---
 ## Cop31 ends without pact, drawing calls for consensus-rule reform
 
@@ -231,3 +233,8 @@ China, India and a large number of developing countries did not formally object 
 **Publication date:** 2026-11-23
 **Title:** Failure of Cop31 prompts calls for urgent reform of UN climate summits
 **URL:** https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits
+
+---
+
+<!-- analysis-link:2026-11-23-consensus-rule-and-disputed-language-combine-to-block-cop31-pact -->
+**Going deeper:** [Read MSI's analysis of the Cop31 consensus deadlock →](/analyses/2026-11-23-consensus-rule-and-disputed-language-combine-to-block-cop31-pact)

@@ -68,12 +68,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - NPR
   - The Guardian
   outlet_classes:
   - national_daily
-  highest_reliability_tier: 2
+  - public_broadcaster
+  highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
 figures:
@@ -270,6 +272,13 @@ The Guardian’s market data agenda for November 24 listed the IFO survey of Ger
 **Publication date:** 2026-11-24
 **Title:** Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live
 **URL:** https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates
+
+### src_late_7fe7976a5cd25cfd — NPR, public_broadcaster, Tier 1, originating
+**Author:** Ricky Mulvey
+**Publication date:** 2026-11-24
+**Title:** Jensen Huang returns to Nvidia as CEO after scandal
+**URL:** https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal
+**Added after publication:** true
 
 ---
 
