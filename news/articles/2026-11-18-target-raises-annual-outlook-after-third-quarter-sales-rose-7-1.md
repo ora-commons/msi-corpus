@@ -28,7 +28,8 @@ primary_themes:
 topic_tags:
 - economy
 - consumer goods
-storyline_nexus: []
+storyline_nexus:
+- big-box-retailer-earnings-outlooks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.7049
 ---
+
 ## Target raises annual outlook after third-quarter sales rose 7.1%
 
 **Subtype:** fact

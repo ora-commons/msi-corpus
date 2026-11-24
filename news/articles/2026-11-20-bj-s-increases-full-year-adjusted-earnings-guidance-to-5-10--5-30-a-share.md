@@ -19,7 +19,8 @@ primary_themes:
 - Comparable-club sales
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- big-box-retailer-earnings-outlooks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -182,6 +183,7 @@ related_stories:
   relation: related
   strength: 0.6704
 ---
+
 ## BJ's increases full-year adjusted earnings guidance to $5.10-$5.30 a share
 
 **Subtype:** fact

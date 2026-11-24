@@ -34,7 +34,8 @@ topic_tags:
 - consumer goods
 - computing and information technology
 - business information
-storyline_nexus: []
+storyline_nexus:
+- big-box-retailer-earnings-outlooks
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -197,6 +198,7 @@ related_stories:
   relation: related
   strength: 0.6983
 ---
+
 ## Walmart raises sales guidance after quarterly revenue grows 5.2%
 
 **Subtype:** fact
