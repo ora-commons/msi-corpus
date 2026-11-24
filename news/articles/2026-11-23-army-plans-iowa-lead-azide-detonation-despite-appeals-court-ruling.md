@@ -213,6 +213,8 @@ related_stories:
   publish_date: '2026-11-19'
   relation: related
   strength: 0.8491
+analyses:
+- '2026-11-23-army-s-planned-exemption-rests-on-a-temperature-instability-claim'
 ---
 ## Army plans Iowa lead azide detonation despite appeals court ruling
 
@@ -254,3 +256,8 @@ Wednesday's blast would proceed under the Army's emergency exemption even as the
 **Publication date:** 2026-11-23
 **Title:** U.S. Army Plans to Detonate Tons of Toxic Lead Explosives in Iowa
 **URL:** https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92
+
+---
+
+<!-- analysis-link:2026-11-23-army-s-planned-exemption-rests-on-a-temperature-instability-claim -->
+**Going deeper:** [Read MSI's analysis of Army’s Iowa detonation exemption →](/analyses/2026-11-23-army-s-planned-exemption-rests-on-a-temperature-instability-claim)
