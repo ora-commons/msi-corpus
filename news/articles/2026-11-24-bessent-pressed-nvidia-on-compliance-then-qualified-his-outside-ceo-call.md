@@ -2,8 +2,15 @@
 headline: Bessent pressed Nvidia on compliance, then qualified his outside-CEO call
 secondary_headline: Nvidia still needed to identify responsibility for possible noncompliance
 publish_date: '2026-11-24'
-lede: Treasury Secretary Scott Bessent pressed Nvidia on its compliance culture before qualifying his call for an outside CEO on CBS’s “Face the Nation” Sunday, saying Jensen Huang “is on the outside now” but declining to say whether he should return. Bessent also said Nvidia still needed to establish who was responsible for possible noncompliance, a question left unanswered after Huang’s reinstatement on Monday.
-nut_graf: Bessent’s change in tone left Nvidia facing unresolved questions about executive conduct and possible noncompliance even as Huang returned. The board’s unanimous decision cited “senior levels of the U.S. government,” while Bessent continued to say the company needed to establish who was responsible for possible noncompliance.
+lede: Treasury Secretary Scott Bessent pressed Nvidia on its compliance culture before
+  qualifying his call for an outside CEO on CBS’s “Face the Nation” Sunday, saying
+  Jensen Huang “is on the outside now” but declining to say whether he should return.
+  Bessent also said Nvidia still needed to establish who was responsible for possible
+  noncompliance, a question left unanswered after Huang’s reinstatement on Monday.
+nut_graf: Bessent’s change in tone left Nvidia facing unresolved questions about executive
+  conduct and possible noncompliance even as Huang returned. The board’s unanimous
+  decision cited “senior levels of the U.S. government,” while Bessent continued to
+  say the company needed to establish who was responsible for possible noncompliance.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,104 +153,45 @@ related_stories:
   headline: Bessent appears to ease his stance on Jensen Huang's return to Nvidia
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8451
+  strength: 0.8439
 - slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-amid-bipartisan-congressional-backlash
   headline: Nvidia board reinstates Jensen Huang amid bipartisan congressional backlash
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8306
+  strength: 0.8314
 - slug: 2026-11-23-pratley-says-nvidia-s-board-forfeited-independence-under-political-pressure
   headline: Pratley says Nvidia's board forfeited independence under political pressure
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8278
+  strength: 0.8272
 - slug: 2026-11-15-bessent-urges-nvidia-to-hire-outside-ceo-and-answer-export-questions
   headline: Bessent urges Nvidia to hire outside CEO and answer export questions
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.8782
-- slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
-  publish_date: '2026-11-23'
+  strength: 0.8787
+- slug: 2026-11-24-nvidia-reinstates-jensen-huang-as-governance-experts-question-the-precedent
+  headline: Nvidia reinstates Jensen Huang as governance experts question the precedent
+  publish_date: '2026-11-24'
   relation: related
-  strength: 0.8131
+  strength: 0.8103
 - slug: 2026-11-23-huang-s-nvidia-comeback-bid-drew-a-petition-an-fbi-remark-and-trump-s-lobbying
-  headline: Huang's Nvidia comeback bid drew a petition, an FBI remark and Trump's lobbying
+  headline: Huang's Nvidia comeback bid drew a petition, an FBI remark and Trump's
+    lobbying
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8131
-- slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-after-rejecting-his-return-offer
-  headline: Nvidia board reinstates Jensen Huang after rejecting his return offer
+  strength: 0.8126
+- slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
+  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC
+    probe
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8083
+  strength: 0.8121
 - slug: 2026-11-23-congress-questions-nvidia-after-jensen-huang-s-reinstatement
   headline: Congress questions Nvidia after Jensen Huang's reinstatement
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8079
-- slug: 2026-11-16-treasury-secretary-scott-bessent-calls-for-nvidia-compliance-review
-  headline: Treasury Secretary Scott Bessent calls for Nvidia compliance review
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.8428
-- slug: 2026-11-16-more-than-158-000-signatories-call-for-nvidia-to-reinstate-huang
-  headline: More than 158,000 signatories call for Nvidia to reinstate Huang
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.839
-- slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-after-trump-s-intervention
-  headline: Jensen Huang returns as Nvidia CEO after Trump's intervention
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7889
-- slug: 2026-11-23-nvidia-shares-jump-more-than-25-after-huang-s-reinstatement
-  headline: Nvidia shares jump more than 25% after Huang's reinstatement
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7887
-- slug: 2026-11-16-nvidia-board-won-t-consider-huang-s-return-as-ceo-source-says
-  headline: Nvidia board won't consider Huang's return as CEO, source says
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.8329
-- slug: 2026-11-23-nvidia-and-huang-face-sec-board-and-congressional-investigations
-  headline: Nvidia and Huang face SEC, board and congressional investigations
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.784
-- slug: 2026-11-23-nvidia-reinstates-jensen-huang-after-trump-says-he-persuaded-the-board
-  headline: Nvidia reinstates Jensen Huang after Trump says he persuaded the board
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7808
-- slug: 2026-11-23-vance-helps-persuade-nvidia-s-board-to-reinstate-jensen-huang
-  headline: Vance helps persuade Nvidia's board to reinstate Jensen Huang
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7791
-- slug: 2026-11-17-jensen-huang-offers-to-return-to-nvidia-and-agrees-to-testify-to-congress
-  headline: Jensen Huang offers to return to Nvidia and agrees to testify to Congress
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8163
-- slug: 2026-11-17-petition-seeks-huang-s-return-board-not-currently-considering-it-source-says
-  headline: Petition seeks Huang's return; board not currently considering it, source says
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.793
-- slug: 2026-11-18-nvidia-posts-record-results-as-board-rules-out-jensen-huang-s-return
-  headline: Nvidia posts record results as board rules out Jensen Huang’s return
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.7783
-- slug: 2026-11-17-nvidia-oversight-panel-has-three-directors-and-will-work-with-outside-experts
-  headline: Nvidia oversight panel has three directors and will work with outside experts
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7793
+  strength: 0.809
 ---
-
 ## Bessent pressed Nvidia on compliance, then qualified his outside-CEO call
 
 **Subtype:** fact

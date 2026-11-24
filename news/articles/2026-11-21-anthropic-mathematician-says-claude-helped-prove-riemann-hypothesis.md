@@ -33,7 +33,8 @@ primary_themes:
 - corporate spending on AI compute
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- claimed-ai-assisted-proof-of-the-riemann-hypothesis
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -185,6 +186,7 @@ related_stories:
   relation: related
   strength: 0.6502
 ---
+
 ## Anthropic mathematician says Claude helped prove Riemann hypothesis
 
 **Subtype:** fact

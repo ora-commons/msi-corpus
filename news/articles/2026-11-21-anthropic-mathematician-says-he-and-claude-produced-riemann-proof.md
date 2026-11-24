@@ -32,7 +32,7 @@ primary_themes:
 topic_tags:
 - artificial intelligence
 storyline_nexus:
-- ai-industry-regulation
+- claimed-ai-assisted-proof-of-the-riemann-hypothesis
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -170,6 +170,7 @@ related_stories:
   relation: related
   strength: 0.8389
 ---
+
 ## Anthropic mathematician says he and Claude produced Riemann proof
 
 **Subtype:** fact

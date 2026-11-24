@@ -29,7 +29,8 @@ primary_themes:
 topic_tags:
 - science and technology
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- claimed-ai-assisted-proof-of-the-riemann-hypothesis
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -157,6 +158,7 @@ related_stories:
   relation: related
   strength: 0.6503
 ---
+
 ## Anthropic employee says chatbot produced Riemann hypothesis proof
 
 **Subtype:** fact
