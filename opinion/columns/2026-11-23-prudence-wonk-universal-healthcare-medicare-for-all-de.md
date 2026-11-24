@@ -1,7 +1,8 @@
 ---
 headline: The Blank Check Hidden Inside Medicare for All
 publish_date: '2026-11-23'
-lede: Hakeem Jeffries and Bernie Sanders are laundering a blank check through Medicare for All.
+lede: Hakeem Jeffries and Bernie Sanders are laundering a blank check through Medicare
+  for All.
 pen_name: prudence-wonk
 primary_entities:
 - Hakeem Jeffries
@@ -21,7 +22,8 @@ primary_entities:
 - U.S. House of Representatives
 primary_themes:
 - Medicare for All as a legislative priority
-- reversal of recent Medicaid cuts that threaten to leave millions of people without care
+- reversal of recent Medicaid cuts that threaten to leave millions of people without
+  care
 - Affordable Care Act tax credit extension
 - Senate filibuster threshold and presidential veto
 - voter demand for a larger federal role in health care
@@ -44,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -66,7 +69,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-blank-check-hidden-inside-medicare-for-all.png
+  alt: 'Editorial cartoon by Hector Rentier: The Blank Check Hidden Inside Medicare
+    for All'
+  caption: An agenda is not a bill. A timetable is not a price.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-24T00:20:14-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1 single-panel Nast-style wood engraving with dense cross-hatch
+    and strong figure-ground hierarchy. At center, an anonymous, fully individuated
+    legislative press officer—not a recognizable li
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-23-hector-paired-with-2026-11-23-prudence-wonk-universal-healthcare-medicare-for-all-de
 ---
+
+![Editorial cartoon by Hector Rentier: The Blank Check Hidden Inside Medicare for All](/cartoons/the-blank-check-hidden-inside-medicare-for-all.png)
+*An agenda is not a bill. A timetable is not a price.*
 
 Hakeem Jeffries and Bernie Sanders are laundering a blank check through Medicare for All.
 

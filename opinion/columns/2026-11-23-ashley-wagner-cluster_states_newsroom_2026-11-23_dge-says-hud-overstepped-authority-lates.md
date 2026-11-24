@@ -36,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,7 +58,29 @@ cross_article_links:
   strength: 0.9062
   confidence: high
 draft: false
+image:
+  url: /cartoons/scott-turner-and-hud-steal-13-billion-from-permanent-housing.png
+  alt: 'Editorial cartoon by Hector Rentier: Scott Turner and HUD Steal $1.3 Billion
+    from Permanent Housing'
+  caption: Congress allowed extra criteria, not permission to nullify mandatory housing
+    factors.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-24T00:17:29-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square, single-panel Nast-style wood engraving. At center, an unnamed,
+    fully individuated senior HUD grant administrator sits at a giant ledger-switchboard.
+    He is an ordinary suited man, natural in bo
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-23-hector-paired-with-2026-11-23-ashley-wagner-cluster_states_newsroom_2026-11-23_dge-says-hud-overstepped-autho
 ---
+
+![Editorial cartoon by Hector Rentier: Scott Turner and HUD Steal $1.3 Billion from Permanent Housing](/cartoons/scott-turner-and-hud-steal-13-billion-from-permanent-housing.png)
+*Congress allowed extra criteria, not permission to nullify mandatory housing factors.*
 
 Scott Turner and HUD are stealing $1.3 billion from permanent housing programs.
 
