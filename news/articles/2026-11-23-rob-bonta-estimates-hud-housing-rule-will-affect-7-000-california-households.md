@@ -62,7 +62,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -240,3 +240,10 @@ The rule remains scheduled to take effect Dec. 14 as the states challenge it. Bo
 **Publication date:** 2026-11-23
 **Title:** States sue HUD over citizenship rule for federal housing aid
 **URL:** https://apnews.com/article/states-sue-hud-housing-rule-citizenship-aid-1b46d31d12f5201883247cac1a3ce198
+
+### src_late_dead9cc32079296c — Associated Press, wire, Tier 1, originating
+**Author:** Mikella Schuettler, Associated Press
+**Publication date:** 2026-11-24
+**Title:** States sue HUD over a rule that would end housing aid for mixed-status families
+**URL:** https://www.pbs.org/newshour/nation/states-sue-hud-over-a-rule-that-would-end-housing-aid-for-mixed-status-families
+**Added after publication:** true

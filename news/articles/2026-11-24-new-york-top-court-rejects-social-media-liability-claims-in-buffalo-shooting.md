@@ -71,10 +71,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -229,3 +231,9 @@ The 10 people Gendron killed ranged in age from 32 to 86. The victims were Heywa
 **Publication date:** 2026-11-24
 **Title:** New York's top court says social media firms aren't liable in Buffalo mass shooting
 **URL:** https://apnews.com/article/buffalo-supermarket-shooting-lawsuits-39338cead3894bb06ae673aa9dfa07a1
+
+### src_late_e03c7403960d198a — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-24
+**Title:** Meta and other social media firms are not liable for Buffalo mass shooting, court rules
+**URL:** https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting
+**Added after publication:** true
