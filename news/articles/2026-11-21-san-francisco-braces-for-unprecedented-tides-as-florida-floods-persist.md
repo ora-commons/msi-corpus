@@ -33,7 +33,8 @@ primary_themes:
 - Thanksgiving travel
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- california-storms-and-coastal-flooding
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -198,6 +199,7 @@ related_stories:
   relation: related
   strength: 0.7155
 ---
+
 ## San Francisco braces for unprecedented tides as Florida floods persist
 
 **Subtype:** fact

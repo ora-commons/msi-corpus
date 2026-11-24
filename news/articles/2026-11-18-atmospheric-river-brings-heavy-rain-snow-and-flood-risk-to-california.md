@@ -28,7 +28,8 @@ primary_themes:
 - Wildfire burn-scar hazards
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- california-storms-and-coastal-flooding
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.6866
 ---
+
 ## Atmospheric river brings heavy rain, snow and flood risk to California
 
 **Subtype:** fact

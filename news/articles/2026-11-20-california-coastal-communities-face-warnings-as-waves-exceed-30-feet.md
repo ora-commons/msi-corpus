@@ -36,7 +36,8 @@ topic_tags:
 - weather
 - weather forecast
 - weather warning
-storyline_nexus: []
+storyline_nexus:
+- california-storms-and-coastal-flooding
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -200,6 +201,7 @@ related_stories:
   relation: related
   strength: 0.7377
 ---
+
 ## California coastal communities face warnings as waves exceed 30 feet
 
 **Subtype:** fact

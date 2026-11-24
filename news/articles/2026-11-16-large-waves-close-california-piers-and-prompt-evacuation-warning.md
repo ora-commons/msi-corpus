@@ -26,7 +26,8 @@ topic_tags:
 - weather
 - natural disaster
 - climate change
-storyline_nexus: []
+storyline_nexus:
+- california-storms-and-coastal-flooding
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -188,6 +189,7 @@ related_stories:
   relation: related
   strength: 0.6969
 ---
+
 ## Large waves close California piers and prompt evacuation warning
 
 **Subtype:** fact

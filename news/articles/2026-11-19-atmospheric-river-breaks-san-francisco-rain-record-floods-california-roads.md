@@ -29,7 +29,8 @@ primary_themes:
 - Sierra Nevada snowfall
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- california-storms-and-coastal-flooding
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.7292
 ---
+
 ## Atmospheric river breaks San Francisco rain record, floods California roads
 
 **Subtype:** fact

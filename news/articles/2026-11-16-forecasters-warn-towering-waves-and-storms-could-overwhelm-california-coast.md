@@ -32,7 +32,8 @@ topic_tags:
 - climate change
 - weather
 - natural disaster
-storyline_nexus: []
+storyline_nexus:
+- california-storms-and-coastal-flooding
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.7962
 ---
+
 ## Forecasters warn towering waves and storms could overwhelm California coast
 
 **Subtype:** fact

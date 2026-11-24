@@ -24,7 +24,8 @@ topic_tags:
 - weather
 - disaster
 - environment
-storyline_nexus: []
+storyline_nexus:
+- california-storms-and-coastal-flooding
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,6 +200,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Large waves close California piers and flood coastal streets
 
 **Subtype:** fact

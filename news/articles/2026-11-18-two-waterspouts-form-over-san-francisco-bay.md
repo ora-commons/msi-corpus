@@ -22,7 +22,8 @@ primary_themes:
 - elevated tides and high winds
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- california-storms-and-coastal-flooding
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -185,6 +186,7 @@ related_stories:
   relation: related
   strength: 0.6815
 ---
+
 ## Two waterspouts form over San Francisco Bay
 
 **Subtype:** fact
