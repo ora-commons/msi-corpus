@@ -2,8 +2,19 @@
 headline: Crypto investor removed from Trump meme coin dinner
 secondary_headline: The more coin a guest bought, the closer the access to Trump
 publish_date: '2026-11-23'
-lede: President Donald Trump held another dinner last night to reward the top holders of the Trump meme coin, a cryptocurrency he launched right before his inauguration. The event drew over a hundred guests to his golf club in Northern Virginia and was promoted as the most exclusive dinner in the world. Two attendees who spoke with NPR's Rafael Nam described what the night bought and cost them, and how one of them was removed from the gala before the president arrived.
-nut_graf: 'The evening shows the bargain the coin dinners strike: holding the token buys access to the president. Rafael Nam reported that Christensen was being kicked out for posting pictures and talking to people in the media; Christensen said he was not sure why, and NPR received no response from organizers. The report comes as host Juana Summers said Trump will likely face investigations into the billions of dollars he and his family have made in crypto, now that Democrats hold congressional majorities.'
+lede: President Donald Trump held another dinner last night to reward the top holders
+  of the Trump meme coin, a cryptocurrency he launched right before his inauguration.
+  The event drew over a hundred guests to his golf club in Northern Virginia and was
+  promoted as the most exclusive dinner in the world. Two attendees who spoke with
+  NPR's Rafael Nam described what the night bought and cost them, and how one of them
+  was removed from the gala before the president arrived.
+nut_graf: 'The evening shows the bargain the coin dinners strike: holding the token
+  buys access to the president. Rafael Nam reported that Christensen was being kicked
+  out for posting pictures and talking to people in the media; Christensen said he
+  was not sure why, and NPR received no response from organizers. The report comes
+  as host Juana Summers said Trump will likely face investigations into the billions
+  of dollars he and his family have made in crypto, now that Democrats hold congressional
+  majorities.'
 primary_entities:
 - Donald Trump
 - Morten Christensen
@@ -40,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,104 +154,43 @@ related_stories:
   headline: Trump hosts dinner for top holders of his meme coin, down 90%
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.836
+  strength: 0.8359
 - slug: 2026-11-20-researchers-trace-trump-family-crypto-gains-to-meme-coins-and-world-liberty
   headline: Researchers trace Trump family crypto gains to meme coins and World Liberty
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.7037
+  strength: 0.7034
 - slug: 2026-11-10-trump-family-made-nearly-3-billion-during-second-term-researchers-estimate
   headline: Trump family made nearly $3 billion during second term, researchers estimate
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6725
+  strength: 0.6726
 - slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
   headline: Democrats elevate Trump corruption claims as midterm campaign issue
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7246
+  strength: 0.7248
 - slug: 2026-09-25-trump-hosts-xi-at-white-house-state-dinner-with-bezos-greer
   headline: Trump hosts Xi at White House state dinner with Bezos, Greer
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6531
-- slug: 2026-09-25-trump-hosts-xi-at-white-house-state-dinner-attended-by-tech-ceos
-  headline: Trump hosts Xi at White House state dinner attended by tech CEOs
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6426
+  strength: 0.6529
 - slug: 2026-09-15-clarity-act-ethics-revisions-bar-officials-from-issuing-cryptocurrencies
   headline: Clarity Act ethics revisions bar officials from issuing cryptocurrencies
   publish_date: '2026-09-15'
   relation: related
-  strength: 0.659
-- slug: 2026-09-16-trump-xi-state-dinner-expected-to-draw-rival-ai-ceos
-  headline: Trump-Xi state dinner expected to draw rival AI CEOs
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6394
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6224
+  strength: 0.6591
 - slug: 2026-08-05-alsobrooks-cites-trump-crypto-income-as-concern-for-digital-asset-bill
   headline: Alsobrooks cites Trump crypto income as concern for digital-asset bill
   publish_date: '2026-08-05'
   relation: related
-  strength: 0.6519
+  strength: 0.6522
 - slug: 2026-07-01-trump-earned-over-1-billion-from-crypto-ventures-in-2025-filing-shows
   headline: Trump earned over $1 billion from crypto ventures in 2025, filing shows
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.6816
-- slug: 2026-08-19-lipton-tells-npr-congress-has-declined-to-commit-oversight-to-trump-s-finances
-  headline: Lipton tells NPR Congress has declined to commit oversight to Trump's finances
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6321
-- slug: 2026-07-18-trump-s-crypto-ventures-net-1-2-billion-as-economists-warn-of-financial-instabil
-  headline: Trump's crypto ventures net $1.2 billion as economists warn of financial instability
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6663
-- slug: 2026-08-13-trump-s-businesses-earned-2-2bn-in-2025-ethics-experts-say
-  headline: Trump's businesses earned $2.2bn in 2025, ethics experts say
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.635
-- slug: 2026-08-07-trump-appears-in-las-vegas-with-brighter-hair-sparking-online-memes
-  headline: Trump appears in Las Vegas with brighter hair, sparking online memes
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6362
-- slug: 2026-07-24-white-house-correspondents-dinner-resumes-with-trump-after-april-attack
-  headline: White House correspondents’ dinner resumes with Trump after April attack
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6371
-- slug: 2026-06-30-trump-made-over-1-billion-from-crypto-ventures-in-2025-filing-shows
-  headline: Trump made over $1 billion from crypto ventures in 2025, filing shows
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6454
-- slug: 2026-07-25-trump-delivers-speech-at-rescheduled-correspondents-dinner-addresses-press-and-r
-  headline: Trump delivers speech at rescheduled correspondents’ dinner, addresses press and rivals
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6258
-- slug: 2026-07-16-pennsylvania-swing-voters-shrug-off-trump-s-2-2b-income
-  headline: Pennsylvania swing voters shrug off Trump's $2.2B income
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6283
-- slug: 2026-04-26-trump-unharmed-after-shots-during-white-house-correspondents-dinner
-  headline: Trump unharmed after shots during White House correspondents’ dinner
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6584
+  strength: 0.6818
 ---
-
 ## Crypto investor removed from Trump meme coin dinner
 
 **Subtype:** fact
