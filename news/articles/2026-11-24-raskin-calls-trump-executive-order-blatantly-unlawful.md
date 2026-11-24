@@ -2,8 +2,21 @@
 headline: Raskin calls Trump executive order 'blatantly unlawful'
 secondary_headline: Raskin says Juul clearance came four months after 1789 invested
 publish_date: '2026-11-24'
-lede: Rep. Jamie Raskin, the ranking member of the House Judiciary Committee and its incoming chair, called a Trump administration executive order issued Friday “blatantly unlawful,” saying public contractors have a “duty and a right to speak truthfully when Congress calls.” The order could complicate compliance with Raskin’s investigation for at least one of the companies, Hadrian Automation, which is a federal contractor. In letters obtained by The Associated Press, he wrote that 1789 Capital had suspiciously “serendipitous timing” when it invested in four companies. Raskin also wrote that Juul Labs received Food and Drug Administration clearance in July 2025, four months after 1789 Capital took a stake.
-nut_graf: Raskin’s letters outline federal contracts, product clearance and regulatory actions that benefited the four companies after 1789 Capital invested. Raskin wrote that Juul’s clearance came four months after 1789 took a stake, while a Friday order directing federal contractors and subcontractors to withhold communications the White House considers privileged could complicate Hadrian Automation’s compliance with his investigation.
+lede: Rep. Jamie Raskin, the ranking member of the House Judiciary Committee and its
+  incoming chair, called a Trump administration executive order issued Friday “blatantly
+  unlawful,” saying public contractors have a “duty and a right to speak truthfully
+  when Congress calls.” The order could complicate compliance with Raskin’s investigation
+  for at least one of the companies, Hadrian Automation, which is a federal contractor.
+  In letters obtained by The Associated Press, he wrote that 1789 Capital had suspiciously
+  “serendipitous timing” when it invested in four companies. Raskin also wrote that
+  Juul Labs received Food and Drug Administration clearance in July 2025, four months
+  after 1789 Capital took a stake.
+nut_graf: Raskin’s letters outline federal contracts, product clearance and regulatory
+  actions that benefited the four companies after 1789 Capital invested. Raskin wrote
+  that Juul’s clearance came four months after 1789 took a stake, while a Friday order
+  directing federal contractors and subcontractors to withhold communications the
+  White House considers privileged could complicate Hadrian Automation’s compliance
+  with his investigation.
 primary_entities:
 - Jamie Raskin
 - Donald Trump Jr.
@@ -45,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,113 +161,57 @@ related_stories:
   headline: Raskin seeks records from four firms linked to Donald Trump Jr.
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8377
+  strength: 0.8376
 - slug: 2026-11-24-house-democrats-expand-probe-of-1789-capital-and-trump-jr
   headline: House Democrats expand probe of 1789 Capital and Trump Jr.
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7703
+  strength: 0.77
 - slug: 2026-11-21-trump-orders-federal-contractors-to-route-hill-inquiries-through-white-house
-  headline: Trump orders federal contractors to route Hill inquiries through White House
+  headline: Trump orders federal contractors to route Hill inquiries through White
+    House
   publish_date: '2026-11-21'
   relation: related
-  strength: 0.7097
+  strength: 0.7094
 - slug: 2026-11-21-trump-orders-contractors-to-clear-congressional-inquiries-with-white-house
   headline: Trump orders contractors to clear congressional inquiries with White House
   publish_date: '2026-11-21'
   relation: related
-  strength: 0.7
+  strength: 0.6998
 - slug: 2026-11-21-trump-orders-contractors-to-consult-white-house-before-answering-congress
   headline: Trump orders contractors to consult White House before answering Congress
   publish_date: '2026-11-21'
   relation: related
-  strength: 0.6968
+  strength: 0.6966
 - slug: 2026-11-21-trump-orders-contractors-to-clear-congressional-responses-with-white-house
   headline: Trump orders contractors to clear congressional responses with White House
   publish_date: '2026-11-21'
   relation: related
-  strength: 0.6946
+  strength: 0.6945
 - slug: 2026-11-20-raskin-asks-agencies-to-preserve-messaging-app-communications
   headline: Raskin asks agencies to preserve messaging-app communications
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.6779
-- slug: 2026-11-22-trump-demands-350-billion-in-defense-as-dec-11-funding-deadline-nears
-  headline: Trump demands $350 billion in defense as Dec. 11 funding deadline nears
-  publish_date: '2026-11-22'
-  relation: related
-  strength: 0.6496
+  strength: 0.6778
 - slug: 2026-11-16-trump-administration-shifts-stance-on-foreign-access-to-ai-chips
   headline: Trump administration shifts stance on foreign access to AI chips
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6556
-- slug: 2026-11-05-trump-s-lawyers-challenge-hush-money-conviction-before-new-york-appeals-court
-  headline: Trump's lawyers challenge hush money conviction before New York appeals court
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6631
-- slug: 2026-10-08-trump-shifts-self-promotional-ad-funding-to-super-pac
-  headline: Trump shifts self-promotional ad funding to super PAC
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6405
-- slug: 2026-09-29-trump-tells-white-house-tech-ceos-self-regulation-is-very-important
-  headline: Trump tells White House tech CEOs self-regulation is 'very important'
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6566
-- slug: 2026-09-29-trump-tech-ceos-sign-morally-binding-voluntary-ai-self-policing-deal
-  headline: Trump, tech CEOs sign 'morally binding' voluntary AI self-policing deal
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6476
-- slug: 2026-09-30-trump-ai-executives-sign-voluntary-self-policing-accord
-  headline: Trump, AI executives sign voluntary self-policing accord
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6444
-- slug: 2026-09-30-white-house-ai-accord-misspells-united-states-under-trump-s-signature
-  headline: White House AI accord misspells 'United States' under Trump's signature
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6441
-- slug: 2026-09-27-kennedy-says-taxpayer-funded-trump-ads-are-probably-illegal
-  headline: Kennedy says taxpayer-funded Trump ads are 'probably' illegal
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.6484
-- slug: 2026-08-07-four-house-republicans-seek-south-korea-briefing-on-online-speech-law
-  headline: Four House Republicans seek South Korea briefing on online speech law
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6473
-- slug: 2026-07-23-jordan-refers-smith-to-doj-over-alleged-false-congressional-testimony
-  headline: Jordan refers Smith to DOJ over alleged false congressional testimony
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6597
-- slug: 2026-07-03-legal-experts-predict-heavy-scrutiny-of-trump-if-democrats-win-house
-  headline: Legal experts predict heavy scrutiny of Trump if Democrats win House
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.6464
-- slug: 2026-06-17-harvard-bard-face-fresh-congressional-questions-on-epstein-ties
-  headline: Harvard, Bard Face Fresh Congressional Questions on Epstein Ties
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6455
+  strength: 0.6559
 image:
   url: /articles/2026-11-24-raskin-calls-trump-executive-order-blatantly-unlawful.png
-  alt: "Illustration accompanying article: Raskin calls Trump executive order 'blatantly unlawful'"
+  alt: 'Illustration accompanying article: Raskin calls Trump executive order ''blatantly
+    unlawful'''
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Raskin calls Trump executive order 'blatantly unlawful'
 
 **Subtype:** fact

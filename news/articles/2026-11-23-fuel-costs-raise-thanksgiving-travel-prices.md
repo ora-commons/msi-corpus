@@ -1,8 +1,19 @@
 ---
 headline: Fuel costs raise Thanksgiving travel prices
 publish_date: '2026-11-23'
-lede: NPR reported that the biggest Thanksgiving expense is the cost of travel, not the turkey or cranberry sauce. U.S. Thanksgiving travelers are facing higher gasoline and airfare costs as elevated fuel prices continue to affect holiday plans, according to NPR. AAA forecasts 81.5 million people will travel at least 50 miles from home, while Hopper says Thanksgiving tickets are about 30% more expensive than last year. Gasoline averaged 56 cents more per gallon Monday than a year earlier, according to AAA, and Hopper economist Hayley Berg said jet fuel prices were almost 90% higher than at this time last year.
-nut_graf: 'Holiday demand remains strong despite the increases: GasBuddy''s Patrick De Haan said most drivers would still travel, and Delta CEO Paul Bastian said customers are still buying higher-priced tickets. Gasoline prices have begun to fall, but analysts say restoring pre-war fuel prices would take many months, and travelers who already booked December trips already have higher autumn prices baked in.'
+lede: NPR reported that the biggest Thanksgiving expense is the cost of travel, not
+  the turkey or cranberry sauce. U.S. Thanksgiving travelers are facing higher gasoline
+  and airfare costs as elevated fuel prices continue to affect holiday plans, according
+  to NPR. AAA forecasts 81.5 million people will travel at least 50 miles from home,
+  while Hopper says Thanksgiving tickets are about 30% more expensive than last year.
+  Gasoline averaged 56 cents more per gallon Monday than a year earlier, according
+  to AAA, and Hopper economist Hayley Berg said jet fuel prices were almost 90% higher
+  than at this time last year.
+nut_graf: 'Holiday demand remains strong despite the increases: GasBuddy''s Patrick
+  De Haan said most drivers would still travel, and Delta CEO Paul Bastian said customers
+  are still buying higher-priced tickets. Gasoline prices have begun to fall, but
+  analysts say restoring pre-war fuel prices would take many months, and travelers
+  who already booked December trips already have higher autumn prices baked in.'
 primary_entities:
 - United States
 - Iran
@@ -50,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +164,44 @@ related_stories:
   headline: AAA forecasts 81.5 million Thanksgiving travelers, a slight decline
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8537
+  strength: 0.8525
 - slug: 2026-11-20-us-gasoline-prices-fall-in-all-states-before-thanksgiving
   headline: US gasoline prices fall in all states before Thanksgiving
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.8258
+  strength: 0.8242
 - slug: 2026-11-22-thanksgiving-costs-push-middle-income-shoppers-toward-discounts
   headline: Thanksgiving costs push middle-income shoppers toward discounts
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.7721
+  strength: 0.769
 - slug: 2026-11-19-average-thanksgiving-feast-for-10-will-cost-58-63-farm-bureau-says
   headline: Average Thanksgiving feast for 10 will cost $58.63, Farm Bureau says
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.7839
+  strength: 0.7796
 - slug: 2026-11-23-thanksgiving-travel-faces-airline-outages-and-east-coast-storms
   headline: Thanksgiving travel faces airline outages and East Coast storms
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7157
+  strength: 0.7134
 - slug: 2026-11-20-some-thanksgiving-travelers-weigh-flying-after-tech-failures-and-higher-fares
-  headline: Some Thanksgiving travelers weigh flying after tech failures and higher fares
+  headline: Some Thanksgiving travelers weigh flying after tech failures and higher
+    fares
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.7272
+  strength: 0.7277
 - slug: 2026-11-10-u-s-consumer-prices-rise-four-tenths-of-a-percent-in-october
   headline: U.S. consumer prices rise four-tenths of a percent in October
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7322
+  strength: 0.7329
 - slug: 2026-10-22-trump-s-fuel-price-measures-leave-gasoline-and-diesel-costs-high
   headline: Trump's fuel-price measures leave gasoline and diesel costs high
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7192
-- slug: 2026-09-16-iran-war-adds-107-billion-to-us-fuel-costs-brown-estimates
-  headline: Iran war adds $107 billion to US fuel costs, Brown estimates
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6989
-- slug: 2026-09-12-airfares-jump-23-4-as-diesel-tops-6-a-gallon-core-inflation-rises-2-4
-  headline: Airfares jump 23.4% as diesel tops $6 a gallon; core inflation rises 2.4%
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.7023
-- slug: 2026-09-07-us-gas-averages-4-14-a-labor-day-holiday-record
-  headline: US gas averages $4.14, a Labor Day holiday record
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.7088
-- slug: 2026-07-03-record-61-4-million-drivers-hit-the-road-for-july-fourth-as-gas-prices-ease
-  headline: Record 61.4 million drivers hit the road for July Fourth as gas prices ease
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.7656
-- slug: 2026-05-21-memorial-day-high-fuel-prices-are-reshaping-summer-vacation-plans
-  headline: 'Memorial Day: High fuel prices are reshaping summer vacation plans'
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7754
-- slug: 2026-05-22-memorial-day-high-fuel-prices-are-reshaping-summer-vacation-plans
-  headline: 'Memorial Day: High fuel prices are reshaping summer vacation plans'
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7671
-- slug: 2026-05-22-gas-prices-at-four-year-highs-leave-drivers-weighing-evs-and-driving-less
-  headline: Gas prices at four-year highs leave drivers weighing EVs and driving less
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7614
-- slug: 2026-05-23-memorial-day-high-fuel-prices-reshape-summer-vacation-plans-for-americans
-  headline: 'Memorial Day: High fuel prices reshape summer vacation plans for Americans'
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7549
-- slug: 2026-05-21-high-fuel-prices-drive-americans-toward-local-vacations-for-memorial-day
-  headline: High fuel prices drive Americans toward local vacations for Memorial Day
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.731
-- slug: 2026-05-02-global-energy-costs-rise-as-iran-war-disrupts-oil-and-lifts-pump-prices
-  headline: Global energy costs rise as Iran war disrupts oil and lifts pump prices
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7224
-- slug: 2026-06-30-bessent-warns-oil-companies-to-lower-prices-as-trump-demands-2-50-gas
-  headline: Bessent warns oil companies to lower prices as Trump demands $2.50 gas
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.696
-- slug: 2026-03-18-strong-ticket-sales-help-offset-rising-jet-fuel-costs-us-airlines-say
-  headline: Strong ticket sales help offset rising jet fuel costs, US airlines say
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.725
+  strength: 0.7183
 ---
-
 ## Fuel costs raise Thanksgiving travel prices
 
 **Subtype:** fact

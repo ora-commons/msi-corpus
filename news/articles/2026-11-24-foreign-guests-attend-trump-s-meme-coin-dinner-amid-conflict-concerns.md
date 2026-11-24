@@ -2,8 +2,16 @@
 headline: Foreign guests attend Trump's meme coin dinner amid conflict concerns
 secondary_headline: One top holder was removed before Trump appeared
 publish_date: '2026-11-24'
-lede: President Trump hosted top holders of his meme coin at the Trump National Golf Club in Potomac Falls, Virginia, on Nov. 22, as the gathering drew foreign-influence and conflict-of-interest scrutiny. Morten Christensen, a crypto investor who bought enough coins to qualify as a VIP guest, said he was denied entry to the top-guest area and later told to leave; his sister Gabriëlle Felen stayed and watched Trump speak.
-nut_graf: The event was meant to reward the largest meme coin holders with access to Trump. Morten Christensen said he was denied VIP access and later told to leave, while Public Citizen said about half of those who qualified appeared to be foreign based and Sens. Adam Schiff and Richard Blumenthal demanded more information.
+lede: President Trump hosted top holders of his meme coin at the Trump National Golf
+  Club in Potomac Falls, Virginia, on Nov. 22, as the gathering drew foreign-influence
+  and conflict-of-interest scrutiny. Morten Christensen, a crypto investor who bought
+  enough coins to qualify as a VIP guest, said he was denied entry to the top-guest
+  area and later told to leave; his sister Gabriëlle Felen stayed and watched Trump
+  speak.
+nut_graf: The event was meant to reward the largest meme coin holders with access
+  to Trump. Morten Christensen said he was denied VIP access and later told to leave,
+  while Public Citizen said about half of those who qualified appeared to be foreign
+  based and Sens. Adam Schiff and Richard Blumenthal demanded more information.
 primary_entities:
 - Trump
 - Morten Christensen
@@ -44,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,104 +155,23 @@ related_stories:
   headline: Crypto investor removed from Trump meme coin dinner
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8506
+  strength: 0.8504
 - slug: 2026-11-22-trump-hosts-dinner-for-top-holders-of-his-meme-coin-down-90
   headline: Trump hosts dinner for top holders of his meme coin, down 90%
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.8075
+  strength: 0.8078
 - slug: 2026-11-20-researchers-trace-trump-family-crypto-gains-to-meme-coins-and-world-liberty
   headline: Researchers trace Trump family crypto gains to meme coins and World Liberty
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.6764
-- slug: 2026-11-24-u-s-plans-megaspeed-blacklist-after-remote-chip-access-rule
-  headline: U.S. plans Megaspeed blacklist after remote-chip access rule
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.623
-- slug: 2026-11-17-trump-weighs-china-engagement-against-security-concerns-before-xi-meeting
-  headline: Trump weighs China engagement against security concerns before Xi meeting
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.5998
-- slug: 2026-11-14-trump-s-closeness-to-huang-draws-scrutiny-over-intelligence-concerns
-  headline: Trump's closeness to Huang draws scrutiny over intelligence concerns
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.5999
-- slug: 2026-11-10-trump-family-made-nearly-3-billion-during-second-term-researchers-estimate
-  headline: Trump family made nearly $3 billion during second term, researchers estimate
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6131
-- slug: 2026-11-09-mexc-global-faces-u-s-cutoff-over-alleged-illicit-money-flows
-  headline: MEXC Global faces U.S. cutoff over alleged illicit money flows
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6161
+  strength: 0.6768
 - slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
   headline: Democrats elevate Trump corruption claims as midterm campaign issue
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.6981
-- slug: 2026-09-25-trump-presents-xi-with-bald-eagle-sculpture-at-white-house-state-dinner
-  headline: Trump presents Xi with bald eagle sculpture at White House state dinner
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6169
-- slug: 2026-09-25-trump-hosts-xi-at-white-house-state-dinner-with-bezos-greer
-  headline: Trump hosts Xi at White House state dinner with Bezos, Greer
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6125
-- slug: 2026-09-15-clarity-act-ethics-revisions-bar-officials-from-issuing-cryptocurrencies
-  headline: Clarity Act ethics revisions bar officials from issuing cryptocurrencies
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6206
-- slug: 2026-09-14-ethics-group-flags-trump-jr-wedding-gift-from-putin-ally
-  headline: Ethics group flags Trump Jr. wedding gift from Putin ally
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6131
-- slug: 2026-09-16-trump-xi-state-dinner-expected-to-draw-rival-ai-ceos
-  headline: Trump-Xi state dinner expected to draw rival AI CEOs
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6058
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6083
-- slug: 2026-09-10-vance-suggests-wealthy-americans-would-be-excluded-from-5-000-payments
-  headline: Vance suggests wealthy Americans would be excluded from $5,000 payments
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.601
-- slug: 2026-08-05-alsobrooks-cites-trump-crypto-income-as-concern-for-digital-asset-bill
-  headline: Alsobrooks cites Trump crypto income as concern for digital-asset bill
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.6229
-- slug: 2026-08-13-trump-s-businesses-earned-2-2bn-in-2025-ethics-experts-say
-  headline: Trump's businesses earned $2.2bn in 2025, ethics experts say
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.6047
-- slug: 2026-08-07-trump-appears-in-las-vegas-with-brighter-hair-sparking-online-memes
-  headline: Trump appears in Las Vegas with brighter hair, sparking online memes
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6091
-- slug: 2026-07-25-apple-pushes-trump-to-allow-chinese-memory-chips-micron-opposes
-  headline: Apple pushes Trump to allow Chinese memory chips; Micron opposes
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6023
+  strength: 0.698
 ---
-
 ## Foreign guests attend Trump's meme coin dinner amid conflict concerns
 
 **Subtype:** fact
