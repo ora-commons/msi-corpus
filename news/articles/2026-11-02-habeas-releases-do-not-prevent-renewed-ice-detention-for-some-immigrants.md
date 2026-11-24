@@ -34,7 +34,8 @@ topic_tags:
 - judiciary
 - crime
 - government
-storyline_nexus: []
+storyline_nexus:
+- ice-re-detention-of-immigrants-with-habeas-release-orders
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -195,6 +196,7 @@ related_stories:
   relation: related
   strength: 0.7413
 ---
+
 ## Habeas releases do not prevent renewed ICE detention for some immigrants
 
 **Subtype:** fact

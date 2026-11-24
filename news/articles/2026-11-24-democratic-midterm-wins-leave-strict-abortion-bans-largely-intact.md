@@ -74,7 +74,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -261,3 +261,10 @@ The post-election map combines targeted openings with continuing institutional l
 **Publication date:** 2026-11-24
 **Title:** Abortion bans aren't likely to crumble fast after Democrats' big wins
 **URL:** https://apnews.com/article/abortion-midterm-states-bans-5a7c40258e342764400a96c79d673858
+
+### src_late_48e905c7a1bf6c99 — Associated Press, wire, Tier 1, originating
+**Author:** Geoff Mulvihill, Associated Press
+**Publication date:** 2026-11-24
+**Title:** Democrats supporting abortion rights won big in midterms, but vast changes unlikely soon
+**URL:** https://www.pbs.org/newshour/politics/democrats-supporting-abortion-rights-won-big-in-midterms-but-vast-changes-unlikely-soon
+**Added after publication:** true

@@ -34,7 +34,8 @@ primary_themes:
 - Democratic House leadership
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- underdog-democrats-in-the-2026-midterms
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -171,6 +172,7 @@ related_stories:
   relation: related
   strength: 0.6956
 ---
+
 ## Victoria Broderick credits persistence for a narrow Tennessee House win
 
 **Subtype:** fact

@@ -44,7 +44,8 @@ topic_tags:
 - election
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- underdog-democrats-in-the-2026-midterms
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -205,6 +206,7 @@ related_stories:
   relation: related
   strength: 0.7055
 ---
+
 ## Underdog Democrats win midterm races with little money, staff or party support
 
 **Subtype:** fact

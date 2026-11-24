@@ -36,7 +36,8 @@ primary_themes:
 topic_tags:
 - civil rights
 - judiciary
-storyline_nexus: []
+storyline_nexus:
+- ice-re-detention-of-immigrants-with-habeas-release-orders
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,6 +200,7 @@ related_stories:
   relation: related
   strength: 0.7173
 ---
+
 ## ACLU files suit challenging ICE re-detention after release
 
 **Subtype:** fact

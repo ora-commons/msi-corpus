@@ -24,7 +24,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- underdog-democrats-in-the-2026-midterms
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -169,6 +170,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Broderick wins Tennessee's 4th District after DesJarlais concedes
 
 **Subtype:** fact
