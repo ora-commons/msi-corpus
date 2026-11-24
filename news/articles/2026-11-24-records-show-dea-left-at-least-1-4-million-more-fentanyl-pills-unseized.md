@@ -2,8 +2,18 @@
 headline: Records show DEA left at least 1.4 million more fentanyl pills unseized
 secondary_headline: Surveillance footage shows DEA agents monitoring fentanyl shipments
 publish_date: '2026-11-24'
-lede: An Associated Press investigation found that the DEA permitted at least 1.4 million additional fentanyl pills to be trafficked between August 2024 and April 2025 as it closed in on the largest fentanyl bust in U.S. history. Federal and state authorities are scrutinizing the strategy, while the DEA continues to deny that it knowingly allowed fentanyl trafficking. The investigation drew on thousands of pages of court documents, investigative records, detailed wiretap reports and 12 hours of DEA surveillance footage.
-nut_graf: Supporters of the wait-and-see strategy say it can produce bigger cases and the removal of higher-ranking bosses, but a former DEA senior executive argued that fentanyl's lethality makes the risk unacceptable. The disclosures come as Congress conducts an oversight inquiry and New Mexico's attorney general pursues a criminal investigation.
+lede: An Associated Press investigation found that the DEA permitted at least 1.4
+  million additional fentanyl pills to be trafficked between August 2024 and April
+  2025 as it closed in on the largest fentanyl bust in U.S. history. Federal and state
+  authorities are scrutinizing the strategy, while the DEA continues to deny that
+  it knowingly allowed fentanyl trafficking. The investigation drew on thousands of
+  pages of court documents, investigative records, detailed wiretap reports and 12
+  hours of DEA surveillance footage.
+nut_graf: Supporters of the wait-and-see strategy say it can produce bigger cases
+  and the removal of higher-ranking bosses, but a former DEA senior executive argued
+  that fentanyl's lethality makes the risk unacceptable. The disclosures come as Congress
+  conducts an oversight inquiry and New Mexico's attorney general pursues a criminal
+  investigation.
 primary_entities:
 - U.S. Drug Enforcement Administration
 - New Mexico
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +148,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-18-researchers-say-overdose-decline-began-before-trump-took-office
-  headline: Researchers say overdose decline began before Trump took office
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6391
 - slug: 2026-11-04-idaho-prosecutors-charge-at-least-30-people-as-traffickers-without-evidence-of-s
-  headline: Idaho prosecutors charge at least 30 people as traffickers without evidence of sales
+  headline: Idaho prosecutors charge at least 30 people as traffickers without evidence
+    of sales
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6787
+  strength: 0.6789
 - slug: 2026-08-17-doj-watchdog-opens-review-of-dea-fentanyl-walk-tactic
   headline: DOJ watchdog opens review of DEA fentanyl 'walk' tactic
   publish_date: '2026-08-17'
   relation: related
-  strength: 0.7966
+  strength: 0.7965
 - slug: 2026-06-22-dea-let-hundreds-of-thousands-of-fentanyl-pills-reach-new-mexico
   headline: DEA let hundreds of thousands of fentanyl pills reach New Mexico
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.8463
+  strength: 0.8458
 - slug: 2026-06-30-dea-watched-74-000-fentanyl-pills-reach-albuquerque-whistleblower-says
   headline: DEA watched 74,000 fentanyl pills reach Albuquerque, whistleblower says
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.8018
+  strength: 0.8013
 - slug: 2026-06-25-dea-asks-doj-watchdog-to-probe-fentanyl-pill-strategy-in-new-mexico
   headline: DEA asks DOJ watchdog to probe fentanyl pill strategy in New Mexico
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.8044
+  strength: 0.804
 - slug: 2026-08-31-comer-seeks-dea-fentanyl-monitoring-records-from-doj
   headline: Comer seeks DEA fentanyl-monitoring records from DOJ
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.7265
-- slug: 2026-09-24-gao-finds-ice-wasted-tens-of-millions-on-detention-expansion
-  headline: GAO finds ICE wasted tens of millions on detention expansion
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.649
+  strength: 0.7264
 - slug: 2026-06-29-lujan-grisham-vows-white-house-push-over-dea-fentanyl-strategy
   headline: Lujan Grisham vows White House push over DEA fentanyl strategy
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.7031
-- slug: 2026-08-27-federal-authorities-indict-81-alleged-los-baja-deo-members-in-puerto-rico
-  headline: Federal authorities indict 81 alleged Los Baja Deo members in Puerto Rico
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6377
+  strength: 0.7025
 - slug: 2026-07-16-dea-probes-online-ketamine-sellers-fda-warns-14-marketers
   headline: DEA probes online ketamine sellers, FDA warns 14 marketers
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.6653
-- slug: 2026-05-17-carfentanil-100-times-stronger-than-fentanyl-surges-across-u-s
-  headline: Carfentanil, 100 times stronger than fentanyl, surges across U.S.
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6857
-- slug: 2026-05-21-us-sanctions-alleged-sinaloa-fentanyl-network-including-chihuahua-restaurant
-  headline: US sanctions alleged Sinaloa fentanyl network, including Chihuahua restaurant
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6561
-- slug: 2026-03-21-dea-names-colombian-president-priority-target-as-u-s-probes-drug-ties
-  headline: DEA names Colombian president 'priority target' as U.S. probes drug ties
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6543
-- slug: 2026-05-20-u-s-sanctions-alleged-sinaloa-fentanyl-network-including-chihuahua-restaurant
-  headline: U.S. sanctions alleged Sinaloa fentanyl network, including Chihuahua restaurant
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6409
-- slug: 2026-01-15-us-overdose-deaths-fell-21-through-mid-2025-but-pace-of-decline-is-slowing
-  headline: US overdose deaths fell 21% through mid-2025, but pace of decline is slowing
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6521
-- slug: 2026-05-07-federal-authorities-arrest-18-for-allegedly-selling-drugs-at-la-s-macarthur-park
-  headline: Federal authorities arrest 18 for allegedly selling drugs at LA’s MacArthur Park
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6357
-- slug: 2026-02-12-airspace-closure-over-el-paso-spotlights-mexican-cartels-drone-tactics
-  headline: Airspace closure over El Paso spotlights Mexican cartels’ drone tactics
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.647
-- slug: 2026-05-14-us-overdose-deaths-declined-in-2025-cdc-data-show
-  headline: US overdose deaths declined in 2025, CDC data show
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6319
-- slug: 2026-06-05-fda-launches-mifepristone-safety-study-paving-way-for-potential-restrictions
-  headline: FDA launches mifepristone safety study, paving way for potential restrictions
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6239
+  strength: 0.6646
 ---
-
 ## Records show DEA left at least 1.4 million more fentanyl pills unseized
 
 **Subtype:** fact

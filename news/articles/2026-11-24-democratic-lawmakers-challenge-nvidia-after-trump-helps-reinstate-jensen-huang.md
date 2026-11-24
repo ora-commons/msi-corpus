@@ -1,9 +1,21 @@
 ---
-headline: Democratic lawmakers challenge Nvidia after Trump helps reinstate Jensen Huang
+headline: Democratic lawmakers challenge Nvidia after Trump helps reinstate Jensen
+  Huang
 secondary_headline: Government investigations and lawsuits continued after the return
 publish_date: '2026-11-24'
-lede: Democratic lawmakers accused Nvidia of setting aside national-security and export-control concerns when the chipmaker reinstated Jensen Huang as chief executive following President Trump's intervention. Sen. Ruben Gallego said the return sent a message that the country's security was less important than Huang's relationship with Trump, while Rep. Ro Khanna said wealthy and powerful people should not evade export controls or accountability because doing so props up the stock price. Huang returned to Nvidia's Santa Clara, California headquarters despite government and internal investigations, shareholder lawsuits and accusations that he posed a national security threat.
-nut_graf: The criticism links a federal intervention in a major corporate leadership decision to continuing questions about Huang's conduct, export controls and accountability. Nvidia, worth about $4tn, develops advanced chips used to train AI models and power tech firms such as OpenAI, Anthropic and Google, giving the criticism significance beyond one company's boardroom.
+lede: Democratic lawmakers accused Nvidia of setting aside national-security and export-control
+  concerns when the chipmaker reinstated Jensen Huang as chief executive following
+  President Trump's intervention. Sen. Ruben Gallego said the return sent a message
+  that the country's security was less important than Huang's relationship with Trump,
+  while Rep. Ro Khanna said wealthy and powerful people should not evade export controls
+  or accountability because doing so props up the stock price. Huang returned to Nvidia's
+  Santa Clara, California headquarters despite government and internal investigations,
+  shareholder lawsuits and accusations that he posed a national security threat.
+nut_graf: The criticism links a federal intervention in a major corporate leadership
+  decision to continuing questions about Huang's conduct, export controls and accountability.
+  Nvidia, worth about $4tn, develops advanced chips used to train AI models and power
+  tech firms such as OpenAI, Anthropic and Google, giving the criticism significance
+  beyond one company's boardroom.
 primary_entities:
 - Nvidia
 - Jensen Huang
@@ -47,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +162,45 @@ related_stories:
   headline: Nvidia's Huang reinstatement sharpens Democrats' case against Trump
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8709
+  strength: 0.8714
 - slug: 2026-11-23-congress-questions-nvidia-after-jensen-huang-s-reinstatement
   headline: Congress questions Nvidia after Jensen Huang's reinstatement
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8686
+  strength: 0.8698
 - slug: 2026-11-24-jensen-huang-returns-to-nvidia-amid-personal-conduct-and-export-control-scrutiny
-  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control scrutiny
+  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control
+    scrutiny
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8595
+  strength: 0.861
 - slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-amid-bipartisan-congressional-backlash
   headline: Nvidia board reinstates Jensen Huang amid bipartisan congressional backlash
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8651
+  strength: 0.8663
 - slug: 2026-11-24-nvidia-reinstates-jensen-huang-with-white-house-input
   headline: Nvidia reinstates Jensen Huang with White House input
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8524
+  strength: 0.8542
 - slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
+  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC
+    probe
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8585
+  strength: 0.8598
 - slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-after-trump-s-intervention
   headline: Jensen Huang returns as Nvidia CEO after Trump's intervention
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8541
-- slug: 2026-11-24-trump-and-senior-administration-officials-lobby-nvidia-for-huang-s-return
-  headline: Trump and senior administration officials lobby Nvidia for Huang's return
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8393
+  strength: 0.8553
 - slug: 2026-11-24-trump-says-the-country-needs-more-geniuses-as-nvidia-reinstates-huang
   headline: Trump says the country needs more ‘geniuses’ as Nvidia reinstates Huang
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8392
-- slug: 2026-11-23-huang-s-nvidia-comeback-bid-drew-a-petition-an-fbi-remark-and-trump-s-lobbying
-  headline: Huang's Nvidia comeback bid drew a petition, an FBI remark and Trump's lobbying
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8458
-- slug: 2026-11-23-nvidia-reinstates-jensen-huang-after-trump-says-he-persuaded-the-board
-  headline: Nvidia reinstates Jensen Huang after Trump says he persuaded the board
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8421
-- slug: 2026-11-23-vance-helps-persuade-nvidia-s-board-to-reinstate-jensen-huang
-  headline: Vance helps persuade Nvidia's board to reinstate Jensen Huang
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8414
-- slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-after-rejecting-his-return-offer
-  headline: Nvidia board reinstates Jensen Huang after rejecting his return offer
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8403
-- slug: 2026-11-24-trump-s-nvidia-holdings-gain-up-to-15m-after-huang-s-reinstatement
-  headline: Trump's Nvidia holdings gain up to $15m after Huang's reinstatement
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.833
-- slug: 2026-11-24-chanana-says-huang-s-return-restores-nvidia-s-strategic-continuity
-  headline: Chanana says Huang’s return restores Nvidia’s strategic continuity
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8301
-- slug: 2026-11-23-nvidia-shares-jump-more-than-25-after-huang-s-reinstatement
-  headline: Nvidia shares jump more than 25% after Huang's reinstatement
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8354
-- slug: 2026-11-23-jensen-huang-s-return-leaves-nvidia-s-governance-and-financing-questions-unresol
-  headline: Jensen Huang's return leaves Nvidia's governance and financing questions unresolved
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8294
-- slug: 2026-11-24-nvidia-reinstates-jensen-huang-as-governance-experts-question-the-precedent
-  headline: Nvidia reinstates Jensen Huang as governance experts question the precedent
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8217
-- slug: 2026-11-23-nvidia-and-huang-face-sec-board-and-congressional-investigations
-  headline: Nvidia and Huang face SEC, board and congressional investigations
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.825
-- slug: 2026-11-24-nvidia-s-board-weighs-two-options-keeping-huang-out-or-letting-him-back-in
-  headline: 'Nvidia''s board weighs two options: keeping Huang out or letting him back in'
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8107
+  strength: 0.8409
 ---
-
 ## Democratic lawmakers challenge Nvidia after Trump helps reinstate Jensen Huang
 
 **Subtype:** fact

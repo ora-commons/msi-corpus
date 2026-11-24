@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-10-26'
   relation: related
   strength: 0.6672
+analyses:
+- '2026-11-24-house-inquiry-tests-whether-political-access-shaped-four-1789-capital-linked-fed'
 ---
 ## House Democrats expand probe of 1789 Capital and Trump Jr.
 
@@ -252,3 +254,8 @@ The document requests target the records needed to examine investigators' accoun
 **Publication date:** 2026-11-24
 **Title:** Democrats probe whether Trump Jr.-aligned businesses benefit from government access
 **URL:** https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation
+
+---
+
+<!-- analysis-link:2026-11-24-house-inquiry-tests-whether-political-access-shaped-four-1789-capital-linked-fed -->
+**Going deeper:** [Read MSI's analysis of 1789 Capital''s federal-access inquiry →](/analyses/2026-11-24-house-inquiry-tests-whether-political-access-shaped-four-1789-capital-linked-fed)

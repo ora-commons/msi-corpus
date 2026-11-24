@@ -209,6 +209,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-24-funded-orders-and-factory-fit-constrain-pentagon-s-automaker-outreach'
 ---
 ## Pentagon pursues automakers to expand military drone production
 
@@ -259,3 +261,8 @@ Washington has also considered tapping automakers to help manufacture the Lucas 
 **Publication date:** 2026-11-24
 **Title:** Pentagon in Talks With General Motors and Ford to Make Military Drones
 **URL:** https://www.wsj.com/politics/national-security/ford-general-motors-military-drones-c082d202
+
+---
+
+<!-- analysis-link:2026-11-24-funded-orders-and-factory-fit-constrain-pentagon-s-automaker-outreach -->
+**Going deeper:** [Read MSI's analysis of the Pentagon's automaker drone push →](/analyses/2026-11-24-funded-orders-and-factory-fit-constrain-pentagon-s-automaker-outreach)
