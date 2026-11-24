@@ -1,9 +1,19 @@
 ---
 headline: Mamdani links Nvidia leadership change to AI-heavy stock market concentration
-secondary_headline: Trump’s intervention preceded Huang’s reinstatement and Nvidia’s 31.5% rebound
+secondary_headline: Trump’s intervention preceded Huang’s reinstatement and Nvidia’s
+  31.5% rebound
 publish_date: '2026-11-24'
-lede: New York City Mayor Zohran Mamdani said on Monday that the Nvidia leadership crisis showed the stock market was heavily dependent on artificial-intelligence stocks. His comments came after Nvidia reinstated CEO Jensen Huang following Donald Trump's intervention, and the chipmaker's value bounced back 31.5%. Mamdani said Huang's departure had a “massive impact” on working Americans' lives and said workers did not sign up for pensions tied to Huang's marital fidelity.
-nut_graf: Mamdani connected the episode to broader concerns about concentrated wealth, workers' retirement security and the dominance of AI-related stocks. His comments came as the Trump administration's intervention in Nvidia's leadership coincided with continuing questions about advanced AI-chip exports to China and the role of government in corporate decisions.
+lede: New York City Mayor Zohran Mamdani said on Monday that the Nvidia leadership
+  crisis showed the stock market was heavily dependent on artificial-intelligence
+  stocks. His comments came after Nvidia reinstated CEO Jensen Huang following Donald
+  Trump's intervention, and the chipmaker's value bounced back 31.5%. Mamdani said
+  Huang's departure had a “massive impact” on working Americans' lives and said workers
+  did not sign up for pensions tied to Huang's marital fidelity.
+nut_graf: Mamdani connected the episode to broader concerns about concentrated wealth,
+  workers' retirement security and the dominance of AI-related stocks. His comments
+  came as the Trump administration's intervention in Nvidia's leadership coincided
+  with continuing questions about advanced AI-chip exports to China and the role of
+  government in corporate decisions.
 primary_entities:
 - Zohran Mamdani
 - Nvidia
@@ -42,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,107 +152,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-24-jensen-huang-returns-to-nvidia-amid-personal-conduct-and-export-control-scrutiny
-  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control scrutiny
+  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control
+    scrutiny
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7983
+  strength: 0.7989
 - slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
+  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC
+    probe
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8041
+  strength: 0.8055
 - slug: 2026-11-24-democratic-lawmakers-challenge-nvidia-after-trump-helps-reinstate-jensen-huang
-  headline: Democratic lawmakers challenge Nvidia after Trump helps reinstate Jensen Huang
+  headline: Democratic lawmakers challenge Nvidia after Trump helps reinstate Jensen
+    Huang
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7936
+  strength: 0.7932
 - slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-after-trump-s-intervention
   headline: Jensen Huang returns as Nvidia CEO after Trump's intervention
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7987
+  strength: 0.799
 - slug: 2026-11-24-nvidia-reinstates-jensen-huang-with-white-house-input
   headline: Nvidia reinstates Jensen Huang with White House input
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7856
+  strength: 0.7874
 - slug: 2026-11-24-nvidia-s-huang-reinstatement-sharpens-democrats-case-against-trump
   headline: Nvidia's Huang reinstatement sharpens Democrats' case against Trump
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7854
+  strength: 0.786
 - slug: 2026-11-23-nvidia-shares-jump-more-than-25-after-huang-s-reinstatement
   headline: Nvidia shares jump more than 25% after Huang's reinstatement
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7842
+  strength: 0.7853
 - slug: 2026-11-24-nvidia-reinstates-jensen-huang-as-governance-experts-question-the-precedent
   headline: Nvidia reinstates Jensen Huang as governance experts question the precedent
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7728
-- slug: 2026-11-24-trump-says-the-country-needs-more-geniuses-as-nvidia-reinstates-huang
-  headline: Trump says the country needs more ‘geniuses’ as Nvidia reinstates Huang
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7726
-- slug: 2026-11-24-trump-s-nvidia-holdings-gain-up-to-15m-after-huang-s-reinstatement
-  headline: Trump's Nvidia holdings gain up to $15m after Huang's reinstatement
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7717
-- slug: 2026-11-23-jensen-huang-s-return-leaves-nvidia-s-governance-and-financing-questions-unresol
-  headline: Jensen Huang's return leaves Nvidia's governance and financing questions unresolved
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7768
-- slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-as-shares-open-30-higher
-  headline: Jensen Huang returns as Nvidia CEO as shares open 30% higher
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7716
-- slug: 2026-11-24-trump-and-senior-administration-officials-lobby-nvidia-for-huang-s-return
-  headline: Trump and senior administration officials lobby Nvidia for Huang's return
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7643
-- slug: 2026-11-23-vance-helps-persuade-nvidia-s-board-to-reinstate-jensen-huang
-  headline: Vance helps persuade Nvidia's board to reinstate Jensen Huang
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7655
-- slug: 2026-11-24-nvidia-investors-value-huang-but-see-little-growth-ahead
-  headline: Nvidia investors value Huang but see little growth ahead
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7578
-- slug: 2026-11-24-chanana-says-huang-s-return-restores-nvidia-s-strategic-continuity
-  headline: Chanana says Huang’s return restores Nvidia’s strategic continuity
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7575
-- slug: 2026-11-23-nvidia-reinstates-jensen-huang-after-trump-says-he-persuaded-the-board
-  headline: Nvidia reinstates Jensen Huang after Trump says he persuaded the board
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7608
-- slug: 2026-11-19-robert-reich-argues-nvidia-s-reliance-on-jensen-huang-gives-him-unusual-leverage
-  headline: Robert Reich argues Nvidia's reliance on Jensen Huang gives him unusual leverage
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.7563
-- slug: 2026-11-16-nvidia-board-won-t-consider-huang-s-return-as-ceo-source-says
-  headline: Nvidia board won't consider Huang's return as CEO, source says
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.764
-- slug: 2026-11-12-nvidia-board-reportedly-meets-to-decide-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board reportedly meets to decide whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7748
+  strength: 0.774
 ---
-
 ## Mamdani links Nvidia turmoil to AI-heavy stock market concentration
 
 **Subtype:** fact
