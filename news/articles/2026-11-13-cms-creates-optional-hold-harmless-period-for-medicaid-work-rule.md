@@ -33,7 +33,8 @@ topic_tags:
 - health
 - government
 - education
-storyline_nexus: []
+storyline_nexus:
+- medicaid-work-requirement-rollout
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -196,6 +197,7 @@ related_stories:
   relation: related
   strength: 0.6693
 ---
+
 ## CMS creates optional hold harmless period for Medicaid work rule
 
 **Subtype:** fact

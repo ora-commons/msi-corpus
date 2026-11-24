@@ -28,7 +28,8 @@ topic_tags:
 - health
 - government
 - economy
-storyline_nexus: []
+storyline_nexus:
+- medicaid-work-requirement-rollout
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -204,6 +205,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Kentucky Medicaid work requirements remain set for Jan. 1
 
 **Subtype:** fact

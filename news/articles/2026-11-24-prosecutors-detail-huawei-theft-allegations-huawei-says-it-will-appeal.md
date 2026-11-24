@@ -63,7 +63,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -264,3 +264,10 @@ The New York trial overlapped with a summit meeting between President Donald Tru
 **Publication date:** 2026-11-24
 **Title:** Huawei is convicted in US of stealing trade secrets
 **URL:** https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab
+
+### src_late_89977ac98c59028c — Associated Press, wire, Tier 1, originating
+**Author:** Michael R. Sisak, Associated Press, Larry Neumeister, Associated Press
+**Publication date:** 2026-11-24
+**Title:** U.S. jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets, bank fraud
+**URL:** https://www.pbs.org/newshour/nation/u-s-jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets-bank-fraud
+**Added after publication:** true

@@ -58,7 +58,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -252,3 +252,10 @@ The office also dropped suits against Jolt Initiative, a nonprofit accused of re
 **Publication date:** 2026-11-23
 **Title:** Texas attorney general drops suits accusing doctors of transgender care
 **URL:** https://apnews.com/article/transgender-care-doctors-ken-paxton-texas-216f594bb043e456b705eb152d1e15d3
+
+### src_late_8399c2b3398654c0 — Associated Press, wire, Tier 1, originating
+**Author:** Jamie Stengle, Associated Press
+**Publication date:** 2026-11-24
+**Title:** Paxton drops Texas lawsuits that accused doctors of illegally providing transgender youth care
+**URL:** https://www.pbs.org/newshour/nation/paxton-drops-texas-lawsuits-that-accused-doctors-of-illegally-providing-transgender-youth-care
+**Added after publication:** true

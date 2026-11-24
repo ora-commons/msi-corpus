@@ -26,7 +26,8 @@ primary_themes:
 - Eligibility enforcement
 topic_tags:
 - health
-storyline_nexus: []
+storyline_nexus:
+- medicaid-work-requirement-rollout
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -189,6 +190,7 @@ related_stories:
   relation: related
   strength: 0.6516
 ---
+
 ## Indiana reviews whether to delay Medicaid work-rule enforcement
 
 **Subtype:** fact
