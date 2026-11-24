@@ -1,9 +1,17 @@
 ---
 headline: Abercrombie & Fitch raises outlook after quarterly sales jump 11%
-secondary_headline: Quarterly profit reached $164.4 million as comparable sales rose 6%
+secondary_headline: Quarterly profit reached $164.4 million as comparable sales rose
+  6%
 publish_date: '2026-11-24'
-lede: Abercrombie & Fitch raised its full-year outlook after reporting fiscal third-quarter sales of $1.44 billion, up 11%, and profit of $164.4 million for the period ended Oct. 31. The company now expects earnings, excluding some tariff-related items, of $13.70 to $13.90 a share and sales growth of about 6%. Shares jumped 12% to $157 in premarket trading Tuesday.
-nut_graf: The revision sets Abercrombie & Fitch’s earnings and sales expectations entering the holiday shopping season. Its full-year earnings range is above the analyst estimate for the year, while its current-quarter range is below the corresponding estimate; the company reported growth at both brands and across regions.
+lede: Abercrombie & Fitch raised its full-year outlook after reporting fiscal third-quarter
+  sales of $1.44 billion, up 11%, and profit of $164.4 million for the period ended
+  Oct. 31. The company now expects earnings, excluding some tariff-related items,
+  of $13.70 to $13.90 a share and sales growth of about 6%. Shares jumped 12% to $157
+  in premarket trading Tuesday.
+nut_graf: The revision sets Abercrombie & Fitch’s earnings and sales expectations
+  entering the holiday shopping season. Its full-year earnings range is above the
+  analyst estimate for the year, while its current-quarter range is below the corresponding
+  estimate; the company reported growth at both brands and across regions.
 primary_entities:
 - Abercrombie & Fitch
 - Fran Horowitz
@@ -37,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,104 +148,43 @@ related_stories:
   headline: Best Buy raises outlook after adjusted earnings and revenue beat estimates
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.711
+  strength: 0.7113
 - slug: 2026-11-19-walmart-raises-sales-guidance-after-quarterly-revenue-grows-5-2
   headline: Walmart raises sales guidance after quarterly revenue grows 5.2%
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.698
+  strength: 0.7006
 - slug: 2026-11-18-target-raises-annual-outlook-after-third-quarter-sales-rose-7-1
   headline: Target raises annual outlook after third-quarter sales rose 7.1%
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6937
+  strength: 0.6946
 - slug: 2026-11-20-bj-s-increases-full-year-adjusted-earnings-guidance-to-5-10--5-30-a-share
   headline: BJ's increases full-year adjusted earnings guidance to $5.10-$5.30 a share
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.6606
+  strength: 0.6614
 - slug: 2026-11-10-on-holding-posts-higher-net-income-and-raises-gross-margin-outlook
   headline: On Holding posts higher net income and raises gross margin outlook
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6495
+  strength: 0.6512
 - slug: 2026-11-04-arm-holdings-posts-27-revenue-growth-on-ai-demand
   headline: Arm Holdings posts 27% revenue growth on AI demand
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6616
-- slug: 2026-11-04-mcdonald-s-global-same-store-sales-top-analyst-forecasts-in-third-quarter
-  headline: McDonald’s global same-store sales top analyst forecasts in third quarter
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6464
+  strength: 0.6632
 - slug: 2026-10-29-merck-tops-wall-street-q3-estimates-lifts-full-year-guidance
   headline: Merck tops Wall Street Q3 estimates, lifts full-year guidance
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.6565
-- slug: 2026-10-23-american-express-posts-3-71-billion-third-quarter-profit-lifts-guidance
-  headline: American Express posts $3.71 billion third-quarter profit, lifts guidance
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6772
+  strength: 0.6572
 - slug: 2026-10-26-whirlpool-expects-a-full-year-loss-as-third-quarter-sales-fall-short
   headline: Whirlpool expects a full-year loss as third-quarter sales fall short
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.6629
-- slug: 2026-10-27-novartis-raises-profit-guidance-as-lower-costs-drive-third-quarter-earnings-beat
-  headline: Novartis raises profit guidance as lower costs drive third-quarter earnings beat
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6501
-- slug: 2026-10-20-ge-aerospace-raises-outlook-as-third-quarter-profit-and-revenue-beat-estimates
-  headline: GE Aerospace raises outlook as third-quarter profit and revenue beat estimates
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.655
-- slug: 2026-10-21-at-t-raises-adjusted-eps-forecast-to-about-2-40-after-record-internet-additions
-  headline: AT&T raises adjusted EPS forecast to about $2.40 after record internet additions
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.6487
-- slug: 2026-10-08-aritzia-lifts-fiscal-2027-outlook-after-44-quarterly-revenue-surge
-  headline: Aritzia lifts fiscal 2027 outlook after 44% quarterly revenue surge
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.6951
-- slug: 2026-10-15-alcoa-reports-q3-profit-of-483-million-more-than-double-a-year-earlier
-  headline: Alcoa reports Q3 profit of $483 million, more than double a year earlier
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6571
-- slug: 2026-10-01-mccormick-quarterly-sales-climb-17-to-2-02-billion-as-profit-falls
-  headline: McCormick quarterly sales climb 17% to $2.02 billion as profit falls
-  publish_date: '2026-10-01'
-  relation: related
-  strength: 0.6949
-- slug: 2026-08-27-best-buy-raises-full-year-outlook-after-q2-comparable-sales-beat-expectations
-  headline: Best Buy raises full-year outlook after Q2 comparable sales beat expectations
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6995
-- slug: 2026-08-31-s-p-500-per-share-earnings-rise-53-in-q2-as-consumer-spending-and-tariff-refunds
-  headline: S&P 500 per-share earnings rise 53% in Q2 as consumer spending and tariff refunds lift profits
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.6765
-- slug: 2026-08-20-walmart-quarterly-comparable-sales-rise-2-6-smallest-gain-in-years
-  headline: Walmart quarterly comparable sales rise 2.6%, smallest gain in years
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6597
-- slug: 2026-08-04-cummins-lifts-2026-revenue-outlook-shares-fall-9-2-after-earnings-miss
-  headline: Cummins lifts 2026 revenue outlook; shares fall 9.2% after earnings miss
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6629
+  strength: 0.6653
 ---
-
 ## Abercrombie & Fitch raises outlook after quarterly sales jump 11%
 
 **Subtype:** fact
