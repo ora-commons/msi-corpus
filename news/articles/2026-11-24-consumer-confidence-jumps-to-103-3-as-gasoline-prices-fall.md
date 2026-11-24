@@ -1,9 +1,16 @@
 ---
 headline: Consumer confidence jumps to 103.3 as gasoline prices fall
-secondary_headline: October inflation rose to 4% ahead of a Commerce Department inflation measure
+secondary_headline: October inflation rose to 4% ahead of a Commerce Department inflation
+  measure
 publish_date: '2026-11-24'
-lede: The Conference Board said Tuesday that its U.S. consumer confidence index rose to 103.3 in November from 91.9 in October. The second straight increase followed lower gasoline prices and the end of election-related uncertainty, though consumers continued to express frustration with high prices and rising costs.
-nut_graf: The increase could signal stronger consumer spending as holiday shopping begins, but economists say economic surveys have become less reliable indicators of behavior than they once were. Inflation remained elevated, and the Conference Board said consumers still expressed frustration with high prices and rising costs.
+lede: The Conference Board said Tuesday that its U.S. consumer confidence index rose
+  to 103.3 in November from 91.9 in October. The second straight increase followed
+  lower gasoline prices and the end of election-related uncertainty, though consumers
+  continued to express frustration with high prices and rising costs.
+nut_graf: The increase could signal stronger consumer spending as holiday shopping
+  begins, but economists say economic surveys have become less reliable indicators
+  of behavior than they once were. Inflation remained elevated, and the Conference
+  Board said consumers still expressed frustration with high prices and rising costs.
 primary_entities:
 - Conference Board
 - United States
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,7 +68,8 @@ figures:
   series_id: UNRATE
   transformation: raw
   as_of: '2026-11-24'
-  caption: The raw FRED UNRATE series showed the official unemployment rate at 4.1% as of Nov. 24, 2026, matching the October jobs-report figure cited in the story.
+  caption: The raw FRED UNRATE series showed the official unemployment rate at 4.1%
+    as of Nov. 24, 2026, matching the October jobs-report figure cited in the story.
 figures_aggregate:
   count: 1
   series_ids:
@@ -154,104 +163,46 @@ related_stories:
   headline: US consumer confidence index rises 7.5 points to 91.7 in October
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8944
+  strength: 0.8948
 - slug: 2026-11-10-aaa-s-average-gasoline-price-falls-to-4-22-as-bls-reports-0-4-monthly-cpi-rise
-  headline: AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly CPI rise
+  headline: AAA's average gasoline price falls to $4.22 as BLS reports 0.4% monthly
+    CPI rise
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.8165
+  strength: 0.8167
 - slug: 2026-11-14-retail-sales-fed-minutes-and-sentiment-data-land-this-week
   headline: Retail sales, Fed minutes and sentiment data land this week
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.7546
+  strength: 0.7551
 - slug: 2026-11-10-u-s-consumer-prices-rise-four-tenths-of-a-percent-in-october
   headline: U.S. consumer prices rise four-tenths of a percent in October
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7611
+  strength: 0.761
 - slug: 2026-11-10-about-9-in-10-voters-said-cost-of-living-was-a-crucial-or-major-vote-factor
   headline: About 9 in 10 voters said cost of living was a crucial or major vote factor
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.7379
+  strength: 0.7383
 - slug: 2026-11-06-us-employers-expected-to-add-65-000-jobs-in-october-as-inflation-erodes-pay
-  headline: US employers expected to add 65,000 jobs in October as inflation erodes pay
+  headline: US employers expected to add 65,000 jobs in October as inflation erodes
+    pay
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.7188
+  strength: 0.7194
 - slug: 2026-10-29-inflation-gauge-closely-monitored-by-fed-accelerates-to-3-6-in-september
   headline: Inflation gauge closely monitored by Fed accelerates to 3.6% in September
   publish_date: '2026-10-29'
   relation: related
-  strength: 0.7232
+  strength: 0.7236
 - slug: 2026-10-28-september-cpi-gains-3-7-annually-after-0-3-monthly-gains-in-august-september
-  headline: September CPI gains 3.7% annually after 0.3% monthly gains in August, September
+  headline: September CPI gains 3.7% annually after 0.3% monthly gains in August,
+    September
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7172
-- slug: 2026-10-14-september-cpi-rises-0-6-on-gasoline-surge-inflation-well-above-fed-target
-  headline: September CPI rises 0.6% on gasoline surge, inflation well above Fed target
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.7498
-- slug: 2026-08-25-us-consumer-confidence-falls-to-89-4-gasoline-stays-above-4
-  headline: US consumer confidence falls to 89.4; gasoline stays above $4
-  publish_date: '2026-08-25'
-  relation: related
-  strength: 0.8172
-- slug: 2026-09-30-softer-august-pce-reading-lifts-wall-street-trims-october-rate-hike-odds
-  headline: Softer August PCE reading lifts Wall Street, trims October rate-hike odds
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.7378
-- slug: 2026-07-04-consumer-confidence-rises-0-6-to-91-2-in-june-but-remains-well-below-pre-pandemi
-  headline: Consumer confidence rises 0.6 to 91.2 in June but remains well below pre-pandemic
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.817
-- slug: 2026-08-22-wall-street-awaits-consumer-confidence-and-pce-inflation-reports-next-week
-  headline: Wall Street awaits consumer confidence and PCE inflation reports next week
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.762
-- slug: 2026-07-01-consumer-confidence-index-rises-0-6-point-to-91-2-in-june
-  headline: Consumer confidence index rises 0.6 point to 91.2 in June
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.8138
-- slug: 2026-06-30-consumer-confidence-edges-up-to-91-2-in-june-as-gas-prices-ease
-  headline: Consumer confidence edges up to 91.2 in June as gas prices ease
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.8077
-- slug: 2026-03-31-us-consumer-confidence-edges-up-in-march-as-gas-prices-surge-with-iran-war
-  headline: US consumer confidence edges up in March as gas prices surge with Iran war
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.8284
-- slug: 2026-07-27-gallup-economic-confidence-improves-from-may-low-but-stays-negative
-  headline: Gallup economic confidence improves from May low but stays negative
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.7565
-- slug: 2026-06-12-us-consumer-sentiment-improves-in-june-as-gas-prices-ease
-  headline: US consumer sentiment improves in June as gas prices ease
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7763
-- slug: 2026-02-24-consumer-confidence-edges-higher-but-weakness-persists
-  headline: Consumer confidence edges higher but weakness persists
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.7737
-- slug: 2026-06-25-fed-s-preferred-inflation-gauge-rises-to-three-year-high-in-may
-  headline: Fed's preferred inflation gauge rises to three-year high in May
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7351
+  strength: 0.7174
 ---
-
 ## Consumer confidence jumps to 103.3 as gasoline prices fall
 
 **Subtype:** fact

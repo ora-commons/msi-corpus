@@ -1,9 +1,23 @@
 ---
 headline: Democrats in Congress could change policies affecting California industries
-secondary_headline: Tariffs, AI rules and immigration enforcement shape California industry risks
+secondary_headline: Tariffs, AI rules and immigration enforcement shape California
+  industry risks
 publish_date: '2026-11-24'
-lede: A Democrat-controlled Congress could change Trump administration policies affecting California’s agriculture, wine, technology and other industries, according to a Nov. 24, 2026, analysis by Levi Sumagaysay for News From The States. The potential effects would depend on whether Democrats and President Donald Trump can compromise on policies that have raised prices and affected businesses and workers. California Farm Bureau President Shannon Douglass and LIOCO owner Matt Licklider discussed tariffs; Silicon Valley Leadership Group CEO Ahmad Thomas addressed AI regulation; CAMEO Network CEO Carolina Martinez pressed for federal lending; and UC Davis professor Giovanni Peri examined immigration enforcement’s effects on California’s workforce.
-nut_graf: The analysis shows that Democratic control alone would not determine the outcome for California businesses. Relief in some sectors could hinge on policy changes, but business and association representatives warned that tariffs, AI regulation and uncertainty over government funding could constrain hiring and expansion. Peri and UC Merced research separately raised concerns about immigration enforcement’s effects on California’s workforce.
+lede: A Democrat-controlled Congress could change Trump administration policies affecting
+  California’s agriculture, wine, technology and other industries, according to a
+  Nov. 24, 2026, analysis by Levi Sumagaysay for News From The States. The potential
+  effects would depend on whether Democrats and President Donald Trump can compromise
+  on policies that have raised prices and affected businesses and workers. California
+  Farm Bureau President Shannon Douglass and LIOCO owner Matt Licklider discussed
+  tariffs; Silicon Valley Leadership Group CEO Ahmad Thomas addressed AI regulation;
+  CAMEO Network CEO Carolina Martinez pressed for federal lending; and UC Davis professor
+  Giovanni Peri examined immigration enforcement’s effects on California’s workforce.
+nut_graf: The analysis shows that Democratic control alone would not determine the
+  outcome for California businesses. Relief in some sectors could hinge on policy
+  changes, but business and association representatives warned that tariffs, AI regulation
+  and uncertainty over government funding could constrain hiring and expansion. Peri
+  and UC Merced research separately raised concerns about immigration enforcement’s
+  effects on California’s workforce.
 primary_entities:
 - California
 - Donald Trump
@@ -56,7 +70,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,107 +170,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-16-democrats-face-hurdles-repealing-trump-tariffs-after-taking-control-of-congress
-  headline: Democrats face hurdles repealing Trump tariffs after taking control of Congress
+  headline: Democrats face hurdles repealing Trump tariffs after taking control of
+    Congress
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7207
+  strength: 0.7204
 - slug: 2026-11-03-a-democratic-congress-would-bring-broader-business-oversight
   headline: A Democratic Congress would bring broader business oversight
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7202
+  strength: 0.7206
 - slug: 2026-11-09-democrats-control-congress-as-business-faces-four-post-election-concerns
   headline: Democrats control Congress as business faces four post-election concerns
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6826
+  strength: 0.6823
 - slug: 2026-11-04-u-s-midterm-results-lift-canadian-hopes-for-tariff-relief
   headline: U.S. midterm results lift Canadian hopes for tariff relief
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7016
+  strength: 0.7012
 - slug: 2026-11-10-carney-says-trump-remains-canada-s-trade-decision-maker
   headline: Carney says Trump remains Canada’s trade decision-maker
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6615
+  strength: 0.6629
 - slug: 2026-11-09-permitting-deal-could-ease-energy-prices-through-added-supply
   headline: Permitting deal could ease energy prices through added supply
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6616
+  strength: 0.6619
 - slug: 2026-11-06-democrats-target-trump-s-canada-tariffs-as-first-step-in-broader-rollback-push
-  headline: Democrats target Trump's Canada tariffs as first step in broader rollback push
+  headline: Democrats target Trump's Canada tariffs as first step in broader rollback
+    push
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6757
-- slug: 2026-11-07-wall-street-rotates-out-of-ai-and-defense-stocks-after-democratic-midterm-sweep
-  headline: Wall Street rotates out of AI and defense stocks after Democratic midterm sweep
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6692
+  strength: 0.6759
 - slug: 2026-11-09-democrats-put-grocery-price-proposals-on-their-post-election-agenda
   headline: Democrats put grocery-price proposals on their post-election agenda
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6574
-- slug: 2026-11-05-democrats-win-congress-on-affordability-but-trump-retains-veto-power
-  headline: Democrats win Congress on affordability, but Trump retains veto power
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6782
-- slug: 2026-11-04-democratic-gains-shift-u-s-technology-policy-outlook
-  headline: Democratic gains shift U.S. technology policy outlook
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6707
-- slug: 2026-11-06-analysts-see-cost-of-living-datacentre-warnings-for-australia-in-us-midterms
-  headline: Analysts see cost-of-living, datacentre warnings for Australia in US midterms
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6594
-- slug: 2026-11-04-democrats-wins-could-bring-stricter-ai-and-data-center-rules
-  headline: Democrats’ wins could bring stricter AI and data-center rules
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6687
-- slug: 2026-11-07-democrats-face-limited-tools-to-ease-cost-of-living-anger-analysis-argues
-  headline: Democrats face limited tools to ease cost-of-living anger, analysis argues
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6523
-- slug: 2026-11-04-ai-regulation-concerns-pressure-the-dollar-after-democrats-take-congress
-  headline: AI regulation concerns pressure the dollar after Democrats take Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6676
-- slug: 2026-11-04-democrats-prepare-agenda-on-taxes-health-care-ai-and-social-security
-  headline: Democrats prepare agenda on taxes, health care, AI and Social Security
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.658
-- slug: 2026-11-04-cost-of-living-central-in-associated-press-poll-as-democrats-win-both-chambers
-  headline: Cost of living central in Associated Press poll as Democrats win both chambers
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6571
-- slug: 2026-11-05-democratic-winners-point-to-moderates-gaining-ground-in-the-incoming-congress
-  headline: Democratic winners point to moderates gaining ground in the incoming Congress
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6508
-- slug: 2026-11-04-poll-finds-voters-rejecting-republicans-more-than-embracing-democrats
-  headline: Poll finds voters rejecting Republicans more than embracing Democrats
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6559
-- slug: 2026-11-03-the-business-world-anticipates-change-if-democrats-win-substantially
-  headline: The business world anticipates change if Democrats win substantially
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6543
+  strength: 0.6567
 ---
-
 ## Democrats in Congress could change policies affecting California industries
 
 **Subtype:** fact

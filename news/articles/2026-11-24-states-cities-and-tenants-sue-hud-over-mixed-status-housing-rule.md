@@ -2,8 +2,17 @@
 headline: States, cities and tenants sue HUD over mixed-status housing rule
 secondary_headline: Challenges say rule reverses nearly 30 years of federal policy
 publish_date: '2026-11-24'
-lede: State attorneys general, public housing authorities and tenant groups have sued the U.S. Department of Housing and Urban Development over a rule that would require each member of a household receiving federal housing assistance to prove citizenship or eligible immigration status. The cases are before a Massachusetts federal judge as the rule is scheduled to take effect December 14, and affected families would have until March 14 to verify every member's status after housing authorities begin notifying them.
-nut_graf: The dispute centers on whether HUD may require every person in an assisted household to prove immigration status. HUD says the rule implements the 1980 Housing and Community Development Act, while challengers say it reverses congressional policy dating to 1996 and violates the Administrative Procedure Act.
+lede: State attorneys general, public housing authorities and tenant groups have sued
+  the U.S. Department of Housing and Urban Development over a rule that would require
+  each member of a household receiving federal housing assistance to prove citizenship
+  or eligible immigration status. The cases are before a Massachusetts federal judge
+  as the rule is scheduled to take effect December 14, and affected families would
+  have until March 14 to verify every member's status after housing authorities begin
+  notifying them.
+nut_graf: The dispute centers on whether HUD may require every person in an assisted
+  household to prove immigration status. HUD says the rule implements the 1980 Housing
+  and Community Development Act, while challengers say it reverses congressional policy
+  dating to 1996 and violates the Administrative Procedure Act.
 primary_entities:
 - U.S. Department of Housing and Urban Development
 - City of Boston
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,104 +151,46 @@ related_stories:
   headline: States sue HUD over housing aid rule affecting mixed-status families
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8723
+  strength: 0.8725
 - slug: 2026-11-17-hud-finalizes-public-housing-eligibility-rule-amid-tenant-opposition
   headline: HUD finalizes public housing eligibility rule amid tenant opposition
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8723
+  strength: 0.8729
 - slug: 2026-11-24-local-housing-agencies-work-to-comply-with-hud-rule-while-minimizing-evictions
   headline: Local housing agencies work to comply with HUD rule while minimizing evictions
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8225
+  strength: 0.8233
 - slug: 2026-11-23-colorado-joins-23-state-lawsuit-challenging-hud-housing-rule
   headline: Colorado joins 23-state lawsuit challenging HUD housing rule
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8288
+  strength: 0.8292
 - slug: 2026-11-23-rob-bonta-estimates-hud-housing-rule-will-affect-7-000-california-households
   headline: Rob Bonta estimates HUD housing rule will affect 7,000 California households
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.822
+  strength: 0.8233
 - slug: 2026-11-23-federal-judge-blocks-hud-plan-to-set-aside-1-3-billion-for-homelessness-grants
-  headline: Federal judge blocks HUD plan to set aside $1.3 billion for homelessness grants
+  headline: Federal judge blocks HUD plan to set aside $1.3 billion for homelessness
+    grants
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.6888
+  strength: 0.6892
 - slug: 2026-02-20-hud-proposes-rule-to-require-citizenship-or-eligible-status-in-public-housing
-  headline: HUD proposes rule to require citizenship or eligible status in public housing
+  headline: HUD proposes rule to require citizenship or eligible status in public
+    housing
   publish_date: '2026-02-20'
   relation: related
-  strength: 0.8293
+  strength: 0.83
 - slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
+  headline: States sue to block public charge rule, citing billions in lost federal
+    funds
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.7022
-- slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
-  headline: NYC and coalition of cities sue over Trump immigration benefits rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6985
-- slug: 2026-09-26-supreme-court-allows-federal-database-to-check-voter-citizenship
-  headline: Supreme Court allows federal database to check voter citizenship
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6684
-- slug: 2026-09-10-census-proposal-would-exclude-refugees-and-asylum-seekers
-  headline: Census proposal would exclude refugees and asylum seekers
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6841
-- slug: 2026-09-10-2030-census-proposal-seeks-input-on-immigrants-with-temporary-status
-  headline: 2030 census proposal seeks input on immigrants with temporary status
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6674
-- slug: 2026-08-07-federal-judge-blocks-hud-s-homelessness-funding-shift
-  headline: Federal judge blocks HUD's homelessness funding shift
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6608
-- slug: 2026-06-30-1996-law-at-center-of-doj-tuition-suits-against-mass-r-i
-  headline: 1996 law at center of DOJ tuition suits against Mass., R.I.
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6885
-- slug: 2026-05-14-bungled-housing-message-in-texas-sparked-exodus-amid-trump-immigration-rule
-  headline: Bungled housing message in Texas sparked exodus amid Trump immigration rule
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7046
-- slug: 2026-07-23-two-dozen-states-sue-over-disaster-funding-conditions
-  headline: Two dozen states sue over disaster funding conditions
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6576
-- slug: 2026-07-10-justice-department-sues-maryland-over-law-it-says-violates-supremacy-clause
-  headline: Justice Department sues Maryland over law it says violates Supremacy Clause
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6656
-- slug: 2026-05-15-texas-town-s-housing-authority-bungled-immigrant-eviction-message
-  headline: Texas town’s housing authority bungled immigrant-eviction message
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.683
-- slug: 2026-02-11-immigrant-groups-seek-to-dismiss-missouri-bid-to-exclude-noncitizens-from-census
-  headline: Immigrant groups seek to dismiss Missouri bid to exclude noncitizens from census
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.689
-- slug: 2026-05-27-uscis-requires-green-card-applicants-to-leave-u-s-apply-abroad
-  headline: USCIS requires green card applicants to leave U.S., apply abroad
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6578
+  strength: 0.703
 ---
-
 ## States, cities and tenants sue HUD over mixed-status housing rule
 
 **Subtype:** fact

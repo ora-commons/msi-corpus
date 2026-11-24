@@ -66,7 +66,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -247,3 +247,10 @@ Many ambitious Democrats, still buoyed by their sweeping midterm victories, are 
 **Publication date:** 2026-11-24
 **Title:** Trump's intervention for Jensen Huang gives Democrats another 2028 target
 **URL:** https://apnews.com/article/jensen-huang-nvidia-trump-democrats-presidential-candidates-7c83c2f90e924291e435e0fb0d51f524
+
+### src_late_d26be22d40b61722 — Associated Press, wire, Tier 1, originating
+**Author:** Jonathan J. Cooper, Associated Press, Meg Kinnard, Associated Press
+**Publication date:** 2026-11-24
+**Title:** Trump's intervention on behalf of Jensen Huang gives Democrats more 2028 campaign fuel
+**URL:** https://www.pbs.org/newshour/politics/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-more-2028-campaign-fuel
+**Added after publication:** true

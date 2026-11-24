@@ -2,8 +2,21 @@
 headline: Local housing agencies work to comply with HUD rule while minimizing evictions
 secondary_headline: Six California jurisdictions sue over housing eligibility rule
 publish_date: '2026-11-24'
-lede: Since the Trump administration published the final version of the HUD rule earlier this month, local public housing agencies have been working to comply while minimizing evictions of residents and financial strain on the agencies themselves. Some agencies warn that many U.S. citizens and legal residents may struggle and ultimately fail to comply with the more stringent requirements to prove eligibility. Some local public housing agencies also warn that evicting lower-cost mixed-status households and replacing those households with households entitled to full benefits will squeeze the agencies financially. Housing agencies and local governments in Los Angeles, San Diego, San Francisco, Fresno, Santa Barbara and Santa Clara County filed their own lawsuit over the rule Monday.
-nut_graf: Local agencies are working to comply with the final HUD rule and minimize resident evictions. Some warn that evicting lower-cost mixed-status households and replacing those households with households entitled to full benefits will squeeze the agencies financially. HUD says the rule will reallocate up to $218 million to eligible Americans on waitlists.
+lede: Since the Trump administration published the final version of the HUD rule earlier
+  this month, local public housing agencies have been working to comply while minimizing
+  evictions of residents and financial strain on the agencies themselves. Some agencies
+  warn that many U.S. citizens and legal residents may struggle and ultimately fail
+  to comply with the more stringent requirements to prove eligibility. Some local
+  public housing agencies also warn that evicting lower-cost mixed-status households
+  and replacing those households with households entitled to full benefits will squeeze
+  the agencies financially. Housing agencies and local governments in Los Angeles,
+  San Diego, San Francisco, Fresno, Santa Barbara and Santa Clara County filed their
+  own lawsuit over the rule Monday.
+nut_graf: Local agencies are working to comply with the final HUD rule and minimize
+  resident evictions. Some warn that evicting lower-cost mixed-status households and
+  replacing those households with households entitled to full benefits will squeeze
+  the agencies financially. HUD says the rule will reallocate up to $218 million to
+  eligible Americans on waitlists.
 primary_entities:
 - California
 - Trump administration
@@ -49,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,108 +161,48 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-11-24-states-cities-and-tenants-sue-hud-over-mixed-status-housing-rule
+  headline: States, cities and tenants sue HUD over mixed-status housing rule
+  publish_date: '2026-11-24'
+  relation: related
+  strength: 0.8157
 - slug: 2026-11-23-rob-bonta-estimates-hud-housing-rule-will-affect-7-000-california-households
   headline: Rob Bonta estimates HUD housing rule will affect 7,000 California households
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.813
+  strength: 0.8133
 - slug: 2026-11-23-states-sue-hud-over-housing-aid-rule-affecting-mixed-status-families
   headline: States sue HUD over housing aid rule affecting mixed-status families
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.811
+  strength: 0.8108
 - slug: 2026-11-17-hud-finalizes-public-housing-eligibility-rule-amid-tenant-opposition
   headline: HUD finalizes public housing eligibility rule amid tenant opposition
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8149
+  strength: 0.815
 - slug: 2026-11-23-colorado-joins-23-state-lawsuit-challenging-hud-housing-rule
   headline: Colorado joins 23-state lawsuit challenging HUD housing rule
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7676
+  strength: 0.7681
 - slug: 2026-11-23-federal-judge-blocks-hud-plan-to-set-aside-1-3-billion-for-homelessness-grants
-  headline: Federal judge blocks HUD plan to set aside $1.3 billion for homelessness grants
+  headline: Federal judge blocks HUD plan to set aside $1.3 billion for homelessness
+    grants
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7287
+  strength: 0.7291
 - slug: 2026-11-17-hud-deal-severs-lahsa-from-federal-funding-and-requires-150-million-return
   headline: HUD deal severs LAHSA from federal funding and requires $150 million return
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6962
+  strength: 0.6958
 - slug: 2026-11-07-us-homelessness-falls-more-than-6-in-2025-largest-drop-in-over-a-decade
   headline: US homelessness falls more than 6% in 2025, largest drop in over a decade
   publish_date: '2026-11-07'
   relation: related
-  strength: 0.6901
-- slug: 2026-10-30-judge-orders-trump-administration-to-turn-over-disputed-california-voter-list
-  headline: Judge orders Trump administration to turn over disputed California voter list
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.6843
-- slug: 2026-09-14-states-sue-to-block-public-charge-rule-citing-billions-in-lost-federal-funds
-  headline: States sue to block public charge rule, citing billions in lost federal funds
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.7124
-- slug: 2026-09-14-nyc-and-coalition-of-cities-sue-over-trump-immigration-benefits-rule
-  headline: NYC and coalition of cities sue over Trump immigration benefits rule
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.6839
-- slug: 2026-02-20-hud-proposes-rule-to-require-citizenship-or-eligible-status-in-public-housing
-  headline: HUD proposes rule to require citizenship or eligible status in public housing
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7978
-- slug: 2026-09-10-census-proposal-would-exclude-refugees-and-asylum-seekers
-  headline: Census proposal would exclude refugees and asylum seekers
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6787
-- slug: 2026-08-18-cities-counties-sue-over-election-rules-tied-to-security-funds
-  headline: Cities, counties sue over election rules tied to security funds
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.6912
-- slug: 2026-08-07-federal-judge-blocks-hud-s-homelessness-funding-shift
-  headline: Federal judge blocks HUD's homelessness funding shift
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6982
-- slug: 2026-06-12-trump-suspends-federal-funding-to-la-homeless-agency-over-fraud-allegations
-  headline: Trump suspends federal funding to LA homeless agency over fraud allegations
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7313
-- slug: 2026-05-14-bungled-housing-message-in-texas-sparked-exodus-amid-trump-immigration-rule
-  headline: Bungled housing message in Texas sparked exodus amid Trump immigration rule
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7394
-- slug: 2026-04-01-judge-rules-trump-administration-s-homeless-funding-changes-unlawful
-  headline: Judge rules Trump administration's homeless funding changes unlawful
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7243
-- slug: 2026-05-15-texas-town-s-housing-authority-bungled-immigrant-eviction-message
-  headline: Texas town’s housing authority bungled immigrant-eviction message
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7109
-- slug: 2026-01-16-california-tightens-homelessness-funding-strings-as-annual-pool-drops-to-500m
-  headline: California tightens homelessness funding strings as annual pool drops to $500M
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.7087
-- slug: 2026-06-17-trump-warns-states-to-tighten-unemployment-fraud-controls-or-lose-funds
-  headline: Trump warns states to tighten unemployment fraud controls or lose funds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6774
+  strength: 0.6902
 ---
-
 ## Local housing agencies work to comply with HUD rule while minimizing evictions
 
 **Subtype:** fact
