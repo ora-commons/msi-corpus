@@ -218,6 +218,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-24-murray-watt-s-hunter-valley-choice-hinges-on-an-unreleased-federal-report'
 ---
 ## Murray Watt weighs Hunter Valley coalmine expansion as campaigners urge rejection
 
@@ -266,3 +268,8 @@ The expansion remains before Watt under federal nature laws, with the national e
 **Publication date:** 2026-11-24
 **Title:** Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31
 **URL:** https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31
+
+---
+
+<!-- analysis-link:2026-11-24-murray-watt-s-hunter-valley-choice-hinges-on-an-unreleased-federal-report -->
+**Going deeper:** [Read MSI's analysis of Watt’s Hunter Valley coal decision →](/analyses/2026-11-24-murray-watt-s-hunter-valley-choice-hinges-on-an-unreleased-federal-report)

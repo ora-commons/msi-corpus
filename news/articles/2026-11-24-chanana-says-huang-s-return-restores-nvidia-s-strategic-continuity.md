@@ -228,6 +228,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-24-nvidia-s-rebound-meets-an-unresolved-export-control-question'
 ---
 ## Chanana says Huang’s return restores Nvidia’s strategic continuity
 
@@ -268,3 +270,8 @@ The Guardian’s market data agenda for November 24 listed the IFO survey of Ger
 **Publication date:** 2026-11-24
 **Title:** Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live
 **URL:** https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates
+
+---
+
+<!-- analysis-link:2026-11-24-nvidia-s-rebound-meets-an-unresolved-export-control-question -->
+**Going deeper:** [Read MSI's analysis of Nvidia’s rebound and export-control review →](/analyses/2026-11-24-nvidia-s-rebound-meets-an-unresolved-export-control-question)
