@@ -201,6 +201,8 @@ related_stories:
   publish_date: '2026-11-23'
   relation: related
   strength: 0.8086
+analyses:
+- '2026-11-23-cop31-collapse-shifts-climate-action-toward-side-deals-and-procedural-reform'
 ---
 ## After COP31, experts propose climate-talk reform and fossil-fuel action
 
@@ -250,3 +252,8 @@ U.N. Secretary-General António Guterres said, “The true test of climate actio
 **Publication date:** 2026-11-23
 **Title:** Experts explain what's next after UN climate talks imploded
 **URL:** https://apnews.com/article/climate-cop31-deal-failure-collapse-warming-778da06f932372585dc3c16e3264ac41
+
+---
+
+<!-- analysis-link:2026-11-23-cop31-collapse-shifts-climate-action-toward-side-deals-and-procedural-reform -->
+**Going deeper:** [Read MSI's analysis of COP31 collapse and climate-talk reform →](/analyses/2026-11-23-cop31-collapse-shifts-climate-action-toward-side-deals-and-procedural-reform)
