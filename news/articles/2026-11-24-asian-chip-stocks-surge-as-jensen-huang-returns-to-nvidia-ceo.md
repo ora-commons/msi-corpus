@@ -2,8 +2,14 @@
 headline: Asian chip stocks surge as Jensen Huang returns to Nvidia CEO
 secondary_headline: The S&P 500 has recovered just over half of last week's losses
 publish_date: '2026-11-24'
-lede: Asian stocks advanced in Tuesday trading after a Wall Street rally led by Nvidia, whose shares rose 31.5% following co-founder Jensen Huang's return as chief executive. U.S. futures edged higher and oil prices fell, with chip-related shares leading gains across the region.
-nut_graf: The rally reached beyond Nvidia itself, lifting semiconductor and testing-equipment makers across Asia as Wall Street came off a seven-day losing streak. The move carries direct implications for workers' 401(k) accounts, because Nvidia and other chip stocks have grown into some of Wall Street's largest and most influential holdings.
+lede: Asian stocks advanced in Tuesday trading after a Wall Street rally led by Nvidia,
+  whose shares rose 31.5% following co-founder Jensen Huang's return as chief executive.
+  U.S. futures edged higher and oil prices fell, with chip-related shares leading
+  gains across the region.
+nut_graf: The rally reached beyond Nvidia itself, lifting semiconductor and testing-equipment
+  makers across Asia as Wall Street came off a seven-day losing streak. The move carries
+  direct implications for workers' 401(k) accounts, because Nvidia and other chip
+  stocks have grown into some of Wall Street's largest and most influential holdings.
 primary_entities:
 - NVIDIA Corp.
 - Jensen Huang
@@ -44,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,14 +153,15 @@ related_stories:
   headline: Jensen Huang returns as Nvidia CEO as shares open 30% higher
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8093
+  strength: 0.8092
 - slug: 2026-11-23-nvidia-shares-jump-more-than-25-after-huang-s-reinstatement
   headline: Nvidia shares jump more than 25% after Huang's reinstatement
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7902
+  strength: 0.7904
 - slug: 2026-11-23-jensen-huang-s-return-leaves-nvidia-s-governance-and-financing-questions-unresol
-  headline: Jensen Huang's return leaves Nvidia's governance and financing questions unresolved
+  headline: Jensen Huang's return leaves Nvidia's governance and financing questions
+    unresolved
   publish_date: '2026-11-23'
   relation: related
   strength: 0.7825
@@ -161,89 +169,30 @@ related_stories:
   headline: Jensen Huang returns as Nvidia CEO after Trump's intervention
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7646
+  strength: 0.7644
 - slug: 2026-11-24-trump-says-the-country-needs-more-geniuses-as-nvidia-reinstates-huang
   headline: Trump says the country needs more ‘geniuses’ as Nvidia reinstates Huang
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7505
+  strength: 0.7506
 - slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
+  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC
+    probe
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7547
+  strength: 0.7548
 - slug: 2026-11-13-asian-shares-mixed-after-jensen-huang-resigns-as-nvidia-chief
   headline: Asian shares mixed after Jensen Huang resigns as Nvidia chief
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.8116
+  strength: 0.8119
 - slug: 2026-11-16-kospi-nikkei-and-taiex-slide-as-chip-led-selloff-extends-into-another-week
-  headline: Kospi, Nikkei and Taiex slide as chip-led selloff extends into another week
+  headline: Kospi, Nikkei and Taiex slide as chip-led selloff extends into another
+    week
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7841
-- slug: 2026-11-20-nikkei-and-kospi-each-fall-4-5-in-early-friday-trading
-  headline: Nikkei and Kospi each fall 4.5% in early Friday trading
-  publish_date: '2026-11-20'
-  relation: related
-  strength: 0.7552
-- slug: 2026-11-23-bessent-appears-to-ease-his-stance-on-jensen-huang-s-return-to-nvidia
-  headline: Bessent appears to ease his stance on Jensen Huang's return to Nvidia
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.727
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-cfo-colette-kress-named-interim-chief
-  headline: Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim chief
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7862
-- slug: 2026-11-17-asian-stocks-fall-as-ai-pressure-weighs-on-nvidia-ahead-of-earnings
-  headline: Asian stocks fall as AI pressure weighs on Nvidia ahead of earnings
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.75
-- slug: 2026-11-17-nvidia-beats-estimates-and-raises-guidance-after-jensen-huang-s-resignation
-  headline: Nvidia beats estimates and raises guidance after Jensen Huang’s resignation
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7441
-- slug: 2026-11-16-advantest-and-lasertec-slide-as-u-s-chip-maker-selloff-spreads-to-asia
-  headline: Advantest and Lasertec slide as U.S. chip-maker selloff spreads to Asia
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7454
-- slug: 2026-11-13-rival-chipmakers-gain-as-huang-departure-rattles-nvidia
-  headline: Rival chipmakers gain as Huang departure rattles Nvidia
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.758
-- slug: 2026-11-16-nvidia-s-china-chip-workarounds-appear-close-to-closing-after-huang-s-exit
-  headline: Nvidia's China chip workarounds appear close to closing after Huang's exit
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7268
-- slug: 2026-11-11-asian-markets-mostly-rise-as-tsmc-climbs-despite-wall-street-inflation-pressure
-  headline: Asian markets mostly rise as TSMC climbs despite Wall Street inflation pressure
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.751
-- slug: 2026-11-10-oil-prices-decline-as-asian-stocks-rise-after-wall-street-gains
-  headline: Oil prices decline as Asian stocks rise after Wall Street gains
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.7567
-- slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board meets on whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.7333
-- slug: 2026-11-12-nvidia-shares-sink-7-premarket-as-reports-put-ceo-jensen-huang-s-tenure-at-risk
-  headline: Nvidia shares sink 7% premarket as reports put CEO Jensen Huang's tenure at risk
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.732
+  strength: 0.7842
 ---
-
 ## Asian chip stocks surge as Jensen Huang returns to Nvidia CEO
 
 **Subtype:** fact
