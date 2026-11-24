@@ -33,7 +33,8 @@ primary_themes:
 - Corporate takeovers
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- compass-group-s-listing-move-from-london-to-new-york
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -159,6 +160,7 @@ related_stories:
   relation: related
   strength: 0.8542
 ---
+
 ## Compass makes about three-quarters of last year's profit in North America
 
 **Subtype:** fact

@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-11-23'
   relation: related
   strength: 0.8267
+analyses:
+- '2026-11-23-army-s-iowa-lead-azide-plan-binds-safety-claims-to-a-disputed-timetable'
 ---
 ## Environmental groups seek another pause before Iowa lead azide detonation
 
@@ -247,3 +249,8 @@ MSI previously reported that [the Army intended to detonate the material despite
 **Publication date:** 2026-11-23
 **Title:** US Army reschedules detonation of toxic explosives at Iowa ammunition plant
 **URL:** https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo
+
+---
+
+<!-- analysis-link:2026-11-23-army-s-iowa-lead-azide-plan-binds-safety-claims-to-a-disputed-timetable -->
+**Going deeper:** [Read MSI's analysis of Iowa’s disputed lead-azide disposal →](/analyses/2026-11-23-army-s-iowa-lead-azide-plan-binds-safety-claims-to-a-disputed-timetable)

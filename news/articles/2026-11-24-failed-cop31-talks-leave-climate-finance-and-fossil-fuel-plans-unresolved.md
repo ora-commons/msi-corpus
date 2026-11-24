@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-11-23'
   relation: related
   strength: 0.8269
+analyses:
+- '2026-11-24-cop31-deadlock-leaves-climate-finance-unresolved-amid-parallel-action-by-almost-'
 ---
 ## Failed COP31 talks leave climate finance and fossil-fuel plans unresolved
 
@@ -251,3 +253,8 @@ Tasneem Essop, executive director of Climate Action Network International, blame
 **Publication date:** 2026-11-24
 **Title:** What to know about the failed UN climate talks in Turkey
 **URL:** https://apnews.com/article/climate-talks-cop31-turkey-ae4c6b1fc5d6b6679947e01c9ff8f607
+
+---
+
+<!-- analysis-link:2026-11-24-cop31-deadlock-leaves-climate-finance-unresolved-amid-parallel-action-by-almost- -->
+**Going deeper:** [Read MSI's analysis of the failed COP31 climate talks →](/analyses/2026-11-24-cop31-deadlock-leaves-climate-finance-unresolved-amid-parallel-action-by-almost-)

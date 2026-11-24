@@ -34,7 +34,8 @@ topic_tags:
 - economy, business and finance
 - market and exchange
 - business information
-storyline_nexus: []
+storyline_nexus:
+- compass-group-s-listing-move-from-london-to-new-york
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -179,6 +180,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Compass Group plans to move its primary stock listing to the US
 
 **Subtype:** fact
