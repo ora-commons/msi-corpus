@@ -29,7 +29,8 @@ topic_tags:
 - crime
 - law
 - government
-storyline_nexus: []
+storyline_nexus:
+- democratic-congressional-investigations-of-the-trump-administration
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -201,6 +202,7 @@ related_stories:
   relation: related
   strength: 0.6619
 ---
+
 ## Texas U.S. attorney warns Democratic lawmakers of legal consequences
 
 **Subtype:** fact

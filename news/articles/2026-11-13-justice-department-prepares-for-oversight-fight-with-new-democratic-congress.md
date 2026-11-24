@@ -40,7 +40,8 @@ topic_tags:
 - crime
 - government
 - law
-storyline_nexus: []
+storyline_nexus:
+- democratic-congressional-investigations-of-the-trump-administration
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -137,6 +138,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Justice Department prepares for oversight fight with new Democratic Congress
 
 **Subtype:** fact

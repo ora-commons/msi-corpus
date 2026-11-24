@@ -2,8 +2,16 @@
 headline: Irish EU presidency proposes UK role in Made in Europe law
 secondary_headline: France tied UK eligibility to Chinese-vehicle tariff alignment
 publish_date: '2026-11-24'
-lede: Ireland's rotating EU presidency has proposed giving the UK partner status for car assembly under the bloc's Made in Europe legislation without requiring wider trade alignment. Under the proposal, the UK would not have to apply the EU's tariffs on Chinese car imports, and a fourth compromise text is due before EU competition ministers on 3 December.
-nut_graf: The compromise could let UK-assembled vehicles qualify as European while giving the UK mutual access to subsidies available to EU-owned assembly plants and public-procurement contracts for fleet cars, without a broader tariff-alignment condition. It also matters for European manufacturers facing Chinese electric-vehicle competition and tighter import controls.
+lede: Ireland's rotating EU presidency has proposed giving the UK partner status for
+  car assembly under the bloc's Made in Europe legislation without requiring wider
+  trade alignment. Under the proposal, the UK would not have to apply the EU's tariffs
+  on Chinese car imports, and a fourth compromise text is due before EU competition
+  ministers on 3 December.
+nut_graf: The compromise could let UK-assembled vehicles qualify as European while
+  giving the UK mutual access to subsidies available to EU-owned assembly plants and
+  public-procurement contracts for fleet cars, without a broader tariff-alignment
+  condition. It also matters for European manufacturers facing Chinese electric-vehicle
+  competition and tighter import controls.
 primary_entities:
 - Ireland
 - EU
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,32 +152,28 @@ related_stories:
   headline: EU sets 200-day cap on tariff-free Chinese hybrid imports
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.6625
+  strength: 0.6628
 - slug: 2026-09-24-france-leads-eu-push-to-exclude-uk-from-made-in-europe-law
   headline: France leads EU push to exclude UK from 'Made in Europe' law
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.7283
+  strength: 0.7281
 - slug: 2026-10-12-eu-s-350-000-unit-hybrid-cap-aims-to-halve-china-s-market-share-over-four-years
-  headline: EU's 350,000-unit hybrid cap aims to halve China's market share over four years
+  headline: EU's 350,000-unit hybrid cap aims to halve China's market share over four
+    years
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.6681
-- slug: 2026-10-20-reported-eu-hybrid-cap-could-slow-chinese-automakers-share-gains-next-year
-  headline: Reported EU hybrid cap could slow Chinese automakers' share gains next year
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.627
+  strength: 0.6685
 - slug: 2026-10-04-uk-carmakers-caught-between-chinese-imports-and-eu-tariff-threat
   headline: UK carmakers caught between Chinese imports and EU tariff threat
   publish_date: '2026-10-04'
   relation: related
-  strength: 0.6743
+  strength: 0.6757
 - slug: 2026-10-05-germany-france-pitch-eu-trade-tool-to-quickly-block-chinese-goods
   headline: Germany, France pitch EU trade tool to quickly block Chinese goods
   publish_date: '2026-10-05'
   relation: related
-  strength: 0.6634
+  strength: 0.6642
 - slug: 2026-09-17-healey-urges-eu-not-to-lock-uk-out-of-made-in-europe-plan
   headline: Healey urges EU not to lock UK out of 'Made in Europe' plan
   publish_date: '2026-09-17'
@@ -178,69 +183,13 @@ related_stories:
   headline: 'EU envoy: ''doors are open'' for UK to deepen cooperation'
   publish_date: '2026-09-22'
   relation: related
-  strength: 0.6687
+  strength: 0.6668
 - slug: 2026-09-17-carney-welcomes-eu-proposal-for-canada-associate-membership
   headline: Carney welcomes EU proposal for Canada associate membership
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.6581
-- slug: 2026-09-21-canada-s-finance-minister-urges-uk-to-join-proposed-eu-alliance
-  headline: Canada's finance minister urges UK to join proposed EU alliance
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6478
-- slug: 2026-09-24-brussels-asks-beijing-to-voluntarily-cut-hybrid-exports-or-face-safeguard-quotas
-  headline: Brussels asks Beijing to voluntarily cut hybrid exports or face safeguard quotas
-  publish_date: '2026-09-24'
-  relation: related
-  strength: 0.6373
-- slug: 2026-09-16-eu-proposes-associate-membership-for-canada-sovereignty-tensions-remain
-  headline: EU proposes associate membership for Canada, sovereignty tensions remain
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6561
-- slug: 2026-09-17-carney-outlines-canada-eu-cooperation-areas-rules-out-full-membership
-  headline: Carney outlines Canada-EU cooperation areas, rules out full membership
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6434
-- slug: 2026-09-22-burnham-to-raise-made-in-europe-concerns-in-first-meeting-with-von-der-leyen
-  headline: Burnham to raise 'Made in Europe' concerns in first meeting with von der Leyen
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6291
-- slug: 2026-09-23-eu-offers-canada-associate-member-status-with-no-treaty-basis
-  headline: EU offers Canada 'associate member' status with no treaty basis
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6214
-- slug: 2026-09-17-carney-tells-eu-parliament-canada-wants-first-ever-associate-membership
-  headline: Carney tells EU Parliament Canada wants first-ever associate membership
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.6352
-- slug: 2026-09-18-burnham-hosts-irish-pm-at-no-10-north-as-uk-presses-eu-on-made-in-europe
-  headline: Burnham hosts Irish PM at No 10 North as UK presses EU on Made in Europe
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6312
-- slug: 2026-09-16-canada-eu-offer-puts-uk-reset-ambitions-under-spotlight
-  headline: Canada EU offer puts UK reset ambitions under spotlight
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6262
-- slug: 2026-08-24-eu-uk-and-canada-pare-back-climate-goals-amid-energy-costs
-  headline: EU, UK and Canada pare back climate goals amid energy costs
-  publish_date: '2026-08-24'
-  relation: related
-  strength: 0.6214
-- slug: 2026-07-24-uk-faces-higher-effective-us-tariffs-than-eu-rivals-after-trade-deal
-  headline: UK faces higher effective US tariffs than EU rivals after trade deal
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.625
+  strength: 0.6573
 ---
-
 ## Irish EU presidency proposes UK role in Made in Europe law
 
 **Subtype:** fact

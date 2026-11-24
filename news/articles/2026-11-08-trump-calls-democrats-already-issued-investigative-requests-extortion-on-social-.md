@@ -42,7 +42,8 @@ primary_themes:
 - post-midterm politics
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- democratic-congressional-investigations-of-the-trump-administration
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -207,6 +208,7 @@ related_stories:
   relation: related
   strength: 0.7167
 ---
+
 ## Trump calls Democrats’ already-issued investigative requests extortion on social media
 
 **Subtype:** fact

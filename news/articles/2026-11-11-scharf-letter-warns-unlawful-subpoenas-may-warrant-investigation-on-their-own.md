@@ -40,7 +40,8 @@ topic_tags:
 - crime
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- democratic-congressional-investigations-of-the-trump-administration
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -217,6 +218,7 @@ related_stories:
   relation: related
   strength: 0.6798
 ---
+
 ## Scharf letter warns unlawful subpoenas may warrant investigation on their own
 
 **Subtype:** fact
