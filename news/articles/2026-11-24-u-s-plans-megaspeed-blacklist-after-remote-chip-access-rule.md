@@ -2,8 +2,20 @@
 headline: U.S. plans Megaspeed blacklist after remote-chip access rule
 secondary_headline: Planned Huang testimony targets China chip exports and Trump intervention
 publish_date: '2026-11-24'
-lede: The United States plans to add Megaspeed to the trade blacklist after the Commerce Department implemented a rule last week that bans remote access to advanced AI chips and servers through data centers in third countries. Nvidia CEO Jensen Huang is scheduled for a December 3 Senate Banking Committee appearance and separate transcribed House interviews next week on Capitol Hill about China-related chip exports, his relationship with Alice Huang and President Donald Trump’s intervention in his reinstatement. Nvidia’s board reinstated Huang on November 23, 11 days after his resignation, following Trump’s intervention and assurances to company leadership; Trump said in a Monday CNBC interview that he had convinced the board.
-nut_graf: The planned Megaspeed action brings remote access to advanced AI chips and servers in third-country data centers into the same debate as allegations that Nvidia chips were diverted to China. Lawmakers have said Huang’s testimony will examine China’s access to advanced chips, the government’s role in his reinstatement and the national-security assurances provided to Nvidia’s board.
+lede: The United States plans to add Megaspeed to the trade blacklist after the Commerce
+  Department implemented a rule last week that bans remote access to advanced AI chips
+  and servers through data centers in third countries. Nvidia CEO Jensen Huang is
+  scheduled for a December 3 Senate Banking Committee appearance and separate transcribed
+  House interviews next week on Capitol Hill about China-related chip exports, his
+  relationship with Alice Huang and President Donald Trump’s intervention in his reinstatement.
+  Nvidia’s board reinstated Huang on November 23, 11 days after his resignation, following
+  Trump’s intervention and assurances to company leadership; Trump said in a Monday
+  CNBC interview that he had convinced the board.
+nut_graf: The planned Megaspeed action brings remote access to advanced AI chips and
+  servers in third-country data centers into the same debate as allegations that Nvidia
+  chips were diverted to China. Lawmakers have said Huang’s testimony will examine
+  China’s access to advanced chips, the government’s role in his reinstatement and
+  the national-security assurances provided to Nvidia’s board.
 primary_entities:
 - United States
 - Commerce Department
@@ -60,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -159,116 +172,59 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-24-u-s-plans-megaspeed-blacklist-after-remote-chip-access-rule.png
-  alt: 'Illustration accompanying article: U.S. plans Megaspeed blacklist after remote-chip access rule'
+  alt: 'Illustration accompanying article: U.S. plans Megaspeed blacklist after remote-chip
+    access rule'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-23-congress-questions-nvidia-after-jensen-huang-s-reinstatement
   headline: Congress questions Nvidia after Jensen Huang's reinstatement
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8311
+  strength: 0.8305
 - slug: 2026-11-23-nvidia-and-huang-face-sec-board-and-congressional-investigations
   headline: Nvidia and Huang face SEC, board and congressional investigations
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8251
+  strength: 0.8249
 - slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-amid-bipartisan-congressional-backlash
   headline: Nvidia board reinstates Jensen Huang amid bipartisan congressional backlash
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8226
+  strength: 0.8224
 - slug: 2026-11-24-megaspeed-s-u-s-exports-now-require-commerce-approval
   headline: Megaspeed's U.S. exports now require Commerce approval
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8051
+  strength: 0.8057
 - slug: 2026-11-17-us-agencies-detail-timeline-of-megaspeed-export-control-investigation
   headline: US agencies detail timeline of Megaspeed export-control investigation
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8452
+  strength: 0.8456
 - slug: 2026-11-23-us-plans-to-blacklist-singaporean-ai-firm-megaspeed
   headline: US plans to blacklist Singaporean AI firm Megaspeed
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8012
+  strength: 0.8021
 - slug: 2026-11-17-jensen-huang-offers-to-return-to-nvidia-and-agrees-to-testify-to-congress
   headline: Jensen Huang offers to return to Nvidia and agrees to testify to Congress
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8401
+  strength: 0.8398
 - slug: 2026-11-15-megaspeed-says-suspected-china-spy-left-its-executive-role-last-year
   headline: Megaspeed says suspected China spy left its executive role last year
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.8356
-- slug: 2026-11-13-white-house-faces-questions-over-commerce-s-nvidia-chip-oversight
-  headline: White House faces questions over Commerce's Nvidia chip oversight
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8463
-- slug: 2026-11-17-megaspeed-facilitated-about-12bn-in-chip-sales-malaysia-investigates-diversion
-  headline: Megaspeed facilitated about $12bn in chip sales; Malaysia investigates diversion
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8166
-- slug: 2026-11-17-us-moves-to-tighten-chip-rules-after-megaspeed-facilitated-about-12bn-in-sales-v
-  headline: US moves to tighten chip rules after Megaspeed facilitated about $12bn in sales violating controls
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8068
-- slug: 2026-11-17-nvidia-oversight-panel-has-three-directors-and-will-work-with-outside-experts
-  headline: Nvidia oversight panel has three directors and will work with outside experts
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8032
-- slug: 2026-11-14-congress-seizes-on-nvidia-scandal-to-press-for-tighter-china-chip-export-curbs
-  headline: Congress seizes on Nvidia scandal to press for tighter China chip export curbs
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.8067
-- slug: 2026-11-15-bessent-urges-nvidia-to-hire-outside-ceo-and-answer-export-questions
-  headline: Bessent urges Nvidia to hire outside CEO and answer export questions
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.8006
-- slug: 2026-11-13-bessent-says-treasury-state-defense-ustr-backed-megaspeed-listing-for-months
-  headline: Bessent says Treasury, State, Defense, USTR backed Megaspeed listing for months
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8127
-- slug: 2026-11-13-bessent-says-commerce-held-the-decision-on-megaspeed-listing
-  headline: Bessent says Commerce held the decision on Megaspeed listing
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8106
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8164
-- slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
-  headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8105
-- slug: 2026-11-12-megaspeed-vows-cooperation-with-u-s-national-security-investigations
-  headline: Megaspeed vows cooperation with U.S. national security investigations
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8136
-- slug: 2026-11-13-bessent-says-agencies-wanted-megaspeed-on-export-control-list-for-months
-  headline: Bessent says agencies wanted Megaspeed on export-control list for months
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.8071
+  strength: 0.8355
 ---
-
 ## U.S. plans Megaspeed blacklist after remote-chip access rule
 
 **Subtype:** fact

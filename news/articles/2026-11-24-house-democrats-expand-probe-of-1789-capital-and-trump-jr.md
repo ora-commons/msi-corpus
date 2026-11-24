@@ -2,8 +2,18 @@
 headline: House Democrats expand probe of 1789 Capital and Trump Jr.
 secondary_headline: Document requests target Hadrian, Juul, Polymarket and GrabAGun
 publish_date: '2026-11-24'
-lede: House Democrats led by Rep. Jamie Raskin are expanding an investigation into 1789 Capital, which brought Donald Trump Jr. on as a partner days after President Donald Trump's reelection, NPR reported on Nov. 24. The inquiry examines whether Trump Jr.'s political influence or government information helped companies connected to 1789 Capital secure federal contracts and regulatory changes. Congressional investigators sent document-preservation and production requests to military contractor Hadrian, electronic-cigarette company Juul, the prediction market and betting site Polymarket, and online weapons dealer GrabAGun.
-nut_graf: The inquiry centers on whether government decisions benefited businesses linked to 1789 Capital and on Donald Trump Jr.'s role in the firm. Records from four companies are central to the inquiry, while 1789 Capital's lawyer disputes Rep. Raskin's factual account and GrabAGun calls the allegations baseless.
+lede: House Democrats led by Rep. Jamie Raskin are expanding an investigation into
+  1789 Capital, which brought Donald Trump Jr. on as a partner days after President
+  Donald Trump's reelection, NPR reported on Nov. 24. The inquiry examines whether
+  Trump Jr.'s political influence or government information helped companies connected
+  to 1789 Capital secure federal contracts and regulatory changes. Congressional investigators
+  sent document-preservation and production requests to military contractor Hadrian,
+  electronic-cigarette company Juul, the prediction market and betting site Polymarket,
+  and online weapons dealer GrabAGun.
+nut_graf: The inquiry centers on whether government decisions benefited businesses
+  linked to 1789 Capital and on Donald Trump Jr.'s role in the firm. Records from
+  four companies are central to the inquiry, while 1789 Capital's lawyer disputes
+  Rep. Raskin's factual account and GrabAGun calls the allegations baseless.
 primary_entities:
 - House Judiciary Committee
 - Jamie Raskin
@@ -51,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,104 +164,47 @@ related_stories:
   headline: Raskin seeks records from four firms linked to Donald Trump Jr.
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.874
+  strength: 0.8753
 - slug: 2026-11-12-kalshi-ends-trump-jr-s-paid-advisory-role-after-his-firm-backed-rival-polymarket
-  headline: Kalshi ends Trump Jr's paid advisory role after his firm backed rival Polymarket
+  headline: Kalshi ends Trump Jr's paid advisory role after his firm backed rival
+    Polymarket
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6919
+  strength: 0.692
 - slug: 2026-11-18-garcia-asks-13-trump-allies-to-preserve-records-for-january-probes
   headline: Garcia asks 13 Trump allies to preserve records for January probes
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6488
-- slug: 2026-11-18-robert-garcia-orders-trump-allies-to-preserve-records-for-oversight-probes
-  headline: Robert Garcia orders Trump allies to preserve records for oversight probes
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6424
+  strength: 0.6506
 - slug: 2026-11-12-democrats-demand-records-from-trump-s-chief-fundraiser-over-800-million-raised
-  headline: Democrats demand records from Trump's chief fundraiser over $800 million raised
+  headline: Democrats demand records from Trump's chief fundraiser over $800 million
+    raised
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6754
+  strength: 0.6753
 - slug: 2026-11-04-house-democrats-detail-probes-into-trump-family-epstein-files-and-the-pentagon
-  headline: House Democrats detail probes into Trump family, Epstein files and the Pentagon
+  headline: House Democrats detail probes into Trump family, Epstein files and the
+    Pentagon
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.6879
+  strength: 0.6908
 - slug: 2026-11-10-trump-family-made-nearly-3-billion-during-second-term-researchers-estimate
   headline: Trump family made nearly $3 billion during second term, researchers estimate
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.648
-- slug: 2026-11-10-blumenthal-targets-major-companies-with-a-jan-4-records-deadline
-  headline: Blumenthal targets major companies with a Jan. 4 records deadline
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6406
-- slug: 2026-11-05-about-half-of-voters-called-corruption-crucial-as-democrats-name-probe-targets
-  headline: About half of voters called corruption crucial as Democrats name probe targets
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.646
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6456
+  strength: 0.65
 - slug: 2026-10-30-trump-backed-drone-startup-powerus-grows-into-300-million-company-in-months
-  headline: Trump-backed drone startup Powerus grows into $300 million company in months
+  headline: Trump-backed drone startup Powerus grows into $300 million company in
+    months
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6602
+  strength: 0.6596
 - slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
   headline: House Judiciary Democrats ask Blanche to probe Epstein network
   publish_date: '2026-10-26'
   relation: related
-  strength: 0.666
-- slug: 2026-10-19-trump-officials-scramble-to-retain-counsel-ahead-of-february-investigations
-  headline: Trump officials scramble to retain counsel ahead of February investigations
-  publish_date: '2026-10-19'
-  relation: related
-  strength: 0.6731
-- slug: 2026-10-09-democrats-outline-investigation-priorities-if-they-win-congress
-  headline: Democrats outline investigation priorities if they win Congress
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6825
-- slug: 2026-10-06-democrats-elevate-trump-corruption-claims-as-midterm-campaign-issue
-  headline: Democrats elevate Trump corruption claims as midterm campaign issue
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6542
-- slug: 2026-09-15-garcia-seeks-white-house-records-on-oligarch-funded-trump-jr-wedding
-  headline: Garcia seeks White House records on oligarch-funded Trump Jr wedding
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.68
-- slug: 2026-09-20-trump-sons-and-allies-accumulate-ai-linked-contracts-as-white-house-resists-guar
-  headline: Trump sons and allies accumulate AI-linked contracts as White House resists guardrails
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.668
-- slug: 2026-09-22-curtis-asks-senate-panel-to-probe-trump-jr-wedding-gift
-  headline: Curtis asks Senate panel to probe Trump Jr. wedding gift
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6614
-- slug: 2026-08-22-democrats-ready-multi-front-investigations-into-trump-administration
-  headline: Democrats ready multi-front investigations into Trump administration
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.6708
-- slug: 2026-08-28-trump-corporate-donors-brace-for-investigations-if-house-flips-to-democrats
-  headline: Trump corporate donors brace for investigations if House flips to Democrats
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6612
+  strength: 0.6672
 ---
-
 ## House Democrats expand probe of 1789 Capital and Trump Jr.
 
 **Subtype:** fact
