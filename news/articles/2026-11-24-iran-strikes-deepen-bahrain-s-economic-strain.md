@@ -195,6 +195,8 @@ related_stories:
   publish_date: '2026-10-23'
   relation: related
   strength: 0.7227
+analyses:
+- '2026-11-24-iran-s-attacks-transmit-bahrain-s-revenue-shock-into-a-contested-gulf-bailout'
 ---
 ## Iran strikes deepen Bahrain's economic strain
 
@@ -244,3 +246,8 @@ The U.A.E. provided a roughly $5.3 billion currency swap in April, and Justin Al
 **Publication date:** 2026-11-24
 **Title:** Tiny Bahrain Is Paying a Big Price for Its Ties to the U.S.
 **URL:** https://www.wsj.com/world/middle-east/tiny-bahrain-is-paying-a-big-price-for-its-ties-to-the-u-s-77f0717a
+
+---
+
+<!-- analysis-link:2026-11-24-iran-s-attacks-transmit-bahrain-s-revenue-shock-into-a-contested-gulf-bailout -->
+**Going deeper:** [Read MSI's analysis of Bahrain’s contested Gulf bailout →](/analyses/2026-11-24-iran-s-attacks-transmit-bahrain-s-revenue-shock-into-a-contested-gulf-bailout)

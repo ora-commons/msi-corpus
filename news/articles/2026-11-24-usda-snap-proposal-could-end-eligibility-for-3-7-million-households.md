@@ -206,6 +206,8 @@ related_stories:
   publish_date: '2026-10-25'
   relation: related
   strength: 0.7569
+analyses:
+- '2026-11-24-usda-snap-proposal-would-shift-eligibility-control-from-states-to-federal-limits'
 ---
 ## USDA SNAP proposal could end eligibility for 3.7 million households
 
@@ -258,3 +260,8 @@ MSI [previously reported](/articles/2026-05-02-fact-check-4-3-million-fewer-snap
 **Publication date:** 2026-11-24
 **Title:** Food insecurity could increase in Ohio under proposed rule on SNAP eligibility
 **URL:** https://www.newsfromthestates.com/article/food-insecurity-could-increase-ohio-under-proposed-rule-snap-eligibility
+
+---
+
+<!-- analysis-link:2026-11-24-usda-snap-proposal-would-shift-eligibility-control-from-states-to-federal-limits -->
+**Going deeper:** [Read MSI's analysis of SNAP eligibility and state flexibility →](/analyses/2026-11-24-usda-snap-proposal-would-shift-eligibility-control-from-states-to-federal-limits)

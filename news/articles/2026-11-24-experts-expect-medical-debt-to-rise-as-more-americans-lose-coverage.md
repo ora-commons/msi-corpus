@@ -1,9 +1,19 @@
 ---
 headline: Experts expect medical debt to rise as more Americans lose coverage
-secondary_headline: Insured patients face higher deductibles, coinsurance and prescription costs
+secondary_headline: Insured patients face higher deductibles, coinsurance and prescription
+  costs
 publish_date: '2026-11-24'
-lede: U.S. medical debt is expected to grow as insurance coverage falls and high healthcare costs leave households facing medical bills, experts said. Kathy Hempstead, a senior policy advisor at the Robert Wood Johnson Foundation, said medical debt is increasingly a risk for people who have insurance. Around 2.6 million people lost coverage after enhanced Affordable Care Act premium tax credits expired at the end of 2025, and millions more are expected to lose coverage under Medicaid changes, Hempstead said.
-nut_graf: 'The pressures behind medical debt are converging: coverage losses, higher cost-sharing and stubbornly high inflation are limiting what households can spend on essentials. Research by Johns Hopkins Bloomberg School of Public Health professor Catherine Ettman found that people with medical debt are more likely to defer or forgo care, accrue other debt and later report housing instability.'
+lede: U.S. medical debt is expected to grow as insurance coverage falls and high healthcare
+  costs leave households facing medical bills, experts said. Kathy Hempstead, a senior
+  policy advisor at the Robert Wood Johnson Foundation, said medical debt is increasingly
+  a risk for people who have insurance. Around 2.6 million people lost coverage after
+  enhanced Affordable Care Act premium tax credits expired at the end of 2025, and
+  millions more are expected to lose coverage under Medicaid changes, Hempstead said.
+nut_graf: 'The pressures behind medical debt are converging: coverage losses, higher
+  cost-sharing and stubbornly high inflation are limiting what households can spend
+  on essentials. Research by Johns Hopkins Bloomberg School of Public Health professor
+  Catherine Ettman found that people with medical debt are more likely to defer or
+  forgo care, accrue other debt and later report housing instability.'
 primary_entities:
 - Kathy Hempstead
 - Catherine Ettman
@@ -53,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,19 +163,23 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-24-experts-expect-medical-debt-to-rise-as-more-americans-lose-coverage.png
-  alt: 'Illustration accompanying article: Experts expect medical debt to rise as more Americans lose coverage'
+  alt: 'Illustration accompanying article: Experts expect medical debt to rise as
+    more Americans lose coverage'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-03-medical-debt-relief-grows-as-us-healthcare-costs-remain-unaffordable
   headline: Medical debt relief grows as US healthcare costs remain unaffordable
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7569
+  strength: 0.7571
 - slug: 2026-11-11-democrats-face-rising-costs-for-post-election-social-programs
   headline: Democrats face rising costs for post-election social programs
   publish_date: '2026-11-11'
@@ -174,94 +189,34 @@ related_stories:
   headline: KFF finds family health insurance premiums average $28,000
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7547
+  strength: 0.7553
 - slug: 2026-10-31-healthcare-costs-strain-older-americans-finances-ahead-of-midterm-elections
   headline: Healthcare costs strain older Americans' finances ahead of midterm elections
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.6964
-- slug: 2026-11-01-average-aca-marketplace-premiums-expected-to-rise-13-in-2027
-  headline: Average ACA marketplace premiums expected to rise 13% in 2027
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6881
+  strength: 0.697
 - slug: 2026-10-22-small-business-workers-pay-more-as-employer-health-premiums-climb
   headline: Small-business workers pay more as employer health premiums climb
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.6976
+  strength: 0.6982
 - slug: 2026-10-12-ai-billing-tools-expand-into-growing-us-medical-debt
   headline: AI billing tools expand into growing US medical debt
   publish_date: '2026-10-12'
   relation: related
-  strength: 0.7057
+  strength: 0.7053
 - slug: 2026-10-13-twenty-million-medicaid-enrollees-face-new-work-requirements-starting-january-1
-  headline: Twenty million Medicaid enrollees face new work requirements starting January 1
+  headline: Twenty million Medicaid enrollees face new work requirements starting
+    January 1
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.6921
+  strength: 0.6918
 - slug: 2026-09-14-house-democrats-introduce-bill-to-ban-medical-debt-wage-garnishment
   headline: House Democrats introduce bill to ban medical-debt wage garnishment
   publish_date: '2026-09-14'
   relation: related
-  strength: 0.6959
-- slug: 2026-06-26-aca-enrollment-drops-by-5-million-as-premiums-spike-after-subsidy-expiration
-  headline: ACA enrollment drops by 5 million as premiums spike after subsidy expiration
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7701
-- slug: 2026-07-22-nearly-1-in-4-u-s-workers-stay-in-unwanted-jobs-for-health-insurance
-  headline: Nearly 1 in 4 U.S. workers stay in unwanted jobs for health insurance
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.7381
-- slug: 2026-05-20-aca-enrollment-projected-to-drop-sharply-amid-rising-costs
-  headline: ACA Enrollment Projected to Drop Sharply Amid Rising Costs
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.749
-- slug: 2026-06-18-poll-finds-only-half-of-americans-can-afford-quality-health-care
-  headline: Poll finds only half of Americans can afford quality health care
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7278
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-spike
-  headline: ACA enrollment projected to drop by nearly 5 million as costs spike
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7367
-- slug: 2026-01-01-aca-health-subsidies-expire-leaving-millions-facing-sharply-higher-premiums-in-2
-  headline: ACA health subsidies expire, leaving millions facing sharply higher premiums in 2026
-  publish_date: '2026-01-01'
-  relation: related
-  strength: 0.7495
-- slug: 2026-06-27-aca-enrollment-falls-to-19-2-million-as-premium-subsidies-end
-  headline: ACA enrollment falls to 19.2 million as premium subsidies end
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.7146
-- slug: 2026-01-13-aca-enrollment-falls-by-800-000-as-enhanced-subsidies-expire
-  headline: ACA enrollment falls by 800,000 as enhanced subsidies expire
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.7425
-- slug: 2026-03-21-poll-finds-aca-enrollees-cutting-food-and-skipping-care-as-subsidies-end
-  headline: Poll finds ACA enrollees cutting food and skipping care as subsidies end
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7342
-- slug: 2026-07-01-hr-1-ends-new-york-s-essential-plan-cutting-coverage-for-nearly-500-000
-  headline: HR 1 ends New York's Essential Plan, cutting coverage for nearly 500,000
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6948
-- slug: 2026-05-19-aca-enrollment-projected-to-drop-by-nearly-5-million-as-costs-rise
-  headline: ACA enrollment projected to drop by nearly 5 million as costs rise
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7126
+  strength: 0.696
 ---
-
 ## Experts expect medical debt to rise as more Americans lose coverage
 
 **Subtype:** fact
