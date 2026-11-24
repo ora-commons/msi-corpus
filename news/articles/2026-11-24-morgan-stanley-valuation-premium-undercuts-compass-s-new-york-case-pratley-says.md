@@ -1,9 +1,24 @@
 ---
-headline: Morgan Stanley valuation premium undercuts Compass's New York case, Pratley says
-secondary_headline: Shell, BP and other FTSE 100 multinationals draw Pratley's flight-risk warning
+headline: Morgan Stanley valuation premium undercuts Compass's New York case, Pratley
+  says
+secondary_headline: Shell, BP and other FTSE 100 multinationals draw Pratley's flight-risk
+  warning
 publish_date: '2026-11-24'
-lede: 'A Morgan Stanley analyst calculated that Compass Group traded at a valuation premium to its closest US peer Aramark and to Sodexo in Europe for most of the last decade. Nils Pratley said the calculation undercut a standard rationale for moving a primary listing: companies invoke a discount to competitors. In his November 24 finance column, Pratley called Compass''s competitive case for a New York listing marginal at best. He named Shell, BP, British American Tobacco, Diageo, Relx, Experian, Smith & Nephew and LSEG as possible flight-risk candidates and highlighted the London Stock Exchange''s inability to change the 0.5% stamp duty on share purchases.'
-nut_graf: 'Compass''s case matters because the world''s biggest contract caterer calls a New York primary listing a “natural evolution” of its North American business, while Pratley argues that US expansion does not require a US listing and could encourage other multinationals to follow. The wider policy dispute concerns the 0.5% stamp duty on share purchases: Pratley said listing changes such as AstraZeneca''s were set to take chunks from the government''s £3bn-a-year receipts; he also said Chancellor John Healey offered only yet another “under review” message in his budget.'
+lede: 'A Morgan Stanley analyst calculated that Compass Group traded at a valuation
+  premium to its closest US peer Aramark and to Sodexo in Europe for most of the last
+  decade. Nils Pratley said the calculation undercut a standard rationale for moving
+  a primary listing: companies invoke a discount to competitors. In his November 24
+  finance column, Pratley called Compass''s competitive case for a New York listing
+  marginal at best. He named Shell, BP, British American Tobacco, Diageo, Relx, Experian,
+  Smith & Nephew and LSEG as possible flight-risk candidates and highlighted the London
+  Stock Exchange''s inability to change the 0.5% stamp duty on share purchases.'
+nut_graf: 'Compass''s case matters because the world''s biggest contract caterer calls
+  a New York primary listing a “natural evolution” of its North American business,
+  while Pratley argues that US expansion does not require a US listing and could encourage
+  other multinationals to follow. The wider policy dispute concerns the 0.5% stamp
+  duty on share purchases: Pratley said listing changes such as AstraZeneca''s were
+  set to take chunks from the government''s £3bn-a-year receipts; he also said Chancellor
+  John Healey offered only yet another “under review” message in his budget.'
 primary_entities:
 - Compass Group
 - Morgan Stanley
@@ -61,7 +76,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -163,104 +179,23 @@ related_stories:
   headline: Compass Group plans to move its primary stock listing to the US
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.786
+  strength: 0.7846
 - slug: 2026-11-23-compass-makes-about-three-quarters-of-last-year-s-profit-in-north-america
   headline: Compass makes about three-quarters of last year's profit in North America
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7818
+  strength: 0.7805
 - slug: 2026-11-24-compass-proposes-u-s-primary-listing-while-retaining-u-k-secondary-listing
   headline: Compass proposes U.S. primary listing while retaining U.K. secondary listing
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7697
-- slug: 2026-11-19-states-add-safeguards-for-private-home-listings-amid-real-estate-consolidation
-  headline: States add safeguards for private home listings amid real estate consolidation
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.6136
-- slug: 2026-10-27-broadcom-ceo-accepts-higher-rates-guarantees-for-anthropic-chip-financing
-  headline: Broadcom CEO accepts higher rates, guarantees for Anthropic chip financing
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.6137
-- slug: 2026-10-23-american-express-profit-rises-28-while-planning-5-workforce-cut
-  headline: American Express retains nearly all customers moved to higher-fee Platinum card
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6116
-- slug: 2026-10-16-rbc-downgrades-lloyds-msci-weighs-indonesia-shift-analysts-revisit-treasury
-  headline: RBC downgrades Lloyds, MSCI weighs Indonesia shift, analysts revisit Treasury
-  publish_date: '2026-10-16'
-  relation: related
-  strength: 0.6157
-- slug: 2026-10-12-saba-capital-seeks-three-board-seats-at-baillie-gifford-us-growth-trust
-  headline: Saba Capital seeks three board seats at Baillie Gifford US Growth Trust
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.62
-- slug: 2026-10-14-morgan-stanley-raises-brent-forecast-as-bp-posts-strong-q3-update
-  headline: Morgan Stanley raises Brent forecast as BP posts strong Q3 update
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.612
-- slug: 2026-10-09-eu-regulators-question-mmg-anglo-american-deal-over-china-supply-concerns
-  headline: EU regulators question MMG–Anglo American deal over China supply concerns
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.6089
-- slug: 2026-10-07-lse-chief-dame-julia-hoggett-urges-uk-to-stem-listings-exodus
-  headline: LSE chief Dame Julia Hoggett urges UK to stem listings exodus
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6139
-- slug: 2026-09-30-demos-29-of-q3-ipos-price-below-range-almost-double-prior-four-quarter-high
-  headline: 'Demos: 29% of Q3 IPOs price below range, almost double prior four-quarter high'
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6241
-- slug: 2026-09-25-near-premium-credit-cards-draw-younger-consumers-as-top-fees-reach-895
-  headline: Near-premium credit cards draw younger consumers as top fees reach $895
-  publish_date: '2026-09-25'
-  relation: related
-  strength: 0.6229
-- slug: 2026-09-14-morgan-stanley-weighs-vw-plan-oil-climbs-on-middle-east-tensions
-  headline: Morgan Stanley weighs VW plan; oil climbs on Middle East tensions
-  publish_date: '2026-09-14'
-  relation: related
-  strength: 0.632
+  strength: 0.7694
 - slug: 2026-08-10-lse-deputy-ceo-says-capital-is-key-to-reviving-london-s-public-markets
   headline: LSE deputy CEO says capital is key to reviving London's public markets
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.6565
-- slug: 2026-07-07-easyjet-board-backs-castlelake-s-6-90-share-takeover-bid
-  headline: easyJet board backs Castlelake's £6.90/share takeover bid
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6351
-- slug: 2026-07-21-gm-invests-1-5-billion-to-onshore-production-scale-defense-unit
-  headline: GM invests $1.5 billion to onshore production, scale defense unit
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6211
-- slug: 2026-06-30-comcast-shares-rise-7-on-plan-to-spin-off-nbcuniversal
-  headline: Comcast shares rise 7% on plan to spin off NBCUniversal
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6333
-- slug: 2026-07-14-vail-ceo-pivots-to-guest-experience-focus-as-epic-pass-growth-stalls
-  headline: Vail CEO pivots to guest-experience focus as Epic pass growth stalls
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6088
-- slug: 2026-06-02-index-providers-fast-track-mega-ipos-as-spacex-anthropic-go-public
-  headline: Index providers fast-track mega IPOs as SpaceX, Anthropic go public
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6291
+  strength: 0.6576
 ---
-
 ## Morgan Stanley valuation premium undercuts Compass's New York case, Pratley says
 
 **Subtype:** fact

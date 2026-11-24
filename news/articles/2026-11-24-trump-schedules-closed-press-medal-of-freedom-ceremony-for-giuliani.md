@@ -2,8 +2,14 @@
 headline: Trump schedules closed-press Medal of Freedom ceremony for Giuliani
 secondary_headline: Giuliani lost his law license after promoting Trump's false claims
 publish_date: '2026-11-24'
-lede: Donald Trump is expected to present Rudy Giuliani with the Presidential Medal of Freedom on Tuesday morning in a closed-press ceremony, according to The Guardian. Giuliani, Trump's former personal attorney, said on Monday that the president would give him the award, which Trump had announced more than a year earlier.
-nut_graf: The Presidential Medal of Freedom is one of the United States' highest civilian honors, while the scheduled presentation will remain closed to media. The award comes after Giuliani lost his law license, settled defamation suits and saw state election-related charges dismissed.
+lede: Donald Trump is expected to present Rudy Giuliani with the Presidential Medal
+  of Freedom on Tuesday morning in a closed-press ceremony, according to The Guardian.
+  Giuliani, Trump's former personal attorney, said on Monday that the president would
+  give him the award, which Trump had announced more than a year earlier.
+nut_graf: The Presidential Medal of Freedom is one of the United States' highest civilian
+  honors, while the scheduled presentation will remain closed to media. The award
+  comes after Giuliani lost his law license, settled defamation suits and saw state
+  election-related charges dismissed.
 primary_entities:
 - Donald Trump
 - Rudy Giuliani
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +151,45 @@ related_stories:
   headline: Trump to award Medal of Freedom to former New York Mayor Giuliani
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8519
+  strength: 0.8527
 - slug: 2026-11-24-rudy-giuliani-shares-medal-of-freedom-credit-with-others
   headline: Rudy Giuliani shares Medal of Freedom credit with others
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8414
+  strength: 0.842
 - slug: 2026-11-23-trump-to-speak-in-justice-department-s-great-hall-on-monday
   headline: Trump to speak in Justice Department's Great Hall on Monday
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.6769
-- slug: 2026-11-23-trump-to-address-newsom-s-clemency-decision-at-justice-department
-  headline: Trump to address Newsom's clemency decision at Justice Department
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.6322
+  strength: 0.6767
 - slug: 2026-11-05-trump-s-lawyers-challenge-hush-money-conviction-before-new-york-appeals-court
-  headline: Trump's lawyers challenge hush money conviction before New York appeals court
+  headline: Trump's lawyers challenge hush money conviction before New York appeals
+    court
   publish_date: '2026-11-05'
   relation: related
   strength: 0.6641
-- slug: 2026-11-05-trump-s-unconditional-discharge-leaves-felony-intact-as-appeals-proceed
-  headline: Trump's unconditional discharge leaves felony intact as appeals proceed
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.646
-- slug: 2026-11-05-guardian-us-editor-says-midterm-voters-delivered-a-check-on-trump-s-power
-  headline: Guardian US editor says midterm voters delivered a check on Trump's power
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6312
-- slug: 2026-11-02-trump-plans-lincoln-memorial-speech-as-senate-races-reach-the-wire
-  headline: Trump plans Lincoln Memorial speech as Senate races reach the wire
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6409
-- slug: 2026-09-22-trump-tells-un-he-has-made-peace-renews-threats-against-iran
-  headline: Trump tells UN he has 'made peace,' renews threats against Iran
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.641
-- slug: 2026-09-22-trump-makes-first-presidential-visit-to-gracie-mansion-in-45-years
-  headline: Trump makes first presidential visit to Gracie Mansion in 45 years
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6362
-- slug: 2026-09-22-trump-prepares-un-address-as-approval-sits-below-40
-  headline: Trump prepares UN address as approval sits below 40%
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6305
-- slug: 2026-09-22-wednesday-hearing-set-in-press-lawsuit-as-gop-allies-urge-trump-to-focus-on-vote
-  headline: Wednesday hearing set in press lawsuit as GOP allies urge Trump to focus on voters
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6298
-- slug: 2026-09-21-trump-and-mamdani-hold-third-sit-down-at-gracie-mansion
-  headline: Trump and Mamdani hold third sit-down at Gracie Mansion
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6307
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6485
-- slug: 2026-09-20-trump-to-meet-mamdani-at-gracie-mansion-on-monday
-  headline: Trump to meet Mamdani at Gracie Mansion on Monday
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6247
-- slug: 2026-09-07-mamdani-to-attend-9-11-ceremony-giuliani-said-he-should-skip
-  headline: Mamdani to attend 9/11 ceremony; Giuliani said he should skip
-  publish_date: '2026-09-07'
-  relation: related
-  strength: 0.6496
-- slug: 2026-09-10-empty-seats-and-instant-ticket-approvals-mark-gop-midterm-convention
-  headline: Empty seats and instant ticket approvals mark GOP midterm convention
-  publish_date: '2026-09-10'
-  relation: related
-  strength: 0.6318
 - slug: 2026-05-14-former-nyc-mayor-giuliani-returns-to-radio-show-after-viral-pneumonia
   headline: Former NYC Mayor Giuliani returns to radio show after viral pneumonia
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7158
+  strength: 0.7157
 - slug: 2026-05-14-giuliani-returns-to-his-show-after-viral-pneumonia-hospitalization
   headline: Giuliani returns to his show after viral pneumonia hospitalization
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6931
+  strength: 0.6929
 - slug: 2026-05-04-rudy-giuliani-hospitalized-in-critical-but-stable-condition-spokesman-says
-  headline: Rudy Giuliani hospitalized in critical but stable condition, spokesman says
+  headline: Rudy Giuliani hospitalized in critical but stable condition, spokesman
+    says
   publish_date: '2026-05-04'
   relation: related
-  strength: 0.6722
+  strength: 0.6721
+- slug: 2026-05-05-rudy-giuliani-breathing-on-his-own-after-pneumonia-hospitalization
+  headline: Rudy Giuliani breathing on his own after pneumonia hospitalization
+  publish_date: '2026-05-05'
+  relation: related
+  strength: 0.6608
 ---
-
 ## Trump schedules closed-press Medal of Freedom ceremony for Giuliani
 
 **Subtype:** fact

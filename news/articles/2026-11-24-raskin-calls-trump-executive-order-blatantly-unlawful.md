@@ -62,7 +62,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -261,3 +261,10 @@ Juul Labs said it was reviewing its letter closely. “As always, we intend to c
 **Publication date:** 2026-11-24
 **Title:** Democrat expands probe into Donald Trump Jr.'s 1789 Capital
 **URL:** https://apnews.com/article/us-congress-donald-trump-jr-1789-investigation-f51c0cd43c57326ab8540ac661dca2ac
+
+### src_late_50821645de4c376e — Associated Press, wire, Tier 1, originating
+**Author:** Ali Swenson, Associated Press
+**Publication date:** 2026-11-24
+**Title:** Rep. Raskin expands investigation into Donald Trump Jr.'s investment firm
+**URL:** https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm
+**Added after publication:** true

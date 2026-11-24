@@ -40,7 +40,8 @@ primary_themes:
 - midterm elections
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- 2026-midterm-elections
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -183,6 +184,7 @@ related_stories:
   relation: related
   strength: 0.7528
 ---
+
 ## Democrats clinch 258-seat House majority, largest since 1992
 
 **Subtype:** fact

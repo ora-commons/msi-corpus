@@ -35,7 +35,8 @@ topic_tags:
 - politics
 - government
 - demographics
-storyline_nexus: []
+storyline_nexus:
+- 2026-midterm-elections
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -211,6 +212,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Democrats surpass 250 House seats as Republicans turn to the 2028 race
 
 **Subtype:** fact

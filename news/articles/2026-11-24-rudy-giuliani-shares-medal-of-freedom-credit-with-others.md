@@ -1,9 +1,18 @@
 ---
 headline: Rudy Giuliani shares Medal of Freedom credit with others
-secondary_headline: Giuliani credits people who worked with, disagreed with and loved him
+secondary_headline: Giuliani credits people who worked with, disagreed with and loved
+  him
 publish_date: '2026-11-24'
-lede: Rudy Giuliani said in a statement that he was honored by President Donald Trump's Medal of Freedom award. "I share the credit with all the men and women who worked with me, disagreed with me, and loved me — particularly those who lost their lives in the causes we undertook together," he said. Trump will award the nation's highest civilian honor to the former New York mayor on Tuesday.
-nut_graf: Giuliani said in a statement that he was honored and shared credit with the men and women who worked with him, disagreed with him and loved him, particularly those who lost their lives in their shared causes. Trump will award the Medal of Freedom for Giuliani's leadership of New York after Sept. 11; the award follows court sanctions and disbarment over repeated false statements about the 2020 election.
+lede: Rudy Giuliani said in a statement that he was honored by President Donald Trump's
+  Medal of Freedom award. "I share the credit with all the men and women who worked
+  with me, disagreed with me, and loved me — particularly those who lost their lives
+  in the causes we undertook together," he said. Trump will award the nation's highest
+  civilian honor to the former New York mayor on Tuesday.
+nut_graf: Giuliani said in a statement that he was honored and shared credit with
+  the men and women who worked with him, disagreed with him and loved him, particularly
+  those who lost their lives in their shared causes. Trump will award the Medal of
+  Freedom for Giuliani's leadership of New York after Sept. 11; the award follows
+  court sanctions and disbarment over repeated false statements about the 2020 election.
 primary_entities:
 - Donald Trump
 - Rudy Giuliani
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +150,39 @@ related_stories:
   headline: Trump to award Medal of Freedom to former New York Mayor Giuliani
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.9132
-- slug: 2026-11-23-trump-to-speak-in-justice-department-s-great-hall-on-monday
-  headline: Trump to speak in Justice Department's Great Hall on Monday
-  publish_date: '2026-11-23'
+  strength: 0.9135
+- slug: 2026-11-24-trump-schedules-closed-press-medal-of-freedom-ceremony-for-giuliani
+  headline: Trump schedules closed-press Medal of Freedom ceremony for Giuliani
+  publish_date: '2026-11-24'
   relation: related
-  strength: 0.6046
-- slug: 2026-11-23-trump-to-address-newsom-s-clemency-decision-at-justice-department
-  headline: Trump to address Newsom's clemency decision at Justice Department
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.5885
-- slug: 2026-11-05-trump-s-lawyers-challenge-hush-money-conviction-before-new-york-appeals-court
-  headline: Trump's lawyers challenge hush money conviction before New York appeals court
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6352
-- slug: 2026-11-05-trump-s-unconditional-discharge-leaves-felony-intact-as-appeals-proceed
-  headline: Trump's unconditional discharge leaves felony intact as appeals proceed
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5965
-- slug: 2026-11-05-guardian-us-editor-says-midterm-voters-delivered-a-check-on-trump-s-power
-  headline: Guardian US editor says midterm voters delivered a check on Trump's power
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5874
-- slug: 2026-11-01-james-rosen-argues-for-limits-on-presidential-pardon-power
-  headline: James Rosen argues for limits on presidential pardon power
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.5904
-- slug: 2026-10-27-trump-calls-james-comey-a-dirty-cop-and-says-he-just-heard-of-charges
-  headline: Trump calls James Comey a 'dirty cop' and says he just heard of charges
-  publish_date: '2026-10-27'
-  relation: related
-  strength: 0.5997
-- slug: 2026-10-08-trump-awards-national-medals-to-six-tech-executives-including-musk
-  headline: Trump awards National Medals to six tech executives, including Musk
-  publish_date: '2026-10-08'
-  relation: related
-  strength: 0.5946
+  strength: 0.8501
 - slug: 2026-09-07-mamdani-to-attend-9-11-ceremony-giuliani-said-he-should-skip
   headline: Mamdani to attend 9/11 ceremony; Giuliani said he should skip
   publish_date: '2026-09-07'
   relation: related
-  strength: 0.6625
-- slug: 2026-09-21-trump-and-mamdani-hold-third-sit-down-at-gracie-mansion
-  headline: Trump and Mamdani hold third sit-down at Gracie Mansion
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6237
-- slug: 2026-10-03-trump-reiterates-5-000-voter-pledge-with-1929-depression-warning
-  headline: Trump reiterates $5,000 voter pledge with 1929 depression warning
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.5897
-- slug: 2026-09-22-trump-makes-first-presidential-visit-to-gracie-mansion-in-45-years
-  headline: Trump makes first presidential visit to Gracie Mansion in 45 years
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.6004
-- slug: 2026-09-20-trump-to-meet-mamdani-at-gracie-mansion-on-monday
-  headline: Trump to meet Mamdani at Gracie Mansion on Monday
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6025
+  strength: 0.6624
 - slug: 2026-05-14-former-nyc-mayor-giuliani-returns-to-radio-show-after-viral-pneumonia
   headline: Former NYC Mayor Giuliani returns to radio show after viral pneumonia
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7193
+  strength: 0.7194
 - slug: 2026-05-14-giuliani-returns-to-his-show-after-viral-pneumonia-hospitalization
   headline: Giuliani returns to his show after viral pneumonia hospitalization
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7187
-- slug: 2026-09-09-guardian-lists-six-trump-9-11-claims-it-says-lack-supporting-evidence
-  headline: Guardian lists six Trump 9/11 claims it says lack supporting evidence
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6102
-- slug: 2026-09-11-trump-closes-gop-midterm-convention-with-personal-vote-pledge
-  headline: Trump closes GOP midterm convention with personal vote pledge
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5886
+  strength: 0.7191
 - slug: 2026-05-04-rudy-giuliani-hospitalized-in-critical-but-stable-condition-spokesman-says
-  headline: Rudy Giuliani hospitalized in critical but stable condition, spokesman says
+  headline: Rudy Giuliani hospitalized in critical but stable condition, spokesman
+    says
   publish_date: '2026-05-04'
   relation: related
-  strength: 0.6972
+  strength: 0.6974
 - slug: 2026-05-05-rudy-giuliani-breathing-on-his-own-after-pneumonia-hospitalization
   headline: Rudy Giuliani breathing on his own after pneumonia hospitalization
   publish_date: '2026-05-05'
   relation: related
-  strength: 0.6745
+  strength: 0.6748
 ---
-
 ## Rudy Giuliani shares Medal of Freedom credit with others
 
 **Subtype:** fact
