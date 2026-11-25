@@ -62,7 +62,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -238,3 +238,10 @@ No additional information about the nine children was made available. The latest
 **Publication date:** 2026-11-25
 **Title:** Melania Trump reunites more Ukrainian and Russian children with families
 **URL:** https://apnews.com/article/melania-trump-ukraine-russia-children-4fa1ae5512f4fb71dc36478b0f44514e
+
+### src_late_ba44c578dff9ef74 — Associated Press, wire, Tier 1, originating
+**Author:** Darlene Superville, Associated Press
+**Publication date:** 2026-11-25
+**Title:** Melania Trump reunites her seventh group of Ukrainian and Russian children with their families
+**URL:** https://www.pbs.org/newshour/world/melania-trump-reunites-her-seventh-group-of-ukrainian-and-russian-children-with-their-families
+**Added after publication:** true
