@@ -217,6 +217,8 @@ related_stories:
   publish_date: '2026-11-20'
   relation: related
   strength: 0.8641
+analyses:
+- '2026-11-24-army-s-iowa-detonation-concentrates-risk-in-three-load-bearing-joints'
 ---
 ## Army reschedules Iowa lead azide detonation citing winds, extra safety steps
 
@@ -279,3 +281,8 @@ Montoya Bryan reported from Albuquerque, New Mexico. Associated Press writers Ko
 **Publication date:** 2026-11-24
 **Title:** Army cites favorable weather for new date of detonation of lead azide material in Iowa
 **URL:** https://apnews.com/article/lead-azide-detonation-army-iowa-trump-83f1492cc5c3e358557f1170ea2a2d40
+
+---
+
+<!-- analysis-link:2026-11-24-army-s-iowa-detonation-concentrates-risk-in-three-load-bearing-joints -->
+**Going deeper:** [Read MSI's analysis of Iowa’s lead-azide detonation safeguards →](/analyses/2026-11-24-army-s-iowa-detonation-concentrates-risk-in-three-load-bearing-joints)

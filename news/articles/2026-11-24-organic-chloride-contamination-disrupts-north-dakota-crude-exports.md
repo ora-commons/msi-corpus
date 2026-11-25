@@ -158,6 +158,8 @@ related_stories:
   publish_date: '2026-05-21'
   relation: related
   strength: 0.6685
+analyses:
+- '2026-11-24-testing-backlog-turns-contamination-into-north-dakota-production-losses'
 ---
 ## Organic chloride contamination disrupts North Dakota crude exports
 
@@ -205,3 +207,8 @@ The issue has not affected the refinery in Mandan or other retail products sold 
 **Publication date:** 2026-11-24
 **Title:** North Dakota oil contamination poses challenges that could ‘cascade,’ regulators say
 **URL:** https://www.newsfromthestates.com/article/north-dakota-oil-contamination-poses-challenges-could-cascade-regulators-say
+
+---
+
+<!-- analysis-link:2026-11-24-testing-backlog-turns-contamination-into-north-dakota-production-losses -->
+**Going deeper:** [Read MSI's analysis of North Dakota's testing bottleneck cascade →](/analyses/2026-11-24-testing-backlog-turns-contamination-into-north-dakota-production-losses)
