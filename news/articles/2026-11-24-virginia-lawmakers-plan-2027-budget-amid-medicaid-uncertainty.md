@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-07-01'
   relation: related
   strength: 0.6653
+analyses:
+- '2026-11-24-congress-s-medicaid-rules-set-virginia-s-two-year-budget-arithmetic'
 ---
 ## Virginia lawmakers plan 2027 budget amid Medicaid uncertainty
 
@@ -237,3 +239,8 @@ Virginia has invested $150 million in a state-level substitute for the ACA subsi
 **Publication date:** 2026-11-24
 **Title:** What’s on the horizon for Virginia’s healthcare landscape in 2027?
 **URL:** https://www.newsfromthestates.com/article/whats-horizon-virginias-healthcare-landscape-2027
+
+---
+
+<!-- analysis-link:2026-11-24-congress-s-medicaid-rules-set-virginia-s-two-year-budget-arithmetic -->
+**Going deeper:** [Read MSI's analysis of Virginia's Medicaid budget arithmetic →](/analyses/2026-11-24-congress-s-medicaid-rules-set-virginia-s-two-year-budget-arithmetic)

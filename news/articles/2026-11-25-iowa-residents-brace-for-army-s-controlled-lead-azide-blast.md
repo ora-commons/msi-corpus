@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-11-22'
   relation: related
   strength: 0.8637
+analyses:
+- '2026-11-25-army-detonation-shifts-the-dispute-from-barrels-to-farmland-with-no-named-tester'
 ---
 ## Iowa residents brace for Army's controlled lead azide blast
 
@@ -267,3 +269,8 @@ For context, [MSI previously reported that Iowa communities were preparing for T
 **Publication date:** 2026-11-25
 **Title:** 'This could be apocalyptic' - Iowans hunker down for controlled blast of explosives stockpile
 **URL:** https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo
+
+---
+
+<!-- analysis-link:2026-11-25-army-detonation-shifts-the-dispute-from-barrels-to-farmland-with-no-named-tester -->
+**Going deeper:** [Read MSI's analysis of the Iowa lead azide blast decision →](/analyses/2026-11-25-army-detonation-shifts-the-dispute-from-barrels-to-farmland-with-no-named-tester)

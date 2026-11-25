@@ -212,6 +212,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-23-trump-s-detonation-halt-couples-court-deference-with-warning-to-rob-sand'
 ---
 ## Trump orders Army to await agreement from 8th Circuit and Rob Sand
 
@@ -270,3 +272,8 @@ Trump's order places the Army on hold after it sought emergency provisions to de
 **Title:** Trump says Army will not detonate bomb-making chemicals in Iowa without court approval
 **URL:** https://www.pbs.org/newshour/nation/trump-says-army-will-not-detonate-bomb-making-chemicals-in-iowa-without-court-approval
 **Added after publication:** true
+
+---
+
+<!-- analysis-link:2026-11-23-trump-s-detonation-halt-couples-court-deference-with-warning-to-rob-sand -->
+**Going deeper:** [Read MSI's analysis of Trump's Iowa detonation statement →](/analyses/2026-11-23-trump-s-detonation-halt-couples-court-deference-with-warning-to-rob-sand)
