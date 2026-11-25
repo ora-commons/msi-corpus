@@ -1,9 +1,19 @@
 ---
-headline: Waves destroy part of Pacifica pier closed since summer as king tides flood Bay Area homes
-secondary_headline: Marin County issues Stinson Beach warning; Humboldt County orders evacuations
+headline: Waves destroy part of Pacifica pier closed since summer as king tides flood
+  Bay Area homes
+secondary_headline: Marin County issues Stinson Beach warning; Humboldt County orders
+  evacuations
 publish_date: '2026-11-25'
-lede: King tides and powerful waves destroyed part of a pier in Pacifica, California, on Wednesday, and officials warned that more beachfront homes were at risk of flooding. A video showed a wave tearing down the pier section and slamming it into the ocean. Flooding also reached communities around San Francisco Bay, while Marin County and Humboldt County issued evacuation warnings or orders.
-nut_graf: The flooding and surf reached beyond the damaged pier. The National Weather Service warned of coastal flooding and breaking waves of 20 to 30 feet in the Bay Area, while Marin County officials issued an evacuation warning for Stinson Beach beachfront residents and the Humboldt County sheriff's office ordered evacuations in a small coastal community near the Oregon border.
+lede: King tides and powerful waves destroyed part of a pier in Pacifica, California,
+  on Wednesday, and officials warned that more beachfront homes were at risk of flooding.
+  A video showed a wave tearing down the pier section and slamming it into the ocean.
+  Flooding also reached communities around San Francisco Bay, while Marin County and
+  Humboldt County issued evacuation warnings or orders.
+nut_graf: The flooding and surf reached beyond the damaged pier. The National Weather
+  Service warned of coastal flooding and breaking waves of 20 to 30 feet in the Bay
+  Area, while Marin County officials issued an evacuation warning for Stinson Beach
+  beachfront residents and the Humboldt County sheriff's office ordered evacuations
+  in a small coastal community near the Oregon border.
 primary_entities:
 - Pacifica
 - California
@@ -50,7 +60,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,113 +163,58 @@ related_stories:
   headline: King tides raise flood risk across the Pacific Coast and Florida
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7899
+  strength: 0.7919
 - slug: 2026-11-16-large-waves-close-california-piers-and-prompt-evacuation-warning
   headline: Large waves close California piers and prompt evacuation warning
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.8052
+  strength: 0.8051
 - slug: 2026-11-15-large-waves-close-california-piers-and-flood-coastal-streets
   headline: Large waves close California piers and flood coastal streets
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7814
+  strength: 0.7813
 - slug: 2026-11-20-california-coastal-communities-face-warnings-as-waves-exceed-30-feet
   headline: California coastal communities face warnings as waves exceed 30 feet
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.7377
+  strength: 0.7388
 - slug: 2026-11-19-atmospheric-river-breaks-san-francisco-rain-record-floods-california-roads
-  headline: Atmospheric river breaks San Francisco rain record, floods California roads
+  headline: Atmospheric river breaks San Francisco rain record, floods California
+    roads
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.735
+  strength: 0.7373
 - slug: 2026-11-24-california-king-tides-could-be-biggest-in-four-decades-forecasters-warn
   headline: California king tides could be biggest in four decades, forecasters warn
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.6808
+  strength: 0.6826
 - slug: 2026-11-16-forecasters-warn-towering-waves-and-storms-could-overwhelm-california-coast
-  headline: Forecasters warn towering waves and storms could overwhelm California coast
+  headline: Forecasters warn towering waves and storms could overwhelm California
+    coast
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7176
+  strength: 0.718
 - slug: 2026-11-18-atmospheric-river-brings-heavy-rain-snow-and-flood-risk-to-california
   headline: Atmospheric river brings heavy rain, snow and flood risk to California
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.6914
-- slug: 2026-11-21-san-francisco-braces-for-unprecedented-tides-as-florida-floods-persist
-  headline: San Francisco braces for unprecedented tides as Florida floods persist
-  publish_date: '2026-11-21'
-  relation: related
-  strength: 0.6607
-- slug: 2026-11-18-two-waterspouts-form-over-san-francisco-bay
-  headline: Two waterspouts form over San Francisco Bay
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6619
-- slug: 2026-10-28-king-tides-flood-coastal-communities-in-california-florida-and-the-carolinas
-  headline: King tides flood coastal communities in California, Florida and the Carolinas
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.743
-- slug: 2026-10-28-historic-high-tides-flood-california-communities-and-disrupt-transportation
-  headline: Historic high tides flood California communities and disrupt transportation
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.729
-- slug: 2026-10-26-san-pedro-gauge-records-preliminary-8-02-foot-reading-amid-coastal-flooding-risk
-  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding risk
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.727
-- slug: 2026-10-13-waves-destroy-long-beach-boardwalk-and-leave-nine-homes-unsafe
-  headline: Waves destroy Long Beach boardwalk and leave nine homes unsafe
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.7078
-- slug: 2026-10-15-santa-ana-winds-raise-california-wildfire-risk-through-saturday
-  headline: Santa Ana winds raise California wildfire risk through Saturday
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.682
-- slug: 2026-09-30-california-prepares-for-kelvin-wave-set-to-raise-sea-levels-a-foot
-  headline: California prepares for Kelvin wave set to raise sea levels a foot
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6917
-- slug: 2026-09-29-hurricane-polo-makes-landfall-on-baja-california-coast-with-110-mph-winds
-  headline: Hurricane Polo makes landfall on Baja California coast with 110 mph winds
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.6591
-- slug: 2026-09-06-hurricane-marie-generates-life-threatening-surf-at-southern-california-beaches
-  headline: Hurricane Marie generates life-threatening surf at southern California beaches
-  publish_date: '2026-09-06'
-  relation: related
-  strength: 0.6742
-- slug: 2026-06-15-king-tides-kill-two-along-california-coast-advisories-issued
-  headline: King tides kill two along California coast, advisories issued
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7577
-- slug: 2026-08-30-hurricane-karina-strengthens-in-pacific-expected-to-remain-at-sea
-  headline: Hurricane Karina strengthens in Pacific, expected to remain at sea
-  publish_date: '2026-08-30'
-  relation: related
-  strength: 0.6623
+  strength: 0.6934
 image:
   url: /articles/2026-11-25-waves-destroy-part-of-pacifica-pier-closed-since-summer-as-king-tides-flood-bay-.png
-  alt: "Illustration accompanying article: Waves destroy part of Pacifica pier closed since summer as king tides flood Bay Area homes"
+  alt: 'Illustration accompanying article: Waves destroy part of Pacifica pier closed
+    since summer as king tides flood Bay Area homes'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Waves destroy part of Pacifica pier closed since summer as king tides flood Bay Area homes
 
 **Subtype:** fact

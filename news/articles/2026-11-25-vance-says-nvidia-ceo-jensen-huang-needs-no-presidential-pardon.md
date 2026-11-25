@@ -1,9 +1,18 @@
 ---
 headline: Vance says Nvidia CEO Jensen Huang needs no presidential pardon
-secondary_headline: Huang's Dec. 1 closed-door interview precedes his Dec. 3 public hearing
+secondary_headline: Huang's Dec. 1 closed-door interview precedes his Dec. 3 public
+  hearing
 publish_date: '2026-11-25'
-lede: Vice President JD Vance said Wednesday that Nvidia CEO Jensen Huang does not need a presidential pardon and that Justice Department and national security officials had confirmed Huang was under no investigation. Vance spoke at Wright-Patterson Air Force Base, Ohio, after a Thanksgiving Eve meal with troops, days before Huang is due before Congress.
-nut_graf: The comments come days before Huang's scheduled congressional appearances, as Nvidia faces scrutiny over its board's reversal and the White House's relationship with the AI executive. The case also centers on intelligence concerns involving Alice Huang, while Beijing denies U.S. suspicions that she worked with China's Ministry of State Security.
+lede: Vice President JD Vance said Wednesday that Nvidia CEO Jensen Huang does not
+  need a presidential pardon and that Justice Department and national security officials
+  had confirmed Huang was under no investigation. Vance spoke at Wright-Patterson
+  Air Force Base, Ohio, after a Thanksgiving Eve meal with troops, days before Huang
+  is due before Congress.
+nut_graf: The comments come days before Huang's scheduled congressional appearances,
+  as Nvidia faces scrutiny over its board's reversal and the White House's relationship
+  with the AI executive. The case also centers on intelligence concerns involving
+  Alice Huang, while Beijing denies U.S. suspicions that she worked with China's Ministry
+  of State Security.
 primary_entities:
 - Jensen Huang
 - JD Vance
@@ -50,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,104 +162,44 @@ related_stories:
   headline: Trump says he is open to pardoning Nvidia's Huang, who faces no charges
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.8391
+  strength: 0.8395
 - slug: 2026-11-25-trump-says-pardon-remains-an-option-for-nvidia-s-jensen-huang
   headline: Trump says pardon remains an option for Nvidia's Jensen Huang
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.8203
+  strength: 0.8212
 - slug: 2026-11-23-vance-helps-persuade-nvidia-s-board-to-reinstate-jensen-huang
   headline: Vance helps persuade Nvidia's board to reinstate Jensen Huang
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8235
+  strength: 0.8239
 - slug: 2026-11-25-nvidia-ceo-jensen-huang-set-for-house-hearing-after-fitzpatrick-requests-fbi-cia
-  headline: Nvidia CEO Jensen Huang set for House hearing after Fitzpatrick requests FBI, CIA briefings
+  headline: Nvidia CEO Jensen Huang set for House hearing after Fitzpatrick requests
+    FBI, CIA briefings
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.8053
+  strength: 0.8065
 - slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-amid-bipartisan-congressional-backlash
   headline: Nvidia board reinstates Jensen Huang amid bipartisan congressional backlash
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8131
+  strength: 0.8132
 - slug: 2026-11-23-congress-questions-nvidia-after-jensen-huang-s-reinstatement
   headline: Congress questions Nvidia after Jensen Huang's reinstatement
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8118
+  strength: 0.8117
 - slug: 2026-11-24-republican-senators-say-they-won-t-pull-punches-at-jensen-huang-s-hearing
   headline: Republican senators say they won't pull punches at Jensen Huang's hearing
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8016
-- slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8077
+  strength: 0.8019
 - slug: 2026-11-25-u-s-officials-report-no-evidence-china-directed-alice-huang-to-spy
   headline: U.S. officials report no evidence China directed Alice Huang to spy
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.7926
-- slug: 2026-11-24-jensen-huang-apologizes-to-nvidia-staff-and-says-he-is-in-therapy
-  headline: Jensen Huang apologizes to Nvidia staff and says he is in therapy
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.798
-- slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-after-rejecting-his-return-offer
-  headline: Nvidia board reinstates Jensen Huang after rejecting his return offer
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8041
-- slug: 2026-11-23-trump-says-blanche-government-holds-no-evidence-of-huang-s-unlawful-conduct
-  headline: 'Trump says Blanche: government holds no evidence of Huang’s unlawful conduct'
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7974
-- slug: 2026-11-23-huang-s-nvidia-comeback-bid-drew-a-petition-an-fbi-remark-and-trump-s-lobbying
-  headline: Huang's Nvidia comeback bid drew a petition, an FBI remark and Trump's lobbying
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7913
-- slug: 2026-11-23-nvidia-and-huang-face-sec-board-and-congressional-investigations
-  headline: Nvidia and Huang face SEC, board and congressional investigations
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7892
-- slug: 2026-11-24-nvidia-s-board-weighs-two-options-keeping-huang-out-or-letting-him-back-in
-  headline: 'Nvidia''s board weighs two options: keeping Huang out or letting him back in'
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7781
-- slug: 2026-11-24-governance-experts-call-for-nvidia-s-board-to-resign-after-huang-s-return
-  headline: Governance experts call for Nvidia's board to resign after Huang's return
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.776
-- slug: 2026-11-23-trump-declines-to-say-if-he-was-briefed-as-nvidia-reinstates-huang
-  headline: Trump declines to say if he was briefed as Nvidia reinstates Huang
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7732
-- slug: 2026-11-17-petition-seeks-huang-s-return-board-not-currently-considering-it-source-says
-  headline: Petition seeks Huang's return; board not currently considering it, source says
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.8007
-- slug: 2026-11-17-jensen-huang-offers-to-return-to-nvidia-and-agrees-to-testify-to-congress
-  headline: Jensen Huang offers to return to Nvidia and agrees to testify to Congress
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.7991
-- slug: 2026-11-20-huang-and-nvidia-s-counsel-tim-teter-set-for-dec-1-and-2-committee-appearances
-  headline: Huang and Nvidia's counsel Tim Teter set for Dec. 1 and 2 committee appearances
-  publish_date: '2026-11-20'
-  relation: related
-  strength: 0.7786
+  strength: 0.7935
 ---
-
 ## Vance says Nvidia CEO Jensen Huang needs no presidential pardon
 
 **Subtype:** fact

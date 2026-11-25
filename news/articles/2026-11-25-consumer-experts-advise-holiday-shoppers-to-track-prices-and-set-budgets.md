@@ -1,9 +1,17 @@
 ---
 headline: Consumer experts advise holiday shoppers to track prices and set budgets
-secondary_headline: Adobe forecasts $275 billion in online holiday sales and a record 63% mobile shopping share
+secondary_headline: Adobe forecasts $275 billion in online holiday sales and a record
+  63% mobile shopping share
 publish_date: '2026-11-25'
-lede: Consumer-saving expert Andrea Woroch and Adobe lead insight analyst Vivek Pandya advised holiday shoppers to set budgets, check price histories and use artificial intelligence tools to compare offers as retail forecasts point to heavy spending. The National Retail Federation forecasts this year's sales could top a record $1 trillion, while Adobe expects online sales to hit $275 billion.
-nut_graf: The forecasts show strong spending despite price pressure, making disciplined budgeting and price comparisons central to consumer advice. Adobe expects mobile shopping to account for a record share of online sales, while Pandya expects traffic from AI platforms to retail sites to rise sharply.
+lede: Consumer-saving expert Andrea Woroch and Adobe lead insight analyst Vivek Pandya
+  advised holiday shoppers to set budgets, check price histories and use artificial
+  intelligence tools to compare offers as retail forecasts point to heavy spending.
+  The National Retail Federation forecasts this year's sales could top a record $1
+  trillion, while Adobe expects online sales to hit $275 billion.
+nut_graf: The forecasts show strong spending despite price pressure, making disciplined
+  budgeting and price comparisons central to consumer advice. Adobe expects mobile
+  shopping to account for a record share of online sales, while Pandya expects traffic
+  from AI platforms to retail sites to rise sharply.
 primary_entities:
 - Andrea Woroch
 - Vivek Pandya
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,104 +149,19 @@ related_stories:
   headline: Card balances hit $1.17 trillion as inflation-adjusted spending is negative
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6633
-- slug: 2026-11-22-thanksgiving-costs-push-middle-income-shoppers-toward-discounts
-  headline: Thanksgiving costs push middle-income shoppers toward discounts
-  publish_date: '2026-11-22'
-  relation: related
-  strength: 0.6219
+  strength: 0.6625
 - slug: 2026-09-28-adobe-projects-record-275-1-billion-in-u-s-holiday-online-sales
   headline: Adobe projects record $275.1 billion in U.S. holiday online sales
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.8446
-- slug: 2026-11-14-retail-sales-fed-minutes-and-sentiment-data-land-this-week
-  headline: Retail sales, Fed minutes and sentiment data land this week
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6302
-- slug: 2026-11-11-federal-reserve-officials-weigh-faster-hikes-as-inflation-broadens
-  headline: Federal Reserve officials weigh faster hikes as inflation broadens
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6366
-- slug: 2026-11-08-investors-say-anthropics-planned-ipo-valuation-will-likely-fall
-  headline: Three major investors planning to participate in Anthropic's IPO say its valuation will likely fall
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6331
-- slug: 2026-11-07-economists-project-october-cpi-at-3-9-as-housing-data-and-jobless-claims-arrive
-  headline: Economists project October CPI at 3.9% as housing data and jobless claims arrive
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.628
-- slug: 2026-11-04-cfos-weigh-policy-scenarios-after-the-midterm-election
-  headline: CFOs weigh policy scenarios after the midterm election
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6197
-- slug: 2026-10-29-us-economy-grows-3-4-in-third-quarter-as-americans-describe-budget-strain
-  headline: US economy grows 3.4% in third quarter as Americans describe budget strain
-  publish_date: '2026-10-29'
-  relation: related
-  strength: 0.6368
-- slug: 2026-10-26-shoppers-question-ai-pricing-amid-company-denials-and-state-restrictions
-  headline: Shoppers question AI pricing amid company denials and state restrictions
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6483
-- slug: 2026-10-24-fed-rate-decision-and-economic-data-arrive-next-week
-  headline: Fed rate decision and economic data arrive next week
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.6262
-- slug: 2026-10-14-inflation-broadens-beyond-energy-as-ai-buildout-lifts-computer-prices
-  headline: Inflation broadens beyond energy as AI buildout lifts computer prices
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6235
-- slug: 2026-10-02-ai-sector-needs-9-of-us-gdp-in-revenue-by-2032-analysis-finds
-  headline: AI sector needs 9% of US GDP in revenue by 2032, analysis finds
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.6424
-- slug: 2026-09-23-device-revenue-climbs-as-makers-raise-prices-to-offset-memory-costs
-  headline: Device revenue climbs as makers raise prices to offset memory costs
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6318
-- slug: 2026-09-17-salesforce-sets-fiscal-2030-revenue-target-above-wall-street-estimates
-  headline: Salesforce sets fiscal 2030 revenue target above Wall Street estimates
-  publish_date: '2026-09-17'
-  relation: related
-  strength: 0.621
-- slug: 2026-09-09-afl-cio-report-electronic-shelf-labels-could-cost-up-to-191-633-grocery-jobs
-  headline: 'AFL-CIO report: electronic shelf labels could cost up to 191,633 grocery jobs'
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6324
-- slug: 2026-08-27-best-buy-raises-full-year-outlook-after-q2-comparable-sales-beat-expectations
-  headline: Best Buy raises full-year outlook after Q2 comparable sales beat expectations
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6287
-- slug: 2026-08-21-walmart-target-cut-school-supply-prices-ahead-of-record-back-to-school-season
-  headline: Walmart, Target cut school supply prices ahead of record back-to-school season
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6202
-- slug: 2026-07-25-grocery-prices-up-33-since-2019-as-shoppers-change-buying-habits
-  headline: Grocery prices up 33% since 2019 as shoppers change buying habits
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6393
+  strength: 0.8437
 - slug: 2025-12-30-thrifting-picks-up-and-returns-dip-as-shoppers-look-for-post-christmas-deals
-  headline: Thrifting picks up and returns dip as shoppers look for post-Christmas deals
+  headline: Thrifting picks up and returns dip as shoppers look for post-Christmas
+    deals
   publish_date: '2025-12-30'
   relation: related
-  strength: 0.6849
+  strength: 0.685
 ---
-
 ## Consumer experts advise holiday shoppers to track prices and set budgets
 
 **Subtype:** fact
