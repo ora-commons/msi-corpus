@@ -39,7 +39,8 @@ topic_tags:
 - election
 - government
 - crime
-storyline_nexus: []
+storyline_nexus:
+- justice-department-election-litigation-against-states
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -214,6 +215,7 @@ related_stories:
   relation: related
   strength: 0.7558
 ---
+
 ## DOJ escalates ballot fights with states ahead of Tuesday's midterms
 
 **Subtype:** fact

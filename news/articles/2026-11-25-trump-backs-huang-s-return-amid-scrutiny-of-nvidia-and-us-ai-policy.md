@@ -2,8 +2,15 @@
 headline: Trump backs Huang's return amid scrutiny of Nvidia and US AI policy
 secondary_headline: Bessent and Lutnick publicly feud over AI chip export restrictions
 publish_date: '2026-11-25'
-lede: President Donald Trump's public intervention to restore Jensen Huang as Nvidia's chief executive has exposed the president to political and economic scrutiny over the US AI industry. Nvidia's stock price gave back much of its post-reinstatement bounce on Tuesday as Democratic and some Republican lawmakers promised oversight over alleged China access to sophisticated microchip technology.
-nut_graf: The episode places Nvidia at the intersection of presidential power, AI-fueled economic growth and national-security scrutiny. It also raises questions about unequal political rules and the president's financial interests in a company where Trump owns millions of dollars of stock.
+lede: President Donald Trump's public intervention to restore Jensen Huang as Nvidia's
+  chief executive has exposed the president to political and economic scrutiny over
+  the US AI industry. Nvidia's stock price gave back much of its post-reinstatement
+  bounce on Tuesday as Democratic and some Republican lawmakers promised oversight
+  over alleged China access to sophisticated microchip technology.
+nut_graf: The episode places Nvidia at the intersection of presidential power, AI-fueled
+  economic growth and national-security scrutiny. It also raises questions about unequal
+  political rules and the president's financial interests in a company where Trump
+  owns millions of dollars of stock.
 primary_entities:
 - Donald Trump
 - Nvidia
@@ -49,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +159,45 @@ related_stories:
   headline: Trump says Nvidia's stock decline gave him leverage to reinstate Huang
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8688
+  strength: 0.8692
 - slug: 2026-11-24-democratic-lawmakers-challenge-nvidia-after-trump-helps-reinstate-jensen-huang
-  headline: Democratic lawmakers challenge Nvidia after Trump helps reinstate Jensen Huang
+  headline: Democratic lawmakers challenge Nvidia after Trump helps reinstate Jensen
+    Huang
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8662
+  strength: 0.8658
 - slug: 2026-11-23-nvidia-reinstates-jensen-huang-after-trump-says-he-persuaded-the-board
   headline: Nvidia reinstates Jensen Huang after Trump says he persuaded the board
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8689
+  strength: 0.8687
 - slug: 2026-11-24-nvidia-s-huang-reinstatement-sharpens-democrats-case-against-trump
   headline: Nvidia's Huang reinstatement sharpens Democrats' case against Trump
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8614
+  strength: 0.8608
 - slug: 2026-11-24-jensen-huang-returns-to-nvidia-amid-personal-conduct-and-export-control-scrutiny
-  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control scrutiny
+  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control
+    scrutiny
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8569
+  strength: 0.8568
 - slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-after-trump-s-intervention
   headline: Jensen Huang returns as Nvidia CEO after Trump's intervention
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8629
+  strength: 0.8632
 - slug: 2026-11-24-trump-and-senior-administration-officials-lobby-nvidia-for-huang-s-return
   headline: Trump and senior administration officials lobby Nvidia for Huang's return
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8528
+  strength: 0.8529
 - slug: 2026-11-24-nvidia-gives-back-part-of-its-post-reinstatement-gain
   headline: Nvidia gives back part of its post-reinstatement gain
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8515
-- slug: 2026-11-24-nvidia-reinstates-jensen-huang-with-white-house-input
-  headline: Nvidia reinstates Jensen Huang with White House input
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8508
-- slug: 2026-11-23-vance-helps-persuade-nvidia-s-board-to-reinstate-jensen-huang
-  headline: Vance helps persuade Nvidia's board to reinstate Jensen Huang
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8543
-- slug: 2026-11-24-trump-says-the-country-needs-more-geniuses-as-nvidia-reinstates-huang
-  headline: Trump says the country needs more ‘geniuses’ as Nvidia reinstates Huang
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.847
-- slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.853
-- slug: 2026-11-23-nvidia-shares-jump-more-than-25-after-huang-s-reinstatement
-  headline: Nvidia shares jump more than 25% after Huang's reinstatement
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8465
-- slug: 2026-11-24-trump-says-sex-sells-better-than-stocks-in-jensen-huang-case
-  headline: Trump says ‘sex sells better than stocks’ in Jensen Huang case
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8394
-- slug: 2026-11-24-huang-apologizes-to-nvidia-staff-as-questions-over-trump-s-role-persist
-  headline: Huang apologizes to Nvidia staff as questions over Trump's role persist
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8388
-- slug: 2026-11-24-trump-s-nvidia-holdings-gain-up-to-15m-after-huang-s-reinstatement
-  headline: Trump's Nvidia holdings gain up to $15m after Huang's reinstatement
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8326
-- slug: 2026-11-23-congress-questions-nvidia-after-jensen-huang-s-reinstatement
-  headline: Congress questions Nvidia after Jensen Huang's reinstatement
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8391
-- slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-amid-bipartisan-congressional-backlash
-  headline: Nvidia board reinstates Jensen Huang amid bipartisan congressional backlash
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8378
-- slug: 2026-11-23-huang-s-nvidia-comeback-bid-drew-a-petition-an-fbi-remark-and-trump-s-lobbying
-  headline: Huang's Nvidia comeback bid drew a petition, an FBI remark and Trump's lobbying
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8371
-- slug: 2026-11-24-us-commerce-department-blacklists-singapore-based-nvidia-partner-megaspeed
-  headline: US Commerce Department blacklists Singapore-based Nvidia partner Megaspeed
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8282
+  strength: 0.852
 ---
-
 ## Trump backs Huang's return amid scrutiny of Nvidia and US AI policy
 
 **Subtype:** fact

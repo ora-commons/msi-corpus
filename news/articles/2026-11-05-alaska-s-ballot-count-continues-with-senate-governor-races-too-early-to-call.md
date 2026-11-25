@@ -40,7 +40,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- alaska-s-2026-u-s-senate-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -216,6 +217,7 @@ related_stories:
   relation: related
   strength: 0.7593
 ---
+
 ## Alaska's ballot count continues with Senate, governor races too early to call
 
 **Subtype:** fact

@@ -34,7 +34,8 @@ topic_tags:
 - election
 - government
 - judiciary
-storyline_nexus: []
+storyline_nexus:
+- justice-department-election-litigation-against-states
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -208,6 +209,7 @@ related_stories:
   relation: related
   strength: 0.8274
 ---
+
 ## DOJ takes California voter-roll dispute to Supreme Court
 
 **Subtype:** fact

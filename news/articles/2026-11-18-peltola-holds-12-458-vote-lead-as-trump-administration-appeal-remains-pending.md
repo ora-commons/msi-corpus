@@ -42,7 +42,8 @@ primary_themes:
 - same-name candidate allegations
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- alaska-s-2026-u-s-senate-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -218,6 +219,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Peltola holds 12,458-vote lead as Trump administration appeal remains pending
 
 **Subtype:** fact

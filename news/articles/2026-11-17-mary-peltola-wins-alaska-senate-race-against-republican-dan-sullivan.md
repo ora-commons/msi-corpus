@@ -32,7 +32,8 @@ primary_themes:
 - Recruit-and-split allegations
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- alaska-s-2026-u-s-senate-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -208,6 +209,7 @@ related_stories:
   relation: related
   strength: 0.8015
 ---
+
 ## Mary Peltola wins Alaska Senate race against Republican Dan Sullivan
 
 **Subtype:** fact

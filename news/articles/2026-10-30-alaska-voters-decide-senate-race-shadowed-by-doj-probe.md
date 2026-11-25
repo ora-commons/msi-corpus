@@ -28,7 +28,8 @@ primary_themes:
 - Alaska politics
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- alaska-s-2026-u-s-senate-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -204,6 +205,7 @@ related_stories:
   relation: related
   strength: 0.8569
 ---
+
 ## Alaska voters decide Senate race shadowed by DOJ probe
 
 **Subtype:** fact

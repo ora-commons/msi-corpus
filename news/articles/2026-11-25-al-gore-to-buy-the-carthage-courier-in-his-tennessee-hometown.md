@@ -57,10 +57,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -190,3 +192,9 @@ The sale is expected in the coming weeks, but the Lake family has not disclosed 
 **Publication date:** 2026-11-25
 **Title:** Former Vice President Al Gore is buying his local newspaper in Tennessee
 **URL:** https://apnews.com/article/al-gore-buys-newspaper-tennessee-6d86ec5239dee664d312aac30b38dde5
+
+### src_late_7f4e322b5c1a59bd — The Guardian, national_daily, Tier 2, originating
+**Publication date:** 2026-11-25
+**Title:** Al Gore buys local, family-owned newspaper in central Tennessee
+**URL:** https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee
+**Added after publication:** true

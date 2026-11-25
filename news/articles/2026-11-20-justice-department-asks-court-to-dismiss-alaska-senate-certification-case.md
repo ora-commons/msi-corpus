@@ -36,7 +36,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- alaska-s-2026-u-s-senate-election
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -212,6 +213,7 @@ related_stories:
   relation: related
   strength: 0.8305
 ---
+
 ## Justice Department asks court to dismiss Alaska Senate certification case
 
 **Subtype:** fact
