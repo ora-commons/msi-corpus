@@ -2,8 +2,15 @@
 headline: Trump pardons Freedom and Feathers at White House ceremony
 secondary_headline: Trump used the event to promote a new ballroom complex
 publish_date: '2026-11-25'
-lede: President Donald Trump pardoned the Thanksgiving turkeys Freedom and Feathers at a White House ceremony on Tuesday, and both birds will live out their days at Texas A&M University. The event on the south lawn doubled as a showcase for a ballroom complex under construction, which Trump described as a ballroom military complex and said would be the strongest building ever built in the country.
-nut_graf: The annual ceremony, typically an occasion for levity, became a long promotional speech for Trump's construction project and a focus on his record after the midterm elections. The appearance also gave the president a stage to praise administration officials and state his claim that he won West Virginia by 45 points.
+lede: President Donald Trump pardoned the Thanksgiving turkeys Freedom and Feathers
+  at a White House ceremony on Tuesday, and both birds will live out their days at
+  Texas A&M University. The event on the south lawn doubled as a showcase for a ballroom
+  complex under construction, which Trump described as a ballroom military complex
+  and said would be the strongest building ever built in the country.
+nut_graf: The annual ceremony, typically an occasion for levity, became a long promotional
+  speech for Trump's construction project and a focus on his record after the midterm
+  elections. The appearance also gave the president a stage to praise administration
+  officials and state his claim that he won West Virginia by 45 points.
 primary_entities:
 - Donald Trump
 - Freedom
@@ -51,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,32 +161,32 @@ related_stories:
   headline: Trump to pardon Thanksgiving turkeys Freedom and Feather
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8182
+  strength: 0.8176
 - slug: 2026-11-24-trump-s-turkey-pardon-ceremony-is-scheduled-for-2-p-m-est-tuesday
   headline: Trump's turkey pardon ceremony is scheduled for 2 p.m. EST Tuesday
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7891
+  strength: 0.7889
 - slug: 2026-11-05-trump-praises-ballroom-project-in-first-appearance-since-gop-midterm-losses
   headline: Trump praises ballroom project in first appearance since GOP midterm losses
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.7207
+  strength: 0.7211
 - slug: 2026-11-04-trump-focuses-on-white-house-ballroom-after-democrats-retake-congress
   headline: Trump focuses on White House ballroom after Democrats retake Congress
   publish_date: '2026-11-04'
   relation: related
-  strength: 0.7205
+  strength: 0.7209
 - slug: 2026-11-05-trump-hits-back-at-obama-s-cheesecake-factory-jab-over-white-house-renovations
   headline: Trump hits back at Obama's Cheesecake Factory jab over White House renovations
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.6721
+  strength: 0.6724
 - slug: 2026-11-02-trump-devotes-election-eve-speech-to-construction-projects
   headline: Trump devotes election-eve speech to construction projects
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.6831
+  strength: 0.6833
 - slug: 2026-11-01-trump-schedules-closing-midterm-speech-at-reflecting-pool
   headline: Trump schedules closing midterm speech at Reflecting Pool
   publish_date: '2026-11-01'
@@ -188,69 +196,8 @@ related_stories:
   headline: Trump's D.C. construction push draws lawsuits, preservationist warnings
   publish_date: '2026-09-28'
   relation: related
-  strength: 0.6716
-- slug: 2026-09-20-trump-says-250-foot-dc-arch-will-house-weapons-as-military-complex
-  headline: Trump says 250-foot DC arch will house weapons as military complex
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.6737
-- slug: 2026-09-21-trump-accused-of-manufacturing-national-security-justification-for-dc-arch
-  headline: Trump accused of manufacturing national security justification for DC arch
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6694
-- slug: 2026-08-19-trump-shows-reporters-white-house-helipad-ballroom-construction
-  headline: Trump shows reporters White House helipad, ballroom construction
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6915
-- slug: 2026-05-20-trump-shows-reporters-white-house-east-wing-ballroom-construction-despite-congre
-  headline: Trump shows reporters White House East Wing ballroom construction, despite Congress impasse
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7302
-- slug: 2026-05-19-trump-tours-construction-of-white-house-ballroom-after-congress-balks-at-1b
-  headline: Trump tours construction of White House ballroom after Congress balks at $1B
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7276
-- slug: 2026-07-25-trump-delivers-speech-at-rescheduled-correspondents-dinner-addresses-press-and-r
-  headline: Trump delivers speech at rescheduled correspondents’ dinner, addresses press and rivals
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6796
-- slug: 2026-06-15-trump-marks-80th-birthday-with-iran-deal-announcement-white-house-cage-fights
-  headline: Trump marks 80th birthday with Iran deal announcement, White House cage fights
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6806
-- slug: 2026-07-04-trump-pardons-11-people-including-nine-convicted-under-clean-air-act
-  headline: Trump pardons 11 people, including nine convicted under Clean Air Act
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.669
-- slug: 2026-05-19-trump-tours-white-house-ballroom-construction-after-congress-balks-at-1b-price-t
-  headline: Trump tours White House ballroom construction after Congress balks at $1B price tag
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6829
-- slug: 2026-06-15-ufc-freedom-250-at-white-house-cage-fights-mark-trump-s-80th-birthday
-  headline: 'UFC Freedom 250 at White House: Cage fights mark Trump''s 80th birthday'
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6722
-- slug: 2026-04-17-trump-touts-400m-ballroom-plan-amid-criticism-he-s-out-of-touch
-  headline: Trump touts $400M ballroom plan amid criticism he's out of touch
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6841
-- slug: 2026-04-28-justice-dept-urges-end-to-lawsuit-over-trump-s-400m-white-house-ballroom
-  headline: Justice Dept urges end to lawsuit over Trump's $400M White House ballroom
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6723
+  strength: 0.6717
 ---
-
 ## Trump pardons Freedom and Feathers at White House ceremony
 
 **Subtype:** fact

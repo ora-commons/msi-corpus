@@ -2,8 +2,19 @@
 headline: Chuck Hubbard urges Democrats to govern after North Carolina House gains
 secondary_headline: Affordability and divided government shape Hubbard's policy agenda
 publish_date: '2026-11-24'
-lede: North Carolina Democrat Chuck Hubbard, who defeated longtime Republican incumbent Virginia Foxx in the state's Fifth Congressional District, said the party's election gains must now become governing action. In a Nov. 24 PBS News interview, Hubbard called divided government the central problem and said House Democrats would need Republican cooperation on affordability because they lack enough Senate votes to override President Donald Trump's threatened vetoes. PBS reported that Democrats were on track for a 260-seat House majority with most races called.
-nut_graf: Hubbard's victory came two years after Foxx beat him by 19 points, while the 11-3 Democratic advantage in North Carolina's U.S. House delegation followed a 10-6 Republican advantage. Hubbard said the election reflected his party's ability to compete in districts drawn in 2023. He said the next phase would require bipartisan work on affordability because House Democrats do not have enough Senate votes to override a veto.
+lede: North Carolina Democrat Chuck Hubbard, who defeated longtime Republican incumbent
+  Virginia Foxx in the state's Fifth Congressional District, said the party's election
+  gains must now become governing action. In a Nov. 24 PBS News interview, Hubbard
+  called divided government the central problem and said House Democrats would need
+  Republican cooperation on affordability because they lack enough Senate votes to
+  override President Donald Trump's threatened vetoes. PBS reported that Democrats
+  were on track for a 260-seat House majority with most races called.
+nut_graf: Hubbard's victory came two years after Foxx beat him by 19 points, while
+  the 11-3 Democratic advantage in North Carolina's U.S. House delegation followed
+  a 10-6 Republican advantage. Hubbard said the election reflected his party's ability
+  to compete in districts drawn in 2023. He said the next phase would require bipartisan
+  work on affordability because House Democrats do not have enough Senate votes to
+  override a veto.
 primary_entities:
 - Chuck Hubbard
 - Virginia Foxx
@@ -48,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,107 +159,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-22-hubbard-defeats-foxx-in-north-carolina-after-recount-confirms-330-vote-win
-  headline: Hubbard defeats Foxx in North Carolina after recount confirms 330-vote win
+  headline: Hubbard defeats Foxx in North Carolina after recount confirms 330-vote
+    win
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.8112
+  strength: 0.8118
 - slug: 2026-11-22-foxx-concedes-to-hubbard-giving-democrats-11th-nc-seat
   headline: Foxx concedes to Hubbard, giving Democrats 11th NC seat
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.7794
+  strength: 0.78
 - slug: 2026-11-22-foxx-concedes-north-carolina-house-seat-to-hubbard-after-recount
   headline: Foxx concedes North Carolina House seat to Hubbard after recount
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.7681
+  strength: 0.7685
 - slug: 2026-11-22-democrats-win-258-house-seats-largest-sweep-since-1992
   headline: Democrats win 258 House seats, largest sweep since 1992
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.7494
+  strength: 0.7493
 - slug: 2026-11-18-virginia-foxx-and-ashley-bell-request-recounts-in-two-north-carolina-house-races
-  headline: Virginia Foxx and Ashley Bell request recounts in two North Carolina House races
+  headline: Virginia Foxx and Ashley Bell request recounts in two North Carolina House
+    races
   publish_date: '2026-11-18'
   relation: related
-  strength: 0.7537
+  strength: 0.7542
 - slug: 2026-11-22-democrats-clinch-258-seat-house-majority-largest-since-1992
   headline: Democrats clinch 258-seat House majority, largest since 1992
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.7232
+  strength: 0.7236
 - slug: 2026-11-22-democrats-win-at-least-258-house-seats-largest-majority-since-1992
   headline: Democrats win at least 258 House seats, largest majority since 1992
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.7161
+  strength: 0.7155
 - slug: 2026-11-22-north-carolina-republicans-lose-senate-seat-and-five-house-seats
   headline: North Carolina Republicans lose Senate seat and five House seats
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.6823
-- slug: 2026-11-22-jeffries-lays-out-affordability-healthcare-and-immigration-agenda
-  headline: Jeffries lays out affordability, healthcare and immigration agenda
-  publish_date: '2026-11-22'
-  relation: related
-  strength: 0.6747
-- slug: 2026-11-14-democrats-head-into-new-congress-denying-a-moderate-progressive-rift
-  headline: Democrats head into new Congress denying a moderate-progressive rift
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.6899
-- slug: 2026-11-05-north-carolina-democrats-win-first-state-house-majority-since-2008
-  headline: North Carolina Democrats win first state House majority since 2008
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.726
-- slug: 2026-11-11-north-carolina-swing-voters-want-change-but-expect-little-from-divided-congress
-  headline: North Carolina swing voters want change but expect little from divided Congress
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6873
-- slug: 2026-11-04-democrats-win-congress-and-a-majority-of-governorships-on-affordability
-  headline: Democrats win Congress and a majority of governorships on affordability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7131
-- slug: 2026-11-04-hakeem-jeffries-outlines-affordability-agenda-for-incoming-house-control
-  headline: Hakeem Jeffries outlines affordability agenda for incoming House control
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7098
-- slug: 2026-11-09-democrats-prepare-affordability-agenda-after-the-midterm-win
-  headline: Democrats prepare affordability agenda after the midterm win
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6761
-- slug: 2026-11-05-democrats-win-congress-on-affordability-but-trump-retains-veto-power
-  headline: Democrats win Congress on affordability, but Trump retains veto power
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6942
-- slug: 2026-11-08-democrats-plan-affordability-agenda-as-trump-names-stephen-miller-chief-of-staff
-  headline: Democrats plan affordability agenda as Trump names Stephen Miller chief of staff
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.6711
-- slug: 2026-11-04-democrats-set-post-election-priorities-on-affordability-and-accountability
-  headline: Democrats set post-election priorities on affordability and accountability
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6908
-- slug: 2026-11-05-democrats-flip-four-north-carolina-house-seats-in-republican-drawn-districts
-  headline: Democrats flip four North Carolina House seats in Republican-drawn districts
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.675
-- slug: 2026-11-04-ken-martin-says-democrats-have-great-leverage-after-2026-midterms
-  headline: Ken Martin says Democrats have great leverage after 2026 midterms
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6732
+  strength: 0.6833
 ---
-
 ## Chuck Hubbard urges Democrats to govern after North Carolina House gains
 
 **Subtype:** fact
