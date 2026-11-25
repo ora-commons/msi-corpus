@@ -187,6 +187,8 @@ related_stories:
   publish_date: '2026-02-02'
   relation: related
   strength: 0.6583
+analyses:
+- '2026-11-24-polanski-s-endorsement-makes-mutually-assured-destruction-a-green-party-credibil'
 ---
 ## Polanski backs NATO report as Greens debate nuclear policy
 
@@ -226,3 +228,8 @@ Verdant is independent but retains close links to the Greens, and The Guardian s
 **Publication date:** 2026-11-24
 **Title:** Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons
 **URL:** https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons
+
+---
+
+<!-- analysis-link:2026-11-24-polanski-s-endorsement-makes-mutually-assured-destruction-a-green-party-credibil -->
+**Going deeper:** [Read MSI's analysis of the Greens’ nuclear-deterrent credibility test →](/analyses/2026-11-24-polanski-s-endorsement-makes-mutually-assured-destruction-a-green-party-credibil)
