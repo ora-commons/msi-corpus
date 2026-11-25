@@ -2,8 +2,16 @@
 headline: Trump says he protected Elon Musk during his first term
 secondary_headline: Huang heads to Congress for at least two appearances next week
 publish_date: '2026-11-25'
-lede: President Donald Trump said in a Monday CNBC interview that he “protected” Elon Musk during his first term, asserting, “You wouldn’t have an Elon if it wasn’t for me.” Trump did not explain what he did, even as The Wall Street Journal connected the claim to Musk’s tangles with the Securities and Exchange Commission. Nvidia Chief Executive Jensen Huang is scheduled for at least two congressional appearances next week following Trump’s intervention on his behalf.
-nut_graf: Trump’s remarks place his intervention on Huang’s behalf alongside his claimed protection of Musk and his argument that the government must protect scarce business talent. Trump did not describe the earlier action, while Huang’s scheduled congressional appearances put the intervention before lawmakers from both parties.
+lede: President Donald Trump said in a Monday CNBC interview that he “protected” Elon
+  Musk during his first term, asserting, “You wouldn’t have an Elon if it wasn’t for
+  me.” Trump did not explain what he did, even as The Wall Street Journal connected
+  the claim to Musk’s tangles with the Securities and Exchange Commission. Nvidia
+  Chief Executive Jensen Huang is scheduled for at least two congressional appearances
+  next week following Trump’s intervention on his behalf.
+nut_graf: Trump’s remarks place his intervention on Huang’s behalf alongside his claimed
+  protection of Musk and his argument that the government must protect scarce business
+  talent. Trump did not describe the earlier action, while Huang’s scheduled congressional
+  appearances put the intervention before lawmakers from both parties.
 primary_entities:
 - Donald Trump
 - Elon Musk
@@ -49,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +160,46 @@ related_stories:
   headline: Trump says Nvidia's stock decline gave him leverage to reinstate Huang
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7529
+  strength: 0.7526
 - slug: 2026-11-25-trump-backs-huang-s-return-amid-scrutiny-of-nvidia-and-us-ai-policy
   headline: Trump backs Huang's return amid scrutiny of Nvidia and US AI policy
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.7391
+  strength: 0.739
 - slug: 2026-11-24-trump-says-the-country-needs-more-geniuses-as-nvidia-reinstates-huang
   headline: Trump says the country needs more ‘geniuses’ as Nvidia reinstates Huang
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7409
+  strength: 0.7425
+- slug: 2026-11-25-trump-says-pardon-remains-an-option-for-nvidia-s-jensen-huang
+  headline: Trump says pardon remains an option for Nvidia's Jensen Huang
+  publish_date: '2026-11-25'
+  relation: related
+  strength: 0.7185
 - slug: 2026-11-23-vance-helps-persuade-nvidia-s-board-to-reinstate-jensen-huang
   headline: Vance helps persuade Nvidia's board to reinstate Jensen Huang
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.719
+  strength: 0.7195
 - slug: 2026-11-24-trump-traded-nvidia-stock-at-least-103-times-in-his-second-term-cnbc-said
-  headline: Trump traded Nvidia stock at least 103 times in his second term, CNBC said
+  headline: Trump traded Nvidia stock at least 103 times in his second term, CNBC
+    said
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7078
+  strength: 0.7075
 - slug: 2026-11-23-huang-s-nvidia-comeback-bid-drew-a-petition-an-fbi-remark-and-trump-s-lobbying
-  headline: Huang's Nvidia comeback bid drew a petition, an FBI remark and Trump's lobbying
+  headline: Huang's Nvidia comeback bid drew a petition, an FBI remark and Trump's
+    lobbying
   publish_date: '2026-11-23'
   relation: related
   strength: 0.7102
 - slug: 2026-11-23-trump-tells-pbs-china-could-poach-huang-won-t-discuss-alice-huang-s-alleged-ties
-  headline: Trump tells PBS China could poach Huang, won't discuss Alice Huang's alleged ties
+  headline: Trump tells PBS China could poach Huang, won't discuss Alice Huang's alleged
+    ties
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7095
-- slug: 2026-11-24-trump-says-sex-sells-better-than-stocks-in-jensen-huang-case
-  headline: Trump says ‘sex sells better than stocks’ in Jensen Huang case
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.6999
-- slug: 2026-11-24-trump-and-senior-administration-officials-lobby-nvidia-for-huang-s-return
-  headline: Trump and senior administration officials lobby Nvidia for Huang's return
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.6969
-- slug: 2026-11-23-trump-says-blanche-government-holds-no-evidence-of-huang-s-unlawful-conduct
-  headline: 'Trump says Blanche: government holds no evidence of Huang’s unlawful conduct'
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.7034
-- slug: 2026-11-24-jensen-huang-returns-to-nvidia-amid-personal-conduct-and-export-control-scrutiny
-  headline: Jensen Huang returns to Nvidia amid personal conduct and export-control scrutiny
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.689
-- slug: 2026-11-23-trump-declines-to-say-if-he-was-briefed-as-nvidia-reinstates-huang
-  headline: Trump declines to say if he was briefed as Nvidia reinstates Huang
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.6941
-- slug: 2026-11-24-nvidia-s-huang-reinstatement-sharpens-democrats-case-against-trump
-  headline: Nvidia's Huang reinstatement sharpens Democrats' case against Trump
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.6821
-- slug: 2026-11-23-nvidia-reinstates-jensen-huang-after-trump-says-he-persuaded-the-board
-  headline: Nvidia reinstates Jensen Huang after Trump says he persuaded the board
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.6883
-- slug: 2026-11-24-trump-s-nvidia-holdings-gain-up-to-15m-after-huang-s-reinstatement
-  headline: Trump's Nvidia holdings gain up to $15m after Huang's reinstatement
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.6798
-- slug: 2026-11-23-nvidia-board-reinstates-jensen-huang-amid-bipartisan-congressional-backlash
-  headline: Nvidia board reinstates Jensen Huang amid bipartisan congressional backlash
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.6854
-- slug: 2026-11-23-jensen-huang-returns-as-nvidia-ceo-after-trump-s-intervention
-  headline: Jensen Huang returns as Nvidia CEO after Trump's intervention
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.6823
-- slug: 2026-11-19-musk-says-he-is-not-maga-and-regrets-spending-on-republicans
-  headline: Musk says he is not MAGA and regrets spending on Republicans
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.6857
-- slug: 2026-11-14-trump-s-closeness-to-huang-draws-scrutiny-over-intelligence-concerns
-  headline: Trump's closeness to Huang draws scrutiny over intelligence concerns
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.7084
-- slug: 2026-11-13-trump-keeps-defending-huang-and-hegseth-guardian-podcast-says
-  headline: Trump keeps defending Huang and Hegseth, Guardian podcast says
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.696
+  strength: 0.7091
 ---
-
 ## Trump says he protected Elon Musk during his first term
 
 **Subtype:** fact

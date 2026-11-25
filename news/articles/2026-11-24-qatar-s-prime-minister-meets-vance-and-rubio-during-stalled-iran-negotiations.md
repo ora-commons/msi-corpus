@@ -196,6 +196,8 @@ related_stories:
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7184
+analyses:
+- '2026-11-24-qatar-s-iran-mediation-risks-failure-without-a-public-decision-sequence'
 ---
 ## Qatar's prime minister meets Vance and Rubio during stalled Iran negotiations
 
@@ -236,3 +238,8 @@ Neither meeting, as publicly described, produced a new policy direction on the c
 **Publication date:** 2026-11-24
 **Title:** Vance and Rubio meet with Qatari PM as Iran talks are stalled
 **URL:** https://apnews.com/article/vance-rubio-qatar-iran-war-16e0c2cb05347cfcac068ec4aebb363f
+
+---
+
+<!-- analysis-link:2026-11-24-qatar-s-iran-mediation-risks-failure-without-a-public-decision-sequence -->
+**Going deeper:** [Read MSI's analysis of the missing sequence in Iran mediation →](/analyses/2026-11-24-qatar-s-iran-mediation-risks-failure-without-a-public-decision-sequence)
