@@ -1,17 +1,9 @@
 ---
-headline: Judge orders Fulton County to provide digital records to State Election
-  Board
-secondary_headline: State Election Board may consult experts under limited access
-  to unredacted records
+headline: Judge orders Fulton County to provide digital records to State Election Board
+secondary_headline: State Election Board may consult experts under limited access to unredacted records
 publish_date: '2026-11-24'
-lede: A Fulton County Superior Court judge on Tuesday ordered the county to provide
-  Georgia's State Election Board with a digital copy of 2020 election records seized
-  by the FBI, with delivery due by 5 p.m. Wednesday. Judge Kelly Lee Ellerbe also
-  imposed a protective order that restricts who may view the unredacted material.
-nut_graf: The order advances a State Election Board effort dating back more than two
-  years to obtain Fulton County records for its inquiries into the 2020 election.
-  It gives the board controlled access while limiting disclosure, and no charges have
-  been filed 10 months after the records were seized.
+lede: A Fulton County Superior Court judge on Tuesday ordered the county to provide Georgia's State Election Board with a digital copy of 2020 election records seized by the FBI, with delivery due by 5 p.m. Wednesday. Judge Kelly Lee Ellerbe also imposed a protective order that restricts who may view the unredacted material.
+nut_graf: The order advances a State Election Board effort dating back more than two years to obtain Fulton County records for its inquiries into the 2020 election. It gives the board controlled access while limiting disclosure, and no charges have been filed 10 months after the records were seized.
 primary_entities:
 - Georgia
 - Fulton County
@@ -62,8 +54,7 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent
-  from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -162,60 +153,114 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-10-31-justice-department-poll-monitoring-puts-county-election-officials-on-high-alert
-  headline: Justice Department poll monitoring puts county election officials on high
-    alert
+  headline: Justice Department poll monitoring puts county election officials on high alert
   publish_date: '2026-10-31'
   relation: related
-  strength: 0.69
-- slug: 2026-02-05-legal-fight-escalates-in-georgia-over-fbi-held-2020-election-records
-  headline: Legal fight escalates in Georgia over FBI-held 2020 election records
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.8107
+  strength: 0.6886
 - slug: 2026-07-02-fbi-directs-260-analysts-to-fulton-county-2020-election-probe
   headline: FBI directs 260 analysts to Fulton County 2020 election probe
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.7757
+  strength: 0.7764
+- slug: 2026-02-05-legal-fight-escalates-in-georgia-over-fbi-held-2020-election-records
+  headline: Legal fight escalates in Georgia over FBI-held 2020 election records
+  publish_date: '2026-02-05'
+  relation: related
+  strength: 0.8102
 - slug: 2026-05-06-justice-department-can-keep-seized-fulton-county-2020-ballots-judge-rules
   headline: Justice Department can keep seized Fulton County 2020 ballots, judge rules
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.7945
+  strength: 0.7935
 - slug: 2026-01-29-fbi-executes-search-warrant-at-fulton-county-elections-office-for-2020-records
-  headline: FBI executes search warrant at Fulton County elections office for 2020
-    records
+  headline: FBI executes search warrant at Fulton County elections office for 2020 records
   publish_date: '2026-01-29'
   relation: related
-  strength: 0.8032
+  strength: 0.804
 - slug: 2026-05-07-justice-dept-can-keep-seized-fulton-county-2020-ballots-judge-rules
   headline: Justice Dept. can keep seized Fulton County 2020 ballots, judge rules
   publish_date: '2026-05-07'
   relation: related
-  strength: 0.7876
+  strength: 0.7869
 - slug: 2026-05-06-justice-department-seeks-names-of-2020-fulton-county-election-workers
   headline: Justice Department seeks names of 2020 Fulton County election workers
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.7864
+  strength: 0.7861
 - slug: 2026-01-30-fbi-seizes-georgia-ballots-reinforcing-trump-s-2020-election-grievance
   headline: FBI seizes Georgia ballots, reinforcing Trump’s 2020 election grievance
   publish_date: '2026-01-30'
   relation: related
-  strength: 0.7917
+  strength: 0.7911
+- slug: 2026-07-07-judge-quashes-doj-subpoena-for-2020-fulton-county-election-workers-names
+  headline: Judge quashes DOJ subpoena for 2020 Fulton County election workers' names
+  publish_date: '2026-07-07'
+  relation: related
+  strength: 0.7437
+- slug: 2026-03-26-judge-hears-georgia-county-demand-for-return-of-seized-2020-ballots
+  headline: Judge hears Georgia county demand for return of seized 2020 ballots
+  publish_date: '2026-03-26'
+  relation: related
+  strength: 0.77
+- slug: 2026-02-11-fbi-affidavit-says-it-seized-fulton-county-2020-ballots-tied-to-old-fraud-claims
+  headline: FBI affidavit says it seized Fulton County 2020 ballots tied to old fraud claims
+  publish_date: '2026-02-11'
+  relation: related
+  strength: 0.7579
+- slug: 2026-03-27-judge-hears-georgia-county-s-demand-for-return-of-seized-2020-ballots
+  headline: Judge hears Georgia county’s demand for return of seized 2020 ballots
+  publish_date: '2026-03-27'
+  relation: related
+  strength: 0.7523
+- slug: 2026-02-17-naacp-asks-judge-to-curb-federal-use-of-seized-georgia-voter-data
+  headline: NAACP asks judge to curb federal use of seized Georgia voter data
+  publish_date: '2026-02-17'
+  relation: related
+  strength: 0.743
+- slug: 2026-07-24-trump-administration-election-push-faces-court-losses-bipartisan-resistance
+  headline: Trump administration election push faces court losses, bipartisan resistance
+  publish_date: '2026-07-24'
+  relation: related
+  strength: 0.6685
+- slug: 2026-02-03-gabbard-says-trump-requested-her-at-fbi-georgia-election-search
+  headline: Gabbard says Trump requested her at FBI Georgia election search
+  publish_date: '2026-02-03'
+  relation: related
+  strength: 0.7204
+- slug: 2026-06-17-election-lawyer-warns-trump-is-setting-stage-to-contest-november-midterms
+  headline: Election lawyer warns Trump is setting stage to contest November midterms
+  publish_date: '2026-06-17'
+  relation: related
+  strength: 0.687
+- slug: 2026-03-10-fbi-obtains-arizona-2020-election-records-after-senate-president-hands-over
+  headline: FBI obtains Arizona 2020 election records after Senate president hands over
+  publish_date: '2026-03-10'
+  relation: related
+  strength: 0.7089
+- slug: 2026-01-22-georgia-lieutenant-governor-revives-2020-election-dispute-in-gop-primary-race
+  headline: Georgia lieutenant governor revives 2020 election dispute in GOP primary race
+  publish_date: '2026-01-22'
+  relation: related
+  strength: 0.7105
+- slug: 2026-03-21-georgia-appeals-court-rules-fulton-county-can-reject-gop-election-board-picks
+  headline: Georgia appeals court rules Fulton County can reject GOP election board picks
+  publish_date: '2026-03-21'
+  relation: related
+  strength: 0.6935
+- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
+  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
+  publish_date: '2026-06-16'
+  relation: related
+  strength: 0.6652
 image:
   url: /articles/2026-11-24-judge-orders-fulton-county-to-provide-digital-records-to-state-election-board.png
-  alt: 'Illustration accompanying article: Judge orders Fulton County to provide digital
-    records to State Election Board'
+  alt: 'Illustration accompanying article: Judge orders Fulton County to provide digital records to State Election Board'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in
-    metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
-    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
-    frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
 ---
 ## Judge orders Fulton County to provide digital records to State Election Board
 
