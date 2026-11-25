@@ -43,7 +43,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- democratic-control-of-state-governments
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -219,6 +220,7 @@ related_stories:
   relation: related
   strength: 0.7346
 ---
+
 ## Democrats gain hundreds of state legislative seats in 2026 midterms
 
 **Subtype:** fact

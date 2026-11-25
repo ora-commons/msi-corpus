@@ -34,7 +34,8 @@ primary_themes:
 topic_tags:
 - human interest
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- usda-proposed-rule-on-snap-categorical-eligibility
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -211,6 +212,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Federal proposal could end food stamps for more than 73,000 New Jersey households
 
 **Subtype:** fact

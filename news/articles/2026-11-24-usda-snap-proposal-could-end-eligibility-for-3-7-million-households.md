@@ -37,7 +37,7 @@ topic_tags:
 - government policy
 - social condition
 storyline_nexus:
-- snap-safety-net-cuts
+- usda-proposed-rule-on-snap-categorical-eligibility
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -207,8 +207,9 @@ related_stories:
   relation: related
   strength: 0.7569
 analyses:
-- '2026-11-24-usda-snap-proposal-would-shift-eligibility-control-from-states-to-federal-limits'
+- 2026-11-24-usda-snap-proposal-would-shift-eligibility-control-from-states-to-federal-limits
 ---
+
 ## USDA SNAP proposal could end eligibility for 3.7 million households
 
 **Subtype:** fact

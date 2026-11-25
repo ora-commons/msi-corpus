@@ -37,7 +37,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- democratic-control-of-state-governments
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,6 +200,7 @@ related_stories:
   relation: related
   strength: 0.7347
 ---
+
 ## Democrats flip state legislatures and pick up four governorships in 2026 midterms
 
 **Subtype:** fact

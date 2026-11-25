@@ -30,7 +30,8 @@ primary_themes:
 topic_tags:
 - agriculture
 - government
-storyline_nexus: []
+storyline_nexus:
+- usda-proposed-rule-on-snap-categorical-eligibility
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,6 +194,7 @@ related_stories:
   relation: related
   strength: 0.7025
 ---
+
 ## USDA proposal would end automatic SNAP eligibility tied to TANF
 
 **Subtype:** fact

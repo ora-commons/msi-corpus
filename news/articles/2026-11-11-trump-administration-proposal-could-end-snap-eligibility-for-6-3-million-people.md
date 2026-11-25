@@ -41,7 +41,8 @@ primary_themes:
 topic_tags:
 - agriculture
 - government
-storyline_nexus: []
+storyline_nexus:
+- usda-proposed-rule-on-snap-categorical-eligibility
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -204,6 +205,7 @@ related_stories:
   relation: related
   strength: 0.7472
 ---
+
 ## Trump administration proposal could end SNAP eligibility for 6.3 million people
 
 **Subtype:** fact

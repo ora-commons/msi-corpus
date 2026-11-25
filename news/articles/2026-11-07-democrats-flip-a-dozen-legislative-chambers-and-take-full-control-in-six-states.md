@@ -45,7 +45,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- democratic-control-of-state-governments
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -208,8 +209,9 @@ related_stories:
   relation: related
   strength: 0.7301
 analyses:
-- '2026-11-07-democratic-trifectas-widen-state-authority-while-execution-limits-stay-untested'
+- 2026-11-07-democratic-trifectas-widen-state-authority-while-execution-limits-stay-untested
 ---
+
 ## Democrats flip a dozen legislative chambers and take full control in six states
 
 **Subtype:** fact

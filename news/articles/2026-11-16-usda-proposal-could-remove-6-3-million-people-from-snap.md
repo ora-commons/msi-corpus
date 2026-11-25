@@ -36,7 +36,8 @@ topic_tags:
 - agriculture
 - government
 - health
-storyline_nexus: []
+storyline_nexus:
+- usda-proposed-rule-on-snap-categorical-eligibility
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -212,6 +213,7 @@ related_stories:
   relation: related
   strength: 0.7536
 ---
+
 ## USDA proposal could remove 6.3 million people from SNAP
 
 **Subtype:** fact

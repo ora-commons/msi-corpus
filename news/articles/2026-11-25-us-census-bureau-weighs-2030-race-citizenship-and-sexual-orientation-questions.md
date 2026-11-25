@@ -1,9 +1,17 @@
 ---
 headline: US Census Bureau weighs 2030 race, citizenship and sexual orientation questions
-secondary_headline: Civil rights groups called for public opposition to the census proposals
+secondary_headline: Civil rights groups called for public opposition to the census
+  proposals
 publish_date: '2026-11-25'
-lede: The US Census Bureau is considering changes to the 2030 census that would remove the race and ethnicity question, add a citizenship question and formally bar questions about sexual orientation. The Trump administration proposed the changes before the midterm elections, and the public comment period ended on 2 November.
-nut_graf: Census data are used for congressional apportionment and legislative redistricting, while race and ethnicity data support public-health research and civil-rights enforcement. Civil rights and public-health advocates said removing race questions or adding a citizenship question could produce undercounts or reduced participation. The Census Bureau says its proposals would protect core decennial data and improve efficiency.
+lede: The US Census Bureau is considering changes to the 2030 census that would remove
+  the race and ethnicity question, add a citizenship question and formally bar questions
+  about sexual orientation. The Trump administration proposed the changes before the
+  midterm elections, and the public comment period ended on 2 November.
+nut_graf: Census data are used for congressional apportionment and legislative redistricting,
+  while race and ethnicity data support public-health research and civil-rights enforcement.
+  Civil rights and public-health advocates said removing race questions or adding
+  a citizenship question could produce undercounts or reduced participation. The Census
+  Bureau says its proposals would protect core decennial data and improve efficiency.
 primary_entities:
 - US Census Bureau
 - Trump administration
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +159,45 @@ related_stories:
   headline: Trump officials propose major 2030 census overhaul excluding noncitizens
   publish_date: '2026-09-09'
   relation: related
-  strength: 0.8808
+  strength: 0.8811
 - slug: 2026-11-03-voters-decide-145-state-ballot-measures-in-a-midterm-election
   headline: Voters decide 145 state ballot measures in a midterm election
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.6713
+  strength: 0.6709
 - slug: 2026-09-10-2030-census-proposal-seeks-input-on-immigrants-with-temporary-status
   headline: 2030 census proposal seeks input on immigrants with temporary status
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7751
+  strength: 0.7753
 - slug: 2026-09-10-census-proposal-would-exclude-refugees-and-asylum-seekers
   headline: Census proposal would exclude refugees and asylum seekers
   publish_date: '2026-09-10'
   relation: related
   strength: 0.7675
 - slug: 2026-09-24-warren-demands-trump-officials-explain-removal-of-census-interference-ban
-  headline: Warren demands Trump officials explain removal of census interference ban
+  headline: Warren demands Trump officials explain removal of census interference
+    ban
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6827
+  strength: 0.6836
 - slug: 2026-09-10-boyd-links-erosion-of-census-safeguards-to-administration-actions
   headline: Boyd links erosion of census safeguards to administration actions
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.7138
+  strength: 0.7135
 - slug: 2026-09-25-supreme-court-lifts-restrictions-on-federal-voter-citizenship-database
   headline: Supreme Court lifts restrictions on federal voter citizenship database
   publish_date: '2026-09-25'
   relation: related
-  strength: 0.6737
+  strength: 0.6747
 - slug: 2026-08-31-commerce-department-removes-political-interference-language-from-scientific-inte
-  headline: Commerce Department removes political interference language from scientific integrity policy
+  headline: Commerce Department removes political interference language from scientific
+    integrity policy
   publish_date: '2026-08-31'
   relation: related
-  strength: 0.6848
-- slug: 2026-08-19-census-noncitizen-voting-report-tied-to-trump-aligned-think-tank
-  headline: Census noncitizen voting report tied to Trump-aligned think tank
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.7025
-- slug: 2026-02-20-democrats-urge-census-to-drop-citizenship-question-from-2026-practice
-  headline: Democrats urge Census to drop citizenship question from 2026 practice
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7768
-- slug: 2026-02-06-census-practice-test-for-2030-includes-citizenship-question-experts-warn
-  headline: Census practice test for 2030 includes citizenship question, experts warn
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.7765
-- slug: 2026-09-02-eeoc-advances-plan-to-end-60-year-workforce-demographic-data-collection
-  headline: EEOC advances plan to end 60-year workforce demographic data collection
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.673
-- slug: 2026-02-19-democrats-urge-removal-of-citizenship-question-from-2026-census-test
-  headline: Democrats urge removal of citizenship question from 2026 census test
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7699
-- slug: 2026-06-12-trump-order-banning-statistical-noise-threatens-census-bureau-data
-  headline: Trump order banning statistical noise threatens Census Bureau data
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7245
-- slug: 2026-02-03-trump-administration-cuts-2030-census-test-sites-to-two-cities
-  headline: Trump administration cuts 2030 census test sites to two cities
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7412
-- slug: 2026-01-11-trump-allied-lawsuits-could-reshape-who-counts-in-the-2030-census
-  headline: Trump-allied lawsuits could reshape who counts in the 2030 census
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.7374
-- slug: 2026-07-21-eeoc-votes-to-end-60-year-workforce-demographic-data-requirement
-  headline: EEOC votes to end 60-year workforce demographic data requirement
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6756
-- slug: 2026-06-30-supreme-court-expected-to-rule-on-birthright-citizenship-trans-athlete-bans-on-f
-  headline: Supreme Court expected to rule on birthright citizenship, trans athlete bans on final day
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6803
-- slug: 2026-02-11-immigrant-groups-seek-to-dismiss-missouri-bid-to-exclude-noncitizens-from-census
-  headline: Immigrant groups seek to dismiss Missouri bid to exclude noncitizens from census
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7055
-- slug: 2026-03-24-us-census-plans-postal-carrier-pilot-for-2030-head-count-tests
-  headline: US Census plans postal-carrier pilot for 2030 head count tests
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6998
+  strength: 0.6856
 ---
-
 ## US Census Bureau weighs 2030 race, citizenship and sexual orientation questions
 
 **Subtype:** fact

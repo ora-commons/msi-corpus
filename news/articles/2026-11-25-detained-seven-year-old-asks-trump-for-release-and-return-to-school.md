@@ -1,9 +1,22 @@
 ---
 headline: Detained seven-year-old asks Trump for release and return to school
-secondary_headline: Dilley detention exceeds federal 20-day limit for children; DHS offers no explanation
+secondary_headline: Dilley detention exceeds federal 20-day limit for children; DHS
+  offers no explanation
 publish_date: '2026-11-25'
-lede: Seven-year-old Charlotte Ortiz has been held at the Dilley detention center in Texas since late October, after federal immigration agents arrested her and her mother in suburban New Orleans. In a letter written in Spanish inside the facility, Charlotte asked President Donald Trump to release her so she could visit her father and go back to school; a photograph of the letter was shared with the Guardian by the independent reporting outlet Perdido Street News. Her detention passed the 20-day limit for holding immigrant children set by a federal court in 1985.
-nut_graf: 'The family''s detention places the administration''s mass deportation campaign in the handwriting of a seven-year-old: a Department of Homeland Security spokesperson said Karen Ortiz has a final order of removal and that an asylum application "does NOT confer legal status in our country," while the family''s attorney said no child should have to write such a letter. The case has also drawn the response of Texas''s governor-elect, who has said she would move to stop the private contractor running Dilley from holding children in detention.'
+lede: Seven-year-old Charlotte Ortiz has been held at the Dilley detention center
+  in Texas since late October, after federal immigration agents arrested her and her
+  mother in suburban New Orleans. In a letter written in Spanish inside the facility,
+  Charlotte asked President Donald Trump to release her so she could visit her father
+  and go back to school; a photograph of the letter was shared with the Guardian by
+  the independent reporting outlet Perdido Street News. Her detention passed the 20-day
+  limit for holding immigrant children set by a federal court in 1985.
+nut_graf: 'The family''s detention places the administration''s mass deportation campaign
+  in the handwriting of a seven-year-old: a Department of Homeland Security spokesperson
+  said Karen Ortiz has a final order of removal and that an asylum application "does
+  NOT confer legal status in our country," while the family''s attorney said no child
+  should have to write such a letter. The case has also drawn the response of Texas''s
+  governor-elect, who has said she would move to stop the private contractor running
+  Dilley from holding children in detention.'
 primary_entities:
 - Charlotte Ortiz
 - Karen Ortiz
@@ -58,7 +71,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -160,104 +174,46 @@ related_stories:
   headline: ACLU files suit challenging ICE re-detention after release
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.6757
+  strength: 0.6751
 - slug: 2026-11-13-legal-advocates-say-immigrant-children-spend-weeks-in-cold-sunless-rooms
   headline: Legal advocates say immigrant children spend weeks in cold, sunless rooms
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6662
+  strength: 0.6673
 - slug: 2026-11-10-dhs-cites-safety-guardianship-concerns-vargas-says-8-year-old-haitian-boy-is-una
-  headline: DHS cites safety, guardianship concerns; Vargas says 8-year-old Haitian boy is unaccounted for
+  headline: DHS cites safety, guardianship concerns; Vargas says 8-year-old Haitian
+    boy is unaccounted for
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6759
+  strength: 0.6767
 - slug: 2026-11-12-more-than-500-u-s-citizens-detained-by-immigration-agents-despite-dhs-denials
-  headline: More than 500 U.S. citizens detained by immigration agents despite DHS denials
+  headline: More than 500 U.S. citizens detained by immigration agents despite DHS
+    denials
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.6621
+  strength: 0.663
 - slug: 2026-10-30-trump-administration-still-detains-pregnant-migrant-minors-in-south-texas
   headline: Trump administration still detains pregnant migrant minors in South Texas
   publish_date: '2026-10-30'
   relation: related
-  strength: 0.6625
+  strength: 0.6615
 - slug: 2026-09-03-lawyers-mobilize-to-free-migrant-children-held-in-us-custody
   headline: Lawyers mobilize to free migrant children held in US custody
   publish_date: '2026-09-03'
   relation: related
-  strength: 0.6647
+  strength: 0.6636
 - slug: 2026-05-18-families-protest-texas-detention-of-5-year-old-boy-and-father
   headline: Families protest Texas detention of 5-year-old boy and father
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.7445
+  strength: 0.7447
 - slug: 2026-03-22-lawyers-say-children-detained-past-court-limits-still-face-conditions-at-dilley
-  headline: Lawyers say children detained past court limits still face conditions at Dilley
+  headline: Lawyers say children detained past court limits still face conditions
+    at Dilley
   publish_date: '2026-03-22'
   relation: related
-  strength: 0.7458
-- slug: 2026-08-19-iranian-academic-detained-in-texas-over-1979-hostage-ties-describes-conditions
-  headline: Iranian academic detained in Texas over 1979 hostage ties describes conditions
-  publish_date: '2026-08-19'
-  relation: related
-  strength: 0.6632
-- slug: 2026-03-01-trump-administration-holds-children-in-immigration-detention-for-months
-  headline: Trump administration holds children in immigration detention for months
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.7404
-- slug: 2026-01-29-democrats-visit-detained-5-year-old-at-texas-ice-facility
-  headline: Democrats visit detained 5-year-old at Texas ICE facility
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7088
-- slug: 2026-01-27-federal-judge-halts-removal-of-detained-5-year-old-and-father
-  headline: Federal judge halts removal of detained 5-year-old and father
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.7047
-- slug: 2026-04-04-toddler-alleges-sexual-abuse-during-federal-immigration-custody-in-texas
-  headline: Toddler alleges sexual abuse during federal immigration custody in Texas
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6984
-- slug: 2026-03-10-ice-releases-teen-mariachi-brothers-after-bipartisan-criticism
-  headline: ICE releases teen mariachi brothers after bipartisan criticism
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6987
-- slug: 2026-01-24-government-and-school-offer-conflicting-accounts-in-5-year-old-s-ice-detention
-  headline: Government and school offer conflicting accounts in 5-year-old's ICE detention
-  publish_date: '2026-01-24'
-  relation: related
-  strength: 0.6993
-- slug: 2026-04-06-toddler-allegedly-abused-while-in-federal-immigration-custody-family-says
-  headline: Toddler allegedly abused while in federal immigration custody, family says
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6914
-- slug: 2026-04-02-california-daca-mother-reunites-with-daughter-after-judge-orders-return
-  headline: California DACA mother reunites with daughter after judge orders return
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6879
-- slug: 2026-04-05-lawsuit-says-3-year-old-faced-alleged-sexual-abuse-while-held-by-orr
-  headline: Lawsuit says 3-year-old faced alleged sexual abuse while held by ORR
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6831
-- slug: 2026-02-01-judge-orders-release-of-5-year-old-liam-ramos-and-his-father-from-ice
-  headline: Judge orders release of 5-year-old Liam Ramos and his father from ICE
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.6843
-- slug: 2026-04-16-venezuelan-doctor-detained-at-texas-airport-before-asylum-interview
-  headline: Venezuelan doctor detained at Texas airport before asylum interview
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6729
+  strength: 0.7462
 ---
-
 ## Detained seven-year-old asks Trump for release and return to school
 
 **Subtype:** fact

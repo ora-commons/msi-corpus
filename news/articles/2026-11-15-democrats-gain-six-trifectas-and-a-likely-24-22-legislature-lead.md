@@ -38,7 +38,8 @@ topic_tags:
 - politics
 - political process
 - government
-storyline_nexus: []
+storyline_nexus:
+- democratic-control-of-state-governments
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -215,6 +216,7 @@ related_stories:
   relation: related
   strength: 0.7536
 ---
+
 ## Democrats gain six trifectas and a likely 24-22 legislature lead
 
 **Subtype:** fact
