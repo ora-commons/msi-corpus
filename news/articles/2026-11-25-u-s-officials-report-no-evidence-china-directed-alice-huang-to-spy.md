@@ -1,9 +1,20 @@
 ---
 headline: U.S. officials report no evidence China directed Alice Huang to spy
-secondary_headline: Briefing says China's spy agency approached Alice Huang under law
+secondary_headline: Briefing says China's spy agency approached Alice Huang under
+  law
 publish_date: '2026-11-25'
-lede: U.S. officials told congressional staffers in a highly classified briefing Tuesday that no evidence shows Chinese intelligence directed Alice Huang to spy on Nvidia CEO Jensen Huang. People familiar with the discussion said current U.S. evidence suggests the relationship may have been amorous, though new information could change that or any other assessment. The session came a day after President Trump helped reinstall Huang as Nvidia's chief executive.
-nut_graf: The assessment lands with the investigations still open. U.S. intelligence agencies and Nvidia's board are examining what influence, if any, the affair had on alleged smuggling of Nvidia chips into China, while the Justice Department is pursuing two chip-diversion probes that include Alice Huang. Jensen Huang, who has helped shape the administration's AI policies, is returning to the company and faces congressional scrutiny next week.
+lede: U.S. officials told congressional staffers in a highly classified briefing Tuesday
+  that no evidence shows Chinese intelligence directed Alice Huang to spy on Nvidia
+  CEO Jensen Huang. People familiar with the discussion said current U.S. evidence
+  suggests the relationship may have been amorous, though new information could change
+  that or any other assessment. The session came a day after President Trump helped
+  reinstall Huang as Nvidia's chief executive.
+nut_graf: The assessment lands with the investigations still open. U.S. intelligence
+  agencies and Nvidia's board are examining what influence, if any, the affair had
+  on alleged smuggling of Nvidia chips into China, while the Justice Department is
+  pursuing two chip-diversion probes that include Alice Huang. Jensen Huang, who has
+  helped shape the administration's AI policies, is returning to the company and faces
+  congressional scrutiny next week.
 primary_entities:
 - Jensen Huang
 - Alice Huang
@@ -45,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,17 +156,25 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-24-u-s-sources-say-no-definitive-proof-alice-huang-was-tasked-as-a-chinese-spy
-  headline: U.S. sources say no definitive proof Alice Huang was tasked as a Chinese spy
+  headline: U.S. sources say no definitive proof Alice Huang was tasked as a Chinese
+    spy
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8749
+  strength: 0.8746
+- slug: 2026-11-25-nvidia-ceo-jensen-huang-set-for-house-hearing-after-fitzpatrick-requests-fbi-cia
+  headline: Nvidia CEO Jensen Huang set for House hearing after Fitzpatrick requests
+    FBI, CIA briefings
+  publish_date: '2026-11-25'
+  relation: related
+  strength: 0.8666
 - slug: 2026-11-23-trump-declines-to-say-if-he-was-briefed-as-nvidia-reinstates-huang
   headline: Trump declines to say if he was briefed as Nvidia reinstates Huang
   publish_date: '2026-11-23'
   relation: related
   strength: 0.821
 - slug: 2026-11-23-nvidia-s-board-cites-u-s-government-input-in-huang-s-return-amid-sec-probe
-  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC probe
+  headline: Nvidia's board cites U.S. government input in Huang's return amid SEC
+    probe
   publish_date: '2026-11-23'
   relation: related
   strength: 0.8059
@@ -162,98 +182,37 @@ related_stories:
   headline: Trump's closeness to Huang draws scrutiny over intelligence concerns
   publish_date: '2026-11-14'
   relation: related
-  strength: 0.8404
+  strength: 0.8402
 - slug: 2026-11-17-justice-department-leads-multiple-investigations-involving-alice-huang
   headline: Justice Department leads multiple investigations involving Alice Huang
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8138
+  strength: 0.8136
 - slug: 2026-11-17-petition-seeks-huang-s-return-board-not-currently-considering-it-source-says
-  headline: Petition seeks Huang's return; board not currently considering it, source says
+  headline: Petition seeks Huang's return; board not currently considering it, source
+    says
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.8045
+  strength: 0.8039
 - slug: 2026-11-16-nvidia-board-won-t-consider-huang-s-return-as-ceo-source-says
   headline: Nvidia board won't consider Huang's return as CEO, source says
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.807
-- slug: 2026-11-12-jensen-huang-resigns-as-nvidia-ceo-after-affair-reports
-  headline: Jensen Huang resigns as Nvidia CEO after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8279
-- slug: 2026-11-09-nvidia-says-it-was-unaware-of-intelligence-concerns-involving-alice-huang
-  headline: Nvidia says it was unaware of intelligence concerns involving Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8436
-- slug: 2026-11-12-nvidia-s-huang-wins-looser-china-chip-rules-despite-national-security-warnings
-  headline: Nvidia's Huang wins looser China chip rules despite national-security warnings
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8261
-- slug: 2026-11-13-jensen-huang-and-lutnick-to-face-congress-over-nvidia-security-fears
-  headline: Jensen Huang and Lutnick to face Congress over Nvidia security fears
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.819
-- slug: 2026-11-14-congress-seizes-on-nvidia-scandal-to-press-for-tighter-china-chip-export-curbs
-  headline: Congress seizes on Nvidia scandal to press for tighter China chip export curbs
-  publish_date: '2026-11-14'
-  relation: related
-  strength: 0.8113
-- slug: 2026-11-12-nvidia-board-meets-on-whether-to-oust-ceo-jensen-huang
-  headline: Nvidia board meets on whether to oust CEO Jensen Huang
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8216
-- slug: 2026-11-09-trump-says-fbi-is-investigating-jensen-huang-s-relationship-with-alice-huang
-  headline: Trump says FBI is investigating Jensen Huang's relationship with Alice Huang
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.8351
-- slug: 2026-11-12-nvidia-ceo-jensen-huang-resigns-after-affair-reports
-  headline: Nvidia CEO Jensen Huang resigns after affair reports
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.8179
-- slug: 2026-11-13-report-says-trump-was-told-of-huang-spy-link-in-2025-and-chose-not-to-act
-  headline: Report says Trump was told of Huang spy link in 2025 and chose not to act
-  publish_date: '2026-11-13'
-  relation: related
-  strength: 0.812
-- slug: 2026-11-08-nvidia-board-opens-independent-investigation-after-reports-about-jensen-huang
-  headline: Nvidia board opens independent investigation after reports about Jensen Huang
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8393
-- slug: 2026-11-08-nvidia-inquiry-follows-u-s-conclusion-on-alice-huang-s-data-center-work
-  headline: Nvidia inquiry follows U.S. conclusion on Alice Huang's data-center work
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8324
-- slug: 2026-11-08-congressional-committees-ask-nvidia-ceo-jensen-huang-to-testify-next-week
-  headline: Congressional committees ask Nvidia CEO Jensen Huang to testify next week
-  publish_date: '2026-11-08'
-  relation: related
-  strength: 0.8303
-- slug: 2026-11-10-nvidia-faces-scrutiny-over-alleged-spying-that-targeted-huang
-  headline: Nvidia faces scrutiny over alleged spying that targeted Huang
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.8162
+  strength: 0.8066
 image:
   url: /articles/2026-11-25-u-s-officials-report-no-evidence-china-directed-alice-huang-to-spy.png
-  alt: "Illustration accompanying article: U.S. officials report no evidence China directed Alice Huang to spy"
+  alt: 'Illustration accompanying article: U.S. officials report no evidence China
+    directed Alice Huang to spy'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## U.S. officials report no evidence China directed Alice Huang to spy
 
 **Subtype:** fact

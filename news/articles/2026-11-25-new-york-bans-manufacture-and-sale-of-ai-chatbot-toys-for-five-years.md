@@ -2,8 +2,15 @@
 headline: New York bans manufacture and sale of AI chatbot toys for five years
 secondary_headline: Attorney General James says her office will enforce the law
 publish_date: '2026-11-25'
-lede: Gov. Kathy Hochul signed legislation on Wednesday that bans the manufacture and sale of toys powered by AI chatbots for five years, covering talking stuffed animals, dolls and robots that use the internet to hold conversations with children. The law follows an earlier letter from more than 155 child safety advocates and technology experts asking Amazon and eBay to bar AI toys from their platforms.
-nut_graf: The five-year measure prohibits manufacturing and selling AI chatbot toys, while last month's law restricted certain unsafe chatbot features offered to minors. Hochul signed both measures and has also placed a one-year moratorium on AI datacenter construction in New York.
+lede: Gov. Kathy Hochul signed legislation on Wednesday that bans the manufacture
+  and sale of toys powered by AI chatbots for five years, covering talking stuffed
+  animals, dolls and robots that use the internet to hold conversations with children.
+  The law follows an earlier letter from more than 155 child safety advocates and
+  technology experts asking Amazon and eBay to bar AI toys from their platforms.
+nut_graf: The five-year measure prohibits manufacturing and selling AI chatbot toys,
+  while last month's law restricted certain unsafe chatbot features offered to minors.
+  Hochul signed both measures and has also placed a one-year moratorium on AI datacenter
+  construction in New York.
 primary_entities:
 - New York
 - Kathy Hochul
@@ -50,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,107 +157,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-23-child-safety-groups-seek-pause-in-ai-toy-sales-this-christmas-until-proved-safe
-  headline: Child safety groups seek pause in AI toy sales this Christmas until proved safe
+  headline: Child safety groups seek pause in AI toy sales this Christmas until proved
+    safe
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7204
+  strength: 0.72
 - slug: 2026-10-28-new-york-restricts-chatbot-conduct-with-children-under-18
   headline: New York restricts chatbot conduct with children under 18
   publish_date: '2026-10-28'
   relation: related
   strength: 0.8607
-- slug: 2026-11-05-google-meta-and-tiktok-sue-california-over-law-curbing-addictive-features-for-ki
-  headline: Google, Meta and TikTok sue California over law curbing addictive features for kids
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.6441
-- slug: 2026-10-28-australia-advances-bill-targeting-emotional-intimacy-by-ai-chatbots
-  headline: Australia advances bill targeting emotional intimacy by AI chatbots
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6429
-- slug: 2026-10-15-eight-states-sue-openai-over-chatgpt-s-alleged-harms-to-minors
-  headline: Eight states sue OpenAI over ChatGPT's alleged harms to minors
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6325
-- slug: 2026-10-05-former-ai-researcher-coxon-tells-nyc-council-humanity-could-lose-control-of-ai
-  headline: Former AI researcher Coxon tells NYC Council humanity could lose control of AI
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6385
 - slug: 2026-09-10-newsom-signs-law-banning-addictive-social-media-features-for-users-under-16
-  headline: Newsom signs law banning addictive social-media features for users under 16
+  headline: Newsom signs law banning addictive social-media features for users under
+    16
   publish_date: '2026-09-10'
   relation: related
-  strength: 0.6982
+  strength: 0.698
 - slug: 2026-09-02-new-york-city-schools-ban-student-facing-ai-through-eighth-grade-for-one-year
-  headline: New York City schools ban student-facing AI through eighth grade for one year
+  headline: New York City schools ban student-facing AI through eighth grade for one
+    year
   publish_date: '2026-09-02'
   relation: related
   strength: 0.7002
-- slug: 2026-09-30-trump-ai-executives-sign-voluntary-self-policing-accord
-  headline: Trump, AI executives sign voluntary self-policing accord
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6314
 - slug: 2026-09-17-baldwin-scott-ask-ftc-to-investigate-amazon-walmart-chatbots
   headline: Baldwin, Scott ask FTC to investigate Amazon, Walmart chatbots
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.663
+  strength: 0.6629
 - slug: 2026-09-02-nyc-public-schools-ban-student-facing-ai-through-middle-school
   headline: NYC public schools ban student-facing AI through middle school
   publish_date: '2026-09-02'
   relation: related
-  strength: 0.6813
-- slug: 2026-09-15-congress-builds-bipartisan-push-for-ai-guardrails-as-trump-dismisses-risks
-  headline: Congress builds bipartisan push for AI guardrails as Trump dismisses risks
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6407
-- slug: 2026-09-09-aft-uft-and-microsoft-sign-ai-privacy-standard-enforceable-by-districts
-  headline: AFT, UFT and Microsoft sign AI privacy standard enforceable by districts
-  publish_date: '2026-09-09'
-  relation: related
-  strength: 0.6423
-- slug: 2026-09-02-tech-executives-trump-officials-urge-g-20-to-minimize-ai-regulation
-  headline: Tech executives, Trump officials urge G-20 to minimize AI regulation
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6426
+  strength: 0.6814
 - slug: 2026-07-30-report-finds-ai-shopping-chatbots-from-amazon-walmart-give-inconsistent-made-in-
-  headline: Report finds AI shopping chatbots from Amazon, Walmart give inconsistent 'Made in USA' product data
+  headline: Report finds AI shopping chatbots from Amazon, Walmart give inconsistent
+    'Made in USA' product data
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.6879
+  strength: 0.6877
 - slug: 2026-07-14-new-york-governor-signs-one-year-halt-on-large-data-centers
   headline: New York governor signs one-year halt on large data centers
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6975
-- slug: 2026-08-06-california-bill-would-restrict-ai-chatbots-used-for-therapy
-  headline: California bill would restrict AI chatbots used for therapy
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.6733
-- slug: 2026-07-26-ai-chatbots-provide-step-by-step-biological-weapon-instructions-employees-say
-  headline: AI chatbots provide step-by-step biological weapon instructions, employees say
-  publish_date: '2026-07-26'
-  relation: related
-  strength: 0.6718
-- slug: 2026-07-23-bipartisan-bill-would-give-dhs-power-to-shut-down-dangerous-ai-models
-  headline: Bipartisan bill would give DHS power to shut down dangerous AI models
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6531
-- slug: 2026-07-21-commerce-department-ai-export-order-raises-unresolved-legal-questions
-  headline: Commerce Department AI export order raises unresolved legal questions
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.632
+  strength: 0.6967
 ---
-
 ## New York bans manufacture and sale of AI chatbot toys for five years
 
 **Subtype:** fact

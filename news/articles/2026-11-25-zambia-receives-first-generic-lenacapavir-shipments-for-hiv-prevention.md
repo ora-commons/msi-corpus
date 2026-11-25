@@ -2,8 +2,14 @@
 headline: Zambia receives first generic lenacapavir shipments for HIV prevention
 secondary_headline: Uganda deliveries expected in coming days
 publish_date: '2026-11-25'
-lede: The first shipments of generic lenacapavir, a twice-a-year HIV-prevention injection, arrived in Zambia on Wednesday, with additional deliveries expected in Uganda in the coming days. The generic is expected to cost $40 per person each year and will eventually be available in 120 countries.
-nut_graf: The Global Fund shipment is expected to put the doses into use within three weeks after clearance in Zambia. Unitaid deputy executive director Tenu Avafia said generic arrivals mark a major step toward making the nearly 100%-effective injection more widely available and affordable in low- and middle-income countries.
+lede: The first shipments of generic lenacapavir, a twice-a-year HIV-prevention injection,
+  arrived in Zambia on Wednesday, with additional deliveries expected in Uganda in
+  the coming days. The generic is expected to cost $40 per person each year and will
+  eventually be available in 120 countries.
+nut_graf: The Global Fund shipment is expected to put the doses into use within three
+  weeks after clearance in Zambia. Unitaid deputy executive director Tenu Avafia said
+  generic arrivals mark a major step toward making the nearly 100%-effective injection
+  more widely available and affordable in low- and middle-income countries.
 primary_entities:
 - Zambia
 - Uganda
@@ -59,7 +65,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -158,107 +165,22 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-02-fda-tentatively-approves-generic-lenacapavir-to-expand-global-hiv-prevention-acc
-  headline: FDA tentatively approves generic lenacapavir to expand global HIV prevention access
+  headline: FDA tentatively approves generic lenacapavir to expand global HIV prevention
+    access
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.8326
+  strength: 0.8327
 - slug: 2026-11-03-lenacapavir-demand-outstrips-supply-in-uganda-for-hiv-prevention
   headline: Lenacapavir demand outstrips supply in Uganda for HIV prevention
   publish_date: '2026-11-03'
   relation: related
   strength: 0.7614
-- slug: 2026-11-18-zambia-and-zimbabwe-take-different-paths-after-u-s-aid-rules-change
-  headline: Zambia and Zimbabwe take different paths after U.S. aid rules change
-  publish_date: '2026-11-18'
-  relation: related
-  strength: 0.6157
-- slug: 2026-11-06-trump-administration-remakes-global-health-aid-through-country-by-country-deals
-  headline: Trump administration remakes global health aid through country-by-country deals
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.5635
-- slug: 2026-11-01-fda-approves-one-time-gene-therapy-for-sanfilippo-syndrome
-  headline: FDA approves one-time gene therapy for Sanfilippo syndrome
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.5492
-- slug: 2026-10-28-africa-cdc-director-warns-ebola-outbreak-could-reach-the-uk
-  headline: Africa CDC director warns Ebola outbreak could reach the UK
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5474
-- slug: 2026-10-21-lead-researcher-says-guinea-bissau-hepatitis-b-trial-will-not-proceed
-  headline: Lead researcher says Guinea-Bissau hepatitis B trial will not proceed
-  publish_date: '2026-10-21'
-  relation: related
-  strength: 0.567
-- slug: 2026-10-23-kenya-reports-second-ebola-death-as-nigeria-investigates-first-case
-  headline: Kenya reports second Ebola death as Nigeria investigates first case
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.5482
-- slug: 2026-10-20-officials-say-guinea-bissau-judicial-police-searched-bandim-offices-seized-vacci
-  headline: Officials say Guinea-Bissau judicial police searched Bandim offices, seized vaccine doses
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.5515
-- slug: 2026-10-09-danish-panel-clears-hepatitis-b-trial-in-guinea-bissau-despite-resignations
-  headline: Danish panel clears hepatitis B trial in Guinea-Bissau despite resignations
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5464
 - slug: 2026-06-03-canada-clears-generic-ozempic-us-patent-wall-holds-until-2032
   headline: Canada clears generic Ozempic; US patent wall holds until 2032
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.663
-- slug: 2026-07-16-fda-approves-merck-s-lipfendra-first-oral-pcsk9-inhibitor
-  headline: FDA approves Merck’s Lipfendra, first oral PCSK9 inhibitor
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5807
-- slug: 2026-07-01-medicare-launches-50-monthly-glp-1-pilot-for-some-seniors
-  headline: Medicare launches $50 monthly GLP-1 pilot for some seniors
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5748
-- slug: 2026-07-24-regeneron-bets-on-science-over-acquisitions-as-flagship-drugs-face-pressure
-  headline: Regeneron bets on science over acquisitions as flagship drugs face pressure
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5558
-- slug: 2026-08-01-brazil-hiv-advocates-say-they-foresaw-usaid-cuts-for-years
-  headline: Brazil HIV advocates say they foresaw USAID cuts for years
-  publish_date: '2026-08-01'
-  relation: related
-  strength: 0.5467
-- slug: 2026-05-31-trump-administration-ties-african-health-aid-to-mineral-access-and-data-demands
-  headline: Trump Administration Ties African Health Aid to Mineral Access and Data Demands
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5794
-- slug: 2026-05-06-zambia-accuses-u-s-of-tying-2b-health-aid-deal-to-mineral-access
-  headline: Zambia accuses U.S. of tying $2B health aid deal to mineral access
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5766
-- slug: 2026-06-19-u-s-to-end-hiv-program-funding-for-south-africa-over-policy-differences
-  headline: U.S. to end HIV program funding for South Africa over policy differences
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.553
-- slug: 2026-05-17-who-declares-global-health-emergency-as-ebola-outbreak-spreads-in-congo-and-ugan
-  headline: WHO Declares Global Health Emergency as Ebola Outbreak Spreads in Congo and Uganda
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5574
-- slug: 2026-05-21-planned-parenthood-to-offer-just-in-case-abortion-pills-in-two-states
-  headline: Planned Parenthood to offer “just in case” abortion pills in two states
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5527
+  strength: 0.6621
 ---
-
 ## Zambia receives first generic lenacapavir shipments for HIV prevention
 
 **Subtype:** fact
