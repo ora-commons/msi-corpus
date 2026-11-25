@@ -2,8 +2,13 @@
 headline: Poundland enters administration after Gordon Brothers rejects rescue bids
 secondary_headline: £22.5m shareholder loan complicated Poundland rescue negotiations
 publish_date: '2026-11-25'
-lede: Poundland formally entered administration on Wednesday afternoon, putting 11,000 jobs at risk just weeks before Christmas after its US owner failed to find a buyer. The filing came ahead of a deadline for creditor protection that was due to expire at midnight, with no rescue transaction reached.
-nut_graf: BBC News identified a shareholder loan as a central stumbling block in the talks. Gordon Brothers' rejection of offers that would repay debt it was owed left the discount retailer to enter administration, with 11,000 jobs at risk.
+lede: Poundland formally entered administration on Wednesday afternoon, putting 11,000
+  jobs at risk just weeks before Christmas after its US owner failed to find a buyer.
+  The filing came ahead of a deadline for creditor protection that was due to expire
+  at midnight, with no rescue transaction reached.
+nut_graf: BBC News identified a shareholder loan as a central stumbling block in the
+  talks. Gordon Brothers' rejection of offers that would repay debt it was owed left
+  the discount retailer to enter administration, with 11,000 jobs at risk.
 primary_entities:
 - Poundland
 - Gordon Brothers
@@ -48,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,41 +153,48 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-25-poundland-enters-administration-after-gordon-brothers-rejects-rescue-bids.png
-  alt: 'Illustration accompanying article: Poundland enters administration after Gordon Brothers rejects rescue bids'
+  alt: 'Illustration accompanying article: Poundland enters administration after Gordon
+    Brothers rejects rescue bids'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-23-gordon-brothers-weighs-three-bids-for-poundland-amid-cash-restrictions
   headline: Gordon Brothers weighs three bids for Poundland amid cash restrictions
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.842
+  strength: 0.8426
 - slug: 2026-11-09-gordon-brothers-limits-poundland-cash-leaving-600-shops-short-of-stock
   headline: Gordon Brothers limits Poundland cash, leaving 600 shops short of stock
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.843
+  strength: 0.8441
 - slug: 2026-11-15-poundland-s-us-owner-releases-21m-to-restock-600-shops
   headline: Poundland's US owner releases £21m to restock 600 shops
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7988
+  strength: 0.7993
 - slug: 2026-11-12-gordon-brothers-releases-10m-to-poundland-as-12-000-store-jobs-remain-at-risk
-  headline: Gordon Brothers releases £10m to Poundland as 12,000 store jobs remain at risk
+  headline: Gordon Brothers releases £10m to Poundland as 12,000 store jobs remain
+    at risk
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7912
+  strength: 0.7921
 - slug: 2026-11-12-poundland-wins-two-more-weeks-of-creditor-protection-as-owner-weighs-three-bids
-  headline: Poundland wins two more weeks of creditor protection as owner weighs three bids
+  headline: Poundland wins two more weeks of creditor protection as owner weighs three
+    bids
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.7753
+  strength: 0.7758
 - slug: 2026-10-30-poundland-files-notice-to-appoint-administrators-as-owner-rejects-rescue-bid
-  headline: Poundland files notice to appoint administrators as owner rejects rescue bid
+  headline: Poundland files notice to appoint administrators as owner rejects rescue
+    bid
   publish_date: '2026-10-30'
   relation: related
   strength: 0.8328
@@ -189,74 +202,13 @@ related_stories:
   headline: Xyra offers partial debt payment in bid to rescue Poundland
   publish_date: '2026-11-05'
   relation: related
-  strength: 0.8007
+  strength: 0.8009
 - slug: 2026-11-03-uk-government-pressures-gordon-brothers-over-poundland-rescue-bids
   headline: UK government pressures Gordon Brothers over Poundland rescue bids
   publish_date: '2026-11-03'
   relation: related
-  strength: 0.7997
-- slug: 2026-11-04-poundland-suppliers-urge-owner-to-explore-alternatives-to-break-up
-  headline: Poundland suppliers urge owner to explore alternatives to break-up
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.7732
-- slug: 2026-11-25-m-g-chief-urges-uk-action-on-compass-new-york-listing-plan
-  headline: M&G chief urges UK action on Compass New York listing plan
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.5674
-- slug: 2026-11-19-alvarez-marsal-takes-control-of-general-pants-co-in-voluntary-administration
-  headline: Alvarez & Marsal takes control of General Pants Co in voluntary administration
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.5892
-- slug: 2026-11-16-o-dowd-says-treasury-figures-put-ni-funding-below-need-level-for-next-two-years
-  headline: O'Dowd says Treasury figures put NI funding below need level for next two years
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.5652
-- slug: 2026-10-12-albertsons-says-mcmullen-rejected-800m-price-cut-never-told-board
-  headline: Albertsons says McMullen rejected $800M price cut, never told board
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5841
-- slug: 2026-10-15-trump-appointed-regulator-banks-cut-off-trump-sellers-democrats-firearms-firm
-  headline: 'Trump-appointed regulator: Banks cut off Trump sellers, Democrats, firearms firm'
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.5617
-- slug: 2026-09-18-brewdog-workers-owed-wages-to-receive-nothing-administrators-report
-  headline: Brewdog workers owed wages to receive nothing, administrators report
-  publish_date: '2026-09-18'
-  relation: related
-  strength: 0.6174
-- slug: 2026-09-29-piper-sandler-in-talks-to-acquire-perella-weinberg-partners
-  headline: Piper Sandler in talks to acquire Perella Weinberg Partners
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.586
-- slug: 2026-09-29-goldman-board-has-discussed-waldron-succeeding-solomon-as-soon-as-late-2027
-  headline: Goldman board has discussed Waldron succeeding Solomon as soon as late 2027
-  publish_date: '2026-09-29'
-  relation: related
-  strength: 0.571
-- slug: 2026-09-20-polymarket-ceo-told-compliance-staff-to-keep-growing-during-10m-fraud-attack
-  headline: Polymarket CEO told compliance staff to 'keep growing' during $10M fraud attack
-  publish_date: '2026-09-20'
-  relation: related
-  strength: 0.578
-- slug: 2026-08-16-mark-walter-s-insurers-face-probe-over-20b-in-undisclosed-loans
-  headline: Mark Walter's insurers face probe over $20B in undisclosed loans
-  publish_date: '2026-08-16'
-  relation: related
-  strength: 0.5861
-- slug: 2026-07-27-dnc-chair-ken-martin-faces-scrutiny-over-finances-and-internal-criticism
-  headline: DNC chair Ken Martin faces scrutiny over finances and internal criticism
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5911
+  strength: 0.8001
 ---
-
 ## Poundland enters administration after Gordon Brothers rejects rescue bids
 
 **Subtype:** fact
