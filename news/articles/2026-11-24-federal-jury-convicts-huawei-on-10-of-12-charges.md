@@ -50,7 +50,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -220,3 +220,10 @@ The verdict came after President Trump visited Shenzhen, where Huawei is based, 
 **Publication date:** 2026-11-24
 **Title:** China’s Huawei Convicted of Fraud in U.S. Criminal Trial
 **URL:** https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3
+
+### src_late_9224e75a26b7ebf9 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** David Smagalla
+**Publication date:** 2026-11-25
+**Title:** The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial
+**URL:** https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211
+**Added after publication:** true
