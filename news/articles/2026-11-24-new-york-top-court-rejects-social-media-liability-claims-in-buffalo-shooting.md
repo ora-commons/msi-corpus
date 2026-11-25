@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-02-12'
   relation: related
   strength: 0.7038
+analyses:
+- '2026-11-24-new-york-court-of-appeals-centers-buffalo-platform-claims-on-shooter-specific-ca'
 ---
 ## New York top court rejects social media liability claims in Buffalo shooting
 
@@ -237,3 +239,8 @@ The 10 people Gendron killed ranged in age from 32 to 86. The victims were Heywa
 **Title:** Meta and other social media firms are not liable for Buffalo mass shooting, court rules
 **URL:** https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting
 **Added after publication:** true
+
+---
+
+<!-- analysis-link:2026-11-24-new-york-court-of-appeals-centers-buffalo-platform-claims-on-shooter-specific-ca -->
+**Going deeper:** [Read MSI's analysis of platform causation in the Buffalo shooting →](/analyses/2026-11-24-new-york-court-of-appeals-centers-buffalo-platform-claims-on-shooter-specific-ca)

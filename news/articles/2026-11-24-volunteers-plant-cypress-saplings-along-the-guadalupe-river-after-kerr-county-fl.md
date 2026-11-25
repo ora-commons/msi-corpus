@@ -164,6 +164,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:google/gemini-3.1-flash-image"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-11-24-san-antonio-botanical-garden-campaign-has-no-reported-survival-benchmark'
 ---
 ## Volunteers plant cypress saplings along the Guadalupe River after Kerr County floods
 
@@ -213,3 +215,8 @@ The botanical garden could expand the work with more funding. In addition to its
 **Publication date:** 2026-11-24
 **Title:** New cypress trees grow in Kerr County, bringing hope and healing after floods
 **URL:** https://apnews.com/article/guadalupe-river-kerr-county-flooding-cypress-trees-7732ec514f31a33dc9cb1307436ef2f0
+
+---
+
+<!-- analysis-link:2026-11-24-san-antonio-botanical-garden-campaign-has-no-reported-survival-benchmark -->
+**Going deeper:** [Read MSI's analysis of Guadalupe River cypress restoration →](/analyses/2026-11-24-san-antonio-botanical-garden-campaign-has-no-reported-survival-benchmark)
