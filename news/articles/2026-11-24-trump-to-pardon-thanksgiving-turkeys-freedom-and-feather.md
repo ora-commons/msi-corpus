@@ -38,7 +38,8 @@ primary_themes:
 - Residence of the pardoned turkeys at Texas A&M University
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- white-house-thanksgiving-turkey-pardon
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -164,6 +165,7 @@ related_stories:
   relation: related
   strength: 0.6553
 ---
+
 ## Trump to pardon Thanksgiving turkeys Freedom and Feather
 
 **Subtype:** fact

@@ -1,9 +1,24 @@
 ---
 headline: Judge barred third-country deportation of Ábrego García after Uganda reports
-secondary_headline: Costa Rica agreed to accept Ábrego García as a refugee with legal status
+secondary_headline: Costa Rica agreed to accept Ábrego García as a refugee with legal
+  status
 publish_date: '2026-11-25'
-lede: A federal judge barred the Trump administration from deporting Kilmar Ábrego García to a third country after reports that Uganda was being considered, and CBS News reported that the administration at one point asked the judge to lift the order for a transfer to Liberia. Costa Rica's government had agreed to accept Ábrego García as a refugee and provide legal status. Sen. Chris Van Hollen, who visited Ábrego García at Cecot prison in 2025, said he was travelling to a country of his choice, "a free man - unharmed and with dignity." BBC News separately reported that Ábrego García was set to take a commercial flight to Spain on Tuesday.
-nut_graf: The Uganda reports preceded a judge's order barring third-country deportation, while the government, according to CBS, sought to have that order lifted for a transfer to Liberia. Ábrego García's deportation and return became a flash point in the debate over President Donald Trump's immigration agenda, and the administration continued attempts to send him to other countries, including Uganda and Ghana. Costa Rica's agreement to accept him as a refugee with legal status and Van Hollen's account of his 2025 Cecot visit add context to the legal and political struggle over where he could go.
+lede: A federal judge barred the Trump administration from deporting Kilmar Ábrego
+  García to a third country after reports that Uganda was being considered, and CBS
+  News reported that the administration at one point asked the judge to lift the order
+  for a transfer to Liberia. Costa Rica's government had agreed to accept Ábrego García
+  as a refugee and provide legal status. Sen. Chris Van Hollen, who visited Ábrego
+  García at Cecot prison in 2025, said he was travelling to a country of his choice,
+  "a free man - unharmed and with dignity." BBC News separately reported that Ábrego
+  García was set to take a commercial flight to Spain on Tuesday.
+nut_graf: The Uganda reports preceded a judge's order barring third-country deportation,
+  while the government, according to CBS, sought to have that order lifted for a transfer
+  to Liberia. Ábrego García's deportation and return became a flash point in the debate
+  over President Donald Trump's immigration agenda, and the administration continued
+  attempts to send him to other countries, including Uganda and Ghana. Costa Rica's
+  agreement to accept him as a refugee with legal status and Van Hollen's account
+  of his 2025 Cecot visit add context to the legal and political struggle over where
+  he could go.
 primary_entities:
 - Kilmar Ábrego García
 - Chris Van Hollen
@@ -53,7 +68,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,104 +171,44 @@ related_stories:
   headline: Kilmar Abrego Garcia self-deports to Spain, source says
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8169
+  strength: 0.8219
 - slug: 2026-11-24-kilmar-brego-garc-a-is-leaving-the-u-s-for-spain-voluntarily
   headline: Kilmar Ábrego García is leaving the U.S. for Spain voluntarily
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7526
+  strength: 0.7528
 - slug: 2026-11-24-sealed-document-enters-abrego-garcia-s-case-source-says-destination-undecided
   headline: Sealed document enters Abrego Garcia's case; source says destination undecided
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.731
+  strength: 0.735
 - slug: 2026-10-06-abrego-garcia-in-court-tuesday-to-block-liberia-deportation
   headline: Abrego Garcia in court Tuesday to block Liberia deportation
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.815
+  strength: 0.8193
 - slug: 2026-10-09-two-cuban-men-describe-deportation-to-central-african-republic
   headline: Two Cuban men describe deportation to Central African Republic
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.7185
+  strength: 0.721
 - slug: 2026-10-09-u-s-moves-to-return-egyptian-man-from-equatorial-guinea-after-court-order
   headline: U.S. moves to return Egyptian man from Equatorial Guinea after court order
   publish_date: '2026-10-09'
   relation: related
-  strength: 0.6899
+  strength: 0.6926
 - slug: 2026-10-02-us-transferred-65-court-protected-refugees-to-equatorial-guinea-groups-say
-  headline: US transferred 65 court-protected refugees to Equatorial Guinea, groups say
+  headline: US transferred 65 court-protected refugees to Equatorial Guinea, groups
+    say
   publish_date: '2026-10-02'
   relation: related
-  strength: 0.6864
-- slug: 2026-09-21-investigation-documents-iranian-woman-deported-in-shackles-to-unknown-african-co
-  headline: Investigation documents Iranian woman deported in shackles to unknown African country
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6792
+  strength: 0.6897
 - slug: 2026-08-18-justice-department-appeals-to-reinstate-brego-garc-a-smuggling-charges
   headline: Justice Department appeals to reinstate Ábrego García smuggling charges
   publish_date: '2026-08-18'
   relation: related
-  strength: 0.7288
-- slug: 2026-04-08-u-s-seeks-to-deport-abrego-garcia-to-liberia-despite-costa-rica-deal
-  headline: U.S. seeks to deport Abrego Garcia to Liberia despite Costa Rica deal
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.7779
-- slug: 2026-06-23-justice-department-appeals-dismissal-of-charges-against-abrego-garcia
-  headline: Justice Department appeals dismissal of charges against Abrego Garcia
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7224
-- slug: 2026-05-23-judge-dismisses-human-smuggling-case-of-abrego-garcia-citing-vindictive-prosecut
-  headline: Judge dismisses human smuggling case of Abrego Garcia, citing vindictive prosecution
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7075
-- slug: 2026-04-08-timeline-of-kilmar-abrego-garcia-s-fight-over-deportation
-  headline: Timeline of Kilmar Abrego Garcia’s fight over deportation
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.7147
-- slug: 2026-05-15-federal-judge-orders-us-to-bring-back-colombian-woman-deported-to-congo
-  headline: Federal judge orders US to bring back Colombian woman deported to Congo
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7015
-- slug: 2026-05-22-judge-dismisses-human-smuggling-charges-against-man-mistakenly-deported-to-el-sa
-  headline: Judge dismisses human smuggling charges against man mistakenly deported to El Salvador
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6975
-- slug: 2026-05-15-federal-judge-orders-trump-to-return-colombian-woman-deported-to-congo
-  headline: Federal judge orders Trump to return Colombian woman deported to Congo
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6994
-- slug: 2026-05-22-judge-dismisses-abrego-garcia-charges-citing-vindictive-prosecution
-  headline: Judge dismisses Abrego Garcia charges, citing vindictive prosecution
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6971
-- slug: 2026-05-22-judge-dismisses-human-smuggling-case-against-kilmar-abrego-garcia
-  headline: Judge dismisses human smuggling case against Kilmar Abrego Garcia
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6958
-- slug: 2026-02-18-judge-rules-ice-cannot-re-detaine-kilmar-abrego-garcia-ending-detention
-  headline: Judge rules ICE cannot re-detaine Kilmar Abrego Garcia, ending detention
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.7039
-- slug: 2026-02-27-abrego-garcia-seeks-to-have-smuggling-charges-dismissed-in-court
-  headline: Abrego Garcia seeks to have smuggling charges dismissed in court
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7004
+  strength: 0.732
 ---
-
 ## Judge barred third-country deportation of Ábrego García after Uganda reports
 
 **Subtype:** fact
