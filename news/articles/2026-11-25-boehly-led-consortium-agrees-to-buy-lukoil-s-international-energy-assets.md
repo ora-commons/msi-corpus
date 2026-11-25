@@ -2,8 +2,17 @@
 headline: Boehly-led consortium agrees to buy Lukoil's international energy assets
 secondary_headline: Deal swaps $10 billion in securities and awaits OFAC approval
 publish_date: '2026-11-25'
-lede: A consortium led by U.S. billionaire Todd Boehly said on Wednesday that it had agreed to buy the international energy assets of sanctioned Russian energy giant Lukoil. According to a person familiar with the matter, the buyers will swap Lukoil securities worth $10 billion for assets held by Lukoil's Austrian unit. The agreement remains subject to approval from the U.S. Treasury Department's Office of Foreign Assets Control and other conditions.
-nut_graf: The transaction would place oil fields, refineries, pipelines and fuel stations across Europe, the Middle East, Central Asia, Africa and North America under a consortium that also includes a U.S. government investment arm. It would also put a sanctions-era asset swap before OFAC, which has said any deal seeking its approval must not provide Lukoil with a windfall.
+lede: A consortium led by U.S. billionaire Todd Boehly said on Wednesday that it had
+  agreed to buy the international energy assets of sanctioned Russian energy giant
+  Lukoil. According to a person familiar with the matter, the buyers will swap Lukoil
+  securities worth $10 billion for assets held by Lukoil's Austrian unit. The agreement
+  remains subject to approval from the U.S. Treasury Department's Office of Foreign
+  Assets Control and other conditions.
+nut_graf: The transaction would place oil fields, refineries, pipelines and fuel stations
+  across Europe, the Middle East, Central Asia, Africa and North America under a consortium
+  that also includes a U.S. government investment arm. It would also put a sanctions-era
+  asset swap before OFAC, which has said any deal seeking its approval must not provide
+  Lukoil with a windfall.
 primary_entities:
 - Todd Boehly
 - Lukoil
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +153,8 @@ cross_article_links:
   strength: 0.5678
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-12-russia-and-ukraine-agree-to-prisoner-swap-as-u-s-envoys-meet-putin-in-moscow
-  headline: Russia and Ukraine agree to prisoner swap as U.S. envoys meet Putin in Moscow
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.5616
-- slug: 2026-11-11-us-bound-russian-diesel-tankers-turn-away-as-buyers-balk
-  headline: US-bound Russian diesel tankers turn away as buyers balk
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.5663
-- slug: 2026-11-05-two-sanctioned-russian-diesel-tankers-divert-from-us-bound-routes
-  headline: Two sanctioned Russian diesel tankers divert from US-bound routes
-  publish_date: '2026-11-05'
-  relation: related
-  strength: 0.5725
-- slug: 2026-11-02-kaz-resources-proposes-2-billion-u-s-listing-with-trump-sons-holding-stakes
-  headline: Kaz Resources proposes $2 billion U.S. listing with Trump sons holding stakes
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.583
-- slug: 2026-11-02-united-states-links-russian-gas-plan-via-ukraine-to-energy-ceasefire
-  headline: United States links Russian gas plan via Ukraine to energy ceasefire
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5818
-- slug: 2026-10-24-former-polar-lng-executives-say-they-quit-over-novatek-funding
-  headline: Former Polar LNG executives say they quit over Novatek funding
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5925
-- slug: 2026-10-26-attacks-and-maintenance-outages-leave-nearly-12-of-global-refining-offline
-  headline: Attacks and maintenance outages leave nearly 12% of global refining offline
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5826
-- slug: 2026-10-26-citi-receives-chinese-approval-for-wholly-owned-securities-company
-  headline: Citi receives Chinese approval for wholly owned securities company
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.568
-- slug: 2026-10-26-dubai-judge-freezes-up-to-704-million-in-assets-in-russian-oil-dispute
-  headline: Dubai judge freezes up to $704 million in assets in Russian oil dispute
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.5654
-- slug: 2026-10-09-trump-says-us-reached-deal-with-putin-for-russian-diesel
-  headline: Trump says US reached deal with Putin for Russian diesel
-  publish_date: '2026-10-09'
-  relation: related
-  strength: 0.5874
-- slug: 2026-10-12-trump-s-russian-diesel-deal-ukraine-ceasefire-claim-draw-bipartisan-criticism
-  headline: Trump's Russian diesel deal, Ukraine ceasefire claim draw bipartisan criticism
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5735
-- slug: 2026-10-12-bipartisan-senators-declare-trump-s-russian-diesel-plan-illegal-under-2022-ban
-  headline: Bipartisan senators declare Trump's Russian diesel plan illegal under 2022 ban
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5671
-- slug: 2026-10-12-energy-stocks-hit-record-as-houthi-hits-saudi-airport-brent-at-106-65
-  headline: Energy stocks hit record as Houthi hits Saudi airport, Brent at $106.65
-  publish_date: '2026-10-12'
-  relation: related
-  strength: 0.5665
-- slug: 2026-10-02-g7-to-coordinate-refinery-maintenance-as-diesel-supply-tightens
-  headline: G7 to coordinate refinery maintenance as diesel supply tightens
-  publish_date: '2026-10-02'
-  relation: related
-  strength: 0.5801
-- slug: 2026-10-06-c-h-robinson-to-buy-rxo-in-5-8-billion-freight-broker-deal
-  headline: C.H. Robinson to buy RXO in $5.8 billion freight-broker deal
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5609
-- slug: 2026-09-15-oil-rises-on-saudi-outage-houthi-gains-diesel-eases-after-trump-claimed-ukraine-
-  headline: Oil rises on Saudi outage, Houthi gains; diesel eases after Trump-claimed Ukraine-Russia halt
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.5665
-- slug: 2026-08-18-oil-settles-higher-as-us-and-iran-both-claim-hormuz-control
-  headline: Oil settles higher as US and Iran both claim Hormuz control
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.5866
-- slug: 2026-07-17-u-s-allocated-46-billion-for-critical-minerals-over-five-years-eight-times-eu-sp
-  headline: U.S. allocated $46 billion for critical minerals over five years, eight times EU spending, think tank finds
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5759
-- slug: 2026-06-30-edf-agrees-to-sell-u-s-canadian-renewable-energy-arm-to-kkr-for-4-2-billion
-  headline: EDF agrees to sell U.S., Canadian renewable energy arm to KKR for $4.2 billion
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5662
-- slug: 2026-01-19-mol-group-agrees-to-buy-sanctioned-serbian-oil-stake-pending-us-approval
-  headline: MOL Group agrees to buy sanctioned Serbian oil stake, pending US approval
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.5978
+related_stories: []
 ---
-
 ## Boehly-led consortium agrees to buy Lukoil's international energy assets
 
 **Subtype:** fact

@@ -31,7 +31,8 @@ primary_themes:
 - Iran war and fuel prices
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- 2026-midterm-elections
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -193,6 +194,7 @@ related_stories:
   relation: related
   strength: 0.7262
 ---
+
 ## Midterm voters cite cost of living and dissatisfaction with Trump
 
 **Subtype:** fact

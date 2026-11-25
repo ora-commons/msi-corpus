@@ -37,7 +37,8 @@ primary_themes:
 topic_tags:
 - economy
 - election
-storyline_nexus: []
+storyline_nexus:
+- 2026-midterm-elections
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -210,6 +211,7 @@ related_stories:
   relation: related
   strength: 0.7133
 ---
+
 ## Cost of living central in Associated Press poll as Democrats win both chambers
 
 **Subtype:** fact
