@@ -43,7 +43,8 @@ topic_tags:
 - politics
 - government
 - political process
-storyline_nexus: []
+storyline_nexus:
+- florida-s-political-competitiveness
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -167,6 +168,7 @@ related_stories:
   relation: related
   strength: 0.7511
 ---
+
 ## Florida voters decide Senate, governor and House races under new GOP map
 
 **Subtype:** fact

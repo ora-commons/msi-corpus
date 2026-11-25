@@ -39,7 +39,8 @@ primary_themes:
 topic_tags:
 - election
 - government
-storyline_nexus: []
+storyline_nexus:
+- florida-s-political-competitiveness
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -203,6 +204,7 @@ related_stories:
   relation: related
   strength: 0.7077
 ---
+
 ## Democrats narrow Florida's GOP margins but fall short in statewide races
 
 **Subtype:** fact
