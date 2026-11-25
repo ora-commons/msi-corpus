@@ -72,7 +72,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -254,3 +254,10 @@ Earlier MSI reporting documented the [Army’s rescheduling for favorable wind a
 **Publication date:** 2026-11-25
 **Title:** Army plans to detonate US stockpile of bomb-making chemicals
 **URL:** https://apnews.com/article/iowa-lead-detonation-714e040baedc1cd90c2ba688be76cfc7
+
+### src_late_b643a0bb27ac58b5 — Associated Press, wire, Tier 1, originating
+**Author:** Ty Oneil, Associated Press, John Seewer, Associated Press, Scott Bauer, Associated Press
+**Publication date:** 2026-11-25
+**Title:** WATCH LIVE: Army expected to carry out controlled detonation of Iowa lead azide stockpile
+**URL:** https://www.pbs.org/newshour/nation/watch-live-army-expected-to-carry-out-controlled-detonation-of-iowa-lead-azide-stockpile
+**Added after publication:** true

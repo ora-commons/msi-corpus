@@ -1,9 +1,17 @@
 ---
 headline: Pope Leo XIV launches global prison-ministry coordination initiative
-secondary_headline: García Cuerva named to lead service under Vatican development and charity office
+secondary_headline: García Cuerva named to lead service under Vatican development
+  and charity office
 publish_date: '2026-11-25'
-lede: ROME — Pope Leo XIV created a global initiative on Wednesday to coordinate the Catholic Church’s spiritual care for inmates, naming Jorge Ignacio García Cuerva, the archbishop of Buenos Aires, as its first coordinator. The new service for prisoners’ pastoral care reports to the Vatican’s development and charity office.
-nut_graf: The initiative broadens the church’s prison ministry beyond individual papal visits by creating a service for global coordination, local program development, worker training and arrangements with civil authorities. It continues a priority that Pope Francis pursued and that Pope Leo XIV has maintained through prison visits in Equatorial Guinea and Buenos Aires.
+lede: ROME — Pope Leo XIV created a global initiative on Wednesday to coordinate the
+  Catholic Church’s spiritual care for inmates, naming Jorge Ignacio García Cuerva,
+  the archbishop of Buenos Aires, as its first coordinator. The new service for prisoners’
+  pastoral care reports to the Vatican’s development and charity office.
+nut_graf: The initiative broadens the church’s prison ministry beyond individual papal
+  visits by creating a service for global coordination, local program development,
+  worker training and arrangements with civil authorities. It continues a priority
+  that Pope Francis pursued and that Pope Leo XIV has maintained through prison visits
+  in Equatorial Guinea and Buenos Aires.
 primary_entities:
 - Pope Leo XIV
 - Pope Francis
@@ -48,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,104 +159,45 @@ related_stories:
   headline: Pope Leo says lung cancer surgery has not changed his agenda
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.6875
+  strength: 0.6843
 - slug: 2026-11-11-pope-leo-xiv-plans-devoto-prison-visit-and-mass-before-peru-return
   headline: Pope Leo XIV plans Devoto Prison visit and Mass before Peru return
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.7087
+  strength: 0.7068
 - slug: 2026-11-09-five-survivors-meet-leo-xiv-at-the-catholic-university-of-argentina
   headline: Five survivors meet Leo XIV at the Catholic University of Argentina
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6721
+  strength: 0.6704
 - slug: 2026-11-09-pope-leo-xiv-visits-argentine-care-home-urges-protection-of-the-vulnerable
   headline: Pope Leo XIV visits Argentine care home, urges protection of the vulnerable
   publish_date: '2026-11-09'
   relation: related
-  strength: 0.6537
-- slug: 2026-11-09-pope-leo-xiv-urges-church-community-and-state-to-work-together-in-uruguay
-  headline: Pope Leo XIV urges church, community and state to work together in Uruguay
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6453
-- slug: 2026-11-09-pope-leo-tells-milei-the-economy-should-serve-people
-  headline: Pope Leo tells Milei the economy should serve people
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6427
+  strength: 0.6513
 - slug: 2026-10-27-leo-xiv-plans-several-meetings-with-clergy-abuse-survivors-in-latin-america
   headline: Leo XIV plans several meetings with clergy abuse survivors in Latin America
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.7031
+  strength: 0.7023
 - slug: 2026-01-30-pope-leo-xiv-urges-vatican-doctrine-office-to-uphold-truth-and-justice-in-abuse-
-  headline: Pope Leo XIV urges Vatican doctrine office to uphold truth and justice in abuse cases
+  headline: Pope Leo XIV urges Vatican doctrine office to uphold truth and justice
+    in abuse cases
   publish_date: '2026-01-30'
   relation: related
   strength: 0.7029
 - slug: 2026-01-08-pope-leo-xiv-plans-spain-trip-with-stops-in-madrid-barcelona-canary-islands
-  headline: Pope Leo XIV plans Spain trip with stops in Madrid, Barcelona, Canary Islands
+  headline: Pope Leo XIV plans Spain trip with stops in Madrid, Barcelona, Canary
+    Islands
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.6965
+  strength: 0.6957
 - slug: 2026-04-23-pope-leo-xiv-tells-inmates-in-equatorial-guinea-you-are-not-alone
   headline: Pope Leo XIV tells inmates in Equatorial Guinea “you are not alone”
   publish_date: '2026-04-23'
   relation: related
-  strength: 0.6807
-- slug: 2026-03-11-pope-names-fellow-augustinian-to-run-vatican-s-charity-office
-  headline: Pope names fellow Augustinian to run Vatican’s charity office
-  publish_date: '2026-03-11'
-  relation: related
-  strength: 0.6815
-- slug: 2026-05-07-pope-leo-xiv-takes-longer-view-one-year-in-facing-latin-mass-and-germany
-  headline: Pope Leo XIV takes longer-view one year in, facing Latin Mass and Germany
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6662
-- slug: 2026-05-09-taking-stock-of-pope-leo-xiv-s-first-year-and-looming-vatican-tests
-  headline: Taking stock of Pope Leo XIV's first year and looming Vatican tests
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.662
-- slug: 2026-04-22-pope-tells-equatorial-guinea-prison-inmates-you-are-not-alone-on-africa-tour
-  headline: Pope tells Equatorial Guinea prison inmates ‘you are not alone’ on Africa tour
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6634
-- slug: 2026-04-21-pope-leo-xiv-tells-equatorial-guinea-inmates-you-are-not-alone-on-prison-visit
-  headline: Pope Leo XIV tells Equatorial Guinea inmates “You are not alone” on prison visit
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6634
-- slug: 2026-03-20-pope-leo-xiv-endorses-francis-joy-of-love-communion-guidance
-  headline: Pope Leo XIV endorses Francis’ ‘Joy of Love’ Communion guidance
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6674
-- slug: 2026-05-08-pope-leo-xiv-marks-first-year-s-to-do-list-appointments-latin-mass-ai
-  headline: Pope Leo XIV marks first year’s to-do list—appointments, Latin Mass, AI
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6584
-- slug: 2026-05-10-pope-leo-signals-openness-but-limits-on-lgbtq-ministry-vatican-report-features-g
-  headline: Pope Leo signals openness but limits on LGBTQ+ ministry, Vatican report features gay testimony
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6538
-- slug: 2026-06-08-pope-leo-xiv-calls-for-moral-renewal-in-historic-spanish-parliament-address
-  headline: Pope Leo XIV calls for moral renewal in historic Spanish parliament address
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.642
-- slug: 2026-04-04-pope-leo-xiv-carries-cross-for-full-way-of-the-cross-at-colosseum
-  headline: Pope Leo XIV carries cross for full Way of the Cross at Colosseum
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6565
+  strength: 0.6798
 ---
-
 ## Pope Leo XIV launches global prison-ministry coordination initiative
 
 **Subtype:** fact
