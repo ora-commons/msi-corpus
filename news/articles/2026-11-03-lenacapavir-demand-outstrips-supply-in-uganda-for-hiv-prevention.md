@@ -42,7 +42,8 @@ primary_themes:
 - Uganda's HIV epidemiology
 topic_tags:
 - health
-storyline_nexus: []
+storyline_nexus:
+- global-access-to-lenacapavir-for-hiv-prevention
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -169,8 +170,9 @@ related_stories:
   relation: related
   strength: 0.7123
 analyses:
-- '2026-11-03-ugandan-guidance-expands-lenacapavir-eligibility-as-local-stockouts-persist'
+- 2026-11-03-ugandan-guidance-expands-lenacapavir-eligibility-as-local-stockouts-persist
 ---
+
 ## Lenacapavir demand outstrips supply in Uganda for HIV prevention
 
 **Subtype:** fact

@@ -1,9 +1,23 @@
 ---
 headline: Texas food banks face highest demand since the 2020 pandemic
-secondary_headline: SNAP enrollment losses and USDA cancellations deepen pressure on Texas food banks
+secondary_headline: SNAP enrollment losses and USDA cancellations deepen pressure
+  on Texas food banks
 publish_date: '2026-11-25'
-lede: Texas food banks face their highest demand since the 2020 pandemic as the holidays approach, with high food prices, reduced federal support and fewer donations straining their ability to stock pantries. Houston Food Bank President and CEO Brian Greene said the agency bought no turkeys this year because the birds are too expensive, and the U.S. Department of Agriculture canceled two programs in 2025 that supplied $1 billion in products directly to food bank warehouses. Millions of Texas families that rely on food banks will find their tables empty of traditional festive foods this season.
-nut_graf: 'The squeeze comes from several directions at once: high food and fuel prices, delayed or canceled federal commodity deliveries and a shrinking SNAP caseload. For every meal food banks provide, SNAP provides nine, while advocates are pressing federal officials to reverse commodity cuts and stop the nationwide decline in SNAP enrollment. Food advocates are also asking the 90th Texas Legislature for full SNAP funding if Congress does not extend the federal accuracy deadline, along with Summer EBT, Medicaid expansion and money to buy surplus produce.'
+lede: Texas food banks face their highest demand since the 2020 pandemic as the holidays
+  approach, with high food prices, reduced federal support and fewer donations straining
+  their ability to stock pantries. Houston Food Bank President and CEO Brian Greene
+  said the agency bought no turkeys this year because the birds are too expensive,
+  and the U.S. Department of Agriculture canceled two programs in 2025 that supplied
+  $1 billion in products directly to food bank warehouses. Millions of Texas families
+  that rely on food banks will find their tables empty of traditional festive foods
+  this season.
+nut_graf: 'The squeeze comes from several directions at once: high food and fuel prices,
+  delayed or canceled federal commodity deliveries and a shrinking SNAP caseload.
+  For every meal food banks provide, SNAP provides nine, while advocates are pressing
+  federal officials to reverse commodity cuts and stop the nationwide decline in SNAP
+  enrollment. Food advocates are also asking the 90th Texas Legislature for full SNAP
+  funding if Congress does not extend the federal accuracy deadline, along with Summer
+  EBT, Medicaid expansion and money to buy surplus produce.'
 primary_entities:
 - Texas food banks
 - Houston Food Bank
@@ -58,7 +72,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,107 +172,48 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-25-food-pantries-report-surging-demand-as-snap-losses-strain-thanksgiving-budgets
-  headline: Food pantries report surging demand as SNAP losses strain Thanksgiving budgets
+  headline: Food pantries report surging demand as SNAP losses strain Thanksgiving
+    budgets
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.7365
+  strength: 0.7385
 - slug: 2026-11-25-georgia-food-pantries-distribute-smaller-food-bags-as-grocery-costs-rise
   headline: Georgia food pantries distribute smaller food bags as grocery costs rise
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.6723
-- slug: 2026-11-24-usda-snap-proposal-could-end-eligibility-for-3-7-million-households
-  headline: USDA SNAP proposal could end eligibility for 3.7 million households
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.6494
+  strength: 0.6716
 - slug: 2026-11-22-thanksgiving-costs-push-middle-income-shoppers-toward-discounts
   headline: Thanksgiving costs push middle-income shoppers toward discounts
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.6607
-- slug: 2026-11-24-families-cut-back-on-groceries-to-offset-housing-energy-and-insurance-costs
-  headline: Families cut back on groceries to offset housing, energy and insurance costs
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.627
+  strength: 0.6615
 - slug: 2026-11-16-usda-proposal-could-remove-6-3-million-people-from-snap
   headline: USDA proposal could remove 6.3 million people from SNAP
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.6788
-- slug: 2026-11-19-average-thanksgiving-feast-for-10-will-cost-58-63-farm-bureau-says
-  headline: Average Thanksgiving feast for 10 will cost $58.63, Farm Bureau says
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.6487
+  strength: 0.6761
 - slug: 2026-11-13-usda-proposal-would-end-automatic-snap-eligibility-tied-to-tanf
   headline: USDA proposal would end automatic SNAP eligibility tied to TANF
   publish_date: '2026-11-13'
   relation: related
-  strength: 0.6728
+  strength: 0.6718
 - slug: 2026-11-12-more-than-1-2-million-children-have-lost-snap-benefits-since-last-july
   headline: More than 1.2 million children have lost SNAP benefits since last July
   publish_date: '2026-11-12'
   relation: related
-  strength: 0.664
+  strength: 0.6651
 - slug: 2026-11-11-trump-administration-proposal-could-end-snap-eligibility-for-6-3-million-people
-  headline: Trump administration proposal could end SNAP eligibility for 6.3 million people
+  headline: Trump administration proposal could end SNAP eligibility for 6.3 million
+    people
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.6531
+  strength: 0.654
 - slug: 2026-11-10-cattle-shortage-keeps-u-s-beef-prices-high-as-meatpacking-capacity-shrinks
   headline: Cattle shortage keeps U.S. beef prices high as meatpacking capacity shrinks
   publish_date: '2026-11-10'
   relation: related
-  strength: 0.6542
-- slug: 2026-10-25-snap-enrollment-drops-13-after-trump-administration-work-requirements
-  headline: SNAP enrollment drops 13% after Trump administration work requirements
-  publish_date: '2026-10-25'
-  relation: related
-  strength: 0.6686
-- slug: 2026-10-23-usda-proposes-requiring-chip-cards-for-snap-benefits-in-all-50-states
-  headline: USDA proposes requiring chip cards for SNAP benefits in all 50 states
-  publish_date: '2026-10-23'
-  relation: related
-  strength: 0.6671
-- slug: 2026-10-26-usda-proposes-requiring-chip-enabled-snap-cards-and-tap-to-pay-terminals
-  headline: USDA proposes requiring chip-enabled SNAP cards and tap-to-pay terminals
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6462
-- slug: nearly-half-active-duty-military-families-food-insecurity-2025
-  headline: Nearly half of active-duty military families report food insecurity in 2025
-  publish_date: '2026-10-20'
-  relation: related
-  strength: 0.6434
-- slug: 2026-10-05-snap-enrollment-falls-almost-13-as-new-federal-requirements-take-hold
-  headline: SNAP enrollment falls almost 13% as new federal requirements take hold
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6716
-- slug: 2026-10-14-federal-funding-cuts-slow-states-shift-to-chip-enabled-ebt-cards
-  headline: Federal funding cuts slow states' shift to chip-enabled EBT cards
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6308
-- slug: 2026-09-19-cdc-reports-us-adults-produce-consumption-rises-with-income
-  headline: CDC reports US adults' produce consumption rises with income
-  publish_date: '2026-09-19'
-  relation: related
-  strength: 0.6602
-- slug: 2026-07-25-more-than-1-million-children-lose-snap-benefits-after-trump-bill
-  headline: More than 1 million children lose SNAP benefits after Trump bill
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6281
-- slug: 2026-07-10-texas-taco-staples-become-pricier-as-beef-supply-shrinks
-  headline: Texas taco staples become pricier as beef supply shrinks
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6361
+  strength: 0.6548
 ---
-
 ## Texas food banks face highest demand since the 2020 pandemic
 
 **Subtype:** fact

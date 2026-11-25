@@ -2,8 +2,15 @@
 headline: U.S. Army detonates degraded lead azide stockpile in Iowa
 secondary_headline: Barriers and ballistic gels were among the safety preparations
 publish_date: '2026-11-25'
-lede: The U.S. Army detonated a dangerous and degraded stockpile of lead azide in Iowa on Wednesday, according to The Associated Press. The decades-old supply had begun to crystallize, posing a risk of spontaneous detonation, while local officials and scientists are questioning how much lead the operation may have released into nearby air, land and water.
-nut_graf: 'The operation highlights two related risks: the deteriorating stockpile and the possible spread of toxic lead. Officials and scientists are evaluating how much lead may have reached the air, nearby land and water because potential effects extend to residents, crops, cattle and wildlife.'
+lede: The U.S. Army detonated a dangerous and degraded stockpile of lead azide in
+  Iowa on Wednesday, according to The Associated Press. The decades-old supply had
+  begun to crystallize, posing a risk of spontaneous detonation, while local officials
+  and scientists are questioning how much lead the operation may have released into
+  nearby air, land and water.
+nut_graf: 'The operation highlights two related risks: the deteriorating stockpile
+  and the possible spread of toxic lead. Officials and scientists are evaluating how
+  much lead may have reached the air, nearby land and water because potential effects
+  extend to residents, crops, cattle and wildlife.'
 primary_entities:
 - U.S. Army
 - Lead azide
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,113 +154,56 @@ related_stories:
   headline: U.S. Army prepares to detonate degraded lead azide stockpile in Iowa
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.8714
+  strength: 0.8718
 - slug: 2026-11-25-u-s-army-schedules-9-500-pound-iowa-lead-azide-detonation-for-wednesday
   headline: U.S. Army schedules 9,500-pound Iowa lead azide detonation for Wednesday
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.87
+  strength: 0.8699
 - slug: 2026-11-23-army-plans-iowa-lead-azide-detonation-despite-appeals-court-ruling
   headline: Army plans Iowa lead azide detonation despite appeals court ruling
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8645
+  strength: 0.8644
 - slug: 2026-11-25-u-s-army-set-to-detonate-68-barrels-of-lead-azide-in-middletown-iowa
   headline: U.S. Army set to detonate 68 barrels of lead azide in Middletown, Iowa
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.8447
+  strength: 0.8452
 - slug: 2026-11-24-u-s-army-secures-court-approval-to-detonate-degraded-lead-azide-in-iowa
   headline: U.S. Army secures court approval to detonate degraded lead azide in Iowa
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8442
+  strength: 0.8444
 - slug: 2026-11-22-army-plans-iowa-lead-azide-detonation-by-nov-24-despite-court-pause
   headline: Army plans Iowa lead azide detonation by Nov. 24 despite court pause
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.8462
+  strength: 0.8459
 - slug: 2026-11-25-epa-collects-more-than-1-200-samples-before-army-s-iowa-lead-azide-blast
   headline: EPA collects more than 1,200 samples before Army’s Iowa lead azide blast
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.821
+  strength: 0.8217
 - slug: 2026-11-23-residents-prepare-near-iowa-army-plant-for-lead-azide-detonation
   headline: Residents prepare near Iowa Army plant for lead azide detonation
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.8333
-- slug: 2026-11-24-army-reschedules-iowa-lead-azide-detonation-citing-winds-extra-safety-steps
-  headline: Army reschedules Iowa lead azide detonation citing winds, extra safety steps
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8231
-- slug: 2026-11-24-army-details-c-4-disposal-for-nation-s-entire-lead-azide-stockpile
-  headline: Army details C-4 disposal for nation's entire lead azide stockpile
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.821
-- slug: 2026-11-23-environmental-groups-seek-another-pause-before-iowa-lead-azide-detonation
-  headline: Environmental groups seek another pause before Iowa lead azide detonation
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8169
-- slug: 2026-11-25-army-prepares-iowa-lead-azide-detonation-as-forecast-spares-illinois
-  headline: Army prepares Iowa lead azide detonation as forecast spares Illinois
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.7973
-- slug: 2026-11-20-u-s-army-delays-iowa-detonation-of-degraded-lead-azide-after-lawsuit
-  headline: U.S. Army delays Iowa detonation of degraded lead azide after lawsuit
-  publish_date: '2026-11-20'
-  relation: related
-  strength: 0.831
-- slug: 2026-11-23-lead-azide-detonation-could-affect-middletown-and-nearby-communities
-  headline: Lead azide detonation could affect Middletown and nearby communities
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8069
-- slug: 2026-11-22-army-plans-emergency-move-to-detonate-iowa-chemicals-despite-court-stay
-  headline: Army plans emergency move to detonate Iowa chemicals despite court stay
-  publish_date: '2026-11-22'
-  relation: related
-  strength: 0.8137
-- slug: 2026-11-25-iowa-residents-brace-for-army-s-controlled-lead-azide-blast
-  headline: Iowa residents brace for Army's controlled lead azide blast
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.7912
-- slug: 2026-11-24-iowa-poison-control-center-outlines-lead-precautions-for-army-detonation
-  headline: Iowa Poison Control Center outlines lead precautions for Army detonation
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7975
-- slug: 2026-11-24-army-maps-toxic-dust-plume-for-planned-iowa-lead-azide-detonation
-  headline: Army maps toxic dust plume for planned Iowa lead azide detonation
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7952
-- slug: 2026-11-24-army-maps-show-possible-lead-spread-as-fema-aids-iowa-evacuations
-  headline: Army maps show possible lead spread as FEMA aids Iowa evacuations
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.7938
-- slug: 2026-11-19-u-s-army-plans-iowa-detonation-as-officials-warn-of-lead-dust
-  headline: U.S. Army plans Iowa detonation as officials warn of lead dust
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.8243
+  strength: 0.8334
 image:
   url: /articles/2026-11-25-u-s-army-detonates-degraded-lead-azide-stockpile-in-iowa.png
-  alt: "Illustration accompanying article: U.S. Army detonates degraded lead azide stockpile in Iowa"
+  alt: 'Illustration accompanying article: U.S. Army detonates degraded lead azide
+    stockpile in Iowa'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3-pro-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## U.S. Army detonates degraded lead azide stockpile in Iowa
 
 **Subtype:** fact

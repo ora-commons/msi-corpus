@@ -32,7 +32,8 @@ primary_themes:
 - Product refunds and pre-sale safety testing
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- ai-products-and-child-safety
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -198,6 +199,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Child safety groups seek pause in AI toy sales this Christmas until proved safe
 
 **Subtype:** fact

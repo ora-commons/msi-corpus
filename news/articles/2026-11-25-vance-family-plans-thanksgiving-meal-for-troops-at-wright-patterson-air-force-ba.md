@@ -1,9 +1,16 @@
 ---
-headline: Vance family plans Thanksgiving meal for troops at Wright-Patterson Air Force Base
+headline: Vance family plans Thanksgiving meal for troops at Wright-Patterson Air
+  Force Base
 secondary_headline: Ohio lawmakers ask Trump administration to locate U.S. Space Academy
 publish_date: '2026-11-25'
-lede: Vice President JD Vance, second lady Usha Vance and their four children are scheduled to serve a Thanksgiving meal to troops at Wright-Patterson Air Force Base in southwest Ohio on Wednesday, according to Vance’s office. The family also plans to join the troops for lunch.
-nut_graf: The holiday visit follows a congressional push to place the U.S. Space Academy near the same Wright-Patterson complex. The delegation’s letter argues that Wright Field should serve the United States Space Force in the way West Point serves the Army and Annapolis serves the Navy.
+lede: Vice President JD Vance, second lady Usha Vance and their four children are
+  scheduled to serve a Thanksgiving meal to troops at Wright-Patterson Air Force Base
+  in southwest Ohio on Wednesday, according to Vance’s office. The family also plans
+  to join the troops for lunch.
+nut_graf: The holiday visit follows a congressional push to place the U.S. Space Academy
+  near the same Wright-Patterson complex. The delegation’s letter argues that Wright
+  Field should serve the United States Space Force in the way West Point serves the
+  Army and Annapolis serves the Navy.
 primary_entities:
 - JD Vance
 - Usha Vance
@@ -41,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,108 +147,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-20-vance-and-rubio-appear-at-trump-s-white-house-briefing
-  headline: Vance and Rubio appear at Trump's White House briefing
-  publish_date: '2026-11-20'
-  relation: related
-  strength: 0.5869
-- slug: 2026-10-28-trump-returns-to-ohio-as-obama-rallies-democrats-in-georgia
-  headline: Trump returns to Ohio as Obama rallies Democrats in Georgia
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5946
-- slug: 2026-10-28-vance-sends-letter-to-iranian-security-chief-to-restart-peace-talks
-  headline: Vance sends letter to Iranian security chief to restart peace talks
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.5813
-- slug: 2026-10-24-vance-stumps-for-republicans-as-questions-grow-about-a-2028-white-house-bid
-  headline: Vance stumps for Republicans as questions grow about a 2028 White House bid
-  publish_date: '2026-10-24'
-  relation: related
-  strength: 0.5846
-- slug: 2026-10-06-canadian-military-families-and-veterans-demand-apology-from-trump-officials
-  headline: Canadian military families and veterans demand apology from Trump officials
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.5926
-- slug: 2026-09-27-vance-works-to-rebuild-fractured-trump-coalition-ahead-of-midterms
-  headline: Vance works to rebuild fractured Trump coalition ahead of midterms
-  publish_date: '2026-09-27'
-  relation: related
-  strength: 0.5953
-- slug: 2026-09-11-vance-s-dallas-convention-likely-to-solidify-2028-frontrunner-status
-  headline: Vance's Dallas convention likely to solidify 2028 frontrunner status
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.6004
-- slug: 2026-09-04-vance-stands-by-carlson-friendship-at-thursday-press-conference
-  headline: Vance stands by Carlson friendship at Thursday press conference
-  publish_date: '2026-09-04'
-  relation: related
-  strength: 0.6098
-- slug: 2026-08-21-vance-to-promote-manufacturing-policies-at-grandfather-s-former-ohio-plant
-  headline: Vance to promote manufacturing policies at grandfather's former Ohio plant
-  publish_date: '2026-08-21'
-  relation: related
-  strength: 0.6322
-- slug: 2026-09-11-vance-delivers-prime-time-speech-on-gop-convention-s-second-night
-  headline: Vance delivers prime-time speech on GOP convention's second night
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.5934
-- slug: 2026-08-28-trump-to-observe-9-11-anniversary-at-pentagon-vance-to-attend-nyc-ceremony
-  headline: Trump to observe 9/11 anniversary at Pentagon; Vance to attend NYC ceremony
-  publish_date: '2026-08-28'
-  relation: related
-  strength: 0.6072
-- slug: 2026-08-31-vance-to-address-republican-jewish-coalition-gathering-monday-in-las-vegas
-  headline: Vance to address Republican Jewish Coalition gathering Monday in Las Vegas
-  publish_date: '2026-08-31'
-  relation: related
-  strength: 0.5983
 - slug: 2026-01-20-vice-president-jd-vance-wife-usha-expecting-fourth-child-in-july
   headline: Vice President JD Vance, wife Usha expecting fourth child in July
   publish_date: '2026-01-20'
   relation: related
   strength: 0.676
-- slug: 2026-07-22-trump-to-attend-dignified-transfer-of-4-service-members-killed-in-iran-war
-  headline: Trump to attend dignified transfer of 4 service members killed in Iran war
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6133
-- slug: 2026-07-22-hundreds-of-journalists-ask-whca-to-stand-up-to-trump-at-dinner
-  headline: Hundreds of journalists ask WHCA to stand up to Trump at dinner
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6085
-- slug: 2026-07-19-vance-and-wife-usha-announce-birth-of-son-a-first-for-a-sitting-vp-in-over-150-y
-  headline: Vance and wife Usha announce birth of son, a first for a sitting VP in over 150 years
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6045
-- slug: 2026-06-14-vance-says-he-will-discuss-2028-run-with-family-after-midterms
-  headline: Vance says he will discuss 2028 run with family after midterms
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6101
-- slug: 2026-03-19-trump-holds-second-dignified-transfer-as-kc-135-crash-deaths-return-to-families
-  headline: Trump holds second dignified transfer as KC-135 crash deaths return to families
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.6216
-- slug: 2026-06-09-vance-says-us-very-close-to-iran-peace-deal-hours-before-new-strikes
-  headline: Vance says US ‘very close’ to Iran peace deal hours before new strikes
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6025
-- slug: 2026-04-15-vance-faces-sparse-crowd-and-conservative-criticism-at-athens-turning-point-foru
-  headline: Vance faces sparse crowd and conservative criticism at Athens Turning Point forum
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5961
 ---
-
 ## Vance family plans Thanksgiving meal for troops at Wright-Patterson Air Force Base
 
 **Subtype:** fact

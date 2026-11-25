@@ -35,7 +35,8 @@ topic_tags:
 - disease and condition
 - health
 - public health
-storyline_nexus: []
+storyline_nexus:
+- global-access-to-lenacapavir-for-hiv-prevention
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -161,8 +162,9 @@ related_stories:
   relation: related
   strength: 0.6642
 analyses:
-- '2026-11-02-fda-tentative-approval-opens-a-path-from-lower-cost-lenacapavir-to-broader-hiv-p'
+- 2026-11-02-fda-tentative-approval-opens-a-path-from-lower-cost-lenacapavir-to-broader-hiv-p
 ---
+
 ## FDA tentatively approves generic lenacapavir to expand global HIV prevention access
 
 **Subtype:** fact
