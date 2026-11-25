@@ -210,6 +210,8 @@ related_stories:
   publish_date: '2026-11-17'
   relation: related
   strength: 0.8019
+analyses:
+- '2026-11-23-nvidia-s-board-restores-huang-amid-continuity-conduct-and-security-questions'
 ---
 ## Nvidia shares jump more than 25% after Huang's reinstatement
 
@@ -253,3 +255,8 @@ Earlier, MSI reported that [Huang had offered to return to Nvidia and agreed to 
 **Publication date:** 2026-11-23
 **Title:** Jensen Huang reinstated as Nvidia CEO
 **URL:** https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive
+
+---
+
+<!-- analysis-link:2026-11-23-nvidia-s-board-restores-huang-amid-continuity-conduct-and-security-questions -->
+**Going deeper:** [Read MSI's analysis of Jensen Huang's Nvidia reversal →](/analyses/2026-11-23-nvidia-s-board-restores-huang-amid-continuity-conduct-and-security-questions)
