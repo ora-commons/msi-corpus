@@ -164,6 +164,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-11-23-afghanistan-s-forest-program-counts-seedlings-not-survival-or-grazing-pressure'
 ---
 ## Green Units patrol Afghanistan’s last forests amid mass replanting drive
 
@@ -217,3 +219,8 @@ Green Units also conduct community outreach and education. Their work includes e
 **Publication date:** 2026-11-23
 **Title:** Taliban deploy Green Units to protect Afghanistan's forests
 **URL:** https://apnews.com/article/climate-afghanistan-deforestation-taliban-green-patrols-d1e1d0613e3e1ca964d2fa89bbaabeba
+
+---
+
+<!-- analysis-link:2026-11-23-afghanistan-s-forest-program-counts-seedlings-not-survival-or-grazing-pressure -->
+**Going deeper:** [Read MSI's analysis of Afghanistan's forest decision under uncertainty →](/analyses/2026-11-23-afghanistan-s-forest-program-counts-seedlings-not-survival-or-grazing-pressure)
