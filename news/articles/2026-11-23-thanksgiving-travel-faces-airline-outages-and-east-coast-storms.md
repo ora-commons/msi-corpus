@@ -36,7 +36,8 @@ topic_tags:
 - transport
 - travel
 - weather
-storyline_nexus: []
+storyline_nexus:
+- thanksgiving-travel-disruptions
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -200,6 +201,7 @@ related_stories:
   relation: related
   strength: 0.6506
 ---
+
 ## Thanksgiving travel faces airline outages and East Coast storms
 
 **Subtype:** fact

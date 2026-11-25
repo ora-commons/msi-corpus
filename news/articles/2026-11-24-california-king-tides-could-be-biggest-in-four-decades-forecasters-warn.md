@@ -28,6 +28,7 @@ topic_tags:
 - environment
 storyline_nexus:
 - california-storms-and-coastal-flooding
+- thanksgiving-travel-disruptions
 storyline_continuity:
   decision: direct
   selected_prior_ids:
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.6911
 ---
+
 ## California king tides could be biggest in four decades, forecasters warn
 
 **Subtype:** fact

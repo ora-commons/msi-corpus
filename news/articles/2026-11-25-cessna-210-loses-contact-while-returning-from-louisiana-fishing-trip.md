@@ -1,9 +1,19 @@
 ---
 headline: Cessna 210 loses contact while returning from Louisiana fishing trip
-secondary_headline: Cmdr Trevor Blount calls situation heartbreaking; FAA and NTSB will investigate
+secondary_headline: Cmdr Trevor Blount calls situation heartbreaking; FAA and NTSB
+  will investigate
 publish_date: '2026-11-25'
-lede: A Cessna 210 was en route from New Orleans to Fort Myers, Florida, according to FlightAware, and WVUE reported that the people aboard were traveling back home after a fishing trip in Venice, Louisiana. The air traffic control regional tower in Mobile, Alabama, lost contact with the aircraft at about 3.45pm Tuesday, according to the US Coast Guard. Cmdr Trevor Blount, the Coast Guard coordinator for search and rescue in the Mobile area, called the situation heartbreaking.
-nut_graf: WVUE's report of the fishing trip and the Coast Guard's account of the contact loss add context to the Gulf of Mexico crash. Divers recovered the bodies of all six people from the aircraft's fuselage, according to the US Coast Guard, and Cmdr Trevor Blount credited strong interagency coordination with locating those aboard. The FAA and NTSB will investigate.
+lede: A Cessna 210 was en route from New Orleans to Fort Myers, Florida, according
+  to FlightAware, and WVUE reported that the people aboard were traveling back home
+  after a fishing trip in Venice, Louisiana. The air traffic control regional tower
+  in Mobile, Alabama, lost contact with the aircraft at about 3.45pm Tuesday, according
+  to the US Coast Guard. Cmdr Trevor Blount, the Coast Guard coordinator for search
+  and rescue in the Mobile area, called the situation heartbreaking.
+nut_graf: WVUE's report of the fishing trip and the Coast Guard's account of the contact
+  loss add context to the Gulf of Mexico crash. Divers recovered the bodies of all
+  six people from the aircraft's fuselage, according to the US Coast Guard, and Cmdr
+  Trevor Blount credited strong interagency coordination with locating those aboard.
+  The FAA and NTSB will investigate.
 primary_entities:
 - Cessna 210
 - WVUE
@@ -53,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -152,13 +163,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-11-25-cessna-210-loses-contact-while-returning-from-louisiana-fishing-trip.png
-  alt: 'Illustration accompanying article: Cessna 210 loses contact while returning from Louisiana fishing trip'
+  alt: 'Illustration accompanying article: Cessna 210 loses contact while returning
+    from Louisiana fishing trip'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:google/gemini-3.1-flash-image
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-11-25-cessna-210-crash-off-mississippi-kills-six-including-two-children
   headline: Cessna 210 crash off Mississippi kills six, including two children
@@ -166,7 +181,8 @@ related_stories:
   relation: related
   strength: 0.8718
 - slug: 2026-11-25-coast-guard-says-cessna-210-descended-10-000-feet-per-minute-when-contact-was-lo
-  headline: Coast Guard says Cessna 210 descended 10,000 feet per minute when contact was lost
+  headline: Coast Guard says Cessna 210 descended 10,000 feet per minute when contact
+    was lost
   publish_date: '2026-11-25'
   relation: related
   strength: 0.8469
@@ -191,7 +207,8 @@ related_stories:
   relation: related
   strength: 0.6562
 - slug: 2026-11-08-small-plane-hits-pickup-during-emergency-landing-on-fort-myers-road-no-one-hurt
-  headline: Small plane hits pickup during emergency landing on Fort Myers road, no one hurt
+  headline: Small plane hits pickup during emergency landing on Fort Myers road, no
+    one hurt
   publish_date: '2026-11-08'
   relation: related
   strength: 0.6577
@@ -200,68 +217,7 @@ related_stories:
   publish_date: '2026-11-02'
   relation: related
   strength: 0.6657
-- slug: 2026-11-04-helicopter-crashes-in-biscayne-bay-leaving-one-dead-and-two-injured
-  headline: Helicopter crashes in Biscayne Bay, leaving one dead and two injured
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6517
-- slug: 2026-11-02-business-jet-crashes-on-military-trail-in-florida-killing-all-nine-aboard
-  headline: Business jet crashes on Military Trail in Florida, killing all nine aboard
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6613
-- slug: 2026-11-02-anthony-blackmon-says-debris-hit-his-house-after-south-florida-jet-crash
-  headline: Anthony Blackmon says debris hit his house after South Florida jet crash
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6553
-- slug: 2026-11-01-business-jet-crashes-in-palm-beach-county-killing-all-nine-aboard
-  headline: Business jet crashes in Palm Beach County, killing all nine aboard
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.6591
-- slug: 2026-10-03-coast-guard-searches-for-medical-plane-with-6-aboard-off-nantucket
-  headline: Coast Guard searches for medical plane with 6 aboard off Nantucket
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6953
-- slug: 2026-10-05-latitude-pledges-full-cooperation-after-nantucket-medical-flight-crash
-  headline: Latitude pledges full cooperation after Nantucket medical flight crash
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6793
-- slug: 2026-10-04-coast-guard-locates-debris-from-missing-air-ambulance-off-nantucket
-  headline: Coast Guard locates debris from missing air ambulance off Nantucket
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6768
-- slug: 2026-10-03-officials-believe-air-ambulance-rapidly-descended-7-500-feet-off-nantucket
-  headline: Officials believe air ambulance rapidly descended 7,500 feet off Nantucket
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6767
-- slug: 2026-10-04-coast-guard-suspends-search-for-air-ambulance-carrying-6-off-nantucket
-  headline: Coast Guard suspends search for air ambulance carrying 6 off Nantucket
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6645
-- slug: 2026-10-05-six-presumed-dead-after-medical-plane-vanishes-off-nantucket
-  headline: Six presumed dead after medical plane vanishes off Nantucket
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6614
-- slug: 2026-09-16-moreno-marciniw-have-been-flying-together-since-2023-nbc4-says
-  headline: Moreno, Marciniw have been flying together since 2023, NBC4 says
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6518
-- slug: 2026-08-20-pennsylvania-state-police-helicopter-and-cessna-150-go-down-near-carlisle-faa-sa
-  headline: Pennsylvania State Police helicopter and Cessna 150 go down near Carlisle, FAA says
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6675
 ---
-
 ## Cessna 210 loses contact while returning from Louisiana fishing trip
 
 **Subtype:** fact
