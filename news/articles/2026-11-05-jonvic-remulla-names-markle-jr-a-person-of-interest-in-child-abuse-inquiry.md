@@ -29,7 +29,8 @@ topic_tags:
 - crime
 - law enforcement
 - government
-storyline_nexus: []
+storyline_nexus:
+- federal-child-sexual-abuse-material-case-against-thomas-markle
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -150,6 +151,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## Jonvic Remulla names Markle Jr a person of interest in child abuse inquiry
 
 **Subtype:** fact

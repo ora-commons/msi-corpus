@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
 - crime
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- federal-child-sexual-abuse-material-case-against-thomas-markle
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -157,6 +158,7 @@ related_stories:
   relation: related
   strength: 0.7485
 ---
+
 ## Thomas Markle, father of Meghan, arrested in Florida on child pornography charge
 
 **Subtype:** fact

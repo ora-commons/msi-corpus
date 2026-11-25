@@ -39,7 +39,8 @@ topic_tags:
 - crime
 - law
 - prosecution
-storyline_nexus: []
+storyline_nexus:
+- federal-child-sexual-abuse-material-case-against-thomas-markle
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -176,6 +177,7 @@ related_stories:
   relation: related
   strength: 0.7816
 ---
+
 ## Prosecutor says agents seized about 78 items in case against Meghan's father
 
 **Subtype:** fact

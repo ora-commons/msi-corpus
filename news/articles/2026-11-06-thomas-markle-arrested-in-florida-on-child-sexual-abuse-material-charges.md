@@ -33,7 +33,8 @@ topic_tags:
 - crime
 - law enforcement
 - human interest
-storyline_nexus: []
+storyline_nexus:
+- federal-child-sexual-abuse-material-case-against-thomas-markle
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -159,6 +160,7 @@ related_stories:
   relation: related
   strength: 0.7654
 ---
+
 ## Thomas Markle arrested in Florida on child sexual abuse material charges
 
 **Subtype:** fact

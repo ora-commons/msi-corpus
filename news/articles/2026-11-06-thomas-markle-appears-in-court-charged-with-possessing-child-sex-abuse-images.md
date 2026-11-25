@@ -32,7 +32,8 @@ primary_themes:
 topic_tags:
 - crime
 - law
-storyline_nexus: []
+storyline_nexus:
+- federal-child-sexual-abuse-material-case-against-thomas-markle
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -175,6 +176,7 @@ related_stories:
   relation: related
   strength: 0.7765
 ---
+
 ## Thomas Markle appears in court charged with possessing child sex abuse images
 
 **Subtype:** fact
