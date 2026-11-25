@@ -34,7 +34,7 @@ topic_tags:
 - international relations
 - climate change
 storyline_nexus:
-- us-china-competition
+- australia-s-security-pacts-with-pacific-island-nations
 storyline_continuity:
   decision: topical
   selected_prior_ids: []
@@ -167,6 +167,7 @@ related_stories:
   relation: related
   strength: 0.6571
 ---
+
 ## Coalition opposes ratification of Vanuatu security pact over climate clauses
 
 **Subtype:** fact

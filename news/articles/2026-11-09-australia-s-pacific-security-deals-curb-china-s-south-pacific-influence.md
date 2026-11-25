@@ -42,7 +42,8 @@ primary_themes:
 - Fiji-Australia defense treaty
 - Pacific security retrenchment
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+- australia-s-security-pacts-with-pacific-island-nations
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -201,6 +202,7 @@ related_stories:
   relation: related
   strength: 0.6719
 ---
+
 ## Australia’s Pacific security deals curb China’s South Pacific influence
 
 **Subtype:** fact
