@@ -33,7 +33,8 @@ primary_themes:
 - UK government intervention
 topic_tags:
 - employment
-storyline_nexus: []
+storyline_nexus:
+- poundland-s-future-under-owner-gordon-brothers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.7971
 ---
+
 ## Poundland's US owner releases £21m to restock 600 shops
 
 **Subtype:** fact

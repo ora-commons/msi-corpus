@@ -28,7 +28,8 @@ topic_tags:
 - business information
 - economy
 - lifestyle
-storyline_nexus: []
+storyline_nexus:
+- poundland-s-future-under-owner-gordon-brothers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -175,6 +176,7 @@ related_stories:
   relation: related
   strength: 0.7594
 ---
+
 ## Poundland wins two more weeks of creditor protection as owner weighs three bids
 
 **Subtype:** fact

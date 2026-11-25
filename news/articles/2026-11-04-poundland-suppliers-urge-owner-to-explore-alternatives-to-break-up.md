@@ -29,7 +29,8 @@ primary_themes:
 - Retail employment risks
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- poundland-s-future-under-owner-gordon-brothers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -161,6 +162,7 @@ related_stories:
   relation: related
   strength: 0.8204
 ---
+
 ## Poundland suppliers urge owner to explore alternatives to break-up
 
 **Subtype:** fact

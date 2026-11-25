@@ -32,7 +32,8 @@ primary_themes:
 - high street retail
 topic_tags:
 - labour
-storyline_nexus: []
+storyline_nexus:
+- poundland-s-future-under-owner-gordon-brothers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -185,8 +186,9 @@ related_stories:
   relation: related
   strength: 0.7831
 analyses:
-- '2026-11-12-gordon-brothers-holds-poundland-s-cash-and-first-claim-in-administration'
+- 2026-11-12-gordon-brothers-holds-poundland-s-cash-and-first-claim-in-administration
 ---
+
 ## Gordon Brothers releases £10m to Poundland as 12,000 store jobs remain at risk
 
 **Subtype:** fact

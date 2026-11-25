@@ -2,8 +2,20 @@
 headline: Pingree plans probe of White House Smithsonian overhaul draft
 secondary_headline: Congressional Democrats pledge to defend Smithsonian's independence
 publish_date: '2026-11-25'
-lede: Rep. Chellie Pingree of Maine told the Smithsonian's Board of Regents on Tuesday that she will investigate draft White House plans affecting the leadership, personnel and exhibits of the National Museum of American History. The materials surfaced in ProPublica's reporting after a commuter photographed a White House staffer's laptop and handwritten notes on a D.C.-area Metro train in late October. Pingree, slated to lead the House subcommittee that controls the Smithsonian's funding in the next Congress, said the incoming Democratic majority would monitor the institution's independence from political pressure.
-nut_graf: 'The Smithsonian receives federal funding but is governed by a 17-person Board of Regents whose members include the chief justice of the United States, members of Congress, the vice president and private citizens. The congressional response comes before any public confirmation that the 25-item list has moved beyond the draft stage: it remains unclear how the plans were received inside the Trump White House, and the staffer and the White House did not respond to requests for comment.'
+lede: Rep. Chellie Pingree of Maine told the Smithsonian's Board of Regents on Tuesday
+  that she will investigate draft White House plans affecting the leadership, personnel
+  and exhibits of the National Museum of American History. The materials surfaced
+  in ProPublica's reporting after a commuter photographed a White House staffer's
+  laptop and handwritten notes on a D.C.-area Metro train in late October. Pingree,
+  slated to lead the House subcommittee that controls the Smithsonian's funding in
+  the next Congress, said the incoming Democratic majority would monitor the institution's
+  independence from political pressure.
+nut_graf: 'The Smithsonian receives federal funding but is governed by a 17-person
+  Board of Regents whose members include the chief justice of the United States, members
+  of Congress, the vice president and private citizens. The congressional response
+  comes before any public confirmation that the 25-item list has moved beyond the
+  draft stage: it remains unclear how the plans were received inside the Trump White
+  House, and the staffer and the White House did not respond to requests for comment.'
 primary_entities:
 - Chellie Pingree
 - Smithsonian Institution
@@ -45,7 +57,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -147,104 +160,45 @@ related_stories:
   headline: Draft Smithsonian overhaul plan surfaces on White House staffer’s laptop
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.7524
-- slug: 2026-11-21-white-house-plans-to-scale-back-use-of-special-government-employees
-  headline: White House plans to scale back use of special government employees
-  publish_date: '2026-11-21'
-  relation: related
-  strength: 0.6173
-- slug: 2026-11-12-democrats-demand-records-from-trump-s-chief-fundraiser-over-800-million-raised
-  headline: Democrats demand records from Trump's chief fundraiser over $800 million raised
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.6374
-- slug: 2026-11-12-blumenthal-says-u-s-attorney-is-investigating-him-for-a-congressional-inquiry
-  headline: Blumenthal says U.S. attorney is investigating him for a congressional inquiry
-  publish_date: '2026-11-12'
-  relation: related
-  strength: 0.615
-- slug: 2026-11-10-republicans-53-47-senate-majority-faces-possible-shift-to-44-seats
-  headline: Republicans' 53-47 Senate majority faces possible shift to 44 seats
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6208
-- slug: 2026-11-06-trump-s-washington-projects-face-added-roadblocks-under-democratic-congress
-  headline: Trump's Washington projects face added roadblocks under Democratic Congress
-  publish_date: '2026-11-06'
-  relation: related
-  strength: 0.6247
-- slug: 2026-11-04-democrats-prepare-broad-oversight-agenda-after-winning-congress
-  headline: Democrats prepare broad oversight agenda after winning Congress
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6257
-- slug: 2026-11-04-democrats-take-congress-gaining-leverage-over-probes-and-appointments
-  headline: Democrats take Congress, gaining leverage over probes and appointments
-  publish_date: '2026-11-04'
-  relation: related
-  strength: 0.6097
+  strength: 0.7503
 - slug: 2026-09-16-interior-secretary-plans-warning-signs-outside-smithsonian-museums
   headline: Interior Secretary plans warning signs outside Smithsonian museums
   publish_date: '2026-09-16'
   relation: related
-  strength: 0.6806
+  strength: 0.6798
 - slug: 2026-09-12-smithsonian-secretary-bunch-defends-independence-as-he-prepares-to-exit
   headline: Smithsonian Secretary Bunch defends independence as he prepares to exit
   publish_date: '2026-09-12'
   relation: related
-  strength: 0.6761
-- slug: 2026-09-26-bunch-defends-smithsonian-against-trump-attacks-gets-standing-ovation
-  headline: Bunch defends Smithsonian against Trump attacks, gets standing ovation
-  publish_date: '2026-09-26'
-  relation: related
-  strength: 0.6354
-- slug: 2026-09-28-himes-readies-house-intelligence-probes-of-spy-industry-s-trump-dealings
-  headline: Himes readies House Intelligence probes of spy-industry's Trump dealings
-  publish_date: '2026-09-28'
-  relation: related
-  strength: 0.63
+  strength: 0.6746
 - slug: 2026-09-08-smithsonian-secretary-lonnie-bunch-to-retire-by-year-s-end
   headline: Smithsonian Secretary Lonnie Bunch to retire by year's end
   publish_date: '2026-09-08'
   relation: related
-  strength: 0.6639
+  strength: 0.6642
 - slug: 2026-09-11-smithsonian-secretary-bunch-to-retire-as-scholars-criticize-patriotic-education
-  headline: Smithsonian Secretary Bunch to retire as scholars criticize 'patriotic education'
+  headline: Smithsonian Secretary Bunch to retire as scholars criticize 'patriotic
+    education'
   publish_date: '2026-09-11'
   relation: related
-  strength: 0.6518
-- slug: 2026-09-12-trump-urges-smithsonian-to-add-30-foot-washington-statue-exhibit
-  headline: Trump urges Smithsonian to add 30-foot Washington statue, exhibit
-  publish_date: '2026-09-12'
-  relation: related
-  strength: 0.6466
+  strength: 0.6515
 - slug: 2026-07-06-white-house-report-demands-smithsonian-records-threatens-budget-cuts
   headline: White House report demands Smithsonian records, threatens budget cuts
   publish_date: '2026-07-06'
   relation: related
-  strength: 0.6796
+  strength: 0.6793
 - slug: 2026-01-13-smithsonian-hands-exhibit-details-to-white-house-amid-pressure-for-upbeat-us-his
-  headline: Smithsonian hands exhibit details to White House amid pressure for upbeat US history
+  headline: Smithsonian hands exhibit details to White House amid pressure for upbeat
+    US history
   publish_date: '2026-01-13'
   relation: related
-  strength: 0.7123
+  strength: 0.711
 - slug: 2026-07-24-trump-orders-signs-at-smithsonian-history-museum-after-white-house-report
   headline: Trump orders signs at Smithsonian history museum after White House report
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6542
-- slug: 2026-07-09-bunch-tells-staff-white-house-smithsonian-report-is-not-fair
-  headline: Bunch tells staff White House Smithsonian report is not fair
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6532
-- slug: 2026-05-22-house-rejects-bill-to-locate-smithsonian-women-s-history-museum-on-national-mall
-  headline: House rejects bill to locate Smithsonian Women’s History Museum on National Mall
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.65
+  strength: 0.6546
 ---
-
 ## Pingree plans probe of White House Smithsonian overhaul draft
 
 **Subtype:** fact

@@ -31,7 +31,8 @@ primary_themes:
 - UK high street
 topic_tags:
 - consumer goods
-storyline_nexus: []
+storyline_nexus:
+- poundland-s-future-under-owner-gordon-brothers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -165,6 +166,7 @@ image:
     frame that fills the entire canvas edge to edg
 related_stories: []
 ---
+
 ## Poundland files notice to appoint administrators as owner rejects rescue bid
 
 **Subtype:** fact

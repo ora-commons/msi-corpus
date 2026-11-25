@@ -1,9 +1,18 @@
 ---
 headline: Citi analysts say EU hybrid quota closes an obvious loophole
-secondary_headline: Citi sees quota as possible key driver of European automaker share recovery
+secondary_headline: Citi sees quota as possible key driver of European automaker share
+  recovery
 publish_date: '2026-11-25'
-lede: Citi analysts said the European Union's provisional quota on new hybrid passenger-vehicle imports closes an obvious loophole and could be a key driver of any recovery in European automaker shares. The analysts cited a 49% increase in total hybrid imports since 2023 and a more than tenfold increase from China. The 200-day measure bars shipments above country-specific allocations.
-nut_graf: The quota covers new hybrid passenger vehicles, the segment Chinese automakers moved rapidly into after the EU imposed battery-electric vehicle tariffs. Citi said that without the quota, investors would continue to view EU original equipment manufacturers as unattractive; with the measure in place, the analysts said it could be a key driver of any recovery in European automaker shares.
+lede: Citi analysts said the European Union's provisional quota on new hybrid passenger-vehicle
+  imports closes an obvious loophole and could be a key driver of any recovery in
+  European automaker shares. The analysts cited a 49% increase in total hybrid imports
+  since 2023 and a more than tenfold increase from China. The 200-day measure bars
+  shipments above country-specific allocations.
+nut_graf: The quota covers new hybrid passenger vehicles, the segment Chinese automakers
+  moved rapidly into after the EU imposed battery-electric vehicle tariffs. Citi said
+  that without the quota, investors would continue to view EU original equipment manufacturers
+  as unattractive; with the measure in place, the analysts said it could be a key
+  driver of any recovery in European automaker shares.
 primary_entities:
 - European Union
 - China
@@ -38,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,42 +152,30 @@ related_stories:
   relation: related
   strength: 0.784
 - slug: 2026-10-20-reported-eu-hybrid-cap-could-slow-chinese-automakers-share-gains-next-year
-  headline: Reported EU hybrid cap could slow Chinese automakers' share gains next year
+  headline: Reported EU hybrid cap could slow Chinese automakers' share gains next
+    year
   publish_date: '2026-10-20'
   relation: related
   strength: 0.7663
-- slug: 2026-11-10-china-expands-ev-chip-and-chemical-exports-amid-weak-domestic-demand
-  headline: China expands EV, chip and chemical exports amid weak domestic demand
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6475
 - slug: 2026-10-12-analysts-say-eu-hybrid-quota-limits-china-s-europe-push-only-at-the-margin
   headline: Analysts say EU hybrid quota limits China's Europe push only at the margin
   publish_date: '2026-10-12'
   relation: related
   strength: 0.768
 - slug: 2026-10-12-eu-s-350-000-unit-hybrid-cap-aims-to-halve-china-s-market-share-over-four-years
-  headline: EU's 350,000-unit hybrid cap aims to halve China's market share over four years
+  headline: EU's 350,000-unit hybrid cap aims to halve China's market share over four
+    years
   publish_date: '2026-10-12'
   relation: related
   strength: 0.7444
-- slug: 2026-10-30-audi-lowers-2026-revenue-forecast-to-55-billion-to-59-billion-euros
-  headline: Audi lowers 2026 revenue forecast to 55 billion to 59 billion euros
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.62
 - slug: 2026-10-15-chinese-automakers-target-overseas-markets-as-us-and-eu-tighten-access
   headline: Chinese automakers target overseas markets as US and EU tighten access
   publish_date: '2026-10-15'
   relation: related
   strength: 0.6748
-- slug: 2026-10-26-volvo-swings-to-a-deep-loss-as-china-profitability-and-volumes-decline
-  headline: Volvo swings to a deep loss as China profitability and volumes decline
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6228
 - slug: 2026-09-24-brussels-asks-beijing-to-voluntarily-cut-hybrid-exports-or-face-safeguard-quotas
-  headline: Brussels asks Beijing to voluntarily cut hybrid exports or face safeguard quotas
+  headline: Brussels asks Beijing to voluntarily cut hybrid exports or face safeguard
+    quotas
   publish_date: '2026-09-24'
   relation: related
   strength: 0.7249
@@ -191,53 +189,7 @@ related_stories:
   publish_date: '2026-09-22'
   relation: related
   strength: 0.6955
-- slug: 2026-10-04-uk-carmakers-caught-between-chinese-imports-and-eu-tariff-threat
-  headline: UK carmakers caught between Chinese imports and EU tariff threat
-  publish_date: '2026-10-04'
-  relation: related
-  strength: 0.6598
-- slug: 2026-10-05-germany-france-pitch-eu-trade-tool-to-quickly-block-chinese-goods
-  headline: Germany, France pitch EU trade tool to quickly block Chinese goods
-  publish_date: '2026-10-05'
-  relation: related
-  strength: 0.6403
-- slug: 2026-09-03-china-s-evs-displaced-1-5-million-barrels-of-oil-per-day-in-q2-iea-says
-  headline: China's EVs displaced 1.5 million barrels of oil per day in Q2, IEA says
-  publish_date: '2026-09-03'
-  relation: related
-  strength: 0.6222
-- slug: 2026-06-30-eu-halves-duty-free-steel-imports-gives-uk-better-terms
-  headline: EU halves duty-free steel imports, gives UK better terms
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6531
-- slug: 2026-07-23-chinese-carmakers-extend-european-sales-surge-in-june-as-ev-demand-climbs
-  headline: Chinese carmakers extend European sales surge in June as EV demand climbs
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6354
-- slug: 2026-06-19-european-leaders-weigh-new-trade-powers-to-counter-chinese-export-flood
-  headline: European leaders weigh new trade powers to counter Chinese export flood
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6491
-- slug: 2026-07-14-ford-executive-chair-says-us-must-prepare-for-chinese-cars-to-enter-market
-  headline: Ford executive chair says US must prepare for Chinese cars to enter market
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6277
-- slug: 2026-01-11-china-and-eu-agree-on-steps-to-resolve-ev-imports-dispute
-  headline: China and EU agree on steps to resolve EV imports dispute
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6489
-- slug: 2026-01-13-china-car-exports-surged-in-2025-but-domestic-demand-slowed
-  headline: China car exports surged in 2025, but domestic demand slowed
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6465
 ---
-
 ## Citi analysts say EU hybrid quota closes an obvious loophole
 
 **Subtype:** fact

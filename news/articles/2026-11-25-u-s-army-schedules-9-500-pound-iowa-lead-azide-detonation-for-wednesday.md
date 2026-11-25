@@ -1,9 +1,21 @@
 ---
 headline: U.S. Army schedules 9,500-pound Iowa lead azide detonation for Wednesday
-secondary_headline: Army projects plume could carry lead particles more than 100 miles into Missouri
+secondary_headline: Army projects plume could carry lead particles more than 100 miles
+  into Missouri
 publish_date: '2026-11-25'
-lede: The U.S. Army plans to detonate 9,500 pounds of degraded lead azide at the Iowa Army Ammunition Plant near Middletown, Iowa, on Wednesday around 10 a.m. ET, Army officials said. Inspectors found in March that the explosive had partially crystallized, raising the risk that it could detonate on its own. The U.S. Court of Appeals for the Eighth Circuit lifted its temporary hold Monday night, and federal officials recommended temporary relocation for Middletown residents while setting a 5-mile evacuation cone southwest of the plant.
-nut_graf: Officials said a controlled detonation was the safest option because falling temperatures could destabilize the material and other disposal methods were not possible. Army projections released Tuesday said the plume could carry measurable quantities of lead particles more than 100 miles to the southwest into northern Missouri, while residents near the evacuation zone were encouraged to shelter in place.
+lede: The U.S. Army plans to detonate 9,500 pounds of degraded lead azide at the Iowa
+  Army Ammunition Plant near Middletown, Iowa, on Wednesday around 10 a.m. ET, Army
+  officials said. Inspectors found in March that the explosive had partially crystallized,
+  raising the risk that it could detonate on its own. The U.S. Court of Appeals for
+  the Eighth Circuit lifted its temporary hold Monday night, and federal officials
+  recommended temporary relocation for Middletown residents while setting a 5-mile
+  evacuation cone southwest of the plant.
+nut_graf: Officials said a controlled detonation was the safest option because falling
+  temperatures could destabilize the material and other disposal methods were not
+  possible. Army projections released Tuesday said the plume could carry measurable
+  quantities of lead particles more than 100 miles to the southwest into northern
+  Missouri, while residents near the evacuation zone were encouraged to shelter in
+  place.
 primary_entities:
 - U.S. Army
 - Iowa Army Ammunition Plant
@@ -52,7 +64,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -154,17 +167,17 @@ related_stories:
   headline: U.S. Army prepares to detonate degraded lead azide stockpile in Iowa
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.9206
+  strength: 0.9207
 - slug: 2026-11-25-u-s-army-set-to-detonate-68-barrels-of-lead-azide-in-middletown-iowa
   headline: U.S. Army set to detonate 68 barrels of lead azide in Middletown, Iowa
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.8982
+  strength: 0.8992
 - slug: 2026-11-23-army-plans-iowa-lead-azide-detonation-despite-appeals-court-ruling
   headline: Army plans Iowa lead azide detonation despite appeals court ruling
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.9092
+  strength: 0.9093
 - slug: 2026-11-24-u-s-army-secures-court-approval-to-detonate-degraded-lead-azide-in-iowa
   headline: U.S. Army secures court approval to detonate degraded lead azide in Iowa
   publish_date: '2026-11-24'
@@ -174,84 +187,24 @@ related_stories:
   headline: Army maps toxic dust plume for planned Iowa lead azide detonation
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8834
+  strength: 0.8832
+- slug: 2026-11-25-epa-collects-more-than-1-200-samples-before-army-s-iowa-lead-azide-blast
+  headline: EPA collects more than 1,200 samples before Army’s Iowa lead azide blast
+  publish_date: '2026-11-25'
+  relation: related
+  strength: 0.872
 - slug: 2026-11-24-army-reschedules-iowa-lead-azide-detonation-citing-winds-extra-safety-steps
-  headline: Army reschedules Iowa lead azide detonation citing winds, extra safety steps
+  headline: Army reschedules Iowa lead azide detonation citing winds, extra safety
+    steps
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8772
+  strength: 0.8774
 - slug: 2026-11-22-army-plans-iowa-lead-azide-detonation-by-nov-24-despite-court-pause
   headline: Army plans Iowa lead azide detonation by Nov. 24 despite court pause
   publish_date: '2026-11-22'
   relation: related
-  strength: 0.8771
-- slug: 2026-11-23-residents-prepare-near-iowa-army-plant-for-lead-azide-detonation
-  headline: Residents prepare near Iowa Army plant for lead azide detonation
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.866
-- slug: 2026-11-20-u-s-army-delays-iowa-detonation-of-degraded-lead-azide-after-lawsuit
-  headline: U.S. Army delays Iowa detonation of degraded lead azide after lawsuit
-  publish_date: '2026-11-20'
-  relation: related
-  strength: 0.8852
-- slug: 2026-11-25-iowa-residents-brace-for-army-s-controlled-lead-azide-blast
-  headline: Iowa residents brace for Army's controlled lead azide blast
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.8467
-- slug: 2026-11-24-army-details-c-4-disposal-for-nation-s-entire-lead-azide-stockpile
-  headline: Army details C-4 disposal for nation's entire lead azide stockpile
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8486
-- slug: 2026-11-23-lead-azide-detonation-could-affect-middletown-and-nearby-communities
-  headline: Lead azide detonation could affect Middletown and nearby communities
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8537
-- slug: 2026-11-19-u-s-army-plans-iowa-detonation-as-officials-warn-of-lead-dust
-  headline: U.S. Army plans Iowa detonation as officials warn of lead dust
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.8798
-- slug: 2026-11-22-army-plans-emergency-move-to-detonate-iowa-chemicals-despite-court-stay
-  headline: Army plans emergency move to detonate Iowa chemicals despite court stay
-  publish_date: '2026-11-22'
-  relation: related
-  strength: 0.8576
-- slug: 2026-11-23-environmental-groups-seek-another-pause-before-iowa-lead-azide-detonation
-  headline: Environmental groups seek another pause before Iowa lead azide detonation
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8499
-- slug: 2026-11-24-army-maps-show-possible-lead-spread-as-fema-aids-iowa-evacuations
-  headline: Army maps show possible lead spread as FEMA aids Iowa evacuations
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.8406
-- slug: 2026-11-23-trump-orders-army-to-await-agreement-from-8th-circuit-and-rob-sand
-  headline: Trump orders Army to await agreement from 8th Circuit and Rob Sand
-  publish_date: '2026-11-23'
-  relation: related
-  strength: 0.8425
-- slug: 2026-11-22-army-seeks-emergency-provisions-to-detonate-iowa-chemicals-despite-stay
-  headline: Army seeks emergency provisions to detonate Iowa chemicals despite stay
-  publish_date: '2026-11-22'
-  relation: related
-  strength: 0.8407
-- slug: 2026-11-25-kim-reynolds-declares-iowa-emergency-before-army-lead-azide-detonation
-  headline: Kim Reynolds declares Iowa emergency before Army lead azide detonation
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.8163
-- slug: 2026-11-20-appeals-court-stays-army-lead-azide-detonation-permit-in-iowa
-  headline: Appeals court stays Army lead-azide detonation permit in Iowa
-  publish_date: '2026-11-20'
-  relation: related
-  strength: 0.8437
+  strength: 0.8766
 ---
-
 ## U.S. Army schedules 9,500-pound Iowa lead azide detonation for Wednesday
 
 **Subtype:** fact

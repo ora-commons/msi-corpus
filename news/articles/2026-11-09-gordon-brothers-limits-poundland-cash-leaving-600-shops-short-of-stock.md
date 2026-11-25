@@ -28,7 +28,8 @@ primary_themes:
 topic_tags:
 - economy
 - employment
-storyline_nexus: []
+storyline_nexus:
+- poundland-s-future-under-owner-gordon-brothers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -170,6 +171,7 @@ related_stories:
   relation: related
   strength: 0.7799
 ---
+
 ## Gordon Brothers limits Poundland cash, leaving 600 shops short of stock
 
 **Subtype:** fact

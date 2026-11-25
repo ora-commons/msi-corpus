@@ -40,7 +40,8 @@ primary_themes:
 - Break-up alternatives
 topic_tags:
 - banking
-storyline_nexus: []
+storyline_nexus:
+- poundland-s-future-under-owner-gordon-brothers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -204,8 +205,9 @@ related_stories:
   relation: related
   strength: 0.7831
 analyses:
-- '2026-11-23-poundland-sale-turns-on-liquidity-and-creditor-priority'
+- 2026-11-23-poundland-sale-turns-on-liquidity-and-creditor-priority
 ---
+
 ## Gordon Brothers weighs three bids for Poundland amid cash restrictions
 
 **Subtype:** fact
