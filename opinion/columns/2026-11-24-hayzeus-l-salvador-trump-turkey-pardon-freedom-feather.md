@@ -44,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,7 +66,29 @@ cross_article_links:
   strength: 0.5004
   confidence: high
 draft: false
+image:
+  url: /cartoons/trump-pardons-turkeys-while-his-administration-cages.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Pardons Turkeys While His Administration
+    Cages Migrant Families'
+  caption: The audience chooses the bird. The government chooses whose family to tear
+    apart.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-24T22:03:32-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Render a square 1:1 single panel in heavy Nast-style cross-hatch wood
+    engraving, with strong black masses, carved white highlights, and only one sepia
+    accent. Donald Trump stands at a central White Ho
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-24-hector-paired-with-2026-11-24-hayzeus-l-salvador-trump-turkey-pardon-freedom-feather
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Pardons Turkeys While His Administration Cages Migrant Families](/cartoons/trump-pardons-turkeys-while-his-administration-cages.png)
+*The audience chooses the bird. The government chooses whose family to tear apart.*
 
 Donald Trump will pardon turkeys while his administration cages migrant families.
 

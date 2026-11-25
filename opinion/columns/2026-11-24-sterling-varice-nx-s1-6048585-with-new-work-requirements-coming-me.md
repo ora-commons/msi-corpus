@@ -1,7 +1,10 @@
 ---
 headline: You Fund the Coverage; I Decide Who Keeps It.
 publish_date: '2026-11-24'
-lede: Delphine is 39, a knife-hour on the fillet line of the catfish plant I own outside Ferriday, Louisiana, and by the third hour the ammonia compressor has warmed her shoulders; because her Medicaid coverage turns on my timesheet, I can leave her 1 hour short of 80 without laying off a finger, and I paid nothing for that power.
+lede: Delphine is 39, a knife-hour on the fillet line of the catfish plant I own outside
+  Ferriday, Louisiana, and by the third hour the ammonia compressor has warmed her
+  shoulders; because her Medicaid coverage turns on my timesheet, I can leave her
+  1 hour short of 80 without laying off a finger, and I paid nothing for that power.
 pen_name: sterling-varice
 primary_entities:
 - Medicaid
@@ -31,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -52,7 +56,29 @@ cross_article_links:
   strength: 0.221
   confidence: high
 draft: false
+image:
+  url: /cartoons/you-fund-the-coverage-i-decide-who-keeps-it.png
+  alt: 'Editorial cartoon by Hector Rentier: You Fund the Coverage; I Decide Who Keeps
+    It.'
+  caption: The employer kept the timesheet. The portal turned one missing hour into
+    lost Medicaid coverage.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-24T22:11:47-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square single-panel Nast-style wood engraving, dense cross-hatching,
+    pure black masses and carved white, with exactly one restrained sepia (#6B4226)
+    accent on the printed “79.” At center, a fully indi
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-24-hector-paired-with-2026-11-24-sterling-varice-nx-s1-6048585-with-new-work-requirements-coming-me
 ---
+
+![Editorial cartoon by Hector Rentier: You Fund the Coverage; I Decide Who Keeps It.](/cartoons/you-fund-the-coverage-i-decide-who-keeps-it.png)
+*The employer kept the timesheet. The portal turned one missing hour into lost Medicaid coverage.*
 
 Delphine is 39, a knife-hour on the fillet line of the catfish plant I own outside Ferriday, Louisiana, and by the third hour the ammonia compressor has warmed her shoulders; because her Medicaid coverage turns on my timesheet, I can leave her 1 hour short of 80 without laying off a finger, and I paid nothing for that power. Selena Simmons-Duffin’s [NPR report on new Medicaid work requirements](https://www.npr.org/2026/11/24/nx-s1-6048585/with-new-work-requirements-coming-medicaid-recipients-try-to-navigate-the-system) says cuts and work requirements are set to affect the health insurance of many low-income Americans and that recipients face overwhelming confusion. Correct. Confusion is a cost center. You eat the output on Friday nights: the fried-catfish plate at my fish camp, the po’boy at the counter by the bridge. Your taxes cover the distance between her wage and her rent. The state now asks her for 80 documented hours a month to keep coverage, and the man who allocates her hours is me. I keep $1.10 a head each month by declining the scheduling module that would print fixed shifts. God has always preferred a documented man.
 

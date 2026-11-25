@@ -42,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,16 +59,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-24-pentagon-pursues-automakers-to-expand-military-drone-production.png
-  alt: 'Illustration accompanying article: Pentagon pursues automakers to expand military drone production'
+  url: /cartoons/hegseth-and-gm-are-preparing-one-way-attack-drones-to-kill.png
+  alt: 'Editorial cartoon by Hector Rentier: Hegseth and GM Are Preparing One-Way
+    Attack Drones to Kill People'
+  caption: A budget line is not a declaration of war.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-24T22:10:06-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single square panel, heavy Nast-style cross-hatch, pure black masses
+    against carved white. Center foreground: a colossal steel balance tipped hard
+    toward the left. Its low pan carries a huge machined '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-24-pentagon-pursues-automakers-to-expand-military-drone-production
   relation: extends
   strength: 1.0
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-24-hector-paired-with-2026-11-24-james-big-jim-zebedee-olitics-national-security-ford-general-m
 ---
+
+![Editorial cartoon by Hector Rentier: Hegseth and GM Are Preparing One-Way Attack Drones to Kill People](/cartoons/hegseth-and-gm-are-preparing-one-way-attack-drones-to-kill.png)
+*A budget line is not a declaration of war.*
 
 Hegseth and GM are preparing one-way attack drones to kill people.
 
