@@ -24,7 +24,8 @@ primary_themes:
 topic_tags:
 - economy
 - monetary policy
-storyline_nexus: []
+storyline_nexus:
+- us-inflation
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -134,6 +135,7 @@ related_stories:
   relation: related
   strength: 0.7891
 ---
+
 ## Core inflation accelerates to 3.1% as third-quarter GDP grows 3.4%
 
 **Subtype:** fact

@@ -26,7 +26,8 @@ primary_themes:
 - Monetary policy
 topic_tags:
 - economy
-storyline_nexus: []
+storyline_nexus:
+- us-inflation
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,6 +200,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Inflation gauge closely monitored by Fed accelerates to 3.6% in September
 
 **Subtype:** fact

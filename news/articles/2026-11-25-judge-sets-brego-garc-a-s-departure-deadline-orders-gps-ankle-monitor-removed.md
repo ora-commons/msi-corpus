@@ -1,9 +1,22 @@
 ---
-headline: Judge sets Ábrego García’s departure deadline, orders GPS ankle monitor removed
-secondary_headline: Associated Press timeline records no ruling on Justice Department’s appeal
+headline: Judge sets Ábrego García’s departure deadline, orders GPS ankle monitor
+  removed
+secondary_headline: Associated Press timeline records no ruling on Justice Department’s
+  appeal
 publish_date: '2026-11-25'
-lede: According to an unsealed Nov. 20 order, a federal judge set Nov. 24, 2026, as Kilmar Ábrego García's deadline to leave the United States and ordered his GPS ankle monitor removed before he boarded a flight. The Associated Press reported that García left voluntarily from Washington Dulles International Airport that day for Spain.
-nut_graf: The Associated Press said the legal fight galvanized both sides of the debate over President Donald Trump's immigration policies and described García's self-deportation as potentially ending “a defining saga” of the Trump administration's immigration crackdown. García had also been challenging the Department of Homeland Security's attempts to deport him to a series of African countries in a Maryland civil case. A Tennessee federal judge had dismissed the smuggling case after finding evidence of “vindictive prosecution” by the Justice Department. The Justice Department's appeal of that dismissal was before a federal appeals court on Aug. 17, 2026, and the timeline records no decision on it.
+lede: According to an unsealed Nov. 20 order, a federal judge set Nov. 24, 2026, as
+  Kilmar Ábrego García's deadline to leave the United States and ordered his GPS ankle
+  monitor removed before he boarded a flight. The Associated Press reported that García
+  left voluntarily from Washington Dulles International Airport that day for Spain.
+nut_graf: The Associated Press said the legal fight galvanized both sides of the debate
+  over President Donald Trump's immigration policies and described García's self-deportation
+  as potentially ending “a defining saga” of the Trump administration's immigration
+  crackdown. García had also been challenging the Department of Homeland Security's
+  attempts to deport him to a series of African countries in a Maryland civil case.
+  A Tennessee federal judge had dismissed the smuggling case after finding evidence
+  of “vindictive prosecution” by the Justice Department. The Justice Department's
+  appeal of that dismissal was before a federal appeals court on Aug. 17, 2026, and
+  the timeline records no decision on it.
 primary_entities:
 - Kilmar Ábrego García
 - President Donald Trump
@@ -49,7 +62,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,12 +165,12 @@ related_stories:
   headline: Kilmar Ábrego García arrives in Madrid after leaving the US voluntarily
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.8146
+  strength: 0.8144
 - slug: 2026-11-24-kilmar-brego-garc-a-is-leaving-the-u-s-for-spain-voluntarily
   headline: Kilmar Ábrego García is leaving the U.S. for Spain voluntarily
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7814
+  strength: 0.7813
 - slug: 2026-11-25-kilmar-abrego-garcia-leaves-for-spain-after-a-nearly-two-year-legal-fight
   headline: Kilmar Abrego Garcia leaves for Spain after a nearly two-year legal fight
   publish_date: '2026-11-25'
@@ -171,84 +185,24 @@ related_stories:
   headline: Kilmar Abrego Garcia self-deports to Spain, source says
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7492
+  strength: 0.7494
 - slug: 2026-11-25-judge-barred-third-country-deportation-of-brego-garc-a-after-uganda-reports
   headline: Judge barred third-country deportation of Ábrego García after Uganda reports
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.7264
+  strength: 0.726
 - slug: 2026-11-23-justice-department-concedes-morales-garc-a-was-a-u-s-citizen-deported-to-mexico
-  headline: Justice Department concedes Morales García was a U.S. citizen deported to Mexico
+  headline: Justice Department concedes Morales García was a U.S. citizen deported
+    to Mexico
   publish_date: '2026-11-23'
   relation: related
-  strength: 0.6858
+  strength: 0.686
 - slug: 2026-10-06-abrego-garcia-in-court-tuesday-to-block-liberia-deportation
   headline: Abrego Garcia in court Tuesday to block Liberia deportation
   publish_date: '2026-10-06'
   relation: related
-  strength: 0.7286
-- slug: 2026-05-22-judge-dismisses-human-smuggling-case-against-kilmar-abrego-garcia
-  headline: Judge dismisses human smuggling case against Kilmar Abrego Garcia
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7974
-- slug: 2026-04-08-timeline-of-kilmar-abrego-garcia-s-fight-over-deportation
-  headline: Timeline of Kilmar Abrego Garcia’s fight over deportation
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.8067
-- slug: 2026-02-18-judge-rules-ice-cannot-re-detaine-kilmar-abrego-garcia-ending-detention
-  headline: Judge rules ICE cannot re-detaine Kilmar Abrego Garcia, ending detention
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.8072
-- slug: 2026-08-18-justice-department-appeals-to-reinstate-brego-garc-a-smuggling-charges
-  headline: Justice Department appeals to reinstate Ábrego García smuggling charges
-  publish_date: '2026-08-18'
-  relation: related
-  strength: 0.7268
-- slug: 2026-09-15-federal-judge-orders-return-of-nicaraguan-woman-deported-mid-case
-  headline: Federal judge orders return of Nicaraguan woman deported mid-case
-  publish_date: '2026-09-15'
-  relation: related
-  strength: 0.6748
-- slug: 2026-05-23-judge-dismisses-human-smuggling-case-of-abrego-garcia-citing-vindictive-prosecut
-  headline: Judge dismisses human smuggling case of Abrego Garcia, citing vindictive prosecution
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7782
-- slug: 2026-06-23-justice-department-appeals-dismissal-of-charges-against-abrego-garcia
-  headline: Justice Department appeals dismissal of charges against Abrego Garcia
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7329
-- slug: 2026-05-22-judge-dismisses-human-smuggling-charges-against-man-mistakenly-deported-to-el-sa
-  headline: Judge dismisses human smuggling charges against man mistakenly deported to El Salvador
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7333
-- slug: 2026-05-22-judge-dismisses-abrego-garcia-charges-citing-vindictive-prosecution
-  headline: Judge dismisses Abrego Garcia charges, citing vindictive prosecution
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7292
-- slug: 2025-12-30-ice-won-t-re-detain-abrego-garcia-while-ban-order-remains-in-effect
-  headline: ICE won’t re-detain Abrego Garcia while ban order remains in effect
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7401
-- slug: 2026-02-27-abrego-garcia-seeks-to-have-smuggling-charges-dismissed-in-court
-  headline: Abrego Garcia seeks to have smuggling charges dismissed in court
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7325
-- slug: 2025-12-31-ice-won-t-detain-abrego-garcia-again-while-judge-s-order-holds
-  headline: ICE won’t detain Abrego Garcia again while judge’s order holds
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.7282
+  strength: 0.7283
 ---
-
 ## Judge sets Ábrego García’s departure deadline, orders GPS ankle monitor removed
 
 **Subtype:** fact
