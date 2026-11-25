@@ -204,6 +204,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-24-hadrian-loan-review-tests-separation-of-financing-and-procurement'
 ---
 ## Pentagon weighs $15 billion loan for Hadrian, backed by Trump Jr.’s firm
 
@@ -254,3 +256,8 @@ Venture capital firms invested $33 billion in companies combining AI and robotic
 **Publication date:** 2026-11-24
 **Title:** A Startup Tied to Donald Trump Jr. Could Get a Historic $15 Billion Loan From the Pentagon
 **URL:** https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan
+
+---
+
+<!-- analysis-link:2026-11-24-hadrian-loan-review-tests-separation-of-financing-and-procurement -->
+**Going deeper:** [Read MSI's analysis of Hadrian’s Pentagon loan review →](/analyses/2026-11-24-hadrian-loan-review-tests-separation-of-financing-and-procurement)
