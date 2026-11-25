@@ -1,9 +1,18 @@
 ---
 headline: BBC asks appeals court to dismiss Trump's $10bn defamation lawsuit
-secondary_headline: Judge found Trump plausibly pleaded actual malice over the documentary edit
+secondary_headline: Judge found Trump plausibly pleaded actual malice over the documentary
+  edit
 publish_date: '2026-11-25'
-lede: The BBC has lodged an urgent appeal to the United States court of appeals for the 11th circuit, asking it to dismiss Donald Trump's $10bn defamation lawsuit over a Panorama documentary. Federal judge Jeffrey T Kuntz, whom Trump nominated, allowed the case to proceed in Florida; BBC lawyers say the documentary never aired in the United States and that the BBC did not have the rights to broadcast it there.
-nut_graf: The dispute asks whether a Florida court may hear a defamation case against the BBC, whose lawyers say the broadcaster aired the programme in the UK and did not have US broadcast rights. The BBC has apologised for the documentary's edit while denying that the film defamed Trump, and the case is set to head to trial next year while Trump's deposition has been postponed until January.
+lede: The BBC has lodged an urgent appeal to the United States court of appeals for
+  the 11th circuit, asking it to dismiss Donald Trump's $10bn defamation lawsuit over
+  a Panorama documentary. Federal judge Jeffrey T Kuntz, whom Trump nominated, allowed
+  the case to proceed in Florida; BBC lawyers say the documentary never aired in the
+  United States and that the BBC did not have the rights to broadcast it there.
+nut_graf: The dispute asks whether a Florida court may hear a defamation case against
+  the BBC, whose lawyers say the broadcaster aired the programme in the UK and did
+  not have US broadcast rights. The BBC has apologised for the documentary's edit
+  while denying that the film defamed Trump, and the case is set to head to trial
+  next year while Trump's deposition has been postponed until January.
 primary_entities:
 - BBC
 - Donald Trump
@@ -42,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +154,45 @@ related_stories:
   headline: Federal judge lets Trump's $10 billion BBC defamation suit proceed
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8765
+  strength: 0.8756
 - slug: 2026-11-11-trump-s-lawyers-concede-no-evidence-panorama-was-available-in-the-us
   headline: Trump's lawyers concede no evidence Panorama was available in the US
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8706
+  strength: 0.8681
 - slug: 2026-11-11-bbc-s-head-and-top-news-executive-resigned-as-trump-defamation-case-proceeds
   headline: BBC's head and top news executive resigned as Trump defamation case proceeds
   publish_date: '2026-11-11'
   relation: related
-  strength: 0.8293
+  strength: 0.8281
 - slug: 2026-11-17-federal-judge-delays-trump-s-deposition-in-bbc-defamation-case-to-january-22
-  headline: Federal judge delays Trump's deposition in BBC defamation case to January 22
+  headline: Federal judge delays Trump's deposition in BBC defamation case to January
+    22
   publish_date: '2026-11-17'
   relation: related
-  strength: 0.7537
+  strength: 0.7518
 - slug: 2026-10-22-bbc-asks-judge-to-dismiss-trump-suit-over-london-production-and-no-u-s-airing
-  headline: BBC asks judge to dismiss Trump suit over London production and no U.S. airing
+  headline: BBC asks judge to dismiss Trump suit over London production and no U.S.
+    airing
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.823
+  strength: 0.8222
 - slug: 2026-10-22-trump-s-lawyers-offer-january-deposition-dates-bbc-seeks-lawsuit-dismissal
   headline: Trump’s lawyers offer January deposition dates; BBC seeks lawsuit dismissal
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7982
+  strength: 0.7965
 - slug: 2026-10-13-bbc-moves-to-compel-trump-deposition-in-his-10b-defamation-suit
   headline: BBC moves to compel Trump deposition in his $10B defamation suit
   publish_date: '2026-10-13'
   relation: related
-  strength: 0.8006
+  strength: 0.7999
 - slug: 2026-10-22-judge-lets-bbc-subpoena-trump-s-mar-a-lago-club-in-defamation-suit
   headline: Judge lets BBC subpoena Trump's Mar-a-Lago Club in defamation suit
   publish_date: '2026-10-22'
   relation: related
-  strength: 0.7357
-- slug: 2026-10-22-trump-must-depose-by-dec-11-in-suit-against-bbc-or-face-possible-sanctions
-  headline: Trump must depose by Dec. 11 in suit against BBC or face possible sanctions
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7147
-- slug: 2026-10-22-judge-gives-department-until-nov-2-to-answer-smith-s-request-to-testify
-  headline: Judge orders DOJ to answer Smith's request to testify by Nov. 2
-  publish_date: '2026-10-22'
-  relation: related
-  strength: 0.7008
-- slug: 2026-10-31-judge-again-dismisses-trump-s-10-billion-defamation-suit-against-journal-publish
-  headline: Judge again dismisses Trump's $10 billion defamation suit against Journal publisher
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6186
-- slug: 2026-11-01-judge-trump-s-epstein-letter-suit-tried-to-manufacture-flaws-in-journal-story
-  headline: 'Judge: Trump''s Epstein letter suit tried to ''manufacture'' flaws in Journal story'
-  publish_date: '2026-11-01'
-  relation: related
-  strength: 0.611
-- slug: 2026-10-26-six-plaintiffs-challenge-white-house-press-bans-without-seeking-damages
-  headline: Six plaintiffs challenge White House press bans without seeking damages
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6092
-- slug: 2026-07-21-judge-orders-trump-to-release-financial-records-in-bbc-defamation-case
-  headline: Judge orders Trump to release financial records in BBC defamation case
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.7977
-- slug: 2026-08-22-trump-asks-judge-to-block-bbc-subpoenas-to-his-family-members
-  headline: Trump asks judge to block BBC subpoenas to his family members
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.7442
-- slug: 2026-08-05-trump-attorneys-ask-court-to-pause-bbc-access-to-financial-records
-  headline: Trump attorneys ask court to pause BBC access to financial records
-  publish_date: '2026-08-05'
-  relation: related
-  strength: 0.7568
-- slug: 2026-10-06-disney-abc-ask-court-to-block-fcc-s-accelerated-license-review
-  headline: Disney, ABC ask court to block FCC's accelerated license review
-  publish_date: '2026-10-06'
-  relation: related
-  strength: 0.6115
-- slug: 2026-09-23-cnn-ms-now-and-politico-ask-judge-to-restore-white-house-press-credentials
-  headline: CNN, MS NOW and Politico ask judge to restore White House press credentials
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6172
-- slug: 2026-09-23-justice-department-accuses-banned-outlets-of-false-reporting-in-court-filing
-  headline: Justice Department accuses banned outlets of false reporting in court filing
-  publish_date: '2026-09-23'
-  relation: related
-  strength: 0.6095
-- slug: 2026-02-13-us-judge-sets-2027-trial-date-in-trump-defamation-lawsuit-against-bbc
-  headline: US judge sets 2027 trial date in Trump defamation lawsuit against BBC
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7487
+  strength: 0.7341
 ---
-
 ## BBC asks appeals court to dismiss Trump's $10bn defamation lawsuit
 
 **Subtype:** fact

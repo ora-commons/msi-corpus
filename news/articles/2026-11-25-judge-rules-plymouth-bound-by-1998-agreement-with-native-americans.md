@@ -2,8 +2,17 @@
 headline: Judge rules Plymouth bound by 1998 agreement with Native Americans
 secondary_headline: Judge absolves town of providing stage it supplied for 27 years
 publish_date: '2026-11-25'
-lede: A Plymouth, Massachusetts, superior court judge ruled on Tuesday that the town's 1998 settlement agreement with the United American Indians of New England is legally binding, in a year-long dispute over funding and permits for the group's annual National Day of Mourning protest. Judge Brian Glenny barred Plymouth from requiring insurance or permits for the event and cleared the town of providing the mobile stage it has supplied for 27 years.
-nut_graf: Judge Brian Glenny's decision settles the immediate question of permits and insurance for this year's gathering, but it also relieves Plymouth of the stage duty it has met for 27 years and appears to leave a path for the town to challenge the settlement again. UAINE says it will go ahead with the protest on Cole's Hill, where the gathering has marked Thanksgiving for 50 years.
+lede: A Plymouth, Massachusetts, superior court judge ruled on Tuesday that the town's
+  1998 settlement agreement with the United American Indians of New England is legally
+  binding, in a year-long dispute over funding and permits for the group's annual
+  National Day of Mourning protest. Judge Brian Glenny barred Plymouth from requiring
+  insurance or permits for the event and cleared the town of providing the mobile
+  stage it has supplied for 27 years.
+nut_graf: Judge Brian Glenny's decision settles the immediate question of permits
+  and insurance for this year's gathering, but it also relieves Plymouth of the stage
+  duty it has met for 27 years and appears to leave a path for the town to challenge
+  the settlement again. UAINE says it will go ahead with the protest on Cole's Hill,
+  where the gathering has marked Thanksgiving for 50 years.
 primary_entities:
 - Plymouth, Massachusetts
 - United American Indians of New England
@@ -46,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,109 +153,8 @@ cross_article_links:
   strength: 0.554
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-10-30-freedom-riders-complete-new-orleans-journey-65-years-after-mob-halted-1961-ride
-  headline: Freedom Riders complete New Orleans journey 65 years after mob halted 1961 ride
-  publish_date: '2026-10-30'
-  relation: related
-  strength: 0.5256
-- slug: 2026-09-22-mississippi-grand-jury-in-wells-case-includes-23-members-from-six-ethnic-groups
-  headline: Mississippi grand jury in Wells case includes 23 members from six ethnic groups
-  publish_date: '2026-09-22'
-  relation: related
-  strength: 0.5293
-- slug: 2026-08-13-judge-rules-ice-contract-doesn-t-shield-plymouth-county-detainee-records-from-st
-  headline: Judge rules ICE contract doesn't shield Plymouth County detainee records from state law
-  publish_date: '2026-08-13'
-  relation: related
-  strength: 0.5835
-- slug: 2026-08-22-paramount-california-to-begin-settlement-talks-on-81b-warner-merger
-  headline: Paramount, California to begin settlement talks on $81B Warner merger
-  publish_date: '2026-08-22'
-  relation: related
-  strength: 0.5276
-- slug: 2026-08-06-massachusetts-governor-signs-landmark-legislation-limiting-ice-enforcement
-  headline: Massachusetts Governor Signs Landmark Legislation Limiting ICE Enforcement
-  publish_date: '2026-08-06'
-  relation: related
-  strength: 0.532
-- slug: 2026-07-07-clearwater-approves-street-transfer-to-scientology-residents-plan-referendum
-  headline: Clearwater approves street transfer to Scientology, residents plan referendum
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5397
-- slug: 2026-07-03-dhs-proposes-raising-citizenship-fee-to-1-280-ending-waivers
-  headline: DHS proposes raising citizenship fee to $1,280, ending waivers
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.5283
-- slug: 2026-03-08-thousands-mark-bloody-sunday-s-61st-anniversary-as-voting-rights-act-faces-supre
-  headline: Thousands mark Bloody Sunday's 61st anniversary as Voting Rights Act faces Supreme Court test
-  publish_date: '2026-03-08'
-  relation: related
-  strength: 0.5532
-- slug: 2026-05-21-federal-officials-approve-dakota-access-oil-pipeline-easement-in-north-dakota
-  headline: Federal officials approve Dakota Access oil pipeline easement in North Dakota
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5385
-- slug: 2026-05-23-as-memorial-day-sales-surge-veterans-say-holiday-s-solemn-meaning-is-being-lost
-  headline: As Memorial Day sales surge, veterans say holiday's solemn meaning is being lost
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5375
-- slug: 2026-03-10-justice-department-reaches-settlement-with-live-nation-in-antitrust-case
-  headline: Justice Department reaches settlement with Live Nation in antitrust case
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5475
-- slug: 2026-03-10-judge-urges-states-to-settle-live-nation-claims-as-most-refuse-doj-deal
-  headline: Judge urges states to settle Live Nation claims as most refuse DOJ deal
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5448
-- slug: 2026-04-16-jury-finds-live-nation-ran-harmful-concert-venue-monopoly-states-seek-damages
-  headline: Jury finds Live Nation ran harmful concert venue monopoly; states seek damages
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5394
-- slug: 2026-05-23-ona-judge-escape-remembered-in-philadelphia-and-new-hampshire
-  headline: Ona Judge escape remembered in Philadelphia and New Hampshire
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5292
-- slug: 2026-03-15-antitrust-trial-against-live-nation-and-ticketmaster-to-resume
-  headline: Antitrust trial against Live Nation and Ticketmaster to resume
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5407
-- slug: 2026-03-29-suburban-detroit-district-settles-lawsuit-over-pledge-dispute-with-student
-  headline: Suburban Detroit district settles lawsuit over Pledge dispute with student
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.5376
-- slug: 2026-01-21-maine-immigrant-communities-brace-as-ice-enforcement-surge-begins
-  headline: Maine immigrant communities brace as ICE enforcement surge begins
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.5365
-- slug: 2026-04-24-vermont-prosecutor-drops-charges-against-six-protesters-in-ice-raid
-  headline: Vermont prosecutor drops charges against six protesters in ICE raid
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5266
-- slug: 2026-01-22-appeals-court-suspends-tear-gas-ban-in-minnesota-immigration-enforcement
-  headline: Appeals court suspends tear gas ban in Minnesota immigration enforcement
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.5344
-- slug: 2026-03-28-montana-to-expand-eligibility-for-american-indian-college-tuition-waivers
-  headline: Montana to expand eligibility for American Indian college tuition waivers
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.526
+related_stories: []
 ---
-
 ## Judge rules Plymouth bound by 1998 agreement with Native Americans
 
 **Subtype:** fact
