@@ -214,6 +214,8 @@ related_stories:
   publish_date: '2026-08-17'
   relation: related
   strength: 0.7244
+analyses:
+- '2026-11-26-wall-street-journal-frames-trump-tariff-proposal-as-continuity-through-legal-con'
 ---
 ## Asian stocks advance as U.S. tariff proposal draws a muted response
 
@@ -256,3 +258,8 @@ OCBC's Sim Moh Siong said in a note that supply concerns had resurfaced because 
 **Publication date:** 2026-11-26
 **Title:** Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan
 **URL:** https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b
+
+---
+
+<!-- analysis-link:2026-11-26-wall-street-journal-frames-trump-tariff-proposal-as-continuity-through-legal-con -->
+**Going deeper:** [Read MSI's analysis of Trump tariff proposal market interpretation →](/analyses/2026-11-26-wall-street-journal-frames-trump-tariff-proposal-as-continuity-through-legal-con)

@@ -230,6 +230,8 @@ related_stories:
   publish_date: '2026-07-17'
   relation: related
   strength: 0.7522
+analyses:
+- '2026-11-26-iran-s-subsidy-cuts-shift-blockade-costs-to-households-amid-factional-disputes'
 ---
 ## Iran cuts food and electricity subsidies as U.S. blockade strains economy
 
@@ -282,3 +284,8 @@ In August, President Pezeshkian and parliament speaker Ghalibaf publicly pressed
 **Publication date:** 2026-11-26
 **Title:** A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade
 **URL:** https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4
+
+---
+
+<!-- analysis-link:2026-11-26-iran-s-subsidy-cuts-shift-blockade-costs-to-households-amid-factional-disputes -->
+**Going deeper:** [Read MSI's analysis of Iran’s subsidy cuts under blockade →](/analyses/2026-11-26-iran-s-subsidy-cuts-shift-blockade-costs-to-households-amid-factional-disputes)
