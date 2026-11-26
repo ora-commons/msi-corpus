@@ -51,7 +51,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -236,3 +236,10 @@ The same federal agency also reported Wednesday that the personal consumption ex
 **Publication date:** 2026-11-26
 **Title:** Trump calls GDP figures 'fake' and demands an investigation
 **URL:** https://apnews.com/article/trump-gdp-economy-midterms-4fd800b44005ae11f950f96ff62f876e
+
+### src_late_9a7631238b2bad61 — Associated Press, wire, Tier 1, originating
+**Author:** Josh Boak, Associated Press
+**Publication date:** 2026-11-26
+**Title:** Trump calls GDP figures 'fake' and demands an investigation of Commerce Department
+**URL:** https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department
+**Added after publication:** true
