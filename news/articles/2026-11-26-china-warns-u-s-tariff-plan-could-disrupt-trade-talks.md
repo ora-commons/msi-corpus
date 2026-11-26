@@ -215,6 +215,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-26-greer-s-20-proposal-matches-a-reported-bargaining-ceiling-and-retains-an-escalat'
 ---
 ## China warns U.S. tariff plan could disrupt trade talks
 
@@ -265,3 +267,8 @@ The duties remain proposals. The current truce is set to expire in January, and 
 **Publication date:** 2026-11-26
 **Title:** New Tariffs on China Risk Undermining Trade Truce With U.S.
 **URL:** https://www.wsj.com/world/new-tariffs-on-china-could-undermine-trade-truce-with-u-s-bf43adcf
+
+---
+
+<!-- analysis-link:2026-11-26-greer-s-20-proposal-matches-a-reported-bargaining-ceiling-and-retains-an-escalat -->
+**Going deeper:** [Read MSI's analysis of the U.S.-China tariff bargaining game →](/analyses/2026-11-26-greer-s-20-proposal-matches-a-reported-bargaining-ceiling-and-retains-an-escalat)
