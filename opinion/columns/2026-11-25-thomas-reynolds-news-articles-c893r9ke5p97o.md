@@ -1,7 +1,8 @@
 ---
 headline: Trump Is Preparing to Set Import Taxes by His Personal Deals
 publish_date: '2026-11-25'
-lede: Donald Trump is preparing to impose import taxes priced by his personal trade deals.
+lede: Donald Trump is preparing to impose import taxes priced by his personal trade
+  deals.
 pen_name: thomas-reynolds
 primary_entities:
 - Donald Trump
@@ -35,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -51,16 +53,34 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-25-trump-administration-reportedly-prepares-new-tariffs-on-16-trading-partners.png
-  alt: 'Illustration accompanying article: Trump administration reportedly prepares new tariffs on 16 trading partners'
+  url: /cartoons/trump-is-preparing-to-set-import-taxes-by-his-personal-deals.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Is Preparing to Set Import Taxes
+    by His Personal Deals'
+  caption: Section 301 supplied vocabulary. The reported rates follow Trump's personal
+    deals.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-25T22:03:17-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1 single panel in dense black-and-white Nast-style wood-engraving
+    cross-hatch. Donald Trump sits centrally behind an official USTR hearing desk
+    labeled “SECTION 301,” recognizable by likeness
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-25-trump-administration-reportedly-prepares-new-tariffs-on-16-trading-partners
   relation: extends
   strength: 0.1877
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-25-hector-paired-with-2026-11-25-thomas-reynolds-news-articles-c893r9ke5p97o
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Is Preparing to Set Import Taxes by His Personal Deals](/cartoons/trump-is-preparing-to-set-import-taxes-by-his-personal-deals.png)
+*Section 301 supplied vocabulary. The reported rates follow Trump's personal deals.*
 
 Donald Trump is preparing to impose import taxes priced by his personal trade deals. 
 

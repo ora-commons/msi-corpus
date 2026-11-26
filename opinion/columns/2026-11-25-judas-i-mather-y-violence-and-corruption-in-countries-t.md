@@ -1,7 +1,8 @@
 ---
 headline: The State Writes the Map, and the Woman the Map Sends Back
 publish_date: '2026-11-25'
-lede: The Trump administration’s immigration program has produced a genuine conservative victory.
+lede: The Trump administration’s immigration program has produced a genuine conservative
+  victory.
 pen_name: judas-i-mather
 primary_entities:
 - U.S. State Department
@@ -58,7 +59,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: judas-i-mather-2026-07
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -74,16 +76,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-25-state-department-may-provide-country-conditions-to-immigration-courts-and-uscis.png
-  alt: 'Illustration accompanying article: State Department may provide country conditions to immigration courts and USCIS'
+  url: /cartoons/the-state-writes-the-map-and-the-woman-the-map-sends-back.png
+  alt: 'Editorial cartoon by Hector Rentier: The State Writes the Map, and the Woman
+    the Map Sends Back'
+  caption: Americans got warnings. The bench got functioning institutions.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-25T22:04:52-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3-pro-image
+  ai_prompt: 'Square, single-panel Nast-style wood engraving in dense black cross-hatch,
+    with pure black masses, carved-out whites, and one restrained #6B4226 sepia locus
+    on the exposed warning strip. At center, a '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-25-state-department-may-provide-country-conditions-to-immigration-courts-and-uscis
   relation: extends
   strength: 0.8489
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-25-hector-paired-with-2026-11-25-judas-i-mather-y-violence-and-corruption-in-countries-t
 ---
+
+![Editorial cartoon by Hector Rentier: The State Writes the Map, and the Woman the Map Sends Back](/cartoons/the-state-writes-the-map-and-the-woman-the-map-sends-back.png)
+*Americans got warnings. The bench got functioning institutions.*
 
 The Trump administration’s immigration program has produced a genuine conservative victory. The share of asylum claims denied in immigration court rose from roughly 72 percent at the end of the Biden administration to 94 percent in June of the President’s second term. The administration also organized mass hearings, authorized military lawyers to serve as immigration judges, and gave judges wider authority to summarily dismiss claims. Mass hearings clear the docket; military lawyers furnish trained adjudicators; summary disposition ends claims that fail the statute without a full hearing. The machinery is faster, and the executive branch’s evidence sits closer to the legal question.
 
