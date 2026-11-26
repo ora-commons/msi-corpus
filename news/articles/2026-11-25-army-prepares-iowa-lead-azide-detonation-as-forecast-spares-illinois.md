@@ -206,6 +206,8 @@ related_stories:
   publish_date: '2026-11-24'
   relation: related
   strength: 0.8244
+analyses:
+- '2026-11-25-army-detonation-plan-weighs-stockpile-danger-against-regional-exposure-uncertain'
 ---
 ## Army prepares Iowa lead azide detonation as forecast spares Illinois
 
@@ -271,3 +273,8 @@ Earlier MSI reporting on the [Army’s rescheduling of the Iowa operation](/arti
 **Publication date:** 2026-11-25
 **Title:** Illinois officials prep for Iowa detonation, though wind may keep lead out of the state
 **URL:** https://www.newsfromthestates.com/article/illinois-officials-prep-iowa-detonation-though-wind-may-keep-lead-out-state
+
+---
+
+<!-- analysis-link:2026-11-25-army-detonation-plan-weighs-stockpile-danger-against-regional-exposure-uncertain -->
+**Going deeper:** [Read MSI's analysis of Iowa Army lead azide detonation →](/analyses/2026-11-25-army-detonation-plan-weighs-stockpile-danger-against-regional-exposure-uncertain)
