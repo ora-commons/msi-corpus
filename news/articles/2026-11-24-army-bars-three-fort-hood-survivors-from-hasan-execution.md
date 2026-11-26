@@ -190,6 +190,8 @@ related_stories:
   publish_date: '2026-10-09'
   relation: related
   strength: 0.7562
+analyses:
+- '2026-11-24-army-s-witness-decision-divides-the-meaning-of-victim'
 ---
 ## Army bars three Fort Hood survivors from Hasan execution
 
@@ -237,3 +239,8 @@ A previous plan to livestream the military execution was rescinded after biparti
 **Publication date:** 2026-11-24
 **Title:** Fort Hood survivors denied bid to witness shooter’s firing-squad execution
 **URL:** https://www.theguardian.com/us-news/2026/nov/24/fort-hood-shooting-survivors-execution
+
+---
+
+<!-- analysis-link:2026-11-24-army-s-witness-decision-divides-the-meaning-of-victim -->
+**Going deeper:** [Read MSI's analysis of victim status in military executions →](/analyses/2026-11-24-army-s-witness-decision-divides-the-meaning-of-victim)

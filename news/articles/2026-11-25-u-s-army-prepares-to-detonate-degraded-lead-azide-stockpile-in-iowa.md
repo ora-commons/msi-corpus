@@ -208,6 +208,8 @@ related_stories:
   publish_date: '2026-11-19'
   relation: related
   strength: 0.8964
+analyses:
+- '2026-11-25-army-plans-iowa-detonation-as-wind-thresholds-and-disposal-history-stay-unreport'
 ---
 ## U.S. Army prepares to detonate degraded lead azide stockpile in Iowa
 
@@ -261,3 +263,8 @@ Earlier MSI reporting documented the [Army’s rescheduling for favorable wind a
 **Title:** WATCH LIVE: Army expected to carry out controlled detonation of Iowa lead azide stockpile
 **URL:** https://www.pbs.org/newshour/nation/watch-live-army-expected-to-carry-out-controlled-detonation-of-iowa-lead-azide-stockpile
 **Added after publication:** true
+
+---
+
+<!-- analysis-link:2026-11-25-army-plans-iowa-detonation-as-wind-thresholds-and-disposal-history-stay-unreport -->
+**Going deeper:** [Read MSI's analysis of the Iowa lead azide detonation →](/analyses/2026-11-25-army-plans-iowa-detonation-as-wind-thresholds-and-disposal-history-stay-unreport)
