@@ -198,6 +198,8 @@ related_stories:
   publish_date: '2026-10-21'
   relation: related
   strength: 0.6724
+analyses:
+- '2026-11-25-shein-shifts-trade-policy-risk-toward-budget-shopper-demand'
 ---
 ## Shein reports higher third-quarter profit as revenue falls
 
@@ -240,3 +242,8 @@ Analysts expect near-term headwinds to persist for Shein. Duty-related price inc
 **Publication date:** 2026-11-25
 **Title:** Shein Profit Rises Despite Lower Revenue as It Adapts to Trade Challenges
 **URL:** https://www.wsj.com/business/earnings/shein-profit-rises-despite-lower-revenue-amid-geopolitical-challenges-dcc318b4
+
+---
+
+<!-- analysis-link:2026-11-25-shein-shifts-trade-policy-risk-toward-budget-shopper-demand -->
+**Going deeper:** [Read MSI's analysis of Shein’s trade-policy risk shift →](/analyses/2026-11-25-shein-shifts-trade-policy-risk-toward-budget-shopper-demand)

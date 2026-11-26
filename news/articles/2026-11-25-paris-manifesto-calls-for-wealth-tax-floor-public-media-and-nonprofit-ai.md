@@ -176,6 +176,8 @@ related_stories:
   publish_date: '2026-06-23'
   relation: related
   strength: 0.6605
+analyses:
+- '2026-11-25-paris-manifesto-s-unfixed-terms-leave-tax-burdens-and-ai-authority-to-later-choi'
 ---
 ## Paris manifesto calls for wealth tax floor, public media and nonprofit AI
 
@@ -220,3 +222,8 @@ At the close, the authors call for a transnational coalition of interconnected c
 **Publication date:** 2026-11-25
 **Title:** Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter
 **URL:** https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy
+
+---
+
+<!-- analysis-link:2026-11-25-paris-manifesto-s-unfixed-terms-leave-tax-burdens-and-ai-authority-to-later-choi -->
+**Going deeper:** [Read MSI's analysis of who benefits and who breaks first →](/analyses/2026-11-25-paris-manifesto-s-unfixed-terms-leave-tax-burdens-and-ai-authority-to-later-choi)
