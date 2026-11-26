@@ -221,6 +221,8 @@ related_stories:
   publish_date: '2026-11-16'
   relation: related
   strength: 0.683
+analyses:
+- '2026-11-25-trump-administration-s-section-301-proposal-restores-tariffs-as-consumer-costs-f'
 ---
 ## Yale estimates proposed tariffs would add $400 for each American
 
@@ -268,3 +270,8 @@ Lisa Desjardins said the tariff plan was one factor, along with inflation fears,
 **Publication date:** 2026-11-25
 **Title:** How Trump's newest tariffs could impact Americans and the economy
 **URL:** https://www.pbs.org/newshour/show/how-trumps-newest-tariffs-could-impact-americans-and-the-economy
+
+---
+
+<!-- analysis-link:2026-11-25-trump-administration-s-section-301-proposal-restores-tariffs-as-consumer-costs-f -->
+**Going deeper:** [Read MSI's analysis of the Section 301 consumer-incidence question →](/analyses/2026-11-25-trump-administration-s-section-301-proposal-restores-tariffs-as-consumer-costs-f)
