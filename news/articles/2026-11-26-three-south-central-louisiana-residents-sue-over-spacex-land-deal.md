@@ -2,8 +2,17 @@
 headline: Three south-central Louisiana residents sue over SpaceX land deal
 secondary_headline: Officials deny eight alleged open meetings violations
 publish_date: '2026-11-26'
-lede: Three south-central Louisiana residents sued Louisiana and Vermilion Parish officials, alleging eight violations of the state's open meetings law while facilitating a SpaceX land agreement. The dispute centers on an estimated $27.5bn tax incentive package and access to 125,000 acres of marsh formerly owned by ExxonMobil. Officials deny the allegations and say they complied with the law.
-nut_graf: The case puts the public-approval process for SpaceX's Starbase Louisiana project under scrutiny. Jackson Voss, the government affairs and policy coordinator for the Alliance for Affordable Energy, said there was still much unknown about the deals, making it harder to know what Louisiana would receive in return for lost tax revenue and potentially further wetland damage. The dispute also raises bird-habitat and coastal-loss concerns.
+lede: Three south-central Louisiana residents sued Louisiana and Vermilion Parish
+  officials, alleging eight violations of the state's open meetings law while facilitating
+  a SpaceX land agreement. The dispute centers on an estimated $27.5bn tax incentive
+  package and access to 125,000 acres of marsh formerly owned by ExxonMobil. Officials
+  deny the allegations and say they complied with the law.
+nut_graf: The case puts the public-approval process for SpaceX's Starbase Louisiana
+  project under scrutiny. Jackson Voss, the government affairs and policy coordinator
+  for the Alliance for Affordable Energy, said there was still much unknown about
+  the deals, making it harder to know what Louisiana would receive in return for lost
+  tax revenue and potentially further wetland damage. The dispute also raises bird-habitat
+  and coastal-loss concerns.
 primary_entities:
 - Louisiana
 - SpaceX
@@ -54,7 +63,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -156,104 +166,45 @@ related_stories:
   headline: Louisiana residents sue over SpaceX tax deal process
   publish_date: '2026-10-27'
   relation: related
-  strength: 0.8891
-- slug: 2026-11-25-spacex-satellite-data-center-plan-draws-debris-warnings-and-objections
-  headline: SpaceX satellite data-center plan draws debris warnings and objections
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.6277
+  strength: 0.8898
 - slug: 2026-11-06-mississippi-details-penalties-against-spacexai-over-unpermitted-construction
   headline: Mississippi details penalties against SpaceXAI over unpermitted construction
   publish_date: '2026-11-06'
   relation: related
-  strength: 0.6616
-- slug: 2026-11-07-democrats-gain-power-to-stall-musk-s-texas-projects-after-his-225-million-bet
-  headline: Democrats gain power to stall Musk's Texas projects after his $225 million bet
-  publish_date: '2026-11-07'
-  relation: related
-  strength: 0.6245
+  strength: 0.6604
 - slug: 2026-08-25-spacex-to-build-100-billion-starbase-complex-in-louisiana
   headline: SpaceX to build $100 billion Starbase complex in Louisiana
   publish_date: '2026-08-25'
   relation: related
-  strength: 0.7508
+  strength: 0.7494
 - slug: 2026-09-24-tesla-and-spacex-announce-major-texas-and-louisiana-infrastructure-projects
   headline: Tesla and SpaceX announce major Texas and Louisiana infrastructure projects
   publish_date: '2026-09-24'
   relation: related
-  strength: 0.6645
+  strength: 0.6644
 - slug: 2026-08-10-pecan-island-residents-oppose-spacex-launch-site-over-bird-habitat
   headline: Pecan Island residents oppose SpaceX launch site over bird habitat
   publish_date: '2026-08-10'
   relation: related
-  strength: 0.7339
-- slug: 2026-09-21-judge-declines-to-block-wildlife-refuge-land-transfer-to-spacex
-  headline: Judge declines to block wildlife refuge land transfer to SpaceX
-  publish_date: '2026-09-21'
-  relation: related
-  strength: 0.6386
-- slug: 2026-08-20-spacex-secures-over-8-billion-in-golden-dome-contracts-wins-key-fcc-waivers
-  headline: SpaceX secures over $8 billion in Golden Dome contracts, wins key FCC waivers
-  publish_date: '2026-08-20'
-  relation: related
-  strength: 0.6473
+  strength: 0.7317
 - slug: 2026-06-10-environmental-groups-sue-to-block-trump-administration-land-swap-with-spacex
-  headline: Environmental groups sue to block Trump administration land swap with SpaceX
+  headline: Environmental groups sue to block Trump administration land swap with
+    SpaceX
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.6794
+  strength: 0.6793
 - slug: 2026-03-06-texas-supreme-court-weighs-spacex-beach-closures-against-public-access-rights
-  headline: Texas Supreme Court weighs SpaceX beach closures against public access rights
+  headline: Texas Supreme Court weighs SpaceX beach closures against public access
+    rights
   publish_date: '2026-03-06'
   relation: related
-  strength: 0.67
-- slug: 2026-08-07-gilroy-residents-protest-amazon-data-center-approved-without-public-vote
-  headline: Gilroy residents protest Amazon data center approved without public vote
-  publish_date: '2026-08-07'
-  relation: related
-  strength: 0.6029
-- slug: 2026-07-10-texas-democrat-says-110m-starlink-grants-look-like-corruption
-  headline: Texas Democrat says $110M Starlink grants look like corruption
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6274
-- slug: 2026-07-10-110m-in-texas-starlink-grants-sure-looks-like-corruption-democratic-ag-nominee-s
-  headline: $110M in Texas Starlink grants 'sure looks like' corruption, Democratic AG nominee says
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6267
+  strength: 0.6691
 - slug: 2026-04-17-supreme-court-sends-louisiana-environmental-lawsuit-to-federal-court
   headline: Supreme Court sends Louisiana environmental lawsuit to federal court
   publish_date: '2026-04-17'
   relation: related
-  strength: 0.6559
-- slug: 2026-04-28-california-regulators-apologize-to-elon-musk-in-spacex-lawsuit-settlement
-  headline: California regulators apologize to Elon Musk in SpaceX lawsuit settlement
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6495
-- slug: 2026-07-10-texas-democrat-pledges-starlink-grant-investigation-if-elected-ag
-  headline: Texas Democrat pledges Starlink grant investigation if elected AG
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6064
-- slug: 2026-05-20-spacex-plans-massive-public-share-sale-with-elon-musk-at-center
-  headline: SpaceX plans massive public share sale, with Elon Musk at center
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6273
-- slug: 2026-05-21-spacex-reveals-plans-for-what-could-be-the-biggest-ever-public-stock-sale
-  headline: SpaceX reveals plans for what could be the biggest-ever public stock sale
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6208
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6163
+  strength: 0.6556
 ---
-
 ## Three south-central Louisiana residents sue over SpaceX land deal
 
 **Subtype:** fact
