@@ -68,10 +68,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - NPR
   outlet_classes:
+  - public_broadcaster
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -248,3 +250,10 @@ The Associated Press reported that Viasat, Amazon, SpaceX and the FCC did not im
 **Publication date:** 2026-11-25
 **Title:** Trump administration approves SpaceX's ambitious satellite data center plan
 **URL:** https://apnews.com/article/spacex-data-center-elon-musk-b9897fe06f851ffaf92fd304ae69075c
+
+### src_late_d3999f5b2a4771ce — NPR, public_broadcaster, Tier 1, originating
+**Author:** The Associated Press
+**Publication date:** 2026-11-26
+**Title:** FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical
+**URL:** https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space
+**Added after publication:** true
