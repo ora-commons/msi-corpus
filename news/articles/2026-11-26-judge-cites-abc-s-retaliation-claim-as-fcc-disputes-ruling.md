@@ -62,7 +62,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -246,3 +246,10 @@ The plaintiffs are American Broadcasting Companies, Inc.; its indirect parent, t
 **Publication date:** 2026-11-26
 **Title:** Judge blocks FCC from early license review of ABC
 **URL:** https://apnews.com/article/fcc-abc-ruling-editorial-content-f04f6b2b1a17fc10f2da11e4fd83a9df
+
+### src_late_513630d8fd137ed5 — Associated Press, wire, Tier 1, originating
+**Author:** Michael Kunzelman, Associated Press
+**Publication date:** 2026-11-26
+**Title:** Judge blocks FCC from early license review for ABC, which network says has had a chilling effect
+**URL:** https://www.pbs.org/newshour/nation/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect
+**Added after publication:** true
