@@ -203,6 +203,8 @@ related_stories:
   publish_date: '2026-11-15'
   relation: related
   strength: 0.8013
+analyses:
+- '2026-11-24-reported-nvidia-warning-process-turns-on-presidential-acceptance'
 ---
 ## Former CIA officer says Trump administration ignored Nvidia chip warnings
 
@@ -251,3 +253,8 @@ Curlee said Trump's response showed disdain for intelligence work that requires 
 **Publication date:** 2026-11-24
 **Title:** The Nvidia case is just the latest episode of Trump disregarding intelligence
 **URL:** https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence
+
+---
+
+<!-- analysis-link:2026-11-24-reported-nvidia-warning-process-turns-on-presidential-acceptance -->
+**Going deeper:** [Read MSI's analysis of the Nvidia warning decision boundary →](/analyses/2026-11-24-reported-nvidia-warning-process-turns-on-presidential-acceptance)
