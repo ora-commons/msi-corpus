@@ -218,6 +218,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-26-mixed-oil-prices-reflect-iran-restrictions-red-sea-risk-and-inventory-builds-bef'
 ---
 ## Brent slips as WTI gains on Middle East supply risks ahead of OPEC+ meeting
 
@@ -254,3 +256,8 @@ In [MSI's Nov. 25 report](/articles/2026-11-25-brent-and-wti-fall-ahead-of-opec-
 **Publication date:** 2026-11-26
 **Title:** Oil Prices Mixed as Traders Weigh Middle East Supply Risks, OPEC+ Meeting
 **URL:** https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-middle-east-supply-risks-opec-meeting-c234598a
+
+---
+
+<!-- analysis-link:2026-11-26-mixed-oil-prices-reflect-iran-restrictions-red-sea-risk-and-inventory-builds-bef -->
+**Going deeper:** [Read MSI's analysis of oil prices ahead of OPEC+ →](/analyses/2026-11-26-mixed-oil-prices-reflect-iran-restrictions-red-sea-risk-and-inventory-builds-bef)

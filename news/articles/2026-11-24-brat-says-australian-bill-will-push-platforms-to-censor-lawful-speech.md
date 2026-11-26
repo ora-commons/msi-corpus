@@ -211,6 +211,8 @@ related_stories:
   publish_date: '2026-09-15'
   relation: related
   strength: 0.6609
+analyses:
+- '2026-11-24-australia-s-safety-bill-could-move-content-decisions-to-platform-compliance-team'
 ---
 ## Brat says Australian bill will push platforms to censor lawful speech
 
@@ -255,3 +257,8 @@ With Greens support secured and the government holding a House majority, the ame
 **Publication date:** 2026-11-24
 **Title:** Australia set to pass online safety laws with multibillion-dollar fines for tech giants
 **URL:** https://www.pbs.org/newshour/world/australia-set-to-pass-online-safety-laws-with-multibillion-dollar-fines-for-tech-giants
+
+---
+
+<!-- analysis-link:2026-11-24-australia-s-safety-bill-could-move-content-decisions-to-platform-compliance-team -->
+**Going deeper:** [Read MSI's analysis of platform decisions under Australia's safety law →](/analyses/2026-11-24-australia-s-safety-bill-could-move-content-decisions-to-platform-compliance-team)
