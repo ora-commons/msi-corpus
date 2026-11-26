@@ -67,11 +67,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
+  - Associated Press
   - NPR
   outlet_classes:
   - public_broadcaster
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -260,3 +262,10 @@ The tour KCNA reported Thursday and Kim’s renewed call for more weapons advanc
 **Publication date:** 2026-11-26
 **Title:** North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture
 **URL:** https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump
+
+### src_late_ec1a697321ab37f7 — Associated Press, wire, Tier 1, originating
+**Author:** Hyung-Jin Kim, Associated Press, Kim Tong-Hyung, Associated Press
+**Publication date:** 2026-11-26
+**Title:** North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture
+**URL:** https://www.pbs.org/newshour/world/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture
+**Added after publication:** true
