@@ -1,9 +1,19 @@
 ---
 headline: Essayli takes Florida role in Mar-a-Lago search inquiry
-secondary_headline: Federal judge refuses to pause order finding Essayli unlawfully serving
+secondary_headline: Federal judge refuses to pause order finding Essayli unlawfully
+  serving
 publish_date: '2026-11-26'
-lede: Bilal “Bill” Essayli will serve for now as a special assistant U.S. attorney in the Southern District of Florida while remaining California’s top federal prosecutor, in an assignment aimed at building a criminal case over the FBI’s Mar-a-Lago search. The Wall Street Journal reported that the 41-year-old former state lawmaker is taking the Florida post after a federal judge refused to pause an order finding him unlawfully serving as head of the U.S. attorney’s office.
-nut_graf: 'The move gives Essayli a role in the unresolved Mar-a-Lago inquiry while defendants challenge his authority to remain California’s top federal prosecutor. It places him at the center of two separate disputes: whether prosecutors can build a criminal case from the FBI’s August 2022 search and whether he may continue leading the U.S. attorney’s office without Senate consent.'
+lede: Bilal “Bill” Essayli will serve for now as a special assistant U.S. attorney
+  in the Southern District of Florida while remaining California’s top federal prosecutor,
+  in an assignment aimed at building a criminal case over the FBI’s Mar-a-Lago search.
+  The Wall Street Journal reported that the 41-year-old former state lawmaker is taking
+  the Florida post after a federal judge refused to pause an order finding him unlawfully
+  serving as head of the U.S. attorney’s office.
+nut_graf: 'The move gives Essayli a role in the unresolved Mar-a-Lago inquiry while
+  defendants challenge his authority to remain California’s top federal prosecutor.
+  It places him at the center of two separate disputes: whether prosecutors can build
+  a criminal case from the FBI’s August 2022 search and whether he may continue leading
+  the U.S. attorney’s office without Senate consent.'
 primary_entities:
 - Bilal “Bill” Essayli
 - Trump
@@ -40,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,107 +150,28 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-19-justice-department-reportedly-sends-essayli-to-florida-for-mar-a-lago-inquiry
-  headline: Justice Department reportedly sends Essayli to Florida for Mar-a-Lago inquiry
+  headline: Justice Department reportedly sends Essayli to Florida for Mar-a-Lago
+    inquiry
   publish_date: '2026-11-19'
   relation: related
-  strength: 0.8601
+  strength: 0.8608
 - slug: 2026-10-28-seabright-finds-essayli-s-federal-titles-mirror-chattah-s-unlawful-appointment
   headline: Seabright finds Essayli's federal titles mirror Chattah's unlawful appointment
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7622
-- slug: 2026-11-24-federal-search-of-omar-s-home-precedes-midterms-that-cost-republicans-control
-  headline: Federal search of Omar's home precedes midterms that cost Republicans control
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.6044
+  strength: 0.7625
 - slug: 2026-10-28-federal-judge-s-order-disqualifying-essayli-from-several-cases-is-stayed-pending
-  headline: Federal judge's order disqualifying Essayli from several cases is stayed pending appeal
+  headline: Federal judge's order disqualifying Essayli from several cases is stayed
+    pending appeal
   publish_date: '2026-10-28'
   relation: related
-  strength: 0.7463
-- slug: 2026-11-17-federal-judge-weighs-unsealing-records-from-ilhan-omar-s-home-search
-  headline: Federal judge weighs unsealing records from Ilhan Omar's home search
-  publish_date: '2026-11-17'
-  relation: related
-  strength: 0.6137
-- slug: 2026-11-02-doj-charges-six-green-card-holders-over-alleged-voter-fraud-in-california
-  headline: DoJ charges six green card holders over alleged voter fraud in California
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.6177
-- slug: 2026-10-28-justice-department-accelerates-cases-involving-trump-s-opponents-before-midterms
-  headline: Justice Department accelerates cases involving Trump's opponents before midterms
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6332
-- slug: 2026-11-03-justice-department-widens-alaska-senate-probe-with-target-letters
-  headline: Justice Department widens Alaska Senate probe with target letters
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6029
-- slug: 2026-10-28-justice-department-escalates-election-season-cases-as-critics-allege-political-t
-  headline: Justice Department escalates election-season cases as critics allege political timing
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.6198
-- slug: 2026-10-31-justice-department-pursues-trump-critics-and-election-lawsuits-before-midterms
-  headline: Justice Department pursues Trump critics and election lawsuits before midterms
-  publish_date: '2026-10-31'
-  relation: related
-  strength: 0.6031
+  strength: 0.748
 - slug: 2026-08-20-justice-department-seeks-voluntary-interviews-with-mar-a-lago-search-officials
   headline: Justice Department seeks voluntary interviews with Mar-a-Lago search officials
   publish_date: '2026-08-20'
   relation: related
-  strength: 0.6673
-- slug: 2026-09-11-joe-digenova-resigns-from-justice-department-probe-of-trump-opponents
-  headline: Joe diGenova resigns from Justice Department probe of Trump opponents
-  publish_date: '2026-09-11'
-  relation: related
-  strength: 0.619
-- slug: 2026-06-21-jay-clayton-s-intelligence-nomination-held-up-in-trump-congress-standoff
-  headline: Jay Clayton's intelligence nomination held up in Trump-Congress standoff
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6212
-- slug: 2026-06-05-federal-prosecutor-opens-election-fraud-investigations-in-california
-  headline: Federal prosecutor opens election fraud investigations in California
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6077
-- slug: 2026-05-05-federal-appeals-judges-question-trump-s-extended-prosecutor-appointments
-  headline: Federal appeals judges question Trump’s extended prosecutor appointments
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6136
-- slug: 2026-02-25-fbi-fires-more-agents-who-worked-on-trump-classified-documents-probes
-  headline: FBI fires more agents who worked on Trump classified documents probes
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.622
-- slug: 2026-03-05-florida-bar-says-it-is-not-investigating-former-trump-aide-lindsey-halligan
-  headline: Florida Bar says it is not investigating former Trump aide Lindsey Halligan
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6156
-- slug: 2026-03-06-miami-federal-prosecutor-builds-working-group-to-pursue-cases-against-cuban-offi
-  headline: Miami federal prosecutor builds working group to pursue cases against Cuban officials
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.613
-- slug: 2026-04-04-pam-bondi-is-out-as-u-s-attorney-general-new-pick-faces-skepticism
-  headline: Pam Bondi is out as U.S. attorney general; new pick faces skepticism
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6066
-- slug: 2026-01-23-justice-department-calls-smith-report-illicit-and-seeks-permanent-seal
-  headline: Justice Department calls Smith report 'illicit' and seeks permanent seal
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6103
+  strength: 0.6682
 ---
-
 ## Essayli takes Florida role in Mar-a-Lago search inquiry
 
 **Subtype:** fact

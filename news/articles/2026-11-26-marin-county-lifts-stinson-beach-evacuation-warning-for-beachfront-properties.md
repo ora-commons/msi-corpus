@@ -1,9 +1,18 @@
 ---
 headline: Marin County lifts Stinson Beach evacuation warning for beachfront properties
-secondary_headline: Authorities advise people to stay away from Stinson Beach as waves continue
+secondary_headline: Authorities advise people to stay away from Stinson Beach as waves
+  continue
 publish_date: '2026-11-26'
-lede: Marin County officials lifted an evacuation warning for residents of beachfront properties in Stinson Beach later Wednesday. Authorities advised people to stay away from the beach as large waves continued to pound the area. The warning had been issued because large waves expected through the afternoon could send water and debris into roads and homes.
-nut_graf: Marin County officials lifted the evacuation warning, while authorities advised people to stay away from Stinson Beach as large waves pounded the area. The National Weather Service had warned of breaking waves of 20 to 30 feet, while flooding affected beachfront homes in Pacifica and some homes and streets in coastal Marin County cities.
+lede: Marin County officials lifted an evacuation warning for residents of beachfront
+  properties in Stinson Beach later Wednesday. Authorities advised people to stay
+  away from the beach as large waves continued to pound the area. The warning had
+  been issued because large waves expected through the afternoon could send water
+  and debris into roads and homes.
+nut_graf: Marin County officials lifted the evacuation warning, while authorities
+  advised people to stay away from Stinson Beach as large waves pounded the area.
+  The National Weather Service had warned of breaking waves of 20 to 30 feet, while
+  flooding affected beachfront homes in Pacifica and some homes and streets in coastal
+  Marin County cities.
 primary_entities:
 - Marin County
 - Stinson Beach
@@ -52,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,116 +161,62 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-25-waves-destroy-part-of-pacifica-pier-closed-since-summer-as-king-tides-flood-bay-
-  headline: Waves destroy part of Pacifica pier closed since summer as king tides flood Bay Area homes
+  headline: Waves destroy part of Pacifica pier closed since summer as king tides
+    flood Bay Area homes
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.8814
+  strength: 0.8807
 - slug: 2026-11-24-king-tides-raise-flood-risk-across-the-pacific-coast-and-florida
   headline: King tides raise flood risk across the Pacific Coast and Florida
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.8016
+  strength: 0.8
 - slug: 2026-11-25-king-tides-flood-coastal-areas-in-washington-and-oregon
   headline: King tides flood coastal areas in Washington and Oregon
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.7243
+  strength: 0.7235
 - slug: 2026-11-16-large-waves-close-california-piers-and-prompt-evacuation-warning
   headline: Large waves close California piers and prompt evacuation warning
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7773
+  strength: 0.7756
 - slug: 2026-11-26-thanksgiving-storms-disrupt-u-s-travel-and-tear-down-part-of-a-pacifica-pier
-  headline: Thanksgiving storms disrupt U.S. travel and tear down part of a Pacifica pier
+  headline: Thanksgiving storms disrupt U.S. travel and tear down part of a Pacifica
+    pier
   publish_date: '2026-11-26'
   relation: related
-  strength: 0.688
+  strength: 0.6858
 - slug: 2026-11-15-large-waves-close-california-piers-and-flood-coastal-streets
   headline: Large waves close California piers and flood coastal streets
   publish_date: '2026-11-15'
   relation: related
-  strength: 0.7537
+  strength: 0.7515
 - slug: 2026-11-20-california-coastal-communities-face-warnings-as-waves-exceed-30-feet
   headline: California coastal communities face warnings as waves exceed 30 feet
   publish_date: '2026-11-20'
   relation: related
-  strength: 0.7141
+  strength: 0.7115
 - slug: 2026-11-16-forecasters-warn-towering-waves-and-storms-could-overwhelm-california-coast
-  headline: Forecasters warn towering waves and storms could overwhelm California coast
+  headline: Forecasters warn towering waves and storms could overwhelm California
+    coast
   publish_date: '2026-11-16'
   relation: related
-  strength: 0.7363
-- slug: 2026-11-25-rising-sea-levels-make-king-tide-flooding-more-frequent-in-coastal-communities
-  headline: Rising sea levels make king tide flooding more frequent in coastal communities
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.6721
-- slug: 2026-11-24-california-king-tides-could-be-biggest-in-four-decades-forecasters-warn
-  headline: California king tides could be biggest in four decades, forecasters warn
-  publish_date: '2026-11-24'
-  relation: related
-  strength: 0.6708
-- slug: 2026-11-19-atmospheric-river-breaks-san-francisco-rain-record-floods-california-roads
-  headline: Atmospheric river breaks San Francisco rain record, floods California roads
-  publish_date: '2026-11-19'
-  relation: related
-  strength: 0.6968
-- slug: 2026-11-21-san-francisco-braces-for-unprecedented-tides-as-florida-floods-persist
-  headline: San Francisco braces for unprecedented tides as Florida floods persist
-  publish_date: '2026-11-21'
-  relation: related
-  strength: 0.6803
-- slug: 2026-10-26-san-pedro-gauge-records-preliminary-8-02-foot-reading-amid-coastal-flooding-risk
-  headline: San Pedro gauge records preliminary 8.02-foot reading amid coastal flooding risk
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.7402
-- slug: 2026-10-28-king-tides-flood-coastal-communities-in-california-florida-and-the-carolinas
-  headline: King tides flood coastal communities in California, Florida and the Carolinas
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7251
-- slug: 2026-10-28-historic-high-tides-flood-california-communities-and-disrupt-transportation
-  headline: Historic high tides flood California communities and disrupt transportation
-  publish_date: '2026-10-28'
-  relation: related
-  strength: 0.7222
-- slug: 2026-10-15-santa-ana-winds-raise-california-wildfire-risk-through-saturday
-  headline: Santa Ana winds raise California wildfire risk through Saturday
-  publish_date: '2026-10-15'
-  relation: related
-  strength: 0.6764
-- slug: 2026-10-13-waves-destroy-long-beach-boardwalk-and-leave-nine-homes-unsafe
-  headline: Waves destroy Long Beach boardwalk and leave nine homes unsafe
-  publish_date: '2026-10-13'
-  relation: related
-  strength: 0.6807
-- slug: 2026-10-14-huntington-beach-closes-two-mile-stretch-after-great-white-shark-report
-  headline: Huntington Beach closes two-mile stretch after great white shark report
-  publish_date: '2026-10-14'
-  relation: related
-  strength: 0.6679
-- slug: 2026-10-07-california-readies-for-potentially-historic-el-ni-o-winter
-  headline: California readies for potentially historic El Niño winter
-  publish_date: '2026-10-07'
-  relation: related
-  strength: 0.6873
-- slug: 2026-09-30-california-prepares-for-kelvin-wave-set-to-raise-sea-levels-a-foot
-  headline: California prepares for Kelvin wave set to raise sea levels a foot
-  publish_date: '2026-09-30'
-  relation: related
-  strength: 0.6997
+  strength: 0.7325
 image:
   url: /articles/2026-11-26-marin-county-lifts-stinson-beach-evacuation-warning-for-beachfront-properties.png
-  alt: "Illustration accompanying article: Marin County lifts Stinson Beach evacuation warning for beachfront properties"
+  alt: 'Illustration accompanying article: Marin County lifts Stinson Beach evacuation
+    warning for beachfront properties'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Marin County lifts Stinson Beach evacuation warning for beachfront properties
 
 **Subtype:** fact
