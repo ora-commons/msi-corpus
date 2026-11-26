@@ -56,7 +56,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -234,3 +234,10 @@ DNC spokesperson Angelo Fernández Hernández said in a statement that the organ
 **Publication date:** 2026-11-26
 **Title:** Judge declines to issue long-term ban on taxpayer-funded Trump ads
 **URL:** https://apnews.com/article/dnc-trump-ads-propaganda-lawsuit-fcc1b61e8e7134c01ca3e6dec7728442
+
+### src_late_83a805525aa78695 — Associated Press, wire, Tier 1, originating
+**Author:** Ali Swenson, Associated Press, Jesse Bedayn, Associated Press
+**Publication date:** 2026-11-26
+**Title:** Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda
+**URL:** https://www.pbs.org/newshour/politics/judge-declines-to-issue-a-long-term-ban-on-taxpayer-funded-pro-trump-ads-critics-called-propaganda
+**Added after publication:** true
