@@ -56,7 +56,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -242,3 +242,10 @@ As [MSI reported in April](/articles/2026-04-23-lawsuit-alleges-alaska-officials
 **Publication date:** 2026-11-24
 **Title:** Alaska election official ends voter data agreement with DOJ
 **URL:** https://apnews.com/article/alaska-voter-rolls-noncitizens-justice-department-b3ba0862276b69469a4b72b433db1013
+
+### src_late_b64a64643cec04ce — Associated Press, wire, Tier 1, originating
+**Author:** Becky Bohrer, Associated Press
+**Publication date:** 2026-11-25
+**Title:** Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens
+**URL:** https://www.pbs.org/newshour/politics/alaska-ends-voter-data-agreement-with-justice-department-which-had-been-searching-for-noncitizens
+**Added after publication:** true

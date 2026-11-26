@@ -61,7 +61,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
   outlet_classes:
@@ -239,3 +239,10 @@ The Wall Street Journal also reported that Huang was known for being demanding a
 **Publication date:** 2026-11-23
 **Title:** Nvidia Board Reinstates Jensen Huang as CEO
 **URL:** https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914
+
+### src_late_7abc9ad04ec51d48 — The Wall Street Journal, national_daily, Tier 1, originating
+**Author:** WSJ Staff
+**Publication date:** 2026-11-25
+**Title:** Jensen Huang, Trump and the 11 Days That Rocked Nvidia
+**URL:** https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b
+**Added after publication:** true
