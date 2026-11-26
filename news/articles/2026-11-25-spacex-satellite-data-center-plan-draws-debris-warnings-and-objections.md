@@ -68,7 +68,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 3
   outlets:
   - Associated Press
   - NPR
@@ -256,4 +256,11 @@ The Associated Press reported that Viasat, Amazon, SpaceX and the FCC did not im
 **Publication date:** 2026-11-26
 **Title:** FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical
 **URL:** https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space
+**Added after publication:** true
+
+### src_late_ed89da7b5f38f3b4 — Associated Press, wire, Tier 1, originating
+**Author:** Wyatte Grantham-Philips, Associated Press
+**Publication date:** 2026-11-26
+**Title:** FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical
+**URL:** https://www.pbs.org/newshour/nation/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical
 **Added after publication:** true
