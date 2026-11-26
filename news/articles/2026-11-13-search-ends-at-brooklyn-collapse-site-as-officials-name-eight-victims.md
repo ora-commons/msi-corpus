@@ -30,7 +30,8 @@ topic_tags:
 - disaster
 - crime
 - natural disaster
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -206,6 +207,7 @@ related_stories:
   relation: related
   strength: 0.7749
 ---
+
 ## Search ends at Brooklyn collapse site as officials name eight victims
 
 **Subtype:** fact

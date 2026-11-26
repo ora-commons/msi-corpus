@@ -38,7 +38,8 @@ topic_tags:
 - disaster
 - construction and property
 - natural disaster
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -213,6 +214,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Rescue crews search Brooklyn collapse rubble as death toll rises to eight
 
 **Subtype:** fact

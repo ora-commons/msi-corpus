@@ -36,7 +36,8 @@ topic_tags:
 - disaster
 - construction and property
 - accident and emergency incident
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -212,6 +213,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Brooklyn collapse victim identified as Ecuadoran immigrant and sole provider
 
 **Subtype:** fact

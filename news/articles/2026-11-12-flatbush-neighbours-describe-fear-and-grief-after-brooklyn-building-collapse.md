@@ -37,7 +37,8 @@ topic_tags:
 - construction and property
 - disaster
 - natural disaster
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -213,6 +214,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Flatbush neighbours describe fear and grief after Brooklyn building collapse
 
 **Subtype:** fact

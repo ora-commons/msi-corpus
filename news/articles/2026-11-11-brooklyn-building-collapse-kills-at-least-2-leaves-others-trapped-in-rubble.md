@@ -29,7 +29,8 @@ topic_tags:
 - disaster
 - construction and property
 - fire
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -190,6 +191,7 @@ related_stories:
   relation: related
   strength: 0.6874
 ---
+
 ## Brooklyn building collapse kills at least 2, leaves others trapped in rubble
 
 **Subtype:** fact

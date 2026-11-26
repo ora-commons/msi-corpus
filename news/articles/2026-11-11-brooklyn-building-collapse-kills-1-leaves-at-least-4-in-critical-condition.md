@@ -23,7 +23,8 @@ primary_themes:
 - construction
 topic_tags:
 - disaster
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -199,6 +200,7 @@ related_stories:
   relation: related
   strength: 0.6621
 ---
+
 ## Brooklyn building collapse kills 1, leaves at least 4 in critical condition
 
 **Subtype:** fact

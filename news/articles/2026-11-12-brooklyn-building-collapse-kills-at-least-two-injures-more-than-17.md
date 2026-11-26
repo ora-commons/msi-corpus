@@ -28,7 +28,8 @@ topic_tags:
 - disaster
 - construction and property
 - natural disaster
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -203,6 +204,7 @@ related_stories:
   relation: related
   strength: 0.6872
 ---
+
 ## Brooklyn building collapse kills at least two, injures more than 17
 
 **Subtype:** fact

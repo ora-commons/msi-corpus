@@ -31,7 +31,8 @@ topic_tags:
 - disaster
 - construction and property
 - crime, law and justice
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -206,8 +207,9 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 analyses:
-- '2026-11-18-flatbush-inquiry-examines-warning-violations-and-excavation'
+- 2026-11-18-flatbush-inquiry-examines-warning-violations-and-excavation
 ---
+
 ## Tenant sues over alleged ignored cracks before Flatbush building collapse
 
 **Subtype:** fact

@@ -43,7 +43,8 @@ topic_tags:
 - disaster
 - construction and property
 - crime
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -218,6 +219,7 @@ related_stories:
   relation: related
   strength: 0.6913
 ---
+
 ## Brooklyn building collapse kills eight, injures 18 next to construction site
 
 **Subtype:** fact

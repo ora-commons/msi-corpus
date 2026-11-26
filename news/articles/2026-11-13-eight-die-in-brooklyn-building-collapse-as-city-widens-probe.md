@@ -28,7 +28,8 @@ topic_tags:
 - disaster
 - construction and property
 - human interest
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -204,6 +205,7 @@ related_stories:
   relation: related
   strength: 0.7935
 ---
+
 ## Eight die in Brooklyn building collapse as city widens probe
 
 **Subtype:** fact

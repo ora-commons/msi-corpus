@@ -54,7 +54,8 @@ topic_tags:
 - industrial accident and incident
 - law
 - disaster, accident and emergency incident
-storyline_nexus: []
+storyline_nexus:
+- brooklyn-building-collapse-in-flatbush
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -229,6 +230,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Worker lawsuit alleges inadequate excavation support at Brooklyn collapse site
 
 **Subtype:** fact
