@@ -62,7 +62,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -234,3 +234,10 @@ TSMC's expansion also comes as Taiwan's dominance in chipmaking has led countrie
 **Publication date:** 2026-11-25
 **Title:** Trump is going to Arizona next week to talk about TSMC's AI expansion
 **URL:** https://apnews.com/article/tsmc-computer-chips-arizona-trump-cdc7faa84895ddeb19bd114061e9dd85
+
+### src_late_53bea40859e32f0e — Associated Press, wire, Tier 1, originating
+**Author:** Josh Boak
+**Publication date:** 2026-11-26
+**Title:** Trump viajará a Arizona la próxima semana por expansión de fábricas de chips de TSMC
+**URL:** https://apnews.com/article/trump-tsmc-arizona-fabrica-chips-b942549c0a34395bf2a9d2075ea7951b
+**Added after publication:** true
