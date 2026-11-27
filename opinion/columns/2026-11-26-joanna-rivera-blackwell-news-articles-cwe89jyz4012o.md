@@ -39,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,7 +62,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/doug-wilson-teaches-women-to-surrender-their-votes-to-men.png
+  alt: 'Editorial cartoon by Hector Rentier: Doug Wilson Teaches Women to Surrender
+    Their Votes to Men'
+  caption: The teaching is immediate. The constitutional repeal is not.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-26T22:07:17-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Render one square 1:1 panel in heavy Nast-style cross-hatch and wood-engraving,
+    with heavy outlines, pure black masses, carved-out whites, and no decorative border.
+    Center an ordinary, fully individua
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-26-hector-paired-with-2026-11-26-joanna-rivera-blackwell-news-articles-cwe89jyz4012o
 ---
+
+![Editorial cartoon by Hector Rentier: Doug Wilson Teaches Women to Surrender Their Votes to Men](/cartoons/doug-wilson-teaches-women-to-surrender-their-votes-to-men.png)
+*The teaching is immediate. The constitutional repeal is not.*
 
 Doug Wilson teaches women to surrender their votes to their husbands.
 

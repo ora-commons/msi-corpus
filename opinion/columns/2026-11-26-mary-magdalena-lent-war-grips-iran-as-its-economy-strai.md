@@ -50,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -66,16 +67,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-26-iran-cuts-food-and-electricity-subsidies-as-u-s-blockade-strains-economy.png
-  alt: 'Illustration accompanying article: Iran cuts food and electricity subsidies as U.S. blockade strains economy'
+  url: /cartoons/donald-trump-turned-a-blockade-into-hunger-across-iran.png
+  alt: 'Editorial cartoon by Hector Rentier: Donald Trump Turned a Blockade Into Hunger
+    Across Iran'
+  caption: He tightened the blockade. Families carried the bill.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-26T22:11:25-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: Square 1:1 single-panel editorial cartoon in the Nast wood-engraving
+    tradition. Donald Trump, recognizable and fully individuated, occupies the central
+    foreground at a remote naval-policy desk, dresse
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-26-iran-cuts-food-and-electricity-subsidies-as-u-s-blockade-strains-economy
   relation: extends
   strength: 0.7856
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-26-hector-paired-with-2026-11-26-mary-magdalena-lent-war-grips-iran-as-its-economy-strai
 ---
+
+![Editorial cartoon by Hector Rentier: Donald Trump Turned a Blockade Into Hunger Across Iran](/cartoons/donald-trump-turned-a-blockade-into-hunger-across-iran.png)
+*He tightened the blockade. Families carried the bill.*
 
 > The old man bought one loaf of sangak for the equivalent of thirty-five cents.  
 > Seven times the subsidized price. Another resident said the baker had mixed flour used for animals into bread already darkening and spoiling.  

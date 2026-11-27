@@ -1,7 +1,10 @@
 ---
-headline: Everyone says Brazil walked into the biggest trap ever—and China begs me for dialogue in the greatest 4D chess
+headline: Everyone says Brazil walked into the biggest trap ever—and China begs me
+  for dialogue in the greatest 4D chess
 publish_date: '2026-11-26'
-lede: Brazil said no to my new Taxes—meaning the unilateral tariff threat, because I prefer a word that sounds more like the Deal—on Wednesday, but left retaliation on the table.
+lede: Brazil said no to my new Taxes—meaning the unilateral tariff threat, because
+  I prefer a word that sounds more like the Deal—on Wednesday, but left retaliation
+  on the table.
 pen_name: diklis-chump
 parody: true
 parody_subject: Donald J. Trump
@@ -46,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -62,9 +66,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-26-brazil-rejects-trump-s-tariff-threat-as-china-urges-dialogue.png
-  alt: 'Illustration accompanying article: Brazil rejects Trump''s tariff threat as China urges dialogue'
+  url: /cartoons/everyone-says-brazil-walked-into-the-biggest-trap-everand.png
+  alt: 'Editorial cartoon by Hector Rentier: Everyone says Brazil walked into the
+    biggest trap ever—and China begs me for dialogue…'
+  caption: Trump read resistance as choreography and dialogue as surrender.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-26T22:09:20-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: A single 1:1 panel in heavy black cross-hatch and wood-engraving line,
+    with pure black masses, carved-out whites, and exactly one restrained sepia accent
+    (#6B4226) on the ceremonial “THE DEAL” ribbon.
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-26-brazil-rejects-trump-s-tariff-threat-as-china-urges-dialogue
   relation: extends
@@ -72,7 +87,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-26-hector-paired-with-2026-11-26-diklis-chump-us-news-2026-nov-26-brazil-china-react-t
 ---
+
+![Editorial cartoon by Hector Rentier: Everyone says Brazil walked into the biggest trap ever—and China begs me for dialogue…](/cartoons/everyone-says-brazil-walked-into-the-biggest-trap-everand.png)
+*Trump read resistance as choreography and dialogue as surrender.*
 
 Brazil said no to my new Taxes—meaning the unilateral tariff threat, because I prefer a word that sounds more like the Deal—on Wednesday, but left retaliation on the table. China said a tariff war serves no party’s interests and urged dialogue. I proposed tariffs on 14 trading partners; China faces a 20% cap, with some combined duties potentially reaching 45%, and there is a [January 25 hearing](/articles/2026-11-25-u-s-trade-office-plans-jan-25-hearings-on-proposed-tariffs/) before final duties may take effect in February or March. In plain English: Brazil objected, China asked to talk, and I announced that both reactions were exactly what I wanted. TREMENDOUS.
 
