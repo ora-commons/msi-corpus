@@ -2,8 +2,16 @@
 headline: Canada's Supreme Court weighs Quebec ban on public-sector religious symbols
 secondary_headline: Federal government asks court to limit section 33's override powers
 publish_date: '2026-11-27'
-lede: Canada's Supreme Court is set to rule Friday on a constitutional challenge to Quebec's Bill 21, which bars public servants including judges, police officers and teachers from wearing religious symbols at work. The court must consider whether the law is valid, whether Quebec properly used section 33 of the Canadian constitution and whether limits apply to the override provision. More than 50 interveners, including the federal government, took part in four days of hearings in March.
-nut_graf: The ruling addresses both religious-neutrality rules for public employees and the broader use of a constitutional override. Federal Justice Minister Sean Fraser said the decision would shape how federal and provincial governments use section 33 for years to come.
+lede: Canada's Supreme Court is set to rule Friday on a constitutional challenge to
+  Quebec's Bill 21, which bars public servants including judges, police officers and
+  teachers from wearing religious symbols at work. The court must consider whether
+  the law is valid, whether Quebec properly used section 33 of the Canadian constitution
+  and whether limits apply to the override provision. More than 50 interveners, including
+  the federal government, took part in four days of hearings in March.
+nut_graf: The ruling addresses both religious-neutrality rules for public employees
+  and the broader use of a constitutional override. Federal Justice Minister Sean
+  Fraser said the decision would shape how federal and provincial governments use
+  section 33 for years to come.
 primary_entities:
 - Canada's Supreme Court
 - Quebec
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,118 +152,21 @@ cross_article_links:
   strength: 0.5793
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-11-09-supreme-court-weighs-limits-on-suits-against-federal-officers
-  headline: Supreme Court weighs limits on suits against federal officers
-  publish_date: '2026-11-09'
-  relation: related
-  strength: 0.6039
-- slug: 2026-11-10-supreme-court-appears-divided-over-agencies-power-to-fine-in-farmworker-case
-  headline: Supreme Court appears divided over agencies' power to fine in farmworker case
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.5941
-- slug: 2026-11-03-catholic-preschools-challenge-colorado-preschool-funding-rules-at-supreme-court
-  headline: Catholic preschools challenge Colorado preschool funding rules at Supreme Court
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6064
-- slug: 2026-11-03-supreme-court-appears-likely-to-favor-catholic-preschools-in-subsidy-case
-  headline: Supreme Court appears likely to favor Catholic preschools in subsidy case
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6057
-- slug: 2026-11-03-supreme-court-s-colorado-case-puts-1990-religious-practices-precedent-at-issue
-  headline: Supreme Court's Colorado case puts 1990 religious-practices precedent at issue
-  publish_date: '2026-11-03'
-  relation: related
-  strength: 0.6023
-- slug: 2026-11-02-doj-takes-california-voter-roll-dispute-to-supreme-court
-  headline: DOJ takes California voter-roll dispute to Supreme Court
-  publish_date: '2026-11-02'
-  relation: related
-  strength: 0.5925
-- slug: 2026-10-03-supreme-court-opens-new-term-with-major-religion-guns-climate-cases
-  headline: Supreme Court opens new term with major religion, guns, climate cases
-  publish_date: '2026-10-03'
-  relation: related
-  strength: 0.6243
-- slug: 2026-08-17-civil-rights-groups-petition-supreme-court-to-review-texas-ten-commandments-law
-  headline: Civil rights groups petition Supreme Court to review Texas Ten Commandments law
-  publish_date: '2026-08-17'
-  relation: related
-  strength: 0.62
-- slug: 2026-07-15-supreme-court-expands-presidential-power-limits-voting-rights-act-challenges
-  headline: Supreme Court expands presidential power, limits Voting Rights Act challenges
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6009
-- slug: 2026-06-22-supreme-court-to-decide-four-cases-defining-presidential-power
-  headline: Supreme Court to decide four cases defining presidential power
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6117
-- slug: 2026-06-30-supreme-court-expected-to-rule-on-birthright-citizenship-trans-athlete-bans-on-f
-  headline: Supreme Court expected to rule on birthright citizenship, trans athlete bans on final day
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5984
-- slug: 2026-04-20-supreme-court-takes-up-catholic-preschool-funding-case
-  headline: Supreme Court takes up Catholic preschool funding case
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6219
-- slug: 2026-06-29-eight-cases-on-trump-s-executive-authority-head-supreme-court-s-final-week
-  headline: Eight cases on Trump's executive authority head Supreme Court's final week
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5938
-- slug: 2026-05-19-connecticut-sued-over-law-banning-masks-requiring-id-for-ice-agents
-  headline: Connecticut sued over law banning masks, requiring ID for ICE agents
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.601
-- slug: 2026-05-18-supreme-court-likely-to-strike-down-hawaii-gun-restrictions
-  headline: Supreme Court likely to strike down Hawaii gun restrictions
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6012
-- slug: 2026-04-16-south-carolina-senate-backs-bill-protecting-monuments-blocks-qr-codes
-  headline: South Carolina Senate backs bill protecting monuments, blocks QR codes
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6068
-- slug: 2026-04-23-appeals-court-blocks-california-law-requiring-federal-agents-to-wear-id
-  headline: Appeals court blocks California law requiring federal agents to wear ID
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6024
-- slug: 2026-05-20-justice-department-sues-connecticut-over-law-restricting-masks-and-ids-for-ice
-  headline: Justice Department sues Connecticut over law restricting masks and IDs for ICE
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5953
-- slug: 2026-05-16-vermont-voters-to-decide-equal-protection-amendment-in-november
-  headline: Vermont voters to decide equal protection amendment in November
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5959
-- slug: 2026-05-19-supreme-court-sends-native-american-voting-rights-case-back-to-lower-court
-  headline: Supreme Court sends Native American voting rights case back to lower court
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5914
+related_stories: []
 image:
   url: /articles/2026-11-27-canada-s-supreme-court-weighs-quebec-ban-on-public-sector-religious-symbols.png
-  alt: "Illustration accompanying article: Canada's Supreme Court weighs Quebec ban on public-sector religious symbols"
+  alt: 'Illustration accompanying article: Canada''s Supreme Court weighs Quebec ban
+    on public-sector religious symbols'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:google/gemini-3.1-flash-image"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Canada's Supreme Court weighs Quebec ban on public-sector religious symbols
 
 **Subtype:** fact

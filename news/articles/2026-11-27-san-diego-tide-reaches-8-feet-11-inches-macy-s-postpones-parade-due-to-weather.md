@@ -1,9 +1,23 @@
 ---
-headline: San Diego tide reaches 8 feet 11 inches; Macy's postpones parade due to weather
-secondary_headline: Los Angeles tides could surpass October record amid coastal flood warnings
+headline: San Diego tide reaches 8 feet 11 inches; Macy's postpones parade due to
+  weather
+secondary_headline: Los Angeles tides could surpass October record amid coastal flood
+  warnings
 publish_date: '2026-11-27'
-lede: According to The Guardian, San Diego recorded a tide of 8 feet 11 inches, or 2.7 metres, on Wednesday morning, while tides in Los Angeles reached approximately 8.19 feet and could potentially surpass a record set at the end of October. Macy's postponed its 100th annual Thanksgiving Day parade, originally scheduled for Thursday, until Saturday, marking the first weather-related postponement in the event's history. The National Weather Service issued coastal flood warnings covering parts of the Pacific coastline and shorelines around San Francisco Bay and San Pablo Bay, while a Nor'easter produced heavy rain, damaging winds and coastal flooding in the eastern United States.
-nut_graf: The Southern California measurements show that the king tides affected areas beyond the Pacifica pier damage. Macy's also postponed the parade for the first time because of weather. The report documented coastal flood warnings, flooding and a temporary evacuation warning in California, while a Nor'easter created hazardous conditions for millions of Americans traveling for the holiday on the East Coast.
+lede: According to The Guardian, San Diego recorded a tide of 8 feet 11 inches, or
+  2.7 metres, on Wednesday morning, while tides in Los Angeles reached approximately
+  8.19 feet and could potentially surpass a record set at the end of October. Macy's
+  postponed its 100th annual Thanksgiving Day parade, originally scheduled for Thursday,
+  until Saturday, marking the first weather-related postponement in the event's history.
+  The National Weather Service issued coastal flood warnings covering parts of the
+  Pacific coastline and shorelines around San Francisco Bay and San Pablo Bay, while
+  a Nor'easter produced heavy rain, damaging winds and coastal flooding in the eastern
+  United States.
+nut_graf: The Southern California measurements show that the king tides affected areas
+  beyond the Pacifica pier damage. Macy's also postponed the parade for the first
+  time because of weather. The report documented coastal flood warnings, flooding
+  and a temporary evacuation warning in California, while a Nor'easter created hazardous
+  conditions for millions of Americans traveling for the holiday on the East Coast.
 primary_entities:
 - San Diego
 - Los Angeles
@@ -61,7 +75,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -160,107 +175,49 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-11-26-thanksgiving-storms-disrupt-u-s-travel-and-tear-down-part-of-a-pacifica-pier
-  headline: Thanksgiving storms disrupt U.S. travel and tear down part of a Pacifica pier
+  headline: Thanksgiving storms disrupt U.S. travel and tear down part of a Pacifica
+    pier
   publish_date: '2026-11-26'
   relation: related
-  strength: 0.8445
+  strength: 0.8449
 - slug: 2026-11-26-storms-postpone-macy-s-parade-and-disrupt-thanksgiving-travel-across-the-u-s
-  headline: Storms postpone Macy's parade and disrupt Thanksgiving travel across the U.S.
+  headline: Storms postpone Macy's parade and disrupt Thanksgiving travel across the
+    U.S.
   publish_date: '2026-11-26'
   relation: related
-  strength: 0.8287
+  strength: 0.8286
 - slug: 2026-11-24-king-tides-raise-flood-risk-across-the-pacific-coast-and-florida
   headline: King tides raise flood risk across the Pacific Coast and Florida
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7809
+  strength: 0.7814
 - slug: 2026-11-25-east-coast-storms-threaten-thanksgiving-travel-and-macy-s-parade
   headline: East Coast storms threaten Thanksgiving travel and Macy’s parade
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.7582
+  strength: 0.7576
 - slug: 2026-11-26-east-coast-storm-knocks-out-power-to-more-than-400-000-postpones-macy-s-parade
-  headline: East Coast storm knocks out power to more than 400,000, postpones Macy's parade
+  headline: East Coast storm knocks out power to more than 400,000, postpones Macy's
+    parade
   publish_date: '2026-11-26'
   relation: related
-  strength: 0.7496
+  strength: 0.7494
 - slug: 2026-11-25-nor-easter-threatens-macy-s-thanksgiving-parade-balloons-with-high-winds
   headline: Nor'easter threatens Macy's Thanksgiving Parade balloons with high winds
   publish_date: '2026-11-25'
   relation: related
-  strength: 0.7469
+  strength: 0.7472
 - slug: 2026-11-24-california-king-tides-could-be-biggest-in-four-decades-forecasters-warn
   headline: California king tides could be biggest in four decades, forecasters warn
   publish_date: '2026-11-24'
   relation: related
-  strength: 0.7535
-- slug: 2026-11-25-new-york-city-macy-s-and-nbc-move-thanksgiving-parade-to-saturday
-  headline: New York City, Macy's and NBC move Thanksgiving parade to Saturday
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.7378
-- slug: 2026-11-25-macy-s-parade-set-to-start-08-30-saturday-after-first-weather-postponement
-  headline: Macy's parade set to start 08:30 Saturday after first weather postponement
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.7373
+  strength: 0.754
 - slug: 2026-11-27-severe-thanksgiving-storms-leave-hundreds-of-thousands-without-power
   headline: Severe Thanksgiving storms leave hundreds of thousands without power
   publish_date: '2026-11-27'
   relation: related
-  strength: 0.7232
-- slug: 2026-11-25-macy-s-sets-100th-parade-start-at-8-30-a-m-saturday-amid-balloon-preparations
-  headline: Macy’s sets 100th parade start at 8:30 a.m. Saturday amid balloon preparations
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.7205
-- slug: 2026-11-25-rising-sea-levels-make-king-tide-flooding-more-frequent-in-coastal-communities
-  headline: Rising sea levels make king tide flooding more frequent in coastal communities
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.7172
-- slug: 2026-11-25-king-tides-flood-coastal-areas-in-washington-and-oregon
-  headline: King tides flood coastal areas in Washington and Oregon
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.7166
-- slug: 2026-11-26-marin-county-lifts-stinson-beach-evacuation-warning-for-beachfront-properties
-  headline: Marin County lifts Stinson Beach evacuation warning for beachfront properties
-  publish_date: '2026-11-26'
-  relation: related
-  strength: 0.702
-- slug: 2026-11-25-macy-s-parade-history-includes-a-1997-lamppost-fall-that-injured-four
-  headline: Macy's parade history includes a 1997 lamppost fall that injured four
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.7084
-- slug: 2026-11-25-macy-s-parade-saturday-lineup-includes-dolly-parton-tribute-and-broadway-medley
-  headline: Macy's parade Saturday lineup includes Dolly Parton tribute and Broadway medley
-  publish_date: '2026-11-25'
-  relation: related
-  strength: 0.7032
-- slug: 2026-11-21-san-francisco-braces-for-unprecedented-tides-as-florida-floods-persist
-  headline: San Francisco braces for unprecedented tides as Florida floods persist
-  publish_date: '2026-11-21'
-  relation: related
-  strength: 0.7145
-- slug: 2026-11-20-california-coastal-communities-face-warnings-as-waves-exceed-30-feet
-  headline: California coastal communities face warnings as waves exceed 30 feet
-  publish_date: '2026-11-20'
-  relation: related
-  strength: 0.7127
-- slug: 2026-11-16-forecasters-warn-towering-waves-and-storms-could-overwhelm-california-coast
-  headline: Forecasters warn towering waves and storms could overwhelm California coast
-  publish_date: '2026-11-16'
-  relation: related
-  strength: 0.7155
-- slug: 2026-11-15-large-waves-close-california-piers-and-flood-coastal-streets
-  headline: Large waves close California piers and flood coastal streets
-  publish_date: '2026-11-15'
-  relation: related
-  strength: 0.7195
+  strength: 0.7239
 ---
-
 ## San Diego tide reaches 8 feet 11 inches; Macy's postpones parade due to weather
 
 **Subtype:** fact
