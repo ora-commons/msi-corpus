@@ -205,6 +205,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-26-bank-of-korea-s-rate-path-couples-ai-driven-forecasts-to-record-household-debt'
 ---
 ## Bank of Korea raises benchmark rate to 3.25% amid inflation risks
 
@@ -246,3 +248,8 @@ The rate decision was not unanimous. Two of the seven members of the Bank of Kor
 **Publication date:** 2026-11-26
 **Title:** South Korea's central bank raises key interest rate
 **URL:** https://apnews.com/article/south-korea-bank-interest-rate-exports-inflation-b9cef57c80c2ceb5e273b71b9a32c9d9
+
+---
+
+<!-- analysis-link:2026-11-26-bank-of-korea-s-rate-path-couples-ai-driven-forecasts-to-record-household-debt -->
+**Going deeper:** [Read MSI's analysis of the Bank of Korea's tightening path →](/analyses/2026-11-26-bank-of-korea-s-rate-path-couples-ai-driven-forecasts-to-record-household-debt)
