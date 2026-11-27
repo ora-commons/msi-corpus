@@ -220,6 +220,8 @@ related_stories:
   publish_date: '2026-11-25'
   relation: related
   strength: 0.7247
+analyses:
+- '2026-11-26-white-house-tariff-proposal-couples-bargaining-leverage-with-shared-legal-risk'
 ---
 ## White House plan lists two rates amid lawsuit over earlier Section 301 tariffs
 
@@ -259,3 +261,8 @@ Host A Martínez said the tariffs were unpopular in the midterm elections. Kurtz
 **Publication date:** 2026-11-26
 **Title:** Trump administration proposes new tariffs on goods from major U.S. trading partners
 **URL:** https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners
+
+---
+
+<!-- analysis-link:2026-11-26-white-house-tariff-proposal-couples-bargaining-leverage-with-shared-legal-risk -->
+**Going deeper:** [Read MSI's analysis of the White House's two-rate tariff plan →](/analyses/2026-11-26-white-house-tariff-proposal-couples-bargaining-leverage-with-shared-legal-risk)

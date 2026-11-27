@@ -199,6 +199,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-26-gdp-revision-dispute-turns-on-missing-bea-records-and-political-timing'
 ---
 ## Trump demands investigation of Commerce Department GDP revision
 
@@ -243,3 +245,8 @@ The same federal agency also reported Wednesday that the personal consumption ex
 **Title:** Trump calls GDP figures 'fake' and demands an investigation of Commerce Department
 **URL:** https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department
 **Added after publication:** true
+
+---
+
+<!-- analysis-link:2026-11-26-gdp-revision-dispute-turns-on-missing-bea-records-and-political-timing -->
+**Going deeper:** [Read MSI's analysis of the GDP revision dispute →](/analyses/2026-11-26-gdp-revision-dispute-turns-on-missing-bea-records-and-political-timing)
