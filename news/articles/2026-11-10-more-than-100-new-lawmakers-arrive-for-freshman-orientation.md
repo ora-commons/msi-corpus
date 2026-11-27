@@ -32,7 +32,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- the-2026-freshman-class-of-congress
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.6791
 ---
+
 ## More than 100 new lawmakers arrive for freshman orientation
 
 **Subtype:** fact

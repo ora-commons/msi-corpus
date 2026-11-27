@@ -39,7 +39,8 @@ topic_tags:
 - election
 - government
 - politics
-storyline_nexus: []
+storyline_nexus:
+- the-2026-freshman-class-of-congress
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -215,6 +216,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Freshman Democrats open orientation focused on costs and investigations
 
 **Subtype:** fact

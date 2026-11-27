@@ -1,9 +1,21 @@
 ---
 headline: Jet fuel costs strain smaller airlines after Spirit’s collapse
-secondary_headline: Ryanair expects European airfares to rise as much as 20% next year
+secondary_headline: Ryanair expects European airfares to rise as much as 20% next
+  year
 publish_date: '2026-11-27'
-lede: The Associated Press reported that higher jet fuel costs during the U.S. war with Iran have put significant financial stress on smaller airlines that were not in strong shape at the beginning of the year. Norse Atlantic ASA said Norse Atlantic Airways had so far been unable to secure sufficient funding to meet its short-term liquidity needs. The Norwegian budget carrier filed for bankruptcy Friday, one day after halting flights and ticket sales, almost seven months after Spirit Airlines ceased operations during bankruptcy proceedings and went out of business.
-nut_graf: The CEO of Ryanair, Europe’s biggest carrier, said earlier this month that he expects European airfares to go up by as much as 20% next year as the Middle East conflict continues. Airline industry bosses also have warned travelers about rising jet fuel costs, while Norse Atlantic ASA said the board had concluded there was no longer a basis for continued operations and that the company had so far been unable to secure sufficient funding for its short-term liquidity needs.
+lede: The Associated Press reported that higher jet fuel costs during the U.S. war
+  with Iran have put significant financial stress on smaller airlines that were not
+  in strong shape at the beginning of the year. Norse Atlantic ASA said Norse Atlantic
+  Airways had so far been unable to secure sufficient funding to meet its short-term
+  liquidity needs. The Norwegian budget carrier filed for bankruptcy Friday, one day
+  after halting flights and ticket sales, almost seven months after Spirit Airlines
+  ceased operations during bankruptcy proceedings and went out of business.
+nut_graf: The CEO of Ryanair, Europe’s biggest carrier, said earlier this month that
+  he expects European airfares to go up by as much as 20% next year as the Middle
+  East conflict continues. Airline industry bosses also have warned travelers about
+  rising jet fuel costs, while Norse Atlantic ASA said the board had concluded there
+  was no longer a basis for continued operations and that the company had so far been
+  unable to secure sufficient funding for its short-term liquidity needs.
 primary_entities:
 - Norse Atlantic Airways
 - Norse Atlantic ASA
@@ -49,7 +61,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +164,44 @@ related_stories:
   headline: Norse Atlantic Airways shuts down after bankruptcy filing
   publish_date: '2026-11-27'
   relation: related
-  strength: 0.8331
+  strength: 0.8337
 - slug: 2026-11-26-norse-atlantic-airways-suspends-all-flights-warns-of-bankruptcy
   headline: Norse Atlantic Airways suspends all flights, warns of bankruptcy
   publish_date: '2026-11-26'
   relation: related
-  strength: 0.8246
+  strength: 0.8244
 - slug: 2026-11-02-iata-expects-fuel-to-account-for-nearly-one-third-of-airline-operating-expenses-
-  headline: IATA expects fuel to account for nearly one-third of airline operating expenses this year
+  headline: IATA expects fuel to account for nearly one-third of airline operating
+    expenses this year
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7095
+  strength: 0.7088
 - slug: 2026-11-02-ryanair-weighs-lower-crew-ratios-and-pay-freezes-as-fuel-bill-rises
   headline: Ryanair weighs lower crew ratios and pay freezes as fuel bill rises
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.7054
+  strength: 0.7051
 - slug: 2026-11-02-ryanair-weighs-pay-freeze-as-fuel-costs-drive-higher-summer-fares
   headline: Ryanair weighs pay freeze as fuel costs drive higher summer fares
   publish_date: '2026-11-02'
   relation: related
-  strength: 0.698
+  strength: 0.6982
 - slug: 2026-09-05-virgin-atlantic-expects-to-fly-95-of-regular-winter-schedule
   headline: Virgin Atlantic expects to fly 95% of regular winter schedule
   publish_date: '2026-09-05'
   relation: related
-  strength: 0.6934
+  strength: 0.6933
 - slug: 2026-05-17-spirit-airlines-shutdown-and-rising-fuel-costs-squeeze-summer-travel-budgets
   headline: Spirit Airlines shutdown and rising fuel costs squeeze summer travel budgets
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.7512
-- slug: 2026-08-27-qantas-annual-profit-slides-14-as-iran-conflict-lifts-fuel-costs
-  headline: Qantas annual profit slides 14% as Iran conflict lifts fuel costs
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6691
+  strength: 0.7509
 - slug: 2026-05-17-end-of-spirit-airlines-complicates-a-search-for-cheap-summer-flights
   headline: End of Spirit Airlines complicates a search for cheap summer flights
   publish_date: '2026-05-17'
   relation: related
-  strength: 0.7327
-- slug: 2026-08-04-companies-report-higher-costs-and-weaker-demand-amid-iran-conflict
-  headline: Companies report higher costs and weaker demand amid Iran conflict
-  publish_date: '2026-08-04'
-  relation: related
-  strength: 0.6725
-- slug: 2026-06-12-war-in-iran-drives-jet-fuel-prices-higher-squeezing-african-airlines
-  headline: War in Iran drives jet fuel prices higher, squeezing African airlines
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7047
-- slug: 2026-05-03-from-rock-bottom-fares-to-final-flight-spirit-airlines-ends-34-year-run
-  headline: 'From rock-bottom fares to final flight: Spirit Airlines ends 34-year run'
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.7167
-- slug: 2026-04-16-europe-faces-six-week-jet-fuel-supply-cliff-as-iran-war-chokes-hormuz
-  headline: Europe faces six-week jet fuel supply cliff as Iran war chokes Hormuz
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.7177
-- slug: 2026-06-04-american-airlines-suspends-some-summer-routes-as-jet-fuel-costs-climb
-  headline: American Airlines suspends some summer routes as jet fuel costs climb
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7
-- slug: 2026-06-19-iata-sees-airline-profits-halved-to-23b-on-jet-fuel-costs-middle-east-war
-  headline: IATA sees airline profits halved to $23B on jet fuel costs, Middle East war
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6821
-- slug: 2026-06-12-global-air-travel-growth-to-slow-to-2-1-in-2026-as-middle-east-war-lifts-fuel-co
-  headline: Global air travel growth to slow to 2.1% in 2026 as Middle East war lifts fuel costs
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6829
-- slug: 2026-05-03-spirit-airlines-says-it-is-going-out-of-business-after-34-years
-  headline: Spirit Airlines says it is going out of business after 34 years
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6933
-- slug: 2026-04-18-iran-war-drives-jet-fuel-prices-to-record-highs-raising-summer-airfares
-  headline: Iran war drives jet fuel prices to record highs, raising summer airfares
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6914
-- slug: 2026-05-06-with-its-planes-grounded-spirit-secures-court-approval-to-sell-assets
-  headline: With its planes grounded, Spirit secures court approval to sell assets
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6865
-- slug: 2026-03-15-airfares-are-expected-to-rise-with-jet-fuel-costs-during-the-iran-war
-  headline: Airfares are expected to rise with jet fuel costs during the Iran war
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6931
+  strength: 0.7317
 ---
-
 ## Jet fuel costs strain smaller airlines after Spirit’s collapse
 
 **Subtype:** fact
