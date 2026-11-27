@@ -41,7 +41,8 @@ primary_themes:
 - public backlash
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- environmental-footprint-of-us-hyperscale-data-centers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -205,6 +206,7 @@ related_stories:
   relation: related
   strength: 0.7462
 ---
+
 ## US hyperscale datacenters emit 25.7m tons of CO2, study finds
 
 **Subtype:** fact

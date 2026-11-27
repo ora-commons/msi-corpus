@@ -213,6 +213,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-24-army-s-iowa-detonation-plan-rests-on-an-unresolved-risk-comparison'
 ---
 ## U.S. Army secures court approval to detonate degraded lead azide in Iowa
 
@@ -269,3 +271,8 @@ The Army's statement late Monday said it was proceeding with the controlled remo
 **Publication date:** 2026-11-24
 **Title:** Getting court approval, U.S. Army to detonate degraded bomb-making material in Iowa on Wednesday
 **URL:** https://www.pbs.org/newshour/nation/getting-court-approval-u-s-army-to-detonate-degraded-bomb-making-material-in-iowa-on-wednesday
+
+---
+
+<!-- analysis-link:2026-11-24-army-s-iowa-detonation-plan-rests-on-an-unresolved-risk-comparison -->
+**Going deeper:** [Read MSI's analysis of Iowa's lead-azide disposal decision →](/analyses/2026-11-24-army-s-iowa-detonation-plan-rests-on-an-unresolved-risk-comparison)

@@ -35,7 +35,8 @@ topic_tags:
 - energy and resource
 - environment
 - sustainability
-storyline_nexus: []
+storyline_nexus:
+- environmental-footprint-of-us-hyperscale-data-centers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -198,6 +199,7 @@ related_stories:
   relation: related
   strength: 0.6861
 ---
+
 ## Harvard study ties 403 US data centers to 28.3 million tons of CO2
 
 **Subtype:** fact

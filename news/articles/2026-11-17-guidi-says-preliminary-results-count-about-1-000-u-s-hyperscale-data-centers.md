@@ -34,7 +34,8 @@ primary_themes:
 topic_tags:
 - artificial intelligence
 - public health
-storyline_nexus: []
+storyline_nexus:
+- environmental-footprint-of-us-hyperscale-data-centers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -197,8 +198,9 @@ related_stories:
   relation: related
   strength: 0.6672
 analyses:
-- '2026-11-17-data-center-buildout-concentrates-local-costs-as-evidence-and-participation-lag'
+- 2026-11-17-data-center-buildout-concentrates-local-costs-as-evidence-and-participation-lag
 ---
+
 ## Guidi says preliminary results count about 1,000 U.S. hyperscale data centers
 
 **Subtype:** fact

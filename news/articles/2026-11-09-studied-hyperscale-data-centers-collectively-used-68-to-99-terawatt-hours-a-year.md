@@ -63,7 +63,8 @@ topic_tags:
 - artificial intelligence
 - environment
 - climate change
-storyline_nexus: []
+storyline_nexus:
+- environmental-footprint-of-us-hyperscale-data-centers
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -225,6 +226,7 @@ related_stories:
   relation: related
   strength: 0.7557
 ---
+
 ## Studied hyperscale data centers collectively used 68 to 99 terawatt hours a year
 
 **Subtype:** fact
