@@ -73,7 +73,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -257,3 +257,10 @@ Earlier, [MSI reported that U.S. forces disabled the Palau-flagged M/T Settebell
 **Publication date:** 2026-11-27
 **Title:** US military says it disabled another ship in the Gulf of Oman
 **URL:** https://apnews.com/article/iran-naval-blockade-us-military-disabled-ship-800620518a351282f098faa9381b3375
+
+### src_late_693579c59261faf8 — Associated Press, wire, Tier 1, originating
+**Author:** Konstantin Toropin, Associated Press
+**Publication date:** 2026-11-27
+**Title:** U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports
+**URL:** https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports
+**Added after publication:** true
