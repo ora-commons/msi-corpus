@@ -27,7 +27,8 @@ primary_themes:
 - police inquiry
 topic_tags:
 - health
-storyline_nexus: []
+storyline_nexus:
+- co-op-live-tear-gas-incident
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -161,6 +162,7 @@ image:
     frame that fills the entire canvas edge to edg
 related_stories: []
 ---
+
 ## Greater Manchester Police evacuate Co-op Live after suspected tear gas release
 
 **Subtype:** fact

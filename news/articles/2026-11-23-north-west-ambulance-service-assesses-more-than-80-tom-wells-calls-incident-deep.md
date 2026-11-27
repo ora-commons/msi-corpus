@@ -39,7 +39,8 @@ primary_themes:
 topic_tags:
 - law enforcement
 - health
-storyline_nexus: []
+storyline_nexus:
+- co-op-live-tear-gas-incident
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -179,6 +180,7 @@ related_stories:
   relation: related
   strength: 0.8633
 ---
+
 ## North West Ambulance Service assesses more than 80; Tom Wells calls incident 'deeply worrying'
 
 **Subtype:** fact
