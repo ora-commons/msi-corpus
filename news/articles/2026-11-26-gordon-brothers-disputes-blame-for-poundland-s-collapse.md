@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-11-12'
   relation: related
   strength: 0.7731
+analyses:
+- '2026-11-26-poundland-s-blame-dispute-turns-on-debt-terms-and-unverified-cash-limits'
 ---
 ## Gordon Brothers disputes blame for Poundland's collapse
 
@@ -247,3 +249,8 @@ Poundland's administration and the rejected rescue bids were reported previously
 **Publication date:** 2026-11-26
 **Title:** Simon Jack: Is Poundland's US owner to blame for its collapse?
 **URL:** https://www.bbc.co.uk/news/articles/c62klzxvyzyqo
+
+---
+
+<!-- analysis-link:2026-11-26-poundland-s-blame-dispute-turns-on-debt-terms-and-unverified-cash-limits -->
+**Going deeper:** [Read MSI's analysis of Poundland's collapse and disputed debt →](/analyses/2026-11-26-poundland-s-blame-dispute-turns-on-debt-terms-and-unverified-cash-limits)
