@@ -79,7 +79,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -291,3 +291,10 @@ MSI previously reported that [Democrats faced hurdles repealing Trump's tariffs 
 **Publication date:** 2026-11-27
 **Title:** Republicans are rethinking Trump's tariffs, giving Democrats an opening
 **URL:** https://apnews.com/article/trump-tariffs-republicans-congress-a438d0649e3b905804eafb63e9803bb3
+
+### src_late_8ac15ca1c7faa992 — Associated Press, wire, Tier 1, originating
+**Author:** Steven Sloan, Associated Press, Kevin Freking, Associated Press
+**Publication date:** 2026-11-27
+**Title:** Republicans rethink tariffs, giving Democrats an opening to challenge Trump
+**URL:** https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump
+**Added after publication:** true
