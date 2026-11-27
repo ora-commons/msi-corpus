@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-08-22'
   relation: related
   strength: 0.6556
+analyses:
+- '2026-11-24-rep-raskin-s-records-requests-test-whether-1789-capital-ties-altered-federal-tre'
 ---
 ## Raskin seeks records from four firms linked to Donald Trump Jr.
 
@@ -248,3 +250,8 @@ The immediate stage of the inquiry is documentary: Raskin has asked for records 
 **Publication date:** 2026-11-24
 **Title:** Democrats Begin Looking Into Companies With Ties to Donald Trump Jr.
 **URL:** https://www.wsj.com/politics/policy/democrats-begin-looking-into-companies-with-ties-to-donald-trump-jr-a364e7ff
+
+---
+
+<!-- analysis-link:2026-11-24-rep-raskin-s-records-requests-test-whether-1789-capital-ties-altered-federal-tre -->
+**Going deeper:** [Read MSI's analysis of the 1789 Capital records inquiry →](/analyses/2026-11-24-rep-raskin-s-records-requests-test-whether-1789-capital-ties-altered-federal-tre)
