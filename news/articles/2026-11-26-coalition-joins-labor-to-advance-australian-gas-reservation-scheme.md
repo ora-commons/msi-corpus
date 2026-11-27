@@ -161,6 +161,8 @@ related_stories:
   publish_date: '2026-09-23'
   relation: related
   strength: 0.6798
+analyses:
+- '2026-11-26-coalition-vote-advances-australian-gas-reservation-scheme-with-wa-carve-out'
 ---
 ## Coalition joins Labor to advance Australian gas reservation scheme
 
@@ -201,3 +203,8 @@ The Guardian described the Senate vote as advancing the government’s final maj
 **Publication date:** 2026-11-26
 **Title:** Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters
 **URL:** https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters
+
+---
+
+<!-- analysis-link:2026-11-26-coalition-vote-advances-australian-gas-reservation-scheme-with-wa-carve-out -->
+**Going deeper:** [Read MSI's analysis of Australia’s gas reservation bargain →](/analyses/2026-11-26-coalition-vote-advances-australian-gas-reservation-scheme-with-wa-carve-out)

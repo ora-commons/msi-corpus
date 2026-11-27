@@ -198,6 +198,8 @@ related_stories:
   publish_date: '2026-10-11'
   relation: related
   strength: 0.8082
+analyses:
+- '2026-11-26-strikes-and-diplomacy-tighten-three-clocks-around-ukraine-s-winter-grid'
 ---
 ## Zelenskyy says Russia is preparing another major strike on Ukraine's power grid
 
@@ -243,3 +245,8 @@ Italian Premier Giorgia Meloni said Thursday that she supported Ukraine’s figh
 **Publication date:** 2026-11-26
 **Title:** Zelenskyy warns of imminent major Russian attack on Ukraine's power grid
 **URL:** https://www.pbs.org/newshour/world/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid
+
+---
+
+<!-- analysis-link:2026-11-26-strikes-and-diplomacy-tighten-three-clocks-around-ukraine-s-winter-grid -->
+**Going deeper:** [Read MSI's analysis of Ukraine’s winter grid and stalled diplomacy →](/analyses/2026-11-26-strikes-and-diplomacy-tighten-three-clocks-around-ukraine-s-winter-grid)
