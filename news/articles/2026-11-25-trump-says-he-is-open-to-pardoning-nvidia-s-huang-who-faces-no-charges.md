@@ -204,6 +204,8 @@ related_stories:
   publish_date: '2026-11-24'
   relation: related
   strength: 0.792
+analyses:
+- '2026-11-25-trump-s-huang-endorsement-leaves-government-advice-and-investigative-scope-undoc'
 ---
 ## Trump says he is open to pardoning Nvidia's Huang, who faces no charges
 
@@ -249,3 +251,8 @@ Trump's defense of Huang has run through the same period as the reinstatement fi
 **Publication date:** 2026-11-25
 **Title:** Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’
 **URL:** https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia
+
+---
+
+<!-- analysis-link:2026-11-25-trump-s-huang-endorsement-leaves-government-advice-and-investigative-scope-undoc -->
+**Going deeper:** [Read MSI's analysis of Trump's floated Huang pardon option →](/analyses/2026-11-25-trump-s-huang-endorsement-leaves-government-advice-and-investigative-scope-undoc)

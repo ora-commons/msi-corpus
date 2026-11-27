@@ -210,6 +210,8 @@ related_stories:
   publish_date: '2026-10-21'
   relation: related
   strength: 0.8036
+analyses:
+- '2026-11-27-opec-weighs-three-output-paths-as-capacity-uncertainty-complicates-2027-quotas'
 ---
 ## Oil prices rise after Jazan refinery attack and Kuwait drone strike
 
@@ -250,3 +252,8 @@ In [MSI's Nov. 26 report](/articles/2026-11-26-brent-slips-as-wti-gains-on-middl
 **Publication date:** 2026-11-27
 **Title:** Oil Prices Rise Ahead of OPEC+ Meeting as Middle East Supply Risks Persist
 **URL:** https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550
+
+---
+
+<!-- analysis-link:2026-11-27-opec-weighs-three-output-paths-as-capacity-uncertainty-complicates-2027-quotas -->
+**Going deeper:** [Read MSI's analysis of OPEC+’s fragile 2027 quota decision →](/analyses/2026-11-27-opec-weighs-three-output-paths-as-capacity-uncertainty-complicates-2027-quotas)
