@@ -219,6 +219,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-25-courts-and-trading-partners-shape-the-section-301-tariff-contest'
 ---
 ## U.S. trade office plans Jan. 25 hearings on proposed tariffs
 
@@ -260,3 +262,8 @@ The Yale Budget Lab estimates that tariffs currently in effect have added an add
 **Publication date:** 2026-11-25
 **Title:** Trump proposing new tariffs on 14 partners including China and European Union
 **URL:** https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe
+
+---
+
+<!-- analysis-link:2026-11-25-courts-and-trading-partners-shape-the-section-301-tariff-contest -->
+**Going deeper:** [Read MSI's analysis of the Section 301 tariff contest →](/analyses/2026-11-25-courts-and-trading-partners-shape-the-section-301-tariff-contest)

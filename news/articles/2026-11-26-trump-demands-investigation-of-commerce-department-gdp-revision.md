@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
 - economy
 - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-s-post-midterm-grievances
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -200,8 +201,9 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 analyses:
-- '2026-11-26-gdp-revision-dispute-turns-on-missing-bea-records-and-political-timing'
+- 2026-11-26-gdp-revision-dispute-turns-on-missing-bea-records-and-political-timing
 ---
+
 ## Trump demands investigation of Commerce Department GDP revision
 
 - President Donald Trump asked for an immediate investigation on Thursday, saying the Commerce Department purposely issued incorrect economic-growth figures before the Nov. 3 midterm elections.

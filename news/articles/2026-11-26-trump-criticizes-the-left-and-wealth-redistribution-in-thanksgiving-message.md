@@ -33,7 +33,8 @@ primary_themes:
 topic_tags:
 - economy
 - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-s-post-midterm-grievances
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -197,6 +198,7 @@ related_stories:
   relation: related
   strength: 0.683
 ---
+
 ## Trump criticizes the left and wealth redistribution in Thanksgiving message
 
 **Subtype:** fact

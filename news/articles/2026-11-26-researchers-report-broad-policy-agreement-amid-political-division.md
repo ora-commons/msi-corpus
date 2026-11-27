@@ -194,6 +194,8 @@ related_stories:
   publish_date: '2026-11-02'
   relation: related
   strength: 0.6567
+analyses:
+- '2026-11-26-surveys-locate-policy-common-ground-amid-barriers-to-congressional-action'
 ---
 ## Researchers report broad policy agreement amid political division
 
@@ -237,3 +239,8 @@ Nteta said he was more optimistic. He argued that the recent midterm election sh
 **Publication date:** 2026-11-26
 **Title:** Despite political divide, Americans often 'speak in one voice'
 **URL:** https://www.pbs.org/newshour/show/despite-political-divide-americans-often-speak-in-one-voice
+
+---
+
+<!-- analysis-link:2026-11-26-surveys-locate-policy-common-ground-amid-barriers-to-congressional-action -->
+**Going deeper:** [Read MSI's analysis of policy consensus and congressional action →](/analyses/2026-11-26-surveys-locate-policy-common-ground-amid-barriers-to-congressional-action)
