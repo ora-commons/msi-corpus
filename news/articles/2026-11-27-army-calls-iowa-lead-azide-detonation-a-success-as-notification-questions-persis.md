@@ -73,7 +73,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -261,3 +261,10 @@ MSI previously reported [that the EPA was awaiting laboratory results after the 
 **Publication date:** 2026-11-27
 **Title:** Lead azide detonation deemed a success but criticism lingers
 **URL:** https://apnews.com/article/iowa-lead-detonation-cde35b4969d6f4f68187fa21aa2243a6
+
+### src_late_96b32ce8c8e63535 — Associated Press, wire, Tier 1, originating
+**Author:** Susan Montoya Bryan, Associated Press
+**Publication date:** 2026-11-27
+**Title:** Army deems lead azide detonation a success but criticism lingers over notification
+**URL:** https://www.pbs.org/newshour/nation/army-deems-lead-azide-detonation-a-success-but-criticism-lingers-over-notification
+**Added after publication:** true

@@ -67,7 +67,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
   outlet_classes:
@@ -243,3 +243,10 @@ Authorities have taken steps to help the whales, including reducing vessel noise
 **Publication date:** 2026-11-27
 **Title:** Using a drone and a poop-sniffing dog, scientists perform health checks on endangered orcas
 **URL:** https://www.pbs.org/newshour/science/using-a-drone-and-a-poop-sniffing-dog-scientists-perform-health-checks-on-endangered-orcas
+
+### src_late_565da6bc0f88bbdd — Associated Press, wire, Tier 1, originating
+**Author:** Manuel Valdes
+**Publication date:** 2026-11-27
+**Title:** Con un dron y una perra olfateadora, científicos revisan la salud de orcas en peligro de extinción
+**URL:** https://apnews.com/article/eeuu-orcas-salud-vigilancia-habitat-236ed9c936157f89f96e115682597b98
+**Added after publication:** true
