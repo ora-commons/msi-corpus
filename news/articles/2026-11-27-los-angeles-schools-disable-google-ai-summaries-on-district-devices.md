@@ -55,7 +55,7 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 3
   outlets:
   - Associated Press
   outlet_classes:
@@ -243,4 +243,11 @@ Kelanic said the district is not bound to Google's products if officials determi
 **Publication date:** 2026-11-27
 **Title:** As Google threatens to cut schools' search access, Los Angeles blocks AI features
 **URL:** https://www.pbs.org/newshour/education/as-google-threatens-to-cut-schools-search-access-los-angeles-blocks-ai-features
+**Added after publication:** true
+
+### src_late_be15d72fc7fdca4a — Associated Press, wire, Tier 1, originating
+**Author:** Barbara Ortutay
+**Publication date:** 2026-11-27
+**Title:** Google amenaza con cortar acceso a su buscador en escuelas y Los Ángeles bloquea funciones de IA
+**URL:** https://apnews.com/article/google-ia-escuelas-busqueda-motor-lausd-los-angeles-16ade3836693f9739fd88b8f2c699ef3
 **Added after publication:** true
