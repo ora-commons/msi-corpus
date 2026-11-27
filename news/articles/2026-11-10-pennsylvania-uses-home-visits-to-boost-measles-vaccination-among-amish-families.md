@@ -44,7 +44,8 @@ topic_tags:
 - health
 - family
 - public health
-storyline_nexus: []
+storyline_nexus:
+- measles-vaccine-decline
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -208,6 +209,7 @@ related_stories:
   relation: related
   strength: 0.7548
 ---
+
 ## Pennsylvania uses home visits to boost measles vaccination among Amish families
 
 **Subtype:** fact

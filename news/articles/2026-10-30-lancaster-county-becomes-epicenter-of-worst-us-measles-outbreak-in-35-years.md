@@ -30,7 +30,8 @@ primary_themes:
 topic_tags:
 - health
 - religion
-storyline_nexus: []
+storyline_nexus:
+- measles-vaccine-decline
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.8047
 ---
+
 ## Lancaster County becomes epicenter of worst US measles outbreak in 35 years
 
 **Subtype:** fact

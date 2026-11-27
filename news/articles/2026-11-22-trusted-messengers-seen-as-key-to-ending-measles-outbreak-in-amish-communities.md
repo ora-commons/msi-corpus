@@ -38,7 +38,8 @@ primary_themes:
 topic_tags:
 - health
 - public health
-storyline_nexus: []
+storyline_nexus:
+- measles-vaccine-decline
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -181,6 +182,7 @@ related_stories:
   relation: related
   strength: 0.7033
 ---
+
 ## Trusted messengers seen as key to ending measles outbreak in Amish communities
 
 **Subtype:** fact
