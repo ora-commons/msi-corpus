@@ -1,9 +1,19 @@
 ---
 headline: Epstein estate executors' settlement draws concern over CSAM claims
-secondary_headline: Freeman says many survivors outside the U.S. lacked notice of the settlement
+secondary_headline: Freeman says many survivors outside the U.S. lacked notice of
+  the settlement
 publish_date: '2026-11-28'
-lede: A proposed $35m settlement would establish a compensation pool for qualifying survivors in a 2024 Manhattan federal civil complaint against Jeffrey Epstein’s personal lawyer Darren Indyke and accountant Richard D Kahn, according to court papers. A final hearing is scheduled for 2 December, when a judge might approve the agreement. Jennifer Freeman of Marsh Law says the estate release could block separate claims involving child sexual abuse material.
-nut_graf: The proposed agreement could provide compensation to qualifying survivors while limiting their ability to pursue separate claims against Epstein’s estate. Freeman supports the settlement but says child sexual abuse material has its own claim and statutory remedies that were not considered; defense lawyers say the class includes only women Epstein sexually abused or trafficked.
+lede: A proposed $35m settlement would establish a compensation pool for qualifying
+  survivors in a 2024 Manhattan federal civil complaint against Jeffrey Epstein’s
+  personal lawyer Darren Indyke and accountant Richard D Kahn, according to court
+  papers. A final hearing is scheduled for 2 December, when a judge might approve
+  the agreement. Jennifer Freeman of Marsh Law says the estate release could block
+  separate claims involving child sexual abuse material.
+nut_graf: The proposed agreement could provide compensation to qualifying survivors
+  while limiting their ability to pursue separate claims against Epstein’s estate.
+  Freeman supports the settlement but says child sexual abuse material has its own
+  claim and statutory remedies that were not considered; defense lawyers say the class
+  includes only women Epstein sexually abused or trafficked.
 primary_entities:
 - Jeffrey Epstein
 - Darren Indyke
@@ -48,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -146,108 +157,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-11-11-lawmakers-force-house-vote-on-bill-letting-survivors-sue-doj-over-epstein-files
-  headline: Lawmakers force House vote on bill letting survivors sue DOJ over Epstein files
-  publish_date: '2026-11-11'
-  relation: related
-  strength: 0.6409
-- slug: 2026-11-10-epstein-survivor-says-house-report-gives-her-hope-urges-doj-to-keep-investigatin
-  headline: Epstein survivor says House report gives her hope, urges DOJ to keep investigating
-  publish_date: '2026-11-10'
-  relation: related
-  strength: 0.6339
 - slug: 2026-10-21-lawsuit-says-epstein-lawyer-structured-cash-just-below-10-000
   headline: Lawsuit says Epstein lawyer structured cash just below $10,000
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7139
+  strength: 0.7145
 - slug: 2026-10-21-new-mexico-suit-targets-epstein-trust-payouts-and-survivor-compensation-terms
-  headline: New Mexico suit targets Epstein trust payouts and survivor compensation terms
+  headline: New Mexico suit targets Epstein trust payouts and survivor compensation
+    terms
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7025
+  strength: 0.7017
 - slug: 2026-10-21-new-mexico-sues-epstein-estate-co-executors-over-alleged-sexual-abuse-and-human-
-  headline: New Mexico sues Epstein estate co-executors over alleged sexual abuse and human trafficking
+  headline: New Mexico sues Epstein estate co-executors over alleged sexual abuse
+    and human trafficking
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.7014
+  strength: 0.7007
 - slug: 2026-10-24-epstein-files-slip-from-midterm-focus-as-advocates-seek-renewed-scrutiny
   headline: Epstein files slip from midterm focus as advocates seek renewed scrutiny
   publish_date: '2026-10-24'
   relation: related
-  strength: 0.6737
+  strength: 0.6735
 - slug: 2026-10-21-epstein-survivors-back-new-mexico-lawsuit-against-estate-executors
   headline: Epstein survivors back New Mexico lawsuit against estate executors
   publish_date: '2026-10-21'
   relation: related
-  strength: 0.685
-- slug: 2026-10-26-house-judiciary-democrats-ask-blanche-to-probe-epstein-network
-  headline: House Judiciary Democrats ask Blanche to probe Epstein network
-  publish_date: '2026-10-26'
-  relation: related
-  strength: 0.6473
+  strength: 0.6843
 - slug: 2026-09-23-federal-prosecutors-open-probe-into-epstein-s-estate-executors
   headline: Federal prosecutors open probe into Epstein's estate executors
   publish_date: '2026-09-23'
   relation: related
-  strength: 0.7232
+  strength: 0.7238
 - slug: 2026-09-17-two-women-sue-epstein-estate-over-alleged-possession-of-child-abuse-material
   headline: Two women sue Epstein estate over alleged possession of child abuse material
   publish_date: '2026-09-17'
   relation: related
-  strength: 0.7199
+  strength: 0.72
 - slug: 2026-09-21-house-democrats-propose-restitution-fund-for-epstein-survivors
   headline: House Democrats propose restitution fund for Epstein survivors
   publish_date: '2026-09-21'
   relation: related
-  strength: 0.6741
-- slug: 2026-09-16-house-panel-votes-to-hold-leon-black-in-contempt-over-epstein-probe
-  headline: House panel votes to hold Leon Black in contempt over Epstein probe
-  publish_date: '2026-09-16'
-  relation: related
-  strength: 0.6438
-- slug: 2026-08-27-judge-approves-bank-of-america-s-72-5m-settlement-with-epstein-victims
-  headline: Judge approves Bank of America's $72.5M settlement with Epstein victims
-  publish_date: '2026-08-27'
-  relation: related
-  strength: 0.6758
-- slug: 2026-09-02-comer-threatens-leon-black-with-contempt-ahead-of-thursday-deposition
-  headline: Comer threatens Leon Black with contempt ahead of Thursday deposition
-  publish_date: '2026-09-02'
-  relation: related
-  strength: 0.6419
-- slug: 2026-04-04-judge-approves-72-5-million-fund-for-women-abused-by-jeffrey-epstein
-  headline: Judge approves $72.5 million fund for women abused by Jeffrey Epstein
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7241
-- slug: 2026-07-27-epstein-survivors-urge-senators-to-oppose-blanche-s-attorney-general-confirmatio
-  headline: Epstein survivors urge senators to oppose Blanche's attorney general confirmation
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6475
-- slug: 2026-03-18-bank-of-america-reaches-tentative-settlement-in-epstein-victims-lawsuit
-  headline: Bank of America reaches tentative settlement in Epstein victims’ lawsuit
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6912
-- slug: 2026-02-04-deal-reached-to-protect-identities-of-epstein-victims-in-document-release
-  headline: Deal reached to protect identities of Epstein victims in document release
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.6861
-- slug: 2026-01-16-doj-tells-judge-to-reject-congressional-request-for-epstein-files-neutral-overse
-  headline: DOJ tells judge to reject congressional request for Epstein files neutral overseer
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6738
-- slug: 2026-03-20-epstein-ex-attorney-says-he-had-no-knowledge-of-abuse-in-house-testimony
-  headline: Epstein ex-attorney says he had no knowledge of abuse in House testimony
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.669
+  strength: 0.6734
 ---
-
 ## Epstein estate executors' settlement draws concern over CSAM claims
 
 **Subtype:** fact
