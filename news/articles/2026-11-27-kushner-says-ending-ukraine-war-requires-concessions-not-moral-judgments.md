@@ -206,6 +206,8 @@ related_stories:
   publish_date: '2026-11-11'
   relation: related
   strength: 0.7359
+analyses:
+- '2026-11-27-kushner-s-concessions-first-plan-leaves-donbas-behind-an-undefined-guarantee'
 ---
 ## Kushner says ending Ukraine war requires concessions, not moral judgments
 
@@ -252,3 +254,8 @@ Wintour concluded that Kushner's answer to why the war had not ended within the 
 **Publication date:** 2026-11-27
 **Title:** Jared Kushner’s 70-minute interview shows the peril of treating Putin like a corporate rival
 **URL:** https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival
+
+---
+
+<!-- analysis-link:2026-11-27-kushner-s-concessions-first-plan-leaves-donbas-behind-an-undefined-guarantee -->
+**Going deeper:** [Read MSI's analysis of Kushner’s concessions-first Ukraine bargaining plan →](/analyses/2026-11-27-kushner-s-concessions-first-plan-leaves-donbas-behind-an-undefined-guarantee)
