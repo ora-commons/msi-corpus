@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-08-31'
   relation: related
   strength: 0.6856
+analyses:
+- '2026-11-25-census-question-proposals-hinge-on-participation-and-unresolved-legal-questions'
 ---
 ## US Census Bureau weighs 2030 race, citizenship and sexual orientation questions
 
@@ -241,3 +243,8 @@ Although the public comment period ended on 2 November, researchers and civil ri
 **Publication date:** 2026-11-25
 **Title:** The census provides a critical snapshot of the US. Proposed changes could affect who is counted in 2030
 **URL:** https://www.theguardian.com/us-news/2026/nov/25/2030-census-changes
+
+---
+
+<!-- analysis-link:2026-11-25-census-question-proposals-hinge-on-participation-and-unresolved-legal-questions -->
+**Going deeper:** [Read MSI's analysis of the 2030 census question proposals →](/analyses/2026-11-25-census-question-proposals-hinge-on-participation-and-unresolved-legal-questions)

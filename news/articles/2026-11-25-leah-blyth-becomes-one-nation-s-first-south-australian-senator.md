@@ -171,6 +171,8 @@ related_stories:
   publish_date: '2026-10-11'
   relation: related
   strength: 0.6668
+analyses:
+- '2026-11-25-blyth-s-defection-adds-a-south-australian-senator-to-one-nation-while-leaving-mo'
 ---
 ## Leah Blyth becomes One Nation's first South Australian senator
 
@@ -211,3 +213,8 @@ The defection gives One Nation its first federal upper-house member from South A
 **Publication date:** 2026-11-25
 **Title:** Liberal senator Leah Blyth announces defection to One Nation
 **URL:** https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb
+
+---
+
+<!-- analysis-link:2026-11-25-blyth-s-defection-adds-a-south-australian-senator-to-one-nation-while-leaving-mo -->
+**Going deeper:** [Read MSI's analysis of Leah Blyth’s One Nation defection →](/analyses/2026-11-25-blyth-s-defection-adds-a-south-australian-senator-to-one-nation-while-leaving-mo)

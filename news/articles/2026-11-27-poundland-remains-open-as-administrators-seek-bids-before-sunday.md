@@ -198,6 +198,8 @@ related_stories:
   publish_date: '2026-11-15'
   relation: related
   strength: 0.7592
+analyses:
+- '2026-11-27-alixpartners-sunday-bid-deadline-tests-whether-poundland-can-retain-its-600-stor'
 ---
 ## Poundland remains open as administrators seek bids before Sunday
 
@@ -251,3 +253,8 @@ MSI previously reported [Poundland entering administration after Gordon Brothers
 **Publication date:** 2026-11-27
 **Title:** ‘Punched in the guts’: Poundland staff left reeling as it goes into administration
 **URL:** https://www.theguardian.com/business/2026/nov/27/poundland-staff-administration-closures-job-losses-suppliers
+
+---
+
+<!-- analysis-link:2026-11-27-alixpartners-sunday-bid-deadline-tests-whether-poundland-can-retain-its-600-stor -->
+**Going deeper:** [Read MSI's analysis of Poundland’s Sunday bid decision →](/analyses/2026-11-27-alixpartners-sunday-bid-deadline-tests-whether-poundland-can-retain-its-600-stor)

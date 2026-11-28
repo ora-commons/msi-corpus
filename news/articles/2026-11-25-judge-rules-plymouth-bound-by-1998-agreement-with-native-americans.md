@@ -154,6 +154,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-11-25-glenny-s-ruling-narrows-plymouth-uaine-dispute-to-route-stage-and-logistics'
 ---
 ## Judge rules Plymouth bound by 1998 agreement with Native Americans
 
@@ -201,3 +203,8 @@ Deb Iaquinto, Plymouth select board chair, said: "The Town has tried to work col
 **Publication date:** 2026-11-25
 **Title:** ‘This is political oppression’: Native Americans accuse Massachusetts town in Thanksgiving dispute
 **URL:** https://www.theguardian.com/us-news/2026/nov/25/native-americans-national-day-of-mourning-thanksgiving
+
+---
+
+<!-- analysis-link:2026-11-25-glenny-s-ruling-narrows-plymouth-uaine-dispute-to-route-stage-and-logistics -->
+**Going deeper:** [Read MSI's analysis of Glenny’s split ruling in Plymouth-UAINE dispute →](/analyses/2026-11-25-glenny-s-ruling-narrows-plymouth-uaine-dispute-to-route-stage-and-logistics)

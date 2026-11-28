@@ -1,7 +1,8 @@
 ---
 headline: Donald Trump Is Taking Food and Cancer Care From Afghan Allies
 publish_date: '2026-11-27'
-lede: Donald Trump is taking food and cancer care from Afghan allies who served America's war.
+lede: Donald Trump is taking food and cancer care from Afghan allies who served America's
+  war.
 pen_name: hayzeus-l-salvador
 primary_entities:
 - Sahar Amir
@@ -36,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -57,7 +59,29 @@ cross_article_links:
   strength: 0.5794
   confidence: high
 draft: false
+image:
+  url: /cartoons/donald-trump-is-taking-food-and-cancer-care-from-afghan.png
+  alt: 'Editorial cartoon by Hector Rentier: Donald Trump Is Taking Food and Cancer
+    Care From Afghan Allies'
+  caption: Trump's government cut his care, then paused green-card processing that
+    could restore it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-11-27T22:10:43-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Square single panel in the Nast wood-engraving manner, with heavy cross-hatching
+    and bold object labels. Register 1, the labor of not-seeing, governs the scene.
+    Center frame: a fully rendered, recogni'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-27-hector-paired-with-2026-11-27-hayzeus-l-salvador-cluster_states_newsroom_2026-11-27_amily-nc-faces-immigratio
 ---
+
+![Editorial cartoon by Hector Rentier: Donald Trump Is Taking Food and Cancer Care From Afghan Allies](/cartoons/donald-trump-is-taking-food-and-cancer-care-from-afghan.png)
+*Trump's government cut his care, then paused green-card processing that could restore it.*
 
 Donald Trump is taking food and cancer care from Afghan allies who served America's war.
 

@@ -1,7 +1,8 @@
 ---
 headline: Trump Extracts From American Households While Promising Economic Revival
 publish_date: '2026-11-27'
-lede: Donald Trump is extracting taxes from American households while promising economic revival.
+lede: Donald Trump is extracting taxes from American households while promising economic
+  revival.
 pen_name: prudence-wonk
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,9 +33,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-11-27-most-interviewed-republicans-say-they-are-open-to-reviewing-trump-s-tariffs.png
-  alt: 'Illustration accompanying article: Most interviewed Republicans say they are open to reviewing Trump''s tariffs'
+  url: /cartoons/trump-extracts-from-american-households-while-promising.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Extracts From American Households
+    While Promising Economic Revival'
+  caption: The statute names the importer. The price tag answers for everyone else.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-11-27T22:08:42-08:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:google/gemini-3.1-flash-image
+  ai_prompt: 'Single panel, 1:1, heavy Nast-style cross-hatch wood engraving, black
+    masses against carved-out whites. Frame left, a lectern on a low platform: placard
+    MR. TARIFF, and beneath it a small plate readin'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-11-27-most-interviewed-republicans-say-they-are-open-to-reviewing-trump-s-tariffs
   relation: extends
@@ -41,7 +54,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-11-27-hector-paired-with-2026-11-27-prudence-wonk-trump-tariffs-republicans-congress
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Extracts From American Households While Promising Economic Revival](/cartoons/trump-extracts-from-american-households-while-promising.png)
+*The statute names the importer. The price tag answers for everyone else.*
 
 Donald Trump is extracting taxes from American households while promising economic revival. Here are the numbers. Abe Flaaen and S. İnanıcı Tinelnot’s [“The Effects of the 2018 Tariffs on U.S. Consumers and Importers”](https://www.aeaweb.org/articles?id=10.1257/aeri.20160533), published in *American Economic Review: Insights*, found that prices of washing machines rose about 12 percent after the 2018 duties took effect. Prices of dryers, which did not face the same laundry-machine duty, rose as well. American buyers paid roughly $1.5 billion more each year, preserving about 1,800 manufacturing jobs at a cost of roughly $815,000 per job. The jobs were real. The arithmetic is the policy’s bill, not the workers’.
 

@@ -209,6 +209,8 @@ related_stories:
   publish_date: '2026-11-25'
   relation: related
   strength: 0.8376
+analyses:
+- '2026-11-27-iowa-evidence-separates-blast-performance-from-notification-uncertainty'
 ---
 ## Army calls Iowa lead azide detonation a success as notification questions persist
 
@@ -268,3 +270,8 @@ MSI previously reported [that the EPA was awaiting laboratory results after the 
 **Title:** Army deems lead azide detonation a success but criticism lingers over notification
 **URL:** https://www.pbs.org/newshour/nation/army-deems-lead-azide-detonation-a-success-but-criticism-lingers-over-notification
 **Added after publication:** true
+
+---
+
+<!-- analysis-link:2026-11-27-iowa-evidence-separates-blast-performance-from-notification-uncertainty -->
+**Going deeper:** [Read MSI's analysis of the Iowa notification dispute →](/analyses/2026-11-27-iowa-evidence-separates-blast-performance-from-notification-uncertainty)

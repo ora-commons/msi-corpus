@@ -167,6 +167,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-11-27-proposition-38-pairs-8-4-billion-in-borrowing-with-disputed-repayment-forecasts'
 ---
 ## California voters approve Proposition 38's $8.4 billion borrowing
 
@@ -208,3 +210,8 @@ The measure's repayment case rests on future licensing income and the likelihood
 **Publication date:** 2026-11-27
 **Title:** California voters pass billionaire's measure to bankroll his own medical lab
 **URL:** https://www.npr.org/2026/11/27/nx-s1-6052399/california-voters-pass-billionaires-measure-to-bankroll-his-own-medical-lab
+
+---
+
+<!-- analysis-link:2026-11-27-proposition-38-pairs-8-4-billion-in-borrowing-with-disputed-repayment-forecasts -->
+**Going deeper:** [Read MSI's analysis of Proposition 38's repayment arithmetic →](/analyses/2026-11-27-proposition-38-pairs-8-4-billion-in-borrowing-with-disputed-repayment-forecasts)

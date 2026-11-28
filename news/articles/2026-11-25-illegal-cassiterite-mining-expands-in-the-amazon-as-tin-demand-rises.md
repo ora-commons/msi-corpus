@@ -169,6 +169,8 @@ related_stories:
   publish_date: '2026-05-06'
   relation: related
   strength: 0.7032
+analyses:
+- '2026-11-25-brazilian-enforcement-may-shift-amazon-cassiterite-mining-beyond-yanomami-territ'
 ---
 ## Illegal cassiterite mining expands in the Amazon as tin demand rises
 
@@ -217,3 +219,8 @@ A 2026 study mapped rare-earth elements, uranium and thorium from illegal cassit
 **Publication date:** 2026-11-25
 **Title:** How datacentres are driving an illegal mining rush in the Amazon ‘more devastating than gold’
 **URL:** https://www.theguardian.com/global-development/2026/nov/25/tin-cassiterite-brazil-amazon-illegal-mining-datacentres-evs
+
+---
+
+<!-- analysis-link:2026-11-25-brazilian-enforcement-may-shift-amazon-cassiterite-mining-beyond-yanomami-territ -->
+**Going deeper:** [Read MSI's analysis of Amazon cassiterite enforcement and displacement →](/analyses/2026-11-25-brazilian-enforcement-may-shift-amazon-cassiterite-mining-beyond-yanomami-territ)
