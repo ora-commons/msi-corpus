@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-10-22'
   relation: related
   strength: 0.664
+analyses:
+- '2026-11-27-medicaid-cuts-compound-concentration-risk-in-kentucky-s-rural-care-network'
 ---
 ## Medicaid cuts put 250,000 Kentucky residents and 35 rural hospitals at risk
 
@@ -249,3 +251,8 @@ Some immigrants who hold green cards may also find it nearly impossible to meet 
 **Publication date:** 2026-11-27
 **Title:** Trump Medicaid cuts will hit the most vulnerable Americans, officials say
 **URL:** https://www.theguardian.com/global/2026/nov/27/trump-medicaid-cuts-vulnerable-americans
+
+---
+
+<!-- analysis-link:2026-11-27-medicaid-cuts-compound-concentration-risk-in-kentucky-s-rural-care-network -->
+**Going deeper:** [Read MSI's analysis of Kentucky’s rural Medicaid concentration risk →](/analyses/2026-11-27-medicaid-cuts-compound-concentration-risk-in-kentucky-s-rural-care-network)

@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-06-25'
   relation: related
   strength: 0.7681
+analyses:
+- '2026-11-26-alikhan-s-injunction-halts-fcc-review-of-eight-abc-licenses-as-separate-probes-c'
 ---
 ## Federal judge blocks FCC's early review of eight ABC station licenses
 
@@ -245,3 +247,8 @@ As MSI reported in [ABC's August lawsuit](/articles/2026-08-18-disney-s-abc-sues
 **Publication date:** 2026-11-26
 **Title:** Judge Says FCC Must Stop ABC License Review
 **URL:** https://www.wsj.com/business/media/judge-says-fcc-must-stop-abc-license-review-3748d619
+
+---
+
+<!-- analysis-link:2026-11-26-alikhan-s-injunction-halts-fcc-review-of-eight-abc-licenses-as-separate-probes-c -->
+**Going deeper:** [Read MSI's analysis of the FCC-ABC injunction and surviving probes →](/analyses/2026-11-26-alikhan-s-injunction-halts-fcc-review-of-eight-abc-licenses-as-separate-probes-c)

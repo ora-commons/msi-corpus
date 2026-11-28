@@ -202,6 +202,8 @@ related_stories:
   publish_date: '2026-10-06'
   relation: related
   strength: 0.7283
+analyses:
+- '2026-11-25-brego-garc-a-s-departure-closes-one-episode-as-choice-and-constraint-frames-comp'
 ---
 ## Judge sets Ábrego García’s departure deadline, orders GPS ankle monitor removed
 
@@ -245,3 +247,8 @@ García's Nov. 25, 2026, landing at Madrid's international airport confirmed the
 **Publication date:** 2026-11-25
 **Title:** A timeline of key events for Kilmar Ábrego García
 **URL:** https://apnews.com/article/kilmar-abrego-garcia-timeline-spain-a41952b4a34b87b7181e3cb810740db1
+
+---
+
+<!-- analysis-link:2026-11-25-brego-garc-a-s-departure-closes-one-episode-as-choice-and-constraint-frames-comp -->
+**Going deeper:** [Read MSI's analysis of García’s departure and competing frames →](/analyses/2026-11-25-brego-garc-a-s-departure-closes-one-episode-as-choice-and-constraint-frames-comp)

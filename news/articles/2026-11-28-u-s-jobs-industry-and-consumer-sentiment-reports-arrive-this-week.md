@@ -207,6 +207,8 @@ related_stories:
   publish_date: '2026-11-06'
   relation: related
   strength: 0.7461
+analyses:
+- '2026-11-28-friday-payrolls-test-u-s-low-hire-low-fire-pattern-as-sentiment-stays-cautious'
 ---
 ## U.S. jobs, industry and consumer sentiment reports arrive this week
 
@@ -255,3 +257,8 @@ Main Street Independent previously reported on this same sequence of week-ahead 
 **Publication date:** 2026-11-28
 **Title:** The US economy faces a week of key jobs, industry and consumer mood reports
 **URL:** https://apnews.com/article/jobs-consumer-sentiment-services-manufacturing-inflation-5afaa3815f4e852e12f750fb4f983471
+
+---
+
+<!-- analysis-link:2026-11-28-friday-payrolls-test-u-s-low-hire-low-fire-pattern-as-sentiment-stays-cautious -->
+**Going deeper:** [Read MSI's analysis of the low-hire, low-fire pattern →](/analyses/2026-11-28-friday-payrolls-test-u-s-low-hire-low-fire-pattern-as-sentiment-stays-cautious)
